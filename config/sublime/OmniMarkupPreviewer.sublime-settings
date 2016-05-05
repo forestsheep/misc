@@ -1,6 +1,6 @@
 /* OmniMarkupPreviewer default setting, DO NOT MODIFY */
 {
-    "server_host": "10.60.0.146",
+    "server_host": "10.193.12.47",
     "server_port": 51004,
     "refresh_on_modified": true,
     // delay after modified, in milliseconds
@@ -19,7 +19,8 @@
     //   ${packages}/User/OmniMarkupPreviewer/templates/
     // Requires browser reload
     // Built-in templates: github, github-v1
-    "html_template_name": "blueskywhitecloud",
+    // blueskywhitecloud darkclassic deepblue
+    "html_template_name": "deepblue",
 
     // Polling interval for content changes in web browsers, in milliseconds
     // Requires browser reload
