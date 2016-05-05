@@ -7,7 +7,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{filename}}—{{dirname}}</title>
-    <link rel="stylesheet" type="text/css" href="/public/deepblue.css">
+    <link rel="stylesheet" type="text/css" href="/public/verticalcloth.css">
   </head>
   <body>
     <div class="container">
