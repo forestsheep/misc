@@ -184,12 +184,13 @@ input,select,textarea,button {
 }
 
 body {
-  color: #dadada;
-  background-image: url("verticalcloth/vertical_cloth.png");
+  background-color:#0B1621;
+  color: #eee;
+  background-image: url("greywashwall/grey_wash_wall.png");
 }
 
 a {
-  color: #4978AD;
+  color: #71AD1D;
   text-decoration: none;
 }
 
@@ -415,9 +416,9 @@ pre {
   padding-bottom: 0.3em;
   font-size: 5em;
   line-height: 1.2;
-  border-bottom: 4px solid #34C753;
+  border-bottom: 4px solid #AD2F6A;
   text-align: center;
-  color: #AD3E77;
+  color: #009ABA;
 }
 
 .markdown-body h1 .anchor {
@@ -429,8 +430,8 @@ pre {
   font-size: 3.8em;
   line-height: 1.225;
   padding-left: 0.2em;
-  border-bottom: 2px dashed #34C753;
-  color: #AD3E77;
+  border-bottom: 2px dashed #AD2F6A;
+  color: #009ABA;
 }
 
 .markdown-body h2 .anchor {
@@ -440,10 +441,10 @@ pre {
 .markdown-body h3 {
   font-size: 3.2em;
   padding-left: 0.2em;
-  border-left: 10px solid #34C753;
-  border-bottom: 2px solid #34C753;
+  border-left: 10px solid #AD2F6A;
+  border-bottom: 2px solid #AD2F6A;
   margin-left: 4px;
-  color: #AD3E77;
+  color: #009ABA;
 }
 
 .markdown-body h3 .anchor {
@@ -453,9 +454,9 @@ pre {
 .markdown-body h4 {
   font-size: 2.4em;
   padding-left: 0.2em;
-  border-left: 10px solid #34C753;
+  border-left: 10px solid #AD2F6A;
   margin-left: 4px;
-  color: #AD3E77;
+  color: #009ABA;
 }
 
 .markdown-body h4 .anchor {
@@ -466,7 +467,7 @@ pre {
   font-size: 2.2em;
   padding-left: 0.2em;
   margin-left: 4px;
-  color: #AD3E77;
+  color: #009ABA;
 }
 
 .markdown-body h5 .anchor {
@@ -478,7 +479,7 @@ pre {
   font-size: 2em;
   padding-left: 0.2em;
   margin-left: 4px;
-  color: #AD3E77;
+  color: #009ABA;
 }
 
 .markdown-body h6 .anchor {
@@ -489,8 +490,7 @@ pre {
   margin-top: 0;
   margin-bottom: 16px;
   font-size: 1.8em;
-  font-family: 方正细黑一简体;
-  color: #AD8A7F;
+  font-family: 方正魏碑简体;
 }
 
 .markdown-body blockquote,.markdown-body ul,.markdown-body ol,.markdown-body dl,.markdown-body table,.markdown-body pre {
@@ -501,7 +501,7 @@ pre {
 .markdown-body hr {
   border: 0;
   height: 4px;
-  background-color: #34C753;
+  background-color: #AD2F6A;
 }
 
 .markdown-body ul,.markdown-body ol {
@@ -509,8 +509,8 @@ pre {
 }
 
 .markdown-body li {
-  font-size: 22px;
-  color: #AD8F69;
+  font-size: 27px;
+  color: #50AD6D;
 }
 
 .markdown-body ul.no-list,.markdown-body ol.no-list {
@@ -546,10 +546,10 @@ pre {
 
 .markdown-body blockquote {
   padding: 0 15px;
-  color: #ADA341;
-  border-left: 8px solid #AD4D26;
-  background-color: #121833;
-  font-size: 27px;
+  color: #AD9C75;
+  border-left: 8px solid #AD2F6A;
+  background-color: #52606E;
+  font-size: 20px;
 }
 
 .markdown-body blockquote>:first-child {
@@ -843,20 +843,5 @@ pre {
 {
   font-size: 2em;
   text-align: right;
-  color: #AD3E77;
-}
-
-
-.warning
-{
-  text-align: center;
-  padding: 50px,50px;
-  font-size: 27px;
-  background-color: #013036;
-  color: #ED8234;
-  margin-left: 100px;
-  margin-right: 100px;
-  padding: 20px 5px 20px 5px;
-  border: 2px solid #777;
-  border-radius: 25px;
+  color: #009ABA;
 }
