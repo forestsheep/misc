@@ -415,9 +415,9 @@ pre {
   padding-bottom: 0.3em;
   font-size: 5em;
   line-height: 1.2;
-  border-bottom: 4px solid #34C753;
+  border-bottom: 4px solid #AD3E77;
   text-align: center;
-  color: #AD3E77;
+  color: #AD8A7F;
 }
 
 .markdown-body h1 .anchor {
@@ -429,8 +429,8 @@ pre {
   font-size: 3.8em;
   line-height: 1.225;
   padding-left: 0.2em;
-  border-bottom: 2px dashed #34C753;
-  color: #AD3E77;
+  border-bottom: 2px dashed #AD3E77;
+  color: #AD8A7F;
 }
 
 .markdown-body h2 .anchor {
@@ -440,10 +440,10 @@ pre {
 .markdown-body h3 {
   font-size: 3.2em;
   padding-left: 0.2em;
-  border-left: 10px solid #34C753;
-  border-bottom: 2px solid #34C753;
+  border-left: 10px solid #AD3E77;
+  border-bottom: 2px solid #AD3E77;
   margin-left: 4px;
-  color: #AD3E77;
+  color: #AD8A7F;
 }
 
 .markdown-body h3 .anchor {
@@ -453,9 +453,9 @@ pre {
 .markdown-body h4 {
   font-size: 2.4em;
   padding-left: 0.2em;
-  border-left: 10px solid #34C753;
+  border-left: 10px solid #AD3E77;
   margin-left: 4px;
-  color: #AD3E77;
+  color: #AD8A7F;
 }
 
 .markdown-body h4 .anchor {
@@ -466,7 +466,7 @@ pre {
   font-size: 2.2em;
   padding-left: 0.2em;
   margin-left: 4px;
-  color: #AD3E77;
+  color: #AD8A7F;
 }
 
 .markdown-body h5 .anchor {
@@ -478,7 +478,7 @@ pre {
   font-size: 2em;
   padding-left: 0.2em;
   margin-left: 4px;
-  color: #AD3E77;
+  color: #AD8A7F;
 }
 
 .markdown-body h6 .anchor {
@@ -501,7 +501,7 @@ pre {
 .markdown-body hr {
   border: 0;
   height: 4px;
-  background-color: #34C753;
+  background-color: #D97859;
 }
 
 .markdown-body ul,.markdown-body ol {
@@ -534,22 +534,27 @@ pre {
 .markdown-body dl dt {
   padding: 0;
   margin-top: 16px;
-  font-size: 1em;
+  font-size: 1.9em;
   font-weight: bold;
+  color: #C6B273;
 }
 
 .markdown-body dl dd {
   padding: 0 24px;
   margin-bottom: 16px;
-  font-style: italic;
+  font-size: 1.5em;
+  color: #638F31;
 }
 
 .markdown-body blockquote {
   padding: 0 15px;
-  color: #ADA341;
-  border-left: 8px solid #AD4D26;
-  background-color: #121833;
-  font-size: 27px;
+  border-left: 8px solid #638F31;
+  background-color: #333;
+  font-size: 14px;
+}
+
+.markdown-body blockquote p{
+  
 }
 
 .markdown-body blockquote>:first-child {
@@ -567,25 +572,31 @@ pre {
   word-break: normal;
   word-break: keep-all;
   font-size: 1.8em;
+  color: #A8A47F;
 }
 
 .markdown-body table th {
   font-weight: bold;
-  background-color: #0A283E;
+  background-color: #1E273D;
 }
 
 .markdown-body table th,.markdown-body table td {
   padding: 6px 13px;
-  border: 1px solid #bbb;
 }
 
 .markdown-body table tr {
-  background-color: #2B526E;
-  border-top: 1px solid #bbb;
+  background-color: #274052;
+}
+
+.markdown-body table.codehilitetable tr {
+  background: transparent;
 }
 
 .markdown-body table tr:nth-child(2n) {
-  background-color: #555;
+  background-color: #283945;
+}
+
+.markdown-body table pre, table  {
 }
 
 .markdown-body img {
@@ -724,7 +735,6 @@ pre {
   font-size: 85%;
   line-height: 1.45;
   background-color: #333;
-  border-radius: 3px;
 }
 
 .markdown-body .highlight pre {
@@ -843,7 +853,7 @@ pre {
 {
   font-size: 2em;
   text-align: right;
-  color: #AD3E77;
+  color: #AD8A7F;
 }
 
 
@@ -852,11 +862,39 @@ pre {
   text-align: center;
   padding: 50px,50px;
   font-size: 27px;
-  background-color: #013036;
-  color: #ED8234;
+  background-color: #572E48;
+  color: #FA9DDA;
   margin-left: 100px;
   margin-right: 100px;
   padding: 20px 5px 20px 5px;
   border: 2px solid #777;
-  border-radius: 25px;
+  border-radius: 20px;
+}
+
+.info
+{
+  text-align: center;
+  padding: 50px,50px;
+  font-size: 27px;
+  background-color: #57421F;
+  color: #FFC35C;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 20px 5px 20px 5px;
+  border: 2px solid #777;
+  border-radius: 20px;
+}
+
+.note
+{
+  text-align: center;
+  padding: 50px,50px;
+  font-size: 27px;
+  background-color: #0B2642;
+  color: #2992FF;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 20px 5px 20px 5px;
+  border: 2px solid #777;
+  border-radius: 20px;
 }
