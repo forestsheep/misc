@@ -328,7 +328,7 @@ pre {
 }
 
 .container {
-    max-width: 920px;
+    max-width: 1500px;
     margin: 0 auto 20px auto;
 }
 
@@ -418,6 +418,7 @@ pre {
   border-bottom: 4px solid #AD3E77;
   text-align: center;
   color: #AD8A7F;
+  font-family: 方正细黑一简体;
 }
 
 .markdown-body h1 .anchor {
@@ -431,6 +432,7 @@ pre {
   padding-left: 0.2em;
   border-bottom: 2px dashed #AD3E77;
   color: #AD8A7F;
+  font-family: 方正细黑一简体;
 }
 
 .markdown-body h2 .anchor {
@@ -444,6 +446,7 @@ pre {
   border-bottom: 2px solid #AD3E77;
   margin-left: 4px;
   color: #AD8A7F;
+  font-family: 方正细黑一简体;
 }
 
 .markdown-body h3 .anchor {
@@ -456,6 +459,7 @@ pre {
   border-left: 10px solid #AD3E77;
   margin-left: 4px;
   color: #AD8A7F;
+  font-family: 方正细黑一简体;
 }
 
 .markdown-body h4 .anchor {
@@ -467,6 +471,7 @@ pre {
   padding-left: 0.2em;
   margin-left: 4px;
   color: #AD8A7F;
+  font-family: 方正细黑一简体;
 }
 
 .markdown-body h5 .anchor {
@@ -479,6 +484,7 @@ pre {
   padding-left: 0.2em;
   margin-left: 4px;
   color: #AD8A7F;
+  font-family: 方正细黑一简体;
 }
 
 .markdown-body h6 .anchor {
@@ -501,11 +507,11 @@ pre {
 .markdown-body hr {
   border: 0;
   height: 4px;
-  background-color: #D97859;
+  background-color: #AD3E77;
 }
 
 .markdown-body ul,.markdown-body ol {
-  padding-left: 2em;
+  padding-left: 5em;
 }
 
 .markdown-body li {
@@ -529,6 +535,7 @@ pre {
 
 .markdown-body dl {
   padding: 0;
+  font-family: 方正细黑一简体;
 }
 
 .markdown-body dl dt {
@@ -582,6 +589,7 @@ pre {
 
 .markdown-body table th,.markdown-body table td {
   padding: 6px 13px;
+  border: 1px solid #ddd
 }
 
 .markdown-body table tr {
@@ -697,9 +705,9 @@ pre {
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   margin: 0;
-  font-size: 85%;
-  background-color: rgba(0,0,0,0.04);
-  border-radius: 3px;
+  font-size: 95%;
+  background-color: rgba(0,0,0,0.2);
+  border-radius: 5px;
 }
 
 .markdown-body code:before,.markdown-body code:after,.markdown-body tt:before,.markdown-body tt:after {
@@ -777,7 +785,7 @@ pre {
 }
 
 /* Syntax highlight */
-.codehilite  { background: #fff; font-size: 24px;}
+.codehilite  { background: #fff; font-size: 20px; }
 .codehilite .c { color: #53B200; font-style: italic } /* Comment */
 .codehilite .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .codehilite .k { color: #1489CC; font-weight: bold } /* Keyword */
@@ -818,9 +826,9 @@ pre {
 .codehilite .nf { color: #AD4DD9; font-weight: bold } /* Name.Function */
 .codehilite .nl { color: #FFE497 } /* Name.Label */
 .codehilite .nn { color: #D9C6B5 } /* Name.Namespace */
-.codehilite .nt { color: #000080 } /* Name.Tag */
+.codehilite .nt { color: #FFBA84 } /* Name.Tag */
 .codehilite .nv { color: #ffff00 } /* Name.Variable */
-.codehilite .ow { color: #000000; font-weight: bold } /* Operator.Word */
+.codehilite .ow { color: #FFF4E7; font-weight: bold } /* Operator.Word */
 .codehilite .w { color: #bbbbbb } /* Text.Whitespace */
 .codehilite .mf { color: #CC006E } /* Literal.Number.Float */
 .codehilite .mh { color: #CC006E } /* Literal.Number.Hex */
@@ -829,7 +837,7 @@ pre {
 .codehilite .sb { color: #d14 } /* Literal.String.Backtick */
 .codehilite .sc { color: #d14 } /* Literal.String.Char */
 .codehilite .sd { color: #d14 } /* Literal.String.Doc */
-.codehilite .s2 { color: #d14 } /* Literal.String.Double */
+.codehilite .s2 { color: #ff661a } /* Literal.String.Double */
 .codehilite .se { color: #d14 } /* Literal.String.Escape */
 .codehilite .sh { color: #d14 } /* Literal.String.Heredoc */
 .codehilite .si { color: #d14 } /* Literal.String.Interpol */
@@ -844,10 +852,12 @@ pre {
 .codehilite .il { color: #009999 } /* Literal.Number.Integer.Long */
 .codehilite .hll { background-color: #0A002E } 
 
+.markdown-body .codehilitetable td { border: 0 } /* code table*/
+
 .linenodiv
 {
   color: #2D7BD9;
-  font-size: 24px;
+  font-size: 20px;
 }
 .sub-title
 {
@@ -856,45 +866,59 @@ pre {
   color: #AD8A7F;
 }
 
-
 .warning
 {
-  text-align: center;
+  text-align: left;
   padding: 50px,50px;
   font-size: 27px;
   background-color: #572E48;
   color: #FA9DDA;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
   padding: 20px 5px 20px 5px;
   border: 2px solid #777;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .info
 {
-  text-align: center;
+  text-align: left;
   padding: 50px,50px;
   font-size: 27px;
   background-color: #57421F;
   color: #FFC35C;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
   padding: 20px 5px 20px 5px;
   border: 2px solid #777;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .note
 {
-  text-align: center;
+  text-align: left;
   padding: 50px,50px;
   font-size: 27px;
   background-color: #0B2642;
-  color: #2992FF;
-  margin-left: 100px;
-  margin-right: 100px;
+  color: #66b3ff;
+  margin-left: 10px;
+  margin-right: 10px;
   padding: 20px 5px 20px 5px;
   border: 2px solid #777;
-  border-radius: 20px;
+  border-radius: 10px;
+}
+
+.footnote-ref
+{
+  color: #12EE44;
+}
+
+.footnote-backref
+{
+  color: #12EE44;
+}
+
+.footnote p
+{
+  font-size: 22px;
 }
