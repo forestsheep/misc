@@ -1,0 +1,1099 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1920
+PlayResY: 808
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: 中文,Microsoft YaHei,60,&H00FFFFFF,&H000000FF,&H00523936,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: 宣传,Microsoft YaHei,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,100,1
+Style: 名单,Microsoft YaHei,40,&H00E5DFD5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,30,1
+Style: Chinese,Microsoft YaHei,50,&H00FFFFFF,&H000000FF,&H00523936,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: 美恐名单,FZXiYuan-M01S,60,&H0043FEF8,&H000000FF,&H000000CE,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,4,4,4,1
+Style: 美恐Default,Microsoft YaHei,50,&H00FFFFFF,&H000000FF,&H00523936,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: 1080P电影中字,Microsoft YaHei,70,&H00FFFFFF,&H000000FF,&H00523936,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: 初来乍到硬字幕,FZDaHei-B02S,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,0,3,2,10,10,10,1
+Style: 权力硬字幕,Microsoft YaHei,40,&H0080CDE0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,1,5,10,10,10,1
+Style: 左对齐,SimSun,13,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,4,7,7,7,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:03.00,Default,,0,0,0,,{\fad(1000,0)\shad0\bord0\p1\fscx15\fscy15\clip(13,14,192,89)\move(102.4,201.2,102.4,137.2)}m 0 0 l 0 0 l 282 -337 l 469 -181 l 616 -357 l 1018 -21 l 982 23 l 623 -276 l 513 -145 l 668 -16 l 632 28 l 290 -257 l 43 37 l 43 37 l 0 0 m 306 -165 l 306 -165 l 332 -110 l 392 -101 l 349 -58 l 358 1 l 304 -27 l 250 1 l 260 -60 l 218 -102 l 278 -111 l 306 -165
+Dialogue: 0,0:00:03.00,0:00:07.30,Default,,0,0,0,,{\fad(0,1000)\shad0\bord0\p1\fscx15\fscy15\pos(102.4,137.2)}m 0 0 l 0 0 l 282 -337 l 469 -181 l 616 -357 l 1018 -21 l 982 23 l 623 -276 l 513 -145 l 668 -16 l 632 28 l 290 -257 l 43 37 l 43 37 l 0 0 m 306 -165 l 306 -165 l 332 -110 l 392 -101 l 349 -58 l 358 1 l 304 -27 l 250 1 l 260 -60 l 218 -102 l 278 -111 l 306 -165
+Dialogue: 0,0:00:02.80,0:00:04.30,Default,,0,0,0,,{\fsp5\shad0\bord0\fnPing Hei\b1\fs25\clip(28,87,177,117)\move(103.333,90.946,103.333,109.232)}SSK字幕組
+Dialogue: 0,0:00:04.30,0:00:07.30,Default,,0,0,0,,{\fad(0,1000)\fsp5\shad0\bord0\fnPing Hei\b1\fs25\pos(103.333,109.232)}SSK字幕組
+Dialogue: 0,1:46:40.90,1:46:42.90,Default,,0,0,0,,{\fad(1000,0)\shad0\bord0\p1\fscx15\fscy15\clip(13,14,192,89)\move(102.4,201.2,102.4,137.2)}m 0 0 l 0 0 l 282 -337 l 469 -181 l 616 -357 l 1018 -21 l 982 23 l 623 -276 l 513 -145 l 668 -16 l 632 28 l 290 -257 l 43 37 l 43 37 l 0 0 m 306 -165 l 306 -165 l 332 -110 l 392 -101 l 349 -58 l 358 1 l 304 -27 l 250 1 l 260 -60 l 218 -102 l 278 -111 l 306 -165
+Dialogue: 0,1:46:42.90,1:46:47.20,Default,,0,0,0,,{\fad(0,1000)\shad0\bord0\p1\fscx15\fscy15\pos(102.4,137.2)}m 0 0 l 0 0 l 282 -337 l 469 -181 l 616 -357 l 1018 -21 l 982 23 l 623 -276 l 513 -145 l 668 -16 l 632 28 l 290 -257 l 43 37 l 43 37 l 0 0 m 306 -165 l 306 -165 l 332 -110 l 392 -101 l 349 -58 l 358 1 l 304 -27 l 250 1 l 260 -60 l 218 -102 l 278 -111 l 306 -165
+Dialogue: 0,1:46:42.70,1:46:44.20,Default,,0,0,0,,{\fsp5\shad0\bord0\fnPing Hei\b1\fs25\clip(28,87,177,117)\move(103.333,90.946,103.333,109.232)}SSK字幕組
+Dialogue: 0,1:46:44.20,1:46:47.20,Default,,0,0,0,,{\fad(0,1000)\fsp5\shad0\bord0\fnPing Hei\b1\fs25\pos(103.333,109.232)}SSK字幕組
+Dialogue: 0,0:00:00.00,0:00:03.97,Default,,0,0,0,,{\fad(500,500)\shad0\bord0\p1\fscx400\fscy543\c&H120B0A&\pos(769.326,644)}m 0 0 l 0 0 l 89 0 l 89 23 l 0 23
+Dialogue: 0,0:00:00.00,0:00:03.97,Default,,0,0,0,,{\fad(500,500)\K\shad0\bord0\p1\fscx200\fscy20\c&HFBF4F8&\2c&H120B0A&\pos(684.932,634)}m 0 0 l 0 0 l 89 0 l 89 23 l 0 23
+Dialogue: 0,0:00:00.00,0:00:03.97,Default,,0,0,0,,{\fad(500,500)\shad0\bord0\p1\fscx450\fscy543\c&HFBF4F8&\pos(1155.855,644)}m 0 0 l 0 0 l 89 0 l 89 23 l 0 23
+Dialogue: 0,0:00:00.00,0:00:03.97,Default,,0,0,0,,{\fn方正兰亭纤黑_GBK\fad(500,500)\shad0\bord0\fs50\c&HB3B5B9&\pos(769.375,584.533)}月光男孩
+Dialogue: 0,0:00:00.00,0:00:03.97,Default,,0,0,0,,{\fn方正兰亭纤黑_GBK\fad(500,500)\shad0\bord0\fs30\c&HB3B5B9&\pos(769.796,620.133)}字幕由{\fs35\c&HFBF4F8&}SSK字幕組{\fs30\c&HB3B5B9&}傾情譯制
+Dialogue: 0,0:00:00.00,0:00:00.67,Default,,0,0,0,,{\fn方正兰亭纤黑_GBK\fad(500,0)\shad0\bord0\fs30\c&H120B0A&\pos(1156.343,612.666)}字幕僅供學習，勿用於商\N{\3c&H000000&\fs30}轉載請註明出處，版權歸片方所有
+Dialogue: 0,0:00:00.67,0:00:03.97,Default,,0,0,0,,{\fn方正兰亭纤黑_GBK\fad(0,500)\shad0\bord0\fs30\c&H120B0A&\pos(1156.929,614.666)}新浪微博@SSK字幕組\N官網：www.sskzmz.com
+Dialogue: 0,1:46:29.06,1:46:34.12,Default,,0,0,0,,{\fs120\bord3.5\fscx94\fsp5\c&H000000&\3c&H838281&\pos(960,608.667)}月光男孩
+Dialogue: 0,1:46:34.89,1:46:37.88,Default,,0,0,0,,{\fs43\pos(960,480)\c&H9E9B9E&\\fn方正小标宋简体\b0}翻譯 Dark Paradise
+Dialogue: 0,1:46:38.89,1:46:41.87,Default,,0,0,0,,{\fs40\pos(960,480)\c&H9E9B9E&\\fn方正小标宋简体\b1}翻譯 林白一
+Dialogue: 0,1:46:42.90,1:46:45.89,Default,,0,0,0,,{\fs40\pos(960,480)\c&H9E9B9E&\\fn方正小标宋简体\b1}翻譯 JUNO
+Dialogue: 0,1:46:46.90,1:46:49.89,Default,,0,0,0,,{\fs40\pos(960,480)\c&H9E9B9E&\\fn方正小标宋简体\b1}翻譯 yuli
+Dialogue: 0,1:46:50.91,1:46:53.88,Default,,0,0,0,,{\fs40\pos(910,520)\c&H9E9B9E&\\fn方正小标宋简体\b1}校對 Luke
+Dialogue: 0,1:46:54.91,1:46:57.90,Default,,0,0,0,,{\fs40\c&H9E9B9E&\\fn方正小标宋简体\b1\pos(1082,517.333)}特效 BUNNY
+Dialogue: 0,1:46:58.91,1:47:01.90,Default,,0,0,0,,{\fs40\c&H9E9B9E&\\fn方正小标宋简体\b1\pos(960,480)}壓制 fsffsfs
+Dialogue: 0,1:47:02.92,1:47:05.90,Default,,0,0,0,,{\fs40\c&H9E9B9E&\\fn方正小标宋简体\b1\pos(960,480)}總監 Luke
+Dialogue: 0,0:05:43.38,0:05:47.35,Default,,0,0,0,,{\fs40\c&H9E9B9E&\fscx95\fn方正小标宋简体\b1\pos(960,480)}第一部分 小不點
+Dialogue: 0,0:39:00.42,0:39:04.39,Default,,0,0,0,,{\fs40\c&H9E9B9E&\fscx95\fn方正小标宋简体\b1\pos(960,480)}第二部分 奇倫
+Dialogue: 0,1:08:32.58,1:08:36.58,Default,,0,0,0,,{\fs40\c&H9E9B9E&\fscx95\fn方正小标宋简体\b1\pos(960,480)}第三部分 小黑
+Dialogue: 0,0:00:58.22,0:01:00.55,1080P电影中字,,0,0,0,,嘿 夥計\N{\3c&H000000&\fs40}Hey, my man, t., what's going on dawg?
+Dialogue: 0,0:01:00.56,0:01:03.72,1080P电影中字,,0,0,0,,-你好 -你好\N{\3c&H000000&\fs40}- What's up, what's up. - How you doing?
+Dialogue: 0,0:01:03.73,0:01:05.49,1080P电影中字,,0,0,0,,-你需要什麼 -你能幫幫我嗎 夥計\N{\3c&H000000&\fs40}- What you need? - Can you help me out, man?
+Dialogue: 0,0:01:05.49,0:01:07.93,1080P电影中字,,0,0,0,,不 兄弟 我幫不了你\N{\3c&H000000&\fs40}- No, I can't do it, bro. You gotta keep moving. I can't do it.
+Dialogue: 0,0:01:07.93,0:01:10.50,1080P电影中字,,0,0,0,,-求你了 夥計 -我幫不了你\N{\3c&H000000&\fs40}- Come on, man. - Keep it movin'.
+Dialogue: 0,0:01:10.50,0:01:11.43,1080P电影中字,,0,0,0,,-孩子 -讓一下 夥計\N{\3c&H000000&\fs40}- Boy. - Step aside, man.
+Dialogue: 0,0:01:11.43,0:01:12.80,1080P电影中字,,0,0,0,,-你好啊 -你怎麼樣\N{\3c&H000000&\fs40}How you doing? - What's good with you?
+Dialogue: 0,0:01:12.80,0:01:15.37,1080P电影中字,,0,0,0,,我很好 夥計 還是像往常一樣在這兒忙活著\N{\3c&H000000&\fs40}I'm all right, man. I'm out here handling business as usual.
+Dialogue: 0,0:01:15.37,0:01:17.40,1080P电影中字,,0,0,0,,聽著 夥計 我沒有不尊重你的意思\N{\3c&H000000&\fs40}Look, man, I don't mean no disrespect or nothing to you,
+Dialogue: 0,0:01:17.41,0:01:18.91,1080P电影中字,,0,0,0,,我只是問問能不能給我點\N{\3c&H000000&\fs40}I'm just trying to see if I can get a little--
+Dialogue: 0,0:01:18.91,0:01:21.14,1080P电影中字,,0,0,0,,給不了你 夥計 你知道現在幾點嗎\N{\3c&H000000&\fs40}you can't get nothing, man. You know what time it is, bruh?
+Dialogue: 0,0:01:21.14,0:01:22.61,1080P电影中字,,0,0,0,,我一直幫你盯著警察\N{\3c&H000000&\fs40}I keep looking out for you, man.
+Dialogue: 0,0:01:22.61,0:01:23.88,1080P电影中字,,0,0,0,,就一丁點 行嗎\N{\3c&H000000&\fs40}Just a little something, man?
+Dialogue: 0,0:01:23.88,0:01:25.68,1080P电影中字,,0,0,0,,一丁點你也得花錢買啊\N{\3c&H000000&\fs40}All my something cost a little something, man.
+Dialogue: 0,0:01:25.68,0:01:27.05,1080P电影中字,,0,0,0,,沒錢就趕緊走人吧大兄弟\N{\3c&H000000&\fs40}If he ain't got it get to stepping, nigga.
+Dialogue: 0,0:01:27.05,0:01:29.62,1080P电影中字,,0,0,0,,你知道現在幾點了嗎 我不想老是自說自話\N{\3c&H000000&\fs40}You know what time it is? I don't feel like repeating myself.
+Dialogue: 0,0:01:29.62,0:01:32.62,1080P电影中字,,0,0,0,,嘿 你知道我的夥計對嗎 胡安\N{\3c&H000000&\fs40}Hey, you know you my man, right Juan?
+Dialogue: 0,0:01:32.62,0:01:33.99,1080P电影中字,,0,0,0,,這個兄弟\N{\3c&H000000&\fs40}This nigga...
+Dialogue: 0,0:01:35.62,0:01:36.62,1080P电影中字,,0,0,0,,你傻了麼 夥計\N{\3c&H000000&\fs40}Yo. Trippin', man.
+Dialogue: 0,0:01:36.62,0:01:38.56,1080P电影中字,,0,0,0,,看你能不能為我做點事\N{\3c&H000000&\fs40}See-see-see-see if you can do something here for me...
+Dialogue: 0,0:01:38.56,0:01:40.66,1080P电影中字,,0,0,0,,媽的我剛剛怎麼跟你說的 東西給我\N{\3c&H000000&\fs40}What the fuck I just told you? Let me get this shit!
+Dialogue: 0,0:01:40.66,0:01:42.13,1080P电影中字,,0,0,0,,給我滾開\N{\3c&H000000&\fs40}Nigga, get the fuck out of here, man.
+Dialogue: 0,0:01:42.13,0:01:43.46,1080P电影中字,,0,0,0,,滾\N{\3c&H000000&\fs40}Go on!
+Dialogue: 0,0:01:44.60,0:01:46.87,1080P电影中字,,0,0,0,,噢 看著那個人 夥計\N{\3c&H000000&\fs40}Oh, get that nigga, man.
+Dialogue: 0,0:01:47.77,0:01:49.34,1080P电影中字,,0,0,0,,-你怎麼樣 -我很好 很好\N{\3c&H000000&\fs40}- What's up? - I'm good, good.
+Dialogue: 0,0:01:49.34,0:01:51.47,1080P电影中字,,0,0,0,,-我就在這 你知道的 -是的\N{\3c&H000000&\fs40}- I'm just out here, you know. - Yeah.
+Dialogue: 0,0:01:51.47,0:01:52.47,1080P电影中字,,0,0,0,,平常的一天\N{\3c&H000000&\fs40}Regular day.
+Dialogue: 0,0:01:54.11,0:01:56.64,1080P电影中字,,0,0,0,,這裏很隱蔽 你需要錢我就找人拿錢\N{\3c&H000000&\fs40}It's in the cut. Everybody cleaned out if you need anything.
+Dialogue: 0,0:01:56.65,0:01:58.45,1080P电影中字,,0,0,0,,-生意還好嗎 -是的 還好\N{\3c&H000000&\fs40}- Business good? - Yeah it's good.
+Dialogue: 0,0:01:58.45,0:02:00.31,1080P电影中字,,0,0,0,,-我給你帶了點 -不 你先保管好\N{\3c&H000000&\fs40}I got something for you-- - no, no. Hold onto that.
+Dialogue: 0,0:02:01.48,0:02:03.55,1080P电影中字,,0,0,0,,週末整理好給我\N{\3c&H000000&\fs40}Empty the register on the weekend.
+Dialogue: 0,0:02:03.55,0:02:05.02,1080P电影中字,,0,0,0,,好的 沒問題\N{\3c&H000000&\fs40}All right, no problem, son.
+Dialogue: 0,0:02:05.82,0:02:07.22,1080P电影中字,,0,0,0,,你媽現在怎麼樣了\N{\3c&H000000&\fs40}How's your mom feeling now?
+Dialogue: 0,0:02:07.22,0:02:09.16,1080P电影中字,,0,0,0,,噢 她挺好 她很好\N{\3c&H000000&\fs40}Oh, she doing good. She doing excellent.
+Dialogue: 0,0:02:09.16,0:02:10.59,1080P电影中字,,0,0,0,,-好多了 -好多了\N{\3c&H000000&\fs40}- Better? - She doing better.
+Dialogue: 0,0:02:10.59,0:02:11.93,1080P电影中字,,0,0,0,,你知道的\N{\3c&H000000&\fs40}You know.
+Dialogue: 0,0:02:11.93,0:02:13.26,1080P电影中字,,0,0,0,,我一直在為她祈禱 夥計\N{\3c&H000000&\fs40}She's in my prayers, man.
+Dialogue: 0,0:02:13.26,0:02:15.43,1080P电影中字,,0,0,0,,非常感謝\N{\3c&H000000&\fs40}Most naturally. Thank you.
+Dialogue: 0,0:02:15.43,0:02:17.76,1080P电影中字,,0,0,0,,謝謝你給我的機會 我會努力的\N{\3c&H000000&\fs40}Thanks for the opportunity. I'm out here.
+Dialogue: 0,0:02:20.24,0:02:22.50,1080P电影中字,,0,0,0,,-抓住他 -你過來\N{\3c&H000000&\fs40}- Get him! - Get your ass right here.
+Dialogue: 0,0:02:22.51,0:02:23.84,1080P电影中字,,0,0,0,,-抓住他 -你為什麼總跑\N{\3c&H000000&\fs40}- Get him! - Why you always runnin'?
+Dialogue: 0,0:02:23.84,0:02:26.14,1080P电影中字,,0,0,0,,別跑啊死基佬\N{\3c&H000000&\fs40}Goin' around with that faggot ass, bro!
+Dialogue: 0,0:02:27.81,0:02:30.51,1080P电影中字,,0,0,0,,-還能不能抓住他了 -揍他\N{\3c&H000000&\fs40}- Ain't gonna catch him! - Kick his ass!
+Dialogue: 0,0:02:32.85,0:02:35.28,1080P电影中字,,0,0,0,,-那就追啊 夥計 -抓住他\N{\3c&H000000&\fs40}- Run, then, nigga! - Get his gay ass!
+Dialogue: 0,0:02:36.45,0:02:38.42,1080P电影中字,,0,0,0,,-來啊 兄弟 -抓住他\N{\3c&H000000&\fs40}- Come on, bro! - Catch that nigga!
+Dialogue: 0,0:03:12.19,0:03:13.45,1080P电影中字,,0,0,0,,去後面\N{\3c&H000000&\fs40}Go around the back.
+Dialogue: 0,0:04:31.93,0:04:33.67,1080P电影中字,,0,0,0,,小傢伙 你在這幹嘛呢\N{\3c&H000000&\fs40}What you doin' in here, li'l man?
+Dialogue: 0,0:04:34.90,0:04:36.14,1080P电影中字,,0,0,0,,嗯哼\N{\3c&H000000&\fs40}Huh?
+Dialogue: 0,0:04:39.11,0:04:41.74,1080P电影中字,,0,0,0,,你不和陌生人說話嗎\N{\3c&H000000&\fs40}You don't talk to strangers?
+Dialogue: 0,0:04:41.74,0:04:44.88,1080P电影中字,,0,0,0,,好吧 沒事了\N{\3c&H000000&\fs40}A'ight. It's cool.
+Dialogue: 0,0:04:44.88,0:04:46.61,1080P电影中字,,0,0,0,,沒事了\N{\3c&H000000&\fs40}We cool.
+Dialogue: 0,0:04:54.22,0:04:56.06,1080P电影中字,,0,0,0,,聽著\N{\3c&H000000&\fs40}Listen...
+Dialogue: 0,0:04:57.49,0:04:59.43,1080P电影中字,,0,0,0,,我要去弄點吃的\N{\3c&H000000&\fs40}I'm about to go get something to eat.
+Dialogue: 0,0:05:01.30,0:05:03.23,1080P电影中字,,0,0,0,,要不要和我一起去\N{\3c&H000000&\fs40}You're welcome to join me if you want.
+Dialogue: 0,0:05:07.34,0:05:09.40,1080P电影中字,,0,0,0,,我可以從前門走嗎\N{\3c&H000000&\fs40}It's okay if I take the front door?
+Dialogue: 0,0:05:10.94,0:05:12.07,1080P电影中字,,0,0,0,,嗯哼\N{\3c&H000000&\fs40}Hmm?
+Dialogue: 0,0:05:29.92,0:05:31.43,1080P电影中字,,0,0,0,,來吧\N{\3c&H000000&\fs40}Come on now.
+Dialogue: 0,0:05:32.29,0:05:34.13,1080P电影中字,,0,0,0,,外面很好\N{\3c&H000000&\fs40}Can't be no worse out here.
+Dialogue: 0,0:05:48.88,0:05:52.75,1080P电影中字,,0,0,0,,你不打算告訴我你的名字了嗎\N{\3c&H000000&\fs40}You not gonna tell me what yo' name is?
+Dialogue: 0,0:05:52.75,0:05:54.25,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:05:58.75,0:06:00.59,1080P电影中字,,0,0,0,,那你住在哪呢\N{\3c&H000000&\fs40}How 'bout where you live?
+Dialogue: 0,0:06:09.60,0:06:11.80,1080P电影中字,,0,0,0,,我得把你送回去 小傢伙\N{\3c&H000000&\fs40}I got to get you home, little man.
+Dialogue: 0,0:06:13.53,0:06:17.17,1080P电影中字,,0,0,0,,不能讓你在毒窩裏亂跑\N{\3c&H000000&\fs40}Can't have you just runnin' around these dope holes.
+Dialogue: 0,0:06:17.17,0:06:18.57,1080P电影中字,,0,0,0,,你明白嗎\N{\3c&H000000&\fs40}You understand?
+Dialogue: 0,0:06:20.34,0:06:21.84,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:06:29.98,0:06:33.55,1080P电影中字,,0,0,0,,嘿 我的錯\N{\3c&H000000&\fs40}Hey, hey, hey, my bad.
+Dialogue: 0,0:06:33.56,0:06:37.42,1080P电影中字,,0,0,0,,噢 小伙子 你知道我不會這麼對你的\N{\3c&H000000&\fs40}Oh man, you know I ain't gonna do you like that.
+Dialogue: 0,0:06:39.69,0:06:41.83,1080P电影中字,,0,0,0,,我道歉 好嗎\N{\3c&H000000&\fs40}Hey man, I apologize, all right?
+Dialogue: 0,0:06:43.36,0:06:46.40,1080P电影中字,,0,0,0,,我只是想讓你說句話\N{\3c&H000000&\fs40}I'm just trying to get you to say something.
+Dialogue: 0,0:06:46.40,0:06:47.97,1080P电影中字,,0,0,0,,嘿\N{\3c&H000000&\fs40}Hey...
+Dialogue: 0,0:06:49.17,0:06:51.17,1080P电影中字,,0,0,0,,我道歉\N{\3c&H000000&\fs40}I apologize.
+Dialogue: 0,0:06:51.17,0:06:52.51,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:06:57.25,0:06:58.78,1080P电影中字,,0,0,0,,好了\N{\3c&H000000&\fs40}All right.
+Dialogue: 0,0:07:35.05,0:07:36.52,1080P电影中字,,0,0,0,,好了\N{\3c&H000000&\fs40}All right.
+Dialogue: 0,0:07:37.35,0:07:39.09,1080P电影中字,,0,0,0,,你現在這樣好了\N{\3c&H000000&\fs40}You all right now...
+Dialogue: 0,0:07:40.05,0:07:42.16,1080P电影中字,,0,0,0,,但我女朋友會過來找你\N{\3c&H000000&\fs40}...until my girl come get you, though.
+Dialogue: 0,0:07:43.02,0:07:44.96,1080P电影中字,,0,0,0,,她會讓你說話的\N{\3c&H000000&\fs40}She gonna make you talk.
+Dialogue: 0,0:07:52.13,0:07:53.60,1080P电影中字,,0,0,0,,我一會回來\N{\3c&H000000&\fs40}Be right back.
+Dialogue: 0,0:07:57.94,0:08:00.54,1080P电影中字,,0,0,0,,-特瑞莎 -嘿 寶貝\N{\3c&H000000&\fs40}Teresa! - Hey, baby.
+Dialogue: 0,0:08:09.52,0:08:12.79,1080P电影中字,,0,0,0,,我在毒窩發現了這個小男孩\N{\3c&H000000&\fs40}I found this little boy in a dope spot.
+Dialogue: 0,0:08:12.79,0:08:13.70,1080P电影中字,,0,0,0,,在哪裏發現的\N{\3c&H000000&\fs40}- Found a little boy in a what?
+Dialogue: 0,0:08:13.70,0:08:14.75,1080P电影中字,,0,0,0,,那裏沒人吸毒\N{\3c&H000000&\fs40}Wasn't no crack heads up in there.
+Dialogue: 0,0:08:14.76,0:08:15.99,1080P电影中字,,0,0,0,,他自己在那兒\N{\3c&H000000&\fs40}He by himself.
+Dialogue: 0,0:08:17.06,0:08:18.53,1080P电影中字,,0,0,0,,但是他不願意說話 你能不能\N{\3c&H000000&\fs40}He ain't talking though, so why don't you see
+Dialogue: 0,0:08:18.53,0:08:20.09,1080P电影中字,,0,0,0,,讓他說幾句話\N{\3c&H000000&\fs40}if you can get him to say something.
+Dialogue: 0,0:08:20.10,0:08:21.63,1080P电影中字,,0,0,0,,-真的 -去跟他說幾句\N{\3c&H000000&\fs40}- Really? - Just go talk to him.
+Dialogue: 0,0:08:21.63,0:08:23.10,1080P电影中字,,0,0,0,,去吧\N{\3c&H000000&\fs40}Just go talk to him.
+Dialogue: 0,0:08:23.10,0:08:24.30,1080P电影中字,,0,0,0,,真是難以置信\N{\3c&H000000&\fs40}I cannot believe you.
+Dialogue: 0,0:08:24.30,0:08:26.57,1080P电影中字,,0,0,0,,-我愛你 -是誰能讓你這麼做\N{\3c&H000000&\fs40}- Love you. - Who would you do something like this?
+Dialogue: 0,0:09:07.91,0:09:10.44,1080P电影中字,,0,0,0,,你不說話但你可挺能吃\N{\3c&H000000&\fs40}You don't talk much but you damn sure can eat.
+Dialogue: 0,0:09:12.58,0:09:14.08,1080P电影中字,,0,0,0,,沒關係 寶貝\N{\3c&H000000&\fs40}That's all right, baby.
+Dialogue: 0,0:09:14.08,0:09:16.48,1080P电影中字,,0,0,0,,等你吃好喝好了再說話也不遲\N{\3c&H000000&\fs40}You ain't got to talk 'til you get good and ready.
+Dialogue: 0,0:09:21.69,0:09:23.56,1080P电影中字,,0,0,0,,我叫奇倫\N{\3c&H000000&\fs40}My name is chiron.
+Dialogue: 0,0:09:26.96,0:09:28.80,1080P电影中字,,0,0,0,,大家都叫我小不點\N{\3c&H000000&\fs40}People call me little.
+Dialogue: 0,0:09:30.46,0:09:32.33,1080P电影中字,,0,0,0,,好的 小不點\N{\3c&H000000&\fs40}All right then, little.
+Dialogue: 0,0:09:34.04,0:09:37.04,1080P电影中字,,0,0,0,,那我就叫你的名字了\N{\3c&H000000&\fs40}Well im'ma call you by your name, then.
+Dialogue: 0,0:09:37.04,0:09:39.01,1080P电影中字,,0,0,0,,你住在哪兒 奇倫\N{\3c&H000000&\fs40}Where you from, chiron?
+Dialogue: 0,0:09:40.54,0:09:41.98,1080P电影中字,,0,0,0,,自由城[邁阿密的一個街區]\N{\3c&H000000&\fs40}Liberty city.
+Dialogue: 0,0:09:43.44,0:09:45.05,1080P电影中字,,0,0,0,,你和媽媽一起生活\N{\3c&H000000&\fs40}You live with your mama?
+Dialogue: 0,0:09:45.95,0:09:47.18,1080P电影中字,,0,0,0,,是的\N{\3c&H000000&\fs40}Yes.
+Dialogue: 0,0:09:47.82,0:09:49.48,1080P电影中字,,0,0,0,,你爸爸呢\N{\3c&H000000&\fs40}What about your daddy?
+Dialogue: 0,0:09:55.76,0:09:57.46,1080P电影中字,,0,0,0,,沒事\N{\3c&H000000&\fs40}That's all right.
+Dialogue: 0,0:09:59.23,0:10:01.06,1080P电影中字,,0,0,0,,你想讓我們把你帶回家嗎\N{\3c&H000000&\fs40}You want us to take you home, then,
+Dialogue: 0,0:10:01.06,0:10:03.06,1080P电影中字,,0,0,0,,在你吃完飯之後\N{\3c&H000000&\fs40}after you get finished eating your food?
+Dialogue: 0,0:10:03.07,0:10:05.40,1080P电影中字,,0,0,0,,你得告訴我們你住在哪兒 孩子\N{\3c&H000000&\fs40}Yeah, you gotta tell us where you live, bruh.
+Dialogue: 0,0:10:09.84,0:10:11.24,1080P电影中字,,0,0,0,,不\N{\3c&H000000&\fs40}No...
+Dialogue: 0,0:10:14.64,0:10:15.84,1080P电影中字,,0,0,0,,好吧\N{\3c&H000000&\fs40}Okay.
+Dialogue: 0,0:10:17.04,0:10:19.08,1080P电影中字,,0,0,0,,你今晚可以留在這裏\N{\3c&H000000&\fs40}You can stay here tonight.
+Dialogue: 0,0:10:19.08,0:10:20.58,1080P电影中字,,0,0,0,,特瑞莎\N{\3c&H000000&\fs40}Teresa...
+Dialogue: 0,0:10:21.98,0:10:23.65,1080P电影中字,,0,0,0,,你想這樣嗎\N{\3c&H000000&\fs40}Would you like that?
+Dialogue: 0,0:10:27.29,0:10:28.69,1080P电影中字,,0,0,0,,好\N{\3c&H000000&\fs40}Okay.
+Dialogue: 0,0:11:11.37,0:11:12.97,1080P电影中字,,0,0,0,,怎麼回事\N{\3c&H000000&\fs40}What happened?
+Dialogue: 0,0:11:14.00,0:11:15.34,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:11:15.34,0:11:16.87,1080P电影中字,,0,0,0,,怎麼了 奇倫\N{\3c&H000000&\fs40}What happened, chiron?
+Dialogue: 0,0:11:16.87,0:11:19.17,1080P电影中字,,0,0,0,,你昨晚怎麼沒回家呢\N{\3c&H000000&\fs40}Why you didn't come home like you supposed to?
+Dialogue: 0,0:11:19.17,0:11:20.57,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:11:23.21,0:11:24.74,1080P电影中字,,0,0,0,,你是誰\N{\3c&H000000&\fs40}And who is you?
+Dialogue: 0,0:11:24.75,0:11:26.15,1080P电影中字,,0,0,0,,無名氏\N{\3c&H000000&\fs40}Nobody.
+Dialogue: 0,0:11:27.05,0:11:28.78,1080P电影中字,,0,0,0,,我昨天看見他的\N{\3c&H000000&\fs40}I found him yesterday.
+Dialogue: 0,0:11:29.82,0:11:31.82,1080P电影中字,,0,0,0,,在十五號街的一個窩點\N{\3c&H000000&\fs40}Found him in a hole on 15th.
+Dialogue: 0,0:11:33.95,0:11:35.29,1080P电影中字,,0,0,0,,是的 那一間\N{\3c&H000000&\fs40}Yeah. That one.
+Dialogue: 0,0:11:36.06,0:11:37.82,1080P电影中字,,0,0,0,,幾個男孩對他窮追不捨\N{\3c&H000000&\fs40}Some boys chased him in the cut.
+Dialogue: 0,0:11:37.83,0:11:39.76,1080P电影中字,,0,0,0,,他嚇壞了\N{\3c&H000000&\fs40}He's scared more than anything.
+Dialogue: 0,0:11:39.76,0:11:42.96,1080P电影中字,,0,0,0,,直到今天早上他才告訴我住哪\N{\3c&H000000&\fs40}He wouldn't tell me where he lived 'til this morning.
+Dialogue: 0,0:11:42.96,0:11:45.80,1080P电影中字,,0,0,0,,好吧 謝謝你照顧他\N{\3c&H000000&\fs40}Well, thanks for seeing to him.
+Dialogue: 0,0:11:45.80,0:11:48.33,1080P电影中字,,0,0,0,,通常他能自己照顧自己\N{\3c&H000000&\fs40}He usually can take care of hisself...
+Dialogue: 0,0:11:49.24,0:11:51.24,1080P电影中字,,0,0,0,,他是可以 可是\N{\3c&H000000&\fs40}...he good that way, but...
+Dialogue: 0,0:11:55.58,0:11:57.14,1080P电影中字,,0,0,0,,小傢伙\N{\3c&H000000&\fs40}Little man.
+Dialogue: 0,0:12:15.33,0:12:19.93,1080P电影中字,,0,0,0,,你是我的寶貝 奇倫 你知道嗎\N{\3c&H000000&\fs40}You a real damn prize, chiron, you know that?
+Dialogue: 0,0:12:21.07,0:12:25.44,1080P电影中字,,0,0,0,,該回家的時候就要回家\N{\3c&H000000&\fs40}You got'sta come home when you meant to come home.
+Dialogue: 0,0:12:25.44,0:12:26.87,1080P电影中字,,0,0,0,,聽到了嗎\N{\3c&H000000&\fs40}You hear?
+Dialogue: 0,0:12:38.35,0:12:40.82,1080P电影中字,,0,0,0,,沒事了 寶貝\N{\3c&H000000&\fs40}That's all right, baby.
+Dialogue: 0,0:12:42.02,0:12:44.12,1080P电影中字,,0,0,0,,沒事了\N{\3c&H000000&\fs40}That's all right.
+Dialogue: 0,0:12:46.13,0:12:48.56,1080P电影中字,,0,0,0,,媽媽很開心你回來了\N{\3c&H000000&\fs40}Mama just glad you're home.
+Dialogue: 0,0:12:56.34,0:12:58.24,1080P电影中字,,0,0,0,,不\N{\3c&H000000&\fs40}Nuh-uh.
+Dialogue: 0,0:12:58.24,0:13:00.91,1080P电影中字,,0,0,0,,你不能看電視\N{\3c&H000000&\fs40}TV privilege is revoked.
+Dialogue: 0,0:13:02.28,0:13:04.41,1080P电影中字,,0,0,0,,找點書看看\N{\3c&H000000&\fs40}Find something for you to read.
+Dialogue: 0,0:13:36.81,0:13:37.91,1080P电影中字,,0,0,0,,球在哪\N{\3c&H000000&\fs40}Where the ball at?
+Dialogue: 0,0:13:37.91,0:13:39.41,1080P电影中字,,0,0,0,,我得不到球\N{\3c&H000000&\fs40}I don't got the ball no more!
+Dialogue: 0,0:14:19.15,0:14:20.75,1080P电影中字,,0,0,0,,嘿 小不點\N{\3c&H000000&\fs40}Hey, little!
+Dialogue: 0,0:14:22.62,0:14:24.12,1080P电影中字,,0,0,0,,你好啊\N{\3c&H000000&\fs40}Wassup, man?
+Dialogue: 0,0:14:27.66,0:14:29.10,1080P电影中字,,0,0,0,,嘿 凱文\N{\3c&H000000&\fs40}Hey, Kevin.
+Dialogue: 0,0:14:30.40,0:14:32.13,1080P电影中字,,0,0,0,,你為什麼要走\N{\3c&H000000&\fs40}Why'd you leave?
+Dialogue: 0,0:14:32.13,0:14:33.63,1080P电影中字,,0,0,0,,我不知道\N{\3c&H000000&\fs40}I don't know.
+Dialogue: 0,0:14:33.64,0:14:37.07,1080P电影中字,,0,0,0,,是的 玩一會就無聊了\N{\3c&H000000&\fs40}Yeah, it get borin' after a while.
+Dialogue: 0,0:14:42.34,0:14:43.44,1080P电影中字,,0,0,0,,怎麼了\N{\3c&H000000&\fs40}What?
+Dialogue: 0,0:14:43.88,0:14:45.11,1080P电影中字,,0,0,0,,流血了嗎\N{\3c&H000000&\fs40}Is it bleedin'?
+Dialogue: 0,0:14:55.99,0:14:57.09,1080P电影中字,,0,0,0,,怎麼了\N{\3c&H000000&\fs40}What?
+Dialogue: 0,0:14:57.09,0:14:58.89,1080P电影中字,,0,0,0,,你很有趣 夥計\N{\3c&H000000&\fs40}You funny, man.
+Dialogue: 0,0:15:00.56,0:15:02.43,1080P电影中字,,0,0,0,,你為什麼這麼說\N{\3c&H000000&\fs40}Why you say that?
+Dialogue: 0,0:15:02.43,0:15:04.36,1080P电影中字,,0,0,0,,你就是有趣\N{\3c&H000000&\fs40}You just is, that's all.
+Dialogue: 0,0:15:07.33,0:15:09.54,1080P电影中字,,0,0,0,,你為什麼老是被欺負 夥計\N{\3c&H000000&\fs40}Why do you always let people pick on you, man?
+Dialogue: 0,0:15:09.54,0:15:11.17,1080P电影中字,,0,0,0,,你什麼意思\N{\3c&H000000&\fs40}What you mean?
+Dialogue: 0,0:15:11.17,0:15:13.31,1080P电影中字,,0,0,0,,你老是讓他們欺負你\N{\3c&H000000&\fs40}You always letting them pick on you.
+Dialogue: 0,0:15:13.31,0:15:15.71,1080P电影中字,,0,0,0,,那我該怎麼辦\N{\3c&H000000&\fs40}So what I gotta do?
+Dialogue: 0,0:15:15.71,0:15:17.34,1080P电影中字,,0,0,0,,你應該\N{\3c&H000000&\fs40}All you gotta do
+Dialogue: 0,0:15:17.35,0:15:19.88,1080P电影中字,,0,0,0,,向他們展示你並不軟弱\N{\3c&H000000&\fs40}is show these niggas you ain't soft.
+Dialogue: 0,0:15:19.88,0:15:21.31,1080P电影中字,,0,0,0,,但我不軟弱\N{\3c&H000000&\fs40}But I ain't soft.
+Dialogue: 0,0:15:21.32,0:15:23.12,1080P电影中字,,0,0,0,,我知道 我知道\N{\3c&H000000&\fs40}I know, I know.
+Dialogue: 0,0:15:23.12,0:15:26.75,1080P电影中字,,0,0,0,,但如果他們不知道就毫無意義\N{\3c&H000000&\fs40}But it don't mean nothing if they don't know it.
+Dialogue: 0,0:15:26.76,0:15:28.09,1080P电影中字,,0,0,0,,來吧\N{\3c&H000000&\fs40}Come on.
+Dialogue: 0,0:15:28.09,0:15:30.46,1080P电影中字,,0,0,0,,你想讓那些傻瓜整天欺負你嗎\N{\3c&H000000&\fs40}You want these fools to pick on you every day?
+Dialogue: 0,0:16:12.00,0:16:14.00,1080P电影中字,,0,0,0,,看到了嗎 小不點\N{\3c&H000000&\fs40}See little?
+Dialogue: 0,0:16:14.00,0:16:15.94,1080P电影中字,,0,0,0,,我知道你不軟弱\N{\3c&H000000&\fs40}I knew you wasn't soft.
+Dialogue: 0,0:17:35.72,0:17:37.02,1080P电影中字,,0,0,0,,來吧 夥計\N{\3c&H000000&\fs40}Come on, man.
+Dialogue: 0,0:18:03.58,0:18:04.88,1080P电影中字,,0,0,0,,把頭伸過來\N{\3c&H000000&\fs40}Give me your head.
+Dialogue: 0,0:18:07.48,0:18:09.25,1080P电影中字,,0,0,0,,頭靠在我手上\N{\3c&H000000&\fs40}Let your head rest in my hand.
+Dialogue: 0,0:18:09.25,0:18:10.58,1080P电影中字,,0,0,0,,放鬆\N{\3c&H000000&\fs40}Relax.
+Dialogue: 0,0:18:10.59,0:18:12.52,1080P电影中字,,0,0,0,,我抓著你 我保證\N{\3c&H000000&\fs40}I got you. I promise.
+Dialogue: 0,0:18:12.52,0:18:14.12,1080P电影中字,,0,0,0,,我不會放手的\N{\3c&H000000&\fs40}I'm not going to let you go.
+Dialogue: 0,0:18:14.12,0:18:16.12,1080P电影中字,,0,0,0,,嘿 夥計 我抓著你\N{\3c&H000000&\fs40}Hey man, I got you.
+Dialogue: 0,0:18:16.12,0:18:17.52,1080P电影中字,,0,0,0,,就是這樣\N{\3c&H000000&\fs40}There you go.
+Dialogue: 0,0:18:18.29,0:18:19.56,1080P电影中字,,0,0,0,,十秒鐘\N{\3c&H000000&\fs40}Ten seconds.
+Dialogue: 0,0:18:21.46,0:18:23.13,1080P电影中字,,0,0,0,,感受到了嗎\N{\3c&H000000&\fs40}Feel that right there?
+Dialogue: 0,0:18:24.83,0:18:26.90,1080P电影中字,,0,0,0,,你處在世界中心 夥計\N{\3c&H000000&\fs40}You're in the middle of the world, man.
+Dialogue: 0,0:18:28.07,0:18:29.34,1080P电影中字,,0,0,0,,做得好\N{\3c&H000000&\fs40}That's good.
+Dialogue: 0,0:18:31.44,0:18:33.14,1080P电影中字,,0,0,0,,就像這樣\N{\3c&H000000&\fs40}Do like this.
+Dialogue: 0,0:18:36.81,0:18:38.98,1080P电影中字,,0,0,0,,看看你\N{\3c&H000000&\fs40}Look at you.
+Dialogue: 0,0:18:38.98,0:18:40.55,1080P电影中字,,0,0,0,,再敏捷一點\N{\3c&H000000&\fs40}More athletic.
+Dialogue: 0,0:18:42.55,0:18:44.12,1080P电影中字,,0,0,0,,就這樣\N{\3c&H000000&\fs40}There you go.
+Dialogue: 0,0:18:45.45,0:18:47.89,1080P电影中字,,0,0,0,,是的 我認為你準備好了\N{\3c&H000000&\fs40}Yeah. I think you ready.
+Dialogue: 0,0:18:49.06,0:18:50.82,1080P电影中字,,0,0,0,,我認為你會游泳了\N{\3c&H000000&\fs40}I think we got a swimmer.
+Dialogue: 0,0:18:51.59,0:18:53.69,1080P电影中字,,0,0,0,,你想試試嗎 你準備好了嗎\N{\3c&H000000&\fs40}You wanna try? You ready to swim?
+Dialogue: 0,0:18:55.20,0:18:56.43,1080P电影中字,,0,0,0,,來吧\N{\3c&H000000&\fs40}Go.
+Dialogue: 0,0:19:00.93,0:19:06.31,1080P电影中字,,0,0,0,,好樣的 夥計\N{\3c&H000000&\fs40}Yeah, man!
+Dialogue: 0,0:19:06.31,0:19:07.77,1080P电影中字,,0,0,0,,好樣的\N{\3c&H000000&\fs40}Yeah!
+Dialogue: 0,0:19:29.66,0:19:31.46,1080P电影中字,,0,0,0,,我跟你說 夥計\N{\3c&H000000&\fs40}Let me tell you something, man.
+Dialogue: 0,0:19:31.47,0:19:33.47,1080P电影中字,,0,0,0,,黑人無處不在\N{\3c&H000000&\fs40}There are black people everywhere.
+Dialogue: 0,0:19:34.90,0:19:36.37,1080P电影中字,,0,0,0,,記住這一點 好嗎\N{\3c&H000000&\fs40}You remember that, okay?
+Dialogue: 0,0:19:37.20,0:19:38.34,1080P电影中字,,0,0,0,,這個世界上\N{\3c&H000000&\fs40}No place you can go in the world
+Dialogue: 0,0:19:38.34,0:19:39.31,1080P电影中字,,0,0,0,,到處都有黑人的蹤影\N{\3c&H000000&\fs40}ain't got no black people.
+Dialogue: 0,0:19:39.31,0:19:41.24,1080P电影中字,,0,0,0,,我們是這個星球上最早誕生的人類\N{\3c&H000000&\fs40}We was the first ones on this planet.
+Dialogue: 0,0:19:45.05,0:19:47.11,1080P电影中字,,0,0,0,,我來這裏很久了\N{\3c&H000000&\fs40}I been here a long time...
+Dialogue: 0,0:19:48.65,0:19:50.22,1080P电影中字,,0,0,0,,但我來自古巴\N{\3c&H000000&\fs40}...but I'm from Cuba.
+Dialogue: 0,0:19:51.72,0:19:53.69,1080P电影中字,,0,0,0,,古巴有很多黑人\N{\3c&H000000&\fs40}Lotta black folks in Cuba,
+Dialogue: 0,0:19:53.69,0:19:55.66,1080P电影中字,,0,0,0,,但你在這裏不知道這些\N{\3c&H000000&\fs40}but you wouldn't know it from being here, though.
+Dialogue: 0,0:19:56.86,0:19:58.99,1080P电影中字,,0,0,0,,我當時也是個虎頭虎腦的小個子 夥計\N{\3c&H000000&\fs40}I was a wild li'l shorty, man.
+Dialogue: 0,0:19:58.99,0:20:00.53,1080P电影中字,,0,0,0,,像你一樣\N{\3c&H000000&\fs40}Just like you.
+Dialogue: 0,0:20:00.53,0:20:04.06,1080P电影中字,,0,0,0,,在月光下光著腳奔跑\N{\3c&H000000&\fs40}Runnin' around with no shoes on when the moon was out.
+Dialogue: 0,0:20:05.97,0:20:07.57,1080P电影中字,,0,0,0,,有一次\N{\3c&H000000&\fs40}This one time...
+Dialogue: 0,0:20:08.54,0:20:12.27,1080P电影中字,,0,0,0,,我路過一位奶奶\N{\3c&H000000&\fs40}I run by this old... This old lady.
+Dialogue: 0,0:20:12.27,0:20:14.47,1080P电影中字,,0,0,0,,我在跑 一直跑\N{\3c&H000000&\fs40}I was runnin', hollerin'...
+Dialogue: 0,0:20:14.48,0:20:16.68,1080P电影中字,,0,0,0,,像一個傻孩子\N{\3c&H000000&\fs40}...and cuttin' a fool, boy.
+Dialogue: 0,0:20:17.38,0:20:20.61,1080P电影中字,,0,0,0,,老奶奶截下我\N{\3c&H000000&\fs40}This old lady, she stopped me.
+Dialogue: 0,0:20:20.62,0:20:22.01,1080P电影中字,,0,0,0,,她說\N{\3c&H000000&\fs40}She said...
+Dialogue: 0,0:20:24.52,0:20:26.89,1080P电影中字,,0,0,0,,奔跑\N{\3c&H000000&\fs40}..."running around...
+Dialogue: 0,0:20:26.89,0:20:28.65,1080P电影中字,,0,0,0,,追逐光亮的方向\N{\3c&H000000&\fs40}...catching up all that light.
+Dialogue: 0,0:20:30.69,0:20:32.56,1080P电影中字,,0,0,0,,在月光下\N{\3c&H000000&\fs40}In moonlight...
+Dialogue: 0,0:20:32.56,0:20:34.49,1080P电影中字,,0,0,0,,黑人男孩是藍色的\N{\3c&H000000&\fs40}...black boys look blue.
+Dialogue: 0,0:20:36.00,0:20:37.43,1080P电影中字,,0,0,0,,你是藍色的\N{\3c&H000000&\fs40}You blue.
+Dialogue: 0,0:20:39.60,0:20:41.30,1080P电影中字,,0,0,0,,所以我以後就叫你\N{\3c&H000000&\fs40}That's what I gon' call you.
+Dialogue: 0,0:20:42.74,0:20:44.00,1080P电影中字,,0,0,0,,藍\N{\3c&H000000&\fs40}Blue."
+Dialogue: 0,0:20:47.04,0:20:48.71,1080P电影中字,,0,0,0,,那你的名字叫藍嗎\N{\3c&H000000&\fs40}So your name blue?
+Dialogue: 0,0:20:51.75,0:20:52.95,1080P电影中字,,0,0,0,,不\N{\3c&H000000&\fs40}Nah.
+Dialogue: 0,0:20:59.22,0:21:02.62,1080P电影中字,,0,0,0,,有些時候你得自己決定你要做什麼\N{\3c&H000000&\fs40}At some point you gotta decide for yourself who you gonna be.
+Dialogue: 0,0:21:05.23,0:21:07.69,1080P电影中字,,0,0,0,,沒人能替你做決定\N{\3c&H000000&\fs40}Can't let nobody make that decision for you.
+Dialogue: 0,0:21:22.81,0:21:24.54,1080P电影中字,,0,0,0,,你喜歡游泳嗎 夥計\N{\3c&H000000&\fs40}How you like swimming, man?
+Dialogue: 0,0:21:25.68,0:21:26.85,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:21:27.65,0:21:29.58,1080P电影中字,,0,0,0,,這麼喜歡啊\N{\3c&H000000&\fs40}That much, huh?
+Dialogue: 0,0:21:31.99,0:21:33.49,1080P电影中字,,0,0,0,,嘿 等下 等下\N{\3c&H000000&\fs40}Hey, hold up, hold up.
+Dialogue: 0,0:21:39.39,0:21:40.76,1080P电影中字,,0,0,0,,選一個\N{\3c&H000000&\fs40}Pick one.
+Dialogue: 0,0:21:45.33,0:21:46.73,1080P电影中字,,0,0,0,,啊\N{\3c&H000000&\fs40}Aah...
+Dialogue: 0,0:21:47.93,0:21:49.90,1080P电影中字,,0,0,0,,哈哈 選得好\N{\3c&H000000&\fs40}Ha ha. Good choice.
+Dialogue: 0,0:21:50.90,0:21:52.27,1080P电影中字,,0,0,0,,把它放你口袋\N{\3c&H000000&\fs40}Put it in your pocket.
+Dialogue: 0,0:22:04.32,0:22:05.35,1080P电影中字,,0,0,0,,嘿\N{\3c&H000000&\fs40}Hey.
+Dialogue: 0,0:22:06.49,0:22:08.89,1080P电影中字,,0,0,0,,等一下 喂\N{\3c&H000000&\fs40}Yo, hold up. Whoa, whoa, hey--
+Dialogue: 0,0:22:17.36,0:22:18.86,1080P电影中字,,0,0,0,,來吧\N{\3c&H000000&\fs40}come on.
+Dialogue: 0,0:22:24.54,0:22:26.17,1080P电影中字,,0,0,0,,你還好嗎 小不點\N{\3c&H000000&\fs40}What's going on, little man?
+Dialogue: 0,0:22:27.47,0:22:28.74,1080P电影中字,,0,0,0,,來吧\N{\3c&H000000&\fs40}Come on!
+Dialogue: 0,0:23:24.46,0:23:28.23,1080P电影中字,,0,0,0,,夥計 他們和我的一樣\N{\3c&H000000&\fs40}Man, they're all the same as mine.
+Dialogue: 0,0:23:28.24,0:23:30.74,1080P电影中字,,0,0,0,,至少我的看起來不像弗萊迪·克魯格\N{\3c&H000000&\fs40}At least mine don't look like Freddy kruger.
+Dialogue: 0,0:23:30.74,0:23:32.77,1080P电影中字,,0,0,0,,你的醜爆了\N{\3c&H000000&\fs40}Yours ugly as hell.
+Dialogue: 0,0:23:32.77,0:23:35.21,1080P电影中字,,0,0,0,,我的一點也不醜\N{\3c&H000000&\fs40}Mine don't look like no peanut.
+Dialogue: 0,0:23:35.21,0:23:37.71,1080P电影中字,,0,0,0,,告訴你 我的一點也不醜\N{\3c&H000000&\fs40}Telling you, mine does not look like no peanut.
+Dialogue: 0,0:23:37.71,0:23:39.31,1080P电影中字,,0,0,0,,誰讓他進來的\N{\3c&H000000&\fs40}Who let his ass in?
+Dialogue: 0,0:23:46.62,0:23:47.99,1080P电影中字,,0,0,0,,有人和你一起嗎\N{\3c&H000000&\fs40}Somebody with you?
+Dialogue: 0,0:23:49.99,0:23:52.36,1080P电影中字,,0,0,0,,夥計 我發誓它鎖上了\N{\3c&H000000&\fs40}Man, I swear it was locked.
+Dialogue: 0,0:24:18.72,0:24:20.25,1080P电影中字,,0,0,0,,夥計 沒犯規 沒犯規\N{\3c&H000000&\fs40}Man, ain't no foul. Ain't no foul.
+Dialogue: 0,0:24:20.25,0:24:21.29,1080P电影中字,,0,0,0,,怎麼了\N{\3c&H000000&\fs40}S'up?!
+Dialogue: 0,0:24:22.49,0:24:24.46,1080P电影中字,,0,0,0,,你死定了 打你的臉\N{\3c&H000000&\fs40}You're dead, baby! Right in your face!
+Dialogue: 0,0:26:23.31,0:26:26.21,1080P电影中字,,0,0,0,,我是花了錢 但這不是我要買的啊\N{\3c&H000000&\fs40}It's what I paid for. It ain't what I bought.
+Dialogue: 0,0:26:26.21,0:26:27.58,1080P电影中字,,0,0,0,,夥計 這已經是高級貨了\N{\3c&H000000&\fs40}Man, that's grade a quality.
+Dialogue: 0,0:26:27.58,0:26:29.05,1080P电影中字,,0,0,0,,你還想要我怎麼樣\N{\3c&H000000&\fs40}What else you want me to do?
+Dialogue: 0,0:26:29.05,0:26:31.38,1080P电影中字,,0,0,0,,夥計 這更像是下等貨\N{\3c&H000000&\fs40}Nigga, this shit look more like grade c.
+Dialogue: 0,0:26:31.39,0:26:32.79,1080P电影中字,,0,0,0,,夥計 這話我可不愛聽\N{\3c&H000000&\fs40}Man, look. I ain't goin' with that, man!
+Dialogue: 0,0:26:32.79,0:26:33.92,1080P电影中字,,0,0,0,,我要把錢要回來\N{\3c&H000000&\fs40}I want my money back.
+Dialogue: 0,0:26:33.92,0:26:35.39,1080P电影中字,,0,0,0,,什麼 不接受退款 夥計\N{\3c&H000000&\fs40}What?! Ain't no refund, man.
+Dialogue: 0,0:26:35.39,0:26:36.89,1080P电影中字,,0,0,0,,收好它 夥計 走吧\N{\3c&H000000&\fs40}Just stuff it, man. Keep movin'. Go on.
+Dialogue: 0,0:26:40.43,0:26:42.76,1080P电影中字,,0,0,0,,你還好嗎\N{\3c&H000000&\fs40}Yo what's up? You all right?
+Dialogue: 0,0:26:45.80,0:26:47.47,1080P电影中字,,0,0,0,,我以為你去度假了呢\N{\3c&H000000&\fs40}Thought you was on vacation or some shit.
+Dialogue: 0,0:26:47.47,0:26:49.57,1080P电影中字,,0,0,0,,拜託 夥計 這裏哪有假期\N{\3c&H000000&\fs40}Come on, man. No vacation out here.
+Dialogue: 0,0:26:49.57,0:26:50.87,1080P电影中字,,0,0,0,,我得工作啊\N{\3c&H000000&\fs40}I know the work, you know that.
+Dialogue: 0,0:26:50.87,0:26:52.74,1080P电影中字,,0,0,0,,去瑞士或別的地方\N{\3c&H000000&\fs40}Going to Switzerland or some shit.
+Dialogue: 0,0:26:52.74,0:26:54.11,1080P电影中字,,0,0,0,,瑞士 夥計\N{\3c&H000000&\fs40}Switzerland, man.
+Dialogue: 0,0:26:54.11,0:26:57.54,1080P电影中字,,0,0,0,,可能會去巴西吧 你知道的 和兩個好看的姑娘\N{\3c&H000000&\fs40}Maybe Brazil, you know, with two bad bitches.
+Dialogue: 0,0:26:57.55,0:26:58.94,1080P电影中字,,0,0,0,,小花生幹得怎麼樣\N{\3c&H000000&\fs40}How peanut working out?
+Dialogue: 0,0:26:58.95,0:27:00.85,1080P电影中字,,0,0,0,,他很好 我能搞定他\N{\3c&H000000&\fs40}Peanut good, man. I got him at in check.
+Dialogue: 0,0:27:00.85,0:27:02.75,1080P电影中字,,0,0,0,,他在他該在的地方 你知道\N{\3c&H000000&\fs40}He's staying in his place, you know.
+Dialogue: 0,0:27:10.66,0:27:12.06,1080P电影中字,,0,0,0,,他們在吸毒嗎\N{\3c&H000000&\fs40}They basin'?
+Dialogue: 0,0:27:12.06,0:27:15.76,1080P电影中字,,0,0,0,,當然不是了 你知道我不會容許這種事情發生\N{\3c&H000000&\fs40}Hell no, you know I ain't gonna let that go down.
+Dialogue: 0,0:27:15.76,0:27:17.80,1080P电影中字,,0,0,0,,你現在都讓人在這裏點火了嗎\N{\3c&H000000&\fs40}Yo, nigga, you lettin' people light up at the spot, now?
+Dialogue: 0,0:27:17.80,0:27:19.93,1080P电影中字,,0,0,0,,-噢 不 -媽的\N{\3c&H000000&\fs40}- Hell no. - The f--
+Dialogue: 0,0:27:19.93,0:27:22.47,1080P电影中字,,0,0,0,,你知道我不會容許這種事情發生\N{\3c&H000000&\fs40}come on, you know I ain't gonna let that happen, man.
+Dialogue: 0,0:27:22.47,0:27:24.17,1080P电影中字,,0,0,0,,媽的\N{\3c&H000000&\fs40}The fuck, man.
+Dialogue: 0,0:27:42.59,0:27:44.42,1080P电影中字,,0,0,0,,夥計 怎麼回事\N{\3c&H000000&\fs40}Yo nigga, what's up?
+Dialogue: 0,0:27:45.13,0:27:47.53,1080P电影中字,,0,0,0,,嘿 嘿 沒什麼 夥計\N{\3c&H000000&\fs40}Hey, hey, it's all good, man.
+Dialogue: 0,0:27:47.53,0:27:49.80,1080P电影中字,,0,0,0,,-你他媽在幹嘛 -沒事 胡安\N{\3c&H000000&\fs40}- The fuck you doing? - It's all good, Juan.
+Dialogue: 0,0:27:49.80,0:27:51.53,1080P电影中字,,0,0,0,,媽的\N{\3c&H000000&\fs40}Fuck.
+Dialogue: 0,0:27:52.50,0:27:54.50,1080P电影中字,,0,0,0,,-一切都好 -滾出來\N{\3c&H000000&\fs40}- It's all good-- - get out the fucking car!
+Dialogue: 0,0:27:54.50,0:27:56.84,1080P电影中字,,0,0,0,,-冷靜點 夥計 -閉嘴\N{\3c&H000000&\fs40}- Calm down, man. - Shut the fuck up.
+Dialogue: 0,0:27:56.84,0:27:58.30,1080P电影中字,,0,0,0,,你有毛病嗎\N{\3c&H000000&\fs40}What's wrong with you?
+Dialogue: 0,0:27:59.74,0:28:01.87,1080P电影中字,,0,0,0,,你以為你是誰\N{\3c&H000000&\fs40}Who the hell you think you is?
+Dialogue: 0,0:28:01.88,0:28:03.01,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:28:03.78,0:28:06.35,1080P电影中字,,0,0,0,,給我滾遠點\N{\3c&H000000&\fs40}Bitch, get the fuck out of here.
+Dialogue: 0,0:28:09.12,0:28:12.25,1080P电影中字,,0,0,0,,什麼 所以你要撫養我兒子嗎\N{\3c&H000000&\fs40}What, so you gon' raise my son now?
+Dialogue: 0,0:28:12.25,0:28:13.55,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:28:16.06,0:28:18.06,1080P电影中字,,0,0,0,,你要撫養我兒子嗎\N{\3c&H000000&\fs40}You gon' raise my son?
+Dialogue: 0,0:28:19.99,0:28:23.56,1080P电影中字,,0,0,0,,-我想的沒錯 -我不養你養嗎\N{\3c&H000000&\fs40}Yeah... that's what I thought. - You gon' raise him?
+Dialogue: 0,0:28:23.56,0:28:26.03,1080P电影中字,,0,0,0,,你要接著賣給我毒品\N{\3c&H000000&\fs40}You gon' keep sellin' me rocks?
+Dialogue: 0,0:28:26.03,0:28:27.43,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:28:53.63,0:28:54.56,1080P电影中字,,0,0,0,,混蛋\N{\3c&H000000&\fs40}Motherfucker.
+Dialogue: 0,0:28:55.90,0:28:59.87,1080P电影中字,,0,0,0,,別給我擺出一副愛理不理的樣子\N{\3c&H000000&\fs40}Don't give me that "You gotta get it from somewhere" Shit, nigga.
+Dialogue: 0,0:28:59.87,0:29:02.50,1080P电影中字,,0,0,0,,我就要從你這裏買\N{\3c&H000000&\fs40}I'm gettin' it from you.
+Dialogue: 0,0:29:03.44,0:29:06.21,1080P电影中字,,0,0,0,,但你還會撫養我兒子 不是嗎\N{\3c&H000000&\fs40}But you gon' raise my son though, right?
+Dialogue: 0,0:29:06.21,0:29:07.64,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:29:08.88,0:29:11.68,1080P电影中字,,0,0,0,,你看過他走路的樣子嗎 胡安\N{\3c&H000000&\fs40}You ever see the way he walk, Juan?
+Dialogue: 0,0:29:11.68,0:29:13.31,1080P电影中字,,0,0,0,,你注意你說的話\N{\3c&H000000&\fs40}You watch your damn mouth.
+Dialogue: 0,0:29:14.85,0:29:18.18,1080P电影中字,,0,0,0,,你要告訴他為什麼別的孩子都欺負他嗎\N{\3c&H000000&\fs40}You gon' tell him why the other boys kick his ass all the time?
+Dialogue: 0,0:29:18.19,0:29:19.62,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:29:20.45,0:29:21.99,1080P电影中字,,0,0,0,,你要告訴他嗎\N{\3c&H000000&\fs40}You gon' tell him?
+Dialogue: 0,0:29:27.13,0:29:29.29,1080P电影中字,,0,0,0,,你個垃圾\N{\3c&H000000&\fs40}You ain't shit.
+Dialogue: 0,0:29:35.10,0:29:37.54,1080P电影中字,,0,0,0,,走 我們走\N{\3c&H000000&\fs40}Come on! Let's go!
+Dialogue: 0,0:29:51.92,0:29:53.65,1080P电影中字,,0,0,0,,你們瞅啥\N{\3c&H000000&\fs40}The fuck y'all lookin' at?
+Dialogue: 0,0:31:09.96,0:31:11.43,1080P电影中字,,0,0,0,,特瑞莎\N{\3c&H000000&\fs40}Teresa.
+Dialogue: 0,0:31:12.03,0:31:13.90,1080P电影中字,,0,0,0,,你的小男朋友來了\N{\3c&H000000&\fs40}Your boyfriend's here.
+Dialogue: 0,0:31:13.90,0:31:15.27,1080P电影中字,,0,0,0,,孩子\N{\3c&H000000&\fs40}Boy.
+Dialogue: 0,0:31:17.37,0:31:18.97,1080P电影中字,,0,0,0,,今天要跟我說話嗎\N{\3c&H000000&\fs40}You talking to me today?
+Dialogue: 0,0:31:20.04,0:31:21.47,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:31:24.11,0:31:25.28,1080P电影中字,,0,0,0,,好吧\N{\3c&H000000&\fs40}Okay.
+Dialogue: 0,0:31:26.31,0:31:27.71,1080P电影中字,,0,0,0,,沒關係\N{\3c&H000000&\fs40}That's alright.
+Dialogue: 0,0:31:27.72,0:31:29.41,1080P电影中字,,0,0,0,,反正我也不想跟你說話\N{\3c&H000000&\fs40}I don't wanna talk to you, anyway.
+Dialogue: 0,0:31:35.62,0:31:37.69,1080P电影中字,,0,0,0,,你知道她喜歡你 是吧\N{\3c&H000000&\fs40}You know she got a crush on you, right?
+Dialogue: 0,0:31:41.36,0:31:42.69,1080P电影中字,,0,0,0,,你還好嗎\N{\3c&H000000&\fs40}You all right?
+Dialogue: 0,0:31:46.83,0:31:48.47,1080P电影中字,,0,0,0,,你一路走過來的嗎\N{\3c&H000000&\fs40}You walk all the way here?
+Dialogue: 0,0:31:52.27,0:31:54.27,1080P电影中字,,0,0,0,,好吧\N{\3c&H000000&\fs40}All right.
+Dialogue: 0,0:31:54.28,0:31:57.31,1080P电影中字,,0,0,0,,首先 重中之重 你不能坐在這個位置\N{\3c&H000000&\fs40}First things first. You can't sit at my table like that.
+Dialogue: 0,0:31:58.91,0:32:01.31,1080P电影中字,,0,0,0,,你不能背對著門坐 起來\N{\3c&H000000&\fs40}You can't sit with your back to the door, come on.
+Dialogue: 0,0:32:03.28,0:32:05.62,1080P电影中字,,0,0,0,,如果有人悄悄靠近你 你會渾然不知\N{\3c&H000000&\fs40}Ain't gonna know if somebody creepin' up on you.
+Dialogue: 0,0:32:07.69,0:32:09.29,1080P电影中字,,0,0,0,,好了 看到了嗎\N{\3c&H000000&\fs40}All right, see that?
+Dialogue: 0,0:32:09.29,0:32:11.19,1080P电影中字,,0,0,0,,現在一切盡收眼底\N{\3c&H000000&\fs40}Now you can see everything.
+Dialogue: 0,0:32:28.41,0:32:30.04,1080P电影中字,,0,0,0,,想什麼呢\N{\3c&H000000&\fs40}What's over there?
+Dialogue: 0,0:32:39.59,0:32:41.42,1080P电影中字,,0,0,0,,我昨晚看見你媽媽了\N{\3c&H000000&\fs40}I saw your mama last night.
+Dialogue: 0,0:32:44.86,0:32:46.22,1080P电影中字,,0,0,0,,我討厭她\N{\3c&H000000&\fs40}I hate her.
+Dialogue: 0,0:32:47.03,0:32:48.36,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Hmm.
+Dialogue: 0,0:32:49.63,0:32:51.40,1080P电影中字,,0,0,0,,嗯 我猜你也是\N{\3c&H000000&\fs40}Yeah, I bet you do.
+Dialogue: 0,0:32:52.53,0:32:54.43,1080P电影中字,,0,0,0,,我也不喜歡我媽媽\N{\3c&H000000&\fs40}I hated my mom, too.
+Dialogue: 0,0:32:57.80,0:32:59.87,1080P电影中字,,0,0,0,,儘管我現在很想她\N{\3c&H000000&\fs40}I miss her like hell now though.
+Dialogue: 0,0:33:04.71,0:33:06.58,1080P电影中字,,0,0,0,,這就是對這件事我要說的\N{\3c&H000000&\fs40}That's all I'm gon' say about that.
+Dialogue: 0,0:33:15.22,0:33:16.42,1080P电影中字,,0,0,0,,謝謝\N{\3c&H000000&\fs40}Thank you.
+Dialogue: 0,0:33:26.93,0:33:28.70,1080P电影中字,,0,0,0,,什麼是基佬\N{\3c&H000000&\fs40}What's a faggot?
+Dialogue: 0,0:33:39.18,0:33:41.08,1080P电影中字,,0,0,0,,基佬是\N{\3c&H000000&\fs40}A faggot is...
+Dialogue: 0,0:33:46.02,0:33:49.29,1080P电影中字,,0,0,0,,是一個侮辱同性戀的詞\N{\3c&H000000&\fs40}...A word used to make gay people feel bad.
+Dialogue: 0,0:33:56.50,0:33:58.86,1080P电影中字,,0,0,0,,-我是基佬嗎 -不\N{\3c&H000000&\fs40}- Am I a faggot? - No.
+Dialogue: 0,0:33:58.87,0:34:00.20,1080P电影中字,,0,0,0,,不是\N{\3c&H000000&\fs40}No.
+Dialogue: 0,0:34:01.63,0:34:05.10,1080P电影中字,,0,0,0,,你可以是同性戀 但你不能讓別人叫你基佬\N{\3c&H000000&\fs40}You can be gay, but you gotta let nobody call you no faggot.
+Dialogue: 0,0:34:07.94,0:34:09.67,1080P电影中字,,0,0,0,,我是說 除非\N{\3c&H000000&\fs40}I mean, unless...
+Dialogue: 0,0:34:17.72,0:34:19.18,1080P电影中字,,0,0,0,,我怎麼知道我是不是\N{\3c&H000000&\fs40}How do I know?
+Dialogue: 0,0:34:20.89,0:34:22.35,1080P电影中字,,0,0,0,,你會知道的\N{\3c&H000000&\fs40}You just do.
+Dialogue: 0,0:34:23.62,0:34:24.96,1080P电影中字,,0,0,0,,我覺得\N{\3c&H000000&\fs40}I think.
+Dialogue: 0,0:34:27.26,0:34:29.13,1080P电影中字,,0,0,0,,到時候你就知道了\N{\3c&H000000&\fs40}You'll know when you know.
+Dialogue: 0,0:34:31.63,0:34:33.00,1080P电影中字,,0,0,0,,嘿\N{\3c&H000000&\fs40}Hey...
+Dialogue: 0,0:34:35.33,0:34:38.47,1080P电影中字,,0,0,0,,你現在還不會知道 好嗎\N{\3c&H000000&\fs40}You ain't gotta know right now, all right?
+Dialogue: 0,0:34:40.44,0:34:42.01,1080P电影中字,,0,0,0,,現在還不會\N{\3c&H000000&\fs40}Not yet.
+Dialogue: 0,0:34:53.92,0:34:55.89,1080P电影中字,,0,0,0,,你販毒嗎\N{\3c&H000000&\fs40}Do you sell drugs?
+Dialogue: 0,0:35:08.27,0:35:09.37,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,0:35:13.94,0:35:15.57,1080P电影中字,,0,0,0,,那我媽媽\N{\3c&H000000&\fs40}And my mama...
+Dialogue: 0,0:35:16.51,0:35:18.34,1080P电影中字,,0,0,0,,她是不是吸毒\N{\3c&H000000&\fs40}...she do drugs, right?
+Dialogue: 0,0:35:22.78,0:35:23.98,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,0:36:10.33,0:36:14.00,1080P电影中字,,0,0,0,,好 脫氧核糖核酸\N{\3c&H000000&\fs40}Okay, deoxyribonucleic acid.
+Dialogue: 0,0:36:14.00,0:36:15.13,1080P电影中字,,0,0,0,,很長的一個詞 對不對\N{\3c&H000000&\fs40}Long word, right?
+Dialogue: 0,0:36:15.14,0:36:16.70,1080P电影中字,,0,0,0,,好 它本質上就是基因\N{\3c&H000000&\fs40}All right, it's basically genes.
+Dialogue: 0,0:36:16.70,0:36:18.47,1080P电影中字,,0,0,0,,我知道你們還不知道這是什麼意思\N{\3c&H000000&\fs40}I know y'all don't know what that means
+Dialogue: 0,0:36:18.47,0:36:20.71,1080P电影中字,,0,0,0,,但是請先認真聽\N{\3c&H000000&\fs40}but just hang with me for a second.
+Dialogue: 0,0:36:20.71,0:36:24.01,1080P电影中字,,0,0,0,,本質上這個長\N{\3c&H000000&\fs40}So it's basically this long--
+Dialogue: 0,0:36:24.01,0:36:26.55,1080P电影中字,,0,0,0,,奇倫 你需要什麼嗎\N{\3c&H000000&\fs40}chiron, you need something?
+Dialogue: 0,0:36:26.55,0:36:29.05,1080P电影中字,,0,0,0,,他忘了換衛生棉\N{\3c&H000000&\fs40}Hey yo, that nigga forgot to change his tampon.
+Dialogue: 0,0:36:30.45,0:36:31.82,1080P电影中字,,0,0,0,,抱歉 皮爾斯老師\N{\3c&H000000&\fs40}I'm sorry, Mr. Pierce.
+Dialogue: 0,0:36:31.82,0:36:33.55,1080P电影中字,,0,0,0,,他今天有女性生理問題\N{\3c&H000000&\fs40}He just having woman problems today.
+Dialogue: 0,0:36:33.55,0:36:35.82,1080P电影中字,,0,0,0,,-對不對 小不點 -好了 特雷爾 夠了\N{\3c&H000000&\fs40}Ain't that right, little? - All right, Terrell, that's enough.
+Dialogue: 0,0:36:35.82,0:36:37.66,1080P电影中字,,0,0,0,,不 小不點可覺得不夠\N{\3c&H000000&\fs40}Nah, can't be enough for little..
+Dialogue: 0,0:36:37.66,0:36:39.06,1080P电影中字,,0,0,0,,你要多少 小不點\N{\3c&H000000&\fs40}How much you need, little?
+Dialogue: 0,0:36:39.06,0:36:41.06,1080P电影中字,,0,0,0,,-不要那樣叫我 -好了 特雷爾 到此為止\N{\3c&H000000&\fs40}- Don't call me that! - All right Terrell, that's it.
+Dialogue: 0,0:36:41.06,0:36:45.56,1080P电影中字,,0,0,0,,你想幹嘛 奇倫 看我削你\N{\3c&H000000&\fs40}Hey, what you gonna do, chiron? I'll fuck you up.
+Dialogue: 0,0:36:45.57,0:36:47.57,1080P电影中字,,0,0,0,,特雷爾 出去\N{\3c&H000000&\fs40}Hey yo, Terrell, out!
+Dialogue: 0,0:36:49.27,0:36:50.94,1080P电影中字,,0,0,0,,拜託 你怎麼了\N{\3c&H000000&\fs40}Come on, man. What's wrong with you?
+Dialogue: 0,0:36:58.51,0:36:59.61,1080P电影中字,,0,0,0,,我們講到哪了\N{\3c&H000000&\fs40}Where were we?
+Dialogue: 0,0:36:59.61,0:37:05.32,1080P电影中字,,0,0,0,,脫氧核糖核酸本質上是一個很長的模型\N{\3c&H000000&\fs40}DNA is basically this long model...
+Dialogue: 0,0:37:15.76,0:37:18.13,1080P电影中字,,0,0,0,,等我收拾你 小不點\N{\3c&H000000&\fs40}Im'ma be waitin' for your ass, little.
+Dialogue: 0,0:37:35.21,0:37:37.02,1080P电影中字,,0,0,0,,別害怕 奇倫\N{\3c&H000000&\fs40}Come on, chiron.
+Dialogue: 0,0:37:41.22,0:37:43.86,1080P电影中字,,0,0,0,,奇倫 怎麼了 兄弟\N{\3c&H000000&\fs40}Chiron, what's up, man?
+Dialogue: 0,0:37:45.06,0:37:48.29,1080P电影中字,,0,0,0,,天吶 你在發什麼呆 哥們\N{\3c&H000000&\fs40}Damn, nigga. You straight spaced, dawg.
+Dialogue: 0,0:37:48.30,0:37:50.50,1080P电影中字,,0,0,0,,學校人都走完了 你不回家嗎\N{\3c&H000000&\fs40}Yo, school been out. You ain't going home?
+Dialogue: 0,0:37:51.60,0:37:52.80,1080P电影中字,,0,0,0,,呃\N{\3c&H000000&\fs40}Uh...
+Dialogue: 0,0:37:52.80,0:37:54.17,1080P电影中字,,0,0,0,,你在這幹嘛\N{\3c&H000000&\fs40}What you doin' here?
+Dialogue: 0,0:37:54.17,0:37:55.53,1080P电影中字,,0,0,0,,留校 兄弟\N{\3c&H000000&\fs40}Detention, man.
+Dialogue: 0,0:37:55.54,0:37:57.74,1080P电影中字,,0,0,0,,埃姆斯逮到我在樓梯間打炮\N{\3c&H000000&\fs40}Aimes caught me with this trick in the stairway.
+Dialogue: 0,0:37:57.74,0:37:59.60,1080P电影中字,,0,0,0,,-真倒霉 -是啊\N{\3c&H000000&\fs40}- Damn. - Yeah.
+Dialogue: 0,0:37:59.61,0:38:01.11,1080P电影中字,,0,0,0,,跟誰\N{\3c&H000000&\fs40}With who?
+Dialogue: 0,0:38:01.11,0:38:02.84,1080P电影中字,,0,0,0,,你還真是個八婆 兄弟\N{\3c&H000000&\fs40}Damn, you nosey, nigga.
+Dialogue: 0,0:38:03.68,0:38:05.11,1080P电影中字,,0,0,0,,-我的錯 -不是 我開玩笑的\N{\3c&H000000&\fs40}- My bad-- - no, I'm playing, yo.
+Dialogue: 0,0:38:05.11,0:38:06.98,1080P电影中字,,0,0,0,,聽著 我只是想快點做完 你知道嗎\N{\3c&H000000&\fs40}Look, I wanted some quick head you know,
+Dialogue: 0,0:38:06.98,0:38:09.45,1080P电影中字,,0,0,0,,但是那個小妞老是說「用力 凱文」\N{\3c&H000000&\fs40}but this chick all like "Hit that shit, Kevin.
+Dialogue: 0,0:38:09.45,0:38:11.05,1080P电影中字,,0,0,0,,「用你的大雞巴操我」\N{\3c&H000000&\fs40}Hit it with that big dick."
+Dialogue: 0,0:38:11.05,0:38:13.29,1080P电影中字,,0,0,0,,這麼誇我有意思麼\N{\3c&H000000&\fs40}Why she got to compliment a nigga for?
+Dialogue: 0,0:38:13.29,0:38:16.32,1080P电影中字,,0,0,0,,所以我就說「好吧 我們來吧」 你知道嗎\N{\3c&H000000&\fs40}So I'm like "A'ight. Shit. We can do this", you know?
+Dialogue: 0,0:38:16.32,0:38:17.96,1080P电影中字,,0,0,0,,然後我就開始大力干她\N{\3c&H000000&\fs40}So I started banging her back out, dawg.
+Dialogue: 0,0:38:17.96,0:38:20.76,1080P电影中字,,0,0,0,,我是說大力干她\N{\3c&H000000&\fs40}I'm talking I'm banging her back out.
+Dialogue: 0,0:38:20.76,0:38:22.86,1080P电影中字,,0,0,0,,但是她大吼大叫\N{\3c&H000000&\fs40}She went and made all this fucking noise though.
+Dialogue: 0,0:38:22.86,0:38:24.86,1080P电影中字,,0,0,0,,然後埃姆斯就進來了 弄得跟警察一樣\N{\3c&H000000&\fs40}So aimes come in, acted all five-o and shit,
+Dialogue: 0,0:38:24.87,0:38:26.80,1080P电影中字,,0,0,0,,差點讓我停學 哥們\N{\3c&H000000&\fs40}almost had my ass suspended, dawg.
+Dialogue: 0,0:38:26.80,0:38:26.80,1080P电影中字,,0,0,0,,雖然我供認不諱\N{\3c&H000000&\fs40}I talked it out, though.
+Dialogue: 0,0:38:26.80,0:38:29.97,1080P电影中字,,0,0,0,,但是我告訴他我們是青梅竹馬 類似的話\N{\3c&H000000&\fs40}I told him we was like childhood sweethearts and all of that,
+Dialogue: 0,0:38:29.97,0:38:32.24,1080P电影中字,,0,0,0,,所以我只被留校 還不錯\N{\3c&H000000&\fs40}so I just got detention, it's cool.
+Dialogue: 0,0:38:33.14,0:38:36.14,1080P电影中字,,0,0,0,,-不錯 -這件事只有我們兩個人知道 對吧\N{\3c&H000000&\fs40}- Cool. - That stay between us, a'ight?
+Dialogue: 0,0:38:36.14,0:38:37.04,1080P电影中字,,0,0,0,,對\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,0:38:37.84,0:38:39.71,1080P电影中字,,0,0,0,,我知道你會守口如瓶的 兄弟\N{\3c&H000000&\fs40}I know you can keep a secret, dawg.
+Dialogue: 0,0:38:41.78,0:38:43.21,1080P电影中字,,0,0,0,,真心話 好了 我要走了\N{\3c&H000000&\fs40}Real talk though, I gotta go, a'ight,
+Dialogue: 0,0:38:43.22,0:38:45.02,1080P电影中字,,0,0,0,,在那個傻逼改變注意之前\N{\3c&H000000&\fs40}before this fool change his mind.
+Dialogue: 0,0:38:45.85,0:38:47.39,1080P电影中字,,0,0,0,,好的 小凱\N{\3c&H000000&\fs40}All right, kev.
+Dialogue: 0,0:38:48.49,0:38:49.85,1080P电影中字,,0,0,0,,回見 小黑\N{\3c&H000000&\fs40}See you, black.
+Dialogue: 0,0:39:32.60,0:39:36.07,1080P电影中字,,0,0,0,,-嘿 媽媽 -你今晚不能待在這兒\N{\3c&H000000&\fs40}- Hey, mama. - Uh-uh. You cannot be here tonight.
+Dialogue: 0,0:39:36.07,0:39:38.37,1080P电影中字,,0,0,0,,我有客人要來\N{\3c&H000000&\fs40}I got company coming.
+Dialogue: 0,0:39:40.91,0:39:42.31,1080P电影中字,,0,0,0,,找個能收留你的地方吧\N{\3c&H000000&\fs40}Find somewhere for you to be.
+Dialogue: 0,0:39:45.91,0:39:48.15,1080P电影中字,,0,0,0,,找個能收留你的地方吧\N{\3c&H000000&\fs40}Find somewhere for you to be.
+Dialogue: 0,0:39:55.55,0:39:56.86,1080P电影中字,,0,0,0,,好了\N{\3c&H000000&\fs40}All right...
+Dialogue: 0,0:39:57.79,0:40:02.03,1080P电影中字,,0,0,0,,我喝水 這杯杜松子酒給你\N{\3c&H000000&\fs40}...water for me... And a little gin for you.
+Dialogue: 0,0:40:03.53,0:40:04.96,1080P电影中字,,0,0,0,,拜託\N{\3c&H000000&\fs40}Boy please.
+Dialogue: 0,0:40:04.97,0:40:06.87,1080P电影中字,,0,0,0,,我知道胡安以前經常給你酒喝\N{\3c&H000000&\fs40}I know Juan used to give you that gin.
+Dialogue: 0,0:40:06.87,0:40:09.17,1080P电影中字,,0,0,0,,但是現在他不在了 小不點\N{\3c&H000000&\fs40}But we ain't doing that up in here, shorty.
+Dialogue: 0,0:40:10.87,0:40:12.77,1080P电影中字,,0,0,0,,你不覺得我的笑話很好笑嗎\N{\3c&H000000&\fs40}You don't think my joke was funny?
+Dialogue: 0,0:40:20.21,0:40:21.85,1080P电影中字,,0,0,0,,怎麼了\N{\3c&H000000&\fs40}What's wrong?
+Dialogue: 0,0:40:23.08,0:40:24.52,1080P电影中字,,0,0,0,,沒事\N{\3c&H000000&\fs40}Nothing.
+Dialogue: 0,0:40:25.05,0:40:26.48,1080P电影中字,,0,0,0,,我沒事\N{\3c&H000000&\fs40}I'm good.
+Dialogue: 0,0:40:26.49,0:40:28.09,1080P电影中字,,0,0,0,,才怪\N{\3c&H000000&\fs40}No.
+Dialogue: 0,0:40:28.09,0:40:30.96,1080P电影中字,,0,0,0,,我知道沒事是什麼樣 你現在一點都不好\N{\3c&H000000&\fs40}I've seen good and you ain't it.
+Dialogue: 0,0:40:32.02,0:40:34.89,1080P电影中字,,0,0,0,,在我家不要再把頭低著了\N{\3c&H000000&\fs40}Stop putting your head down in my house.
+Dialogue: 0,0:40:34.90,0:40:36.13,1080P电影中字,,0,0,0,,你知道我的規矩\N{\3c&H000000&\fs40}You know my rule.
+Dialogue: 0,0:40:36.13,0:40:39.40,1080P电影中字,,0,0,0,,這間房子裏都是愛和驕傲\N{\3c&H000000&\fs40}It's all love and all pride in this house.
+Dialogue: 0,0:40:39.40,0:40:40.90,1080P电影中字,,0,0,0,,懂我的意思嗎\N{\3c&H000000&\fs40}You feel me?
+Dialogue: 0,0:40:46.57,0:40:48.24,1080P电影中字,,0,0,0,,我聽不見你說話\N{\3c&H000000&\fs40}I can't hear you.
+Dialogue: 0,0:40:48.24,0:40:49.74,1080P电影中字,,0,0,0,,懂我的意思嗎\N{\3c&H000000&\fs40}Do you feel me?
+Dialogue: 0,0:40:49.74,0:40:50.84,1080P电影中字,,0,0,0,,懂\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,0:40:51.44,0:40:53.41,1080P电影中字,,0,0,0,,-好 -我懂你的意思\N{\3c&H000000&\fs40}- Okay. - I feel you.
+Dialogue: 0,0:40:53.41,0:40:55.08,1080P电影中字,,0,0,0,,好的\N{\3c&H000000&\fs40}All right.
+Dialogue: 0,0:41:01.75,0:41:03.29,1080P电影中字,,0,0,0,,謝謝你收留我\N{\3c&H000000&\fs40}Thank you for this.
+Dialogue: 0,0:41:03.29,0:41:04.66,1080P电影中字,,0,0,0,,孩子 別這樣\N{\3c&H000000&\fs40}Boy, please,
+Dialogue: 0,0:41:04.66,0:41:08.36,1080P电影中字,,0,0,0,,你知道如果需要你隨時都可以待在這兒 好嗎\N{\3c&H000000&\fs40}you know you can stay here any time you need to, okay?
+Dialogue: 0,0:41:08.36,0:41:09.73,1080P电影中字,,0,0,0,,隨時\N{\3c&H000000&\fs40}Any time.
+Dialogue: 0,0:41:10.20,0:41:11.50,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,0:41:13.27,0:41:15.87,1080P电影中字,,0,0,0,,謝謝你 特瑞莎 真的感謝\N{\3c&H000000&\fs40}Thank you, Teresa. I mean it.
+Dialogue: 0,0:41:16.94,0:41:20.17,1080P电影中字,,0,0,0,,如果你還想待在這兒\N{\3c&H000000&\fs40}Now, if you gon' stay here, though,
+Dialogue: 0,0:41:20.17,0:41:21.54,1080P电影中字,,0,0,0,,你就得學會如何\N{\3c&H000000&\fs40}you gonna have to learn how to make a bed
+Dialogue: 0,0:41:21.54,0:41:23.17,1080P电影中字,,0,0,0,,鋪好床 孩子\N{\3c&H000000&\fs40}better than this, boy.
+Dialogue: 0,0:41:23.91,0:41:26.41,1080P电影中字,,0,0,0,,-什麼 -什麼\N{\3c&H000000&\fs40}- What? - What you mean, "What"?
+Dialogue: 0,0:41:26.41,0:41:28.68,1080P电影中字,,0,0,0,,把那個給我 不是你這樣鋪床的\N{\3c&H000000&\fs40}Give me that. That ain't how you make up no bed.
+Dialogue: 0,0:41:31.02,0:41:33.59,1080P电影中字,,0,0,0,,你肯定覺得自己很狡猾\N{\3c&H000000&\fs40}You think you slick, too.
+Dialogue: 0,0:41:33.59,0:41:35.02,1080P电影中字,,0,0,0,,自己做錯了\N{\3c&H000000&\fs40}You know, do it all wrong
+Dialogue: 0,0:41:35.02,0:41:37.46,1080P电影中字,,0,0,0,,這樣特瑞莎就可以來幫你弄好\N{\3c&H000000&\fs40}so Teresa can come over here and do it right.
+Dialogue: 0,0:41:37.46,0:41:38.82,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:41:38.83,0:41:40.46,1080P电影中字,,0,0,0,,我知道你打什麼鬼主意\N{\3c&H000000&\fs40}I know what you doing.
+Dialogue: 0,0:41:40.46,0:41:42.73,1080P电影中字,,0,0,0,,你和胡安\N{\3c&H000000&\fs40}Oof, you and Juan.
+Dialogue: 0,0:41:43.43,0:41:46.23,1080P电影中字,,0,0,0,,你們兩個真不愧是好兄弟\N{\3c&H000000&\fs40}Y'all two, thick as thieves.
+Dialogue: 0,0:41:46.23,0:41:47.43,1080P电影中字,,0,0,0,,那個給我\N{\3c&H000000&\fs40}Give me that.
+Dialogue: 0,0:42:02.15,0:42:03.92,1080P电影中字,,0,0,0,,好了\N{\3c&H000000&\fs40}All right.
+Dialogue: 0,0:42:05.65,0:42:07.82,1080P电影中字,,0,0,0,,還需要我做什麼嗎 親愛的\N{\3c&H000000&\fs40}Do you need anything else from me, sweetheart?
+Dialogue: 0,0:42:09.36,0:42:10.99,1080P电影中字,,0,0,0,,呃 沒了 我很好\N{\3c&H000000&\fs40}Uh, no, I'm good.
+Dialogue: 0,0:42:10.99,0:42:12.42,1080P电影中字,,0,0,0,,好吧\N{\3c&H000000&\fs40}Okay.
+Dialogue: 0,0:42:13.76,0:42:16.39,1080P电影中字,,0,0,0,,好吧 我明天早上叫醒你\N{\3c&H000000&\fs40}All right, I'm gonna wake you up in the morning.
+Dialogue: 0,0:43:11.48,0:43:12.95,1080P电影中字,,0,0,0,,你好嗎 小黑\N{\3c&H000000&\fs40}You good, black?
+Dialogue: 0,0:43:34.24,0:43:36.07,1080P电影中字,,0,0,0,,奇倫\N{\3c&H000000&\fs40}Chiron!
+Dialogue: 0,0:43:36.08,0:43:39.21,1080P电影中字,,0,0,0,,-嘿 寶貝 -嘿 媽媽\N{\3c&H000000&\fs40}- Hey! Hey, baby! - Hey, mama.
+Dialogue: 0,0:43:39.21,0:43:41.75,1080P电影中字,,0,0,0,,你昨晚去哪兒了\N{\3c&H000000&\fs40}Where'd you go last night?
+Dialogue: 0,0:43:41.75,0:43:43.05,1080P电影中字,,0,0,0,,什麼\N{\3c&H000000&\fs40}What?
+Dialogue: 0,0:43:44.42,0:43:45.45,1080P电影中字,,0,0,0,,怎麼了\N{\3c&H000000&\fs40}Why?
+Dialogue: 0,0:43:45.45,0:43:47.49,1080P电影中字,,0,0,0,,我是不是你媽媽\N{\3c&H000000&\fs40}I'm yo' mama, ain't I?
+Dialogue: 0,0:43:49.25,0:43:52.32,1080P电影中字,,0,0,0,,為什麼你不回家 孩子\N{\3c&H000000&\fs40}Why you ain't just come home later, boy?
+Dialogue: 0,0:43:52.33,0:43:54.23,1080P电影中字,,0,0,0,,你讓我一直擔心你\N{\3c&H000000&\fs40}You had me worried about you.
+Dialogue: 0,0:43:55.56,0:43:57.93,1080P电影中字,,0,0,0,,我猜你長大了\N{\3c&H000000&\fs40}I guess you getting grown.
+Dialogue: 0,0:43:59.20,0:44:02.07,1080P电影中字,,0,0,0,,我不能一直把你留在我身邊\N{\3c&H000000&\fs40}I can't be keeping up with you all the time.
+Dialogue: 0,0:44:03.94,0:44:07.91,1080P电影中字,,0,0,0,,寶貝 特瑞莎怎麼樣\N{\3c&H000000&\fs40}Anyway baby, how Teresa doing?
+Dialogue: 0,0:44:07.91,0:44:10.41,1080P电影中字,,0,0,0,,自從葬禮之後 我就沒見過她\N{\3c&H000000&\fs40}I ain't seen her since the funeral.
+Dialogue: 0,0:44:11.48,0:44:14.25,1080P电影中字,,0,0,0,,媽媽把自己鎖在門外了\N{\3c&H000000&\fs40}Listen, mama locked herself out the door, yeah?
+Dialogue: 0,0:44:14.25,0:44:16.18,1080P电影中字,,0,0,0,,你來開下門吧\N{\3c&H000000&\fs40}Can you come let her in?
+Dialogue: 0,0:44:21.32,0:44:22.75,1080P电影中字,,0,0,0,,快點 寶貝\N{\3c&H000000&\fs40}Come on, baby.
+Dialogue: 0,0:44:23.49,0:44:24.92,1080P电影中字,,0,0,0,,讓我進去吧 寶貝\N{\3c&H000000&\fs40}Let me in, baby.
+Dialogue: 0,0:44:26.46,0:44:27.83,1080P电影中字,,0,0,0,,寶貝 求你了\N{\3c&H000000&\fs40}Baby, come on.
+Dialogue: 0,0:44:31.96,0:44:33.53,1080P电影中字,,0,0,0,,我以為你說過\N{\3c&H000000&\fs40}I thought you said--
+Dialogue: 0,0:44:34.60,0:44:36.37,1080P电影中字,,0,0,0,,媽媽 我以為\N{\3c&H000000&\fs40}mama, I thought you--
+Dialogue: 0,0:44:37.00,0:44:38.90,1080P电影中字,,0,0,0,,等一下 媽媽 媽媽\N{\3c&H000000&\fs40}wait, mama-- mama!
+Dialogue: 0,0:44:57.76,0:44:59.39,1080P电影中字,,0,0,0,,我需要錢\N{\3c&H000000&\fs40}I need some money.
+Dialogue: 0,0:45:00.89,0:45:02.29,1080P电影中字,,0,0,0,,用來幹什麼\N{\3c&H000000&\fs40}For what?
+Dialogue: 0,0:45:02.30,0:45:03.76,1080P电影中字,,0,0,0,,這是我的事\N{\3c&H000000&\fs40}That's my business.
+Dialogue: 0,0:45:03.76,0:45:06.26,1080P电影中字,,0,0,0,,你沒資格過問\N{\3c&H000000&\fs40}Don't you ask me no shit like that.
+Dialogue: 0,0:45:07.73,0:45:10.23,1080P电影中字,,0,0,0,,-我沒有錢 -不不 不要騙我 孩子\N{\3c&H000000&\fs40}- I don't have no money-- - no, no. Don't lie to me, boy.
+Dialogue: 0,0:45:10.24,0:45:11.74,1080P电影中字,,0,0,0,,我是你媽媽\N{\3c&H000000&\fs40}I'm your mama.
+Dialogue: 0,0:45:11.74,0:45:13.71,1080P电影中字,,0,0,0,,那個特瑞莎跟你一點關係都沒有\N{\3c&H000000&\fs40}That bitch over there ain't no kin of you.
+Dialogue: 0,0:45:13.71,0:45:16.24,1080P电影中字,,0,0,0,,我才是你的親人 知道嗎\N{\3c&H000000&\fs40}I'm your blood, remember?
+Dialogue: 0,0:45:16.24,0:45:18.41,1080P电影中字,,0,0,0,,我現在感覺很不好\N{\3c&H000000&\fs40}Now I ain't feeling good.
+Dialogue: 0,0:45:18.41,0:45:21.01,1080P电影中字,,0,0,0,,我需要解脫\N{\3c&H000000&\fs40}I need something to help me out.
+Dialogue: 0,0:45:21.75,0:45:23.25,1080P电影中字,,0,0,0,,求你了 寶貝\N{\3c&H000000&\fs40}Come on, baby.
+Dialogue: 0,0:45:24.02,0:45:25.48,1080P电影中字,,0,0,0,,求你了 寶貝\N{\3c&H000000&\fs40}Come on, baby.
+Dialogue: 0,0:45:26.95,0:45:29.15,1080P电影中字,,0,0,0,,我去哪兒找錢啊\N{\3c&H000000&\fs40}Where I'm supposed to get money from?
+Dialogue: 0,0:45:29.16,0:45:30.12,1080P电影中字,,0,0,0,,什麼\N{\3c&H000000&\fs40}What?
+Dialogue: 0,0:45:31.19,0:45:34.89,1080P电影中字,,0,0,0,,特瑞莎難道沒給你點錢嗎\N{\3c&H000000&\fs40}Teresa ain't give you nothing, huh?
+Dialogue: 0,0:45:34.89,0:45:39.23,1080P电影中字,,0,0,0,,她怎麼可能沒給你揣點錢\N{\3c&H000000&\fs40}Your li'l play-play mama ain't put something in your hand?
+Dialogue: 0,0:45:39.23,0:45:41.53,1080P电影中字,,0,0,0,,把錢給我\N{\3c&H000000&\fs40}Give me that damn money, chiron.
+Dialogue: 0,0:45:41.53,0:45:44.27,1080P电影中字,,0,0,0,,把錢給我\N{\3c&H000000&\fs40}Give me the damn money! Give me the damn money!
+Dialogue: 0,0:45:44.27,0:45:46.44,1080P电影中字,,0,0,0,,我真的沒錢\N{\3c&H000000&\fs40}I don't have no money!
+Dialogue: 0,0:45:46.44,0:45:48.21,1080P电影中字,,0,0,0,,-媽媽 求你了 -把錢給我\N{\3c&H000000&\fs40}- Mama, come on-- - give me the damn money!
+Dialogue: 0,0:45:48.21,0:45:49.71,1080P电影中字,,0,0,0,,-媽媽 求你了 -把錢給我\N{\3c&H000000&\fs40}- Mama, come on-- - give me the damn money!
+Dialogue: 0,0:45:49.71,0:45:51.61,1080P电影中字,,0,0,0,,好了 好了\N{\3c&H000000&\fs40}All right! All right!
+Dialogue: 0,0:45:51.61,0:45:53.04,1080P电影中字,,0,0,0,,把錢給我\N{\3c&H000000&\fs40}Give me the damn money.
+Dialogue: 0,0:45:56.35,0:45:57.95,1080P电影中字,,0,0,0,,給你\N{\3c&H000000&\fs40}Here, man.
+Dialogue: 0,0:45:57.95,0:46:00.95,1080P电影中字,,0,0,0,,這就對了\N{\3c&H000000&\fs40}Yes. That is what I thought.
+Dialogue: 0,0:46:02.55,0:46:04.76,1080P电影中字,,0,0,0,,我對她還真是瞭解\N{\3c&H000000&\fs40}I know that bitch like a hooker know her trick.
+Dialogue: 0,0:46:04.76,0:46:06.36,1080P电影中字,,0,0,0,,你是我的孩子 好嗎\N{\3c&H000000&\fs40}You my child, okay?
+Dialogue: 0,0:46:06.36,0:46:09.46,1080P电影中字,,0,0,0,,告訴她最好不要忘了\N{\3c&H000000&\fs40}And tell that bitch she better not forget it.
+Dialogue: 0,0:46:09.46,0:46:11.23,1080P电影中字,,0,0,0,,接著去上學\N{\3c&H000000&\fs40}Go on to school.
+Dialogue: 0,0:46:12.10,0:46:13.46,1080P电影中字,,0,0,0,,你沒遲到嗎\N{\3c&H000000&\fs40}Ain't you late?
+Dialogue: 0,0:46:23.64,0:46:26.08,1080P电影中字,,0,0,0,,所以現在你可以知道白血球減少\N{\3c&H000000&\fs40}So you can see how a lack of white blood cells
+Dialogue: 0,0:46:26.08,0:46:28.88,1080P电影中字,,0,0,0,,對人體很危險 對不對\N{\3c&H000000&\fs40}can be dangerous to the human body, right?
+Dialogue: 0,0:46:32.42,0:46:35.82,1080P电影中字,,0,0,0,,好 有人能解釋一下 如果沒有足夠的白血球\N{\3c&H000000&\fs40}Okay, can anybody explain what will happen to the body
+Dialogue: 0,0:46:35.82,0:46:38.02,1080P电影中字,,0,0,0,,人體會有什麼反應嗎\N{\3c&H000000&\fs40}if there's not enough white blood cells?
+Dialogue: 0,0:46:39.93,0:46:41.23,1080P电影中字,,0,0,0,,如果沒人回答問題\N{\3c&H000000&\fs40}Ain't nobody's leaving this classroom
+Dialogue: 0,0:46:41.23,0:46:42.89,1080P电影中字,,0,0,0,,就不下課\N{\3c&H000000&\fs40}until I get a response.
+Dialogue: 0,0:46:42.90,0:46:46.43,1080P电影中字,,0,0,0,,相信我 這個問題你知道比我知道要更重要\N{\3c&H000000&\fs40}This is more important for you than it is for me, trust me.
+Dialogue: 0,0:46:54.11,0:46:55.57,1080P电影中字,,0,0,0,,嘿 小不點\N{\3c&H000000&\fs40}Hey yo, little!
+Dialogue: 0,0:46:56.48,0:46:57.71,1080P电影中字,,0,0,0,,走這麼快去哪\N{\3c&H000000&\fs40}Where you going to so fast, huh?
+Dialogue: 0,0:46:57.71,0:47:00.14,1080P电影中字,,0,0,0,,-我要回家 -什麼\N{\3c&H000000&\fs40}- I'm going home. - Huh?
+Dialogue: 0,0:47:00.15,0:47:01.88,1080P电影中字,,0,0,0,,我跟你說了 我要回家\N{\3c&H000000&\fs40}Man, I told you. I'm going home!
+Dialogue: 0,0:47:01.88,0:47:04.42,1080P电影中字,,0,0,0,,你覺得我們傻嗎 你住在那邊\N{\3c&H000000&\fs40}You think we stupid? You live over there, nigga.
+Dialogue: 0,0:47:04.42,0:47:06.38,1080P电影中字,,0,0,0,,哦 不對 他要去特瑞莎家\N{\3c&H000000&\fs40}Oh no, he going to Teresa house.
+Dialogue: 0,0:47:06.39,0:47:08.29,1080P电影中字,,0,0,0,,特瑞莎 那不是胡安的女朋友嗎\N{\3c&H000000&\fs40}Teresa? That's Juan lady, ain't it?
+Dialogue: 0,0:47:08.29,0:47:10.69,1080P电影中字,,0,0,0,,是哦 她長得可真是漂亮呢\N{\3c&H000000&\fs40}Oh yeah. She fine as hell.
+Dialogue: 0,0:47:10.69,0:47:12.79,1080P电影中字,,0,0,0,,-胡安才剛死沒多久 -就是啊\N{\3c&H000000&\fs40}- Juan been dead a minute, though. - You right.
+Dialogue: 0,0:47:12.79,0:47:14.29,1080P电影中字,,0,0,0,,天哪 她免費口交嗎\N{\3c&H000000&\fs40}Hell, she give free head?
+Dialogue: 0,0:47:14.29,0:47:16.09,1080P电影中字,,0,0,0,,還是她像寶拉那樣收費\N{\3c&H000000&\fs40}Or does she charge like Paula?
+Dialogue: 0,0:47:16.10,0:47:17.66,1080P电影中字,,0,0,0,,寶拉現在便宜了\N{\3c&H000000&\fs40}Hell, Paula getting cheap though.
+Dialogue: 0,0:47:17.66,0:47:20.23,1080P电影中字,,0,0,0,,口氣硬口活也硬\N{\3c&H000000&\fs40}Talkin' like a rock can get your rock sucked!
+Dialogue: 0,0:47:20.23,0:47:21.47,1080P电影中字,,0,0,0,,你什麼意思\N{\3c&H000000&\fs40}Nigga, what was that?!
+Dialogue: 0,0:47:23.04,0:47:24.27,1080P电影中字,,0,0,0,,放開我\N{\3c&H000000&\fs40}Get off me, dawg.
+Dialogue: 0,0:47:24.27,0:47:25.94,1080P电影中字,,0,0,0,,我不搞同性戀\N{\3c&H000000&\fs40}Now I ain't with that gay shit,
+Dialogue: 0,0:47:25.94,0:47:27.21,1080P电影中字,,0,0,0,,但是如果你敢惹我\N{\3c&H000000&\fs40}but if you fuck with me
+Dialogue: 0,0:47:27.21,0:47:28.67,1080P电影中字,,0,0,0,,我能讓你的菊花欲罷不能\N{\3c&H000000&\fs40}I'll give your ass more than you can handle.
+Dialogue: 0,0:47:28.68,0:47:30.54,1080P电影中字,,0,0,0,,讓你哭著找你的癮君子老母\N{\3c&H000000&\fs40}Have you runnin' to your crackhead-ass mama.
+Dialogue: 0,0:47:30.54,0:47:31.88,1080P电影中字,,0,0,0,,我的天吶\N{\3c&H000000&\fs40}My nigga!
+Dialogue: 0,0:47:31.88,0:47:33.85,1080P电影中字,,0,0,0,,-操你媽的 -你說什麼\N{\3c&H000000&\fs40}- Fuck y'all niggas! - What'd you say?!
+Dialogue: 0,0:47:33.85,0:47:34.68,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:47:34.68,0:47:36.91,1080P电影中字,,0,0,0,,有種再說一遍 我保證不打死你\N{\3c&H000000&\fs40}Say that shit again dog, I swear.
+Dialogue: 0,0:47:39.99,0:47:41.02,1080P电影中字,,0,0,0,,不敢了\N{\3c&H000000&\fs40}Whatever, man.
+Dialogue: 0,0:47:41.02,0:47:43.25,1080P电影中字,,0,0,0,,那就好 你最好給我識相點\N{\3c&H000000&\fs40}A'ight, you better stay your ass right there
+Dialogue: 0,0:47:43.26,0:47:45.42,1080P电影中字,,0,0,0,,別自討苦吃\N{\3c&H000000&\fs40}if you know what's good for you.
+Dialogue: 0,0:47:45.43,0:47:48.39,1080P电影中字,,0,0,0,,為什麼你的牛仔褲這麼緊\N{\3c&H000000&\fs40}Yo, why your jeans so tight?
+Dialogue: 0,0:47:48.39,0:47:50.06,1080P电影中字,,0,0,0,,唷 彼佐 你看這個人的牛仔褲\N{\3c&H000000&\fs40}Yo, pizzo, you see these nigga's jeans be?
+Dialogue: 0,0:47:50.06,0:47:50.96,1080P电影中字,,0,0,0,,你看到了嗎\N{\3c&H000000&\fs40}You see that shit?
+Dialogue: 0,0:47:50.96,0:47:53.00,1080P电影中字,,0,0,0,,黑蛋快被擠爆了吧\N{\3c&H000000&\fs40}Nigga nuts must be chokin' in those!
+Dialogue: 0,0:47:54.40,0:47:56.83,1080P电影中字,,0,0,0,,-說的是實話 -好了 祝你好夢 小不點\N{\3c&H000000&\fs40}- Real talk! - A'ight, night little.
+Dialogue: 0,0:47:56.84,0:47:58.20,1080P电影中字,,0,0,0,,回頭見了\N{\3c&H000000&\fs40}See your ass later.
+Dialogue: 0,0:49:42.98,0:49:44.44,1080P电影中字,,0,0,0,,你是在等我嗎\N{\3c&H000000&\fs40}You was waitin' for me?
+Dialogue: 0,0:49:47.01,0:49:49.31,1080P电影中字,,0,0,0,,嗯 很高興見到你\N{\3c&H000000&\fs40}Well, nice to see you too.
+Dialogue: 0,0:49:49.32,0:49:50.85,1080P电影中字,,0,0,0,,你來這兒幹什麼 兄弟\N{\3c&H000000&\fs40}What you doing out here, man?
+Dialogue: 0,0:49:52.55,0:49:54.52,1080P电影中字,,0,0,0,,你來這兒幹什麼\N{\3c&H000000&\fs40}What you doing out here?
+Dialogue: 0,0:49:54.52,0:49:57.02,1080P电影中字,,0,0,0,,這是我抽煙的地兒 哥們\N{\3c&H000000&\fs40}This is my smoker habitat, nigga.
+Dialogue: 0,0:49:58.62,0:50:00.46,1080P电影中字,,0,0,0,,怎麼 你也出來抽煙\N{\3c&H000000&\fs40}Oh what, you smoke out here too?
+Dialogue: 0,0:50:02.39,0:50:03.89,1080P电影中字,,0,0,0,,差不多吧\N{\3c&H000000&\fs40}Something like that...
+Dialogue: 0,0:50:04.50,0:50:06.63,1080P电影中字,,0,0,0,,你不吸煙\N{\3c&H000000&\fs40}Nah, you don't smoke.
+Dialogue: 0,0:50:06.63,0:50:08.13,1080P电影中字,,0,0,0,,裝啥\N{\3c&H000000&\fs40}Why you pretending?
+Dialogue: 0,0:50:09.60,0:50:11.70,1080P电影中字,,0,0,0,,在我面前裝蒜嗎 小黑\N{\3c&H000000&\fs40}Trying to put on a show for me, black?
+Dialogue: 0,0:50:14.17,0:50:15.81,1080P电影中字,,0,0,0,,你為什麼總是這麼叫我\N{\3c&H000000&\fs40}Why you always calling me that?
+Dialogue: 0,0:50:16.68,0:50:18.58,1080P电影中字,,0,0,0,,-什麼 小黑 -嗯 小黑\N{\3c&H000000&\fs40}- What, black? - Yeah, black.
+Dialogue: 0,0:50:19.68,0:50:21.78,1080P电影中字,,0,0,0,,這是我給你取的昵稱 你不喜歡嗎\N{\3c&H000000&\fs40}That's my nickname for you. You don't like it?
+Dialogue: 0,0:50:23.92,0:50:26.25,1080P电影中字,,0,0,0,,不是 只不過\N{\3c&H000000&\fs40}No, it's just...
+Dialogue: 0,0:50:26.25,0:50:27.32,1080P电影中字,,0,0,0,,什麼人才會\N{\3c&H000000&\fs40}...what kind of dude goes around
+Dialogue: 0,0:50:27.32,0:50:29.45,1080P电影中字,,0,0,0,,到處給別人取昵稱啊\N{\3c&H000000&\fs40}giving other dudes nicknames?
+Dialogue: 0,0:50:30.56,0:50:32.12,1080P电影中字,,0,0,0,,就是我這種剛坐下來\N{\3c&H000000&\fs40}The kind of dude what just sat down
+Dialogue: 0,0:50:32.13,0:50:34.66,1080P电影中字,,0,0,0,,來給你點上雪茄的人 兄弟\N{\3c&H000000&\fs40}and is about to put you onto this blunt, nigga.
+Dialogue: 0,0:50:36.06,0:50:37.40,1080P电影中字,,0,0,0,,耶\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,0:50:37.40,0:50:39.23,1080P电影中字,,0,0,0,,你喜歡水嗎\N{\3c&H000000&\fs40}You like the water?
+Dialogue: 0,0:50:39.23,0:50:41.33,1080P电影中字,,0,0,0,,我可以給你點「火」\N{\3c&H000000&\fs40}I can introduce you to some "Fiyah."
+Dialogue: 0,0:51:04.92,0:51:07.09,1080P电影中字,,0,0,0,,試一下 兄弟 又不會咬你\N{\3c&H000000&\fs40}Come on, nigga. It ain't gonna bite you.
+Dialogue: 0,0:51:36.59,0:51:38.69,1080P电影中字,,0,0,0,,天哪 我還不知道你抽煙是這個樣子\N{\3c&H000000&\fs40}Damn, I didn't know you smoked like that.
+Dialogue: 0,0:51:41.23,0:51:43.63,1080P电影中字,,0,0,0,,我媽媽在家裏什麼都抽\N{\3c&H000000&\fs40}My mom leaves all types of shit around.
+Dialogue: 0,0:52:02.65,0:52:04.62,1080P电影中字,,0,0,0,,微風讓我感覺很舒服 哥們\N{\3c&H000000&\fs40}That breeze feel good as hell man.
+Dialogue: 0,0:52:06.42,0:52:07.89,1080P电影中字,,0,0,0,,確實是這樣\N{\3c&H000000&\fs40}Yeah, it do.
+Dialogue: 0,0:52:09.62,0:52:12.79,1080P电影中字,,0,0,0,,有時候在我們住的街道附近\N{\3c&H000000&\fs40}Sometimes round the way, where we live...
+Dialogue: 0,0:52:12.79,0:52:14.59,1080P电影中字,,0,0,0,,你都能感覺到同樣的風\N{\3c&H000000&\fs40}...you can catch that same breeze.
+Dialogue: 0,0:52:16.83,0:52:18.96,1080P电影中字,,0,0,0,,穿過住宅區 好像所有的事\N{\3c&H000000&\fs40}It just come through the hood and it's like everything stop
+Dialogue: 0,0:52:18.97,0:52:20.36,1080P电影中字,,0,0,0,,都暫時停下來了\N{\3c&H000000&\fs40}for a second...
+Dialogue: 0,0:52:21.30,0:52:23.97,1080P电影中字,,0,0,0,,因為所有人都想感受一下\N{\3c&H000000&\fs40}...'cause everyone just wanna feel it.
+Dialogue: 0,0:52:23.97,0:52:26.34,1080P电影中字,,0,0,0,,一切都變得安靜 你知道嗎\N{\3c&H000000&\fs40}Everything just gets quiet, you know?
+Dialogue: 0,0:52:28.34,0:52:32.18,1080P电影中字,,0,0,0,,你唯一能聽見的就是自己的心跳\N{\3c&H000000&\fs40}And it's like all you can hear is your own heartbeat.
+Dialogue: 0,0:52:32.18,0:52:33.61,1080P电影中字,,0,0,0,,是嗎\N{\3c&H000000&\fs40}Right?
+Dialogue: 0,0:52:35.28,0:52:36.75,1080P电影中字,,0,0,0,,對\N{\3c&H000000&\fs40}Yeah...
+Dialogue: 0,0:52:38.12,0:52:39.28,1080P电影中字,,0,0,0,,感覺真的很好 兄弟\N{\3c&H000000&\fs40}Feel so good, man.
+Dialogue: 0,0:52:39.29,0:52:40.89,1080P电影中字,,0,0,0,,真的很好\N{\3c&H000000&\fs40}So good...
+Dialogue: 0,0:52:42.45,0:52:45.92,1080P电影中字,,0,0,0,,見鬼 讓人想哭\N{\3c&H000000&\fs40}Hell, shit make you wanna cry, feel so good.
+Dialogue: 0,0:52:50.33,0:52:51.63,1080P电影中字,,0,0,0,,你哭了\N{\3c&H000000&\fs40}You cry?
+Dialogue: 0,0:52:53.23,0:52:54.70,1080P电影中字,,0,0,0,,沒有\N{\3c&H000000&\fs40}Nah.
+Dialogue: 0,0:52:55.57,0:52:57.23,1080P电影中字,,0,0,0,,只是想哭\N{\3c&H000000&\fs40}Makes me want to.
+Dialogue: 0,0:53:01.21,0:53:02.97,1080P电影中字,,0,0,0,,你為什麼哭\N{\3c&H000000&\fs40}What you cry about?
+Dialogue: 0,0:53:06.61,0:53:08.51,1080P电影中字,,0,0,0,,有時候我會哭個不停\N{\3c&H000000&\fs40}Shit, I cry so much sometimes
+Dialogue: 0,0:53:08.51,0:53:11.32,1080P电影中字,,0,0,0,,感覺自己都快變成水做的了\N{\3c&H000000&\fs40}I feel like I'm gon' just turn into drops.
+Dialogue: 0,0:53:16.15,0:53:18.39,1080P电影中字,,0,0,0,,感覺自己可以一頭扎進水裏 是嗎\N{\3c&H000000&\fs40}Think you can roll out into the water, right?
+Dialogue: 0,0:53:20.06,0:53:22.19,1080P电影中字,,0,0,0,,扎進水裏 就像所有人都想\N{\3c&H000000&\fs40}Roll out into the water like all these other motherfuckers
+Dialogue: 0,0:53:22.20,0:53:24.40,1080P电影中字,,0,0,0,,把麻煩事都拋在腦後\N{\3c&H000000&\fs40}around here trying to drown they sorrows.
+Dialogue: 0,0:53:26.87,0:53:28.20,1080P电影中字,,0,0,0,,你為什麼這麼說\N{\3c&H000000&\fs40}Why you say that?
+Dialogue: 0,0:53:29.03,0:53:31.07,1080P电影中字,,0,0,0,,我聽出你是這個意思 兄弟\N{\3c&H000000&\fs40}I'm just listening to you, nigga.
+Dialogue: 0,0:53:33.00,0:53:35.17,1080P电影中字,,0,0,0,,聽起來像是你想要做的事\N{\3c&H000000&\fs40}Sound like something you wanna do.
+Dialogue: 0,0:53:37.51,0:53:40.28,1080P电影中字,,0,0,0,,我想做很多講不通的事\N{\3c&H000000&\fs40}I wanna do a lot of things that don't make sense.
+Dialogue: 0,0:53:43.88,0:53:45.85,1080P电影中字,,0,0,0,,我沒有說講不通啊\N{\3c&H000000&\fs40}I didn't say it don't make sense.
+Dialogue: 0,0:53:50.96,0:53:54.29,1080P电影中字,,0,0,0,,但是和我說說 有什麼事\N{\3c&H000000&\fs40}But tell me, like-like what?
+Dialogue: 0,0:53:54.29,0:53:56.26,1080P电影中字,,0,0,0,,是你覺得講不通的\N{\3c&H000000&\fs40}Like what "Lot of things"?
+Dialogue: 0,0:53:57.06,0:53:58.70,1080P电影中字,,0,0,0,,天哪\N{\3c&H000000&\fs40}Damn dog...
+Dialogue: 0,0:53:59.73,0:54:01.40,1080P电影中字,,0,0,0,,你個八婆\N{\3c&H000000&\fs40}...you nosey.
+Dialogue: 0,0:54:03.37,0:54:05.04,1080P电影中字,,0,0,0,,奇倫現在也會罵人了\N{\3c&H000000&\fs40}Chiron cursing now, huh?
+Dialogue: 0,0:54:06.07,0:54:07.77,1080P电影中字,,0,0,0,,-你和我鬧呢 -隨便你怎麼說 哥們\N{\3c&H000000&\fs40}You trying to get smart with me? - Whatever, man.
+Dialogue: 0,0:54:07.77,0:54:11.34,1080P电影中字,,0,0,0,,你和我耍小聰明呢 奇倫\N{\3c&H000000&\fs40}Nah, you trying to get smart with me, huh chiron?
+Dialogue: 0,0:54:11.34,0:54:14.04,1080P电影中字,,0,0,0,,你和我耍小聰明呢\N{\3c&H000000&\fs40}Yeah, you trying to get smart with me, huh.
+Dialogue: 0,0:55:33.63,0:55:35.26,1080P电影中字,,0,0,0,,抱歉\N{\3c&H000000&\fs40}I'm sorry...
+Dialogue: 0,0:55:38.30,0:55:40.20,1080P电影中字,,0,0,0,,抱什麼歉\N{\3c&H000000&\fs40}What you gotta be sorry for?
+Dialogue: 0,0:56:27.45,0:56:29.88,1080P电影中字,,0,0,0,,你之前沒做過這樣的事吧\N{\3c&H000000&\fs40}You ain't never done nothing like that before, huh?
+Dialogue: 0,0:56:46.36,0:56:48.07,1080P电影中字,,0,0,0,,謝謝你載我回來 哥們\N{\3c&H000000&\fs40}Thanks for the ride, man.
+Dialogue: 0,0:56:49.03,0:56:50.53,1080P电影中字,,0,0,0,,不客氣 小黑\N{\3c&H000000&\fs40}No problem, black.
+Dialogue: 0,0:56:51.10,0:56:52.47,1080P电影中字,,0,0,0,,回見\N{\3c&H000000&\fs40}I'll see you around.
+Dialogue: 0,0:56:56.88,0:56:58.48,1080P电影中字,,0,0,0,,好\N{\3c&H000000&\fs40}Yeah...
+Dialogue: 0,0:56:59.28,0:57:00.64,1080P电影中字,,0,0,0,,回見\N{\3c&H000000&\fs40}...see you around.
+Dialogue: 0,0:57:53.47,0:57:55.03,1080P电影中字,,0,0,0,,過來 寶貝\N{\3c&H000000&\fs40}Come here, baby.
+Dialogue: 0,0:57:56.63,0:57:58.07,1080P电影中字,,0,0,0,,過來\N{\3c&H000000&\fs40}Come here.
+Dialogue: 0,0:58:00.81,0:58:03.34,1080P电影中字,,0,0,0,,你不再愛我了\N{\3c&H000000&\fs40}You don't love me no more...
+Dialogue: 0,0:58:04.44,0:58:05.94,1080P电影中字,,0,0,0,,
+Dialogue: 0,0:58:07.11,0:58:09.35,1080P电影中字,,0,0,0,,你不再愛我了啊\N{\3c&H000000&\fs40}You don't love me no more...
+Dialogue: 0,0:58:12.65,0:58:14.45,1080P电影中字,,0,0,0,,你是我的唯一\N{\3c&H000000&\fs40}You're my only.
+Dialogue: 0,0:58:16.22,0:58:18.02,1080P电影中字,,0,0,0,,我也是你的唯一\N{\3c&H000000&\fs40}I'm your only.
+Dialogue: 0,0:58:21.66,0:58:23.53,1080P电影中字,,0,0,0,,你是我的唯一\N{\3c&H000000&\fs40}You're my only...
+Dialogue: 0,0:58:45.88,0:58:48.55,1080P电影中字,,0,0,0,,-你好啊 凱文 -特雷爾 別來無恙\N{\3c&H000000&\fs40}- Yo, what's up, kev? - Terrell, what's up man?
+Dialogue: 0,0:58:49.82,0:58:52.02,1080P电影中字,,0,0,0,,嘿 上學真沒意思\N{\3c&H000000&\fs40}Hey, you know a nigga don't see school no more.
+Dialogue: 0,0:58:52.02,0:58:53.72,1080P电影中字,,0,0,0,,是啊 你說得對\N{\3c&H000000&\fs40}No, I hear you, man.
+Dialogue: 0,0:58:54.56,0:58:57.36,1080P电影中字,,0,0,0,,以前的午餐太難吃了\N{\3c&H000000&\fs40}Lunch used to be the shit, though.
+Dialogue: 0,0:58:57.36,0:58:59.70,1080P电影中字,,0,0,0,,吶 食物本來就沒好過\N{\3c&H000000&\fs40}Nah, the food wasn't never good.
+Dialogue: 0,0:58:59.70,0:59:01.73,1080P电影中字,,0,0,0,,老兄 我沒在說食物\N{\3c&H000000&\fs40}Man, I ain't talkin' 'bout the food.
+Dialogue: 0,0:59:01.73,0:59:04.87,1080P电影中字,,0,0,0,,但是週五的披薩真是爛到爆\N{\3c&H000000&\fs40}But that Friday pizza was the shit.
+Dialogue: 0,0:59:04.87,0:59:06.24,1080P电影中字,,0,0,0,,是啊 我懂你\N{\3c&H000000&\fs40}Yeah, I feel you.
+Dialogue: 0,0:59:06.24,0:59:07.91,1080P电影中字,,0,0,0,,但你還是否記得在中學的時候\N{\3c&H000000&\fs40}Nah, but you remember in middle school,
+Dialogue: 0,0:59:07.91,0:59:10.34,1080P电影中字,,0,0,0,,我們玩的遊戲\N{\3c&H000000&\fs40}that game we used to play?
+Dialogue: 0,0:59:10.34,0:59:12.34,1080P电影中字,,0,0,0,,「一拳打倒/躺在地下」\N{\3c&H000000&\fs40}"Knock down/stay down"?
+Dialogue: 0,0:59:13.38,0:59:16.28,1080P电影中字,,0,0,0,,是喲 我是玩那個遊戲的一把好手\N{\3c&H000000&\fs40}Yeah yo, my crazy ass was the king of that shit.
+Dialogue: 0,0:59:16.28,0:59:17.55,1080P电影中字,,0,0,0,,是 我記得\N{\3c&H000000&\fs40}Yeah I remember. Yo!
+Dialogue: 0,0:59:17.55,0:59:19.42,1080P电影中字,,0,0,0,,你記得被你虐翻了的那個白人小孩麼\N{\3c&H000000&\fs40}You remember that white kid you fucked up?
+Dialogue: 0,0:59:19.42,0:59:22.25,1080P电影中字,,0,0,0,,古巴佬是麼 馬裏西奧還是什麼\N{\3c&H000000&\fs40}Cuban cat, right? Mauricio or something?
+Dialogue: 0,0:59:22.25,0:59:24.96,1080P电影中字,,0,0,0,,對 你簡直把他虐慘了\N{\3c&H000000&\fs40}Oh yeah! Yo, you fucked that kid's face up!
+Dialogue: 0,0:59:24.96,0:59:27.79,1080P电影中字,,0,0,0,,從此以後我們可都叫你泰森\N{\3c&H000000&\fs40}We was calling you Tyson after that shit.
+Dialogue: 0,0:59:27.79,0:59:29.29,1080P电影中字,,0,0,0,,是啊\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,0:59:29.83,0:59:31.60,1080P电影中字,,0,0,0,,但是 啊\N{\3c&H000000&\fs40}Yo, but, uh...
+Dialogue: 0,0:59:31.60,0:59:33.73,1080P电影中字,,0,0,0,,現在大家都不這麼玩了\N{\3c&H000000&\fs40}...niggas don't do that shit no more.
+Dialogue: 0,0:59:33.73,0:59:36.33,1080P电影中字,,0,0,0,,有點可惜\N{\3c&H000000&\fs40}I mean... you know...
+Dialogue: 0,0:59:39.20,0:59:39.20,1080P电影中字,,0,0,0,,你想說什麼\N{\3c&H000000&\fs40}What you sayin'?
+Dialogue: 0,0:59:41.11,0:59:44.47,1080P电影中字,,0,0,0,,我說的是 如果我選中一個人\N{\3c&H000000&\fs40}I'm sayin' is, if I point a nigga out...
+Dialogue: 0,0:59:44.48,0:59:46.58,1080P电影中字,,0,0,0,,你會把他打趴下嗎\N{\3c&H000000&\fs40}...is you gonna knock his ass down?
+Dialogue: 0,0:59:50.58,0:59:52.92,1080P电影中字,,0,0,0,,這就是遊戲規則呀\N{\3c&H000000&\fs40}That's the game, ain't it?
+Dialogue: 0,0:59:52.92,0:59:55.45,1080P电影中字,,0,0,0,,你問我敢不敢打人 如果我打了責任就在你\N{\3c&H000000&\fs40}You dare me to swing on him and if I do, it's on you.
+Dialogue: 0,0:59:55.45,0:59:58.12,1080P电影中字,,0,0,0,,好啊 好啊 凱文\N{\3c&H000000&\fs40}A'ight. A'ight kev.
+Dialogue: 0,0:59:59.09,1:00:01.16,1080P电影中字,,0,0,0,,來看看誰今天要被打趴下咯\N{\3c&H000000&\fs40}Let me see who ass gettin' dropped today.
+Dialogue: 0,1:00:02.33,1:00:04.26,1080P电影中字,,0,0,0,,別再喝這個黏糊糊的果汁了\N{\3c&H000000&\fs40}Don't be drinking none of this gummy juice.
+Dialogue: 0,1:00:04.26,1:00:06.03,1080P电影中字,,0,0,0,,它會要了你的命\N{\3c&H000000&\fs40}Shit'll kill you.
+Dialogue: 0,1:00:54.88,1:00:56.45,1080P电影中字,,0,0,0,,喲 凱文\N{\3c&H000000&\fs40}Yo, kev.
+Dialogue: 0,1:00:59.88,1:01:01.39,1080P电影中字,,0,0,0,,打他\N{\3c&H000000&\fs40}Hit that nigga.
+Dialogue: 0,1:01:02.29,1:01:03.85,1080P电影中字,,0,0,0,,打他 凱文\N{\3c&H000000&\fs40}Hit that nigga, kev.
+Dialogue: 0,1:01:03.86,1:01:05.86,1080P电影中字,,0,0,0,,嘿 打那個基佬\N{\3c&H000000&\fs40}Yeah, hit his faggot ass!
+Dialogue: 0,1:01:06.79,1:01:10.46,1080P电影中字,,0,0,0,,你等啥呢 快上\N{\3c&H000000&\fs40}The fuck you waitin' on? Do it! Come on.
+Dialogue: 0,1:01:11.83,1:01:13.33,1080P电影中字,,0,0,0,,來吧\N{\3c&H000000&\fs40}Let's go.
+Dialogue: 0,1:01:18.84,1:01:20.54,1080P电影中字,,0,0,0,,你感覺如何 奇倫\N{\3c&H000000&\fs40}How you like that, chiron?
+Dialogue: 0,1:01:22.14,1:01:23.87,1080P电影中字,,0,0,0,,喲 我覺得他還想來一下\N{\3c&H000000&\fs40}Yo, I think he want another.
+Dialogue: 0,1:01:23.88,1:01:25.54,1080P电影中字,,0,0,0,,再給他一下 快\N{\3c&H000000&\fs40}Another one. Do it.
+Dialogue: 0,1:01:25.54,1:01:27.14,1080P电影中字,,0,0,0,,給他一拳\N{\3c&H000000&\fs40}Give it to him.
+Dialogue: 0,1:01:31.25,1:01:32.85,1080P电影中字,,0,0,0,,你最好別起來\N{\3c&H000000&\fs40}Don't you get up, bruh.
+Dialogue: 0,1:01:32.85,1:01:33.85,1080P电影中字,,0,0,0,,躺下\N{\3c&H000000&\fs40}You stay down!
+Dialogue: 0,1:01:33.85,1:01:36.69,1080P电影中字,,0,0,0,,如果他起來 再把他打倒\N{\3c&H000000&\fs40}Yeah if he get back up, knock his faggot ass back down.
+Dialogue: 0,1:01:36.69,1:01:39.36,1080P电影中字,,0,0,0,,-奇倫 躺下 -他起來了\N{\3c&H000000&\fs40}- Chiron, stay down! - He got up.
+Dialogue: 0,1:01:41.26,1:01:42.36,1080P电影中字,,0,0,0,,求你了老兄\N{\3c&H000000&\fs40}Come on, man.
+Dialogue: 0,1:01:42.36,1:01:43.36,1080P电影中字,,0,0,0,,躺下\N{\3c&H000000&\fs40}Stay down.
+Dialogue: 0,1:01:43.36,1:01:44.83,1080P电影中字,,0,0,0,,再來一拳\N{\3c&H000000&\fs40}Do it again.
+Dialogue: 0,1:01:46.03,1:01:48.40,1080P电影中字,,0,0,0,,打他 打他\N{\3c&H000000&\fs40}Do it! Do it!
+Dialogue: 0,1:02:17.50,1:02:19.26,1080P电影中字,,0,0,0,,聽著 小伙\N{\3c&H000000&\fs40}Listen, son...
+Dialogue: 0,1:02:22.07,1:02:24.60,1080P电影中字,,0,0,0,,如果你不起訴他們\N{\3c&H000000&\fs40}If you don't press charges...
+Dialogue: 0,1:02:24.60,1:02:27.30,1080P电影中字,,0,0,0,,我就無法防止這些事再次發生\N{\3c&H000000&\fs40}...I can't stop this from happening.
+Dialogue: 0,1:02:27.31,1:02:28.71,1080P电影中字,,0,0,0,,明白嗎\N{\3c&H000000&\fs40}Understand?
+Dialogue: 0,1:02:33.14,1:02:34.71,1080P电影中字,,0,0,0,,你不知道\N{\3c&H000000&\fs40}You don't even know.
+Dialogue: 0,1:02:34.71,1:02:37.15,1080P电影中字,,0,0,0,,-哦 我不懂嗎 -不懂\N{\3c&H000000&\fs40}- Oh I don't? - Nu-uh.
+Dialogue: 0,1:02:37.98,1:02:39.88,1080P电影中字,,0,0,0,,你認為這是最近才有的嗎 小孩兒\N{\3c&H000000&\fs40}You think all this just started, boy?
+Dialogue: 0,1:02:39.89,1:02:42.49,1080P电影中字,,0,0,0,,-我不是小孩兒 -你當然不是\N{\3c&H000000&\fs40}- I ain't no boy. - The hell you ain't.
+Dialogue: 0,1:02:43.96,1:02:45.42,1080P电影中字,,0,0,0,,如果你是個成年男人\N{\3c&H000000&\fs40}If you were a man
+Dialogue: 0,1:02:45.42,1:02:48.69,1080P电影中字,,0,0,0,,你旁邊就應該坐著其他四個蠢貨了\N{\3c&H000000&\fs40}there'd be four other knuckleheads sittin' right next to you.
+Dialogue: 0,1:02:56.37,1:02:58.44,1080P电影中字,,0,0,0,,你一點都不明白\N{\3c&H000000&\fs40}You don't even know.
+Dialogue: 0,1:02:59.90,1:03:02.37,1080P电影中字,,0,0,0,,聽著 小伙子 聽著\N{\3c&H000000&\fs40}Listen, son, listen.
+Dialogue: 0,1:03:02.37,1:03:03.97,1080P电影中字,,0,0,0,,聽我說\N{\3c&H000000&\fs40}Listen.
+Dialogue: 0,1:03:03.98,1:03:07.64,1080P电影中字,,0,0,0,,我不怪你\N{\3c&H000000&\fs40}I'm not blaming you... I'm not.
+Dialogue: 0,1:03:09.75,1:03:11.95,1080P电影中字,,0,0,0,,我知道這很難\N{\3c&H000000&\fs40}I know it's hard.
+Dialogue: 0,1:03:11.95,1:03:13.55,1080P电影中字,,0,0,0,,相信我\N{\3c&H000000&\fs40}Believe me.
+Dialogue: 0,1:03:15.69,1:03:17.99,1080P电影中字,,0,0,0,,我不是不尊重你的勇敢\N{\3c&H000000&\fs40}I'm not trying to disrespect your struggle.
+Dialogue: 0,1:03:19.82,1:03:22.39,1080P电影中字,,0,0,0,,我只是想讓你知道\N{\3c&H000000&\fs40}I just need you to know...
+Dialogue: 0,1:04:55.79,1:04:58.15,1080P电影中字,,0,0,0,,好吧 集中注意力\N{\3c&H000000&\fs40}All right, all right. Stay focused.
+Dialogue: 0,1:05:04.60,1:05:06.43,1080P电影中字,,0,0,0,,嘿 奇倫\N{\3c&H000000&\fs40}Hey-- hey, chiron!
+Dialogue: 0,1:05:12.97,1:05:14.84,1080P电影中字,,0,0,0,,放開我\N{\3c&H000000&\fs40}Get the fuck off me, niggas!
+Dialogue: 0,1:05:20.71,1:05:22.21,1080P电影中字,,0,0,0,,放開我\N{\3c&H000000&\fs40}Get the fuck off me!
+Dialogue: 0,1:06:27.35,1:06:28.35,1080P电影中字,,0,0,0,,不要看著我\N{\3c&H000000&\fs40}Don't look at me!
+Dialogue: 0,1:07:34.75,1:07:37.45,1080P电影中字,,0,0,0,,-你好 哥們 -喲 最近怎麼樣 老兄\N{\3c&H000000&\fs40}- Hello, homie? - Yo, what's good with you, b?
+Dialogue: 0,1:07:39.38,1:07:40.68,1080P电影中字,,0,0,0,,看上誰了\N{\3c&H000000&\fs40}vibing, vibing?
+Dialogue: 0,1:07:40.69,1:07:42.92,1080P电影中字,,0,0,0,,-什麼 -你是不是看上誰了\N{\3c&H000000&\fs40}- What's that? - You vibin'?
+Dialogue: 0,1:07:42.92,1:07:44.95,1080P电影中字,,0,0,0,,-我正在盡力 -盡力\N{\3c&H000000&\fs40}- I'm trying to. - Trying to?
+Dialogue: 0,1:07:44.96,1:07:46.62,1080P电影中字,,0,0,0,,那你的馬子呢\N{\3c&H000000&\fs40}So where the hos at?
+Dialogue: 0,1:07:48.93,1:07:50.16,1080P电影中字,,0,0,0,,老兄 你微笑的樣子\N{\3c&H000000&\fs40}Nigga, you smiling and shit
+Dialogue: 0,1:07:50.16,1:07:51.53,1080P电影中字,,0,0,0,,裝的跟不知道我在說啥一樣\N{\3c&H000000&\fs40}like you don't know what the fuck I'm talking about.
+Dialogue: 0,1:07:51.53,1:07:52.93,1080P电影中字,,0,0,0,,你馬子呢 老兄\N{\3c&H000000&\fs40}Where the hos at, nigga?
+Dialogue: 0,1:07:52.93,1:07:55.57,1080P电影中字,,0,0,0,,我不知道 你說呢\N{\3c&H000000&\fs40}I don't know. You tell me.
+Dialogue: 0,1:07:55.57,1:07:57.07,1080P电影中字,,0,0,0,,那個街角住著一個漂亮姑娘\N{\3c&H000000&\fs40}There's this bitch that stay down the corner.
+Dialogue: 0,1:07:57.07,1:07:58.87,1080P电影中字,,0,0,0,,名字叫啥\N{\3c&H000000&\fs40}What's her name?
+Dialogue: 0,1:07:58.87,1:08:00.77,1080P电影中字,,0,0,0,,-阿佛羅德西亞 -你編的吧\N{\3c&H000000&\fs40}- Afrodesia. - You making that up.
+Dialogue: 0,1:08:00.77,1:08:02.54,1080P电影中字,,0,0,0,,我不信你\N{\3c&H000000&\fs40}I don't believe you.
+Dialogue: 0,1:08:02.54,1:08:05.14,1080P电影中字,,0,0,0,,我從沒見過你和哪個女的在一起 我不信你\N{\3c&H000000&\fs40}I ain't never seen you with no bitch, I don't believe you.
+Dialogue: 0,1:08:05.14,1:08:08.14,1080P电影中字,,0,0,0,,-她的名字阿佛羅德西亞 -她在哪\N{\3c&H000000&\fs40}- Her name afrodesia. - Her name afrodesia? Where she at?
+Dialogue: 0,1:08:08.15,1:08:09.71,1080P电影中字,,0,0,0,,-她只在夜間出沒 -好吧\N{\3c&H000000&\fs40}- She only come out at night. - Okay.
+Dialogue: 0,1:08:09.71,1:08:11.75,1080P电影中字,,0,0,0,,-是啊 -嗯\N{\3c&H000000&\fs40}- Yeah. - Okay.
+Dialogue: 0,1:09:04.67,1:09:06.77,1080P电影中字,,0,0,0,,錢少了 特拉維斯\N{\3c&H000000&\fs40}You short, Travis.
+Dialogue: 0,1:09:06.77,1:09:09.51,1080P电影中字,,0,0,0,,-等等 什麼 -剩下那部分錢呢\N{\3c&H000000&\fs40}- Wait, what? - Where the rest of the roll?
+Dialogue: 0,1:09:09.51,1:09:10.87,1080P电影中字,,0,0,0,,都在這了\N{\3c&H000000&\fs40}It's all there.
+Dialogue: 0,1:09:11.68,1:09:12.81,1080P电影中字,,0,0,0,,你也許覺得我磕嗨了\N{\3c&H000000&\fs40}I mean you might think I tripping,
+Dialogue: 0,1:09:12.81,1:09:14.94,1080P电影中字,,0,0,0,,我給你的時候一定是齊的\N{\3c&H000000&\fs40}when I handed it to you it was all there.
+Dialogue: 0,1:09:14.95,1:09:15.95,1080P电影中字,,0,0,0,,沒事\N{\3c&H000000&\fs40}It's a'ight.
+Dialogue: 0,1:09:17.01,1:09:20.18,1080P电影中字,,0,0,0,,如果都在這了 那你數數吧 特拉維斯\N{\3c&H000000&\fs40}If it's all there then count that shit then, trav.
+Dialogue: 0,1:09:20.19,1:09:22.25,1080P电影中字,,0,0,0,,如果都在這兒 數數吧\N{\3c&H000000&\fs40}Count it. If it's all there.
+Dialogue: 0,1:09:39.74,1:09:41.34,1080P电影中字,,0,0,0,,讓開 你擋著我了\N{\3c&H000000&\fs40}Move, you're in my spot.
+Dialogue: 0,1:09:41.34,1:09:42.81,1080P电影中字,,0,0,0,,讓開\N{\3c&H000000&\fs40}Move.
+Dialogue: 0,1:09:45.41,1:09:47.28,1080P电影中字,,0,0,0,,把我的錢拿過來\N{\3c&H000000&\fs40}Give me my fucking money.
+Dialogue: 0,1:09:49.35,1:09:50.88,1080P电影中字,,0,0,0,,你是說我騙你咯\N{\3c&H000000&\fs40}You sayin' I'm a liar?
+Dialogue: 0,1:09:51.58,1:09:53.15,1080P电影中字,,0,0,0,,好吧\N{\3c&H000000&\fs40}All right.
+Dialogue: 0,1:09:53.15,1:09:54.62,1080P电影中字,,0,0,0,,我並沒這麼說\N{\3c&H000000&\fs40}I ain't say that.
+Dialogue: 0,1:09:54.62,1:09:56.69,1080P电影中字,,0,0,0,,我告訴你數數少了多少 你說沒少\N{\3c&H000000&\fs40}I told you to count what's off and you said it wasn't.
+Dialogue: 0,1:09:56.69,1:09:59.02,1080P电影中字,,0,0,0,,那你就是在說我在說謊咯\N{\3c&H000000&\fs40}That's you calling me a liar.
+Dialogue: 0,1:09:59.02,1:10:00.92,1080P电影中字,,0,0,0,,我只是告訴你\N{\3c&H000000&\fs40}Nah, all I did was tell you that--
+Dialogue: 0,1:10:00.93,1:10:02.86,1080P电影中字,,0,0,0,,你說什麼\N{\3c&H000000&\fs40}you-you did what?
+Dialogue: 0,1:10:11.20,1:10:13.00,1080P电影中字,,0,0,0,,我他媽跟你開玩笑的\N{\3c&H000000&\fs40}I'm just fucking with you.
+Dialogue: 0,1:10:14.54,1:10:15.81,1080P电影中字,,0,0,0,,
+Dialogue: 0,1:10:17.21,1:10:18.88,1080P电影中字,,0,0,0,,數得沒錯\N{\3c&H000000&\fs40}Count good.
+Dialogue: 0,1:10:20.64,1:10:22.15,1080P电影中字,,0,0,0,,做得也沒錯\N{\3c&H000000&\fs40}Did real good.
+Dialogue: 0,1:10:22.61,1:10:24.11,1080P电影中字,,0,0,0,,給\N{\3c&H000000&\fs40}Here.
+Dialogue: 0,1:10:26.78,1:10:28.05,1080P电影中字,,0,0,0,,做這一行 如果忍受不了別人耍你\N{\3c&H000000&\fs40}Can't be on the corner if you can't take a nigga
+Dialogue: 0,1:10:28.05,1:10:30.29,1080P电影中字,,0,0,0,,你很難立足的 懂我吧\N{\3c&H000000&\fs40}just fuckin' with you, you feel me?
+Dialogue: 0,1:10:30.29,1:10:31.92,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:10:58.25,1:11:01.62,1080P电影中字,,0,0,0,,奇倫 媽媽來電話啦\N{\3c&H000000&\fs40}Chiron, this your mama.
+Dialogue: 0,1:11:03.25,1:11:06.26,1080P电影中字,,0,0,0,,我知道很晚了\N{\3c&H000000&\fs40}I know it's late but...
+Dialogue: 0,1:11:06.26,1:11:10.59,1080P电影中字,,0,0,0,,但我猜你從不早睡\N{\3c&H000000&\fs40}...I figured you ain't never been one much for sleep.
+Dialogue: 0,1:11:10.60,1:11:13.56,1080P电影中字,,0,0,0,,亞特蘭大沒那麼大吧\N{\3c&H000000&\fs40}Atlanta ain't but so big...
+Dialogue: 0,1:11:13.57,1:11:16.70,1080P电影中字,,0,0,0,,我還是希望 你能時不時回來看看媽媽\N{\3c&H000000&\fs40}...seemin' me you come see your mama from time to time.
+Dialogue: 0,1:11:19.40,1:11:21.74,1080P电影中字,,0,0,0,,做個好夢 寶貝\N{\3c&H000000&\fs40}Hope you gettin' some rest, baby.
+Dialogue: 0,1:11:23.37,1:11:25.24,1080P电影中字,,0,0,0,,希望不久後你能回來\N{\3c&H000000&\fs40}Hope you come by soon.
+Dialogue: 0,1:11:44.30,1:11:45.83,1080P电影中字,,0,0,0,,媽 已經太晚了\N{\3c&H000000&\fs40}Ma, it's late.
+Dialogue: 0,1:11:45.83,1:11:48.00,1080P电影中字,,0,0,0,,我明天就去看你 我保證\N{\3c&H000000&\fs40}I'll be there tomorrow, I promise.
+Dialogue: 0,1:11:49.43,1:11:50.77,1080P电影中字,,0,0,0,,嘿\N{\3c&H000000&\fs40}Hello?
+Dialogue: 0,1:11:52.27,1:11:53.90,1080P电影中字,,0,0,0,,嘿 小黑\N{\3c&H000000&\fs40}Hey black,
+Dialogue: 0,1:11:53.91,1:11:56.94,1080P电影中字,,0,0,0,,嗯 我是說 奇倫\N{\3c&H000000&\fs40}I mean... chiron.
+Dialogue: 0,1:11:58.71,1:12:01.94,1080P电影中字,,0,0,0,,你好 老兄 我是凱文\N{\3c&H000000&\fs40}What's up, man. This... this Kevin.
+Dialogue: 0,1:12:05.85,1:12:07.25,1080P电影中字,,0,0,0,,你在嗎\N{\3c&H000000&\fs40}You there?
+Dialogue: 0,1:12:07.62,1:12:09.15,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah...
+Dialogue: 0,1:12:09.79,1:12:11.92,1080P电影中字,,0,0,0,,很久不見了 對吧\N{\3c&H000000&\fs40}Long time, no see, right?
+Dialogue: 0,1:12:13.56,1:12:16.06,1080P电影中字,,0,0,0,,老兄 我跟特瑞莎要了你的電話\N{\3c&H000000&\fs40}Man, I had to ask Teresa for your number, and...
+Dialogue: 0,1:12:18.20,1:12:22.43,1080P电影中字,,0,0,0,,等等 老兄 你還記得我吧\N{\3c&H000000&\fs40}Hold on, man. You do-you do remember me, right?
+Dialogue: 0,1:12:25.77,1:12:27.94,1080P电影中字,,0,0,0,,是啊 我記得\N{\3c&H000000&\fs40}Yeah, I do.
+Dialogue: 0,1:12:29.97,1:12:31.51,1080P电影中字,,0,0,0,,真是過去好久了\N{\3c&H000000&\fs40}Been a while.
+Dialogue: 0,1:12:31.51,1:12:34.08,1080P电影中字,,0,0,0,,是啊是啊 老兄\N{\3c&H000000&\fs40}Yeah. Yeah, it has, man.
+Dialogue: 0,1:12:35.61,1:12:38.41,1080P电影中字,,0,0,0,,所以 嗯 你現在在哪\N{\3c&H000000&\fs40}So, uh, where you at now, man?
+Dialogue: 0,1:12:40.35,1:12:41.82,1080P电影中字,,0,0,0,,佐治亞\N{\3c&H000000&\fs40}Georgia.
+Dialogue: 0,1:12:42.39,1:12:43.92,1080P电影中字,,0,0,0,,亞特蘭大\N{\3c&H000000&\fs40}Atlanta.
+Dialogue: 0,1:12:45.89,1:12:47.66,1080P电影中字,,0,0,0,,我從那之後就一直在這裏了\N{\3c&H000000&\fs40}I've been up here ever since...
+Dialogue: 0,1:12:47.66,1:12:49.83,1080P电影中字,,0,0,0,,嗯 嗯 我聽說了\N{\3c&H000000&\fs40}Yeah. Yeah, man, that's what I heard.
+Dialogue: 0,1:12:49.83,1:12:51.39,1080P电影中字,,0,0,0,,是啊\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:13:01.24,1:13:04.31,1080P电影中字,,0,0,0,,嘿 老兄 我對之前發生的事情很抱歉\N{\3c&H000000&\fs40}Hey, man, I'm sorry about all that...
+Dialogue: 0,1:13:04.31,1:13:08.44,1080P电影中字,,0,0,0,,那些不應該發生的破事 抱歉\N{\3c&H000000&\fs40}All that... Shit what went down... chiron.
+Dialogue: 0,1:13:08.45,1:13:10.48,1080P电影中字,,0,0,0,,我是混蛋 真的\N{\3c&H000000&\fs40}Real shit, dawg, I am.
+Dialogue: 0,1:13:21.59,1:13:23.36,1080P电影中字,,0,0,0,,所以\N{\3c&H000000&\fs40}So, uh...
+Dialogue: 0,1:13:24.36,1:13:26.30,1080P电影中字,,0,0,0,,你現在在做什麼\N{\3c&H000000&\fs40}...what you doin' up there, man?
+Dialogue: 0,1:13:27.06,1:13:28.93,1080P电影中字,,0,0,0,,沒啥 都是\N{\3c&H000000&\fs40}Not much. Just...
+Dialogue: 0,1:13:29.87,1:13:31.27,1080P电影中字,,0,0,0,,麻煩事\N{\3c&H000000&\fs40}...just trouble.
+Dialogue: 0,1:13:32.74,1:13:36.47,1080P电影中字,,0,0,0,,奇倫總愛惹麻煩啊\N{\3c&H000000&\fs40}Chiron and trouble always found a way.
+Dialogue: 0,1:13:36.47,1:13:38.78,1080P电影中字,,0,0,0,,是啊 差不多吧\N{\3c&H000000&\fs40}Yeah... something like that.
+Dialogue: 0,1:13:43.78,1:13:45.68,1080P电影中字,,0,0,0,,你呢\N{\3c&H000000&\fs40}What about you?
+Dialogue: 0,1:13:45.68,1:13:46.95,1080P电影中字,,0,0,0,,我\N{\3c&H000000&\fs40}Me?
+Dialogue: 0,1:13:47.68,1:13:49.62,1080P电影中字,,0,0,0,,我是個廚子\N{\3c&H000000&\fs40}I'm a cook, man.
+Dialogue: 0,1:13:52.46,1:13:54.59,1080P电影中字,,0,0,0,,你 你當廚子了\N{\3c&H000000&\fs40}Y-y-you a cook?
+Dialogue: 0,1:13:54.59,1:13:56.33,1080P电影中字,,0,0,0,,是啊\N{\3c&H000000&\fs40}Yeah, buddy.
+Dialogue: 0,1:13:57.26,1:13:59.53,1080P电影中字,,0,0,0,,我之前被派去做一些愚蠢的活計\N{\3c&H000000&\fs40}Man, I got sent up for some stupid shit-
+Dialogue: 0,1:13:59.53,1:14:02.17,1080P电影中字,,0,0,0,,就像之前一樣\N{\3c&H000000&\fs40}the same stupid shit we always get sent up for.
+Dialogue: 0,1:14:02.17,1:14:04.57,1080P电影中字,,0,0,0,,他們把我分配到廚房\N{\3c&H000000&\fs40}They put me on the kitchen line, man,
+Dialogue: 0,1:14:04.57,1:14:06.30,1080P电影中字,,0,0,0,,我覺得還不錯\N{\3c&H000000&\fs40}and I kinda took to it.
+Dialogue: 0,1:14:07.27,1:14:09.04,1080P电影中字,,0,0,0,,不管怎麼說 我只\N{\3c&H000000&\fs40}Anyway, man, I just--
+Dialogue: 0,1:14:09.04,1:14:11.47,1080P电影中字,,0,0,0,,我只是很想你\N{\3c&H000000&\fs40}I just thought about you, man. I...
+Dialogue: 0,1:14:11.48,1:14:14.44,1080P电影中字,,0,0,0,,這裏有個點唱機\N{\3c&H000000&\fs40}We got this jukebox in here and, uh...
+Dialogue: 0,1:14:14.45,1:14:15.88,1080P电影中字,,0,0,0,,有人點歌 它就會播放\N{\3c&H000000&\fs40}...and folks come by and play they songs,
+Dialogue: 0,1:14:15.88,1:14:17.91,1080P电影中字,,0,0,0,,點唱機裏的唱片\N{\3c&H000000&\fs40}that's the music we get in here...
+Dialogue: 0,1:14:19.05,1:14:20.88,1080P电影中字,,0,0,0,,有一首歌\N{\3c&H000000&\fs40}This dude, man...
+Dialogue: 0,1:14:24.12,1:14:25.86,1080P电影中字,,0,0,0,,讓我想起了你\N{\3c&H000000&\fs40}...just reminded me of you.
+Dialogue: 0,1:14:29.33,1:14:30.33,1080P电影中字,,0,0,0,,所以\N{\3c&H000000&\fs40}So, uh...
+Dialogue: 0,1:14:31.73,1:14:36.17,1080P电影中字,,0,0,0,,嘿 如果你什麼時候來城裏 記得來和我打招呼\N{\3c&H000000&\fs40}Hey man, if you ever come to town, man, you come holla at me.
+Dialogue: 0,1:14:36.17,1:14:37.83,1080P电影中字,,0,0,0,,我可以給你做點什麼吃\N{\3c&H000000&\fs40}I'll cook you somethin'.
+Dialogue: 0,1:14:38.54,1:14:39.77,1080P电影中字,,0,0,0,,也許\N{\3c&H000000&\fs40}Maybe...
+Dialogue: 0,1:14:40.44,1:14:42.37,1080P电影中字,,0,0,0,,也許可以給你點那首歌\N{\3c&H000000&\fs40}Maybe play that song for you.
+Dialogue: 0,1:14:44.51,1:14:47.34,1080P电影中字,,0,0,0,,好啦 老兄 好好睡吧\N{\3c&H000000&\fs40}All right man, um... You be easy, all right?
+Dialogue: 0,1:16:39.76,1:16:41.32,1080P电影中字,,0,0,0,,你最近怎麼樣\N{\3c&H000000&\fs40}How you been?
+Dialogue: 0,1:16:42.23,1:16:43.96,1080P电影中字,,0,0,0,,我很好啊\N{\3c&H000000&\fs40}I'm all right.
+Dialogue: 0,1:16:43.96,1:16:45.39,1080P电影中字,,0,0,0,,還是睡不著\N{\3c&H000000&\fs40}I ain't sleepin'.
+Dialogue: 0,1:16:45.40,1:16:46.80,1080P电影中字,,0,0,0,,為什麼呢\N{\3c&H000000&\fs40}Why not?
+Dialogue: 0,1:16:48.03,1:16:50.40,1080P电影中字,,0,0,0,,-嗯 如果你知道 -做惡夢\N{\3c&H000000&\fs40}- Right. If you knew you'd... - Bad dreamin'.
+Dialogue: 0,1:16:50.40,1:16:51.90,1080P电影中字,,0,0,0,,還是嗎\N{\3c&H000000&\fs40}Still?
+Dialogue: 0,1:16:54.71,1:16:57.31,1080P电影中字,,0,0,0,,你都沒嘗試過跟誰說說\N{\3c&H000000&\fs40}You ever thought about talking about it with somebody?
+Dialogue: 0,1:16:59.01,1:17:01.18,1080P电影中字,,0,0,0,,甚至不需要是一個心理顧問\N{\3c&H000000&\fs40}Maybe not even a counsellor.
+Dialogue: 0,1:17:01.18,1:17:03.55,1080P电影中字,,0,0,0,,也許可以跟你媽媽說說\N{\3c&H000000&\fs40}Maybe somebody like your mama?
+Dialogue: 0,1:17:07.32,1:17:08.99,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah...
+Dialogue: 0,1:17:08.99,1:17:11.59,1080P电影中字,,0,0,0,,嗯 我也覺得這麼說挺好笑的\N{\3c&H000000&\fs40}Yeah, it sound funny to me too.
+Dialogue: 0,1:17:15.26,1:17:17.16,1080P电影中字,,0,0,0,,你和特瑞莎聊過了嗎\N{\3c&H000000&\fs40}You talk to Teresa?
+Dialogue: 0,1:17:18.53,1:17:19.86,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:17:20.63,1:17:22.06,1080P电影中字,,0,0,0,,她怎麼樣\N{\3c&H000000&\fs40}How she doing?
+Dialogue: 0,1:17:23.03,1:17:24.83,1080P电影中字,,0,0,0,,很好\N{\3c&H000000&\fs40}Good.
+Dialogue: 0,1:17:24.84,1:17:26.44,1080P电影中字,,0,0,0,,「很好」\N{\3c&H000000&\fs40}"Good."
+Dialogue: 0,1:17:31.41,1:17:33.11,1080P电影中字,,0,0,0,,媽 你打算什麼時候回家\N{\3c&H000000&\fs40}When you go home, ma?
+Dialogue: 0,1:17:34.18,1:17:35.71,1080P电影中字,,0,0,0,,家\N{\3c&H000000&\fs40}Home?
+Dialogue: 0,1:17:37.85,1:17:40.38,1080P电影中字,,0,0,0,,這裏就是家 你知道\N{\3c&H000000&\fs40}This is home. You know...
+Dialogue: 0,1:17:40.39,1:17:41.98,1080P电影中字,,0,0,0,,我是說 他們願意留下我工作\N{\3c&H000000&\fs40}I mean, they allowing me to stay and work
+Dialogue: 0,1:17:41.99,1:17:45.05,1080P电影中字,,0,0,0,,多久都行 我覺得\N{\3c&H000000&\fs40}as long as I like. I figure...
+Dialogue: 0,1:17:45.06,1:17:47.59,1080P电影中字,,0,0,0,,能幫幫別人也是好事\N{\3c&H000000&\fs40}...might as well help other folks.
+Dialogue: 0,1:17:48.46,1:17:50.53,1080P电影中字,,0,0,0,,讓我不惹麻煩\N{\3c&H000000&\fs40}Keep myself out of trouble.
+Dialogue: 0,1:17:54.77,1:17:56.47,1080P电影中字,,0,0,0,,挺好的 媽\N{\3c&H000000&\fs40}That's good, mama.
+Dialogue: 0,1:17:56.47,1:17:58.17,1080P电影中字,,0,0,0,,是啊\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:17:58.17,1:18:00.50,1080P电影中字,,0,0,0,,是啊 我也這麼想\N{\3c&H000000&\fs40}Yeah, I think it is too.
+Dialogue: 0,1:18:00.51,1:18:02.24,1080P电影中字,,0,0,0,,真的\N{\3c&H000000&\fs40}I really do.
+Dialogue: 0,1:18:07.18,1:18:09.35,1080P电影中字,,0,0,0,,你還在街上做生意嗎\N{\3c&H000000&\fs40}So, you still in them streets?
+Dialogue: 0,1:18:13.92,1:18:15.75,1080P电影中字,,0,0,0,,你大老遠跑去佐治亞\N{\3c&H000000&\fs40}Didn't come all the way the hell to Georgia
+Dialogue: 0,1:18:15.75,1:18:17.19,1080P电影中字,,0,0,0,,卻干了同樣齷齪的勾當\N{\3c&H000000&\fs40}to have you fallin' in the same shit,
+Dialogue: 0,1:18:17.19,1:18:18.35,1080P电影中字,,0,0,0,,-奇倫 -我要走了 要走了\N{\3c&H000000&\fs40}-chiron. - Im'ma go. Im'ma go--
+Dialogue: 0,1:18:18.36,1:18:20.26,1080P电影中字,,0,0,0,,不 不不不 你聽著\N{\3c&H000000&\fs40}no, no, no, no, you gon' listen!
+Dialogue: 0,1:18:20.26,1:18:22.63,1080P电影中字,,0,0,0,,聽你的嗎 媽媽\N{\3c&H000000&\fs40}To who, ma? Huh?
+Dialogue: 0,1:18:22.63,1:18:24.09,1080P电影中字,,0,0,0,,聽你的嗎\N{\3c&H000000&\fs40}To you?
+Dialogue: 0,1:18:24.10,1:18:25.83,1080P电影中字,,0,0,0,,真的假的\N{\3c&H000000&\fs40}Really, though?
+Dialogue: 0,1:18:27.26,1:18:28.73,1080P电影中字,,0,0,0,,拜託\N{\3c&H000000&\fs40}Please...
+Dialogue: 0,1:18:29.30,1:18:30.63,1080P电影中字,,0,0,0,,拜託\N{\3c&H000000&\fs40}Please...
+Dialogue: 0,1:18:42.45,1:18:44.31,1080P电影中字,,0,0,0,,我是個廢物\N{\3c&H000000&\fs40}I messed up.
+Dialogue: 0,1:18:47.02,1:18:49.82,1080P电影中字,,0,0,0,,我曾經毀滅了生活中的一切\N{\3c&H000000&\fs40}I fucked it all the way up.
+Dialogue: 0,1:18:51.59,1:18:53.32,1080P电影中字,,0,0,0,,我知道\N{\3c&H000000&\fs40}I know that.
+Dialogue: 0,1:18:55.26,1:18:58.46,1080P电影中字,,0,0,0,,但是你不要走我的老路啊 寶貝\N{\3c&H000000&\fs40}But yo' heart ain't gotta be black like mine, baby.
+Dialogue: 0,1:19:04.10,1:19:06.37,1080P电影中字,,0,0,0,,我愛你 奇倫\N{\3c&H000000&\fs40}I love you, chiron.
+Dialogue: 0,1:19:08.07,1:19:09.77,1080P电影中字,,0,0,0,,真的\N{\3c&H000000&\fs40}I do.
+Dialogue: 0,1:19:12.68,1:19:14.61,1080P电影中字,,0,0,0,,我愛你 寶貝\N{\3c&H000000&\fs40}I love you, baby.
+Dialogue: 0,1:19:16.45,1:19:18.88,1080P电影中字,,0,0,0,,但是你不愛我也沒關係\N{\3c&H000000&\fs40}But you ain't gotta love me.
+Dialogue: 0,1:19:18.88,1:19:21.48,1080P电影中字,,0,0,0,,上帝知道我沒有在你需要的時候給你我的愛\N{\3c&H000000&\fs40}Lord knows I did not have love for you when you needed it,
+Dialogue: 0,1:19:21.49,1:19:23.32,1080P电影中字,,0,0,0,,我知道\N{\3c&H000000&\fs40}I know that.
+Dialogue: 0,1:19:25.09,1:19:27.12,1080P电影中字,,0,0,0,,所以你不愛我沒關係\N{\3c&H000000&\fs40}So you ain't gotta love me...
+Dialogue: 0,1:19:28.36,1:19:31.56,1080P电影中字,,0,0,0,,但你要知道我愛你\N{\3c&H000000&\fs40}...but you gon' know that I love you.
+Dialogue: 0,1:19:34.30,1:19:35.70,1080P电影中字,,0,0,0,,聽到了\N{\3c&H000000&\fs40}You hear?
+Dialogue: 0,1:19:38.17,1:19:40.07,1080P电影中字,,0,0,0,,你聽見了嗎 奇倫\N{\3c&H000000&\fs40}You hear me, chiron?
+Dialogue: 0,1:19:43.14,1:19:44.81,1080P电影中字,,0,0,0,,聽見了 媽媽\N{\3c&H000000&\fs40}I hear you, mama.
+Dialogue: 0,1:19:57.52,1:19:58.92,1080P电影中字,,0,0,0,,我來\N{\3c&H000000&\fs40}Here.
+Dialogue: 0,1:20:33.72,1:20:35.69,1080P电影中字,,0,0,0,,我很抱歉 寶貝\N{\3c&H000000&\fs40}I'm sorry, baby.
+Dialogue: 0,1:20:38.33,1:20:40.43,1080P电影中字,,0,0,0,,我非常抱歉\N{\3c&H000000&\fs40}I'm so sorry.
+Dialogue: 0,1:20:51.37,1:20:53.08,1080P电影中字,,0,0,0,,過來 媽媽\N{\3c&H000000&\fs40}Come here, mama.
+Dialogue: 0,1:23:34.90,1:23:36.34,1080P电影中字,,0,0,0,,請稍等\N{\3c&H000000&\fs40}Be right with you.
+Dialogue: 0,1:23:58.90,1:24:00.46,1080P电影中字,,0,0,0,,兩位吃的好嗎\N{\3c&H000000&\fs40}How y'all doin'?
+Dialogue: 0,1:24:00.46,1:24:01.86,1080P电影中字,,0,0,0,,好嗎 那很好\N{\3c&H000000&\fs40}Good? All right.
+Dialogue: 0,1:24:01.87,1:24:03.47,1080P电影中字,,0,0,0,,我把這些收拾了\N{\3c&H000000&\fs40}I'll take these.
+Dialogue: 0,1:24:05.07,1:24:06.40,1080P电影中字,,0,0,0,,一會回來把賬單給您\N{\3c&H000000&\fs40}I'll be right back with your check.
+Dialogue: 0,1:24:10.61,1:24:11.94,1080P电影中字,,0,0,0,,一會兒來招待您\N{\3c&H000000&\fs40}Be right with you, boss,
+Dialogue: 0,1:24:11.94,1:24:14.64,1080P电影中字,,0,0,0,,讓我收拾一下\N{\3c&H000000&\fs40}just let me get this out the way.
+Dialogue: 0,1:24:28.66,1:24:30.33,1080P电影中字,,0,0,0,,好了\N{\3c&H000000&\fs40}All right...
+Dialogue: 0,1:24:31.86,1:24:34.66,1080P电影中字,,0,0,0,,好了先生 您要點什麼\N{\3c&H000000&\fs40}All right, man, how you doing tonight?
+Dialogue: 0,1:24:34.67,1:24:36.10,1080P电影中字,,0,0,0,,我能為您\N{\3c&H000000&\fs40}What can I get you--
+Dialogue: 0,1:24:37.63,1:24:39.17,1080P电影中字,,0,0,0,,奇倫\N{\3c&H000000&\fs40}chiron?
+Dialogue: 0,1:24:42.91,1:24:45.31,1080P电影中字,,0,0,0,,天 老兄 你怎麼不說話\N{\3c&H000000&\fs40}Damn man, why you ain't say nothin'?
+Dialogue: 0,1:24:58.22,1:24:59.99,1080P电影中字,,0,0,0,,你好嗎 凱文\N{\3c&H000000&\fs40}'Sup, kev?
+Dialogue: 0,1:25:01.12,1:25:02.56,1080P电影中字,,0,0,0,,哎呀 老兄\N{\3c&H000000&\fs40}Damn, man,what--
+Dialogue: 0,1:25:03.13,1:25:04.89,1080P电影中字,,0,0,0,,你在這裏做什麼\N{\3c&H000000&\fs40}what you doing down here?
+Dialogue: 0,1:25:04.90,1:25:06.36,1080P电影中字,,0,0,0,,我是說\N{\3c&H000000&\fs40}I mean--
+Dialogue: 0,1:25:07.80,1:25:09.26,1080P电影中字,,0,0,0,,嘿\N{\3c&H000000&\fs40}hey, hey...
+Dialogue: 0,1:25:10.23,1:25:12.73,1080P电影中字,,0,0,0,,你來了 這是最重要的事情\N{\3c&H000000&\fs40}You here now, man, that's all that matter.
+Dialogue: 0,1:25:15.87,1:25:17.87,1080P电影中字,,0,0,0,,又來了 只會點頭啊 老夥計\N{\3c&H000000&\fs40}There go that damn noddin' again, man,
+Dialogue: 0,1:25:17.88,1:25:20.94,1080P电影中字,,0,0,0,,你真是一點都沒變\N{\3c&H000000&\fs40}you ain't-you ain't changed one damn bit.
+Dialogue: 0,1:25:20.95,1:25:24.81,1080P电影中字,,0,0,0,,你現在還是不能一次說三個字以上嗎\N{\3c&H000000&\fs40}You still can't say more than three words at a time, huh?
+Dialogue: 0,1:25:24.82,1:25:26.88,1080P电影中字,,0,0,0,,你說過要為我做點吃的\N{\3c&H000000&\fs40}Said you was gon' cook for me,
+Dialogue: 0,1:25:26.88,1:25:28.72,1080P电影中字,,0,0,0,,這我還是會說的\N{\3c&H000000&\fs40}I know how to say that.
+Dialogue: 0,1:25:29.72,1:25:32.49,1080P电影中字,,0,0,0,,是啊 我的確說過 對吧\N{\3c&H000000&\fs40}Yeah, I did say that, didn't I?
+Dialogue: 0,1:25:32.49,1:25:34.76,1080P电影中字,,0,0,0,,看你這身材可不缺吃的\N{\3c&H000000&\fs40}Don't look like your ass been missing no meals.
+Dialogue: 0,1:25:34.76,1:25:37.13,1080P电影中字,,0,0,0,,是啊\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:25:37.13,1:25:38.93,1080P电影中字,,0,0,0,,沒事 我來弄點吃的 你坐吧\N{\3c&H000000&\fs40}But I got you, man. Sit down.
+Dialogue: 0,1:25:38.93,1:25:40.70,1080P电影中字,,0,0,0,,坐下 老兄 你想要點啥\N{\3c&H000000&\fs40}Sit down, man. What you want?
+Dialogue: 0,1:25:41.80,1:25:45.30,1080P电影中字,,0,0,0,,你可以點菜單上的\N{\3c&H000000&\fs40}You can order off the menu if you want to, or...
+Dialogue: 0,1:25:45.30,1:25:49.20,1080P电影中字,,0,0,0,,或者來試試我的主廚特色菜\N{\3c&H000000&\fs40}Hey... I could just hit you with that chef's special.
+Dialogue: 0,1:25:55.61,1:25:57.25,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:26:00.08,1:26:01.85,1080P电影中字,,0,0,0,,沒問題 凱龍\N{\3c&H000000&\fs40}We here, chiron.
+Dialogue: 0,1:26:06.12,1:26:09.69,1080P电影中字,,0,0,0,,一份主廚特色菜 馬上就來\N{\3c&H000000&\fs40}One chef's special... Coming right up.
+Dialogue: 0,1:27:08.15,1:27:09.69,1080P电影中字,,0,0,0,,主廚特色菜來了\N{\3c&H000000&\fs40}Chef's special.
+Dialogue: 0,1:27:18.43,1:27:20.26,1080P电影中字,,0,0,0,,哦 所以你現在是古巴主廚咯\N{\3c&H000000&\fs40}Oh, so you Cuban now?
+Dialogue: 0,1:27:20.26,1:27:22.20,1080P电影中字,,0,0,0,,只是在廚藝風格上而已\N{\3c&H000000&\fs40}Only in the kitchen, papi.
+Dialogue: 0,1:27:25.74,1:27:27.57,1080P电影中字,,0,0,0,,坐下吧\N{\3c&H000000&\fs40}Yo, sit down, man.
+Dialogue: 0,1:27:27.57,1:27:29.64,1080P电影中字,,0,0,0,,或者你想站著吃\N{\3c&H000000&\fs40}Or are you gon' eat standin' up?
+Dialogue: 0,1:27:34.11,1:27:36.31,1080P电影中字,,0,0,0,,想喝點什麼嗎\N{\3c&H000000&\fs40}You want a drink?
+Dialogue: 0,1:27:36.31,1:27:38.11,1080P电影中字,,0,0,0,,不了 我不喝\N{\3c&H000000&\fs40}Nah, I don't drink.
+Dialogue: 0,1:28:00.60,1:28:04.24,1080P电影中字,,0,0,0,,真是十年沒見的樣子\N{\3c&H000000&\fs40}Nigga I ain't seen you in like a decade,
+Dialogue: 0,1:28:04.24,1:28:06.21,1080P电影中字,,0,0,0,,你必須跟我喝兩杯\N{\3c&H000000&\fs40}you gon' drink with me.
+Dialogue: 0,1:28:14.52,1:28:15.88,1080P电影中字,,0,0,0,,
+Dialogue: 0,1:28:19.82,1:28:21.99,1080P电影中字,,0,0,0,,夠了夠了 你在幹嘛\N{\3c&H000000&\fs40}Nah, bruh, nah! What you doing, man?
+Dialogue: 0,1:28:24.49,1:28:26.09,1080P电影中字,,0,0,0,,歡迎回來 老兄\N{\3c&H000000&\fs40}Welcome back, bruh.
+Dialogue: 0,1:28:39.14,1:28:42.01,1080P电影中字,,0,0,0,,我還以為你說你不喝呢\N{\3c&H000000&\fs40}Damn, bother, I thought you said you didn't drink...
+Dialogue: 0,1:28:42.01,1:28:44.35,1080P电影中字,,0,0,0,,嘗不出酒的味道 不敢多喝\N{\3c&H000000&\fs40}Can't really taste it so I don't mess with it.
+Dialogue: 0,1:28:56.79,1:28:58.73,1080P电影中字,,0,0,0,,-我看見了 我看見了 -什麼啊\N{\3c&H000000&\fs40}- I saw that. I saw that. - What? What?
+Dialogue: 0,1:28:58.73,1:29:01.13,1080P电影中字,,0,0,0,,你一點都不想浪費 特別好吃吧\N{\3c&H000000&\fs40}You don't wanna waste none of that, do you? It tastes good.
+Dialogue: 0,1:29:01.13,1:29:03.77,1080P电影中字,,0,0,0,,得了吧 老哥 還不錯吧\N{\3c&H000000&\fs40}Chill out, man. It's straight.
+Dialogue: 0,1:29:03.77,1:29:05.03,1080P电影中字,,0,0,0,,-說什麼 -還不錯\N{\3c&H000000&\fs40}- Say what? - It's straight.
+Dialogue: 0,1:29:05.04,1:29:06.37,1080P电影中字,,0,0,0,,還不錯\N{\3c&H000000&\fs40}It's straight.
+Dialogue: 0,1:29:06.37,1:29:08.87,1080P电影中字,,0,0,0,,兄弟 怎麼也比盒飯好吃吧\N{\3c&H000000&\fs40}Man, please, it's better than chef boyardee, ain't it?
+Dialogue: 0,1:29:08.87,1:29:10.07,1080P电影中字,,0,0,0,,得了吧\N{\3c&H000000&\fs40}Chill out, bruh.
+Dialogue: 0,1:29:10.07,1:29:11.81,1080P电影中字,,0,0,0,,我煮的意面都是硬的\N{\3c&H000000&\fs40}My spaghetti-o's go hard, man.
+Dialogue: 0,1:29:14.94,1:29:17.48,1080P电影中字,,0,0,0,,嘿 慢慢吃\N{\3c&H000000&\fs40}Hey, eat your dinner, man.
+Dialogue: 0,1:29:19.35,1:29:20.65,1080P电影中字,,0,0,0,,慢慢吃\N{\3c&H000000&\fs40}Eat your dinner.
+Dialogue: 0,1:29:24.09,1:29:25.99,1080P电影中字,,0,0,0,,再喝點嗎 喬治先生\N{\3c&H000000&\fs40}Got it, Mr. George?
+Dialogue: 0,1:29:25.99,1:29:27.32,1080P电影中字,,0,0,0,,我馬上回來\N{\3c&H000000&\fs40}I'll be back.
+Dialogue: 0,1:29:52.18,1:29:55.98,1080P电影中字,,0,0,0,,嘿兄弟 你記得薩蔓莎嗎\N{\3c&H000000&\fs40}Hey man, you... You remember Samantha?
+Dialogue: 0,1:29:56.92,1:29:58.52,1080P电影中字,,0,0,0,,漂亮的薩蔓莎\N{\3c&H000000&\fs40}Fine-ass Samantha.
+Dialogue: 0,1:30:00.09,1:30:02.02,1080P电影中字,,0,0,0,,是 我記得她\N{\3c&H000000&\fs40}Yeah, I remember her.
+Dialogue: 0,1:30:02.03,1:30:03.66,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah?
+Dialogue: 0,1:30:03.66,1:30:05.33,1080P电影中字,,0,0,0,,看看\N{\3c&H000000&\fs40}Check this out.
+Dialogue: 0,1:30:13.04,1:30:14.77,1080P电影中字,,0,0,0,,小凱文\N{\3c&H000000&\fs40}Kevin Jr.
+Dialogue: 0,1:30:16.04,1:30:18.57,1080P电影中字,,0,0,0,,我和薩蔓莎的兒子\N{\3c&H000000&\fs40}Me and Samantha, man.
+Dialogue: 0,1:30:18.58,1:30:22.21,1080P电影中字,,0,0,0,,我們很早就有了他\N{\3c&H000000&\fs40}We had him young, too young.
+Dialogue: 0,1:30:25.78,1:30:29.02,1080P电影中字,,0,0,0,,老兄 進監獄之後生活太艱難\N{\3c&H000000&\fs40}Man, when I got locked up, man, that shit was hard.
+Dialogue: 0,1:30:29.02,1:30:30.72,1080P电影中字,,0,0,0,,我再也回不去原來的街區了\N{\3c&H000000&\fs40}Wasn't no way I could go back the streets, man.
+Dialogue: 0,1:30:30.72,1:30:32.35,1080P电影中字,,0,0,0,,回不去了\N{\3c&H000000&\fs40}Not after this.
+Dialogue: 0,1:30:34.32,1:30:36.49,1080P电影中字,,0,0,0,,-你們還在一起嗎 -我和薩蔓莎嗎\N{\3c&H000000&\fs40}- Y'all still down? - Me and Sam?
+Dialogue: 0,1:30:36.49,1:30:39.16,1080P电影中字,,0,0,0,,沒有 我的意思是\N{\3c&H000000&\fs40}Nah. I mean...
+Dialogue: 0,1:30:39.16,1:30:40.70,1080P电影中字,,0,0,0,,我們挺好的\N{\3c&H000000&\fs40}...we cool.
+Dialogue: 0,1:30:40.70,1:30:44.37,1080P电影中字,,0,0,0,,你知道的 因為小孩子我們不得不這樣 但\N{\3c&H000000&\fs40}We gotta be, you know, 'cause of li'l man, but...
+Dialogue: 0,1:30:44.37,1:30:46.77,1080P电影中字,,0,0,0,,只不過不是從前那樣了\N{\3c&H000000&\fs40}...nah, not like that, man.
+Dialogue: 0,1:30:48.10,1:30:50.24,1080P电影中字,,0,0,0,,你呢 兄弟\N{\3c&H000000&\fs40}What about you, bruh?
+Dialogue: 0,1:30:53.38,1:30:54.81,1080P电影中字,,0,0,0,,我嗎\N{\3c&H000000&\fs40}What about me?
+Dialogue: 0,1:30:54.81,1:30:58.81,1080P电影中字,,0,0,0,,跟我說說吧\N{\3c&H000000&\fs40}Nigga... tell me somethin'.
+Dialogue: 0,1:30:58.82,1:31:00.48,1080P电影中字,,0,0,0,,你在做什麼\N{\3c&H000000&\fs40}I mean, what you doin'?
+Dialogue: 0,1:31:01.52,1:31:03.52,1080P电影中字,,0,0,0,,和誰在一起\N{\3c&H000000&\fs40}Who you doin'?
+Dialogue: 0,1:31:05.92,1:31:07.66,1080P电影中字,,0,0,0,,說吧\N{\3c&H000000&\fs40}Man, come on now.
+Dialogue: 0,1:31:07.66,1:31:09.06,1080P电影中字,,0,0,0,,我在廚房忙前忙後\N{\3c&H000000&\fs40}I've been back there in that kitchen, man,
+Dialogue: 0,1:31:09.06,1:31:11.36,1080P电影中字,,0,0,0,,給你做菜\N{\3c&H000000&\fs40}and cooked for your ass and everything, man, hey,
+Dialogue: 0,1:31:11.36,1:31:13.60,1080P电影中字,,0,0,0,,吃人家的嘴軟\N{\3c&H000000&\fs40}these grandma rules, man.
+Dialogue: 0,1:31:13.60,1:31:15.00,1080P电影中字,,0,0,0,,拿人家的手短\N{\3c&H000000&\fs40}You know the deal.
+Dialogue: 0,1:31:15.00,1:31:17.73,1080P电影中字,,0,0,0,,吃飽喝足了 該說說了\N{\3c&H000000&\fs40}Your ass eat, your ass speak.
+Dialogue: 0,1:31:24.34,1:31:26.44,1080P电影中字,,0,0,0,,好吧 那我就直說了\N{\3c&H000000&\fs40}All right, straight up?
+Dialogue: 0,1:31:26.44,1:31:28.08,1080P电影中字,,0,0,0,,說吧 直接說\N{\3c&H000000&\fs40}Yeah, nigga, straight up.
+Dialogue: 0,1:31:30.78,1:31:32.45,1080P电影中字,,0,0,0,,我在販毒\N{\3c&H000000&\fs40}I'm trappin'.
+Dialogue: 0,1:31:36.09,1:31:37.59,1080P电影中字,,0,0,0,,什麼\N{\3c&H000000&\fs40}What?
+Dialogue: 0,1:31:38.45,1:31:39.65,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:31:40.32,1:31:42.46,1080P电影中字,,0,0,0,,因為打了那個男孩\N{\3c&H000000&\fs40}When they sent me to Atlanta,
+Dialogue: 0,1:31:42.46,1:31:45.53,1080P电影中字,,0,0,0,,他們送我到亞特蘭大的少管所\N{\3c&H000000&\fs40}put me straight into juvie for beatin' the old boy.
+Dialogue: 0,1:31:45.53,1:31:47.40,1080P电影中字,,0,0,0,,在那裏我遇到一個人\N{\3c&H000000&\fs40}Met this dude in there.
+Dialogue: 0,1:31:48.46,1:31:51.03,1080P电影中字,,0,0,0,,我出來以後 他讓我上街賣毒品\N{\3c&H000000&\fs40}When I come out, he put me on the block.
+Dialogue: 0,1:31:51.03,1:31:53.20,1080P电影中字,,0,0,0,,後來我混得風生水起\N{\3c&H000000&\fs40}Did good at it and rose up.
+Dialogue: 0,1:31:54.87,1:31:56.71,1080P电影中字,,0,0,0,,就是這樣\N{\3c&H000000&\fs40}It is what it is.
+Dialogue: 0,1:31:59.34,1:32:00.98,1080P电影中字,,0,0,0,,胡說\N{\3c&H000000&\fs40}Bullshit, man.
+Dialogue: 0,1:32:02.11,1:32:03.91,1080P电影中字,,0,0,0,,不應如此\N{\3c&H000000&\fs40}That ain't what it is.
+Dialogue: 0,1:32:04.65,1:32:06.95,1080P电影中字,,0,0,0,,那不是你 奇倫\N{\3c&H000000&\fs40}That ain't you, chiron.
+Dialogue: 0,1:32:08.95,1:32:10.82,1080P电影中字,,0,0,0,,你又不瞭解我\N{\3c&H000000&\fs40}Nigga, you don't know me.
+Dialogue: 0,1:32:15.16,1:32:16.86,1080P电影中字,,0,0,0,,我不瞭解你嗎\N{\3c&H000000&\fs40}I don't know you?
+Dialogue: 0,1:32:33.84,1:32:35.34,1080P电影中字,,0,0,0,,這是您的小票\N{\3c&H000000&\fs40}There you are.
+Dialogue: 0,1:32:39.02,1:32:40.68,1080P电影中字,,0,0,0,,二十四點五美元\N{\3c&H000000&\fs40}$24.50.
+Dialogue: 0,1:33:06.74,1:33:09.01,1080P电影中字,,0,0,0,,你為什麼要戴金牙\N{\3c&H000000&\fs40}Why you got them damn fronts, man?
+Dialogue: 0,1:33:58.66,1:34:00.40,1080P电影中字,,0,0,0,,為什麼給我打電話\N{\3c&H000000&\fs40}Why'd you call me?
+Dialogue: 0,1:34:01.36,1:34:02.73,1080P电影中字,,0,0,0,,什麼\N{\3c&H000000&\fs40}What?
+Dialogue: 0,1:34:04.87,1:34:06.87,1080P电影中字,,0,0,0,,我問你為什麼打電話給我\N{\3c&H000000&\fs40}Why did you call me?
+Dialogue: 0,1:34:11.34,1:34:13.01,1080P电影中字,,0,0,0,,我告訴過你的\N{\3c&H000000&\fs40}I told you, man...
+Dialogue: 0,1:34:13.01,1:34:15.88,1080P电影中字,,0,0,0,,-有個男人走進來 -說重點\N{\3c&H000000&\fs40}...dude came in... - Yeah, yeah, yeah...
+Dialogue: 0,1:34:23.65,1:34:25.79,1080P电影中字,,0,0,0,,他放了首歌\N{\3c&H000000&\fs40}He played this song, man...
+Dialogue: 0,1:36:39.82,1:36:41.22,1080P电影中字,,0,0,0,,這是你的車嗎\N{\3c&H000000&\fs40}This you?
+Dialogue: 0,1:36:45.43,1:36:47.70,1080P电影中字,,0,0,0,,你說販毒還真不是開玩笑說說的啊\N{\3c&H000000&\fs40}You wasn't playin' 'bout them traps, huh.
+Dialogue: 0,1:37:04.61,1:37:06.11,1080P电影中字,,0,0,0,,開始飆車了嗎\N{\3c&H000000&\fs40}Ride dirty, huh?
+Dialogue: 0,1:37:07.42,1:37:08.72,1080P电影中字,,0,0,0,,差不多吧\N{\3c&H000000&\fs40}Something like that.
+Dialogue: 0,1:37:15.26,1:37:17.09,1080P电影中字,,0,0,0,,你怎麼上下班\N{\3c&H000000&\fs40}So how you be in to work?
+Dialogue: 0,1:37:18.29,1:37:19.53,1080P电影中字,,0,0,0,,坐公交\N{\3c&H000000&\fs40}Bus.
+Dialogue: 0,1:37:19.96,1:37:21.23,1080P电影中字,,0,0,0,,黑車\N{\3c&H000000&\fs40}Jitney.
+Dialogue: 0,1:37:22.06,1:37:23.57,1080P电影中字,,0,0,0,,有時當我帶著小凱文的時候\N{\3c&H000000&\fs40}Sometimes Samantha shoot me out there
+Dialogue: 0,1:37:23.57,1:37:25.53,1080P电影中字,,0,0,0,,薩曼塔會來接我\N{\3c&H000000&\fs40}when I got li'l kev.
+Dialogue: 0,1:37:27.50,1:37:31.31,1080P电影中字,,0,0,0,,在邁阿密沒車的日子簡直無法想像\N{\3c&H000000&\fs40}I can't picture bein' in Miami with no car.
+Dialogue: 0,1:37:31.31,1:37:34.68,1080P电影中字,,0,0,0,,-這倒是真的 -我想也是\N{\3c&H000000&\fs40}- Man, it's real out here. - Yeah, I bet.
+Dialogue: 0,1:37:34.68,1:37:39.88,1080P电影中字,,0,0,0,,這裏天氣又熱 車又慢 還特別堵\N{\3c&H000000&\fs40}Real hot, real slow, and real busted.
+Dialogue: 0,1:37:39.88,1:37:42.35,1080P电影中字,,0,0,0,,感覺自己像個窩囊廢\N{\3c&H000000&\fs40}Shot me like a duck out here, man.
+Dialogue: 0,1:37:42.35,1:37:45.02,1080P电影中字,,0,0,0,,你說什麼\N{\3c&H000000&\fs40}This nigga said "A duck."
+Dialogue: 0,1:37:45.02,1:37:48.12,1080P电影中字,,0,0,0,,-你喝高了吧 -你知道我在做什麼\N{\3c&H000000&\fs40}- Yeah, you on one. - You know what I'm doin'.
+Dialogue: 0,1:37:48.12,1:37:50.29,1080P电影中字,,0,0,0,,我就是有點累了\N{\3c&H000000&\fs40}Nah, I'm just tired, bruh.
+Dialogue: 0,1:37:52.13,1:37:54.16,1080P电影中字,,0,0,0,,謝謝你載我\N{\3c&H000000&\fs40}Hey man, bet on the ride, though.
+Dialogue: 0,1:37:54.16,1:37:56.26,1080P电影中字,,0,0,0,,-沒事 -很感激你\N{\3c&H000000&\fs40}- Yeah. - Appreciate it.
+Dialogue: 0,1:37:56.27,1:37:58.17,1080P电影中字,,0,0,0,,不用客氣\N{\3c&H000000&\fs40}Yeah, man.
+Dialogue: 0,1:37:58.17,1:38:00.00,1080P电影中字,,0,0,0,,總不能讓你坐黑車吧\N{\3c&H000000&\fs40}Can't have yo ass on no jitney.
+Dialogue: 0,1:38:06.71,1:38:08.41,1080P电影中字,,0,0,0,,奇倫\N{\3c&H000000&\fs40}So chiron...
+Dialogue: 0,1:38:11.88,1:38:15.38,1080P电影中字,,0,0,0,,你那樣看著我幹嘛\N{\3c&H000000&\fs40}What-what you looking at me like that for?
+Dialogue: 0,1:38:15.39,1:38:18.35,1080P电影中字,,0,0,0,,兄弟 告訴我 你為什麼突然開車過來\N{\3c&H000000&\fs40}What man, come on, you just drove down here?
+Dialogue: 0,1:38:22.06,1:38:23.89,1080P电影中字,,0,0,0,,嗯\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:38:25.06,1:38:28.86,1080P电影中字,,0,0,0,,還是說你嗑嗨了\N{\3c&H000000&\fs40}Like you was just- you was just on one...
+Dialogue: 0,1:38:28.87,1:38:30.57,1080P电影中字,,0,0,0,,就開上高速路嗎\N{\3c&H000000&\fs40}...and you hit the highway?
+Dialogue: 0,1:38:35.20,1:38:36.60,1080P电影中字,,0,0,0,,是的\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:38:44.81,1:38:46.81,1080P电影中字,,0,0,0,,那你今晚在哪裏過夜\N{\3c&H000000&\fs40}So where you got' stay tonight, man?
+Dialogue: 0,1:39:44.67,1:39:46.94,1080P电影中字,,0,0,0,,當心 我看著你的\N{\3c&H000000&\fs40}Watch that shit. - I got you.
+Dialogue: 0,1:39:51.55,1:39:53.11,1080P电影中字,,0,0,0,,就是這裏了\N{\3c&H000000&\fs40}This the spot.
+Dialogue: 0,1:40:04.09,1:40:06.29,1080P电影中字,,0,0,0,,進來吧 就當是自己家一樣\N{\3c&H000000&\fs40}Come on in. Get yourself at home.
+Dialogue: 0,1:40:13.47,1:40:18.14,1080P电影中字,,0,0,0,,-挺不錯 -等我一下 我去換衣服\N{\3c&H000000&\fs40}- This is real, man. - I'm just... get out of this real quick.
+Dialogue: 0,1:40:33.02,1:40:34.26,1080P电影中字,,0,0,0,,你還好嗎\N{\3c&H000000&\fs40}You a'ight?
+Dialogue: 0,1:40:35.09,1:40:39.33,1080P电影中字,,0,0,0,,還好 就是有點頭疼\N{\3c&H000000&\fs40}Yeah, no, I just got a little headache.
+Dialogue: 0,1:40:39.33,1:40:40.96,1080P电影中字,,0,0,0,,你還真是不勝酒力\N{\3c&H000000&\fs40}Man, you a lightweight.
+Dialogue: 0,1:40:40.96,1:40:45.37,1080P电影中字,,0,0,0,,是你倒的酒\N{\3c&H000000&\fs40}Nah, you was pouring that mug. You was pouring it.
+Dialogue: 0,1:40:45.37,1:40:47.70,1080P电影中字,,0,0,0,,-我嘗不出味道 -別說了\N{\3c&H000000&\fs40}- "I can't taste this". - Chill out, man.
+Dialogue: 0,1:40:47.70,1:40:49.80,1080P电影中字,,0,0,0,,-我們喝了得有三瓶吧 -對 三瓶\N{\3c&H000000&\fs40}- We had like three bottles. - Yeah, three bottles.
+Dialogue: 0,1:40:49.81,1:40:52.31,1080P电影中字,,0,0,0,,我給你沏點綠茶吧\N{\3c&H000000&\fs40}I'll make you some green tea, man, come on.
+Dialogue: 0,1:40:52.31,1:40:54.21,1080P电影中字,,0,0,0,,我才不喝那種東西\N{\3c&H000000&\fs40}I won't be drinking that shit either, man.
+Dialogue: 0,1:40:54.21,1:40:56.61,1080P电影中字,,0,0,0,,-那你要喝什麼 -水\N{\3c&H000000&\fs40}- What do you drink? - Water.
+Dialogue: 0,1:41:26.54,1:41:28.31,1080P电影中字,,0,0,0,,你是誰\N{\3c&H000000&\fs40}Who is you, man?
+Dialogue: 0,1:41:29.81,1:41:31.18,1080P电影中字,,0,0,0,,誰 我嗎\N{\3c&H000000&\fs40}Who, me?
+Dialogue: 0,1:41:31.18,1:41:33.01,1080P电影中字,,0,0,0,,對 你\N{\3c&H000000&\fs40}Yeah, nigga. You.
+Dialogue: 0,1:41:33.98,1:41:35.98,1080P电影中字,,0,0,0,,我是說 你的金牙\N{\3c&H000000&\fs40}I'm saying, man, them fronts.
+Dialogue: 0,1:41:35.99,1:41:37.55,1080P电影中字,,0,0,0,,那輛車\N{\3c&H000000&\fs40}That car.
+Dialogue: 0,1:41:38.32,1:41:40.05,1080P电影中字,,0,0,0,,你到底是誰 奇倫\N{\3c&H000000&\fs40}Who is you, chiron?
+Dialogue: 0,1:41:41.96,1:41:43.66,1080P电影中字,,0,0,0,,我在做自己\N{\3c&H000000&\fs40}I'm me, man.
+Dialogue: 0,1:41:43.66,1:41:46.03,1080P电影中字,,0,0,0,,我沒有要做別人啊\N{\3c&H000000&\fs40}I ain't tryin' to be nothin' else.
+Dialogue: 0,1:41:46.03,1:41:48.50,1080P电影中字,,0,0,0,,好吧 那你現在很厲害啊\N{\3c&H000000&\fs40}Oh, okay. So you hard now?
+Dialogue: 0,1:41:49.60,1:41:52.30,1080P电影中字,,0,0,0,,-我沒那麼說 -那是怎樣\N{\3c&H000000&\fs40}- I ain't say that. - Well then what?
+Dialogue: 0,1:41:55.70,1:42:00.41,1080P电影中字,,0,0,0,,嘿 我不是在說你不好 只是\N{\3c&H000000&\fs40}Hey, hey, hey, I ain't tryin' to hem you up, man, it's just...
+Dialogue: 0,1:42:00.41,1:42:02.58,1080P电影中字,,0,0,0,,有太久沒見你了\N{\3c&H000000&\fs40}I ain't seen you in a minute and...
+Dialogue: 0,1:42:03.45,1:42:05.31,1080P电影中字,,0,0,0,,你與我想像中不太一樣\N{\3c&H000000&\fs40}...it's not what I expected.
+Dialogue: 0,1:42:07.65,1:42:09.42,1080P电影中字,,0,0,0,,那你想像的是怎樣的我\N{\3c&H000000&\fs40}Well what did you expect?
+Dialogue: 0,1:42:17.83,1:42:19.53,1080P电影中字,,0,0,0,,你還記得\N{\3c&H000000&\fs40}You remember...
+Dialogue: 0,1:42:21.80,1:42:23.83,1080P电影中字,,0,0,0,,上一次我見到你的時候嗎\N{\3c&H000000&\fs40}You remember the last time I saw you?
+Dialogue: 0,1:42:30.27,1:42:32.67,1080P电影中字,,0,0,0,,太久了 我盡量不去想\N{\3c&H000000&\fs40}For a long time, tried not to remember.
+Dialogue: 0,1:42:34.24,1:42:36.38,1080P电影中字,,0,0,0,,試著忘掉過去的種種\N{\3c&H000000&\fs40}Tried to forget all those times.
+Dialogue: 0,1:42:41.48,1:42:42.85,1080P电影中字,,0,0,0,,好吧\N{\3c&H000000&\fs40}Yeah.
+Dialogue: 0,1:42:44.42,1:42:46.42,1080P电影中字,,0,0,0,,我來到亞特蘭大\N{\3c&H000000&\fs40}When we got to Atlanta...
+Dialogue: 0,1:42:47.39,1:42:49.49,1080P电影中字,,0,0,0,,開始了新的生活\N{\3c&H000000&\fs40}...I started over.
+Dialogue: 0,1:42:49.49,1:42:52.03,1080P电影中字,,0,0,0,,白手起家\N{\3c&H000000&\fs40}Built myself from the ground up.
+Dialogue: 0,1:42:52.03,1:42:53.69,1080P电影中字,,0,0,0,,變得強大起來\N{\3c&H000000&\fs40}Built myself hard.
+Dialogue: 0,1:43:00.20,1:43:02.90,1080P电影中字,,0,0,0,,-你怎麼樣 -我嗎\N{\3c&H000000&\fs40}- What about you? You-- - me?
+Dialogue: 0,1:43:07.58,1:43:09.81,1080P电影中字,,0,0,0,,我根本不值一提\N{\3c&H000000&\fs40}I wasn't never really worth shit.
+Dialogue: 0,1:43:11.68,1:43:13.75,1080P电影中字,,0,0,0,,只是渾渾噩噩地活著\N{\3c&H000000&\fs40}Just kept on, man.
+Dialogue: 0,1:43:16.62,1:43:19.49,1080P电影中字,,0,0,0,,從未實現過心中所想\N{\3c&H000000&\fs40}Never really did anything I actually wanted to do.
+Dialogue: 0,1:43:20.96,1:43:22.44,1080P电影中字,,0,0,0,,我能做的\N{\3c&H000000&\fs40}It was all I could do was
+Dialogue: 0,1:43:22.44,1:43:24.99,1080P电影中字,,0,0,0,,就是活成別人所想的樣子\N{\3c&H000000&\fs40}to do what folks thought I should be doing.
+Dialogue: 0,1:43:24.99,1:43:26.89,1080P电影中字,,0,0,0,,我從來沒真正做自己\N{\3c&H000000&\fs40}I wasn't never really myself.
+Dialogue: 0,1:43:29.83,1:43:31.27,1080P电影中字,,0,0,0,,現在呢\N{\3c&H000000&\fs40}And now?
+Dialogue: 0,1:43:31.27,1:43:32.73,1080P电影中字,,0,0,0,,現在\N{\3c&H000000&\fs40}Now?
+Dialogue: 0,1:43:35.54,1:43:37.81,1080P电影中字,,0,0,0,,如今\N{\3c&H000000&\fs40}Now, man...
+Dialogue: 0,1:43:37.81,1:43:40.24,1080P电影中字,,0,0,0,,我有了小凱文\N{\3c&H000000&\fs40}...now I got li'l kev.
+Dialogue: 0,1:43:40.24,1:43:42.04,1080P电影中字,,0,0,0,,做著這份工作\N{\3c&H000000&\fs40}Got this job.
+Dialogue: 0,1:43:42.74,1:43:44.95,1080P电影中字,,0,0,0,,十八個月的實習期\N{\3c&H000000&\fs40}Another 18 months of probation.
+Dialogue: 0,1:43:46.01,1:43:47.92,1080P电影中字,,0,0,0,,真實無比\N{\3c&H000000&\fs40}That 's some real shit, man.
+Dialogue: 0,1:43:47.92,1:43:50.59,1080P电影中字,,0,0,0,,這就是我的人生\N{\3c&H000000&\fs40}Nah, man. It's a life.
+Dialogue: 0,1:43:51.25,1:43:52.65,1080P电影中字,,0,0,0,,你知道嗎\N{\3c&H000000&\fs40}You know?
+Dialogue: 0,1:43:53.39,1:43:55.92,1080P电影中字,,0,0,0,,我從來沒經歷過這樣的生活\N{\3c&H000000&\fs40}I ain't never had that before.
+Dialogue: 0,1:43:55.93,1:43:57.46,1080P电影中字,,0,0,0,,現在的我\N{\3c&H000000&\fs40}Like...
+Dialogue: 0,1:43:58.43,1:44:00.26,1080P电影中字,,0,0,0,,疲於奔命\N{\3c&H000000&\fs40}Like, I'm tired as hell right now, man,
+Dialogue: 0,1:44:00.26,1:44:03.26,1080P电影中字,,0,0,0,,掙著這點小錢\N{\3c&H000000&\fs40}and I ain't making more than shoe money, but...
+Dialogue: 0,1:44:04.67,1:44:07.13,1080P电影中字,,0,0,0,,但是我已經不再煩惱了\N{\3c&H000000&\fs40}...I ain't got no worries, man.
+Dialogue: 0,1:44:07.14,1:44:09.47,1080P电影中字,,0,0,0,,我是說以前的種種煩惱\N{\3c&H000000&\fs40}Not them kind what I had before.
+Dialogue: 0,1:44:10.57,1:44:12.34,1080P电影中字,,0,0,0,,這是真實的生活\N{\3c&H000000&\fs40}That's that real shit.
+Dialogue: 0,1:44:13.74,1:44:15.94,1080P电影中字,,0,0,0,,就像鮑勃·馬利說過的那樣\N{\3c&H000000&\fs40}That's that Bob Marley shit, nigga.
+Dialogue: 0,1:44:33.66,1:44:36.20,1080P电影中字,,0,0,0,,這一生只有你撫摸過我\N{\3c&H000000&\fs40}You the only man that's ever touched me.
+Dialogue: 0,1:44:45.14,1:44:46.84,1080P电影中字,,0,0,0,,只有你一個\N{\3c&H000000&\fs40}You're the only one.
+Dialogue: 0,1:44:52.88,1:44:55.75,1080P电影中字,,0,0,0,,從那以後我也沒再碰過別人\N{\3c&H000000&\fs40}I haven't really touched anyone, since.
+Dialogue: 0,1:08:36.58,1:08:38.58,Default,,0,0,0,,
+
