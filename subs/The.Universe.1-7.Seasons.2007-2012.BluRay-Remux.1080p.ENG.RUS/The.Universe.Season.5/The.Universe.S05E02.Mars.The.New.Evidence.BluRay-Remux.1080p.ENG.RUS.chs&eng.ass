@@ -1,0 +1,885 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: YYeTs
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:57.00,0:01:02.00,Default,,0000,0000,0001,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:02.20,0:01:05.00,Default,,0000,0000,0008,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制&调校:无影  字幕来源:人人影视  招募Q号:76846146{\r}
+Dialogue: 0,0:01:05.62,0:01:07.92,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(149,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宇
+Dialogue: 0,0:01:05.62,0:01:07.92,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(228,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宙
+Dialogue: 0,0:01:05.62,0:01:07.92,Default,NTP,0000,0000,0000,,{\fe134}{\fad(300,300)\pos(192,207)\c&FBF7ED&\3c&HFFFFFF&\fn微软雅黑\fs24\shad0\bord2\be1}{\t(0,3500,0.5,\c&B59475&,\fscx110,\fscy110)}火 星 新 证 据
+Dialogue: 0,0:01:05.62,0:01:07.92,Default,NTP,0000,0000,0000,,{\1c&HFF00FF&\b1}第5季　第2集
+Dialogue: 0,0:00:02.00,0:00:04.24,Default,NTP,0000,0000,0000,,最初  宇宙是一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness,
+Dialogue: 0,0:00:04.24,0:00:05.83,Default,NTP,0000,0000,0000,,紧接着一声巨响  混沌初开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang, giving birth
+Dialogue: 0,0:00:06.47,0:00:08.75,Default,NTP,0000,0000,0000,,时间  空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to an endless, expanding existence
+Dialogue: 0,0:00:08.75,0:00:10.80,Default,NTP,0000,0000,0000,,开始不断膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time,space and matter.
+Dialogue: 0,0:00:11.68,0:00:15.07,Default,NTP,0000,0000,0000,,每天  我们都在解密这神秘莫测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:15.07,0:00:17.47,Default,NTP,0000,0000,0000,,令人疯狂的极端之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:17.47,0:00:20.65,Default,NTP,0000,0000,0000,,宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call the universe.
+Dialogue: 0,0:00:23.05,0:00:25.08,Default,NTP,0000,0000,0000,,火星人在哪里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where are the Martians?
+Dialogue: 0,0:00:31.04,0:00:34.04,Default,NTP,0000,0000,0000,,在毒气笼罩的红色星球表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the red planet's, poison-packed surface
+Dialogue: 0,0:00:34.55,0:00:37.35,Default,NTP,0000,0000,0000,,抑或是新发现的水源中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or in newly found sources of water?
+Dialogue: 0,0:00:38.95,0:00:42.41,Default,NTP,0000,0000,0000,,火星生命从致命大碰撞中生存下来了吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Did Martian life survive an apocalyptic attack?
+Dialogue: 0,0:00:44.31,0:00:49.35,Default,NTP,0000,0000,0000,,它们是微生物  还是大怪物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are Martians like microbial or monstrous?
+Dialogue: 0,0:00:50.07,0:00:52.83,Default,NTP,0000,0000,0000,,最终答案即将揭晓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at last, the answers are here
+Dialogue: 0,0:00:53.32,0:00:56.49,Default,NTP,0000,0000,0000,,就在《火星新证据》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In Mars: the new evidence.
+Dialogue: 0,0:01:08.74,0:01:11.04,Default,NTP,0000,0000,0000,,{\an8}{\pos(90,26)}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}肯尼迪航天中心
+Dialogue: 0,0:01:11.50,0:01:13.74,Default,NTP,0000,0000,0000,,{\an8}{\pos(90,26)}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}2010年4月15日
+Dialogue: 0,0:01:11.89,0:01:15.02,Default,NTP,0000,0000,0000,,我相信我们能将人类送入火星轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I believe we can send humans to orbit Mars
+Dialogue: 0,0:01:15.02,0:01:16.74,Default,NTP,0000,0000,0000,,并让他们安全返航\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and return them safely to Earth.
+Dialogue: 0,0:01:17.25,0:01:19.27,Default,NTP,0000,0000,0000,,紧接着实现在火星登陆的计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a landing on Mars will follow.
+Dialogue: 0,0:01:23.40,0:01:25.49,Default,NTP,0000,0000,0000,,当我们降落在火星时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When we land on Mars,
+Dialogue: 0,0:01:28.41,0:01:31.76,Default,NTP,0000,0000,0000,,也许会看到成千上万的火星人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there may be billions of Martians waiting for us.
+Dialogue: 0,0:01:37.82,0:01:40.70,Default,NTP,0000,0000,0000,,他们的长相可能不是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only they probably won't t look like this
+Dialogue: 0,0:01:41.65,0:01:42.92,Default,NTP,0000,0000,0000,,也不是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or this,
+Dialogue: 0,0:01:44.47,0:01:46.02,Default,NTP,0000,0000,0000,,而是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but like this.
+Dialogue: 0,0:01:48.10,0:01:52.69,Default,NTP,0000,0000,0000,,微生物  细菌进化到在此星球上生存生长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Microbes, bacteria evolved to survive on a planet
+Dialogue: 0,0:01:53.25,0:01:56.29,Default,NTP,0000,0000,0000,,这里的大气压力只有地球的1%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with 1% of Earth's atmospheric pressure,
+Dialogue: 0,0:01:57.00,0:02:00.14,Default,NTP,0000,0000,0000,,还是个温度能从220摄氏度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an arid world where temperatures can plunge
+Dialogue: 0,0:02:00.14,0:02:03.30,Default,NTP,0000,0000,0000,,骤降至零下的干旱之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to 220 degrees below zero.
+Dialogue: 0,0:02:04.66,0:02:07.73,Default,NTP,0000,0000,0000,,尽管表层环境看起来如此恶劣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, even if that upper-surface is so nasty,
+Dialogue: 0,0:02:07.73,0:02:08.60,Default,NTP,0000,0000,0000,,但并不意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that doesn't t mean
+Dialogue: 0,0:02:08.60,0:02:10.43,Default,NTP,0000,0000,0000,,掩藏在下面的境况也如此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that just a little ways under the surface,
+Dialogue: 0,0:02:11.04,0:02:14.68,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N美国行星协会
+Dialogue: 0,0:02:10.43,0:02:15.09,Default,NTP,0000,0000,0000,,这里是火星上微生物的极乐天堂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wouldn't be a much happier place for microbial life on Mars.
+Dialogue: 0,0:02:18.79,0:02:20.03,Default,NTP,0000,0000,0000,,火星上有生命存在吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is there life on Mars?
+Dialogue: 0,0:02:21.18,0:02:23.51,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}吉姆·贝尔\N康奈尔大学
+Dialogue: 0,0:02:20.03,0:02:23.66,Default,NTP,0000,0000,0000,,十年前  我的答案和现在迥然不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just a decade ago, my answer would have been very different than it is today
+Dialogue: 0,0:02:23.70,0:02:25.79,Default,NTP,0000,0000,0000,,因为这些年获取了大量信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we've learnt so much.
+Dialogue: 0,0:02:26.45,0:02:28.14,Default,NTP,0000,0000,0000,,数十年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A few decades ago,
+Dialogue: 0,0:02:28.14,0:02:30.47,Default,NTP,0000,0000,0000,,这看起来像是科幻剧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would have seemed like science fiction.
+Dialogue: 0,0:02:30.47,0:02:33.27,Default,NTP,0000,0000,0000,,然而现在我们知道  在地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we now know that on Earth,
+Dialogue: 0,0:02:33.27,0:02:38.01,Default,NTP,0000,0000,0000,,一些微生物聚集在海底的热泉周围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some bacteria cluster around thermal vents at the bottom of the sea;
+Dialogue: 0,0:02:39.89,0:02:43.08,Default,NTP,0000,0000,0000,,另一些生长在南极地区冰层下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}others thrive in pockets of liquid water
+Dialogue: 0,0:02:43.08,0:02:45.86,Default,NTP,0000,0000,0000,,12英尺中的少量液态水里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}inside 12 feet of antarctic ice.
+Dialogue: 0,0:02:48.87,0:02:52.58,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}阿什温·瓦萨瓦达\N美国宇航局/喷射推进实验室
+Dialogue: 0,0:02:46.87,0:02:48.98,Default,NTP,0000,0000,0000,,我们对于地球微生物的了解已经很深入了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our knowledge of microbial life on Earth has increased so much
+Dialogue: 0,0:02:48.98,0:02:52.41,Default,NTP,0000,0000,0000,,有时我想  某些原始微生物是不是可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that, I think, you know, there's still a good chance that some kind of
+Dialogue: 0,0:02:52.41,0:02:59.05,Default,NTP,0000,0000,0000,,在火星形成并存在的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}primitive life may have formed on Mars and existed there at some point.
+Dialogue: 0,0:03:01.19,0:03:04.13,Default,NTP,0000,0000,0000,,生命是如何在火星上形成的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How could life have first formed on Mars?
+Dialogue: 0,0:03:05.14,0:03:07.69,Default,NTP,0000,0000,0000,,也许是由于一个闪电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe with a flash of lightning.
+Dialogue: 0,0:03:07.69,0:03:10.91,Default,NTP,0000,0000,0000,,2006年的春天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The spring of 2006.
+Dialogue: 0,0:03:10.91,0:03:13.27,Default,NTP,0000,0000,0000,,尽管当时一些科学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even as some scientists are
+Dialogue: 0,0:03:13.31,0:03:15.42,Default,NTP,0000,0000,0000,,声称火星上没有闪电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}claiming Mars doesn't t have lightning,
+Dialogue: 0,0:03:16.09,0:03:18.97,Default,NTP,0000,0000,0000,,地球上的微波探测器发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth-based microwave detectors find it
+Dialogue: 0,0:03:19.40,0:03:22.33,Default,NTP,0000,0000,0000,,火星上有充满静电的红色尘暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in friction-filled storms of red dust.
+Dialogue: 0,0:03:23.67,0:03:27.21,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:03:22.94,0:03:25.28,Default,NTP,0000,0000,0000,,这并不是我们所熟知的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's not lightning like we know it,
+Dialogue: 0,0:03:25.28,0:03:26.46,Default,NTP,0000,0000,0000,,暴风雨前的闪电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}associated with rainstorms.
+Dialogue: 0,0:03:27.01,0:03:28.60,Default,NTP,0000,0000,0000,,火星上没有雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, it doesn't rain on Mars.
+Dialogue: 0,0:03:29.09,0:03:30.59,Default,NTP,0000,0000,0000,,我们称之为干闪电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's what's called dry lightning.
+Dialogue: 0,0:03:31.67,0:03:34.79,Default,NTP,0000,0000,0000,,这种干闪电  或者说静电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this dry lightning, or static electricity,
+Dialogue: 0,0:03:34.79,0:03:38.66,Default,NTP,0000,0000,0000,,可能就是火星生命起源的契机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could have been the trigger for Martian life.
+Dialogue: 0,0:03:39.70,0:03:43.91,Default,NTP,0000,0000,0000,,一旦闪电  就能够产生一种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once you have lightning, you've got a new source of energy
+Dialogue: 0,0:03:43.91,0:03:48.01,Default,NTP,0000,0000,0000,,改变大气中化学成分的新能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can affect your chemistry and alter things in the atmosphere,
+Dialogue: 0,0:03:48.01,0:03:50.86,Default,NTP,0000,0000,0000,,一定程度上来说  即使表面也是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even on the surface, at some level.
+Dialogue: 0,0:03:51.49,0:03:53.91,Default,NTP,0000,0000,0000,,一个著名的实验试图复制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A famous experiment seeking to replicate
+Dialogue: 0,0:03:53.94,0:03:56.04,Default,NTP,0000,0000,0000,,地球生命的起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the creation of life on Earth.
+Dialogue: 0,0:03:56.21,0:04:00.05,Default,NTP,0000,0000,0000,,在水和普通气体的混合物中通上电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ran an electric current through a mix of water and common gases,
+Dialogue: 0,0:04:00.05,0:04:01.23,Default,NTP,0000,0000,0000,,产生一种溶液\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creating a soup,
+Dialogue: 0,0:04:02.15,0:04:04.37,Default,NTP,0000,0000,0000,,包含有机化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}containing organic compounds
+Dialogue: 0,0:04:04.37,0:04:07.53,Default,NTP,0000,0000,0000,,和生命基本组成物  氨基酸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the building blocks of life: amino acids.
+Dialogue: 0,0:04:08.18,0:04:11.01,Default,NTP,0000,0000,0000,,通过电流刺激\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By hitting things, with electrical discharges,
+Dialogue: 0,0:04:11.24,0:04:12.85,Default,NTP,0000,0000,0000,,虽然不能创造生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you could not necessarily generate life,
+Dialogue: 0,0:04:12.85,0:04:15.57,Default,NTP,0000,0000,0000,,但也许可以营造生命起源的先决条件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but maybe make the preconditions for life.
+Dialogue: 0,0:04:17.35,0:04:20.66,Default,NTP,0000,0000,0000,,干闪电确是火星生命起源的助推器吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But did dry lightning,, help jumpstart life on Mars?
+Dialogue: 0,0:04:22.47,0:04:25.51,Default,NTP,0000,0000,0000,,还是彻底破坏任何生存可能的杀手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or did it kill the chance for any life at all?
+Dialogue: 0,0:04:26.65,0:04:30.88,Default,NTP,0000,0000,0000,,火星上的闪电能创造过氧化氢等物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lightning on Mars could create things like hydrogen peroxide,
+Dialogue: 0,0:04:30.88,0:04:33.41,Default,NTP,0000,0000,0000,,这些物质将生成其他化学成分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which could then lead to other chemicals that would
+Dialogue: 0,0:04:33.41,0:04:36.44,Default,NTP,0000,0000,0000,,摧毁火星表面的一切有机物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}destroy organic material and sterilize the surface.
+Dialogue: 0,0:04:37.97,0:04:41.84,Default,NTP,0000,0000,0000,,是生之希望  还是死之深渊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life-giving jumper cable or fatal electric chair.
+Dialogue: 0,0:04:42.93,0:04:44.49,Default,NTP,0000,0000,0000,,我们仍然不清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The jury is still out on
+Dialogue: 0,0:04:44.49,0:04:47.70,Default,NTP,0000,0000,0000,,尘暴闪电对火星有什么影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what dust storm lightning has done to Mars.
+Dialogue: 0,0:04:48.86,0:04:51.22,Default,NTP,0000,0000,0000,,我们总是刚以为已经了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, what always happens with Mars is about the time
+Dialogue: 0,0:04:51.26,0:04:52.83,Default,NTP,0000,0000,0000,,火星的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we think we understand it,
+Dialogue: 0,0:04:52.83,0:04:55.91,Default,NTP,0000,0000,0000,,又会有新的发现  让我们意识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we discover new things that make us realize
+Dialogue: 0,0:04:55.91,0:04:58.32,Default,NTP,0000,0000,0000,,仍有很多谜题需要解开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we still have a lot of mysteries to solve.
+Dialogue: 0,0:05:00.74,0:05:04.75,Default,NTP,0000,0000,0000,,如何在4800万英里之外的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So how do you find bacteria too small to be seen,
+Dialogue: 0,0:05:05.30,0:05:09.27,Default,NTP,0000,0000,0000,,星球表面之下找到极为微小的细菌呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}living under the surface of a planet, 48 million miles away?
+Dialogue: 0,0:05:15.33,0:05:18.76,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}琳达·缇·埃尔金-坦通\N麻省理工学院
+Dialogue: 0,0:05:11.90,0:05:15.16,Default,NTP,0000,0000,0000,,最可能繁殖的生命体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The life that's most likely to be prolific,
+Dialogue: 0,0:05:15.16,0:05:16.76,Default,NTP,0000,0000,0000,,有机物含量最多的生命体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the life that you'd find the most number of organisms,
+Dialogue: 0,0:05:16.76,0:05:20.13,Default,NTP,0000,0000,0000,,如果确实存在  会是最难以获取的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if they did exits, is the one that's hardest to find of all.
+Dialogue: 0,0:05:22.66,0:05:27.51,Default,NTP,0000,0000,0000,,就像攀岩者  科学家们在火星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like climbers, scientists look for life on Mars
+Dialogue: 0,0:05:27.51,0:05:29.16,Default,NTP,0000,0000,0000,,通过相互关联寻找生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by making connections,
+Dialogue: 0,0:05:29.16,0:05:33.32,Default,NTP,0000,0000,0000,,结合观察结果与推论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}linking this observation to that deduction,
+Dialogue: 0,0:05:33.32,0:05:36.04,Default,NTP,0000,0000,0000,,以期求得最后的正确答案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hoping the evidence leads in the right direction.
+Dialogue: 0,0:05:37.92,0:05:40.01,Default,NTP,0000,0000,0000,,但如果一个环节脱节\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if the facts aren't there,
+Dialogue: 0,0:05:40.48,0:05:41.60,Default,NTP,0000,0000,0000,,只能重新开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you start over.
+Dialogue: 0,0:05:42.57,0:05:44.25,Default,NTP,0000,0000,0000,,寻找生命很困难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hard to look for life.
+Dialogue: 0,0:05:45.70,0:05:47.38,Default,NTP,0000,0000,0000,,这项课题的设计者曾经说过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the mission designers have said,
+Dialogue: 0,0:05:47.41,0:05:49.04,Default,NTP,0000,0000,0000,,我们先找到是否有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}well, let's s first figure out
+Dialogue: 0,0:05:49.57,0:05:50.87,Default,NTP,0000,0000,0000,,适合生存之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if there are habitable places,
+Dialogue: 0,0:05:50.90,0:05:52.95,Default,NTP,0000,0000,0000,,是否有适合生命延续之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if there are places that would be friendly to life.
+Dialogue: 0,0:05:54.22,0:05:58.55,Default,NTP,0000,0000,0000,,众所周知  生命所需的关键元素便是水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the key element for life as we know it is water.
+Dialogue: 0,0:05:59.55,0:06:03.92,Default,NTP,0000,0000,0000,,地球上所有生命的延续都需要液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, liquid water is required for life.
+Dialogue: 0,0:06:03.92,0:06:07.19,Default,NTP,0000,0000,0000,,即便处于冰川之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even if it's a small pocket in the heart of a glacier,
+Dialogue: 0,0:06:07.19,0:06:10.02,Default,NTP,0000,0000,0000,,仍需要液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you still need the fluid nature of water
+Dialogue: 0,0:06:10.02,0:06:12.27,Default,NTP,0000,0000,0000,,来维持生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the processes of life to take place.
+Dialogue: 0,0:06:14.63,0:06:16.85,Default,NTP,0000,0000,0000,,根据早期空间探测站的照片显示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}According to early space probe photos,
+Dialogue: 0,0:06:18.49,0:06:20.90,Default,NTP,0000,0000,0000,,火星只是一个沉寂的红色岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars was just a dead red rock.
+Dialogue: 0,0:06:22.42,0:06:25.80,Default,NTP,0000,0000,0000,,稀薄的大气大部分由二氧化碳组成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its thin atmosphere was mostly carbon dioxide,,,
+Dialogue: 0,0:06:28.44,0:06:31.20,Default,NTP,0000,0000,0000,,极地似乎有冰层覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so it seemed, were the polar ice caps.
+Dialogue: 0,0:06:33.60,0:06:36.30,Default,NTP,0000,0000,0000,,在70年代  我们曾经想过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, in the seventies, we might have expected
+Dialogue: 0,0:06:36.30,0:06:39.37,Default,NTP,0000,0000,0000,,火星上不存在生命和水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there was no possible water or life on Mars.
+Dialogue: 0,0:06:40.43,0:06:42.04,Default,NTP,0000,0000,0000,,现在所拍摄的照片却大不相同了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The picture is much different today.
+Dialogue: 0,0:06:44.46,0:06:46.17,Default,NTP,0000,0000,0000,,21世纪以来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the 21st century,
+Dialogue: 0,0:06:46.17,0:06:48.96,Default,NTP,0000,0000,0000,,更加先进的空间探测器已证明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more advanced space probes have revealed
+Dialogue: 0,0:06:49.39,0:06:52.80,Default,NTP,0000,0000,0000,,之前的许多结论是错误的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that a lot of the earlier information was wrong.
+Dialogue: 0,0:06:56.58,0:07:02.68,Default,NTP,0000,0000,0000,,结果显示  火星极地覆盖冰川的含水量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns out, there's about 100 times as much H2O in Mars' polar caps
+Dialogue: 0,0:07:03.33,0:07:07.82,Default,NTP,0000,0000,0000,,是北美洲五大湖含水量的百倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as in all five of north America's great lakes.
+Dialogue: 0,0:07:10.94,0:07:13.60,Default,NTP,0000,0000,0000,,就算是现在  极地冰川的含水量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So even in the polar caps today, there's s probably
+Dialogue: 0,0:07:13.60,0:07:15.12,Default,NTP,0000,0000,0000,,也足够覆盖火星表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}enough water to cover the surface,
+Dialogue: 0,0:07:15.12,0:07:16.78,Default,NTP,0000,0000,0000,,达20至30英尺深\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 20, 30 feet deep.
+Dialogue: 0,0:07:17.34,0:07:19.05,Default,NTP,0000,0000,0000,,目前并不是证明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's really not about
+Dialogue: 0,0:07:19.11,0:07:20.66,Default,NTP,0000,0000,0000,,火星上是否存在水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether we think there's water on Mars,
+Dialogue: 0,0:07:20.69,0:07:22.18,Default,NTP,0000,0000,0000,,而是要证实火星上是否存在液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but whether there's liquid water on Mars.
+Dialogue: 0,0:07:23.84,0:07:25.16,Default,NTP,0000,0000,0000,,这是个关键的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's the key question,
+Dialogue: 0,0:07:25.16,0:07:29.04,Default,NTP,0000,0000,0000,,因为在早期的火星  微生物的进化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because even microbial life could not have evolved on Mars
+Dialogue: 0,0:07:31.01,0:07:35.25,Default,NTP,0000,0000,0000,,离不开液态水的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unless there was liquid water early in the planet's s history.
+Dialogue: 0,0:07:36.28,0:07:38.11,Default,NTP,0000,0000,0000,,为了在火星上寻找液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In order to find liquid water on Mars,
+Dialogue: 0,0:07:38.11,0:07:39.84,Default,NTP,0000,0000,0000,,我们想尽了一切办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we actually look in a whole variety of ways.
+Dialogue: 0,0:07:40.70,0:07:43.84,Default,NTP,0000,0000,0000,,从1997年到2006年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From 1997 through 2006,
+Dialogue: 0,0:07:43.84,0:07:46.02,Default,NTP,0000,0000,0000,,美国宇航局火星全球勘探者号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's s Mars Global Surveyor
+Dialogue: 0,0:07:46.43,0:07:48.74,Default,NTP,0000,0000,0000,,用高敏感度的光谱仪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}searches for water-based minerals
+Dialogue: 0,0:07:48.74,0:07:51.36,Default,NTP,0000,0000,0000,,探测含水基的矿物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using a highly sensitive spectrometer.
+Dialogue: 0,0:07:51.92,0:07:54.49,Default,NTP,0000,0000,0000,,每一种化学物质都有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every chemical element has a particular
+Dialogue: 0,0:07:54.96,0:07:56.77,Default,NTP,0000,0000,0000,,其特有的标记\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}signature associated with it,
+Dialogue: 0,0:07:56.77,0:07:57.52,Default,NTP,0000,0000,0000,,就如同指纹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a sort of fingerprint
+Dialogue: 0,0:07:57.52,0:08:01.89,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克里福德·约翰逊\N南加州大学
+Dialogue: 0,0:07:57.52,0:07:59.38,Default,NTP,0000,0000,0000,,当光与之作用时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and when light interacts with it,
+Dialogue: 0,0:07:59.38,0:08:02.44,Default,NTP,0000,0000,0000,,它会以一种特有的方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it reemits that light in a very specific way
+Dialogue: 0,0:08:02.44,0:08:04.58,Default,NTP,0000,0000,0000,,将光反射回来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's characteristic to that given element
+Dialogue: 0,0:08:04.58,0:08:07.64,Default,NTP,0000,0000,0000,,因此只需观察元素反射的光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so that's telling you what things made of
+Dialogue: 0,0:08:07.64,0:08:09.55,Default,NTP,0000,0000,0000,,就可以知道元素的组成了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by just looking at the light they emit.
+Dialogue: 0,0:08:10.74,0:08:12.60,Default,NTP,0000,0000,0000,,这与人耳能分辨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's similar to the way the human ear
+Dialogue: 0,0:08:12.64,0:08:14.66,Default,NTP,0000,0000,0000,,特定的震动是同一个道理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can pick out specific vibrations.
+Dialogue: 0,0:08:17.61,0:08:19.10,Default,NTP,0000,0000,0000,,一些音符声音洪亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some notes boom out
+Dialogue: 0,0:08:21.77,0:08:23.57,Default,NTP,0000,0000,0000,,另一些音符却很低沉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}other notes are not so loud.
+Dialogue: 0,0:08:26.53,0:08:28.15,Default,NTP,0000,0000,0000,,同理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In much the same way,
+Dialogue: 0,0:08:28.15,0:08:30.60,Default,NTP,0000,0000,0000,,光谱学家对于筛选\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spectroscopists are interested in
+Dialogue: 0,0:08:30.60,0:08:33.51,Default,NTP,0000,0000,0000,,那些特定的光线非常感兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}selecting out those particular lines.
+Dialogue: 0,0:08:34.58,0:08:36.80,Default,NTP,0000,0000,0000,,勘探者太空船偶然发现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The surveyor spacecraft,
+Dialogue: 0,0:08:36.80,0:08:38.86,Default,NTP,0000,0000,0000,,可反射光线的矿土\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hits spectrographic paydirt:
+Dialogue: 0,0:08:39.86,0:08:43.65,Default,NTP,0000,0000,0000,,赤铁矿  一种铁与氧的化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hematite, a combination of iron and oxygen.
+Dialogue: 0,0:08:44.98,0:08:46.17,Default,NTP,0000,0000,0000,,其存在表明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hematite shows that
+Dialogue: 0,0:08:46.17,0:08:48.09,Default,NTP,0000,0000,0000,,远古时代的火星可能有液态水存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ancient Mars could have had flowing water
+Dialogue: 0,0:08:49.06,0:08:52.03,Default,NTP,0000,0000,0000,,因为这种矿物在地球上也有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the mineral is also found on Earth,
+Dialogue: 0,0:08:52.51,0:08:55.83,Default,NTP,0000,0000,0000,,就存在于曾有液态水作用的环境下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in environments that once interacted with liquid water.
+Dialogue: 0,0:08:56.66,0:08:59.96,Default,NTP,0000,0000,0000,,这些圆石来自犹他州\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These round rocks from Utah,
+Dialogue: 0,0:09:00.38,0:09:02.16,Default,NTP,0000,0000,0000,,它们是在砂岩中形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they formed in a sandstone
+Dialogue: 0,0:09:02.16,0:09:05.62,Default,NTP,0000,0000,0000,,液态水从岩石中的小孔流过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by fluid water flowing inside the pores of the rock
+Dialogue: 0,0:09:05.62,0:09:07.58,Default,NTP,0000,0000,0000,,带来了铁元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and moving iron around
+Dialogue: 0,0:09:07.58,0:09:08.79,Default,NTP,0000,0000,0000,,这事实上是铁元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that the iron actually
+Dialogue: 0,0:09:08.79,0:09:11.09,Default,NTP,0000,0000,0000,,将小球粘合成型的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cements together these little spheres
+Dialogue: 0,0:09:11.09,0:09:12.38,Default,NTP,0000,0000,0000,,火星上发现的小球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the ones on Mars are quite
+Dialogue: 0,0:09:12.38,0:09:13.51,Default,NTP,0000,0000,0000,,要比这个小的多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a bit smaller than these,
+Dialogue: 0,0:09:13.51,0:09:15.71,Default,NTP,0000,0000,0000,,但形成的过程应该是相同的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they're thought to form the same way.
+Dialogue: 0,0:09:17.59,0:09:19.32,Default,NTP,0000,0000,0000,,勘探者号的任务结束了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Surveyor's mission is over,
+Dialogue: 0,0:09:19.89,0:09:20.64,Default,NTP,0000,0000,0000,,如今\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but today,
+Dialogue: 0,0:09:20.64,0:09:24.00,Default,NTP,0000,0000,0000,,有5个探测器在对火星进行拍照及测量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}five probes are taking pictures and measurements of Mars.
+Dialogue: 0,0:09:25.31,0:09:27.35,Default,NTP,0000,0000,0000,,欧洲航天局的火星快车探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Europe's Mars Express
+Dialogue: 0,0:09:27.35,0:09:29.40,Default,NTP,0000,0000,0000,,环绕着火星的赤道航行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}circumnavigates the equator;
+Dialogue: 0,0:09:29.40,0:09:31.78,Default,NTP,0000,0000,0000,,美国宇航局的火星奥德赛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Mars Odyssey
+Dialogue: 0,0:09:31.78,0:09:34.76,Default,NTP,0000,0000,0000,,还有更加现代化的火星探测轨道卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the more a recent Mars Reconnaissance Orbiter
+Dialogue: 0,0:09:34.76,0:09:35.82,Default,NTP,0000,0000,0000,,简称MRO\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or MRO,
+Dialogue: 0,0:09:35.82,0:09:37.68,Default,NTP,0000,0000,0000,,在两个极点上方遨游着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}soar over the poles.
+Dialogue: 0,0:09:42.18,0:09:44.22,Default,NTP,0000,0000,0000,,同时  两台机器人探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Meanwhile, two robot rovers
+Dialogue: 0,0:09:44.22,0:09:45.69,Default,NTP,0000,0000,0000,,负责表层探测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}explore the surface,
+Dialogue: 0,0:09:45.69,0:09:48.69,Default,NTP,0000,0000,0000,,寻找岩石中古代水的痕迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seeking evidence of ancient water in the rocks.
+Dialogue: 0,0:09:50.32,0:09:54.10,Default,NTP,0000,0000,0000,,勇气号在一个高海拔  岩石满布的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Spirit is in a very highly, rocky, dusty,
+Dialogue: 0,0:09:54.10,0:09:55.57,Default,NTP,0000,0000,0000,,崎岖不平的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rugged kind of place.
+Dialogue: 0,0:09:55.57,0:09:57.70,Default,NTP,0000,0000,0000,,看探测器发回的照片就会发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very sort of reddish and bright
+Dialogue: 0,0:09:57.70,0:09:59.44,Default,NTP,0000,0000,0000,,那里有些泛红并且很明亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when you see the picture from that rover.
+Dialogue: 0,0:09:59.61,0:10:01.78,Default,NTP,0000,0000,0000,,机遇号在火星的另一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Opportunity on the other side of the planet
+Dialogue: 0,0:10:01.78,0:10:04.84,Default,NTP,0000,0000,0000,,那是个平坦  阴暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is in a very flat place, darker,
+Dialogue: 0,0:10:04.84,0:10:06.63,Default,NTP,0000,0000,0000,,颜色更接近巧克力棕色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more kind of chocolaty brown color
+Dialogue: 0,0:10:06.63,0:10:08.58,Default,NTP,0000,0000,0000,,而不是红色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than a reddish color.
+Dialogue: 0,0:10:11.21,0:10:13.10,Default,NTP,0000,0000,0000,,在2008年春季\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the spring of 2008,
+Dialogue: 0,0:10:13.10,0:10:15.36,Default,NTP,0000,0000,0000,,探测器队伍又添新成员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the five probes are joined by a sixth.
+Dialogue: 0,0:10:18.22,0:10:19.49,Default,NTP,0000,0000,0000,,发射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lift off.
+Dialogue: 0,0:10:20.60,0:10:22.01,Default,NTP,0000,0000,0000,,美国宇航局的凤凰号探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Phoenix Lander.
+Dialogue: 0,0:10:24.88,0:10:27.96,Default,NTP,0000,0000,0000,,2008年5月25日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}May 25, 2008.
+Dialogue: 0,0:10:27.96,0:10:30.04,Default,NTP,0000,0000,0000,,身处地球的人们正焦急地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As anxcious men and women on Earth
+Dialogue: 0,0:10:30.04,0:10:32.09,Default,NTP,0000,0000,0000,,注视着他们的监视器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}watch their monitors,
+Dialogue: 0,0:10:33.20,0:10:34.83,Default,NTP,0000,0000,0000,,凤凰号探测器结束了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Phoenix Lander ends
+Dialogue: 0,0:10:34.83,0:10:36.45,Default,NTP,0000,0000,0000,,为期九个月的太空旅程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a nine-month space journey,
+Dialogue: 0,0:10:38.11,0:10:40.15,Default,NTP,0000,0000,0000,,以12500英里的时速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}flaming through Martian atmosphere
+Dialogue: 0,0:10:40.15,0:10:43.50,Default,NTP,0000,0000,0000,,燃烧着穿过了火星的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at 12,500 miles an hour.
+Dialogue: 0,0:10:46.23,0:10:47.79,Default,NTP,0000,0000,0000,,我们让这个宝贝飞翔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We taught that baby to fly,
+Dialogue: 0,0:10:47.79,0:10:51.20,Default,NTP,0000,0000,0000,,我们给予它智慧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you know, we give him all the wisdom
+Dialogue: 0,0:10:49.15,0:10:52.62,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}米格尔·圣·马丁\N美国宇航局/喷气推进实验室
+Dialogue: 0,0:10:51.20,0:10:53.52,Default,NTP,0000,0000,0000,,现在  我们要放飞它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and now, we have to let it go
+Dialogue: 0,0:10:53.52,0:10:54.17,Default,NTP,0000,0000,0000,,让它完成使命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and do the job.
+Dialogue: 0,0:10:55.52,0:10:58.72,Default,NTP,0000,0000,0000,,火星登陆异常困难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Any landing on Mars is incredibly difficult
+Dialogue: 0,0:10:58.72,0:11:03.49,Default,NTP,0000,0000,0000,,混沌状态就发生在6至7分钟之内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the chaos happens within six or seven minutes,
+Dialogue: 0,0:11:03.49,0:11:06.43,Default,NTP,0000,0000,0000,,从大气层顶端到火星表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the top of the atmosphere to the surface.
+Dialogue: 0,0:11:07.39,0:11:10.08,Default,NTP,0000,0000,0000,,我们称之为  恐怖七分钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We call it seven minutes of terror.
+Dialogue: 0,0:11:11.68,0:11:14.07,Default,NTP,0000,0000,0000,,凤凰号必须在此时间内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's how much time Phoenix has
+Dialogue: 0,0:11:14.07,0:11:19.01,Default,NTP,0000,0000,0000,,把时速从12500英里降至5英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to cut its decent speed from 12,500 miles an hour to five.
+Dialogue: 0,0:11:19.01,0:11:20.93,Default,NTP,0000,0000,0000,,如果失败  火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If not, Mars will
+Dialogue: 0,0:11:20.93,0:11:22.95,Default,NTP,0000,0000,0000,,又会多一个环形山了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have one more impact crater.
+Dialogue: 0,0:11:26.41,0:11:29.44,Default,NTP,0000,0000,0000,,多年努力终于等到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Years of effort is being tested,
+Dialogue: 0,0:11:29.44,0:11:31.10,Default,NTP,0000,0000,0000,,检验成果的时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether it's gonna happen or not.
+Dialogue: 0,0:11:33.13,0:11:37.59,Default,NTP,0000,0000,0000,,降落伞的展开过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The parachute deplpoys,
+Dialogue: 0,0:11:37.59,0:11:42.21,Default,NTP,0000,0000,0000,,被火星轨道探测器拍了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}caught live by the Mars Reconnaissance Orbiter.
+Dialogue: 0,0:11:46.17,0:11:48.48,Default,NTP,0000,0000,0000,,推进器使其减速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thrusters slow the plummet
+Dialogue: 0,0:11:48.48,0:11:50.29,Default,NTP,0000,0000,0000,,近乎完美地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for a near-perfect landing
+Dialogue: 0,0:11:50.29,0:11:51.95,Default,NTP,0000,0000,0000,,在火星北极点附近降落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}near Mars north pole.
+Dialogue: 0,0:11:55.54,0:11:57.66,Default,NTP,0000,0000,0000,,着陆  信号检测正常\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Touch down, signal detected.
+Dialogue: 0,0:12:08.68,0:12:12.35,Default,NTP,0000,0000,0000,,凤凰号将负责搜索地表下的凝结水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Phoenix will search for frozen water under the surface,
+Dialogue: 0,0:12:15.18,0:12:18.41,Default,NTP,0000,0000,0000,,但是  它能比预期有更多的发现吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it has already found more than was expected?
+Dialogue: 0,0:12:19.64,0:12:22.66,Default,NTP,0000,0000,0000,,一幅照片中探测器的一个支架上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A phothgraph of one of lander legs
+Dialogue: 0,0:12:22.66,0:12:27.61,Default,NTP,0000,0000,0000,,似乎有些本不该出现在那的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seems to show something that should not be there.
+Dialogue: 0,0:12:30.05,0:12:32.55,Default,NTP,0000,0000,0000,,这个新证据能够证明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is new evidence that
+Dialogue: 0,0:12:32.55,0:12:34.57,Default,NTP,0000,0000,0000,,火星可能曾有生命存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars could once have supported life.
+Dialogue: 0,0:12:36.96,0:12:38.46,Default,NTP,0000,0000,0000,,矿床显示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mimineral deposits show
+Dialogue: 0,0:12:38.46,0:12:40.83,Default,NTP,0000,0000,0000,,地表曾有水流过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that water once flowed on the surface.
+Dialogue: 0,0:12:40.83,0:12:43.21,Default,NTP,0000,0000,0000,,美国宇航局的科学家们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA scientists look for
+Dialogue: 0,0:12:43.21,0:12:44.59,Default,NTP,0000,0000,0000,,在火星上寻找着任何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}evidence of water wherever
+Dialogue: 0,0:12:44.59,0:12:45.85,Default,NTP,0000,0000,0000,,能证明水寻在的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they can find it on Mars,
+Dialogue: 0,0:12:47.04,0:12:48.75,Default,NTP,0000,0000,0000,,但是在2008年春\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in the spring of 2008,
+Dialogue: 0,0:12:48.75,0:12:50.11,Default,NTP,0000,0000,0000,,他们在一个意想不到的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they may have found it
+Dialogue: 0,0:12:50.11,0:12:51.60,Default,NTP,0000,0000,0000,,发现了可能的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in an unexpected place.
+Dialogue: 0,0:12:53.75,0:12:54.74,Default,NTP,0000,0000,0000,,凤凰号探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Phoenix Lander,
+Dialogue: 0,0:12:54.74,0:12:57.26,Default,NTP,0000,0000,0000,,重新到达火星北极点时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}newly arrived near Mars' north pole,
+Dialogue: 0,0:12:57.26,0:12:58.81,Default,NTP,0000,0000,0000,,在它的一个支架上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has something strange
+Dialogue: 0,0:12:58.81,0:13:00.48,Default,NTP,0000,0000,0000,,出现了一些奇怪的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on one of its legs.
+Dialogue: 0,0:13:01.66,0:13:03.90,Default,NTP,0000,0000,0000,,一些同事认为那是在火星特有的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some colleagues think that those are water droplets
+Dialogue: 0,0:13:03.90,0:13:05.32,Default,NTP,0000,0000,0000,,环境下形成的小水滴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}forming in that environment,
+Dialogue: 0,0:13:05.32,0:13:07.01,Default,NTP,0000,0000,0000,,这有点奇怪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is a little curious
+Dialogue: 0,0:13:06.91,0:13:10.81,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}吉姆·贝尔\N康奈尔大学
+Dialogue: 0,0:13:07.01,0:13:08.35,Default,NTP,0000,0000,0000,,因为火星上温度很低\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's very cold.
+Dialogue: 0,0:13:08.35,0:13:11.43,Default,NTP,0000,0000,0000,,水在那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not at all obvious that
+Dialogue: 0,0:13:11.43,0:13:12.30,Default,NTP,0000,0000,0000,,很难稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}water should be stable there,
+Dialogue: 0,0:13:12.30,0:13:14.91,Default,NTP,0000,0000,0000,,但它有可能是咸的  可能是海水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it could be really salty, could be briny,
+Dialogue: 0,0:13:14.91,0:13:17.31,Default,NTP,0000,0000,0000,,所以它的熔点更低\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so it has a lower melting point.
+Dialogue: 0,0:13:19.24,0:13:23.05,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N美国行星协会
+Dialogue: 0,0:13:17.31,0:13:18.06,Default,NTP,0000,0000,0000,,这是有可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's possible.
+Dialogue: 0,0:13:18.94,0:13:21.17,Default,NTP,0000,0000,0000,,我不知道在凤凰号探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't know what the blop of water on the
+Dialogue: 0,0:13:21.17,0:13:22.41,Default,NTP,0000,0000,0000,,支架上的水的构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Phoenix Lander leg was,
+Dialogue: 0,0:13:22.41,0:13:23.97,Default,NTP,0000,0000,0000,,或者是否有相类似的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or the thing that looked like that.
+Dialogue: 0,0:13:25.56,0:13:27.55,Default,NTP,0000,0000,0000,,科学家们各抒己见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists are split and
+Dialogue: 0,0:13:27.55,0:13:30.09,Default,NTP,0000,0000,0000,,网上的博客开始大肆猜测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}internet blogs run wild with speculation,
+Dialogue: 0,0:13:30.09,0:13:33.37,Default,NTP,0000,0000,0000,,但是最后  所有都只是猜测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in the end, it's all speculation.
+Dialogue: 0,0:13:35.05,0:13:36.45,Default,NTP,0000,0000,0000,,不幸的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The unfortunate thing is
+Dialogue: 0,0:13:36.45,0:13:39.18,Default,NTP,0000,0000,0000,,我们现有的数据实在有些模糊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the data that we have are really kind of fuzzy.
+Dialogue: 0,0:13:39.18,0:13:40.25,Default,NTP,0000,0000,0000,,我们的解决方案很有限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're at the limit of resolution.
+Dialogue: 0,0:13:40.25,0:13:42.75,Default,NTP,0000,0000,0000,,真是恨不得亲自上去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You really wanna go up there and
+Dialogue: 0,0:13:42.75,0:13:44.29,Default,NTP,0000,0000,0000,,拍张更好的照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}take a much better picture of it.
+Dialogue: 0,0:13:44.29,0:13:45.62,Default,NTP,0000,0000,0000,,这可能最终\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it may ultimately
+Dialogue: 0,0:13:45.62,0:13:47.01,Default,NTP,0000,0000,0000,,成为一个没有答案的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}be a question that can't be answered.
+Dialogue: 0,0:13:48.47,0:13:50.34,Default,NTP,0000,0000,0000,,尽管到现在支架上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although the droplets on its leg
+Dialogue: 0,0:13:50.34,0:13:52.34,Default,NTP,0000,0000,0000,,水滴仍是个谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}remain a mystery to this day,
+Dialogue: 0,0:13:53.67,0:13:55.69,Default,NTP,0000,0000,0000,,当凤凰号机械手臂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when Phoenix's robot arm
+Dialogue: 0,0:13:55.69,0:13:58.00,Default,NTP,0000,0000,0000,,在火星表面挖出2英尺后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}digs two inches under the Martian surface,
+Dialogue: 0,0:13:58.00,0:14:00.06,Default,NTP,0000,0000,0000,,证实了一个预测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it confirms a prediction,
+Dialogue: 0,0:14:00.06,0:14:02.96,Default,NTP,0000,0000,0000,,因为它挖掘到了冻土\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it hits hard icy soil,
+Dialogue: 0,0:14:02.96,0:14:04.99,Default,NTP,0000,0000,0000,,当中含有凝结水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}containing frozen water.
+Dialogue: 0,0:14:05.92,0:14:08.36,Default,NTP,0000,0000,0000,,火星奥德赛预测  凤凰号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars Odssey predicted that Phoenix would
+Dialogue: 0,0:14:08.36,0:14:11.89,Default,NTP,0000,0000,0000,,会在少许灰尘覆盖的冻土上着陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}land on icy soil, with a little bit of dust on top.
+Dialogue: 0,0:14:12.94,0:14:14.41,Default,NTP,0000,0000,0000,,凤凰号到达了  找到了冻土\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Phoenix went, touched it.
+Dialogue: 0,0:14:14.41,0:14:16.25,Default,NTP,0000,0000,0000,,我们得到了行星学的另一个重要部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We got anonther key part of planetary science
+Dialogue: 0,0:14:16.25,0:14:17.70,Default,NTP,0000,0000,0000,,即获得了实际地貌资料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is getting "ground truth".
+Dialogue: 0,0:14:19.54,0:14:22.40,Default,NTP,0000,0000,0000,,凤凰号团队期待发现冰水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the Phoenix team expected water ice,
+Dialogue: 0,0:14:22.40,0:14:25.26,Default,NTP,0000,0000,0000,,但让他们感到意外的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're suprised by something else that
+Dialogue: 0,0:14:25.26,0:14:26.77,Default,NTP,0000,0000,0000,,探测器的激光探测到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Lander's laser detects
+Dialogue: 0,0:14:26.77,0:14:30.15,Default,NTP,0000,0000,0000,,火星的天空中有雪花\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the Martian sky: Snow.
+Dialogue: 0,0:14:31.97,0:14:33.45,Default,NTP,0000,0000,0000,,并非固态二氧化碳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not carbon dioxide snow,
+Dialogue: 0,0:14:33.45,0:14:35.08,Default,NTP,0000,0000,0000,,而是水的结晶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but water crystals,
+Dialogue: 0,0:14:35.08,0:14:37.59,Default,NTP,0000,0000,0000,,和地球上的一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as on Earth.
+Dialogue: 0,0:14:37.59,0:14:40.49,Default,NTP,0000,0000,0000,,火星上下雪  证明温度确实很低\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It snows on Mars, which is indeed cool.
+Dialogue: 0,0:14:40.49,0:14:44.12,Default,NTP,0000,0000,0000,,凤凰号探测到它一开始从高空大气层消散开来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Phoenix saw it first dissipating high in the atmosphere
+Dialogue: 0,0:14:44.12,0:14:46.22,Default,NTP,0000,0000,0000,,最终落到了地面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventually, actually, falling to the surface
+Dialogue: 0,0:14:46.22,0:14:48.36,Default,NTP,0000,0000,0000,,然后升华\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then sublimating
+Dialogue: 0,0:14:48.36,0:14:51.79,Default,NTP,0000,0000,0000,,当太阳再次升起时变为气态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and going back to a gas when the sun came back up.
+Dialogue: 0,0:14:52.52,0:14:54.66,Default,NTP,0000,0000,0000,,这是我们第一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It really is one of the first times
+Dialogue: 0,0:14:54.66,0:14:57.72,Default,NTP,0000,0000,0000,,真正看到地表上的大气水循环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we really seeing the surface atmosphere water cycle.
+Dialogue: 0,0:14:57.72,0:15:00.17,Default,NTP,0000,0000,0000,,就这样  气体变为固体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this case, gas to solid,
+Dialogue: 0,0:15:00.17,0:15:01.63,Default,NTP,0000,0000,0000,,固体又变成气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}solid back to gas.
+Dialogue: 0,0:15:02.66,0:15:05.76,Default,NTP,0000,0000,0000,,此外  机器人探测器也在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Meanwhile, roving robots explore
+Dialogue: 0,0:15:05.76,0:15:06.56,Default,NTP,0000,0000,0000,,赤道附近进行探索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}near the equator.
+Dialogue: 0,0:15:06.66,0:15:12.08,Default,NTP,0000,0000,0000,,勇气号和机遇号采用高分辨率成像光谱仪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Spirit and Opportunity use high resolution imaging and spectroscopy
+Dialogue: 0,0:15:12.08,0:15:15.48,Default,NTP,0000,0000,0000,,搜寻在火星古代时期由于水流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to find evidence of minerals and land forms,
+Dialogue: 0,0:15:15.48,0:15:18.95,Default,NTP,0000,0000,0000,,形成的矿物和地形的资料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shaped by water in Mars' ancient past.
+Dialogue: 0,0:15:19.39,0:15:21.57,Default,NTP,0000,0000,0000,,火星探测器的一天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A day in the life of Mars rover
+Dialogue: 0,0:15:21.57,0:15:26.30,Default,NTP,0000,0000,0000,,从太阳升起照射到太阳能板\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}starts as the sun rises and illuminates the solar panels.
+Dialogue: 0,0:15:26.30,0:15:27.95,Default,NTP,0000,0000,0000,,然后唤醒探测器开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and wakes up the rover.
+Dialogue: 0,0:15:29.17,0:15:32.58,Default,NTP,0000,0000,0000,,无线电指令从地球发出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The radio commads are sent from the Earth
+Dialogue: 0,0:15:32.58,0:15:33.57,Default,NTP,0000,0000,0000,,指挥完成指令\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to tell it what to do
+Dialogue: 0,0:15:33.57,0:15:36.48,Default,NTP,0000,0000,0000,,这一次  前进10米\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This time, drive 10 meters forward
+Dialogue: 0,0:15:36.48,0:15:38.66,Default,NTP,0000,0000,0000,,然后立定转20度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then stop and turn 20 degree.
+Dialogue: 0,0:15:38.66,0:15:41.97,Default,NTP,0000,0000,0000,,用有色滤镜朝对应方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then take a panorama with these colored filters
+Dialogue: 0,0:15:41.99,0:15:43.63,Default,NTP,0000,0000,0000,,拍一张全景图\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}looking off in that direction.
+Dialogue: 0,0:15:43.68,0:15:44.73,Default,NTP,0000,0000,0000,,当天日暮时分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Near the end of the day,
+Dialogue: 0,0:15:44.74,0:15:46.58,Default,NTP,0000,0000,0000,,美国宇航局的一颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the NASA orbiters,
+Dialogue: 0,0:15:46.61,0:15:48.55,Default,NTP,0000,0000,0000,,例如火星奥德赛号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like the Mars Odyssey Orbiter,
+Dialogue: 0,0:15:48.59,0:15:50.64,Default,NTP,0000,0000,0000,,或是火星侦察轨道器会飞过它上空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or the Mars Reconnaissance Orbiter is passing overhead
+Dialogue: 0,0:15:50.69,0:15:51.95,Default,NTP,0000,0000,0000,,这些时间都是确定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we know when that's gonna happen,
+Dialogue: 0,0:15:51.99,0:15:55.51,Default,NTP,0000,0000,0000,,机器人探测器会将当天的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the rover will transmit data from that day
+Dialogue: 0,0:15:55.55,0:15:56.62,Default,NTP,0000,0000,0000,,传送到卫星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}up to that orbiter and
+Dialogue: 0,0:15:56.62,0:15:58.77,Default,NTP,0000,0000,0000,,卫星再将信息转发回地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then that orbiter relays it back to the Earth.
+Dialogue: 0,0:15:59.63,0:16:02.56,Default,NTP,0000,0000,0000,,它停机时  我们已经收到它传回的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And while it's sleeping, we've got those pictures,
+Dialogue: 0,0:16:02.60,0:16:04.09,Default,NTP,0000,0000,0000,,图像和数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it just sent back and other data.
+Dialogue: 0,0:16:04.13,0:16:06.05,Default,NTP,0000,0000,0000,,现在  我们在想办法弄清楚发生了什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And now, we're trying to figure out what happened?
+Dialogue: 0,0:16:06.09,0:16:07.55,Default,NTP,0000,0000,0000,,它按照我们的期望工作了吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Did it do what we're expecting it to do?
+Dialogue: 0,0:16:07.60,0:16:09.50,Default,NTP,0000,0000,0000,,或发生了什么意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Did it do something unexpected?
+Dialogue: 0,0:16:09.54,0:16:11.62,Default,NTP,0000,0000,0000,,它陷入危险了吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is it in sosome dangerous situation?
+Dialogue: 0,0:16:13.63,0:16:15.22,Default,NTP,0000,0000,0000,,2008年初\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In early 2008,
+Dialogue: 0,0:16:15.22,0:16:18.20,Default,NTP,0000,0000,0000,,勇气号发出的信号显示有异常出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}signals from Spirit indicate trouble
+Dialogue: 0,0:16:18.96,0:16:21.30,Default,NTP,0000,0000,0000,,它的右前轮卡住了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its right front wheel jams.
+Dialogue: 0,0:16:21.58,0:16:24.93,Default,NTP,0000,0000,0000,,当凤凰号团队试着让探测器往回倒时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Phoenix team tries driving the rover in reverse,
+Dialogue: 0,0:16:25.37,0:16:29.10,Default,NTP,0000,0000,0000,,卡住的轮子又下陷了几英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the dragging wheel gouges several inches into the soil
+Dialogue: 0,0:16:29.10,0:16:31.92,Default,NTP,0000,0000,0000,,并撞上了硅石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and hits silica.
+Dialogue: 0,0:16:31.95,0:16:35.10,Default,NTP,0000,0000,0000,,在地球上  哪能找到硅石呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On our own planet, where do we find silica?
+Dialogue: 0,0:16:36.14,0:16:38.29,Default,NTP,0000,0000,0000,,热液环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, hydrothermal environments.
+Dialogue: 0,0:16:38.34,0:16:41.53,Default,NTP,0000,0000,0000,,也许火星跟地球一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe that's what we're seeing on this other world as well.
+Dialogue: 0,0:16:41.58,0:16:43.13,Default,NTP,0000,0000,0000,,我们为此感到十分兴奋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So a lot of the excitement about
+Dialogue: 0,0:16:43.17,0:16:47.22,Default,NTP,0000,0000,0000,,因为硅石与地球有这样的联系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}silica is because of that connection to our own planet.
+Dialogue: 0,0:16:48.19,0:16:49.55,Default,NTP,0000,0000,0000,,它表明  也许\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That indicates that, hey, maybe
+Dialogue: 0,0:16:49.58,0:16:52.55,Default,NTP,0000,0000,0000,,火星上也存在过那种环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those kinds of environments exexisted on Mars as well.
+Dialogue: 0,0:16:52.59,0:16:55.34,Default,NTP,0000,0000,0000,,事实上  勇气号探测器也许就停在那\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, the Spirit rover may be parked at one right now,
+Dialogue: 0,0:16:55.37,0:16:57.58,Default,NTP,0000,0000,0000,,就靠近一个古老的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}right next to what may have been an ancient
+Dialogue: 0,0:16:57.60,0:16:59.48,Default,NTP,0000,0000,0000,,类似黄石地区的热区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}yellowstone-like hotspot.
+Dialogue: 0,0:17:00.18,0:17:02.97,Default,NTP,0000,0000,0000,,这是个意义非凡的意外发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a classic accidental discovery,
+Dialogue: 0,0:17:04.09,0:17:06.33,Default,NTP,0000,0000,0000,,问题也随之而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and raises the question...
+Dialogue: 0,0:17:06.87,0:17:10.65,Default,NTP,0000,0000,0000,,火星现在还有地下热运动吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could Mars have current underground thermal activity?
+Dialogue: 0,0:17:12.16,0:17:14.36,Default,NTP,0000,0000,0000,,火星内部的温度仍然很高吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is Mars still hot in its interior?
+Dialogue: 0,0:17:14.41,0:17:16.20,Default,NTP,0000,0000,0000,,答案是肯定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It certainly is.
+Dialogue: 0,0:17:16.23,0:17:19.27,Default,NTP,0000,0000,0000,,火星不可能完全冷却下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there's no way that Mars has completely cooled off.
+Dialogue: 0,0:17:19.33,0:17:21.87,Default,NTP,0000,0000,0000,,在所有的吸积热和生成热中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the heat of its accretion, all the heat of its formation,
+Dialogue: 0,0:17:20.36,0:17:23.97,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}琳达·缇·埃尔金-坦通\N麻省理工学院
+Dialogue: 0,0:17:21.87,0:17:23.17,Default,NTP,0000,0000,0000,,一部分热量仍未消散\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some of it is still there.
+Dialogue: 0,0:17:23.21,0:17:25.62,Default,NTP,0000,0000,0000,,加上放射性元素放热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Plus, heat from radioactive elements.
+Dialogue: 0,0:17:25.68,0:17:28.18,Default,NTP,0000,0000,0000,,火星内部绝对有充足的热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's definitely sufficient heat inside of Mars
+Dialogue: 0,0:17:28.18,0:17:31.50,Default,NTP,0000,0000,0000,,使热液渗出地表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to make hot fluids percolate.
+Dialogue: 0,0:17:31.50,0:17:33.24,Default,NTP,0000,0000,0000,,不过还是有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there is that possibility
+Dialogue: 0,0:17:33.27,0:17:37.26,Default,NTP,0000,0000,0000,,在地壳的某些深度发现液态水  没错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where you might find liquid water at some depth in the crust,yes
+Dialogue: 0,0:17:39.38,0:17:43.73,Default,NTP,0000,0000,0000,,在黄石公园以及地球上所有的温泉中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in Yellowstone and at hot springs all over Earth,
+Dialogue: 0,0:17:43.78,0:17:46.25,Default,NTP,0000,0000,0000,,有着种类繁多的细菌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}many different species of bacteria
+Dialogue: 0,0:17:46.25,0:17:49.86,Default,NTP,0000,0000,0000,,在沼气和富含矿物质的水体中觅食繁衍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}feed and grow in the gas and mineral-rich waters.
+Dialogue: 0,0:17:50.80,0:17:52.77,Default,NTP,0000,0000,0000,,这些不为人知的温泉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could hidden hot springs
+Dialogue: 0,0:17:52.81,0:17:55.93,Default,NTP,0000,0000,0000,,会是火星生命的繁衍地吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}be breeding grounds for life on Mars?
+Dialogue: 0,0:17:56.62,0:17:58.22,Default,NTP,0000,0000,0000,,我们会向火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We would love to send
+Dialogue: 0,0:17:58.24,0:18:01.49,Default,NTP,0000,0000,0000,,发射电磁测深仪器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}electromagnetic sounding instruments to the planet
+Dialogue: 0,0:18:01.53,0:18:02.70,Default,NTP,0000,0000,0000,,它们能准确告诉我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they could actually tell us
+Dialogue: 0,0:18:02.75,0:18:05.11,Default,NTP,0000,0000,0000,,地壳下是否有液体存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether there is liquid in the crust at some depth.
+Dialogue: 0,0:18:05.16,0:18:06.40,Default,NTP,0000,0000,0000,,这真令人激动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would be fantastic.
+Dialogue: 0,0:18:06.44,0:18:07.55,Default,NTP,0000,0000,0000,,真相就会揭晓了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then we'd  know.
+Dialogue: 0,0:18:09.05,0:18:13.10,Default,NTP,0000,0000,0000,,当勇气号团队忙着破解火星的地下谜题时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the Spirit team wonders about Mars' underground mysteries,
+Dialogue: 0,0:18:14.21,0:18:18.57,Default,NTP,0000,0000,0000,,凤凰号团队在火星表面又有了惊喜发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Phoenix team finds another surprise on the surface.
+Dialogue: 0,0:18:20.10,0:18:22.78,Default,NTP,0000,0000,0000,,在凤凰号探测器周围的土壤中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}2% of the soil around the Phoenix lander
+Dialogue: 0,0:18:22.82,0:18:24.93,Default,NTP,0000,0000,0000,,有2%的土壤由高氯酸盐组成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is composed of perchlorates
+Dialogue: 0,0:18:24.98,0:18:27.64,Default,NTP,0000,0000,0000,,也就是一种氯和氧的化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}combinations of chlorine and oxygen
+Dialogue: 0,0:18:28.23,0:18:31.16,Default,NTP,0000,0000,0000,,在火星上发现的高氯酸盐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the discovery of perchlorates on Mars has been
+Dialogue: 0,0:18:28.23,0:18:32.50,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:18:31.20,0:18:32.24,Default,NTP,0000,0000,0000,,引起了相当大的争议\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fairly controversial
+Dialogue: 0,0:18:32.28,0:18:35.35,Default,NTP,0000,0000,0000,,因为在地球上  它可是种剧毒物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because on Earth, it's a very toxic substance.
+Dialogue: 0,0:18:36.86,0:18:41.24,Default,NTP,0000,0000,0000,,在地球上  高氯酸盐被用作烟花和火箭的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, perchlorates are used as propellants in fireworks
+Dialogue: 0,0:18:41.40,0:18:43.49,Default,NTP,0000,0000,0000,,推进剂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and rockets.
+Dialogue: 0,0:18:44.06,0:18:45.68,Default,NTP,0000,0000,0000,,这真让人惊讶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This was a surprise.
+Dialogue: 0,0:18:45.72,0:18:46.75,Default,NTP,0000,0000,0000,,令人惊讶的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it was a discovery.
+Dialogue: 0,0:18:46.80,0:18:48.37,Default,NTP,0000,0000,0000,,为什么会有高氯酸盐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why is it even there?
+Dialogue: 0,0:18:48.41,0:18:49.38,Default,NTP,0000,0000,0000,,它是怎样形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How is it forming?
+Dialogue: 0,0:18:49.42,0:18:51.15,Default,NTP,0000,0000,0000,,关于  高氯酸盐的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the question-- perchlorates is a really
+Dialogue: 0,0:18:51.19,0:18:53.96,Default,NTP,0000,0000,0000,,确实值得研究  而且\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}good question and it's not a--
+Dialogue: 0,0:18:54.00,0:18:55.36,Default,NTP,0000,0000,0000,,目前还没有明确的答案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's no definitive answer.
+Dialogue: 0,0:18:56.14,0:18:58.74,Default,NTP,0000,0000,0000,,在某些地方  比如智利的阿塔卡马沙漠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perchlorates do occur naturally
+Dialogue: 0,0:18:58.78,0:19:01.61,Default,NTP,0000,0000,0000,,有自然生成的高氯酸盐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in places like Chile's Atacama desert
+Dialogue: 0,0:19:01.61,0:19:04.59,Default,NTP,0000,0000,0000,,太阳发出的紫外线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as ultraviolet radiation from the sun
+Dialogue: 0,0:19:04.62,0:19:07.34,Default,NTP,0000,0000,0000,,使氯和氧转化成高氯酸盐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}transforms chlorine and oxygen.
+Dialogue: 0,0:19:07.40,0:19:10.05,Default,NTP,0000,0000,0000,,在火星地表  应该有许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Mars, many of the same kinds of
+Dialogue: 0,0:19:10.09,0:19:13.35,Default,NTP,0000,0000,0000,,相同的化学反应发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}chemical reactions might be happening on the surface.
+Dialogue: 0,0:19:14.12,0:19:16.84,Default,NTP,0000,0000,0000,,对于地球上的这种反应  我们还没研究透彻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't understand the details of even on the Earth.
+Dialogue: 0,0:19:16.89,0:19:18.53,Default,NTP,0000,0000,0000,,更别提火星上的了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}let alone on Mars.
+Dialogue: 0,0:19:18.57,0:19:20.48,Default,NTP,0000,0000,0000,,高氯酸盐带来的问题是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The challenge with perchlorates is
+Dialogue: 0,0:19:20.52,0:19:22.53,Default,NTP,0000,0000,0000,,它们影响了一些实验的结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they affect some of the experiments
+Dialogue: 0,0:19:22.56,0:19:25.11,Default,NTP,0000,0000,0000,,而人们希望通过这些实验寻找\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that people use to look for organics for
+Dialogue: 0,0:19:25.16,0:19:28.24,Default,NTP,0000,0000,0000,,生命体中常见的由碳基分子构成的有机物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}carbon-based molecules like you might find in life.
+Dialogue: 0,0:19:29.44,0:19:32.06,Default,NTP,0000,0000,0000,,一些科学家开始重新考察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists are now reconsidering
+Dialogue: 0,0:19:32.09,0:19:36.28,Default,NTP,0000,0000,0000,,1976年海盗号探测器做的著名实验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the famous 1976 experiments by the Viking lander.
+Dialogue: 0,0:19:37.37,0:19:41.35,Default,NTP,0000,0000,0000,,1976年  海盗号在火星着陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When Viking went to the surface in 1976,
+Dialogue: 0,0:19:41.38,0:19:44.00,Default,NTP,0000,0000,0000,,当时人们没有发现有机物的迹象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they found no evidence whatsoever for organics.
+Dialogue: 0,0:19:44.03,0:19:45.81,Default,NTP,0000,0000,0000,,最近流传的一个理论说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the recent theories that's
+Dialogue: 0,0:19:45.85,0:19:48.63,Default,NTP,0000,0000,0000,,如果在火星的土壤中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}being bandied about is that if you did have,
+Dialogue: 0,0:19:48.63,0:19:50.22,Default,NTP,0000,0000,0000,,确实有高氯酸盐的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perchlorates in the soil.
+Dialogue: 0,0:19:45.75,0:19:53.97,Default,NTP,0000,0000,0000,,{\pos(63,60)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}海盗号摄取图像
+Dialogue: 0,0:19:50.25,0:19:53.85,Default,NTP,0000,0000,0000,,那么在进行有机物侦测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that those might have actually broken down
+Dialogue: 0,0:19:53.90,0:19:56.02,Default,NTP,0000,0000,0000,,加热土壤样本的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the organics in the same process
+Dialogue: 0,0:19:56.06,0:19:57.36,Default,NTP,0000,0000,0000,,高氯酸盐已经将\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you were using to try
+Dialogue: 0,0:19:57.36,0:19:59.60,Default,NTP,0000,0000,0000,,有机物破坏掉了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to detect them as you heated the soil up.
+Dialogue: 0,0:20:01.50,0:20:03.24,Default,NTP,0000,0000,0000,,高氯酸盐可能破坏了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perchlorates may have destroyed
+Dialogue: 0,0:20:03.29,0:20:06.09,Default,NTP,0000,0000,0000,,海盗号实验中可能存在的有机物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}organic materials in the Viking experiment.
+Dialogue: 0,0:20:07.07,0:20:08.21,Default,NTP,0000,0000,0000,,在地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And on Earth,
+Dialogue: 0,0:20:08.27,0:20:11.43,Default,NTP,0000,0000,0000,,它们也是化学排放物中的主要毒素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're a key poison in many chemical runoffs.
+Dialogue: 0,0:20:11.89,0:20:16.24,Default,NTP,0000,0000,0000,,可高氯酸盐却是一些细菌的能量来源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But perchlorates are also power sources for certain bacteria,
+Dialogue: 0,0:20:16.27,0:20:20.60,Default,NTP,0000,0000,0000,,这些细菌以有毒废料为食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}bacteria actually used to eat toxic waste.
+Dialogue: 0,0:20:21.03,0:20:24.81,Default,NTP,0000,0000,0000,,就生存而言  它是一把双刃剑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in terms of life, it's a good news, bad news thing.
+Dialogue: 0,0:20:26.60,0:20:29.89,Default,NTP,0000,0000,0000,,这些微生物能以有毒土壤为食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While microbes might feed on the toxic soil,
+Dialogue: 0,0:20:31.29,0:20:35.07,Default,NTP,0000,0000,0000,,这些土壤对火星上的人类来说却是致命的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could be deadly for humans on Mars.
+Dialogue: 0,0:20:35.94,0:20:38.56,Default,NTP,0000,0000,0000,,我们不清楚这些高氯酸盐化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't know how that perchlorate compound
+Dialogue: 0,0:20:38.56,0:20:40.93,Default,NTP,0000,0000,0000,,能否改变地表环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might be changing the surface.
+Dialogue: 0,0:20:41.60,0:20:45.80,Default,NTP,0000,0000,0000,,火星的地表处于高度氧化的状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The surface might be in some kind of a super-oxidated state
+Dialogue: 0,0:20:45.84,0:20:48.68,Default,NTP,0000,0000,0000,,最后可能会导致  比如\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That could ultimately prove to be, for example,
+Dialogue: 0,0:20:48.71,0:20:51.81,Default,NTP,0000,0000,0000,,宇航员的航天服被腐蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}corrosive to astronaut suits.
+Dialogue: 0,0:20:55.35,0:20:59.56,Default,NTP,0000,0000,0000,,可以确定的是  经历了5个月的探测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One thing is certain, after five months of exploration,
+Dialogue: 0,0:20:59.97,0:21:04.45,Default,NTP,0000,0000,0000,,一股沙尘暴对凤凰号完成使命造成了威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Phoenix's mission is threatened by a dust storm,
+Dialogue: 0,0:21:04.48,0:21:06.92,Default,NTP,0000,0000,0000,,它正席卷火星平原\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sweeping across the Martian plains,
+Dialogue: 0,0:21:06.95,0:21:09.78,Default,NTP,0000,0000,0000,,所到之处  皆成沙海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}burying everything in its path.
+Dialogue: 0,0:21:11.10,0:21:16.57,Default,NTP,0000,0000,0000,,在如此猛烈的风暴下  凤凰号探测器死定了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a storm so fierce, the Phoenix lander is doomed.
+Dialogue: 0,0:21:19.59,0:21:21.76,Default,NTP,0000,0000,0000,,美国宇航局的凤凰号探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When NASA's Phoenix lander
+Dialogue: 0,0:21:21.76,0:21:23.92,Default,NTP,0000,0000,0000,,在火星上挖掘出的凝结水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}digs into frozen water on Mars,
+Dialogue: 0,0:21:24.11,0:21:25.89,Default,NTP,0000,0000,0000,,是一条新的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it finds new evidence
+Dialogue: 0,0:21:25.92,0:21:28.98,Default,NTP,0000,0000,0000,,表明这个红色星球可能曾经孕育着生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the red planet could once have harbored life.
+Dialogue: 0,0:21:29.85,0:21:32.03,Default,NTP,0000,0000,0000,,可在2008年的秋天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in the autumn of 2008,
+Dialogue: 0,0:21:32.08,0:21:35.45,Default,NTP,0000,0000,0000,,凤凰号自己的生命就要结束了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Phoenix's own life is about to end.
+Dialogue: 0,0:21:36.19,0:21:39.07,Default,NTP,0000,0000,0000,,在火星上  风一吹过  就会卷起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Mars, the wind comes along and whips up
+Dialogue: 0,0:21:39.11,0:21:41.48,Default,NTP,0000,0000,0000,,像花粉粒一般的微粒尘埃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the dust, which is very, very fine-grain like flower,
+Dialogue: 0,0:21:41.53,0:21:43.27,Default,NTP,0000,0000,0000,,它们都是十分微小的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}extremely fine-grained material,
+Dialogue: 0,0:21:41.38,0:21:45.10,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}吉姆·贝尔\N康奈尔大学
+Dialogue: 0,0:21:43.27,0:21:44.82,Default,NTP,0000,0000,0000,,被吹到大气中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whips it up into the atmosphere and it
+Dialogue: 0,0:21:44.85,0:21:47.79,Default,NTP,0000,0000,0000,,然后慢慢沉积下来  淹没一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}slowly settles out, blanketing everything.
+Dialogue: 0,0:21:48.96,0:21:53.10,Default,NTP,0000,0000,0000,,红色尘埃覆盖了凤凰号探测器的太阳能板\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Red dust coats the solar panels of the Phoenix lander.
+Dialogue: 0,0:21:53.37,0:21:56.15,Default,NTP,0000,0000,0000,,日光  它唯一的能量来源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sunlight, its only source of power,
+Dialogue: 0,0:21:56.15,0:21:57.74,Default,NTP,0000,0000,0000,,无法穿透这层尘衣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can't get through.
+Dialogue: 0,0:21:58.69,0:22:02.34,Default,NTP,0000,0000,0000,,凤凰号探测器须花很长的时间充电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Phoenix lander has to spend a lot of time recharging its batteries
+Dialogue: 0,0:22:02.43,0:22:05.19,Default,NTP,0000,0000,0000,,因为夜晚温度很低\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because we know that it's gonna get very cold at night,
+Dialogue: 0,0:22:05.22,0:22:07.14,Default,NTP,0000,0000,0000,,必须运行加热器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's going to have to run those heaters at night
+Dialogue: 0,0:22:07.22,0:22:08.55,Default,NTP,0000,0000,0000,,才能保证运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to stay alive.
+Dialogue: 0,0:22:09.45,0:22:12.12,Default,NTP,0000,0000,0000,,2008年 11月2号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on November 2, 2008,
+Dialogue: 0,0:22:12.17,0:22:15.44,Default,NTP,0000,0000,0000,,凤凰号最后一次关闭  再也没能启动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Phoenix shuts down for the last time.
+Dialogue: 0,0:22:17.13,0:22:19.56,Default,NTP,0000,0000,0000,,随着火星上冬意渐浓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Martian winter deepens,
+Dialogue: 0,0:22:19.56,0:22:27.29,Default,NTP,0000,0000,0000,,凤凰号探头也被干冰所冻结\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}frozen carbon dioxide piles up and imprisons the probe in a tomb of dry ice.
+Dialogue: 0,0:22:30.20,0:22:33.98,Default,NTP,0000,0000,0000,,但是人们继续分析着凤凰号搜集的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Phoenix's data continues to be analyzed.
+Dialogue: 0,0:22:35.03,0:22:38.34,Default,NTP,0000,0000,0000,,到火星表面去采样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Going to Mars and taking measurements on the surface,
+Dialogue: 0,0:22:38.34,0:22:42.34,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:22:38.38,0:22:43.25,Default,NTP,0000,0000,0000,,取得更详细的化学数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}getting detailed data about chemistry of Mars
+Dialogue: 0,0:22:43.25,0:22:45.76,Default,NTP,0000,0000,0000,,火星表面的化学成分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Mars' chemistry of the surface
+Dialogue: 0,0:22:45.76,0:22:48.56,Default,NTP,0000,0000,0000,,是决定其是否存在水的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was an essential piece to determining
+Dialogue: 0,0:22:48.59,0:22:51.07,Default,NTP,0000,0000,0000,,一个重要因素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for sure that water existed on Mars.
+Dialogue: 0,0:22:53.10,0:22:55.82,Default,NTP,0000,0000,0000,,水是生命之源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Water is essential to life.
+Dialogue: 0,0:22:55.86,0:22:58.19,Default,NTP,0000,0000,0000,,但是根据最新的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But according to the latest evidence,
+Dialogue: 0,0:22:58.23,0:23:01.98,Default,NTP,0000,0000,0000,,那仅仅只是火星形成的众多因素之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's only one of many forces that shaped Mars.
+Dialogue: 0,0:23:02.26,0:23:04.87,Default,NTP,0000,0000,0000,,你可以将火星分成四个历史时期来思考\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can kinda break down our thinking of Mars now
+Dialogue: 0,0:23:02.26,0:23:06.26,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}阿什温·瓦萨瓦达\N美国宇航局/喷气推进实验室
+Dialogue: 0,0:23:04.87,0:23:07.28,Default,NTP,0000,0000,0000,,就像一场球赛分为四节一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into maybe like four quarters of a football game.
+Dialogue: 0,0:23:10.13,0:23:11.42,Default,NTP,0000,0000,0000,,第一个历史时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first quarter,
+Dialogue: 0,0:23:11.48,0:23:17.17,Default,NTP,0000,0000,0000,,大约46至32亿年前  大量陨石聚合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from about 4.6 to 3.2 billion years ago, is action packed.
+Dialogue: 0,0:23:17.71,0:23:20.46,Default,NTP,0000,0000,0000,,火星与其他星球一道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars forms along with the other planets
+Dialogue: 0,0:23:20.46,0:23:25.58,Default,NTP,0000,0000,0000,,由气体和碎石聚合冷却形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as swirling gas and debris combine and cool into a rocky world.
+Dialogue: 0,0:23:28.69,0:23:33.00,Default,NTP,0000,0000,0000,,紧接着  流星撞击火星  留下疮疤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then Mars is bombarded and scarred by meteoroids.
+Dialogue: 0,0:23:33.52,0:23:35.64,Default,NTP,0000,0000,0000,,形成了很多坑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was a lot of cratering going on.
+Dialogue: 0,0:23:35.68,0:23:37.39,Default,NTP,0000,0000,0000,,在这段时间的末期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then towards the end of that period,
+Dialogue: 0,0:23:37.39,0:23:39.27,Default,NTP,0000,0000,0000,,非常多的地表特征暗示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there was a lot of geologic features that suggest
+Dialogue: 0,0:23:39.27,0:23:41.17,Default,NTP,0000,0000,0000,,火星表层曾有过流动水存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there was water flowing on the surface.
+Dialogue: 0,0:23:41.85,0:23:43.85,Default,NTP,0000,0000,0000,,新证据包含有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That new evidence includes
+Dialogue: 0,0:23:43.85,0:23:48.73,Default,NTP,0000,0000,0000,,美国宇航局的火星侦察轨道器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this series of ridges, photographed in 2009
+Dialogue: 0,0:23:49.53,0:23:52.46,Default,NTP,0000,0000,0000,,于2009年拍摄的一系列山脊照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by NASA's MarsReconnaissance Orbiter.
+Dialogue: 0,0:23:53.40,0:23:57.34,Default,NTP,0000,0000,0000,,这是第一次明确地发现火星上有湖岸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the first definitive lakeshore discovered on Mars,
+Dialogue: 0,0:23:58.16,0:24:02.58,Default,NTP,0000,0000,0000,,从湖的遗迹看  其约有北美尚普兰湖大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The remains of a lake the size of North America's Lake Champlain.
+Dialogue: 0,0:24:03.59,0:24:05.92,Default,NTP,0000,0000,0000,,每一条关于火星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every piece of evidence about
+Dialogue: 0,0:24:05.96,0:24:08.25,Default,NTP,0000,0000,0000,,水存在的证据和历史遗迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the presence and the history of water on Mars
+Dialogue: 0,0:24:08.25,0:24:09.64,Default,NTP,0000,0000,0000,,对于宇宙中是否\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is so important
+Dialogue: 0,0:24:09.64,0:24:13.31,Default,NTP,0000,0000,0000,,只有地球存在生命都是非常重要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to determining whether we might be alone in the universe.
+Dialogue: 0,0:24:14.79,0:24:19.69,Default,NTP,0000,0000,0000,,一些科学家甚至说  50亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists even say 5 billion years ago,
+Dialogue: 0,0:24:20.49,0:24:23.09,Default,NTP,0000,0000,0000,,曾有一个大西洋大小的海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an ocean the size of the atlantic
+Dialogue: 0,0:24:23.09,0:24:25.46,Default,NTP,0000,0000,0000,,覆盖了1/3的火星表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}covered 1/3 of Mars.
+Dialogue: 0,0:24:29.33,0:24:32.61,Default,NTP,0000,0000,0000,,如果有足够的时间和水源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe with enough time anand enough water,
+Dialogue: 0,0:24:32.65,0:24:34.75,Default,NTP,0000,0000,0000,,火星上也会形成生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}life formed on Mars as well.
+Dialogue: 0,0:24:35.25,0:24:38.02,Default,NTP,0000,0000,0000,,随着火星第一个历史时期的结束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the first quarter of Mars' history ends,
+Dialogue: 0,0:24:38.06,0:24:40.76,Default,NTP,0000,0000,0000,,第二个时期随着一声巨响来到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the second starts with a bang.
+Dialogue: 0,0:24:41.21,0:24:44.38,Default,NTP,0000,0000,0000,,由于火山爆发  重塑了火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as volcanoes reshape the planet.
+Dialogue: 0,0:24:45.43,0:24:48.16,Default,NTP,0000,0000,0000,,此时火山活动异常壮观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was significant Volcanic activity.
+Dialogue: 0,0:24:51.47,0:24:55.18,Default,NTP,0000,0000,0000,,火星奥林帕斯山是太阳系最大的火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Olympus Mons is the biggest volcano in the solar system.
+Dialogue: 0,0:24:56.07,0:24:58.94,Default,NTP,0000,0000,0000,,由此得知  过去这里存在大火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so we know there were big volcanoes in the past.
+Dialogue: 0,0:24:59.13,0:25:02.70,Default,NTP,0000,0000,0000,,火星被黑色火山玄武岩所覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars is blanketed with black volcanic basalt,
+Dialogue: 0,0:25:03.66,0:25:06.93,Default,NTP,0000,0000,0000,,就像夏威夷火山周围发现的玄武岩一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like the basalt found around Hawaiian volcanoes.
+Dialogue: 0,0:25:07.46,0:25:09.13,Default,NTP,0000,0000,0000,,火山爆发释放出的化学物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the chemicals rereleased from volcanoes,
+Dialogue: 0,0:25:09.17,0:25:11.34,Default,NTP,0000,0000,0000,,包含硫  并混合了水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}including sulfur, mix with the water.
+Dialogue: 0,0:25:11.38,0:25:13.15,Default,NTP,0000,0000,0000,,从而降下酸性物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was left and make things acidic,
+Dialogue: 0,0:25:13.19,0:25:15.55,Default,NTP,0000,0000,0000,,就像地球上的酸雨一类的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}kind of like acid rain on Earth and that sort of thing.
+Dialogue: 0,0:25:15.61,0:25:18.15,Default,NTP,0000,0000,0000,,同时  大气层似乎在收缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the same time, the atmosphere seems to be
+Dialogue: 0,0:25:18.18,0:25:20.15,Default,NTP,0000,0000,0000,,水资源变得越来越稀少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shrinking and water becoming more scarce
+Dialogue: 0,0:25:20.17,0:25:21.62,Default,NTP,0000,0000,0000,,在地表也更加不稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and less stable on the surface.
+Dialogue: 0,0:25:22.75,0:25:25.03,Default,NTP,0000,0000,0000,,火星大气层的稀薄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The loss of Mars' atmosphere
+Dialogue: 0,0:25:25.83,0:25:29.97,Default,NTP,0000,0000,0000,,意味着火星地表的液态水不复存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}meant that liquid water could no longer exist on its surface.
+Dialogue: 0,0:25:30.00,0:25:32.34,Default,NTP,0000,0000,0000,,地球水源的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Water exists on the surface of the Earth
+Dialogue: 0,0:25:30.14,0:25:34.34,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N美国加州大学伯克利分校
+Dialogue: 0,0:25:32.38,0:25:36.19,Default,NTP,0000,0000,0000,,仅仅是因为大气压力使之降于地球表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only because of the atmospheric pressure pushing down on it.
+Dialogue: 0,0:25:38.28,0:25:44.28,Default,NTP,0000,0000,0000,,火星上的水要么蒸发  要么冻结\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whatever water is on Mars evaporates or freezes.
+Dialogue: 0,0:25:45.69,0:25:47.80,Default,NTP,0000,0000,0000,,在火星的第三个历史时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the third quarter of its history,
+Dialogue: 0,0:25:47.84,0:25:51.79,Default,NTP,0000,0000,0000,,氧化亚铁在沙土中锈蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars probably begins turning red from ferrous oxide.
+Dialogue: 0,0:25:53.53,0:25:56.10,Default,NTP,0000,0000,0000,,火星逐渐变红\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rust in the dust.
+Dialogue: 0,0:25:56.59,0:26:00.01,Default,NTP,0000,0000,0000,,在夏威夷或冰岛取一块刚形成的火山岩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}take a fresh volcanic rock in Hawaii or Iceland
+Dialogue: 0,0:26:00.01,0:26:01.48,Default,NTP,0000,0000,0000,,让它在地球大气环境中静置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and let it sit out in the Earth's atmosphere
+Dialogue: 0,0:26:01.50,0:26:03.52,Default,NTP,0000,0000,0000,,它也会逐渐变成红色  褐色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's gonna turn red and brown over time.
+Dialogue: 0,0:26:03.52,0:26:04.83,Default,NTP,0000,0000,0000,,火山岩会氧化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's gonna oxidize.
+Dialogue: 0,0:26:04.88,0:26:08.09,Default,NTP,0000,0000,0000,,同样的事情也可能发生在火星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Same kind of thing could have happened on Mars.
+Dialogue: 0,0:26:08.98,0:26:10.43,Default,NTP,0000,0000,0000,,在最后一个历史时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In its final quarter,
+Dialogue: 0,0:26:10.49,0:26:13.30,Default,NTP,0000,0000,0000,,火星进入了冰河时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars goes into a deep freeze.
+Dialogue: 0,0:26:13.36,0:26:17.40,Default,NTP,0000,0000,0000,,从1亿多年前到200万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from around 100 million until 2 million years ago,
+Dialogue: 0,0:26:17.45,0:26:19.32,Default,NTP,0000,0000,0000,,大冰川的形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}large glaciers form
+Dialogue: 0,0:26:19.35,0:26:22.85,Default,NTP,0000,0000,0000,,塑造了新的盆地和环形山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and carve out new patterns in basins and craters.
+Dialogue: 0,0:26:26.56,0:26:32.01,Default,NTP,0000,0000,0000,,温暖湿润的星球变得寒冷干燥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From a warmer, wetter planet to a cold, dry world.
+Dialogue: 0,0:26:32.57,0:26:37.45,Default,NTP,0000,0000,0000,,最新证据显示  当时火星被坚冰包裹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars in a nutshell, according to recent evidence.
+Dialogue: 0,0:26:38.29,0:26:39.61,Default,NTP,0000,0000,0000,,大气层较厚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It had a thicker atmosphere.
+Dialogue: 0,0:26:39.65,0:26:42.49,Default,NTP,0000,0000,0000,,有水  有雨  有雪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It had water, it may have had rain, it had snow.
+Dialogue: 0,0:26:42.53,0:26:44.91,Default,NTP,0000,0000,0000,,有我们所熟知的一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Has all kinds of things that are familiar to us.
+Dialogue: 0,0:26:44.94,0:26:46.71,Default,NTP,0000,0000,0000,,想象一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's just fascinating to think
+Dialogue: 0,0:26:46.71,0:26:47.76,Default,NTP,0000,0000,0000,,我们能随着任务的进行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we can go back in time with
+Dialogue: 0,0:26:47.76,0:26:49.44,Default,NTP,0000,0000,0000,,回到早期类似地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these missions and study an early,
+Dialogue: 0,0:26:49.44,0:26:52.07,Default,NTP,0000,0000,0000,,现已不复存在的火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sort of Earth-like Mars that's now gone.
+Dialogue: 0,0:26:54.96,0:26:58.87,Default,NTP,0000,0000,0000,,不过尽管有证据表明火星过去存在水源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But while there's strong evidence for past water on Mars,
+Dialogue: 0,0:26:59.55,0:27:02.08,Default,NTP,0000,0000,0000,,2009年卫星照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these 2009 satellite pictures
+Dialogue: 0,0:27:02.12,0:27:04.68,Default,NTP,0000,0000,0000,,显示出了一些不太可能的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seemed to show something impossible:
+Dialogue: 0,0:27:05.90,0:27:09.32,Default,NTP,0000,0000,0000,,火星表面存在流动的液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Flowing liquid water on the surface.
+Dialogue: 0,0:27:10.12,0:27:13.12,Default,NTP,0000,0000,0000,,这可能是由于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There could be events
+Dialogue: 0,0:27:13.12,0:27:17.51,Default,NTP,0000,0000,0000,,一直储存于地下或冻结了的水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when water that has been kept subsurface or frozen
+Dialogue: 0,0:27:17.51,0:27:22.99,Default,NTP,0000,0000,0000,,喷涌而出  流进了陨石坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes gushing out and runs down the walls of these craters.
+Dialogue: 0,0:27:24.47,0:27:27.33,Default,NTP,0000,0000,0000,,近十年最激动人心的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is one of the most exciting things in the past decade
+Dialogue: 0,0:27:27.37,0:27:29.62,Default,NTP,0000,0000,0000,,就是见到这些沟渠的照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is seeing those pictures of the gullies,
+Dialogue: 0,0:27:29.67,0:27:32.54,Default,NTP,0000,0000,0000,,在我的成长过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because when I grew up,
+Dialogue: 0,0:27:32.58,0:27:34.51,Default,NTP,0000,0000,0000,,别人告诉我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I was taught that
+Dialogue: 0,0:27:34.51,0:27:37.54,Default,NTP,0000,0000,0000,,火星上不可能存在液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's no way liquid water could be stable on Mars today,
+Dialogue: 0,0:27:37.59,0:27:41.38,Default,NTP,0000,0000,0000,,这有点像是对物理学的挑战  对吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this kind of flies in the face of the physics, right?
+Dialogue: 0,0:27:41.43,0:27:43.09,Default,NTP,0000,0000,0000,,这让人很激动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's kind of exciting
+Dialogue: 0,0:27:43.14,0:27:45.48,Default,NTP,0000,0000,0000,,因为这意味着我们可能有一些错误\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it means that we might have something wrong.
+Dialogue: 0,0:27:48.81,0:27:51.82,Default,NTP,0000,0000,0000,,将此发现最初公布\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The initial announcement of finding them,
+Dialogue: 0,0:27:51.86,0:27:55.03,Default,NTP,0000,0000,0000,,称那是冰融化了或是含水层涌出的水之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}proposed that ice was melting or an aquifer coming up,
+Dialogue: 0,0:27:55.07,0:27:57.66,Default,NTP,0000,0000,0000,,出现了完全不同的一套理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's a whole different set of theories
+Dialogue: 0,0:27:57.72,0:28:01.68,Default,NTP,0000,0000,0000,,最新研究表明那可能来自二氧化碳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and recent study that it could be from carbon dioxide.
+Dialogue: 0,0:27:59.38,0:28:02.68,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N美国行星协会
+Dialogue: 0,0:28:02.32,0:28:04.24,Default,NTP,0000,0000,0000,,干冰升华成气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dry ice going to a gas,
+Dialogue: 0,0:28:04.24,0:28:07.22,Default,NTP,0000,0000,0000,,这种气体又起到了润滑作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then that gas basically doing a gas lubrication
+Dialogue: 0,0:28:07.26,0:28:09.90,Default,NTP,0000,0000,0000,,从而使沙子流动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the sand that's flowing down.
+Dialogue: 0,0:28:09.95,0:28:11.10,Default,NTP,0000,0000,0000,,坦白说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And frankly,
+Dialogue: 0,0:28:11.11,0:28:14.68,Default,NTP,0000,0000,0000,,现在仍在科学探索当中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's still in the midst of exploratory science right now.
+Dialogue: 0,0:28:15.75,0:28:19.90,Default,NTP,0000,0000,0000,,现在有些痕迹已被证明是沙尘流动而成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And some of these marks have been shown to be dust flows.
+Dialogue: 0,0:28:19.95,0:28:21.29,Default,NTP,0000,0000,0000,,希望不全是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I hope not all of them.
+Dialogue: 0,0:28:19.89,0:28:22.49,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}琳达·缇·埃尔金斯-坦顿\N麻省理工学院
+Dialogue: 0,0:28:21.33,0:28:22.97,Default,NTP,0000,0000,0000,,我希望也有水的作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I`d like them to be water.
+Dialogue: 0,0:28:23.93,0:28:28.30,Default,NTP,0000,0000,0000,,从古大洋到流动的沟渠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From ancient oceans to yesterday's flowing gully,
+Dialogue: 0,0:28:29.62,0:28:34.35,Default,NTP,0000,0000,0000,,对火星上水和生命的探索将持续下去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the search for water and life on Mars is an ongoing quest,
+Dialogue: 0,0:28:35.37,0:28:39.61,Default,NTP,0000,0000,0000,,这就像是攀岩者选择了一条陌生的道路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a quest that like a climber's path along an unfamiliar course
+Dialogue: 0,0:28:39.66,0:28:43.54,Default,NTP,0000,0000,0000,,途中将满布失败与曲折\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is filled with false starts and unexpected detours.
+Dialogue: 0,0:28:44.63,0:28:47.09,Default,NTP,0000,0000,0000,,这张在火星赤道附近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what happens when this photograph
+Dialogue: 0,0:28:47.09,0:28:48.96,Default,NTP,0000,0000,0000,,拍摄到的照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}taken near the martian equator
+Dialogue: 0,0:28:48.95,0:28:52.95,Default,NTP,0000,0000,0000,,让大家想起了这个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reminds a lot of people of this.
+Dialogue: 0,0:28:55.39,0:28:57.95,Default,NTP,0000,0000,0000,,火星是否曾存在过生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could Mars once have supported life?
+Dialogue: 0,0:28:59.37,0:29:03.57,Default,NTP,0000,0000,0000,,勇气号采集的矿物证据令人倍受鼓舞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mineral evidence from probes like the Spirit rover is encouraging,
+Dialogue: 0,0:29:04.99,0:29:08.11,Default,NTP,0000,0000,0000,,但这有可能被人借题发挥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it can be radically over interpreted.
+Dialogue: 0,0:29:09.28,0:29:11.16,Default,NTP,0000,0000,0000,,我们要小心仔细\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we have to be careful
+Dialogue: 0,0:29:11.16,0:29:13.98,Default,NTP,0000,0000,0000,,不要逾越我们现有的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not to jump over a line that goes beyond
+Dialogue: 0,0:29:13.98,0:29:17.27,Default,NTP,0000,0000,0000,,数据  实验和假说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what the current data, the current experiments,
+Dialogue: 0,0:29:17.27,0:29:19.18,Default,NTP,0000,0000,0000,,可支持的范围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the current hypotheses can support.
+Dialogue: 0,0:29:11.74,0:29:15.14,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}吉姆·贝尔\N康奈尔大学
+Dialogue: 0,0:29:19.22,0:29:22.40,Default,NTP,0000,0000,0000,,但是很难做到不逾越\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's hard as human beings not to just jump over that line.
+Dialogue: 0,0:29:23.31,0:29:25.51,Default,NTP,0000,0000,0000,,2008年  许多人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2008, thousands
+Dialogue: 0,0:29:25.51,0:29:28.16,Default,NTP,0000,0000,0000,,得出了一个不可思议的结论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}jumped to an incredible conclusion,
+Dialogue: 0,0:29:28.19,0:29:31.19,Default,NTP,0000,0000,0000,,当勇气号探测器拍摄的照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when a picture taken by NASA's Spirit rover
+Dialogue: 0,0:29:31.24,0:29:33.56,Default,NTP,0000,0000,0000,,公布到网上以后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}goes viral across the internet.
+Dialogue: 0,0:29:34.98,0:29:37.79,Default,NTP,0000,0000,0000,,这张照片看起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Doesn't this figure look amazingly like
+Dialogue: 0,0:29:37.82,0:29:40.95,Default,NTP,0000,0000,0000,,难道不像大脚怪吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pictures supposedly taken of bigfoot?
+Dialogue: 0,0:29:41.67,0:29:45.36,Default,NTP,0000,0000,0000,,这是火星上有生命存在的证据吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is this proof of life on Mars?
+Dialogue: 0,0:29:47.99,0:29:49.31,Default,NTP,0000,0000,0000,,不\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No.
+Dialogue: 0,0:29:50.04,0:29:52.57,Default,NTP,0000,0000,0000,,它只是一个两英寸高的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's a two-inch tall rock.
+Dialogue: 0,0:29:53.01,0:29:56.43,Default,NTP,0000,0000,0000,,至今我们还缺乏有力证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We still do not have definitive evidence
+Dialogue: 0,0:29:54.13,0:29:58.03,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N美国加州大学伯克利分校
+Dialogue: 0,0:29:56.47,0:29:59.13,Default,NTP,0000,0000,0000,,证明火星上存在生命  一直都没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the existence of life on Mars, ever.
+Dialogue: 0,0:30:00.20,0:30:03.79,Default,NTP,0000,0000,0000,,就像19世纪的运河\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like the 19th century canals
+Dialogue: 0,0:30:03.82,0:30:06.03,Default,NTP,0000,0000,0000,,20世纪的脸像一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the 20th century face
+Dialogue: 0,0:30:06.85,0:30:12.48,Default,NTP,0000,0000,0000,,火星大脚怪就是21世纪光的把戏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the martian bigfoot is a 21st century trick of the light.
+Dialogue: 0,0:30:13.19,0:30:14.53,Default,NTP,0000,0000,0000,,有时候人们不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And sometimes people don't know
+Dialogue: 0,0:30:14.56,0:30:18.82,Default,NTP,0000,0000,0000,,如何区分事实和科幻小说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how to distinguish bebetween the facts and the science fiction.
+Dialogue: 0,0:30:19.60,0:30:22.84,Default,NTP,0000,0000,0000,,如果火星上有或有过生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there is or was life on Mars,
+Dialogue: 0,0:30:23.98,0:30:26.25,Default,NTP,0000,0000,0000,,很可能只在早期的火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it probably evolved very early
+Dialogue: 0,0:30:26.25,0:30:28.05,Default,NTP,0000,0000,0000,,形成过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the planet's history,
+Dialogue: 0,0:30:28.42,0:30:30.62,Default,NTP,0000,0000,0000,,当时火星仍然有磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when Mars still had a a magnetic field
+Dialogue: 0,0:30:30.62,0:30:33.19,Default,NTP,0000,0000,0000,,可以保护它不受太空辐射的伤害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shielding it from harmful space radiation.
+Dialogue: 0,0:30:33.50,0:30:35.62,Default,NTP,0000,0000,0000,,曾经有磁场的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The evidence that Mars used to
+Dialogue: 0,0:30:35.62,0:30:38.83,Default,NTP,0000,0000,0000,,就是火星外壳的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have a magnetic field lies in the crustal rocks.
+Dialogue: 0,0:30:38.87,0:30:40.81,Default,NTP,0000,0000,0000,,绝大部分岩石凝固的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the crustal rocks have
+Dialogue: 0,0:30:40.84,0:30:44.75,Default,NTP,0000,0000,0000,,磁场也被封存在其中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a magnetic field frozen in when they solidify.
+Dialogue: 0,0:30:46.19,0:30:50.37,Default,NTP,0000,0000,0000,,这些磁性岩石散布于这个红色星球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These magnetic rocks, scattered across the red planet,
+Dialogue: 0,0:30:50.43,0:30:54.19,Default,NTP,0000,0000,0000,,令火星有了自己的北极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}give Mars its own version of Earth's northern lights,,
+Dialogue: 0,0:30:54.24,0:30:56.57,Default,NTP,0000,0000,0000,,就像2008年发现的那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as discovered in 2008,
+Dialogue: 0,0:30:56.60,0:31:00.64,Default,NTP,0000,0000,0000,,尽管这极光并非肉眼可见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}although it may not register as visible light to human eyes.
+Dialogue: 0,0:31:00.73,0:31:06.00,Default,NTP,0000,0000,0000,,在地球上  当来自太阳的带电粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, when charged particles from the sun
+Dialogue: 0,0:31:02.25,0:31:05.79,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}本杰明·韦斯\N麻省理工学院
+Dialogue: 0,0:31:06.57,0:31:08.80,Default,NTP,0000,0000,0000,,陷入地球的磁场线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}get trapped in Earth's s field lines,
+Dialogue: 0,0:31:08.86,0:31:10.72,Default,NTP,0000,0000,0000,,冲进大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}smack into the atmosphere,
+Dialogue: 0,0:31:10.75,0:31:12.82,Default,NTP,0000,0000,0000,,让大气层得到能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they cause the atmosphere to gain energy
+Dialogue: 0,0:31:12.86,0:31:14.64,Default,NTP,0000,0000,0000,,然后发射出一道光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then emit a glow.
+Dialogue: 0,0:31:16.10,0:31:18.67,Default,NTP,0000,0000,0000,,欧洲的宇宙飞船火星快车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The European spacecraft Mars Express
+Dialogue: 0,0:31:18.70,0:31:21.66,Default,NTP,0000,0000,0000,,最近探测到了火星上的极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}recently detected aurora on Mars.
+Dialogue: 0,0:31:21.68,0:31:23.30,Default,NTP,0000,0000,0000,,那里到底发生了什么呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what's s actually happening there
+Dialogue: 0,0:31:23.35,0:31:25.60,Default,NTP,0000,0000,0000,,那里也有带电粒子涌向磁场线吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that there are charged particles
+Dialogue: 0,0:31:25.60,0:31:27.85,Default,NTP,0000,0000,0000,,这些磁场线也是由\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}streaming down magnetic field lines
+Dialogue: 0,0:31:27.85,0:31:30.98,Default,NTP,0000,0000,0000,,外壳剩余的磁场形成的吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}being made by remnant magnetization in the crust?
+Dialogue: 0,0:31:31.75,0:31:35.03,Default,NTP,0000,0000,0000,,但是火星的磁场为何会消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how did Mars lose its magnetic field?
+Dialogue: 0,0:31:38.04,0:31:41.95,Default,NTP,0000,0000,0000,,有种理论是  大约不到40亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One theory: A little less than four billion years ago,
+Dialogue: 0,0:31:41.99,0:31:43.36,Default,NTP,0000,0000,0000,,火星变冷的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as Mars cools,
+Dialogue: 0,0:31:43.36,0:31:47.86,Default,NTP,0000,0000,0000,,其熔融铁核心凝固了  不再转动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its molten iron core solidifies and stops turning.
+Dialogue: 0,0:31:48.14,0:31:51.15,Default,NTP,0000,0000,0000,,火星核心的运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The motions within the core weren't sufficient
+Dialogue: 0,0:31:51.15,0:31:55.47,Default,NTP,0000,0000,0000,,不足以产生电流来产生磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to generate an electric current producing a magnetic field.
+Dialogue: 0,0:31:57.86,0:32:02.50,Default,NTP,0000,0000,0000,,但是还有一种更快的  更极端的设想\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's also a faster, and far more violent hypothesis.
+Dialogue: 0,0:32:04.06,0:32:08.07,Default,NTP,0000,0000,0000,,最近的另一种有争议的看法是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another more recent idea that's pretty controversial,
+Dialogue: 0,0:32:08.11,0:32:11.94,Default,NTP,0000,0000,0000,,火星有一个或几个像月亮一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that Mars had one or more fairly large moons
+Dialogue: 0,0:32:11.98,0:32:14.27,Default,NTP,0000,0000,0000,,大型的捕获卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that were actually capture satellites,
+Dialogue: 0,0:32:15.78,0:32:19.74,Default,NTP,0000,0000,0000,,那些卫星周期性加热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and those moons tidally heated
+Dialogue: 0,0:32:19.80,0:32:22.18,Default,NTP,0000,0000,0000,,火星的内部并维持其熔化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the interior and kept it molten,
+Dialogue: 0,0:32:22.22,0:32:24.26,Default,NTP,0000,0000,0000,,令电流产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}allowing currents to be generated
+Dialogue: 0,0:32:24.26,0:32:26.44,Default,NTP,0000,0000,0000,,并因此产生磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and thus producing magnetic field.
+Dialogue: 0,0:32:27.90,0:32:31.88,Default,NTP,0000,0000,0000,,那么  如果火星成型后5亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, if a half a billion years after Mars's formation,
+Dialogue: 0,0:32:31.92,0:32:34.68,Default,NTP,0000,0000,0000,,那些卫星撞向行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those moons crashed into the planet,
+Dialogue: 0,0:32:36.93,0:32:39.84,Default,NTP,0000,0000,0000,,就会破坏磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could have destroyed the magnetic field.
+Dialogue: 0,0:32:40.43,0:32:45.13,Default,NTP,0000,0000,0000,,大多数科学家认为  冲击理论说不通\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For most scientists, the pieces of the impact theory don't fit.
+Dialogue: 0,0:32:45.29,0:32:48.52,Default,NTP,0000,0000,0000,,首先卫星能大到足以造成如此严重的破坏吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could satellites large enough to do such damage
+Dialogue: 0,0:32:48.52,0:32:52.35,Default,NTP,0000,0000,0000,,会失去足够的惯性能量而被火星捕获吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lose enough inertial energy to be captured in the first place?
+Dialogue: 0,0:32:54.02,0:32:57.18,Default,NTP,0000,0000,0000,,关于那些卫星在5亿年中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This idea that Mars had moons that crushed into it
+Dialogue: 0,0:32:57.18,0:33:00.84,Default,NTP,0000,0000,0000,,撞入火星好像很不可思议\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}within a half of a billion of years is pretty unlikely.
+Dialogue: 0,0:33:00.90,0:33:03.60,Default,NTP,0000,0000,0000,,但也不是完全不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's not completely impossible.
+Dialogue: 0,0:33:06.72,0:33:09.26,Default,NTP,0000,0000,0000,,关于火星磁场的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Questions about Mars' magnetic field
+Dialogue: 0,0:33:09.31,0:33:12.97,Default,NTP,0000,0000,0000,,以及对生命的搜寻贯穿了这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the search for life intersect here
+Dialogue: 0,0:33:13.58,0:33:18.06,Default,NTP,0000,0000,0000,,在火星陨石阿兰山84001中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the martian meteorite ALH 84001
+Dialogue: 0,0:33:19.02,0:33:21.90,Default,NTP,0000,0000,0000,,1996年  一些科学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1996, some scientists
+Dialogue: 0,0:33:21.94,0:33:25.37,Default,NTP,0000,0000,0000,,说那里面有火星细菌化石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}say it contains fossilized martian microbes.
+Dialogue: 0,0:33:26.11,0:33:30.50,Default,NTP,0000,0000,0000,,更多科学家认为那些是非生命物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}More scientists say the objects are non-biological.
+Dialogue: 0,0:33:30.54,0:33:31.60,Default,NTP,0000,0000,0000,,从那时候起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the time since then,
+Dialogue: 0,0:33:31.64,0:33:35.38,Default,NTP,0000,0000,0000,,人们一直在研究这小土豆般大的陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}people have been working on this poor little potato-sized meteorite,
+Dialogue: 0,0:33:33.12,0:33:36.92,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N美国行星协会
+Dialogue: 0,0:33:35.42,0:33:38.90,Default,NTP,0000,0000,0000,,提取了越来越多的信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}extracting more and more information,
+Dialogue: 0,0:33:38.96,0:33:42.91,Default,NTP,0000,0000,0000,,确实提出了一些新成果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but there's actually some new results being presented.
+Dialogue: 0,0:33:43.17,0:33:45.29,Default,NTP,0000,0000,0000,,2010年8月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In April 2010,
+Dialogue: 0,0:33:45.29,0:33:48.07,Default,NTP,0000,0000,0000,,研究者用新的放射性测量工具\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}researchers with new radiometric tools
+Dialogue: 0,0:33:48.07,0:33:51.20,Default,NTP,0000,0000,0000,,测出早期对于这块陨石年龄的估计\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}announced the earlier estimates of the meteorite's age
+Dialogue: 0,0:33:51.20,0:33:52.99,Default,NTP,0000,0000,0000,,是错误的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are wrong.
+Dialogue: 0,0:33:53.26,0:33:55.52,Default,NTP,0000,0000,0000,,粗略估计  它的年龄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's actually younger by
+Dialogue: 0,0:33:55.55,0:33:58.33,Default,NTP,0000,0000,0000,,比我们想象的要小5亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a half billion years than we thought, roughly.
+Dialogue: 0,0:33:59.36,0:34:01.23,Default,NTP,0000,0000,0000,,旧数据显示这块陨石出现于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The older date had placed the rock
+Dialogue: 0,0:34:01.27,0:34:04.08,Default,NTP,0000,0000,0000,,火星正在凝固的时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a time when Mars was still solidifying,
+Dialogue: 0,0:34:04.12,0:34:07.78,Default,NTP,0000,0000,0000,,也许对细菌来说都太早了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe too early for even microbes,
+Dialogue: 0,0:34:07.81,0:34:10.05,Default,NTP,0000,0000,0000,,新的数据认为它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the new date places the meteorite
+Dialogue: 0,0:34:10.10,0:34:13.74,Default,NTP,0000,0000,0000,,形成不到41亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at just under 4.1 billion years old.
+Dialogue: 0,0:34:14.07,0:34:16.85,Default,NTP,0000,0000,0000,,当然  在10亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That, of course, is the time, 1 billion years ago,
+Dialogue: 0,0:34:16.90,0:34:19.23,Default,NTP,0000,0000,0000,,如果你认为火星曾适合居住的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when, if you thought Mars was habitable,
+Dialogue: 0,0:34:19.28,0:34:21.18,Default,NTP,0000,0000,0000,,就是在那个时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would be the time you would choose,
+Dialogue: 0,0:34:21.22,0:34:23.97,Default,NTP,0000,0000,0000,,因为我们认为那时候火星表面有水流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we think there was water flowing on the surface,,
+Dialogue: 0,0:34:24.02,0:34:27.51,Default,NTP,0000,0000,0000,,气候更温暖  也有一个厚厚的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it was warmer. And it was a thick atmosphere.
+Dialogue: 0,0:34:31.11,0:34:34.16,Default,NTP,0000,0000,0000,,但是来自火星的陨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how can a meteorite from Mars
+Dialogue: 0,0:34:35.80,0:34:38.18,Default,NTP,0000,0000,0000,,如何来到地球的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}end up on Earth?
+Dialogue: 0,0:34:38.93,0:34:41.59,Default,NTP,0000,0000,0000,,来自德克萨斯达拉斯的克里斯汀娜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was Kristina M., from Dallas, Texas,
+Dialogue: 0,0:34:41.59,0:34:43.93,Default,NTP,0000,0000,0000,,想要"问问宇宙"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wanted to "Ask the universe"
+Dialogue: 0,0:34:43.99,0:34:45.41,Default,NTP,0000,0000,0000,,她问我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When she texted us:
+Dialogue: 0,0:34:45.47,0:34:47.70,Default,NTP,0000,0000,0000,,是什么使得行星的一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What makes part of one planet
+Dialogue: 0,0:34:47.70,0:34:50.27,Default,NTP,0000,0000,0000,,飞离并落到另一个行星上呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fly off and land on another?
+Dialogue: 0,0:34:50.31,0:34:52.09,Default,NTP,0000,0000,0000,,好问题  克里斯汀娜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Great question, Kristina.
+Dialogue: 0,0:34:52.12,0:34:55.17,Default,NTP,0000,0000,0000,,我们的确在地球上发现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've actually found meteorites here on Earth
+Dialogue: 0,0:34:55.17,0:34:56.95,Default,NTP,0000,0000,0000,,确定来自于火星的陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are undeniably from Mars.
+Dialogue: 0,0:34:56.99,0:34:58.59,Default,NTP,0000,0000,0000,,已知的大约有50块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's about 50 of them known.
+Dialogue: 0,0:34:59.34,0:35:00.87,Default,NTP,0000,0000,0000,,我们认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, what we think happens is
+Dialogue: 0,0:35:00.91,0:35:03.56,Default,NTP,0000,0000,0000,,小行星偶然撞击了火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that asteroids occasionally slam into Mars
+Dialogue: 0,0:35:03.59,0:35:06.52,Default,NTP,0000,0000,0000,,将大块岩石抛进太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and throw chunks of rock out into space
+Dialogue: 0,0:35:06.56,0:35:08.85,Default,NTP,0000,0000,0000,,地球的重力也可以把它们拉进来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Earth's gravity can also pull them in.
+Dialogue: 0,0:35:08.91,0:35:11.31,Default,NTP,0000,0000,0000,,所以它们掉在这里被我们找到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they land here and we find them.
+Dialogue: 0,0:35:11.37,0:35:13.38,Default,NTP,0000,0000,0000,,通过这种方法  我们确实可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in this way, we can actually study
+Dialogue: 0,0:35:13.44,0:35:15.87,Default,NTP,0000,0000,0000,,在地球上研究火星碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pieces of Mars here on Earth.
+Dialogue: 0,0:35:18.50,0:35:21.27,Default,NTP,0000,0000,0000,,2010年  美国宇航局宣布\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2010, NASA announces
+Dialogue: 0,0:35:18.50,0:35:23.00,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}新陨石提示火星上存在生命
+Dialogue: 0,0:35:21.27,0:35:25.89,Default,NTP,0000,0000,0000,,对阿兰山84001的最新电子显微镜分析\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that more advanced electron microscopy of ALH 84001
+Dialogue: 0,0:35:25.93,0:35:28.82,Default,NTP,0000,0000,0000,,发现了新的氧化铁晶体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reveals new details of iron oxide crystals,
+Dialogue: 0,0:35:28.86,0:35:30.58,Default,NTP,0000,0000,0000,,叫做磁铁矿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called magnetite,
+Dialogue: 0,0:35:31.07,0:35:33.79,Default,NTP,0000,0000,0000,,一种来自身具有磁场的矿石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a mineral within its own magnetic field
+Dialogue: 0,0:35:33.79,0:35:39.21,Default,NTP,0000,0000,0000,,其在地球上可由某种海洋细菌产生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that on Earth can be created by certain ocean-dwelling bacteria.
+Dialogue: 0,0:35:40.22,0:35:42.66,Default,NTP,0000,0000,0000,,这种地球细菌能够\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Bacteria here on Earth have figured out
+Dialogue: 0,0:35:42.22,0:35:46.09,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}琳达·缇·埃尔金斯-坦顿\N麻省理工学院
+Dialogue: 0,0:35:42.71,0:35:45.48,Default,NTP,0000,0000,0000,,在体内产生磁铁矿晶体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how to grow magnetite crystals in their own bodies
+Dialogue: 0,0:35:45.52,0:35:48.95,Default,NTP,0000,0000,0000,,帮助它们适应地球磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that help them to orient to the Earth's magnetic field
+Dialogue: 0,0:35:49.00,0:35:50.13,Default,NTP,0000,0000,0000,,使它们能在海里游泳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in order to help them swim in the ocean
+Dialogue: 0,0:35:50.17,0:35:52.22,Default,NTP,0000,0000,0000,,在进食时进行定向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and orient while feeding.
+Dialogue: 0,0:35:54.70,0:35:57.80,Default,NTP,0000,0000,0000,,阿兰山84001中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are the crystals in ALH 84001
+Dialogue: 0,0:35:57.80,0:36:01.40,Default,NTP,0000,0000,0000,,石化的磁铁矿晶体是由火星细菌产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fossilized magnetite created by martian bacteria
+Dialogue: 0,0:36:01.40,0:36:04.36,Default,NTP,0000,0000,0000,,就在40亿年之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to help them hunt and feed in an ancient ocean
+Dialogue: 0,0:36:04.42,0:36:07.02,Default,NTP,0000,0000,0000,,火星仍存在磁场时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when Mars still had its magnetic field
+Dialogue: 0,0:36:07.08,0:36:09.59,Default,NTP,0000,0000,0000,,借此在古老的海洋觅食的吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more than 4 billion years ago?
+Dialogue: 0,0:36:11.11,0:36:12.80,Default,NTP,0000,0000,0000,,如果它们是化石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If they are fossils
+Dialogue: 0,0:36:12.85,0:36:15.41,Default,NTP,0000,0000,0000,,就能说明早期火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of course they indicate early Mars
+Dialogue: 0,0:36:15.46,0:36:18.23,Default,NTP,0000,0000,0000,,拥有极复杂的生命体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}had faily sophisticated life.
+Dialogue: 0,0:36:18.76,0:36:21.05,Default,NTP,0000,0000,0000,,这个问题还在推敲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's still being batted about
+Dialogue: 0,0:36:21.05,0:36:23.54,Default,NTP,0000,0000,0000,,结果是仍然有许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and bottom line is there's still a heck of a lot of
+Dialogue: 0,0:36:23.54,0:36:24.99,Default,NTP,0000,0000,0000,,科学工作要做\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientific work being done
+Dialogue: 0,0:36:24.99,0:36:27.31,Default,NTP,0000,0000,0000,,许多对火星陨石的争论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a lot of debate about Mars' meteorites,
+Dialogue: 0,0:36:27.31,0:36:30.52,Default,NTP,0000,0000,0000,,到底有没有任何生命存在过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether there's any evidence past life in those.
+Dialogue: 0,0:36:32.33,0:36:36.27,Default,NTP,0000,0000,0000,,但是最近的  最引人注目的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the latest and most compelling evidence of Martian life
+Dialogue: 0,0:36:36.33,0:36:38.95,Default,NTP,0000,0000,0000,,不在于古老的陨石中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}isn't in an ancient meteorite,
+Dialogue: 0,0:36:38.95,0:36:40.65,Default,NTP,0000,0000,0000,,而是存于现在的火星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but on Mars today,
+Dialogue: 0,0:36:40.95,0:36:45.02,Default,NTP,0000,0000,0000,,尽管这个新证据还未显现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even though this new evidence is invisible.
+Dialogue: 0,0:36:48.05,0:36:51.82,Default,NTP,0000,0000,0000,,多年来  科学家们在火星上寻找生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For years, scientists looking for life on Mars
+Dialogue: 0,0:36:51.88,0:36:53.85,Default,NTP,0000,0000,0000,,一直追寻着水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have followed the water,
+Dialogue: 0,0:36:53.92,0:36:56.30,Default,NTP,0000,0000,0000,,但是接下来还有点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but there may be something to follow,
+Dialogue: 0,0:36:56.37,0:36:58.97,Default,NTP,0000,0000,0000,,更令人激动的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's even more dramatic.
+Dialogue: 0,0:37:00.67,0:37:04.24,Default,NTP,0000,0000,0000,,1999到2009年间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Between 1999 and 2009,
+Dialogue: 0,0:37:04.28,0:37:07.07,Default,NTP,0000,0000,0000,,对火星的光谱观测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spectrographic observations of Mars
+Dialogue: 0,0:37:07.10,0:37:10.28,Default,NTP,0000,0000,0000,,探测到了一种碳氢结合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}detect a combination of carbon and hydrogen
+Dialogue: 0,0:37:10.34,0:37:12.07,Default,NTP,0000,0000,0000,,叫做甲烷气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called methane gas.
+Dialogue: 0,0:37:13.42,0:37:16.34,Default,NTP,0000,0000,0000,,在火星大气层中发现甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The discovery of methane on Mars, in Mars' atmosphere,
+Dialogue: 0,0:37:13.42,0:37:17.51,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}阿希文·瓦萨瓦达\N美国宇航局/喷气推进实验室
+Dialogue: 0,0:37:16.34,0:37:17.83,Default,NTP,0000,0000,0000,,实在令人吃惊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was a real surprise to people.
+Dialogue: 0,0:37:17.91,0:37:20.85,Default,NTP,0000,0000,0000,,气体烟雾似乎是在夏季\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Plumes of the gas seem to be coming
+Dialogue: 0,0:37:20.89,0:37:24.10,Default,NTP,0000,0000,0000,,从火星的几个热点冒出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a few "Hot spots" during the Martian summer.
+Dialogue: 0,0:37:25.40,0:37:29.57,Default,NTP,0000,0000,0000,,令人费解的是火星上本不该存在甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The trouble is there shouldn't t be any methane on Mars.
+Dialogue: 0,0:37:30.00,0:37:33.29,Default,NTP,0000,0000,0000,,在火星上  即便是甲烷的出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Mars, even just the presence of methane,,
+Dialogue: 0,0:37:32.26,0:37:35.62,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}吉姆·贝尔\N康奈尔大学
+Dialogue: 0,0:37:33.33,0:37:36.85,Default,NTP,0000,0000,0000,,都有些神秘  因为它会分解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a little bit mysterious because it breaks down.
+Dialogue: 0,0:37:38.12,0:37:41.29,Default,NTP,0000,0000,0000,,地球上  不稳定的甲烷分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, the unstable methane molecule
+Dialogue: 0,0:37:41.29,0:37:44.09,Default,NTP,0000,0000,0000,,经过约300年就会分解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}disintegrates after about 300 years.
+Dialogue: 0,0:37:45.20,0:37:48.87,Default,NTP,0000,0000,0000,,而在火星上  受到大量的紫外线辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But on Mars, high doses of ultraviolet radiation
+Dialogue: 0,0:37:48.94,0:37:51.64,Default,NTP,0000,0000,0000,,以及新近发现的干闪电的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and perhaps the newly discovered dry lightning
+Dialogue: 0,0:37:51.69,0:37:54.10,Default,NTP,0000,0000,0000,,在火星稀薄而尘霾的大气内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the thin, dusty Martian atmosphere
+Dialogue: 0,0:37:54.12,0:37:57.64,Default,NTP,0000,0000,0000,,或许只需数月就能让甲烷完全解体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}break the methane down in just a few months.
+Dialogue: 0,0:37:57.69,0:37:59.63,Default,NTP,0000,0000,0000,,因此  如果甲烷存在的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so if you see it there,
+Dialogue: 0,0:37:59.66,0:38:02.70,Default,NTP,0000,0000,0000,,意味着一定也存在某种供源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it means there must be something resupplying it.
+Dialogue: 0,0:38:02.75,0:38:04.16,Default,NTP,0000,0000,0000,,因此即使它不断分解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even though it's being broken down,
+Dialogue: 0,0:38:04.16,0:38:05.24,Default,NTP,0000,0000,0000,,也还有源源不断的供给\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's getting resupplied.
+Dialogue: 0,0:38:05.86,0:38:08.58,Default,NTP,0000,0000,0000,,火星甲烷究竟来自何方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where's the Martian methane coming from?
+Dialogue: 0,0:38:09.78,0:38:14.05,Default,NTP,0000,0000,0000,,地球上  火山活动产生大量的甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, volcanoes produce vast amounts of methane.
+Dialogue: 0,0:38:14.80,0:38:17.78,Default,NTP,0000,0000,0000,,然而即使火星上有奥林帕斯山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even though Mars has Olympus Mons,
+Dialogue: 0,0:38:17.83,0:38:20.61,Default,NTP,0000,0000,0000,,这座太阳系内最大型的火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the largest volcano in the solar system,
+Dialogue: 0,0:38:20.65,0:38:23.55,Default,NTP,0000,0000,0000,,也有数百万年不曾喷发了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it hasn't t erupted for millions of years.
+Dialogue: 0,0:38:24.14,0:38:26.28,Default,NTP,0000,0000,0000,,还有其它选项吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what are the other choices?
+Dialogue: 0,0:38:27.19,0:38:29.49,Default,NTP,0000,0000,0000,,甲烷也可以来自地下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Methane can be produced underground
+Dialogue: 0,0:38:29.55,0:38:32.80,Default,NTP,0000,0000,0000,,当玄武岩转化为蛇纹岩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when basaltic rock gets turned into a mineral called serpentine.
+Dialogue: 0,0:38:32.85,0:38:34.54,Default,NTP,0000,0000,0000,,会释放甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that releases methane
+Dialogue: 0,0:38:34.58,0:38:36.47,Default,NTP,0000,0000,0000,,甲烷慢慢渗出地表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that methane can seep up through the ground,
+Dialogue: 0,0:38:36.52,0:38:38.05,Default,NTP,0000,0000,0000,,进入大气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and come out in the atmosphere.
+Dialogue: 0,0:38:39.01,0:38:42.31,Default,NTP,0000,0000,0000,,然而该过程需要高温液态水的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But this process requires hot liquid water
+Dialogue: 0,0:38:42.36,0:38:46.82,Default,NTP,0000,0000,0000,,这在火星表面及内部尚未发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which hasn't yet been found on or within Mars.
+Dialogue: 0,0:38:46.85,0:38:48.54,Default,NTP,0000,0000,0000,,在火星上是否有我们至今未知的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could be volcanoes which we don't
+Dialogue: 0,0:38:48.58,0:38:51.31,Default,NTP,0000,0000,0000,,活火山存在呢  这就很有趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}know to be active on Mars, so that would be interesting.
+Dialogue: 0,0:38:48.58,0:38:51.51,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N美国行星协会
+Dialogue: 0,0:38:51.35,0:38:54.33,Default,NTP,0000,0000,0000,,也可能是火星地下我们未知的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could be some subsurface chemistry with liquid water,
+Dialogue: 0,0:38:54.38,0:38:55.86,Default,NTP,0000,0000,0000,,某种含液态水的化学物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which we don't t know to be on Mars,
+Dialogue: 0,0:38:55.90,0:38:57.50,Default,NTP,0000,0000,0000,,这也很有意思\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it'd be interesting.
+Dialogue: 0,0:38:57.50,0:38:59.51,Default,NTP,0000,0000,0000,,还可能就是源于微生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or it could be due to biology.
+Dialogue: 0,0:39:00.81,0:39:03.47,Default,NTP,0000,0000,0000,,地球上  90%的甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, 90% of methane
+Dialogue: 0,0:39:03.52,0:39:06.71,Default,NTP,0000,0000,0000,,源于动植物体内的细菌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes from bacteria in animals and plants.
+Dialogue: 0,0:39:07.28,0:39:09.27,Default,NTP,0000,0000,0000,,那么火星的甲烷是否\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is the Martian methane coming from
+Dialogue: 0,0:39:09.27,0:39:11.71,Default,NTP,0000,0000,0000,,就来自地底的细菌菌落呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}underground colonies of bacteria?
+Dialogue: 0,0:39:12.43,0:39:17.21,Default,NTP,0000,0000,0000,,火星上有甲烷的消息登上报纸头条\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The discovery of methane on Mars led to headlines
+Dialogue: 0,0:39:17.25,0:39:22.69,Default,NTP,0000,0000,0000,,成为发现火星生命存在的决定性证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of us having definitively found evidence for life on Mars.
+Dialogue: 0,0:39:22.84,0:39:25.72,Default,NTP,0000,0000,0000,,人们建了许多聊天室\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And entire chat rooms were set up
+Dialogue: 0,0:39:24.72,0:39:27.72,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N美国加州大学伯克利分校
+Dialogue: 0,0:39:25.77,0:39:29.26,Default,NTP,0000,0000,0000,,讨论各种火星生物  然而事实上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to discuss these various creatures, but in fact,
+Dialogue: 0,0:39:29.32,0:39:31.91,Default,NTP,0000,0000,0000,,尽管甲烷的发现非常有趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}though the discovery of methane is interesting,
+Dialogue: 0,0:39:31.95,0:39:33.57,Default,NTP,0000,0000,0000,,但这并不意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it doesn't mean that
+Dialogue: 0,0:39:31.97,0:39:36.57,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}美国宇航局称\N火星上的甲烷意味着可能存在生命
+Dialogue: 0,0:39:33.57,0:39:36.43,Default,NTP,0000,0000,0000,,我们在火星上发现了四处游荡的生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we found creatures wandering around on Mars.
+Dialogue: 0,0:39:37.38,0:39:38.92,Default,NTP,0000,0000,0000,,或许的确存在生命体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe it is life.
+Dialogue: 0,0:39:38.06,0:39:41.73,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}琳达·缇·埃尔金斯-坦顿\N麻省理工学院
+Dialogue: 0,0:39:38.97,0:39:41.01,Default,NTP,0000,0000,0000,,我们对未知只有一步之遥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an arrow to something and
+Dialogue: 0,0:39:41.06,0:39:43.36,Default,NTP,0000,0000,0000,,或许一步之遥外的未知就是生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe the thing at the end of the arrow is life.
+Dialogue: 0,0:39:44.22,0:39:46.57,Default,NTP,0000,0000,0000,,探查火星甲烷来源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The search for the source of Martian methane
+Dialogue: 0,0:39:46.62,0:39:49.14,Default,NTP,0000,0000,0000,,成为探索者们的当务之急\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has become a priority for explorers
+Dialogue: 0,0:39:49.20,0:39:53.37,Default,NTP,0000,0000,0000,,也是即将发射的火星登陆探测器任务之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and is on the mission list for the next rover to be sent to Mars.
+Dialogue: 0,0:39:54.24,0:39:58.66,Default,NTP,0000,0000,0000,,现在我们看到的是所谓的测试床版的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we're looking at a so-called test bed version,,
+Dialogue: 0,0:39:58.70,0:40:00.82,Default,NTP,0000,0000,0000,,火星科学实验室探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the Mars science laboratory rover.
+Dialogue: 0,0:40:00.87,0:40:02.17,Default,NTP,0000,0000,0000,,当火星科学实验室\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the Mars science laboratory,
+Dialogue: 0,0:40:02.21,0:40:04.61,Default,NTP,0000,0000,0000,,在地表着陆后  会检测甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it gets down to the surface, will measure methane.
+Dialogue: 0,0:40:04.67,0:40:07.80,Default,NTP,0000,0000,0000,,探测器到达后一切都会真相大白\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we'll know the answer once that rover gets down there.
+Dialogue: 0,0:40:08.98,0:40:12.44,Default,NTP,0000,0000,0000,,被称为"好奇者"的火星科学实验室\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Mars science laboratory dubbed "Curiosity"
+Dialogue: 0,0:40:12.47,0:40:17.35,Default,NTP,0000,0000,0000,,将于2011年秋发射  2012年着陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will launch in the fall of 2011, and land in 2012.
+Dialogue: 0,0:40:17.42,0:40:19.45,Default,NTP,0000,0000,0000,,它的身形如小型汽车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the size of a small car
+Dialogue: 0,0:40:19.48,0:40:22.32,Default,NTP,0000,0000,0000,,会以一种不可思议的新技术进行着陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and will use an amazing new landing technique,
+Dialogue: 0,0:40:22.35,0:40:23.99,Default,NTP,0000,0000,0000,,称为空中起重机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the sky crane.
+Dialogue: 0,0:40:25.26,0:40:27.44,Default,NTP,0000,0000,0000,,在离地面60英尺时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At about 60 feet above the ground,
+Dialogue: 0,0:40:28.85,0:40:31.82,Default,NTP,0000,0000,0000,,探测器与着陆架分离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the rover is separated from the descent stage
+Dialogue: 0,0:40:31.87,0:40:35.65,Default,NTP,0000,0000,0000,,由缰索束缚直线下降\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and lowered on a line, which we call the bridle,
+Dialogue: 0,0:40:35.69,0:40:38.82,Default,NTP,0000,0000,0000,,并缓慢地降至地面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and slowly lowered to the ground anand lowered to the ground.
+Dialogue: 0,0:40:35.06,0:40:38.60,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}斯蒂芬·李\N美国宇航局/喷气推进实验室
+Dialogue: 0,0:40:38.87,0:40:41.38,Default,NTP,0000,0000,0000,,当探测器四轮着地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the rover's wheels touch down on the ground,
+Dialogue: 0,0:40:42.16,0:40:44.16,Default,NTP,0000,0000,0000,,着陆架收到反馈信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the descent stage detects that.
+Dialogue: 0,0:40:44.20,0:40:47.39,Default,NTP,0000,0000,0000,,它将缆索切断并飞向远方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It cuts those lines and then it flies away
+Dialogue: 0,0:40:47.43,0:40:49.71,Default,NTP,0000,0000,0000,,在安全距离之外坠毁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it crashes safely far away
+Dialogue: 0,0:40:49.75,0:40:51.67,Default,NTP,0000,0000,0000,,探测器就四平八稳到达地表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the rover is on the ground, on its wheels,
+Dialogue: 0,0:40:51.70,0:40:53.07,Default,NTP,0000,0000,0000,,随时准备开展工作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ready to go do its job.
+Dialogue: 0,0:40:55.45,0:40:59.54,Default,NTP,0000,0000,0000,,高频雷达是空中起重机式着陆的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The high-frequency radar, essential to ththe sky crane landing,
+Dialogue: 0,0:40:59.59,0:41:03.18,Default,NTP,0000,0000,0000,,现正安装在直升机上进行实际测试\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is mounted to a helicopter and taken for a test-drive
+Dialogue: 0,0:41:03.23,0:41:06.06,Default,NTP,0000,0000,0000,,地点就在加州爱德华兹空军基地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at California's Edwards air force base.
+Dialogue: 0,0:41:08.97,0:41:10.19,Default,NTP,0000,0000,0000,,说到火星着陆时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you're coming down on Mars,
+Dialogue: 0,0:41:10.19,0:41:12.46,Default,NTP,0000,0000,0000,,对于下降角度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we don't watch a simulation and analysis
+Dialogue: 0,0:41:11.46,0:41:14.46,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}詹姆斯·蒙哥马利\N美国宇航局/喷气推进实验室
+Dialogue: 0,0:41:12.49,0:41:14.64,Default,NTP,0000,0000,0000,,及降落伞的姿态角速度等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to go ahead and give us bounds of what we expect to see
+Dialogue: 0,0:41:14.68,0:41:16.22,Default,NTP,0000,0000,0000,,我们无法通过模拟和分析\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in terms of descent angles,
+Dialogue: 0,0:41:16.28,0:41:18.63,Default,NTP,0000,0000,0000,,得出我们期待的边界范围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in terms of attitude rates on the parachute.
+Dialogue: 0,0:41:19.07,0:41:20.96,Default,NTP,0000,0000,0000,,在进入  下降和着陆的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the entry, descent, and landing,
+Dialogue: 0,0:41:21.25,0:41:23.96,Default,NTP,0000,0000,0000,,雷达会反馈地面位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the radar tells us where the ground is
+Dialogue: 0,0:41:24.00,0:41:26.02,Default,NTP,0000,0000,0000,,以及飞行器行进的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and how fast we're going.
+Dialogue: 0,0:41:26.07,0:41:28.66,Default,NTP,0000,0000,0000,,控制系统用这些信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That information is used by the control system
+Dialogue: 0,0:41:28.71,0:41:35.53,Default,NTP,0000,0000,0000,,确保推进器着陆时能稳稳当当\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to control the thrusters to make sure we touch down at a nice gentle speed.
+Dialogue: 0,0:41:38.50,0:41:41.14,Default,NTP,0000,0000,0000,,我们将各个部分进行了仔细测试\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We test little pieces here and little pieces there,
+Dialogue: 0,0:41:39.50,0:41:43.14,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}米格尔·圣·马丁\N美国宇航局/喷气推进实验室
+Dialogue: 0,0:41:41.18,0:41:46.14,Default,NTP,0000,0000,0000,,而首次真正的考验就在火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so the first time that we test it for real is on Mars.
+Dialogue: 0,0:41:47.43,0:41:50.09,Default,NTP,0000,0000,0000,,火星实验室的首要目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The key objective of the Mars science laboratory
+Dialogue: 0,0:41:50.09,0:41:52.76,Default,NTP,0000,0000,0000,,是搜寻远古生物栖息地存在的迹象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is to search for signs of ancient habitats.
+Dialogue: 0,0:41:54.46,0:41:59.26,Default,NTP,0000,0000,0000,,探测器会不断地来回勘查\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so the rover will rove up to areas that had
+Dialogue: 0,0:41:59.31,0:42:01.51,Default,NTP,0000,0000,0000,,一度水盈土润的那些区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}been soaked in water in the past,
+Dialogue: 0,0:42:01.55,0:42:03.15,Default,NTP,0000,0000,0000,,以期找到残存的有机物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it may have trapped organics.
+Dialogue: 0,0:42:03.20,0:42:04.79,Default,NTP,0000,0000,0000,,如果我们能找到这类地层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if we find those kind of layers,
+Dialogue: 0,0:42:04.84,0:42:07.24,Default,NTP,0000,0000,0000,,就能深入地层中的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we can go up to that kind of a rock ,
+Dialogue: 0,0:42:07.29,0:42:10.40,Default,NTP,0000,0000,0000,,钻探并提取岩石内的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we can drill into it and take the material from inside the rock
+Dialogue: 0,0:42:10.40,0:42:15.43,Default,NTP,0000,0000,0000,,就能更精确地得出岩石的成分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and tell with a lot of precision what the rock is composed of,
+Dialogue: 0,0:42:15.48,0:42:17.54,Default,NTP,0000,0000,0000,,看其中是否存在有机物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether there's s organics in there.
+Dialogue: 0,0:42:19.05,0:42:22.54,Default,NTP,0000,0000,0000,,火星实验室同时也是研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Mars science laboratory will be one more link,
+Dialogue: 0,0:42:22.59,0:42:24.77,Default,NTP,0000,0000,0000,,夜空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a chain of exploration
+Dialogue: 0,0:42:24.81,0:42:28.95,Default,NTP,0000,0000,0000,,大红斑现象的重要一环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to understand that bright red dot in the dark night sky.
+Dialogue: 0,0:42:30.27,0:42:32.29,Default,NTP,0000,0000,0000,,拢合起新的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Put together all the new evidence
+Dialogue: 0,0:42:32.33,0:42:36.16,Default,NTP,0000,0000,0000,,结果却需要更多的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it adds up to the need for more evidence.
+Dialogue: 0,0:42:36.85,0:42:39.45,Default,NTP,0000,0000,0000,,我们不知道磁场是如何消失的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't t know how the magnetic field was lost.
+Dialogue: 0,0:42:39.50,0:42:42.56,Default,NTP,0000,0000,0000,,我们不清楚大气层是如何消失的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't t know exactly how the atmosphere was lost.
+Dialogue: 0,0:42:42.59,0:42:44.94,Default,NTP,0000,0000,0000,,我们不知道水都到哪里去了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't know where all the water went.
+Dialogue: 0,0:42:45.00,0:42:48.42,Default,NTP,0000,0000,0000,,我们不知道甲烷的来源究竟是生命体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't know whether the methane is produced by life
+Dialogue: 0,0:42:48.42,0:42:51.04,Default,NTP,0000,0000,0000,,还是非生命物质的化学反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or just regular abiotic chemical reactions.
+Dialogue: 0,0:42:53.70,0:42:58.07,Default,NTP,0000,0000,0000,,或许19至20世纪令人大惑不解的谜团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But maybe questions that baffled the 19th and 20th centuries,
+Dialogue: 0,0:42:58.07,0:43:00.74,Default,NTP,0000,0000,0000,,将在21世纪豁然开朗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}WILL BE ANSWERED IN THE 21st.
+Dialogue: 0,0:43:02.23,0:43:05.12,Default,NTP,0000,0000,0000,,我问其他5位火星科学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I asked five other Mars scientists:
+Dialogue: 0,0:43:05.12,0:43:07.89,Default,NTP,0000,0000,0000,,你们认为火星上曾存在生命的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what percentage chance would each of you give
+Dialogue: 0,0:43:07.89,0:43:11.12,Default,NTP,0000,0000,0000,,概率有多大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that life ever formed on Mars?
+Dialogue: 0,0:43:11.16,0:43:14.98,Default,NTP,0000,0000,0000,,我们有4人认为有超过90%可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Four of us thought it was maybe greater than 90% chance,
+Dialogue: 0,0:43:15.02,0:43:18.27,Default,NTP,0000,0000,0000,,火星过去曾经  甚至现在就存在生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there had been at some time and maybe now life on Mars.
+Dialogue: 0,0:43:18.33,0:43:21.11,Default,NTP,0000,0000,0000,,而另外2人则认为不足15%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And two of us thought it was less than 15%.
+Dialogue: 0,0:43:21.16,0:43:25.17,Default,NTP,0000,0000,0000,,接下来的问题就是  如果你认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the follow-on question then is, if you think that
+Dialogue: 0,0:43:25.21,0:43:27.43,Default,NTP,0000,0000,0000,,只有低于15%的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's a less than 15% chance,
+Dialogue: 0,0:43:27.47,0:43:29.43,Default,NTP,0000,0000,0000,,是否还值得如此煞费苦心的探求呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is it really worth going to look for it?
+Dialogue: 0,0:43:29.49,0:43:32.38,Default,NTP,0000,0000,0000,,我会毫不迟疑地回答  绝对肯定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the answer was immediately, Absolutely.
+Dialogue: 0,0:43:33.27,0:43:36.89,Default,NTP,0000,0000,0000,,我认为探测器和人造卫星等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't think that rovers and landers and orbiters
+Dialogue: 0,0:43:36.89,0:43:38.52,Default,NTP,0000,0000,0000,,在火星上找不到生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are gonna find life on Mars.
+Dialogue: 0,0:43:38.57,0:43:41.26,Default,NTP,0000,0000,0000,,我认为这必须靠人类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}My personal opinion, I think it's gonna take people.
+Dialogue: 0,0:43:41.67,0:43:44.74,Default,NTP,0000,0000,0000,,有朝一日  人类会登陆火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think there will come a day when people go to Mars
+Dialogue: 0,0:43:46.28,0:43:49.32,Default,NTP,0000,0000,0000,,挖掘  钻探  和思考\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}digging and drilling and thinking
+Dialogue: 0,0:43:49.35,0:43:51.94,Default,NTP,0000,0000,0000,,身入其境  顺理成章\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and just going with context and gut feel
+Dialogue: 0,0:43:51.98,0:43:55.23,Default,NTP,0000,0000,0000,,逐一破解这个复杂难懂的谜题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and putting the pieces of a very complicated puzzle together.
+Dialogue: 0,0:43:55.32,0:43:56.31,Default,NTP,0000,0000,0000,,我很乐观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm optimistic
+Dialogue: 0,0:43:56.31,0:43:58.95,Default,NTP,0000,0000,0000,,相信必定会找到曾经存在生命的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we're gonna find evidence of past life.

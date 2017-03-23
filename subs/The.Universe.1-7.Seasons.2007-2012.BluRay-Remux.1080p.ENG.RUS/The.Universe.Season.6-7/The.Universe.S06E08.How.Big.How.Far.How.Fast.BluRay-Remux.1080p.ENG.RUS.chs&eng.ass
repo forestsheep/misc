@@ -1,0 +1,716 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:12.02,0:01:15.55,Default,,0000,0000,0008,,{\blur3}宇宙:多大 多远 多快{\r}
+Dialogue: 0,0:26:37.82,0:26:39.59,Default,,0000,0000,0008,,{\an8\blur3}咨询《宇宙》团队{\r}
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:22.37,0:00:26.38,Default,,0000,0000,0000,,{\blur3}宇宙的数字让人类智力感到惊恐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The numbers of the universe boggle the human mind.{\r}
+Dialogue: 0,0:00:26.70,0:00:28.83,Default,,0000,0000,0000,,{\blur3}在可观察到的那部分宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the observable part of the universe,{\r}
+Dialogue: 0,0:00:28.83,0:00:32.32,Default,,0000,0000,0000,,{\blur3}有无数的物体 比如1 000亿个星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is something like 100 billion galaxies{\r}
+Dialogue: 0,0:00:32.48,0:00:34.28,Default,,0000,0000,0000,,{\blur3}而每一个星系有数十亿的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each with billions of stars.{\r}
+Dialogue: 0,0:00:34.63,0:00:38.47,Default,,0000,0000,0000,,{\blur3}仙女座星系大约距离我们250万光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Andromeda galaxy is about 2.5 million light-years away.{\r}
+Dialogue: 0,0:00:38.87,0:00:40.72,Default,,0000,0000,0000,,{\blur3}地球围绕太阳运行的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Earth is orbiting the Sun{\r}
+Dialogue: 0,0:00:40.79,0:00:44.62,Default,,0000,0000,0000,,{\blur3}约为66 000英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at a speed of about 66,000 miles per hour.{\r}
+Dialogue: 0,0:00:45.46,0:00:50.59,Default,,0000,0000,0000,,{\blur3}要去理解如此巨大的尺寸 距离和速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of us give up even trying to comprehend such titanic sizes,{\r}
+Dialogue: 0,0:00:51.09,0:00:53.32,Default,,0000,0000,0000,,{\blur3}我们大多数人会举手投降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}distances, and speeds.{\r}
+Dialogue: 0,0:00:53.77,0:00:58.70,Default,,0000,0000,0000,,{\blur3}有办法能把宇宙的一部分请到地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But are there ways to bring the sweep of the cosmos down to Earth{\r}
+Dialogue: 0,0:00:59.30,0:01:01.15,Default,,0000,0000,0000,,{\blur3}帮助我们去了解它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to help us understand{\r}
+Dialogue: 0,0:01:01.17,0:01:04.95,Default,,0000,0000,0000,,{\blur3}有多大 多远和多快吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to help us understand how big, how far, and how fast?{\r}
+Dialogue: 0,0:01:17.63,0:01:18.83,Default,,0000,0000,0000,,{\blur3}行星地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Planet Earth{\r}
+Dialogue: 0,0:01:18.88,0:01:23.24,Default,,0000,0000,0000,,{\blur3}把它所有的辽阔土地 深深海洋和崇山峻岭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For all its wide expanses, deep seas,{\r}
+Dialogue: 0,0:01:24.12,0:01:25.88,Default,,0000,0000,0000,,{\blur3}都加起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and massive mountains{\r}
+Dialogue: 0,0:01:26.49,0:01:28.61,Default,,0000,0000,0000,,{\blur3}也不过是一颗小尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Amounts to a speck of dust{\r}
+Dialogue: 0,0:01:28.64,0:01:32.14,Default,,0000,0000,0000,,{\blur3}如果与广袤的宇宙相比较的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when stacked up against the immensity of the cosmos.{\r}
+Dialogue: 0,0:01:34.85,0:01:36.92,Default,,0000,0000,0000,,{\blur3}宇宙可观察得到的部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The observable universe contains on{\r}
+Dialogue: 0,0:01:36.94,0:01:39.96,Default,,0000,0000,0000,,{\blur3}包含大约1 000亿个星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the order of 100 billion galaxies.{\r}
+Dialogue: 0,0:01:40.30,0:01:44.54,Default,,0000,0000,0000,,{\blur3}而每一个星系 比如银河 包含着大约1 000亿颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then each galaxy, like the Milky Way, contains on the order of 100 billion stars.{\r}
+Dialogue: 0,0:01:47.70,0:01:50.87,Default,,0000,0000,0000,,{\blur3}数字快速攀升到百万级 十亿级{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The numbers quickly get up into the millions and then the billions{\r}
+Dialogue: 0,0:01:50.89,0:01:52.41,Default,,0000,0000,0000,,{\blur3}甚至达到万亿级{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even the trillions.{\r}
+Dialogue: 0,0:01:52.58,0:01:55.90,Default,,0000,0000,0000,,{\blur3}我们完全丧失了感觉 不知道它的意义{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And by then, we've really lost all sense of what that really means.{\r}
+Dialogue: 0,0:01:57.81,0:02:00.15,Default,,0000,0000,0000,,{\blur3}人类的智力适宜于处理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The human mind is finely tuned{\r}
+Dialogue: 0,0:02:00.18,0:02:03.50,Default,,0000,0000,0000,,{\blur3}日常生活中遇到的规模{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to deal with the scale of day-to-day experience.{\r}
+Dialogue: 0,0:02:04.50,0:02:08.07,Default,,0000,0000,0000,,{\blur3}大脑能明白一天50英里的旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The brain can understand traveling 50 miles in a day.{\r}
+Dialogue: 0,0:02:08.62,0:02:11.33,Default,,0000,0000,0000,,{\blur3}但500 000英里呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what about 500,000?{\r}
+Dialogue: 0,0:02:11.67,0:02:13.03,Default,,0000,0000,0000,,{\blur3}有人也许知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And a person may know what it's{\r}
+Dialogue: 0,0:02:13.05,0:02:15.90,Default,,0000,0000,0000,,{\blur3}每小时100英里移动是怎样的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And a person may know what it's like to move at 100 miles per hour.{\r}
+Dialogue: 0,0:02:16.53,0:02:19.22,Default,,0000,0000,0000,,{\blur3}但每小时1亿英里呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what about 100 million?{\r}
+Dialogue: 0,0:02:21.45,0:02:24.94,Default,,0000,0000,0000,,{\blur3}数字达到百万 十亿和万亿级别时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Numbers like millions and billions, and certainly trillions,{\r}
+Dialogue: 0,0:02:24.97,0:02:27.39,Default,,0000,0000,0000,,{\blur3}对大多数人来说 很难以想象了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are very hard for most people to imagine,{\r}
+Dialogue: 0,0:02:27.63,0:02:29.28,Default,,0000,0000,0000,,{\blur3}因为 平心而论 大多数人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because, frankly, most of us{\r}
+Dialogue: 0,0:02:29.30,0:02:32.08,Default,,0000,0000,0000,,{\blur3}没有十亿或万亿的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}don't have billions or trillions of anything.{\r}
+Dialogue: 0,0:02:34.09,0:02:36.72,Default,,0000,0000,0000,,{\blur3}所以 如果大脑不能理解宇宙级的规模{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So how can we ever know the universe{\r}
+Dialogue: 0,0:02:36.86,0:02:41.22,Default,,0000,0000,0000,,{\blur3}我们怎样才能去了解宇宙它呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if our brains can't really comprehend its massive scale?{\r}
+Dialogue: 0,0:02:43.21,0:02:46.73,Default,,0000,0000,0000,,{\blur3}对宇宙物体建立比例模型 能帮上这个忙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Doing scale models of objects in the universe is really helpful,{\r}
+Dialogue: 0,0:02:46.75,0:02:49.60,Default,,0000,0000,0000,,{\blur3}因为这样能把它们按比例缩小到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it brings them down to sizes{\r}
+Dialogue: 0,0:02:49.63,0:02:53.96,Default,,0000,0000,0000,,{\blur3}我们能想像的大小 日常生活里见到的大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we can imagine, that we do see in our normal, everyday lives.{\r}
+Dialogue: 0,0:02:55.27,0:02:59.01,Default,,0000,0000,0000,,{\blur3}我们首先把夜空中的那些大牌主角{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can start by cutting the biggest players of the night sky{\r}
+Dialogue: 0,0:02:59.70,0:03:02.13,Default,,0000,0000,0000,,{\blur3}行星 恒星和星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Planets, stars and galaxies{\r}
+Dialogue: 0,0:03:03.01,0:03:05.23,Default,,0000,0000,0000,,{\blur3}按地球物体的比例缩小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Down to an earthly scale.{\r}
+Dialogue: 0,0:03:06.27,0:03:08.89,Default,,0000,0000,0000,,{\blur3}有两种方式去形容大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are two ways to evaluate size.{\r}
+Dialogue: 0,0:03:09.76,0:03:14.00,Default,,0000,0000,0000,,{\blur3}我们可以测量其尺寸-- 高度 长度和宽度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can measure dimensions--Meaning height, length and width{\r}
+Dialogue: 0,0:03:14.76,0:03:18.97,Default,,0000,0000,0000,,{\blur3}或者计算它的体积 也就是质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or calculate bulk, also known as mass.{\r}
+Dialogue: 0,0:03:19.77,0:03:22.67,Default,,0000,0000,0000,,{\blur3}但大体积不总是意味着大质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bigger doesn't always mean more massive.{\r}
+Dialogue: 0,0:03:24.25,0:03:27.85,Default,,0000,0000,0000,,{\blur3}比方说 一个气球与保龄球体积相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's say a balloon has the same volume as a bowling ball.{\r}
+Dialogue: 0,0:03:28.01,0:03:31.18,Default,,0000,0000,0000,,{\blur3}但保龄球更重 因为它密度大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the bowling ball has more mass, because it's denser...{\r}
+Dialogue: 0,0:03:31.21,0:03:34.89,Default,,0000,0000,0000,,{\blur3}它把更多的质量塞进同样的体积里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just got more mass crammed into that same volume.{\r}
+Dialogue: 0,0:03:37.70,0:03:42.84,Default,,0000,0000,0000,,{\blur3}为帮助我们理解宇宙里的一些超级大家伙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To help get a grasp on some of the immense masses floating around our universe,{\r}
+Dialogue: 0,0:03:44.85,0:03:48.61,Default,,0000,0000,0000,,{\blur3}天文学家劳拉.丹丽参观了一场怪兽车比赛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomer Laura Danly visits a monster truck rally...{\r}
+Dialogue: 0,0:03:51.07,0:03:55.95,Default,,0000,0000,0000,,{\blur3}那里经常有质量非常悬殊的物体相互碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A place where objects of hugely differing masses often collide.{\r}
+Dialogue: 0,0:04:00.93,0:04:04.69,Default,,0000,0000,0000,,{\blur3}从小玩具车到特大怪兽车 我们无所不有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We' got everything from a small toy truck to the giant monster truck...{\r}
+Dialogue: 0,0:04:05.54,0:04:07.23,Default,,0000,0000,0000,,{\blur3}一系列的不同质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that gives us a range of mass{\r}
+Dialogue: 0,0:04:07.24,0:04:08.59,Default,,0000,0000,0000,,{\blur3}将帮助我们去了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will help us understand{\r}
+Dialogue: 0,0:04:08.62,0:04:12.35,Default,,0000,0000,0000,,{\blur3}太阳系里的物体互比质量会如何{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how massive things are in our Solar System compared to each other,{\r}
+Dialogue: 0,0:04:12.49,0:04:15.52,Default,,0000,0000,0000,,{\blur3}太阳与其它恒星比较质量又如何{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and how massive our own Sun is compared to some other stars.{\r}
+Dialogue: 0,0:04:17.94,0:04:20.38,Default,,0000,0000,0000,,{\blur3}我们从木星开始比较{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We begin the comparison with Jupiter,{\r}
+Dialogue: 0,0:04:20.57,0:04:24.07,Default,,0000,0000,0000,,{\blur3}它理所当然地被认为是行星之王{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}known as the king of planets, and for good reason.{\r}
+Dialogue: 0,0:04:25.00,0:04:28.71,Default,,0000,0000,0000,,{\blur3}因为它的质量超过了4 000亿亿亿磅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its mass amounts to more than 4 octillion pounds...{\r}
+Dialogue: 0,0:04:29.47,0:04:33.33,Default,,0000,0000,0000,,{\blur3}也就是说 数字4后面跟着27个零{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's a four followed by 27 zeros.{\r}
+Dialogue: 0,0:04:35.88,0:04:39.27,Default,,0000,0000,0000,,{\blur3}换而言之 超过300个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Put another way, it would take more than 300 Earths{\r}
+Dialogue: 0,0:04:39.28,0:04:41.27,Default,,0000,0000,0000,,{\blur3}才能相当于木星的质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to match Jupiter's mass.{\r}
+Dialogue: 0,0:04:41.57,0:04:45.18,Default,,0000,0000,0000,,{\blur3}但即便如此 它与太阳相比还是微不足道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even that is measly when compared to the Sun.{\r}
+Dialogue: 0,0:04:46.98,0:04:50.02,Default,,0000,0000,0000,,{\blur3}太阳是我们太阳系里迄今为止最重的事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun is by far the most massive thing in our Solar System.{\r}
+Dialogue: 0,0:04:50.04,0:04:54.31,Default,,0000,0000,0000,,{\blur3}木星是最大的行星 但它比木星重1 000倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's about 1,000 times more massive than Jupiter, the biggest planet.{\r}
+Dialogue: 0,0:04:54.53,0:04:58.67,Default,,0000,0000,0000,,{\blur3}相比之下 在我后面的这辆车大约3 000磅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, by comparison, this car behind me is about 3,000 pounds,{\r}
+Dialogue: 0,0:04:59.01,0:05:02.16,Default,,0000,0000,0000,,{\blur3}而这架小玩具卡车大约3磅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this little toy truck is about 3 pounds.{\r}
+Dialogue: 0,0:05:02.52,0:05:05.89,Default,,0000,0000,0000,,{\blur3}所以 它们的差异与太阳和木星的差异相当{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that's about the same difference between the Sun and Jupiter.{\r}
+Dialogue: 0,0:05:11.95,0:05:17.37,Default,,0000,0000,0000,,{\blur3}这是一边倒的差异 3 000磅很好地说明了问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a crushing difference, as 3,000 pounds make perfectly clear.{\r}
+Dialogue: 0,0:05:19.70,0:05:22.87,Default,,0000,0000,0000,,{\blur3}但要记住 这是怪兽车比赛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But remember, this is a monster truck rally,{\r}
+Dialogue: 0,0:05:23.84,0:05:26.29,Default,,0000,0000,0000,,{\blur3}代表我们太阳的这辆烂车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the junk car representing our Sun{\r}
+Dialogue: 0,0:05:26.53,0:05:29.03,Default,,0000,0000,0000,,{\blur3}也许会后悔招惹了"小木星"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may regret picking on little Jupiter.{\r}
+Dialogue: 0,0:05:32.94,0:05:35.74,Default,,0000,0000,0000,,{\blur3}太阳是我们太阳系质量最大的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun is the most massive object in our Solar System,{\r}
+Dialogue: 0,0:05:35.76,0:05:38.38,Default,,0000,0000,0000,,{\blur3}不过它不是银河系质量最大的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's not the most massive star in the galaxy.{\r}
+Dialogue: 0,0:05:38.39,0:05:40.77,Default,,0000,0000,0000,,{\blur3}有许多恒星的质量比太阳大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are a lot of stars more massive than the Sun.{\r}
+Dialogue: 0,0:05:41.58,0:05:45.54,Default,,0000,0000,0000,,{\blur3}为了表现太阳和更大质量的恒星之间的悬殊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To envision the disparity between the Sun and a more massive star{\r}
+Dialogue: 0,0:05:47.00,0:05:50.25,Default,,0000,0000,0000,,{\blur3}我们假设这辆3 000磅的烂车就是太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's keep the 3,000-pound junk car as the Sun{\r}
+Dialogue: 0,0:05:50.63,0:05:54.42,Default,,0000,0000,0000,,{\blur3}让它去对抗一辆10 000磅的怪兽车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and put it up against a 10,000-pound monster truck{\r}
+Dialogue: 0,0:05:54.61,0:05:58.57,Default,,0000,0000,0000,,{\blur3}这辆怪兽车代表在75光年之外的一颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}representing a star some 75 light-years away.{\r}
+Dialogue: 0,0:05:59.64,0:06:01.55,Default,,0000,0000,0000,,{\blur3}这辆车和怪兽车的差异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The difference between the monster truck and the car{\r}
+Dialogue: 0,0:06:01.58,0:06:05.36,Default,,0000,0000,0000,,{\blur3}接近于天狮星这颗恒星和我们太阳的差异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is about the same difference as a star called Regulus...{\r}
+Dialogue: 0,0:06:05.38,0:06:07.34,Default,,0000,0000,0000,,{\blur3}明亮的天狮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bright star right in the middle of Leo,{\r}
+Dialogue: 0,0:06:07.34,0:06:10.19,Default,,0000,0000,0000,,{\blur3}位于天狮座正中间 质量是太阳的3.5倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 3 1/2 times as massive as our Sun.{\r}
+Dialogue: 0,0:06:12.89,0:06:16.28,Default,,0000,0000,0000,,{\blur3}多三倍的质量看起来不多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Three times more massive may not seem like much,{\r}
+Dialogue: 0,0:06:16.89,0:06:17.93,Default,,0000,0000,0000,,{\blur3}但别忘了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but don't forget{\r}
+Dialogue: 0,0:06:17.95,0:06:21.56,Default,,0000,0000,0000,,{\blur3}我们现在是用银河巨兽在相互对抗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're now pitting galactic giants against each other.{\r}
+Dialogue: 0,0:06:39.74,0:06:41.24,Default,,0000,0000,0000,,{\blur3}嗯 真让人震惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, that was quite a shock.{\r}
+Dialogue: 0,0:06:41.37,0:06:42.46,Default,,0000,0000,0000,,{\blur3}正如所见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But as you can see,{\r}
+Dialogue: 0,0:06:42.49,0:06:45.43,Default,,0000,0000,0000,,{\blur3}质量差异三倍 下场迥然不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}three times the mass difference makes a difference.{\r}
+Dialogue: 0,0:06:45.87,0:06:49.54,Default,,0000,0000,0000,,{\blur3}如果我们让天狮星骑在太阳顶上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we could somehow bring Regulus here and have it sit on top of this Sun,{\r}
+Dialogue: 0,0:06:49.60,0:06:51.42,Default,,0000,0000,0000,,{\blur3}结果几乎一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's about the same comparison.{\r}
+Dialogue: 0,0:06:51.99,0:06:54.53,Default,,0000,0000,0000,,{\blur3}但即使是健壮如怪兽车的天狮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even monster truck-sized Regulus{\r}
+Dialogue: 0,0:06:54.70,0:06:57.44,Default,,0000,0000,0000,,{\blur3}也不能与宇宙里质量巨大的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can't stack up to the immense mass{\r}
+Dialogue: 0,0:06:57.47,0:07:00.21,Default,,0000,0000,0000,,{\blur3}真正巨人相比较{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mass of the true titans of the universe.{\r}
+Dialogue: 0,0:07:01.22,0:07:04.26,Default,,0000,0000,0000,,{\blur3}绕银河系旋转的已知最重恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most massive star we know orbits around the Milky Way...{\r}
+Dialogue: 0,0:07:04.27,0:07:07.20,Default,,0000,0000,0000,,{\blur3}位于银河的伴星系"大麦哲伦云"里面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A little companion galaxy called the Large Magellanic Cloud...{\r}
+Dialogue: 0,0:07:07.40,0:07:10.40,Default,,0000,0000,0000,,{\blur3}处在"蜘蛛星云"的中部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the middle of a nebula called the Tarantula Nebula.{\r}
+Dialogue: 0,0:07:10.79,0:07:14.66,Default,,0000,0000,0000,,{\blur3}这颗恒星有一个比较无聊的名字--R136A{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That star has a kind of boring name...R136A{\r}
+Dialogue: 0,0:07:14.85,0:07:17.63,Default,,0000,0000,0000,,{\blur3}但它却是一颗非常重的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's still a very massive star.{\r}
+Dialogue: 0,0:07:18.94,0:07:21.96,Default,,0000,0000,0000,,{\blur3}R136A是一颗年青的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}R136A is a young star{\r}
+Dialogue: 0,0:07:22.61,0:07:24.42,Default,,0000,0000,0000,,{\blur3}大约一百万岁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about a million years old.{\r}
+Dialogue: 0,0:07:25.11,0:07:28.83,Default,,0000,0000,0000,,{\blur3}它的表面温度是70 000度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its surface temperature is 70,000 degrees{\r}
+Dialogue: 0,0:07:29.21,0:07:32.17,Default,,0000,0000,0000,,{\blur3}比我们太阳的温度高大约7倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 7 times hotter than our Sun.{\r}
+Dialogue: 0,0:07:33.77,0:07:35.38,Default,,0000,0000,0000,,{\blur3}在2010年之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Before 2010, stars were thought{\r}
+Dialogue: 0,0:07:35.41,0:07:40.50,Default,,0000,0000,0000,,{\blur3}恒星被认为不可能形成超过太阳150倍的质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stars were thought to form no bigger than 150 times the mass of the Sun.{\r}
+Dialogue: 0,0:07:41.38,0:07:44.27,Default,,0000,0000,0000,,{\blur3}但新近的发现达到这个极限的2倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But new discoveries have doubled that limit.{\r}
+Dialogue: 0,0:07:46.02,0:07:50.24,Default,,0000,0000,0000,,{\blur3}我们认为R136A的质量可能是太阳的250倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think R136A is probably about 250,{\r}
+Dialogue: 0,0:07:50.27,0:07:52.97,Default,,0000,0000,0000,,{\blur3}也许会是300倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}maybe as much as 300 times the mass of our Sun.{\r}
+Dialogue: 0,0:07:54.49,0:07:56.48,Default,,0000,0000,0000,,{\blur3}为了代表这个大质量的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To represent this massive star,{\r}
+Dialogue: 0,0:07:57.04,0:07:59.39,Default,,0000,0000,0000,,{\blur3}你需要找到一辆真正巨大的卡车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you need a truly monstrous truck.{\r}
+Dialogue: 0,0:08:00.64,0:08:04.41,Default,,0000,0000,0000,,{\blur3}这个怪兽要比这辆车重100倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This monster is 100 times heavier.{\r}
+Dialogue: 0,0:08:07.95,0:08:11.40,Default,,0000,0000,0000,,{\blur3}明明是极端质量 却用小包装{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But extreme mass also comes in small packages,{\r}
+Dialogue: 0,0:08:12.17,0:08:16.21,Default,,0000,0000,0000,,{\blur3}密度就会让重力变得激进起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where density takes the force of gravity into radical territory.{\r}
+Dialogue: 0,0:08:20.24,0:08:23.87,Default,,0000,0000,0000,,{\blur3}对问题采取剧烈大爆炸的方式解决{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The greatest massive bang for the buck we can see in the universe{\r}
+Dialogue: 0,0:08:24.31,0:08:28.18,Default,,0000,0000,0000,,{\blur3}我们在宇宙中能见到的例子是中子星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comes from a stellar object known as a neutron star.{\r}
+Dialogue: 0,0:08:29.99,0:08:35.13,Default,,0000,0000,0000,,{\blur3}中子星是超新星爆炸遗留下来的核心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A neutron star is the leftover core of a supernova explosion,{\r}
+Dialogue: 0,0:08:35.55,0:08:38.76,Default,,0000,0000,0000,,{\blur3}它拥有惊人的致密质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with its mass packed astoundingly tight.{\r}
+Dialogue: 0,0:08:39.48,0:08:42.45,Default,,0000,0000,0000,,{\blur3}它相当于把太阳全部质量的1.5倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's got 1 1/2 times all of the mass of our Sun{\r}
+Dialogue: 0,0:08:42.47,0:08:46.13,Default,,0000,0000,0000,,{\blur3}强行塞入到约10英里直径的体积内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}crammed into a volume of about 10 miles across.{\r}
+Dialogue: 0,0:08:46.64,0:08:50.90,Default,,0000,0000,0000,,{\blur3}如果把一辆怪兽车塞入到方糖大小的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you crammed one monster truck down into the size of a sugar cube,{\r}
+Dialogue: 0,0:08:51.23,0:08:55.00,Default,,0000,0000,0000,,{\blur3}那样也比不上中子星那么致密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would not be anywhere close to as dense as a neutron star.{\r}
+Dialogue: 0,0:08:55.42,0:09:00.11,Default,,0000,0000,0000,,{\blur3}得把一千万辆怪兽车塞入到方糖大小的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'd need 10 million monster trucks crashed down{\r}
+Dialogue: 0,0:09:00.19,0:09:01.98,Default,,0000,0000,0000,,{\blur3}那才可以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the size of a sugar cube.{\r}
+Dialogue: 0,0:09:02.91,0:09:05.99,Default,,0000,0000,0000,,{\blur3}把许多一千万辆怪兽车做成的方糖码起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stack these 10 million monster truck sugar{\r}
+Dialogue: 0,0:09:06.00,0:09:07.86,Default,,0000,0000,0000,,{\blur3}高和宽都是10英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cubes ten miles high and wide,{\r}
+Dialogue: 0,0:09:08.36,0:09:11.16,Default,,0000,0000,0000,,{\blur3}你就获得一个属于自己的中子星了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you've got yourself a neutron star.{\r}
+Dialogue: 0,0:09:12.44,0:09:15.55,Default,,0000,0000,0000,,{\blur3}中子星是离奇的极端物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neutron stars are just bizarrely extreme objects.{\r}
+Dialogue: 0,0:09:15.75,0:09:18.43,Default,,0000,0000,0000,,{\blur3}如果你企图登上中子星 那绝对不可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you were to try to land on a neutron star,{\r}
+Dialogue: 0,0:09:18.46,0:09:19.89,Default,,0000,0000,0000,,{\blur3}因为你会发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would be absolutely impossible,{\r}
+Dialogue: 0,0:09:19.92,0:09:21.85,Default,,0000,0000,0000,,{\blur3}在中子星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because you would find that on the neutron star{\r}
+Dialogue: 0,0:09:21.94,0:09:25.92,Default,,0000,0000,0000,,{\blur3}你的重量大约是地球上的50亿倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you weigh about 5 billion times more than you do here on Earth.{\r}
+Dialogue: 0,0:09:28.18,0:09:30.87,Default,,0000,0000,0000,,{\blur3}但是 要去寻找恒星最大能有多大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But mass isn't everything when it comes to finding out just{\r}
+Dialogue: 0,0:09:30.88,0:09:34.04,Default,,0000,0000,0000,,{\blur3}不能光看质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how big the biggest stars can be.{\r}
+Dialogue: 0,0:09:35.65,0:09:38.10,Default,,0000,0000,0000,,{\blur3}在宇宙里 还有许多巨人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe is also filled with the titans{\r}
+Dialogue: 0,0:09:38.11,0:09:41.10,Default,,0000,0000,0000,,{\blur3}其数量多到难以想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that take up unimaginable amounts of space.{\r}
+Dialogue: 0,0:09:44.47,0:09:48.06,Default,,0000,0000,0000,,{\blur3}在地球上 我们见到的一些小如针尖的光线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some of the tiny pinpricks of light we see from Earth{\r}
+Dialogue: 0,0:09:48.48,0:09:53.71,Default,,0000,0000,0000,,{\blur3}事实上是大到足以吞下整个太阳系的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are actually stars big enough to swallow our entire Solar System.{\r}
+Dialogue: 0,0:09:54.81,0:09:57.62,Default,,0000,0000,0000,,{\blur3}哪怕只是银河里的最大恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can the human mind even comprehend{\r}
+Dialogue: 0,0:09:58.07,0:10:01.08,Default,,0000,0000,0000,,{\blur3}人类的智力能理解吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the largest star in the galaxy?{\r}
+Dialogue: 0,0:10:08.34,0:10:11.98,Default,,0000,0000,0000,,{\blur3}我们让广袤宇宙的尺寸 速度和距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're bringing the sizes, speeds, and distances{\r}
+Dialogue: 0,0:10:12.01,0:10:13.68,Default,,0000,0000,0000,,{\blur3}按比例缩小到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our vast universe{\r}
+Dialogue: 0,0:10:13.84,0:10:17.51,Default,,0000,0000,0000,,{\blur3}人类智力可以理解的程度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}down to a scale the human mind can comprehend.{\r}
+Dialogue: 0,0:10:18.64,0:10:22.65,Default,,0000,0000,0000,,{\blur3}在我们太阳系里 目前最大的东西是太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The biggest thing in our Solar System by far is the Sun.{\r}
+Dialogue: 0,0:10:24.94,0:10:26.65,Default,,0000,0000,0000,,{\blur3}就质量而言{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In terms of sheer mass,{\r}
+Dialogue: 0,0:10:26.67,0:10:30.90,Default,,0000,0000,0000,,{\blur3}它比地球重300 000倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it weighs over 300,000 times more than the Earth.{\r}
+Dialogue: 0,0:10:32.11,0:10:33.81,Default,,0000,0000,0000,,{\blur3}而在体积上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in terms of volume, it's also the Solar System's{\r}
+Dialogue: 0,0:10:34.31,0:10:37.92,Default,,0000,0000,0000,,{\blur3}它也是太阳系里物理上最大的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's also the Solar System's physically largest object,{\r}
+Dialogue: 0,0:10:38.04,0:10:41.41,Default,,0000,0000,0000,,{\blur3}直径达到870 000英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at 870,000 miles across.{\r}
+Dialogue: 0,0:10:42.69,0:10:44.76,Default,,0000,0000,0000,,{\blur3}所以太阳比地球大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the Sun is really big compared to the Earth.{\r}
+Dialogue: 0,0:10:44.88,0:10:47.36,Default,,0000,0000,0000,,{\blur3}它比地球大109倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's 109 times as wide as the Earth.{\r}
+Dialogue: 0,0:10:48.32,0:10:51.31,Default,,0000,0000,0000,,{\blur3}这意味着 超过一百万个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That actually means that over a million Earths{\r}
+Dialogue: 0,0:10:51.37,0:10:53.77,Default,,0000,0000,0000,,{\blur3}才能填满太阳的体积{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could fit inside the volume of the Sun.{\r}
+Dialogue: 0,0:10:53.93,0:10:55.05,Default,,0000,0000,0000,,{\blur3}真的很大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's really big.{\r}
+Dialogue: 0,0:10:56.47,0:10:59.69,Default,,0000,0000,0000,,{\blur3}但是 虽然太阳在世人眼中巨大无比{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But as enormous as the Sun is in earthly terms,{\r}
+Dialogue: 0,0:11:00.50,0:11:03.45,Default,,0000,0000,0000,,{\blur3}当它与银河里的庞然大物相比较时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our home star seems puny when stacked against{\r}
+Dialogue: 0,0:11:03.48,0:11:06.41,Default,,0000,0000,0000,,{\blur3}看起来却是那么的微小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our galaxy's lineup of stellar mammoths.{\r}
+Dialogue: 0,0:11:08.41,0:11:11.92,Default,,0000,0000,0000,,{\blur3}取自历史和科学范畴的奇怪名字{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With strange names taken from history and science,{\r}
+Dialogue: 0,0:11:12.58,0:11:16.53,Default,,0000,0000,0000,,{\blur3}赋予了恒星别样的意义{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they push the envelope of what it means to be a star.{\r}
+Dialogue: 0,0:11:18.51,0:11:20.28,Default,,0000,0000,0000,,{\blur3}让我们逐个数一数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Consider them in turn...{\r}
+Dialogue: 0,0:11:21.36,0:11:22.52,Default,,0000,0000,0000,,{\blur3}织女星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vega...{\r}
+Dialogue: 0,0:11:23.14,0:11:24.51,Default,,0000,0000,0000,,{\blur3}参宿五{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bellatrix...{\r}
+Dialogue: 0,0:11:25.05,0:11:26.95,Default,,0000,0000,0000,,{\blur3}弧矢七{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Epsilon Canis Majoris...{\r}
+Dialogue: 0,0:11:28.31,0:11:29.41,Default,,0000,0000,0000,,{\blur3}天枢星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dubhe...{\r}
+Dialogue: 0,0:11:30.18,0:11:31.53,Default,,0000,0000,0000,,{\blur3}毕宿五{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Aldebaran...{\r}
+Dialogue: 0,0:11:32.31,0:11:33.49,Default,,0000,0000,0000,,{\blur3}最后是…{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And finally,{\r}
+Dialogue: 0,0:11:33.85,0:11:36.55,Default,,0000,0000,0000,,{\blur3}超级巨大的参宿四{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the super-enormous Betelgeuse...{\r}
+Dialogue: 0,0:11:37.28,0:11:39.74,Default,,0000,0000,0000,,{\blur3}和大犬座VY{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And VY Canis Majoris.{\r}
+Dialogue: 0,0:11:43.63,0:11:44.33,Default,,0000,0000,0000,,{\blur3}哗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, wow.{\r}
+Dialogue: 0,0:11:44.34,0:11:46.60,Default,,0000,0000,0000,,{\blur3}天文学家阿历斯.菲利朋欧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomer Alex Filippenko attempts{\r}
+Dialogue: 0,0:11:46.80,0:11:50.93,Default,,0000,0000,0000,,{\blur3}试图将它们带到地球上的一个飞机库内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to bring them down to Earth in an airplane hangar.{\r}
+Dialogue: 0,0:11:51.86,0:11:53.84,Default,,0000,0000,0000,,{\blur3}我们今天会在飞机库里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're here in this airport hangar today{\r}
+Dialogue: 0,0:11:53.87,0:11:58.75,Default,,0000,0000,0000,,{\blur3}尝试说明恒星 尤其是大恒星的相对大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in order to try and illustrate the relative sizes of stars, in particular big stars.{\r}
+Dialogue: 0,0:11:59.26,0:12:03.05,Default,,0000,0000,0000,,{\blur3}我们将对一些气球充气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to inflate some balloons, and even some really{\r}
+Dialogue: 0,0:12:03.24,0:12:05.93,Default,,0000,0000,0000,,{\blur3}包括某些用于气象的大气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}big weather balloons, and show them in comparison with the Sun,{\r}
+Dialogue: 0,0:12:06.04,0:12:08.81,Default,,0000,0000,0000,,{\blur3}用它们与代表太阳的保龄球作比较{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which we've scaled down to the size of a bowling ball.{\r}
+Dialogue: 0,0:12:11.50,0:12:14.72,Default,,0000,0000,0000,,{\blur3}代表太阳的保龄球直径8.5英寸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bowling-ball sun is 8 1/2 inches across,{\r}
+Dialogue: 0,0:12:15.77,0:12:19.42,Default,,0000,0000,0000,,{\blur3}相比之下 地球不会比一颗小珠子大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which would make the Earth no bigger than a tiny bead.{\r}
+Dialogue: 0,0:12:20.80,0:12:23.10,Default,,0000,0000,0000,,{\blur3}我的两个助理是气球专家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My two assistants are balloon experts...{\r}
+Dialogue: 0,0:12:23.13,0:12:25.94,Default,,0000,0000,0000,,{\blur3}不但知道如何用氦来充气并扎好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they know how to inflate balloons with helium and tie them off,{\r}
+Dialogue: 0,0:12:25.95,0:12:27.65,Default,,0000,0000,0000,,{\blur3}也知道需要充多少的气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they know how much to inflate them.{\r}
+Dialogue: 0,0:12:27.85,0:12:30.90,Default,,0000,0000,0000,,{\blur3}他们将通过充气 让不同气球的大小不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So they're going to inflate these different balloons to different sizes.{\r}
+Dialogue: 0,0:12:32.96,0:12:36.86,Default,,0000,0000,0000,,{\blur3}对气球充气 将让我们见识到按比例缩小的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inflating the balloons will take us on a scaled-down tour of{\r}
+Dialogue: 0,0:12:36.89,0:12:41.04,Default,,0000,0000,0000,,{\blur3}太阳的大兄弟 大大兄弟和最大的兄弟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Sun's big, bigger, and biggest brothers.{\r}
+Dialogue: 0,0:12:42.54,0:12:45.54,Default,,0000,0000,0000,,{\blur3}第一站 织女星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First stop... The star Vega.{\r}
+Dialogue: 0,0:12:49.19,0:12:51.58,Default,,0000,0000,0000,,{\blur3}位于天琴座内的织女星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Located in the constellation Lyra,{\r}
+Dialogue: 0,0:12:52.38,0:12:55.95,Default,,0000,0000,0000,,{\blur3}是夜空中最亮的五颗恒星之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vega is one of the five brightest stars in the night sky.{\r}
+Dialogue: 0,0:12:57.08,0:13:01.10,Default,,0000,0000,0000,,{\blur3}它发出蓝白色的光 因为它比太阳更高温{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It glows blue-white, because it burns hotter than our Sun.{\r}
+Dialogue: 0,0:13:02.85,0:13:05.32,Default,,0000,0000,0000,,{\blur3}好了 我把"保龄球太阳"拿到这里了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, so I've got my bowling-ball Sun here.{\r}
+Dialogue: 0,0:13:05.52,0:13:07.02,Default,,0000,0000,0000,,{\blur3}伙计 这气球多大？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Guys, how big is this balloon?{\r}
+Dialogue: 0,0:13:07.05,0:13:08.30,Default,,0000,0000,0000,,{\blur3}我们测量一下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's check it out.{\r}
+Dialogue: 0,0:13:10.03,0:13:11.42,Default,,0000,0000,0000,,{\blur3}约2英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right about 2 feet.{\r}
+Dialogue: 0,0:13:11.43,0:13:14.12,Default,,0000,0000,0000,,{\blur3}2英尺 所以这是保龄球尺寸的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}2 feet. So that's... that's about 2 1/2 times the{\r}
+Dialogue: 0,0:13:14.15,0:13:15.76,Default,,0000,0000,0000,,{\blur3}2.5倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}size of the bowling ball.{\r}
+Dialogue: 0,0:13:15.96,0:13:17.61,Default,,0000,0000,0000,,{\blur3}说明它象织女星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that's like the star Vega.{\r}
+Dialogue: 0,0:13:17.73,0:13:21.04,Default,,0000,0000,0000,,{\blur3}织女星是一颗25光年远的青白色恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a bluish white star, 25 light-years away...{\r}
+Dialogue: 0,0:13:21.05,0:13:22.59,Default,,0000,0000,0000,,{\blur3}在天空里非常明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Very bright star in the sky.{\r}
+Dialogue: 0,0:13:23.17,0:13:25.44,Default,,0000,0000,0000,,{\blur3}接下来是参宿五{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Next up is Bellatrix,{\r}
+Dialogue: 0,0:13:25.86,0:13:28.25,Default,,0000,0000,0000,,{\blur3}位于最亮的星座--猎户座里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a star in Orion The Hunter...{\r}
+Dialogue: 0,0:13:28.49,0:13:30.95,Default,,0000,0000,0000,,{\blur3}是一颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the brightest constellation in the sky.{\r}
+Dialogue: 0,0:13:31.76,0:13:35.30,Default,,0000,0000,0000,,{\blur3}鼎鼎大名的猎户座有明显的躯干和腰带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well-known stars pinpoint its torso and belt.{\r}
+Dialogue: 0,0:13:36.51,0:13:40.90,Default,,0000,0000,0000,,{\blur3}另一颗蓝巨星 即参宿五 是它的右肩（注:应为左肩）{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another blue giant, Bellatrix is at Orion's right shoulder{\r}
+Dialogue: 0,0:13:41.31,0:13:44.28,Default,,0000,0000,0000,,{\blur3}其光亮可照射到240光年远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and shines 240 light-years away.{\r}
+Dialogue: 0,0:13:45.53,0:13:46.70,Default,,0000,0000,0000,,{\blur3}这气球更大一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So here's a bigger balloon.{\r}
+Dialogue: 0,0:13:46.71,0:13:47.97,Default,,0000,0000,0000,,{\blur3}尺寸多少？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What's its size?{\r}
+Dialogue: 0,0:13:48.21,0:13:50.21,Default,,0000,0000,0000,,{\blur3}4英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is 4 feet.{\r}
+Dialogue: 0,0:13:50.45,0:13:55.09,Default,,0000,0000,0000,,{\blur3}4英尺 这就是说 它的大小是"保龄球太阳"的5.5倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}4 feet... So that's about 5 1/2 times the size of my bowling ball... my Sun.{\r}
+Dialogue: 0,0:13:55.32,0:13:58.40,Default,,0000,0000,0000,,{\blur3}所以这是更大一点的恒星 比较象参宿五{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this is a bigger star, it's kind of like Bellatrix.{\r}
+Dialogue: 0,0:13:59.96,0:14:01.44,Default,,0000,0000,0000,,{\blur3}比参宿五还大的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bigger than Bellatrix{\r}
+Dialogue: 0,0:14:01.93,0:14:04.43,Default,,0000,0000,0000,,{\blur3}是炽热的蓝色恒星"阿哈拉"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the hot blue star Adhara{\r}
+Dialogue: 0,0:14:04.90,0:14:07.97,Default,,0000,0000,0000,,{\blur3}也被称为"大犬座弧矢七"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also known as Epsilon Canis Majoris.{\r}
+Dialogue: 0,0:14:09.33,0:14:14.28,Default,,0000,0000,0000,,{\blur3}"大犬座"这个星座名字 翻译过来就是"大狗"的意思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Canis Majoris is a constellation whose name translates as "The Great Dog."{\r}
+Dialogue: 0,0:14:16.26,0:14:18.53,Default,,0000,0000,0000,,{\blur3}哗 眼前一个大恒星 不是吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wow, now here's a big star, huh?{\r}
+Dialogue: 0,0:14:19.07,0:14:21.19,Default,,0000,0000,0000,,{\blur3}这一个12英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This one is 12 feet.{\r}
+Dialogue: 0,0:14:21.42,0:14:24.80,Default,,0000,0000,0000,,{\blur3}这个东西比太阳大17倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This thing is 17 times wider than the Sun.{\r}
+Dialogue: 0,0:14:25.26,0:14:29.58,Default,,0000,0000,0000,,{\blur3}象弧矢七位于大犬座一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's kind of like the star Epsilon Canis Majoris in the constellation Canis Major.{\r}
+Dialogue: 0,0:14:29.59,0:14:32.26,Default,,0000,0000,0000,,{\blur3}天狼星也位于这个星座里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the same constellation that Sirius is in.{\r}
+Dialogue: 0,0:14:32.28,0:14:34.21,Default,,0000,0000,0000,,{\blur3}天狼星是天空里最明亮的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sirius is the brightest star in the sky,{\r}
+Dialogue: 0,0:14:34.31,0:14:37.91,Default,,0000,0000,0000,,{\blur3}但这是因为弧矢七远在430光年之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but Epsilon Canis Majoris is 430 light-years away.{\r}
+Dialogue: 0,0:14:38.17,0:14:42.75,Default,,0000,0000,0000,,{\blur3}如果和天狼星处在同样的距离 弧矢七会亮15倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it were at the same distance as Sirius, it would appear 15 times brighter.{\r}
+Dialogue: 0,0:14:44.64,0:14:47.82,Default,,0000,0000,0000,,{\blur3}比弧矢七差不多大两倍的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Almost twice as big as Epsilon Canis Majoris{\r}
+Dialogue: 0,0:14:47.84,0:14:48.99,Default,,0000,0000,0000,,{\blur3}是天枢星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is Dubhe,{\r}
+Dialogue: 0,0:14:49.76,0:14:52.61,Default,,0000,0000,0000,,{\blur3}它是一颗位于北斗七星边缘的巨大恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a giant star on the lip of the Big Dipper,{\r}
+Dialogue: 0,0:14:53.01,0:14:55.47,Default,,0000,0000,0000,,{\blur3}距离我们120光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}120 light-years away.{\r}
+Dialogue: 0,0:14:56.76,0:14:57.69,Default,,0000,0000,0000,,{\blur3}哗 酷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wow, cool.{\r}
+Dialogue: 0,0:14:57.96,0:14:59.95,Default,,0000,0000,0000,,{\blur3}我看到了一个更大的气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, here I see an even bigger balloon.{\r}
+Dialogue: 0,0:15:00.15,0:15:01.49,Default,,0000,0000,0000,,{\blur3}直径是多少？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What's its diameter?{\r}
+Dialogue: 0,0:15:01.88,0:15:02.71,Default,,0000,0000,0000,,{\blur3}看一看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's see.{\r}
+Dialogue: 0,0:15:02.88,0:15:03.94,Default,,0000,0000,0000,,{\blur3}21英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}21 feet.{\r}
+Dialogue: 0,0:15:03.95,0:15:04.93,Default,,0000,0000,0000,,{\blur3}21英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}21 feet.{\r}
+Dialogue: 0,0:15:04.94,0:15:08.49,Default,,0000,0000,0000,,{\blur3}差不多是我的"保龄球太阳"的30倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that's about 30 of my bowling-ball Suns.{\r}
+Dialogue: 0,0:15:08.51,0:15:11.21,Default,,0000,0000,0000,,{\blur3}事实上 它接近天枢星的大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, that's about the size of the star Dubhe.{\r}
+Dialogue: 0,0:15:11.32,0:15:14.46,Default,,0000,0000,0000,,{\blur3}天枢星不同于我们见到的其它恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That star Dubhe is different from the others that we've seen...{\r}
+Dialogue: 0,0:15:14.48,0:15:15.98,Default,,0000,0000,0000,,{\blur3}它是所谓的红巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's what's called a red giant.{\r}
+Dialogue: 0,0:15:16.00,0:15:17.48,Default,,0000,0000,0000,,{\blur3}颜色近似橙色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's got kind of an orange color.{\r}
+Dialogue: 0,0:15:17.55,0:15:20.88,Default,,0000,0000,0000,,{\blur3}比起之前见到的蓝白色恒星 它要冷一些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's cooler than the blue-white ones that we've seen previously.{\r}
+Dialogue: 0,0:15:21.81,0:15:25.47,Default,,0000,0000,0000,,{\blur3}令人惊奇的是 还有一些恒星更大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Amazingly, stars come in larger sizes still.{\r}
+Dialogue: 0,0:15:26.33,0:15:30.06,Default,,0000,0000,0000,,{\blur3}即使是飞机库也容纳不下它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And even an airplane hangar isn't big enough to contain them.{\r}
+Dialogue: 0,0:15:31.17,0:15:33.60,Default,,0000,0000,0000,,{\blur3}我们在这里放置毕宿五{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here's where we have to place Aldebaran...{\r}
+Dialogue: 0,0:15:34.23,0:15:37.56,Default,,0000,0000,0000,,{\blur3}这颗巨大的恒星从古代开始就很出名{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a monster star known since ancient times,{\r}
+Dialogue: 0,0:15:37.70,0:15:41.58,Default,,0000,0000,0000,,{\blur3}一度被认为是财富和荣誉的象征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and once thought to be a sign of riches and honor.{\r}
+Dialogue: 0,0:15:42.21,0:15:44.63,Default,,0000,0000,0000,,{\blur3}这个气球直径大约32英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This balloon is about 32 feet across.{\r}
+Dialogue: 0,0:15:44.85,0:15:48.05,Default,,0000,0000,0000,,{\blur3}比代表我们太阳的保龄球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, that's roughly 45 times bigger than this bowling ball{\r}
+Dialogue: 0,0:15:48.06,0:15:49.58,Default,,0000,0000,0000,,{\blur3}它差不多大45倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which represents our Sun.{\r}
+Dialogue: 0,0:15:49.70,0:15:53.68,Default,,0000,0000,0000,,{\blur3}这就是位于金牛座里的恒星毕宿五{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, this balloon then is about the size of the star Aldebaran,{\r}
+Dialogue: 0,0:15:53.69,0:15:56.15,Default,,0000,0000,0000,,{\blur3}这颗红巨星的大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a red giant in Taurus the bull.{\r}
+Dialogue: 0,0:15:56.43,0:15:58.93,Default,,0000,0000,0000,,{\blur3}它距离地球68光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's about 65 light-years away,{\r}
+Dialogue: 0,0:15:58.99,0:16:01.56,Default,,0000,0000,0000,,{\blur3}其真正颜色接近橙色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and its true color is roughly orange.{\r}
+Dialogue: 0,0:16:03.23,0:16:05.93,Default,,0000,0000,0000,,{\blur3}然则 气球再大 也不足以去代表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now even the biggest balloons fall short in{\r}
+Dialogue: 0,0:16:05.95,0:16:09.33,Default,,0000,0000,0000,,{\blur3}银河里最大的那些恒星的大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}representing the size of the galaxy's biggest stars.{\r}
+Dialogue: 0,0:16:11.35,0:16:14.54,Default,,0000,0000,0000,,{\blur3}比如参宿四 就是另一颗在猎户座里的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Betelgeuse, for instance, is another star in orion.{\r}
+Dialogue: 0,0:16:15.56,0:16:17.92,Default,,0000,0000,0000,,{\blur3}距离我们650光年的它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}650 light-years away,{\r}
+Dialogue: 0,0:16:18.03,0:16:21.14,Default,,0000,0000,0000,,{\blur3}比太阳大一千倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it is a thousand times the size of the Sun.{\r}
+Dialogue: 0,0:16:23.34,0:16:25.03,Default,,0000,0000,0000,,{\blur3}参宿四是如此的大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Betelgeuse is so large{\r}
+Dialogue: 0,0:16:25.11,0:16:29.12,Default,,0000,0000,0000,,{\blur3}如果它在太阳系中心 其半径几乎会伸展到木星的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that its radius would extend roughly to the orbit of Jupiter.{\r}
+Dialogue: 0,0:16:29.87,0:16:33.74,Default,,0000,0000,0000,,{\blur3}所以 参宿四如果真在太阳系里面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if Betelgeuse was actually in the Solar System,{\r}
+Dialogue: 0,0:16:33.77,0:16:36.06,Default,,0000,0000,0000,,{\blur3}那么八大行星要么都毁灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then all of the eight planets would be completely{\r}
+Dialogue: 0,0:16:36.09,0:16:38.95,Default,,0000,0000,0000,,{\blur3}要么都太热 不适宜居住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}either destroyed or totally too hot to be habitable.{\r}
+Dialogue: 0,0:16:40.21,0:16:42.57,Default,,0000,0000,0000,,{\blur3}但最大的已知恒星另有他人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- But the largest known star is a beast{\r}
+Dialogue: 0,0:16:42.59,0:16:45.51,Default,,0000,0000,0000,,{\blur3}一个叫大犬座VY的讨厌鬼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by the name of VY Canis Majoris.{\r}
+Dialogue: 0,0:16:47.27,0:16:52.58,Default,,0000,0000,0000,,{\blur3}根据一些人的预测 它的直径比太阳大2 000倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By some estimates, it extends to 2,000 times the diameter of our Sun.{\r}
+Dialogue: 0,0:16:55.47,0:16:58.01,Default,,0000,0000,0000,,{\blur3}这是一颗不折不扣的巨大恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That is a truly gargantuan star.{\r}
+Dialogue: 0,0:16:58.21,0:17:02.87,Default,,0000,0000,0000,,{\blur3}如果有一架民用飞机就在大犬座VY的外侧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If there were a commercial airplane flying just outside VY Canis Majoris,{\r}
+Dialogue: 0,0:17:03.06,0:17:06.59,Default,,0000,0000,0000,,{\blur3}那么飞机要花1 200年才能绕行一周{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would take about 1,200 years to fully circle it.{\r}
+Dialogue: 0,0:17:08.36,0:17:10.88,Default,,0000,0000,0000,,{\blur3}这样大级别的任何物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Any object on this enormous scale{\r}
+Dialogue: 0,0:17:11.15,0:17:14.09,Default,,0000,0000,0000,,{\blur3}作为宇宙有多大这个问题的恐怖答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seems truly alien to the human mind...{\r}
+Dialogue: 0,0:17:14.64,0:17:19.00,Default,,0000,0000,0000,,{\blur3}对人类智力来说 看起来真是不可思议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An intimidating answer to the "how big" question about the universe.{\r}
+Dialogue: 0,0:17:20.20,0:17:23.20,Default,,0000,0000,0000,,{\blur3}"多远？"同样令人烦恼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No less discomforting is "how far?"{\r}
+Dialogue: 0,0:17:24.02,0:17:28.19,Default,,0000,0000,0000,,{\blur3}因为行星 恒星和星系之间的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because distances between planets, stars, and galaxies{\r}
+Dialogue: 0,0:17:28.56,0:17:31.84,Default,,0000,0000,0000,,{\blur3}伸展到了人类的全部经验之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stretch beyond all human experience.{\r}
+Dialogue: 0,0:17:34.34,0:17:36.39,Default,,0000,0000,0000,,{\blur3}所以有效的好方法是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So a really great way of bringing it home{\r}
+Dialogue: 0,0:17:36.42,0:17:40.14,Default,,0000,0000,0000,,{\blur3}将一切按比例缩小到接近于人类的尺度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to scale everything down to a more human scale.{\r}
+Dialogue: 0,0:17:41.14,0:17:44.83,Default,,0000,0000,0000,,{\blur3}比起抽象的绝对数值 事物的相对大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are better at understanding the relative sizes of things{\r}
+Dialogue: 0,0:17:44.85,0:17:47.48,Default,,0000,0000,0000,,{\blur3}让我们更容易明白{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than abstract absolute numbers.{\r}
+Dialogue: 0,0:17:49.13,0:17:50.29,Default,,0000,0000,0000,,{\blur3}比如月亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take the Moon.{\r}
+Dialogue: 0,0:17:50.55,0:17:54.60,Default,,0000,0000,0000,,{\blur3}它与地球的距离比250 000英里少一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It lies a little less than 250,000 miles from Earth.{\r}
+Dialogue: 0,0:17:56.09,0:17:58.05,Default,,0000,0000,0000,,{\blur3}你可能认为这不是太远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You might think this isn't all that far.{\r}
+Dialogue: 0,0:17:59.46,0:18:00.96,Default,,0000,0000,0000,,{\blur3}嗯 再想想吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, think again.{\r}
+Dialogue: 0,0:18:01.82,0:18:05.38,Default,,0000,0000,0000,,{\blur3}想象一下地球缩小到篮球那么大的情景{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine if I shrank the Earth down to about the size of a basketball.{\r}
+Dialogue: 0,0:18:05.87,0:18:09.51,Default,,0000,0000,0000,,{\blur3}所以 如果地球象这个物体这么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if the Earth was about the size of this object here,{\r}
+Dialogue: 0,0:18:09.72,0:18:13.71,Default,,0000,0000,0000,,{\blur3}我敢说 月亮就只有这个网球那么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I would actually have the Moon be about the size of this tennis ball.{\r}
+Dialogue: 0,0:18:14.10,0:18:16.29,Default,,0000,0000,0000,,{\blur3}可能你接下来会问{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the next question you might ask is,{\r}
+Dialogue: 0,0:18:16.60,0:18:18.97,Default,,0000,0000,0000,,{\blur3}"物体的相对大小确定了"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"given the relative sizes of these things,{\r}
+Dialogue: 0,0:18:18.99,0:18:21.47,Default,,0000,0000,0000,,{\blur3}"它们之间的距离有多远呢？"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how far apart are they going to be from each other?"{\r}
+Dialogue: 0,0:18:21.67,0:18:24.09,Default,,0000,0000,0000,,{\blur3}为了向你说明 我需要一些帮助{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To show you, I'm actually going to need some help.{\r}
+Dialogue: 0,0:18:24.29,0:18:26.90,Default,,0000,0000,0000,,{\blur3}于是约翰尼将帮我拿着地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So Johnny is actually going to hold the Earth for me{\r}
+Dialogue: 0,0:18:27.01,0:18:31.44,Default,,0000,0000,0000,,{\blur3}而我则带着月亮和尺子走到相应远的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while I actually take the Moon and measure out how far away it needs to be.{\r}
+Dialogue: 0,0:18:31.58,0:18:32.65,Default,,0000,0000,0000,,{\blur3}开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So here it goes.{\r}
+Dialogue: 0,0:18:34.42,0:18:36.60,Default,,0000,0000,0000,,{\blur3}1英尺 2英尺…{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}1 foot, 2 feet...{\r}
+Dialogue: 0,0:18:37.75,0:18:41.25,Default,,0000,0000,0000,,{\blur3}一路算来 我们已到了10英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All the way back, we're already at 10 feet.{\r}
+Dialogue: 0,0:18:42.38,0:18:44.02,Default,,0000,0000,0000,,{\blur3}或许要走远一些…{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Probably go even more...{\r}
+Dialogue: 0,0:18:44.53,0:18:47.31,Default,,0000,0000,0000,,{\blur3}超过15英尺了 但还得走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Already past 15. We've got to go much further.{\r}
+Dialogue: 0,0:18:48.34,0:18:51.26,Default,,0000,0000,0000,,{\blur3}这里… 21英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And here we are... at 21 feet.{\r}
+Dialogue: 0,0:18:51.70,0:18:56.36,Default,,0000,0000,0000,,{\blur3}这就是用比例法得到的月亮离地球有多远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's actually how far away the Moon is from the Earth in our scale model.{\r}
+Dialogue: 0,0:18:57.86,0:19:00.64,Default,,0000,0000,0000,,{\blur3}239 000英里 这个地月距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At 239,000 miles,{\r}
+Dialogue: 0,0:19:00.93,0:19:04.31,Default,,0000,0000,0000,,{\blur3}因为阿波罗登月任务的缘故{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth-Moon distance has now become familiar to us,{\r}
+Dialogue: 0,0:19:04.71,0:19:06.92,Default,,0000,0000,0000,,{\blur3}被我们大家所熟悉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because of Apollo missions to the Moon.{\r}
+Dialogue: 0,0:19:09.11,0:19:13.35,Default,,0000,0000,0000,,{\blur3}这是少数我们能真正明白的天文跨度之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is one of the few astronomical spans we can readily understand.{\r}
+Dialogue: 0,0:19:14.84,0:19:16.84,Default,,0000,0000,0000,,{\blur3}通过6次载人登月活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In six manned Moon landings,{\r}
+Dialogue: 0,0:19:16.93,0:19:20.49,Default,,0000,0000,0000,,{\blur3}我们知道了地月之间的旅行时间是三天多一点点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we learned that the travel time was a little more than three days.{\r}
+Dialogue: 0,0:19:21.52,0:19:25.55,Default,,0000,0000,0000,,{\blur3}而与月球的来往成为了我们集体知识的一部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the lunar commute has become a part of our collective knowledge.{\r}
+Dialogue: 0,0:19:26.40,0:19:27.31,Default,,0000,0000,0000,,{\blur3}发动机停止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Engine stop.{\r}
+Dialogue: 0,0:19:27.39,0:19:29.94,Default,,0000,0000,0000,,{\blur3}好的 休斯顿 挑战者号着陆了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, Houston, the Challenger has landed.{\r}
+Dialogue: 0,0:19:30.98,0:19:34.00,Default,,0000,0000,0000,,{\blur3}但在月亮之外 太阳系把距离这一概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But beyond the Moon, the Solar System extends{\r}
+Dialogue: 0,0:19:34.01,0:19:36.13,Default,,0000,0000,0000,,{\blur3}延伸到非常遥远的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to distances so vast,{\r}
+Dialogue: 0,0:19:36.39,0:19:39.50,Default,,0000,0000,0000,,{\blur3}我们有限的智力再次应付不了这件苦差事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}again, our limited minds aren't really up to the task.{\r}
+Dialogue: 0,0:19:40.34,0:19:41.54,Default,,0000,0000,0000,,{\blur3}不过 如果我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what would happen{\r}
+Dialogue: 0,0:19:41.55,0:19:46.01,Default,,0000,0000,0000,,{\blur3}能把所有行星带到地球 会是怎样的情景呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we literally brought all the planets down to Earth?{\r}
+Dialogue: 0,0:19:53.65,0:19:56.93,Default,,0000,0000,0000,,{\blur3}这样就能够明白无误地说明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can be overwhelming to consider how big,{\r}
+Dialogue: 0,0:19:56.96,0:20:01.50,Default,,0000,0000,0000,,{\blur3}我们宇宙里的一切是多大 多远和多快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how far, and how fast everything is in our universe.{\r}
+Dialogue: 0,0:20:02.47,0:20:04.42,Default,,0000,0000,0000,,{\blur3}即使只是在我们太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even in our Solar System,{\r}
+Dialogue: 0,0:20:04.59,0:20:07.92,Default,,0000,0000,0000,,{\blur3}距离已经大到几乎难以想像的程度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the distances are almost unimaginably vast.{\r}
+Dialogue: 0,0:20:08.88,0:20:13.38,Default,,0000,0000,0000,,{\blur3}所以我们要缩小太阳系 才能把它带到地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's why we're shrinking our Solar System and bringing it down to Earth.{\r}
+Dialogue: 0,0:20:16.02,0:20:21.98,Default,,0000,0000,0000,,{\blur3}想象一下 如果我们把{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine if we took the 870,000 miles{\r}
+Dialogue: 0,0:20:22.19,0:20:25.04,Default,,0000,0000,0000,,{\blur3}直径870 000英里的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of diameter of the Sun and shrank it down{\r}
+Dialogue: 0,0:20:25.24,0:20:27.23,Default,,0000,0000,0000,,{\blur3}缩小到保龄球这样大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the size of a bowling ball.{\r}
+Dialogue: 0,0:20:27.28,0:20:28.73,Default,,0000,0000,0000,,{\blur3}行星会怎么样？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What would that do to the planets?{\r}
+Dialogue: 0,0:20:28.74,0:20:34.00,Default,,0000,0000,0000,,{\blur3}嗯 我们已经把它们缩小在这里了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, we'd have to shrink them down to sizes that we have here.{\r}
+Dialogue: 0,0:20:34.75,0:20:37.43,Default,,0000,0000,0000,,{\blur3}于是 从水星一直到海王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we have the eight planets of the Solar System lined out,{\r}
+Dialogue: 0,0:20:37.44,0:20:41.01,Default,,0000,0000,0000,,{\blur3}我们得到了排成一行的太阳系八大行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}starting with Mercury all the way out to Neptune.{\r}
+Dialogue: 0,0:20:41.86,0:20:45.52,Default,,0000,0000,0000,,{\blur3}在这个比例模型里 我们的地球家园{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So in this scale model, our Earth, our home,{\r}
+Dialogue: 0,0:20:45.54,0:20:50.10,Default,,0000,0000,0000,,{\blur3}在太阳是这个保龄球时 它是一个小珠子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is this tiny little bead, while the Sun is this bowling ball.{\r}
+Dialogue: 0,0:20:52.03,0:20:56.28,Default,,0000,0000,0000,,{\blur3}这些"小珠子和弹珠行星"与"保龄球太阳"的大小是成比例的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These bead and marble planets may be to scale with the bowling ball Sun,{\r}
+Dialogue: 0,0:20:57.76,0:21:00.22,Default,,0000,0000,0000,,{\blur3}但它们的间距并非眼前的样子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the distances between them aren't.{\r}
+Dialogue: 0,0:21:01.44,0:21:04.85,Default,,0000,0000,0000,,{\blur3}为了说明这一切 物理学家克里福特.约翰逊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To demonstrate that, physicist Clifford Johnson{\r}
+Dialogue: 0,0:21:05.09,0:21:10.24,Default,,0000,0000,0000,,{\blur3}将在一条跑道上展示这个微型太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is going to walk the length of this miniature Solar System laid out along a runway.{\r}
+Dialogue: 0,0:21:11.85,0:21:13.85,Default,,0000,0000,0000,,{\blur3}这是约翰逊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have Johnny here, who's going to help me{\r}
+Dialogue: 0,0:21:13.88,0:21:17.04,Default,,0000,0000,0000,,{\blur3}他将帮我用计距器来测量距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}measure the distances with this surveyor's wheel.{\r}
+Dialogue: 0,0:21:17.15,0:21:18.93,Default,,0000,0000,0000,,{\blur3}好了 我们去探测太阳系吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, so let's go and explore the Solar System.{\r}
+Dialogue: 0,0:21:18.95,0:21:20.01,Default,,0000,0000,0000,,{\blur3}开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's do it.{\r}
+Dialogue: 0,0:21:21.31,0:21:24.15,Default,,0000,0000,0000,,{\blur3}在这个按比例缩小的太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each foot in this scaled-down Solar System{\r}
+Dialogue: 0,0:21:25.01,0:21:29.10,Default,,0000,0000,0000,,{\blur3}每英尺代表着行星之间100万英里的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}represents 1 million miles in the distances between the planets.{\r}
+Dialogue: 0,0:21:32.90,0:21:34.29,Default,,0000,0000,0000,,{\blur3}我们到了水星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And here we are at Mercury.{\r}
+Dialogue: 0,0:21:34.44,0:21:36.09,Default,,0000,0000,0000,,{\blur3}36英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's 36 feet.{\r}
+Dialogue: 0,0:21:36.61,0:21:40.57,Default,,0000,0000,0000,,{\blur3}在实际当中 它距离太阳是360万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In reality, it's actually about 36 million miles away from the Sun.{\r}
+Dialogue: 0,0:21:44.04,0:21:48.09,Default,,0000,0000,0000,,{\blur3}在太阳系里 第一个行星与太阳距离有多远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's amazing just how far the very first planet{\r}
+Dialogue: 0,0:21:48.11,0:21:49.98,Default,,0000,0000,0000,,{\blur3}让人惊异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Solar System is from the Sun.{\r}
+Dialogue: 0,0:21:51.00,0:21:52.81,Default,,0000,0000,0000,,{\blur3}现在 我们向第二个行星进发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So now let's go on to the second planet.{\r}
+Dialogue: 0,0:21:53.13,0:21:54.02,Default,,0000,0000,0000,,{\blur3}好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yeah.{\r}
+Dialogue: 0,0:22:00.90,0:22:02.29,Default,,0000,0000,0000,,{\blur3}我们到金星了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So here we are at Venus.{\r}
+Dialogue: 0,0:22:02.72,0:22:04.23,Default,,0000,0000,0000,,{\blur3}距离是67英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's 67 feet.{\r}
+Dialogue: 0,0:22:04.51,0:22:08.43,Default,,0000,0000,0000,,{\blur3}因此 这个小不点代表着金星到太阳的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this bead representing Venus is about twice as far{\r}
+Dialogue: 0,0:22:08.94,0:22:11.64,Default,,0000,0000,0000,,{\blur3}是水星的两倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the Sun as Mercury is.{\r}
+Dialogue: 0,0:22:11.71,0:22:15.87,Default,,0000,0000,0000,,{\blur3}事实上的距离 则是670万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's actually, in reality, about 67 million miles away.{\r}
+Dialogue: 0,0:22:19.84,0:22:21.43,Default,,0000,0000,0000,,{\blur3}我们到地球了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And here we are at the Earth.{\r}
+Dialogue: 0,0:22:21.60,0:22:23.35,Default,,0000,0000,0000,,{\blur3}93英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's 93 feet.{\r}
+Dialogue: 0,0:22:24.15,0:22:27.61,Default,,0000,0000,0000,,{\blur3}这个弹珠在这里代表着地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have the Earth here represented by this marble.{\r}
+Dialogue: 0,0:22:28.15,0:22:34.06,Default,,0000,0000,0000,,{\blur3}它实际上距离太阳930万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, in fact, it's in reality 93 million miles away from the Sun.{\r}
+Dialogue: 0,0:22:34.64,0:22:37.97,Default,,0000,0000,0000,,{\blur3}从这里见到的保龄球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The way the bowling ball looks, in terms of the size,{\r}
+Dialogue: 0,0:22:38.31,0:22:40.52,Default,,0000,0000,0000,,{\blur3}与我们天空里的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from here, is about the size{\r}
+Dialogue: 0,0:22:40.66,0:22:42.40,Default,,0000,0000,0000,,{\blur3}大小很接近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the sun appears in our sky.{\r}
+Dialogue: 0,0:22:42.89,0:22:46.01,Default,,0000,0000,0000,,{\blur3}蓝色珠子代表地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have this blue bead representing the Earth.{\r}
+Dialogue: 0,0:22:46.38,0:22:49.64,Default,,0000,0000,0000,,{\blur3}而在大约2.5英寸之外 有一颗小得多的珠子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And about 2 1/2 inches away, we have a much smaller bead{\r}
+Dialogue: 0,0:22:49.65,0:22:51.11,Default,,0000,0000,0000,,{\blur3}它代表着月亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}representing the Moon.{\r}
+Dialogue: 0,0:22:51.72,0:22:53.86,Default,,0000,0000,0000,,{\blur3}还记得比例不一样时的情形吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Remember that on a different scale,{\r}
+Dialogue: 0,0:22:53.89,0:22:56.32,Default,,0000,0000,0000,,{\blur3}当地球如同篮球大小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with Earth the size of a basketball,{\r}
+Dialogue: 0,0:22:56.76,0:22:59.05,Default,,0000,0000,0000,,{\blur3}月亮是在21英尺之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Moon was 21 feet away.{\r}
+Dialogue: 0,0:22:59.30,0:23:01.75,Default,,0000,0000,0000,,{\blur3}为了让整个太阳系都出现在画面里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To bring the whole Solar System into the picture,{\r}
+Dialogue: 0,0:23:02.36,0:23:06.90,Default,,0000,0000,0000,,{\blur3}我们只能把地月距离按比例缩小到几英寸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've had to scale down the Earth-Moon distance to mere inches.{\r}
+Dialogue: 0,0:23:07.26,0:23:09.84,Default,,0000,0000,0000,,{\blur3}眼前这微小的地月距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This tiny distance between the Earth and Moon{\r}
+Dialogue: 0,0:23:09.97,0:23:15.10,Default,,0000,0000,0000,,{\blur3}是迄今为止载人太空探险的极限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the limit so far of manned exploration of space.{\r}
+Dialogue: 0,0:23:16.62,0:23:19.44,Default,,0000,0000,0000,,{\blur3}希望我们在未来日子里做得更多和更好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hopefully, we'll do a lot better in the years to come.{\r}
+Dialogue: 0,0:23:20.34,0:23:25.12,Default,,0000,0000,0000,,{\blur3}在我们跑道上 火星运行在地球之外49英尺的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On our runway, Mars orbits another 49 feet away,{\r}
+Dialogue: 0,0:23:25.36,0:23:29.14,Default,,0000,0000,0000,,{\blur3}即距离太阳大约1 420万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or almost 142 million miles from the Sun.{\r}
+Dialogue: 0,0:23:31.38,0:23:36.58,Default,,0000,0000,0000,,{\blur3}在火星之外 这次的距离就非常非常远了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The distances beyond Mars are about to get much, much larger.{\r}
+Dialogue: 0,0:23:41.40,0:23:42.82,Default,,0000,0000,0000,,{\blur3}我们到了木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here we are... Jupiter.{\r}
+Dialogue: 0,0:23:43.01,0:23:45.97,Default,,0000,0000,0000,,{\blur3}现在离太阳是484英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're at 484 feet from the Sun.{\r}
+Dialogue: 0,0:23:46.24,0:23:49.60,Default,,0000,0000,0000,,{\blur3}是火星到太阳距离的三倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's actually three times as far from the Sun as Mars is.{\r}
+Dialogue: 0,0:23:51.06,0:23:54.62,Default,,0000,0000,0000,,{\blur3}神奇的是 这个距离里的所有小不点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With all this space between these tiny marbles,{\r}
+Dialogue: 0,0:23:54.76,0:23:58.04,Default,,0000,0000,0000,,{\blur3}就是我们从地球用肉眼能看到的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's a wonder we can see the planets from Earth at all.{\r}
+Dialogue: 0,0:23:59.61,0:24:03.03,Default,,0000,0000,0000,,{\blur3}它说明了太阳极为明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It tells us that the Sun is incredibly bright...{\r}
+Dialogue: 0,0:24:03.39,0:24:07.55,Default,,0000,0000,0000,,{\blur3}所以阳光能照射到这些天体 并被它们反射回地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that the light from the Sun can go out to these bodies, reflect off them,{\r}
+Dialogue: 0,0:24:07.56,0:24:10.29,Default,,0000,0000,0000,,{\blur3}因此我们能用肉眼看到它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then come back to here on Earth for us to see them.{\r}
+Dialogue: 0,0:24:11.45,0:24:13.52,Default,,0000,0000,0000,,{\blur3}好了 向外面的土星前进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, onwards and outwards to Saturn.{\r}
+Dialogue: 0,0:24:13.53,0:24:14.70,Default,,0000,0000,0000,,{\blur3}好 出发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right, here we go.{\r}
+Dialogue: 0,0:24:17.22,0:24:23.03,Default,,0000,0000,0000,,{\blur3}我们这两位太空探险者发现 土星距离太阳886英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our two space explorers find Saturn 886 feet from the Sun.{\r}
+Dialogue: 0,0:24:24.38,0:24:29.78,Default,,0000,0000,0000,,{\blur3}在现实当中 土星距离太阳8 860英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, Saturn, at 886 million miles away from the Sun,{\r}
+Dialogue: 0,0:24:30.09,0:24:34.95,Default,,0000,0000,0000,,{\blur3}差不多是木星到太阳距离的两倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is almost twice the distance from the Sun that Jupiter is from the Sun.{\r}
+Dialogue: 0,0:24:34.98,0:24:36.99,Default,,0000,0000,0000,,{\blur3}所以说 我们走得相当远了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we've come a huge extra distance{\r}
+Dialogue: 0,0:24:37.01,0:24:39.45,Default,,0000,0000,0000,,{\blur3}不过 还没有走完整个太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we're not even done with the Solar System yet.{\r}
+Dialogue: 0,0:24:41.05,0:24:43.14,Default,,0000,0000,0000,,{\blur3}在1 800英尺的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At 1,800 feet, the scaled orbit of Uranus stands{\r}
+Dialogue: 0,0:24:43.37,0:24:47.55,Default,,0000,0000,0000,,{\blur3}矗立着按比例缩小的天王星 它比土星远两倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the scaled orbit of Uranus stands twice as far as Saturn...{\r}
+Dialogue: 0,0:24:48.40,0:24:51.62,Default,,0000,0000,0000,,{\blur3}即距离太阳18亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}1.8 billion miles from the Sun.{\r}
+Dialogue: 0,0:24:53.77,0:24:56.47,Default,,0000,0000,0000,,{\blur3}我难以看清后面的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can hardly see the Sun back there.{\r}
+Dialogue: 0,0:24:56.65,0:25:00.17,Default,,0000,0000,0000,,{\blur3}同时几乎看不到我们的下一站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And I can actually hardly see Neptune in the distance,{\r}
+Dialogue: 0,0:25:00.18,0:25:02.67,Default,,0000,0000,0000,,{\blur3}位于远处的海王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is our next stop on our journey.{\r}
+Dialogue: 0,0:25:02.68,0:25:03.41,Default,,0000,0000,0000,,{\blur3}走吧？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shall we go?{\r}
+Dialogue: 0,0:25:03.44,0:25:04.50,Default,,0000,0000,0000,,{\blur3}走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's go.{\r}
+Dialogue: 0,0:25:10.05,0:25:11.15,Default,,0000,0000,0000,,{\blur3}天哪 好远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jeez, that's far.{\r}
+Dialogue: 0,0:25:11.17,0:25:12.15,Default,,0000,0000,0000,,{\blur3}是啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yep.{\r}
+Dialogue: 0,0:25:16.33,0:25:19.96,Default,,0000,0000,0000,,{\blur3}我们到了最后一个行星--海王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And here we are... Neptune... the last of the planets.{\r}
+Dialogue: 0,0:25:20.05,0:25:23.36,Default,,0000,0000,0000,,{\blur3}距离太阳是2 798英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}2,798 feet from our Sun.{\r}
+Dialogue: 0,0:25:23.40,0:25:26.78,Default,,0000,0000,0000,,{\blur3}这个结果换算为现实世界里的距离时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That from our model translates into the real-world distance{\r}
+Dialogue: 0,0:25:26.79,0:25:31.65,Default,,0000,0000,0000,,{\blur3}从海王星到太阳 距离大约是30亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of almost 3 billion miles that Neptune is away from the Sun.{\r}
+Dialogue: 0,0:25:32.11,0:25:37.25,Default,,0000,0000,0000,,{\blur3}距离越远 恒星要花越长的时间去环绕太阳一周{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This far out, a planet takes a long time to do an orbit around the Sun.{\r}
+Dialogue: 0,0:25:37.40,0:25:42.85,Default,,0000,0000,0000,,{\blur3}海王星上的一年 大约是165个地球年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The neptunian year is about 165 of our Earth years.{\r}
+Dialogue: 0,0:25:43.01,0:25:46.75,Default,,0000,0000,0000,,{\blur3}说起来 我们是在一个海王星年之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, only one of those neptunian years has passed since{\r}
+Dialogue: 0,0:25:46.78,0:25:48.97,Default,,0000,0000,0000,,{\blur3}才发现了海王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neptune was actually discovered.{\r}
+Dialogue: 0,0:25:50.23,0:25:51.79,Default,,0000,0000,0000,,{\blur3}通过这次测量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Viewed on this scale,{\r}
+Dialogue: 0,0:25:52.10,0:25:55.87,Default,,0000,0000,0000,,{\blur3}让人惊奇的是太阳万有引力的影响无处不在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's a wonder the Sun's gravity has any effect at all.{\r}
+Dialogue: 0,0:25:57.89,0:26:01.72,Default,,0000,0000,0000,,{\blur3}甚至还影响到太阳系里在海王星之外的天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there's still more to the Solar System beyond Neptune...{\r}
+Dialogue: 0,0:26:02.55,0:26:05.40,Default,,0000,0000,0000,,{\blur3}包括较小的天体 比如冥王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Including smaller bodies, like Pluto...{\r}
+Dialogue: 0,0:26:06.48,0:26:12.44,Default,,0000,0000,0000,,{\blur3}以及差不多距离1光年远的黑暗寒冷的彗星群{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then, nearly a light-year away, clouds of dark icy comets.{\r}
+Dialogue: 0,0:26:15.33,0:26:18.16,Default,,0000,0000,0000,,{\blur3}如果说我们太阳系里行星的间距{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the space between the planets in our Solar System{\r}
+Dialogue: 0,0:26:18.18,0:26:20.21,Default,,0000,0000,0000,,{\blur3}让人类的理解感到吃力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}strains human comprehension,{\r}
+Dialogue: 0,0:26:21.26,0:26:24.93,Default,,0000,0000,0000,,{\blur3}那么恒星之间和星系之间的巨大间距{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the vast distances between stars and galaxies{\r}
+Dialogue: 0,0:26:25.21,0:26:26.93,Default,,0000,0000,0000,,{\blur3}就会把它压垮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}totally overwhelms it.{\r}
+Dialogue: 0,0:26:28.84,0:26:32.08,Default,,0000,0000,0000,,{\blur3}天文学家怎么知道恒星有多远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That astronomers even know how far away stars are{\r}
+Dialogue: 0,0:26:32.41,0:26:35.97,Default,,0000,0000,0000,,{\blur3}纽约布鲁克林的诺拉对此觉得迷惑不解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a mystery to Nora from Brooklyn, New York,{\r}
+Dialogue: 0,0:26:36.44,0:26:37.48,Default,,0000,0000,0000,,{\blur3}她想…{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who wants to...{\r}
+Dialogue: 0,0:26:40.32,0:26:43.96,Default,,0000,0000,0000,,{\blur3}"我们怎样测量恒星间和星系间的距离？"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How do we measure the distance to stars and galaxies?{\r}
+Dialogue: 0,0:26:45.18,0:26:47.65,Default,,0000,0000,0000,,{\blur3}诺拉 这问题非常复杂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nora, that's actually a pretty complex question.{\r}
+Dialogue: 0,0:26:48.15,0:26:51.18,Default,,0000,0000,0000,,{\blur3}对大多数附近的恒星 由于地球围绕太阳运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For the most nearby stars, we look at how their positions{\r}
+Dialogue: 0,0:26:51.21,0:26:55.22,Default,,0000,0000,0000,,{\blur3}我们观察它们在天上随时间变化而变化的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the sky change with time as Earth orbits the Sun.{\r}
+Dialogue: 0,0:26:56.14,0:26:59.39,Default,,0000,0000,0000,,{\blur3}对更遥远的恒星 或其它星系的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For more distant stars, or stars in other galaxies,{\r}
+Dialogue: 0,0:26:59.62,0:27:04.54,Default,,0000,0000,0000,,{\blur3}我们测量它们有多亮 与它们已知的功率相比较{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we measure how bright they appear to be, compare that with their known power,{\r}
+Dialogue: 0,0:27:04.82,0:27:07.60,Default,,0000,0000,0000,,{\blur3}这样来确定它们的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and thus determine their distance.{\r}
+Dialogue: 0,0:27:09.79,0:27:12.19,Default,,0000,0000,0000,,{\blur3}它们的距离是如此遥远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are distances so immense{\r}
+Dialogue: 0,0:27:12.30,0:27:14.87,Default,,0000,0000,0000,,{\blur3}以至于"多大"和"多远"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that "how big" and "how far"{\r}
+Dialogue: 0,0:27:15.07,0:27:18.84,Default,,0000,0000,0000,,{\blur3}成为挑战每一个人理解力的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are questions to challenge anyone's power of comprehension.{\r}
+Dialogue: 0,0:27:20.37,0:27:25.14,Default,,0000,0000,0000,,{\blur3}不仅如此 宇宙的大量级也扩展到了速度范畴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the magnitudes of the universe also extend to speed.{\r}
+Dialogue: 0,0:27:25.98,0:27:31.47,Default,,0000,0000,0000,,{\blur3}科学家发现宇宙是一个超高速的赛车场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What scientists have discovered is that the universe is super-velocity racetrack{\r}
+Dialogue: 0,0:27:31.87,0:27:33.83,Default,,0000,0000,0000,,{\blur3}即使是巨大的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where even giant planets{\r}
+Dialogue: 0,0:27:33.86,0:27:36.91,Default,,0000,0000,0000,,{\blur3}也比飞行的子弹快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}move faster than speeding bullets.{\r}
+Dialogue: 0,0:27:39.94,0:27:44.41,Default,,0000,0000,0000,,{\blur3}我们已经见识了太空里的事物有多大和多远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've seen how big and how far things are in space.{\r}
+Dialogue: 0,0:27:45.08,0:27:48.27,Default,,0000,0000,0000,,{\blur3}现在我们要去看看有多快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now we're going to see how fast.{\r}
+Dialogue: 0,0:27:48.59,0:27:50.90,Default,,0000,0000,0000,,{\blur3}为了这个目标 我们首先要明白{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To do that, first we have to understand{\r}
+Dialogue: 0,0:27:50.91,0:27:54.88,Default,,0000,0000,0000,,{\blur3}被称为光年的天文量尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the celestial measuring stick known as the light-year.{\r}
+Dialogue: 0,0:27:55.66,0:27:58.22,Default,,0000,0000,0000,,{\blur3}正如它的称呼 一光年是指{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just like it sounds, one light-year is the distance{\r}
+Dialogue: 0,0:27:58.37,0:28:01.15,Default,,0000,0000,0000,,{\blur3}光线在一年里走过的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}light travels in one year.{\r}
+Dialogue: 0,0:28:01.63,0:28:04.94,Default,,0000,0000,0000,,{\blur3}大约是6万亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That amounts to about 6 trillion miles.{\r}
+Dialogue: 0,0:28:05.44,0:28:10.27,Default,,0000,0000,0000,,{\blur3}但这并不能帮助我们去理解光本身有多快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that doesn't help us understand how fast light speed itself is.{\r}
+Dialogue: 0,0:28:11.40,0:28:16.08,Default,,0000,0000,0000,,{\blur3}光的速度很快 大约186 000英里/秒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light is really fast... about 186,000 miles per second.{\r}
+Dialogue: 0,0:28:16.48,0:28:18.80,Default,,0000,0000,0000,,{\blur3}没有实例是难以理解的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now that's hard to conceive without an example,{\r}
+Dialogue: 0,0:28:19.05,0:28:23.09,Default,,0000,0000,0000,,{\blur3}想象一下光在洛杉矶和纽约之间来回折返吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}imagine light were bouncing back and forth between Los Angeles and New York.{\r}
+Dialogue: 0,0:28:23.44,0:28:27.59,Default,,0000,0000,0000,,{\blur3}在一秒内 它能来回38次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could do 38 back-and-forth bounces in one second.{\r}
+Dialogue: 0,0:28:30.69,0:28:34.02,Default,,0000,0000,0000,,{\blur3}为了让光速这一概念更具体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In an effort to chase down the concept of the speed of light,{\r}
+Dialogue: 0,0:28:34.50,0:28:38.55,Default,,0000,0000,0000,,{\blur3}天文学家格雷格.劳克林与兵器专家迈克尔.沃伊特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomer Greg Laughlin teams with firearms expert Michael Voight{\r}
+Dialogue: 0,0:28:39.01,0:28:42.88,Default,,0000,0000,0000,,{\blur3}一起展示一些在地球上移动速度最快的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to demonstrate some of the fastest moving objects on Earth.{\r}
+Dialogue: 0,0:28:44.98,0:28:48.60,Default,,0000,0000,0000,,{\blur3}我们将把光的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The way we're going to do that is to compare the speed of light{\r}
+Dialogue: 0,0:28:48.62,0:28:51.12,Default,,0000,0000,0000,,{\blur3}与地球上速度快的东西作比较{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the speed of something that's really fast here on Earth,{\r}
+Dialogue: 0,0:28:51.35,0:28:52.52,Default,,0000,0000,0000,,{\blur3}它就是子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which are bullets.{\r}
+Dialogue: 0,0:28:54.93,0:28:57.02,Default,,0000,0000,0000,,{\blur3}前方有一个靶子 当子弹打中它时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've got a target downrange so when it hits it,{\r}
+Dialogue: 0,0:28:57.05,0:28:58.79,Default,,0000,0000,0000,,{\blur3}你会听到响声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you'll hear that ding on the end of it.{\r}
+Dialogue: 0,0:28:58.82,0:29:01.28,Default,,0000,0000,0000,,{\blur3}你就能大致明白花了多少时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you can kind of see how long that actually takes.{\r}
+Dialogue: 0,0:29:01.39,0:29:03.22,Default,,0000,0000,0000,,{\blur3}这是.204鲁格步枪子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a .204 Ruger.{\r}
+Dialogue: 0,0:29:03.59,0:29:07.00,Default,,0000,0000,0000,,{\blur3}它是地球上目前飞得最快的民用枪支子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is the fastest commercial cartridge on the planet right now.{\r}
+Dialogue: 0,0:29:10.97,0:29:13.49,Default,,0000,0000,0000,,{\blur3}距离是300码{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've got a 300-yard travel,{\r}
+Dialogue: 0,0:29:13.53,0:29:17.41,Default,,0000,0000,0000,,{\blur3}所以我要努力去感觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so I'm really going to try to get a sense of the time that it takes{\r}
+Dialogue: 0,0:29:17.65,0:29:20.07,Default,,0000,0000,0000,,{\blur3}子弹飞至靶子所花的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for that bullet to travel downrange.{\r}
+Dialogue: 0,0:29:20.09,0:29:21.41,Default,,0000,0000,0000,,{\blur3}拭目以待吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So let's see how that works.{\r}
+Dialogue: 0,0:29:22.37,0:29:23.36,Default,,0000,0000,0000,,{\blur3}好枪法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nice shot.{\r}
+Dialogue: 0,0:29:24.14,0:29:25.95,Default,,0000,0000,0000,,{\blur3}伙计 我感觉不出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Boy, I couldn't get any sense.{\r}
+Dialogue: 0,0:29:25.98,0:29:28.88,Default,,0000,0000,0000,,{\blur3}我一扣动扳机… 呯… 它就打中靶子了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As soon as I pulled the trigger... boom... it hit the target.{\r}
+Dialogue: 0,0:29:28.91,0:29:31.60,Default,,0000,0000,0000,,{\blur3}根本来不及感觉子弹的飞行时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No sense at all of the travel time.{\r}
+Dialogue: 0,0:29:34.51,0:29:39.75,Default,,0000,0000,0000,,{\blur3}由于人类感官分辨不出这些子弹的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because it's so difficult for the human senses o perceive the speed of these bullets,{\r}
+Dialogue: 0,0:29:40.90,0:29:44.12,Default,,0000,0000,0000,,{\blur3}迈克尔安排了一个被称为精密计时器的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mike sets up a highly accurate timing device{\r}
+Dialogue: 0,0:29:44.34,0:29:46.02,Default,,0000,0000,0000,,{\blur3}精确计时的装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}known as a chronograph.{\r}
+Dialogue: 0,0:29:46.97,0:29:49.74,Default,,0000,0000,0000,,{\blur3}这套装置里有一个计时器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this is the unit that the timer's actually in.{\r}
+Dialogue: 0,0:29:50.00,0:29:51.34,Default,,0000,0000,0000,,{\blur3}里面有一个时钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inside, it's got a clock.{\r}
+Dialogue: 0,0:29:51.42,0:29:54.00,Default,,0000,0000,0000,,{\blur3}- 好的 看来计时器准备好了 - 好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Okay, it looks like the chronograph's ready here.- All right.{\r}
+Dialogue: 0,0:29:54.52,0:29:58.29,Default,,0000,0000,0000,,{\blur3}我们打几发子弹后 就知道子弹有多快了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's put a couple rounds through here and we'll see how fast this ammo goes.{\r}
+Dialogue: 0,0:30:04.59,0:30:05.71,Default,,0000,0000,0000,,{\blur3}怎么样？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what do we have?{\r}
+Dialogue: 0,0:30:05.74,0:30:09.43,Default,,0000,0000,0000,,{\blur3}哗 结果是4 297英尺/秒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wow, so that was 4,297 feet per second.{\r}
+Dialogue: 0,0:30:09.47,0:30:13.37,Default,,0000,0000,0000,,{\blur3}也就是约3 000英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that's about 3,000 miles per hour.{\r}
+Dialogue: 0,0:30:13.91,0:30:15.08,Default,,0000,0000,0000,,{\blur3}- 相当快 - 相当快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Pretty quick. - Pretty quick.{\r}
+Dialogue: 0,0:30:15.10,0:30:16.74,Default,,0000,0000,0000,,{\blur3}比1英里/秒稍慢一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a little less than a mile per second.{\r}
+Dialogue: 0,0:30:16.77,0:30:19.19,Default,,0000,0000,0000,,{\blur3}大致是音速的四倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That roughly four times the speed of sound.{\r}
+Dialogue: 0,0:30:19.74,0:30:21.74,Default,,0000,0000,0000,,{\blur3}我深感震憾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, I mean, I'm impressed.{\r}
+Dialogue: 0,0:30:21.96,0:30:25.22,Default,,0000,0000,0000,,{\blur3}但与光速相比 它就相形失色了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that pales in comparison to the speed of light.{\r}
+Dialogue: 0,0:30:25.26,0:30:29.22,Default,,0000,0000,0000,,{\blur3}在子弹从枪口沿着靶场一路飞驰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the time that it took for those bullets to go from the muzzle of the gun{\r}
+Dialogue: 0,0:30:29.23,0:30:31.24,Default,,0000,0000,0000,,{\blur3}到中靶的这段时间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all the way downrange to hit the target...{\r}
+Dialogue: 0,0:30:31.26,0:30:33.48,Default,,0000,0000,0000,,{\blur3}光线能不慌不忙地沿着地球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During that time, light has enough time to go all the way{\r}
+Dialogue: 0,0:30:33.51,0:30:37.33,Default,,0000,0000,0000,,{\blur3}从洛杉矶去到巴黎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}around the surface of the Earth, from Los Angeles to Paris, and{\r}
+Dialogue: 0,0:30:37.53,0:30:39.95,Default,,0000,0000,0000,,{\blur3}再用同等时间折返回来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then back in that same amount of time.{\r}
+Dialogue: 0,0:30:42.14,0:30:45.69,Default,,0000,0000,0000,,{\blur3}光的速度为6亿7千万英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Moving at 670 million miles per hour,{\r}
+Dialogue: 0,0:30:46.13,0:30:50.53,Default,,0000,0000,0000,,{\blur3}它完全推翻了地球上的速度体验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}light completely demolishes any Earthly experience of speed.{\r}
+Dialogue: 0,0:30:51.53,0:30:53.46,Default,,0000,0000,0000,,{\blur3}对我来说 感觉不到它多么厉害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That really doesn't mean very much to me,{\r}
+Dialogue: 0,0:30:53.49,0:30:56.75,Default,,0000,0000,0000,,{\blur3}因为6亿7千万英里 对我们在地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the whole distance of 670 million miles{\r}
+Dialogue: 0,0:30:56.90,0:31:01.26,Default,,0000,0000,0000,,{\blur3}日常接触到的任何距离来说 太大了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is much larger than any kind of distances that we normally deal here with on Earth.{\r}
+Dialogue: 0,0:31:03.52,0:31:08.30,Default,,0000,0000,0000,,{\blur3}光的速度与我们世界的速度相差十分悬殊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light and the speed of our world are so vastly far apart,{\r}
+Dialogue: 0,0:31:09.37,0:31:12.17,Default,,0000,0000,0000,,{\blur3}为了真正理解其中的差异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have to take light and slow it down{\r}
+Dialogue: 0,0:31:12.29,0:31:14.48,Default,,0000,0000,0000,,{\blur3}我们不得不让光慢下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to really understand the difference.{\r}
+Dialogue: 0,0:31:15.62,0:31:18.61,Default,,0000,0000,0000,,{\blur3}因此 让我们回到急速飞驰的子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For that, we go back to the speeding bullet.{\r}
+Dialogue: 0,0:31:19.47,0:31:23.90,Default,,0000,0000,0000,,{\blur3}3 000英里/小时的子弹 我们勉强能理解它的快速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At 3,000 miles per hour, we can barely perceive its speed.{\r}
+Dialogue: 0,0:31:25.20,0:31:28.33,Default,,0000,0000,0000,,{\blur3}如果光的移动不比飞行的子弹快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If light moved no faster than a speeding bullet,{\r}
+Dialogue: 0,0:31:28.73,0:31:32.57,Default,,0000,0000,0000,,{\blur3}我们周围的世界也同等慢下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what would happen to the world around us if we slowed it down{\r}
+Dialogue: 0,0:31:32.72,0:31:34.35,Default,,0000,0000,0000,,{\blur3}那会发生什么事情呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by the same amount?{\r}
+Dialogue: 0,0:31:35.13,0:31:37.41,Default,,0000,0000,0000,,{\blur3}例如民用喷气式飞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For example, a commercial jet{\r}
+Dialogue: 0,0:31:37.56,0:31:40.31,Default,,0000,0000,0000,,{\blur3}其飞行速度大约是600英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}travels roughly 600 miles an hour.{\r}
+Dialogue: 0,0:31:40.74,0:31:44.19,Default,,0000,0000,0000,,{\blur3}所以 假定子弹速度就是光的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So assuming the bullet represents the speed of light,{\r}
+Dialogue: 0,0:31:44.75,0:31:47.13,Default,,0000,0000,0000,,{\blur3}喷气式飞机有多慢呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how slow would the jet look?{\r}
+Dialogue: 0,0:31:47.58,0:31:50.89,Default,,0000,0000,0000,,{\blur3}在光速为3 000英里/小时这个比例下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the scale where the speed of light is 3,000 miles per hour,{\r}
+Dialogue: 0,0:31:50.92,0:31:53.66,Default,,0000,0000,0000,,{\blur3}民用喷气式飞机只能用爬行来形容{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then that commercial jet is crawling along so that it{\r}
+Dialogue: 0,0:31:53.69,0:31:57.26,Default,,0000,0000,0000,,{\blur3}它每分钟只能前进3英寸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would take entire minute to travel three inches.{\r}
+Dialogue: 0,0:32:00.91,0:32:03.77,Default,,0000,0000,0000,,{\blur3}F-15能达到2.5马赫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An F-15 can reach Mach 2.5...{\r}
+Dialogue: 0,0:32:04.29,0:32:07.02,Default,,0000,0000,0000,,{\blur3}速度超过了1 500英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's over 1,500 miles per hour.{\r}
+Dialogue: 0,0:32:07.87,0:32:11.37,Default,,0000,0000,0000,,{\blur3}但在这个光速慢下来的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But on this slow-light scale, an F-15{\r}
+Dialogue: 0,0:32:11.51,0:32:15.45,Default,,0000,0000,0000,,{\blur3}F-15需要整整1分钟才能移动7英寸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}needs a full minute to move seven inches.{\r}
+Dialogue: 0,0:32:16.78,0:32:19.37,Default,,0000,0000,0000,,{\blur3}原本急速飞驰的子弹它们呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what about speeding bullets themselves?{\r}
+Dialogue: 0,0:32:20.34,0:32:23.89,Default,,0000,0000,0000,,{\blur3}它们在这个光速变慢的世界里 看起来有多慢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How slow do they look on this slow-light scale?{\r}
+Dialogue: 0,0:32:27.67,0:32:29.50,Default,,0000,0000,0000,,{\blur3}这些高速来福步枪子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we go up to those high-speed rifle bullets,{\r}
+Dialogue: 0,0:32:29.53,0:32:33.37,Default,,0000,0000,0000,,{\blur3}1分钟只能前进1英尺多一点 大约是13英寸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then they're making it just a little bit more than foot...{\r}
+Dialogue: 0,0:32:33.38,0:32:36.24,Default,,0000,0000,0000,,{\blur3}如果光的实际速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over the course of one minute at the scale{\r}
+Dialogue: 0,0:32:36.26,0:32:40.57,Default,,0000,0000,0000,,{\blur3}是3 000英里/小时的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where 3,000 miles per hour is the actual speed of light.{\r}
+Dialogue: 0,0:32:41.83,0:32:46.48,Default,,0000,0000,0000,,{\blur3}现实世界中的蜗牛 速度比它还快两倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the real world, a snail moves more than twice as fast.{\r}
+Dialogue: 0,0:32:49.58,0:32:53.51,Default,,0000,0000,0000,,{\blur3}这说明了许多宇宙物体的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As it turns out, much of the cosmos is zipping around at{\r}
+Dialogue: 0,0:32:53.54,0:32:56.44,Default,,0000,0000,0000,,{\blur3}我们无法真正理解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}speeds we can't really comprehend.{\r}
+Dialogue: 0,0:32:59.43,0:33:02.91,Default,,0000,0000,0000,,{\blur3}运动是宇宙里的正常状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Motion is actually the normal state of affairs in the universe.{\r}
+Dialogue: 0,0:33:03.03,0:33:06.35,Default,,0000,0000,0000,,{\blur3}我们可能认为相对地面而言 我们是站立不动的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We may think we're standing still... and we are, relative to the ground...{\r}
+Dialogue: 0,0:33:06.58,0:33:08.60,Default,,0000,0000,0000,,{\blur3}但地球在围绕着太阳运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but Earth is orbiting the Sun,{\r}
+Dialogue: 0,0:33:08.65,0:33:11.33,Default,,0000,0000,0000,,{\blur3}而太阳在围绕着银河中心运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Sun is orbiting around the center of our galaxy,{\r}
+Dialogue: 0,0:33:11.44,0:33:15.23,Default,,0000,0000,0000,,{\blur3}银河则是在围绕着我们本星系群运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our galaxy is orbiting around in our local group of galaxies.{\r}
+Dialogue: 0,0:33:16.97,0:33:20.81,Default,,0000,0000,0000,,{\blur3}所有的这些物体都在以非常高的速度移动着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And all of these objects are moving at very high speeds.{\r}
+Dialogue: 0,0:33:23.23,0:33:28.97,Default,,0000,0000,0000,,{\blur3}地球围绕太阳运行的速度是66 000英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Earth is orbiting the Sun at a speed of about 66,000 miles per hour.{\r}
+Dialogue: 0,0:33:29.20,0:33:34.26,Default,,0000,0000,0000,,{\blur3}这个速度足以让你在一个小时内环绕地球两圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's enough to take you around the Earth more than twice in a single hour.{\r}
+Dialogue: 0,0:33:35.70,0:33:38.99,Default,,0000,0000,0000,,{\blur3}我们太阳绕着银河中心急行军{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our Sun is rushing around the Milky Way center at{\r}
+Dialogue: 0,0:33:39.00,0:33:42.24,Default,,0000,0000,0000,,{\blur3}速度是483 000英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}483,000 miles per hour.{\r}
+Dialogue: 0,0:33:43.11,0:33:46.17,Default,,0000,0000,0000,,{\blur3}而银河本身在太空里穿梭的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the Milky Way itself is flying through space at{\r}
+Dialogue: 0,0:33:46.20,0:33:49.16,Default,,0000,0000,0000,,{\blur3}是130万英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}1.3 million miles per hour.{\r}
+Dialogue: 0,0:33:50.83,0:33:55.13,Default,,0000,0000,0000,,{\blur3}但光速比它还快600倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the speed of light is still over 600 times faster.{\r}
+Dialogue: 0,0:33:57.50,0:33:59.46,Default,,0000,0000,0000,,{\blur3}这个简单事实说明了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The simple fact remains,{\r}
+Dialogue: 0,0:33:59.96,0:34:04.00,Default,,0000,0000,0000,,{\blur3}相对宇宙的本质来说 我们生活在一个慢动作的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we live in slow motion compared to the nature of the cosmos.{\r}
+Dialogue: 0,0:34:05.47,0:34:09.46,Default,,0000,0000,0000,,{\blur3}现代技术无法让我们的移动速度达到接近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Modern technology doesn't travel anywhere near the speed of light.{\r}
+Dialogue: 0,0:34:10.74,0:34:13.99,Default,,0000,0000,0000,,{\blur3}如果我们去旅行 比如说乘坐民用喷气式飞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we travel, say, at commercial-jet speed,{\r}
+Dialogue: 0,0:34:14.02,0:34:17.53,Default,,0000,0000,0000,,{\blur3}它的速度比光速慢100万倍 那么我们要花400万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is a million times slower than the speed of light, then it's going{\r}
+Dialogue: 0,0:34:17.78,0:34:20.19,Default,,0000,0000,0000,,{\blur3}才能跨越遥远距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to take us on the order of 4 million years to traverse that{\r}
+Dialogue: 0,0:34:20.22,0:34:23.25,Default,,0000,0000,0000,,{\blur3}去到最近的恒星--太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}distance to the closest stars to the Sun.{\r}
+Dialogue: 0,0:34:27.48,0:34:32.12,Default,,0000,0000,0000,,{\blur3}如果要花的时间比整个人类存在的时间还长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it takes more years to reach the nearest star than the human race has existed,{\r}
+Dialogue: 0,0:34:33.16,0:34:36.31,Default,,0000,0000,0000,,{\blur3}试问谁能真正明白{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how can any person ever really understand{\r}
+Dialogue: 0,0:34:36.45,0:34:38.49,Default,,0000,0000,0000,,{\blur3}我们银河的大小？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the size of our own galaxy?{\r}
+Dialogue: 0,0:34:43.60,0:34:46.53,Default,,0000,0000,0000,,{\blur3}通过缩小最大的行星和恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By downsizing the biggest planets and stars{\r}
+Dialogue: 0,0:34:46.71,0:34:50.42,Default,,0000,0000,0000,,{\blur3}以及把光变慢 让它们处于人类体验得到的级别{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the velocity of light speed to the level of human experience,{\r}
+Dialogue: 0,0:34:51.60,0:34:56.32,Default,,0000,0000,0000,,{\blur3}我们终于能开始明白太空规模的某一些了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can finally begin to understand some of the scales of outer space.{\r}
+Dialogue: 0,0:34:57.70,0:35:02.10,Default,,0000,0000,0000,,{\blur3}但是 恒星的间距让人类想象力相形见绌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But is there a way to do the same for the distances between the stars{\r}
+Dialogue: 0,0:35:03.18,0:35:06.88,Default,,0000,0000,0000,,{\blur3}有办法同样能让我们理解好距离它吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}distances that utterly dwarf the human imagination?{\r}
+Dialogue: 0,0:35:08.61,0:35:13.20,Default,,0000,0000,0000,,{\blur3}虽然科学家用光年来计量恒星之间的遥远距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although scientists measure the enormous distance between stars in light-years,{\r}
+Dialogue: 0,0:35:14.06,0:35:19.44,Default,,0000,0000,0000,,{\blur3}但这些数字在帮助我们理解银河的辽阔时 显得很勉强{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}those numbers barely help us grasp the expansive nature of the galactic landscape.{\r}
+Dialogue: 0,0:35:21.13,0:35:26.57,Default,,0000,0000,0000,,{\blur3}因此 让我们把一切都缩小到1光年等于1英里的比例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So let's shrink everything down to a scale where one light-year equals one mile.{\r}
+Dialogue: 0,0:35:27.55,0:35:32.26,Default,,0000,0000,0000,,{\blur3}按这个比例 我们太阳被缩小到一颗砂粒大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On that scale, our Sun shrinks down to the size of a sand grain.{\r}
+Dialogue: 0,0:35:34.00,0:35:37.30,Default,,0000,0000,0000,,{\blur3}我们已经计算出有多少的砂粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've calculated just how many sand grains,{\r}
+Dialogue: 0,0:35:37.31,0:35:41.31,Default,,0000,0000,0000,,{\blur3}也就是有多少的恒星在我们银河系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or how many stars, would fill our own Milky Way galaxy.{\r}
+Dialogue: 0,0:35:41.57,0:35:43.09,Default,,0000,0000,0000,,{\blur3}其数量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the number of stars in the Milky Way{\r}
+Dialogue: 0,0:35:43.11,0:35:47.02,Default,,0000,0000,0000,,{\blur3}与这箱子里的砂粒数量差不多吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is about the same as the number of sand grains in this chest.{\r}
+Dialogue: 0,0:35:48.60,0:35:53.10,Default,,0000,0000,0000,,{\blur3}如果你去数 恒星会超过1 000亿颗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you're counting, that's more than 100 billion stars.{\r}
+Dialogue: 0,0:35:54.15,0:35:59.10,Default,,0000,0000,0000,,{\blur3}如果1年光等于1英里 最近的恒星会位于哪里呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If one light-year equals one mile, where is the nearest star?{\r}
+Dialogue: 0,0:35:59.86,0:36:02.16,Default,,0000,0000,0000,,{\blur3}洛杉矶的格里菲斯天文台{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From the vantage point of the Griffith observatory in Los Angeles,{\r}
+Dialogue: 0,0:36:02.17,0:36:06.07,Default,,0000,0000,0000,,{\blur3}是天文学家劳拉.丹丽工作的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where astronomer Laura Danly works,{\r}
+Dialogue: 0,0:36:06.54,0:36:09.77,Default,,0000,0000,0000,,{\blur3}从它的最高点算起 最近的砂粒将会位于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the nearest sand grain would end up in Hollywood,{\r}
+Dialogue: 0,0:36:10.32,0:36:12.15,Default,,0000,0000,0000,,{\blur3}4英里外的好莱坞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}four miles away.{\r}
+Dialogue: 0,0:36:13.57,0:36:18.17,Default,,0000,0000,0000,,{\blur3}为了在拥挤的城市里 能精确定位相隔4英里的砂粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To help pinpoint sand grains positioned four miles apart in a dense city,{\r}
+Dialogue: 0,0:36:18.81,0:36:22.80,Default,,0000,0000,0000,,{\blur3}我们将在两地之间使用镜子去来回反射阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we'll use mirrors to flash sunlight back and forth between them.{\r}
+Dialogue: 0,0:36:23.99,0:36:25.81,Default,,0000,0000,0000,,{\blur3}于是亚伦和约翰尼拿上镜子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So Aaron and Johnny have mirrors,{\r}
+Dialogue: 0,0:36:25.83,0:36:27.71,Default,,0000,0000,0000,,{\blur3}他们将反射阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they're going to reflect sunlight{\r}
+Dialogue: 0,0:36:28.04,0:36:31.51,Default,,0000,0000,0000,,{\blur3}以帮助我们明白离最近的恒星有多远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to help us see just how far away it is to the nearest star.{\r}
+Dialogue: 0,0:36:31.97,0:36:34.97,Default,,0000,0000,0000,,{\blur3}所以 我需要取一些恒星带去好莱坞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So I need to get a few stars to take off to Hollywood with me.{\r}
+Dialogue: 0,0:36:37.14,0:36:38.23,Default,,0000,0000,0000,,{\blur3}行了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That should do.{\r}
+Dialogue: 0,0:36:38.25,0:36:39.68,Default,,0000,0000,0000,,{\blur3}斯坦 亚伦 好了吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So Stan, Aaron, are you ready?{\r}
+Dialogue: 0,0:36:39.71,0:36:42.46,Default,,0000,0000,0000,,{\blur3}你要扮演太阳 站在格里菲斯天文台这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're going to be the Sun staying here at Griffith observatory.{\r}
+Dialogue: 0,0:36:42.64,0:36:44.34,Default,,0000,0000,0000,,{\blur3}约翰尼和我去外面的好莱坞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Johnny and I are headed out to Hollywood.{\r}
+Dialogue: 0,0:36:44.65,0:36:45.42,Default,,0000,0000,0000,,{\blur3}好了吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You all set?{\r}
+Dialogue: 0,0:36:45.43,0:36:46.99,Default,,0000,0000,0000,,{\blur3}- 开始吧 - 好的 走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Let's do it.- All right, let's go.{\r}
+Dialogue: 0,0:36:49.16,0:36:51.60,Default,,0000,0000,0000,,{\blur3}离我们太阳最近的天上邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The nearest celestial neighbor to our Sun{\r}
+Dialogue: 0,0:36:51.99,0:36:53.59,Default,,0000,0000,0000,,{\blur3}不是单一的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}isn't a single star,{\r}
+Dialogue: 0,0:36:54.06,0:36:56.13,Default,,0000,0000,0000,,{\blur3}相反 它是三颗一起的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but rather a grouping of three.{\r}
+Dialogue: 0,0:36:57.16,0:37:00.20,Default,,0000,0000,0000,,{\blur3}其中的两颗 半人马座阿尔法星A和B{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Two of them... Alpha Centauri "A"and "B"{\r}
+Dialogue: 0,0:37:00.52,0:37:04.51,Default,,0000,0000,0000,,{\blur3}它们相互围绕运行 都和太阳差不多大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}orbit each other, and are about the same size as our Sun.{\r}
+Dialogue: 0,0:37:05.53,0:37:09.50,Default,,0000,0000,0000,,{\blur3}第三颗 半人马座比邻星 是一颗红矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The third, Proxima Centauri, is a red-dwarf star...{\r}
+Dialogue: 0,0:37:10.26,0:37:14.46,Default,,0000,0000,0000,,{\blur3}颜色暗淡 而且质量只有兄弟们的10%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dim and only about 10% as massive as its siblings.{\r}
+Dialogue: 0,0:37:22.64,0:37:24.75,Default,,0000,0000,0000,,{\blur3}我是在好莱坞的一个屋顶上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm here on a rooftop in Hollywood,{\r}
+Dialogue: 0,0:37:24.78,0:37:28.75,Default,,0000,0000,0000,,{\blur3}大约距离远处的格里菲斯天文台4英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about four miles away from Griffith observatory there in the background.{\r}
+Dialogue: 0,0:37:29.01,0:37:31.30,Default,,0000,0000,0000,,{\blur3}我手里拿着一个装满恒星的袋子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have in my hand a bag full of stars.{\r}
+Dialogue: 0,0:37:31.32,0:37:34.17,Default,,0000,0000,0000,,{\blur3}我要取出三颗砂粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm going to take out three sand grains...{\r}
+Dialogue: 0,0:37:35.11,0:37:36.92,Default,,0000,0000,0000,,{\blur3}1 2 3…{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one, two, three...{\r}
+Dialogue: 0,0:37:37.02,0:37:38.38,Default,,0000,0000,0000,,{\blur3}其它的丢掉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Throw the rest away...{\r}
+Dialogue: 0,0:37:39.13,0:37:41.24,Default,,0000,0000,0000,,{\blur3}这代表着离太阳最近的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that represent our nearest stars.{\r}
+Dialogue: 0,0:37:41.44,0:37:44.61,Default,,0000,0000,0000,,{\blur3}半人马座比邻星离地球最近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Proxima Centauri is actually the closest star to Earth.{\r}
+Dialogue: 0,0:37:44.75,0:37:48.04,Default,,0000,0000,0000,,{\blur3}在目前比例下 它离我只是一步之遥{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And on the scale of this analogy, it's about feet behind me,{\r}
+Dialogue: 0,0:37:48.09,0:37:51.21,Default,,0000,0000,0000,,{\blur3}所以我们把它扔到该在的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we'll just toss Proxima Centauri to its proper place.{\r}
+Dialogue: 0,0:37:51.31,0:37:52.95,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法星A{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha Centauri "A"{\r}
+Dialogue: 0,0:37:53.34,0:37:55.21,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法星B{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and Alpha Centauri "B"{\r}
+Dialogue: 0,0:37:55.76,0:38:01.10,Default,,0000,0000,0000,,{\blur3}按太阳就在4英里外的格里菲斯天文台这个比例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on this scale might be about two feet apart, while our Sun is{\r}
+Dialogue: 0,0:38:01.54,0:38:04.66,Default,,0000,0000,0000,,{\blur3}它们的间隔应该是大约2英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}four miles away at Griffith observatory.{\r}
+Dialogue: 0,0:38:05.51,0:38:08.58,Default,,0000,0000,0000,,{\blur3}从这里看过去 代表着我们太阳的砂粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From here, the sand grain representing our Sun{\r}
+Dialogue: 0,0:38:08.67,0:38:10.70,Default,,0000,0000,0000,,{\blur3}不可能看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will be impossible to spot.{\r}
+Dialogue: 0,0:38:11.55,0:38:13.46,Default,,0000,0000,0000,,{\blur3}所以我们要利用上镜子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is where the mirrors come in.{\r}
+Dialogue: 0,0:38:15.56,0:38:19.23,Default,,0000,0000,0000,,{\blur3}我们在阿尔法星A这里 去寻找我们的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here we are at Alpha Centauri, but now we have to find our own Sun.{\r}
+Dialogue: 0,0:38:19.26,0:38:21.81,Default,,0000,0000,0000,,{\blur3}瞧瞧他们能否把太阳指给我们看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's see if we can get them to show us the Sun.{\r}
+Dialogue: 0,0:38:26.06,0:38:27.30,Default,,0000,0000,0000,,{\blur3}喂 我是斯坦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hello, it's Stan.{\r}
+Dialogue: 0,0:38:27.45,0:38:29.45,Default,,0000,0000,0000,,{\blur3}嘿 斯坦 我们看不到太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hey, Stan, we can't see the Sun.{\r}
+Dialogue: 0,0:38:29.47,0:38:31.71,Default,,0000,0000,0000,,{\blur3}你是不是该把一些阳光照向我们？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You want to send us a little sunlight our way?{\r}
+Dialogue: 0,0:38:31.91,0:38:34.13,Default,,0000,0000,0000,,{\blur3}好的 太阳正照去你那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, Sun's coming your way.{\r}
+Dialogue: 0,0:38:37.10,0:38:38.49,Default,,0000,0000,0000,,{\blur3}还是看不到它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can't see it yet.{\r}
+Dialogue: 0,0:38:39.35,0:38:42.12,Default,,0000,0000,0000,,{\blur3}啊 那里 看得很清楚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, there. That was a good one, yeah.{\r}
+Dialogue: 0,0:38:42.16,0:38:43.23,Default,,0000,0000,0000,,{\blur3}很耀眼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nice and bright.{\r}
+Dialogue: 0,0:38:43.47,0:38:44.79,Default,,0000,0000,0000,,{\blur3}噢 看那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wow, look at that.{\r}
+Dialogue: 0,0:38:44.83,0:38:46.31,Default,,0000,0000,0000,,{\blur3}真不可思议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's incredible.{\r}
+Dialogue: 0,0:38:47.30,0:38:51.35,Default,,0000,0000,0000,,{\blur3}好的 斯坦 我们要给你看看阿尔法星A的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, Stan, we're going to show you the light of Alpha Centauri now.{\r}
+Dialogue: 0,0:38:52.63,0:38:54.12,Default,,0000,0000,0000,,{\blur3}是的 它在那{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, yes. There it is.{\r}
+Dialogue: 0,0:38:54.19,0:38:55.53,Default,,0000,0000,0000,,{\blur3}是 看到它了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yep, we saw it.{\r}
+Dialogue: 0,0:38:55.63,0:38:57.15,Default,,0000,0000,0000,,{\blur3}- 他们看到它了 - 好极了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- They got it. - Awesome.{\r}
+Dialogue: 0,0:38:57.17,0:38:58.92,Default,,0000,0000,0000,,{\blur3}他看到阿尔法星A了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He sees Alpha Centauri.{\r}
+Dialogue: 0,0:39:01.10,0:39:03.60,Default,,0000,0000,0000,,{\blur3}在我们银河地区里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our region of the Milky Way galaxy,{\r}
+Dialogue: 0,0:39:04.36,0:39:10.01,Default,,0000,0000,0000,,{\blur3}典型的恒星间距是3到5光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the typical distance between stars ranges from three to five light-years.{\r}
+Dialogue: 0,0:39:11.67,0:39:14.11,Default,,0000,0000,0000,,{\blur3}对于砂粒般大小的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With stars the size of sand grains,{\r}
+Dialogue: 0,0:39:14.54,0:39:18.08,Default,,0000,0000,0000,,{\blur3}我们在洛杉矶这样的城市里可以安放20颗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we could fit about 20 in a city like Los Angeles.{\r}
+Dialogue: 0,0:39:19.98,0:39:23.08,Default,,0000,0000,0000,,{\blur3}但如果有更多的恒星挤进来 稍微靠近地球的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if more stars crowded any closer to Earth,{\r}
+Dialogue: 0,0:39:23.52,0:39:27.77,Default,,0000,0000,0000,,{\blur3}对我们所知道的生命 这个辽阔的地区会变得危险起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our cosmic neighborhood would become hazardous to life we know it.{\r}
+Dialogue: 0,0:39:30.87,0:39:34.54,Default,,0000,0000,0000,,{\blur3}超新星的开火 会烤热地球的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Supernova going off, which would really cook the atmosphere.{\r}
+Dialogue: 0,0:39:36.11,0:39:40.03,Default,,0000,0000,0000,,{\blur3}如果有其它恒星以非常近的距离经过太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if another star were to pass too close to the Sun,{\r}
+Dialogue: 0,0:39:40.29,0:39:43.10,Default,,0000,0000,0000,,{\blur3}那么行星的轨道会受到不利干扰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the planetary orbits would be badly perturbed,{\r}
+Dialogue: 0,0:39:43.21,0:39:46.67,Default,,0000,0000,0000,,{\blur3}行星甚至会从太阳系走失 进入到星际空间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planets could even be lost from the Sun, sent out into interstellar space.{\r}
+Dialogue: 0,0:39:47.58,0:39:50.80,Default,,0000,0000,0000,,{\blur3}这事千真万确 如果没有位于恒星之间的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's really true that if we didn't have these vast amounts of real estate{\r}
+Dialogue: 0,0:39:50.81,0:39:54.30,Default,,0000,0000,0000,,{\blur3}这些数量庞大的不动产 我们可能不会在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between the stars, we likely wouldn't even be here.{\r}
+Dialogue: 0,0:39:56.15,0:39:58.95,Default,,0000,0000,0000,,{\blur3}用光行走一年来划分距离的远近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cutting down the distance light travels in a year{\r}
+Dialogue: 0,0:39:59.23,0:40:01.93,Default,,0000,0000,0000,,{\blur3}能帮助我们对恒星有一个清晰的认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}helps put stars in a clearer context.{\r}
+Dialogue: 0,0:40:03.10,0:40:04.70,Default,,0000,0000,0000,,{\blur3}但同样的做法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But can we do the same{\r}
+Dialogue: 0,0:40:04.75,0:40:09.39,Default,,0000,0000,0000,,{\blur3}能让我们去应付实际上无限大的宇宙本身吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to grapple with the practically infinite dimensions of the universe itself?{\r}
+Dialogue: 0,0:40:11.20,0:40:15.52,Default,,0000,0000,0000,,{\blur3}银河的跨度是100 000光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Milky Way spans 100,000 light-years across.{\r}
+Dialogue: 0,0:40:15.87,0:40:20.56,Default,,0000,0000,0000,,{\blur3}而外面的另一个星系十分十分遥远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the next galaxy over is really, really far away.{\r}
+Dialogue: 0,0:40:21.68,0:40:24.46,Default,,0000,0000,0000,,{\blur3}与银河类似且最靠近我们的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The distance to the nearest galaxy like our own... the nearest{\r}
+Dialogue: 0,0:40:24.47,0:40:29.20,Default,,0000,0000,0000,,{\blur3}是仙女座星系 它属于螺旋星系 距离我们约250万光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}spiral galaxy, the Andromeda galaxy... is about 2.5 million light-years away.{\r}
+Dialogue: 0,0:40:29.35,0:40:34.09,Default,,0000,0000,0000,,{\blur3}这几乎相当于银河系本身大小的25倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's about almost 25 times the size of the Milky Way itself.{\r}
+Dialogue: 0,0:40:34.12,0:40:36.91,Default,,0000,0000,0000,,{\blur3}所以 你要把25个银河系紧挨着排成一行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if you lined up 25 Milky Ways end on end,{\r}
+Dialogue: 0,0:40:36.94,0:40:39.09,Default,,0000,0000,0000,,{\blur3}才能延伸到仙女座星系那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would stretch to the Andromeda galaxy.{\r}
+Dialogue: 0,0:40:40.52,0:40:43.87,Default,,0000,0000,0000,,{\blur3}或许比例要缩小得更多 情况才更清楚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It might be clearer to scale things down some more,{\r}
+Dialogue: 0,0:40:44.22,0:40:49.96,Default,,0000,0000,0000,,{\blur3}所以 把星系想象成美国各地的城市中心吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and imagine galaxies as urban centers spread out across the United States.{\r}
+Dialogue: 0,0:40:50.75,0:40:52.97,Default,,0000,0000,0000,,{\blur3}有时 把星系当作是大城市{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sometimes galaxies are referred to as star cities,{\r}
+Dialogue: 0,0:40:52.98,0:40:54.84,Default,,0000,0000,0000,,{\blur3}这非常恰如其分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's a pretty good analogy.{\r}
+Dialogue: 0,0:40:55.66,0:41:00.76,Default,,0000,0000,0000,,{\blur3}如果假设银河象洛杉矶市那么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If envision the Milky way galaxy at the size of the Los Angeles metropolitan area,{\r}
+Dialogue: 0,0:41:01.46,0:41:03.69,Default,,0000,0000,0000,,{\blur3}面积大约100平方英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}roughly 100 miles wide,{\r}
+Dialogue: 0,0:41:04.33,0:41:06.75,Default,,0000,0000,0000,,{\blur3}那么仙女座就会座落在纽约{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then Andromeda would be in New York.{\r}
+Dialogue: 0,0:41:07.45,0:41:10.74,Default,,0000,0000,0000,,{\blur3}"本星系群"的其它成员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In between, would be other members of what astronomers call{\r}
+Dialogue: 0,0:41:11.37,0:41:13.48,Default,,0000,0000,0000,,{\blur3}将会位于两者之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the "local group" of galaxies.{\r}
+Dialogue: 0,0:41:14.37,0:41:16.86,Default,,0000,0000,0000,,{\blur3}总的说来 本星系群中有两个主要角色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's basically two major players in the local group.{\r}
+Dialogue: 0,0:41:16.89,0:41:21.05,Default,,0000,0000,0000,,{\blur3}分别是我们的银河系和仙女座星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's our galaxy... the Milky Way galaxy... and there's the Andromeda galaxy.{\r}
+Dialogue: 0,0:41:21.06,0:41:24.85,Default,,0000,0000,0000,,{\blur3}另外有一个较小的螺旋星系 它被称为三角座星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's another smaller spiral galaxy knows as M33.{\r}
+Dialogue: 0,0:41:25.20,0:41:27.21,Default,,0000,0000,0000,,{\blur3}此外 还有一些矮星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then we also have these dwarf galaxies,{\r}
+Dialogue: 0,0:41:27.24,0:41:30.88,Default,,0000,0000,0000,,{\blur3}它们或是含有1亿颗恒星 或是只有很少的几颗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which contain 100 million stars, sometimes even fewer.{\r}
+Dialogue: 0,0:41:32.20,0:41:34.34,Default,,0000,0000,0000,,{\blur3}但是 即使有如此广阔的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even the vast distances{\r}
+Dialogue: 0,0:41:34.51,0:41:36.88,Default,,0000,0000,0000,,{\blur3}来分隔本星系群的成员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that separate members of the local group{\r}
+Dialogue: 0,0:41:37.34,0:41:40.31,Default,,0000,0000,0000,,{\blur3}也解救不了我们的银河家园{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}won't be enough to save our home galaxy.{\r}
+Dialogue: 0,0:41:41.35,0:41:45.17,Default,,0000,0000,0000,,{\blur3}仙女座星系和三角座星系都朝银河走来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Andromeda and M33 are both headed toward the Milky Way,{\r}
+Dialogue: 0,0:41:45.18,0:41:47.47,Default,,0000,0000,0000,,{\blur3}从现在算起 在几十亿年内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the point where, in a few billion years from now,{\r}
+Dialogue: 0,0:41:47.48,0:41:49.29,Default,,0000,0000,0000,,{\blur3}它们会发生亲密接触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they're going to have a close encounter.{\r}
+Dialogue: 0,0:41:50.49,0:41:53.99,Default,,0000,0000,0000,,{\blur3}从宇宙规模来看 这次相遇似乎会很猛烈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On a cosmic scale, the collision seems violent.{\r}
+Dialogue: 0,0:41:54.97,0:41:59.05,Default,,0000,0000,0000,,{\blur3}但事实上 星系里的恒星分布如此稀疏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in fact, the stars in the galaxies are so widely spaced,{\r}
+Dialogue: 0,0:42:00.01,0:42:03.85,Default,,0000,0000,0000,,{\blur3}它们会相互穿行而过 大部分会相安无事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they will weave past each other, largely undisturbed.{\r}
+Dialogue: 0,0:42:04.99,0:42:06.96,Default,,0000,0000,0000,,{\blur3}如果人类能存活这么长的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If humans survive that long,{\r}
+Dialogue: 0,0:42:07.35,0:42:09.69,Default,,0000,0000,0000,,{\blur3}他们在地球上几乎不会注意到这些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they'll hardly notice it here on Earth.{\r}
+Dialogue: 0,0:42:10.82,0:42:15.13,Default,,0000,0000,0000,,{\blur3}再过几十亿年之后 它们会合并为一个星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And a few billion years after that, they'll have merged into a single galaxy.{\r}
+Dialogue: 0,0:42:15.91,0:42:19.78,Default,,0000,0000,0000,,{\blur3}我们现在的银河将不复存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Milky Way as we know it will cease to exist.{\r}
+Dialogue: 0,0:42:22.14,0:42:24.27,Default,,0000,0000,0000,,{\blur3}可是 到了那一刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Until that time comes, though,{\r}
+Dialogue: 0,0:42:24.75,0:42:28.82,Default,,0000,0000,0000,,{\blur3}哪怕是本星系群里相距最近的星系 它们的间距{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the distances between even the nearest galaxies of the local group{\r}
+Dialogue: 0,0:42:29.12,0:42:31.68,Default,,0000,0000,0000,,{\blur3}仍然超出我们的理解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}remain beyond our grasp.{\r}
+Dialogue: 0,0:42:32.05,0:42:36.31,Default,,0000,0000,0000,,{\blur3}我们的星系邻居只是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And our galactic neighbors represent only a small sliver{\r}
+Dialogue: 0,0:42:36.52,0:42:38.57,Default,,0000,0000,0000,,{\blur3}广袤宇宙里的一小部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our immense cosmos.{\r}
+Dialogue: 0,0:42:39.30,0:42:41.46,Default,,0000,0000,0000,,{\blur3}在可观察到的那部分宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the observable part of the universe,{\r}
+Dialogue: 0,0:42:41.50,0:42:44.85,Default,,0000,0000,0000,,{\blur3}有无数的物体 比如1 000亿个星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is something like 100 billion galaxies...{\r}
+Dialogue: 0,0:42:45.08,0:42:47.08,Default,,0000,0000,0000,,{\blur3}而每一个星系有数十亿的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}each with billions of stars.{\r}
+Dialogue: 0,0:42:47.77,0:42:50.02,Default,,0000,0000,0000,,{\blur3}如果宇宙能观察到的部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If galaxies were spaced out{\r}
+Dialogue: 0,0:42:50.75,0:42:54.13,Default,,0000,0000,0000,,{\blur3}它里面的星系就是遍布美国的都市中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like urban centers throughout the United States,{\r}
+Dialogue: 0,0:42:55.16,0:42:58.44,Default,,0000,0000,0000,,{\blur3}而它自己的面积也等同于美国{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then to approximate the size of the observable universe,{\r}
+Dialogue: 0,0:42:59.17,0:43:02.82,Default,,0000,0000,0000,,{\blur3}那么宇宙这个国家的国土面积{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the country would have to be large enough to wrap around the Earth{\r}
+Dialogue: 0,0:43:02.93,0:43:05.51,Default,,0000,0000,0000,,{\blur3}将足以包裹地球约500次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 500 times.{\r}
+Dialogue: 0,0:43:10.12,0:43:12.81,Default,,0000,0000,0000,,{\blur3}把宇宙按比例缩小到人类习惯的规模{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shrinking the universe down to human scale{\r}
+Dialogue: 0,0:43:13.01,0:43:15.51,Default,,0000,0000,0000,,{\blur3}可能会帮助我们理解它的大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may help us comprehend its size,{\r}
+Dialogue: 0,0:43:16.26,0:43:19.38,Default,,0000,0000,0000,,{\blur3}但即便如此 我们也做不到完全理解它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but reality, of course, doesn't work that way.{\r}
+Dialogue: 0,0:43:20.95,0:43:24.21,Default,,0000,0000,0000,,{\blur3}宇宙的广袤有时让我们觉得自己真小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The vastness of the universe sometimes makes us feel really small.{\r}
+Dialogue: 0,0:43:24.28,0:43:27.08,Default,,0000,0000,0000,,{\blur3}我们比太阳系小 比我们的银河小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're small compared to the Solar System, small compared to{\r}
+Dialogue: 0,0:43:27.08,0:43:29.75,Default,,0000,0000,0000,,{\blur3}相比整个宇宙更是勿庸置疑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our galaxy, compared to the universe as a whole.{\r}
+Dialogue: 0,0:43:30.21,0:43:33.13,Default,,0000,0000,0000,,{\blur3}但从某些方面来说 我们也不要妄自菲薄{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in some ways, I think we're not insignificant,{\r}
+Dialogue: 0,0:43:33.49,0:43:36.49,Default,,0000,0000,0000,,{\blur3}因为我们是我们知道的唯一的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because we're the only creatures we know of{\r}
+Dialogue: 0,0:43:36.58,0:43:41.56,Default,,0000,0000,0000,,{\blur3}能拥有先进智慧 好奇心和理解力去研究宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have the advanced minds and curiosity and intellect to think about the universe.{\r}
+Dialogue: 0,0:43:41.68,0:43:43.67,Default,,0000,0000,0000,,{\blur3}在某种意义上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a sense, we are the way{\r}
+Dialogue: 0,0:43:43.70,0:43:47.88,Default,,0000,0000,0000,,{\blur3}我们是宇宙为了解自身而创造的一个途径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in which the universe has found to know itself.{\r}
+Dialogue: 0,0:43:49.11,0:43:53.42,Default,,0000,0000,0000,,{\blur3}因此 对宇宙来说 终于可以开始去弄明白{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so that must mean the universe is finally{\r}
+Dialogue: 0,0:43:53.57,0:43:58.03,Default,,0000,0000,0000,,{\blur3}它自己有多么浩瀚 以至于让人惊叹不已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}starting to figure out how awe-inspiringly vast it truly is.{\r}

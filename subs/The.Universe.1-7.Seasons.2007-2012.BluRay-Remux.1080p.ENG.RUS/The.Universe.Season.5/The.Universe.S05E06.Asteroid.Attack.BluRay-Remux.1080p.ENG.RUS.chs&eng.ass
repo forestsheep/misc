@@ -1,0 +1,943 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: YYeTs
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:03.20,0:01:07.20,Default,,0000,0000,0001,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:07.25,0:01:10.10,Default,,0000,0000,0008,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制&调校:无影  字幕来源:人人影视  招募Q号:76846146{\r}
+Dialogue: 0,0:01:10.11,0:01:13.52,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(149,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宇
+Dialogue: 0,0:01:10.11,0:01:13.52,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(228,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宙
+Dialogue: 0,0:01:10.11,0:01:13.52,Default,NTP,0000,0000,0000,,{\fe134}{\fad(300,300)\pos(192,207)\c&FBF7ED&\3c&HFFFFFF&\fn微软雅黑\fs24\shad0\bord2\be1}{\t(0,3500,0.5,\c&B59475&,\fscx110,\fscy110)}小 行 星 侵 袭
+Dialogue: 0,0:01:10.11,0:01:13.52,Default,NTP,0000,0000,0000,,{\1c&HFF00FF&\b1}第5季　第6集
+Dialogue: 0,0:00:00.60,0:00:03.12,Default,NTP,0000,0000,0000,,最初  宇宙是一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness,
+Dialogue: 0,0:00:03.12,0:00:06.11,Default,NTP,0000,0000,0000,,紧接着一声巨响  混沌初开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang, giving birth
+Dialogue: 0,0:00:06.11,0:00:08.79,Default,NTP,0000,0000,0000,,时间  空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to an endless, expanding existence of time,
+Dialogue: 0,0:00:08.79,0:00:10.41,Default,NTP,0000,0000,0000,,开始不断膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}space and matter.
+Dialogue: 0,0:00:10.07,0:00:12.51,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}彗星撞击木星
+Dialogue: 0,0:00:10.47,0:00:11.45,Default,NTP,0000,0000,0000,,每天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day,
+Dialogue: 0,0:00:11.45,0:00:14.15,Default,NTP,0000,0000,0000,,我们都在解密这神秘莫测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:12.51,0:00:13.51,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}新发现的行星
+Dialogue: 0,0:00:14.15,0:00:16.53,Default,NTP,0000,0000,0000,,令人疯狂的极端之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:14.92,0:00:15.92,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}冲向地球的流星
+Dialogue: 0,0:00:16.53,0:00:19.79,Default,NTP,0000,0000,0000,,那就是宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call the Universe.
+Dialogue: 0,0:00:21.04,0:00:24.49,Default,NTP,0000,0000,0000,,它们已经毁灭了恐龙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They've already wiped out the dinosaurs
+Dialogue: 0,0:00:24.50,0:00:27.19,Default,NTP,0000,0000,0000,,和许多其他物种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and many other species.
+Dialogue: 0,0:00:27.30,0:00:30.69,Default,NTP,0000,0000,0000,,并且它们必定会再次袭击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there's no doubt they will strike again.
+Dialogue: 0,0:00:30.69,0:00:35.06,Default,NTP,0000,0000,0000,,这将是一场远超出圣经中所描述的灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be a disaster far beyond biblical proportions.
+Dialogue: 0,0:00:35.13,0:00:39.03,Default,NTP,0000,0000,0000,,小行星的研究不仅关乎科学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Investigating asteroids isn't just about science.
+Dialogue: 0,0:00:39.07,0:00:41.18,Default,NTP,0000,0000,0000,,小行星对人类来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Asteroids are gonna be one of our
+Dialogue: 0,0:00:41.18,0:00:43.04,Default,NTP,0000,0000,0000,,将是最大的难题之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}biggest problems for humanity.
+Dialogue: 0,0:00:43.07,0:00:46.71,Default,NTP,0000,0000,0000,,这关乎生死存亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's about survival.
+Dialogue: 0,0:00:46.78,0:00:49.84,Default,NTP,0000,0000,0000,,所以  我们对小行星越了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, the smarter we can get before then,
+Dialogue: 0,0:00:49.88,0:00:51.84,Default,NTP,0000,0000,0000,,越能想出解决办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the more we can figure out,
+Dialogue: 0,0:00:51.84,0:00:53.41,Default,NTP,0000,0000,0000,,我们能做些什么呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can we do anything about it?
+Dialogue: 0,0:00:53.52,0:00:56.98,Default,NTP,0000,0000,0000,,为最新的小行星发现做好准备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Get ready for the latest asteroid discoveries
+Dialogue: 0,0:00:57.05,0:01:03.03,Default,NTP,0000,0000,0000,,大胆作出前往人类未曾到达之地的计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and daring new plans to go where no man has gone before.
+Dialogue: 0,0:01:17.44,0:01:19.69,Default,NTP,0000,0000,0000,,2029年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the year 2029,
+Dialogue: 0,0:01:19.69,0:01:23.24,Default,NTP,0000,0000,0000,,一颗科学家追踪了数十年的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and an asteroid that scientists have been tracking
+Dialogue: 0,0:01:23.25,0:01:26.51,Default,NTP,0000,0000,0000,,小行星将在地球附近经过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for decades is passing close to earth.
+Dialogue: 0,0:01:26.58,0:01:30.62,Default,NTP,0000,0000,0000,,这颗小行星约为三个足球场宽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The asteroid is about three football fields wide.
+Dialogue: 0,0:01:30.69,0:01:33.49,Default,NTP,0000,0000,0000,,命名为阿波非斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its name is Apophis,
+Dialogue: 0,0:01:33.59,0:01:37.89,Default,NTP,0000,0000,0000,,源于埃及神话中的破坏之神\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}after the ancient Egyptian God of destruction.
+Dialogue: 0,0:01:38.03,0:01:39.89,Default,NTP,0000,0000,0000,,据最新预测显示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}According to the latest predictions
+Dialogue: 0,0:01:39.96,0:01:43.79,Default,NTP,0000,0000,0000,,阿波非斯并不会在2029年撞击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Apophis won't hit earth in 2029,
+Dialogue: 0,0:01:43.79,0:01:46.07,Default,NTP,0000,0000,0000,,但是当它经过一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but as it passes through a seemingly
+Dialogue: 0,0:01:46.07,0:01:49.50,Default,NTP,0000,0000,0000,,看似没有特征的空间区域时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nondescript area of space nearby,
+Dialogue: 0,0:01:49.60,0:01:54.71,Default,NTP,0000,0000,0000,,整个科学界为之处于高度警戒状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the world's scientific community goes on high alert.
+Dialogue: 0,0:01:56.21,0:01:59.98,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格雷戈·朗丁\N加州大学圣克鲁斯分校
+Dialogue: 0,0:01:54.71,0:01:56.02,Default,NTP,0000,0000,0000,,天文学家计算出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers have calculated
+Dialogue: 0,0:01:56.02,0:01:57.71,Default,NTP,0000,0000,0000,,一个很小的空间区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a very small region of space
+Dialogue: 0,0:01:57.78,0:02:01.58,Default,NTP,0000,0000,0000,,如果阿波非斯碰巧经过那个区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which, if Apophis happens to go through that region,
+Dialogue: 0,0:02:01.62,0:02:04.63,Default,NTP,0000,0000,0000,,那它就会在2036年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then it will be set up for a collision
+Dialogue: 0,0:02:04.63,0:02:06.75,Default,NTP,0000,0000,0000,,与地球发生碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with earth in 2036.
+Dialogue: 0,0:02:06.79,0:02:09.10,Default,NTP,0000,0000,0000,,这个极小的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this very, very tiny region,
+Dialogue: 0,0:02:09.10,0:02:10.87,Default,NTP,0000,0000,0000,,直径不到一英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is less than a mile across,
+Dialogue: 0,0:02:10.87,0:02:13.12,Default,NTP,0000,0000,0000,,仅有几千英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just a few thousand feet across,
+Dialogue: 0,0:02:13.13,0:02:15.06,Default,NTP,0000,0000,0000,,其被称为锁眼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is called the keyhole.
+Dialogue: 0,0:02:15.13,0:02:18.84,Default,NTP,0000,0000,0000,,一个国际航天合作机构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An international cooperative of space agencies
+Dialogue: 0,0:02:18.84,0:02:22.87,Default,NTP,0000,0000,0000,,发射一枚火箭接近阿波非斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}launches a rocket to take on Apophis.
+Dialogue: 0,0:02:22.94,0:02:26.77,Default,NTP,0000,0000,0000,,目前  你并不想用核武器炸毁它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, you don't wanna blow it up with a nuclear weapon.
+Dialogue: 0,0:02:26.84,0:02:28.78,Default,NTP,0000,0000,0000,,首先  那需要很多能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First, that would take a lot of energy,
+Dialogue: 0,0:02:27.05,0:02:30.77,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:02:28.88,0:02:31.05,Default,NTP,0000,0000,0000,,同时还会产生大量的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would just produce a huge number of fragments,
+Dialogue: 0,0:02:31.15,0:02:33.15,Default,NTP,0000,0000,0000,,它们都将涌向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all heading toward the earth.
+Dialogue: 0,0:02:33.25,0:02:36.88,Default,NTP,0000,0000,0000,,真正应该做的是给它一点推动力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What you really wanna do is give it a bit of a push
+Dialogue: 0,0:02:36.95,0:02:39.15,Default,NTP,0000,0000,0000,,轻微改变它的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that slightly changes its trajectory.
+Dialogue: 0,0:02:39.22,0:02:43.22,Default,NTP,0000,0000,0000,,那样的话  就不会发生碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That way, we don't get a collision.
+Dialogue: 0,0:02:43.23,0:02:46.06,Default,NTP,0000,0000,0000,,但是这个三千万吨重的太空岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's possible that the 30 million ton space rock
+Dialogue: 0,0:02:46.13,0:02:48.40,Default,NTP,0000,0000,0000,,有可能因为体积庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could simply be too massive.
+Dialogue: 0,0:02:49.50,0:02:52.02,Default,NTP,0000,0000,0000,,以至碰撞未能使\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The collision hasn't knocked
+Dialogue: 0,0:02:52.02,0:02:54.84,Default,NTP,0000,0000,0000,,小行星偏离足够的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the asteroid far enough off course.
+Dialogue: 0,0:02:57.21,0:03:00.81,Default,NTP,0000,0000,0000,,2036年撞击所产生的威力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The impact in 2036 is thousands of times stronger
+Dialogue: 0,0:03:00.91,0:03:05.08,Default,NTP,0000,0000,0000,,会是广岛原子弹爆炸的数千倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the atomic bomb dropped on Hiroshima.
+Dialogue: 0,0:03:05.11,0:03:07.86,Default,NTP,0000,0000,0000,,即刻产生的陨石坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The immediate crater is as wide as
+Dialogue: 0,0:03:07.86,0:03:10.28,Default,NTP,0000,0000,0000,,如曼哈顿岛大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the island of Manhattan.
+Dialogue: 0,0:03:10.39,0:03:16.99,Default,NTP,0000,0000,0000,,其将形成一个宽于两英里的陨石坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would create a crater over two miles wide.
+Dialogue: 0,0:03:17.93,0:03:22.66,Default,NTP,0000,0000,0000,,如果阿波非斯撞击某个城市\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If Apophis were to hit a city...
+Dialogue: 0,0:03:23.67,0:03:26.37,Default,NTP,0000,0000,0000,,那这个城市就玩完了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Goodbye to that city
+Dialogue: 0,0:03:26.47,0:03:30.17,Default,NTP,0000,0000,0000,,周围一百英里的地区也随之毁灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the surrounding region for 100 miles.
+Dialogue: 0,0:03:30.17,0:03:34.48,Default,NTP,0000,0000,0000,,冲击波  爆炸  狂风大作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the shock wave, the blast, the winds coming out,
+Dialogue: 0,0:03:31.88,0:03:35.28,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N美国行星协会
+Dialogue: 0,0:03:34.61,0:03:37.81,Default,NTP,0000,0000,0000,,撞击后的喷出物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the impact ejecta,
+Dialogue: 0,0:03:37.81,0:03:40.01,Default,NTP,0000,0000,0000,,以及进而发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and from the massive earthquake equivalent
+Dialogue: 0,0:03:40.01,0:03:41.90,Default,NTP,0000,0000,0000,,等效强烈地震\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would occur,
+Dialogue: 0,0:03:41.90,0:03:48.56,Default,NTP,0000,0000,0000,,这些都会影响到大部分地区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would reach out and be felt over huge areas.
+Dialogue: 0,0:03:51.73,0:03:54.93,Default,NTP,0000,0000,0000,,阿波非斯最早被发现于2004年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When Apophis was first discovered in 2004,
+Dialogue: 0,0:03:55.00,0:04:01.00,Default,NTP,0000,0000,0000,,最初判断的碰撞率大概是1/37\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the initial odds of an impact were about 1 in 37.
+Dialogue: 0,0:04:02.07,0:04:05.47,Default,NTP,0000,0000,0000,,但近年来  碰撞率不断下降\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But those odds have been dropping over the years,
+Dialogue: 0,0:04:05.54,0:04:10.01,Default,NTP,0000,0000,0000,,因为科学家们仔细观测了它的运行轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as scientists have obtained a better look at its path.
+Dialogue: 0,0:04:10.01,0:04:11.18,Default,NTP,0000,0000,0000,,可以做这样一个类比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can make the analogy
+Dialogue: 0,0:04:10.67,0:04:13.98,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}唐·耶蒙斯\N喷气推进实验室
+Dialogue: 0,0:04:11.18,0:04:14.34,Default,NTP,0000,0000,0000,,确定轨道的过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the orbit determination process
+Dialogue: 0,0:04:14.34,0:04:16.95,Default,NTP,0000,0000,0000,,和预测飓风差不多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is similar to predicting hurricanes.
+Dialogue: 0,0:04:18.65,0:04:20.35,Default,NTP,0000,0000,0000,,当飓风初形成时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a hurricane first starts out,
+Dialogue: 0,0:04:20.35,0:04:23.06,Default,NTP,0000,0000,0000,,你是不可能预测出精确路线的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you don't know exactly where it's going to go.
+Dialogue: 0,0:04:23.16,0:04:24.89,Default,NTP,0000,0000,0000,,在接下来的一两周\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as you get more and more data
+Dialogue: 0,0:04:24.89,0:04:26.63,Default,NTP,0000,0000,0000,,不断获得更多的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the next week or two,
+Dialogue: 0,0:04:26.73,0:04:28.05,Default,NTP,0000,0000,0000,,才能完善预测结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then you can refine your predictions.
+Dialogue: 0,0:04:28.05,0:04:29.13,Default,NTP,0000,0000,0000,,所以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so,
+Dialogue: 0,0:04:29.14,0:04:33.47,Default,NTP,0000,0000,0000,,这和确定小行星与彗星的运行轨道极为相似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's very much like that with asteroids and comets.
+Dialogue: 0,0:04:33.54,0:04:35.86,Default,NTP,0000,0000,0000,,观测的时间越长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The more observations you get over time,
+Dialogue: 0,0:04:35.86,0:04:37.18,Default,NTP,0000,0000,0000,,就越清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the better you know
+Dialogue: 0,0:04:37.18,0:04:40.17,Default,NTP,0000,0000,0000,,目标未来的运转轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the object will be in the future.
+Dialogue: 0,0:04:40.18,0:04:43.91,Default,NTP,0000,0000,0000,,这就是为什么现在预测的与地球相撞的几率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's why today's odds of an earth impact,
+Dialogue: 0,0:04:43.91,0:04:45.88,Default,NTP,0000,0000,0000,,仅为1/250000\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only 1 in 250,000
+Dialogue: 0,0:04:45.91,0:04:48.41,Default,NTP,0000,0000,0000,,这与之前1/37的结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are so much slimmer than the original
+Dialogue: 0,0:04:48.41,0:04:52.42,Default,NTP,0000,0000,0000,,相差甚远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}1 in 37 prediction.
+Dialogue: 0,0:04:52.52,0:04:55.40,Default,NTP,0000,0000,0000,,即使阿波非斯没有撞击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even if Apophis doesn't hit earth,
+Dialogue: 0,0:04:55.41,0:05:01.03,Default,NTP,0000,0000,0000,,此惨剧必会在未来上演\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's no doubt that something else eventually will.
+Dialogue: 0,0:05:01.06,0:05:04.33,Default,NTP,0000,0000,0000,,航天机构非常重视\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a disaster that space agencies
+Dialogue: 0,0:05:04.33,0:05:05.97,Default,NTP,0000,0000,0000,,这一灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}take very seriously.
+Dialogue: 0,0:05:06.07,0:05:07.96,Default,NTP,0000,0000,0000,,2010年7月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In July 2010,
+Dialogue: 0,0:05:07.96,0:05:10.50,Default,NTP,0000,0000,0000,,美国宇航局顾问团提议创建\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a NASA advisory panel recommended the creation
+Dialogue: 0,0:05:10.61,0:05:15.04,Default,NTP,0000,0000,0000,,一个行星防御办公室以处理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a planetary defense office to figure out
+Dialogue: 0,0:05:15.08,0:05:19.29,Default,NTP,0000,0000,0000,,所有向地球而来的小行星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how to detect and deflect any asteroids
+Dialogue: 0,0:05:19.29,0:05:21.75,Default,NTP,0000,0000,0000,,探测和转向问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}heading our way.
+Dialogue: 0,0:05:23.64,0:05:27.13,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}特拉维斯·斯·泰勒\N物理学家
+Dialogue: 0,0:05:21.75,0:05:22.81,Default,NTP,0000,0000,0000,,我们都清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know for a fact that
+Dialogue: 0,0:05:22.81,0:05:25.75,Default,NTP,0000,0000,0000,,一颗小行星将会撞击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an asteroid is going to impact the earth
+Dialogue: 0,0:05:25.85,0:05:28.24,Default,NTP,0000,0000,0000,,在将来的一万年以内的某个时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sometime in the next one to 10,000 years,
+Dialogue: 0,0:05:28.24,0:05:29.79,Default,NTP,0000,0000,0000,,小行星的体积还很大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a big one.
+Dialogue: 0,0:05:29.86,0:05:32.96,Default,NTP,0000,0000,0000,,值得思考的是  撞击何时发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's a good question as to when it's gonna happen
+Dialogue: 0,0:05:33.06,0:05:36.67,Default,NTP,0000,0000,0000,,那时我们是否能对此有所准备呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and are we gonna be ready for it when it does?
+Dialogue: 0,0:05:39.67,0:05:42.75,Default,NTP,0000,0000,0000,,海边的游乐场不是一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A seaside amusement park is an unlikely place
+Dialogue: 0,0:05:42.75,0:05:45.27,Default,NTP,0000,0000,0000,,演示小行星和彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to demonstrate how asteroids and comets
+Dialogue: 0,0:05:45.27,0:05:48.48,Default,NTP,0000,0000,0000,,撞击地球的理想之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}speed around our corner of the universe.
+Dialogue: 0,0:05:48.54,0:05:52.48,Default,NTP,0000,0000,0000,,但是这里的游戏设施却能够充分演示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But an arcade attraction here actually reveals a lot
+Dialogue: 0,0:05:52.55,0:05:54.98,Default,NTP,0000,0000,0000,,这些致命天体的撞击过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about these deadly objects.
+Dialogue: 0,0:05:56.52,0:05:59.55,Default,NTP,0000,0000,0000,,我们的太阳系有些像射击场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our solar system is kind of like a shooting gallery.
+Dialogue: 0,0:05:59.65,0:06:02.16,Default,NTP,0000,0000,0000,,小行星和彗星偶尔撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Asteroids and comets can occasionally hit
+Dialogue: 0,0:06:02.16,0:06:03.42,Default,NTP,0000,0000,0000,,行星和卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planets and moons,
+Dialogue: 0,0:06:03.53,0:06:05.99,Default,NTP,0000,0000,0000,,撞击后产生巨大的陨石坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creating gigantic impact craters.
+Dialogue: 0,0:06:06.06,0:06:08.22,Default,NTP,0000,0000,0000,,目标体积越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, the bigger objects present
+Dialogue: 0,0:06:08.22,0:06:11.00,Default,NTP,0000,0000,0000,,射击可选范围也越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a larger cross-sectional area.
+Dialogue: 0,0:06:11.07,0:06:13.20,Default,NTP,0000,0000,0000,,所以  很容易就能打中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, they're easier to hit.
+Dialogue: 0,0:06:13.27,0:06:14.72,Default,NTP,0000,0000,0000,,在这种情况下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this case,
+Dialogue: 0,0:06:14.72,0:06:16.37,Default,NTP,0000,0000,0000,,我需要击中这些靶心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I actually have to hit these little bull's eyes,
+Dialogue: 0,0:06:16.47,0:06:17.91,Default,NTP,0000,0000,0000,,它们都是一样大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which are all about the same size.
+Dialogue: 0,0:06:18.01,0:06:20.61,Default,NTP,0000,0000,0000,,设想一下那边的男士代表木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But imagine that the man over there is Jupiter.
+Dialogue: 0,0:06:20.71,0:06:24.18,Default,NTP,0000,0000,0000,,很大  这个花栗鼠代表地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's big, and the chipmunk might be the earth,
+Dialogue: 0,0:06:24.18,0:06:24.88,Default,NTP,0000,0000,0000,,小一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}smaller.
+Dialogue: 0,0:06:24.91,0:06:28.55,Default,NTP,0000,0000,0000,,这些蚂蚁则代表月球  更小一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And these ants might be our moon, even smaller.
+Dialogue: 0,0:06:28.62,0:06:32.35,Default,NTP,0000,0000,0000,,因此木星很容易就被击中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So Jupiter is pretty easy to hit.
+Dialogue: 0,0:06:32.42,0:06:35.79,Default,NTP,0000,0000,0000,,而地球  这个花栗鼠  难打些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth, the chipmunk, is harder to hit.
+Dialogue: 0,0:06:35.89,0:06:38.69,Default,NTP,0000,0000,0000,,因为可射击范围小一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a smaller cross-sectional area.
+Dialogue: 0,0:06:38.73,0:06:39.99,Default,NTP,0000,0000,0000,,打中了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There it goes.
+Dialogue: 0,0:06:40.10,0:06:41.80,Default,NTP,0000,0000,0000,,地球被击中了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth was hit.
+Dialogue: 0,0:06:41.90,0:06:43.00,Default,NTP,0000,0000,0000,,蚂蚁很小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ants are small.
+Dialogue: 0,0:06:43.10,0:06:45.00,Default,NTP,0000,0000,0000,,所以  更难打中了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, they're even harder to hit.
+Dialogue: 0,0:06:45.10,0:06:49.00,Default,NTP,0000,0000,0000,,大部分小行星未能击中目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the asteroids miss.
+Dialogue: 0,0:06:49.10,0:06:52.74,Default,NTP,0000,0000,0000,,只有偶然情况下才能击中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only occasionally do they hit.
+Dialogue: 0,0:06:52.81,0:06:55.08,Default,NTP,0000,0000,0000,,然而不同于射击场  无论是子弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But unlike the shooting gallery where the bullets,
+Dialogue: 0,0:06:55.18,0:06:56.71,Default,NTP,0000,0000,0000,,还是这样的一束光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or in this case, flashes of light
+Dialogue: 0,0:06:56.81,0:07:00.22,Default,NTP,0000,0000,0000,,都是沿直线运动的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}always travel in straight lines,
+Dialogue: 0,0:07:00.22,0:07:05.62,Default,NTP,0000,0000,0000,,小行星和彗星  却是以弧线运动到目标的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}asteroids and comets curve toward their targets.
+Dialogue: 0,0:07:05.69,0:07:08.26,Default,NTP,0000,0000,0000,,木星通过其地心引力将小行星和彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter tends to draw in the asteroids and comets
+Dialogue: 0,0:07:08.32,0:07:09.62,Default,NTP,0000,0000,0000,,吸引过来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through its gravity.
+Dialogue: 0,0:07:09.72,0:07:10.68,Default,NTP,0000,0000,0000,,就好比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, it's kind of like,
+Dialogue: 0,0:07:10.68,0:07:12.99,Default,NTP,0000,0000,0000,,我原本的射击目标是在那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if I start with my aim way over there,
+Dialogue: 0,0:07:13.09,0:07:17.73,Default,NTP,0000,0000,0000,,木星吸引枪杆  使之朝向它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter pulls the barrel of the rifle toward it,
+Dialogue: 0,0:07:17.80,0:07:22.80,Default,NTP,0000,0000,0000,,让我直接命中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving me a direct hit.
+Dialogue: 0,0:07:22.90,0:07:25.44,Default,NTP,0000,0000,0000,,由于地球比木星小很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since earth is much less massive than Jupiter,
+Dialogue: 0,0:07:25.54,0:07:29.81,Default,NTP,0000,0000,0000,,由其引力吸引的小行星数量较少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its lower gravity doesn't draw in as many asteroids
+Dialogue: 0,0:07:29.91,0:07:32.61,Default,NTP,0000,0000,0000,,月球的引力只相当于地球引力的一小部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the moon, with only a fraction of earth's gravity
+Dialogue: 0,0:07:32.65,0:07:34.35,Default,NTP,0000,0000,0000,,所吸引的小行星少之又少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}attracts even fewer.
+Dialogue: 0,0:07:34.45,0:07:37.99,Default,NTP,0000,0000,0000,,但是月球表面的许多月坑显示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as the moon's crater pocked surface illustrates,
+Dialogue: 0,0:07:38.09,0:07:41.99,Default,NTP,0000,0000,0000,,长时间的非经常性小行星的撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}infrequent asteroid impacts over a long period of time
+Dialogue: 0,0:07:42.09,0:07:45.96,Default,NTP,0000,0000,0000,,依然意味着巨大的破坏性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}still means plenty of destruction.
+Dialogue: 0,0:07:46.96,0:07:50.00,Default,NTP,0000,0000,0000,,木星吸引彗星和小行星的能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter's ability to pull in comets and asteroids
+Dialogue: 0,0:07:50.10,0:07:53.70,Default,NTP,0000,0000,0000,,近年来不断显现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been on display a lot recently.
+Dialogue: 0,0:07:53.80,0:07:55.68,Default,NTP,0000,0000,0000,,1994年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1994,
+Dialogue: 0,0:07:55.68,0:08:00.27,Default,NTP,0000,0000,0000,,苏梅克-列维9号彗星的碎片击中木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Shoemaker-Levy 9 comet fragments pounded Jupiter.
+Dialogue: 0,0:08:00.34,0:08:03.27,Default,NTP,0000,0000,0000,,科学家以为这种大型撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists thought this kind of large impact
+Dialogue: 0,0:08:03.27,0:08:04.34,Default,NTP,0000,0000,0000,,相当罕见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was a rare event,
+Dialogue: 0,0:08:04.41,0:08:08.98,Default,NTP,0000,0000,0000,,实属百年一遇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}something to be seen once every few hundred years.
+Dialogue: 0,0:08:09.98,0:08:12.76,Default,NTP,0000,0000,0000,,但是很快  另一颗彗星或小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But then, another comet or asteroid hit
+Dialogue: 0,0:08:12.76,0:08:14.99,Default,NTP,0000,0000,0000,,于2009年七月再次撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in July 2009.
+Dialogue: 0,0:08:15.06,0:08:19.06,Default,NTP,0000,0000,0000,,这次撞击导致产生了一块大黑斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It created a large dark spot
+Dialogue: 0,0:08:19.06,0:08:22.00,Default,NTP,0000,0000,0000,,和相当于地球大小的火球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a fireball as large as the earth.
+Dialogue: 0,0:08:22.06,0:08:25.87,Default,NTP,0000,0000,0000,,两个不同的木星撞击者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Seeing two different sets of impactors hitting Jupiter
+Dialogue: 0,0:08:25.90,0:08:29.66,Default,NTP,0000,0000,0000,,撞击时间只间隔了15年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only 15 years apart gives some indication that
+Dialogue: 0,0:08:29.66,0:08:34.88,Default,NTP,0000,0000,0000,,这说明太阳系可能比我们想象的还要活跃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the solar system might even be busier than we thought.
+Dialogue: 0,0:08:34.91,0:08:39.58,Default,NTP,0000,0000,0000,,2010年六月  一名业余天文爱好者拍到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then, in June 2010, a third object hit Jupiter,
+Dialogue: 0,0:08:39.68,0:08:41.19,Default,NTP,0000,0000,0000,,第三颗物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with an amateur astronomer
+Dialogue: 0,0:08:41.19,0:08:43.62,Default,NTP,0000,0000,0000,,撞击木星时的画面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}capturing the moment of impact.
+Dialogue: 0,0:08:43.72,0:08:46.27,Default,NTP,0000,0000,0000,,这会不会迫使科学家们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would this force scientists
+Dialogue: 0,0:08:46.27,0:08:48.58,Default,NTP,0000,0000,0000,,改变现有的学术定论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to change their estimates and acknowledge
+Dialogue: 0,0:08:48.58,0:08:51.95,Default,NTP,0000,0000,0000,,认为木星被大型物体撞击的频率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that Jupiter is hit by large objects
+Dialogue: 0,0:08:51.96,0:08:53.76,Default,NTP,0000,0000,0000,,远多于百年一次呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much more often than every few hundred years?
+Dialogue: 0,0:08:53.86,0:08:56.33,Default,NTP,0000,0000,0000,,我认为这其实跟我们原有的观点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think that there's not necessarily many more
+Dialogue: 0,0:08:56.43,0:08:58.40,Default,NTP,0000,0000,0000,,并无多少不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than we thought before,
+Dialogue: 0,0:08:58.40,0:08:58.90,Default,NTP,0000,0000,0000,,因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's because,
+Dialogue: 0,0:08:58.97,0:09:02.24,Default,NTP,0000,0000,0000,,2009年撞击的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the object that hit in 2009 was smaller
+Dialogue: 0,0:09:02.30,0:09:04.71,Default,NTP,0000,0000,0000,,体积小于苏梅克-列维9号彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than comet Shoemaker-Levy 9.
+Dialogue: 0,0:09:04.81,0:09:09.99,Default,NTP,0000,0000,0000,,并且那些运行着的小型个体的数量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there are many, many more small objects flying
+Dialogue: 0,0:09:09.99,0:09:12.58,Default,NTP,0000,0000,0000,,远远多于大型个体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}around there than there are large objects.
+Dialogue: 0,0:09:12.71,0:09:15.67,Default,NTP,0000,0000,0000,,但是不论是关于大型还是小型的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But information about any type of impact,
+Dialogue: 0,0:09:15.67,0:09:16.52,Default,NTP,0000,0000,0000,,撞击信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}large or small,
+Dialogue: 0,0:09:16.58,0:09:18.95,Default,NTP,0000,0000,0000,,总归是有用处的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is always helpful.
+Dialogue: 0,0:09:19.05,0:09:21.83,Default,NTP,0000,0000,0000,,若要了解威胁地球的撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To understand the impact hazard on earth,
+Dialogue: 0,0:09:21.83,0:09:23.22,Default,NTP,0000,0000,0000,,我们必须得了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we need to understand
+Dialogue: 0,0:09:23.26,0:09:26.43,Default,NTP,0000,0000,0000,,小行星的数量与其运行轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the asteroid population, their orbit.
+Dialogue: 0,0:09:26.53,0:09:30.53,Default,NTP,0000,0000,0000,,因此  每一条信息都是至关重要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, every piece of information,
+Dialogue: 0,0:09:30.53,0:09:32.89,Default,NTP,0000,0000,0000,,包括去了解撞击木星的时间跨度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even if it's understanding how often they hit Jupiter
+Dialogue: 0,0:09:32.89,0:09:34.54,Default,NTP,0000,0000,0000,,或者是其他天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or out in the Jupiter region,
+Dialogue: 0,0:09:34.60,0:09:37.44,Default,NTP,0000,0000,0000,,对于我们掌握太阳系小型物体的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}contributes to our understanding of
+Dialogue: 0,0:09:37.44,0:09:38.77,Default,NTP,0000,0000,0000,,整体数量和判断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the overall population of objects in the solar system
+Dialogue: 0,0:09:38.77,0:09:46.31,Default,NTP,0000,0000,0000,,我们对撞击地球的关注度也至关重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and how concerned we need to be about earth impact.
+Dialogue: 0,0:09:46.41,0:09:49.21,Default,NTP,0000,0000,0000,,小行星数量的主要来源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The major source of that population
+Dialogue: 0,0:09:49.21,0:09:52.49,Default,NTP,0000,0000,0000,,是火星和木星之间的小行星带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the main asteroid belt between Mars and Jupiter.
+Dialogue: 0,0:09:52.59,0:09:55.61,Default,NTP,0000,0000,0000,,在此区域内木星的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's where the strong gravitational pull of Jupiter
+Dialogue: 0,0:09:55.61,0:09:58.94,Default,NTP,0000,0000,0000,,阻止了上百万的小型石块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has kept millions of smaller rocks
+Dialogue: 0,0:09:58.94,0:10:00.76,Default,NTP,0000,0000,0000,,形成新的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from becoming another planet.
+Dialogue: 0,0:10:00.80,0:10:03.06,Default,NTP,0000,0000,0000,,但是一切并非到此为止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that's not the whole story.
+Dialogue: 0,0:10:03.06,0:10:05.97,Default,NTP,0000,0000,0000,,那么我们认为小行星就是来自\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we think of asteroids as those things
+Dialogue: 0,0:10:04.97,0:10:08.67,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:10:06.07,0:10:08.94,Default,NTP,0000,0000,0000,,火星和木星之间小行星带的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that just live in the belt between Mars and Jupiter,
+Dialogue: 0,0:10:08.97,0:10:10.97,Default,NTP,0000,0000,0000,,因为它们中的大部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because that's historically where most of them
+Dialogue: 0,0:10:11.07,0:10:12.24,Default,NTP,0000,0000,0000,,最初都在那里被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were found at first.
+Dialogue: 0,0:10:12.34,0:10:15.23,Default,NTP,0000,0000,0000,,但是事实上  有这么一些小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in fact, there are asteroids
+Dialogue: 0,0:10:15.23,0:10:16.68,Default,NTP,0000,0000,0000,,与木星毫并不相干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that travel way out past Jupiter.
+Dialogue: 0,0:10:16.78,0:10:18.98,Default,NTP,0000,0000,0000,,有些与太阳近在咫尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are asteroids that come close to the sun,
+Dialogue: 0,0:10:19.11,0:10:23.78,Default,NTP,0000,0000,0000,,还有些与地球近在咫尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}asteroids that come close to earth.
+Dialogue: 0,0:10:23.79,0:10:28.96,Default,NTP,0000,0000,0000,,最大的一颗便是宽600公里的谷神星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The largest asteroid is 600-mile-wide Ceres,
+Dialogue: 0,0:10:29.02,0:10:32.29,Default,NTP,0000,0000,0000,,相当于从华盛顿到芝加哥的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which would stretch from Washington D.C. to Chicago.
+Dialogue: 0,0:10:32.33,0:10:34.26,Default,NTP,0000,0000,0000,,它大到足以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's so large that it makes up
+Dialogue: 0,0:10:34.26,0:10:38.13,Default,NTP,0000,0000,0000,,占据小行星带的1/3体积\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 1/3 of the total mass in the asteroid belt.
+Dialogue: 0,0:10:38.23,0:10:41.13,Default,NTP,0000,0000,0000,,如若此等物体来袭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An impact from something like that
+Dialogue: 0,0:10:41.13,0:10:42.89,Default,NTP,0000,0000,0000,,对地球上的生物而言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be very bad news
+Dialogue: 0,0:10:42.89,0:10:44.91,Default,NTP,0000,0000,0000,,必是灭顶之灾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for every living creature on earth.
+Dialogue: 0,0:10:45.01,0:10:47.59,Default,NTP,0000,0000,0000,,它的破坏力将是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's about 100 times bigger than
+Dialogue: 0,0:10:47.59,0:10:53.02,Default,NTP,0000,0000,0000,,奇求鲁布陨石撞击的一百倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the impactor that caused the Chicxulub impact,
+Dialogue: 0,0:10:53.52,0:10:57.38,Default,NTP,0000,0000,0000,,而正是此者导致地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which resulted in the extinction of
+Dialogue: 0,0:10:57.38,0:11:02.39,Default,NTP,0000,0000,0000,,70%的物种消失和恐龙灭绝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}70% of the species on earth and dinosaurs.
+Dialogue: 0,0:11:02.92,0:11:05.26,Default,NTP,0000,0000,0000,,因此  乍看之下似乎很糟糕的样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, right off the bat, it seems like a bad thing.
+Dialogue: 0,0:11:05.29,0:11:07.69,Default,NTP,0000,0000,0000,,但是事实上要更加糟糕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's a really, really bad thing.
+Dialogue: 0,0:11:07.80,0:11:10.90,Default,NTP,0000,0000,0000,,它是远糟于圣经故事中的灾难的浩劫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be a disaster far beyond biblical proportions.
+Dialogue: 0,0:11:10.97,0:11:12.42,Default,NTP,0000,0000,0000,,它将会导致\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would create a crater
+Dialogue: 0,0:11:12.42,0:11:15.34,Default,NTP,0000,0000,0000,,一个差不多和美国一样大的坑痕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nearly as big as the United States.
+Dialogue: 0,0:11:15.40,0:11:16.43,Default,NTP,0000,0000,0000,,与此同时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But while it was doing that,
+Dialogue: 0,0:11:16.43,0:11:18.34,Default,NTP,0000,0000,0000,,还会喷发蔓延全球的熔岩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would spew out molten material around the globe,
+Dialogue: 0,0:11:18.44,0:11:22.71,Default,NTP,0000,0000,0000,,和满世界的超音风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}create supersonic winds around the globe.
+Dialogue: 0,0:11:22.78,0:11:24.48,Default,NTP,0000,0000,0000,,不堪入目\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be ugly.
+Dialogue: 0,0:11:26.55,0:11:30.85,Default,NTP,0000,0000,0000,,幸运的是  谷神星围绕着太阳运转稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Luckily, Ceres is in a stable orbit around the sun,
+Dialogue: 0,0:11:30.95,0:11:34.76,Default,NTP,0000,0000,0000,,而大型小行星又很容易定位和跟踪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and large asteroids are easy to spot and track.
+Dialogue: 0,0:11:34.82,0:11:37.67,Default,NTP,0000,0000,0000,,如果一颗宽度大于一公里的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'd probably have decades of warning,
+Dialogue: 0,0:11:37.67,0:11:39.57,Default,NTP,0000,0000,0000,,可能撞击地球的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if an asteroid larger than a mile wide
+Dialogue: 0,0:11:39.57,0:11:41.86,Default,NTP,0000,0000,0000,,我们将有几十年的警告期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}had a chance of hitting earth.
+Dialogue: 0,0:11:41.96,0:11:44.77,Default,NTP,0000,0000,0000,,但是从最近的信息看来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the smaller ones present a tougher challenge,
+Dialogue: 0,0:11:44.87,0:11:48.24,Default,NTP,0000,0000,0000,,小型个体才是更大的挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the latest information shows.
+Dialogue: 0,0:11:48.34,0:11:50.87,Default,NTP,0000,0000,0000,,小型行星的数量远多于大型行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's far more small ones than large ones.
+Dialogue: 0,0:11:50.97,0:11:52.76,Default,NTP,0000,0000,0000,,因此  假若要列举\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, if you say the objects that are
+Dialogue: 0,0:11:52.77,0:11:56.56,Default,NTP,0000,0000,0000,,直径大于等于一千米或者六七百米的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one kilometer or 2/3 of a mile in diameter or larger,
+Dialogue: 0,0:11:56.67,0:11:58.61,Default,NTP,0000,0000,0000,,我们认为大概有940个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we think there's about940 of those,
+Dialogue: 0,0:11:58.68,0:12:01.75,Default,NTP,0000,0000,0000,,并且已经发现了其中的86%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we've discovered 86% of the population.
+Dialogue: 0,0:12:01.88,0:12:03.60,Default,NTP,0000,0000,0000,,若把视线转向较小的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you move to smaller objects,
+Dialogue: 0,0:12:03.60,0:12:05.59,Default,NTP,0000,0000,0000,,比如说是直径100米以上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}say 100 meters and larger,
+Dialogue: 0,0:12:05.62,0:12:07.78,Default,NTP,0000,0000,0000,,我们认为大概有五万个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we think there's about 50,000 of those
+Dialogue: 0,0:12:07.79,0:12:10.32,Default,NTP,0000,0000,0000,,并且已经发现其中的10%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we've discovered 10%.
+Dialogue: 0,0:12:10.43,0:12:13.23,Default,NTP,0000,0000,0000,,若看更小的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if you move to smaller still objects,
+Dialogue: 0,0:12:13.23,0:12:15.73,Default,NTP,0000,0000,0000,,30米左右的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}30 meter and larger-sized objects,
+Dialogue: 0,0:12:15.73,0:12:18.80,Default,NTP,0000,0000,0000,,我们认为大概有两百万个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we think there's about two million of those objects
+Dialogue: 0,0:12:18.80,0:12:21.17,Default,NTP,0000,0000,0000,,而我们已经发现的还不到1%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we've discovered much less than 1%.
+Dialogue: 0,0:12:23.24,0:12:26.24,Default,NTP,0000,0000,0000,,未来十年会出现更好的望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Better telescopes coming online over the next decade
+Dialogue: 0,0:12:26.31,0:12:28.81,Default,NTP,0000,0000,0000,,将为天文学家发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will allow astronomers to identify
+Dialogue: 0,0:12:28.81,0:12:32.88,Default,NTP,0000,0000,0000,,更多的小行星提供可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}many more asteroids of all sizes.
+Dialogue: 0,0:12:32.95,0:12:35.72,Default,NTP,0000,0000,0000,,但是一颗宽为30米或者100英尺的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But a 30 meter or 100-foot-wide asteroid on
+Dialogue: 0,0:12:35.82,0:12:39.42,Default,NTP,0000,0000,0000,,可能在临近撞击地球之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a collision course with earth might not be discovered
+Dialogue: 0,0:12:39.45,0:12:42.36,Default,NTP,0000,0000,0000,,才会被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until just before it hits.
+Dialogue: 0,0:12:42.46,0:12:46.08,Default,NTP,0000,0000,0000,,尽管尺寸不大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Something that size
+Dialogue: 0,0:12:46.08,0:12:48.16,Default,NTP,0000,0000,0000,,却仍可能是致命一击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could still pack a devastating punch.
+Dialogue: 0,0:12:59.47,0:13:02.57,Default,NTP,0000,0000,0000,,地球上布满了过去小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The earth is covered with evidence of past collisions
+Dialogue: 0,0:13:02.67,0:13:04.51,Default,NTP,0000,0000,0000,,撞击的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with asteroids.
+Dialogue: 0,0:13:05.94,0:13:09.79,Default,NTP,0000,0000,0000,,如今科学家们废寝忘食的工作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And today's scientists are working feverishly
+Dialogue: 0,0:13:09.79,0:13:12.82,Default,NTP,0000,0000,0000,,希望能预测出将来的发展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to figure out what's coming next.
+Dialogue: 0,0:13:12.92,0:13:17.54,Default,NTP,0000,0000,0000,,他们知道过去无数的太空来客\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They know that enormous space rocks have wiped out
+Dialogue: 0,0:13:17.54,0:13:19.83,Default,NTP,0000,0000,0000,,已经洗劫了地球的大部分生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most life on the planet in the past.
+Dialogue: 0,0:13:21.83,0:13:24.40,Default,NTP,0000,0000,0000,,好消息是它们来得并不频繁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The good news is that they don't hit very often.
+Dialogue: 0,0:13:23.33,0:13:27.93,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N行星协会
+Dialogue: 0,0:13:24.50,0:13:25.85,Default,NTP,0000,0000,0000,,百万甚至数千百万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's measured in many millions
+Dialogue: 0,0:13:25.85,0:13:26.93,Default,NTP,0000,0000,0000,,才会来袭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or tens of millions of years.
+Dialogue: 0,0:13:26.97,0:13:29.57,Default,NTP,0000,0000,0000,,而且它们的大块头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they're big enough that through our observations
+Dialogue: 0,0:13:29.60,0:13:31.57,Default,NTP,0000,0000,0000,,足以让我们通过观察来定位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we know where those objects are.
+Dialogue: 0,0:13:31.60,0:13:35.54,Default,NTP,0000,0000,0000,,所以  我们有很久的准备和警戒时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, we'd have long, long lead time and warning.
+Dialogue: 0,0:13:35.54,0:13:36.69,Default,NTP,0000,0000,0000,,事实上更大的威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's actually the smaller ones
+Dialogue: 0,0:13:36.69,0:13:38.54,Default,NTP,0000,0000,0000,,是小型行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are the bigger risk,
+Dialogue: 0,0:13:38.61,0:13:42.01,Default,NTP,0000,0000,0000,,因为其频率更高而且不易于发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as they happen more often and they're harder to find.
+Dialogue: 0,0:13:42.88,0:13:45.15,Default,NTP,0000,0000,0000,,想像一下其中一颗小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine that one of these smaller asteroids
+Dialogue: 0,0:13:45.18,0:13:47.35,Default,NTP,0000,0000,0000,,正向城市俯冲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is streaking toward a city.
+Dialogue: 0,0:13:48.45,0:13:51.18,Default,NTP,0000,0000,0000,,而直到迫在眉睫的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It may not be spotted
+Dialogue: 0,0:13:51.18,0:13:52.82,Default,NTP,0000,0000,0000,,人们才发觉它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until just a few hours before impact,
+Dialogue: 0,0:13:52.89,0:13:55.01,Default,NTP,0000,0000,0000,,来不及疏散人群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leaving little time for evacuation
+Dialogue: 0,0:13:55.01,0:14:01.33,Default,NTP,0000,0000,0000,,更没有机会将它扼杀在宇宙中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and no chance to try and deflect it in space.
+Dialogue: 0,0:14:01.37,0:14:04.17,Default,NTP,0000,0000,0000,,假设撞击宽度为100英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it's about 100 feet wide on impact,
+Dialogue: 0,0:14:04.20,0:14:05.67,Default,NTP,0000,0000,0000,,那将产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then it will hit with the energy of
+Dialogue: 0,0:14:05.67,0:14:09.37,Default,NTP,0000,0000,0000,,五百万吨核爆炸的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a five megaton nuclear blast,
+Dialogue: 0,0:14:09.47,0:14:12.48,Default,NTP,0000,0000,0000,,是当年在长岛爆炸的原子弹能量的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}400 times more powerful than the atomic bomb
+Dialogue: 0,0:14:12.54,0:14:16.01,Default,NTP,0000,0000,0000,,四百倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dropped on Hiroshima.
+Dialogue: 0,0:14:17.02,0:14:19.92,Default,NTP,0000,0000,0000,,撞击地球的时候  将会带来极大的破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it hits the earth, it can cause a lot of damage,
+Dialogue: 0,0:14:20.02,0:14:21.92,Default,NTP,0000,0000,0000,,因为由此产生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the crater that's produced is
+Dialogue: 0,0:14:21.92,0:14:23.82,Default,NTP,0000,0000,0000,,陨石坑大小往往是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}typically 10 or 20 times
+Dialogue: 0,0:14:20.62,0:14:23.62,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:14:23.92,0:14:26.46,Default,NTP,0000,0000,0000,,撞击物体宽度的10到20倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the width of the incoming object.
+Dialogue: 0,0:14:26.56,0:14:29.20,Default,NTP,0000,0000,0000,,因此陨石坑将达到几千英尺直径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, that would be a thousand or a few thousand feet.
+Dialogue: 0,0:14:29.30,0:14:32.90,Default,NTP,0000,0000,0000,,并且周圈的大片地域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And many miles surrounding the impact region
+Dialogue: 0,0:14:33.00,0:14:36.83,Default,NTP,0000,0000,0000,,也会受到喷射出来的碎片的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are affected by all the debris that gets ejected.
+Dialogue: 0,0:14:36.94,0:14:39.81,Default,NTP,0000,0000,0000,,这些东西将倾盆落在你身上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'd have all this stuff raining down upon you.
+Dialogue: 0,0:14:44.71,0:14:46.11,Default,NTP,0000,0000,0000,,然而  即使小行星的撞击地点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even if the asteroid hit
+Dialogue: 0,0:14:46.11,0:14:50.55,Default,NTP,0000,0000,0000,,是在城市的几百公里之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hundreds of miles from the city,
+Dialogue: 0,0:14:50.58,0:14:52.27,Default,NTP,0000,0000,0000,,仍然会把那里人们的生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could still create chaos
+Dialogue: 0,0:14:54.27,0:14:56.12,Default,NTP,0000,0000,0000,,搞得糟糕不堪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the millions of people living there.
+Dialogue: 0,0:14:56.22,0:14:58.12,Default,NTP,0000,0000,0000,,如果小行星撞击的是大型农业区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The food supply for the city residents
+Dialogue: 0,0:14:58.22,0:15:01.36,Default,NTP,0000,0000,0000,,那么居民食品供应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could be drastically altered
+Dialogue: 0,0:15:01.36,0:15:04.73,Default,NTP,0000,0000,0000,,将会极度短缺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if the asteroid hit a major agricultural area nearby.
+Dialogue: 0,0:15:06.77,0:15:08.59,Default,NTP,0000,0000,0000,,不仅仅是人类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not only would all of the humans
+Dialogue: 0,0:15:08.59,0:15:10.73,Default,NTP,0000,0000,0000,,面临死亡的威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there be very likely dead,
+Dialogue: 0,0:15:10.77,0:15:13.00,Default,NTP,0000,0000,0000,,但是这能够烧焦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it would sear
+Dialogue: 0,0:15:13.00,0:15:15.87,Default,NTP,0000,0000,0000,,数百平方英里的植被\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hundreds of square miles of the growing lands.
+Dialogue: 0,0:15:15.94,0:15:17.41,Default,NTP,0000,0000,0000,,它能摧毁所有种植的庄稼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would destroy all the current crops
+Dialogue: 0,0:15:17.48,0:15:18.88,Default,NTP,0000,0000,0000,,并且导致大面积的土地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would render
+Dialogue: 0,0:15:18.88,0:15:22.92,Default,NTP,0000,0000,0000,,在很长一段时间内成为废地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the area pretty unusable for quite a period of time.
+Dialogue: 0,0:15:24.95,0:15:26.43,Default,NTP,0000,0000,0000,,而一些体积更小的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And smaller asteroids
+Dialogue: 0,0:15:26.43,0:15:27.92,Default,NTP,0000,0000,0000,,甚至根本不用撞击地面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}don't even need to impact the ground
+Dialogue: 0,0:15:27.95,0:15:30.46,Default,NTP,0000,0000,0000,,就能造成大面积的破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to cause widespread destruction.
+Dialogue: 0,0:15:31.76,0:15:33.65,Default,NTP,0000,0000,0000,,1908年  在西伯利亚通古斯卡河附近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1908, an air burst
+Dialogue: 0,0:15:33.65,0:15:37.55,Default,NTP,0000,0000,0000,,由于一颗小行星在大气层中爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from an asteroid that broke apart in the atmosphere,
+Dialogue: 0,0:15:37.55,0:15:39.13,Default,NTP,0000,0000,0000,,从而导致了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leveled an estimated 80 million trees
+Dialogue: 0,0:15:39.13,0:15:41.48,Default,NTP,0000,0000,0000,,数百平方英里内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over hundreds of square miles,
+Dialogue: 0,0:15:41.48,0:15:45.61,Default,NTP,0000,0000,0000,,八千万棵树木的死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}near the Tunguska river in Siberia.
+Dialogue: 0,0:15:48.67,0:15:51.61,Default,NTP,0000,0000,0000,,当一颗小行星或是彗星袭击地球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When an asteroid or a comet is coming toward the earth,
+Dialogue: 0,0:15:51.71,0:15:53.77,Default,NTP,0000,0000,0000,,首先碰到的是大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it first encounters the atmosphere
+Dialogue: 0,0:15:53.77,0:15:54.88,Default,NTP,0000,0000,0000,,大气层会挤压它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it squeezes it,
+Dialogue: 0,0:15:54.98,0:15:58.85,Default,NTP,0000,0000,0000,,强烈的压缩所产生的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it compresses it, and that pressure
+Dialogue: 0,0:15:58.85,0:16:00.68,Default,NTP,0000,0000,0000,,会使得小行星或者彗星发生爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}causes the asteroid or comet to explode.
+Dialogue: 0,0:16:00.79,0:16:02.70,Default,NTP,0000,0000,0000,,如此的爆炸会将其\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That explosion then spreads the energy
+Dialogue: 0,0:16:02.70,0:16:04.62,Default,NTP,0000,0000,0000,,所带来的能量释放到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over a vast region
+Dialogue: 0,0:16:04.76,0:16:06.42,Default,NTP,0000,0000,0000,,位于大气层之下的很大一片区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the ground below it.
+Dialogue: 0,0:16:06.52,0:16:09.80,Default,NTP,0000,0000,0000,,所以在大气层中的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, these atmospheric air bursts
+Dialogue: 0,0:16:09.80,0:16:13.33,Default,NTP,0000,0000,0000,,爆炸也非常的危险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are very dangerous as well.
+Dialogue: 0,0:16:14.43,0:16:17.90,Default,NTP,0000,0000,0000,,但是陨石所产生的破坏性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the rock that caused all of that destruction
+Dialogue: 0,0:16:17.97,0:16:21.94,Default,NTP,0000,0000,0000,,或许要比我们开始想象的那样小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may have been even smaller than first thought.
+Dialogue: 0,0:16:22.54,0:16:23.94,Default,NTP,0000,0000,0000,,当它撞击大气层时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it hit the atmosphere,
+Dialogue: 0,0:16:23.94,0:16:25.78,Default,NTP,0000,0000,0000,,若是把通古斯卡看做一个物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Tunguska object
+Dialogue: 0,0:16:25.81,0:16:28.61,Default,NTP,0000,0000,0000,,那么这个物体或许仅仅只有几十码宽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may have been only a few dozens of yards across,
+Dialogue: 0,0:16:28.71,0:16:32.50,Default,NTP,0000,0000,0000,,而不是像起初估计的那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}instead of hundreds of yards,
+Dialogue: 0,0:16:32.50,0:16:34.52,Default,NTP,0000,0000,0000,,有数百码宽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as originally estimated.
+Dialogue: 0,0:16:34.62,0:16:37.25,Default,NTP,0000,0000,0000,,在一开始  这看起来是件好事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At first, it may seem like a good thing,
+Dialogue: 0,0:16:37.36,0:16:38.46,Default,NTP,0000,0000,0000,,因为通古斯卡远比我们想象的要小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tunguska smaller than we thought.
+Dialogue: 0,0:16:38.52,0:16:39.61,Default,NTP,0000,0000,0000,,但事实上这对于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's actually a bad thing
+Dialogue: 0,0:16:39.61,0:16:41.33,Default,NTP,0000,0000,0000,,我们日后的预测是件坏事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for our future predictions,
+Dialogue: 0,0:16:41.36,0:16:42.99,Default,NTP,0000,0000,0000,,因为小型小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because there are more smaller objects
+Dialogue: 0,0:16:42.99,0:16:44.63,Default,NTP,0000,0000,0000,,比大型小行星要多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than larger ones.
+Dialogue: 0,0:16:44.73,0:16:46.23,Default,NTP,0000,0000,0000,,所以如果一个小的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if a small object
+Dialogue: 0,0:16:46.23,0:16:48.04,Default,NTP,0000,0000,0000,,就能产生如此大的破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can cause that much damage,
+Dialogue: 0,0:16:48.04,0:16:48.80,Default,NTP,0000,0000,0000,,那么意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then that means
+Dialogue: 0,0:16:48.90,0:16:50.84,Default,NTP,0000,0000,0000,,大型天体撞击的频率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's going to happen more often than
+Dialogue: 0,0:16:50.84,0:16:53.17,Default,NTP,0000,0000,0000,,比原先想象的要更快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if it were a big object.
+Dialogue: 0,0:16:53.24,0:16:54.94,Default,NTP,0000,0000,0000,,我们或许每几百年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We may have that impactor
+Dialogue: 0,0:16:54.94,0:16:56.27,Default,NTP,0000,0000,0000,,就会受到次撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every very few hundred years,
+Dialogue: 0,0:16:56.37,0:16:58.35,Default,NTP,0000,0000,0000,,而不是几千年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}instead of every few thousand years.
+Dialogue: 0,0:17:03.82,0:17:05.40,Default,NTP,0000,0000,0000,,体积小于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the really small end of the scale,
+Dialogue: 0,0:17:05.41,0:17:08.19,Default,NTP,0000,0000,0000,,一百英尺的小型太空石块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}below about 100 feet,
+Dialogue: 0,0:17:08.25,0:17:11.28,Default,NTP,0000,0000,0000,,通常被称为流星体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}space rocks are often known as meteoroids
+Dialogue: 0,0:17:11.28,0:17:13.56,Default,NTP,0000,0000,0000,,而不是小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}instead of asteroids.
+Dialogue: 0,0:17:13.66,0:17:15.73,Default,NTP,0000,0000,0000,,流星雨就是由于流星体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Shooting stars are caused by meteoroids
+Dialogue: 0,0:17:15.83,0:17:18.63,Default,NTP,0000,0000,0000,,在大气层中燃烧形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}burning up in the atmosphere.
+Dialogue: 0,0:17:18.73,0:17:21.67,Default,NTP,0000,0000,0000,,流星雨不时的会被业余相机捕捉到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're sometimes captured by amateur cameras,
+Dialogue: 0,0:17:21.73,0:17:23.90,Default,NTP,0000,0000,0000,,伴随着一些小石块撞击到地面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with some small chunks hitting the ground
+Dialogue: 0,0:17:24.00,0:17:27.20,Default,NTP,0000,0000,0000,,或是汽车和建筑物上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or even cars or buildings.
+Dialogue: 0,0:17:27.27,0:17:29.18,Default,NTP,0000,0000,0000,,事实上  地球的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, the earth's atmosphere is
+Dialogue: 0,0:17:29.18,0:17:32.78,Default,NTP,0000,0000,0000,,受到外太空物体撞击的频繁度远远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pelted with objects from outer space far more often
+Dialogue: 0,0:17:32.78,0:17:35.38,Default,NTP,0000,0000,0000,,超过人们的了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than most people realize.
+Dialogue: 0,0:17:40.75,0:17:43.23,Default,NTP,0000,0000,0000,,我现在来到这个工作当中的采石场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm here at this active rock quarry,
+Dialogue: 0,0:17:43.23,0:17:44.55,Default,NTP,0000,0000,0000,,在这巨大的碎石堆旁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}next to this big pile
+Dialogue: 0,0:17:44.62,0:17:47.16,Default,NTP,0000,0000,0000,,因为这就是冲撞地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of crushed rock, because this is about
+Dialogue: 0,0:17:47.16,0:17:48.43,Default,NTP,0000,0000,0000,,物体的总量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the amount of stuff,
+Dialogue: 0,0:17:48.56,0:17:50.76,Default,NTP,0000,0000,0000,,包括灰尘  沙  石子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the amount of dust and sand and pebbles
+Dialogue: 0,0:17:50.83,0:17:54.16,Default,NTP,0000,0000,0000,,它们每天都在撞击着地球的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that hit the earth's atmosphere every day,
+Dialogue: 0,0:17:54.16,0:17:55.73,Default,NTP,0000,0000,0000,,大约有一百吨之多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 100 tons.
+Dialogue: 0,0:17:55.77,0:17:57.92,Default,NTP,0000,0000,0000,,这足够装满\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's enough to fill about
+Dialogue: 0,0:17:57.92,0:18:00.37,Default,NTP,0000,0000,0000,,六至七辆自卸卡车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}six or seven of these dump trucks.
+Dialogue: 0,0:18:01.41,0:18:04.37,Default,NTP,0000,0000,0000,,这儿  有个篮球大小的石头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, down here, we've got a basketball-sized rock.
+Dialogue: 0,0:18:04.41,0:18:07.21,Default,NTP,0000,0000,0000,,平均每天有两个这样大小的石头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On average, about two of these
+Dialogue: 0,0:18:07.21,0:18:09.41,Default,NTP,0000,0000,0000,,猛烈撞击着地球的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}slam into the earth's atmosphere every single day.
+Dialogue: 0,0:18:09.48,0:18:14.52,Default,NTP,0000,0000,0000,,接下来是小汽车大小的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Next is the small car-sized object.
+Dialogue: 0,0:18:19.29,0:18:22.86,Default,NTP,0000,0000,0000,,想象一下一个有这堆石头大小的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine this pile of rocks as one object slamming
+Dialogue: 0,0:18:22.96,0:18:25.01,Default,NTP,0000,0000,0000,,猛烈撞击到地球的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into the earth's atmosphere,
+Dialogue: 0,0:18:25.01,0:18:26.60,Default,NTP,0000,0000,0000,,物体和一辆小汽车的大小一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about the size of a small car.
+Dialogue: 0,0:18:26.66,0:18:28.93,Default,NTP,0000,0000,0000,,这样的撞击每两个星期就发生一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This happens about once every two weeks.
+Dialogue: 0,0:18:28.97,0:18:31.20,Default,NTP,0000,0000,0000,,但是即使是这样庞大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even something this big is
+Dialogue: 0,0:18:31.20,0:18:32.77,Default,NTP,0000,0000,0000,,物体也将在到达\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}probably gonna burn up completely
+Dialogue: 0,0:18:32.84,0:18:35.44,Default,NTP,0000,0000,0000,,地球表面之前被完全燃尽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before reaching the earth's surface.
+Dialogue: 0,0:18:36.94,0:18:37.90,Default,NTP,0000,0000,0000,,对于一个典型的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For a typical object
+Dialogue: 0,0:18:37.90,0:18:39.41,Default,NTP,0000,0000,0000,,物体撞击地球大气层来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hitting the earth's atmosphere,
+Dialogue: 0,0:18:39.51,0:18:42.25,Default,NTP,0000,0000,0000,,这个物体的直径至少要在一百英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it needs to be at least 100 feet in diameter
+Dialogue: 0,0:18:42.31,0:18:45.42,Default,NTP,0000,0000,0000,,才能够对地球表面造成严重的破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to actually do serious damage to the surface.
+Dialogue: 0,0:18:45.52,0:18:47.78,Default,NTP,0000,0000,0000,,然而直径为一百英尺的石头非常巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, 100 feet is a really big rock.
+Dialogue: 0,0:18:47.89,0:18:49.55,Default,NTP,0000,0000,0000,,这段距离大约是从\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's like going from the front of
+Dialogue: 0,0:18:49.55,0:18:51.22,Default,NTP,0000,0000,0000,,卡车的前端一直到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the dump truck over there
+Dialogue: 0,0:18:51.32,0:18:55.53,Default,NTP,0000,0000,0000,,那边的橘色交通锥的长度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the way to that orange cone over there.
+Dialogue: 0,0:18:58.60,0:19:01.13,Default,NTP,0000,0000,0000,,在这幅光谱图的另一末端处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the other end of the spectrum is earth's largest
+Dialogue: 0,0:19:01.17,0:19:03.47,Default,NTP,0000,0000,0000,,是地球最大的一个陨石坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}confirmed impact crater,
+Dialogue: 0,0:19:03.47,0:19:06.34,Default,NTP,0000,0000,0000,,陨石坑位于南非的弗里德堡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}located in Vredefort, South Africa.
+Dialogue: 0,0:19:06.44,0:19:09.34,Default,NTP,0000,0000,0000,,陨石坑可延伸长达一百八十多英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It stretches more than 180 miles across,
+Dialogue: 0,0:19:09.34,0:19:12.23,Default,NTP,0000,0000,0000,,二十亿年前的撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and drastically changed the ancient earth,
+Dialogue: 0,0:19:12.23,0:19:15.18,Default,NTP,0000,0000,0000,,使地球发生了巨变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it hit about two billion years ago.
+Dialogue: 0,0:19:17.98,0:19:20.52,Default,NTP,0000,0000,0000,,这会将物质又反送回太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would have sent a sheet of material into space,
+Dialogue: 0,0:19:20.62,0:19:22.12,Default,NTP,0000,0000,0000,,而这物质将再返地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which would then have come back
+Dialogue: 0,0:19:22.12,0:19:23.62,Default,NTP,0000,0000,0000,,并对地球产生影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and impacted on the earth,
+Dialogue: 0,0:19:23.72,0:19:26.36,Default,NTP,0000,0000,0000,,比如点燃任何可燃物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ignited fires if there was anything to burn.
+Dialogue: 0,0:19:26.49,0:19:28.53,Default,NTP,0000,0000,0000,,并且气候效应也会受到影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the climactic effects from that impact
+Dialogue: 0,0:19:28.63,0:19:30.33,Default,NTP,0000,0000,0000,,而且有可能持续数十年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have lasted for decades.
+Dialogue: 0,0:19:30.36,0:19:32.53,Default,NTP,0000,0000,0000,,海洋可能会被完全酸化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The oceans would have been completely acidified.
+Dialogue: 0,0:19:32.63,0:19:34.36,Default,NTP,0000,0000,0000,,将会有成千上万吨的浓烟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There would have been tons and tons of soot
+Dialogue: 0,0:19:34.50,0:19:35.37,Default,NTP,0000,0000,0000,,上升至大气层中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}up in the atmosphere.
+Dialogue: 0,0:19:35.43,0:19:36.90,Default,NTP,0000,0000,0000,,这也是我们非常\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so that is something that we really
+Dialogue: 0,0:19:37.00,0:19:39.34,Default,NTP,0000,0000,0000,,不愿意见到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would not want to see happen.
+Dialogue: 0,0:19:42.34,0:19:44.44,Default,NTP,0000,0000,0000,,在地球处于原始生物时代时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For the primitive life on earth at the time,
+Dialogue: 0,0:19:44.71,0:19:47.43,Default,NTP,0000,0000,0000,,由于地球受到撞击导致大多物种灭绝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was a major extinction event,
+Dialogue: 0,0:19:47.43,0:19:50.29,Default,NTP,0000,0000,0000,,撞击中出现的陨石坑的大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a crater more than 1 1/2 times larger than
+Dialogue: 0,0:19:50.29,0:19:53.35,Default,NTP,0000,0000,0000,,是使恐龙灭绝的陨石坑的一点五倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the one that wiped out the dinosaurs.
+Dialogue: 0,0:19:55.45,0:19:57.84,Default,NTP,0000,0000,0000,,南非陨石坑直到二十世纪九十年代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The South African crater wasn't discovered
+Dialogue: 0,0:19:57.84,0:19:59.69,Default,NTP,0000,0000,0000,,才被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until the 1990s,
+Dialogue: 0,0:19:59.72,0:20:01.92,Default,NTP,0000,0000,0000,,在过去的二十亿年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since most of its features had eroded
+Dialogue: 0,0:20:01.92,0:20:05.36,Default,NTP,0000,0000,0000,,陨石坑的面貌大部分都被侵蚀了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the last two billion years.
+Dialogue: 0,0:20:05.46,0:20:09.37,Default,NTP,0000,0000,0000,,但是太空中所拍的照片揭示了它的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But photos from space revealed its existence.
+Dialogue: 0,0:20:11.44,0:20:14.10,Default,NTP,0000,0000,0000,,在陨石坑中央突起的山丘在最初\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A hilly region in the center of the deep crater initially
+Dialogue: 0,0:20:14.17,0:20:16.01,Default,NTP,0000,0000,0000,,被科学家认为是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}had scientists thinking that there'd been
+Dialogue: 0,0:20:16.07,0:20:19.48,Default,NTP,0000,0000,0000,,火山活动区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}volcanic activity in the area.
+Dialogue: 0,0:20:19.54,0:20:19.99,Default,NTP,0000,0000,0000,,事实上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's actually
+Dialogue: 0,0:20:19.99,0:20:23.61,Default,NTP,0000,0000,0000,,这被称作中央反弹峰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what's known as a central rebound peak,
+Dialogue: 0,0:20:23.71,0:20:26.49,Default,NTP,0000,0000,0000,,其主要特征是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a distinctive feature for craters
+Dialogue: 0,0:20:26.49,0:20:28.35,Default,NTP,0000,0000,0000,,宽度为一百英里以上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 100 miles wide or larger.
+Dialogue: 0,0:20:30.39,0:20:33.60,Default,NTP,0000,0000,0000,,正如你接到一个从高空坠落下来的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As you get to larger sizes,
+Dialogue: 0,0:20:33.60,0:20:35.56,Default,NTP,0000,0000,0000,,大体积的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the energy of the impactor is so high,
+Dialogue: 0,0:20:35.56,0:20:37.03,Default,NTP,0000,0000,0000,,当它到达之时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that when it comes in,
+Dialogue: 0,0:20:37.04,0:20:40.90,Default,NTP,0000,0000,0000,,事实上石头本身是没有力度可言的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the rock essentially acts like it has no strength.
+Dialogue: 0,0:20:40.93,0:20:42.90,Default,NTP,0000,0000,0000,,而你所得到的是譬如\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then what you get is something very much like
+Dialogue: 0,0:20:42.93,0:20:44.66,Default,NTP,0000,0000,0000,,当你把石子扔进水中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when you drop a pebble in water,
+Dialogue: 0,0:20:44.66,0:20:46.40,Default,NTP,0000,0000,0000,,你会看到四周扩散的波纹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you see that rebound peak
+Dialogue: 0,0:20:46.47,0:20:48.39,Default,NTP,0000,0000,0000,,当水重新填补之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the water fills in,
+Dialogue: 0,0:20:48.39,0:20:49.74,Default,NTP,0000,0000,0000,,水面又恢复平静\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes back up.
+Dialogue: 0,0:20:49.81,0:20:51.11,Default,NTP,0000,0000,0000,,但是这是岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But since it is rock,
+Dialogue: 0,0:20:51.11,0:20:52.58,Default,NTP,0000,0000,0000,,产生波纹时的状态凝固了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it then solidifies.
+Dialogue: 0,0:20:52.68,0:20:54.53,Default,NTP,0000,0000,0000,,我们将会在月球或者太阳系的其他地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we see lots of these central peaks
+Dialogue: 0,0:20:54.53,0:20:57.28,Default,NTP,0000,0000,0000,,看到很多这样的中央峰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the moon and elsewhere in the solar system.
+Dialogue: 0,0:20:59.38,0:21:01.49,Default,NTP,0000,0000,0000,,很多大型小行星撞击过地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there are other large asteroids that have hit
+Dialogue: 0,0:21:01.59,0:21:04.71,Default,NTP,0000,0000,0000,,甚至比六千五百万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much more recently, even more recently than
+Dialogue: 0,0:21:04.71,0:21:08.23,Default,NTP,0000,0000,0000,,那颗将恐龙灭绝的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the dinosaur-killing asteroid from
+Dialogue: 0,0:21:08.23,0:21:11.36,Default,NTP,0000,0000,0000,,小行星撞击还要近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}65 million years ago.
+Dialogue: 0,0:21:13.56,0:21:15.03,Default,NTP,0000,0000,0000,,三千万年之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}30 million years later,
+Dialogue: 0,0:21:15.03,0:21:16.93,Default,NTP,0000,0000,0000,,另一颗大型小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}another massive asteroid
+Dialogue: 0,0:21:17.00,0:21:20.59,Default,NTP,0000,0000,0000,,撞击到美国东海岸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pummeled the east coast of America,
+Dialogue: 0,0:21:20.59,0:21:25.01,Default,NTP,0000,0000,0000,,也因此  形成了现在的切萨皮克湾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and helped form, what is now Chesapeake bay.
+Dialogue: 0,0:21:25.01,0:21:27.78,Default,NTP,0000,0000,0000,,我们可以看到在整个东海岸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see evidence of debris from that impact
+Dialogue: 0,0:21:27.88,0:21:29.75,Default,NTP,0000,0000,0000,,都还有那次撞击残留下来的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the way up and down the eastern seaboard.
+Dialogue: 0,0:21:29.78,0:21:33.05,Default,NTP,0000,0000,0000,,一路沿着新泽西和纽约\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the way up to new Jersey and New York,
+Dialogue: 0,0:21:33.05,0:21:37.69,Default,NTP,0000,0000,0000,,一直到最南端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and comparable on the south end of it.
+Dialogue: 0,0:21:37.69,0:21:40.13,Default,NTP,0000,0000,0000,,一个宽达五十五英里的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The 55-mile-wide crater was
+Dialogue: 0,0:21:40.13,0:21:42.33,Default,NTP,0000,0000,0000,,陨石坑深藏在了水下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hidden from view underwater,
+Dialogue: 0,0:21:42.43,0:21:44.58,Default,NTP,0000,0000,0000,,直到上世纪九十年代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until oil exploration confirmed
+Dialogue: 0,0:21:44.58,0:21:47.93,Default,NTP,0000,0000,0000,,在勘探石油的时候才被证实存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its existence in the 1990s.
+Dialogue: 0,0:21:47.97,0:21:50.93,Default,NTP,0000,0000,0000,,若小行星撞击离岸不远的海域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And since the asteroid hit just offshore,
+Dialogue: 0,0:21:50.97,0:21:54.77,Default,NTP,0000,0000,0000,,这将引发巨大的海啸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it created a massive Tsunami.
+Dialogue: 0,0:21:54.87,0:21:57.47,Default,NTP,0000,0000,0000,,一些人觉得这些海浪可能高达\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some say that the waves could have been
+Dialogue: 0,0:21:57.47,0:21:59.68,Default,NTP,0000,0000,0000,,十或者二十甚至三十英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}10, 20, maybe even 30 miles high.
+Dialogue: 0,0:21:59.78,0:22:01.95,Default,NTP,0000,0000,0000,,这是非常巨大的海浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's a big wave.
+Dialogue: 0,0:22:01.98,0:22:04.52,Default,NTP,0000,0000,0000,,阿巴拉契亚山脉也就只有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Appalachian mountains are
+Dialogue: 0,0:22:04.52,0:22:06.15,Default,NTP,0000,0000,0000,,几千英尺高而已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only a few thousand feet high.
+Dialogue: 0,0:22:06.22,0:22:08.68,Default,NTP,0000,0000,0000,,所以尽管水浪在涌入内陆时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So even though a lot of the wave was diminished
+Dialogue: 0,0:22:08.68,0:22:11.52,Default,NTP,0000,0000,0000,,水量已经减少了  但仍不可小视\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it went inland, that's a lot of water.
+Dialogue: 0,0:22:11.62,0:22:13.89,Default,NTP,0000,0000,0000,,这些水能够越过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it could well have flooded over
+Dialogue: 0,0:22:13.89,0:22:16.16,Default,NTP,0000,0000,0000,,阿巴拉契亚山脉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Appalachians and into
+Dialogue: 0,0:22:16.23,0:22:19.33,Default,NTP,0000,0000,0000,,然后进入俄亥俄河谷地区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what we now think of as the Ohio river valley.
+Dialogue: 0,0:22:22.37,0:22:25.47,Default,NTP,0000,0000,0000,,如果那样的撞击发生在今天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if that same impact happened today,
+Dialogue: 0,0:22:25.47,0:22:29.35,Default,NTP,0000,0000,0000,,那么东海岸将从此改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the east coast would never be the same again.
+Dialogue: 0,0:22:32.00,0:22:33.89,Default,NTP,0000,0000,0000,,一颗小行星撞击所产生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An asteroid attack has
+Dialogue: 0,0:22:33.89,0:22:35.27,Default,NTP,0000,0000,0000,,力量足以瞬间结束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the power to instantly kill
+Dialogue: 0,0:22:35.40,0:22:38.34,Default,NTP,0000,0000,0000,,数百万人的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}millions of people.
+Dialogue: 0,0:22:40.44,0:22:45.55,Default,NTP,0000,0000,0000,,最强的冲击波还能造成全球性的大灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The largest impacts can also cause global catastrophes,
+Dialogue: 0,0:22:45.61,0:22:50.42,Default,NTP,0000,0000,0000,,危机人类的生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}threatening the very existence of mankind.
+Dialogue: 0,0:22:50.45,0:22:53.52,Default,NTP,0000,0000,0000,,那就是为什么小行星的研究是科学家们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's why the study of asteroids is one of science's
+Dialogue: 0,0:22:53.62,0:22:58.29,Default,NTP,0000,0000,0000,,最优先的课题之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}highest priorities.
+Dialogue: 0,0:22:58.39,0:23:01.70,Default,NTP,0000,0000,0000,,三千五百万年前  一个巨大的小行星撞击了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}35 million years ago, an enormous asteroid slammed
+Dialogue: 0,0:23:01.80,0:23:05.44,Default,NTP,0000,0000,0000,,美国的东海岸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into America's east coast.
+Dialogue: 0,0:23:08.04,0:23:12.14,Default,NTP,0000,0000,0000,,五十五英里宽的陨石坑直到不久前才\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The 55-mile-wide crater was hidden until recently,
+Dialogue: 0,0:23:12.24,0:23:14.71,Default,NTP,0000,0000,0000,,在切萨皮克湾的水底被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}under Chesapeake bay.
+Dialogue: 0,0:23:14.78,0:23:19.51,Default,NTP,0000,0000,0000,,撞击的结果是毁灭性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its effects were devastating.
+Dialogue: 0,0:23:19.62,0:23:23.12,Default,NTP,0000,0000,0000,,但如果同样的撞击发生在今天会怎么样呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what if that same impact happened today?
+Dialogue: 0,0:23:32.17,0:23:35.47,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N美国行星协会
+Dialogue: 0,0:23:26.99,0:23:32.10,Default,NTP,0000,0000,0000,,它会通过引起一系列的海啸  冲击波和热效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would wipe out the east coast essentially through
+Dialogue: 0,0:23:32.10,0:23:34.43,Default,NTP,0000,0000,0000,,从而将东海岸彻底毁灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a combination of tsunamis, blast waves, thermal effects,
+Dialogue: 0,0:23:34.50,0:23:38.27,Default,NTP,0000,0000,0000,,它还会抛出大量的喷射物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would also throw out huge amounts of ejecta
+Dialogue: 0,0:23:38.40,0:23:42.44,Default,NTP,0000,0000,0000,,它们会传播到很远的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would spread to great distances,
+Dialogue: 0,0:23:42.51,0:23:45.27,Default,NTP,0000,0000,0000,,引起森林火灾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}igniting additional forest fires.
+Dialogue: 0,0:23:47.05,0:23:49.60,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:23:45.34,0:23:49.54,Default,NTP,0000,0000,0000,,数百万的人会在撞击时马上死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be millions of people instantaneously killed
+Dialogue: 0,0:23:49.61,0:23:51.91,Default,NTP,0000,0000,0000,,或者在撞击后不久死去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or shortly after the impact.
+Dialogue: 0,0:23:51.98,0:23:55.32,Default,NTP,0000,0000,0000,,但它还会引起更进一步的后果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it would have farther-reaching consequences too,
+Dialogue: 0,0:23:55.32,0:23:56.99,Default,NTP,0000,0000,0000,,因为整个地区的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because of the overriding disruption
+Dialogue: 0,0:23:57.00,0:23:59.15,Default,NTP,0000,0000,0000,,生态平衡都被打破了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}throughout the entire region:
+Dialogue: 0,0:23:59.26,0:24:01.02,Default,NTP,0000,0000,0000,,农业  通信业\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Farming, communications,
+Dialogue: 0,0:24:01.02,0:24:02.79,Default,NTP,0000,0000,0000,,当然我们的中央政府\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}certainly our center of our government
+Dialogue: 0,0:24:02.83,0:24:05.73,Default,NTP,0000,0000,0000,,也在东海岸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is on the east coast.
+Dialogue: 0,0:24:06.73,0:24:10.27,Default,NTP,0000,0000,0000,,但最近发现的古生物遗迹表明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But according to recently uncovered fossil records,
+Dialogue: 0,0:24:10.37,0:24:14.34,Default,NTP,0000,0000,0000,,一英里宽的切萨皮克湾小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the one-mile-wide Chesapeake bay asteroid
+Dialogue: 0,0:24:14.34,0:24:16.78,Default,NTP,0000,0000,0000,,对地球造成的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}didn't seem to have the same global effects
+Dialogue: 0,0:24:16.78,0:24:19.53,Default,NTP,0000,0000,0000,,比不上那颗六英里宽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the massive extinctions triggered
+Dialogue: 0,0:24:19.53,0:24:22.51,Default,NTP,0000,0000,0000,,导致恐龙大范围灭绝的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the 6-mile asteroid that killed the dinosaurs.
+Dialogue: 0,0:24:26.73,0:24:29.68,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格雷戈·朗丁\N加州大学圣克鲁兹分校
+Dialogue: 0,0:24:23.51,0:24:25.24,Default,NTP,0000,0000,0000,,三千多万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The impact that created
+Dialogue: 0,0:24:25.24,0:24:27.41,Default,NTP,0000,0000,0000,,造成切萨皮克湾的撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Chesapeake bay structure
+Dialogue: 0,0:24:27.41,0:24:28.65,Default,NTP,0000,0000,0000,,威力非常强大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more than 30 million years ago was enormous,
+Dialogue: 0,0:24:28.72,0:24:31.72,Default,NTP,0000,0000,0000,,但它仅仅只是六千五百万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it was still only a small fraction of the energy
+Dialogue: 0,0:24:31.82,0:24:34.16,Default,NTP,0000,0000,0000,,在尤卡坦半岛撞击释放的能量的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was released during the impact in the Yucatan,
+Dialogue: 0,0:24:34.19,0:24:37.33,Default,NTP,0000,0000,0000,,一小部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}65 million years ago.
+Dialogue: 0,0:24:38.33,0:24:40.83,Default,NTP,0000,0000,0000,,撞击刚好提供了引起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The impact was right on the threshold of
+Dialogue: 0,0:24:40.83,0:24:43.33,Default,NTP,0000,0000,0000,,全球性影响的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}providing truly global effects,
+Dialogue: 0,0:24:44.94,0:24:47.01,Default,NTP,0000,0000,0000,,刚好可以造成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}right on the threshold of
+Dialogue: 0,0:24:47.01,0:24:49.08,Default,NTP,0000,0000,0000,,一次大范围的生物灭绝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what's required to make a mass extinction occur.
+Dialogue: 0,0:24:51.31,0:24:53.81,Default,NTP,0000,0000,0000,,由于这种毁灭性的力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because of that destructive power,
+Dialogue: 0,0:24:53.81,0:24:56.78,Default,NTP,0000,0000,0000,,了解我们要面对的问题很重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's crucial to know exactly what we're dealing with.
+Dialogue: 0,0:24:56.88,0:25:01.35,Default,NTP,0000,0000,0000,,那就意味着近距离和亲身观察小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that means getting up close and personal.
+Dialogue: 0,0:25:01.95,0:25:05.75,Default,NTP,0000,0000,0000,,2001年  美国宇航局名为"接近"的任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2001, the NASA mission named "Near"
+Dialogue: 0,0:25:05.79,0:25:10.36,Default,NTP,0000,0000,0000,,预定目标是在小行星伊洛斯上空盘旋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was supposed to just orbit the asteroid, Eros.
+Dialogue: 0,0:25:10.96,0:25:12.93,Default,NTP,0000,0000,0000,,但当它一到达那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But once it had got there
+Dialogue: 0,0:25:12.93,0:25:14.68,Default,NTP,0000,0000,0000,,并完成任务时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it completed its mission objectives,
+Dialogue: 0,0:25:14.68,0:25:15.56,Default,NTP,0000,0000,0000,,我们决定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the decision was made,
+Dialogue: 0,0:25:15.66,0:25:17.20,Default,NTP,0000,0000,0000,,着陆到小行星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}let's try to land this thing.
+Dialogue: 0,0:25:17.30,0:25:18.77,Default,NTP,0000,0000,0000,,那真是太有意思了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which is really, really fun.
+Dialogue: 0,0:25:18.83,0:25:20.74,Default,NTP,0000,0000,0000,,有点像老一套的探索方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's kind of old-fashioned exploration.
+Dialogue: 0,0:25:20.84,0:25:23.10,Default,NTP,0000,0000,0000,,"嘿  过去试试吧"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Hey, go ahead and give it a try."
+Dialogue: 0,0:25:23.17,0:25:27.41,Default,NTP,0000,0000,0000,,于是他们这么做了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, they did.
+Dialogue: 0,0:25:27.48,0:25:29.72,Default,NTP,0000,0000,0000,,从接近到着陆的图像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The images from the approach and the landing
+Dialogue: 0,0:25:29.72,0:25:34.21,Default,NTP,0000,0000,0000,,给了科学家们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gave scientists a much more detailed look
+Dialogue: 0,0:25:34.21,0:25:35.91,Default,NTP,0000,0000,0000,,一些关于小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at the surface of an asteroid
+Dialogue: 0,0:25:35.91,0:25:38.09,Default,NTP,0000,0000,0000,,从未有过的详细信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than they'd ever had before,
+Dialogue: 0,0:25:38.09,0:25:42.94,Default,NTP,0000,0000,0000,,还带来了一些意外收获\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with some unexpected results.
+Dialogue: 0,0:25:42.94,0:25:44.21,Default,NTP,0000,0000,0000,,从这些小行星得到的其中一个惊喜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the surprises looking at these small bodies
+Dialogue: 0,0:25:44.21,0:25:45.19,Default,NTP,0000,0000,0000,,就是它们也有地质构造\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that they have geology.
+Dialogue: 0,0:25:47.12,0:25:49.76,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}吉姆·贝尔\N康奈尔大学
+Dialogue: 0,0:25:45.33,0:25:48.50,Default,NTP,0000,0000,0000,,它有地壳构造  而且看起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It had tectonic features, and looks like
+Dialogue: 0,0:25:48.60,0:25:52.60,Default,NTP,0000,0000,0000,,它的表面有山崩和侵蚀发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it had landslides and erosion happening on its surface,
+Dialogue: 0,0:25:52.67,0:25:56.67,Default,NTP,0000,0000,0000,,到处都是撞击的陨石坑和巨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and impact craters all over it and boulders everywhere.
+Dialogue: 0,0:25:56.67,0:25:59.14,Default,NTP,0000,0000,0000,,有人想象那种场景  当一颗小的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And one imagines the scenario where a little asteroid
+Dialogue: 0,0:25:59.21,0:26:01.78,Default,NTP,0000,0000,0000,,运行并撞到一颗大点的小行星后碎裂了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes along and hits a bigger asteroid, crashes into it,
+Dialogue: 0,0:26:01.88,0:26:03.54,Default,NTP,0000,0000,0000,,引出了一大堆残骸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}digs up a whole bunch of debris,
+Dialogue: 0,0:26:03.54,0:26:05.21,Default,NTP,0000,0000,0000,,慢慢下降到小行星表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that slowly settles down.
+Dialogue: 0,0:26:05.31,0:26:07.08,Default,NTP,0000,0000,0000,,而这些巨石就这样散布到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And these boulders are just spread across
+Dialogue: 0,0:26:07.08,0:26:09.49,Default,NTP,0000,0000,0000,,整个小行星表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the entire surface.
+Dialogue: 0,0:26:10.52,0:26:12.66,Default,NTP,0000,0000,0000,,"接近"号探测器甚至\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The "Near" spacecraft even
+Dialogue: 0,0:26:12.66,0:26:14.16,Default,NTP,0000,0000,0000,,在着陆后向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}transmitted information back to earth
+Dialogue: 0,0:26:14.22,0:26:17.23,Default,NTP,0000,0000,0000,,传回信息达大约两周之久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for about two weeks while on the surface.
+Dialogue: 0,0:26:18.48,0:26:21.02,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}唐·耶蒙斯\N喷气推进实验室
+Dialogue: 0,0:26:18.23,0:26:20.40,Default,NTP,0000,0000,0000,,但它与地球的无线电通信已经失效\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it has lost its radio link with the earth,
+Dialogue: 0,0:26:20.50,0:26:25.51,Default,NTP,0000,0000,0000,,所以现在  它只是静静地坐在那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so now, it's simply sitting there,
+Dialogue: 0,0:26:25.51,0:26:27.47,Default,NTP,0000,0000,0000,,待上数百万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mute for millions of years.
+Dialogue: 0,0:26:29.07,0:26:31.48,Default,NTP,0000,0000,0000,,日本外太空署的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The asteroid explorer Hayabusa,
+Dialogue: 0,0:26:31.49,0:26:34.94,Default,NTP,0000,0000,0000,,"早房"号小行星探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the Japan aerospace exploration agency,
+Dialogue: 0,0:26:34.94,0:26:37.71,Default,NTP,0000,0000,0000,,最近又有新的突破\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}recently one-upped near.
+Dialogue: 0,0:26:37.81,0:26:41.08,Default,NTP,0000,0000,0000,,它是第一个着陆到小行星表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the first spacecraft to ever land on an asteroid
+Dialogue: 0,0:26:41.18,0:26:43.92,Default,NTP,0000,0000,0000,,然后返回地球的探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then return to earth.
+Dialogue: 0,0:26:43.99,0:26:48.04,Default,NTP,0000,0000,0000,,它在运行了四十亿英里后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It arrived in June 2010
+Dialogue: 0,0:26:48.04,0:26:51.23,Default,NTP,0000,0000,0000,,于2010年六月返回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}after a four billion mile round trip.
+Dialogue: 0,0:26:51.83,0:26:53.83,Default,NTP,0000,0000,0000,,按计划  大多数航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As planned, most of the spacecraft
+Dialogue: 0,0:26:53.83,0:26:55.83,Default,NTP,0000,0000,0000,,在地球大气层被烧毁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}burned up in the earth's atmosphere,
+Dialogue: 0,0:26:55.83,0:26:57.47,Default,NTP,0000,0000,0000,,但带回样本的太空舱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the sample return capsule
+Dialogue: 0,0:26:57.57,0:27:01.64,Default,NTP,0000,0000,0000,,成功着陆在澳大利亚内陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}successfully landed in the outback of Australia.
+Dialogue: 0,0:27:02.74,0:27:04.45,Default,NTP,0000,0000,0000,,即使到现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even today,
+Dialogue: 0,0:27:04.45,0:27:07.64,Default,NTP,0000,0000,0000,,还不清楚是否存在微小的样本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's still unclear if minute samples are present.
+Dialogue: 0,0:27:07.74,0:27:12.11,Default,NTP,0000,0000,0000,,对太空舱仔细的检查还在继续\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The careful examination of the capsule is continuing.
+Dialogue: 0,0:27:12.18,0:27:14.98,Default,NTP,0000,0000,0000,,这是个漫长的过程  但人们很乐观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a long process, but people are optimistic
+Dialogue: 0,0:27:15.02,0:27:17.12,Default,NTP,0000,0000,0000,,相信我们能从第一个返回地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we're going to get great data out
+Dialogue: 0,0:27:17.19,0:27:21.66,Default,NTP,0000,0000,0000,,小行星样本中提取出有用的信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the first asteroid samples returned to earth.
+Dialogue: 0,0:27:21.76,0:27:24.29,Default,NTP,0000,0000,0000,,对于一个地球化学家来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To a geochemist,
+Dialogue: 0,0:27:24.29,0:27:25.90,Default,NTP,0000,0000,0000,,就算样品只有几微克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a couple of micrograms of material
+Dialogue: 0,0:27:25.90,0:27:28.63,Default,NTP,0000,0000,0000,,已经足够进行详细的化学和矿物学分析\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is plenty to do some detailed chemistry and mineralogy
+Dialogue: 0,0:27:28.66,0:27:31.37,Default,NTP,0000,0000,0000,,以及一些综合分析\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and compositional work.
+Dialogue: 0,0:27:32.47,0:27:34.28,Default,NTP,0000,0000,0000,,在"早房"号返回前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even before Hayabusa returned,
+Dialogue: 0,0:27:34.28,0:27:38.31,Default,NTP,0000,0000,0000,,另一个小行星探测任务  已经开始了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}another asteroid mission was already underway.
+Dialogue: 0,0:27:38.37,0:27:42.01,Default,NTP,0000,0000,0000,,三  二  点火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}3, 2, engine ignition.
+Dialogue: 0,0:27:42.04,0:27:42.75,Default,NTP,0000,0000,0000,,发射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And liftoff...
+Dialogue: 0,0:27:42.75,0:27:49.18,Default,NTP,0000,0000,0000,,2007年美国宇航局"黎明"号探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After a 2007 launch, the NASA Dawn spacecraft
+Dialogue: 0,0:27:49.22,0:27:52.19,Default,NTP,0000,0000,0000,,发射前往火星和木星之间小行星带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is on its way to two of the largest asteroids
+Dialogue: 0,0:27:52.22,0:27:56.00,Default,NTP,0000,0000,0000,,最大的两颗小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the asteroid belt between Mars and Jupiter.
+Dialogue: 0,0:27:57.33,0:28:00.70,Default,NTP,0000,0000,0000,,"黎明"号将于2011年抵达\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dawn will arrive at
+Dialogue: 0,0:28:00.70,0:28:03.36,Default,NTP,0000,0000,0000,,直径320英里的灶神星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}320-mile-wide Vesta in 2011,
+Dialogue: 0,0:28:03.40,0:28:05.38,Default,NTP,0000,0000,0000,,环绕其运行一年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbit for a year,
+Dialogue: 0,0:28:05.38,0:28:10.37,Default,NTP,0000,0000,0000,,然后于2015年抵达直径六百英里的谷神星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then reach 600-mile-wide Ceres in 2015.
+Dialogue: 0,0:28:11.41,0:28:14.21,Default,NTP,0000,0000,0000,,你无法发现两颗小行星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You couldn't find two asteroids more different
+Dialogue: 0,0:28:14.21,0:28:15.24,Default,NTP,0000,0000,0000,,不同之处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from one another.
+Dialogue: 0,0:28:15.38,0:28:19.03,Default,NTP,0000,0000,0000,,谷神星之前被认为相对潮湿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ceres is thought to be relatively wet,
+Dialogue: 0,0:28:19.03,0:28:21.12,Default,NTP,0000,0000,0000,,可能表面有冰覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps subsurface ices,
+Dialogue: 0,0:28:21.22,0:28:22.54,Default,NTP,0000,0000,0000,,而另一颗灶神星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the other one, Vesta,
+Dialogue: 0,0:28:22.54,0:28:23.58,Default,NTP,0000,0000,0000,,被认为正好相反\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is thought to be the opposite.
+Dialogue: 0,0:28:23.69,0:28:26.86,Default,NTP,0000,0000,0000,,完全没有氢氧化物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's completely lacking in hydrated minerals
+Dialogue: 0,0:28:26.86,0:28:28.06,Default,NTP,0000,0000,0000,,或者冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or water ice.
+Dialogue: 0,0:28:28.16,0:28:31.39,Default,NTP,0000,0000,0000,,它一生都在被如此大程度地加热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's been heated over its lifetime to such an extent
+Dialogue: 0,0:28:31.43,0:28:32.96,Default,NTP,0000,0000,0000,,以至于被认为是分层的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it's thought to be layered:
+Dialogue: 0,0:28:33.06,0:28:36.12,Default,NTP,0000,0000,0000,,有类似地球的分层的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A surface layer, a mantle, and a core
+Dialogue: 0,0:28:36.12,0:28:37.47,Default,NTP,0000,0000,0000,,有地幔和地核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much like the earth.
+Dialogue: 0,0:28:40.14,0:28:45.04,Default,NTP,0000,0000,0000,,所有这些任务揭示出小行星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All of these missions are revealing that asteroids
+Dialogue: 0,0:28:45.04,0:28:46.82,Default,NTP,0000,0000,0000,,组成比我们之前认为的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are made from a much wider assortment of materials
+Dialogue: 0,0:28:46.82,0:28:48.71,Default,NTP,0000,0000,0000,,更加多元化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than we first realized.
+Dialogue: 0,0:28:50.78,0:28:53.05,Default,NTP,0000,0000,0000,,小行星有非常多的种类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a huge variety in asteroids.
+Dialogue: 0,0:28:53.15,0:28:56.34,Default,NTP,0000,0000,0000,,有些富含铁和镍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of them are iron rich or nickel rich,
+Dialogue: 0,0:28:56.34,0:28:58.72,Default,NTP,0000,0000,0000,,很像这个哑铃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}very much like this iron dumbbell.
+Dialogue: 0,0:28:58.79,0:29:02.26,Default,NTP,0000,0000,0000,,另一些很类似这个地球上的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Others are very similar to this earthbound rock.
+Dialogue: 0,0:29:02.32,0:29:03.06,Default,NTP,0000,0000,0000,,它们是石质的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're stony.
+Dialogue: 0,0:29:03.13,0:29:03.73,Default,NTP,0000,0000,0000,,岩石构成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're rocky.
+Dialogue: 0,0:29:03.79,0:29:06.76,Default,NTP,0000,0000,0000,,还有其他的由铁类和岩石类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Still others are a combination between the iron type
+Dialogue: 0,0:29:06.80,0:29:08.76,Default,NTP,0000,0000,0000,,组合成的类型\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the stony type.
+Dialogue: 0,0:29:08.80,0:29:13.33,Default,NTP,0000,0000,0000,,我们还发现了像碎石堆一样的外来物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've also got exotic things like rubble piles,
+Dialogue: 0,0:29:13.44,0:29:16.42,Default,NTP,0000,0000,0000,,就像这一堆砂砾构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which are like having this handful of gravel,
+Dialogue: 0,0:29:16.42,0:29:18.65,Default,NTP,0000,0000,0000,,但全部都由引力束缚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but if it all were gravitationally bound
+Dialogue: 0,0:29:18.65,0:29:21.78,Default,NTP,0000,0000,0000,,在大的小行星表面成为一种类型\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a big asteroid kind of a form.
+Dialogue: 0,0:29:21.81,0:29:24.78,Default,NTP,0000,0000,0000,,我们还发现了外太空的彗星残骸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We also have ex-comets.
+Dialogue: 0,0:29:24.81,0:29:27.78,Default,NTP,0000,0000,0000,,彗星残骸没有了它们的表面的冰覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And ex-comets have gotten rid of all their ices,
+Dialogue: 0,0:29:27.82,0:29:32.36,Default,NTP,0000,0000,0000,,留给我们这种很好的粒状的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we're left with this fine grain material,
+Dialogue: 0,0:29:32.36,0:29:35.09,Default,NTP,0000,0000,0000,,感觉像是多孔的绒球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}held in a very porous type of fluff ball.
+Dialogue: 0,0:29:35.19,0:29:37.63,Default,NTP,0000,0000,0000,,但小行星除了它们的组成外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But asteroids are surprising us in other ways
+Dialogue: 0,0:29:37.69,0:29:41.36,Default,NTP,0000,0000,0000,,还有其他方面令我们吃惊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}besides their composition.
+Dialogue: 0,0:29:41.46,0:29:43.63,Default,NTP,0000,0000,0000,,"伽利略"号探测器在前往木星的途中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Galileo mission on its way to Jupiter
+Dialogue: 0,0:29:43.70,0:29:46.80,Default,NTP,0000,0000,0000,,经过了一颗叫艾达的小行星并且发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}went past an asteroid called Ida and discovered
+Dialogue: 0,0:29:46.84,0:29:49.80,Default,NTP,0000,0000,0000,,它有颗小的卫星就是艾卫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it had a little tiny moon called Dactyl.
+Dialogue: 0,0:29:49.84,0:29:51.64,Default,NTP,0000,0000,0000,,这真是太令人意外了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This was a big surprise.
+Dialogue: 0,0:29:51.74,0:29:55.28,Default,NTP,0000,0000,0000,,现在  我们知道这不仅仅是个巧合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And now, we see that that's not so rare an incident.
+Dialogue: 0,0:29:55.38,0:29:59.02,Default,NTP,0000,0000,0000,,小行星确实会有它们自己的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Asteroids do come with their own moons,
+Dialogue: 0,0:29:59.02,0:30:00.62,Default,NTP,0000,0000,0000,,有时候会有几颗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sometimes several moons.
+Dialogue: 0,0:30:00.65,0:30:03.65,Default,NTP,0000,0000,0000,,我们也明白了许多小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're also learning that a lot of asteroids
+Dialogue: 0,0:30:03.72,0:30:05.44,Default,NTP,0000,0000,0000,,是以双星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are traveling in pairs as binaries,
+Dialogue: 0,0:30:05.44,0:30:08.02,Default,NTP,0000,0000,0000,,甚至三星的状态存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or even with three of them.
+Dialogue: 0,0:30:08.16,0:30:11.36,Default,NTP,0000,0000,0000,,这是很非常新鲜的观察结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's a very new set of observations
+Dialogue: 0,0:30:11.46,0:30:14.67,Default,NTP,0000,0000,0000,,是需要了解的新事物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and new thing to understand.
+Dialogue: 0,0:30:15.36,0:30:17.44,Default,NTP,0000,0000,0000,,理解小行星是如何成群的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Knowing how asteroids are grouped
+Dialogue: 0,0:30:17.44,0:30:18.73,Default,NTP,0000,0000,0000,,它们是如何构成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and what they're made of
+Dialogue: 0,0:30:18.83,0:30:22.54,Default,NTP,0000,0000,0000,,不仅是科学感兴趣的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is more than a matter of scientific interest.
+Dialogue: 0,0:30:22.64,0:30:25.74,Default,NTP,0000,0000,0000,,想象在未来  一颗巨大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine in the future, that an enormous,
+Dialogue: 0,0:30:25.84,0:30:28.31,Default,NTP,0000,0000,0000,,致命的小行星向地球袭来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}deadly asteroid is speeding towards earth.
+Dialogue: 0,0:30:28.34,0:30:30.53,Default,NTP,0000,0000,0000,,如果人类还想生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It needs to be deflected
+Dialogue: 0,0:30:30.53,0:30:33.01,Default,NTP,0000,0000,0000,,就必须让它偏离轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if mankind is going to survive.
+Dialogue: 0,0:30:33.08,0:30:35.10,Default,NTP,0000,0000,0000,,但是如果我们不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if we don't know exactly
+Dialogue: 0,0:30:35.10,0:30:36.58,Default,NTP,0000,0000,0000,,小行星的具体构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what the asteroid is made of,
+Dialogue: 0,0:30:36.65,0:30:38.89,Default,NTP,0000,0000,0000,,那么要挽救地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the effort to save the planet
+Dialogue: 0,0:30:38.89,0:30:40.49,Default,NTP,0000,0000,0000,,就非常困难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could go horribly wrong.
+Dialogue: 0,0:30:46.48,0:30:49.61,Default,NTP,0000,0000,0000,,小行星撞击的破坏性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An asteroid impact can unleash more destruction
+Dialogue: 0,0:30:49.61,0:30:53.66,Default,NTP,0000,0000,0000,,胜过任何一种自然灾害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than just about any other kind of natural disaster.
+Dialogue: 0,0:30:56.23,0:30:59.19,Default,NTP,0000,0000,0000,,但它也是少数一种我们能够阻止的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's also one of the few types of nature's fury
+Dialogue: 0,0:30:59.19,0:31:01.85,Default,NTP,0000,0000,0000,,大自然灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we may be able to prevent.
+Dialogue: 0,0:31:06.50,0:31:08.97,Default,NTP,0000,0000,0000,,想象在未来  一颗巨大的校行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine in the future that a huge asteroid
+Dialogue: 0,0:31:09.07,0:31:14.14,Default,NTP,0000,0000,0000,,以每小时七万英里的速度冲向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is racing towards earth at 70,000 miles per hour.
+Dialogue: 0,0:31:14.25,0:31:17.08,Default,NTP,0000,0000,0000,,全世界的宇航局联合起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}International space agencies have banded together
+Dialogue: 0,0:31:17.18,0:31:22.55,Default,NTP,0000,0000,0000,,发射了一枚火箭想挽救人类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and launched a rocket in an effort to save mankind.
+Dialogue: 0,0:31:23.55,0:31:25.42,Default,NTP,0000,0000,0000,,致胜的诀窍就是了解敌人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The trick is to understand the enemy.
+Dialogue: 0,0:31:25.56,0:31:27.19,Default,NTP,0000,0000,0000,,小行星是金属质的吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is it made of solid iron?
+Dialogue: 0,0:31:27.19,0:31:28.60,Default,NTP,0000,0000,0000,,还是碎岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is it made of shattered rock?
+Dialogue: 0,0:31:28.60,0:31:30.20,Default,NTP,0000,0000,0000,,又或者是由碎石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is it made of a rubble pile,
+Dialogue: 0,0:31:30.20,0:31:32.40,Default,NTP,0000,0000,0000,,或是个曾是彗星的绒球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an ex-cometary fluff ball?
+Dialogue: 0,0:31:33.65,0:31:37.28,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}唐·耶蒙斯\N喷气推进实验室
+Dialogue: 0,0:31:32.50,0:31:35.63,Default,NTP,0000,0000,0000,,因为如果你用一艘宇宙飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because if you hit a slab of solid iron
+Dialogue: 0,0:31:35.63,0:31:37.47,Default,NTP,0000,0000,0000,,撞击一块固态铁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a spacecraft,
+Dialogue: 0,0:31:37.54,0:31:40.30,Default,NTP,0000,0000,0000,,跟撞击一个绒球的反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's going to react far differently than an object
+Dialogue: 0,0:31:40.40,0:31:42.58,Default,NTP,0000,0000,0000,,是截然不同的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is a fluff ball.
+Dialogue: 0,0:31:44.41,0:31:47.78,Default,NTP,0000,0000,0000,,据了解  小行星是个碎石堆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The asteroid turns out to be a rubble pile.
+Dialogue: 0,0:31:47.85,0:31:48.92,Default,NTP,0000,0000,0000,,它足够柔软\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's soft enough to
+Dialogue: 0,0:31:48.92,0:31:52.68,Default,NTP,0000,0000,0000,,可以吸收火箭几乎全部的撞击力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mostly absorb the impact of the rocket
+Dialogue: 0,0:31:52.78,0:31:56.13,Default,NTP,0000,0000,0000,,仍然会保持原轨道撞向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and to stay on course to collide with earth.
+Dialogue: 0,0:31:57.83,0:31:59.79,Default,NTP,0000,0000,0000,,体积也足够大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's also large enough
+Dialogue: 0,0:31:59.79,0:32:02.41,Default,NTP,0000,0000,0000,,不会在大气层燃尽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it doesn't burn up in the atmosphere.
+Dialogue: 0,0:32:03.49,0:32:05.38,Default,NTP,0000,0000,0000,,它击中了地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It hits,
+Dialogue: 0,0:32:06.95,0:32:11.50,Default,NTP,0000,0000,0000,,永远改变了地球上的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and forever changes life on our planet.
+Dialogue: 0,0:32:11.60,0:32:15.51,Default,NTP,0000,0000,0000,,如果我们不尽可能多地了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the price we could pay if we don't learn
+Dialogue: 0,0:32:15.51,0:32:18.94,Default,NTP,0000,0000,0000,,太阳系中各种各样的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as much as possible about the variety of asteroids
+Dialogue: 0,0:32:18.94,0:32:21.59,Default,NTP,0000,0000,0000,,这就会是代价\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in our solar system.
+Dialogue: 0,0:32:22.88,0:32:26.76,Default,NTP,0000,0000,0000,,但是至少对于大型小行星接近地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But at least with large asteroids,
+Dialogue: 0,0:32:26.76,0:32:28.69,Default,NTP,0000,0000,0000,,我们会有数十年的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we should have years or decades of
+Dialogue: 0,0:32:28.69,0:32:29.66,Default,NTP,0000,0000,0000,,警告时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}warning about their approach.
+Dialogue: 0,0:32:32.16,0:32:35.15,Default,NTP,0000,0000,0000,,对于彗星甚至是巨大的彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With comets, even enormous ones,
+Dialogue: 0,0:32:35.15,0:32:38.09,Default,NTP,0000,0000,0000,,警告时间将以月来衡量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the warning time will be measured in months.
+Dialogue: 0,0:32:38.24,0:32:39.56,Default,NTP,0000,0000,0000,,为什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why?
+Dialogue: 0,0:32:39.56,0:32:42.72,Default,NTP,0000,0000,0000,,那就是乔治亚州亚特兰大的克莱顿·艾尔.\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what Clayton L. in Atlanta, Georgia
+Dialogue: 0,0:32:42.72,0:32:45.40,Default,NTP,0000,0000,0000,,想问宇宙的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wanted to ask the universe.
+Dialogue: 0,0:32:45.88,0:32:48.00,Default,NTP,0000,0000,0000,,他给我们的电子邮件中写道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, he e-mailed us:
+Dialogue: 0,0:32:48.04,0:32:52.94,Default,NTP,0000,0000,0000,,为什么彗星撞击地球比小行星撞击地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Why would there be "So much less warning time" before
+Dialogue: 0,0:32:52.94,0:32:54.90,Default,NTP,0000,0000,0000,,警告时间少那么多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an earth impact for a comet compared to an asteroid?"
+Dialogue: 0,0:32:55.95,0:32:57.21,Default,NTP,0000,0000,0000,,问得好  克莱顿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Good question, Clayton.
+Dialogue: 0,0:32:57.31,0:33:01.12,Default,NTP,0000,0000,0000,,我们想知道什么时候会有东西撞上我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'd love to know when something might hit us.
+Dialogue: 0,0:33:01.22,0:33:04.05,Default,NTP,0000,0000,0000,,因为小行星离我们很近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns out that asteroids are so nearby,
+Dialogue: 0,0:33:04.19,0:33:06.29,Default,NTP,0000,0000,0000,,我们可以精确追踪它们的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we can track their orbits precisely.
+Dialogue: 0,0:33:06.36,0:33:08.46,Default,NTP,0000,0000,0000,,那就意味着我们可以精确地预测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means we can make accurate predictions
+Dialogue: 0,0:33:08.53,0:33:10.25,Default,NTP,0000,0000,0000,,未来的几十甚至几百年中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of where they will be,
+Dialogue: 0,0:33:10.25,0:33:13.07,Default,NTP,0000,0000,0000,,它们会在哪里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tens or even hundreds of years in advance.
+Dialogue: 0,0:33:13.07,0:33:15.00,Default,NTP,0000,0000,0000,,那意味着我们也许可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means we might be able to deflect them
+Dialogue: 0,0:33:15.00,0:33:16.74,Default,NTP,0000,0000,0000,,在它们撞上地球之前改变它们的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before they hit the earth.
+Dialogue: 0,0:33:17.00,0:33:19.36,Default,NTP,0000,0000,0000,,现在  一颗彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, a comet
+Dialogue: 0,0:33:19.36,0:33:21.42,Default,NTP,0000,0000,0000,,从太阳系中飞来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes in from the outer depths of the solar system,
+Dialogue: 0,0:33:21.42,0:33:23.95,Default,NTP,0000,0000,0000,,还没亮到能让我们看见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and doesn't become bright enough to see,
+Dialogue: 0,0:33:23.95,0:33:25.43,Default,NTP,0000,0000,0000,,直到也许半年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until it's maybe six months
+Dialogue: 0,0:33:25.43,0:33:27.90,Default,NTP,0000,0000,0000,,或一年后就会撞上地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a year away from hitting us.
+Dialogue: 0,0:33:27.90,0:33:30.05,Default,NTP,0000,0000,0000,,所以我们很难得到警告\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, we have very little warning.
+Dialogue: 0,0:33:30.35,0:33:33.45,Default,NTP,0000,0000,0000,,幸运的是  绝大部分有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately, most of the things that potentially
+Dialogue: 0,0:33:33.45,0:33:36.48,Default,NTP,0000,0000,0000,,撞击地球的是小行星  不是彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could hit the earth are asteroids, not comets,
+Dialogue: 0,0:33:36.48,0:33:39.69,Default,NTP,0000,0000,0000,,而且我们能非常精确地追踪它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we can track the asteroids pretty accurately.
+Dialogue: 0,0:33:39.69,0:33:40.69,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}宇宙难题
+Dialogue: 0,0:33:43.06,0:33:45.89,Default,NTP,0000,0000,0000,,事实是未来的某一时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fact that asteroids have a much greater chance
+Dialogue: 0,0:33:45.89,0:33:48.86,Default,NTP,0000,0000,0000,,小行星有很大机会破坏地球上的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of destroying life on earth sometime in the future
+Dialogue: 0,0:33:48.86,0:33:51.23,Default,NTP,0000,0000,0000,,所以发射无人探测器去研究它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is one of the main reasons why studying them
+Dialogue: 0,0:33:51.23,0:33:54.09,Default,NTP,0000,0000,0000,,是如此重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with unmanned missions is so important.
+Dialogue: 0,0:33:56.06,0:34:00.63,Default,NTP,0000,0000,0000,,但是在2010年四月  美国总统奥巴马\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in April 2010, U.S. President, Barack Obama
+Dialogue: 0,0:34:00.63,0:34:03.75,Default,NTP,0000,0000,0000,,宣布了一个更大的挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}announced an even bigger challenge.
+Dialogue: 0,0:34:04.01,0:34:05.07,Default,NTP,0000,0000,0000,,在2025年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By 2025,
+Dialogue: 0,0:34:05.07,0:34:09.14,Default,NTP,0000,0000,0000,,我们希望新型宇宙飞船能够长途旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we expect new spacecraft designed for long journeys
+Dialogue: 0,0:34:09.14,0:34:12.18,Default,NTP,0000,0000,0000,,使我们可以送人上天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to allow us to begin the first ever crewed missions
+Dialogue: 0,0:34:12.18,0:34:14.42,Default,NTP,0000,0000,0000,,进入比月球还要遥远的外太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beyond the moon into deep space.
+Dialogue: 0,0:34:14.53,0:34:20.43,Default,NTP,0000,0000,0000,,所以我们将史上首次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we'll start by sending astronauts to an asteroid
+Dialogue: 0,0:34:20.53,0:34:22.27,Default,NTP,0000,0000,0000,,送宇航员登上小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the first time in history.
+Dialogue: 0,0:34:23.53,0:34:25.51,Default,NTP,0000,0000,0000,,以我的经验  作为大学教师\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In my experience as a college teacher,
+Dialogue: 0,0:34:25.77,0:34:29.54,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}吉姆·贝尔\N康奈尔大学
+Dialogue: 0,0:34:25.51,0:34:28.34,Default,NTP,0000,0000,0000,,年轻一代  他们想走得更远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the younger generations, they wanna go beyond.
+Dialogue: 0,0:34:28.34,0:34:30.37,Default,NTP,0000,0000,0000,,是的  你知道我的祖父母上过月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah, my grandparents went to the moon, you know.
+Dialogue: 0,0:34:30.44,0:34:32.11,Default,NTP,0000,0000,0000,,我们要超越他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's go beyond.
+Dialogue: 0,0:34:32.21,0:34:34.34,Default,NTP,0000,0000,0000,,因此这就是总统的信息中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so, that was an inspiring part of
+Dialogue: 0,0:34:34.34,0:34:35.71,Default,NTP,0000,0000,0000,,鼓舞人心的部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the president's message,
+Dialogue: 0,0:34:35.78,0:34:37.36,Default,NTP,0000,0000,0000,,美国宇航局需要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we need to get NASA back
+Dialogue: 0,0:34:37.36,0:34:39.86,Default,NTP,0000,0000,0000,,重新投身到外太空事业中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into the business of deep space.
+Dialogue: 0,0:34:41.35,0:34:43.97,Default,NTP,0000,0000,0000,,载人飞船登上小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A manned mission to an asteroid will be very different
+Dialogue: 0,0:34:43.97,0:34:46.18,Default,NTP,0000,0000,0000,,跟过去登上月球是大不相同的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from moon missions of the past.
+Dialogue: 0,0:34:46.18,0:34:48.51,Default,NTP,0000,0000,0000,,某些方面更容易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In some ways, it will be easier,
+Dialogue: 0,0:34:48.51,0:34:51.11,Default,NTP,0000,0000,0000,,但另一些方面  要难得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and in other ways, much harder.
+Dialogue: 0,0:34:52.91,0:34:55.38,Default,NTP,0000,0000,0000,,无论宇航员要去哪颗小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whichever asteroid the astronauts visit,
+Dialogue: 0,0:34:55.38,0:34:58.98,Default,NTP,0000,0000,0000,,距离比去月球都要远得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will likely be a lot farther from earth than the moon.
+Dialogue: 0,0:34:58.98,0:35:01.58,Default,NTP,0000,0000,0000,,所以行程可能持续几个月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the journey will probably last for months,
+Dialogue: 0,0:35:01.58,0:35:05.41,Default,NTP,0000,0000,0000,,而去月球只要八天时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}instead of the eight days it takes to get to the moon.
+Dialogue: 0,0:35:05.71,0:35:08.50,Default,NTP,0000,0000,0000,,但是整个旅程需要的燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the round trip will actually use less fuel
+Dialogue: 0,0:35:08.50,0:35:10.84,Default,NTP,0000,0000,0000,,将少于登月计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than a lunar landing mission.
+Dialogue: 0,0:35:12.45,0:35:14.37,Default,NTP,0000,0000,0000,,你在月球的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you go to the moon,
+Dialogue: 0,0:35:14.37,0:35:15.81,Default,NTP,0000,0000,0000,,需要对付身体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you're dealing with a body
+Dialogue: 0,0:35:15.82,0:35:17.02,Default,NTP,0000,0000,0000,,明显的重力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with significant gravity of its own.
+Dialogue: 0,0:35:17.02,0:35:20.56,Default,NTP,0000,0000,0000,,你将不得不全程使用更多的燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're having to use more fuel
+Dialogue: 0,0:35:20.56,0:35:21.74,Default,NTP,0000,0000,0000,,来减慢速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to safely slow yourself down
+Dialogue: 0,0:35:21.74,0:35:22.92,Default,NTP,0000,0000,0000,,并安全着陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and descend all the way to the surface.
+Dialogue: 0,0:35:22.92,0:35:26.25,Default,NTP,0000,0000,0000,,当前往一颗低引力的小行星的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you head to an asteroid with very low gravity,
+Dialogue: 0,0:35:23.98,0:35:27.25,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布鲁斯·贝茨\N美国行星协会
+Dialogue: 0,0:35:26.25,0:35:29.01,Default,NTP,0000,0000,0000,,即使你走了更远的路才到达那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even though you're going farther to get there,
+Dialogue: 0,0:35:29.01,0:35:30.54,Default,NTP,0000,0000,0000,,你却不必为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you aren't having to expend
+Dialogue: 0,0:35:30.54,0:35:33.28,Default,NTP,0000,0000,0000,,类似着陆之类的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nearly as much fuel for things
+Dialogue: 0,0:35:33.28,0:35:35.37,Default,NTP,0000,0000,0000,,花费那么多的燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like getting to the surface.
+Dialogue: 0,0:35:35.47,0:35:37.70,Default,NTP,0000,0000,0000,,当你离开小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It also takes less propulsion ability
+Dialogue: 0,0:35:37.70,0:35:40.26,Default,NTP,0000,0000,0000,,启程回地球的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when you leave the asteroid
+Dialogue: 0,0:35:40.26,0:35:42.61,Default,NTP,0000,0000,0000,,也需要更少的推进力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to head back to earth.
+Dialogue: 0,0:35:44.11,0:35:46.21,Default,NTP,0000,0000,0000,,但是在小行星表面着陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But landing on an asteroid's surface
+Dialogue: 0,0:35:46.21,0:35:48.09,Default,NTP,0000,0000,0000,,跟登陆月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be much more challenging
+Dialogue: 0,0:35:48.10,0:35:51.12,Default,NTP,0000,0000,0000,,相比是更大的挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than setting down on the moon.
+Dialogue: 0,0:35:51.22,0:35:54.39,Default,NTP,0000,0000,0000,,相比登陆  它更像入港\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's more like docking than it is landing,
+Dialogue: 0,0:35:54.39,0:35:56.12,Default,NTP,0000,0000,0000,,但是你还是有些重力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but you do have some gravity.
+Dialogue: 0,0:35:56.12,0:35:59.30,Default,NTP,0000,0000,0000,,所以你得对付这一点点重力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you have to deal with having a little bit of gravity.
+Dialogue: 0,0:35:59.40,0:36:01.79,Default,NTP,0000,0000,0000,,你必须让自己精确抛锚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But you have to deal with actually anchoring yourself,
+Dialogue: 0,0:36:01.79,0:36:02.71,Default,NTP,0000,0000,0000,,并抓住不放\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}holding on.
+Dialogue: 0,0:36:02.71,0:36:04.74,Default,NTP,0000,0000,0000,,当你在有地球六分之一重力的月球上时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't have to hold on when you're in the 1/6
+Dialogue: 0,0:36:04.74,0:36:07.03,Default,NTP,0000,0000,0000,,你不需要抓住不放\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}earth's gravity of the moon.
+Dialogue: 0,0:36:08.94,0:36:10.91,Default,NTP,0000,0000,0000,,对于宇航员来说探索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Exploring a small rotating asteroid
+Dialogue: 0,0:36:10.91,0:36:13.55,Default,NTP,0000,0000,0000,,一个小型的旋转中的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will also be much harder for astronauts
+Dialogue: 0,0:36:13.55,0:36:16.28,Default,NTP,0000,0000,0000,,比在月球上跳跃行走更难得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than hopping around on the moon.
+Dialogue: 0,0:36:16.31,0:36:19.98,Default,NTP,0000,0000,0000,,它更像太空漫步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'll be more similar to a space walk.
+Dialogue: 0,0:36:20.42,0:36:23.82,Default,NTP,0000,0000,0000,,你对上下的感觉被破坏了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Your sense of up and down is sort of screwed up
+Dialogue: 0,0:36:23.72,0:36:27.62,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格雷戈·朗丁\N加利福尼亚大学圣克鲁斯分校
+Dialogue: 0,0:36:23.82,0:36:25.86,Default,NTP,0000,0000,0000,,你在小行星上走动的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you have to be very careful
+Dialogue: 0,0:36:25.86,0:36:27.09,Default,NTP,0000,0000,0000,,必须很小心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when you walk around on an asteroid,
+Dialogue: 0,0:36:27.09,0:36:29.14,Default,NTP,0000,0000,0000,,因为那里的重力非常小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the gravity of the asteroid is so weak,
+Dialogue: 0,0:36:29.14,0:36:30.63,Default,NTP,0000,0000,0000,,轻轻一跳就可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a good jump can send you into
+Dialogue: 0,0:36:30.63,0:36:32.76,Default,NTP,0000,0000,0000,,把你送入它的环绕轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an orbit around the asteroid
+Dialogue: 0,0:36:32.76,0:36:35.72,Default,NTP,0000,0000,0000,,甚至让你以逃逸速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or even send you out at escape velocity
+Dialogue: 0,0:36:35.72,0:36:38.48,Default,NTP,0000,0000,0000,,完全脱离这颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and escape from the asteroid completely.
+Dialogue: 0,0:36:38.60,0:36:40.66,Default,NTP,0000,0000,0000,,所以你探险的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you have to make sure that you're tethered down,
+Dialogue: 0,0:36:40.66,0:36:42.40,Default,NTP,0000,0000,0000,,必须确保自己在可控范围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when you're exploring.
+Dialogue: 0,0:36:44.11,0:36:46.49,Default,NTP,0000,0000,0000,,但是"漫游者"已经成功\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But since Rovers have already proved
+Dialogue: 0,0:36:46.49,0:36:49.75,Default,NTP,0000,0000,0000,,探索了其他世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be so successful at exploring other worlds.
+Dialogue: 0,0:36:49.85,0:36:51.67,Default,NTP,0000,0000,0000,,有没有足够的理由\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is there a strong reason
+Dialogue: 0,0:36:51.67,0:36:54.28,Default,NTP,0000,0000,0000,,要送宇航员登上小行星呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to send astronauts to an asteroid?
+Dialogue: 0,0:36:54.39,0:36:56.69,Default,NTP,0000,0000,0000,,宇航员  探险家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronauts, explorers,
+Dialogue: 0,0:36:56.69,0:36:58.99,Default,NTP,0000,0000,0000,,公众都对太空很有兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the public interested in space
+Dialogue: 0,0:36:59.02,0:37:00.32,Default,NTP,0000,0000,0000,,渴望亲眼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}yearn to see what it's like in person
+Dialogue: 0,0:37:00.32,0:37:02.29,Default,NTP,0000,0000,0000,,看见它的模样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through real human eyes
+Dialogue: 0,0:37:02.36,0:37:05.40,Default,NTP,0000,0000,0000,,那一天离我们不远了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that day is coming.
+Dialogue: 0,0:37:05.40,0:37:07.51,Default,NTP,0000,0000,0000,,机器人可以在太空探索中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Robots can do a lot and have done a lot
+Dialogue: 0,0:37:07.51,0:37:09.83,Default,NTP,0000,0000,0000,,大显身手  并已功绩显赫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in space exploration.
+Dialogue: 0,0:37:08.03,0:37:11.96,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格林菲斯天文台
+Dialogue: 0,0:37:10.50,0:37:13.50,Default,NTP,0000,0000,0000,,但人类才是最好的地质学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there is no better geologist than a human being.
+Dialogue: 0,0:37:13.73,0:37:16.84,Default,NTP,0000,0000,0000,,作为一个探索小行星的地质学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To be a geologist exploring an asteroid and being able
+Dialogue: 0,0:37:16.94,0:37:21.38,Default,NTP,0000,0000,0000,,要能识别特殊地貌的历史\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to recognize the history of a particular region,
+Dialogue: 0,0:37:21.38,0:37:23.95,Default,NTP,0000,0000,0000,,观测几种常见的地质结构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}looking at familiar types of geological formations,
+Dialogue: 0,0:37:24.01,0:37:25.31,Default,NTP,0000,0000,0000,,你知道自己该做什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you know just what you wanna do:
+Dialogue: 0,0:37:25.38,0:37:28.11,Default,NTP,0000,0000,0000,,你知道该采集这块石头作为样本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you wanna go sample that rock,
+Dialogue: 0,0:37:28.24,0:37:30.23,Default,NTP,0000,0000,0000,,而另一块则不合适\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you don't wanna go sample that rock.
+Dialogue: 0,0:37:32.39,0:37:35.66,Default,NTP,0000,0000,0000,,小行星中蕴藏的资源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Asteroids are also important because of the resources
+Dialogue: 0,0:37:35.69,0:37:38.33,Default,NTP,0000,0000,0000,,也使它们备受关注\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they might contain.
+Dialogue: 0,0:37:39.40,0:37:42.67,Default,NTP,0000,0000,0000,,时间跳至2050年  一队宇航员驾驶着飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The year is 2050, and a crew of astronauts
+Dialogue: 0,0:37:42.73,0:37:47.04,Default,NTP,0000,0000,0000,,刚刚在一颗小行星上着陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has just landed their spacecraft on an asteroid.
+Dialogue: 0,0:37:47.14,0:37:50.40,Default,NTP,0000,0000,0000,,他们不是为探索而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're not here to explore...
+Dialogue: 0,0:37:50.40,0:37:52.31,Default,NTP,0000,0000,0000,,而只是路过补给\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this is merely a pit stop.
+Dialogue: 0,0:37:52.38,0:37:54.94,Default,NTP,0000,0000,0000,,可在这岩石遍布的小世界里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what types of precious resources
+Dialogue: 0,0:37:55.49,0:37:59.03,Default,NTP,0000,0000,0000,,能藏着什么珍贵的资源呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could this small rocky world possibly contain?
+Dialogue: 0,0:38:04.70,0:38:08.91,Default,NTP,0000,0000,0000,,所有生物都将灭绝于一次小行星撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An asteroid attack can wipe out entire species,
+Dialogue: 0,0:38:10.97,0:38:14.94,Default,NTP,0000,0000,0000,,人类也不例外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}including humans.
+Dialogue: 0,0:38:15.55,0:38:17.91,Default,NTP,0000,0000,0000,,但是人们没有听天由命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But instead of accepting that fate,
+Dialogue: 0,0:38:17.98,0:38:20.88,Default,NTP,0000,0000,0000,,科学家们正努力充分研究它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientists are trying to learn enough about them
+Dialogue: 0,0:38:20.92,0:38:23.25,Default,NTP,0000,0000,0000,,以阻止灾难的发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to prevent disaster.
+Dialogue: 0,0:38:25.29,0:38:27.29,Default,NTP,0000,0000,0000,,那些没朝着地球行进的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And asteroids that aren't headed towards earth
+Dialogue: 0,0:38:27.39,0:38:31.43,Default,NTP,0000,0000,0000,,也许会对我们大有益处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may even turn out to be helpful.
+Dialogue: 0,0:38:31.93,0:38:34.16,Default,NTP,0000,0000,0000,,我们之所以要造访并研究小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the reasons to visit asteroids
+Dialogue: 0,0:38:34.16,0:38:35.00,Default,NTP,0000,0000,0000,,原因之一就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and to study them is that
+Dialogue: 0,0:38:33.72,0:38:37.59,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}吉姆·贝尔\N康奈尔大学
+Dialogue: 0,0:38:35.71,0:38:37.69,Default,NTP,0000,0000,0000,,它们也许拥有一些对未来的探索者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they may have some resources that could be useful
+Dialogue: 0,0:38:37.72,0:38:40.30,Default,NTP,0000,0000,0000,,大有裨益的资源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to future human explorers.
+Dialogue: 0,0:38:40.30,0:38:42.34,Default,NTP,0000,0000,0000,,其中最重要的就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And among the most important of those would
+Dialogue: 0,0:38:42.34,0:38:43.11,Default,NTP,0000,0000,0000,,冰和水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}be ice, water.
+Dialogue: 0,0:38:43.21,0:38:45.11,Default,NTP,0000,0000,0000,,人们需要用冰来取水饮用  维持生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People are going to need ice to live and drink
+Dialogue: 0,0:38:45.21,0:38:50.65,Default,NTP,0000,0000,0000,,还可以用在其它实际方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and use in a practical sense.
+Dialogue: 0,0:38:50.75,0:38:54.58,Default,NTP,0000,0000,0000,,时间再次跳至2050年  一队前往火星的人员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The year is 2050, and a crew on its way to Mars
+Dialogue: 0,0:38:54.65,0:38:58.65,Default,NTP,0000,0000,0000,,刚刚在一颗小行星上着落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has just stopped at an asteroid
+Dialogue: 0,0:38:58.65,0:39:01.12,Default,NTP,0000,0000,0000,,补给水与其它物资\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for water and other supplies.
+Dialogue: 0,0:39:01.22,0:39:03.66,Default,NTP,0000,0000,0000,,水中的氧气可以被分离出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The oxygen in the water can be separated
+Dialogue: 0,0:39:03.76,0:39:06.56,Default,NTP,0000,0000,0000,,填充队员的氧气罐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to refill the crew's breathing tanks.
+Dialogue: 0,0:39:06.66,0:39:09.67,Default,NTP,0000,0000,0000,,但是这座岩制补给站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's even more that this rocky supply station
+Dialogue: 0,0:39:09.77,0:39:12.27,Default,NTP,0000,0000,0000,,可以提供更多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has to offer.
+Dialogue: 0,0:39:12.77,0:39:15.64,Default,NTP,0000,0000,0000,,可以想象到的是  有了先进的技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's conceivable that with advanced technology,
+Dialogue: 0,0:39:15.24,0:39:19.22,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:39:16.30,0:39:19.70,Default,NTP,0000,0000,0000,,我们可以抵达那些小行星  分解水分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we could go to those asteroids, break down the water,
+Dialogue: 0,0:39:19.73,0:39:22.00,Default,NTP,0000,0000,0000,,分解得到的氢和氧可以用作飞船的燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and use the hydrogen and oxygen as fuel
+Dialogue: 0,0:39:22.13,0:39:25.05,Default,NTP,0000,0000,0000,,使它飞得更远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to take spacecraft even farther.
+Dialogue: 0,0:39:27.05,0:39:29.02,Default,NTP,0000,0000,0000,,那里甚至有一些地球上稀缺的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there may even be priceless materials
+Dialogue: 0,0:39:29.12,0:39:31.72,Default,NTP,0000,0000,0000,,极其珍贵的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to bring back to earth,
+Dialogue: 0,0:39:31.72,0:39:37.21,Default,NTP,0000,0000,0000,,这些元素对于高科技的实现至关重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}elements so rare and critical to high-tech success
+Dialogue: 0,0:39:37.21,0:39:41.13,Default,NTP,0000,0000,0000,,因此它们可能成为未来战争的导火索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they could be the cause of future wars.
+Dialogue: 0,0:39:44.47,0:39:47.14,Default,NTP,0000,0000,0000,,有些小行星蕴含着铂  钛等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some asteroids have platinum and titanium
+Dialogue: 0,0:39:47.20,0:39:48.87,Default,NTP,0000,0000,0000,,稀土元素  电子产品的方方面面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and rare earth elements that are important
+Dialogue: 0,0:39:48.97,0:39:50.21,Default,NTP,0000,0000,0000,,都离不开它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in many aspects of electronics,
+Dialogue: 0,0:39:50.21,0:39:52.54,Default,NTP,0000,0000,0000,,这些元素之所以被称为稀土元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which are called rare earth elements for a reason,
+Dialogue: 0,0:39:52.54,0:39:54.41,Default,NTP,0000,0000,0000,,是因为它们在地球上很罕见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they're rare on the earth.
+Dialogue: 0,0:39:54.51,0:39:57.23,Default,NTP,0000,0000,0000,,而在某些种小行星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They might not be so rare
+Dialogue: 0,0:39:57.23,0:39:59.21,Default,NTP,0000,0000,0000,,它们也许常见得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in certain kinds of asteroids.
+Dialogue: 0,0:39:59.32,0:40:02.52,Default,NTP,0000,0000,0000,,但是研究小行星最主要的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the most important reason to investigate asteroids
+Dialogue: 0,0:40:02.62,0:40:05.46,Default,NTP,0000,0000,0000,,还是因为它们能瞬间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}remains their ability to instantly
+Dialogue: 0,0:40:05.46,0:40:07.99,Default,NTP,0000,0000,0000,,带走无数人的性命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}kill millions of people
+Dialogue: 0,0:40:09.99,0:40:13.70,Default,NTP,0000,0000,0000,,或灭绝全人类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or wipe out the human race altogether.
+Dialogue: 0,0:40:17.43,0:40:19.28,Default,NTP,0000,0000,0000,,为了削弱这种威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To counter this threat,
+Dialogue: 0,0:40:19.78,0:40:24.68,Default,NTP,0000,0000,0000,,NASA在2009年12月 启动了"明智"计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA launched the "Wise" Mission in December 2009.
+Dialogue: 0,0:40:26.74,0:40:28.86,Default,NTP,0000,0000,0000,,广域红外探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The wide field infrared survey explorer
+Dialogue: 0,0:40:28.86,0:40:30.38,Default,NTP,0000,0000,0000,,已经发现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has already found
+Dialogue: 0,0:40:30.45,0:40:33.25,Default,NTP,0000,0000,0000,,25000颗小行星和12多颗彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}25,000 asteroids and more than a dozen comets
+Dialogue: 0,0:40:33.35,0:40:38.22,Default,NTP,0000,0000,0000,,这些用以前的可见光无法侦测到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that were too dark to find using visible light.
+Dialogue: 0,0:40:39.22,0:40:41.92,Default,NTP,0000,0000,0000,,它在不停观测我们的太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's actually looking all around our solar system,
+Dialogue: 0,0:40:41.49,0:40:45.07,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}特拉维斯·斯·泰勒\N物理学家
+Dialogue: 0,0:40:42.34,0:40:45.17,Default,NTP,0000,0000,0000,,希望能覆盖99%的天空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hopefully to look at 99% of the sky
+Dialogue: 0,0:40:45.17,0:40:46.69,Default,NTP,0000,0000,0000,,并努力定位更多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and try and map more
+Dialogue: 0,0:40:46.73,0:40:48.56,Default,NTP,0000,0000,0000,,我们之前没能发现的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of these near-earth objects, these asteroids
+Dialogue: 0,0:40:48.60,0:40:50.47,Default,NTP,0000,0000,0000,,近地物体和小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we haven't found in the past.
+Dialogue: 0,0:40:50.57,0:40:52.57,Default,NTP,0000,0000,0000,,希望这能帮助我们弄清\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And hopefully, that will help us in understanding
+Dialogue: 0,0:40:52.60,0:40:56.67,Default,NTP,0000,0000,0000,,是否存在一些短期内可能与地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if there are any that are in near-term
+Dialogue: 0,0:40:56.67,0:40:58.57,Default,NTP,0000,0000,0000,,发生碰撞的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}collision courses with the earth.
+Dialogue: 0,0:40:58.67,0:41:02.41,Default,NTP,0000,0000,0000,,尽管头版新闻不经常报道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And even though it doesn't usually make front page news,
+Dialogue: 0,0:41:02.51,0:41:05.33,Default,NTP,0000,0000,0000,,但已有许多小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are already plenty of asteroids
+Dialogue: 0,0:41:05.33,0:41:07.15,Default,NTP,0000,0000,0000,,近距离经过了地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that pass close to earth.
+Dialogue: 0,0:41:08.22,0:41:12.15,Default,NTP,0000,0000,0000,,在2010年4月  一颗70英尺宽的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In April 2010, a 70-foot-wide asteroid passed
+Dialogue: 0,0:41:12.22,0:41:15.73,Default,NTP,0000,0000,0000,,从距离地球220000英里的地方经过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}within 220,000 miles of earth,
+Dialogue: 0,0:41:16.28,0:41:18.67,Default,NTP,0000,0000,0000,,这要小于地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is closer than the distance
+Dialogue: 0,0:41:18.67,0:41:21.06,Default,NTP,0000,0000,0000,,到月亮的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the earth to the moon.
+Dialogue: 0,0:41:21.13,0:41:22.76,Default,NTP,0000,0000,0000,,在这的几个月前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a few months before that,
+Dialogue: 0,0:41:22.76,0:41:27.34,Default,NTP,0000,0000,0000,,一颗23英尺宽的小行星更加接近地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a 23-foot-wide asteroid came much closer.
+Dialogue: 0,0:41:28.94,0:41:31.49,Default,NTP,0000,0000,0000,,在2009年的冬天  也就是11月的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the winter of 2009, in November,
+Dialogue: 0,0:41:31.49,0:41:32.07,Default,NTP,0000,0000,0000,,一颗小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there was an asteroid
+Dialogue: 0,0:41:32.14,0:41:33.93,Default,NTP,0000,0000,0000,,简直是与地球擦肩而过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that passed so close to the earth,
+Dialogue: 0,0:41:33.93,0:41:34.98,Default,NTP,0000,0000,0000,,它离地球最近时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was only 8,000-9,000 miles
+Dialogue: 0,0:41:35.04,0:41:37.41,Default,NTP,0000,0000,0000,,仅仅相隔8000到9000英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}away at its closest approach.
+Dialogue: 0,0:41:37.48,0:41:40.43,Default,NTP,0000,0000,0000,,直到它离我们咫尺之遥时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we didn't know about that
+Dialogue: 0,0:41:40.43,0:41:41.98,Default,NTP,0000,0000,0000,,我们才意识到这一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until it got fairly close.
+Dialogue: 0,0:41:42.59,0:41:45.47,Default,NTP,0000,0000,0000,,这段距离相当于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's about the same distance as flying
+Dialogue: 0,0:41:45.47,0:41:49.06,Default,NTP,0000,0000,0000,,从洛杉矶飞至印度孟买的航程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from Los Angeles to Mumbai, India.
+Dialogue: 0,0:41:51.16,0:41:54.80,Default,NTP,0000,0000,0000,,回到1972年  在临近怀俄明州大提顿的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And back in 1972, a tourist's camera
+Dialogue: 0,0:41:54.86,0:41:56.65,Default,NTP,0000,0000,0000,,一名旅客的摄像机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}near the grand Tetons in Wyoming
+Dialogue: 0,0:41:56.65,0:41:59.13,Default,NTP,0000,0000,0000,,捕捉到一个类似大小物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}captured a much closer pass
+Dialogue: 0,0:41:59.17,0:42:02.14,Default,NTP,0000,0000,0000,,以近得多的距离擦过地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by a similar-sized object.
+Dialogue: 0,0:42:03.17,0:42:07.11,Default,NTP,0000,0000,0000,,1972年的小行星几乎就撞上了地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The 1972 event was about as close as
+Dialogue: 0,0:42:07.11,0:42:09.08,Default,NTP,0000,0000,0000,,当然最后没发生碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can get to a collision without actually colliding.
+Dialogue: 0,0:42:09.18,0:42:11.98,Default,NTP,0000,0000,0000,,按照它行进的路线  本该撞上地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On its way in, it was going to collide with the earth,
+Dialogue: 0,0:42:12.05,0:42:14.15,Default,NTP,0000,0000,0000,,但由于大气压力的作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it skipped off of the atmosphere
+Dialogue: 0,0:42:14.18,0:42:16.41,Default,NTP,0000,0000,0000,,它掠过了大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}due to the pressure of the air,
+Dialogue: 0,0:42:16.41,0:42:18.15,Default,NTP,0000,0000,0000,,就像打水漂一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like a pebble being skipped off
+Dialogue: 0,0:42:18.19,0:42:20.82,Default,NTP,0000,0000,0000,,卵石掠过湖面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the surface of a lake.
+Dialogue: 0,0:42:20.96,0:42:23.09,Default,NTP,0000,0000,0000,,那可真是次亲密接触\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was a really close call.
+Dialogue: 0,0:42:24.16,0:42:28.36,Default,NTP,0000,0000,0000,,随后的2008年10月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then, in October 2008, a small and seemingly
+Dialogue: 0,0:42:28.46,0:42:30.70,Default,NTP,0000,0000,0000,,在非洲苏丹的偏远地区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}uneventful impact occurred in a remote part
+Dialogue: 0,0:42:30.80,0:42:34.10,Default,NTP,0000,0000,0000,,发生了一次看似无关痛痒的冲撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the African country of Sudan.
+Dialogue: 0,0:42:35.17,0:42:38.11,Default,NTP,0000,0000,0000,,可它象征了人类在预测小行星撞击领域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it actually represented a giant step forward
+Dialogue: 0,0:42:38.17,0:42:41.11,Default,NTP,0000,0000,0000,,跨出的一大步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the science of predicting asteroid impacts.
+Dialogue: 0,0:42:43.18,0:42:45.44,Default,NTP,0000,0000,0000,,人们发现了一颗小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A small asteroid was discovered
+Dialogue: 0,0:42:45.44,0:42:47.15,Default,NTP,0000,0000,0000,,并预测它会在第二天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it was predicted to land
+Dialogue: 0,0:42:47.18,0:42:49.92,Default,NTP,0000,0000,0000,,在苏丹落地  最后的确如此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in Sudan the next day, and it did.
+Dialogue: 0,0:42:50.02,0:42:52.52,Default,NTP,0000,0000,0000,,这是我们第一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, this is the first case we have of an object
+Dialogue: 0,0:42:52.56,0:42:55.02,Default,NTP,0000,0000,0000,,观测到一个物体  并预测出它落地的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was discovered and then predicted to land
+Dialogue: 0,0:42:55.16,0:42:57.66,Default,NTP,0000,0000,0000,,详尽时间与地点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a particular time and place.
+Dialogue: 0,0:42:57.73,0:43:01.03,Default,NTP,0000,0000,0000,,事实上  随后人们在沙漠中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in fact, fragments of this object were later found
+Dialogue: 0,0:43:01.10,0:43:03.20,Default,NTP,0000,0000,0000,,发现了它的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over the desert.
+Dialogue: 0,0:43:04.00,0:43:04.98,Default,NTP,0000,0000,0000,,可是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that was only
+Dialogue: 0,0:43:04.99,0:43:08.44,Default,NTP,0000,0000,0000,,这次只有一天预警的撞击不过是米粒之珠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a small impact with a single day's notice.
+Dialogue: 0,0:43:09.54,0:43:12.71,Default,NTP,0000,0000,0000,,如今  我们到底有没有能力去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today, the jury is still out on whether we'll be able
+Dialogue: 0,0:43:12.74,0:43:15.54,Default,NTP,0000,0000,0000,,识别并避免一次毁灭地球的灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to identify and deflect something that could inflict
+Dialogue: 0,0:43:15.58,0:43:19.31,Default,NTP,0000,0000,0000,,还尚无定论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}catastrophic damage on earth.
+Dialogue: 0,0:43:20.02,0:43:22.18,Default,NTP,0000,0000,0000,,科学家们相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe there are still millions
+Dialogue: 0,0:43:22.22,0:43:25.09,Default,NTP,0000,0000,0000,,无数未知的小行星仍飘荡在宇宙中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of unidentified asteroids out there
+Dialogue: 0,0:43:25.19,0:43:27.34,Default,NTP,0000,0000,0000,,它们可能摧毁一座城市\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}capable of destroying a city...
+Dialogue: 0,0:43:28.34,0:43:32.99,Default,NTP,0000,0000,0000,,或更糟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or worse.
+Dialogue: 0,0:43:33.70,0:43:34.64,Default,NTP,0000,0000,0000,,我们能找出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will we be able to figure out
+Dialogue: 0,0:43:35.14,0:43:37.37,Default,NTP,0000,0000,0000,,那些不速之客吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which ones will cross our path?
+Dialogue: 0,0:43:37.93,0:43:40.94,Default,NTP,0000,0000,0000,,我们能阻止它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And will we be able to prevent them from
+Dialogue: 0,0:43:40.94,0:43:43.10,Default,NTP,0000,0000,0000,,撞上地球吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}slamming into earth?
+Dialogue: 0,0:43:43.21,0:43:47.54,Default,NTP,0000,0000,0000,,我们承受不起如此之高的风险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The stakes couldn't possibly be any higher.
+Dialogue: 0,0:43:48.58,0:43:51.52,Default,NTP,0000,0000,0000,,对小行星的每一点新发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each new discovery in the world of asteroids
+Dialogue: 0,0:43:51.80,0:43:53.99,Default,NTP,0000,0000,0000,,都不仅仅象征着科技的进步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}isn't just a scientific advance,
+Dialogue: 0,0:43:54.56,0:43:58.04,Default,NTP,0000,0000,0000,,更意味着人类幸存下去的概率有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but an opportunity to increase the survival chances
+Dialogue: 0,0:43:58.56,0:44:00.17,Default,NTP,0000,0000,0000,,因此提升\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of mankind.

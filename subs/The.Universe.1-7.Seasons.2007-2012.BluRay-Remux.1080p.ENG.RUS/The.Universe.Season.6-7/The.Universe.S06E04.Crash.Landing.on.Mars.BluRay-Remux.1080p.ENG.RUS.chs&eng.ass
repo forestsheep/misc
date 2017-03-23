@@ -1,0 +1,764 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:14.51,0:01:16.51,Default,,0,0,0008,,{\blur3}宇宙:迫降火星
+Dialogue: 0,0:02:28.11,0:02:31.85,Default,,0,0,0008,,{\an8\blur3}火星探索队 第174天 即将登陆
+Dialogue: 0,0:03:43.66,0:03:45.43,Default,,0,0,0008,,{\an8\blur3}一个是机械师 一个是科学家
+Dialogue: 0,0:09:11.41,0:09:15.68,Default,,0,0,0008,,{\an8\blur3}火星探索队:生活舱位置不明
+Dialogue: 0,0:12:13.85,0:12:24.29,Default,,0,0,0008,,{\an8\blur3}与火星探索队失去联络时间: 16小时
+Dialogue: 0,0:13:41.20,0:13:43.74,Default,,0,0,0008,,{\an8\blur3}水手谷:通讯恢复
+Dialogue: 0,0:14:01.74,0:14:04.16,Default,,0,0,0008,,{\an8\blur3}余度是为了确保安全而考虑的一种设计手段
+Dialogue: 0,0:21:30.30,0:21:39.99,Default,,0,0,0008,,{\an8\blur3}水手峡谷 三级红色警报
+Dialogue: 0,0:23:23.33,0:23:30.25,Default,,0,0,0008,,{\an8\blur3}水手峡谷: 耀斑粒子流来袭倒计时: 7分钟
+Dialogue: 0,0:25:19.39,0:25:22.09,Default,,0,0,0008,,{\an8\blur3}水手号峡谷 任务计划改变
+Dialogue: 0,0:25:25.53,0:25:30.81,Default,,0,0,0008,,{\an8\blur3}指令长:休斯顿指挥中心\N我们做出了一个决定我们一致决定不立即返回地球
+Dialogue: 0,0:26:26.10,0:26:35.67,Default,,0,0,0008,,{\an8\blur3}水手峡谷外流渠道
+Dialogue: 0,0:29:27.87,0:29:39.88,Default,,0,0,0008,,{\an8\blur3}水手峡谷外流渠道
+Dialogue: 0,0:32:58.85,0:33:10.78,Default,,0,0,0008,,{\an8\blur3}返地舱位置 已到达
+Dialogue: 0,0:33:59.05,0:34:00.98,Default,,0,0,0008,,{\an8\blur3}询问宇宙
+Dialogue: 0,0:34:01.96,0:34:17.79,Default,,0,0,0008,,{\an8\blur3}是什么引起了火星的沙尘暴
+Dialogue: 0,0:38:08.24,0:38:11.01,Default,,0,0,0008,,{\an8\blur3}火星基地一号 任务进行中
+Dialogue: 0,0:42:51.30,0:42:55.72,Default,,0,0,0008,,{\an8\blur3}火星基地一号 返程开始
+Dialogue: 0,0:43:15.38,0:43:18.57,Default,,0,0,0008,,{\an8\blur3}火星探索队2 第一天
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:21.56,0:00:24.02,Default,,0,0,0,,{\blur3}你在一个陌生的星球举步维艰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're lost on an alien planet.{\r}
+Dialogue: 0,0:00:24.73,0:00:26.33,Default,,0,0,0,,{\blur3}食物所剩无几{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Food is running low.{\r}
+Dialogue: 0,0:00:27.12,0:00:29.00,Default,,0,0,0,,{\blur3}氧气补给日渐减少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oxygen is running out.{\r}
+Dialogue: 0,0:00:29.51,0:00:31.95,Default,,0,0,0,,{\blur3}救助也在遥不可及的地点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Help is 100 million miles away.{\r}
+Dialogue: 0,0:00:33.09,0:00:34.52,Default,,0,0,0,,{\blur3}火星是一个致命的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars, it's a lethal place.{\r}
+Dialogue: 0,0:00:35.38,0:00:38.85,Default,,0,0,0,,{\blur3}哪里才能避免受宇宙辐射的伤害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where can you hide from blasts of space radiation?{\r}
+Dialogue: 0,0:00:40.25,0:00:43.68,Default,,0,0,0,,{\blur3}带电粒子会射向我们地表的宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Charged particles would be hitting any astronauts that we had on the surface.{\r}
+Dialogue: 0,0:00:43.77,0:00:45.03,Default,,0,0,0,,{\blur3}他们没有防护措施{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They would not be protected.{\r}
+Dialogue: 0,0:00:45.75,0:00:48.79,Default,,0,0,0,,{\blur3}如何才能抵御致命的尘暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How can you stand up to a deadly dust storm?{\r}
+Dialogue: 0,0:00:49.48,0:00:52.39,Default,,0,0,0,,{\blur3}火星上的尘土能侵蚀掉航天服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The dust on Mars could eat away at the fabric of a space suit.{\r}
+Dialogue: 0,0:00:52.48,0:00:53.50,Default,,0,0,0,,{\blur3}这是非常可怕的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That would be catastrophic.{\r}
+Dialogue: 0,0:00:55.24,0:00:57.98,Default,,0,0,0,,{\blur3}氧气不足时 你该怎么办{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What will you do when you run out of air?{\r}
+Dialogue: 0,0:00:58.36,0:01:00.40,Default,,0,0,0,,{\blur3}你会非常痛苦地死去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You will die a horrible death.{\r}
+Dialogue: 0,0:01:01.23,0:01:05.50,Default,,0,0,0,,{\blur3}紧急降落火星后 你如何能够生还{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How can you survive crash-landing on Mars?{\r}
+Dialogue: 0,0:01:19.66,0:01:22.33,Default,,0,0,0,,{\blur3}人类迫降在火星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Humans crash landing on Mars.{\r}
+Dialogue: 0,0:01:25.81,0:01:28.71,Default,,0,0,0,,{\blur3}在恶劣的环境中求生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Struggling to survive on a hostile world.{\r}
+Dialogue: 0,0:01:30.19,0:01:33.05,Default,,0,0,0,,{\blur3}这一直是科幻电影热门的素材{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's been a favorite theme of science-fiction movies.{\r}
+Dialogue: 0,0:01:37.58,0:01:39.75,Default,,0,0,0,,{\blur3}这其中有许多事都搞错了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They got a lot of things wrong.{\r}
+Dialogue: 0,0:01:43.70,0:01:45.71,Default,,0,0,0,,{\blur3}可是包括美国在内的许多国家的宇航局{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But NASA and other space agencies{\r}
+Dialogue: 0,0:01:45.71,0:01:50.25,Default,,0,0,0,,{\blur3}正筹备要在未来几十年内将人类送上火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are planning to send people to the red planet in the next few decades.{\r}
+Dialogue: 0,0:01:53.07,0:01:57.51,Default,,0,0,0,,{\blur3}所以我们要考虑火星上迫降和生存的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the questions of crash-landing and survival have to be taken seriously.{\r}
+Dialogue: 0,0:01:59.74,0:02:01.59,Default,,0,0,0,,{\blur3}要知道 你要做的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, think about what you're trying to do.{\r}
+Dialogue: 0,0:02:01.81,0:02:03.55,Default,,0,0,0,,{\blur3}是将探索队送上火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're sending a mission to Mars,{\r}
+Dialogue: 0,0:02:03.87,0:02:07.95,Default,,0,0,0,,{\blur3}着陆地点和环境都是你一无所知的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're sending it to an unknown location within an unknown environment.{\r}
+Dialogue: 0,0:02:08.32,0:02:11.75,Default,,0,0,0,,{\blur3}一步走错{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All it takes is one thing to go wrong...{\r}
+Dialogue: 0,0:02:11.75,0:02:14.73,Default,,0,0,0,,{\blur3}整盘皆输{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then you've lost the whole mission.{\r}
+Dialogue: 0,0:02:18.34,0:02:21.67,Default,,0,0,0,,{\blur3}本节目是根据最近的科研成果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This program, based on recent scientific information,{\r}
+Dialogue: 0,0:02:21.92,0:02:26.84,Default,,0,0,0,,{\blur3}展示了不久的将来可能发生的情景{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}presents one possible scenario of what might happen in the near future.{\r}
+Dialogue: 0,0:02:31.72,0:02:35.76,Default,,0,0,0,,{\blur3}想象一下 国际探索队将去探索火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine that international crew has been selected to explore Mars{\r}
+Dialogue: 0,0:02:36.08,0:02:38.90,Default,,0,0,0,,{\blur3}并为建立永久基地做好准备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and set the stage for a permanent base.{\r}
+Dialogue: 0,0:02:41.16,0:02:48.01,Default,,0,0,0,,{\blur3}老电影中的这些人智勇双全 技能熟练{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In old movies, such crews were brave, skilled, and resourceful.{\r}
+Dialogue: 0,0:02:48.62,0:02:51.59,Default,,0,0,0,,{\blur3}电影的这一部分倒是说对了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, the movies got that part right.{\r}
+Dialogue: 0,0:02:52.45,0:02:55.54,Default,,0,0,0,,{\blur3}总之 我们选拔人才组成一个小的团队{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bottom line is that when we're dealing with a small group of individuals{\r}
+Dialogue: 0,0:02:55.79,0:02:57.53,Default,,0,0,0,,{\blur3}而不是一大群人时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forming a crew, not a large community,{\r}
+Dialogue: 0,0:02:57.61,0:02:58.65,Default,,0,0,0,,{\blur3}有一个起码的标准{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but a small group of people,{\r}
+Dialogue: 0,0:02:59.25,0:03:03.68,Default,,0,0,0,,{\blur3}每一个人员的选拔都非常重要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the specific individuals that you end up selecting is really very important.{\r}
+Dialogue: 0,0:03:04.85,0:03:06.33,Default,,0,0,0,,{\blur3}你会把谁送上火星呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Who would you send to Mars?{\r}
+Dialogue: 0,0:03:07.08,0:03:11.45,Default,,0,0,0,,{\blur3}不是那些杂而不精的人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not jacks of all trades, uh, who are aces at none.{\r}
+Dialogue: 0,0:03:11.58,0:03:15.80,Default,,0,0,0,,{\blur3}你希望你的团队每个方面都有能手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You want, uh, aces at many trades on your crew.{\r}
+Dialogue: 0,0:03:17.03,0:03:21.49,Default,,0,0,0,,{\blur3}队员最重要的能力就是维修能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most important skill among the crew is that of mechanic.{\r}
+Dialogue: 0,0:03:21.62,0:03:24.12,Default,,0,0,0,,{\blur3}四人团队中我要有两人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I would have two of the four members of the crew{\r}
+Dialogue: 0,0:03:24.20,0:03:28.25,Default,,0,0,0,,{\blur3}是能够维修机械的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}selected primarily for their ability to fix things.{\r}
+Dialogue: 0,0:03:28.81,0:03:32.43,Default,,0,0,0,,{\blur3}除了机械师 团队中最重要的技能人才{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After mechanic, the most important skill among the crew{\r}
+Dialogue: 0,0:03:32.52,0:03:35.96,Default,,0,0,0,,{\blur3}是实地考察科学家 他们能够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that of field scientist, people that are qualified to{\r}
+Dialogue: 0,0:03:36.07,0:03:39.64,Default,,0,0,0,,{\blur3}根据地质线索找到化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}follow hints in the geology to find fossils{\r}
+Dialogue: 0,0:03:39.89,0:03:41.85,Default,,0,0,0,,{\blur3}或是找到可开采的水源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or to find places where we can drill for water,{\r}
+Dialogue: 0,0:03:42.11,0:03:43.56,Default,,0,0,0,,{\blur3}用《星际迷航》的话说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}okay, in Star Trek terminology,{\r}
+Dialogue: 0,0:03:43.66,0:03:45.37,Default,,0,0,0,,{\blur3}要两个史考特和两个斯波克{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}two Scottys and two Spocks.{\r}
+Dialogue: 0,0:03:48.04,0:03:50.70,Default,,0,0,0,,{\blur3}还有一点是老电影里弄错了的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But here's something old movies got wrong,{\r}
+Dialogue: 0,0:03:52.35,0:03:57.16,Default,,0,0,0,,{\blur3}即人类只需一艘尖头宇宙飞船便可抵达火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the idea that humans will fly to Mars in a single needle-nosed spaceship.{\r}
+Dialogue: 0,0:03:59.83,0:04:01.93,Default,,0,0,0,,{\blur3}与那些旧时的科幻电影中看到的不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unlike the case in many old science-fiction movies,{\r}
+Dialogue: 0,0:04:02.04,0:04:04.19,Default,,0,0,0,,{\blur3}用多艘宇宙飞船将物资送去火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's actually cheaper and more efficient{\r}
+Dialogue: 0,0:04:04.51,0:04:07.83,Default,,0,0,0,,{\blur3}会更低廉也更高效{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to send a bunch of material to Mars on different rocket ships.{\r}
+Dialogue: 0,0:04:08.27,0:04:10.54,Default,,0,0,0,,{\blur3}你要是想只用一艘飞船装载所有物资{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you try to put them on one rocket ship,{\r}
+Dialogue: 0,0:04:10.94,0:04:13.37,Default,,0,0,0,,{\blur3}那就需要一艘巨型飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it turns out that that ship has to be enormous{\r}
+Dialogue: 0,0:04:13.66,0:04:15.13,Default,,0,0,0,,{\blur3}甚至需要核能推动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and probably nuclear-powered, and{\r}
+Dialogue: 0,0:04:15.59,0:04:18.23,Default,,0,0,0,,{\blur3}并由此引发许多连带问题和风险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's all sorts of dangers and problems associated with that.{\r}
+Dialogue: 0,0:04:20.45,0:04:23.31,Default,,0,0,0,,{\blur3}实际上 火星宇的航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In most real-life scenarios, the Mars astronauts{\r}
+Dialogue: 0,0:04:23.40,0:04:26.63,Default,,0,0,0,,{\blur3}用不同的太空舱来着陆和起飞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will land and leave in separate crafts.{\r}
+Dialogue: 0,0:04:28.34,0:04:31.62,Default,,0,0,0,,{\blur3}在长达十八个月的火星考察中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The habitat module, or hab, will be their home during their{\r}
+Dialogue: 0,0:04:31.71,0:04:34.81,Default,,0,0,0,,{\blur3}生活舱就是宇航员的家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}18-month mission on the martian surface.{\r}
+Dialogue: 0,0:04:36.27,0:04:38.94,Default,,0,0,0,,{\blur3}生活舱备有加压漫游车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They'll take long-range trips in a pressurized rover{\r}
+Dialogue: 0,0:04:39.32,0:04:41.12,Default,,0,0,0,,{\blur3}他们将用此车进行一次长途旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}packed along with them on the hab.{\r}
+Dialogue: 0,0:04:42.27,0:04:44.00,Default,,0,0,0,,{\blur3}一辆小型短程漫游车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A smaller rover, for shorter trips,{\r}
+Dialogue: 0,0:04:44.27,0:04:46.23,Default,,0,0,0,,{\blur3}已经在着陆点就位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has been pre-positioned at the landing site{\r}
+Dialogue: 0,0:04:46.53,0:04:48.62,Default,,0,0,0,,{\blur3}旁边就是宇航员的返回舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}along with the astronauts' ride home,{\r}
+Dialogue: 0,0:04:49.01,0:04:52.37,Default,,0,0,0,,{\blur3}这就是返回地球舱 简称返地舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth Return Vehicle, or ERV.{\r}
+Dialogue: 0,0:04:54.39,0:04:57.07,Default,,0,0,0,,{\blur3}它不仅在等待宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ERV isn't just waiting for the astronauts...{\r}
+Dialogue: 0,0:04:57.77,0:05:02.92,Default,,0,0,0,,{\blur3}它还在将火星资源转化为火箭燃料和可用空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's transforming martian resources into rocket fuel and breathable air.{\r}
+Dialogue: 0,0:05:04.64,0:05:08.15,Default,,0,0,0,,{\blur3}返地舱有一个泵 能抽进火星的空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Earth Return Vehicle runs a pump which sucks in the martian air,{\r}
+Dialogue: 0,0:05:08.43,0:05:11.90,Default,,0,0,0,,{\blur3}这里二氧化碳含量为95%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is 95% carbon dioxide gas,{\r}
+Dialogue: 0,0:05:11.90,0:05:13.28,Default,,0,0,0,,{\blur3}我们可以用这些二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we can react that carbon dioxide gas{\r}
+Dialogue: 0,0:05:13.58,0:05:15.68,Default,,0,0,0,,{\blur3}和我们从地球带来的少量氢气混合反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a small amount of hydrogen that we've brought from Earth{\r}
+Dialogue: 0,0:05:16.04,0:05:20.80,Default,,0,0,0,,{\blur3}便能产生大量的甲烷 燃料和氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to produce a large supply of methane fuel and oxygen.{\r}
+Dialogue: 0,0:05:21.26,0:05:24.90,Default,,0,0,0,,{\blur3}你的四名宇航员在返地舱附近登陆火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Your crew of four astronauts land on Mars near the Earth return Vehicle,{\r}
+Dialogue: 0,0:05:25.33,0:05:28.15,Default,,0,0,0,,{\blur3}他们把生活舱当作实验室和考察基地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they use their habitat as their laboratory, as their exploration base,{\r}
+Dialogue: 0,0:05:28.54,0:05:29.41,Default,,0,0,0,,{\blur3}考察结束后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but when they're done,{\r}
+Dialogue: 0,0:05:29.74,0:05:32.88,Default,,0,0,0,,{\blur3}他们就坐返地舱返回地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they get in the Earth Return Vehicle and they fly back to Earth.{\r}
+Dialogue: 0,0:05:32.99,0:05:34.54,Default,,0,0,0,,{\blur3}他们将生活舱留在火星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They leave the hab behind on Mars,{\r}
+Dialogue: 0,0:05:34.85,0:05:37.46,Default,,0,0,0,,{\blur3}每次探索我们都会为基地增加一个生活舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so each time we do this we add another hab to the base,{\r}
+Dialogue: 0,0:05:37.75,0:05:38.54,Default,,0,0,0,,{\blur3}很快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and before you know it{\r}
+Dialogue: 0,0:05:38.81,0:05:41.63,Default,,0,0,0,,{\blur3}我们就能在火星开始建立人类定居地了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've got the beginning of the first human settlement on a new world.{\r}
+Dialogue: 0,0:05:45.46,0:05:47.30,Default,,0,0,0,,{\blur3}我们应该在火星哪里着陆呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So where should we land on Mars?{\r}
+Dialogue: 0,0:05:47.55,0:05:50.78,Default,,0,0,0,,{\blur3}火星很令人着迷 那里有许多有趣的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, Mars is a fascinating planet... There's a lot of interesting areas.{\r}
+Dialogue: 0,0:05:50.92,0:05:54.45,Default,,0,0,0,,{\blur3}选择赤道附近的地点也许会好一些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It might be better, initially, to choose a region near the equator,{\r}
+Dialogue: 0,0:05:54.70,0:05:59.33,Default,,0,0,0,,{\blur3}最好是平坦区域 但要靠近地貌奇特的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially a flat area, but also near geologically interesting features.{\r}
+Dialogue: 0,0:06:01.73,0:06:06.26,Default,,0,0,0,,{\blur3}生活舱降落的技术必须万无一失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One thing that mustn't go wrong is the hab's landing technique,{\r}
+Dialogue: 0,0:06:06.67,0:06:08.71,Default,,0,0,0,,{\blur3}即大气煞车法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called aerobraking.{\r}
+Dialogue: 0,0:06:10.85,0:06:16.53,Default,,0,0,0,,{\blur3}大气煞车法是利用火星大气层的摩擦力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Aerobraking is the art of using the friction of the martian atmosphere{\r}
+Dialogue: 0,0:06:16.53,0:06:18.92,Default,,0,0,0,,{\blur3}降低宇宙飞船的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to slow down the spacecraft.{\r}
+Dialogue: 0,0:06:21.00,0:06:24.93,Default,,0,0,0,,{\blur3}设想这就是进入火星大气层的生活舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine this ball is the habitat module entering the martian atmosphere.{\r}
+Dialogue: 0,0:06:25.49,0:06:27.66,Default,,0,0,0,,{\blur3}这根杆子就是火星 非常细小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The pole is Mars, a very skinny Mars.{\r}
+Dialogue: 0,0:06:28.39,0:06:31.76,Default,,0,0,0,,{\blur3}现在我可以用火箭慢慢降低它的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, I could use rockets to gently slow this thing down{\r}
+Dialogue: 0,0:06:32.18,0:06:35.31,Default,,0,0,0,,{\blur3}在预设的地方着陆 也就是胶带的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and land at the desired spot, where this duct tape is,{\r}
+Dialogue: 0,0:06:35.75,0:06:38.28,Default,,0,0,0,,{\blur3}但这就需要许多能量 也就是燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that would require a lot of energy, which requires fuel,{\r}
+Dialogue: 0,0:06:38.54,0:06:39.79,Default,,0,0,0,,{\blur3}燃料很重且成本高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's heavy and expensive.{\r}
+Dialogue: 0,0:06:40.57,0:06:45.39,Default,,0,0,0,,{\blur3}取而代之 我们可以用火星的大气层来减速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead, we could let the martian atmosphere slow the hab down.{\r}
+Dialogue: 0,0:06:45.53,0:06:47.36,Default,,0,0,0,,{\blur3}看呐 它正在慢慢减速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}See that, it's gently slowing down.{\r}
+Dialogue: 0,0:06:47.51,0:06:51.47,Default,,0,0,0,,{\blur3}而只有在最后 非常接近地表的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And only near the very end, when it's getting very close to the surface,{\r}
+Dialogue: 0,0:06:51.87,0:06:53.90,Default,,0,0,0,,{\blur3}我们才需要用到减速火箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would we turn on some retrorockets{\r}
+Dialogue: 0,0:06:54.20,0:06:56.63,Default,,0,0,0,,{\blur3}还有气球降落伞 即气伞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and use a balloon parachute called a ballute{\r}
+Dialogue: 0,0:06:56.96,0:07:00.38,Default,,0,0,0,,{\blur3}使之在特定位置降落 比如胶带那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to bring it to the desired location. Like that.{\r}
+Dialogue: 0,0:07:00.81,0:07:04.32,Default,,0,0,0,,{\blur3}风险就在于 如果进入的角度不对{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, the danger is that if the angle of entry is wrong{\r}
+Dialogue: 0,0:07:04.32,0:07:07.61,Default,,0,0,0,,{\blur3}或是速度太快 那么就会导致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the speed is too fast, then, in fact,{\r}
+Dialogue: 0,0:07:07.61,0:07:10.59,Default,,0,0,0,,{\blur3}摩擦超过防热罩的承受能力 减速伞和{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}friction can overwhelm the heat shield, the aeroshell,{\r}
+Dialogue: 0,0:07:10.59,0:07:14.23,Default,,0,0,0,,{\blur3}舱体会像流星一样在大气层中燃烧起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the hab can burn up like a meteor in the martian atmosphere.{\r}
+Dialogue: 0,0:07:14.42,0:07:16.20,Default,,0,0,0,,{\blur3}只要是微小的计算错误{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And even a slight miscalculation{\r}
+Dialogue: 0,0:07:16.51,0:07:20.21,Default,,0,0,0,,{\blur3}都能导致硬着陆或是在错误地点着陆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can lead to a landing that's too rough or in the wrong place.{\r}
+Dialogue: 0,0:07:22.60,0:07:25.18,Default,,0,0,0,,{\blur3}着陆过程极其复杂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's about a thousand things that have to happen.{\r}
+Dialogue: 0,0:07:25.41,0:07:28.20,Default,,0,0,0,,{\blur3}利用防热罩进入大气层 速度会很快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Come in on a heat shield, going quite fast,{\r}
+Dialogue: 0,0:07:28.44,0:07:31.18,Default,,0,0,0,,{\blur3}利用大气的摩擦来减速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}use the friction of the atmosphere to help slow you down.{\r}
+Dialogue: 0,0:07:31.81,0:07:33.89,Default,,0,0,0,,{\blur3}要把防热罩抛掉才能着陆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The heat shield, the heat shield needs to be jettisoned.{\r}
+Dialogue: 0,0:07:34.00,0:07:37.32,Default,,0,0,0,,{\blur3}在穿越大气层时要尽全力制动减速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You need to aerobrake through the atmosphere as much as you can.{\r}
+Dialogue: 0,0:07:37.32,0:07:40.66,Default,,0,0,0,,{\blur3}通过弹出降落伞来减缓下降速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You need to pop out a parachute to slow yourself down.{\r}
+Dialogue: 0,0:07:40.77,0:07:43.66,Default,,0,0,0,,{\blur3}近地面时很可能用到反推火箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You probably then need retrorockets at the bottom.{\r}
+Dialogue: 0,0:07:43.75,0:07:45.77,Default,,0,0,0,,{\blur3}落地后要把降落伞割断并丢弃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You need to cut the parachute to get it away from you.{\r}
+Dialogue: 0,0:07:45.93,0:07:51.05,Default,,0,0,0,,{\blur3}在所有困难的步骤中 这步是难上加难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is extremely difficult, among the most difficult things there is to do.{\r}
+Dialogue: 0,0:07:54.08,0:07:56.71,Default,,0,0,0,,{\blur3}但在距离火星表面仅几公里处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then, a few miles above the surface,{\r}
+Dialogue: 0,0:07:56.72,0:07:59.03,Default,,0,0,0,,{\blur3}出现了非常困难的状况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something goes very wrong.{\r}
+Dialogue: 0,0:08:00.61,0:08:05.10,Default,,0,0,0,,{\blur3}生活舱猛地闯入巨大的火星尘暴中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The hab hurtles into a martian dust devil of terrifying proportions.{\r}
+Dialogue: 0,0:08:07.04,0:08:09.94,Default,,0,0,0,,{\blur3}火星尘暴其实是大气层中的气旋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dust devils on Mars are vortices in the atmosphere{\r}
+Dialogue: 0,0:08:10.03,0:08:14.34,Default,,0,0,0,,{\blur3}高速运转的气旋 卷起火星表面的沙尘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so rapidly spinning columns of air that lift dust off of the surface.{\r}
+Dialogue: 0,0:08:14.44,0:08:16.86,Default,,0,0,0,,{\blur3}然后吹散到大气中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And loft them into the atmosphere.{\r}
+Dialogue: 0,0:08:17.72,0:08:20.59,Default,,0,0,0,,{\blur3}目前地球上的尘暴高仅一两百米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, on Earth, dust devils may only be a few hundred feet high,{\r}
+Dialogue: 0,0:08:21.10,0:08:24.17,Default,,0,0,0,,{\blur3}但在火星上则高达5至6.5千米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but on Mars, they can be 3 to 4 miles high.{\r}
+Dialogue: 0,0:08:24.27,0:08:25.98,Default,,0,0,0,,{\blur3}尘暴的规模相当大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So they're simply immense structures.{\r}
+Dialogue: 0,0:08:30.09,0:08:32.43,Default,,0,0,0,,{\blur3}尘暴吞噬了生活舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The dust devil engulfs the hab.{\r}
+Dialogue: 0,0:08:32.43,0:08:34.79,Default,,0,0,0,,{\blur3}将其抛离既定轨道 非常危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Throwing it dangerously off course.{\r}
+Dialogue: 0,0:08:36.90,0:08:38.87,Default,,0,0,0,,{\blur3}从德州到哈萨克斯坦的跟踪台{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tracking stations from Texas to Kazakhstan{\r}
+Dialogue: 0,0:08:38.87,0:08:41.15,Default,,0,0,0,,{\blur3}都密切关注着本次着陆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are following the descent.{\r}
+Dialogue: 0,0:08:41.15,0:08:43.28,Default,,0,0,0,,{\blur3}但因为火星实在太远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Mars is so far away,{\r}
+Dialogue: 0,0:08:43.28,0:08:47.36,Default,,0,0,0,,{\blur3}生活舱信号传输到地球要花费18分钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it takes 18 minutes for the hab's transmissions to reach Earth.{\r}
+Dialogue: 0,0:08:48.69,0:08:52.65,Default,,0,0,0,,{\blur3}收到生活舱将要迫降的消息时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the signal comes through that the hab is headed for a crash-landing,{\r}
+Dialogue: 0,0:08:52.65,0:08:55.28,Default,,0,0,0,,{\blur3}宇航员们早已迫降着陆了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the astronauts have already crashed.{\r}
+Dialogue: 0,0:08:55.93,0:09:00.36,Default,,0,0,0,,{\blur3}但是着陆地点在哪 它们是否生还{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But where? And are they alive or dead?{\r}
+Dialogue: 0,0:09:02.72,0:09:04.84,Default,,0,0,0,,{\blur3}起飞和着陆两个过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's only one thing you can do at launch, and there's{\r}
+Dialogue: 0,0:09:04.96,0:09:08.37,Default,,0,0,0,,{\blur3}我们唯一能做的 只有祈祷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only one thing you can do at landing, and that's pray.{\r}
+Dialogue: 0,0:09:18.32,0:09:21.89,Default,,0,0,0,,{\blur3}在火星的某处 宇航员们还活着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Somewhere on Mars the astronauts are alive{\r}
+Dialogue: 0,0:09:22.23,0:09:24.21,Default,,0,0,0,,{\blur3}但联络中断{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but communications are out.{\r}
+Dialogue: 0,0:09:24.62,0:09:26.51,Default,,0,0,0,,{\blur3}他们无法和地球进行联系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They can't talk to Earth.{\r}
+Dialogue: 0,0:09:27.01,0:09:30.59,Default,,0,0,0,,{\blur3}更糟的是尘暴使他们远离既定路线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Worse, the dust devil has taken them far off course.{\r}
+Dialogue: 0,0:09:31.95,0:09:36.05,Default,,0,0,0,,{\blur3}人类首次登陆火星 真真正正是一次壮举{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When humans first land on Mars, it'll be a truly magnificent event.{\r}
+Dialogue: 0,0:09:36.20,0:09:38.21,Default,,0,0,0,,{\blur3}这是史无前例的壮举{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the most historic events ever.{\r}
+Dialogue: 0,0:09:38.46,0:09:41.05,Default,,0,0,0,,{\blur3}但是 我们的宇航员是紧急迫降的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, you know, our astronauts crash-landed.{\r}
+Dialogue: 0,0:09:41.81,0:09:42.93,Default,,0,0,0,,{\blur3}当他们跨出生活舱时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So they're gonna step out{\r}
+Dialogue: 0,0:09:42.94,0:09:46.09,Default,,0,0,0,,{\blur3}并不知道自己位于何处 发生了什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not knowing where they are. What's going on.{\r}
+Dialogue: 0,0:09:48.79,0:09:52.52,Default,,0,0,0,,{\blur3}火星上太阳的亮度仅有地球的一半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun would be about half as bright as it is here.{\r}
+Dialogue: 0,0:09:52.78,0:09:55.46,Default,,0,0,0,,{\blur3}火星赤道上阳光的强度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The intensity of sunlight at the martian equator{\r}
+Dialogue: 0,0:09:55.47,0:10:01.02,Default,,0,0,0,,{\blur3}与地球上的挪威或阿拉斯加相当{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is about the same as that in Norway on Earth, or Alaska.{\r}
+Dialogue: 0,0:10:04.44,0:10:07.12,Default,,0,0,0,,{\blur3}火星地表在阴影下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In shadow, everything on Mars{\r}
+Dialogue: 0,0:10:07.23,0:10:10.58,Default,,0,0,0,,{\blur3}均会呈现黄褐或赤褐色调{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have this kind of yellowish-brown-reddish hue,{\r}
+Dialogue: 0,0:10:10.86,0:10:15.76,Default,,0,0,0,,{\blur3}只有在阳光直射下才较为显现其原色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and only things in direct sunlight would show their more true color,{\r}
+Dialogue: 0,0:10:16.28,0:10:18.65,Default,,0,0,0,,{\blur3}这是光线在红色飞尘颗粒中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's because the light is being bounced around{\r}
+Dialogue: 0,0:10:18.65,0:10:21.15,Default,,0,0,0,,{\blur3}反复折射产生的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}amongst all these reddish dust particles.{\r}
+Dialogue: 0,0:10:24.33,0:10:25.93,Default,,0,0,0,,{\blur3}这是一幅壮丽的画卷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It'll be a wondrous scene.{\r}
+Dialogue: 0,0:10:25.93,0:10:27.53,Default,,0,0,0,,{\blur3}但他们无暇欣赏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But they won't have much time to enjoy it.{\r}
+Dialogue: 0,0:10:27.53,0:10:29.14,Default,,0,0,0,,{\blur3}他们要确定所处的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because they need to figure out where they are,{\r}
+Dialogue: 0,0:10:29.14,0:10:32.35,Default,,0,0,0,,{\blur3}保证自身安全并计划下步行动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how to get themselves to safety, and what to do.{\r}
+Dialogue: 0,0:10:36.27,0:10:41.00,Default,,0,0,0,,{\blur3}在火星上没有仪器 怎样找出方位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How do you find out where you are on Mars without instruments?{\r}
+Dialogue: 0,0:10:41.30,0:10:43.42,Default,,0,0,0,,{\blur3}这些21世纪的宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These 21st-century astronauts{\r}
+Dialogue: 0,0:10:43.42,0:10:46.00,Default,,0,0,0,,{\blur3}转而求助于一种古老的方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}fall back on an ancient technique.{\r}
+Dialogue: 0,0:10:46.00,0:10:48.58,Default,,0,0,0,,{\blur3}天文导航{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Celestial navigation.{\r}
+Dialogue: 0,0:10:50.41,0:10:52.52,Default,,0,0,0,,{\blur3}火卫一和火卫二是火星的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The martian moons, Phobos and Deimos,{\r}
+Dialogue: 0,0:10:52.52,0:10:53.98,Default,,0,0,0,,{\blur3}都运行在赤道轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they're both in equatorial orbits.{\r}
+Dialogue: 0,0:10:54.10,0:10:56.92,Default,,0,0,0,,{\blur3}它们从正东方升起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The point at which they rise, that would be due east.{\r}
+Dialogue: 0,0:10:57.01,0:10:59.23,Default,,0,0,0,,{\blur3}从正西方落下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The point at which they set would be due west.{\r}
+Dialogue: 0,0:10:59.36,0:11:04.05,Default,,0,0,0,,{\blur3}通过计算火卫轨迹顶点与你正上方位的偏差{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At their zenith, to the extent they deviated from being directly overhead,{\r}
+Dialogue: 0,0:11:04.05,0:11:06.34,Default,,0,0,0,,{\blur3}可以得出你所处位置和赤道的距离[纬度]{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would tell you how far you were from the equator.{\r}
+Dialogue: 0,0:11:06.58,0:11:10.09,Default,,0,0,0,,{\blur3}将火卫升起或降落的时间对照万年历{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The time of rise and set, if you compared that to an almanac,{\r}
+Dialogue: 0,0:11:10.33,0:11:11.44,Default,,0,0,0,,{\blur3}一般电脑上都装有的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which you might have in your computer,{\r}
+Dialogue: 0,0:11:11.78,0:11:13.47,Default,,0,0,0,,{\blur3}可以得出你所处位置的经度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would tell you your longitude.{\r}
+Dialogue: 0,0:11:16.41,0:11:18.73,Default,,0,0,0,,{\blur3}结果令人震惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The results are shocking.{\r}
+Dialogue: 0,0:11:18.84,0:11:21.05,Default,,0,0,0,,{\blur3}他们身处峡谷的东半部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They have crashed in the eastern half{\r}
+Dialogue: 0,0:11:21.05,0:11:23.26,Default,,0,0,0,,{\blur3}该峡谷是整个太阳系最大的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the largest canyon in the Solar System.{\r}
+Dialogue: 0,0:11:23.67,0:11:27.38,Default,,0,0,0,,{\blur3}1971年被水手9号探测器发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Discovered in 1971 by the Mariner 9 probe,{\r}
+Dialogue: 0,0:11:27.38,0:11:28.31,Default,,0,0,0,,{\blur3}并因此命名{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and named for it,{\r}
+Dialogue: 0,0:11:28.31,0:11:31.88,Default,,0,0,0,,{\blur3}水手谷位于火星赤道以南{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Valles Marineris is just south of the martian equator,{\r}
+Dialogue: 0,0:11:31.98,0:11:35.26,Default,,0,0,0,,{\blur3}深度是美国大峡谷的数倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}several times as deep as the Grand Canyon{\r}
+Dialogue: 0,0:11:35.26,0:11:38.72,Default,,0,0,0,,{\blur3}长度等同于美国大陆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and as long as the continental United States.{\r}
+Dialogue: 0,0:11:43.34,0:11:46.85,Default,,0,0,0,,{\blur3}宇航员距离地球返回舱数百公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts are hundreds of miles from the Earth Return vehicle.{\r}
+Dialogue: 0,0:11:48.53,0:11:50.53,Default,,0,0,0,,{\blur3}更糟的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there's worse news.{\r}
+Dialogue: 0,0:11:50.53,0:11:54.55,Default,,0,0,0,,{\blur3}氧气从损坏的生命舱中正在快速流失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The damaged hab is leaking oxygen at a critical rate.{\r}
+Dialogue: 0,0:11:54.82,0:11:56.54,Default,,0,0,0,,{\blur3}并且无法修复{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can't be repaired.{\r}
+Dialogue: 0,0:11:58.46,0:12:01.89,Default,,0,0,0,,{\blur3}探索人员数日内可能死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The crew could be dead within days.{\r}
+Dialogue: 0,0:12:16.96,0:12:20.04,Default,,0,0,0,,{\blur3}这是在不久的将来可能发生的一幕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a near future scenario that might happen.{\r}
+Dialogue: 0,0:12:20.91,0:12:24.85,Default,,0,0,0,,{\blur3}第一批人类抵达火星 偏离轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first humans on Mars are hundreds of miles off course.{\r}
+Dialogue: 0,0:12:25.38,0:12:29.15,Default,,0,0,0,,{\blur3}在水手峡谷里孤立无援{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stranded deep in the gigantic Valles Marineris.{\r}
+Dialogue: 0,0:12:29.40,0:12:31.56,Default,,0,0,0,,{\blur3}他们无法与地球取得联系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They can't communicate with earth{\r}
+Dialogue: 0,0:12:31.56,0:12:35.01,Default,,0,0,0,,{\blur3}受损舱体内的空气正在外泄{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and their damaged habitat module is leaking air.{\r}
+Dialogue: 0,0:12:37.50,0:12:40.86,Default,,0,0,0,,{\blur3}几乎每部火星电影都在星球上设计了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Almost every Mars movie imagines a breathable atmosphere{\r}
+Dialogue: 0,0:12:40.86,0:12:42.61,Default,,0,0,0,,{\blur3}至少一块可呼吸区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in at least one section of Mars{\r}
+Dialogue: 0,0:12:42.62,0:12:45.35,Default,,0,0,0,,{\blur3}这样演员就可以把头盔摘掉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so the actors can take off their helmets.{\r}
+Dialogue: 0,0:12:47.43,0:12:52.48,Default,,0,0,0,,{\blur3}但实际上 火星的大气95%都由二氧化碳构成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, in fact, Mars' atmosphere is 95% carbon dioxide{\r}
+Dialogue: 0,0:12:53.80,0:12:58.20,Default,,0,0,0,,{\blur3}与地球三十千米处的大气一样稀薄{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and as thin as Earth's atmosphere at 100,000 feet.{\r}
+Dialogue: 0,0:13:00.00,0:13:02.88,Default,,0,0,0,,{\blur3}我时常惊讶 火星浪漫的景色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm often surprised by how caught up we can be by{\r}
+Dialogue: 0,0:13:03.01,0:13:05.71,Default,,0,0,0,,{\blur3}是那么的令人着迷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this sort of romantic vision of Mars.{\r}
+Dialogue: 0,0:13:05.71,0:13:08.50,Default,,0,0,0,,{\blur3}这里看着像犹他州或加利福尼亚州{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It looks like Utah or California here.{\r}
+Dialogue: 0,0:13:10.43,0:13:12.62,Default,,0,0,0,,{\blur3}但其实这里是致命的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the truth is it's a lethal place.{\r}
+Dialogue: 0,0:13:17.97,0:13:20.17,Default,,0,0,0,,{\blur3}宇航员们只有一次机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts have one chance.{\r}
+Dialogue: 0,0:13:20.17,0:13:21.17,Default,,0,0,0,,{\blur3}他们抓住了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they take it.{\r}
+Dialogue: 0,0:13:21.47,0:13:22.68,Default,,0,0,0,,{\blur3}他们组装了一辆漫游车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They assemble the rover,{\r}
+Dialogue: 0,0:13:22.79,0:13:25.22,Default,,0,0,0,,{\blur3}内有足够使用三周的空气储备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which has a three-week air supply.{\r}
+Dialogue: 0,0:13:26.27,0:13:28.55,Default,,0,0,0,,{\blur3}一辆密封的漫游车就像旅行房车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A pressurized rover is sort of your RV.{\r}
+Dialogue: 0,0:13:28.70,0:13:31.18,Default,,0,0,0,,{\blur3}因为你们在车里生活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, you are living inside the rover,{\r}
+Dialogue: 0,0:13:31.18,0:13:33.21,Default,,0,0,0,,{\blur3}车内加压了 所以可以穿便装{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's pressurized, you're in shirt-sleeves.{\r}
+Dialogue: 0,0:13:33.35,0:13:35.54,Default,,0,0,0,,{\blur3}开车 生活和工作时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You don't have to be wearing a space suit{\r}
+Dialogue: 0,0:13:35.55,0:13:37.13,Default,,0,0,0,,{\blur3}你不必身着宇航服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while you're driving it, or living, or working inside.{\r}
+Dialogue: 0,0:13:44.68,0:13:48.25,Default,,0,0,0,,{\blur3}漫游车运转良好 通讯系统也正常了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The rover is functional and so its communications system.{\r}
+Dialogue: 0,0:13:49.48,0:13:52.81,Default,,0,0,0,,{\blur3}宇航员通过无线电汇报生还的消息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts radio home that they are alive.{\r}
+Dialogue: 0,0:13:54.88,0:13:57.95,Default,,0,0,0,,{\blur3}若漫游车或其中的零部件出了故障{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If some component or something goes wrong on it,{\r}
+Dialogue: 0,0:13:58.05,0:14:01.63,Default,,0,0,0,,{\blur3}备用部件会确保宇航员生还{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is a backup that wouldn't lose the mission.{\r}
+Dialogue: 0,0:14:01.74,0:14:04.16,Default,,0,0,0,,{\blur3}余度设计是行之有效的方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So redundancy can be a very good thing,{\r}
+Dialogue: 0,0:14:04.24,0:14:07.72,Default,,0,0,0,,{\blur3}至少它为困难的解决提供了可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or at least the ability to design for a failure if you will.{\r}
+Dialogue: 0,0:14:09.31,0:14:10.58,Default,,0,0,0,,{\blur3}但是对话并不是像阿波罗登月计划里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the conversations are not like the{\r}
+Dialogue: 0,0:14:10.70,0:14:14.14,Default,,0,0,0,,{\blur3}不间断地来回问答{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}constant back and forth of the Apollo Moon missions.{\r}
+Dialogue: 0,0:14:18.06,0:14:21.28,Default,,0,0,0,,{\blur3}假设这只球代表了信息或对话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine this ball represents a message, a conversation{\r}
+Dialogue: 0,0:14:21.36,0:14:23.77,Default,,0,0,0,,{\blur3}发生在登月宇航员 也就是我{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between an astronaut on the Moon, me,{\r}
+Dialogue: 0,0:14:24.04,0:14:26.63,Default,,0,0,0,,{\blur3}和德克萨斯州休斯顿控制中心之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and mission control in Houston, Texas.{\r}
+Dialogue: 0,0:14:27.56,0:14:29.81,Default,,0,0,0,,{\blur3}现在我距离休斯顿只有几十厘米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now I'm standing a few inches away from Houston,{\r}
+Dialogue: 0,0:14:29.81,0:14:33.75,Default,,0,0,0,,{\blur3}但事实上月球在38万公里之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, in reality, the Moon is 240,000 miles away.{\r}
+Dialogue: 0,0:14:34.68,0:14:37.20,Default,,0,0,0,,{\blur3}无线电传输速度等同于光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, radio waves travel at the speed of light,{\r}
+Dialogue: 0,0:14:37.20,0:14:39.47,Default,,0,0,0,,{\blur3}相当于每秒30万千米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}186,000 miles per second.{\r}
+Dialogue: 0,0:14:39.48,0:14:41.09,Default,,0,0,0,,{\blur3}"你好吗"和"我很好"的问答{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's only about three seconds{\r}
+Dialogue: 0,0:14:41.09,0:14:43.80,Default,,0,0,0,,{\blur3}只需耗费3秒钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between "How are you?" And "I'm fine."{\r}
+Dialogue: 0,0:14:43.92,0:14:45.83,Default,,0,0,0,,{\blur3}这样对话很简单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pretty easy to hold a conversation.{\r}
+Dialogue: 0,0:14:49.46,0:14:54.04,Default,,0,0,0,,{\blur3}但火地的最短距离是地月距离的150倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Mars is, at minimum, about 150 times farther away than the moon.{\r}
+Dialogue: 0,0:14:54.04,0:14:56.50,Default,,0,0,0,,{\blur3}因此我要走出一大段路{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So I have to go all the way over to here.{\r}
+Dialogue: 0,0:14:58.24,0:14:59.50,Default,,0,0,0,,{\blur3}我们仍能交流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can still communicate,{\r}
+Dialogue: 0,0:14:59.50,0:15:01.48,Default,,0,0,0,,{\blur3}但出现了更长的延迟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but there's a longer delay.{\r}
+Dialogue: 0,0:15:02.03,0:15:04.68,Default,,0,0,0,,{\blur3}现实中 火星到地球的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In reality, the distance between earth and Mars{\r}
+Dialogue: 0,0:15:04.99,0:15:08.74,Default,,0,0,0,,{\blur3}在5600万公里到3.8亿公里之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is between 35 million and 240 million miles.{\r}
+Dialogue: 0,0:15:09.52,0:15:11.60,Default,,0,0,0,,{\blur3}所以 "你好吗" 和 "我很好"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the time lag between{\r}
+Dialogue: 0,0:15:11.60,0:15:12.91,Default,,0,0,0,,{\blur3}之间的时间间隔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"How are you?" and "I'm fine."{\r}
+Dialogue: 0,0:15:13.01,0:15:16.36,Default,,0,0,0,,{\blur3}会在6到44分钟之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be between about 6 and 44 minutes.{\r}
+Dialogue: 0,0:15:16.91,0:15:18.76,Default,,0,0,0,,{\blur3}这是一段完整的交流需要的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's for a complete exchange.{\r}
+Dialogue: 0,0:15:19.47,0:15:21.29,Default,,0,0,0,,{\blur3}如果遇到突发状况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if there's an emergency,{\r}
+Dialogue: 0,0:15:21.29,0:15:23.11,Default,,0,0,0,,{\blur3}便不能及时解决{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it can't be dealt with in real time.{\r}
+Dialogue: 0,0:15:25.75,0:15:27.30,Default,,0,0,0,,{\blur3}但还有个更大的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's a bigger problem.{\r}
+Dialogue: 0,0:15:27.48,0:15:30.69,Default,,0,0,0,,{\blur3}和可见光相同 无线电波只沿直线运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like visible light, radio waves travel only in a straight line,{\r}
+Dialogue: 0,0:15:30.79,0:15:34.16,Default,,0,0,0,,{\blur3}地球和火星都绕轴心旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and both Earth and Mars rotate on their axes,{\r}
+Dialogue: 0,0:15:34.52,0:15:36.43,Default,,0,0,0,,{\blur3}所有有时候两个星球上的人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so there are times when people on the two planets{\r}
+Dialogue: 0,0:15:36.69,0:15:38.21,Default,,0,0,0,,{\blur3}无法相互交流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can't communicate with each other.{\r}
+Dialogue: 0,0:15:38.70,0:15:41.89,Default,,0,0,0,,{\blur3}我们可以用两颗定位卫星解决这个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can solve this with two properly positioned satellites.{\r}
+Dialogue: 0,0:15:42.72,0:15:44.45,Default,,0,0,0,,{\blur3}假设一颗卫星围绕火星运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If there's a satellite orbiting Mars,{\r}
+Dialogue: 0,0:15:44.71,0:15:48.07,Default,,0,0,0,,{\blur3}信息能从火星传到休斯顿的指挥中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a message can be sent from mars to mission control in Houston.{\r}
+Dialogue: 0,0:15:48.43,0:15:50.33,Default,,0,0,0,,{\blur3}信息从火星轨道卫星发出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It gets sent to that satellite orbiting Mars,{\r}
+Dialogue: 0,0:15:51.34,0:15:54.15,Default,,0,0,0,,{\blur3}传到地球轨道卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then to the Earth orbiting satellite,{\r}
+Dialogue: 0,0:15:54.29,0:15:57.32,Default,,0,0,0,,{\blur3}最后传到指挥中心 再往复传递{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then to mission control, and back again.{\r}
+Dialogue: 0,0:15:59.35,0:16:01.02,Default,,0,0,0,,{\blur3}现在 问题发出与回答{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, there's still a time delay{\r}
+Dialogue: 0,0:16:01.11,0:16:04.99,Default,,0,0,0,,{\blur3}仍有段多达44分钟的时间延迟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of up to 44 minutes between question and answer,{\r}
+Dialogue: 0,0:16:04.99,0:16:06.17,Default,,0,0,0,,{\blur3}但至少火星宇航员和{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but at least the Mars astronaut and{\r}
+Dialogue: 0,0:16:06.17,0:16:09.38,Default,,0,0,0,,{\blur3}指挥中心能制定出一个生存计划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mission control can formulate a survival plan.{\r}
+Dialogue: 0,0:16:11.03,0:16:14.10,Default,,0,0,0,,{\blur3}解决了通讯延迟的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Working through the communication lag,{\r}
+Dialogue: 0,0:16:14.10,0:16:16.14,Default,,0,0,0,,{\blur3}计划成型了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the plan takes shape.{\r}
+Dialogue: 0,0:16:17.64,0:16:20.33,Default,,0,0,0,,{\blur3}为燃料电池驱动的漫游车装上食物和仪器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Load the fuel-cell powered rover with food and equipment,{\r}
+Dialogue: 0,0:16:20.72,0:16:22.37,Default,,0,0,0,,{\blur3}并向东行驶到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and drive it east to where the{\r}
+Dialogue: 0,0:16:22.45,0:16:25.78,Default,,0,0,0,,{\blur3}水手谷注入的一个外流峡谷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Valles Marineris empties into an outflow valley,{\r}
+Dialogue: 0,0:16:25.78,0:16:28.08,Default,,0,0,0,,{\blur3}这个峡谷可能是十亿年前形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}probably carved out billion of years ago,{\r}
+Dialogue: 0,0:16:28.44,0:16:30.49,Default,,0,0,0,,{\blur3}那时火星的大气层更厚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when Mars had a thicker atmosphere{\r}
+Dialogue: 0,0:16:30.49,0:16:33.53,Default,,0,0,0,,{\blur3}液态水仍在其表面流淌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and liquid water still flowed on its surface.{\r}
+Dialogue: 0,0:16:35.21,0:16:36.38,Default,,0,0,0,,{\blur3}从这里出发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From this exit point,{\r}
+Dialogue: 0,0:16:36.82,0:16:39.82,Default,,0,0,0,,{\blur3}驶向返地舱的原始着陆地点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's less than a day's drive to the Earth return Vehicle{\r}
+Dialogue: 0,0:16:40.08,0:16:41.45,Default,,0,0,0,,{\blur3}时间不足一天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the original landing site.{\r}
+Dialogue: 0,0:16:43.47,0:16:47.35,Default,,0,0,0,,{\blur3}你可以想象这段横穿火星大陆的绝望之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you can imagine having a desperate trip across the Martian landscape{\r}
+Dialogue: 0,0:16:47.44,0:16:49.70,Default,,0,0,0,,{\blur3}为的是重新回到返地舱上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to get back to the Return Vehicle{\r}
+Dialogue: 0,0:16:49.71,0:16:51.97,Default,,0,0,0,,{\blur3}可能会做点科学研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and perhaps do a little bit of scientific research{\r}
+Dialogue: 0,0:16:52.06,0:16:55.52,Default,,0,0,0,,{\blur3}但最重要的是保全自己并返回地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but most importantly, save yourself and get back to Earth.{\r}
+Dialogue: 0,0:16:58.17,0:17:01.86,Default,,0,0,0,,{\blur3}所有事情都取决于一些残酷的客观条件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything depends on some very cold equations.{\r}
+Dialogue: 0,0:17:02.50,0:17:06.52,Default,,0,0,0,,{\blur3}每名宇航员每天需要11升水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each astronaut has a daily need for 3 gallons of water,{\r}
+Dialogue: 0,0:17:06.52,0:17:10.53,Default,,0,0,0,,{\blur3}两千卡路里的食物 和900克的氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}2,000 calories of food, and 2 pounds of oxygen.{\r}
+Dialogue: 0,0:17:14.60,0:17:16.79,Default,,0,0,0,,{\blur3}生存性技术能发挥作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Survival technology can help.{\r}
+Dialogue: 0,0:17:17.09,0:17:20.05,Default,,0,0,0,,{\blur3}它们用漫游车车载的装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They can extract water from Mars itself{\r}
+Dialogue: 0,0:17:20.05,0:17:23.01,Default,,0,0,0,,{\blur3}从火星提取水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using equipment on-board the rover.{\r}
+Dialogue: 0,0:17:23.72,0:17:27.80,Default,,0,0,0,,{\blur3}火星探测器显示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Mars Odyssey spacecraft has shown{\r}
+Dialogue: 0,0:17:27.80,0:17:31.89,Default,,0,0,0,,{\blur3}火星赤道区的尘土中 水的质量约占6%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that average Martian dirt in the equatorial regions is 6% water by weight.{\r}
+Dialogue: 0,0:17:32.00,0:17:33.55,Default,,0,0,0,,{\blur3}如果想从中提取出水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if you want to get water out of that{\r}
+Dialogue: 0,0:17:33.56,0:17:35.29,Default,,0,0,0,,{\blur3}你只需采集一些尘土{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can just take some of it{\r}
+Dialogue: 0,0:17:35.29,0:17:37.02,Default,,0,0,0,,{\blur3}将其放入一口类似高压锅的带盖容器中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and throw it into a pot like a pressure cooker with a led{\r}
+Dialogue: 0,0:17:37.11,0:17:41.47,Default,,0,0,0,,{\blur3}加热到150度 水就提取出来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and heat it to, you know, 150 centigrade and you get out the water.{\r}
+Dialogue: 0,0:17:41.58,0:17:43.22,Default,,0,0,0,,{\blur3}如果放入11升的尘土{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if you put in about 2 gallons of dirt,{\r}
+Dialogue: 0,0:17:43.22,0:17:44.87,Default,,0,0,0,,{\blur3}就会得到470毫升的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you'll get about a pint of water.{\r}
+Dialogue: 0,0:17:46.47,0:17:47.40,Default,,0,0,0,,{\blur3}但是在火星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But other human needs{\r}
+Dialogue: 0,0:17:47.67,0:17:50.12,Default,,0,0,0,,{\blur3}满足人类的其他需要却没这么简单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are not so easily supplied on Mars.{\r}
+Dialogue: 0,0:17:51.71,0:17:53.04,Default,,0,0,0,,{\blur3}一次为期两周的旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Certainly on a two-week journey,{\r}
+Dialogue: 0,0:17:53.36,0:17:56.58,Default,,0,0,0,,{\blur3}若要成功横穿火星的荒凉之境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you had to make it across a desolate Martian landscape,{\r}
+Dialogue: 0,0:17:56.58,0:17:58.21,Default,,0,0,0,,{\blur3}你可以减少食物摄入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you could cut down on food.{\r}
+Dialogue: 0,0:17:58.30,0:18:00.38,Default,,0,0,0,,{\blur3}留用饥饿时充饥{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You could have starvation rations.{\r}
+Dialogue: 0,0:18:00.49,0:18:02.23,Default,,0,0,0,,{\blur3}甚至可以减少饮水量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can even cut down on water.{\r}
+Dialogue: 0,0:18:02.34,0:18:06.49,Default,,0,0,0,,{\blur3}但唯一时时刻刻不可或缺的是空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the one thing that you absolutely need, minute by minute, is air.{\r}
+Dialogue: 0,0:18:06.57,0:18:09.75,Default,,0,0,0,,{\blur3}你无法控制身体所需空气量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have no flexibility in the amount of air that you need to{\r}
+Dialogue: 0,0:18:09.83,0:18:12.13,Default,,0,0,0,,{\blur3}以供特殊时期使用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}make it for a specific amount of time.{\r}
+Dialogue: 0,0:18:18.34,0:18:20.50,Default,,0,0,0,,{\blur3}除了要到达返地舱的需要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Despite the need to get to the ERV,{\r}
+Dialogue: 0,0:18:20.50,0:18:27.93,Default,,0,0,0,,{\blur3}还有足够的空气供数次舱外短时操作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is enough air for several brief EVAs, or extra vehicular activities.{\r}
+Dialogue: 0,0:18:29.87,0:18:32.39,Default,,0,0,0,,{\blur3}把人们送上火星的部分理由是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Part of the reason for sending people to Mars{\r}
+Dialogue: 0,0:18:32.40,0:18:35.09,Default,,0,0,0,,{\blur3}做些令人信服的科学研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be to do some compelling science,{\r}
+Dialogue: 0,0:18:35.13,0:18:38.61,Default,,0,0,0,,{\blur3}我们可以设想他们采集样分析样品{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we would imagine them taking samples, analyzing them,{\r}
+Dialogue: 0,0:18:38.61,0:18:42.22,Default,,0,0,0,,{\blur3}试图了解岩石形成时的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}trying to understand the environment when those rocks formed.{\r}
+Dialogue: 0,0:18:42.22,0:18:43.67,Default,,0,0,0,,{\blur3}诸如此类的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Things like that.{\r}
+Dialogue: 0,0:18:45.19,0:18:48.79,Default,,0,0,0,,{\blur3}宇航员使用各种各样的工具{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronauts could use a whole variety of tools,{\r}
+Dialogue: 0,0:18:48.81,0:18:53.01,Default,,0,0,0,,{\blur3}锤子 放大镜 不同种类的分普仪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hammers, hand lenses, spectrometers of various sorts,{\r}
+Dialogue: 0,0:18:53.01,0:18:55.20,Default,,0,0,0,,{\blur3}以及化学分析仪器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}chemical analysis machines.{\r}
+Dialogue: 0,0:18:55.46,0:18:59.01,Default,,0,0,0,,{\blur3}漫游车上可能会有移动实验室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There'd be probably some mobile laboratory on the rover{\r}
+Dialogue: 0,0:18:59.01,0:19:02.83,Default,,0,0,0,,{\blur3}宇航员们用采集的材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would use the materials that they gathered{\r}
+Dialogue: 0,0:19:02.84,0:19:04.61,Default,,0,0,0,,{\blur3}观察其物质构成 诸如此类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to look at the composition, and so on.{\r}
+Dialogue: 0,0:19:06.83,0:19:09.51,Default,,0,0,0,,{\blur3}关于水手峡谷的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a number of theories as to how the, uh,{\r}
+Dialogue: 0,0:19:09.51,0:19:11.01,Default,,0,0,0,,{\blur3}有许多理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Valles Marineris was created.{\r}
+Dialogue: 0,0:19:11.10,0:19:15.64,Default,,0,0,0,,{\blur3}对结构如何形成仍然一知半解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's still not fully clear how the structure came to be, but,{\r}
+Dialogue: 0,0:19:15.72,0:19:19.32,Default,,0,0,0,,{\blur3}在大部分的可能性中 涉及到诸多过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in most likelihood, quite a few processes were involved.{\r}
+Dialogue: 0,0:19:20.01,0:19:23.49,Default,,0,0,0,,{\blur3}我认为 做野外地质学研究对真正了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think that being on the ground and doing field geology is{\r}
+Dialogue: 0,0:19:23.58,0:19:26.50,Default,,0,0,0,,{\blur3}像水手峡谷一样复杂地形的形成过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}essential to really understanding the processes that had{\r}
+Dialogue: 0,0:19:26.73,0:19:29.80,Default,,0,0,0,,{\blur3}是必不可少的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sculpt a complex landform like the Valles Marineris.{\r}
+Dialogue: 0,0:19:29.92,0:19:31.60,Default,,0,0,0,,{\blur3}这个过程很复杂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not a simple story.{\r}
+Dialogue: 0,0:19:31.86,0:19:33.17,Default,,0,0,0,,{\blur3}这不只是地上的一个裂缝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It wasn't just a crack in the earth,{\r}
+Dialogue: 0,0:19:33.39,0:19:35.76,Default,,0,0,0,,{\blur3}也不只是流体流动形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it wasn't just fluid flowed in and formed that.{\r}
+Dialogue: 0,0:19:35.90,0:19:37.03,Default,,0,0,0,,{\blur3}不同的过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There were different processes,{\r}
+Dialogue: 0,0:19:37.12,0:19:38.39,Default,,0,0,0,,{\blur3}发生在不同时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}acting at different times,{\r}
+Dialogue: 0,0:19:38.47,0:19:41.97,Default,,0,0,0,,{\blur3}分层堆积在彼此之上 形成一本复杂的书{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}layering on top of each other, forming a complex book.{\r}
+Dialogue: 0,0:19:42.05,0:19:43.48,Default,,0,0,0,,{\blur3}为了阅读这本书{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in order to read that book,{\r}
+Dialogue: 0,0:19:43.56,0:19:46.24,Default,,0,0,0,,{\blur3}你需要到那里将书页翻开[实地考察]{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you really need to be there to turn the pages.{\r}
+Dialogue: 0,0:19:47.35,0:19:50.55,Default,,0,0,0,,{\blur3}水手谷的不同部分变化多样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Valles Marineris has a whole variety of different segments.{\r}
+Dialogue: 0,0:19:50.71,0:19:53.71,Default,,0,0,0,,{\blur3}中间部分 有一 二 三{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's places in the middle that there's one, two, three, or{\r}
+Dialogue: 0,0:19:53.80,0:19:57.26,Default,,0,0,0,,{\blur3}甚至四处坎坷不平的平行峡谷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even four parallel canyons where you go down and up{\r}
+Dialogue: 0,0:19:57.50,0:19:59.35,Default,,0,0,0,,{\blur3}经过那里需要不停地上去下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and down and up and down and up.{\r}
+Dialogue: 0,0:19:59.50,0:20:02.13,Default,,0,0,0,,{\blur3}最东部的尽头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then, at the very eastern end,{\r}
+Dialogue: 0,0:20:02.13,0:20:06.08,Default,,0,0,0,,{\blur3}看起来像是河流从混沌区域涌出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it looks like water came flushing out through what would be a chaos zone,{\r}
+Dialogue: 0,0:20:06.08,0:20:09.04,Default,,0,0,0,,{\blur3}灾难性的洪水也许曾在此发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}catastrophic floods of water that might have come out.{\r}
+Dialogue: 0,0:20:12.81,0:20:15.32,Default,,0,0,0,,{\blur3}水中曾有生命的存在吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Was there life in that water?{\r}
+Dialogue: 0,0:20:16.69,0:20:20.02,Default,,0,0,0,,{\blur3}他们挖出的岩石样本能充分证明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could some of the rock samples they dig up have enough evidence{\r}
+Dialogue: 0,0:20:20.10,0:20:21.99,Default,,0,0,0,,{\blur3}石化细菌的存在吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of fossilized bacteria?{\r}
+Dialogue: 0,0:20:23.78,0:20:25.73,Default,,0,0,0,,{\blur3}火星曾是一个温暖潮湿的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars was once a warm and wet planet,{\r}
+Dialogue: 0,0:20:26.16,0:20:27.59,Default,,0,0,0,,{\blur3}这是因为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we know that for a fact{\r}
+Dialogue: 0,0:20:28.05,0:20:31.15,Default,,0,0,0,,{\blur3}水侵蚀的特征遍布火星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because there are water erosion features all over the surface of Mars.{\r}
+Dialogue: 0,0:20:31.29,0:20:33.34,Default,,0,0,0,,{\blur3}为了寻找有生命的化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To look for fossils of life,{\r}
+Dialogue: 0,0:20:33.34,0:20:36.24,Default,,0,0,0,,{\blur3}你需要找一些有水流过或是聚积的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you want to look for places where water has flown or accumulated,{\r}
+Dialogue: 0,0:20:36.24,0:20:40.72,Default,,0,0,0,,{\blur3}水手峡谷或许是其中一个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the Valles Marineris might be one of those places.{\r}
+Dialogue: 0,0:20:42.24,0:20:44.47,Default,,0,0,0,,{\blur3}他们在地表之下能找到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is it even possible that they will find evidence of{\r}
+Dialogue: 0,0:20:44.55,0:20:47.02,Default,,0,0,0,,{\blur3}液态水的迹象吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}liquid water under the surface?{\r}
+Dialogue: 0,0:20:47.72,0:20:50.87,Default,,0,0,0,,{\blur3}水中 会有生物体吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in that water... Living organisms?{\r}
+Dialogue: 0,0:20:52.53,0:20:55.96,Default,,0,0,0,,{\blur3}稳定的液态水环境中 都有生命形成吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Will life form anywhere that liquid water is stable?{\r}
+Dialogue: 0,0:20:56.11,0:21:01.35,Default,,0,0,0,,{\blur3}或者 会有亿万分之一的机会形成生命体吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or is there a one-in-a-trillion chance occurrence that leads to life?{\r}
+Dialogue: 0,0:21:01.80,0:21:03.85,Default,,0,0,0,,{\blur3}火星上曾有另一个起源吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Was there a second genesis on Mars?{\r}
+Dialogue: 0,0:21:07.77,0:21:12.43,Default,,0,0,0,,{\blur3}我认为现在火星上完全可能有细菌活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think it's certainly possible that there's bacterial activity on Mars now,{\r}
+Dialogue: 0,0:21:12.79,0:21:15.45,Default,,0,0,0,,{\blur3}但绝对不是确定的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that's by no means certain.{\r}
+Dialogue: 0,0:21:15.57,0:21:18.76,Default,,0,0,0,,{\blur3}这是个非常有趣的现代科学问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's... it's a very interesting current scientific question.{\r}
+Dialogue: 0,0:21:18.86,0:21:21.21,Default,,0,0,0,,{\blur3}我觉得这是太阳系科学中最让人着迷的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think it's one of the sort of most intriguing questions{\r}
+Dialogue: 0,0:21:21.54,0:21:23.03,Default,,0,0,0,,{\blur3}一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in solar system science.{\r}
+Dialogue: 0,0:21:32.78,0:21:35.52,Default,,0,0,0,,{\blur3}突然 为了生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Suddenly, the search for life pauses{\r}
+Dialogue: 0,0:21:35.52,0:21:38.27,Default,,0,0,0,,{\blur3}生命的探索中止了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the fight for survival resumes.{\r}
+Dialogue: 0,0:21:40.00,0:21:41.89,Default,,0,0,0,,{\blur3}指挥中心发出信号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mission control signals that{\r}
+Dialogue: 0,0:21:41.89,0:21:44.80,Default,,0,0,0,,{\blur3}一个高度危险的太阳耀斑喷向火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a high risk solar flare is headed for Mars.{\r}
+Dialogue: 0,0:21:45.67,0:21:48.10,Default,,0,0,0,,{\blur3}一个太阳耀斑是太阳小型区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A solar flare is a tremendous outburst{\r}
+Dialogue: 0,0:21:48.46,0:21:50.61,Default,,0,0,0,,{\blur3}所发生的一次猛烈活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from a relatively small region of the Sun.{\r}
+Dialogue: 0,0:21:50.90,0:21:54.23,Default,,0,0,0,,{\blur3}一股巨大的能量迸发出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A huge amount of energy goes pouring out explosively,{\r}
+Dialogue: 0,0:21:54.57,0:21:56.31,Default,,0,0,0,,{\blur3}随之而来的就是一股带电粒流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a bunch of energetic charged particles{\r}
+Dialogue: 0,0:21:56.65,0:21:58.63,Default,,0,0,0,,{\blur3}穿越太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}go zooming through the solar system.{\r}
+Dialogue: 0,0:21:58.73,0:22:01.03,Default,,0,0,0,,{\blur3}它们可以与细胞反应 造成伤害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They can interact with cells and harm them.{\r}
+Dialogue: 0,0:22:01.16,0:22:06.11,Default,,0,0,0,,{\blur3}还会产生像X射线一样的超强电磁辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Also, high-energy electromagnetic radiation like x-rays gets produced,{\r}
+Dialogue: 0,0:22:06.42,0:22:07.72,Default,,0,0,0,,{\blur3}同样对我们有害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and those can harm us as well.{\r}
+Dialogue: 0,0:22:07.85,0:22:11.25,Default,,0,0,0,,{\blur3}所以有两个能量波 接连而来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's "Wham!" and then "Wham!" again sometime later.{\r}
+Dialogue: 0,0:22:12.32,0:22:17.10,Default,,0,0,0,,{\blur3}地磁场可以抵消太阳耀斑大部分影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth's magnetic field shields us from the worst effects of solar flares.{\r}
+Dialogue: 0,0:22:17.77,0:22:22.64,Default,,0,0,0,,{\blur3}但是火星四十亿年前就没有了磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Mars lost its magnetic field 4 billion years ago.{\r}
+Dialogue: 0,0:22:23.97,0:22:26.61,Default,,0,0,0,,{\blur3}在地球上的人们观测到太阳耀斑活动后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After a solar flare is seen by people on Earth,{\r}
+Dialogue: 0,0:22:26.87,0:22:28.86,Default,,0,0,0,,{\blur3}我们想要警告火星上的宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we want to warn the astronauts on Mars.{\r}
+Dialogue: 0,0:22:29.17,0:22:33.18,Default,,0,0,0,,{\blur3}但是我们无法预警他们将有电磁辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now we can't warn them about the electromagnetic flash because{\r}
+Dialogue: 0,0:22:33.47,0:22:37.32,Default,,0,0,0,,{\blur3}因为预警信号的传输速度和电磁辐射相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our warning signal would travel at the same speed as that flash from the Sun,{\r}
+Dialogue: 0,0:22:37.79,0:22:41.71,Default,,0,0,0,,{\blur3}但是我们可以警告他们带电粒子风暴来袭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we can warn them about the onslaught of charged particles.{\r}
+Dialogue: 0,0:22:41.97,0:22:44.28,Default,,0,0,0,,{\blur3}高能带电粒子风暴的速度 差不多是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The high-energy charged particles can travel, perhaps,{\r}
+Dialogue: 0,0:22:44.36,0:22:45.58,Default,,0,0,0,,{\blur3}光速的一半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at half the speed of light.{\r}
+Dialogue: 0,0:22:48.20,0:22:50.41,Default,,0,0,0,,{\blur3}生活舱设有防辐射舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The hab has a radiation-proof chamber,{\r}
+Dialogue: 0,0:22:50.78,0:22:53.06,Default,,0,0,0,,{\blur3}但是现在距离太远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's now too far away.{\r}
+Dialogue: 0,0:22:54.63,0:22:58.64,Default,,0,0,0,,{\blur3}尽管太空服可以使宇航员免遭太阳耀斑辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While the astronauts' space suits shielded them from the solar flare's x-rays,{\r}
+Dialogue: 0,0:22:59.51,0:23:01.45,Default,,0,0,0,,{\blur3}但他们现在只有几分钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they have only minutes to seek shelter{\r}
+Dialogue: 0,0:23:01.75,0:23:06.81,Default,,0,0,0,,{\blur3}在第二波高能粒子到达火星前寻找庇护所{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before the flare's high-energy second wave slams into Mars.{\r}
+Dialogue: 0,0:23:13.12,0:23:16.18,Default,,0,0,0,,{\blur3}如果在未来 人类登陆火星紧急迫降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If a future human mission to Mars crash-lands,{\r}
+Dialogue: 0,0:23:16.86,0:23:18.24,Default,,0,0,0,,{\blur3}宇航员面对的不只是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the astronauts will have to contend{\r}
+Dialogue: 0,0:23:18.33,0:23:21.44,Default,,0,0,0,,{\blur3}严酷的火星地貌环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with even more than the harsh martian landscape.{\r}
+Dialogue: 0,0:23:22.63,0:23:26.40,Default,,0,0,0,,{\blur3}太阳耀斑的质子风暴在火星的威力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A solar flare of charged protons would be far more dangerous here{\r}
+Dialogue: 0,0:23:26.49,0:23:27.74,Default,,0,0,0,,{\blur3}比地球强的多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than on Earth.{\r}
+Dialogue: 0,0:23:29.44,0:23:31.67,Default,,0,0,0,,{\blur3}因为火星并不具备像地球一样的地磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, Mars doesn't have a magnetic field like the Earth does{\r}
+Dialogue: 0,0:23:32.01,0:23:34.76,Default,,0,0,0,,{\blur3}那么所有那些高能粒子和带电粒子流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so all of these high energetic particles and these charged particles{\r}
+Dialogue: 0,0:23:35.04,0:23:36.30,Default,,0,0,0,,{\blur3}将会直接轰击火星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be hitting the surface directly{\r}
+Dialogue: 0,0:23:36.80,0:23:38.91,Default,,0,0,0,,{\blur3}并且伤害到那些在火星地面的宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and hitting any astronauts that we had on the surface.{\r}
+Dialogue: 0,0:23:39.02,0:23:41.17,Default,,0,0,0,,{\blur3}他们将完全暴露在这些危险的太阳射线和{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They would not be protected from all of these dangerous rays and{\r}
+Dialogue: 0,0:23:41.26,0:23:42.42,Default,,0,0,0,,{\blur3}带电粒子流中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these dangerous particles,{\r}
+Dialogue: 0,0:23:42.42,0:23:46.04,Default,,0,0,0,,{\blur3}而在地球 我们有地磁场的良好保护{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whereas on Earth, we're comfortably protected by our magnetic field.{\r}
+Dialogue: 0,0:23:47.30,0:23:49.65,Default,,0,0,0,,{\blur3}如果地表宇航员接触高能粒子流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are a number of bad effects that would come about{\r}
+Dialogue: 0,0:23:49.74,0:23:53.00,Default,,0,0,0,,{\blur3}将会有许多严重的后果发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the energetic particles hitting an astronaut on the surface.{\r}
+Dialogue: 0,0:23:53.09,0:23:55.87,Default,,0,0,0,,{\blur3}比如 增加患癌症的几率 或者其他疾病{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Increased rates of cancer, for example, or other diseases, uh,{\r}
+Dialogue: 0,0:23:55.99,0:23:58.46,Default,,0,0,0,,{\blur3}辐射病 辐射中毒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}radiation sickness, and radiation poisoning.{\r}
+Dialogue: 0,0:24:00.47,0:24:02.75,Default,,0,0,0,,{\blur3}事实上 在空间站的宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, astronauts aboard the space station{\r}
+Dialogue: 0,0:24:02.86,0:24:06.36,Default,,0,0,0,,{\blur3}偶尔也会进入到一个特别的舱室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have occasionally been told to hide in special chambers{\r}
+Dialogue: 0,0:24:06.48,0:24:08.92,Default,,0,0,0,,{\blur3}使其免遭来自太阳的带电粒子流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to protect them against the charged particles{\r}
+Dialogue: 0,0:24:09.02,0:24:11.23,Default,,0,0,0,,{\blur3}和电磁辐射的伤害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and radiation coming from the solar flare.{\r}
+Dialogue: 0,0:24:13.39,0:24:15.98,Default,,0,0,0,,{\blur3}对于那些在火星水手峡谷中的宇航员来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For the astronauts in the middle of the Valles marineris,{\r}
+Dialogue: 0,0:24:16.29,0:24:19.08,Default,,0,0,0,,{\blur3}唯一的保护装置就是他们的加压漫游车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the only shelter is their pressurized rover.{\r}
+Dialogue: 0,0:24:20.63,0:24:24.08,Default,,0,0,0,,{\blur3}保护宇航员的并不是漫游车原辐射保护层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The rover's primary radiation shielding isn't lead.{\r}
+Dialogue: 0,0:24:25.00,0:24:27.12,Default,,0,0,0,,{\blur3}而是墙上摆得食物包{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the food packets lining the walls,{\r}
+Dialogue: 0,0:24:27.84,0:24:30.93,Default,,0,0,0,,{\blur3}以及宇航员的排泄物提供了保护{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}along with the astronauts' own waste material.{\r}
+Dialogue: 0,0:24:32.48,0:24:37.31,Default,,0,0,0,,{\blur3}排泄物种含有烃类 而烃类中则有氢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Feces contain hydrocarbons, and hydrocarbons contain hydrogen,{\r}
+Dialogue: 0,0:24:37.57,0:24:39.84,Default,,0,0,0,,{\blur3}而氢是一种很好的辐射吸收剂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and hydrogen is a very good absorber of radiation.{\r}
+Dialogue: 0,0:24:40.13,0:24:43.07,Default,,0,0,0,,{\blur3}还没有被食用的食物中的氢元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hydrogen that you have in the form of food before it's consumed{\r}
+Dialogue: 0,0:24:43.16,0:24:48.40,Default,,0,0,0,,{\blur3}将会为你抵挡一部分辐射带来的危害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will help shield you from some portion of this radiation,{\r}
+Dialogue: 0,0:24:48.49,0:24:51.40,Default,,0,0,0,,{\blur3}当然 当你把食物食用后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and certainly once you've consumed your food{\r}
+Dialogue: 0,0:24:51.81,0:24:53.88,Default,,0,0,0,,{\blur3}应该把排泄物放进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you want to put your feces{\r}
+Dialogue: 0,0:24:54.13,0:24:57.78,Default,,0,0,0,,{\blur3}那些在漫游车上的墙中的小格子里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in these little tilble zip-blocks and back on the wall of the vehicle{\r}
+Dialogue: 0,0:24:58.02,0:24:59.63,Default,,0,0,0,,{\blur3}来保护你们免遭辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to shield you from radiation.{\r}
+Dialogue: 0,0:25:00.96,0:25:02.77,Default,,0,0,0,,{\blur3}如果你想在宇宙中活命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you're going to survive in space,{\r}
+Dialogue: 0,0:25:02.88,0:25:05.14,Default,,0,0,0,,{\blur3}任何东西都得派上用场啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}almost nothing can go to waste.{\r}
+Dialogue: 0,0:25:06.26,0:25:07.93,Default,,0,0,0,,{\blur3}包括排泄物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not even waste.{\r}
+Dialogue: 0,0:25:11.35,0:25:13.33,Default,,0,0,0,,{\blur3}紧急危机过去了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the immediate crisis over,{\r}
+Dialogue: 0,0:25:13.33,0:25:16.54,Default,,0,0,0,,{\blur3}宇航员们继续前往返地舱地点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the journey to the Earth Return Vehicle continues.{\r}
+Dialogue: 0,0:25:19.70,0:25:22.77,Default,,0,0,0,,{\blur3}然而 又有意想不到的事发生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then, something unexpected happens.{\r}
+Dialogue: 0,0:25:25.51,0:25:29.81,Default,,0,0,0,,{\blur3}宇航员们投票表决后改变了计划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts take a vote and change the plan.{\r}
+Dialogue: 0,0:25:31.73,0:25:35.10,Default,,0,0,0,,{\blur3}他们不愿搭返地舱提前500天回到地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Rather than using the ERV to fly home 500 days ahead of schedule,{\r}
+Dialogue: 0,0:25:35.24,0:25:38.85,Default,,0,0,0,,{\blur3}他们要在火星上坚持完成任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they will stay and complete de mission.{\r}
+Dialogue: 0,0:25:40.31,0:25:44.45,Default,,0,0,0,,{\blur3}火星行动的后援团队对{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The team backup on the space is gonna have much less knowledge{\r}
+Dialogue: 0,0:25:44.57,0:25:47.88,Default,,0,0,0,,{\blur3}探索队情况和他们面临的选择知之甚少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the circumstances of the crew and the real options opened to them{\r}
+Dialogue: 0,0:25:47.96,0:25:50.07,Default,,0,0,0,,{\blur3}只有他们自己最清楚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the crew themselves have.{\r}
+Dialogue: 0,0:25:50.19,0:25:54.17,Default,,0,0,0,,{\blur3}所以我觉得应从前线指挥火星探索队{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So I think that a Mars mission is gonna have to be commanded from the front,{\r}
+Dialogue: 0,0:25:54.81,0:25:56.73,Default,,0,0,0,,{\blur3}而这样的话 与其设立控制中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that, rather than having a mission control,{\r}
+Dialogue: 0,0:25:57.29,0:25:59.82,Default,,0,0,0,,{\blur3}我们需要一个任务支持中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we need to have a mission support.{\r}
+Dialogue: 0,0:26:01.63,0:26:04.95,Default,,0,0,0,,{\blur3}宇航员们的新计划是到达返地舱所在地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts' new plan is to make it to the Earth return Vehicle{\r}
+Dialogue: 0,0:26:05.35,0:26:09.68,Default,,0,0,0,,{\blur3}并用其代替生命舱 作为他们的行动基地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and use it, in place of the hab, as their base of operations.{\r}
+Dialogue: 0,0:26:11.85,0:26:13.11,Default,,0,0,0,,{\blur3}返地舱要比生活舱小许多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's much smaller than the hab,{\r}
+Dialogue: 0,0:26:13.42,0:26:16.38,Default,,0,0,0,,{\blur3}但它有电力供给 并能产生额外氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it has a power supply and it has the ability to make extra oxygen.{\r}
+Dialogue: 0,0:26:16.55,0:26:19.39,Default,,0,0,0,,{\blur3}所以事实上 探索队可以使用返地舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the crew could, in fact, go to the Earth Return Vehicle{\r}
+Dialogue: 0,0:26:19.65,0:26:21.10,Default,,0,0,0,,{\blur3}生活并进行工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and live in it and work out of it.{\r}
+Dialogue: 0,0:26:29.42,0:26:32.79,Default,,0,0,0,,{\blur3}宇航员对他们的生存抱有极大信心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts' confidence on their survival shoots up.{\r}
+Dialogue: 0,0:26:33.47,0:26:37.73,Default,,0,0,0,,{\blur3}因为他们到达了水手谷东部的外流渠道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As they reach the outflow channel at the eastern edge of Valles Marineris.{\r}
+Dialogue: 0,0:26:38.70,0:26:40.95,Default,,0,0,0,,{\blur3}食物水源和空气都还充足{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's enough food, water, and air{\r}
+Dialogue: 0,0:26:41.27,0:26:43.84,Default,,0,0,0,,{\blur3}到返地舱绰绰有余{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make an easy drive to the ERV.{\r}
+Dialogue: 0,0:26:45.03,0:26:50.41,Default,,0,0,0,,{\blur3}这时 一名宇航员看到了不寻常的事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then, an astronaut sees something unusual.{\r}
+Dialogue: 0,0:26:54.96,0:26:57.70,Default,,0,0,0,,{\blur3}有一块暴露在外的岩石层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An exposed layer of rock that looks like it might contain{\r}
+Dialogue: 0,0:26:57.98,0:27:01.77,Default,,0,0,0,,{\blur3}可能包含叠层石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something called stromatolites.{\r}
+Dialogue: 0,0:27:02.95,0:27:04.70,Default,,0,0,0,,{\blur3}在地球上 有细菌存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Earth, we had bacteria,{\r}
+Dialogue: 0,0:27:04.80,0:27:06.43,Default,,0,0,0,,{\blur3}而且不只是单细胞细菌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and not just individual bacteria{\r}
+Dialogue: 0,0:27:06.52,0:27:10.17,Default,,0,0,0,,{\blur3}还有多细胞菌群落 它们造出了岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but bacteria that formed colonies, which created rocks{\r}
+Dialogue: 0,0:27:10.29,0:27:12.03,Default,,0,0,0,,{\blur3}也就是叠层石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}known as stromatolites.{\r}
+Dialogue: 0,0:27:12.16,0:27:15.41,Default,,0,0,0,,{\blur3}这些东西 可以说是细菌界的珊瑚礁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are, you might call, the bacterial equivalent of coral reefs,{\r}
+Dialogue: 0,0:27:15.52,0:27:18.54,Default,,0,0,0,,{\blur3}由微小的生物体造出的大物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where tiny organisms build up something big.{\r}
+Dialogue: 0,0:27:18.81,0:27:21.63,Default,,0,0,0,,{\blur3}如果火星上应该存在这种东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This would be a logical thing to look for on Mars.{\r}
+Dialogue: 0,0:27:23.76,0:27:26.66,Default,,0,0,0,,{\blur3}在地球上有叠层石 这也是我们期望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stromatolites on Earth provide the kind of evidence{\r}
+Dialogue: 0,0:27:26.98,0:27:29.13,Default,,0,0,0,,{\blur3}在火星上找到的某种证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we would expect to see on Mars,{\r}
+Dialogue: 0,0:27:29.40,0:27:31.79,Default,,0,0,0,,{\blur3}不是说一定要有 但这是基本的理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not on that exact form, but it's the basic idea.{\r}
+Dialogue: 0,0:27:32.14,0:27:34.84,Default,,0,0,0,,{\blur3}叠层石相当于无数细菌尸体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stromatolites were sort of massive LOG{\r}
+Dialogue: 0,0:27:35.19,0:27:37.73,Default,,0,0,0,,{\blur3}转为硅质形态堆积{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then silicon-like material but built up{\r}
+Dialogue: 0,0:27:38.07,0:27:41.50,Default,,0,0,0,,{\blur3}形成宏观结构 随即这样保存了下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and formed macroscopic structures which were then preserved.{\r}
+Dialogue: 0,0:27:41.60,0:27:43.99,Default,,0,0,0,,{\blur3}如果说类似过程曾在火星发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If something like that was going on on Mars,{\r}
+Dialogue: 0,0:27:44.25,0:27:46.74,Default,,0,0,0,,{\blur3}我们就能很肯定的说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would provide an easy way of determining that{\r}
+Dialogue: 0,0:27:47.01,0:27:48.84,Default,,0,0,0,,{\blur3}那里曾经有生命存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}life did indeed exist there.{\r}
+Dialogue: 0,0:27:51.90,0:27:53.40,Default,,0,0,0,,{\blur3}很多科幻电影题材都是源于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many science-fiction films are based{\r}
+Dialogue: 0,0:27:53.48,0:27:58.28,Default,,0,0,0,,{\blur3}我们在火星上发现了存在先进文明的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the idea that we'll find evidence of advanced civilizations on Mars.{\r}
+Dialogue: 0,0:28:04.05,0:28:07.37,Default,,0,0,0,,{\blur3}火星上并没有城市或是规模化建筑的迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars has no cities or grand structures.{\r}
+Dialogue: 0,0:28:09.92,0:28:13.57,Default,,0,0,0,,{\blur3}但宇航员或许能找到火星存在生命的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But astronauts may yet find evidence of life on Mars...{\r}
+Dialogue: 0,0:28:16.55,0:28:19.26,Default,,0,0,0,,{\blur3}哪怕是只能找到细菌化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even if it's only fossils of bacteria.{\r}
+Dialogue: 0,0:28:24.05,0:28:25.80,Default,,0,0,0,,{\blur3}宇航员们采集到了岩石样本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the rock samples loaded in,{\r}
+Dialogue: 0,0:28:25.91,0:28:31.24,Default,,0,0,0,,{\blur3}漫游车准备出发 但却停止不动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the rover tries to head off... But goes nowhere.{\r}
+Dialogue: 0,0:28:32.11,0:28:33.93,Default,,0,0,0,,{\blur3}一个轮子陷住了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One wheel is stuck.{\r}
+Dialogue: 0,0:28:35.11,0:28:37.53,Default,,0,0,0,,{\blur3}宇航员束手无策{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts cannot free it.{\r}
+Dialogue: 0,0:28:39.14,0:28:41.67,Default,,0,0,0,,{\blur3}沙子是火星上的死亡陷阱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sand is sort of the death trap of Mars,{\r}
+Dialogue: 0,0:28:42.04,0:28:43.47,Default,,0,0,0,,{\blur3}我可以预见到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I wouldn't be surprised if, you know,{\r}
+Dialogue: 0,0:28:43.82,0:28:47.77,Default,,0,0,0,,{\blur3}在未来的登陆中 会有一些宇航员因为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in future expeditions, we end up losing some crews that are on{\r}
+Dialogue: 0,0:28:47.87,0:28:51.46,Default,,0,0,0,,{\blur3}漫游车陷入沙障中而命丧火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these long pressurized rover traverses to sand traps.{\r}
+Dialogue: 0,0:28:53.44,0:28:57.00,Default,,0,0,0,,{\blur3}他们记算了一下从这里到返地舱的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They calculate the remaining distance to the ERV.{\r}
+Dialogue: 0,0:28:57.30,0:28:59.15,Default,,0,0,0,,{\blur3}他们能徒步平安返回吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could they walk to safety?{\r}
+Dialogue: 0,0:29:00.53,0:29:04.65,Default,,0,0,0,,{\blur3}满载氧气的太空服只能支持十二小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A space suit's full tank of air will only last 12 hours.{\r}
+Dialogue: 0,0:29:05.08,0:29:08.37,Default,,0,0,0,,{\blur3}而这段距离需要持续徒步三十个小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would take 30 hours of continuous walking.{\r}
+Dialogue: 0,0:29:09.97,0:29:12.00,Default,,0,0,0,,{\blur3}当你在地球上考察各种地形时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the Earth, you can get stuck{\r}
+Dialogue: 0,0:29:12.09,0:29:13.93,Default,,0,0,0,,{\blur3}会在沙漠地带抛锚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when you are doing all-terraining in sandy areas.{\r}
+Dialogue: 0,0:29:14.01,0:29:14.97,Default,,0,0,0,,{\blur3}但是 在地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, of course, on the Earth,{\r}
+Dialogue: 0,0:29:15.05,0:29:17.07,Default,,0,0,0,,{\blur3}你大以可停下 吸口新鲜空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can just step outside the vehicle and breathe.{\r}
+Dialogue: 0,0:29:17.36,0:29:18.95,Default,,0,0,0,,{\blur3}在火星上却不行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Mars, you won't have that option.{\r}
+Dialogue: 0,0:29:19.03,0:29:20.03,Default,,0,0,0,,{\blur3}所以如果你的车被卡住了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if your vehicle is stuck,{\r}
+Dialogue: 0,0:29:20.10,0:29:21.22,Default,,0,0,0,,{\blur3}并且无法脱困{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's no way to get it out of its predicament,{\r}
+Dialogue: 0,0:29:21.29,0:29:24.43,Default,,0,0,0,,{\blur3}你只能眼睁睁地等死{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're gonna watch yourself die.{\r}
+Dialogue: 0,0:29:31.72,0:29:36.32,Default,,0,0,0,,{\blur3}在我们设想的人类首次登火可能出现的问题中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our scenario of what might go wrong for the first human mission to Mars,{\r}
+Dialogue: 0,0:29:36.32,0:29:40.13,Default,,0,0,0,,{\blur3}宇航员漫游车陷入火星沙地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the astronauts' rover is trapped in the Martian sand.{\r}
+Dialogue: 0,0:29:41.50,0:29:44.91,Default,,0,0,0,,{\blur3}返地舱却在160公里远之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Earth Return Vehicle is 100 miles away.{\r}
+Dialogue: 0,0:29:45.89,0:29:48.88,Default,,0,0,0,,{\blur3}宇航员必死无疑吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Are the astronauts facing certain death,{\r}
+Dialogue: 0,0:29:48.88,0:29:54.39,Default,,0,0,0,,{\blur3}还是他们能利用工业化前的技术再次脱险呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or can they save themselves once again with pre-industrial technology?{\r}
+Dialogue: 0,0:29:55.57,0:29:57.85,Default,,0,0,0,,{\blur3}假设探险队陷入困境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So let's say the crew was stranded{\r}
+Dialogue: 0,0:29:57.85,0:30:00.37,Default,,0,0,0,,{\blur3}至少需要一人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they need to get at least one person,{\r}
+Dialogue: 0,0:30:00.37,0:30:03.63,Default,,0,0,0,,{\blur3}长途跋涉去找到另一辆车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a considerable distance to secure another vehicle{\r}
+Dialogue: 0,0:30:03.63,0:30:05.43,Default,,0,0,0,,{\blur3}再回来解救其余的人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and come back and rescue the rest.{\r}
+Dialogue: 0,0:30:05.54,0:30:07.56,Default,,0,0,0,,{\blur3}气球式降落伞能否堪此重任{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could they do this with ballutes?{\r}
+Dialogue: 0,0:30:07.56,0:30:09.58,Default,,0,0,0,,{\blur3}只是有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just possible.{\r}
+Dialogue: 0,0:30:10.18,0:30:13.09,Default,,0,0,0,,{\blur3}地球上的工程师进行了一些测试{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Engineers on Earth run tests to see{\r}
+Dialogue: 0,0:30:13.18,0:30:15.17,Default,,0,0,0,,{\blur3}看一个气球是否能运载至少一名宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if a balloon could carry at least one astronaut{\r}
+Dialogue: 0,0:30:15.45,0:30:18.16,Default,,0,0,0,,{\blur3}穿过沙漠到达返地舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over the desert to the ERV.{\r}
+Dialogue: 0,0:30:18.61,0:30:21.90,Default,,0,0,0,,{\blur3}通过伸展一张包裹着气体二氧化碳的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You could do this by stretching a synthetic membrane of some sort{\r}
+Dialogue: 0,0:30:22.13,0:30:25.76,Default,,0,0,0,,{\blur3}人造膜来做到这一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}around a pocket of the surrounding air, just carbon dioxide.{\r}
+Dialogue: 0,0:30:26.09,0:30:28.66,Default,,0,0,0,,{\blur3}你得加热其中的气体来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then you'd have to heat the air inside{\r}
+Dialogue: 0,0:30:28.92,0:30:30.78,Default,,0,0,0,,{\blur3}使它产生浮力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in order to give it some sort of buoyancy.{\r}
+Dialogue: 0,0:30:31.29,0:30:34.04,Default,,0,0,0,,{\blur3}现在可以使用太阳能加热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, one way of doing that is having solar heating{\r}
+Dialogue: 0,0:30:34.28,0:30:37.66,Default,,0,0,0,,{\blur3}令薄膜有效地吸收太阳能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}effectively have the membrane absorb solar energy,{\r}
+Dialogue: 0,0:30:37.93,0:30:39.79,Default,,0,0,0,,{\blur3}加热其中的二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}heat the carbon dioxide inside{\r}
+Dialogue: 0,0:30:40.23,0:30:43.88,Default,,0,0,0,,{\blur3}然后薄膜膨胀融合 气球升起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then it expands, becomes blend and lifts the balloon up.{\r}
+Dialogue: 0,0:30:45.14,0:30:47.93,Default,,0,0,0,,{\blur3}在火星制造的气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Any balloon that you would construct to fabricate on Mars{\r}
+Dialogue: 0,0:30:48.03,0:30:49.79,Default,,0,0,0,,{\blur3}是非常巨大的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have to be very large{\r}
+Dialogue: 0,0:30:49.79,0:30:52.53,Default,,0,0,0,,{\blur3}因为这样才能弥补那里的极低大气密度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to compensate for the very low density atmosphere.{\r}
+Dialogue: 0,0:30:53.38,0:30:55.39,Default,,0,0,0,,{\blur3}火星大气层非常稀薄{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Martian atmosphere is very thin.{\r}
+Dialogue: 0,0:30:55.70,0:30:59.72,Default,,0,0,0,,{\blur3}比地球海平面大气压的1%还低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's less than 1% of Earth's atmospheric pressure at sea level.{\r}
+Dialogue: 0,0:30:59.92,0:31:02.86,Default,,0,0,0,,{\blur3}那意味着为了举起重物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means that to get substantial lift,{\r}
+Dialogue: 0,0:31:02.94,0:31:04.51,Default,,0,0,0,,{\blur3}你需要一个庞大的气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you need an enormous balloon.{\r}
+Dialogue: 0,0:31:06.01,0:31:09.17,Default,,0,0,0,,{\blur3}对一个身着太空服的宇航员来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A balloon that is 10 meters in radius is probably enough for{\r}
+Dialogue: 0,0:31:09.25,0:31:11.33,Default,,0,0,0,,{\blur3}也许一个半径十米的气球足矣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one astronaut in a space suit.{\r}
+Dialogue: 0,0:31:11.33,0:31:14.02,Default,,0,0,0,,{\blur3}为什么火星小队会有个如此巨大的气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why would a crew on Mars have a balloon that big?{\r}
+Dialogue: 0,0:31:14.03,0:31:15.94,Default,,0,0,0,,{\blur3}他们也许没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They probably wouldn't,{\r}
+Dialogue: 0,0:31:15.94,0:31:18.66,Default,,0,0,0,,{\blur3}但他们也许会有大量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they might have a large number of balloons used{\r}
+Dialogue: 0,0:31:18.66,0:31:21.62,Default,,0,0,0,,{\blur3}小型用于科研的气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for scientific purposes that were smaller than that.{\r}
+Dialogue: 0,0:31:25.10,0:31:27.26,Default,,0,0,0,,{\blur3}这个冒险计划被付诸行动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The risky plan is put into action.{\r}
+Dialogue: 0,0:31:27.79,0:31:32.25,Default,,0,0,0,,{\blur3}一名宇航员用临时伞带 升上火星的天空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a makeshift harness, one astronaut rises into the Martian sky.{\r}
+Dialogue: 0,0:31:34.83,0:31:35.56,Default,,0,0,0,,{\blur3}在1.6千米高空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A mile up,{\r}
+Dialogue: 0,0:31:35.86,0:31:37.61,Default,,0,0,0,,{\blur3}风吹着她以每小时96公里的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}winds blow her towards the ERV{\r}
+Dialogue: 0,0:31:37.91,0:31:39.95,Default,,0,0,0,,{\blur3}前往返地舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at 60 miles an hour.{\r}
+Dialogue: 0,0:31:42.13,0:31:46.27,Default,,0,0,0,,{\blur3}火星表面的盛行风从西吹向东{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Mars, the prevailing winds near the surface blow from West to east,{\r}
+Dialogue: 0,0:31:46.61,0:31:50.16,Default,,0,0,0,,{\blur3}我们正想如此 所以那对我们有利{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we want to go from west to east. So that's good for us.{\r}
+Dialogue: 0,0:31:51.63,0:31:53.50,Default,,0,0,0,,{\blur3}这个方案存在个大问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the big problems with this scenario{\r}
+Dialogue: 0,0:31:53.60,0:31:57.14,Default,,0,0,0,,{\blur3}就是你达到目的地的精确度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the precision at which you could hope to, uh, reach your destination.{\r}
+Dialogue: 0,0:31:57.42,0:32:03.33,Default,,0,0,0,,{\blur3}如果你能降落在徒步到达的距离之内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if you could then come down within hiking distance of your destination...{\r}
+Dialogue: 0,0:32:03.96,0:32:06.47,Default,,0,0,0,,{\blur3}这需要一些运气 但也有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It'd take some luck, but it's possible.{\r}
+Dialogue: 0,0:32:09.03,0:32:12.05,Default,,0,0,0,,{\blur3}火星重力只有地球的百分之三十八{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars has only 38% of Earth's gravity.{\r}
+Dialogue: 0,0:32:12.61,0:32:16.05,Default,,0,0,0,,{\blur3}科幻电影常常忽略这个事实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Science-fiction movies usually forget that fact,{\r}
+Dialogue: 0,0:32:16.13,0:32:19.43,Default,,0,0,0,,{\blur3}让宇航员在正常的好莱坞重力下行动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and have astronauts operate in normal Hollywood gravity.{\r}
+Dialogue: 0,0:32:22.23,0:32:25.52,Default,,0,0,0,,{\blur3}事实是 就算穿上沉重的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The truth is, even with the heavy space suits{\r}
+Dialogue: 0,0:32:27.18,0:32:30.67,Default,,0,0,0,,{\blur3}舱外活动太空服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}worn during extra vehicular activity,{\r}
+Dialogue: 0,0:32:31.34,0:32:35.73,Default,,0,0,0,,{\blur3}在火星上步行也比在地球上容易得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hiking on Mars will be easier than on Earth.{\r}
+Dialogue: 0,0:32:37.42,0:32:39.39,Default,,0,0,0,,{\blur3}假如你体重68公斤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's say you're a 150-pound person{\r}
+Dialogue: 0,0:32:39.39,0:32:41.97,Default,,0,0,0,,{\blur3}穿上90公斤的太空服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you put on a 200 pound suit...{\r}
+Dialogue: 0,0:32:41.97,0:32:43.62,Default,,0,0,0,,{\blur3}就是160公斤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's 350 pounds.{\r}
+Dialogue: 0,0:32:43.62,0:32:47.23,Default,,0,0,0,,{\blur3}但是如果你只有那重量的38%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But then, if you only weigh 38% of that,{\r}
+Dialogue: 0,0:32:47.23,0:32:51.80,Default,,0,0,0,,{\blur3}那么你加上制服的重量就只是55公斤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}okay, then your weight is maybe 120 pounds with the suit.{\r}
+Dialogue: 0,0:32:51.80,0:32:55.39,Default,,0,0,0,,{\blur3}所以你穿着制服在火星上步行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you actually have less of a burden walking with that suit on Mars{\r}
+Dialogue: 0,0:32:55.51,0:32:59.56,Default,,0,0,0,,{\blur3}要比在地球上轻装徒步更轻松{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than you have walking in your stockings on Earth.{\r}
+Dialogue: 0,0:33:01.33,0:33:02.93,Default,,0,0,0,,{\blur3}宇航员成功着陆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronaut lands successfully{\r}
+Dialogue: 0,0:33:02.93,0:33:06.52,Default,,0,0,0,,{\blur3}成功到达返地舱和双人漫游车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and manages to hike to the ERV and the two person rover.{\r}
+Dialogue: 0,0:33:07.03,0:33:09.22,Default,,0,0,0,,{\blur3}一切设备正常工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything is in working order.{\r}
+Dialogue: 0,0:33:10.01,0:33:13.04,Default,,0,0,0,,{\blur3}其中一名宇航员驾驶沙漠漫游车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So one of the astronauts gets into a dune buggy rover,{\r}
+Dialogue: 0,0:33:13.15,0:33:15.90,Default,,0,0,0,,{\blur3}回到被困的加压漫游车旁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comes back to the pressurized rover,{\r}
+Dialogue: 0,0:33:15.90,0:33:19.49,Default,,0,0,0,,{\blur3}带上其中一名宇航员 将他带向返地舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}takes one of the astronauts, brings that astronaut to the Earth Return Vehicle{\r}
+Dialogue: 0,0:33:19.60,0:33:21.95,Default,,0,0,0,,{\blur3}然后来回几趟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then goes back and forth a couple of more times{\r}
+Dialogue: 0,0:33:22.04,0:33:24.59,Default,,0,0,0,,{\blur3}将所有的宇航员都安全带回{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to get all the astronauts over to safety.{\r}
+Dialogue: 0,0:33:26.82,0:33:28.91,Default,,0,0,0,,{\blur3}计划就是如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the plan.{\r}
+Dialogue: 0,0:33:30.94,0:33:33.50,Default,,0,0,0,,{\blur3}但是新的危险出现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But then a new danger arises,{\r}
+Dialogue: 0,0:33:35.33,0:33:37.68,Default,,0,0,0,,{\blur3}一场红尘暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a storm of red dust.{\r}
+Dialogue: 0,0:33:39.00,0:33:42.80,Default,,0,0,0,,{\blur3}空中太阳越来越暗淡 沙尘越来越厚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun would get dimmer in the sky, and it would continue to build and build,{\r}
+Dialogue: 0,0:33:42.86,0:33:44.23,Default,,0,0,0,,{\blur3}向一望无际的天边望去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you'd see, from horizon to horizon,{\r}
+Dialogue: 0,0:33:44.32,0:33:48.30,Default,,0,0,0,,{\blur3}浓厚的沙尘在大气中形成巨大的漩涡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this very thick dusty swirly mass in the atmosphere.{\r}
+Dialogue: 0,0:33:50.01,0:33:52.47,Default,,0,0,0,,{\blur3}但是什么引发了火星的沙尘暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what causes dust storms on Mars?{\r}
+Dialogue: 0,0:33:53.95,0:33:56.88,Default,,0,0,0,,{\blur3}加州阿纳海姆的丽莎·阿布多发达{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what Lisa Abdelfatah of Anaheim,{\r}
+Dialogue: 0,0:33:56.88,0:33:58.45,Default,,0,0,0,,{\blur3}在电邮中写道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}California, emailed{\r}
+Dialogue: 0,0:34:02.14,0:34:03.85,Default,,0,0,0,,{\blur3}丽莎 你也许会大吃一惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lisa, you might be surprised to learn that{\r}
+Dialogue: 0,0:34:04.11,0:34:07.95,Default,,0,0,0,,{\blur3}因为是太阳的能量引发了火星上的尘暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dust storms on Mars are actually caused by energy from the Sun.{\r}
+Dialogue: 0,0:34:08.30,0:34:12.26,Default,,0,0,0,,{\blur3}太阳炙烤火星表面的沙尘和大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun heats the dust in the surface of Mars and also that atmosphere,{\r}
+Dialogue: 0,0:34:12.83,0:34:16.38,Default,,0,0,0,,{\blur3}导致它膨胀并产生对流现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}causing it to expand and causing convection currents to occur,{\r}
+Dialogue: 0,0:34:16.73,0:34:19.94,Default,,0,0,0,,{\blur3}在不同的空气之间存在的不同压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there are difference of pressure between one pocket of air and another,{\r}
+Dialogue: 0,0:34:20.24,0:34:21.58,Default,,0,0,0,,{\blur3}于是产生了风{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that leads to winds.{\r}
+Dialogue: 0,0:34:21.58,0:34:24.07,Default,,0,0,0,,{\blur3}接着沙尘越来越厚 越来越热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then more dust gets kicked up and more heating{\r}
+Dialogue: 0,0:34:24.16,0:34:25.90,Default,,0,0,0,,{\blur3}压力差越来越大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and more of these pressure differences,{\r}
+Dialogue: 0,0:34:25.92,0:34:28.07,Default,,0,0,0,,{\blur3}最终导致猛烈的沙尘暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so you get these violent dust storms.{\r}
+Dialogue: 0,0:34:31.46,0:34:34.41,Default,,0,0,0,,{\blur3}火星的沙尘对宇航员来说非常危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The dust on Mars could be very hazardous to astronauts{\r}
+Dialogue: 0,0:34:34.41,0:34:35.54,Default,,0,0,0,,{\blur3}其中有很多原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for a number of reasons.{\r}
+Dialogue: 0,0:34:35.54,0:34:37.23,Default,,0,0,0,,{\blur3}因为火星没有水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because there's no water on Mars,{\r}
+Dialogue: 0,0:34:37.23,0:34:40.93,Default,,0,0,0,,{\blur3}每颗沙粒不像你在地球海滩上看到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the individual grains are not smooth and rounded like...{\r}
+Dialogue: 0,0:34:40.93,0:34:42.92,Default,,0,0,0,,{\blur3}那么光滑圆润{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like you would see on a beach here on Earth.{\r}
+Dialogue: 0,0:34:42.92,0:34:45.31,Default,,0,0,0,,{\blur3}它们真的很尖锐且有锯齿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're actually very sharp and jagged.{\r}
+Dialogue: 0,0:34:45.58,0:34:48.47,Default,,0,0,0,,{\blur3}宇航员步行或者活动的时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As that dust gets kicked up as the astronaut's walking or moving,{\r}
+Dialogue: 0,0:34:48.47,0:34:51.44,Default,,0,0,0,,{\blur3}激起的沙尘存留在太空服上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}uh, it gets caught on the space suit.{\r}
+Dialogue: 0,0:34:51.44,0:34:53.58,Default,,0,0,0,,{\blur3}一段时间之后 由于摩擦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, over time, due to friction...{\r}
+Dialogue: 0,0:34:53.58,0:34:56.34,Default,,0,0,0,,{\blur3}比如宇航员在摆动胳膊或者迈腿的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's say the astronaut's moving arms or his legs...{\r}
+Dialogue: 0,0:34:56.34,0:34:59.49,Default,,0,0,0,,{\blur3}沙尘就开始侵蚀太空服的纤维{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uh, it begins to eat away at the fabric of the space suit.{\r}
+Dialogue: 0,0:34:59.49,0:35:02.66,Default,,0,0,0,,{\blur3}这样太空服就很容易撕破或开裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you could easily get a tear or a rip in the space suit,{\r}
+Dialogue: 0,0:35:02.66,0:35:04.70,Default,,0,0,0,,{\blur3}而那将会是灾难性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that would be catastrophic.{\r}
+Dialogue: 0,0:35:06.04,0:35:09.94,Default,,0,0,0,,{\blur3}尽管危机重重 宇航员还是驾着小型漫游车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Despite the dangers, the astronaut takes the small rover,{\r}
+Dialogue: 0,0:35:10.20,0:35:13.55,Default,,0,0,0,,{\blur3}载着额外的氧气补给 冲入沙尘暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}loaded with extra oxygen, out into the storm.{\r}
+Dialogue: 0,0:35:16.05,0:35:21.36,Default,,0,0,0,,{\blur3}她一个一个地把队友接回返地舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And one by one, she brings her crew mates back to the Earth Return Vehicle.{\r}
+Dialogue: 0,0:35:24.10,0:35:26.65,Default,,0,0,0,,{\blur3}但是就在即将到达安全地点时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But just a few feet from safety...{\r}
+Dialogue: 0,0:35:28.91,0:35:33.21,Default,,0,0,0,,{\blur3}粗糙的沙尘就撕破了指挥官的太空服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The abrasive dust tears a section of the commander's suit,{\r}
+Dialogue: 0,0:35:34.58,0:35:38.81,Default,,0,0,0,,{\blur3}将他暴露在几近真空的火星大气层下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}exposing him to the near-vacuum of the martian atmosphere.{\r}
+Dialogue: 0,0:35:44.08,0:35:46.90,Default,,0,0,0,,{\blur3}如果你的太空服有一个漏洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If... If your space suit springs a leak,{\r}
+Dialogue: 0,0:35:46.90,0:35:50.78,Default,,0,0,0,,{\blur3}或者它突然降压 完全打开了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or if it's a violent decompression, where your suit is ripped open,{\r}
+Dialogue: 0,0:35:50.87,0:35:54.14,Default,,0,0,0,,{\blur3}你只能保持几秒清醒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you might not have more than a few seconds to remain conscious{\r}
+Dialogue: 0,0:35:54.14,0:35:55.93,Default,,0,0,0,,{\blur3}来面对将会发生的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and see what's going to happen to you.{\r}
+Dialogue: 0,0:35:57.02,0:35:59.05,Default,,0,0,0,,{\blur3}你情况不妙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You would be in a very bad way.{\r}
+Dialogue: 0,0:35:59.36,0:36:03.38,Default,,0,0,0,,{\blur3}好似在地球上深度潜水后上浮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You would be not dissimilar to coming up from a very deep dive on the Earth.{\r}
+Dialogue: 0,0:36:03.52,0:36:05.74,Default,,0,0,0,,{\blur3}这将是一次非常痛苦的经历{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would be a very painful experience.{\r}
+Dialogue: 0,0:36:07.48,0:36:08.88,Default,,0,0,0,,{\blur3}如果你有减压问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you have a decompression problem{\r}
+Dialogue: 0,0:36:08.89,0:36:11.11,Default,,0,0,0,,{\blur3}这将是很严重且致命的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it can get very serious and lethal.{\r}
+Dialogue: 0,0:36:11.21,0:36:16.28,Default,,0,0,0,,{\blur3}你将面临可怕而迅速的死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You would die a horrible death and very quickly as well.{\r}
+Dialogue: 0,0:36:17.38,0:36:19.84,Default,,0,0,0,,{\blur3}除非他的同伴能马上采取措施{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unless his crew mates can do something immediately,{\r}
+Dialogue: 0,0:36:20.00,0:36:24.30,Default,,0,0,0,,{\blur3}否则他将会成为火星上的第一具人类尸体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the commander will be the first human corpse on Mars.{\r}
+Dialogue: 0,0:36:32.78,0:36:35.13,Default,,0,0,0,,{\blur3}在我们对不远未来的设想中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our scenario of the near future,{\r}
+Dialogue: 0,0:36:35.13,0:36:36.81,Default,,0,0,0,,{\blur3}首批登陆火星的探索者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the first explorers on Mars{\r}
+Dialogue: 0,0:36:36.90,0:36:39.23,Default,,0,0,0,,{\blur3}同时经受住了近乎致命的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have survived a near fatal crash{\r}
+Dialogue: 0,0:36:39.23,0:36:42.51,Default,,0,0,0,,{\blur3}与在这充满敌意的星球上的危险旅程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a dangerous trek across a hostile planet.{\r}
+Dialogue: 0,0:36:42.76,0:36:46.68,Default,,0,0,0,,{\blur3}但如今 一场磨蚀性砂尘形成的风暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now, a storm of abrasive dust{\r}
+Dialogue: 0,0:36:46.77,0:36:50.14,Default,,0,0,0,,{\blur3}在任务指挥官的太空服上撕开了一个洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has torn a hole in mission commander's spacesuit.{\r}
+Dialogue: 0,0:36:50.72,0:36:54.97,Default,,0,0,0,,{\blur3}这是宇航员最为害怕的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the one thing the astronauts fear above everything else.{\r}
+Dialogue: 0,0:36:56.68,0:36:59.37,Default,,0,0,0,,{\blur3}失去意识前 你只有10到12秒的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've got 10 or 12 seconds before you lose consciousness.{\r}
+Dialogue: 0,0:36:59.66,0:37:03.49,Default,,0,0,0,,{\blur3}这种情况下最好立即呼气 排空肺部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You better exhale, right away. Empty your lungs,{\r}
+Dialogue: 0,0:37:03.57,0:37:06.88,Default,,0,0,0,,{\blur3}不然的话它们便会迅速扩张乃至爆裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because otherwise they'll quickly expand and rupture.{\r}
+Dialogue: 0,0:37:08.97,0:37:12.81,Default,,0,0,0,,{\blur3}太空服破损十二秒后 指挥官已不省人事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Twelve seconds after his suit tore, the commander is unconscious.{\r}
+Dialogue: 0,0:37:12.94,0:37:14.96,Default,,0,0,0,,{\blur3}他的皮肤开始发青{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His skin is turning blue.{\r}
+Dialogue: 0,0:37:16.49,0:37:18.74,Default,,0,0,0,,{\blur3}他的组员只有不到九十秒的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His crewmates have less than 90 seconds{\r}
+Dialogue: 0,0:37:18.74,0:37:20.52,Default,,0,0,0,,{\blur3}将他送进返地舱的气闸室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to get him through the ERV's airlock{\r}
+Dialogue: 0,0:37:20.52,0:37:24.89,Default,,0,0,0,,{\blur3}进行紧急输氧 否则他的血液循环将停止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and administer emergency oxygen before his blood circulation ceases{\r}
+Dialogue: 0,0:37:25.95,0:37:29.11,Default,,0,0,0,,{\blur3}他的器官将永久地停止工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and his organs shut down forever.{\r}
+Dialogue: 0,0:37:30.68,0:37:32.40,Default,,0,0,0,,{\blur3}在失去意识之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After you've lost consciousness,{\r}
+Dialogue: 0,0:37:32.79,0:37:35.96,Default,,0,0,0,,{\blur3}最好有人能在接下来的一分半钟内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you hope that someone will hook you up to pressurized oxygen{\r}
+Dialogue: 0,0:37:36.13,0:37:37.69,Default,,0,0,0,,{\blur3}为你提供压缩氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}within the next minute and a half.{\r}
+Dialogue: 0,0:37:38.28,0:37:40.60,Default,,0,0,0,,{\blur3}如果得不到的话 你必死无疑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you don't get hooked up, you'll die for sure.{\r}
+Dialogue: 0,0:37:40.71,0:37:43.96,Default,,0,0,0,,{\blur3}若能得到救助 并能再次呼吸氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you do get hooked up, and you start breathing oxygen again,{\r}
+Dialogue: 0,0:37:44.29,0:37:45.97,Default,,0,0,0,,{\blur3}等你挺过来 一般来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it turns out that, when you come to,{\r}
+Dialogue: 0,0:37:46.32,0:37:49.39,Default,,0,0,0,,{\blur3}不会造成太多的永久性伤害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's usually not much permanent damage.{\r}
+Dialogue: 0,0:37:54.10,0:37:57.90,Default,,0,0,0,,{\blur3}指挥官在千钧一发之际得以幸存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The commander survives with seconds to spare.{\r}
+Dialogue: 0,0:37:58.93,0:38:02.21,Default,,0,0,0,,{\blur3}尽管他受伤了 他还是能够痊愈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Despite his injuries, he will make a full recovery.{\r}
+Dialogue: 0,0:38:08.74,0:38:11.51,Default,,0,0,0,,{\blur3}很快 队员们恢复了精力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Soon, the crew is back to full strength,{\r}
+Dialogue: 0,0:38:11.51,0:38:13.93,Default,,0,0,0,,{\blur3}并开始进行各种实验活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}working and performing experiments.{\r}
+Dialogue: 0,0:38:14.76,0:38:18.25,Default,,0,0,0,,{\blur3}火星探索已正式展开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The exploration of Mars has begun in earnest.{\r}
+Dialogue: 0,0:38:19.48,0:38:21.63,Default,,0,0,0,,{\blur3}对我来说火星将会挑战一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars to me would challenge{\r}
+Dialogue: 0,0:38:22.91,0:38:27.06,Default,,0,0,0,,{\blur3}人类历史上有过的探索经验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all the expedition experiences that we've had throughout our history.{\r}
+Dialogue: 0,0:38:27.16,0:38:31.14,Default,,0,0,0,,{\blur3}过往积累的宝贵经验均会尽数应用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It will take all the best lessons learned from all past expeditions.{\r}
+Dialogue: 0,0:38:31.24,0:38:32.99,Default,,0,0,0,,{\blur3}比如极地经验 丛林经验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The polar ones, the ones through the jungles,{\r}
+Dialogue: 0,0:38:33.10,0:38:35.04,Default,,0,0,0,,{\blur3}以及北美大陆经验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the ones through North America.{\r}
+Dialogue: 0,0:38:35.16,0:38:38.38,Default,,0,0,0,,{\blur3}火星是个极具挑战性的地方 它极度无情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars is a super-challenging place; it's very unforgiving.{\r}
+Dialogue: 0,0:38:42.48,0:38:44.25,Default,,0,0,0,,{\blur3}在地球上 即便遇上麻烦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here on Earth, if things go wrong,{\r}
+Dialogue: 0,0:38:44.25,0:38:49.41,Default,,0,0,0,,{\blur3}我们仍有空气可呼吸 仍有水源可饮用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can rely on there being air to breathe and water to drink.{\r}
+Dialogue: 0,0:38:50.25,0:38:52.75,Default,,0,0,0,,{\blur3}但在火星上 如果出了问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Mars, if something goes wrong,{\r}
+Dialogue: 0,0:38:52.76,0:38:56.02,Default,,0,0,0,,{\blur3}那么情况马上会变得更加糟糕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the situation is automatically much more serious.{\r}
+Dialogue: 0,0:39:00.16,0:39:04.19,Default,,0,0,0,,{\blur3}但是宇航员已证明他们能适应火星上的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the astronauts have proven that they can adapt to the martian environment.{\r}
+Dialogue: 0,0:39:06.92,0:39:11.50,Default,,0,0,0,,{\blur3}和极地探索者一样 他们抵御着刺骨低温{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like polar explorers, they protect themselves from the frigid temperatures.{\r}
+Dialogue: 0,0:39:12.54,0:39:13.83,Default,,0,0,0,,{\blur3}像沙漠探索者一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like desert explorers,{\r}
+Dialogue: 0,0:39:13.90,0:39:16.57,Default,,0,0,0,,{\blur3}他们学会与无处不在的砂尘共同生活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they learn to live with the ever-present dust.{\r}
+Dialogue: 0,0:39:19.87,0:39:22.70,Default,,0,0,0,,{\blur3}在我们火星协会运作的沙漠研究站里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our own desert station that the Mars Society runs{\r}
+Dialogue: 0,0:39:22.98,0:39:25.97,Default,,0,0,0,,{\blur3}我们带去一台高端显微镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we brought a really superb microscope,{\r}
+Dialogue: 0,0:39:26.24,0:39:29.80,Default,,0,0,0,,{\blur3}但是运抵之后数周之内 它就被砂尘弄坏了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it was disabled by dust within a few weeks of it's arrival.{\r}
+Dialogue: 0,0:39:30.78,0:39:33.75,Default,,0,0,0,,{\blur3}而另一方面 一些工艺更为粗糙的显微镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the other hand, some much cruder kind of microscopes,{\r}
+Dialogue: 0,0:39:33.80,0:39:36.50,Default,,0,0,0,,{\blur3}类似于一般本科学生用的一类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}similar to the kind that college students use routinely,{\r}
+Dialogue: 0,0:39:36.69,0:39:38.55,Default,,0,0,0,,{\blur3}经证实相当强韧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have proved very robust.{\r}
+Dialogue: 0,0:39:38.98,0:39:42.78,Default,,0,0,0,,{\blur3}在前线环境中 你想要的不会是匹赛马{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a frontier environment, you don't want to bring a racehorse.{\r}
+Dialogue: 0,0:39:42.81,0:39:43.97,Default,,0,0,0,,{\blur3}你想要的会是匹骡子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You want to bring a mule.{\r}
+Dialogue: 0,0:39:47.26,0:39:50.43,Default,,0,0,0,,{\blur3}然而火星上也不见得处处都比地球艰难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not everything on Mars is more difficult than on Earth.{\r}
+Dialogue: 0,0:39:51.82,0:39:55.13,Default,,0,0,0,,{\blur3}例如地表风就十分柔和 根本无法对{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The surface winds, for instance, are mild, too weak to threaten{\r}
+Dialogue: 0,0:39:55.16,0:39:57.48,Default,,0,0,0,,{\blur3}宇航员或是他们的器械造成威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the astronauts or their instruments.{\r}
+Dialogue: 0,0:39:58.94,0:40:03.17,Default,,0,0,0,,{\blur3}火星大气层的厚度只有地球大气的百分之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The martian atmosphere is only 1% as thick as Earth's atmosphere,{\r}
+Dialogue: 0,0:40:03.57,0:40:05.26,Default,,0,0,0,,{\blur3}所以说如果你站在地上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so if you're on the ground{\r}
+Dialogue: 0,0:40:05.82,0:40:08.12,Default,,0,0,0,,{\blur3}对面96公里每小时的风刮过来时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a 60 mile an hour wind kicked up,{\r}
+Dialogue: 0,0:40:08.12,0:40:12.15,Default,,0,0,0,,{\blur3}你只会有10公里每小时的风轻拂的感觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would only feel the force of a 6 mile an hour wind.{\r}
+Dialogue: 0,0:40:13.23,0:40:15.08,Default,,0,0,0,,{\blur3}我们这有个风速计 或是叫测风速计{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have here an anemometer, or wind-gage{\r}
+Dialogue: 0,0:40:15.36,0:40:16.65,Default,,0,0,0,,{\blur3}用来测量当前风速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which helps us measure the wind speed.{\r}
+Dialogue: 0,0:40:16.99,0:40:18.46,Default,,0,0,0,,{\blur3}它的设计实际上很简单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a very simple design really.{\r}
+Dialogue: 0,0:40:18.55,0:40:21.02,Default,,0,0,0,,{\blur3}上面的这些风杯在风刮过的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've got these cups on top that capture the wind{\r}
+Dialogue: 0,0:40:21.25,0:40:23.56,Default,,0,0,0,,{\blur3}捕捉风力从而使得风杯旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it blows by and causes the cups to spin.{\r}
+Dialogue: 0,0:40:23.71,0:40:26.44,Default,,0,0,0,,{\blur3}你只用记下风杯的旋转次数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You simply count the number of rotations of the cups,{\r}
+Dialogue: 0,0:40:26.56,0:40:28.01,Default,,0,0,0,,{\blur3}它就能显示出当前风速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it gives you the wind speed.{\r}
+Dialogue: 0,0:40:28.47,0:40:29.83,Default,,0,0,0,,{\blur3}它的设计非常简单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a very simple design,{\r}
+Dialogue: 0,0:40:30.12,0:40:32.93,Default,,0,0,0,,{\blur3}与19世纪刚发明的时候基本一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}very much the same as the one that was invented back in the 1800s,{\r}
+Dialogue: 0,0:40:32.93,0:40:35.34,Default,,0,0,0,,{\blur3}只是没有这个数字读数器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}except, of course, with this digital readout.{\r}
+Dialogue: 0,0:40:35.46,0:40:37.67,Default,,0,0,0,,{\blur3}看看我们能不能测得到这的风速吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, let's see if we can get some wind here.{\r}
+Dialogue: 0,0:40:39.33,0:40:41.95,Default,,0,0,0,,{\blur3}有了 这里有阵风{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, there we got some! Oh, here comes a gust.{\r}
+Dialogue: 0,0:40:42.02,0:40:43.90,Default,,0,0,0,,{\blur3}因为火星大气层较地球大气层要稀疏得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because the atmosphere is so much less dense,{\r}
+Dialogue: 0,0:40:44.14,0:40:48.27,Default,,0,0,0,,{\blur3}因此作用在风力计上的空气分子就少得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you have far fewer molecules of air sort of blowing on the anemometer,{\r}
+Dialogue: 0,0:40:48.35,0:40:51.31,Default,,0,0,0,,{\blur3}地球上3公里每小时的风给人的感觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You would need a 20 mile an hour wind on Mars to feel{\r}
+Dialogue: 0,0:40:51.68,0:40:54.35,Default,,0,0,0,,{\blur3}在火星上要32公里每小时的风才能做到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what a 2 mile an hour wind would feel like on Earth.{\r}
+Dialogue: 0,0:40:54.52,0:40:57.16,Default,,0,0,0,,{\blur3}你可以看到这个速度下的风{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you can see the wind that's blowing at that speed is sort of{\r}
+Dialogue: 0,0:40:57.25,0:40:59.10,Default,,0,0,0,,{\blur3}只能稍稍弄乱你的头发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lightly mussing your hair.{\r}
+Dialogue: 0,0:40:59.20,0:41:01.47,Default,,0,0,0,,{\blur3}而你要是在火星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you were to have this on Mars,{\r}
+Dialogue: 0,0:41:01.81,0:41:04.40,Default,,0,0,0,,{\blur3}要达到同样的效果的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a similar wind speed that would give you the same sort of effect{\r}
+Dialogue: 0,0:41:04.44,0:41:06.38,Default,,0,0,0,,{\blur3}风速大约要有112公里每小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be about a 70 mile an hour wind.{\r}
+Dialogue: 0,0:41:06.46,0:41:07.28,Default,,0,0,0,,{\blur3}也就是飓风风速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that's hurricane speed.{\r}
+Dialogue: 0,0:41:11.87,0:41:14.80,Default,,0,0,0,,{\blur3}宇航员要做的不仅仅是适应火星的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts do more than adapt to Mars.{\r}
+Dialogue: 0,0:41:17.81,0:41:19.76,Default,,0,0,0,,{\blur3}他们从火星表面提取水源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They extract water from the surface,{\r}
+Dialogue: 0,0:41:20.25,0:41:23.04,Default,,0,0,0,,{\blur3}并用火星土壤种植食物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and use martian soil to grow food.{\r}
+Dialogue: 0,0:41:24.83,0:41:26.79,Default,,0,0,0,,{\blur3}就种植食物来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, in terms of growing food,{\r}
+Dialogue: 0,0:41:26.96,0:41:33.74,Default,,0,0,0,,{\blur3}最容易种植的是像生菜一样的带叶植物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the things that can be grown most easily are leafy things like lettuce.{\r}
+Dialogue: 0,0:41:35.87,0:41:39.86,Default,,0,0,0,,{\blur3}在未来的某一时段人们会开始种植土豆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At a certain point you're gonna want to grow potatoes, which can{\r}
+Dialogue: 0,0:41:39.97,0:41:45.46,Default,,0,0,0,,{\blur3}这能使农场里平方米淀粉产量得到极大增长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}create a great deal of starch per square meter of farmland.{\r}
+Dialogue: 0,0:41:48.07,0:41:52.40,Default,,0,0,0,,{\blur3}一年前在火星上 只有四人绝境求生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A year ago on Mars, four humans struggled to survive.{\r}
+Dialogue: 0,0:41:52.74,0:41:56.09,Default,,0,0,0,,{\blur3}如今 他们开始在那里繁荣生息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, they are beginning to make a planet bloom.{\r}
+Dialogue: 0,0:41:58.05,0:42:00.35,Default,,0,0,0,,{\blur3}但这只是个开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's only a beginning.{\r}
+Dialogue: 0,0:42:03.55,0:42:10.39,Default,,0,0,0,,{\blur3}近一个世纪来 电影一直有构想和希望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For over a century, movies have perpetuated the idea, and the hope,{\r}
+Dialogue: 0,0:42:11.95,0:42:14.60,Default,,0,0,0,,{\blur3}即火星上有智慧生物存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there is intelligent life on Mars.{\r}
+Dialogue: 0,0:42:18.15,0:42:20.30,Default,,0,0,0,,{\blur3}目前这里还没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There isn't, yet.{\r}
+Dialogue: 0,0:42:20.47,0:42:22.40,Default,,0,0,0,,{\blur3}但在本世纪末的某个时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But sometime late in this century,{\r}
+Dialogue: 0,0:42:23.22,0:42:24.50,Default,,0,0,0,,{\blur3}两位来自地球的人类的结合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}two people from Earth{\r}
+Dialogue: 0,0:42:24.85,0:42:27.51,Default,,0,0,0,,{\blur3}有可能诞生出首位火星人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might give birth to the first martian{\r}
+Dialogue: 0,0:42:28.43,0:42:31.08,Default,,0,0,0,,{\blur3}它可能是很多新事物的起源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who may be the first of many more.{\r}
+Dialogue: 0,0:42:32.58,0:42:34.84,Default,,0,0,0,,{\blur3}我们将是火星人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We will be the martians.{\r}
+Dialogue: 0,0:42:38.53,0:42:39.92,Default,,0,0,0,,{\blur3}但这是未来的远景{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that's the future.{\r}
+Dialogue: 0,0:42:40.78,0:42:44.08,Default,,0,0,0,,{\blur3}对于第一个任务来说 时间快不够了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For this first mission, time is running short.{\r}
+Dialogue: 0,0:42:51.30,0:42:55.72,Default,,0,0,0,,{\blur3}地球与火星处于返程的同一直线上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth and Mars are at the right alignment for the journey home.{\r}
+Dialogue: 0,0:42:57.51,0:43:00.76,Default,,0,0,0,,{\blur3}宇航员们希望能一头扎进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronauts look forward to splashing down on the warm{\r}
+Dialogue: 0,0:43:00.79,0:43:02.50,Default,,0,0,0,,{\blur3}太平洋温暖的水域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}waters of the Pacific ocean.{\r}
+Dialogue: 0,0:43:06.17,0:43:08.70,Default,,0,0,0,,{\blur3}正当他们向着浩瀚宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As they head back to that bright blue ball{\r}
+Dialogue: 0,0:43:08.83,0:43:10.59,Default,,0,0,0,,{\blur3}那颗明亮的蓝色星球进发时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the star-sprinkled blackness,{\r}
+Dialogue: 0,0:43:10.71,0:43:13.87,Default,,0,0,0,,{\blur3}另一道光却朝着相反的方向闪过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another streak of light heads the other way.{\r}
+Dialogue: 0,0:43:15.38,0:43:18.57,Default,,0,0,0,,{\blur3}这是装载有另一台返地舱的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the second manned mission heading for a rendezvous{\r}
+Dialogue: 0,0:43:18.67,0:43:21.21,Default,,0,0,0,,{\blur3}向着集结点前进的第二次载人探索任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with another pre-positioned ERV.{\r}
+Dialogue: 0,0:43:22.96,0:43:25.95,Default,,0,0,0,,{\blur3}载人火星探索有相当多的危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's plenty of risks associated with a human Mars mission.{\r}
+Dialogue: 0,0:43:26.19,0:43:28.75,Default,,0,0,0,,{\blur3}但如果你着眼人类历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if you look at human history,{\r}
+Dialogue: 0,0:43:28.75,0:43:31.30,Default,,0,0,0,,{\blur3}有一点是很明确的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you know, one thing is clear,{\r}
+Dialogue: 0,0:43:31.40,0:43:33.88,Default,,0,0,0,,{\blur3}即伟业必有险阻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nothing great has ever been accomplished without risk,{\r}
+Dialogue: 0,0:43:34.44,0:43:37.34,Default,,0,0,0,,{\blur3}创举必须勇气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and nothing great has ever been accomplished without courage.{\r}
+Dialogue: 0,0:43:37.45,0:43:39.22,Default,,0,0,0,,{\blur3}如果我们能够在这一代将人送上火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we sent humans to Mars in our time,{\r}
+Dialogue: 0,0:43:39.31,0:43:43.21,Default,,0,0,0,,{\blur3}如果我们能够在火星上定居下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we establish that little planet rock settlement on mars in our time{\r}
+Dialogue: 0,0:43:43.26,0:43:44.82,Default,,0,0,0,,{\blur3}这是我们能做到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is what within our capability,{\r}
+Dialogue: 0,0:43:45.14,0:43:47.68,Default,,0,0,0,,{\blur3}那么五百年后在火星以至于更多星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then 500 years from now there would be new branches of{\r}
+Dialogue: 0,0:43:47.74,0:43:50.75,Default,,0,0,0,,{\blur3}都会诞生出人类文明的新枝节{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}human civilization on Mars and on many worlds beyond.{\r}
+Dialogue: 0,0:43:51.52,0:43:53.17,Default,,0,0,0,,{\blur3}这将会是未来的曙光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the birth of the future.{\r}

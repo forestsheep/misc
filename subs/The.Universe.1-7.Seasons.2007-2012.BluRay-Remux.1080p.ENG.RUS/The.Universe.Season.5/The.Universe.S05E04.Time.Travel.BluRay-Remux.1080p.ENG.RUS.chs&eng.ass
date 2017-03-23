@@ -1,0 +1,807 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: YYeTs
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:56.60,0:01:00.00,Default,,0000,0000,0001,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:00.05,0:01:03.00,Default,,0000,0000,0008,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制&调校:无影  字幕来源:人人影视  招募Q号:76846146{\r}
+Dialogue: 0,0:01:03.05,0:01:06.46,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(149,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宇
+Dialogue: 0,0:01:03.05,0:01:06.46,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(228,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宙
+Dialogue: 0,0:01:03.05,0:01:06.46,Default,NTP,0000,0000,0000,,{\fe134}{\fad(300,300)\pos(192,207)\c&FBF7ED&\3c&HFFFFFF&\fn微软雅黑\fs24\shad0\bord2\be1}{\t(0,3500,0.5,\c&B59475&,\fscx110,\fscy110)}时 间 旅 行
+Dialogue: 0,0:01:03.05,0:01:06.46,Default,NTP,0000,0000,0000,,{\1c&HFF00FF&\b1}第5季　第4集
+Dialogue: 0,0:00:00.42,0:00:02.87,Default,NTP,0000,0000,0000,,最初  宇宙是一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness.
+Dialogue: 0,0:00:02.87,0:00:04.59,Default,NTP,0000,0000,0000,,紧接着一声巨响  混沌初开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then, bang, giving birth
+Dialogue: 0,0:00:05.08,0:00:08.15,Default,NTP,0000,0000,0000,,时间  空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to an endless, expanding existence
+Dialogue: 0,0:00:08.15,0:00:09.76,Default,NTP,0000,0000,0000,,开始不断膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space and matter.
+Dialogue: 0,0:00:11.10,0:00:12.71,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}彗星撞击木星
+Dialogue: 0,0:00:10.00,0:00:13.53,Default,NTP,0000,0000,0000,,每天  我们都在解密这神秘莫测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:13.58,0:00:14.78,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}发现新行星
+Dialogue: 0,0:00:13.57,0:00:16.40,Default,NTP,0000,0000,0000,,令人疯狂的极端之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:16.40,0:00:16.94,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}流星撞地球
+Dialogue: 0,0:00:16.40,0:00:19.20,Default,NTP,0000,0000,0000,,宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call the universe.
+Dialogue: 0,0:00:20.51,0:00:23.68,Default,NTP,0000,0000,0000,,过去和未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The past and the future:
+Dialogue: 0,0:00:23.75,0:00:26.31,Default,NTP,0000,0000,0000,,两处终极度假胜地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ultimate vacation destinations.
+Dialogue: 0,0:00:26.42,0:00:28.75,Default,NTP,0000,0000,0000,,是遥不可及的吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But are they within reach?
+Dialogue: 0,0:00:29.38,0:00:32.78,Default,NTP,0000,0000,0000,,几年或几十年内就能实现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could happen within a few years or a few decades.
+Dialogue: 0,0:00:33.29,0:00:37.51,Default,NTP,0000,0000,0000,,当你穿越时间  奇异之事便会发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you travel through time, strange things start to happen.
+Dialogue: 0,0:00:37.59,0:00:39.91,Default,NTP,0000,0000,0000,,你可以想象大幅度扭曲实相\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can imagine warping things so dramatically
+Dialogue: 0,0:00:39.91,0:00:42.02,Default,NTP,0000,0000,0000,,甚至能探访过去的自己\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you can actually visit yourself in the past.
+Dialogue: 0,0:00:42.50,0:00:45.17,Default,NTP,0000,0000,0000,,有些人已经完成旅程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some humans have already made the trip.
+Dialogue: 0,0:00:45.65,0:00:47.71,Default,NTP,0000,0000,0000,,你能跃至未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You will have jumped into the future
+Dialogue: 0,0:00:47.71,0:00:49.34,Default,NTP,0000,0000,0000,,却无须变老\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while aging very little.
+Dialogue: 0,0:00:49.34,0:00:50.63,Default,NTP,0000,0000,0000,,这实在是很棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's really cool.
+Dialogue: 0,0:00:52.04,0:00:53.34,Default,NTP,0000,0000,0000,,{\pos(180,100)}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}太空时间44天  地球时间8年216天
+Dialogue: 0,0:00:51.32,0:00:56.24,Default,NTP,0000,0000,0000,,看我们解开时间旅行之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}See how it's possible as we unravel the mystery of time travel.
+Dialogue: 0,0:01:10.96,0:01:13.53,Default,NTP,0000,0000,0000,,宇宙中所有的谜题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of all the riddles of the universe,
+Dialogue: 0,0:01:14.29,0:01:17.36,Default,NTP,0000,0000,0000,,时间旅行可能最令人费解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}time travel may be the most perplexing.
+Dialogue: 0,0:01:19.37,0:01:22.55,Default,NTP,0000,0000,0000,,时间本身对我们而言就有很大的魅力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Time itself has a lot of fascination for us.
+Dialogue: 0,0:01:22.55,0:01:26.57,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克里福德·约翰逊\N南加利福尼亚大学
+Dialogue: 0,0:01:22.55,0:01:27.41,Default,NTP,0000,0000,0000,,于是我们想要欺骗时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we end up thinking of ways of cheating time and things like that,
+Dialogue: 0,0:01:27.41,0:01:29.19,Default,NTP,0000,0000,0000,,让时光倒流  改变历史\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}going back in time, changing things.
+Dialogue: 0,0:01:32.94,0:01:35.66,Default,NTP,0000,0000,0000,,时间旅行包括回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Time travel could involve going back in time
+Dialogue: 0,0:01:36.29,0:01:38.30,Default,NTP,0000,0000,0000,,和大幅度前往未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or speeding into the future.
+Dialogue: 0,0:01:39.29,0:01:43.77,Default,NTP,0000,0000,0000,,但是我们每个人被定格在现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But for the moment, every one of us is frozen in the pesent.
+Dialogue: 0,0:01:48.93,0:01:51.48,Default,NTP,0000,0000,0000,,然而  科学提供了这样的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet, science holds out the possibility
+Dialogue: 0,0:01:51.48,0:01:54.89,Default,NTP,0000,0000,0000,,我们也许能松动时间对我们的控制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we might loosen the hold that time has on us.
+Dialogue: 0,0:01:55.86,0:01:58.07,Default,NTP,0000,0000,0000,,爱因斯坦的相对论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Einstein's theory of relativity,
+Dialogue: 0,0:01:58.37,0:02:00.62,Default,NTP,0000,0000,0000,,将时间置于中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in which time plays a central role,
+Dialogue: 0,0:02:02.35,0:02:05.13,Default,NTP,0000,0000,0000,,也令时间旅行成为可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}makes time travel an open question.
+Dialogue: 0,0:02:06.87,0:02:08.83,Default,NTP,0000,0000,0000,,相对论是最佳的时间理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our best theory of time, which is relativity,
+Dialogue: 0,0:02:08.83,0:02:12.20,Default,NTP,0000,0000,0000,,它本身并没有明确禁止时间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}doesn't explicitly forbid time travel per Se.
+Dialogue: 0,0:02:12.20,0:02:16.17,Default,NTP,0000,0000,0000,,也许还有我们不了解的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It might be that there are things we yet don't understand
+Dialogue: 0,0:02:16.55,0:02:18.30,Default,NTP,0000,0000,0000,,可以改进相对论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that will improve the theory,
+Dialogue: 0,0:02:18.59,0:02:23.23,Default,NTP,0000,0000,0000,,但是相对论中似乎允许人们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it seems that there are ways of constructing scenarios within relativity
+Dialogue: 0,0:02:23.23,0:02:27.04,Default,NTP,0000,0000,0000,,回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that allow you to go back in time.
+Dialogue: 0,0:02:28.12,0:02:31.02,Default,NTP,0000,0000,0000,,回到过去看起来是不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Traveling into the past seems improbable
+Dialogue: 0,0:02:31.02,0:02:34.37,Default,NTP,0000,0000,0000,,因为时间只有一种方向  向前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because time only goes one way: forward.
+Dialogue: 0,0:02:34.58,0:02:37.68,Default,NTP,0000,0000,0000,,物理学家称之为时间箭头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicists call this the arrow of time.
+Dialogue: 0,0:02:39.61,0:02:42.76,Default,NTP,0000,0000,0000,,时间箭头实际上就是你总是能够让自己\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The arrow of time is just the fact that you can always orient yourself,
+Dialogue: 0,0:02:42.76,0:02:44.71,Default,NTP,0000,0000,0000,,从过去移动到未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}moving from the past to the future.
+Dialogue: 0,0:02:41.53,0:02:45.03,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}肖恩·卡洛尔\N加州理工学院
+Dialogue: 0,0:02:44.71,0:02:46.03,Default,NTP,0000,0000,0000,,你能记住过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You remember the past.
+Dialogue: 0,0:02:46.03,0:02:47.51,Default,NTP,0000,0000,0000,,记不住将来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't remember the future.
+Dialogue: 0,0:02:47.67,0:02:49.38,Default,NTP,0000,0000,0000,,你能让事情发生在将来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can cause things to happen in the future,
+Dialogue: 0,0:02:49.45,0:02:51.71,Default,NTP,0000,0000,0000,,但是你不能让事情发生在过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but you can't cause things to happen in the past.
+Dialogue: 0,0:02:51.82,0:02:54.92,Default,NTP,0000,0000,0000,,如果拍摄一部日常生活之事的影片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you took a movie of things going on in your everyday life,
+Dialogue: 0,0:02:54.99,0:02:56.92,Default,NTP,0000,0000,0000,,比如将奶油混合到咖啡中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like mixing cream into your coffee,
+Dialogue: 0,0:02:56.99,0:02:58.99,Default,NTP,0000,0000,0000,,然后逆时播放影片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then you played that movie backwards,
+Dialogue: 0,0:02:58.99,0:03:00.19,Default,NTP,0000,0000,0000,,你会知道那是逆时的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be perfectly obvious.
+Dialogue: 0,0:03:00.26,0:03:02.88,Default,NTP,0000,0000,0000,,奶油可以混入咖啡  但决不会自动分离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cream mixes into coffee. It doesn't unmix.
+Dialogue: 0,0:03:02.88,0:03:04.72,Default,NTP,0000,0000,0000,,这即是时间箭头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's the arrow of time.
+Dialogue: 0,0:03:06.93,0:03:11.52,Default,NTP,0000,0000,0000,,这个箭头让时间成了不可逆事件的单行道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The arrow makes time a one-way street of irreversible events,
+Dialogue: 0,0:03:12.24,0:03:15.93,Default,NTP,0000,0000,0000,,这在日常经验中都是凭直觉知道的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}something we know intuitively from our everyday experience.
+Dialogue: 0,0:03:17.29,0:03:19.81,Default,NTP,0000,0000,0000,,在一张台球桌上  你可以撞球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On a pool table, you can break,
+Dialogue: 0,0:03:20.16,0:03:23.18,Default,NTP,0000,0000,0000,,但不要期待球能够自行重组\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but don't expect the balls to realign on their own.
+Dialogue: 0,0:03:25.92,0:03:29.68,Default,NTP,0000,0000,0000,,你能搅拌一只鸡蛋  但是不能让其恢复原状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can scramble an egg, but you can't unscramble it.
+Dialogue: 0,0:03:32.37,0:03:36.60,Default,NTP,0000,0000,0000,,时间为何有箭头缘于物理学一项基本定律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The reason why time has an arrow is a fundamental law of physics
+Dialogue: 0,0:03:36.63,0:03:38.81,Default,NTP,0000,0000,0000,,定律表明宇宙中所有物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that says all things in the universe
+Dialogue: 0,0:03:38.81,0:03:45.15,Default,NTP,0000,0000,0000,,均由有序状态向无序状态运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}move from orderly states to disorderly states.
+Dialogue: 0,0:03:47.07,0:03:50.80,Default,NTP,0000,0000,0000,,当宇宙年龄变大  当我们由过去运动到未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the universe gets older, as we move from the past to the future,
+Dialogue: 0,0:03:50.80,0:03:53.70,Default,NTP,0000,0000,0000,,过去与未来之间所有的差异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the differences between the past and the future
+Dialogue: 0,0:03:53.70,0:03:57.43,Default,NTP,0000,0000,0000,,都可以总结为  宇宙正在失去控制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can be summed up by saying that the universe is winding down.
+Dialogue: 0,0:03:57.43,0:04:01.22,Default,NTP,0000,0000,0000,,宇宙是从有序整齐的状态开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The universe is going from being orderly, very neatly arranged,
+Dialogue: 0,0:04:01.22,0:04:02.65,Default,NTP,0000,0000,0000,,到无序混乱的状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to disorderly and messy.
+Dialogue: 0,0:04:02.85,0:04:04.91,Default,NTP,0000,0000,0000,,如果你有一个盘子  非常漂亮的盘子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if you had a plate, that was a nice plate,
+Dialogue: 0,0:04:04.91,0:04:07.32,Default,NTP,0000,0000,0000,,完整而有序  将它打碎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was put together and orderly, it breaks.
+Dialogue: 0,0:04:07.32,0:04:09.70,Default,NTP,0000,0000,0000,,它就变得无序  这很自然\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It becomes more disorderly. That's very natural.
+Dialogue: 0,0:04:10.66,0:04:14.53,Default,NTP,0000,0000,0000,,如果你试图复原盘子  将碎片粘在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if you try to restore order by gluing the plate back together,
+Dialogue: 0,0:04:14.74,0:04:17.95,Default,NTP,0000,0000,0000,,你的行为会向周围环境释放更多的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}your actions release enough energy into the surrounding environment
+Dialogue: 0,0:04:18.05,0:04:21.81,Default,NTP,0000,0000,0000,,总体来看  会在宇宙中造成更多的无序\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to create more disorder in the universe as a whole.
+Dialogue: 0,0:04:27.02,0:04:31.14,Default,NTP,0000,0000,0000,,但是时间箭头能在极端环境下弯曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the arrow of time can be bent in extreme conditions.
+Dialogue: 0,0:04:31.46,0:04:35.10,Default,NTP,0000,0000,0000,,这源于爱因斯坦的相对论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It all goes back to Einstein's theory of relativity.
+Dialogue: 0,0:04:35.31,0:04:38.47,Default,NTP,0000,0000,0000,,爱因斯坦指出  质量大的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Einstein showed that the gravity of massive objects
+Dialogue: 0,0:04:38.47,0:04:41.74,Default,NTP,0000,0000,0000,,像行星  恒星  黑洞所产生的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like planets, stars, black holes
+Dialogue: 0,0:04:41.80,0:04:45.05,Default,NTP,0000,0000,0000,,实际上能导致空间本身发生弯曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can actually cause space itself to bend.
+Dialogue: 0,0:04:46.01,0:04:47.77,Default,NTP,0000,0000,0000,,比这更令人惊异的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}More amazing than that,
+Dialogue: 0,0:04:48.08,0:04:51.46,Default,NTP,0000,0000,0000,,爱因斯坦指出空间和时间实际上是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}he showed that space and time are actually linked
+Dialogue: 0,0:04:51.65,0:04:55.42,Default,NTP,0000,0000,0000,,连成一体的  他称之为时空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into a single something he called spacetime.
+Dialogue: 0,0:04:56.35,0:04:59.93,Default,NTP,0000,0000,0000,,这意味着空间弯曲时  时间也随之弯曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This means that whenever space is warped, so is time,
+Dialogue: 0,0:05:00.17,0:05:03.62,Default,NTP,0000,0000,0000,,在宇宙中  黑洞的超强引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and nothing in the universe can bend spacetime more
+Dialogue: 0,0:05:03.63,0:05:06.32,Default,NTP,0000,0000,0000,,能使时空弯曲到最大限度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the supergravity of a black hole.
+Dialogue: 0,0:05:08.16,0:05:11.63,Default,NTP,0000,0000,0000,,你可以想象  引力场强大到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you can imagine the gravitational field is so strong
+Dialogue: 0,0:05:11.70,0:05:14.87,Default,NTP,0000,0000,0000,,空间和时间被弯曲至自我闭合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that space and time curl back on themselves.
+Dialogue: 0,0:05:14.97,0:05:16.44,Default,NTP,0000,0000,0000,,于是你能从一点开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you can start at one point,
+Dialogue: 0,0:05:16.51,0:05:19.95,Default,NTP,0000,0000,0000,,向前行进  然后回到你离开的那一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}go forward in time and come back at the point that you left.
+Dialogue: 0,0:05:23.05,0:05:26.15,Default,NTP,0000,0000,0000,,当时间箭头弯曲至首尾相接\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the arrow of time bends around to meet its tail,
+Dialogue: 0,0:05:26.18,0:05:31.45,Default,NTP,0000,0000,0000,,便形成死循环  同样事件不断重复发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it creates an endless loop in which the same events happen over and over.
+Dialogue: 0,0:05:33.46,0:05:36.06,Default,NTP,0000,0000,0000,,所以  如果时间自我闭合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if this is time curling back on itself
+Dialogue: 0,0:05:36.16,0:05:38.79,Default,NTP,0000,0000,0000,,宇宙只是一遍遍的重复\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the universe just repeats itself over and over again,
+Dialogue: 0,0:05:38.86,0:05:42.95,Default,NTP,0000,0000,0000,,时间的每刻都在无限次的重复\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every moment in time would just repeat an infinite number of times.
+Dialogue: 0,0:05:43.23,0:05:47.44,Default,NTP,0000,0000,0000,,死循环令人万分沮丧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An endless loop would become pretty frustrating for anyone.
+Dialogue: 0,0:05:48.90,0:05:52.07,Default,NTP,0000,0000,0000,,但是设想一下时光旅行者能够回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But suppose a time traveler can land in the past
+Dialogue: 0,0:05:52.17,0:05:54.27,Default,NTP,0000,0000,0000,,而没有永无休止的重复\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without the constant repetition.
+Dialogue: 0,0:05:55.08,0:05:58.10,Default,NTP,0000,0000,0000,,那样的话  就有其他障碍了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In that case, there are other roadblocks.
+Dialogue: 0,0:05:58.51,0:06:01.61,Default,NTP,0000,0000,0000,,最令人费解的莫过于当我们干预\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most perplexing are the inconsistencies,
+Dialogue: 0,0:06:01.61,0:06:02.57,Default,NTP,0000,0000,0000,,过去的事时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or paradoxes,
+Dialogue: 0,0:06:02.57,0:06:05.70,Default,NTP,0000,0000,0000,,出现的不一致性  或者  悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that pop up when we start meddling with the past.
+Dialogue: 0,0:06:07.69,0:06:11.86,Default,NTP,0000,0000,0000,,关于时间旅行不一致性的一个著名例子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A famous example of the kind of inconsistency you can get with time travel
+Dialogue: 0,0:06:11.86,0:06:13.43,Default,NTP,0000,0000,0000,,叫做祖父悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is called the grandfather paradox.
+Dialogue: 0,0:06:13.43,0:06:15.96,Default,NTP,0000,0000,0000,,当某人回到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this is where someone goes back
+Dialogue: 0,0:06:15.96,0:06:20.14,Default,NTP,0000,0000,0000,,其祖父年轻时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the time of, for example, their grandfather.
+Dialogue: 0,0:06:20.24,0:06:23.90,Default,NTP,0000,0000,0000,,想象一下我用时间机器让时光倒流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So imagine that I go back in time with a time machine
+Dialogue: 0,0:06:23.90,0:06:26.39,Default,NTP,0000,0000,0000,,在1937年见到我的祖父\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and meet my grandfather in 1937.
+Dialogue: 0,0:06:27.71,0:06:31.14,Default,NTP,0000,0000,0000,,他正要和我的祖母约会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's just about to go on a blind date with my grandmother.
+Dialogue: 0,0:06:31.37,0:06:32.89,Default,NTP,0000,0000,0000,,他们以前从未见过面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They've never met before.
+Dialogue: 0,0:06:33.68,0:06:36.95,Default,NTP,0000,0000,0000,,但我说服他不要去赴约\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But actually, I convince him not to go on that date.
+Dialogue: 0,0:06:37.05,0:06:38.59,Default,NTP,0000,0000,0000,,他对赛马很感兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's actually interested in the races,
+Dialogue: 0,0:06:38.69,0:06:40.62,Default,NTP,0000,0000,0000,,所以我告诉他有场精彩的比赛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so I tell him that there's an exciting race
+Dialogue: 0,0:06:40.69,0:06:44.85,Default,NTP,0000,0000,0000,,圣塔阿尼塔赛马场有塞比克的比赛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with seabiscuit that's coming up at the Santa Anita track.
+Dialogue: 0,0:06:40.69,0:06:44.85,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}[塞比克:传奇赛马]
+Dialogue: 0,0:06:45.43,0:06:47.53,Default,NTP,0000,0000,0000,,于是我们就一起去看那场比赛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so we go off together to that race.
+Dialogue: 0,0:06:47.60,0:06:49.45,Default,NTP,0000,0000,0000,,他从未遇见我的祖母\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He never meets my grandmother.
+Dialogue: 0,0:06:49.60,0:06:51.33,Default,NTP,0000,0000,0000,,那么  我会怎么样呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, what happens to me?
+Dialogue: 0,0:06:51.43,0:06:53.80,Default,NTP,0000,0000,0000,,我怎么可能在出生后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How is it possible that I could have been born
+Dialogue: 0,0:06:53.87,0:06:58.79,Default,NTP,0000,0000,0000,,回到过去  见到我的祖父\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then been able to go back in time, meet him,
+Dialogue: 0,0:06:58.79,0:07:00.61,Default,NTP,0000,0000,0000,,并阻止我的出生呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and stop myself from being born?
+Dialogue: 0,0:07:00.61,0:07:03.65,Default,NTP,0000,0000,0000,,这就是一个不一致性的例子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, there's an example of an inconsistency.
+Dialogue: 0,0:07:03.65,0:07:08.62,Default,NTP,0000,0000,0000,,这是一个不合理的时间循环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a loop in time that really doesn't make sense.
+Dialogue: 0,0:07:10.95,0:07:13.32,Default,NTP,0000,0000,0000,,但如果时间旅行是可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if time travel is possible,
+Dialogue: 0,0:07:13.36,0:07:16.52,Default,NTP,0000,0000,0000,,自然界必定会有绕过矛盾的路径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nature must have a way around the contradiction.
+Dialogue: 0,0:07:17.79,0:07:20.13,Default,NTP,0000,0000,0000,,物理学家非常确定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One thing that physicists are quite certain of
+Dialogue: 0,0:07:20.23,0:07:23.04,Default,NTP,0000,0000,0000,,宇宙最终是讲得通的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that the universe ultimately makes sense.
+Dialogue: 0,0:07:23.50,0:07:26.48,Default,NTP,0000,0000,0000,,一般说来  在所有物理学和自然科学中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In all of physics, in all of science, more generally,
+Dialogue: 0,0:07:26.48,0:07:30.61,Default,NTP,0000,0000,0000,,事物的一致性  自我一致性  常规\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}consistency, self-consistency, common sense, if you like,
+Dialogue: 0,0:07:30.67,0:07:34.00,Default,NTP,0000,0000,0000,,是项基本原则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is something that is a fundamental principle.
+Dialogue: 0,0:07:35.14,0:07:37.87,Default,NTP,0000,0000,0000,,物理学家提出  自然至少有三种方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicists have come up with at least three ways
+Dialogue: 0,0:07:37.87,0:07:41.48,Default,NTP,0000,0000,0000,,来阻止时间旅行悖论的发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That nature might act to prevent time travel paradoxes.
+Dialogue: 0,0:07:41.78,0:07:45.04,Default,NTP,0000,0000,0000,,第一条很简单  自然会阻止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first is simple: Nature prevents paradoxes
+Dialogue: 0,0:07:45.04,0:07:48.22,Default,NTP,0000,0000,0000,,通过时间旅行回到过去的悖论发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by making time travel into the past impossible
+Dialogue: 0,0:07:48.32,0:07:50.87,Default,NTP,0000,0000,0000,,换句话说  悖论不可能发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In other words, it can't be done.
+Dialogue: 0,0:07:54.20,0:07:59.10,Default,NTP,0000,0000,0000,,另一种选择是  多重时空的奇妙想法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A different alternative is the strange idea of multiple universes.
+Dialogue: 0,0:08:00.50,0:08:03.72,Default,NTP,0000,0000,0000,,应对回到过去的一种理论就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One way of dealing with travel back in time
+Dialogue: 0,0:08:03.72,0:08:07.72,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:08:03.72,0:08:08.14,Default,NTP,0000,0000,0000,,在你进行时间旅行回到过去时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is to say that you actually enter a different parallel universe
+Dialogue: 0,0:08:08.24,0:08:10.68,Default,NTP,0000,0000,0000,,其实是进入了另一个宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}after having made the journey back in time.
+Dialogue: 0,0:08:10.78,0:08:15.01,Default,NTP,0000,0000,0000,,所以你不会对你原本的宇宙历史造成影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you don't affect the history of the universe from which you came.
+Dialogue: 0,0:08:15.22,0:08:18.51,Default,NTP,0000,0000,0000,,实际上  任何会发生的事情都将会发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In effect, anything that can happen will happen.
+Dialogue: 0,0:08:18.51,0:08:22.12,Default,NTP,0000,0000,0000,,但发生的方式便是进入到一个平行的宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the way it happens is by entering a parallel universe.
+Dialogue: 0,0:08:22.19,0:08:24.33,Default,NTP,0000,0000,0000,,相当奇怪的想法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pretty bizarre thought.
+Dialogue: 0,0:08:26.30,0:08:28.76,Default,NTP,0000,0000,0000,,第三种解决悖论的理论是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A third solution to the paradox problem
+Dialogue: 0,0:08:28.86,0:08:32.50,Default,NTP,0000,0000,0000,,如果时间旅行是可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the notion that if time travel is possible,
+Dialogue: 0,0:08:32.97,0:08:36.20,Default,NTP,0000,0000,0000,,当你回到过去时  你不能改变历史\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You just won't be able to change the past when you get there.
+Dialogue: 0,0:08:36.87,0:08:40.80,Default,NTP,0000,0000,0000,,隐藏其后的科学可以通过将问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The science behind this can be illustrated by reducing the problem
+Dialogue: 0,0:08:40.80,0:08:43.52,Default,NTP,0000,0000,0000,,减化到你可以想象的最简单程度来进行说明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the simplest situation you can think of.
+Dialogue: 0,0:08:44.05,0:08:46.54,Default,NTP,0000,0000,0000,,就用台球桌上的球来举例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, balls on a pool table.
+Dialogue: 0,0:08:47.42,0:08:51.56,Default,NTP,0000,0000,0000,,我们把台球桌假设成一台时光机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's set up a pool table that's like a time machine.
+Dialogue: 0,0:08:51.75,0:08:53.74,Default,NTP,0000,0000,0000,,如果一个桌球进入到一个球袋中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a ball enters one pocket,
+Dialogue: 0,0:08:53.74,0:08:58.09,Default,NTP,0000,0000,0000,,然后通过虫洞  回到进入第一个球袋之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it travels through a wormhole and can exit another pocket
+Dialogue: 0,0:08:58.35,0:09:01.27,Default,NTP,0000,0000,0000,,从另一个球袋出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before it entered the first pocket.
+Dialogue: 0,0:09:01.42,0:09:03.13,Default,NTP,0000,0000,0000,,所以这就是一台时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's a time machine.
+Dialogue: 0,0:09:03.23,0:09:06.71,Default,NTP,0000,0000,0000,,现在假设桌球的确会进入第一个球袋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So now suppose the ball really does go through the first pocket,
+Dialogue: 0,0:09:08.37,0:09:11.51,Default,NTP,0000,0000,0000,,并在它进入第一个球袋之前便出现的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}emerges before it entered,
+Dialogue: 0,0:09:11.57,0:09:13.93,Default,NTP,0000,0000,0000,,那么在进入第一个球袋之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then hits itself before
+Dialogue: 0,0:09:13.93,0:09:15.28,Default,NTP,0000,0000,0000,,桌球便会击中自己\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it entered the first pocket.
+Dialogue: 0,0:09:15.38,0:09:17.28,Default,NTP,0000,0000,0000,,使自己偏离方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would deflect it,
+Dialogue: 0,0:09:17.38,0:09:21.22,Default,NTP,0000,0000,0000,,而无法进入第一个球袋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}preventing it from entering the first pocket,
+Dialogue: 0,0:09:21.32,0:09:25.15,Default,NTP,0000,0000,0000,,如此一来  就不可能从第二个球袋出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and thus preventing it from having exited the second pocket
+Dialogue: 0,0:09:25.96,0:09:28.22,Default,NTP,0000,0000,0000,,也就不可能使自己发生偏离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and done the deflection in the first place.
+Dialogue: 0,0:09:28.32,0:09:30.64,Default,NTP,0000,0000,0000,,所以  这是一个悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, it's a paradox.
+Dialogue: 0,0:09:32.29,0:09:35.86,Default,NTP,0000,0000,0000,,然而  自洽性的想法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, the idea of self-consistent solutions
+Dialogue: 0,0:09:35.97,0:09:38.77,Default,NTP,0000,0000,0000,,使得我们从矛盾中摆脱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gives us a way out of this paradox.
+Dialogue: 0,0:09:38.93,0:09:43.71,Default,NTP,0000,0000,0000,,假设桌球从第二个球袋中出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Suppose that the ball exiting the second pocket
+Dialogue: 0,0:09:43.74,0:09:47.56,Default,NTP,0000,0000,0000,,能且只能击中自己\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can only hit itself in such a way
+Dialogue: 0,0:09:47.56,0:09:49.81,Default,NTP,0000,0000,0000,,并使其进入第一个球袋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as to deflect it into the first pocket.
+Dialogue: 0,0:09:49.91,0:09:52.27,Default,NTP,0000,0000,0000,,那么整个循环过程就符合自洽性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then the whole loop is self-consistent.
+Dialogue: 0,0:09:52.27,0:09:53.55,Default,NTP,0000,0000,0000,,就没有悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no paradox.
+Dialogue: 0,0:09:54.62,0:09:57.71,Default,NTP,0000,0000,0000,,我们认为大自然总能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We think that nature always somehow manages
+Dialogue: 0,0:09:57.71,0:10:01.72,Default,NTP,0000,0000,0000,,提供自洽的解决方案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to choose the solution that provides self-consistency.
+Dialogue: 0,0:10:01.79,0:10:04.63,Default,NTP,0000,0000,0000,,换句话说  你会得到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In other words, you always get a solution
+Dialogue: 0,0:10:04.73,0:10:07.47,Default,NTP,0000,0000,0000,,不会产生矛盾的方案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that does not produce a paradox.
+Dialogue: 0,0:10:11.73,0:10:14.68,Default,NTP,0000,0000,0000,,如果那样的话  克里福德·约翰逊就能够\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If that's the case and Clifford Johnson were able
+Dialogue: 0,0:10:14.68,0:10:16.97,Default,NTP,0000,0000,0000,,回到1937年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to travel to the year 1937,
+Dialogue: 0,0:10:17.07,0:10:19.54,Default,NTP,0000,0000,0000,,他也许能够见到他的祖父\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}he might be able to meet his grandfather.
+Dialogue: 0,0:10:19.54,0:10:21.34,Default,NTP,0000,0000,0000,,但是  尽管他尽了最大的努力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But despite his best efforts,
+Dialogue: 0,0:10:21.44,0:10:23.61,Default,NTP,0000,0000,0000,,他的举动也不会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nothing he does would alter the fact
+Dialogue: 0,0:10:23.61,0:10:27.04,Default,NTP,0000,0000,0000,,改变他祖父祖母的相遇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that somehow his grandfather will meet his grandmother
+Dialogue: 0,0:10:27.04,0:10:29.32,Default,NTP,0000,0000,0000,,因此允许克里福德的出生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to allow Clifford to be born.
+Dialogue: 0,0:10:29.32,0:10:30.75,Default,NTP,0000,0000,0000,,-你好  -你好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}- Hi. How are you? - How you doing?
+Dialogue: 0,0:10:31.35,0:10:36.26,Default,NTP,0000,0000,0000,,以某种方式  宇宙会阻止他去改变历史\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One way or another, the universe will prevent him from changing history.
+Dialogue: 0,0:10:38.09,0:10:42.06,Default,NTP,0000,0000,0000,,当我们跃向未来时则不必担心悖论发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we don't have to worry about paradoxes when we travel forward,
+Dialogue: 0,0:10:42.10,0:10:45.09,Default,NTP,0000,0000,0000,,时间箭头永远指向未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Taking the arrow of time into the future.
+Dialogue: 0,0:10:45.97,0:10:48.38,Default,NTP,0000,0000,0000,,向未来行进是世界上最容易的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Traveling forward in time is the easiest thing in the world.
+Dialogue: 0,0:10:48.38,0:10:51.64,Default,NTP,0000,0000,0000,,每一分钟  你都在往下一分钟移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every minute, you move one minute forward in time.
+Dialogue: 0,0:10:52.51,0:10:56.07,Default,NTP,0000,0000,0000,,与其他人相比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One thing we can do to change how we move forward in time
+Dialogue: 0,0:10:56.07,0:10:58.41,Default,NTP,0000,0000,0000,,我们唯一可以做出改变的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}relative to each other is to actually move
+Dialogue: 0,0:10:58.45,0:11:01.16,Default,NTP,0000,0000,0000,,是以不同速度向前移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at different velocities compared to each other.
+Dialogue: 0,0:11:03.25,0:11:06.02,Default,NTP,0000,0000,0000,,时光机将我们送到未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A time machine that takes us into the future
+Dialogue: 0,0:11:06.02,0:11:10.03,Default,NTP,0000,0000,0000,,是根据爱因斯坦关于时间和速度的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is based on Einstein's discovery about time and speed.
+Dialogue: 0,0:11:10.38,0:11:12.08,Default,NTP,0000,0000,0000,,你在空间上移动得越快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The faster you move in space,
+Dialogue: 0,0:11:12.08,0:11:17.11,Default,NTP,0000,0000,0000,,跟其他人相比  时间对你就相对慢了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}time, for you, slows down as compared to people standing still.
+Dialogue: 0,0:11:17.33,0:11:19.27,Default,NTP,0000,0000,0000,,这种想法似乎很疯狂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as mind-bending as this seems,
+Dialogue: 0,0:11:19.63,0:11:22.94,Default,NTP,0000,0000,0000,,事实上  这是通过实验得到了证明的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's actually been proven by experiments.
+Dialogue: 0,0:11:28.29,0:11:33.01,Default,NTP,0000,0000,0000,,时钟被安置在快速移动的飞机或者火箭上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Clocks have been placed on rapidly moving airplanes and rocket ships,
+Dialogue: 0,0:11:33.25,0:11:36.68,Default,NTP,0000,0000,0000,,它们以高速飞行一段距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they've moved over some distance at a very rapid speed.
+Dialogue: 0,0:11:36.79,0:11:40.99,Default,NTP,0000,0000,0000,,旅行结束后  来测量原子钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when the atomic clocks were measured after the end of the journey,
+Dialogue: 0,0:11:41.12,0:11:45.17,Default,NTP,0000,0000,0000,,它们已经比安置在地面同样的钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they had progressed forward in time a little bit less
+Dialogue: 0,0:11:45.17,0:11:49.68,Default,NTP,0000,0000,0000,,慢了一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than similar clocks which had remained at rest on earth.
+Dialogue: 0,0:11:51.67,0:11:54.60,Default,NTP,0000,0000,0000,,这被称作时间膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The effect is called time dilation,
+Dialogue: 0,0:11:54.60,0:11:56.70,Default,NTP,0000,0000,0000,,我们可以利用它去到未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we can use it to travel into the future.
+Dialogue: 0,0:11:56.81,0:11:59.80,Default,NTP,0000,0000,0000,,事实上  已经有人这么做了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, it's already been done.
+Dialogue: 0,0:12:02.41,0:12:04.82,Default,NTP,0000,0000,0000,,俄罗斯宇航员谢尔盖·克里卡列夫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Russian cosmonaut, Sergei Krikalev
+Dialogue: 0,0:12:04.82,0:12:07.87,Default,NTP,0000,0000,0000,,已经在绕地轨道中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has logged more than 803 days in orbit,
+Dialogue: 0,0:12:07.87,0:12:10.55,Default,NTP,0000,0000,0000,,以每小时17,000英里的速度旅行了803天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}traveling 17,000 miles an hour,
+Dialogue: 0,0:12:10.78,0:12:14.33,Default,NTP,0000,0000,0000,,这使得他成为间旅行最长时间的纪录保持者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}making him the world's record holder in time travel,
+Dialogue: 0,0:12:15.12,0:12:17.59,Default,NTP,0000,0000,0000,,虽然从表面上来几乎看不出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}though you'd hardly know it to look at him.
+Dialogue: 0,0:12:18.69,0:12:23.65,Default,NTP,0000,0000,0000,,实际发生的情况是  他所经历的时间中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's actually happened is that he's about a 50th of a second slower
+Dialogue: 0,0:12:23.77,0:12:25.59,Default,NTP,0000,0000,0000,,跟在地球上的每个人相比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the amount of time that has passed for him
+Dialogue: 0,0:12:25.59,0:12:28.48,Default,NTP,0000,0000,0000,,每50秒就会慢上一秒钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compared to everyone else who's stayed on earth.
+Dialogue: 0,0:12:30.94,0:12:34.41,Default,NTP,0000,0000,0000,,当你的速度接近光速的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But dilation really begins to pay off as a time machine
+Dialogue: 0,0:12:34.51,0:12:38.68,Default,NTP,0000,0000,0000,,时间膨胀产生的作用就等同于时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when you pump your speed to just under the speed of light.
+Dialogue: 0,0:12:38.71,0:12:42.70,Default,NTP,0000,0000,0000,,地球上的时间以正常速度向前移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea is to let clocks on earth move at their normal speed,
+Dialogue: 0,0:12:42.89,0:12:47.20,Default,NTP,0000,0000,0000,,与此同时  在太空中时间向前移动要慢一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while you're off in space and your clock is moving more slowly.
+Dialogue: 0,0:12:48.12,0:12:50.79,Default,NTP,0000,0000,0000,,当你回到地球  你就来到了未来世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you get back, you're in the future.
+Dialogue: 0,0:12:50.86,0:12:55.78,Default,NTP,0000,0000,0000,,假设说  你想去到500年后的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Suppose, for example, you wanted to go 500 years into the future.
+Dialogue: 0,0:12:56.70,0:12:59.62,Default,NTP,0000,0000,0000,,要去到500年后的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To move 500 years into the future,
+Dialogue: 0,0:12:59.62,0:13:04.46,Default,NTP,0000,0000,0000,,你要以接近光速99.99%速度飞行7年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'd have to move at 99.99% of the speed of light for 7 years.
+Dialogue: 0,0:13:07.11,0:13:10.68,Default,NTP,0000,0000,0000,,当你回到地球时  你的时间只前进了7年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you get back, you will have aged only 7 years,
+Dialogue: 0,0:13:10.78,0:13:14.29,Default,NTP,0000,0000,0000,,但是地球上已经过去了500年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but everything on earth will have aged 500.
+Dialogue: 0,0:13:14.78,0:13:17.42,Default,NTP,0000,0000,0000,,但是要打造一个飞往未来的时光机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But one of the biggest problems with building a time machine
+Dialogue: 0,0:13:17.52,0:13:21.29,Default,NTP,0000,0000,0000,,最大的问题就是要有充足的燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for travel into the future is finding enough fuel
+Dialogue: 0,0:13:21.39,0:13:24.77,Default,NTP,0000,0000,0000,,以便让飞船能够以如此高的速度飞行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to boost a spaceship to speeds that high.
+Dialogue: 0,0:13:25.76,0:13:27.71,Default,NTP,0000,0000,0000,,没有物理法则指出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no law of physics that says you can't
+Dialogue: 0,0:13:27.71,0:13:28.60,Default,NTP,0000,0000,0000,,我们不能如此接近光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}go close to the speed of light,
+Dialogue: 0,0:13:28.70,0:13:31.42,Default,NTP,0000,0000,0000,,但是  随着越来越接近光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But your rocket ship becomes heavier and heavier
+Dialogue: 0,0:13:31.64,0:13:33.97,Default,NTP,0000,0000,0000,,你的飞船也会变得越来越沉重\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as you go closer and closer to light speed.
+Dialogue: 0,0:13:34.04,0:13:37.48,Default,NTP,0000,0000,0000,,如此一来  就会需要更多的燃料来加速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you require more and more fuel to accelerate
+Dialogue: 0,0:13:37.48,0:13:39.57,Default,NTP,0000,0000,0000,,但加速的速度却越来越慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you smaller and smaller amounts,
+Dialogue: 0,0:13:39.61,0:13:41.84,Default,NTP,0000,0000,0000,,你需要超过无限多的能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you need more than an infinite amount of energy
+Dialogue: 0,0:13:41.94,0:13:43.96,Default,NTP,0000,0000,0000,,来打破光速障碍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to actually break the light-speed barrier.
+Dialogue: 0,0:13:45.11,0:13:48.37,Default,NTP,0000,0000,0000,,但是高速并不是去到未来世界的唯一办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But high speed isn't the only way to zip into the future.
+Dialogue: 0,0:13:48.45,0:13:51.95,Default,NTP,0000,0000,0000,,爱因斯坦的相对论中也阐释了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Einstein's theory of relativity says high gravity
+Dialogue: 0,0:13:52.05,0:13:54.49,Default,NTP,0000,0000,0000,,强引力也可以减慢时间的移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}also slows down your clock,
+Dialogue: 0,0:13:54.59,0:13:58.68,Default,NTP,0000,0000,0000,,这种引力你能在黑洞附近发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The kind of gravity you might find near a black hole.
+Dialogue: 0,0:13:59.29,0:14:00.50,Default,NTP,0000,0000,0000,,假如说  你在一架宇宙飞船中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's say you're in a spaceship,
+Dialogue: 0,0:14:00.60,0:14:04.67,Default,NTP,0000,0000,0000,,你飞往黑洞附近  并且停留一会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you go and you park yourself just outside a black hole for a while.
+Dialogue: 0,0:14:05.10,0:14:06.57,Default,NTP,0000,0000,0000,,然后立刻回到地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once you return to earth,
+Dialogue: 0,0:14:06.64,0:14:10.40,Default,NTP,0000,0000,0000,,你就会发现你来到了许多年以后的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you will notice that many, many years may have passed on earth,
+Dialogue: 0,0:14:10.40,0:14:14.84,Default,NTP,0000,0000,0000,,事实上你的时间只过去了几周或几月而已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but only a few weeks or months will have passed in your own frame of reference.
+Dialogue: 0,0:14:14.84,0:14:18.71,Default,NTP,0000,0000,0000,,这样就可以花很短的时间就去到未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You will have jumped into the future while aging very little.
+Dialogue: 0,0:14:18.71,0:14:19.99,Default,NTP,0000,0000,0000,,真酷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's really cool.
+Dialogue: 0,0:14:22.75,0:14:24.82,Default,NTP,0000,0000,0000,,但是高速飞行几年时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But spending years at high speed
+Dialogue: 0,0:14:24.92,0:14:28.92,Default,NTP,0000,0000,0000,,或利用黑洞重力仍是很缓慢的时间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or near a black hole is a slow kind of time travel.
+Dialogue: 0,0:14:28.99,0:14:31.16,Default,NTP,0000,0000,0000,,对于很多没有耐心的旅行者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For more impatient voyagers,
+Dialogue: 0,0:14:31.26,0:14:33.39,Default,NTP,0000,0000,0000,,最好是有一种瞬间的办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there may be an instantaneous version
+Dialogue: 0,0:14:33.43,0:14:37.77,Default,NTP,0000,0000,0000,,那就是通过叫虫洞的捷径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by way of a shortcut through space called a wormhole
+Dialogue: 0,0:14:37.80,0:14:41.56,Default,NTP,0000,0000,0000,,虫洞就宛如一个时间走廊一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could also become a corridor through time.
+Dialogue: 0,0:14:51.34,0:14:52.88,Default,NTP,0000,0000,0000,,为了攻克时间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To conquer time travel,
+Dialogue: 0,0:14:52.91,0:14:57.39,Default,NTP,0000,0000,0000,,我们还有漫漫长路要走  验证各种奇特理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we have to tread a long path that takes us through bizarre theories
+Dialogue: 0,0:14:57.63,0:15:01.10,Default,NTP,0000,0000,0000,,以及异常复杂的技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and incredibly complex technology toward a goal
+Dialogue: 0,0:15:01.10,0:15:05.17,Default,NTP,0000,0000,0000,,以便达到某日能造出时光机的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that will one day make starships into time machines.
+Dialogue: 0,0:15:09.66,0:15:12.30,Default,NTP,0000,0000,0000,,飞船也许是我们最好的选择\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Starships, in fact, may be our best bet.
+Dialogue: 0,0:15:12.40,0:15:17.15,Default,NTP,0000,0000,0000,,发射超高速火箭  让我们的时间慢下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Shoot off in a rocket ship at super speed and let our own time slow down
+Dialogue: 0,0:15:17.24,0:15:19.86,Default,NTP,0000,0000,0000,,而其他一切照常运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while the rest of the world moves on.
+Dialogue: 0,0:15:22.07,0:15:25.28,Default,NTP,0000,0000,0000,,对于这种冒险我们有着既得的利益\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have a vested interest in these kinds of adventures.
+Dialogue: 0,0:15:26.32,0:15:28.54,Default,NTP,0000,0000,0000,,能够支持时间旅行的高速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The high speeds that result in time travel
+Dialogue: 0,0:15:28.54,0:15:32.44,Default,NTP,0000,0000,0000,,同时也是打破阻止我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are also our only way of smashing a time barrier
+Dialogue: 0,0:15:32.78,0:15:35.49,Default,NTP,0000,0000,0000,,进行星际旅行的障碍的唯一方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that keeps us from traveling to the stars.
+Dialogue: 0,0:15:35.72,0:15:38.54,Default,NTP,0000,0000,0000,,因为距离是如此的远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because the distances are so huge.
+Dialogue: 0,0:15:39.98,0:15:44.30,Default,NTP,0000,0000,0000,,我们当然希望能够以人类的时间量程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We would really like to be able to traverse giant distances in a short
+Dialogue: 0,0:15:42.30,0:15:45.10,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:15:44.30,0:15:48.79,Default,NTP,0000,0000,0000,,短时间内横越很遥远的距离去探索宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}amount of time in order to explore the universe on a human time scale.
+Dialogue: 0,0:15:50.30,0:15:54.37,Default,NTP,0000,0000,0000,,距地球最近的星体甚至都是遥不可及的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even the nearest stars to earth seem impossibly far away.
+Dialogue: 0,0:15:54.41,0:15:56.96,Default,NTP,0000,0000,0000,,半人马座是最近的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha Centauri is the closest.
+Dialogue: 0,0:15:59.54,0:16:04.19,Default,NTP,0000,0000,0000,,但就算是它  也有大概4.3光年遥远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in this case, close amounts to 4.3 light-years away,
+Dialogue: 0,0:16:04.84,0:16:11.61,Default,NTP,0000,0000,0000,,即25万亿公里  地月距离的一百万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}25 trillion miles,100 million times farther than the moon.
+Dialogue: 0,0:16:14.26,0:16:18.90,Default,NTP,0000,0000,0000,,如今最快的火箭需要八万年才能到达那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today's speediest rockets would need 80,000 years to get there,
+Dialogue: 0,0:16:19.36,0:16:21.93,Default,NTP,0000,0000,0000,,因此速度是最大的瓶颈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so the challenge is to get there faster.
+Dialogue: 0,0:16:22.63,0:16:24.74,Default,NTP,0000,0000,0000,,然而即使我们真的用高速星际火箭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if we're going to use high-speed star missions
+Dialogue: 0,0:16:24.87,0:16:27.24,Default,NTP,0000,0000,0000,,作为去未来的工具\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as our way to get to the future,
+Dialogue: 0,0:16:27.27,0:16:31.76,Default,NTP,0000,0000,0000,,仍然做不到人类所梦想的瞬时转移\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it still doesn't satisfy our dream of getting there in a flash.
+Dialogue: 0,0:16:33.55,0:16:36.15,Default,NTP,0000,0000,0000,,利用高速移动来进行时间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Achieving time travel by moving fast,
+Dialogue: 0,0:16:33.45,0:16:37.15,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克里福德·约翰逊\N南加州大学
+Dialogue: 0,0:16:36.15,0:16:38.92,Default,NTP,0000,0000,0000,,同时放慢你相对于其他人的时间流逝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so slowing your clock down relative to everyone else,
+Dialogue: 0,0:16:38.98,0:16:42.25,Default,NTP,0000,0000,0000,,的确是时间旅行的一种方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a way of achieving time travel.
+Dialogue: 0,0:16:42.25,0:16:45.40,Default,NTP,0000,0000,0000,,这有点像瑞普·凡·温克尔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a little bit like Rip Van Winkle did by going to sleep
+Dialogue: 0,0:16:45.40,0:16:47.95,Default,NTP,0000,0000,0000,,一觉醒来已在未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then waking up later and it's the future.
+Dialogue: 0,0:16:47.95,0:16:51.09,Default,NTP,0000,0000,0000,,但大概还是会有人不买账\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But some might think of that as cheating in a way.
+Dialogue: 0,0:16:51.23,0:16:53.80,Default,NTP,0000,0000,0000,,这并不是我们想象的那种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not really the time travel that we think of,
+Dialogue: 0,0:16:53.90,0:16:56.84,Default,NTP,0000,0000,0000,,进入走廊入口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where we perhaps go through a portal
+Dialogue: 0,0:16:56.84,0:16:59.06,Default,NTP,0000,0000,0000,,或者拉下某个机器的手柄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or flick a lever on a machine
+Dialogue: 0,0:16:59.06,0:17:01.42,Default,NTP,0000,0000,0000,,然后就到达了另外的时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then end up at a different time.
+Dialogue: 0,0:17:03.27,0:17:05.76,Default,NTP,0000,0000,0000,,物理学家在20世纪80年代时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicists did important theoretical work on
+Dialogue: 0,0:17:05.76,0:17:08.78,Default,NTP,0000,0000,0000,,做了很多关于瞬时时间旅行的理论工作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}instantaneous time travel in the 1980s
+Dialogue: 0,0:17:08.88,0:17:10.42,Default,NTP,0000,0000,0000,,那也使得卡尔·萨根\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while helping Carl Sagan,
+Dialogue: 0,0:17:10.42,0:17:12.98,Default,NTP,0000,0000,0000,,得以充实他的小说《超时空要塞》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}who was writing his novel, Contact.
+Dialogue: 0,0:17:16.39,0:17:19.32,Default,NTP,0000,0000,0000,,这部作品描述了在宇宙中通过一种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The book imagined space travel faster than light
+Dialogue: 0,0:17:19.42,0:17:22.96,Default,NTP,0000,0000,0000,,叫做虫洞的通道而进行的超光速太空旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through a corridor in space called a wormhole.
+Dialogue: 0,0:17:24.76,0:17:27.56,Default,NTP,0000,0000,0000,,虫洞是一种构架在两个不同宇宙间的捷径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A wormhole is a kind of shortcut between two different parts of space,
+Dialogue: 0,0:17:27.56,0:17:32.00,Default,NTP,0000,0000,0000,,使得天涯近在咫尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which can be very far away or they can actually be close to each other.
+Dialogue: 0,0:17:32.97,0:17:35.81,Default,NTP,0000,0000,0000,,但核心的理念是你必须能够轻易通过入口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the key idea is that you can traverse the wormhole
+Dialogue: 0,0:17:35.91,0:17:39.51,Default,NTP,0000,0000,0000,,以穿越虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by simply going in through the entrance,
+Dialogue: 0,0:17:39.61,0:17:42.57,Default,NTP,0000,0000,0000,,从一端进去  从另一端出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one side of it, and coming out the other side.
+Dialogue: 0,0:17:45.98,0:17:49.52,Default,NTP,0000,0000,0000,,在《超时空要塞》和其他众多科幻情节中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In Contact and many other science fiction scenarios,
+Dialogue: 0,0:17:49.62,0:17:53.63,Default,NTP,0000,0000,0000,,虫洞常常以一种跨越浩瀚的宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wormholes are used as tunnels to travel huge distances
+Dialogue: 0,0:17:53.63,0:17:56.34,Default,NTP,0000,0000,0000,,连接其他星体的隧道形式出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}across the universe to other stars.
+Dialogue: 0,0:17:56.96,0:17:59.43,Default,NTP,0000,0000,0000,,而事实上  若虫洞的两端相距不远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But a wormhole with openings close together
+Dialogue: 0,0:17:59.43,0:18:02.49,Default,NTP,0000,0000,0000,,才是发展时间机器更好的基础\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a much better starting point for a time machine.
+Dialogue: 0,0:18:04.54,0:18:07.54,Default,NTP,0000,0000,0000,,假设我身旁有一个虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Suppose I have a wormhole right next to me.
+Dialogue: 0,0:18:07.61,0:18:10.17,Default,NTP,0000,0000,0000,,如果我把手臂伸进其中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If I put my arm into it like this,
+Dialogue: 0,0:18:10.80,0:18:12.39,Default,NTP,0000,0000,0000,,便会从另一端伸出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would emerge over there.
+Dialogue: 0,0:18:14.35,0:18:17.93,Default,NTP,0000,0000,0000,,虫洞是制造时间机器的绝佳要素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A wormhole is a great ingredient for constructing a time machine.
+Dialogue: 0,0:18:21.15,0:18:23.78,Default,NTP,0000,0000,0000,,虫洞时光机和高速飞船一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A wormhole time machine would use the same
+Dialogue: 0,0:18:23.78,0:18:27.19,Default,NTP,0000,0000,0000,,用的是瑞普·凡·温克尔的穿越方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rip Van Winkle trick as the very fast spaceship.
+Dialogue: 0,0:18:27.77,0:18:30.68,Default,NTP,0000,0000,0000,,当其他人的时间正常流逝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Super speed makes your clock slow down
+Dialogue: 0,0:18:31.80,0:18:33.98,Default,NTP,0000,0000,0000,,高速行进使你的时间放慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while everyone else keeps on going.
+Dialogue: 0,0:18:37.20,0:18:40.09,Default,NTP,0000,0000,0000,,它之所以能够运作是因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It works because both ends of the wormhole
+Dialogue: 0,0:18:40.09,0:18:42.44,Default,NTP,0000,0000,0000,,虫洞的两端总是保持同步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}always have the same date and time,
+Dialogue: 0,0:18:42.51,0:18:44.44,Default,NTP,0000,0000,0000,,绝无意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no matter what happens to them.
+Dialogue: 0,0:18:46.61,0:18:48.57,Default,NTP,0000,0000,0000,,你可以拿走其中一端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can take one end of the wormhole
+Dialogue: 0,0:18:48.98,0:18:52.25,Default,NTP,0000,0000,0000,,把它放到火箭上或者什么上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and put it on a rocket ship or something and send it off
+Dialogue: 0,0:18:52.25,0:18:55.90,Default,NTP,0000,0000,0000,,以非常高的速度带一个来回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at very high speed and then back.
+Dialogue: 0,0:18:57.59,0:19:00.30,Default,NTP,0000,0000,0000,,结果是  返回的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what happens is that, when it returns,
+Dialogue: 0,0:19:00.30,0:19:02.33,Default,NTP,0000,0000,0000,,它已经置身未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's in the future.
+Dialogue: 0,0:19:04.60,0:19:07.74,Default,NTP,0000,0000,0000,,出发于2010年的虫洞端口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A traveling wormhole opening from the year 2010
+Dialogue: 0,0:19:07.74,0:19:11.19,Default,NTP,0000,0000,0000,,返回地球时可能通往2510年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might end up returning to earth in the year 2510.
+Dialogue: 0,0:19:04.74,0:19:12.74,Default,NTP,0000,0000,0000,,{\an8}{\fn微软雅黑\fs18\b1\bord1\shad1\3c&H2F2F2F&}国家花旗银行
+Dialogue: 0,0:19:11.40,0:19:13.24,Default,NTP,0000,0000,0000,,因为它的时间被放慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because its clock was so slow,
+Dialogue: 0,0:19:13.30,0:19:14.40,Default,NTP,0000,0000,0000,,所以尽管世界经历了五百年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it aged very little
+Dialogue: 0,0:19:14.44,0:19:17.94,Default,NTP,0000,0000,0000,,它却几乎没什么变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while the rest of the world aged 500 years.
+Dialogue: 0,0:19:21.35,0:19:25.70,Default,NTP,0000,0000,0000,,因此  若我走进虫洞置于过去的这一端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So now if I walk into the end of the wormhole that's in the past,
+Dialogue: 0,0:19:25.70,0:19:28.53,Default,NTP,0000,0000,0000,,没有跟随火箭飞行的这一端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the end that didn't go on the rocket ship,
+Dialogue: 0,0:19:28.79,0:19:32.78,Default,NTP,0000,0000,0000,,从另一端出去的时候  就将置身未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can come out the other end and I'd be in the future.
+Dialogue: 0,0:19:34.69,0:19:36.53,Default,NTP,0000,0000,0000,,尽管以现在我们所能想象到的任何技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although each step of this scenario
+Dialogue: 0,0:19:36.59,0:19:39.10,Default,NTP,0000,0000,0000,,去达到这种设想中的每一个步骤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might be really hard to achieve
+Dialogue: 0,0:19:39.23,0:19:41.43,Default,NTP,0000,0000,0000,,都很困难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with any technology we can imagine,
+Dialogue: 0,0:19:41.50,0:19:46.40,Default,NTP,0000,0000,0000,,但它们本质上与我们所知的时间  空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's all internally consistent in the laws of gravity
+Dialogue: 0,0:19:46.47,0:19:49.04,Default,NTP,0000,0000,0000,,和万有引力的定律的原理都相吻合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and space and time that we understand so far.
+Dialogue: 0,0:19:49.14,0:19:54.41,Default,NTP,0000,0000,0000,,因此可以说  虫洞时光机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that wormhole time machine is, we would say,
+Dialogue: 0,0:19:54.48,0:19:58.77,Default,NTP,0000,0000,0000,,是时空方程的有效解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a consistent solution of the equations of space and time.
+Dialogue: 0,0:20:00.52,0:20:03.85,Default,NTP,0000,0000,0000,,理论上讲  反过来虫洞时光机也应可行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The wormhole time machine would work in reverse too,
+Dialogue: 0,0:20:03.96,0:20:07.42,Default,NTP,0000,0000,0000,,让你从未来回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}making time travel theoretically possible from the future
+Dialogue: 0,0:20:08.76,0:20:11.32,Default,NTP,0000,0000,0000,,也就是你出发的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}back into the past, where you started.
+Dialogue: 0,0:20:19.30,0:20:19.86,Default,NTP,0000,0000,0000,,我们要承认\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, let's face it.
+Dialogue: 0,0:20:19.86,0:20:23.57,Default,NTP,0000,0000,0000,,大部分的人对回到过去很感兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most people are interested in the idea of going backwards in time
+Dialogue: 0,0:20:23.64,0:20:25.47,Default,NTP,0000,0000,0000,,是因为他们总想去弥补什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because they want to fix things.
+Dialogue: 0,0:20:27.11,0:20:29.28,Default,NTP,0000,0000,0000,,有趣的是  以我们力所能及\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The interesting thing is, though, that we can,
+Dialogue: 0,0:20:27.28,0:20:31.00,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}肖恩·卡洛尔\N加州理工学院
+Dialogue: 0,0:20:29.45,0:20:31.55,Default,NTP,0000,0000,0000,,利用物理原理  至少可以探索下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using the laws of physics, at least explore
+Dialogue: 0,0:20:31.65,0:20:34.65,Default,NTP,0000,0000,0000,,穿越时间回到过去会是怎么样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what it would be like to travel backwards in time.
+Dialogue: 0,0:20:36.92,0:20:40.29,Default,NTP,0000,0000,0000,,虽然我们总是想制造时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and although we are preoccupied with time machines,
+Dialogue: 0,0:20:40.36,0:20:43.68,Default,NTP,0000,0000,0000,,但是也许已经存在着自然衍生的虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it may be that time travel is possible through wormholes
+Dialogue: 0,0:20:43.68,0:20:45.89,Default,NTP,0000,0000,0000,,使时间旅行成为可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are natural in origin.
+Dialogue: 0,0:20:48.70,0:20:50.23,Default,NTP,0000,0000,0000,,另一种可能性是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another possibility,
+Dialogue: 0,0:20:50.23,0:20:52.10,Default,NTP,0000,0000,0000,,如果我们做不出时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if we can't make time machines,
+Dialogue: 0,0:20:52.20,0:20:54.44,Default,NTP,0000,0000,0000,,也许大自然已经造就\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that maybe nature has already made them
+Dialogue: 0,0:20:54.47,0:20:55.81,Default,NTP,0000,0000,0000,,那么我们只要去发现不就行了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we just have to discover them.
+Dialogue: 0,0:20:56.01,0:20:59.88,Default,NTP,0000,0000,0000,,早期的宇宙有可能发生过这种事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What could have happened is that in the very early universe,
+Dialogue: 0,0:21:00.18,0:21:04.51,Default,NTP,0000,0000,0000,,时间和空间扭曲交织\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the nature of space and time was already twisted up in such a way
+Dialogue: 0,0:21:04.62,0:21:06.55,Default,NTP,0000,0000,0000,,以至于有些时间循环被固化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that some of that got frozen in,
+Dialogue: 0,0:21:06.65,0:21:11.35,Default,NTP,0000,0000,0000,,使得有朝一日我们能够对其加以利用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leaving time loops that we might be able to use as time machines
+Dialogue: 0,0:21:11.46,0:21:12.66,Default,NTP,0000,0000,0000,,进行时间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sometime in the future.
+Dialogue: 0,0:21:12.72,0:21:14.46,Default,NTP,0000,0000,0000,,这种可能性非常有意思\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's an interesting possibility
+Dialogue: 0,0:21:14.53,0:21:17.81,Default,NTP,0000,0000,0000,,我们原来并不需要去制造这些东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we don't actually have to create these things.
+Dialogue: 0,0:21:19.90,0:21:22.76,Default,NTP,0000,0000,0000,,但是如果我们只能自食其力呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what if we are left to our own resources?
+Dialogue: 0,0:21:22.87,0:21:25.25,Default,NTP,0000,0000,0000,,我们究竟能不能制造出时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can we build a time machine at all?
+Dialogue: 0,0:21:26.89,0:21:29.40,Default,NTP,0000,0000,0000,,如果理论指出虫洞可行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If theory says a wormhole is the way to go,
+Dialogue: 0,0:21:29.40,0:21:31.84,Default,NTP,0000,0000,0000,,那么拿什么去做出虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then what does it take to make one?
+Dialogue: 0,0:21:34.65,0:21:36.18,Default,NTP,0000,0000,0000,,虫洞是纯理论的想法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wormholes are speculative ideas.
+Dialogue: 0,0:21:36.28,0:21:39.08,Default,NTP,0000,0000,0000,,我们无法写出描述虫洞的方程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can write down the equations that describe them.
+Dialogue: 0,0:21:39.18,0:21:40.64,Default,NTP,0000,0000,0000,,我们没指望在天文学上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't expect to bump into one
+Dialogue: 0,0:21:40.64,0:21:42.75,Default,NTP,0000,0000,0000,,发现一个虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in astronomy or anything like that,
+Dialogue: 0,0:21:42.75,0:21:44.19,Default,NTP,0000,0000,0000,,但也没准儿会有惊喜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we could be surprised.
+Dialogue: 0,0:21:44.29,0:21:45.92,Default,NTP,0000,0000,0000,,我们推测虫洞最有可能存在的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where we do expect wormholes to exist
+Dialogue: 0,0:21:45.99,0:21:48.09,Default,NTP,0000,0000,0000,,是超显微水平意义上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is at the submicroscopic level,
+Dialogue: 0,0:21:48.19,0:21:50.83,Default,NTP,0000,0000,0000,,在这种水平上空间和时间波动不停\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where space and time are fluctuating wildly.
+Dialogue: 0,0:21:50.90,0:21:52.15,Default,NTP,0000,0000,0000,,因此人们能想到的办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what people imagine
+Dialogue: 0,0:21:52.15,0:21:53.53,Default,NTP,0000,0000,0000,,就是捉住一个超显微虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is somehow capturing
+Dialogue: 0,0:21:53.63,0:21:57.23,Default,NTP,0000,0000,0000,,然后将其扩展至宏观尺寸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a microscopic wormhole and growing it to a larger size.
+Dialogue: 0,0:21:57.34,0:21:58.37,Default,NTP,0000,0000,0000,,我们不知道这是否可行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't know if that's possible.
+Dialogue: 0,0:21:58.44,0:21:59.80,Default,NTP,0000,0000,0000,,也不知道怎么去着手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have no idea how to do that,
+Dialogue: 0,0:21:59.90,0:22:01.59,Default,NTP,0000,0000,0000,,但是想得到一个大号虫洞的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but that's probably what it would take
+Dialogue: 0,0:22:01.59,0:22:03.49,Default,NTP,0000,0000,0000,,这不失为一个好方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you wanted a big-sized wormhole.
+Dialogue: 0,0:22:05.83,0:22:08.69,Default,NTP,0000,0000,0000,,操纵虫洞所需要的科技水平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The technology we need to manipulate a wormhole
+Dialogue: 0,0:22:08.69,0:22:10.79,Default,NTP,0000,0000,0000,,似乎遥不可及\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may seem impossibly remote.
+Dialogue: 0,0:22:12.10,0:22:15.17,Default,NTP,0000,0000,0000,,但是对那些渴望思想翱翔的人来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But for those willing to let their imaginations roam,
+Dialogue: 0,0:22:15.17,0:22:18.22,Default,NTP,0000,0000,0000,,至少有个地方还有一丝希望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's a glimmer of hope in at least one place.
+Dialogue: 0,0:22:19.48,0:22:23.73,Default,NTP,0000,0000,0000,,那就是由人类制造出的有史以来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's where space, time and the nature of existence itself
+Dialogue: 0,0:22:23.74,0:22:27.43,Default,NTP,0000,0000,0000,,最大最复杂的对撞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}meet in head-on collisions inside the biggest,
+Dialogue: 0,0:22:27.43,0:22:31.30,Default,NTP,0000,0000,0000,,让空间  时间和万物在其中对撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most complex machine ever created by man.
+Dialogue: 0,0:22:39.32,0:22:42.71,Default,NTP,0000,0000,0000,,时间旅行的秘密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where does the universe hide the secrets that might tell us
+Dialogue: 0,0:22:42.71,0:22:44.21,Default,NTP,0000,0000,0000,,究竟藏在宇宙何处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how to travel in time?
+Dialogue: 0,0:22:47.17,0:22:50.53,Default,NTP,0000,0000,0000,,人类的探索已经带领我们理解了虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our exploration has taken us through the world of wormholes
+Dialogue: 0,0:22:50.53,0:22:53.14,Default,NTP,0000,0000,0000,,及其能够担当时间机器的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and their possibilities as time machines,
+Dialogue: 0,0:22:53.63,0:22:55.90,Default,NTP,0000,0000,0000,,现在我们要研究的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and now we're in search of the technology
+Dialogue: 0,0:22:55.90,0:22:58.82,Default,NTP,0000,0000,0000,,能够让时间旅行和空间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that might make space travel and time travel
+Dialogue: 0,0:22:58.93,0:23:01.08,Default,NTP,0000,0000,0000,,合二为一的技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}two sides of the same coin.
+Dialogue: 0,0:23:03.23,0:23:05.16,Default,NTP,0000,0000,0000,,虽说当今世上尚未存在任何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there's nothing on earth that comes close
+Dialogue: 0,0:23:05.17,0:23:07.13,Default,NTP,0000,0000,0000,,东西近似时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to being a time machine now,
+Dialogue: 0,0:23:08.42,0:23:11.08,Default,NTP,0000,0000,0000,,但是有些东西或许有朝一日能引领我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is something that might one day lead us
+Dialogue: 0,0:23:11.08,0:23:13.96,Default,NTP,0000,0000,0000,,发现全新的物理定律以确定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to new laws of physics that help us determine
+Dialogue: 0,0:23:13.96,0:23:15.39,Default,NTP,0000,0000,0000,,是否可能进行时间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it's at least possible.
+Dialogue: 0,0:23:16.48,0:23:17.78,Default,NTP,0000,0000,0000,,它探索宇宙的领域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It explores the universe,
+Dialogue: 0,0:23:17.78,0:23:21.22,Default,NTP,0000,0000,0000,,并不在于宇宙网及其星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not in the realm of the cosmic web and its galaxies,
+Dialogue: 0,0:23:21.72,0:23:24.09,Default,NTP,0000,0000,0000,,而是由量子力学入手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in the domain of quantum physics,
+Dialogue: 0,0:23:24.18,0:23:29.71,Default,NTP,0000,0000,0000,,研究比最细微原子还要小百万倍的粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}involving particles at sizes more than a million times smaller than the smallest atom.
+Dialogue: 0,0:23:30.31,0:23:33.09,Default,NTP,0000,0000,0000,,它是物理学前沿最尖端的设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the newest tool at the frontier of physics
+Dialogue: 0,0:23:33.09,0:23:35.57,Default,NTP,0000,0000,0000,,称为大型强子对撞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called the Large Hadron Collider.
+Dialogue: 0,0:23:37.37,0:23:39.14,Default,NTP,0000,0000,0000,,这台大型强子对撞机是人类迄今为止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Large Hadron Collider is the largest,
+Dialogue: 0,0:23:39.14,0:23:42.31,Default,NTP,0000,0000,0000,,建造的最大  最复杂的机械设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most complicated machine ever created by humankind.
+Dialogue: 0,0:23:39.14,0:23:42.31,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克里福德·约翰逊\N南加州大学
+Dialogue: 0,0:23:42.33,0:23:45.16,Default,NTP,0000,0000,0000,,担负着协助我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And its role is to help
+Dialogue: 0,0:23:45.16,0:23:47.72,Default,NTP,0000,0000,0000,,研究粒子物理前沿的任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}us study the frontier of particle physics.
+Dialogue: 0,0:23:48.47,0:23:51.20,Default,NTP,0000,0000,0000,,其工作原理实际上是让质子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What it actually does is it accelerates protons
+Dialogue: 0,0:23:51.20,0:23:53.50,Default,NTP,0000,0000,0000,,在环内相对的方向加速行进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in two directions around the ring,
+Dialogue: 0,0:23:53.50,0:23:55.27,Default,NTP,0000,0000,0000,,分别为顺时针和逆时针方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one way round and the other way round,
+Dialogue: 0,0:23:55.27,0:23:57.95,Default,NTP,0000,0000,0000,,以接近光速的速度让它们碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to nearly the speed of light and then collides them.
+Dialogue: 0,0:24:00.32,0:24:03.73,Default,NTP,0000,0000,0000,,对撞机在2009年11月投入使用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The collider went operational in November 2009,
+Dialogue: 0,0:24:04.43,0:24:06.75,Default,NTP,0000,0000,0000,,科学家们提高其设备动力后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and as scientists ramped up the power,
+Dialogue: 0,0:24:07.23,0:24:08.96,Default,NTP,0000,0000,0000,,其撞击能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the energy in its collisions
+Dialogue: 0,0:24:08.97,0:24:12.85,Default,NTP,0000,0000,0000,,在2010年3月时比最初增加了近十倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was increased almost tenfold by March 2010,
+Dialogue: 0,0:24:13.82,0:24:17.43,Default,NTP,0000,0000,0000,,并将于2013年后再次翻番\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it will double that sometime after 2013.
+Dialogue: 0,0:24:18.49,0:24:21.44,Default,NTP,0000,0000,0000,,当今有关空间  时间  重力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today's theories of space, time, gravity
+Dialogue: 0,0:24:21.44,0:24:24.03,Default,NTP,0000,0000,0000,,和量子物理学的理论仍就残缺不全\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and quantum physics are still incomplete,
+Dialogue: 0,0:24:25.26,0:24:27.64,Default,NTP,0000,0000,0000,,而类似大型强子对撞机这样的设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and tools like the Large Hadron Collider
+Dialogue: 0,0:24:27.65,0:24:30.60,Default,NTP,0000,0000,0000,,能帮我们揭开素来令人费解的谜题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will help fill in the ever-puzzling blanks.
+Dialogue: 0,0:24:33.85,0:24:35.34,Default,NTP,0000,0000,0000,,我们期待了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is where we expect that,
+Dialogue: 0,0:24:35.34,0:24:37.94,Default,NTP,0000,0000,0000,,自己是否有遗漏某些理解时空的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if there's some missing physics that we need
+Dialogue: 0,0:24:37.94,0:24:41.88,Default,NTP,0000,0000,0000,,物理知识  从而在一定程度判断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to understand spacetime in a way that will tell us
+Dialogue: 0,0:24:41.88,0:24:45.28,Default,NTP,0000,0000,0000,,时间旅行是否可行  及其各种限制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether time travel is possible or restricted in various ways.
+Dialogue: 0,0:24:45.28,0:24:48.80,Default,NTP,0000,0000,0000,,我们期待籍此诞生出全新的规则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is where we expect the new results to come from.
+Dialogue: 0,0:24:50.70,0:24:55.58,Default,NTP,0000,0000,0000,,目的是了解已知最小粒子的运行规律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The goal is to figure out how rules governing the tiniest particles in existence
+Dialogue: 0,0:24:55.97,0:24:58.88,Default,NTP,0000,0000,0000,,并将此规律用于了解极大之物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Also apply to the biggest things
+Dialogue: 0,0:24:58.88,0:25:02.12,Default,NTP,0000,0000,0000,,如星球  星系以及不断膨胀的宇宙本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like stars, galaxies and the expanding Universe itself.
+Dialogue: 0,0:25:03.03,0:25:04.72,Default,NTP,0000,0000,0000,,如若未能对此了然于胸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without understanding this,
+Dialogue: 0,0:25:05.06,0:25:07.19,Default,NTP,0000,0000,0000,,那么建造时间机器就难于上青天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}building a time machine might be harder
+Dialogue: 0,0:25:07.19,0:25:12.10,Default,NTP,0000,0000,0000,,如同试图建造雷达却对电的存在一无所知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than trying to build a radio without knowing about the existence of electricity.
+Dialogue: 0,0:25:13.94,0:25:15.73,Default,NTP,0000,0000,0000,,全世界有许多物理学家相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are many physicists in the world who believe
+Dialogue: 0,0:25:15.73,0:25:18.83,Default,NTP,0000,0000,0000,,人类距掌握此知识已经不远了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that this understanding is in fact right around the corner,
+Dialogue: 0,0:25:15.73,0:25:20.83,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}唐纳德·马洛夫\N加州大学圣巴巴拉分校
+Dialogue: 0,0:25:18.83,0:25:22.23,Default,NTP,0000,0000,0000,,或许就在未来的数年或数十年内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it could happen within a few years or a few decades.
+Dialogue: 0,0:25:22.46,0:25:23.29,Default,NTP,0000,0000,0000,,而另一方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the other hand,
+Dialogue: 0,0:25:23.29,0:25:25.53,Default,NTP,0000,0000,0000,,或许这难题之复杂超乎人类的想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could be that this problem is in fact much harder than we think
+Dialogue: 0,0:25:25.53,0:25:28.67,Default,NTP,0000,0000,0000,,直到人类文明告终\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that human civilization will simply not live long enough
+Dialogue: 0,0:25:28.67,0:25:30.17,Default,NTP,0000,0000,0000,,仍会是不解之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to figure out how it works.
+Dialogue: 0,0:25:32.22,0:25:35.01,Default,NTP,0000,0000,0000,,大型强子对撞机或许还会揭示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Large Hadron Collider might also reveal
+Dialogue: 0,0:25:35.01,0:25:38.49,Default,NTP,0000,0000,0000,,时间旅行会受到额外维度的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}extra dimensions that could play a role in time travel.
+Dialogue: 0,0:25:39.33,0:25:41.87,Default,NTP,0000,0000,0000,,我们生活在三维空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We live in three dimensions of space.
+Dialogue: 0,0:25:42.88,0:25:44.99,Default,NTP,0000,0000,0000,,假如我们生活在二维空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we lived in only two dimensions,
+Dialogue: 0,0:25:45.04,0:25:47.31,Default,NTP,0000,0000,0000,,我们的宇宙将会是一片扁平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our universe would be a flat sheet.
+Dialogue: 0,0:25:48.06,0:25:50.59,Default,NTP,0000,0000,0000,,天体在我们看来就象是个圆圈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A sphere would look like a circle to us.
+Dialogue: 0,0:25:51.08,0:25:54.90,Default,NTP,0000,0000,0000,,第三维度存在着  却超出了我们的视线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The third dimension would be there, but just hidden from our view.
+Dialogue: 0,0:25:56.45,0:26:00.12,Default,NTP,0000,0000,0000,,若我们熟悉的三维外还存在其他维度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If dimensions other than our familiar three are really there,
+Dialogue: 0,0:26:00.12,0:26:02.03,Default,NTP,0000,0000,0000,,它们肯定也在我们视线之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They, too, are hidden.
+Dialogue: 0,0:26:05.25,0:26:10.07,Default,NTP,0000,0000,0000,,如果我们想找到其他维度存在的实验证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we were to find experimental evidence for the existence of other dimensions
+Dialogue: 0,0:26:05.25,0:26:10.07,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:26:10.41,0:26:15.13,Default,NTP,0000,0000,0000,,如果我们能探索这些维度存在的意义\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if we were to be able to explore the meaning of these other dimensions
+Dialogue: 0,0:26:15.13,0:26:16.02,Default,NTP,0000,0000,0000,,了解它们的作用原理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and see how they come about,
+Dialogue: 0,0:26:16.26,0:26:19.20,Default,NTP,0000,0000,0000,,那么或许在久远的将来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could be that far, far in the future,
+Dialogue: 0,0:26:19.20,0:26:21.28,Default,NTP,0000,0000,0000,,这些新的物理学将被用于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this new physics would be utilized
+Dialogue: 0,0:26:21.29,0:26:23.55,Default,NTP,0000,0000,0000,,某种崭新的旅行方式能让我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to come up with some new form of travel that allows us
+Dialogue: 0,0:26:23.55,0:26:29.79,Default,NTP,0000,0000,0000,,虽不能超越光速  也可以亚光速旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to at least get close to the speed of light barrier, if not surpass it.
+Dialogue: 0,0:26:32.74,0:26:34.29,Default,NTP,0000,0000,0000,,以亚光速行进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Getting close to light speed
+Dialogue: 0,0:26:34.29,0:26:35.78,Default,NTP,0000,0000,0000,,延缓我们自身的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be the most promising way
+Dialogue: 0,0:26:35.78,0:26:39.07,Default,NTP,0000,0000,0000,,或许是时间旅行最有可能实现的方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to travel in time by slowing down our clocks.
+Dialogue: 0,0:26:39.87,0:26:42.63,Default,NTP,0000,0000,0000,,在这方面  大型强子对撞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this respect, the Large Hadron Collider
+Dialogue: 0,0:26:42.63,0:26:44.53,Default,NTP,0000,0000,0000,,无疑是领头者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is leading the way,
+Dialogue: 0,0:26:44.53,0:26:47.57,Default,NTP,0000,0000,0000,,虽然它是从极微小开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even if its first step is an extremely small one.
+Dialogue: 0,0:26:49.47,0:26:52.20,Default,NTP,0000,0000,0000,,大型强子对撞机总长约17英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Large Hadron Collider is 17 miles around,
+Dialogue: 0,0:26:52.20,0:26:55.32,Default,NTP,0000,0000,0000,,可把质子加速至接近光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it accelerates protons to nearly the speed of light.
+Dialogue: 0,0:26:55.32,0:26:59.17,Default,NTP,0000,0000,0000,,如果想将其应用在人类身上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you wanted to do that, but with human beings,
+Dialogue: 0,0:26:59.44,0:27:02.08,Default,NTP,0000,0000,0000,,粗略估计  机器的长度得延伸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a rough calculation shows you'd have to scale it up
+Dialogue: 0,0:27:02.08,0:27:05.53,Default,NTP,0000,0000,0000,,至上千光年才能能实现亚光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to a thousand light-years around in order to do the same thing.
+Dialogue: 0,0:27:08.27,0:27:11.82,Default,NTP,0000,0000,0000,,好比真有足够强大的宇宙飞船能带我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is like saying that the spacecraft powerful enough to carry us
+Dialogue: 0,0:27:11.82,0:27:14.78,Default,NTP,0000,0000,0000,,星际旅行的的话  它会如此巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the stars at that speed would be bigger
+Dialogue: 0,0:27:14.78,0:27:17.89,Default,NTP,0000,0000,0000,,以至于船舱的长度已经超过了旅行的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the distance we need to travel,
+Dialogue: 0,0:27:18.20,0:27:22.78,Default,NTP,0000,0000,0000,,舱体已大到足以囊括附近的10万颗星体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}big enough, in fact, to enclose The nearest 100,000 stars.
+Dialogue: 0,0:27:27.03,0:27:29.87,Default,NTP,0000,0000,0000,,回归地球  光速和超光速物理学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Back on earth, the physics of light speed
+Dialogue: 0,0:27:29.87,0:27:34.47,Default,NTP,0000,0000,0000,,与冲浪文化在加州马里布海滩不期而遇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and beyond meets surf culture on the beach In Malibu, California.
+Dialogue: 0,0:27:37.29,0:27:39.65,Default,NTP,0000,0000,0000,,理查德·欧博斯是研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Richard Obousy is one of the few physicists
+Dialogue: 0,0:27:39.65,0:27:41.39,Default,NTP,0000,0000,0000,,曲速引擎原理[超光速空间弯曲飞行]\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}who have worked on the concept
+Dialogue: 0,0:27:41.39,0:27:43.57,Default,NTP,0000,0000,0000,,为数不多的几个物理学家之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of faster-than-light warp drive.
+Dialogue: 0,0:27:46.13,0:27:47.95,Default,NTP,0000,0000,0000,,他说曲速飞船航行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A warp ship, he says, rides
+Dialogue: 0,0:27:47.95,0:27:50.67,Default,NTP,0000,0000,0000,,在空间扭曲所形成的起伏波上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a wave-like ripple of warped space,
+Dialogue: 0,0:27:51.73,0:27:54.66,Default,NTP,0000,0000,0000,,与冲浪者驾驭浪波的原理大同小异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}almost as a surfer rides a wave of water.
+Dialogue: 0,0:27:56.69,0:27:58.25,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}理查德·欧博斯\N物理学家
+Dialogue: 0,0:27:56.69,0:27:58.25,Default,NTP,0000,0000,0000,,这里的类比在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A great analogy is with
+Dialogue: 0,0:27:58.25,0:28:01.91,Default,NTP,0000,0000,0000,,冲浪者驾驭海浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that of a surfer riding a wave of seawater.
+Dialogue: 0,0:28:01.91,0:28:04.66,Default,NTP,0000,0000,0000,,身后的海浪稍微涌起时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So just as the wave behind it sort of rises up
+Dialogue: 0,0:28:04.66,0:28:07.70,Default,NTP,0000,0000,0000,,就能推动冲浪者乘风破浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and pushes this surfer through the ocean,
+Dialogue: 0,0:28:07.70,0:28:09.77,Default,NTP,0000,0000,0000,,我认为这恰到好处的比喻了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think it's a great analogy with
+Dialogue: 0,0:28:09.77,0:28:12.82,Default,NTP,0000,0000,0000,,宇宙飞船如何通过推拉空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how a spacecraft is mutually pulled and pushed
+Dialogue: 0,0:28:12.82,0:28:14.44,Default,NTP,0000,0000,0000,,在宇宙中乘风破浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through the fabric of space.
+Dialogue: 0,0:28:17.73,0:28:19.82,Default,NTP,0000,0000,0000,,这个概念部分源于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea is based, in part,
+Dialogue: 0,0:28:19.82,0:28:23.09,Default,NTP,0000,0000,0000,,宇宙空间在不断扩张的事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the fact that space in the universe is expanding.
+Dialogue: 0,0:28:23.43,0:28:25.36,Default,NTP,0000,0000,0000,,假如我们能让它以人的意志扩张\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we can make it expand at will,
+Dialogue: 0,0:28:25.38,0:28:28.02,Default,NTP,0000,0000,0000,,我们或许就能以此驱动曲速飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we may be able to propel a warp ship.
+Dialogue: 0,0:28:29.95,0:28:32.36,Default,NTP,0000,0000,0000,,操纵空间在飞船的身后扩张\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We make space expand behind the ship
+Dialogue: 0,0:28:32.36,0:28:34.37,Default,NTP,0000,0000,0000,,并让其在前端压缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and make it contract in front.
+Dialogue: 0,0:28:34.80,0:28:36.40,Default,NTP,0000,0000,0000,,造成的扭曲空间波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The wave of warped space
+Dialogue: 0,0:28:36.41,0:28:39.07,Default,NTP,0000,0000,0000,,会以超光速在宇宙中移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}moves through the universe faster than light,
+Dialogue: 0,0:28:39.21,0:28:41.62,Default,NTP,0000,0000,0000,,当置身这所谓的曲速泡中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While inside a so-called warp bubble,
+Dialogue: 0,0:28:41.62,0:28:43.10,Default,NTP,0000,0000,0000,,飞船就犹如乘客\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ship is a passenger,
+Dialogue: 0,0:28:43.93,0:28:48.02,Default,NTP,0000,0000,0000,,这并不违反爱因斯坦的光速最快原则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}never violating Einstein's rule against exceeding the speed of light.
+Dialogue: 0,0:28:52.29,0:28:55.46,Default,NTP,0000,0000,0000,,虽然曲速引擎此时此刻仍是科学幻想\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While warp drive is mostly science fiction at this point,
+Dialogue: 0,0:28:55.46,0:28:57.87,Default,NTP,0000,0000,0000,,但其后确有某些物理学理论的支持\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is some physics behind it.
+Dialogue: 0,0:29:00.37,0:29:02.86,Default,NTP,0000,0000,0000,,1994年墨西哥物理学家米盖尔·阿尔库比雷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mexican physicist Miguel Alcubierre
+Dialogue: 0,0:29:02.86,0:29:06.85,Default,NTP,0000,0000,0000,,推演出复杂的数学公式来支持它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Worked out the complex math to support it in 1994.
+Dialogue: 0,0:29:08.50,0:29:10.66,Default,NTP,0000,0000,0000,,不幸的是  没有任何数学公式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unfortunately, there's nothing in the math
+Dialogue: 0,0:29:10.66,0:29:12.68,Default,NTP,0000,0000,0000,,能告诉我们如何化虚为实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that tells us how to do it.
+Dialogue: 0,0:29:15.65,0:29:18.64,Default,NTP,0000,0000,0000,,虽然科学家们疑虑重重\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And though most scientists have major doubts,
+Dialogue: 0,0:29:18.65,0:29:21.98,Default,NTP,0000,0000,0000,,并非怀疑者都觉得曲速引擎一无是处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not all the skeptics are writing off warp drive completely.
+Dialogue: 0,0:29:22.81,0:29:25.39,Default,NTP,0000,0000,0000,,他们指出  曲速泡或许难以实现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Warp bubbles may be impossible, they say.
+Dialogue: 0,0:29:27.47,0:29:29.81,Default,NTP,0000,0000,0000,,但是如果有超级先进的人类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what about super advanced beings
+Dialogue: 0,0:29:29.81,0:29:31.98,Default,NTP,0000,0000,0000,,制造出超光速曲速引擎子弹头列车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}building faster than light
+Dialogue: 0,0:29:31.99,0:29:37.08,Default,NTP,0000,0000,0000,,能穿梭时空  前往其他星球又如何呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}warp drive bullet trains to the stars and through time?
+Dialogue: 0,0:29:42.60,0:29:45.35,Default,NTP,0000,0000,0000,,探寻时空旅行秘密的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In searching for the secrets of time travel,
+Dialogue: 0,0:29:45.47,0:29:48.68,Default,NTP,0000,0000,0000,,我们必然会提到曲速引擎理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we inevitably meet the idea of warp drive
+Dialogue: 0,0:29:50.34,0:29:53.44,Default,NTP,0000,0000,0000,,或者其他能超过光速的方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or other strategies for traveling faster than light.
+Dialogue: 0,0:29:54.91,0:29:56.73,Default,NTP,0000,0000,0000,,这是实现星际旅行梦想\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the most sought-after solution
+Dialogue: 0,0:29:56.73,0:29:58.53,Default,NTP,0000,0000,0000,,最受欢迎的解决方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the dream of star travel
+Dialogue: 0,0:29:59.36,0:30:03.71,Default,NTP,0000,0000,0000,,可能会把任何宇宙飞船变成时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and potentially turning any spaceship into a time machine.
+Dialogue: 0,0:30:05.46,0:30:07.48,Default,NTP,0000,0000,0000,,未来最乐观的看法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most optimistic views of the future
+Dialogue: 0,0:30:07.48,0:30:08.52,Default,NTP,0000,0000,0000,,描绘了一幅图景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}paint a picture
+Dialogue: 0,0:30:08.52,0:30:10.58,Default,NTP,0000,0000,0000,,宇宙飞船乘着曲速泡离开地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of spaceships riding warp bubbles
+Dialogue: 0,0:30:10.58,0:30:12.31,Default,NTP,0000,0000,0000,,就像熟练的冲浪运动员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as easily as expert surfers
+Dialogue: 0,0:30:12.31,0:30:14.52,Default,NTP,0000,0000,0000,,抓住海浪离开海滩一样容易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}catch waves off the beaches of earth.
+Dialogue: 0,0:30:14.75,0:30:16.76,Default,NTP,0000,0000,0000,,但是就算是乐观的物理学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even optimistic physicists
+Dialogue: 0,0:30:16.76,0:30:19.11,Default,NTP,0000,0000,0000,,也必须面对一些残酷的现实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}must face some harsh realities.
+Dialogue: 0,0:30:22.81,0:30:26.49,Default,NTP,0000,0000,0000,,如果曲速船的工作原理跟冲浪类似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If surfing is an analogy for how a warp ship might work,
+Dialogue: 0,0:30:28.22,0:30:32.13,Default,NTP,0000,0000,0000,,那么让一个冲浪新手来说得更清楚点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then watching a beginning surfer drives home a better point:
+Dialogue: 0,0:30:32.39,0:30:35.57,Default,NTP,0000,0000,0000,,完成曲速驾驶是很困难的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}achieving warp drive is very difficult.
+Dialogue: 0,0:30:36.93,0:30:40.09,Default,NTP,0000,0000,0000,,今天早上  我上了第一堂冲浪课\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This morning, I had my first surfing lesson
+Dialogue: 0,0:30:40.09,0:30:42.13,Default,NTP,0000,0000,0000,,得出了这个结论  在某种意义上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and had this idea that. In some sense,
+Dialogue: 0,0:30:42.13,0:30:45.42,Default,NTP,0000,0000,0000,,我们可以学会控制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we were gonna be able to manipulate,
+Dialogue: 0,0:30:45.43,0:30:46.83,Default,NTP,0000,0000,0000,,另一方面  要靠天赋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In some sense, nature
+Dialogue: 0,0:30:46.83,0:30:50.84,Default,NTP,0000,0000,0000,,我才能驾驭波浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that I was gonna be able to ride this wave
+Dialogue: 0,0:30:48.84,0:30:51.01,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}理查德·欧博斯\N物理学家
+Dialogue: 0,0:30:50.84,0:30:53.59,Default,NTP,0000,0000,0000,,它才会带着我以很快的速度穿过大海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it was gonna carry me at great velocities across the ocean.
+Dialogue: 0,0:30:53.59,0:30:57.26,Default,NTP,0000,0000,0000,,但现实是大海控制了我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the reality is that the ocean manipulated me.
+Dialogue: 0,0:30:57.26,0:31:02.42,Default,NTP,0000,0000,0000,,我很难控制它  比我预期的难太多了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was far harder to control than I originally anticipated.
+Dialogue: 0,0:31:08.07,0:31:10.12,Default,NTP,0000,0000,0000,,控制真是个难题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And control is a real problem,
+Dialogue: 0,0:31:10.23,0:31:11.36,Default,NTP,0000,0000,0000,,因为科学认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because science says
+Dialogue: 0,0:31:11.36,0:31:14.66,Default,NTP,0000,0000,0000,,一艘曲速太空船无法制造自己的次元护盾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a warp ship just can't make its own warp field.
+Dialogue: 0,0:31:17.00,0:31:18.65,Default,NTP,0000,0000,0000,,有个常常被引用的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the often cited problems
+Dialogue: 0,0:31:18.65,0:31:21.28,Default,NTP,0000,0000,0000,,在曲速驾驶模型中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the warp drive model is the ship would be
+Dialogue: 0,0:31:21.28,0:31:24.44,Default,NTP,0000,0000,0000,,我们可随意将太空船从泡中分离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what we call causally disconnected from the bubble.
+Dialogue: 0,0:31:24.44,0:31:27.30,Default,NTP,0000,0000,0000,,就是说  船无法跟泡联系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That is, it could never find a way to communicate with the bubble.
+Dialogue: 0,0:31:27.30,0:31:31.34,Default,NTP,0000,0000,0000,,所以一旦启动  它将无法关闭曲速泡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so it could never turn the bubble off once it had started.
+Dialogue: 0,0:31:32.91,0:31:34.68,Default,NTP,0000,0000,0000,,但是如果一艘星际飞船不必担心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what would happen if the starship
+Dialogue: 0,0:31:34.68,0:31:38.41,Default,NTP,0000,0000,0000,,它的曲线泡开关的话  会发生什么事呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}did not have to worry about turning its bubble on and off?
+Dialogue: 0,0:31:39.00,0:31:40.53,Default,NTP,0000,0000,0000,,你也许可以想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What you might imagine,
+Dialogue: 0,0:31:40.54,0:31:42.12,Default,NTP,0000,0000,0000,,一个足够先进的文明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for a sufficiently advanced civilization
+Dialogue: 0,0:31:39.33,0:31:43.43,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}唐纳德·马洛夫\N加州大学圣巴巴拉分校
+Dialogue: 0,0:31:42.12,0:31:45.06,Default,NTP,0000,0000,0000,,并且已知足够多的物理学新原理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and given sufficient new laws of physics,
+Dialogue: 0,0:31:45.14,0:31:48.87,Default,NTP,0000,0000,0000,,将会有某种曲速动力的电动扶梯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be some kind of warp-drive escalator
+Dialogue: 0,0:31:48.87,0:31:51.44,Default,NTP,0000,0000,0000,,或者走廊  当你将太空船停入\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or corridor, and then when you would drop a ship
+Dialogue: 0,0:31:51.44,0:31:54.53,Default,NTP,0000,0000,0000,,预定的曲速管道  如果你愿意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into the prearranged warp tube, if you will,
+Dialogue: 0,0:31:54.53,0:31:57.78,Default,NTP,0000,0000,0000,,它也许可以驾驭某种波浪直到最后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it might be able to ride some wave along to the end.
+Dialogue: 0,0:31:59.91,0:32:02.99,Default,NTP,0000,0000,0000,,它就像高速列车一样驶向其他星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be like a bullet train to the stars.
+Dialogue: 0,0:32:03.00,0:32:06.11,Default,NTP,0000,0000,0000,,它的乘用车也许比光速更快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its passenger cars might travel faster than light,
+Dialogue: 0,0:32:07.31,0:32:10.13,Default,NTP,0000,0000,0000,,但是无论是谁要发明它都需要几千年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But whoever invents it would need thousands of years
+Dialogue: 0,0:32:10.14,0:32:12.61,Default,NTP,0000,0000,0000,,以亚光速建造它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at sub-light speeds to build it
+Dialogue: 0,0:32:12.65,0:32:15.45,Default,NTP,0000,0000,0000,,要耗费超过我们想象的巨大能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and use more energy than we can imagine.
+Dialogue: 0,0:32:18.13,0:32:19.96,Default,NTP,0000,0000,0000,,我们也许需要使用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We would probably need to harness
+Dialogue: 0,0:32:19.96,0:32:22.81,Default,NTP,0000,0000,0000,,至少整个星球的能量输出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at least the energy output from an entire star,
+Dialogue: 0,0:32:22.81,0:32:24.18,Default,NTP,0000,0000,0000,,或者更多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if not a lot more than that.
+Dialogue: 0,0:32:24.18,0:32:26.41,Default,NTP,0000,0000,0000,,这些就是我们可以假设讨论的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So these are things we can talk about hypothetically,
+Dialogue: 0,0:32:22.89,0:32:27.08,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}肖恩·卡洛尔\N加州理工学院
+Dialogue: 0,0:32:26.41,0:32:29.21,Default,NTP,0000,0000,0000,,但是还没人可以实现它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But no one has an engineering program to make it happen.
+Dialogue: 0,0:32:30.18,0:32:32.14,Default,NTP,0000,0000,0000,,天文学家最近发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When astronomers recently discovered
+Dialogue: 0,0:32:32.14,0:32:34.98,Default,NTP,0000,0000,0000,,宇宙膨胀加速了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the expansion Of the universe is accelerating,
+Dialogue: 0,0:32:35.45,0:32:38.91,Default,NTP,0000,0000,0000,,他们推断这是由于一种神秘的暗能量推动的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They reasoned it was driven by a mysterious dark energy
+Dialogue: 0,0:32:38.91,0:32:40.91,Default,NTP,0000,0000,0000,,它在太空中无处不在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That is part of space everywhere.
+Dialogue: 0,0:32:42.31,0:32:44.79,Default,NTP,0000,0000,0000,,一些人暗示说新的机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A few people have suggested that dark energy
+Dialogue: 0,0:32:44.80,0:32:46.55,Default,NTP,0000,0000,0000,,比如星际飞船或者时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can be harnessed as a power source
+Dialogue: 0,0:32:46.55,0:32:50.89,Default,NTP,0000,0000,0000,,可以把暗能量被当作能源来使用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for exotic devices like starships or time machines.
+Dialogue: 0,0:32:53.07,0:32:55.54,Default,NTP,0000,0000,0000,,我们并不确切地知道暗能量是什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't really know what the dark energy is.
+Dialogue: 0,0:32:55.69,0:32:59.38,Default,NTP,0000,0000,0000,,所以我们还不知道能否使用它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's not clear that we will never be able to harness it.
+Dialogue: 0,0:32:56.89,0:33:00.96,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:32:59.76,0:33:01.81,Default,NTP,0000,0000,0000,,无论如何  前导模型让人想到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, the leading models suggest
+Dialogue: 0,0:33:01.81,0:33:05.13,Default,NTP,0000,0000,0000,,暗能量是空间的另一种性质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it's either a property of space itself
+Dialogue: 0,0:33:05.13,0:33:09.42,Default,NTP,0000,0000,0000,,无法被转换  或者是某种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can't be changed or some sort of an energy field
+Dialogue: 0,0:33:09.63,0:33:11.93,Default,NTP,0000,0000,0000,,密度很低的能量场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is of such low density,
+Dialogue: 0,0:33:11.93,0:33:14.27,Default,NTP,0000,0000,0000,,每单位容积含量非常少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's so little of it per unit volume,
+Dialogue: 0,0:33:14.65,0:33:18.15,Default,NTP,0000,0000,0000,,使用足够的暗能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that harnessing interesting amounts of it
+Dialogue: 0,0:33:18.28,0:33:20.49,Default,NTP,0000,0000,0000,,是根本不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will essentially be impossible.
+Dialogue: 0,0:33:22.52,0:33:24.92,Default,NTP,0000,0000,0000,,曲速驾驶的基本要求\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The bottom line when it comes to warp drives.
+Dialogue: 0,0:33:24.92,0:33:26.78,Default,NTP,0000,0000,0000,,虫洞或者时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wormholes or time machines,
+Dialogue: 0,0:33:27.15,0:33:30.66,Default,NTP,0000,0000,0000,,导致了很多科学家的坚决反对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leads many scientists to reject them out of hand.
+Dialogue: 0,0:33:31.36,0:33:34.26,Default,NTP,0000,0000,0000,,我们能保证他们是对的吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can we be sure that they're right?
+Dialogue: 0,0:33:35.09,0:33:37.67,Default,NTP,0000,0000,0000,,尽管我们认为现在对宇宙已经了解很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Though we think we know a lot about the universe right now,
+Dialogue: 0,0:33:37.67,0:33:39.09,Default,NTP,0000,0000,0000,,并且确实如此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we do.
+Dialogue: 0,0:33:39.09,0:33:41.79,Default,NTP,0000,0000,0000,,在物理学史上  我们有很多次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There have been many times in the history of physics
+Dialogue: 0,0:33:41.88,0:33:43.26,Default,NTP,0000,0000,0000,,由于自以为什么都知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when we've been burned
+Dialogue: 0,0:33:43.26,0:33:48.45,Default,NTP,0000,0000,0000,,过分自信而焦头烂额\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by having too much of a self-assured sense of knowing it all.
+Dialogue: 0,0:33:49.89,0:33:52.22,Default,NTP,0000,0000,0000,,确实有我们不能违背的物理学原理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There really are laws of physics that we can't violate,
+Dialogue: 0,0:33:52.22,0:33:54.19,Default,NTP,0000,0000,0000,,但还有技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's also technology.
+Dialogue: 0,0:33:54.19,0:33:55.99,Default,NTP,0000,0000,0000,,你说  这太难了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You say, well, this is just too hard.
+Dialogue: 0,0:33:55.99,0:33:57.45,Default,NTP,0000,0000,0000,,我们无法做到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll never be able to do it.
+Dialogue: 0,0:33:57.45,0:33:59.36,Default,NTP,0000,0000,0000,,当科学家们这样说话的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there, when scientists say things like that,
+Dialogue: 0,0:33:59.37,0:34:00.99,Default,NTP,0000,0000,0000,,他们永远是错的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're almost always wrong.
+Dialogue: 0,0:34:00.99,0:34:02.75,Default,NTP,0000,0000,0000,,对我们来说更正确的说法是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's much safer for us to say,
+Dialogue: 0,0:34:02.82,0:34:05.93,Default,NTP,0000,0000,0000,,现有的物理学原理允许我们充满希望地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}here are what the laws of physics allow us to imagine doing.
+Dialogue: 0,0:34:05.93,0:34:07.23,Default,NTP,0000,0000,0000,,想象做某事  未来的某一天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hopefully. Someday in the future
+Dialogue: 0,0:34:07.23,0:34:09.84,Default,NTP,0000,0000,0000,,我们将建立实现它的技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'll build the technology that makes it happen.
+Dialogue: 0,0:34:13.24,0:34:14.59,Default,NTP,0000,0000,0000,,就像我们看到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as we've seen,
+Dialogue: 0,0:34:14.59,0:34:17.17,Default,NTP,0000,0000,0000,,那样的未来也许很快就到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that future may confront us very soon,
+Dialogue: 0,0:34:17.41,0:34:20.48,Default,NTP,0000,0000,0000,,当天文学家们搜索太阳系外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As astronomers search for planets around stars
+Dialogue: 0,0:34:20.48,0:34:22.40,Default,NTP,0000,0000,0000,,围绕恒星的行星时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}outside the solar system,
+Dialogue: 0,0:34:24.79,0:34:29.24,Default,NTP,0000,0000,0000,,离地球最近的星级系统是一对双恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the closest star system to earth has a binary pair of stars.
+Dialogue: 0,0:34:31.14,0:34:33.76,Default,NTP,0000,0000,0000,,那是搜寻行星的好地方吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is that a good place to search for planets?
+Dialogue: 0,0:34:36.05,0:34:40.11,Default,NTP,0000,0000,0000,,那是俄克拉荷马州俄克拉荷马市的妮可\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's just what Nicole of Oklahoma city, Oklahoma,
+Dialogue: 0,0:34:40.20,0:34:44.31,Default,NTP,0000,0000,0000,,在"询问宇宙"栏目中提出的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wanted to "ask the universe," When she wrote...
+Dialogue: 0,0:34:44.34,0:34:47.98,Default,NTP,0000,0000,0000,,{\fs18}行星可以存在在双恒星系统中吗\N-Nicole  俄克拉荷马
+Dialogue: 0,0:34:48.61,0:34:50.38,Default,NTP,0000,0000,0000,,妮可  那真的是个好问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nicole, that's a really cool question.
+Dialogue: 0,0:34:50.55,0:34:53.99,Default,NTP,0000,0000,0000,,行星在双恒星系统中可以紧密地围绕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns out that a planet in a binary system can orbit
+Dialogue: 0,0:34:53.99,0:34:56.55,Default,NTP,0000,0000,0000,,双恒星中的任何一个旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}either one of the two stars very closely
+Dialogue: 0,0:34:56.89,0:35:00.10,Default,NTP,0000,0000,0000,,或者可以从很远处围绕两颗恒星旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or it can orbit both of them from very far away,
+Dialogue: 0,0:35:00.45,0:35:02.29,Default,NTP,0000,0000,0000,,但是它的轨道不可能在双星之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it can't orbit among them.
+Dialogue: 0,0:35:02.29,0:35:04.91,Default,NTP,0000,0000,0000,,例如它不可能在双星中间形成八字形轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can't do a figure eight among them, for example.
+Dialogue: 0,0:35:04.91,0:35:06.99,Default,NTP,0000,0000,0000,,那种轨道是不稳定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That trajectory is unstable
+Dialogue: 0,0:35:06.99,0:35:09.59,Default,NTP,0000,0000,0000,,行星会很快偏离轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the planet Would quickly get ejected.
+Dialogue: 0,0:35:12.54,0:35:14.52,Default,NTP,0000,0000,0000,,我们也许快要发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We may be on the verge of discovering
+Dialogue: 0,0:35:14.52,0:35:17.08,Default,NTP,0000,0000,0000,,一颗地球大小的行星在围绕双星之一旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an earth-size planet around one of the two stars
+Dialogue: 0,0:35:17.08,0:35:18.86,Default,NTP,0000,0000,0000,,离太阳最近的邻居\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the alpha centauri system,
+Dialogue: 0,0:35:18.86,0:35:20.58,Default,NTP,0000,0000,0000,,半人马星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the sun's nearest neighbor,
+Dialogue: 0,0:35:21.10,0:35:23.80,Default,NTP,0000,0000,0000,,将会是一个从未有过的引人注目的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be a more compelling reason than ever before
+Dialogue: 0,0:35:23.85,0:35:28.23,Default,NTP,0000,0000,0000,,吸引人们去探索新的高速太空航行的科学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to explore the exotic science of high-speed space voyages
+Dialogue: 0,0:35:28.35,0:35:30.73,Default,NTP,0000,0000,0000,,以及与之相伴的时间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the time travel that goes with them.
+Dialogue: 0,0:35:35.49,0:35:37.03,Default,NTP,0000,0000,0000,,半人马座很令人兴奋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha centauri is very exciting
+Dialogue: 0,0:35:37.03,0:35:38.74,Default,NTP,0000,0000,0000,,因为现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because it now appears
+Dialogue: 0,0:35:38.76,0:35:42.05,Default,NTP,0000,0000,0000,,在各种不同的电脑模拟中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a variety of different computer simulations,
+Dialogue: 0,0:35:42.05,0:35:43.49,Default,NTP,0000,0000,0000,,表现出很有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it's quite possible
+Dialogue: 0,0:35:39.89,0:35:44.24,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格雷戈·朗丁\N加州大学圣克鲁兹分校
+Dialogue: 0,0:35:43.52,0:35:46.04,Default,NTP,0000,0000,0000,,存在像地球一样大的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there could be terrestrial mass planets
+Dialogue: 0,0:35:46.05,0:35:50.16,Default,NTP,0000,0000,0000,,在围绕半人马的双恒星系统旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbiting both components of the alpha centauri binary system.
+Dialogue: 0,0:35:52.07,0:35:55.05,Default,NTP,0000,0000,0000,,半人马A和B相隔很远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha centauri "A" And "B" are so distant.
+Dialogue: 0,0:35:55.05,0:35:57.46,Default,NTP,0000,0000,0000,,从地球上看它们好像互不相干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They look like a single star from earth.
+Dialogue: 0,0:35:57.87,0:36:00.36,Default,NTP,0000,0000,0000,,但是它们真的是一对双星系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But they're actually a binary pair.
+Dialogue: 0,0:36:03.27,0:36:06.67,Default,NTP,0000,0000,0000,,这个系统的第三个成员是比邻星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A third member of the system is proxima centauri,
+Dialogue: 0,0:36:06.67,0:36:09.96,Default,NTP,0000,0000,0000,,一颗红矮星被松散地束缚于主双星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a red dwarf loosely bound to the main pair.
+Dialogue: 0,0:36:11.48,0:36:15.13,Default,NTP,0000,0000,0000,,如果你在半人马A或者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're sitting on a planet in the alpha centauri "A" system
+Dialogue: 0,0:36:15.13,0:36:16.77,Default,NTP,0000,0000,0000,,B系统中的一颗行星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or the alpha centauri "B" system,
+Dialogue: 0,0:36:16.77,0:36:20.62,Default,NTP,0000,0000,0000,,你的夜空中甚至见不到比邻星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}proxima centauri wouldn't even be visible in your night sky.
+Dialogue: 0,0:36:20.62,0:36:21.77,Default,NTP,0000,0000,0000,,它太暗淡了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's that dim.
+Dialogue: 0,0:36:24.76,0:36:28.14,Default,NTP,0000,0000,0000,,半人马A和B围绕彼此旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha centauri "A" and "B" orbit around each other.
+Dialogue: 0,0:36:28.35,0:36:29.83,Default,NTP,0000,0000,0000,,在最近点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At their closest point,
+Dialogue: 0,0:36:29.83,0:36:32.36,Default,NTP,0000,0000,0000,,它们的距离比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're about 20% farther than the distance
+Dialogue: 0,0:36:32.36,0:36:33.98,Default,NTP,0000,0000,0000,,从太阳到土星远20%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the sun to Saturn.
+Dialogue: 0,0:36:34.31,0:36:35.43,Default,NTP,0000,0000,0000,,最远的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At their farthest,
+Dialogue: 0,0:36:35.43,0:36:39.62,Default,NTP,0000,0000,0000,,它们之间比太阳到海王星的距离远20%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're 20% more distant than the sun is from Neptune.
+Dialogue: 0,0:36:42.84,0:36:45.81,Default,NTP,0000,0000,0000,,它们和太阳一样都有适居带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each has a habitable zone similar to the sun,
+Dialogue: 0,0:36:45.81,0:36:48.59,Default,NTP,0000,0000,0000,,在那也许有孕育着生命的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where life-bearing planets could exist.
+Dialogue: 0,0:36:48.77,0:36:52.47,Default,NTP,0000,0000,0000,,这也是人们梦寐以求的天文学圣杯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that, after all, is a holy grail in astronomy.
+Dialogue: 0,0:36:54.75,0:36:56.48,Default,NTP,0000,0000,0000,,能在生命周期以内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, a trip to the nearest stars,
+Dialogue: 0,0:36:56.48,0:36:58.44,Default,NTP,0000,0000,0000,,去最近的星球旅行一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for example, Alpha Centauri,
+Dialogue: 0,0:36:58.48,0:37:00.95,Default,NTP,0000,0000,0000,,比如  半人马座\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we can do within our lifetimes
+Dialogue: 0,0:37:00.96,0:37:02.52,Default,NTP,0000,0000,0000,,无疑会令人激动不已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be immensely exciting.
+Dialogue: 0,0:37:02.99,0:37:06.31,Default,NTP,0000,0000,0000,,科学最重要的任务之一就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the great goals of science is to find life
+Dialogue: 0,0:37:06.31,0:37:07.90,Default,NTP,0000,0000,0000,,在宇宙的其它角落发现生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}elsewhere in the universe.
+Dialogue: 0,0:37:08.11,0:37:09.64,Default,NTP,0000,0000,0000,,要跨出第一步  除了我们的太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What better place to start,
+Dialogue: 0,0:37:09.71,0:37:11.19,Default,NTP,0000,0000,0000,,还有哪能比离我们最近的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}other than our solar system,
+Dialogue: 0,0:37:11.19,0:37:12.79,Default,NTP,0000,0000,0000,,更加合适呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the nearest star?
+Dialogue: 0,0:37:18.27,0:37:21.84,Default,NTP,0000,0000,0000,,现在太空旅行变成了时间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But now space travel becomes time travel
+Dialogue: 0,0:37:21.97,0:37:24.89,Default,NTP,0000,0000,0000,,我们希望通过已知的物理定理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we set our sights on a mission that can be done
+Dialogue: 0,0:37:24.89,0:37:27.28,Default,NTP,0000,0000,0000,,来解决这个难题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}under the laws of physics we now know:
+Dialogue: 0,0:37:29.13,0:37:30.40,Default,NTP,0000,0000,0000,,也就是在45天内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a mission that can cross
+Dialogue: 0,0:37:30.40,0:37:35.64,Default,NTP,0000,0000,0000,,行驶4光年以上的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more than 4 light-years of space in just 45 days.
+Dialogue: 0,0:37:41.07,0:37:44.11,Default,NTP,0000,0000,0000,,为了解开时间的秘密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our quest to unravel the mysteries of time
+Dialogue: 0,0:37:44.11,0:37:46.97,Default,NTP,0000,0000,0000,,我们又回到了太阳最近的邻居\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}now point us again to Alpha Centauri,
+Dialogue: 0,0:37:46.97,0:37:49.04,Default,NTP,0000,0000,0000,,半人马座上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the sun's closest neighbor.
+Dialogue: 0,0:37:51.13,0:37:52.26,Default,NTP,0000,0000,0000,,它最有可能成为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is the most likely
+Dialogue: 0,0:37:52.27,0:37:55.34,Default,NTP,0000,0000,0000,,地球星际飞船的第一个目的地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}first destination for a starship from earth,
+Dialogue: 0,0:37:55.76,0:37:58.01,Default,NTP,0000,0000,0000,,飞船的这趟航行就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a starship whose mission cannot avoid
+Dialogue: 0,0:37:58.01,0:38:00.00,Default,NTP,0000,0000,0000,,一次完整的时空旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a component of time travel.
+Dialogue: 0,0:38:02.57,0:38:04.19,Default,NTP,0000,0000,0000,,我们还不清楚通过怎样的技术手段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have no idea what kind of technology
+Dialogue: 0,0:38:04.20,0:38:07.46,Default,NTP,0000,0000,0000,,能让我们往返于半人马座和地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would actually take us from here to Alpha Centauri and back.
+Dialogue: 0,0:38:06.15,0:38:10.32,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}肖恩·卡洛尔\N加州理工学院
+Dialogue: 0,0:38:09.86,0:38:13.71,Default,NTP,0000,0000,0000,,就算我们能以光速的99.99%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and say that we just move at 99.99% the speed of light
+Dialogue: 0,0:38:13.71,0:38:16.07,Default,NTP,0000,0000,0000,,一路飞过去再一路飞回来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the way there and then all the way back.
+Dialogue: 0,0:38:17.53,0:38:19.51,Default,NTP,0000,0000,0000,,对于要做这种长距离航行的飞船来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ship seems surprisingly small
+Dialogue: 0,0:38:19.52,0:38:21.96,Default,NTP,0000,0000,0000,,实在是太小了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for one that has to make such a long trip.
+Dialogue: 0,0:38:22.02,0:38:26.00,Default,NTP,0000,0000,0000,,在航行期间  它如何向乘员提供充足的供给\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How can it hold enough supplies to support a crew for the duration?
+Dialogue: 0,0:38:26.25,0:38:29.86,Default,NTP,0000,0000,0000,,当然没问题  因为它不仅仅是艘星际飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can, because it is not only a starship,
+Dialogue: 0,0:38:29.86,0:38:32.21,Default,NTP,0000,0000,0000,,还是台时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it is also a time machine.
+Dialogue: 0,0:38:33.73,0:38:36.07,Default,NTP,0000,0000,0000,,航行要花费8.6年的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would take about 8.6 years,
+Dialogue: 0,0:38:36.07,0:38:39.28,Default,NTP,0000,0000,0000,,因为半人马座距离我们4.3光年远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because Alpha Centauri is 4.3 light-years away.
+Dialogue: 0,0:38:39.40,0:38:41.11,Default,NTP,0000,0000,0000,,但对于飞船上的人来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But to the people on the ship,
+Dialogue: 0,0:38:41.11,0:38:42.59,Default,NTP,0000,0000,0000,,只用了不到两个月的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would take less than two months.
+Dialogue: 0,0:38:42.59,0:38:44.09,Default,NTP,0000,0000,0000,,大约只要45天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would take about 45 days
+Dialogue: 0,0:38:44.10,0:38:46.11,Default,NTP,0000,0000,0000,,因为他们在以接近光速的速度航行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they're traveling close to the speed of light.
+Dialogue: 0,0:38:50.33,0:38:52.92,Default,NTP,0000,0000,0000,,为了迅速达到接近光速的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The astronauts would also have to overcome the problem
+Dialogue: 0,0:38:52.92,0:38:56.75,Default,NTP,0000,0000,0000,,宇航员必须克服致命的加速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of killer acceleration in quickly reaching the speed of light.
+Dialogue: 0,0:38:56.78,0:38:59.36,Default,NTP,0000,0000,0000,,否则  只能缓慢的加速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Otherwise, they'd have to speed up slowly,
+Dialogue: 0,0:38:59.72,0:39:01.81,Default,NTP,0000,0000,0000,,这大大增加了航行时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}adding time to the total trip.
+Dialogue: 0,0:39:04.95,0:39:08.96,Default,NTP,0000,0000,0000,,对于想为星际旅行寻找港口的地球人来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha Centauri is the go-to destination for earthbound beings,
+Dialogue: 0,0:39:08.96,0:39:11.46,Default,NTP,0000,0000,0000,,半人马座是个令人向往的目的地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hoping for a toehold in star travel.
+Dialogue: 0,0:39:14.41,0:39:18.13,Default,NTP,0000,0000,0000,,绝非偶然的是 在詹姆斯·卡梅隆的电影阿凡达中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's no accident that James Cameron chose it as home
+Dialogue: 0,0:39:18.13,0:39:19.82,Default,NTP,0000,0000,0000,,虚构的星球潘多拉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to his fictional moon,
+Dialogue: 0,0:39:19.82,0:39:22.52,Default,NTP,0000,0000,0000,,被设置成半人马座星系中的一颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pandora, in the movie Avatar.
+Dialogue: 0,0:39:25.51,0:39:29.12,Default,NTP,0000,0000,0000,,我们之所以要飞往半人马座\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The reason we would go to Alpha Centauri has to do with today's
+Dialogue: 0,0:39:29.12,0:39:32.02,Default,NTP,0000,0000,0000,,与现在望远镜围绕半人马座B星进行的大量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}intensive telescope search for earth-like planets
+Dialogue: 0,0:39:32.02,0:39:33.97,Default,NTP,0000,0000,0000,,类地行星搜寻不无关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}around Alpha Centauri "B"
+Dialogue: 0,0:39:34.12,0:39:37.63,Default,NTP,0000,0000,0000,,它是半人马座系统中主双星之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of two stars in the system's main binary pair.
+Dialogue: 0,0:39:40.91,0:39:42.65,Default,NTP,0000,0000,0000,,到目前为止  要在整片天空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha Centauri "B" it turns out,
+Dialogue: 0,0:39:42.65,0:39:45.85,Default,NTP,0000,0000,0000,,寻找小质量类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is by far the best star in the entire sky
+Dialogue: 0,0:39:43.97,0:39:47.86,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格雷戈·朗丁\N加州大学圣克鲁兹分校
+Dialogue: 0,0:39:47.90,0:39:50.56,Default,NTP,0000,0000,0000,,半人马座B星是最好的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for searching for low-mass, earth-like planets.
+Dialogue: 0,0:39:50.72,0:39:53.30,Default,NTP,0000,0000,0000,,不过要完成这种搜寻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But to carry out that kind of search requires
+Dialogue: 0,0:39:53.30,0:39:54.98,Default,NTP,0000,0000,0000,,需要付出巨大的努力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a very dedicated effort.
+Dialogue: 0,0:39:54.98,0:39:56.53,Default,NTP,0000,0000,0000,,这可不是你用望远镜观察几个晚上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not something that you can accomplish
+Dialogue: 0,0:39:56.54,0:39:58.27,Default,NTP,0000,0000,0000,,就能完成的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a few nights with a telescope.
+Dialogue: 0,0:39:59.41,0:40:02.01,Default,NTP,0000,0000,0000,,要想从一张航天照片中区分半人马座的两颗主星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hard enough to separate the two main stars
+Dialogue: 0,0:40:02.01,0:40:04.56,Default,NTP,0000,0000,0000,,十分困难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of Alpha Centauri in a space photograph.
+Dialogue: 0,0:40:05.15,0:40:08.06,Default,NTP,0000,0000,0000,,而想在两颗星中一颗的周围寻找一颗地球大小的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Trying to see an earth-size planet around one of them
+Dialogue: 0,0:40:08.06,0:40:10.60,Default,NTP,0000,0000,0000,,在现在来看  是不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is, at the moment, impossible.
+Dialogue: 0,0:40:13.19,0:40:17.31,Default,NTP,0000,0000,0000,,想找到这种星球  最好的机会是摆动侦测法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The best shot we have is to find the planet by the wobble method,
+Dialogue: 0,0:40:17.50,0:40:20.24,Default,NTP,0000,0000,0000,,它能侦测出由每颗星球自身微小的引力而引起的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}detecting a star's subtle back-and-forth motion
+Dialogue: 0,0:40:20.24,0:40:24.25,Default,NTP,0000,0000,0000,,星体细微的往复摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}caused by the tiny gravitational tug any planet would have on it.
+Dialogue: 0,0:40:24.88,0:40:28.36,Default,NTP,0000,0000,0000,,与时间旅行一样  这几乎是不可能的任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like time travel, it seems almost undoable.
+Dialogue: 0,0:40:30.54,0:40:32.00,Default,NTP,0000,0000,0000,,我们想侦测的这种往复摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The back-and-forth wobble,
+Dialogue: 0,0:40:32.00,0:40:34.59,Default,NTP,0000,0000,0000,,相当相当的细微\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we need to detect is incredibly small.
+Dialogue: 0,0:40:34.92,0:40:36.79,Default,NTP,0000,0000,0000,,我现在在玫瑰碗球场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm here at the Rose Bowl
+Dialogue: 0,0:40:37.00,0:40:41.12,Default,NTP,0000,0000,0000,,如果把半人马座的大小比作这座球场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if the Rose Bowl were the size of Alpha Centauri,
+Dialogue: 0,0:40:41.12,0:40:42.75,Default,NTP,0000,0000,0000,,那我们需要侦测的摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the amount of wobble
+Dialogue: 0,0:40:42.92,0:40:45.04,Default,NTP,0000,0000,0000,,差不多有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we need to detect is about this much,
+Dialogue: 0,0:40:45.05,0:40:48.23,Default,NTP,0000,0000,0000,,3.3英寸大  而且还是从\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 3.3 inches, and we need to detect that
+Dialogue: 0,0:40:48.23,0:40:52.02,Default,NTP,0000,0000,0000,,四百三十万英里外侦测这么点大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from 4.3 million miles away.
+Dialogue: 0,0:40:59.41,0:41:02.99,Default,NTP,0000,0000,0000,,半人马座B星比A稍微小一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha Centauri "B" is slightly smaller than "A"
+Dialogue: 0,0:41:02.99,0:41:05.38,Default,NTP,0000,0000,0000,,侦测行星的行动也集中在那\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the planet hunt is concentrated there,
+Dialogue: 0,0:41:05.46,0:41:08.89,Default,NTP,0000,0000,0000,,主要是因为较小的星球会表现出更多的摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mostly because a smaller star will show more wobble
+Dialogue: 0,0:41:08.89,0:41:10.99,Default,NTP,0000,0000,0000,,会让侦测轻松许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and detection will be that much easier.
+Dialogue: 0,0:41:11.54,0:41:14.48,Default,NTP,0000,0000,0000,,在三到五年内  真相应该就能揭晓了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In three to five years, we should have an answer.
+Dialogue: 0,0:41:17.87,0:41:20.53,Default,NTP,0000,0000,0000,,如果将来我们发现了一颗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think that if we were to discover that there's
+Dialogue: 0,0:41:20.53,0:41:24.53,Default,NTP,0000,0000,0000,,地球质量级的星球围绕着最靠近恒星运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an earth-mass planet orbiting the very nearest star,
+Dialogue: 0,0:41:24.67,0:41:28.22,Default,NTP,0000,0000,0000,,这将会是一件激动人心的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then there would be a great deal of excitement to somehow
+Dialogue: 0,0:41:28.22,0:41:32.04,Default,NTP,0000,0000,0000,,人们会设法建立大型望远镜观测它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}either build a large telescope to try to observe that planet
+Dialogue: 0,0:41:32.04,0:41:35.56,Default,NTP,0000,0000,0000,,或在遥远的未来酝酿出一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or perhaps in the far future to design a mission
+Dialogue: 0,0:41:35.56,0:41:37.12,Default,NTP,0000,0000,0000,,造访它的计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could actually go there.
+Dialogue: 0,0:41:41.50,0:41:44.16,Default,NTP,0000,0000,0000,,尝试时间旅行的目标明确以后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With the goal of our time travel quest identified,
+Dialogue: 0,0:41:44.29,0:41:47.00,Default,NTP,0000,0000,0000,,可以想象  地球轨道上的宇宙飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we can imagine our spacecraft in earth orbit,
+Dialogue: 0,0:41:47.00,0:41:50.27,Default,NTP,0000,0000,0000,,将会飞往它们的第一个任务目标  半人马座\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about to leave on the first mission to Alpha Centauri.
+Dialogue: 0,0:41:54.53,0:41:58.17,Default,NTP,0000,0000,0000,,超高的速度让飞船成了时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ship's high speed propels it into time machine mode,
+Dialogue: 0,0:41:58.30,0:42:00.98,Default,NTP,0000,0000,0000,,船上的时钟变慢  因此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}slowing its clock, so its passengers approach
+Dialogue: 0,0:42:00.98,0:42:03.47,Default,NTP,0000,0000,0000,,乘客在三或四周内就能抵达半人马座\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha Centauri in three or four weeks,
+Dialogue: 0,0:42:04.78,0:42:08.69,Default,NTP,0000,0000,0000,,他们还能近距离欣赏到人类从未见过的景象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seeing things up close no human has ever seen before.
+Dialogue: 0,0:42:09.97,0:42:14.26,Default,NTP,0000,0000,0000,,首先看到的是人马座的比邻红矮星的耀斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First up, a stellar flare from the red dwarf, Proxima Centauri.
+Dialogue: 0,0:42:14.48,0:42:16.65,Default,NTP,0000,0000,0000,,它处在三星系统的外围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the outskirts of the triple system,
+Dialogue: 0,0:42:16.79,0:42:19.51,Default,NTP,0000,0000,0000,,是三颗星中离太阳最近的一颗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it is the closest of the three to the sun.
+Dialogue: 0,0:42:22.04,0:42:25.02,Default,NTP,0000,0000,0000,,人马座的比邻星经常发生突然的喷发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Proxima Centauri is prone to these sudden outbursts
+Dialogue: 0,0:42:25.02,0:42:26.34,Default,NTP,0000,0000,0000,,这使得它在一天的时间里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can cause it to brighten up
+Dialogue: 0,0:42:26.34,0:42:29.86,Default,NTP,0000,0000,0000,,就能突然变亮四五次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by a factor of four or five over the course of just a day
+Dialogue: 0,0:42:29.87,0:42:31.78,Default,NTP,0000,0000,0000,,然后又迅速黯淡下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then fade back just as quickly.
+Dialogue: 0,0:42:31.78,0:42:34.29,Default,NTP,0000,0000,0000,,因此  当你们经过半人马座比邻星时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you might be in for some real fireworks
+Dialogue: 0,0:42:34.29,0:42:36.63,Default,NTP,0000,0000,0000,,就可能处在真正的"烟花"中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as you pass by Proxima Centauri.
+Dialogue: 0,0:42:37.90,0:42:40.93,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:42:39.82,0:42:43.57,Default,NTP,0000,0000,0000,,可以设想  飞船能绕过半人马座A星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we might imagine swinging past Alpha Centauri "A"
+Dialogue: 0,0:42:43.62,0:42:45.50,Default,NTP,0000,0000,0000,,并在引力的帮助下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and using gravity assist
+Dialogue: 0,0:42:45.50,0:42:49.33,Default,NTP,0000,0000,0000,,朝半人马座B星方向驶去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to send us in a direction of Alpha Centauri "B".
+Dialogue: 0,0:42:52.89,0:42:55.15,Default,NTP,0000,0000,0000,,航行的终点是地球的姐妹星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The sister earth at the ship's destination
+Dialogue: 0,0:42:55.15,0:42:56.60,Default,NTP,0000,0000,0000,,也是我们的最终目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the ultimate goal,
+Dialogue: 0,0:42:57.05,0:43:01.02,Default,NTP,0000,0000,0000,,旅行者们急于探索它  希冀发现上面的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the travelers will be anxious to explore it and search for life.
+Dialogue: 0,0:43:07.99,0:43:09.33,Default,NTP,0000,0000,0000,,尽管旅行者们的旅途只花了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although the trip has taken
+Dialogue: 0,0:43:09.33,0:43:11.98,Default,NTP,0000,0000,0000,,几个多月的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}little more than a few months for the travelers,
+Dialogue: 0,0:43:14.01,0:43:16.45,Default,NTP,0000,0000,0000,,但是超高的速度大大减慢了他们的时钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the high speed will slow down their clocks
+Dialogue: 0,0:43:16.45,0:43:18.45,Default,NTP,0000,0000,0000,,那意味着  当他们返回时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so much, that when they return,
+Dialogue: 0,0:43:18.49,0:43:21.40,Default,NTP,0000,0000,0000,,地球上已经流逝了将近十年的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nearly a decade will have passed on earth.
+Dialogue: 0,0:43:22.49,0:43:25.33,Default,NTP,0000,0000,0000,,实现高速星际旅行的梦想\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The realization of star travel at high speed
+Dialogue: 0,0:43:25.33,0:43:27.42,Default,NTP,0000,0000,0000,,只能留给遥远的未来去实现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a dream for the far future.
+Dialogue: 0,0:43:29.21,0:43:33.48,Default,NTP,0000,0000,0000,,在一个技术先进  发展迅速的世界里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On an earth where technology is so advanced and changing so fast,
+Dialogue: 0,0:43:33.48,0:43:37.35,Default,NTP,0000,0000,0000,,八或十年的时间里  足以发生戏剧性的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the difference of 8 or 10 years could be dramatic.
+Dialogue: 0,0:43:38.93,0:43:41.41,Default,NTP,0000,0000,0000,,那时时空旅行也许会成为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This kind of time travel may become routine
+Dialogue: 0,0:43:41.41,0:43:44.22,Default,NTP,0000,0000,0000,,新一代星际旅行者的家常便饭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to a new generation of star travelers...
+Dialogue: 0,0:43:48.69,0:43:51.89,Default,NTP,0000,0000,0000,,人类也将在探索宇宙这一壮阔的旅途中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Taking mankind on the next giant leap
+Dialogue: 0,0:43:52.10,0:43:56.18,Default,NTP,0000,0000,0000,,向下一个伟大的目标进发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in its epic journey through The Universe.

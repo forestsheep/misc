@@ -1,0 +1,785 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:09.68,0:01:16.69,Default,,0000,0000,0008,,{\fn华文楷体\fs20\1c&HE0E0E0&\blur3}宇宙:另一个地球{\r}
+Dialogue: 0,0:00:01.54,0:00:03.87,Default,,0000,0000,0000,,{\blur3}创世之初 冥冥之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness...{\r}
+Dialogue: 0,0:00:03.92,0:00:06.04,Default,,0000,0000,0000,,{\blur3}随着轰的一声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, bang...{\r}
+Dialogue: 0,0:00:06.08,0:00:09.25,Default,,0000,0000,0000,,{\blur3}诞生了无限膨胀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to an endless expanding existence...{\r}
+Dialogue: 0,0:00:09.30,0:00:11.84,Default,,0000,0000,0000,,{\blur3}时间 空间和物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:11.88,0:00:14.17,Default,,0000,0000,0000,,{\blur3}现在 所见超乎我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, see further than we've ever imagined...{\r}
+Dialogue: 0,0:00:14.22,0:00:16.30,Default,,0000,0000,0000,,{\blur3}超越了我们生存的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the limits of our existence...{\r}
+Dialogue: 0,0:00:16.34,0:00:18.93,Default,,0000,0000,0000,,{\blur3}这个空间我们称之为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a place we call "The Universe."{\r}
+Dialogue: 0,0:00:20.56,0:00:22.56,Default,,0000,0000,0000,,{\blur3}我们孤独吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Are we alone...{\r}
+Dialogue: 0,0:00:22.60,0:00:26.23,Default,,0000,0000,0000,,{\blur3}抑或宇宙的某处存在着另一颗类地行星呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or is there another Earth-Like planet somewhere in the universe?{\r}
+Dialogue: 0,0:00:26.27,0:00:29.73,Default,,0000,0000,0000,,{\blur3}我们一直对我们的下一代有一个奇妙的目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have a fantastic goal yet for the next generation...{\r}
+Dialogue: 0,0:00:29.77,0:00:32.11,Default,,0000,0000,0000,,{\blur3}那就是找到让我们缅怀老家的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is to find planets that remind us of home.{\r}
+Dialogue: 0,0:00:34.74,0:00:35.78,Default,,0000,0000,0000,,{\blur3}我相信我们有望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I believe we're right on the brink...{\r}
+Dialogue: 0,0:00:35.82,0:00:39.24,Default,,0000,0000,0000,,{\blur3}利用科技的能力来回答这个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of having the technological capability to actually answer the question...{\r}
+Dialogue: 0,0:00:39.28,0:00:42.45,Default,,0000,0000,0000,,{\blur3}那是人类过去2000年以来一直在扪心自问的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that humanity has been asking itself for the last 2,000 years.{\r}
+Dialogue: 0,0:00:44.00,0:00:48.29,Default,,0000,0000,0000,,{\blur3}另一个地球可能就近在离我们最近的太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another Earth could be as close as our nearest star system.{\r}
+Dialogue: 0,0:00:48.33,0:00:52.13,Default,,0000,0000,0000,,{\blur3}我们就站在能发现这些行星的门槛上了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're right on the threshold...of being able to find these planets.{\r}
+Dialogue: 0,0:00:52.17,0:00:56.18,Default,,0000,0000,0000,,{\blur3}有可能是被怪异的太阳所扭曲的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There could be twisted Earths under bizarre suns.{\r}
+Dialogue: 0,0:00:58.85,0:01:02.64,Default,,0000,0000,0000,,{\blur3}我们能否发现那些地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can we find these other Earths as they float, hidden...{\r}
+Dialogue: 0,0:01:02.68,0:01:07.69,Default,,0000,0000,0000,,{\blur3}如果它们游荡 隐藏在宇宙数十亿颗恒星 数万亿颗行星中呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the billions of stars and trillions of planets of the universe?{\r}
+Dialogue: 0,0:01:26.71,0:01:29.08,Default,,0000,0000,0000,,{\blur3}宇宙间存在另一颗地球吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is there another Earth in the universe?{\r}
+Dialogue: 0,0:01:32.34,0:01:34.55,Default,,0000,0000,0000,,{\blur3}这或许是最古老的想法之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's perhaps one of the oldest ideas...{\r}
+Dialogue: 0,0:01:34.59,0:01:36.80,Default,,0000,0000,0000,,{\blur3}自打人类能注视星空以来就耿耿于怀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since mankind was able to look up at the stars and wonder.{\r}
+Dialogue: 0,0:01:40.47,0:01:42.64,Default,,0000,0000,0000,,{\blur3}当年人们围坐在篝火旁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Back when people were sitting around their campfires...{\r}
+Dialogue: 0,0:01:42.68,0:01:43.68,Default,,0000,0000,0000,,{\blur3}仰望群星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and looking up at the stars...{\r}
+Dialogue: 0,0:01:43.72,0:01:45.39,Default,,0000,0000,0000,,{\blur3}把它们想象成篝火{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and imagining them as other campfires...{\r}
+Dialogue: 0,0:01:45.43,0:01:47.02,Default,,0000,0000,0000,,{\blur3}其它种族围坐在旁边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with other tribes around them.{\r}
+Dialogue: 0,0:01:49.06,0:01:52.15,Default,,0000,0000,0000,,{\blur3}究竟什么是我们所指的另一个地球呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What exactly do we mean by another Earth?{\r}
+Dialogue: 0,0:01:53.40,0:01:56.49,Default,,0000,0000,0000,,{\blur3}它应该能维持类地生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It should support Earth-Like life.{\r}
+Dialogue: 0,0:01:56.53,0:02:00.78,Default,,0000,0000,0000,,{\blur3}归结一下 生命需要三个最基本的东西才能生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you boil it down, life needs three very basic things to exist.{\r}
+Dialogue: 0,0:02:00.82,0:02:03.58,Default,,0000,0000,0000,,{\blur3}它需要某种液态介质来进行化学反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It needs a liquid medium of some sort to do its chemical reactions in...{\r}
+Dialogue: 0,0:02:06.25,0:02:08.71,Default,,0000,0000,0000,,{\blur3}我们认为水是最合适的液态介质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we think water is the most likely liquid medium.{\r}
+Dialogue: 0,0:02:08.75,0:02:10.33,Default,,0000,0000,0000,,{\blur3}它在宇宙间相当普遍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's pretty prevalent in the universe.{\r}
+Dialogue: 0,0:02:11.92,0:02:14.13,Default,,0000,0000,0000,,{\blur3}我们还需要找到生命的基本组成部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We also need to look for the basic building blocks of life...{\r}
+Dialogue: 0,0:02:14.17,0:02:16.38,Default,,0000,0000,0000,,{\blur3}可以帮助组成生命的分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the molecules that can help to put life together...{\r}
+Dialogue: 0,0:02:16.42,0:02:18.63,Default,,0000,0000,0000,,{\blur3}你的DNA里的磷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the phosphorus in your DNA.{\r}
+Dialogue: 0,0:02:18.68,0:02:20.09,Default,,0000,0000,0000,,{\blur3}我们需要有能源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we need to have an energy source.{\r}
+Dialogue: 0,0:02:22.68,0:02:25.97,Default,,0000,0000,0000,,{\blur3}结果就是类地行星上有水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It turns out that a terrestrial planet that has water on it...{\r}
+Dialogue: 0,0:02:26.02,0:02:28.02,Default,,0000,0000,0000,,{\blur3}几乎具备我们所需的所有这些东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pretty much has all of those things we need.{\r}
+Dialogue: 0,0:02:29.56,0:02:33.02,Default,,0000,0000,0000,,{\blur3}并非所有能维持类地生命的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not all planets capable of supporting Earth-Like life...{\r}
+Dialogue: 0,0:02:33.06,0:02:36.86,Default,,0000,0000,0000,,{\blur3}都必须是我们地球的拷贝不走样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have to be carbon copies of our own Earth.{\r}
+Dialogue: 0,0:02:36.90,0:02:40.11,Default,,0000,0000,0000,,{\blur3}因此你可以将它看作是一系列不同类型的房子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you can think of it like a series of different types of houses.{\r}
+Dialogue: 0,0:02:40.16,0:02:43.03,Default,,0000,0000,0000,,{\blur3}假如你来到一座城市 举个例子 会有豪宅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you go into a city, for example, there will be grand mansions...{\r}
+Dialogue: 0,0:02:43.07,0:02:46.08,Default,,0000,0000,0000,,{\blur3}会有较小的 较适中的二居室小住宅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there will be smaller, more modest little two-bedroom homes...{\r}
+Dialogue: 0,0:02:46.12,0:02:48.66,Default,,0000,0000,0000,,{\blur3}会有市民公寓以及摩天大楼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there will be city studios and skyscrapers...{\r}
+Dialogue: 0,0:02:48.71,0:02:50.50,Default,,0000,0000,0000,,{\blur3}等等之类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so on and so forth.{\r}
+Dialogue: 0,0:02:50.54,0:02:51.83,Default,,0000,0000,0000,,{\blur3}都住满了人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of these house people.{\r}
+Dialogue: 0,0:02:51.88,0:02:54.29,Default,,0000,0000,0000,,{\blur3}所有这些都有助于安顿生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of these can help house life.{\r}
+Dialogue: 0,0:02:54.34,0:02:55.34,Default,,0000,0000,0000,,{\blur3}所以我们在琢磨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so we think about that...{\r}
+Dialogue: 0,0:02:55.38,0:02:57.55,Default,,0000,0000,0000,,{\blur3}我们走进宇宙所看到的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when we go out into the universe looking.{\r}
+Dialogue: 0,0:02:57.59,0:02:59.80,Default,,0000,0000,0000,,{\blur3}我们将要看看各种不同种类的房子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to be looking for houses of all different kinds...{\r}
+Dialogue: 0,0:02:59.84,0:03:02.97,Default,,0000,0000,0000,,{\blur3}敞开思绪 看看什么能维持生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and keeping our minds open as to what could support life.{\r}
+Dialogue: 0,0:03:10.48,0:03:13.85,Default,,0000,0000,0000,,{\blur3}天文学家已经发现了300多颗日外行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers have found over 300 exoplanets...{\r}
+Dialogue: 0,0:03:13.90,0:03:16.57,Default,,0000,0000,0000,,{\blur3}也就是 我们太阳系外的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is, planets outside our solar system.{\r}
+Dialogue: 0,0:03:16.61,0:03:17.98,Default,,0000,0000,0000,,{\blur3}绝大多数是气体巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The vast majority are gas giants...{\r}
+Dialogue: 0,0:03:19.74,0:03:22.57,Default,,0000,0000,0000,,{\blur3}其发现要比我们地球这样的类地行星来得容易{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which are easier to find than small terrestrial planets like our Earth.{\r}
+Dialogue: 0,0:03:25.37,0:03:29.08,Default,,0000,0000,0000,,{\blur3}为了打造分析那些类地行星的仪器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To build instruments to analyze those Earth-like planets...{\r}
+Dialogue: 0,0:03:29.12,0:03:31.54,Default,,0000,0000,0000,,{\blur3}我们必须提前预计到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have to anticipate ahead of time...{\r}
+Dialogue: 0,0:03:31.58,0:03:34.79,Default,,0000,0000,0000,,{\blur3}类地行星大气层里有可能有何种化学物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what the chemicals might be in that Earth-like atmosphere.{\r}
+Dialogue: 0,0:03:35.67,0:03:38.46,Default,,0000,0000,0000,,{\blur3}基于那个原因 我们需要理论 需要模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For that reason, we need theory, we need models.{\r}
+Dialogue: 0,0:03:39.34,0:03:42.55,Default,,0000,0000,0000,,{\blur3}维多利亚.梅道斯埋头于行星建模的专研{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Victoria Meadows is in the planet modeling business.{\r}
+Dialogue: 0,0:03:42.59,0:03:45.05,Default,,0000,0000,0000,,{\blur3}她领导的虚拟行星实验室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She heads up the Virtual Planet Laboratory...{\r}
+Dialogue: 0,0:03:45.09,0:03:47.85,Default,,0000,0000,0000,,{\blur3}坐落在西雅图的华盛顿大学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at Seattle's University of Washington.{\r}
+Dialogue: 0,0:03:47.89,0:03:51.52,Default,,0000,0000,0000,,{\blur3}其团队 分布在全国各地的机构里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The group, spread across institutions around the country...{\r}
+Dialogue: 0,0:03:51.56,0:03:55.65,Default,,0000,0000,0000,,{\blur3}构建着未探索宇宙间可能存在的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}builds worlds that may exist in the yet unexplored universe.{\r}
+Dialogue: 0,0:03:56.73,0:03:59.94,Default,,0000,0000,0000,,{\blur3}虚拟行星实验室让我们去模拟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Virtual Planetary Laboratory allows us to simulate...{\r}
+Dialogue: 0,0:03:59.98,0:04:02.15,Default,,0000,0000,0000,,{\blur3}太空中的行星的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what planets might look like from space...{\r}
+Dialogue: 0,0:04:02.20,0:04:03.95,Default,,0000,0000,0000,,{\blur3}其环境究竟是怎么回事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what their environments might be like...{\r}
+Dialogue: 0,0:04:03.99,0:04:06.32,Default,,0000,0000,0000,,{\blur3}实际上是超前去探索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in advance of actually discovering these things...{\r}
+Dialogue: 0,0:04:06.37,0:04:07.66,Default,,0000,0000,0000,,{\blur3}宇宙间的这些东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out there in the universe.{\r}
+Dialogue: 0,0:04:07.70,0:04:10.79,Default,,0000,0000,0000,,{\blur3}所以说 它让我们去探索行星可能的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it allows us to explore what planets might be like.{\r}
+Dialogue: 0,0:04:12.83,0:04:16.79,Default,,0000,0000,0000,,{\blur3}在虚拟行星实验室里 构建奇幻世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the Virtual Planet Lab, fantastic worlds can be built...{\r}
+Dialogue: 0,0:04:16.83,0:04:18.59,Default,,0000,0000,0000,,{\blur3}如科幻小说家那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a science fiction novelist...{\r}
+Dialogue: 0,0:04:18.63,0:04:20.34,Default,,0000,0000,0000,,{\blur3}将超级计算机作为写作搭档{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a supercomputer as a writing partner.{\r}
+Dialogue: 0,0:04:22.05,0:04:24.34,Default,,0000,0000,0000,,{\blur3}我们可以拿上地球之类的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we can take something that's like the Earth...{\r}
+Dialogue: 0,0:04:24.38,0:04:26.68,Default,,0000,0000,0000,,{\blur3}不过我们会取走太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we rip away the Sun, and we replace it...{\r}
+Dialogue: 0,0:04:26.72,0:04:29.39,Default,,0000,0000,0000,,{\blur3}用不同大小和温度的恒星来取代它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a star of different size and temperature.{\r}
+Dialogue: 0,0:04:29.43,0:04:31.39,Default,,0000,0000,0000,,{\blur3}所以我们在虚拟行星实验室里所做的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what we've done with the Virtual Planetary Laboratory...{\r}
+Dialogue: 0,0:04:31.43,0:04:34.81,Default,,0000,0000,0000,,{\blur3}就是模拟开始就表现为地球类的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is modeled planets that started out as Earth-like...{\r}
+Dialogue: 0,0:04:34.85,0:04:36.98,Default,,0000,0000,0000,,{\blur3}将它们围绕着恒星 其温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and put them around stars that were much hotter...{\r}
+Dialogue: 0,0:04:37.02,0:04:39.52,Default,,0000,0000,0000,,{\blur3}其紫外线的强度都要比我们的太阳来得厉害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with much stronger UV radiation, for example, than our own Sun.{\r}
+Dialogue: 0,0:04:42.69,0:04:46.07,Default,,0000,0000,0000,,{\blur3}这些模型可以产生千奇百怪的候补地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The models can produce bizarre alternate Earths...{\r}
+Dialogue: 0,0:04:46.11,0:04:47.78,Default,,0000,0000,0000,,{\blur3}生长的植物有鲜红的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}filled with plants that are bright red...{\r}
+Dialogue: 0,0:04:50.12,0:04:51.12,Default,,0000,0000,0000,,{\blur3}橙色的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}orange...{\r}
+Dialogue: 0,0:04:52.29,0:04:54.62,Default,,0000,0000,0000,,{\blur3}甚至墨黑的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or even pitch-black.{\r}
+Dialogue: 0,0:04:54.66,0:04:56.71,Default,,0000,0000,0000,,{\blur3}光合作用可以相差很大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Photosynthesis can vary greatly...{\r}
+Dialogue: 0,0:04:56.75,0:04:59.29,Default,,0000,0000,0000,,{\blur3}随照射的阳光而定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}depending on the light of the star that's shining on it.{\r}
+Dialogue: 0,0:04:59.34,0:05:00.96,Default,,0000,0000,0000,,{\blur3}环绕F型星的行星 举个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Planets around F stars, for example...{\r}
+Dialogue: 0,0:05:01.00,0:05:03.63,Default,,0000,0000,0000,,{\blur3}阳光蓝得厉害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where the light from the star is much bluer...{\r}
+Dialogue: 0,0:05:03.67,0:05:05.72,Default,,0000,0000,0000,,{\blur3}那里的植物倾向于吸收更多的蓝光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the plants there will tend to absorb more blue light.{\r}
+Dialogue: 0,0:05:05.76,0:05:07.38,Default,,0000,0000,0000,,{\blur3}所以那些植物极有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so those plants could potentially...{\r}
+Dialogue: 0,0:05:07.43,0:05:10.64,Default,,0000,0000,0000,,{\blur3}更多地发射红光 橙光 黄光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}be more likely to reflect red, orange, and yellow light...{\r}
+Dialogue: 0,0:05:10.68,0:05:13.31,Default,,0000,0000,0000,,{\blur3}因此就会呈现出红色 橙色 黄色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so will appear red, orange, and yellow to us.{\r}
+Dialogue: 0,0:05:17.31,0:05:21.23,Default,,0000,0000,0000,,{\blur3}植物生长的行星所围绕的是颗较弱的恒星 其色彩的进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Plants on a world around weaker stars could evolve their coloration...{\r}
+Dialogue: 0,0:05:21.27,0:05:24.07,Default,,0000,0000,0000,,{\blur3}将会利用它们得到的每一点能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to use every bit of energy falling an them.{\r}
+Dialogue: 0,0:05:24.11,0:05:27.11,Default,,0000,0000,0000,,{\blur3}如果你来到比我们太阳温度低得多的恒星 M型星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf you go down to much cooler stars than our Sun, to M stars...{\r}
+Dialogue: 0,0:05:27.16,0:05:29.49,Default,,0000,0000,0000,,{\blur3}围绕M型星的行星上的植物有可能 其实是黑色的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}plants on planets around M stars might, in fact, be black...{\r}
+Dialogue: 0,0:05:29.53,0:05:31.70,Default,,0000,0000,0000,,{\blur3}因为它们想吸收尽可能多的阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'cause they want to absorb as much light as possible...{\r}
+Dialogue: 0,0:05:31.74,0:05:33.49,Default,,0000,0000,0000,,{\blur3}进行光合反应 补充能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to do their photosynthesis and to feed.{\r}
+Dialogue: 0,0:05:37.08,0:05:38.83,Default,,0000,0000,0000,,{\blur3}还有水世界行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then there's the water-world planet...{\r}
+Dialogue: 0,0:05:40.25,0:05:44.30,Default,,0000,0000,0000,,{\blur3}一个理论上的地球围绕着不稳定的M型星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a theoretical Earth circling a volatile M-type star...{\r}
+Dialogue: 0,0:05:44.34,0:05:48.09,Default,,0000,0000,0000,,{\blur3}它致命的辐射爆发连续不断地攻击行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that constantly hits the planet with outbursts of deadly radiation.{\r}
+Dialogue: 0,0:05:50.51,0:05:54.14,Default,,0000,0000,0000,,{\blur3}生命在行星的表面将如何去应付呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And how does life cope on the surface of that planet?{\r}
+Dialogue: 0,0:05:54.18,0:05:57.56,Default,,0000,0000,0000,,{\blur3}遇上熊熊燃烧的M型星 有无可能存在生命呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is it possible to have life even when you have a flaring M star?{\r}
+Dialogue: 0,0:06:01.86,0:06:03.73,Default,,0000,0000,0000,,{\blur3}原来你可以生活在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It turns out that you can actually live...{\r}
+Dialogue: 0,0:06:03.78,0:06:07.24,Default,,0000,0000,0000,,{\blur3}环绕M型星的行星的水面9米之下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about nine meters under water on a planet around an M star...{\r}
+Dialogue: 0,0:06:07.28,0:06:09.20,Default,,0000,0000,0000,,{\blur3}还是能摆脱最厉害的耀斑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and still escape the worst of the flares...{\r}
+Dialogue: 0,0:06:09.24,0:06:10.32,Default,,0000,0000,0000,,{\blur3}同时还是能获得足够的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but still have enough light...{\r}
+Dialogue: 0,0:06:10.37,0:06:12.78,Default,,0000,0000,0000,,{\blur3}来进行光合作用 存活下去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to be able to do photosynthesis and to survive.{\r}
+Dialogue: 0,0:06:15.75,0:06:17.95,Default,,0000,0000,0000,,{\blur3}这里看出去一切良好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything looks good from here.{\r}
+Dialogue: 0,0:06:18.00,0:06:21.46,Default,,0000,0000,0000,,{\blur3}随着未来的探索任务的逐步拟定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as future exploration missions are being drawn up...{\r}
+Dialogue: 0,0:06:21.50,0:06:24.42,Default,,0000,0000,0000,,{\blur3}许多科学家正聚焦于怎样才能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}many scientists are focusing on what it would take...{\r}
+Dialogue: 0,0:06:24.46,0:06:26.59,Default,,0000,0000,0000,,{\blur3}检测到遥远星球上的生命的副产品{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to detect the by-products of life on a distant planet.{\r}
+Dialogue: 0,0:06:30.97,0:06:32.22,Default,,0000,0000,0000,,{\blur3}生命产生的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Life produces gases.{\r}
+Dialogue: 0,0:06:32.26,0:06:34.01,Default,,0000,0000,0000,,{\blur3}生命的气息 你可以闻到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Life stinks. You can smell it.{\r}
+Dialogue: 0,0:06:34.06,0:06:35.81,Default,,0000,0000,0000,,{\blur3}我们要搜寻那些气息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we're going to look for those gases...{\r}
+Dialogue: 0,0:06:35.85,0:06:38.81,Default,,0000,0000,0000,,{\blur3}利用这些高分辨率光谱仪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with these high-resolution spectrometers.{\r}
+Dialogue: 0,0:06:41.69,0:06:43.69,Default,,0000,0000,0000,,{\blur3}因此我们实际需要做的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what we really need to do...{\r}
+Dialogue: 0,0:06:43.73,0:06:46.44,Default,,0000,0000,0000,,{\blur3}就是获取其它类地行星发出的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is take the light from another Earth-like planet...{\r}
+Dialogue: 0,0:06:46.48,0:06:48.28,Default,,0000,0000,0000,,{\blur3}进行分析{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and analyze it to find out...{\r}
+Dialogue: 0,0:06:48.32,0:06:51.91,Default,,0000,0000,0000,,{\blur3}并找出其大气层里的化学成分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what the chemical composition of that atmosphere is.{\r}
+Dialogue: 0,0:06:53.70,0:06:55.53,Default,,0000,0000,0000,,{\blur3}找到行星的所在位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Finding the locations of planets...{\r}
+Dialogue: 0,0:06:55.58,0:06:59.75,Default,,0000,0000,0000,,{\blur3}是加州大学伯克利分校的天文学家杰夫.马西的擅长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is something that UC Berkeley astronomer Geoff Marcy is very good at.{\r}
+Dialogue: 0,0:07:01.08,0:07:03.79,Default,,0000,0000,0000,,{\blur3}他和他的天文学同事 保罗.巴特勒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He and his astronomy colleague, Paul Butler...{\r}
+Dialogue: 0,0:07:03.84,0:07:07.71,Default,,0000,0000,0000,,{\blur3}被认为找到的日外行星比谁都多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are credited with finding more exoplanets than anyone else.{\r}
+Dialogue: 0,0:07:10.68,0:07:13.14,Default,,0000,0000,0000,,{\blur3}远离其主星的行星会非常寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A planet that's farther from its host star will be very cool...{\r}
+Dialogue: 0,0:07:15.47,0:07:17.43,Default,,0000,0000,0000,,{\blur3}因此有一个区域 所处的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so there's a domain in between...{\r}
+Dialogue: 0,0:07:17.47,0:07:19.81,Default,,0000,0000,0000,,{\blur3}我们有时称其为金发地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we sometimes call the Goldilocks zone...{\r}
+Dialogue: 0,0:07:19.85,0:07:23.31,Default,,0000,0000,0000,,{\blur3}也就是宜居地带 那里的温度恰到好处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the habitable zone where the temperature is just right.{\r}
+Dialogue: 0,0:07:23.35,0:07:26.23,Default,,0000,0000,0000,,{\blur3}所谓的恰到好处 我的意思是 不冷也不热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And by just right, I mean, lukewarm...{\r}
+Dialogue: 0,0:07:26.27,0:07:29.11,Default,,0000,0000,0000,,{\blur3}所以那里的水是液态的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that water would be in liquid form.{\r}
+Dialogue: 0,0:07:29.15,0:07:31.82,Default,,0000,0000,0000,,{\blur3}当然 液态水是生命的先决条件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, of course, it's liquid water that's the prerequisite for life.{\r}
+Dialogue: 0,0:07:35.49,0:07:36.49,Default,,0000,0000,0000,,{\blur3}我们观察其他行星时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we look at other planets...{\r}
+Dialogue: 0,0:07:36.53,0:07:38.74,Default,,0000,0000,0000,,{\blur3}会发问 其他行星上会有生命吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we ask, "Could there be life on other planets?{\r}
+Dialogue: 0,0:07:38.79,0:07:42.04,Default,,0000,0000,0000,,{\blur3}我首先要问的是 那颗行星上能否维持液态水吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}my first question is, "Could that planet support liquid water?"{\r}
+Dialogue: 0,0:07:42.08,0:07:43.67,Default,,0000,0000,0000,,{\blur3}能 我感兴趣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes? I'm interested.{\r}
+Dialogue: 0,0:07:43.71,0:07:45.29,Default,,0000,0000,0000,,{\blur3}否 我就不感兴趣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No? I'm not interested.{\r}
+Dialogue: 0,0:07:45.33,0:07:48.00,Default,,0000,0000,0000,,{\blur3}总而言之 让我看到水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It all comes down to, show me the water.{\r}
+Dialogue: 0,0:07:51.84,0:07:54.30,Default,,0000,0000,0000,,{\blur3}水是一种神奇的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Water is an amazing substance.{\r}
+Dialogue: 0,0:07:54.34,0:07:56.09,Default,,0000,0000,0000,,{\blur3}我们 坦率说 很幸运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are, frankly, fortunate...{\r}
+Dialogue: 0,0:07:56.14,0:07:58.85,Default,,0000,0000,0000,,{\blur3}宇宙间存在着叫做水的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the universe has something called water.{\r}
+Dialogue: 0,0:07:58.89,0:08:01.98,Default,,0000,0000,0000,,{\blur3}它是了不起的宇宙鸡尾酒混合器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the great cosmic cocktail mixer.{\r}
+Dialogue: 0,0:08:02.02,0:08:07.23,Default,,0000,0000,0000,,{\blur3}水是关键的物质 让化学反应得以发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Water is the critical stuff that allows the chemical reactions to take place...{\r}
+Dialogue: 0,0:08:07.27,0:08:08.44,Default,,0000,0000,0000,,{\blur3}最终导致生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that eventually lead to life.{\r}
+Dialogue: 0,0:08:11.65,0:08:15.03,Default,,0000,0000,0000,,{\blur3}不过这个液态水得以存在的特殊区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But this special zone where liquid water can exist...{\r}
+Dialogue: 0,0:08:15.07,0:08:16.91,Default,,0000,0000,0000,,{\blur3}因地而异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}varies from place to place.{\r}
+Dialogue: 0,0:08:19.54,0:08:21.58,Default,,0000,0000,0000,,{\blur3}如果恒星是高热的O型星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If a star is a hot O-type...{\r}
+Dialogue: 0,0:08:21.62,0:08:24.21,Default,,0000,0000,0000,,{\blur3}那么这个区域将会远离太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the zone will be farther out from a sun.{\r}
+Dialogue: 0,0:08:25.63,0:08:29.09,Default,,0000,0000,0000,,{\blur3}如果是颗低温的M型星 这个区域就比较靠近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it's a cool M-type, the zone will be closer in.{\r}
+Dialogue: 0,0:08:30.67,0:08:32.71,Default,,0000,0000,0000,,{\blur3}它甚至还随着时间而改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it even changes with time.{\r}
+Dialogue: 0,0:08:32.76,0:08:35.13,Default,,0000,0000,0000,,{\blur3}恒星并非一成不变的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stars are not stable.{\r}
+Dialogue: 0,0:08:38.47,0:08:41.01,Default,,0000,0000,0000,,{\blur3}即使我们自己地球这个舒适的宜居之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even our own comfy habitable zone here on Earth...{\r}
+Dialogue: 0,0:08:41.06,0:08:42.93,Default,,0000,0000,0000,,{\blur3}也会在几百万年里发生变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will change in a few million years...{\r}
+Dialogue: 0,0:08:42.98,0:08:44.60,Default,,0000,0000,0000,,{\blur3}到时我们的太阳将会变老 更加炙热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when our Sun grows older and much hotter.{\r}
+Dialogue: 0,0:08:53.90,0:08:55.70,Default,,0000,0000,0000,,{\blur3}目前的技术尚不能拍摄到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Current technology doesn't exist...{\r}
+Dialogue: 0,0:08:55.74,0:08:57.99,Default,,0000,0000,0000,,{\blur3}遥远的日外行星的照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to take pictures of distant exoplanets...{\r}
+Dialogue: 0,0:08:59.49,0:09:02.20,Default,,0000,0000,0000,,{\blur3}因此天文学家利用太阳系里的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so astronomers use the solar system's star...{\r}
+Dialogue: 0,0:09:02.25,0:09:04.25,Default,,0000,0000,0000,,{\blur3}来作为行星的代理人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as a sort of proxy for a planet...{\r}
+Dialogue: 0,0:09:04.29,0:09:08.54,Default,,0000,0000,0000,,{\blur3}因为两者都形成于同样物质的行星盘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since both were formed from the same planetary disk of material.{\r}
+Dialogue: 0,0:09:08.58,0:09:11.25,Default,,0000,0000,0000,,{\blur3}我们是如何知道恒星的成分的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How do we know what a star is made out of?{\r}
+Dialogue: 0,0:09:11.30,0:09:13.00,Default,,0000,0000,0000,,{\blur3}我们不会去那里获取样本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We don't go there and sample it.{\r}
+Dialogue: 0,0:09:13.05,0:09:14.63,Default,,0000,0000,0000,,{\blur3}你的实验将会被融化的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Your experiment would melt.{\r}
+Dialogue: 0,0:09:14.67,0:09:17.13,Default,,0000,0000,0000,,{\blur3}天文学家韦斯.特劳布主导的项目{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomer Wes Traub heads up the effort...{\r}
+Dialogue: 0,0:09:17.18,0:09:19.26,Default,,0000,0000,0000,,{\blur3}航天局的喷气推进实验室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by NASA's Jet Propulsion Laboratory...{\r}
+Dialogue: 0,0:09:19.30,0:09:21.76,Default,,0000,0000,0000,,{\blur3}提出用下一代的仪器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to come up with the next generation of instruments...{\r}
+Dialogue: 0,0:09:21.81,0:09:23.85,Default,,0000,0000,0000,,{\blur3}来观察我们太阳系以外的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will look at planets outside our solar system.{\r}
+Dialogue: 0,0:09:25.98,0:09:28.52,Default,,0000,0000,0000,,{\blur3}我们所做的就是我们只是简单地观察它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we do is we just simply look at it...{\r}
+Dialogue: 0,0:09:28.56,0:09:31.31,Default,,0000,0000,0000,,{\blur3}把光分成各种颜色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we break the light up into different colors.{\r}
+Dialogue: 0,0:09:31.36,0:09:33.86,Default,,0000,0000,0000,,{\blur3}这是几百年前牛顿所做的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was done several hundred years ago by Newton.{\r}
+Dialogue: 0,0:09:33.90,0:09:37.86,Default,,0000,0000,0000,,{\blur3}他发现 如果你将一个棱镜放到阳光里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He discovered that if you put a prism in a ray of sunlight...{\r}
+Dialogue: 0,0:09:37.91,0:09:40.87,Default,,0000,0000,0000,,{\blur3}它会将光线分成蓝色 绿色 红色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it breaks it up into blue, green, red.{\r}
+Dialogue: 0,0:09:40.91,0:09:42.83,Default,,0000,0000,0000,,{\blur3}你观察这些不同的颜色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you look at these different colors...{\r}
+Dialogue: 0,0:09:42.87,0:09:46.29,Default,,0000,0000,0000,,{\blur3}你会突然发现非常惊人的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you discover something very startling all of a sudden.{\r}
+Dialogue: 0,0:09:46.33,0:09:49.00,Default,,0000,0000,0000,,{\blur3}有些部分的颜色缺失了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are parts where colors are missing...{\r}
+Dialogue: 0,0:09:49.04,0:09:51.71,Default,,0000,0000,0000,,{\blur3}这些缺失的颜色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and these missing colors are a fingerprint...{\r}
+Dialogue: 0,0:09:51.75,0:09:53.84,Default,,0000,0000,0000,,{\blur3}就是你所观察的太阳成分的指纹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the constituent of the sun that you're looking at.{\r}
+Dialogue: 0,0:09:58.09,0:09:59.51,Default,,0000,0000,0000,,{\blur3}利用当代技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With current technology...{\r}
+Dialogue: 0,0:09:59.55,0:10:01.89,Default,,0000,0000,0000,,{\blur3}我们无法直接看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can't directly view a spectrum of a planet...{\r}
+Dialogue: 0,0:10:01.93,0:10:04.06,Default,,0000,0000,0000,,{\blur3}我们太阳系外行星的光谱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}outside our solar system.{\r}
+Dialogue: 0,0:10:04.10,0:10:06.85,Default,,0000,0000,0000,,{\blur3}不过 最终 更加强大的仪器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, eventually, more powerful instruments...{\r}
+Dialogue: 0,0:10:06.89,0:10:09.14,Default,,0000,0000,0000,,{\blur3}将会让我们利用同样的技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will allow us to use the same technique...{\r}
+Dialogue: 0,0:10:09.19,0:10:10.98,Default,,0000,0000,0000,,{\blur3}去获取行星的指纹 以证明生命的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to fingerprint a planet for evidence of life.{\r}
+Dialogue: 0,0:10:13.69,0:10:15.48,Default,,0000,0000,0000,,{\blur3}如果我们能看到行星发出的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we look at that light from the planet...{\r}
+Dialogue: 0,0:10:15.53,0:10:17.99,Default,,0000,0000,0000,,{\blur3}用棱镜等之类的东西来分解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and break it up with a prism or something similar...{\r}
+Dialogue: 0,0:10:18.03,0:10:21.03,Default,,0000,0000,0000,,{\blur3}我们就可以知晓该行星的成分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can tell what the planet is made out of...{\r}
+Dialogue: 0,0:10:21.07,0:10:24.66,Default,,0000,0000,0000,,{\blur3}这样我们就可以知道我们的行星是否有氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's how we know whether our planet has oxygen...{\r}
+Dialogue: 0,0:10:24.70,0:10:25.99,Default,,0000,0000,0000,,{\blur3}类似于我们的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like our atmosphere...{\r}
+Dialogue: 0,0:10:26.04,0:10:28.25,Default,,0000,0000,0000,,{\blur3}大气层里是否有水蒸汽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether it has water vapor in the atmosphere...{\r}
+Dialogue: 0,0:10:28.29,0:10:32.54,Default,,0000,0000,0000,,{\blur3}是否有臭氧 二氧化碳 一氧化二氮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether it has ozone, carbon dioxide, and nitrous oxide.{\r}
+Dialogue: 0,0:10:36.17,0:10:39.56,Default,,0000,0000,0000,,{\blur3}不过宇宙中没有一成不变的东西的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But nothing in the universe stays the same over time.{\r}
+Dialogue: 0,0:10:40.47,0:10:43.74,Default,,0000,0000,0000,,{\blur3}我们地球在45亿年前形成时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When our Earth formed 4 1/2 billion years ago...{\r}
+Dialogue: 0,0:10:45.21,0:10:47.64,Default,,0000,0000,0000,,{\blur3}它的大气层与现在是大相径庭的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it had a very different atmosphere than it has now.{\r}
+Dialogue: 0,0:10:51.23,0:10:54.52,Default,,0000,0000,0000,,{\blur3}它挑战着梅多斯和她团队的预期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a challenge that Meadows and her team anticipate...{\r}
+Dialogue: 0,0:10:54.57,0:10:58.23,Default,,0000,0000,0000,,{\blur3}他们所构建的其他类地行星的模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as they build their models of other Earth-like planets.{\r}
+Dialogue: 0,0:10:58.28,0:10:59.44,Default,,0000,0000,0000,,{\blur3}我们目光短浅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We would be very shortsighted...{\r}
+Dialogue: 0,0:10:59.49,0:11:03.74,Default,,0000,0000,0000,,{\blur3}光寻找处于同一发展阶段的富氧行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to look just for an oxygen-rich planet...at the same stage of development.{\r}
+Dialogue: 0,0:11:05.24,0:11:07.87,Default,,0000,0000,0000,,{\blur3}所以问题是 一旦我们出去寻找宜居世界时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the thing is, when we go out to look for habitable worlds...{\r}
+Dialogue: 0,0:11:07.91,0:11:10.04,Default,,0000,0000,0000,,{\blur3}它们就会千差万别了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they could all be extremely different.{\r}
+Dialogue: 0,0:11:10.08,0:11:11.12,Default,,0000,0000,0000,,{\blur3}它们会是形形色色的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They could be very diverse.{\r}
+Dialogue: 0,0:11:12.79,0:11:14.88,Default,,0000,0000,0000,,{\blur3}要是我们找到了另一个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if we find another Earth...{\r}
+Dialogue: 0,0:11:14.92,0:11:17.92,Default,,0000,0000,0000,,{\blur3}有机会发现文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what are the chances we'll find a civilization on it...{\r}
+Dialogue: 0,0:11:17.96,0:11:19.76,Default,,0000,0000,0000,,{\blur3}并与之联系吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we can communicate with?{\r}
+Dialogue: 0,0:11:30.89,0:11:33.65,Default,,0000,0000,0000,,{\blur3}会有一定数量的智能文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What's the number of intelligent civilizations...{\r}
+Dialogue: 0,0:11:33.69,0:11:37.07,Default,,0000,0000,0000,,{\blur3}存在于宇宙的其它地球上吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that might exist on other Earths in the universe?{\r}
+Dialogue: 0,0:11:37.11,0:11:39.94,Default,,0000,0000,0000,,{\blur3}要不要必须进行这样的计算呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What would have to go into such a calculation?{\r}
+Dialogue: 0,0:11:39.99,0:11:41.24,Default,,0000,0000,0000,,{\blur3}有多少恒星存在?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How many stars are there?{\r}
+Dialogue: 0,0:11:41.28,0:11:43.03,Default,,0000,0000,0000,,{\blur3}有多少恒星带有行星?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How many of those stars have planets?{\r}
+Dialogue: 0,0:11:43.07,0:11:46.24,Default,,0000,0000,0000,,{\blur3}有多少行星足以拥有水呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How many of those planets are close enough to have water...{\r}
+Dialogue: 0,0:11:46.28,0:11:47.66,Default,,0000,0000,0000,,{\blur3}等等等等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and on and on.{\r}
+Dialogue: 0,0:11:48.62,0:11:50.87,Default,,0000,0000,0000,,{\blur3}那是天文学家卡尔.萨根和弗兰克.德雷克{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's a problem that astronomers Carl Sagan...{\r}
+Dialogue: 0,0:11:50.91,0:11:53.42,Default,,0000,0000,0000,,{\blur3}几十年前所提出的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and Frank Drake took on decades ago.{\r}
+Dialogue: 0,0:11:53.46,0:11:54.62,Default,,0000,0000,0000,,{\blur3}德雷克提出一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Drake came up with an equation...{\r}
+Dialogue: 0,0:11:54.67,0:11:58.50,Default,,0000,0000,0000,,{\blur3}估计光我们银河系一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that estimated that up to a million civilizations may exist...{\r}
+Dialogue: 0,0:11:58.55,0:12:01.09,Default,,0000,0000,0000,,{\blur3}就有多达百万个文明可能存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in just our Milky Way alone.{\r}
+Dialogue: 0,0:12:01.13,0:12:04.88,Default,,0000,0000,0000,,{\blur3}德雷克方程就是这一系列的数字{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Drake Equation is this series of numbers...{\r}
+Dialogue: 0,0:12:04.93,0:12:07.51,Default,,0000,0000,0000,,{\blur3}试图以这样的方式组合在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are trying to be put together in such a way...{\r}
+Dialogue: 0,0:12:07.56,0:12:10.77,Default,,0000,0000,0000,,{\blur3}给我们一种方法 来更加严谨地估算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to give us a kind of way of even closely estimating...{\r}
+Dialogue: 0,0:12:10.81,0:12:13.27,Default,,0000,0000,0000,,{\blur3}会有多少其它智能文明的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how many other intelligent civilizations are out there.{\r}
+Dialogue: 0,0:12:18.27,0:12:21.82,Default,,0000,0000,0000,,{\blur3}彼得.沃德 生物学和地质学教授{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Peter Ward, a professor of biology and geology...{\r}
+Dialogue: 0,0:12:21.86,0:12:24.07,Default,,0000,0000,0000,,{\blur3}供职于西雅图的华盛顿大学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at Seattle's University of Washington...{\r}
+Dialogue: 0,0:12:24.11,0:12:26.61,Default,,0000,0000,0000,,{\blur3}认为德雷克方程大大地高估了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}thinks the Drake Equation greatly overestimates...{\r}
+Dialogue: 0,0:12:26.66,0:12:28.62,Default,,0000,0000,0000,,{\blur3}可能存在于宇宙其它地球上的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the number of advanced civilizations...{\r}
+Dialogue: 0,0:12:28.66,0:12:31.29,Default,,0000,0000,0000,,{\blur3}发达文明的数量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could exist on other Earths in the universe.{\r}
+Dialogue: 0,0:12:34.62,0:12:38.67,Default,,0000,0000,0000,,{\blur3}沃德和天文学教授唐.布朗利的著作《珍稀地球》{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ward and astronomy professor Don Brownlee's book "Rare Earth"...{\r}
+Dialogue: 0,0:12:38.71,0:12:43.13,Default,,0000,0000,0000,,{\blur3}阐述了为何他们认为复杂生命 动物 比如人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}explains why they think complex life, animal life, like humans...{\r}
+Dialogue: 0,0:12:43.17,0:12:45.72,Default,,0000,0000,0000,,{\blur3}在宇宙间十分稀有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may be rare in the universe.{\r}
+Dialogue: 0,0:12:45.76,0:12:48.47,Default,,0000,0000,0000,,{\blur3}我们一开始就认为它将涉及的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We began to think that it was just too simplistic...{\r}
+Dialogue: 0,0:12:48.51,0:12:49.93,Default,,0000,0000,0000,,{\blur3}其他因素过于简单化了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there's other stuff involved.{\r}
+Dialogue: 0,0:12:53.10,0:12:54.81,Default,,0000,0000,0000,,{\blur3}沃德枚举了一些要素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ward cites a number of factors...{\r}
+Dialogue: 0,0:12:54.85,0:12:57.44,Default,,0000,0000,0000,,{\blur3}他认为那会降低原先德雷克所估计的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that he thinks would lower the original Drake estimates...{\r}
+Dialogue: 0,0:12:57.48,0:13:00.77,Default,,0000,0000,0000,,{\blur3}有多少复杂生命存在于银河系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of how much complex life could exist in the Milky Way...{\r}
+Dialogue: 0,0:13:00.82,0:13:03.82,Default,,0000,0000,0000,,{\blur3}乃至宇宙间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, by extension, the universe.{\r}
+Dialogue: 0,0:13:03.86,0:13:05.82,Default,,0000,0000,0000,,{\blur3}首先 板块构造{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First of all, plate tectonics.{\r}
+Dialogue: 0,0:13:05.86,0:13:07.49,Default,,0000,0000,0000,,{\blur3}板块构造就是大陆漂移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Plate tectonics is continental drift...{\r}
+Dialogue: 0,0:13:07.53,0:13:10.49,Default,,0000,0000,0000,,{\blur3}人们不禁要问{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and one wonders why would that have anything to do...{\r}
+Dialogue: 0,0:13:10.53,0:13:12.66,Default,,0000,0000,0000,,{\blur3}这与行星上出现生命的频率有什么关系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the frequency of life on the planet.{\r}
+Dialogue: 0,0:13:13.70,0:13:18.08,Default,,0000,0000,0000,,{\blur3}板块构造也会产生元素的循环{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Plate tectonics also produces a recycling of elements...{\r}
+Dialogue: 0,0:13:18.13,0:13:21.17,Default,,0000,0000,0000,,{\blur3}那种循环会产生某些最基本的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that recycling does some very fundamental things.{\r}
+Dialogue: 0,0:13:21.21,0:13:25.07,Default,,0000,0000,0000,,{\blur3}它所产生的最基本的东西 就是温度范围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most fundamental thing it does, it produces a temperature gauge.{\r}
+Dialogue: 0,0:13:25.51,0:13:27.84,Default,,0000,0000,0000,,{\blur3}就像是行星上的温控器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like a thermostat on the planet.{\r}
+Dialogue: 0,0:13:27.89,0:13:33.43,Default,,0000,0000,0000,,{\blur3}要是我们感觉太热 板块构造过程就会帮助我们冷却{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf we get too warm, plate tectonic processes help us cool off.{\r}
+Dialogue: 0,0:13:41.23,0:13:44.40,Default,,0000,0000,0000,,{\blur3}另外行星上要存在有金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then there's the presence of metal on the planet.{\r}
+Dialogue: 0,0:13:44.44,0:13:47.20,Default,,0000,0000,0000,,{\blur3}其次 如果你想成为一个智能文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Secondly, if you want to be an intelligent civilization...{\r}
+Dialogue: 0,0:13:47.24,0:13:48.28,Default,,0000,0000,0000,,{\blur3}你最好要有金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you better have metal.{\r}
+Dialogue: 0,0:13:49.91,0:13:54.16,Default,,0000,0000,0000,,{\blur3}金属很难在火星或金星这样的行星上找到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Metal is hard to find on a planet like Mars or Venus.{\r}
+Dialogue: 0,0:13:54.20,0:13:57.12,Default,,0000,0000,0000,,{\blur3}板块构造把一切都循环起来 产生裂缝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Plate tectonics rotates everything, causes cracks.{\r}
+Dialogue: 0,0:13:57.16,0:13:58.87,Default,,0000,0000,0000,,{\blur3}把重金属搬送上来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Up come the heavy metals.{\r}
+Dialogue: 0,0:14:03.17,0:14:04.34,Default,,0000,0000,0000,,{\blur3}此外我们还需要什么?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What else do we need?{\r}
+Dialogue: 0,0:14:04.38,0:14:05.42,Default,,0000,0000,0000,,{\blur3}我们需要有好木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We need a good Jupiter.{\r}
+Dialogue: 0,0:14:08.59,0:14:12.72,Default,,0000,0000,0000,,{\blur3}有一颗木星之类的气体巨星 以其强大的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Having a gas giant like Jupiter, with its strong gravitational pull...{\r}
+Dialogue: 0,0:14:12.76,0:14:14.81,Default,,0000,0000,0000,,{\blur3}处在太阳系的外围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the outer reaches of a solar system...{\r}
+Dialogue: 0,0:14:14.85,0:14:17.77,Default,,0000,0000,0000,,{\blur3}护卫着内部的行星 那些潜在的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}protects the inner planets, those potential Earths...{\r}
+Dialogue: 0,0:14:17.81,0:14:20.19,Default,,0000,0000,0000,,{\blur3}免遭频繁的惨烈撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from frequent catastrophic impacts.{\r}
+Dialogue: 0,0:14:22.57,0:14:26.73,Default,,0000,0000,0000,,{\blur3}原来这些木星的引力扫除小行星和彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the reason is those Jupiters sweep up gravitationally...{\r}
+Dialogue: 0,0:14:26.78,0:14:30.95,Default,,0000,0000,0000,,{\blur3}将它们抛出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the asteroids and the comets, flinging them away...{\r}
+Dialogue: 0,0:14:32.62,0:14:34.83,Default,,0000,0000,0000,,{\blur3}使得地球幸免于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allowing the Earth to survive...{\r}
+Dialogue: 0,0:14:34.87,0:14:38.33,Default,,0000,0000,0000,,{\blur3}那些碎片的许多撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without so many impacts by that debris.{\r}
+Dialogue: 0,0:14:38.37,0:14:42.92,Default,,0000,0000,0000,,{\blur3}因而就是那些保护星让生命得以延续{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so it's those protective Jupiters that allow life to proceed...{\r}
+Dialogue: 0,0:14:42.96,0:14:45.42,Default,,0000,0000,0000,,{\blur3}免遭这些会造成大规模灭绝的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without impacts by these asteroids and comets...{\r}
+Dialogue: 0,0:14:45.46,0:14:47.96,Default,,0000,0000,0000,,{\blur3}与彗星的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would cause mass extinctions...{\r}
+Dialogue: 0,0:14:48.01,0:14:49.97,Default,,0000,0000,0000,,{\blur3}那实际上曾发生在了恐龙身上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as indeed happened to the dinosaurs.{\r}
+Dialogue: 0,0:14:51.93,0:14:55.60,Default,,0000,0000,0000,,{\blur3}6500万年前 一颗小行星撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sixty-five million years ago, an asteroid hit Earth...{\r}
+Dialogue: 0,0:14:56.81,0:14:59.98,Default,,0000,0000,0000,,{\blur3}抹去了地球上几乎所有的恐龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and wiped out most of the dinosaurs on the planet.{\r}
+Dialogue: 0,0:15:01.48,0:15:05.86,Default,,0000,0000,0000,,{\blur3}那些恐龙的灭绝是因为木星的工作懈怠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those dinosaurs went out because Jupiter failed on the job...{\r}
+Dialogue: 0,0:15:05.90,0:15:07.03,Default,,0000,0000,0000,,{\blur3}应该被炒鱿鱼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and should have been fired.{\r}
+Dialogue: 0,0:15:07.07,0:15:08.15,Default,,0000,0000,0000,,{\blur3}那天它是坏木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bad Jupiter that day.{\r}
+Dialogue: 0,0:15:08.19,0:15:10.95,Default,,0000,0000,0000,,{\blur3}它让其中一颗小行星闯入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It let one of these asteroids sweep by...{\r}
+Dialogue: 0,0:15:10.99,0:15:12.66,Default,,0000,0000,0000,,{\blur3}然而我们看到了它惯常的做法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we've seen what it usually does.{\r}
+Dialogue: 0,0:15:14.99,0:15:18.04,Default,,0000,0000,0000,,{\blur3}彗星苏梅克列维一头撞进木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comet Shoemaker-Levy that smashed into Jupiter...{\r}
+Dialogue: 0,0:15:18.08,0:15:19.83,Default,,0000,0000,0000,,{\blur3}在上世纪末{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the last part of the last century.{\r}
+Dialogue: 0,0:15:21.33,0:15:22.83,Default,,0000,0000,0000,,{\blur3}那就是木星通常所为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what Jupiter generally does.{\r}
+Dialogue: 0,0:15:22.88,0:15:24.79,Default,,0000,0000,0000,,{\blur3}因此好木星是好东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So good Jupiters are good things to have...{\r}
+Dialogue: 0,0:15:24.84,0:15:26.50,Default,,0000,0000,0000,,{\blur3}可以用来保持平衡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you can make equations for this.{\r}
+Dialogue: 0,0:15:29.30,0:15:32.13,Default,,0000,0000,0000,,{\blur3}在考虑可居住的行星时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When considering the habitability of planets...{\r}
+Dialogue: 0,0:15:32.18,0:15:35.30,Default,,0000,0000,0000,,{\blur3}大多数天文学家都突出强调将要寻找的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most astronomers place great emphasis on finding worlds...{\r}
+Dialogue: 0,0:15:35.35,0:15:38.35,Default,,0000,0000,0000,,{\blur3}放在恒星周围的宜居区域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the habitable zone around a star.{\r}
+Dialogue: 0,0:15:38.39,0:15:40.35,Default,,0000,0000,0000,,{\blur3}但是沃德和他的合作者认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Ward and his co-author believe...{\r}
+Dialogue: 0,0:15:40.39,0:15:44.52,Default,,0000,0000,0000,,{\blur3}行星在更大的星系里的位置也十分关键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that a planet's position within the larger galaxy is also critical.{\r}
+Dialogue: 0,0:15:45.86,0:15:48.82,Default,,0000,0000,0000,,{\blur3}那就是为什么我们定义或界定了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that's why we have defined, or did define...{\r}
+Dialogue: 0,0:15:48.86,0:15:51.36,Default,,0000,0000,0000,,{\blur3}我们称之为星系的宜居区域的东西:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something we call the galactic habitable zone:{\r}
+Dialogue: 0,0:15:51.40,0:15:54.41,Default,,0000,0000,0000,,{\blur3}那个区域在一个星系里 既不能太近 也不能太远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that area within a galaxy, not too close, not too far.{\r}
+Dialogue: 0,0:15:54.45,0:15:58.03,Default,,0000,0000,0000,,{\blur3}我们星系里的金发区域恰到好处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a Goldilocks area within our galaxy that's just right.{\r}
+Dialogue: 0,0:16:01.41,0:16:02.91,Default,,0000,0000,0000,,{\blur3}他们提出了九大要素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They came up with nine factors...{\r}
+Dialogue: 0,0:16:02.96,0:16:06.17,Default,,0000,0000,0000,,{\blur3}来构成所谓的星系宜居区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that make up a so-called galactic habitable zone.{\r}
+Dialogue: 0,0:16:12.38,0:16:15.47,Default,,0000,0000,0000,,{\blur3}首先要关注在星系里的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First, position in the galaxy was considered.{\r}
+Dialogue: 0,0:16:15.51,0:16:17.60,Default,,0000,0000,0000,,{\blur3}远离杀手中子星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Away from killer neutron stars...{\r}
+Dialogue: 0,0:16:20.14,0:16:21.20,Default,,0000,0000,0000,,{\blur3}黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}black holes...{\r}
+Dialogue: 0,0:16:23.64,0:16:25.56,Default,,0000,0000,0000,,{\blur3}以及致命的伽马射线暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and deadly gamma-ray bursts.{\r}
+Dialogue: 0,0:16:30.82,0:16:33.15,Default,,0000,0000,0000,,{\blur3}他们计入了恒星带有行星的百分比{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They included the percentage of stars that have planets...{\r}
+Dialogue: 0,0:16:34.95,0:16:37.41,Default,,0000,0000,0000,,{\blur3}以及具有微生物生命的百分比{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the percentage that have microbial life.{\r}
+Dialogue: 0,0:16:41.04,0:16:43.37,Default,,0000,0000,0000,,{\blur3}他们甚至还估算了行星要多久{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They even estimated how often planets...{\r}
+Dialogue: 0,0:16:43.41,0:16:45.92,Default,,0000,0000,0000,,{\blur3}才有可能将其所有的生命通通灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might have all their life extinguished.{\r}
+Dialogue: 0,0:16:47.75,0:16:52.51,Default,,0000,0000,0000,,{\blur3}地球本身在1998年就可能勉强躲过了这样一劫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth itself may have narrowly missed such an event in 1998.{\r}
+Dialogue: 0,0:16:52.55,0:16:56.09,Default,,0000,0000,0000,,{\blur3}当时一颗致密的恒星叫做磁星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then a high density star called a magnetar...{\r}
+Dialogue: 0,0:16:56.14,0:16:59.01,Default,,0000,0000,0000,,{\blur3}爆发出致命的伽马射线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}burped out a flare of deadly gamma rays...{\r}
+Dialogue: 0,0:16:59.05,0:17:01.81,Default,,0000,0000,0000,,{\blur3}在十分之二秒里所释放的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}unleashing as much energy in two-tenths of a second...{\r}
+Dialogue: 0,0:17:01.85,0:17:05.89,Default,,0000,0000,0000,,{\blur3}相当于太阳未来10万年里所产生的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the Sun will put out in the next 100,000 years.{\r}
+Dialogue: 0,0:17:05.94,0:17:11.02,Default,,0000,0000,0000,,{\blur3}幸运的是 该磁星距离地球有2万光年之远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Luckily, the magnetar was located 20,000 light-years away from Earth.{\r}
+Dialogue: 0,0:17:11.07,0:17:12.73,Default,,0000,0000,0000,,{\blur3}有一个非常好的问题会提出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A really good question would be to ask...{\r}
+Dialogue: 0,0:17:12.78,0:17:15.70,Default,,0000,0000,0000,,{\blur3}要是那颗磁星的爆发不是在2万光年远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what would have happened had that magnetar that burped...{\r}
+Dialogue: 0,0:17:15.74,0:17:19.45,Default,,0000,0000,0000,,{\blur3}而是在1万光年远 会有什么结果呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not been 20,000 light-years away, but 10,000 light-years away?{\r}
+Dialogue: 0,0:17:20.37,0:17:22.16,Default,,0000,0000,0000,,{\blur3}会不会有这样的情景{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could there be a case where we have something...{\r}
+Dialogue: 0,0:17:22.20,0:17:24.12,Default,,0000,0000,0000,,{\blur3}我们遇上就几百光年里的东西?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}within a few hundred light-years?{\r}
+Dialogue: 0,0:17:25.25,0:17:27.92,Default,,0000,0000,0000,,{\blur3}如果是那个情景 新的计算表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that were the case, new calculations suggest...{\r}
+Dialogue: 0,0:17:27.96,0:17:32.50,Default,,0000,0000,0000,,{\blur3}它会在一次爆发中扑的一下吹走我们的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it could punch our atmosphere off-- whoof--in one burst...{\r}
+Dialogue: 0,0:17:32.55,0:17:35.30,Default,,0000,0000,0000,,{\blur3}你会说 我不能呼吸了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you go, "l can't breathe."{\r}
+Dialogue: 0,0:17:38.39,0:17:42.43,Default,,0000,0000,0000,,{\blur3}那可是悲惨的 是完全有可能的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, that's catastrophic, and that is totally possible.{\r}
+Dialogue: 0,0:17:45.06,0:17:48.94,Default,,0000,0000,0000,,{\blur3}人类可能只是宇宙中的侥幸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Humans may be just a cosmic fluke in the universe.{\r}
+Dialogue: 0,0:17:48.98,0:17:51.56,Default,,0000,0000,0000,,{\blur3}德雷克方程的乐观假设{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The optimistic assumptions of the Drake Equation...{\r}
+Dialogue: 0,0:17:51.61,0:17:54.36,Default,,0000,0000,0000,,{\blur3}恐怕得不到天文学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may just not hold up with what astronomers have learned...{\r}
+Dialogue: 0,0:17:54.40,0:17:55.44,Default,,0000,0000,0000,,{\blur3}过去几十年认识的支持{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the past decades.{\r}
+Dialogue: 0,0:17:57.65,0:17:59.78,Default,,0000,0000,0000,,{\blur3}德雷克方程是个不切实际的构想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Drake Equation was a fantastic construct...{\r}
+Dialogue: 0,0:17:59.82,0:18:01.12,Default,,0000,0000,0000,,{\blur3}不过它形成于1960年代{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it was done in the 1960s.{\r}
+Dialogue: 0,0:18:01.16,0:18:02.62,Default,,0000,0000,0000,,{\blur3}我们现在认识得更多了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know so much more now.{\r}
+Dialogue: 0,0:18:02.66,0:18:05.45,Default,,0000,0000,0000,,{\blur3}因此我们所添加的东西是当时所不知道的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we've added in stuff that wasn't known then.{\r}
+Dialogue: 0,0:18:05.50,0:18:07.29,Default,,0000,0000,0000,,{\blur3}我认为这使得它更加准确了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And I think it makes it more accurate.{\r}
+Dialogue: 0,0:18:07.33,0:18:10.96,Default,,0000,0000,0000,,{\blur3}但是 最终 它也将数字给降了下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, ultimately, it also brings down the numbers.{\r}
+Dialogue: 0,0:18:11.00,0:18:12.63,Default,,0000,0000,0000,,{\blur3}百万个文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the million civilizations...{\r}
+Dialogue: 0,0:18:12.67,0:18:16.26,Default,,0000,0000,0000,,{\blur3}我不认为可以得到当前的认识的支持{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I do not think can be supported by current understanding.{\r}
+Dialogue: 0,0:18:18.18,0:18:21.80,Default,,0000,0000,0000,,{\blur3}那么究竟有多少其它地球 支持着先进的文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So how many other Earths, supporting advanced civilizations...{\r}
+Dialogue: 0,0:18:21.85,0:18:23.43,Default,,0000,0000,0000,,{\blur3}是他所认为有可能存在于我们的银河系里的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}does he think may exist in our Milky Way?{\r}
+Dialogue: 0,0:18:26.56,0:18:28.64,Default,,0000,0000,0000,,{\blur3}我一再被要求做出一个预言{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've been asked over and over to make a prediction...{\r}
+Dialogue: 0,0:18:28.69,0:18:31.40,Default,,0000,0000,0000,,{\blur3}我会说 啊 我们知道至少是一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I'd say, "Well, we know it's at least one."{\r}
+Dialogue: 0,0:18:31.44,0:18:33.15,Default,,0000,0000,0000,,{\blur3}是一个以上 我认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's more than one, l think.{\r}
+Dialogue: 0,0:18:33.19,0:18:35.78,Default,,0000,0000,0000,,{\blur3}不过我认为是超过一个 但大大少于百万个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But I think it's more than one, but way less than a million.{\r}
+Dialogue: 0,0:18:37.07,0:18:39.99,Default,,0000,0000,0000,,{\blur3}寻找到其它文明是有可能的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Locating another civilization may happen...{\r}
+Dialogue: 0,0:18:40.03,0:18:43.83,Default,,0000,0000,0000,,{\blur3}因为天文学家正全力以赴寻找其它类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as astronomers concentrate on looking for other Earth-like planets.{\r}
+Dialogue: 0,0:18:43.87,0:18:46.29,Default,,0000,0000,0000,,{\blur3}不过发现那些地球从一开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But finding those Earths in the first place...{\r}
+Dialogue: 0,0:18:46.33,0:18:49.29,Default,,0000,0000,0000,,{\blur3}对科学家来说 就是一个巨大的技术挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a huge technical challenge for scientists.{\r}
+Dialogue: 0,0:18:50.87,0:18:53.29,Default,,0000,0000,0000,,{\blur3}不同于已分类登记的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unlike the stars that have been catalogued...{\r}
+Dialogue: 0,0:18:53.34,0:18:56.80,Default,,0000,0000,0000,,{\blur3}行星利用现代技术尚无法看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planets can't be seen using current technology.{\r}
+Dialogue: 0,0:18:56.84,0:19:00.01,Default,,0000,0000,0000,,{\blur3}行星 从数光年远去审视{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A planet, when examined from light-years away...{\r}
+Dialogue: 0,0:19:00.05,0:19:02.05,Default,,0000,0000,0000,,{\blur3}几乎就紧挨着它的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is almost on top of its sun...{\r}
+Dialogue: 0,0:19:02.09,0:19:04.64,Default,,0000,0000,0000,,{\blur3}从我们太阳系外来看的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as viewed from outside our solar system.{\r}
+Dialogue: 0,0:19:05.89,0:19:08.81,Default,,0000,0000,0000,,{\blur3}更糟的是 类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And to make matters worse, an Earth-like planet...{\r}
+Dialogue: 0,0:19:08.85,0:19:11.85,Default,,0000,0000,0000,,{\blur3}即使是比我们地球大几倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even one many times larger than our Earth...{\r}
+Dialogue: 0,0:19:11.90,0:19:16.07,Default,,0000,0000,0000,,{\blur3}相对其母星 也只发出微乎其微的光线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reflects only an infinitesimal amount of light compared to its star.{\r}
+Dialogue: 0,0:19:17.99,0:19:20.49,Default,,0000,0000,0000,,{\blur3}这里我们有一颗明亮的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So here we have a bright star...{\r}
+Dialogue: 0,0:19:20.53,0:19:23.70,Default,,0000,0000,0000,,{\blur3}一颗昏暗100亿倍的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a planet which is 10 billion times fainter.{\r}
+Dialogue: 0,0:19:23.74,0:19:27.24,Default,,0000,0000,0000,,{\blur3}很难想象100亿倍是什么概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's hard to imagine what 10 billion times really is.{\r}
+Dialogue: 0,0:19:27.29,0:19:29.87,Default,,0000,0000,0000,,{\blur3}不过我们考虑这个概念有好多方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the way many of us think of this is...{\r}
+Dialogue: 0,0:19:29.91,0:19:33.58,Default,,0000,0000,0000,,{\blur3}假设你有一只萤火虫 很小的萤火虫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}suppose you have a firefly, a very small firefly...{\r}
+Dialogue: 0,0:19:33.63,0:19:35.54,Default,,0000,0000,0000,,{\blur3}发出微弱的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a very weak light.{\r}
+Dialogue: 0,0:19:35.59,0:19:38.59,Default,,0000,0000,0000,,{\blur3}假设萤火虫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And suppose that firefly is orbiting around...{\r}
+Dialogue: 0,0:19:38.63,0:19:39.84,Default,,0000,0000,0000,,{\blur3}围绕着灯塔转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or flying around a lighthouse.{\r}
+Dialogue: 0,0:19:42.18,0:19:44.89,Default,,0000,0000,0000,,{\blur3}假设你试图从3000英里外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And suppose you're trying to look at this firefly...{\r}
+Dialogue: 0,0:19:44.93,0:19:48.93,Default,,0000,0000,0000,,{\blur3}观察萤火虫围绕着这灯塔转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}flying around this lighthouse from 3,000 miles away.{\r}
+Dialogue: 0,0:19:48.97,0:19:50.27,Default,,0000,0000,0000,,{\blur3}情况就是这样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's something what it's like.{\r}
+Dialogue: 0,0:19:52.10,0:19:54.48,Default,,0000,0000,0000,,{\blur3}假设你可以发现萤火虫的光斑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's assume you could find that speck of a firefly...{\r}
+Dialogue: 0,0:19:54.52,0:19:55.90,Default,,0000,0000,0000,,{\blur3}从国家的另一头看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from across the country...{\r}
+Dialogue: 0,0:19:55.94,0:19:58.90,Default,,0000,0000,0000,,{\blur3}那么你就必须找到萤火虫的呼吸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then you had to figure out what that firefly is breathing...{\r}
+Dialogue: 0,0:19:58.94,0:20:01.32,Default,,0000,0000,0000,,{\blur3}通过分析它吐出的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by analyzing the gas it's exhaling.{\r}
+Dialogue: 0,0:20:03.61,0:20:06.41,Default,,0000,0000,0000,,{\blur3}那就是天文学家所面临的挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the challenge that faces an astronomer...{\r}
+Dialogue: 0,0:20:06.45,0:20:08.12,Default,,0000,0000,0000,,{\blur3}他首先要发现行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who first has to find a planet...{\r}
+Dialogue: 0,0:20:08.16,0:20:10.95,Default,,0000,0000,0000,,{\blur3}然后看看其大气层是否如地球一般{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then figure out how Earth-like its atmosphere is.{\r}
+Dialogue: 0,0:20:11.96,0:20:14.25,Default,,0000,0000,0000,,{\blur3}不过天文学家已经找到了间接的方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But astronomers have figured out indirect ways...{\r}
+Dialogue: 0,0:20:14.29,0:20:16.67,Default,,0000,0000,0000,,{\blur3}来寻找日外行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to find extrasolar planets.{\r}
+Dialogue: 0,0:20:16.71,0:20:19.88,Default,,0000,0000,0000,,{\blur3}假如这是颗恒星 非常明亮 这是颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that were the star and very bright, and this were the planet...{\r}
+Dialogue: 0,0:20:19.92,0:20:23.93,Default,,0000,0000,0000,,{\blur3}当它走到恒星的前面时 恒星就会变暗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it moved in front of that star, the star would get dimmer...{\r}
+Dialogue: 0,0:20:23.97,0:20:25.59,Default,,0000,0000,0000,,{\blur3}你就会注意到它的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you would notice that.{\r}
+Dialogue: 0,0:20:25.64,0:20:28.47,Default,,0000,0000,0000,,{\blur3}这就是所谓的搜寻行星的凌日方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's called the transit method of discovering a planet...{\r}
+Dialogue: 0,0:20:28.51,0:20:31.35,Default,,0000,0000,0000,,{\blur3}因为它依靠观察行星穿越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since it depends on seeing the travel or transit...{\r}
+Dialogue: 0,0:20:31.39,0:20:32.68,Default,,0000,0000,0000,,{\blur3}或经过遥远的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of a planet across a distant star.{\r}
+Dialogue: 0,0:20:35.52,0:20:37.31,Default,,0000,0000,0000,,{\blur3}它在前面时阻挡了一定量的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The amount of light it blocks when it's in front...{\r}
+Dialogue: 0,0:20:37.36,0:20:38.52,Default,,0000,0000,0000,,{\blur3}就会告诉我们该行星会有多大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tells us how big the planet is.{\r}
+Dialogue: 0,0:20:42.15,0:20:46.11,Default,,0000,0000,0000,,{\blur3}因此我们就用它来了解 它是水星一般的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we use that to understand if it's a small planet like Mercury...{\r}
+Dialogue: 0,0:20:46.16,0:20:47.28,Default,,0000,0000,0000,,{\blur3}还是地球般的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a planet like the Earth...{\r}
+Dialogue: 0,0:20:47.32,0:20:50.12,Default,,0000,0000,0000,,{\blur3}或者是木星那样的巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or a huge giant like that of Jupiter.{\r}
+Dialogue: 0,0:20:51.58,0:20:54.33,Default,,0000,0000,0000,,{\blur3}我们利用其轨道周期和恒星的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we use the orbital period and the temperature of the star...{\r}
+Dialogue: 0,0:20:54.37,0:20:57.29,Default,,0000,0000,0000,,{\blur3}来了解它是否处在宜居区域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to tell us if it's in the habitable zone.{\r}
+Dialogue: 0,0:20:57.33,0:21:02.55,Default,,0000,0000,0000,,{\blur3}轨道周期就是行星围绕其母星所化的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The orbital period is how long a planet takes to go around its star.{\r}
+Dialogue: 0,0:21:02.59,0:21:04.13,Default,,0000,0000,0000,,{\blur3}它会一直运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would go on its way...{\r}
+Dialogue: 0,0:21:04.17,0:21:06.88,Default,,0000,0000,0000,,{\blur3}一年后又回来 周而复始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and come back again a year later and do it over again.{\r}
+Dialogue: 0,0:21:09.01,0:21:12.77,Default,,0000,0000,0000,,{\blur3}那个周期与恒星的类型和大小结合在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When that period is combined with the type and size of the star...{\r}
+Dialogue: 0,0:21:12.81,0:21:16.39,Default,,0000,0000,0000,,{\blur3}该信息就会告诉科学家 如果有行星发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the information will tell scientists if the planets that are found...{\r}
+Dialogue: 0,0:21:16.44,0:21:18.85,Default,,0000,0000,0000,,{\blur3}那就有可能是在宜居区域里的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are potentially in a habitable zone.{\r}
+Dialogue: 0,0:21:22.36,0:21:25.78,Default,,0000,0000,0000,,{\blur3}凌日方法是有效的 只要观察者或望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The transit method works if the observer or the telescope...{\r}
+Dialogue: 0,0:21:25.82,0:21:27.66,Default,,0000,0000,0000,,{\blur3}和恒星及其行星处在同一个平面上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is in the same plane as the star and its planets.{\r}
+Dialogue: 0,0:21:30.08,0:21:32.45,Default,,0000,0000,0000,,{\blur3}但是如果你高于或低于该星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if you're above or below the system...{\r}
+Dialogue: 0,0:21:32.49,0:21:35.66,Default,,0000,0000,0000,,{\blur3}则另一项技术 即所谓的无线电速度法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another technique, called the radio velocity method...{\r}
+Dialogue: 0,0:21:35.71,0:21:37.16,Default,,0000,0000,0000,,{\blur3}可能会派上用场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might be used.{\r}
+Dialogue: 0,0:21:37.22,0:21:41.17,Default,,0000,0000,0000,,{\blur3}该方法依靠对遥远恒星的仔细观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That method depends on careful observations of a distant star...{\r}
+Dialogue: 0,0:21:41.21,0:21:43.59,Default,,0000,0000,0000,,{\blur3}观察它是否被看不见的日外行星的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to watch if it's being gravitationally tugged...{\r}
+Dialogue: 0,0:21:43.63,0:21:46.67,Default,,0000,0000,0000,,{\blur3}来回拽拉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}back and forth by an unseen exoplanet.{\r}
+Dialogue: 0,0:21:46.72,0:21:48.93,Default,,0000,0000,0000,,{\blur3}天文学家可以使用该信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers can use that information...{\r}
+Dialogue: 0,0:21:48.97,0:21:51.14,Default,,0000,0000,0000,,{\blur3}计算出影响该恒星的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to figure out details about the exoplanet...{\r}
+Dialogue: 0,0:21:51.18,0:21:52.85,Default,,0000,0000,0000,,{\blur3}日外行星的细节{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's influencing the star.{\r}
+Dialogue: 0,0:21:56.94,0:21:58.52,Default,,0000,0000,0000,,{\blur3}配备了这些手段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Equipped with these tools...{\r}
+Dialogue: 0,0:21:58.56,0:22:01.94,Default,,0000,0000,0000,,{\blur3}天文学家发现了数以百计的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomers are finding hundreds of planets...{\r}
+Dialogue: 0,0:22:01.98,0:22:05.15,Default,,0000,0000,0000,,{\blur3}有些是天文学教科书上从未想到过的:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some never dreamed of in astronomy textbooks:{\r}
+Dialogue: 0,0:22:06.28,0:22:07.65,Default,,0000,0000,0000,,{\blur3}超级地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Super Earths...{\r}
+Dialogue: 0,0:22:09.24,0:22:10.57,Default,,0000,0000,0000,,{\blur3}热木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hot Jupiters...{\r}
+Dialogue: 0,0:22:11.41,0:22:14.95,Default,,0000,0000,0000,,{\blur3}甚至还有一些我们地球的近亲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even some close cousins to our own Earth.{\r}
+Dialogue: 0,0:22:23.13,0:22:24.67,Default,,0000,0000,0000,,{\blur3}在宇宙间数十亿颗恒星中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the search for other Earths...{\r}
+Dialogue: 0,0:22:24.71,0:22:27.34,Default,,0000,0000,0000,,{\blur3}搜索其他地球的过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the billion of stars in the universe...{\r}
+Dialogue: 0,0:22:27.38,0:22:31.09,Default,,0000,0000,0000,,{\blur3}天文学家发现了恒星成分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomers have found a relationship between the composition of a star...{\r}
+Dialogue: 0,0:22:31.14,0:22:33.51,Default,,0000,0000,0000,,{\blur3}与其潜在的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the probability that it may have planets...{\r}
+Dialogue: 0,0:22:33.56,0:22:35.31,Default,,0000,0000,0000,,{\blur3}以及类地与其它行星之间的关系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}both Earth-like and otherwise.{\r}
+Dialogue: 0,0:22:36.27,0:22:39.23,Default,,0000,0000,0000,,{\blur3}具有重元素的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The stars that have heavier elements in them...{\r}
+Dialogue: 0,0:22:39.27,0:22:41.23,Default,,0000,0000,0000,,{\blur3}铁 镍 硅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the iron and the nickel and the silicon...{\r}
+Dialogue: 0,0:22:41.27,0:22:44.11,Default,,0000,0000,0000,,{\blur3}拥有重元素是有充分理由的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have heavier elements for a good reason.{\r}
+Dialogue: 0,0:22:44.15,0:22:46.86,Default,,0000,0000,0000,,{\blur3}那些恒星形成于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those stars formed out of molecular clouds...{\r}
+Dialogue: 0,0:22:46.90,0:22:48.24,Default,,0000,0000,0000,,{\blur3}银河系里的分子云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the Milky Way galaxy...{\r}
+Dialogue: 0,0:22:48.28,0:22:49.74,Default,,0000,0000,0000,,{\blur3}塌落形成了恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that collapsed down to form the star.{\r}
+Dialogue: 0,0:22:52.62,0:22:56.70,Default,,0000,0000,0000,,{\blur3}在那个过程中 其周围留下了一些胎盘物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in so doing left some placental material around them...{\r}
+Dialogue: 0,0:22:56.75,0:22:59.79,Default,,0000,0000,0000,,{\blur3}最终凝结成了行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that eventually coagulated into the planets.{\r}
+Dialogue: 0,0:23:01.83,0:23:05.09,Default,,0000,0000,0000,,{\blur3}理所当然{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it makes sense that stars that formed...{\r}
+Dialogue: 0,0:23:05.13,0:23:06.46,Default,,0000,0000,0000,,{\blur3}由大量重元素形成的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with lots of heavy elements...{\r}
+Dialogue: 0,0:23:06.51,0:23:10.59,Default,,0000,0000,0000,,{\blur3}所形成的行星也具有大量的重元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will form planets that also have lots of heavier elements.{\r}
+Dialogue: 0,0:23:10.63,0:23:13.80,Default,,0000,0000,0000,,{\blur3}天文学家将恒星中的重元素比例称为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers call the proportion of heavy elements in a star...{\r}
+Dialogue: 0,0:23:13.85,0:23:15.22,Default,,0000,0000,0000,,{\blur3}它的金属度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}its metallicity.{\r}
+Dialogue: 0,0:23:16.56,0:23:17.89,Default,,0000,0000,0000,,{\blur3}但是 那并不一定意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that doesn't necessarily mean...{\r}
+Dialogue: 0,0:23:17.93,0:23:21.02,Default,,0000,0000,0000,,{\blur3}它具有大量的传统意义上的金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it has a lot of metal in the conventional sense.{\r}
+Dialogue: 0,0:23:21.06,0:23:22.60,Default,,0000,0000,0000,,{\blur3}金属 对天文学家来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Metal, for an astronomer...{\r}
+Dialogue: 0,0:23:22.65,0:23:26.15,Default,,0000,0000,0000,,{\blur3}是所有比氢或氦重的元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is any element that's heavier than hydrogen or helium.{\r}
+Dialogue: 0,0:23:26.19,0:23:29.07,Default,,0000,0000,0000,,{\blur3}因此 在天文学家看来 锂是金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, in astronomer-speak lithium is a metal...{\r}
+Dialogue: 0,0:23:29.11,0:23:31.57,Default,,0000,0000,0000,,{\blur3}硫是金属 氯是金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sulfur is a metal, chlorine is a metal...{\r}
+Dialogue: 0,0:23:31.61,0:23:34.70,Default,,0000,0000,0000,,{\blur3}而不只是铁 金 银之类的元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and not just elements like iron, gold, and silver.{\r}
+Dialogue: 0,0:23:36.16,0:23:37.58,Default,,0000,0000,0000,,{\blur3}类地日外行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An Earth-like exoplanet...{\r}
+Dialogue: 0,0:23:37.62,0:23:40.29,Default,,0000,0000,0000,,{\blur3}不仅需要其成分中有重元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not only needs heavy elements in its composition...{\r}
+Dialogue: 0,0:23:40.33,0:23:43.00,Default,,0000,0000,0000,,{\blur3}以及处在恒星的宜居区域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and to be in a star's habitable zone...{\r}
+Dialogue: 0,0:23:43.04,0:23:45.00,Default,,0000,0000,0000,,{\blur3}同时还需要有合适的大小来维持生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it also needs to be the right size to sustain life.{\r}
+Dialogue: 0,0:23:48.17,0:23:51.13,Default,,0000,0000,0000,,{\blur3}合适的大小意味着它可以保有其大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right size means it can hold onto its atmosphere...{\r}
+Dialogue: 0,0:23:51.17,0:23:53.93,Default,,0000,0000,0000,,{\blur3}具有板块构造和火山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and have plate tectonics and volcanoes...{\r}
+Dialogue: 0,0:23:53.97,0:23:56.89,Default,,0000,0000,0000,,{\blur3}这两者被认为是调节行星温度的关键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}both considered critical to regulating a planet's temperature.{\r}
+Dialogue: 0,0:23:59.77,0:24:02.31,Default,,0000,0000,0000,,{\blur3}要做到这一切 天文学家估计{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To do all this, astronomers estimate...{\r}
+Dialogue: 0,0:24:02.35,0:24:06.69,Default,,0000,0000,0000,,{\blur3}最小的行星可能是地球质量的三分之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the smallest a planet can be is one-third of Earth's mass.{\r}
+Dialogue: 0,0:24:08.19,0:24:10.23,Default,,0000,0000,0000,,{\blur3}最高 宜居行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the high side, a habitable planet...{\r}
+Dialogue: 0,0:24:10.28,0:24:12.24,Default,,0000,0000,0000,,{\blur3}是不可能超过地球质量的10倍的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cannot be greater than 10 times our Earth's mass.{\r}
+Dialogue: 0,0:24:15.66,0:24:17.53,Default,,0000,0000,0000,,{\blur3}日外行星的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The very existence of exoplanets...{\r}
+Dialogue: 0,0:24:17.58,0:24:21.20,Default,,0000,0000,0000,,{\blur3}从理论成为现实只是过去10年里的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as gone from theory to reality only in the last decade.{\r}
+Dialogue: 0,0:24:23.75,0:24:25.54,Default,,0000,0000,0000,,{\blur3}10年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A little over 10 years ago...{\r}
+Dialogue: 0,0:24:25.58,0:24:28.25,Default,,0000,0000,0000,,{\blur3}我们还根本不知道有日外行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we had no known extrasolar planets at all.{\r}
+Dialogue: 0,0:24:28.30,0:24:31.63,Default,,0000,0000,0000,,{\blur3}我们唯一所了解的行星 就是那些围绕着我们太阳的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The only planets we knew of were those orbiting our Sun...{\r}
+Dialogue: 0,0:24:32.55,0:24:34.43,Default,,0000,0000,0000,,{\blur3}现在我们知道了有行星围绕着其它恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and now we know of planets orbiting other stars.{\r}
+Dialogue: 0,0:24:36.30,0:24:39.39,Default,,0000,0000,0000,,{\blur3}当然 对这些行星真正让人兴奋的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, of course, what's really exciting about these planets...{\r}
+Dialogue: 0,0:24:39.43,0:24:41.97,Default,,0000,0000,0000,,{\blur3}就是其中有些有可能是可居住的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that some of them may be habitable...{\r}
+Dialogue: 0,0:24:42.02,0:24:44.52,Default,,0000,0000,0000,,{\blur3}因此说不定其中有些会存在生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so there's a chance that there's life on some of them.{\r}
+Dialogue: 0,0:24:47.31,0:24:49.36,Default,,0000,0000,0000,,{\blur3}在数百个日外行星中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of the hundreds of exoplanets found...{\r}
+Dialogue: 0,0:24:49.40,0:24:52.07,Default,,0000,0000,0000,,{\blur3}有些有可能并不遵循类似于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some may not follow the familiar blueprint of planets...{\r}
+Dialogue: 0,0:24:52.11,0:24:53.86,Default,,0000,0000,0000,,{\blur3}我们太阳系行星的蓝图{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our solar system.{\r}
+Dialogue: 0,0:24:53.90,0:24:57.66,Default,,0000,0000,0000,,{\blur3}我们发现这些怪异的木星 其轨道非常靠近其母星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We found these bizarre Jupiters that orbit very close to their star.{\r}
+Dialogue: 0,0:24:58.41,0:24:59.58,Default,,0000,0000,0000,,{\blur3}它们被烤得滚烫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're blow-torched hot...{\r}
+Dialogue: 0,0:24:59.62,0:25:02.62,Default,,0000,0000,0000,,{\blur3}这些木星无疑太靠近其母星了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and these Jupiters undoubtedly got close to their star...{\r}
+Dialogue: 0,0:25:02.66,0:25:04.79,Default,,0000,0000,0000,,{\blur3}不断往里靠近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by migrating inward.{\r}
+Dialogue: 0,0:25:07.75,0:25:10.25,Default,,0000,0000,0000,,{\blur3}有时 木星般大小的行星的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sometimes, the formation of a Jupiter-mass planet...{\r}
+Dialogue: 0,0:25:10.30,0:25:13.46,Default,,0000,0000,0000,,{\blur3}会是星系中类地行星的丧钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be kind of a death knell for terrestrial planets in the system.{\r}
+Dialogue: 0,0:25:16.72,0:25:18.51,Default,,0000,0000,0000,,{\blur3}要是我们倒霉透顶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what if we had been unlucky enough...{\r}
+Dialogue: 0,0:25:18.55,0:25:20.22,Default,,0000,0000,0000,,{\blur3}在我们太阳系里也有这样一颗木星会怎么样呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to have such a Jupiter in our solar system?{\r}
+Dialogue: 0,0:25:23.73,0:25:27.52,Default,,0000,0000,0000,,{\blur3}它就会将地球弹出轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would have slingshot the Earth right out of its orbit...{\r}
+Dialogue: 0,0:25:28.90,0:25:31.90,Default,,0000,0000,0000,,{\blur3}到广袤 阴冷的外太空去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the vast, cold darkness of outer space...{\r}
+Dialogue: 0,0:25:31.94,0:25:35.95,Default,,0000,0000,0000,,{\blur3}地球最终会毫无生机 变成阴冷的石头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the Earth would eventually die off as a cold, dark hulk.{\r}
+Dialogue: 0,0:25:46.67,0:25:49.17,Default,,0000,0000,0000,,{\blur3}有300多颗日外行星被发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Over 300 exoplanets have been discovered...{\r}
+Dialogue: 0,0:25:49.21,0:25:52.17,Default,,0000,0000,0000,,{\blur3}更多的还在发现中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and more are being found all the time.{\r}
+Dialogue: 0,0:25:52.21,0:25:55.59,Default,,0000,0000,0000,,{\blur3}不过大多数是庞大的气体巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the majority are monstrously huge gas giants...{\r}
+Dialogue: 0,0:25:55.63,0:25:58.63,Default,,0000,0000,0000,,{\blur3}成为类地行星的希望不大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that hold little promise of being truly Earth-like.{\r}
+Dialogue: 0,0:26:01.30,0:26:05.68,Default,,0000,0000,0000,,{\blur3}在飞马星座里 距离地球约50光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the Pegasus constellation, some 50 light-years from Earth...{\r}
+Dialogue: 0,0:26:05.73,0:26:08.48,Default,,0000,0000,0000,,{\blur3}可以看到行星51飞马座b{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the planet 51 Pegasi b can be found.{\r}
+Dialogue: 0,0:26:09.48,0:26:11.98,Default,,0000,0000,0000,,{\blur3}它是我们太阳系外发现的第一颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was the first planet discovered outside our solar system...{\r}
+Dialogue: 0,0:26:13.90,0:26:15.94,Default,,0000,0000,0000,,{\blur3}大如木星的气体巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a gas giant as big as Jupiter...{\r}
+Dialogue: 0,0:26:15.99,0:26:17.44,Default,,0000,0000,0000,,{\blur3}但是其轨道非常靠近母星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but orbiting much closer to its star.{\r}
+Dialogue: 0,0:26:19.74,0:26:22.99,Default,,0000,0000,0000,,{\blur3}它围绕其太阳一圈只有4天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It races around its sun in just four days.{\r}
+Dialogue: 0,0:26:29.92,0:26:33.71,Default,,0000,0000,0000,,{\blur3}行星70室女座b比飞马座更远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The planet 70 Virginis b is even farther away than Pegasi...{\r}
+Dialogue: 0,0:26:33.75,0:26:35.80,Default,,0000,0000,0000,,{\blur3}有60光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at 60 light-years.{\r}
+Dialogue: 0,0:26:35.84,0:26:39.72,Default,,0000,0000,0000,,{\blur3}其质量是我们木星的7.5倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's 7 1/2 times as massive as our Jupiter.{\r}
+Dialogue: 0,0:26:39.76,0:26:43.35,Default,,0000,0000,0000,,{\blur3}起初 它被认为是在恒星的宜居区域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At first, it was believed to be in the habitable zone of the star...{\r}
+Dialogue: 0,0:26:43.39,0:26:45.68,Default,,0000,0000,0000,,{\blur3}所以它被昵称为金发姑娘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it was nicknamed Goldilocks.{\r}
+Dialogue: 0,0:26:45.72,0:26:48.98,Default,,0000,0000,0000,,{\blur3}后来计算表明 它有一个偏心轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Later calculations showed that it had an eccentric orbit...{\r}
+Dialogue: 0,0:26:49.02,0:26:52.10,Default,,0000,0000,0000,,{\blur3}将其带到距离其太阳的2700万英里内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that brought it to within 27 million miles of its sun...{\r}
+Dialogue: 0,0:26:52.15,0:26:54.19,Default,,0000,0000,0000,,{\blur3}那里热不可耐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is roasting hot.{\r}
+Dialogue: 0,0:26:54.23,0:26:57.19,Default,,0000,0000,0000,,{\blur3}因此它就不再被认为是处在宜居范围内了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's no longer considered to be in a habitable range.{\r}
+Dialogue: 0,0:26:59.70,0:27:01.86,Default,,0000,0000,0000,,{\blur3}这颗巨大的气体巨星 特雷斯4{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The massive gas giant, Trace 4...{\r}
+Dialogue: 0,0:27:01.91,0:27:05.66,Default,,0000,0000,0000,,{\blur3}其直径超过了我们木星的1.5倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is over 1 1/2 times the diameter of our Jupiter...{\r}
+Dialogue: 0,0:27:05.70,0:27:08.54,Default,,0000,0000,0000,,{\blur3}让它成为了迄今为止所发现的最大的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}making it the largest planet found so far.{\r}
+Dialogue: 0,0:27:09.66,0:27:12.83,Default,,0000,0000,0000,,{\blur3}它距离地球1400光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's 1,400 light-years from Earth.{\r}
+Dialogue: 0,0:27:12.88,0:27:16.05,Default,,0000,0000,0000,,{\blur3}这颗气体巨星 尽管它比木星大多了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This gas giant, even though it's much larger than Jupiter...{\r}
+Dialogue: 0,0:27:16.09,0:27:19.34,Default,,0000,0000,0000,,{\blur3}但是其质量却是有木星的四分之三多一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only has a little over 3/4 of its mass.{\r}
+Dialogue: 0,0:27:19.38,0:27:23.76,Default,,0000,0000,0000,,{\blur3}它是一颗热木星 围绕其太阳一圈只要3.5天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a hot Jupiter, zooming around its sun in only 3 1/2 days.{\r}
+Dialogue: 0,0:27:30.44,0:27:32.48,Default,,0000,0000,0000,,{\blur3}天文学家一直没能发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers haven't been able to find...{\r}
+Dialogue: 0,0:27:32.52,0:27:36.15,Default,,0000,0000,0000,,{\blur3}我们太阳系外真正的类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}true Earth-like planets outside our solar system...{\r}
+Dialogue: 0,0:27:36.19,0:27:38.19,Default,,0000,0000,0000,,{\blur3}因为他们尚未能够发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they've not yet been able to detect...{\r}
+Dialogue: 0,0:27:38.23,0:27:41.45,Default,,0000,0000,0000,,{\blur3}这种相对较小的类似我们地球的岩质行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}such relatively small rocky planets as our Earth.{\r}
+Dialogue: 0,0:27:43.07,0:27:44.53,Default,,0000,0000,0000,,{\blur3}该技术只是尚未出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The technology is just not there yet.{\r}
+Dialogue: 0,0:27:46.91,0:27:48.70,Default,,0000,0000,0000,,{\blur3}不过天文学家非常有幸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But astronomers are having more luck...{\r}
+Dialogue: 0,0:27:48.75,0:27:51.41,Default,,0000,0000,0000,,{\blur3}发现了所谓的超级地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}finding what are termed Super Earths.{\r}
+Dialogue: 0,0:27:51.46,0:27:53.71,Default,,0000,0000,0000,,{\blur3}人们实际上能够发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}People are actually being able to discover planets...{\r}
+Dialogue: 0,0:27:53.75,0:27:56.96,Default,,0000,0000,0000,,{\blur3}有可能处在其它恒星周围的宜居区域里的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could potentially be in a habitable zone around other stars.{\r}
+Dialogue: 0,0:27:59.34,0:28:03.88,Default,,0000,0000,0000,,{\blur3}这里的一个典型的例子就是叫做格雷斯581c的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And one classic example of this is a planet called Gliese 581c.{\r}
+Dialogue: 0,0:28:04.89,0:28:06.68,Default,,0000,0000,0000,,{\blur3}格雷斯581星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Gliese 581 system...{\r}
+Dialogue: 0,0:28:06.72,0:28:09.72,Default,,0000,0000,0000,,{\blur3}距离地球约20.5光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is located about 20 1/2 light-years from Earth...{\r}
+Dialogue: 0,0:28:09.77,0:28:11.81,Default,,0000,0000,0000,,{\blur3}在天秤座里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the Libra constellation.{\r}
+Dialogue: 0,0:28:11.85,0:28:16.23,Default,,0000,0000,0000,,{\blur3}格雷斯581c的质量是地球的5倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gliese 581c has five times the mass of our Earth.{\r}
+Dialogue: 0,0:28:16.27,0:28:20.07,Default,,0000,0000,0000,,{\blur3}曾指望581c会成为首个类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There were hopes that 581 c would be the first Earth-like planet...{\r}
+Dialogue: 0,0:28:20.11,0:28:22.32,Default,,0000,0000,0000,,{\blur3}在某个恒星的宜居区域里发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}found in the habitable zone of a star...{\r}
+Dialogue: 0,0:28:22.36,0:28:24.74,Default,,0000,0000,0000,,{\blur3}但证明错了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that turned out to be wrong.{\r}
+Dialogue: 0,0:28:25.37,0:28:27.95,Default,,0000,0000,0000,,{\blur3}或许它站错了队{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Probably it's a little bit on the wrong side of the fence...{\r}
+Dialogue: 0,0:28:27.99,0:28:30.04,Default,,0000,0000,0000,,{\blur3}结果它没成为超级地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that one, instead of being a Super Earth...{\r}
+Dialogue: 0,0:28:30.08,0:28:31.87,Default,,0000,0000,0000,,{\blur3}也许成了超级金星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is probably a Super Venus.{\r}
+Dialogue: 0,0:28:33.92,0:28:36.67,Default,,0000,0000,0000,,{\blur3}它类似我们的金星 站在了高热的一边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like our own Venus, way on the hot side...{\r}
+Dialogue: 0,0:28:36.71,0:28:39.46,Default,,0000,0000,0000,,{\blur3}可能有600度的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with possible 600-degree temperatures...{\r}
+Dialogue: 0,0:28:40.46,0:28:41.76,Default,,0000,0000,0000,,{\blur3}但是个头比金星大多了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but also more massive than Venus.{\r}
+Dialogue: 0,0:28:45.68,0:28:51.56,Default,,0000,0000,0000,,{\blur3}但是格雷斯581c有一个稍远稍冷一点的亲戚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Gliese 581 c has a relative a little farther out and cooler.{\r}
+Dialogue: 0,0:28:51.60,0:28:54.64,Default,,0000,0000,0000,,{\blur3}它叫格雷斯581 d{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's named Gliese 581 d.{\r}
+Dialogue: 0,0:28:56.98,0:28:58.77,Default,,0000,0000,0000,,{\blur3}这颗星处在宜居区的远端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this one is at the far back end...{\r}
+Dialogue: 0,0:28:58.82,0:29:02.15,Default,,0000,0000,0000,,{\blur3}那里相当寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the habitable zone where it's quite cold.{\r}
+Dialogue: 0,0:29:04.82,0:29:06.07,Default,,0000,0000,0000,,{\blur3}你最初看到它时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you initially look at it...{\r}
+Dialogue: 0,0:29:06.11,0:29:08.28,Default,,0000,0000,0000,,{\blur3}你会想 哇 也许那里太冷了一点吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you think, "Well, maybe that's a bit too cold."{\r}
+Dialogue: 0,0:29:08.32,0:29:10.20,Default,,0000,0000,0000,,{\blur3}不过现在看来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it turns out that if the planet...{\r}
+Dialogue: 0,0:29:10.24,0:29:12.33,Default,,0000,0000,0000,,{\blur3}如果行星假定有充分的温室气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}potentially has enough greenhouse gases...{\r}
+Dialogue: 0,0:29:12.37,0:29:15.16,Default,,0000,0000,0000,,{\blur3}就有可能让该行星保持温暖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it might be possible to make that planet warm.{\r}
+Dialogue: 0,0:29:18.59,0:29:24.21,Default,,0000,0000,0000,,{\blur3}另一个有希望的类地行星可能是HD 69830 d{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another promising Earth-like planet may be HD 69830 d.{\r}
+Dialogue: 0,0:29:24.26,0:29:28.84,Default,,0000,0000,0000,,{\blur3}这是颗大行星 是我们地球大小的17倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a big planet, 17 times the size of our Earth.{\r}
+Dialogue: 0,0:29:30.35,0:29:33.35,Default,,0000,0000,0000,,{\blur3}它距离我们太阳系约42光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's about 42 light-years away from our solar system...{\r}
+Dialogue: 0,0:29:33.39,0:29:35.73,Default,,0000,0000,0000,,{\blur3}在船尾座里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the constellation Puppis.{\r}
+Dialogue: 0,0:29:35.77,0:29:41.65,Default,,0000,0000,0000,,{\blur3}HD 69830 d 是可能会形成生命的潜在行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}HD 69830 d is a potential planet where life could form...{\r}
+Dialogue: 0,0:29:41.69,0:29:43.82,Default,,0000,0000,0000,,{\blur3}因为它具有近乎合适的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it has approximately the right temperature.{\r}
+Dialogue: 0,0:29:48.36,0:29:49.74,Default,,0000,0000,0000,,{\blur3}该行星的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The planet could have a temperature...{\r}
+Dialogue: 0,0:29:49.78,0:29:51.83,Default,,0000,0000,0000,,{\blur3}介于金星与地球之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between that of Venus and Earth...{\r}
+Dialogue: 0,0:29:51.87,0:29:55.62,Default,,0000,0000,0000,,{\blur3}它有接近圆形的轨道 意味着它不会受到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it has a close-to-circular orbit, meaning it won't get toasted...{\r}
+Dialogue: 0,0:29:55.66,0:29:58.67,Default,,0000,0000,0000,,{\blur3}其所围绕的恒星的煎熬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by close encounters with the star it's orbiting.{\r}
+Dialogue: 0,0:29:58.71,0:30:00.29,Default,,0000,0000,0000,,{\blur3}因此你可以看到有水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you can have liquid water.{\r}
+Dialogue: 0,0:30:00.34,0:30:03.84,Default,,0000,0000,0000,,{\blur3}该行星的质量或许并不很理想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The mass of the planet is maybe not so good.{\r}
+Dialogue: 0,0:30:03.88,0:30:06.13,Default,,0000,0000,0000,,{\blur3}其质量是地球的17倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's about 17 times the mass of the Earth...{\r}
+Dialogue: 0,0:30:06.17,0:30:08.30,Default,,0000,0000,0000,,{\blur3}有可能是岩质实心球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which could be a solid ball of rock...{\r}
+Dialogue: 0,0:30:08.34,0:30:12.26,Default,,0000,0000,0000,,{\blur3}或也可能是个气体球 类似于我们太阳系里的海王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or it could also be a gas ball like Neptune in our solar system.{\r}
+Dialogue: 0,0:30:15.06,0:30:18.14,Default,,0000,0000,0000,,{\blur3}在航天局未来的行星发现之旅中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When NASA's able to fly future planet-finding missions...{\r}
+Dialogue: 0,0:30:18.19,0:30:20.73,Default,,0000,0000,0000,,{\blur3}预计天文学家能够获得其光谱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's expected that astronomers will be able to get a spectrum...{\r}
+Dialogue: 0,0:30:20.77,0:30:22.48,Default,,0000,0000,0000,,{\blur3}给我们带来有关该行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will give us much more information...{\r}
+Dialogue: 0,0:30:22.52,0:30:24.98,Default,,0000,0000,0000,,{\blur3}成分的很多信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the composition of the planet.{\r}
+Dialogue: 0,0:30:25.03,0:30:29.07,Default,,0000,0000,0000,,{\blur3}他们能够弄清楚该行星是否有固体的地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They may be able to figure out if the planet has a solid surface...{\r}
+Dialogue: 0,0:30:29.11,0:30:31.32,Default,,0000,0000,0000,,{\blur3}还是它就是一个水世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or that it's a water world...{\r}
+Dialogue: 0,0:30:31.37,0:30:34.24,Default,,0000,0000,0000,,{\blur3}或者完全别样的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or perhaps something else entirely.{\r}
+Dialogue: 0,0:30:36.58,0:30:39.50,Default,,0000,0000,0000,,{\blur3}搜索其它地球已经把天文学家带到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The search for other Earths has taken astronomers...{\r}
+Dialogue: 0,0:30:39.54,0:30:42.42,Default,,0000,0000,0000,,{\blur3}数光年外的我们的太空邻居那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}light-years from our neighborhood in space.{\r}
+Dialogue: 0,0:30:43.80,0:30:47.38,Default,,0000,0000,0000,,{\blur3}但是我们自己的太阳系里 会不会有另一个地球存在呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But could another Earth exist in our own solar system?{\r}
+Dialogue: 0,0:30:56.06,0:30:57.98,Default,,0000,0000,0000,,{\blur3}虽然天文学家观察星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While astronomers look at star systems...{\r}
+Dialogue: 0,0:30:58.02,0:30:59.48,Default,,0000,0000,0000,,{\blur3}有N多光年远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}many light-years away...{\r}
+Dialogue: 0,0:30:59.52,0:31:02.98,Default,,0000,0000,0000,,{\blur3}寄望发现另一颗蓝色大理石星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in hopes of finding another blue marble of a planet...{\r}
+Dialogue: 0,0:31:03.02,0:31:06.48,Default,,0000,0000,0000,,{\blur3}但是其它地球有可能比那要近得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}other Earths may be a lot closer than that.{\r}
+Dialogue: 0,0:31:06.53,0:31:09.07,Default,,0000,0000,0000,,{\blur3}所以想象一下回到35亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So imagine going back 3 1/2 billion years ago...{\r}
+Dialogue: 0,0:31:09.11,0:31:10.49,Default,,0000,0000,0000,,{\blur3}来看一下我们的太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and visiting our solar system.{\r}
+Dialogue: 0,0:31:10.53,0:31:13.74,Default,,0000,0000,0000,,{\blur3}你会看到这里有两颗蓝色大理石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'd have seen two blue marbles here.{\r}
+Dialogue: 0,0:31:15.62,0:31:22.08,Default,,0000,0000,0000,,{\blur3}地球 有水 稠密的二氧化碳大气层 温暖的环境 生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth--water, thick carbon dioxide atmosphere, warm conditions, life.{\r}
+Dialogue: 0,0:31:22.13,0:31:23.38,Default,,0000,0000,0000,,{\blur3}现在把想象稍微挪动一下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now imagine moving a little over...{\r}
+Dialogue: 0,0:31:23.42,0:31:27.09,Default,,0000,0000,0000,,{\blur3}你看到了火星 表面有水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you see Mars-- water on the surface...{\r}
+Dialogue: 0,0:31:27.13,0:31:31.30,Default,,0000,0000,0000,,{\blur3}厚厚的二氧化碳大气层 温暖的环境 或许还有生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}thick carbon dioxide atmosphere, warm conditions, possibly life.{\r}
+Dialogue: 0,0:31:32.97,0:31:34.51,Default,,0000,0000,0000,,{\blur3}好 这两颗行星开始演化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, the two planets start evolving.{\r}
+Dialogue: 0,0:31:36.81,0:31:38.14,Default,,0000,0000,0000,,{\blur3}地球依然宜居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth stays habitable.{\r}
+Dialogue: 0,0:31:44.23,0:31:45.27,Default,,0000,0000,0000,,{\blur3}火星则不然{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars doesn't.{\r}
+Dialogue: 0,0:31:48.78,0:31:51.03,Default,,0000,0000,0000,,{\blur3}金星与火星都刚好处在宜居的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Both Venus and Mars are just on the edge...{\r}
+Dialogue: 0,0:31:51.07,0:31:54.11,Default,,0000,0000,0000,,{\blur3}金发区域的边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Goldilocks zone of habitability.{\r}
+Dialogue: 0,0:31:54.16,0:31:57.12,Default,,0000,0000,0000,,{\blur3}两者都可能是失败地球的案例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Both may be cases of failed Earths.{\r}
+Dialogue: 0,0:31:57.16,0:31:58.87,Default,,0000,0000,0000,,{\blur3}一旦你掉了队{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once you fall off that path...{\r}
+Dialogue: 0,0:31:58.91,0:32:01.62,Default,,0000,0000,0000,,{\blur3}就可能永远都会不来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you may never be able to come back.{\r}
+Dialogue: 0,0:32:01.66,0:32:03.92,Default,,0000,0000,0000,,{\blur3}火星对你需要长期维持宜居来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars is a lesson for what you need...{\r}
+Dialogue: 0,0:32:03.96,0:32:05.63,Default,,0000,0000,0000,,{\blur3}是个教训{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to maintain habitability for a long time.{\r}
+Dialogue: 0,0:32:09.34,0:32:11.88,Default,,0000,0000,0000,,{\blur3}其答案 我们认为就在于做大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the answer, we think, turns out to be big.{\r}
+Dialogue: 0,0:32:11.93,0:32:13.72,Default,,0000,0000,0000,,{\blur3}你必须要大到如地球这样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have to be as big as the Earth...{\r}
+Dialogue: 0,0:32:13.76,0:32:16.64,Default,,0000,0000,0000,,{\blur3}才能长期维持宜居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to maintain habitability for a long time.{\r}
+Dialogue: 0,0:32:16.68,0:32:18.18,Default,,0000,0000,0000,,{\blur3}火星太小了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars is too small.{\r}
+Dialogue: 0,0:32:20.27,0:32:23.56,Default,,0000,0000,0000,,{\blur3}正因为太小了 它无法循环其元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Being too small, it has no way to recycle its elements...{\r}
+Dialogue: 0,0:32:23.60,0:32:26.73,Default,,0000,0000,0000,,{\blur3}无法长期持有自己的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and has no way to hold onto its atmosphere for a long time.{\r}
+Dialogue: 0,0:32:26.77,0:32:28.86,Default,,0000,0000,0000,,{\blur3}所以 大小是关键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, size matters.{\r}
+Dialogue: 0,0:32:30.61,0:32:33.36,Default,,0000,0000,0000,,{\blur3}火星现在太寒冷了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And while Mars is now too cold...{\r}
+Dialogue: 0,0:32:33.40,0:32:35.24,Default,,0000,0000,0000,,{\blur3}然而金星 我们另一颗或有的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Venus, our other would-be Earth...{\r}
+Dialogue: 0,0:32:37.37,0:32:39.33,Default,,0000,0000,0000,,{\blur3}却有着相反的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has the opposite problem.{\r}
+Dialogue: 0,0:32:39.37,0:32:40.79,Default,,0000,0000,0000,,{\blur3}它太热了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's too hot.{\r}
+Dialogue: 0,0:32:44.04,0:32:47.04,Default,,0000,0000,0000,,{\blur3}它有点太靠近母星 太靠近太阳了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was a little bit too close to its star, too close to the Sun.{\r}
+Dialogue: 0,0:32:48.21,0:32:49.34,Default,,0000,0000,0000,,{\blur3}它变热了 并且一直很热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It got hot, and it stayed hot.{\r}
+Dialogue: 0,0:32:51.97,0:32:54.51,Default,,0000,0000,0000,,{\blur3}因此所有的二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so all the carbon dioxide...{\r}
+Dialogue: 0,0:32:54.55,0:32:57.97,Default,,0000,0000,0000,,{\blur3}CO2等等 形成在地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the CO2 and so on, that formed on Earth...{\r}
+Dialogue: 0,0:32:58.01,0:32:59.93,Default,,0000,0000,0000,,{\blur3}也形成在了金星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}formed also on Venus.{\r}
+Dialogue: 0,0:32:59.97,0:33:02.39,Default,,0000,0000,0000,,{\blur3}不过在地球上 它被吸纳进了石头里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But on Earth, it was incorporated into rocks.{\r}
+Dialogue: 0,0:33:05.40,0:33:07.69,Default,,0000,0000,0000,,{\blur3}而在金星上 它留在了大气层里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Venus, it stayed in the atmosphere...{\r}
+Dialogue: 0,0:33:07.73,0:33:12.11,Default,,0000,0000,0000,,{\blur3}那大气层基本上全球变暖到了N多级了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the atmosphere, basically, is global warming to the Nth degree.{\r}
+Dialogue: 0,0:33:12.15,0:33:14.03,Default,,0000,0000,0000,,{\blur3}阳光射入 必定离不开了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sunlight comes, and it must doesn't leave.{\r}
+Dialogue: 0,0:33:14.07,0:33:15.86,Default,,0000,0000,0000,,{\blur3}该星球就像是在烤炉里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That planet is like the inside of a pizza oven.{\r}
+Dialogue: 0,0:33:18.70,0:33:22.37,Default,,0000,0000,0000,,{\blur3}金星的失败是因为它诞生在了一个错误的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Venus failed because it was born in the wrong place.{\r}
+Dialogue: 0,0:33:22.41,0:33:24.91,Default,,0000,0000,0000,,{\blur3}火星的失败是因为生出了错误的个头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars failed because it was born the wrong size...{\r}
+Dialogue: 0,0:33:24.96,0:33:28.00,Default,,0000,0000,0000,,{\blur3}这样我们就有了一个有趣的故事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that we have an interesting story here...{\r}
+Dialogue: 0,0:33:28.04,0:33:29.08,Default,,0000,0000,0000,,{\blur3}金星 地球 火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Venus, Earth, and Mars.{\r}
+Dialogue: 0,0:33:30.67,0:33:32.05,Default,,0000,0000,0000,,{\blur3}金星处在了错误的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Venus is in the wrong place.{\r}
+Dialogue: 0,0:33:32.09,0:33:33.88,Default,,0000,0000,0000,,{\blur3}火星有个错误的个头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars is the wrong size.{\r}
+Dialogue: 0,0:33:33.92,0:33:35.63,Default,,0000,0000,0000,,{\blur3}地球是左右逢源 大小合适{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth is the right place and the right size.{\r}
+Dialogue: 0,0:33:39.72,0:33:41.72,Default,,0000,0000,0000,,{\blur3}因此 如果我们的太阳系里的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, if the planets in our solar system...{\r}
+Dialogue: 0,0:33:41.76,0:33:44.22,Default,,0000,0000,0000,,{\blur3}不是类似地球的伟大的候选人的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}aren't great candidates for being Earth-like...{\r}
+Dialogue: 0,0:33:44.27,0:33:47.14,Default,,0000,0000,0000,,{\blur3}我们最近的星际邻居 半人马座阿尔法星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our closest galactic neighbor, Alpha Centauri...{\r}
+Dialogue: 0,0:33:47.19,0:33:49.35,Default,,0000,0000,0000,,{\blur3}可能蕴藏着一颗类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may harbor an Earth-like planet.{\r}
+Dialogue: 0,0:33:51.32,0:33:55.94,Default,,0000,0000,0000,,{\blur3}在4光年多一点的地方 按星际说法 就在隔壁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At a little over 4 light-years away, in galactic terms, it's next door.{\r}
+Dialogue: 0,0:33:57.45,0:33:59.24,Default,,0000,0000,0000,,{\blur3}我认为有极有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think that there's a good chance...{\r}
+Dialogue: 0,0:33:59.28,0:34:01.58,Default,,0000,0000,0000,,{\blur3}有类地行星围绕着半人马座阿尔法星系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that Earth-like planets are orbiting around...{\r}
+Dialogue: 0,0:34:01.62,0:34:05.08,Default,,0000,0000,0000,,{\blur3}一颗或两颗恒星运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}either one or both stars in the Alpha Centauri system.{\r}
+Dialogue: 0,0:34:07.37,0:34:09.92,Default,,0000,0000,0000,,{\blur3}天文学家格雷格.劳克林用计算机建模{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomer Greg Laughlin has done computer modeling...{\r}
+Dialogue: 0,0:34:09.96,0:34:13.42,Default,,0000,0000,0000,,{\blur3}来演示类地行星应该存在于该星系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to show that Earth-like planets should exist in the system.{\r}
+Dialogue: 0,0:34:13.46,0:34:15.38,Default,,0000,0000,0000,,{\blur3}有很多理由说明半人马座阿尔法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a number of reasons why Alpha Centauri...{\r}
+Dialogue: 0,0:34:15.42,0:34:19.59,Default,,0000,0000,0000,,{\blur3}是在空中搜索地球的最佳星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the best star in the sky for hunting for Earths.{\r}
+Dialogue: 0,0:34:19.64,0:34:22.10,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法非常近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha Centauri is very close by.{\r}
+Dialogue: 0,0:34:22.14,0:34:24.93,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法有两颗类似太阳的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha Centauri has two Sun-like stars.{\r}
+Dialogue: 0,0:34:24.97,0:34:28.77,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法拥有大量的重元素之类的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha Centauri has a large quantity of the kinds of heavy elements...{\r}
+Dialogue: 0,0:34:28.81,0:34:30.35,Default,,0000,0000,0000,,{\blur3}能够去打造行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that go into building planets.{\r}
+Dialogue: 0,0:34:33.07,0:34:34.82,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法星系离我们有多近呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How close is the Alpha Centauri system to us?{\r}
+Dialogue: 0,0:34:37.70,0:34:42.62,Default,,0000,0000,0000,,{\blur3}首先 想象把我们的太阳缩小到一粒沙子那么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First, imagine shrinking our Sun down to the size of a grain of sand.{\r}
+Dialogue: 0,0:34:42.66,0:34:46.45,Default,,0000,0000,0000,,{\blur3}一粒沙子就是你肉眼所能看到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A grain of sand is just about the smallest object...{\r}
+Dialogue: 0,0:34:46.50,0:34:48.54,Default,,0000,0000,0000,,{\blur3}最小的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you can see with your eyes...{\r}
+Dialogue: 0,0:34:48.58,0:34:49.83,Default,,0000,0000,0000,,{\blur3}就是你用手指{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and just about the smallest object...{\r}
+Dialogue: 0,0:34:49.87,0:34:52.46,Default,,0000,0000,0000,,{\blur3}刚好能感觉到的最小物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you can actually feel with your fingers.{\r}
+Dialogue: 0,0:34:52.50,0:34:57.42,Default,,0000,0000,0000,,{\blur3}比例是太阳就一粒沙子大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the scale where the Sun is the size of a grain of sand...{\r}
+Dialogue: 0,0:34:57.47,0:35:00.80,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法星系是三粒沙子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Alpha Centauri system is three more sand grains...{\r}
+Dialogue: 0,0:35:00.84,0:35:04.93,Default,,0000,0000,0000,,{\blur3}位于5英里外的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}placed about five miles away.{\r}
+Dialogue: 0,0:35:04.97,0:35:10.23,Default,,0000,0000,0000,,{\blur3}好 如果我们想在半人马座阿尔法里 看到类似不错的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, if we wanted to get a similarly good system to Alpha Centauri...{\r}
+Dialogue: 0,0:35:10.27,0:35:13.02,Default,,0000,0000,0000,,{\blur3}我们就必须一路越过地平线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we'd have to actually go all the way over the horizon...{\r}
+Dialogue: 0,0:35:13.06,0:35:14.82,Default,,0000,0000,0000,,{\blur3}去寻觅那个不错的恒星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to find another stellar system that's good.{\r}
+Dialogue: 0,0:35:16.36,0:35:19.32,Default,,0000,0000,0000,,{\blur3}事实证明 半人马座阿尔法星系里的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it turns out that the stars of the Alpha Centauri system...{\r}
+Dialogue: 0,0:35:19.36,0:35:23.16,Default,,0000,0000,0000,,{\blur3}应该具有大量构成行星的原料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}should have plenty of raw materials to make planets out of.{\r}
+Dialogue: 0,0:35:25.20,0:35:29.20,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法的金属度超过了我们的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha Centauri has a higher metallicity than our own Sun does.{\r}
+Dialogue: 0,0:35:29.25,0:35:33.29,Default,,0000,0000,0000,,{\blur3}那就说明 行星的形成是个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that implies that planet formation was a process...{\r}
+Dialogue: 0,0:35:33.33,0:35:36.00,Default,,0000,0000,0000,,{\blur3}相对较容易发生在该星系里的过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that took place relatively easily in that system.{\r}
+Dialogue: 0,0:35:40.22,0:35:41.88,Default,,0000,0000,0000,,{\blur3}最后 尤为重要的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And last, but not least...{\r}
+Dialogue: 0,0:35:41.93,0:35:45.80,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法星的两颗主星提供了额外的好处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha Centauri's two main stars provide an additional benefit.{\r}
+Dialogue: 0,0:35:47.27,0:35:48.52,Default,,0000,0000,0000,,{\blur3}初步的迹象表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The initial indications show...{\r}
+Dialogue: 0,0:35:48.56,0:35:50.35,Default,,0000,0000,0000,,{\blur3}没有木星大小的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there are no Jupiter-mass planets...{\r}
+Dialogue: 0,0:35:50.39,0:35:51.89,Default,,0000,0000,0000,,{\blur3}存在于半人马座阿尔法星系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the Alpha Centauri system.{\r}
+Dialogue: 0,0:35:51.94,0:35:53.77,Default,,0000,0000,0000,,{\blur3}那就更加直截了当地让类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That makes it more streightforward...{\r}
+Dialogue: 0,0:35:53.81,0:35:58.73,Default,,0000,0000,0000,,{\blur3}形成在一颗或两颗恒星的周围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for terrestrial planets to form around either or both of the stars.{\r}
+Dialogue: 0,0:35:59.99,0:36:03.66,Default,,0000,0000,0000,,{\blur3}那是因为气体巨星是围绕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's because large gas giants form around cores of ice...{\r}
+Dialogue: 0,0:36:03.70,0:36:06.28,Default,,0000,0000,0000,,{\blur3}大如我们整个地球的冰核形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are as big as our entire Earth.{\r}
+Dialogue: 0,0:36:06.33,0:36:08.62,Default,,0000,0000,0000,,{\blur3}因此这些巨星需要大量的冷却空间来形成这些冰核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So these giants need a lot of cold space to form these cores.{\r}
+Dialogue: 0,0:36:12.08,0:36:15.29,Default,,0000,0000,0000,,{\blur3}想想木星形成在离我们太阳多远的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Think of how far out Jupiter is from our Sun.{\r}
+Dialogue: 0,0:36:15.33,0:36:18.55,Default,,0000,0000,0000,,{\blur3}然而 一旦你有了两颗恒星交错运行在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, when you have two stars with overlapping orbits...{\r}
+Dialogue: 0,0:36:18.59,0:36:20.76,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法这样的星系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a system like Alpha Centauri...{\r}
+Dialogue: 0,0:36:20.80,0:36:24.72,Default,,0000,0000,0000,,{\blur3}那么星系里就不存在有足够大 足够冷的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there isn't a space in the system that's big enough and cold enough...{\r}
+Dialogue: 0,0:36:24.76,0:36:26.47,Default,,0000,0000,0000,,{\blur3}允许这些气体巨星的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to allow the formation of these gas giants.{\r}
+Dialogue: 0,0:36:28.22,0:36:30.14,Default,,0000,0000,0000,,{\blur3}因此我们预计有行星存在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we expect that the planets that exist...{\r}
+Dialogue: 0,0:36:30.18,0:36:33.27,Default,,0000,0000,0000,,{\blur3}半人马座阿尔法星系里 如果它们存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the Alpha Centauri system, if they are there...{\r}
+Dialogue: 0,0:36:33.31,0:36:37.15,Default,,0000,0000,0000,,{\blur3}就会是地球 火星 金星之类的类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they're terrestrial planets like the Earth or Mars or Venus.{\r}
+Dialogue: 0,0:36:37.19,0:36:39.98,Default,,0000,0000,0000,,{\blur3}它们不会是木星或土星之类的气体巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're not gas giant planets like Jupiter or Saturn.{\r}
+Dialogue: 0,0:36:43.78,0:36:45.57,Default,,0000,0000,0000,,{\blur3}要是我们真能调查出在我们这部分宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What if we could actually survey...{\r}
+Dialogue: 0,0:36:45.62,0:36:47.45,Default,,0000,0000,0000,,{\blur3}有多少地球又会怎样呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how many Earths are in our part of the universe?{\r}
+Dialogue: 0,0:36:50.37,0:36:53.79,Default,,0000,0000,0000,,{\blur3}要是我们能够直接看透数光年外的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What if we could peer directly into the atmosphere of another Earth...{\r}
+Dialogue: 0,0:36:53.83,0:36:55.58,Default,,0000,0000,0000,,{\blur3}另一个地球的大气层又当如何呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was light-years away?{\r}
+Dialogue: 0,0:37:08.80,0:37:10.47,Default,,0000,0000,0000,,{\blur3}为了发现另一个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In order to find another Earth...{\r}
+Dialogue: 0,0:37:10.51,0:37:12.77,Default,,0000,0000,0000,,{\blur3}天文学家必须克服巨大的技术挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomers have to eventually overcome...{\r}
+Dialogue: 0,0:37:12.81,0:37:16.14,Default,,0000,0000,0000,,{\blur3}去观察遥远的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the huge technical challenges of how to view a distant planet.{\r}
+Dialogue: 0,0:37:18.98,0:37:20.77,Default,,0000,0000,0000,,{\blur3}那是航天局已经解决的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a problem that NASA has tackled...{\r}
+Dialogue: 0,0:37:20.82,0:37:22.53,Default,,0000,0000,0000,,{\blur3}诸如月球竞赛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much like the race for the Moon...{\r}
+Dialogue: 0,0:37:22.57,0:37:25.20,Default,,0000,0000,0000,,{\blur3}有延续数十年的规划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with plans that stretch out over decades.{\r}
+Dialogue: 0,0:37:30.08,0:37:33.16,Default,,0000,0000,0000,,{\blur3}首个日外行星发现任务将是开普勒号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first exoplanet-finding mission will be Kepler...{\r}
+Dialogue: 0,0:37:33.20,0:37:35.50,Default,,0000,0000,0000,,{\blur3}将在2009年升空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which launches in 2009.{\r}
+Dialogue: 0,0:37:37.04,0:37:39.08,Default,,0000,0000,0000,,{\blur3}航天局的调查项目的命名{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The NASA survey project is named...{\r}
+Dialogue: 0,0:37:39.13,0:37:42.71,Default,,0000,0000,0000,,{\blur3}来自17世纪的天文学家约翰内斯.开普勒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}after the 17th-century astronomer Johannes Kepler...{\r}
+Dialogue: 0,0:37:42.76,0:37:44.55,Default,,0000,0000,0000,,{\blur3}他发现了行星的运动定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who discovered the laws of planetary motion.{\r}
+Dialogue: 0,0:37:48.05,0:37:50.14,Default,,0000,0000,0000,,{\blur3}开普勒要做的非常简单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What Kepler will do is so utterly simple...{\r}
+Dialogue: 0,0:37:50.18,0:37:51.89,Default,,0000,0000,0000,,{\blur3}但非常地强大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and yet extraordinarily powerful...{\r}
+Dialogue: 0,0:37:51.93,0:37:53.93,Default,,0000,0000,0000,,{\blur3}它让我热泪盈眶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it brings tears to my eyes.{\r}
+Dialogue: 0,0:37:55.73,0:37:58.98,Default,,0000,0000,0000,,{\blur3}开普勒所做的就是简单作为一架太空望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What Kepler will do is simply be a space-borne telescope...{\r}
+Dialogue: 0,0:37:59.02,0:38:02.86,Default,,0000,0000,0000,,{\blur3}凝视天鹅座和天琴座{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and stare at the constellations Cygnus and Lyra...{\r}
+Dialogue: 0,0:38:02.90,0:38:06.70,Default,,0000,0000,0000,,{\blur3}连续不停地拍照{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}taking picture after picture after picture...{\r}
+Dialogue: 0,0:38:08.57,0:38:16.04,Default,,0000,0000,0000,,{\blur3}只要目标恒星在类地行星遮挡其星光时发生暗淡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the goal of looking for stars that dim...when an Earth-like planet blocks some of the starlight.{\r}
+Dialogue: 0,0:38:16.08,0:38:17.58,Default,,0000,0000,0000,,{\blur3}它将是首次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it will be the first time...{\r}
+Dialogue: 0,0:38:17.62,0:38:20.75,Default,,0000,0000,0000,,{\blur3}我们人类侦查围绕其它恒星的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we humans detect other Earth-like planets...{\r}
+Dialogue: 0,0:38:20.79,0:38:22.29,Default,,0000,0000,0000,,{\blur3}其它类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}around other stars.{\r}
+Dialogue: 0,0:38:24.96,0:38:28.88,Default,,0000,0000,0000,,{\blur3}开普勒的首席调查员是威廉.博鲁茨基{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The principal investigator for Kepler is William Borucki.{\r}
+Dialogue: 0,0:38:28.93,0:38:31.80,Default,,0000,0000,0000,,{\blur3}他25年来一直在力挺该任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He's been championing the mission for 25 years.{\r}
+Dialogue: 0,0:38:32.56,0:38:34.51,Default,,0000,0000,0000,,{\blur3}开普勒实际上是个太空任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kepler, basically, is a space mission...{\r}
+Dialogue: 0,0:38:34.56,0:38:36.35,Default,,0000,0000,0000,,{\blur3}送上去一架大口径望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that puts up a very large telescope.{\r}
+Dialogue: 0,0:38:36.39,0:38:38.44,Default,,0000,0000,0000,,{\blur3}它很像是一个摄像机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very much like a camcorder.{\r}
+Dialogue: 0,0:38:38.48,0:38:40.73,Default,,0000,0000,0000,,{\blur3}它不停地拍摄那些恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's always taking pictures of these stars...{\r}
+Dialogue: 0,0:38:40.77,0:38:42.48,Default,,0000,0000,0000,,{\blur3}把信息发回给你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sending that information back to you.{\r}
+Dialogue: 0,0:38:43.57,0:38:46.57,Default,,0000,0000,0000,,{\blur3}该任务是个相对较小的调查项目{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The mission is a comparatively small survey project...{\r}
+Dialogue: 0,0:38:46.61,0:38:51.36,Default,,0000,0000,0000,,{\blur3}去观察固定的空域 初定时间为三年半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to look at a fixed portion of the sky for an initial time of 3 1/2 years.{\r}
+Dialogue: 0,0:38:54.58,0:38:59.21,Default,,0000,0000,0000,,{\blur3}开普勒的主要成果将为我们提供统计数字{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The main result from Kepler will be to give us a statistical count.{\r}
+Dialogue: 0,0:38:59.25,0:39:01.54,Default,,0000,0000,0000,,{\blur3}就是对象的人头数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a head count of what the population is.{\r}
+Dialogue: 0,0:39:01.58,0:39:03.04,Default,,0000,0000,0000,,{\blur3}也就是 你看到有多少小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You know, how many small planets do you have...{\r}
+Dialogue: 0,0:39:03.09,0:39:04.75,Default,,0000,0000,0000,,{\blur3}有多少大行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and how many large planets do you have?{\r}
+Dialogue: 0,0:39:05.92,0:39:07.51,Default,,0000,0000,0000,,{\blur3}开普勒的成果回过头来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kepler's results will, in turn...{\r}
+Dialogue: 0,0:39:07.55,0:39:09.76,Default,,0000,0000,0000,,{\blur3}用来帮助决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}be used to help decide what will be built...{\r}
+Dialogue: 0,0:39:09.80,0:39:12.59,Default,,0000,0000,0000,,{\blur3}构建下一代的行星发现任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the next generation of planet-finding missions.{\r}
+Dialogue: 0,0:39:13.93,0:39:16.39,Default,,0000,0000,0000,,{\blur3}开普勒实际上是前进的第一步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kepler really is one step along the way.{\r}
+Dialogue: 0,0:39:16.43,0:39:17.56,Default,,0000,0000,0000,,{\blur3}它试图找到地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's to try to find Earths...{\r}
+Dialogue: 0,0:39:17.60,0:39:18.81,Default,,0000,0000,0000,,{\blur3}厘清它们是否比比皆是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and find out whether they're frequent.{\r}
+Dialogue: 0,0:39:19.94,0:39:22.56,Default,,0000,0000,0000,,{\blur3}如果它们比比皆是 就必定是很密集{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf they are frequent, they must be close...{\r}
+Dialogue: 0,0:39:22.61,0:39:24.02,Default,,0000,0000,0000,,{\blur3}这样我们就可以打造最合适的仪器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we can build a modest instrument.{\r}
+Dialogue: 0,0:39:26.82,0:39:29.36,Default,,0000,0000,0000,,{\blur3}如果我们没有发现好多地球 那么那就意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we don't find many Earths, what that means is...{\r}
+Dialogue: 0,0:39:29.40,0:39:31.03,Default,,0000,0000,0000,,{\blur3}在你发现另一个地球之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before you're going to find another one...{\r}
+Dialogue: 0,0:39:31.07,0:39:33.70,Default,,0000,0000,0000,,{\blur3}你将不得不观察更大距离的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're going to have to look a huge distance into space.{\r}
+Dialogue: 0,0:39:33.74,0:39:34.74,Default,,0000,0000,0000,,{\blur3}这样你就不得不打造更大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you're going to have to build...{\r}
+Dialogue: 0,0:39:34.78,0:39:36.66,Default,,0000,0000,0000,,{\blur3}更昂贵的仪器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a much bigger, much more expensive instrument.{\r}
+Dialogue: 0,0:39:41.42,0:39:44.46,Default,,0000,0000,0000,,{\blur3}人类史上所构思的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most majestic, spectacular telescope...{\r}
+Dialogue: 0,0:39:44.50,0:39:46.63,Default,,0000,0000,0000,,{\blur3}最宏伟壮观的太空望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ever conceived by humanity...{\r}
+Dialogue: 0,0:39:46.67,0:39:50.30,Default,,0000,0000,0000,,{\blur3}就是所谓的类地行星发现者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is something called the Terrestrial Planet Finder.{\r}
+Dialogue: 0,0:39:50.34,0:39:53.09,Default,,0000,0000,0000,,{\blur3}它将是太空中一个庞大的望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It will be an enormous telescope in space...{\r}
+Dialogue: 0,0:39:53.14,0:39:56.76,Default,,0000,0000,0000,,{\blur3}坦白说有可能耗资数十亿美元{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}frankly probably costing several billion dollars.{\r}
+Dialogue: 0,0:39:56.81,0:39:58.89,Default,,0000,0000,0000,,{\blur3}但是它的作用是无与伦比的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what it will do is absolutely unique.{\r}
+Dialogue: 0,0:40:02.60,0:40:03.94,Default,,0000,0000,0000,,{\blur3}它将是首个望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It will be the first telescope...{\r}
+Dialogue: 0,0:40:03.98,0:40:07.11,Default,,0000,0000,0000,,{\blur3}用来拍摄其它类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to take pictures of other Earth-like planets.{\r}
+Dialogue: 0,0:40:12.61,0:40:15.66,Default,,0000,0000,0000,,{\blur3}为了直接目睹我们太阳系外的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To directly view a planet outside our solar system...{\r}
+Dialogue: 0,0:40:15.70,0:40:18.79,Default,,0000,0000,0000,,{\blur3}一个全新的望远镜技术正在研发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a whole new telescope technology is being developed.{\r}
+Dialogue: 0,0:40:20.33,0:40:23.87,Default,,0000,0000,0000,,{\blur3}为了构建类地行星发现者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To construct the Terrestrial Planet Finder...{\r}
+Dialogue: 0,0:40:23.92,0:40:27.59,Default,,0000,0000,0000,,{\blur3}针对其主星的强光来拍摄地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will image Earths against the glare of their host stars...{\r}
+Dialogue: 0,0:40:27.63,0:40:30.96,Default,,0000,0000,0000,,{\blur3}我们需要某些全新的光学技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we need some entirely new optical technology...{\r}
+Dialogue: 0,0:40:31.01,0:40:33.05,Default,,0000,0000,0000,,{\blur3}这种技术 坦白说我们尚未发明出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a technology that frankly we haven't invented yet.{\r}
+Dialogue: 0,0:40:36.22,0:40:38.43,Default,,0000,0000,0000,,{\blur3}挫折是明摆的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The frustration is just palpable...{\r}
+Dialogue: 0,0:40:38.47,0:40:42.64,Default,,0000,0000,0000,,{\blur3}我们其实大致知道如何去发现其它地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we actually know vaguely how to detect other Earths...{\r}
+Dialogue: 0,0:40:42.69,0:40:46.06,Default,,0000,0000,0000,,{\blur3}但是我们确实不知道如何去构建能够达到目的的光学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we don't know exactly how to build the optics to do so.{\r}
+Dialogue: 0,0:40:48.15,0:40:50.86,Default,,0000,0000,0000,,{\blur3}航天局预想类地行星发现者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA envisions the Terrestrial Planet Finder...{\r}
+Dialogue: 0,0:40:50.90,0:40:53.03,Default,,0000,0000,0000,,{\blur3}是两个完全不同却又相辅相成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as a suite of two very different...{\r}
+Dialogue: 0,0:40:53.07,0:40:55.86,Default,,0000,0000,0000,,{\blur3}创新望远镜的组合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but complementary advanced-concept telescopes.{\r}
+Dialogue: 0,0:40:58.53,0:41:00.99,Default,,0000,0000,0000,,{\blur3}首先是 可视光的日冕观测仪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first, the visible light coronagraph...{\r}
+Dialogue: 0,0:41:01.04,0:41:04.21,Default,,0000,0000,0000,,{\blur3}结合巨大的镜面光学望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}consists of a large optical telescope with a mirror...{\r}
+Dialogue: 0,0:41:04.25,0:41:08.50,Default,,0000,0000,0000,,{\blur3}至少要比哈勃望远镜精准100倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at least 100 times more precise than the Hubble Space Telescope.{\r}
+Dialogue: 0,0:41:12.09,0:41:14.84,Default,,0000,0000,0000,,{\blur3}日冕观测仪是单个望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A coronagraph is a single telescope...{\r}
+Dialogue: 0,0:41:14.88,0:41:16.68,Default,,0000,0000,0000,,{\blur3}用来收集星光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which collects the light from a star...{\r}
+Dialogue: 0,0:41:16.72,0:41:19.14,Default,,0000,0000,0000,,{\blur3}将光聚焦到后部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and focuses the light at the back end...{\r}
+Dialogue: 0,0:41:19.18,0:41:20.56,Default,,0000,0000,0000,,{\blur3}和普通望远镜没两样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a normal telescope.{\r}
+Dialogue: 0,0:41:23.73,0:41:26.73,Default,,0000,0000,0000,,{\blur3}但是 在那里 我们会遮挡恒星发出的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Except, at that point, we block the light from the star...{\r}
+Dialogue: 0,0:41:26.77,0:41:29.23,Default,,0000,0000,0000,,{\blur3}会试图让行星发出的光通过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we try to let the light from the planet come through.{\r}
+Dialogue: 0,0:41:30.90,0:41:35.11,Default,,0000,0000,0000,,{\blur3}这样一来 你就避免了散光进入仪器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By doing this, you cancel out the scattered light in the instrument...{\r}
+Dialogue: 0,0:41:35.15,0:41:38.20,Default,,0000,0000,0000,,{\blur3}这样你就让自己能够看到这颗行星了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so you allow yourself to be able to look at this planet...{\r}
+Dialogue: 0,0:41:38.24,0:41:41.62,Default,,0000,0000,0000,,{\blur3}它要比主星昏暗百亿倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is 10 billion times fainter than the main star.{\r}
+Dialogue: 0,0:41:44.25,0:41:46.58,Default,,0000,0000,0000,,{\blur3}其次类地行星发现者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The second Terrestrial Planet Finder mission...{\r}
+Dialogue: 0,0:41:46.62,0:41:49.38,Default,,0000,0000,0000,,{\blur3}将是一架干涉仪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will be an interferometer.{\r}
+Dialogue: 0,0:41:49.42,0:41:52.25,Default,,0000,0000,0000,,{\blur3}干涉仪的工作就是获取射入的星光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An interferometer works by taking the light from a star that comes in...{\r}
+Dialogue: 0,0:41:55.67,0:41:58.59,Default,,0000,0000,0000,,{\blur3}用两架甚至更多的望远镜来捕获它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and capturing it with two telescopes, sometimes more.{\r}
+Dialogue: 0,0:42:00.80,0:42:03.72,Default,,0000,0000,0000,,{\blur3}这种组合光就可以以这种方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this combined light can be arranged in such a way...{\r}
+Dialogue: 0,0:42:03.77,0:42:06.77,Default,,0000,0000,0000,,{\blur3}将恒星发出的光给遮挡了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the light from the star disappears.{\r}
+Dialogue: 0,0:42:08.23,0:42:09.56,Default,,0000,0000,0000,,{\blur3}那是个好主意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's good in the sense...{\r}
+Dialogue: 0,0:42:09.61,0:42:12.23,Default,,0000,0000,0000,,{\blur3}你现在可以看到它旁边的行星了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you now can look at the planet that's next to it...{\r}
+Dialogue: 0,0:42:12.27,0:42:14.73,Default,,0000,0000,0000,,{\blur3}行星发出的光就不会看不见了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the light from the planet does not disappear.{\r}
+Dialogue: 0,0:42:14.78,0:42:17.28,Default,,0000,0000,0000,,{\blur3}那就是干涉仪的魔力所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the magic of an interferometer.{\r}
+Dialogue: 0,0:42:19.70,0:42:22.70,Default,,0000,0000,0000,,{\blur3}为了尽善尽美 更新精度的掌控技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To get all of this done, new levels of precision...{\r}
+Dialogue: 0,0:42:22.74,0:42:25.95,Default,,0000,0000,0000,,{\blur3}需要得到进一步地完善{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in control and command technologies need to be perfected...{\r}
+Dialogue: 0,0:42:30.13,0:42:32.79,Default,,0000,0000,0000,,{\blur3}有些东西可能需要几年功夫来进行研发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something that could take years to develop.{\r}
+Dialogue: 0,0:42:39.09,0:42:41.84,Default,,0000,0000,0000,,{\blur3}追寻天文学上的圣杯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The quest for the holy grail of astronomy...{\r}
+Dialogue: 0,0:42:41.89,0:42:44.18,Default,,0000,0000,0000,,{\blur3}太阳系外的另一个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another Earth outside our solar system...{\r}
+Dialogue: 0,0:42:44.22,0:42:46.43,Default,,0000,0000,0000,,{\blur3}已经驱使科学家们去思索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has pushed scientists to speculate...{\r}
+Dialogue: 0,0:42:46.48,0:42:49.44,Default,,0000,0000,0000,,{\blur3}这样的发现将会如何影响到我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about how such a discovery could affect us.{\r}
+Dialogue: 0,0:42:52.65,0:42:54.32,Default,,0000,0000,0000,,{\blur3}我认为一旦我们发现有另一个地球的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think if we find another Earth out there...{\r}
+Dialogue: 0,0:42:54.36,0:42:56.40,Default,,0000,0000,0000,,{\blur3}那将会对社会产生巨大的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's going to have an enormous impact on society.{\r}
+Dialogue: 0,0:43:00.49,0:43:02.62,Default,,0000,0000,0000,,{\blur3}我认为了解到我们并不孤独{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think to know that we are not alone...{\r}
+Dialogue: 0,0:43:02.66,0:43:06.29,Default,,0000,0000,0000,,{\blur3}我们只是N多生命潜在的居所之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we are one of many potential sites for life...{\r}
+Dialogue: 0,0:43:06.33,0:43:08.83,Default,,0000,0000,0000,,{\blur3}我想将会引发人们思维模式的转变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think will cause a huge paradigm shift in people's thinking.{\r}
+Dialogue: 0,0:43:11.17,0:43:13.17,Default,,0000,0000,0000,,{\blur3}但是也有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's also the possibility...{\r}
+Dialogue: 0,0:43:13.21,0:43:15.80,Default,,0000,0000,0000,,{\blur3}我们可能就是宇宙间的天之骄子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we may be unique in the universe...{\r}
+Dialogue: 0,0:43:15.84,0:43:18.59,Default,,0000,0000,0000,,{\blur3}我们很有可能发现有类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that we may well find Earth-like planets...{\r}
+Dialogue: 0,0:43:18.63,0:43:20.97,Default,,0000,0000,0000,,{\blur3}但却并无智能的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but no intelligent beings on them.{\r}
+Dialogue: 0,0:43:21.01,0:43:25.14,Default,,0000,0000,0000,,{\blur3}我们必须保持一点冷静{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have to remember something a little sobering.{\r}
+Dialogue: 0,0:43:25.18,0:43:31.30,Default,,0000,0000,0000,,{\blur3}仍然有可能我们人类...是一个意外的进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is still possible that we humans...are a accident of evolutionary tree{\r}
+Dialogue: 0,0:43:32.10,0:43:37.40,Default,,0000,0000,0000,,{\blur3}这发生在2万年前的非洲东部大草原{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that has occurred in a savanna East Africa 2 million years ago{\r}
+Dialogue: 0,0:43:37.48,0:43:41.30,Default,,0000,0000,0000,,{\blur3}已失去了类人非常罕见的间隔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and has lost the humanoid very rare intervals,{\r}
+Dialogue: 0,0:43:41.50,0:43:44.80,Default,,0000,0000,0000,,{\blur3}并没有发生在4.5亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that has not happened in 4.5 million years on the earth.{\r}
+Dialogue: 0,0:43:49.70,0:43:55.20,Default,,0000,0000,0000,,{\blur3}我们很可能是银河系里极罕见的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is possible that we are being extremely rare in the Milky Way.{\r}
+Dialogue: 0,0:43:57.60,0:44:01.20,Default,,0000,0000,0000,,{\blur3}事实上 这可能是我们这样一种...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, this may be our so that one species...{\r}
+Dialogue: 0,0:44:02.30,0:44:07.40,Default,,0000,0000,0000,,{\blur3}探索及我们是第一个研究人员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to explore and we are the first researchers.{\r}
+Dialogue: 0,0:44:08.90,0:44:12.60,Default,,0000,0000,0000,,{\blur3}在这种情况下 我们的命运将会找到我们的根{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this case, our destiny will be to find our roots{\r}
+Dialogue: 0,0:44:12.80,0:44:17.00,Default,,0000,0000,0000,,{\blur3}化学和生物的星星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}chemical and biological among the stars.{\r}
+Dialogue: 0,0:44:17.20,0:44:19.40,Default,,0000,0000,0000,,{\blur3}我们有一幅图画{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we are have a picture{\r}
+Dialogue: 0,0:44:19.70,0:44:21.60,Default,,0000,0000,0000,,{\blur3}确实漂亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}really beautiful.{\r}

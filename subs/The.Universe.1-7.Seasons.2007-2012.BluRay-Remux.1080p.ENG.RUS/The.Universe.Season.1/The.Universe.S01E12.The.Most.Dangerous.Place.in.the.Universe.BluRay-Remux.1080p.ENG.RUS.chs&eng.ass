@@ -1,0 +1,698 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.85,0:00:08.02,*Default,NTP,0000,0000,0000,,玄黄端现 太极混沌如鸡蛋 随着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning there was darkness and then
+Dialogue: 0,0:00:08.07,0:00:09.17,*Default,NTP,0000,0000,0000,,轰的一声 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}BANG!
+Dialogue: 0,0:00:09.17,0:00:14.17,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的时间 空间和物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to endless expanding  existence of time, space and matter.
+Dialogue: 0,0:00:14.86,0:00:17.23,*Default,NTP,0000,0000,0000,,现在所见超乎我们的想象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now see futher that we ever imagined
+Dialogue: 0,0:00:17.23,0:00:19.23,*Default,NTP,0000,0000,0000,,超越了客观认知极限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beyond the limits of ours existence
+Dialogue: 0,0:00:19.47,0:00:23.88,*Default,NTP,0000,0000,0000,,那地方我们称之为"宇宙" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the place that we called the Universe.
+Dialogue: 0,0:00:25.81,0:00:28.33,*Default,NTP,0000,0000,0000,,宇宙广阔无垠 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Universe is vast
+Dialogue: 0,0:00:29.05,0:00:32.46,*Default,NTP,0000,0000,0000,,神奇 电光交织 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wonderous, electrified.
+Dialogue: 0,0:00:34.24,0:00:37.53,*Default,NTP,0000,0000,0000,,对那些寻找刺激的太空旅行者来说 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But for space travellers that looking for thrill ride
+Dialogue: 0,0:00:37.73,0:00:40.67,*Default,NTP,0000,0000,0000,,去宇宙旅行是条不归路 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could be a one way ticket
+Dialogue: 0,0:00:41.55,0:00:45.35,*Default,NTP,0000,0000,0000,,去了则不再复返 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is a place from which you cannot return.
+Dialogue: 0,0:00:45.55,0:00:48.92,*Default,NTP,0000,0000,0000,,至少不是以你去时的形式回来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or at least, not in the form that you went in.
+Dialogue: 0,0:00:50.25,0:00:53.29,*Default,NTP,0000,0000,0000,,没有人敢冒这个险 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}go and no one has dare to venture.
+Dialogue: 0,0:00:53.39,0:00:57.69,*Default,NTP,0000,0000,0000,,去环游银河这个致命的地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}take a virtual tour of the deadiest  placies of our galaxy
+Dialogue: 0,0:00:57.79,0:00:59.99,*Default,NTP,0000,0000,0000,,甚至银河以外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and beyond
+Dialogue: 0,0:01:04.00,0:01:09.00,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:09.00,0:01:14.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}历史频道·宇宙第一季第12集 最危险的地方\N影片压制:暮云春树  字幕来源：射手网 调校：TIAN@CMCT 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:18.48,0:01:23.63,*Default,NTP,0000,0000,0000,,这是终极的前沿探险--太空环游 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is the ultimate frontier adventure, Space Travel
+Dialogue: 0,0:01:32.56,0:01:36.83,*Default,NTP,0000,0000,0000,,但当你遨游在银河系的丛林中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when trekking through the galactic jungles
+Dialogue: 0,0:01:36.90,0:01:40.69,*Default,NTP,0000,0000,0000,,你必须留意宇宙中的热区 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One must steer clear of the cosmic, hot zones
+Dialogue: 0,0:01:41.42,0:01:44.64,*Default,NTP,0000,0000,0000,,那里充满了爆炸和陷阱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Places teeming with violence and intrigue.
+Dialogue: 0,0:01:49.30,0:01:54.72,*Default,NTP,0000,0000,0000,,那些危险的地方爆发力很强 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are dangerous places certainly  very energetic phenomena
+Dialogue: 0,0:01:55.26,0:02:00.23,*Default,NTP,0000,0000,0000,,爆发力比爆炸的原子弹还要强 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That are a lot more powerful than  atomic bombs being detonated
+Dialogue: 0,0:02:00.97,0:02:03.46,*Default,NTP,0000,0000,0000,,能量无限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Infinitely more powerful.
+Dialogue: 0,0:02:06.74,0:02:09.89,*Default,NTP,0000,0000,0000,,宇宙似乎到处充满了爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The universe does seem to be a very violent place.
+Dialogue: 0,0:02:10.72,0:02:15.56,*Default,NTP,0000,0000,0000,,似乎它的诞生就源于爆炸 熟知的"大爆炸理论" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It seems to have been born in a  violent explosion called "The Big Bang"
+Dialogue: 0,0:02:15.60,0:02:18.55,*Default,NTP,0000,0000,0000,,并且爆炸还在继续 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there is also violent processes going on.
+Dialogue: 0,0:02:26.48,0:02:29.52,*Default,NTP,0000,0000,0000,,2004年12月27日 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On december 27, 2004
+Dialogue: 0,0:02:32.81,0:02:37.02,*Default,NTP,0000,0000,0000,,卫星录下了伟大的宇宙爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Satellites picked up the greatest cosmic  explosion ever recorded
+Dialogue: 0,0:02:40.72,0:02:43.50,*Default,NTP,0000,0000,0000,,三万光年以外的一次爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A blast 30,000 light-years away
+Dialogue: 0,0:02:43.54,0:02:48.37,*Default,NTP,0000,0000,0000,,爆炸威力可以轻易摧毁地球的外部大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which had the power to briefly alter  our planet's upper atmosphere.
+Dialogue: 0,0:02:54.57,0:02:57.65,*Default,NTP,0000,0000,0000,,爆炸是由一颗磁星引起的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The blast was caused by a magnetar
+Dialogue: 0,0:02:58.29,0:03:02.52,*Default,NTP,0000,0000,0000,,磁星是太空中最稠密 最危险之一的星星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The densest and one of the most  dangerous stars in space.
+Dialogue: 0,0:03:04.67,0:03:06.84,*Default,NTP,0000,0000,0000,,一颗磁星的磁场力约是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The magnetic field strength of a magnetar is about
+Dialogue: 0,0:03:06.88,0:03:10.88,*Default,NTP,0000,0000,0000,,地球磁场力的千万亿倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A thousand trillion times the magnetic field energy of the Earth.
+Dialogue: 0,0:03:13.12,0:03:14.05,*Default,NTP,0000,0000,0000,,拿刷卡做参照 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And for reference
+Dialogue: 0,0:03:14.08,0:03:17.29,*Default,NTP,0000,0000,0000,,刷卡将清除信用卡上的信息 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This would wipe the information off a credit card
+Dialogue: 0,0:03:18.42,0:03:21.42,*Default,NTP,0000,0000,0000,,这一动作在十万英里远的地方就能完成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At a distance of about 100,000 miles away.
+Dialogue: 0,0:03:22.02,0:03:24.49,*Default,NTP,0000,0000,0000,,十万英里差不多是距月球距离的一半 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, this distance is sort of half  the distance of the moon
+Dialogue: 0,0:03:24.53,0:03:28.67,*Default,NTP,0000,0000,0000,,从天文学角度来说 十万英里是很短的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's very nearby by astronomical standards.
+Dialogue: 0,0:03:32.44,0:03:37.44,*Default,NTP,0000,0000,0000,,这些淘气的星球拥有宇宙中最强的磁场 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These mischievous stars have the strongest magnetic field in the Universe.
+Dialogue: 0,0:03:39.04,0:03:43.58,*Default,NTP,0000,0000,0000,,在银河中被科学家们证实的磁星共12颗 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists have confirmed 12 of these  rare stars in our galaxy
+Dialogue: 0,0:03:43.61,0:03:45.78,*Default,NTP,0000,0000,0000,,可能会更多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there may be more.
+Dialogue: 0,0:03:50.32,0:03:51.92,*Default,NTP,0000,0000,0000,,加州理工的布莱恩·卡梅伦 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Caltech's Brian Cameron
+Dialogue: 0,0:03:51.95,0:03:55.63,*Default,NTP,0000,0000,0000,,在银河中寻找这些陌生的星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scans the milky way for these strange stars.
+Dialogue: 0,0:04:05.13,0:04:07.70,*Default,NTP,0000,0000,0000,,磁星是中子星的一个特殊类别 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetars are a special class of neutron stars
+Dialogue: 0,0:04:07.74,0:04:10.67,*Default,NTP,0000,0000,0000,,拥有极强的磁场 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With ultra strong magnetic fields
+Dialogue: 0,0:04:10.71,0:04:13.21,*Default,NTP,0000,0000,0000,,宇宙中最稠密的物质形式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The densest form of matter in the Universe.
+Dialogue: 0,0:04:14.24,0:04:18.41,*Default,NTP,0000,0000,0000,,第一颗磁星被发现时 处于高能级状态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first magnetar showed itself in  the form of a high-energy event
+Dialogue: 0,0:04:18.45,0:04:20.25,*Default,NTP,0000,0000,0000,,发现于70年代晚期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was detected in the late'70s
+Dialogue: 0,0:04:20.28,0:04:21.08,*Default,NTP,0000,0000,0000,,虽然那时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although at the time
+Dialogue: 0,0:04:21.12,0:04:23.42,*Default,NTP,0000,0000,0000,,我们并不知道那就是磁星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We didn't know that it was a magnetar.
+Dialogue: 0,0:04:24.05,0:04:25.55,*Default,NTP,0000,0000,0000,,直到90年代早期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It wasn't until the early'90s
+Dialogue: 0,0:04:25.59,0:04:27.99,*Default,NTP,0000,0000,0000,,研究人员指出 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That researchers suggested that
+Dialogue: 0,0:04:28.09,0:04:31.53,*Default,NTP,0000,0000,0000,,这些物体被磁场控制着 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these objects were dominated by magnetic fields
+Dialogue: 0,0:04:32.66,0:04:37.40,*Default,NTP,0000,0000,0000,,从而确立了磁星理论 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that the magnetar theory was actually confirmed.
+Dialogue: 0,0:04:39.84,0:04:44.47,*Default,NTP,0000,0000,0000,,磁星的形成基于超大行星的毁灭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetars are born out of the  death throes of massive stars.
+Dialogue: 0,0:04:44.51,0:04:45.77,*Default,NTP,0000,0000,0000,,当一颗星灭亡时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a star dies
+Dialogue: 0,0:04:45.84,0:04:50.21,*Default,NTP,0000,0000,0000,,它开始瓦解形成超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It begins to collapse and go supernova.
+Dialogue: 0,0:04:50.25,0:04:52.61,*Default,NTP,0000,0000,0000,,有时超新星的爆炸中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sometimes, a dense neutron star
+Dialogue: 0,0:04:52.65,0:04:56.29,*Default,NTP,0000,0000,0000,,会形成密集的中子星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Forms from the centers of that supernova explosion.
+Dialogue: 0,0:04:57.92,0:04:59.09,*Default,NTP,0000,0000,0000,,这一过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the process
+Dialogue: 0,0:04:59.12,0:05:02.46,*Default,NTP,0000,0000,0000,,一些中子星变成了磁星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A few neutron stars become magnetars
+Dialogue: 0,0:05:02.49,0:05:06.03,*Default,NTP,0000,0000,0000,,拥有极强的磁场 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which possess a strong magnetic field.
+Dialogue: 0,0:05:06.06,0:05:11.37,*Default,NTP,0000,0000,0000,,这些行星放射出高能的X射线和伽马射线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These stars eject high-energy emissions  of x-rays and gamma rays.
+Dialogue: 0,0:05:12.80,0:05:16.71,*Default,NTP,0000,0000,0000,,我们认为一般的中子星诞生于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We think that normal neutron stars are born from regular stars
+Dialogue: 0,0:05:16.74,0:05:19.78,*Default,NTP,0000,0000,0000,,那种比太阳质量大10或20倍的正规星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That are something like 10 or 20 times the mass of the Sun.
+Dialogue: 0,0:05:19.81,0:05:20.74,*Default,NTP,0000,0000,0000,,但有证据显示 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's evidence that
+Dialogue: 0,0:05:20.78,0:05:24.08,*Default,NTP,0000,0000,0000,,磁星更有可能诞生于甚至更大的行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}magnetars are born from possibly even more massive stars
+Dialogue: 0,0:05:24.11,0:05:27.18,*Default,NTP,0000,0000,0000,,那种比太阳质量大40倍的行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Than this, something like 40 times the mass of the S un.
+Dialogue: 0,0:05:29.02,0:05:29.75,*Default,NTP,0000,0000,0000,,很明显 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Typically
+Dialogue: 0,0:05:29.79,0:05:34.46,*Default,NTP,0000,0000,0000,,这么大质量的行星太重而不易形成中子星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A star of such mass would be  too heavy to form a neutron star.
+Dialogue: 0,0:05:36.59,0:05:40.66,*Default,NTP,0000,0000,0000,,相反它的质量将陷入黑洞中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead, its mass would collapse into a black hole.
+Dialogue: 0,0:05:42.00,0:05:42.90,*Default,NTP,0000,0000,0000,,黑洞的形成就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are formed
+Dialogue: 0,0:05:42.93,0:05:46.13,*Default,NTP,0000,0000,0000,,把一定数目的质量填入一定的体积中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From cramming a certain amount  of mass in a certain volume.
+Dialogue: 0,0:05:46.17,0:05:47.34,*Default,NTP,0000,0000,0000,,无论如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And for whatever reason
+Dialogue: 0,0:05:47.37,0:05:50.04,*Default,NTP,0000,0000,0000,,这些质量超大的行星 没有形成中子星的能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These stars are unable to do that.
+Dialogue: 0,0:05:50.87,0:05:53.04,*Default,NTP,0000,0000,0000,,有个理论认为一些超大行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One theory is that some massive stars
+Dialogue: 0,0:05:53.08,0:05:57.85,*Default,NTP,0000,0000,0000,,在爆炸为超新星前 经历失重过程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Undergo a weight loss program right  before exploding as a supernova
+Dialogue: 0,0:05:57.88,0:05:59.92,*Default,NTP,0000,0000,0000,,损失了90%的质量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Losing 90 percent of their mass.
+Dialogue: 0,0:06:01.05,0:06:03.39,*Default,NTP,0000,0000,0000,,就无法陷入黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So instead of collapsing into a black hole
+Dialogue: 0,0:06:03.42,0:06:06.05,*Default,NTP,0000,0000,0000,,余下的部分变成了中子星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The emaciated star becomes a neutron star
+Dialogue: 0,0:06:06.09,0:06:09.43,*Default,NTP,0000,0000,0000,,拥有超强磁力的中子星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With extreme magnetic powers.
+Dialogue: 0,0:06:11.46,0:06:14.20,*Default,NTP,0000,0000,0000,,当磁力变得太强时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the magnetic force gets incredibly strong
+Dialogue: 0,0:06:14.23,0:06:17.04,*Default,NTP,0000,0000,0000,,使磁星地面变形 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It deforms the magnetar's crust
+Dialogue: 0,0:06:19.57,0:06:24.41,*Default,NTP,0000,0000,0000,,在它表面产生地震叫做"星震" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Creating seismic events called "starquakes" on its surface.
+Dialogue: 0,0:06:26.54,0:06:29.65,*Default,NTP,0000,0000,0000,,最终如果地表在压力下破裂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eventually, if this crust breaks under the stress
+Dialogue: 0,0:06:29.68,0:06:33.62,*Default,NTP,0000,0000,0000,,磁场使它进入低能状态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the magnetic field reconfigures  itself into a lower energy state
+Dialogue: 0,0:06:33.65,0:06:34.88,*Default,NTP,0000,0000,0000,,当这些发生时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when this happens
+Dialogue: 0,0:06:34.92,0:06:39.96,*Default,NTP,0000,0000,0000,,爆发出了火球 飞离星球边缘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A fireball is launched off the side of the star.
+Dialogue: 0,0:06:43.13,0:06:45.79,*Default,NTP,0000,0000,0000,,所以 我们认为中子星表面的星震\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So starquakes on neutron stars' surfaces are thought to
+Dialogue: 0,0:06:45.87,0:06:49.90,*Default,NTP,0000,0000,0000,,产生了我们看见这些巨大的火焰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}give rise to these giant flares that we see.
+Dialogue: 0,0:06:53.50,0:06:56.57,*Default,NTP,0000,0000,0000,,磁星出现这些火焰后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After a magnetar undergoes one of these flares
+Dialogue: 0,0:06:56.61,0:06:59.81,*Default,NTP,0000,0000,0000,,比银河里所有星星都要亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It outshines all the stars in the galaxy
+Dialogue: 0,0:06:59.84,0:07:04.25,*Default,NTP,0000,0000,0000,,火焰将持续仅十分之一秒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For a few--For the few tenths of  a second that it's taking place.
+Dialogue: 0,0:07:06.65,0:07:08.48,*Default,NTP,0000,0000,0000,,巨大的火焰里是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within these giant flares
+Dialogue: 0,0:07:08.52,0:07:14.12,*Default,NTP,0000,0000,0000,,以光速传播的伽马射线的短暂爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are short bursts of gamma rays,  which move at the speed of light.
+Dialogue: 0,0:07:14.16,0:07:19.13,*Default,NTP,0000,0000,0000,,来自磁星的巨大火焰就是伽马射线爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The giant flares from magnetars are gamma ray bursts.
+Dialogue: 0,0:07:19.16,0:07:21.33,*Default,NTP,0000,0000,0000,,它们持续不久 不到一秒钟 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're very short in duration, Less than a second
+Dialogue: 0,0:07:21.36,0:07:24.03,*Default,NTP,0000,0000,0000,,比起其他伽马射线爆炸来说 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And have very hard x-ray spectra
+Dialogue: 0,0:07:24.07,0:07:27.37,*Default,NTP,0000,0000,0000,,它们的X射线光谱很固定 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Compared to another class of gamma ray bursts.
+Dialogue: 0,0:07:30.31,0:07:33.01,*Default,NTP,0000,0000,0000,,如果太空漫游者偏离了航线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a deep space traveler veered off course
+Dialogue: 0,0:07:33.04,0:07:34.04,*Default,NTP,0000,0000,0000,,不幸遇到超大行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And was unlucky enough
+Dialogue: 0,0:07:34.08,0:07:38.25,*Default,NTP,0000,0000,0000,,绕过它则需要700英里路程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To pass within 700 miles of one of these massive objects
+Dialogue: 0,0:07:38.28,0:07:41.89,*Default,NTP,0000,0000,0000,,结果是很恐怖的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The consequences would be horrific.
+Dialogue: 0,0:07:44.02,0:07:46.15,*Default,NTP,0000,0000,0000,,磁星的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The magnetic field of the magnetar
+Dialogue: 0,0:07:46.19,0:07:49.16,*Default,NTP,0000,0000,0000,,能毫不夸张地扭曲人体内的原子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can literally warp the atoms in human flesh
+Dialogue: 0,0:07:49.19,0:07:52.80,*Default,NTP,0000,0000,0000,,它的引力能将一个人撕碎 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And its gravitational forces would tear a person apart.
+Dialogue: 0,0:07:58.17,0:08:01.27,*Default,NTP,0000,0000,0000,,那么太阳系中一颗磁星将何时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So then, how close would a magnetar have to be
+Dialogue: 0,0:08:01.30,0:08:04.04,*Default,NTP,0000,0000,0000,,引发大灾难呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To wreak havoc in our solar system?
+Dialogue: 0,0:08:08.18,0:08:08.92,*Default,NTP,0000,0000,0000,,有人认为 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some suggest
+Dialogue: 0,0:08:09.05,0:08:12.92,*Default,NTP,0000,0000,0000,,就算19光年远的一颗磁星爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That a blast from a magnetar even 10 light-years away
+Dialogue: 0,0:08:12.95,0:08:15.02,*Default,NTP,0000,0000,0000,,也将引起宇宙混乱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could produce cosmic chaos
+Dialogue: 0,0:08:15.05,0:08:17.29,*Default,NTP,0000,0000,0000,,将会破坏我们的臭氧层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would destroy our ozone layer
+Dialogue: 0,0:08:17.32,0:08:20.02,*Default,NTP,0000,0000,0000,,导致大量生物灭绝 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And cause mass extinctions.
+Dialogue: 0,0:08:21.76,0:08:24.73,*Default,NTP,0000,0000,0000,,但你知道那样发生的几率很小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The chances of that happening are so low that, you know
+Dialogue: 0,0:08:24.76,0:08:26.63,*Default,NTP,0000,0000,0000,,几乎是不可能的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're completely implausible.
+Dialogue: 0,0:08:26.66,0:08:27.78,*Default,NTP,0000,0000,0000,,这种几率与\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be no different than
+Dialogue: 0,0:08:27.83,0:08:30.53,*Default,NTP,0000,0000,0000,,正规星穿过太阳系一样不太可能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a regular star passing through the solar system.
+Dialogue: 0,0:08:30.57,0:08:31.80,*Default,NTP,0000,0000,0000,,我们知道正规星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we know that a regular star
+Dialogue: 0,0:08:31.83,0:08:34.20,*Default,NTP,0000,0000,0000,,自太阳系形成以来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Has not passed through the solar system
+Dialogue: 0,0:08:34.24,0:08:37.34,*Default,NTP,0000,0000,0000,,就从没进入过太阳系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since this solar system was formed.
+Dialogue: 0,0:08:43.88,0:08:44.65,*Default,NTP,0000,0000,0000,,科学家认为 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists think
+Dialogue: 0,0:08:44.68,0:08:48.98,*Default,NTP,0000,0000,0000,,磁星寿命只有几千年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That magnetars are only a few thousand years old
+Dialogue: 0,0:08:49.02,0:08:52.42,*Default,NTP,0000,0000,0000,,一万年后它们会变暗淡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And will become dim after 10,000 years.
+Dialogue: 0,0:08:55.66,0:08:57.09,*Default,NTP,0000,0000,0000,,我们现在才刚开始了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're just now starting to understand
+Dialogue: 0,0:08:57.13,0:08:59.93,*Default,NTP,0000,0000,0000,,磁星的生命周期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The life cycle of magnetars.
+Dialogue: 0,0:08:59.96,0:09:01.63,*Default,NTP,0000,0000,0000,,我们认为它们还很年轻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We think that they're very young
+Dialogue: 0,0:09:01.66,0:09:05.27,*Default,NTP,0000,0000,0000,,但具体有多年轻还不知道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how young is still uncertain.
+Dialogue: 0,0:09:20.95,0:09:22.62,*Default,NTP,0000,0000,0000,,除磁星之外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In addition to magnetars
+Dialogue: 0,0:09:22.65,0:09:25.35,*Default,NTP,0000,0000,0000,,通过卫星和地面观察站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Satellites and ground-based observatories
+Dialogue: 0,0:09:25.39,0:09:29.43,*Default,NTP,0000,0000,0000,,人们还发现了 在太空中还有其它火爆的星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Have been picking up other violent things in space.
+Dialogue: 0,0:09:32.66,0:09:34.10,*Default,NTP,0000,0000,0000,,科学家们现已确定 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists have now confirmed
+Dialogue: 0,0:09:34.13,0:09:37.67,*Default,NTP,0000,0000,0000,,一种幻影般的力量存在 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The existence of a phantom-like force
+Dialogue: 0,0:09:38.90,0:09:40.40,*Default,NTP,0000,0000,0000,,而且很强大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's so strong
+Dialogue: 0,0:09:40.44,0:09:46.44,*Default,NTP,0000,0000,0000,,这有可能是宇宙中最邪恶的现象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That it might very well be the most vicious phenomenon in the Universe.
+Dialogue: 0,0:09:57.32,0:10:00.86,*Default,NTP,0000,0000,0000,,鬼祟的这种力量萦绕于每个星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stealthy villains haunt each and every galaxy.
+Dialogue: 0,0:10:04.80,0:10:08.67,*Default,NTP,0000,0000,0000,,它就像野兽般把途经的星球撕碎 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One particular beast tears up anything in its path
+Dialogue: 0,0:10:08.80,0:10:12.47,*Default,NTP,0000,0000,0000,,并把星球吞并 就像吃开胃小菜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And gobbles it down like a cocktail hors d'oeuvre.
+Dialogue: 0,0:10:14.31,0:10:17.44,*Default,NTP,0000,0000,0000,,它是宇宙中最怪异 最具破坏性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's one of the most bizarre and destructive phenomenon
+Dialogue: 0,0:10:17.48,0:10:19.08,*Default,NTP,0000,0000,0000,,现象之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the Universe
+Dialogue: 0,0:10:19.41,0:10:21.25,*Default,NTP,0000,0000,0000,,黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A black hole.
+Dialogue: 0,0:10:25.15,0:10:26.78,*Default,NTP,0000,0000,0000,,我认为黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think a black hole
+Dialogue: 0,0:10:26.82,0:10:31.99,*Default,NTP,0000,0000,0000,,是宇宙中力量最强大的地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is the place which is more violent than anywhere else in our Universe.
+Dialogue: 0,0:10:34.33,0:10:36.83,*Default,NTP,0000,0000,0000,,就像走到了世界尽头 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like going over the edge
+Dialogue: 0,0:10:36.86,0:10:39.03,*Default,NTP,0000,0000,0000,,无回头之路 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you can't get back.
+Dialogue: 0,0:10:39.76,0:10:42.84,*Default,NTP,0000,0000,0000,,我觉得是种致命的吸引 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's fatal attraction, I suppose.
+Dialogue: 0,0:10:48.41,0:10:50.67,*Default,NTP,0000,0000,0000,,宇宙中的黑洞处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A black hole is a region of space
+Dialogue: 0,0:10:50.71,0:10:53.51,*Default,NTP,0000,0000,0000,,地心引力非常大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where the pull of gravity is so immense
+Dialogue: 0,0:10:53.55,0:10:58.38,*Default,NTP,0000,0000,0000,,什么的逃不掉 就连光也逃不掉 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That nothing can escape it not even light.
+Dialogue: 0,0:11:06.06,0:11:08.03,*Default,NTP,0000,0000,0000,,天体 物理 运动三项全能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astrophysicist and triathlete
+Dialogue: 0,0:11:08.06,0:11:10.13,*Default,NTP,0000,0000,0000,,费约·奥济尔 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Feryal Ozel
+Dialogue: 0,0:11:10.56,0:11:11.86,*Default,NTP,0000,0000,0000,,尝试去解决\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is attempting to unlock
+Dialogue: 0,0:11:11.90,0:11:16.07,*Default,NTP,0000,0000,0000,,黑洞引力周围的谜团 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The mysteries surrounding this elusive cosmic force.
+Dialogue: 0,0:11:21.51,0:11:23.41,*Default,NTP,0000,0000,0000,,黑洞里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a black hole
+Dialogue: 0,0:11:23.44,0:11:25.81,*Default,NTP,0000,0000,0000,,引力太强大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gravity is so strong
+Dialogue: 0,0:11:25.84,0:11:28.55,*Default,NTP,0000,0000,0000,,没有其他力能竞争得过它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That no other force can compete with it
+Dialogue: 0,0:11:28.58,0:11:31.72,*Default,NTP,0000,0000,0000,,任何物质都缩解为单个点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So everything collapses to a single point.
+Dialogue: 0,0:11:35.02,0:11:35.85,*Default,NTP,0000,0000,0000,,奥济尔说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ozel says
+Dialogue: 0,0:11:35.89,0:11:38.62,*Default,NTP,0000,0000,0000,,只要靠近黑洞 无论什么东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whatever has a close encounter with a black hole
+Dialogue: 0,0:11:38.66,0:11:43.10,*Default,NTP,0000,0000,0000,,都会成为潮汐般引力的牺牲品 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will fall victim to its relentless tidal force of gravity.
+Dialogue: 0,0:11:47.50,0:11:50.03,*Default,NTP,0000,0000,0000,,想象一下你在游泳池里游泳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine you're swimming in a pool
+Dialogue: 0,0:11:50.07,0:11:52.24,*Default,NTP,0000,0000,0000,,没有水流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there is no current
+Dialogue: 0,0:11:53.57,0:11:56.61,*Default,NTP,0000,0000,0000,,你可以随意向哪个方向游 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can go whichever direction you want.
+Dialogue: 0,0:12:00.01,0:12:03.28,*Default,NTP,0000,0000,0000,,现在假设你不在游泳池里游泳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, imagine, you're taken out of this pool
+Dialogue: 0,0:12:03.32,0:12:05.68,*Default,NTP,0000,0000,0000,,而是在河里游泳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you're in a river.
+Dialogue: 0,0:12:06.12,0:12:10.32,*Default,NTP,0000,0000,0000,,想象一下河中水流非常强 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine a current that is much, much, much stronger
+Dialogue: 0,0:12:10.36,0:12:12.56,*Default,NTP,0000,0000,0000,,你只能朝一个方向运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That the only direction that you could go
+Dialogue: 0,0:12:12.59,0:12:14.66,*Default,NTP,0000,0000,0000,,那就是水流方向 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would be with this current.
+Dialogue: 0,0:12:16.09,0:12:20.53,*Default,NTP,0000,0000,0000,,太空中黑洞附近地方 就类似于这条奔流的河 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The space around a black hole acts like this wild river.
+Dialogue: 0,0:12:22.17,0:12:26.24,*Default,NTP,0000,0000,0000,,你摆脱不了这股强大的拖力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could never fight this enormous drag that you feel.
+Dialogue: 0,0:12:32.21,0:12:35.51,*Default,NTP,0000,0000,0000,,当一个物体接近黑洞边缘时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As an object approaches the edge of a black hole
+Dialogue: 0,0:12:35.55,0:12:37.11,*Default,NTP,0000,0000,0000,,黑洞边缘叫做"视界" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Called the "event horizon,"
+Dialogue: 0,0:12:37.15,0:12:39.79,*Default,NTP,0000,0000,0000,,这是不归路的临界点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It reaches the point of no return.
+Dialogue: 0,0:12:42.22,0:12:45.72,*Default,NTP,0000,0000,0000,,随你离"视界"越来越近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As you come closer and closer to this event horizon
+Dialogue: 0,0:12:45.96,0:12:47.23,*Default,NTP,0000,0000,0000,,你就越靠近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would already be approaching
+Dialogue: 0,0:12:47.26,0:12:51.76,*Default,NTP,0000,0000,0000,,太空这种极快的运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This extremely fast motion of space under you
+Dialogue: 0,0:12:51.90,0:12:55.94,*Default,NTP,0000,0000,0000,,接下来你唯一的移动方向就是进入黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And your only future direction is now into the black hole.
+Dialogue: 0,0:13:03.41,0:13:04.74,*Default,NTP,0000,0000,0000,,对于黑洞本身 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea of the black hole
+Dialogue: 0,0:13:04.78,0:13:07.58,*Default,NTP,0000,0000,0000,,作为一个洞有时令人有点费解 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a hole sometimes can be a little bit confusing.
+Dialogue: 0,0:13:07.61,0:13:08.71,*Default,NTP,0000,0000,0000,,它究竟是什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What it really is
+Dialogue: 0,0:13:08.75,0:13:09.58,*Default,NTP,0000,0000,0000,,某种意义上说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In some sense
+Dialogue: 0,0:13:09.61,0:13:13.32,*Default,NTP,0000,0000,0000,,它是一个你永远也回不来的地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a place from which you can't return
+Dialogue: 0,0:13:13.35,0:13:16.79,*Default,NTP,0000,0000,0000,,至少不是以你进入的方式回来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or at least, not in the form in which you went in.
+Dialogue: 0,0:13:24.43,0:13:26.83,*Default,NTP,0000,0000,0000,,黑洞难以发现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are difficult to detect
+Dialogue: 0,0:13:26.87,0:13:29.17,*Default,NTP,0000,0000,0000,,因为就像这名字暗示的一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because as the name suggests
+Dialogue: 0,0:13:29.20,0:13:33.71,*Default,NTP,0000,0000,0000,,你看不见它 因为它是黑暗的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You cannot see one by itself because it's black.
+Dialogue: 0,0:13:34.74,0:13:35.47,*Default,NTP,0000,0000,0000,,但科学家们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But scientists
+Dialogue: 0,0:13:35.51,0:13:37.17,*Default,NTP,0000,0000,0000,,已发现一个黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Have spotted a black hole
+Dialogue: 0,0:13:37.21,0:13:40.21,*Default,NTP,0000,0000,0000,,就在它侵蚀太空中其它物质的时候 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When its gravity affects something else in space
+Dialogue: 0,0:13:40.25,0:13:42.98,*Default,NTP,0000,0000,0000,,如侵吞一颗路过的行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such as a passing star.
+Dialogue: 0,0:13:46.62,0:13:50.39,*Default,NTP,0000,0000,0000,,一个完全隔绝的黑洞是无法看见的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A completely isolated black hole would not be visible.
+Dialogue: 0,0:13:50.42,0:13:53.42,*Default,NTP,0000,0000,0000,,从黑洞那我们真正看到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we really see from a black hole
+Dialogue: 0,0:13:53.46,0:13:57.73,*Default,NTP,0000,0000,0000,,实际是黑洞周围盘旋的强放射性物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is actually the hot material that's swirling around it
+Dialogue: 0,0:13:57.76,0:14:00.20,*Default,NTP,0000,0000,0000,,正被吸入其中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's being sucked into it.
+Dialogue: 0,0:14:01.93,0:14:05.74,*Default,NTP,0000,0000,0000,,所以这些强力的黑洞附近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, in the neighborhood of these powerful black holes
+Dialogue: 0,0:14:05.77,0:14:06.94,*Default,NTP,0000,0000,0000,,你会发现许多辐射 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'll get a lot of radiation
+Dialogue: 0,0:14:06.97,0:14:08.54,*Default,NTP,0000,0000,0000,,辐射的产生由于黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Resulting from the black hole
+Dialogue: 0,0:14:08.57,0:14:12.21,*Default,NTP,0000,0000,0000,,吸入物质 拉伸它 绞曲它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pulling in material - And stretching it - And twisting it
+Dialogue: 0,0:14:12.24,0:14:14.81,*Default,NTP,0000,0000,0000,,辐射就发生在物质坠入黑洞过程中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As it's falling in black holes
+Dialogue: 0,0:14:16.85,0:14:20.22,*Default,NTP,0000,0000,0000,,黑洞侵食着近距离的所有物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes consuming anything in close range
+Dialogue: 0,0:14:20.25,0:14:25.06,*Default,NTP,0000,0000,0000,,并且有几十亿以上的黑洞潜伏于宇宙中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there are billions upon billions of them prowling the Universe.
+Dialogue: 0,0:14:34.13,0:14:36.20,*Default,NTP,0000,0000,0000,,天体物理学家安德里亚·盖兹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astrophysicist Andrea Ghez
+Dialogue: 0,0:14:36.23,0:14:40.24,*Default,NTP,0000,0000,0000,,是世界主要黑洞猎手之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is one of the world's leading black hole hunters.
+Dialogue: 0,0:14:43.48,0:14:44.81,*Default,NTP,0000,0000,0000,,黑洞并不挑食 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are not picky eaters.
+Dialogue: 0,0:14:44.84,0:14:47.54,*Default,NTP,0000,0000,0000,,见一个吃一个 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They'll dine on whatever get nearby
+Dialogue: 0,0:14:47.58,0:14:49.71,*Default,NTP,0000,0000,0000,,它们很乐意吞气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they will happily eat gas
+Dialogue: 0,0:14:49.75,0:14:53.59,*Default,NTP,0000,0000,0000,,它们也很乐意吞并一颗恒星或行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They will happily consume a star or a planet.
+Dialogue: 0,0:14:55.02,0:14:57.02,*Default,NTP,0000,0000,0000,,当它吸食一个行星时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a black hole dines on a star
+Dialogue: 0,0:14:57.06,0:15:00.06,*Default,NTP,0000,0000,0000,,它不会先把它撕碎 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It does so first by tearing it apart.
+Dialogue: 0,0:15:00.09,0:15:04.16,*Default,NTP,0000,0000,0000,,你可以想象成软软的油灰被拉伸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you might think of silly putty being stretched out
+Dialogue: 0,0:15:04.20,0:15:06.93,*Default,NTP,0000,0000,0000,,然后流动在水似的物体上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then it just streams on in sort of like water
+Dialogue: 0,0:15:06.97,0:15:09.03,*Default,NTP,0000,0000,0000,,接着被慢慢卷入 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Going down a drain.
+Dialogue: 0,0:15:09.07,0:15:11.97,*Default,NTP,0000,0000,0000,,完全就像磨面粉 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's completely pulverized.
+Dialogue: 0,0:15:18.18,0:15:20.48,*Default,NTP,0000,0000,0000,,我们认为黑洞的产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are produced, we believe
+Dialogue: 0,0:15:20.51,0:15:23.85,*Default,NTP,0000,0000,0000,,是由于超大恒星的瓦解 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By the collapse of the core of a massive star
+Dialogue: 0,0:15:23.88,0:15:27.99,*Default,NTP,0000,0000,0000,,那种比太阳质量大25~30倍的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Something like 25 or 30 times the mass of the Sun or more.
+Dialogue: 0,0:15:29.32,0:15:31.66,*Default,NTP,0000,0000,0000,,当恒星的生命快结束时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it comes to the end of its lifetime
+Dialogue: 0,0:15:31.69,0:15:33.96,*Default,NTP,0000,0000,0000,,超大恒星的地心开始燃烧 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A massive star burns its core
+Dialogue: 0,0:15:33.99,0:15:36.99,*Default,NTP,0000,0000,0000,,一直烧掉氦 碳 氮 氧 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the way past helium, carbon, nitrogen, oxygen
+Dialogue: 0,0:15:37.03,0:15:41.27,*Default,NTP,0000,0000,0000,,烧到最后只剩没有核能的铁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the way to iron which has no more nuclear fuel.
+Dialogue: 0,0:15:41.30,0:15:44.90,*Default,NTP,0000,0000,0000,,当铁心重建出一块物质时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when that iron core builds up to a certain mass
+Dialogue: 0,0:15:45.54,0:15:49.21,*Default,NTP,0000,0000,0000,,会出现它自身无法再支撑的一点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There comes a point where it can no longer support itself
+Dialogue: 0,0:15:49.24,0:15:51.34,*Default,NTP,0000,0000,0000,,这时铁心崩溃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the core will collapse
+Dialogue: 0,0:15:51.38,0:15:53.85,*Default,NTP,0000,0000,0000,,直到形成黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the way to a black hole
+Dialogue: 0,0:15:54.08,0:15:57.05,*Default,NTP,0000,0000,0000,,同时形成一颗超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Producing at the same time a supernova.
+Dialogue: 0,0:16:01.19,0:16:05.12,*Default,NTP,0000,0000,0000,,超新星传送出超大能量的爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The supernova sends out explosive amounts of energy
+Dialogue: 0,0:16:05.16,0:16:08.69,*Default,NTP,0000,0000,0000,,所以超新星附近的物质将成灰烬 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So anything in its vicinity will get obliterated.
+Dialogue: 0,0:16:09.43,0:16:11.30,*Default,NTP,0000,0000,0000,,然后爆炸后的残迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then, the remnants of the explosion
+Dialogue: 0,0:16:11.40,0:16:14.63,*Default,NTP,0000,0000,0000,,坠入新形成的黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fall into a newly formed black hole.
+Dialogue: 0,0:16:16.77,0:16:17.50,*Default,NTP,0000,0000,0000,,似乎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it seems
+Dialogue: 0,0:16:17.54,0:16:20.94,*Default,NTP,0000,0000,0000,,黑洞吸引的关键在于向心引力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The key to the black holes' allure is gravity.
+Dialogue: 0,0:16:23.18,0:16:25.31,*Default,NTP,0000,0000,0000,,向心引力把物质拉聚在一起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity will pull things around
+Dialogue: 0,0:16:25.34,0:16:29.38,*Default,NTP,0000,0000,0000,,就像太阳把各大行星拉聚在一起一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just like the Sun's gravity pulls the planets around.
+Dialogue: 0,0:16:29.71,0:16:30.71,*Default,NTP,0000,0000,0000,,实际上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact
+Dialogue: 0,0:16:30.75,0:16:33.98,*Default,NTP,0000,0000,0000,,行星的大部分时光都是绕黑洞轨道和陆地飞行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars will happily orbit the black hole for most of its life
+Dialogue: 0,0:16:34.02,0:16:35.95,*Default,NTP,0000,0000,0000,,而不会被吸入其中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And won't actually be sucked in.
+Dialogue: 0,0:16:35.99,0:16:37.52,*Default,NTP,0000,0000,0000,,这些行星实际很安全 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These stars are actually safe
+Dialogue: 0,0:16:37.56,0:16:40.66,*Default,NTP,0000,0000,0000,,不会被黑洞吸引而脱离轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the fatal attraction of the black hole
+Dialogue: 0,0:16:40.69,0:16:42.93,*Default,NTP,0000,0000,0000,,但如果你要大胆靠近的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if you do venture too close
+Dialogue: 0,0:16:42.96,0:16:45.23,*Default,NTP,0000,0000,0000,,非常接近黑洞边缘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like extremely close to the edge
+Dialogue: 0,0:16:45.26,0:16:48.17,*Default,NTP,0000,0000,0000,,你就会被吸入其中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then you do get sucked in.
+Dialogue: 0,0:16:51.17,0:16:52.60,*Default,NTP,0000,0000,0000,,科学家认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe there are
+Dialogue: 0,0:16:52.64,0:16:57.71,*Default,NTP,0000,0000,0000,,我们银河系中 存在难捉摸的黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Millions of wayward black holes throughout our galaxy, the milky way.
+Dialogue: 0,0:16:58.24,0:17:02.08,*Default,NTP,0000,0000,0000,,因为我们不能够看见它们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And because we can't readily see them
+Dialogue: 0,0:17:02.11,0:17:05.18,*Default,NTP,0000,0000,0000,,可能附近就有一个 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One could be right next door.
+Dialogue: 0,0:17:07.72,0:17:10.15,*Default,NTP,0000,0000,0000,,那么到底离黑洞多近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So how close does something have to be
+Dialogue: 0,0:17:10.19,0:17:13.26,*Default,NTP,0000,0000,0000,,我们就会被吸入其中呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To get sucked into a black hole?
+Dialogue: 0,0:17:15.49,0:17:17.96,*Default,NTP,0000,0000,0000,,离黑洞约地球到太阳间距离这么远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Too close to a black hole is about the distance
+Dialogue: 0,0:17:18.00,0:17:20.90,*Default,NTP,0000,0000,0000,,就算很近了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Between the sun and the earth
+Dialogue: 0,0:17:21.23,0:17:23.90,*Default,NTP,0000,0000,0000,,但那确实太近了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that is certainly too close.
+Dialogue: 0,0:17:26.34,0:17:29.77,*Default,NTP,0000,0000,0000,,对未来太空旅行者死于黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For future space travelers, death by a black hole
+Dialogue: 0,0:17:29.81,0:17:32.61,*Default,NTP,0000,0000,0000,,会是种壮烈的死法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would be a violent way to go.
+Dialogue: 0,0:17:37.92,0:17:40.52,*Default,NTP,0000,0000,0000,,黑洞杀死你的方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The method by which a black hole could kill you
+Dialogue: 0,0:17:40.55,0:17:43.72,*Default,NTP,0000,0000,0000,,取决于黑洞有多大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Depends on how big the black hole is.
+Dialogue: 0,0:17:46.26,0:17:49.06,*Default,NTP,0000,0000,0000,,黑洞分两类 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They come in two categories.
+Dialogue: 0,0:17:49.09,0:17:52.30,*Default,NTP,0000,0000,0000,,它们大部分是呈星状的黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of them are the stellar-mass black holes
+Dialogue: 0,0:17:52.60,0:17:56.27,*Default,NTP,0000,0000,0000,,质量是太阳的5~30倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which are five to 30 times the mass of our sun.
+Dialogue: 0,0:17:58.90,0:18:01.77,*Default,NTP,0000,0000,0000,,如果是星状的黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the black hole is stellar-sized
+Dialogue: 0,0:18:01.81,0:18:04.98,*Default,NTP,0000,0000,0000,,黑洞周围潮汐般的力量大得足以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then the tidal forces near the black hole is strong enough
+Dialogue: 0,0:18:05.01,0:18:07.68,*Default,NTP,0000,0000,0000,,把你整齐地撕裂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That it will tear you apart tidily
+Dialogue: 0,0:18:07.71,0:18:10.18,*Default,NTP,0000,0000,0000,,甚至在视界以外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even well outside the event horizon.
+Dialogue: 0,0:18:10.22,0:18:11.95,*Default,NTP,0000,0000,0000,,就算你想坠入黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you wanted to fall into a black hole
+Dialogue: 0,0:18:11.98,0:18:14.55,*Default,NTP,0000,0000,0000,,你一定不会想坠入这一种黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You certainly wouldn't want to fall into one of those.
+Dialogue: 0,0:18:14.59,0:18:16.82,*Default,NTP,0000,0000,0000,,它将把你撕成面条 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will spaghettify you.
+Dialogue: 0,0:18:20.43,0:18:23.03,*Default,NTP,0000,0000,0000,,但除了星状黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in addition to the stellar-sized black holes
+Dialogue: 0,0:18:23.06,0:18:25.20,*Default,NTP,0000,0000,0000,,还有一种庞大黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are others that are mammoth
+Dialogue: 0,0:18:25.23,0:18:29.97,*Default,NTP,0000,0000,0000,,是太阳质量的百万至十亿倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Millions to a billion times the mass of the sun.
+Dialogue: 0,0:18:32.20,0:18:33.77,*Default,NTP,0000,0000,0000,,现在科学家们相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And now, scientists believe
+Dialogue: 0,0:18:33.81,0:18:40.65,*Default,NTP,0000,0000,0000,,这种庞然大物占据着每个星系的中央位置 银河系也是 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That these monsters hold center court in every galaxy including our own.
+Dialogue: 0,0:18:49.32,0:18:51.32,*Default,NTP,0000,0000,0000,,黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes
+Dialogue: 0,0:18:51.35,0:18:51.79,*Default,NTP,0000,0000,0000,,它们是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're one
+Dialogue: 0,0:18:51.84,0:18:56.66,*Default,NTP,0000,0000,0000,,太空中最神秘 最具潜在危险的奇物之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of the most mysterious and potentially dangerous oddities in space.
+Dialogue: 0,0:18:59.20,0:19:02.00,*Default,NTP,0000,0000,0000,,一个黑洞胃口非常大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A black hole has a ravenous appetite.
+Dialogue: 0,0:19:02.03,0:19:04.63,*Default,NTP,0000,0000,0000,,吞食途经的任何物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It sucks in everything in its path
+Dialogue: 0,0:19:04.67,0:19:08.44,*Default,NTP,0000,0000,0000,,吐出残渣 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And spits out what it doesn't devour.
+Dialogue: 0,0:19:11.07,0:19:13.08,*Default,NTP,0000,0000,0000,,现在科学家们发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And now, scientists have discovered
+Dialogue: 0,0:19:13.11,0:19:15.61,*Default,NTP,0000,0000,0000,,存在超大质量黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are supermassive black holes
+Dialogue: 0,0:19:15.65,0:19:20.72,*Default,NTP,0000,0000,0000,,比它同族的星状黑洞要大百万倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which are millions of times bigger than their stellar mass cousins.
+Dialogue: 0,0:19:28.22,0:19:29.59,*Default,NTP,0000,0000,0000,,证据显示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And evidence suggests
+Dialogue: 0,0:19:29.63,0:19:34.16,*Default,NTP,0000,0000,0000,,超大质量黑洞诞生于宇宙大爆炸之后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That supermassive black holes were born after the big bang
+Dialogue: 0,0:19:34.20,0:19:37.44,*Default,NTP,0000,0000,0000,,产生于宇宙之初 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Universe was first created.
+Dialogue: 0,0:19:40.37,0:19:43.37,*Default,NTP,0000,0000,0000,,它们的形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The leading idea is that they would have formed
+Dialogue: 0,0:19:43.41,0:19:45.54,*Default,NTP,0000,0000,0000,,就像超大行星瓦解形成的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just like the stellar black holes from the collapse
+Dialogue: 0,0:19:45.58,0:19:48.58,*Default,NTP,0000,0000,0000,,星状黑洞的形成一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of the core of a massive star.
+Dialogue: 0,0:19:49.38,0:19:53.12,*Default,NTP,0000,0000,0000,,但它们会长大 依靠吸食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But then they grew by feeding grossly
+Dialogue: 0,0:19:53.15,0:19:58.62,*Default,NTP,0000,0000,0000,,与它们相撞的其他星系的气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the gas from other galaxies which collided with them.
+Dialogue: 0,0:20:08.56,0:20:10.33,*Default,NTP,0000,0000,0000,,科学家们发现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists have discovered
+Dialogue: 0,0:20:10.37,0:20:11.97,*Default,NTP,0000,0000,0000,,这些黑色怪物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That these black ogres
+Dialogue: 0,0:20:12.00,0:20:15.81,*Default,NTP,0000,0000,0000,,在星系的中心施展它们的力量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wield their power in the center of galaxies.
+Dialogue: 0,0:20:17.81,0:20:20.18,*Default,NTP,0000,0000,0000,,超大质量黑洞就处于星系的中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The supermassive black holes are at the center of the galaxy
+Dialogue: 0,0:20:20.21,0:20:21.41,*Default,NTP,0000,0000,0000,,很可能是因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most likely because
+Dialogue: 0,0:20:21.44,0:20:24.68,*Default,NTP,0000,0000,0000,,它们是星系中最庞大的物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are the most massive object within the galaxy.
+Dialogue: 0,0:20:24.68,0:20:26.98,*Default,NTP,0000,0000,0000,,庞大物体都趋于向心靠拢 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Massive objects tend to sink to the middle
+Dialogue: 0,0:20:27.02,0:20:31.22,*Default,NTP,0000,0000,0000,,所以你总是发现它们处于星系的中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you'll always find them at the center of a galaxy.
+Dialogue: 0,0:20:32.96,0:20:35.02,*Default,NTP,0000,0000,0000,,有很长一段时间 科学家们不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For a long time, scientists didn't think
+Dialogue: 0,0:20:35.06,0:20:38.63,*Default,NTP,0000,0000,0000,,超大质量黑洞存在于我们的星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A supermassive black hole existed in our neck of the Universe
+Dialogue: 0,0:20:38.66,0:20:40.73,*Default,NTP,0000,0000,0000,,银河系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The milky way.
+Dialogue: 0,0:20:46.34,0:20:47.50,*Default,NTP,0000,0000,0000,,但在1995年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in 1995
+Dialogue: 0,0:20:47.54,0:20:49.94,*Default,NTP,0000,0000,0000,,天体物理学家安德里亚·盖兹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astrophysicist Andrea Ghez
+Dialogue: 0,0:20:49.97,0:20:53.04,*Default,NTP,0000,0000,0000,,开始证明超大质量黑洞的存在 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Set out to prove one exists.
+Dialogue: 0,0:20:54.08,0:20:56.34,*Default,NTP,0000,0000,0000,,我们用了十年多时间完成一个实验 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've done an experiment over the last 10 years
+Dialogue: 0,0:20:56.38,0:20:57.48,*Default,NTP,0000,0000,0000,,去索求这个问题:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To ask the question
+Dialogue: 0,0:20:57.51,0:21:00.88,*Default,NTP,0000,0000,0000,,我们星系中央会有超大质量黑洞吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is there a supermassive black hole at the center of our galaxy
+Dialogue: 0,0:21:00.92,0:21:02.38,*Default,NTP,0000,0000,0000,,我们的试验方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the way we did this experiment
+Dialogue: 0,0:21:02.42,0:21:06.22,*Default,NTP,0000,0000,0000,,是用我们星系中央行星的移动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is to use the motions of stars at the center of our galaxy
+Dialogue: 0,0:21:06.26,0:21:08.62,*Default,NTP,0000,0000,0000,,来测试是否有大量的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To test whether or not there's a large amount of mass
+Dialogue: 0,0:21:08.66,0:21:11.29,*Default,NTP,0000,0000,0000,,存在于一个很小的空间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Inside a very small volume.
+Dialogue: 0,0:21:11.33,0:21:14.83,*Default,NTP,0000,0000,0000,,这就是黑洞存在的证据 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's the proof of a black hole.
+Dialogue: 0,0:21:20.77,0:21:22.97,*Default,NTP,0000,0000,0000,,在夏威夷的凯克天文台 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the Keck Observatory in Hawaii
+Dialogue: 0,0:21:23.01,0:21:26.37,*Default,NTP,0000,0000,0000,,配备有全球最大的望远镜之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which houses one of the largest telescopes in the world
+Dialogue: 0,0:21:26.41,0:21:27.34,*Default,NTP,0000,0000,0000,,盖兹开始用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ghez began using
+Dialogue: 0,0:21:27.38,0:21:31.28,*Default,NTP,0000,0000,0000,,一种先锋科技 叫做"适应性光学仪器" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A groundbreaking technology called "adaptive optics"
+Dialogue: 0,0:21:31.31,0:21:35.39,*Default,NTP,0000,0000,0000,,能聚焦看到很远的物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which brings into focus far away objects.
+Dialogue: 0,0:21:37.59,0:21:39.32,*Default,NTP,0000,0000,0000,,这是不用"适应性光学仪器"的结果 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this is without adaptive optics.
+Dialogue: 0,0:21:39.36,0:21:40.29,*Default,NTP,0000,0000,0000,,如你所见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is what you would see.
+Dialogue: 0,0:21:40.32,0:21:42.16,*Default,NTP,0000,0000,0000,,在这个大正方形里什么也没有 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this big square, there's nothing.
+Dialogue: 0,0:21:42.19,0:21:43.53,*Default,NTP,0000,0000,0000,,开启适应性光学仪器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We turn adaptive optics on
+Dialogue: 0,0:21:43.56,0:21:45.59,*Default,NTP,0000,0000,0000,,你就可以看见星星了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you see the stars.
+Dialogue: 0,0:21:45.63,0:21:47.30,*Default,NTP,0000,0000,0000,,这块区域里的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This region contains the stars
+Dialogue: 0,0:21:47.33,0:21:51.00,*Default,NTP,0000,0000,0000,,是我们实验的关键 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That provide the keys to our experiment.
+Dialogue: 0,0:21:51.03,0:21:54.04,*Default,NTP,0000,0000,0000,,我们要看看它们如何运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we wanna watch how these stars move.
+Dialogue: 0,0:21:56.14,0:21:58.81,*Default,NTP,0000,0000,0000,,盖兹注意到有一大群行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ghez noticed that there was a large cluster of stars
+Dialogue: 0,0:21:58.84,0:22:03.25,*Default,NTP,0000,0000,0000,,绕着我们星系中心的不明物体旋转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Orbiting around an invisible object at the center of our galaxy
+Dialogue: 0,0:22:04.48,0:22:08.55,*Default,NTP,0000,0000,0000,,而且它们的移动速率异常的快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they were moving at an unusually rapid rate.
+Dialogue: 0,0:22:09.79,0:22:11.19,*Default,NTP,0000,0000,0000,,我们实际上看到的这些行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we can actually see these stars
+Dialogue: 0,0:22:11.22,0:22:13.16,*Default,NTP,0000,0000,0000,,非常靠近我们星系的中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That are really close to the center
+Dialogue: 0,0:22:13.19,0:22:15.66,*Default,NTP,0000,0000,0000,,我们可以看到它们在中心处绕动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we can watch them go around.
+Dialogue: 0,0:22:15.69,0:22:17.39,*Default,NTP,0000,0000,0000,,这些行星在黑洞周围转动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Those stars go around the black hole
+Dialogue: 0,0:22:17.43,0:22:20.86,*Default,NTP,0000,0000,0000,,就像行星绕着太阳转动一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just the way the planets orbit the Sun.
+Dialogue: 0,0:22:21.50,0:22:22.40,*Default,NTP,0000,0000,0000,,绕行轨道告诉我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The orbits tell us
+Dialogue: 0,0:22:22.43,0:22:23.97,*Default,NTP,0000,0000,0000,,黑洞所在的地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where the black hole is
+Dialogue: 0,0:22:24.00,0:22:26.84,*Default,NTP,0000,0000,0000,,它就位于图中的星形处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's located right where the star is.
+Dialogue: 0,0:22:26.87,0:22:28.70,*Default,NTP,0000,0000,0000,,那是我们星系的中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's the center of our galaxy.
+Dialogue: 0,0:22:28.74,0:22:29.70,*Default,NTP,0000,0000,0000,,一些细节如:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the details
+Dialogue: 0,0:22:29.74,0:22:32.17,*Default,NTP,0000,0000,0000,,这些行星绕行得有多快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of exactly how fast these stars are going around
+Dialogue: 0,0:22:32.21,0:22:33.91,*Default,NTP,0000,0000,0000,,轨道有多紧密 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And how tight the orbits are
+Dialogue: 0,0:22:33.94,0:22:36.51,*Default,NTP,0000,0000,0000,,向我们透露了黑洞的质量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tells us the mass of the black hole
+Dialogue: 0,0:22:36.55,0:22:37.18,*Default,NTP,0000,0000,0000,,我们现今认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which we think today
+Dialogue: 0,0:22:37.21,0:22:40.79,*Default,NTP,0000,0000,0000,,它的质量是太阳质量的四百万倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is four million times the mass of our Sun.
+Dialogue: 0,0:22:44.62,0:22:45.59,*Default,NTP,0000,0000,0000,,对盖兹来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For Ghez
+Dialogue: 0,0:22:45.62,0:22:48.99,*Default,NTP,0000,0000,0000,,证明一个超大质量黑洞确实存在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Confirming that a supermassive black hole indeed exists
+Dialogue: 0,0:22:49.03,0:22:50.86,*Default,NTP,0000,0000,0000,,我们星系的中央 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the heart of our galaxy
+Dialogue: 0,0:22:50.89,0:22:54.30,*Default,NTP,0000,0000,0000,,意义好比登上珠峰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Was like summiting Mount Everest.
+Dialogue: 0,0:22:55.73,0:22:58.07,*Default,NTP,0000,0000,0000,,在我们星系的中央发现超大质量黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was incredibly exciting to discover
+Dialogue: 0,0:22:58.13,0:22:59.94,*Default,NTP,0000,0000,0000,,令我无比兴奋 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The supermassive black hole at the center of our galaxy
+Dialogue: 0,0:22:59.97,0:23:03.17,*Default,NTP,0000,0000,0000,,因为我们解决了曾经写下的问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Simply because it was a question we had set out to address.
+Dialogue: 0,0:23:03.21,0:23:05.01,*Default,NTP,0000,0000,0000,,问题是"存在超大质量黑洞吗"？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The question, "is there a supermassive black hole?"
+Dialogue: 0,0:23:05.04,0:23:08.61,*Default,NTP,0000,0000,0000,,我们能够设计实验来认识它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we could design an experiment that actually got at it.
+Dialogue: 0,0:23:19.49,0:23:21.92,*Default,NTP,0000,0000,0000,,天体物理学家安德鲁·汉密尔顿说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astrophysicist Andrew Hamilton says
+Dialogue: 0,0:23:21.96,0:23:24.29,*Default,NTP,0000,0000,0000,,死于超大质量黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}death by a supermassive black hole
+Dialogue: 0,0:23:24.33,0:23:29.47,*Default,NTP,0000,0000,0000,,与死于另一种较小的星形黑洞会有很大不同 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be much different than by a smaller stellar mass relative.
+Dialogue: 0,0:23:32.60,0:23:34.67,*Default,NTP,0000,0000,0000,,如果你想去旅行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you wanna go and be a tourist
+Dialogue: 0,0:23:34.70,0:23:37.97,*Default,NTP,0000,0000,0000,,想要跌入黑洞的终极经历 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And have the ultimate experience of falling inside a black hole
+Dialogue: 0,0:23:38.01,0:23:40.14,*Default,NTP,0000,0000,0000,,发现那里有些什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And finding out what's really there
+Dialogue: 0,0:23:40.18,0:23:42.91,*Default,NTP,0000,0000,0000,,那么去超大质量黑洞旅行吧 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Go visit a supermassive black hole
+Dialogue: 0,0:23:42.95,0:23:45.08,*Default,NTP,0000,0000,0000,,更痛快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Much better idea ,
+Dialogue: 0,0:23:46.78,0:23:49.22,*Default,NTP,0000,0000,0000,,不同于星形黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike a stellar black hole
+Dialogue: 0,0:23:49.22,0:23:53.99,*Default,NTP,0000,0000,0000,,因为在你进入星形黑洞涡流前 它已把你撕成碎屑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which would rip you to shreds, before entering its deadly vortex
+Dialogue: 0,0:23:55.33,0:23:57.59,*Default,NTP,0000,0000,0000,,太空探险者可以体验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A space explorer could actually experience
+Dialogue: 0,0:23:57.63,0:24:01.87,*Default,NTP,0000,0000,0000,,自由坠入超大质量黑洞的感觉 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Free falling inside a supermassive black hole.
+Dialogue: 0,0:24:05.20,0:24:06.84,*Default,NTP,0000,0000,0000,,坠入超大质量黑洞里面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Inside of a supermassive black hole
+Dialogue: 0,0:24:07.04,0:24:10.67,*Default,NTP,0000,0000,0000,,结果是尽管黑洞质量很大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it turns out that even though the black hole is more massive
+Dialogue: 0,0:24:10.71,0:24:12.91,*Default,NTP,0000,0000,0000,,它的体积也很大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's also much larger in size.
+Dialogue: 0,0:24:12.94,0:24:13.41,*Default,NTP,0000,0000,0000,,这意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that means
+Dialogue: 0,0:24:13.44,0:24:15.64,*Default,NTP,0000,0000,0000,,这种向心引力很弱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That the type of forces are weak enough
+Dialogue: 0,0:24:15.68,0:24:18.18,*Default,NTP,0000,0000,0000,,以至于你可以穿过"视界"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That you could pass through the event horizon
+Dialogue: 0,0:24:18.21,0:24:20.42,*Default,NTP,0000,0000,0000,,深深跌入黑洞里面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And fall deep inside the black hole
+Dialogue: 0,0:24:20.45,0:24:23.05,*Default,NTP,0000,0000,0000,,而不被整齐地撕裂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without being tidily torn apart.
+Dialogue: 0,0:24:23.59,0:24:26.62,*Default,NTP,0000,0000,0000,,但是 深入黑洞里面后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, deep down inside the black hole
+Dialogue: 0,0:24:26.66,0:24:29.99,*Default,NTP,0000,0000,0000,,黑洞自转的离心力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The centrifugal force of the rotation of the black hole
+Dialogue: 0,0:24:30.03,0:24:32.83,*Default,NTP,0000,0000,0000,,驱使你向外移 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Provides effectively a repulsion.
+Dialogue: 0,0:24:32.86,0:24:34.76,*Default,NTP,0000,0000,0000,,如果黑洞中有一点物质的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there's any matter at all inside it
+Dialogue: 0,0:24:34.80,0:24:37.20,*Default,NTP,0000,0000,0000,,向内跌的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then stuff that's falling in
+Dialogue: 0,0:24:37.23,0:24:40.37,*Default,NTP,0000,0000,0000,,将会撞上向外飞溅的物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will tend to collide with stuff that's trying to get out.
+Dialogue: 0,0:24:40.40,0:24:43.04,*Default,NTP,0000,0000,0000,,这种高能量碰撞的结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the result of that collision of energies
+Dialogue: 0,0:24:43.07,0:24:50.85,*Default,NTP,0000,0000,0000,,将导致难以想象的 高热稠密等离子体混乱大漩涡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is an unimaginably chaotic maelstrom of super hot dense plasma.
+Dialogue: 0,0:24:50.88,0:24:52.01,*Default,NTP,0000,0000,0000,,那样的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in that case
+Dialogue: 0,0:24:52.05,0:24:55.35,*Default,NTP,0000,0000,0000,,你将面临被烘烤的命运 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Your fate is that it can roast you.
+Dialogue: 0,0:25:01.89,0:25:05.06,*Default,NTP,0000,0000,0000,,那么到底要多近太空旅行者才会被吸入\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So how close would space travelers have to be to get sucked
+Dialogue: 0,0:25:05.09,0:25:10.37,*Default,NTP,0000,0000,0000,,星系中央的超大质量黑洞中呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Into a supermassive black hole in the center of a galaxy?
+Dialogue: 0,0:25:11.37,0:25:12.90,*Default,NTP,0000,0000,0000,,对超大质量黑洞来说 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For a supermassive black hole
+Dialogue: 0,0:25:12.94,0:25:17.57,*Default,NTP,0000,0000,0000,,从黑洞中心到你感到它的作用的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would have to be about a million to a billion miles
+Dialogue: 0,0:25:18.21,0:25:21.81,*Default,NTP,0000,0000,0000,,约百万到十亿英里远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the black hole to feel its influence.
+Dialogue: 0,0:25:28.82,0:25:29.65,*Default,NTP,0000,0000,0000,,若干年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over the years
+Dialogue: 0,0:25:29.69,0:25:31.59,*Default,NTP,0000,0000,0000,,钱德拉射线天文台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Chandra x-ray Observatory
+Dialogue: 0,0:25:31.62,0:25:32.79,*Default,NTP,0000,0000,0000,,捕捉到银河中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Has caught our galaxy's
+Dialogue: 0,0:25:32.82,0:25:36.62,*Default,NTP,0000,0000,0000,,超大质量黑洞吞噬宇宙物质的画面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Supermassive black hole nibbling on cosmic matter
+Dialogue: 0,0:25:36.66,0:25:40.63,*Default,NTP,0000,0000,0000,,并不是像其它超大质量黑洞那样活跃 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not bingeing like other supermassive black holes.
+Dialogue: 0,0:25:43.13,0:25:48.14,*Default,NTP,0000,0000,0000,,我们银河系的黑洞比起其它黑洞来说并不活跃 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our black hole is, today, inactive, compared to other black holes.
+Dialogue: 0,0:25:48.17,0:25:50.77,*Default,NTP,0000,0000,0000,,我们的星系中央的气体含量很少 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our galaxy has very little gas at the center
+Dialogue: 0,0:25:50.81,0:25:53.34,*Default,NTP,0000,0000,0000,,所以实际上我们星系的黑洞能吃到的物质很少 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so, there's nothing really for the black hole to feed on.
+Dialogue: 0,0:25:53.38,0:25:54.94,*Default,NTP,0000,0000,0000,,它吃得不多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not eating very much.
+Dialogue: 0,0:25:54.98,0:25:58.08,*Default,NTP,0000,0000,0000,,它正处于挨饿节食期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's going on a bit of starvation diet.
+Dialogue: 0,0:26:00.62,0:26:04.52,*Default,NTP,0000,0000,0000,,我们星系的超大质量黑洞似乎在斋戒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our galaxy's supermassive black hole appears to be fasting.
+Dialogue: 0,0:26:05.96,0:26:07.62,*Default,NTP,0000,0000,0000,,这部分是因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is partly due to the fact
+Dialogue: 0,0:26:07.66,0:26:09.52,*Default,NTP,0000,0000,0000,,随着银河年龄增大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That as a galaxy ages
+Dialogue: 0,0:26:09.56,0:26:14.13,*Default,NTP,0000,0000,0000,,能吞食得到的物质越来越少 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Less and less matter is present for it to gorge on.
+Dialogue: 0,0:26:17.03,0:26:17.77,*Default,NTP,0000,0000,0000,,但在将来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, in the future
+Dialogue: 0,0:26:17.80,0:26:19.90,*Default,NTP,0000,0000,0000,,如果在银河中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It might be quite a bit more active
+Dialogue: 0,0:26:19.94,0:26:25.34,*Default,NTP,0000,0000,0000,,它能得到充足的新鲜气体供应的话 它可能会变得更活跃些 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it ever gets a fresh supply of gas at its center to feed off of
+Dialogue: 0,0:26:27.48,0:26:32.12,*Default,NTP,0000,0000,0000,,恢复我们的超大质量黑洞食欲的一个办法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One way to rejuvenate our supermassive black hole's appetite
+Dialogue: 0,0:26:33.15,0:26:36.69,*Default,NTP,0000,0000,0000,,就是与另一个星系相撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is to collide with another galaxy.
+Dialogue: 0,0:26:40.29,0:26:43.03,*Default,NTP,0000,0000,0000,,听着难以置信？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sound implausible?
+Dialogue: 0,0:26:43.76,0:26:45.53,*Default,NTP,0000,0000,0000,,两百万光年远处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two million light-years away
+Dialogue: 0,0:26:45.56,0:26:48.20,*Default,NTP,0000,0000,0000,,我们系最近的邻居仙女星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our closest neighbor, the Andromeda galaxy
+Dialogue: 0,0:26:48.23,0:26:52.60,*Default,NTP,0000,0000,0000,,正以75英里每秒的速度冲向我们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is charging toward us at almost 75 miles per second
+Dialogue: 0,0:26:52.74,0:26:56.07,*Default,NTP,0000,0000,0000,,或是说270 000英里每小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or 270,000 miles per hour.
+Dialogue: 0,0:27:01.49,0:27:02.45,*Default,NTP,0000,0000,0000,,在未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the future
+Dialogue: 0,0:27:02.49,0:27:05.83,*Default,NTP,0000,0000,0000,,科学家们预言这两个星系会相撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists predict the two galaxies will collide
+Dialogue: 0,0:27:07.36,0:27:08.63,*Default,NTP,0000,0000,0000,,由于冲撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And upon impact
+Dialogue: 0,0:27:08.66,0:27:10.73,*Default,NTP,0000,0000,0000,,较大的星系将会产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The larger galaxy may engage in
+Dialogue: 0,0:27:10.79,0:27:16.24,*Default,NTP,0000,0000,0000,,宇宙中最原始的运动之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the most primitive acts known in the Universe.
+Dialogue: 0,0:27:23.87,0:27:27.48,*Default,NTP,0000,0000,0000,,最野蛮的仪式之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's one of the most barbaric rituals in space
+Dialogue: 0,0:27:31.95,0:27:35.15,*Default,NTP,0000,0000,0000,,较大星系吞并较小的星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A larger galaxy eats a smaller one.
+Dialogue: 0,0:27:42.99,0:27:46.80,*Default,NTP,0000,0000,0000,,这幅场景不是科幻小说作家的幻想 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The scenario isn't a science fiction writer's fantasy
+Dialogue: 0,0:27:47.23,0:27:49.40,*Default,NTP,0000,0000,0000,,它是宇宙真实的写照 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a cosmic reality.
+Dialogue: 0,0:27:50.73,0:27:53.57,*Default,NTP,0000,0000,0000,,叫做"星系吞食" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's called "galactic cannibalism."
+Dialogue: 0,0:27:58.31,0:28:01.24,*Default,NTP,0000,0000,0000,,当两星系迎头相撞时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ghastly event can occur on the celestial highway
+Dialogue: 0,0:28:01.48,0:28:04.85,*Default,NTP,0000,0000,0000,,这惊人的一幕就发生了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When two galaxies have a head-on collision
+Dialogue: 0,0:28:10.45,0:28:15.46,*Default,NTP,0000,0000,0000,,两星系最终融合在一起 但不是和睦的合并 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Both eventually melt together in a less than harmonious merger.
+Dialogue: 0,0:28:15.49,0:28:17.83,*Default,NTP,0000,0000,0000,,星系非常暴力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're a galaxy, it's very violent.
+Dialogue: 0,0:28:17.86,0:28:20.30,*Default,NTP,0000,0000,0000,,会把你撕成碎片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're torn to shreds.
+Dialogue: 0,0:28:24.20,0:28:27.74,*Default,NTP,0000,0000,0000,,约书亚·巴尼斯研习星系融合 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Joshua Barnes studies galaxy mergers.
+Dialogue: 0,0:28:28.47,0:28:30.84,*Default,NTP,0000,0000,0000,,表现得像犯罪现场调查者 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Acting like a crime scene investigator
+Dialogue: 0,0:28:30.88,0:28:34.91,*Default,NTP,0000,0000,0000,,他也承认他的研究有点类似观察车祸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He admits his research is a bit like inspecting a car crash.
+Dialogue: 0,0:28:38.25,0:28:41.92,*Default,NTP,0000,0000,0000,,想象你遇到一个车祸现场 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine that you come across the scene of a car crash
+Dialogue: 0,0:28:45.82,0:28:48.19,*Default,NTP,0000,0000,0000,,只有遇难的车辆没有目击者 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two wrecked vehicles but no witnesses
+Dialogue: 0,0:28:48.23,0:28:49.66,*Default,NTP,0000,0000,0000,,没人告诉你发生过什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nobody to tell you what happened
+Dialogue: 0,0:28:49.69,0:28:52.23,*Default,NTP,0000,0000,0000,,能调查的只有现场的证据 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All you have is the physical evidence.
+Dialogue: 0,0:28:53.16,0:28:54.90,*Default,NTP,0000,0000,0000,,当我们研究星系碰撞时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's basically what we have to do
+Dialogue: 0,0:28:54.93,0:28:56.00,*Default,NTP,0000,0000,0000,,基本上就是这样研究的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When we study colliding galaxies.
+Dialogue: 0,0:28:56.03,0:28:58.07,*Default,NTP,0000,0000,0000,,没有星系碰撞的目击者 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there are no witnesses to a galactic collision.
+Dialogue: 0,0:28:58.10,0:29:02.24,*Default,NTP,0000,0000,0000,,能调查的只有目前星系撞后的状态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All that you have is the present state of the wreckage.
+Dialogue: 0,0:29:04.17,0:29:07.01,*Default,NTP,0000,0000,0000,,所以你得开展一系列调查\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you have to conduct a sort of forensic investigation
+Dialogue: 0,0:29:07.04,0:29:07.63,*Default,NTP,0000,0000,0000,,来弄清楚 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To try and figure out
+Dialogue: 0,0:29:07.69,0:29:10.25,*Default,NTP,0000,0000,0000,,以前发生过些什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what happened on the basis of what you have today.
+Dialogue: 0,0:29:12.38,0:29:14.98,*Default,NTP,0000,0000,0000,,如果他们迎头相撞 你可以知道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If they collided head on , You would know
+Dialogue: 0,0:29:15.02,0:29:16.32,*Default,NTP,0000,0000,0000,,因为可以找到压碎的前端 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because the fronts were squashed up.
+Dialogue: 0,0:29:16.35,0:29:18.35,*Default,NTP,0000,0000,0000,,如果它们侧边相撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if they, say, side-swiped each other
+Dialogue: 0,0:29:18.39,0:29:21.59,*Default,NTP,0000,0000,0000,,其实在星系相撞中 这种侧边相撞更有可能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which is actually more likely in galactic collisions
+Dialogue: 0,0:29:21.63,0:29:23.79,*Default,NTP,0000,0000,0000,,侧边撞留下的破坏痕迹又是完全不同的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would leave you a completely different pattern of wreckage
+Dialogue: 0,0:29:23.83,0:29:25.90,*Default,NTP,0000,0000,0000,,你可以区别出来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you could interpret that.
+Dialogue: 0,0:29:27.10,0:29:29.80,*Default,NTP,0000,0000,0000,,是什么引起星系融合的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what causes galaxy mergers?
+Dialogue: 0,0:29:30.33,0:29:32.37,*Default,NTP,0000,0000,0000,,万有引力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's gravity.
+Dialogue: 0,0:29:34.87,0:29:37.87,*Default,NTP,0000,0000,0000,,宇宙中的任何物质都是在太空中自由穿梭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everything in the universe is falling freely through space
+Dialogue: 0,0:29:37.91,0:29:41.08,*Default,NTP,0000,0000,0000,,对两个像星系这样大的两物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when you've got two large objects like galaxies
+Dialogue: 0,0:29:41.11,0:29:42.75,*Default,NTP,0000,0000,0000,,它们相互的万有引力把它们拉近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their mutual gravity pulls them together
+Dialogue: 0,0:29:42.78,0:29:45.08,*Default,NTP,0000,0000,0000,,导致相互靠近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they fall into each other.
+Dialogue: 0,0:29:45.72,0:29:49.79,*Default,NTP,0000,0000,0000,,确实就是万有引力把物体拉聚在一起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's really just the force of gravity pulling things around.
+Dialogue: 0,0:29:51.82,0:29:53.86,*Default,NTP,0000,0000,0000,,我们今天看到的星系碰撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The galaxies that we're seeing colliding today
+Dialogue: 0,0:29:53.89,0:29:57.63,*Default,NTP,0000,0000,0000,,它们大多都是100到150亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of them have been bound and destined to collide
+Dialogue: 0,0:29:57.66,0:30:00.23,*Default,NTP,0000,0000,0000,,就注定要撞在一起的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For upwards of 10--15 billion years
+Dialogue: 0,0:30:00.56,0:30:03.50,*Default,NTP,0000,0000,0000,,现在只是在完成它们的第一次碰撞而已 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they're only now just making it to that first collision.
+Dialogue: 0,0:30:13.51,0:30:16.11,*Default,NTP,0000,0000,0000,,我们银河系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our own galaxy, the Milky Way
+Dialogue: 0,0:30:16.15,0:30:19.78,*Default,NTP,0000,0000,0000,,正在移向毗邻的仙女星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is moving toward our neighbor, Andromeda.
+Dialogue: 0,0:30:21.82,0:30:24.45,*Default,NTP,0000,0000,0000,,两个星系都呈螺线形 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Both galaxies are spiral in shape
+Dialogue: 0,0:30:24.49,0:30:29.93,*Default,NTP,0000,0000,0000,,但是仙女星系约是超大质量黑洞质量两倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But andromeda is about twice as massive with a supermassive black hole
+Dialogue: 0,0:30:29.96,0:30:32.73,*Default,NTP,0000,0000,0000,,是太阳质量3千万倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The mass of 30 million suns.
+Dialogue: 0,0:30:38.67,0:30:41.30,*Default,NTP,0000,0000,0000,,当两星系相互靠拢时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'll look a lot like a dance.
+Dialogue: 0,0:30:41.64,0:30:44.01,*Default,NTP,0000,0000,0000,,看起来就像在舞蹈 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you see the two galaxies come close together
+Dialogue: 0,0:30:44.04,0:30:46.04,*Default,NTP,0000,0000,0000,,它们如舞蹈般绕着对方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they kind of dance around each other
+Dialogue: 0,0:30:46.08,0:30:48.38,*Default,NTP,0000,0000,0000,,越靠越近 越移越快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Getting closer and closer, moving faster and faster
+Dialogue: 0,0:30:48.41,0:30:51.65,*Default,NTP,0000,0000,0000,,在它们最终聚在一起前 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Before they finally come together.
+Dialogue: 0,0:30:54.28,0:30:55.62,*Default,NTP,0000,0000,0000,,在碰撞那一点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But at the point of impact,
+Dialogue: 0,0:30:55.65,0:30:59.42,*Default,NTP,0000,0000,0000,,星系的舞蹈比人类的脚尖旋转复杂得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These galactic dancers will do more than pirouette.
+Dialogue: 0,0:31:00.46,0:31:03.56,*Default,NTP,0000,0000,0000,,每个星系都有行星构成的螺线圆盘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each one has a spiral disc of stars
+Dialogue: 0,0:31:03.59,0:31:06.09,*Default,NTP,0000,0000,0000,,螺线圆盘外围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then surrounding that,
+Dialogue: 0,0:31:06.13,0:31:08.93,*Default,NTP,0000,0000,0000,,有一层暗物质光圈 人眼是不可见的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A halo of dark matter, invisible material
+Dialogue: 0,0:31:08.97,0:31:13.10,*Default,NTP,0000,0000,0000,,但我们能够探测到它的引力场 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That we can detect by its gravitational field.
+Dialogue: 0,0:31:13.14,0:31:15.30,*Default,NTP,0000,0000,0000,,这两层暗光圈空间范围更大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These two dark halos, which are much larger
+Dialogue: 0,0:31:15.34,0:31:18.17,*Default,NTP,0000,0000,0000,,两星系经过时 暗光圈会叠在一起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will overlap as the galaxies pass by.
+Dialogue: 0,0:31:18.21,0:31:22.04,*Default,NTP,0000,0000,0000,,随着两星系螺线式环绕对方 最后越来越近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eventually, as the two galaxies spiral around each other closer and closer
+Dialogue: 0,0:31:22.08,0:31:24.21,*Default,NTP,0000,0000,0000,,你就再也区分不开它们了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can no longer distinguish them as separate systems
+Dialogue: 0,0:31:24.25,0:31:27.05,*Default,NTP,0000,0000,0000,,最终 核聚在一起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And finally, the nuclei merge.
+Dialogue: 0,0:31:30.48,0:31:33.45,*Default,NTP,0000,0000,0000,,仙女星系与银河系冲撞时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When Andromeda and the Milky Way collide
+Dialogue: 0,0:31:33.78,0:31:35.21,*Default,NTP,0000,0000,0000,,银河系将会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's going
+Dialogue: 0,0:31:35.25,0:31:38.25,*Default,NTP,0000,0000,0000,,遭到最大的冲撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To be the biggest collision that the Milky Way has seen
+Dialogue: 0,0:31:39.25,0:31:42.56,*Default,NTP,0000,0000,0000,,50亿年来一遇 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Something like five billion years time.
+Dialogue: 0,0:31:43.39,0:31:46.29,*Default,NTP,0000,0000,0000,,好消息是我们太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The good news is that we, the solar system
+Dialogue: 0,0:31:46.33,0:31:47.76,*Default,NTP,0000,0000,0000,,能够正面观看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will have a grandstand view.
+Dialogue: 0,0:31:47.79,0:31:50.16,*Default,NTP,0000,0000,0000,,两星系冲撞的经过 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What will happen is the two galaxies
+Dialogue: 0,0:31:50.20,0:31:51.50,*Default,NTP,0000,0000,0000,,它们的螺线圆盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their spiral discs
+Dialogue: 0,0:31:51.53,0:31:55.94,*Default,NTP,0000,0000,0000,,将被整齐地撕裂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are gonna get tidily torn apart into fantastical shapes.
+Dialogue: 0,0:32:02.18,0:32:03.81,*Default,NTP,0000,0000,0000,,当圆盘靠近对方时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the discs start to get close to each other
+Dialogue: 0,0:32:03.84,0:32:06.55,*Default,NTP,0000,0000,0000,,它们将扔掉长长的行星彩带 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They'll throw off long streamers of stars
+Dialogue: 0,0:32:06.58,0:32:08.92,*Default,NTP,0000,0000,0000,,所谓的"潮汐尾翼" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So-called "tidal tails."
+Dialogue: 0,0:32:10.42,0:32:12.52,*Default,NTP,0000,0000,0000,,对于太阳和太阳系来说 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what happens to the Sun and the solar system
+Dialogue: 0,0:32:12.55,0:32:14.12,*Default,NTP,0000,0000,0000,,我们是否会被扔出去呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Should we still be around
+Dialogue: 0,0:32:14.15,0:32:15.52,*Default,NTP,0000,0000,0000,,实际情形很难预测 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It really is hard to predict.
+Dialogue: 0,0:32:15.56,0:32:18.59,*Default,NTP,0000,0000,0000,,我们可能有幸成为其中的一条"潮汐尾翼" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could get lucky and be on one of those tidal tails
+Dialogue: 0,0:32:18.63,0:32:22.36,*Default,NTP,0000,0000,0000,,飞出圆盘时可以鸟瞰到冲撞的整个过程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And get a sort of bird's eye view of the whole process as we fly out
+Dialogue: 0,0:32:22.40,0:32:23.70,*Default,NTP,0000,0000,0000,,或者我们有可能被吸住 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or we could get thrown into an orbit
+Dialogue: 0,0:32:23.73,0:32:26.73,*Default,NTP,0000,0000,0000,,卷入正在合并的星系的中央 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Plunging towards the center of the merging galaxies.
+Dialogue: 0,0:32:26.77,0:32:29.64,*Default,NTP,0000,0000,0000,,基本上是难以预测的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's basically no way to say.
+Dialogue: 0,0:32:35.74,0:32:36.78,*Default,NTP,0000,0000,0000,,星系合并过程中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the merger
+Dialogue: 0,0:32:36.81,0:32:41.55,*Default,NTP,0000,0000,0000,,如果我们太阳系穿过仙女系外圈或边缘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If our solar system moves through the suburbs or the edges of Andromeda
+Dialogue: 0,0:32:41.58,0:32:44.28,*Default,NTP,0000,0000,0000,,那可能就什么也看不到 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We might not notice anything.
+Dialogue: 0,0:32:45.42,0:32:46.72,*Default,NTP,0000,0000,0000,,另一方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the other hand
+Dialogue: 0,0:32:46.75,0:32:49.29,*Default,NTP,0000,0000,0000,,无数的行星和太空物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Countless stars and space material
+Dialogue: 0,0:32:49.32,0:32:51.99,*Default,NTP,0000,0000,0000,,可能会飞向我们太阳系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could be propelled towards the planets
+Dialogue: 0,0:32:52.03,0:32:55.43,*Default,NTP,0000,0000,0000,,可能会扰乱太阳系行星的运行轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Potentially disrupting their orbits around the sun.
+Dialogue: 0,0:32:58.26,0:33:03.50,*Default,NTP,0000,0000,0000,,而且整个银河系可能面临大变动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Moreover, the entire galaxy could face cosmic upheaval.
+Dialogue: 0,0:33:05.94,0:33:07.07,*Default,NTP,0000,0000,0000,,我们可以推论出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could have consequences
+Dialogue: 0,0:33:07.11,0:33:09.41,*Default,NTP,0000,0000,0000,,结果是很危险的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which would nonetheless be dangerous.
+Dialogue: 0,0:33:09.44,0:33:10.64,*Default,NTP,0000,0000,0000,,首先 我们星系可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First of all, we could have
+Dialogue: 0,0:33:10.68,0:33:14.45,*Default,NTP,0000,0000,0000,,在星系合并后形成许多行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A lot of star formations as a consequence of the merger.
+Dialogue: 0,0:33:16.38,0:33:18.35,*Default,NTP,0000,0000,0000,,目前银河系和仙女系都有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Currently, both the Milky Way and Andromeda galaxy
+Dialogue: 0,0:33:18.38,0:33:19.99,*Default,NTP,0000,0000,0000,,很多星际气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Have plenty of interstellar gas
+Dialogue: 0,0:33:20.02,0:33:23.36,*Default,NTP,0000,0000,0000,,这是行星形成的原材料 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The raw material from which stars are born.
+Dialogue: 0,0:33:25.56,0:33:26.46,*Default,NTP,0000,0000,0000,,那意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, that would mean
+Dialogue: 0,0:33:26.49,0:33:31.17,*Default,NTP,0000,0000,0000,,许多"零龄主序后星"  "超新星"会远离我们而去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A lot more evolved stars, supernova going off in our vicinity
+Dialogue: 0,0:33:33.67,0:33:36.17,*Default,NTP,0000,0000,0000,,这一离去将导致震波 冲击波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that could create shockwaves, blast waves
+Dialogue: 0,0:33:36.20,0:33:37.87,*Default,NTP,0000,0000,0000,,或是宇宙射线爆发 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or bursts of cosmic rays
+Dialogue: 0,0:33:37.90,0:33:40.84,*Default,NTP,0000,0000,0000,,结局非常险恶 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which would have nasty consequences.
+Dialogue: 0,0:33:47.15,0:33:48.21,*Default,NTP,0000,0000,0000,,两系合并后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After the merger
+Dialogue: 0,0:33:48.25,0:33:51.35,*Default,NTP,0000,0000,0000,,我们太阳系的命运飘忽不定 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fate of our solar system is uncertain
+Dialogue: 0,0:33:51.38,0:33:56.22,*Default,NTP,0000,0000,0000,,当银河系和仙女系各自的超大质量黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the supermassive black holes of Andromeda and the Milky Way
+Dialogue: 0,0:33:56.36,0:33:59.66,*Default,NTP,0000,0000,0000,,在新形成的混乱星系里相互竞争 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Vie for power in the newly jumbled galaxy.
+Dialogue: 0,0:34:05.00,0:34:07.03,*Default,NTP,0000,0000,0000,,星系合并时会形成一个新的星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When they merge, they're gonna form a new galaxy
+Dialogue: 0,0:34:07.07,0:34:09.13,*Default,NTP,0000,0000,0000,,这两个超大质量黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And these two supermassive black holes
+Dialogue: 0,0:34:09.17,0:34:13.97,*Default,NTP,0000,0000,0000,,也会逐渐盘旋着驻入新的星系中央 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will gradually spiral into the middle of the new galaxy.
+Dialogue: 0,0:34:14.01,0:34:17.31,*Default,NTP,0000,0000,0000,,一对黑洞的状态只保持很短一段时间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They will be a binary black hole for a short time.
+Dialogue: 0,0:34:18.71,0:34:21.71,*Default,NTP,0000,0000,0000,,这些黑洞开始吞食气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And these black holes will start to swallow gas
+Dialogue: 0,0:34:21.75,0:34:23.15,*Default,NTP,0000,0000,0000,,冲撞搅起太空物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the collision stirs things up
+Dialogue: 0,0:34:23.18,0:34:25.05,*Default,NTP,0000,0000,0000,,太空气体夹着物质卷入黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gas will fall into those black holes.
+Dialogue: 0,0:34:25.09,0:34:25.78,*Default,NTP,0000,0000,0000,,物质被激发 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're gonna turn on.
+Dialogue: 0,0:34:25.82,0:34:29.12,*Default,NTP,0000,0000,0000,,开始迸发辐射线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're gonna start emitting radiation.
+Dialogue: 0,0:34:29.16,0:34:33.83,*Default,NTP,0000,0000,0000,,烟尘潜在地为星系中央的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the potential for fireworks, possibly for fueling the black holes
+Dialogue: 0,0:34:33.86,0:34:35.59,*Default,NTP,0000,0000,0000,,补充了能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the centers of the galaxies
+Dialogue: 0,0:34:35.63,0:34:38.60,*Default,NTP,0000,0000,0000,,物质像那样被卷入进去是可能的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Matter falling into them, possibilities like that do exist
+Dialogue: 0,0:34:38.63,0:34:42.23,*Default,NTP,0000,0000,0000,,观看这一过程唯一安全的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then the only safe place to watch the process
+Dialogue: 0,0:34:42.27,0:34:43.47,*Default,NTP,0000,0000,0000,,就是其中一个"潮汐尾翼" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would be on one of those tidal tails
+Dialogue: 0,0:34:43.50,0:34:46.57,*Default,NTP,0000,0000,0000,,安度并逃离冲撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Riding out and escaping the collision.
+Dialogue: 0,0:34:51.54,0:34:52.99,*Default,NTP,0000,0000,0000,,一些科学家认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists think that
+Dialogue: 0,0:34:53.05,0:34:55.88,*Default,NTP,0000,0000,0000,,仙女系的超大质量黑洞更大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Andromeda's larger supermassive black hole
+Dialogue: 0,0:34:55.92,0:34:59.55,*Default,NTP,0000,0000,0000,,将最终吞噬掉银河系的超大质量黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will eventually consume the Milky Way's.
+Dialogue: 0,0:34:59.99,0:35:02.49,*Default,NTP,0000,0000,0000,,两个黑洞先是盘旋在中央\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The two black holes will spiral in the center
+Dialogue: 0,0:35:02.52,0:35:03.92,*Default,NTP,0000,0000,0000,,形成一对黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And become a binary black hole
+Dialogue: 0,0:35:03.96,0:35:05.92,*Default,NTP,0000,0000,0000,,然后互相吞并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And ultimately, will merge with one another
+Dialogue: 0,0:35:05.96,0:35:09.97,*Default,NTP,0000,0000,0000,,形成一个更大的超大质量黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To become yet an even bigger supermassive black hole.
+Dialogue: 0,0:35:14.43,0:35:18.80,*Default,NTP,0000,0000,0000,,所以 一个小星系撞击一个大星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, a small galaxy colliding with a large galaxy
+Dialogue: 0,0:35:18.84,0:35:21.91,*Default,NTP,0000,0000,0000,,小星系可能被大星系控制 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is likely to be dominated by the larger galaxy.
+Dialogue: 0,0:35:22.54,0:35:24.58,*Default,NTP,0000,0000,0000,,最终 小星系中的大量物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'll essentially have most of its material
+Dialogue: 0,0:35:24.61,0:35:28.22,*Default,NTP,0000,0000,0000,,被大星系吸收 附属在大星系之内 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Absorbed by that galaxy and becomes subsumed into it.
+Dialogue: 0,0:35:35.72,0:35:37.62,*Default,NTP,0000,0000,0000,,科学家们认为星系吞并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe galaxy mergers
+Dialogue: 0,0:35:37.66,0:35:40.40,*Default,NTP,0000,0000,0000,,是宇宙中的一种生命方式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are a way of life in the Universe.
+Dialogue: 0,0:35:43.13,0:35:45.73,*Default,NTP,0000,0000,0000,,包括银河在内的现代星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Modern galaxies, including the Milky Way
+Dialogue: 0,0:35:45.77,0:35:50.67,*Default,NTP,0000,0000,0000,,都是依靠吞并小星系来实现变大的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Have grown larger by cannibalizing smaller galaxies.
+Dialogue: 0,0:35:52.71,0:35:54.57,*Default,NTP,0000,0000,0000,,我们看见的每个星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every galaxy that we see
+Dialogue: 0,0:35:54.61,0:35:57.04,*Default,NTP,0000,0000,0000,,都可能是经历过多次星系撞击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Has probably been through many collisions.
+Dialogue: 0,0:35:57.08,0:35:59.51,*Default,NTP,0000,0000,0000,,银河系中央行星凸集 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Milky Way has a central bulge of stars,
+Dialogue: 0,0:35:59.55,0:36:02.78,*Default,NTP,0000,0000,0000,,这可能就是先前撞击后的遗迹 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which are, probably, the relic of a previous collision.
+Dialogue: 0,0:36:04.82,0:36:06.08,*Default,NTP,0000,0000,0000,,很多科学家一致认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most scientists agree that
+Dialogue: 0,0:36:06.12,0:36:09.99,*Default,NTP,0000,0000,0000,,银河系与仙女系间这场预期的大冲撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the much anticipated merger between the Milky Way and Andromeda
+Dialogue: 0,0:36:10.02,0:36:13.03,*Default,NTP,0000,0000,0000,,至少在30亿年内不会发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Won't happen for at least three billion years.
+Dialogue: 0,0:36:18.60,0:36:21.80,*Default,NTP,0000,0000,0000,,但太空中的近距摩擦危险会增多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there may be more immediate dangers in space.
+Dialogue: 0,0:36:23.84,0:36:27.61,*Default,NTP,0000,0000,0000,,数百万光年远的宇宙近邻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In cosmic neighborhoods, millions of light-years away
+Dialogue: 0,0:36:29.64,0:36:31.61,*Default,NTP,0000,0000,0000,,存在极度活跃的星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are hyperactive galaxies
+Dialogue: 0,0:36:31.64,0:36:34.85,*Default,NTP,0000,0000,0000,,已成为对我们巨大的威胁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That have become the big bullies on the block.
+Dialogue: 0,0:36:43.39,0:36:47.29,*Default,NTP,0000,0000,0000,,在某些星系的中心住着宇宙怪兽 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the heart of some galaxies lives a cosmic monster.
+Dialogue: 0,0:36:47.89,0:36:50.39,*Default,NTP,0000,0000,0000,,它能把一个普通的星系转换成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It transforms a run-of-the-mill galaxy into
+Dialogue: 0,0:36:50.45,0:36:53.66,*Default,NTP,0000,0000,0000,,太空中最耀眼 最致命的星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the brightest and deadliest in space.
+Dialogue: 0,0:36:56.10,0:36:58.10,*Default,NTP,0000,0000,0000,,"类星体"就是这种怪异的东西 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Quasars are peculiar objects.
+Dialogue: 0,0:36:58.13,0:37:00.80,*Default,NTP,0000,0000,0000,,类星体由超大质量黑洞提供能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each powered by a supermassive black hole
+Dialogue: 0,0:37:00.84,0:37:04.11,*Default,NTP,0000,0000,0000,,黑洞会不停地吞食大量的物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That continually swallows large amounts of matter
+Dialogue: 0,0:37:04.14,0:37:07.15,*Default,NTP,0000,0000,0000,,每年吞食10~20颗星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}10 to 20 stars every year.
+Dialogue: 0,0:37:10.98,0:37:15.99,*Default,NTP,0000,0000,0000,,类星体的核心处是个巨大的黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the core of these objects lives a very large black hole.
+Dialogue: 0,0:37:19.02,0:37:20.25,*Default,NTP,0000,0000,0000,,黑洞的任务就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the role of that black hole
+Dialogue: 0,0:37:20.29,0:37:25.06,*Default,NTP,0000,0000,0000,,产生大量的能量给类星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is to actually generate a huge amount of energy.
+Dialogue: 0,0:37:29.90,0:37:34.50,*Default,NTP,0000,0000,0000,,类星体拥有宇宙中最高效利用能量的机制 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Quasars are the most energy-efficient mechanisms in the cosmos
+Dialogue: 0,0:37:34.54,0:37:38.51,*Default,NTP,0000,0000,0000,,它释放的能量比一百个普通星系还要多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They give off more power than a hundred normal galaxies.
+Dialogue: 0,0:37:40.24,0:37:43.92,*Default,NTP,0000,0000,0000,,比我们的太阳要亮十万亿倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they're 10 trillion times brighter than our Sun.
+Dialogue: 0,0:37:49.99,0:37:53.66,*Default,NTP,0000,0000,0000,,那么 类星体在宇宙中是怎么形成的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So how are quasars created in the Universe?
+Dialogue: 0,0:37:59.73,0:38:00.83,*Default,NTP,0000,0000,0000,,上次的星系合并 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a fairly good connection
+Dialogue: 0,0:38:00.86,0:38:03.97,*Default,NTP,0000,0000,0000,,和所谓的"类星体现象"之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Between the last stages of a galactic merger
+Dialogue: 0,0:38:04.00,0:38:06.87,*Default,NTP,0000,0000,0000,,有着密切的联系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the so-called "quasar phenomenon."
+Dialogue: 0,0:38:08.37,0:38:11.24,*Default,NTP,0000,0000,0000,,如果银河系与仙女系的真的发生的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If that really happens in the case of the Milky Way and Andromeda
+Dialogue: 0,0:38:11.27,0:38:11.91,*Default,NTP,0000,0000,0000,,我们可能会产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could have
+Dialogue: 0,0:38:11.94,0:38:15.68,*Default,NTP,0000,0000,0000,,一个类星体活跃在合并星系的中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For a period of some tens, even a hundred million years
+Dialogue: 0,0:38:15.91,0:38:18.78,*Default,NTP,0000,0000,0000,,持续几千万年甚至一亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A quasar active in the center of the merged galaxies.
+Dialogue: 0,0:38:20.08,0:38:22.18,*Default,NTP,0000,0000,0000,,类星体产出的能量约是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a quasar puts out about a hundred times
+Dialogue: 0,0:38:22.22,0:38:24.55,*Default,NTP,0000,0000,0000,,一个普通星系的一百倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As much energy as a typical galaxy.
+Dialogue: 0,0:38:25.79,0:38:27.66,*Default,NTP,0000,0000,0000,,如果我们被卷入一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if we were actually thrown into an orbit
+Dialogue: 0,0:38:27.69,0:38:29.86,*Default,NTP,0000,0000,0000,,带我们飞向星系中心的轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which took us towards the center of the galaxy
+Dialogue: 0,0:38:29.89,0:38:32.26,*Default,NTP,0000,0000,0000,,我们就可能近距离接近类星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could get very close to that quasar
+Dialogue: 0,0:38:32.29,0:38:34.70,*Default,NTP,0000,0000,0000,,当然我们也会被烧焦 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And really get scorched.
+Dialogue: 0,0:38:36.33,0:38:40.33,*Default,NTP,0000,0000,0000,,"类星体"这个词含义是"类似恒星的射电源" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The word "quasar" stands for "quasistellar radio source,"
+Dialogue: 0,0:38:40.47,0:38:45.14,*Default,NTP,0000,0000,0000,,意思是: 类似恒星的无线电波发射源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which means star-like emitters of radio waves.
+Dialogue: 0,0:38:46.48,0:38:48.11,*Default,NTP,0000,0000,0000,,当类星体现象还是一个谜的时候 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The word was coined
+Dialogue: 0,0:38:48.18,0:38:50.61,*Default,NTP,0000,0000,0000,,才创造了这个词 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the quasar phenomena was still a mystery.
+Dialogue: 0,0:38:52.51,0:38:56.19,*Default,NTP,0000,0000,0000,,现在我们知道它们一点也不像恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, we know they're not star-like at all.
+Dialogue: 0,0:38:57.62,0:39:01.16,*Default,NTP,0000,0000,0000,,除了放射无线电波和可见光 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In addition to emitting radio waves and visible light
+Dialogue: 0,0:39:01.19,0:39:04.43,*Default,NTP,0000,0000,0000,,类星体还发出紫外线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Quasars also give off ultraviolet rays
+Dialogue: 0,0:39:05.76,0:39:11.97,*Default,NTP,0000,0000,0000,,红外线 X射线 伽马射线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Infrared waves, x-rays, and gamma rays
+Dialogue: 0,0:39:16.61,0:39:21.68,*Default,NTP,0000,0000,0000,,如果某物或某人靠得太近 将造成致命伤害 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All deadlylf, something or someone gets too close.
+Dialogue: 0,0:39:25.01,0:39:29.88,*Default,NTP,0000,0000,0000,,类星体是一个很远的超大质量黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A quasar is a supermassive black hole at large distance
+Dialogue: 0,0:39:29.92,0:39:33.39,*Default,NTP,0000,0000,0000,,但很活跃充满能量散发光芒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's is active, it's powerful, it's emitting light
+Dialogue: 0,0:39:33.42,0:39:36.66,*Default,NTP,0000,0000,0000,,我们可以在很多波带上发现它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we can observe it in many wave bands.
+Dialogue: 0,0:39:38.66,0:39:41.66,*Default,NTP,0000,0000,0000,,类星体第一次被发现是在1960年代 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Quasars were first discovered in the 1960s
+Dialogue: 0,0:39:42.00,0:39:44.90,*Default,NTP,0000,0000,0000,,但随着射电成像望远镜的技术日趋成熟 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as radio telescope imaging got better
+Dialogue: 0,0:39:44.97,0:39:47.37,*Default,NTP,0000,0000,0000,,天文学家发现有的类星体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers discovered that some of those quasars
+Dialogue: 0,0:39:47.40,0:39:51.14,*Default,NTP,0000,0000,0000,,也有强大的喷射光束 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Also have powerful jets beaming out of them.
+Dialogue: 0,0:39:52.77,0:39:57.01,*Default,NTP,0000,0000,0000,,这种类星体叫做"耀类星体" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These particular quasars are called "blazars"
+Dialogue: 0,0:39:57.05,0:40:01.89,*Default,NTP,0000,0000,0000,,也许是宇宙中最激烈的现象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Probably some of the most violent phenomena in the Universe.
+Dialogue: 0,0:40:07.39,0:40:10.06,*Default,NTP,0000,0000,0000,,耀类星体跟类星体一样 靠黑洞提供能源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Blazars are powered by black holes just like quasars.
+Dialogue: 0,0:40:10.09,0:40:12.59,*Default,NTP,0000,0000,0000,,只是能量的分配有所不同 耀类星体的所有能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But they're somewhat different in that all their energy
+Dialogue: 0,0:40:12.63,0:40:13.63,*Default,NTP,0000,0000,0000,,是集中到一起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is being focused
+Dialogue: 0,0:40:13.66,0:40:17.09,*Default,NTP,0000,0000,0000,,或是大部分能量集中在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or a large amount of their energy is being focused into
+Dialogue: 0,0:40:17.15,0:40:19.77,*Default,NTP,0000,0000,0000,,喷射光束上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}jets which are streaming out.
+Dialogue: 0,0:40:21.80,0:40:24.80,*Default,NTP,0000,0000,0000,,耀类星体的高能等离子体喷柱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A blazar's aggressive plasma jets produce
+Dialogue: 0,0:40:24.87,0:40:27.38,*Default,NTP,0000,0000,0000,,产生的无线电波辐射 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}radiation in the form of radio waves
+Dialogue: 0,0:40:27.41,0:40:29.08,*Default,NTP,0000,0000,0000,,射频频谱从低一直高到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the way through the spectrum
+Dialogue: 0,0:40:29.11,0:40:31.75,*Default,NTP,0000,0000,0000,,高能的伽马射线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Up to high-energy gamma rays.
+Dialogue: 0,0:40:36.79,0:40:38.69,*Default,NTP,0000,0000,0000,,天体物理学家格林·派勒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astrophysicist Glenn Piner
+Dialogue: 0,0:40:38.72,0:40:41.12,*Default,NTP,0000,0000,0000,,曾调查过这些外来星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Had been investigating the physical conditions
+Dialogue: 0,0:40:41.16,0:40:43.89,*Default,NTP,0000,0000,0000,,中心的实际情况 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the centers of these exotic galaxies.
+Dialogue: 0,0:40:49.13,0:40:52.47,*Default,NTP,0000,0000,0000,,我们可以用这口喷泉来比拟耀类星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can use this fountain to visualize the geometry of a blazar.
+Dialogue: 0,0:40:52.50,0:40:54.50,*Default,NTP,0000,0000,0000,,如果把喷泉的圆底座\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If that circular base of the fountain
+Dialogue: 0,0:40:54.54,0:40:56.57,*Default,NTP,0000,0000,0000,,比作类星体圆盘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Represents the accretion disc
+Dialogue: 0,0:40:56.57,0:40:58.77,*Default,NTP,0000,0000,0000,,那么喷上来的水柱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then the jet of water that's coming up
+Dialogue: 0,0:40:58.81,0:41:03.31,*Default,NTP,0000,0000,0000,,就代表来自类星体的等离子体喷柱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Represents the jet of plasma coming out from the blazar.
+Dialogue: 0,0:41:04.35,0:41:07.78,*Default,NTP,0000,0000,0000,,如果地球沿着喷水方向移动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if the earth is sitting up in the direction that water is going
+Dialogue: 0,0:41:07.82,0:41:11.12,*Default,NTP,0000,0000,0000,,那么我们可以把它看成一个耀类星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then we would see this object as a blazar.
+Dialogue: 0,0:41:13.52,0:41:16.96,*Default,NTP,0000,0000,0000,,对天文学家来说 它看起来就像看一个火光四射的长管 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For an astronomer, it's like looking down a fire hose.
+Dialogue: 0,0:41:16.99,0:41:19.86,*Default,NTP,0000,0000,0000,,看见它就会灼伤你的眼睛 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It really gets you in the eye to see this bright
+Dialogue: 0,0:41:19.90,0:41:23.80,*Default,NTP,0000,0000,0000,,所以名叫"耀类星体" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Blazing thing that we call a "blazar."
+Dialogue: 0,0:41:26.00,0:41:29.14,*Default,NTP,0000,0000,0000,,耀类星体喷射移动得异常快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These blazar jets move exceptionally fast.
+Dialogue: 0,0:41:29.57,0:41:35.25,*Default,NTP,0000,0000,0000,,曾发现最快的能达到光速的99.9% \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fastest observed move at 99.9 percent the speed of light.
+Dialogue: 0,0:41:38.28,0:41:39.78,*Default,NTP,0000,0000,0000,,如果你拿着一个小东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were to take a small object
+Dialogue: 0,0:41:39.82,0:41:41.02,*Default,NTP,0000,0000,0000,,像这个保龄球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like this bowling ball
+Dialogue: 0,0:41:41.05,0:41:42.02,*Default,NTP,0000,0000,0000,,你想把它加速到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you wanted to accelerate it
+Dialogue: 0,0:41:42.05,0:41:45.32,*Default,NTP,0000,0000,0000,,99.9%的光速 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Up to 99.9 percent of the speed of light,
+Dialogue: 0,0:41:45.35,0:41:46.89,*Default,NTP,0000,0000,0000,,你将不得不把全地球产生的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would have to give this bowling ball
+Dialogue: 0,0:41:46.92,0:41:48.76,*Default,NTP,0000,0000,0000,,全用在这个保龄球上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the energy produced in the world
+Dialogue: 0,0:41:48.79,0:41:52.76,*Default,NTP,0000,0000,0000,,要保持一周才能达到99.9%的光速 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For an entire week to accelerate it to that speed.
+Dialogue: 0,0:42:00.80,0:42:01.94,*Default,NTP,0000,0000,0000,,在这些耀类星体里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in these blazars
+Dialogue: 0,0:42:01.97,0:42:04.67,*Default,NTP,0000,0000,0000,,我们不仅要把像保龄球样的小东西加速 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're accelerating not just small objects like bowling balls
+Dialogue: 0,0:42:04.71,0:42:07.88,*Default,NTP,0000,0000,0000,,而且还要将像木星之类大质量的或者比木星质量还大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But large masses of the mass of the planet jupiter or larger
+Dialogue: 0,0:42:07.91,0:42:08.91,*Default,NTP,0000,0000,0000,,加速到那个速度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To those speeds
+Dialogue: 0,0:42:08.94,0:42:10.81,*Default,NTP,0000,0000,0000,,那这个高效的引擎需给它们施加\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they're being given incredible amounts of energy
+Dialogue: 0,0:42:10.85,0:42:13.62,*Default,NTP,0000,0000,0000,,偌大的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By this efficient engine.
+Dialogue: 0,0:42:15.65,0:42:18.63,*Default,NTP,0000,0000,0000,,耀类星体会对靠近它们喷射柱的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Blazars pose unimaginable consequences
+Dialogue: 0,0:42:18.68,0:42:22.96,*Default,NTP,0000,0000,0000,,造成难以想象的结果 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To cosmic objects that get too close to its deadly jet.
+Dialogue: 0,0:42:24.39,0:42:26.63,*Default,NTP,0000,0000,0000,,如果有个行星靠得比较近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there was a planet relatively close
+Dialogue: 0,0:42:26.66,0:42:29.50,*Default,NTP,0000,0000,0000,,离实际喷射柱几光年远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A few light-years from the actual jet
+Dialogue: 0,0:42:29.53,0:42:30.76,*Default,NTP,0000,0000,0000,,耀类星体对这个行星的辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The radiation on that planet
+Dialogue: 0,0:42:30.80,0:42:34.27,*Default,NTP,0000,0000,0000,,可能是附近恒星对它辐射的百万倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could be millions of times what it gets from the star.
+Dialogue: 0,0:42:34.30,0:42:37.14,*Default,NTP,0000,0000,0000,,它将长期曝露于高辐射环境下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be continually exposed to high levels of radiation.
+Dialogue: 0,0:42:37.27,0:42:38.24,*Default,NTP,0000,0000,0000,,所以我认为 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So I don't think
+Dialogue: 0,0:42:38.27,0:42:40.51,*Default,NTP,0000,0000,0000,,想在行星上寻找生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We wanna look for life on a planet
+Dialogue: 0,0:42:40.54,0:42:44.41,*Default,NTP,0000,0000,0000,,就不应在环绕耀类星体喷柱运行的行星上找 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would be orbiting a star, that's in a blazar jet.
+Dialogue: 0,0:42:47.42,0:42:50.58,*Default,NTP,0000,0000,0000,,科学家们把全球的射电望远镜连在一起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists link radio telescopes all over the world
+Dialogue: 0,0:42:50.62,0:42:55.99,*Default,NTP,0000,0000,0000,,以达到放大耀类星体喷柱的效果 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To achieve the magnification needed to zoom in on a blazar jet.
+Dialogue: 0,0:42:56.93,0:42:59.43,*Default,NTP,0000,0000,0000,,给你打个这种放大的类比 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So to give you an analogy for what kind of magnification
+Dialogue: 0,0:42:59.46,0:43:03.60,*Default,NTP,0000,0000,0000,,这种放大效果可以在洛杉矶阅读\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would be magnification sufficient to read a newspaper
+Dialogue: 0,0:43:03.63,0:43:07.24,*Default,NTP,0000,0000,0000,,在纽约某人手中拿着的报纸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That someone was holding in New York from Los Angeles.
+Dialogue: 0,0:43:08.17,0:43:11.37,*Default,NTP,0000,0000,0000,,我们希望尽可能的观测到星系中央黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'd love to look as close to the central black hole as possible
+Dialogue: 0,0:43:11.41,0:43:13.07,*Default,NTP,0000,0000,0000,,那样我们才能得知它们是怎么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we could actually figure out how nature
+Dialogue: 0,0:43:13.11,0:43:14.04,*Default,NTP,0000,0000,0000,,加速喷柱的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is accelerating these jets
+Dialogue: 0,0:43:14.08,0:43:16.45,*Default,NTP,0000,0000,0000,,怎么使它们达到高速的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And getting them up to such high speeds.
+Dialogue: 0,0:43:17.68,0:43:19.31,*Default,NTP,0000,0000,0000,,我们也想知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we'd also like to know
+Dialogue: 0,0:43:19.35,0:43:21.68,*Default,NTP,0000,0000,0000,,那些喷柱实际是由什么构成的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What it is actually that the jets are made of
+Dialogue: 0,0:43:21.82,0:43:23.42,*Default,NTP,0000,0000,0000,,因为那种构成成分证明是某种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because it turns out that's something
+Dialogue: 0,0:43:23.45,0:43:26.36,*Default,NTP,0000,0000,0000,,目前未知的东西 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's currently not known.
+Dialogue: 0,0:43:29.16,0:43:31.63,*Default,NTP,0000,0000,0000,,有待去发掘耀类星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Until more is known about blazars
+Dialogue: 0,0:43:31.66,0:43:34.70,*Default,NTP,0000,0000,0000,,天文学家会在邻近地区关注它们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers will keep a neighborhood watch for them
+Dialogue: 0,0:43:34.73,0:43:36.86,*Default,NTP,0000,0000,0000,,关注我们未知宇宙中的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As well as all the other dangerous places
+Dialogue: 0,0:43:36.90,0:43:39.77,*Default,NTP,0000,0000,0000,,所有其它那些危险的地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In our uncontrollable Universe.
+Dialogue: 0,0:43:42.51,0:43:43.84,*Default,NTP,0000,0000,0000,,可以肯定的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Definitely
+Dialogue: 0,0:43:43.87,0:43:46.44,*Default,NTP,0000,0000,0000,,宇宙中的爆发事件从来没停过 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are violent events going on in the Universe
+Dialogue: 0,0:43:46.48,0:43:51.98,*Default,NTP,0000,0000,0000,,释放的能量大到超出我们的想象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Much, much more energy than we can even imagine on Earth.
+Dialogue: 0,0:43:52.21,0:43:56.52,*Default,NTP,0000,0000,0000,,比太阳亮万亿倍的光芒突然闪现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are trillions of suns shining all at once.
+Dialogue: 0,0:43:56.55,0:43:59.72,*Default,NTP,0000,0000,0000,,那些就是我们谈论着的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Those are the kinds of energies that we're talking about.
+Dialogue: 0,0:43:59.75,0:44:03.29,*Default,NTP,0000,0000,0000,,但只要我们远离那些危险的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in that case the fact that we are far away from them
+Dialogue: 0,0:44:03.36,0:44:06.89,*Default,NTP,0000,0000,0000,,就能安稳生存 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Helps the survival of our species.
+Dialogue: 0,0:44:06.90,0:44:09.96,*Default,NTP,0000,0000,0000,,如果我们真的要遨游太空 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we're actually travelling through space
+Dialogue: 0,0:44:10.00,0:44:11.03,*Default,NTP,0000,0000,0000,,那么肯定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then, definitely
+Dialogue: 0,0:44:11.07,0:44:14.00,*Default,NTP,0000,0000,0000,,就要时刻注意这些危险 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We will have to be worrying about these events.
+Dialogue: 0,0:44:16.00,0:44:26.00,*Default,NTP,0000,0000,0000,,谢谢观赏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks For Viewing

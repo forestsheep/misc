@@ -1,0 +1,753 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:11.72,0:01:14.66,Default,,0,0,0008,,{\blur3}宇宙:宇宙中的上帝{\r}
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:20.98,0:00:23.97,Default,,0,0,0,,{\blur3}审视地球难以置信的复杂多样性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Looking at the Earth's incredible complexity,{\r}
+Dialogue: 0,0:00:24.15,0:00:28.52,Default,,0,0,0,,{\blur3}人类一直想要探寻其形成的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}people have always wondered what made it all possible.{\r}
+Dialogue: 0,0:00:29.71,0:00:34.44,Default,,0,0,0,,{\blur3}物理方程式是如何发挥作用的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What breathed fire into the equations of physics.{\r}
+Dialogue: 0,0:00:34.71,0:00:38.22,Default,,0,0,0,,{\blur3}长期以来 宗教对此有精神阐释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Religion has long offered a spiritual explanation,{\r}
+Dialogue: 0,0:00:38.23,0:00:41.03,Default,,0,0,0,,{\blur3}认为上帝创造了整个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that God created the universe.{\r}
+Dialogue: 0,0:00:41.53,0:00:45.87,Default,,0,0,0,,{\blur3}目前的科学是否找到上帝存在的蛛丝马迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But is science now starting to find elusive evidence of God{\r}
+Dialogue: 0,0:00:47.38,0:00:51.54,Default,,0,0,0,,{\blur3}物理学能否证明我们根本就不需要造物者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or does physics tell us that no creator was necessary?{\r}
+Dialogue: 0,0:00:52.17,0:00:54.78,Default,,0,0,0,,{\blur3}史蒂芬·霍金和我在《大设计》中写道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stephen Hawking and I say in the book, The Grand Design,{\r}
+Dialogue: 0,0:00:54.79,0:00:56.84,Default,,0,0,0,,{\blur3}宇宙的形成可能是一个从无到有的过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the universe could have come from nothing.{\r}
+Dialogue: 0,0:00:58.08,0:01:03.48,Default,,0,0,0,,{\blur3}让我们开始在宇宙中进行对上帝的科学探索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's embark on a scientific search for God in the universe.{\r}
+Dialogue: 0,0:01:16.34,0:01:19.74,Default,,0,0,0,,{\blur3}整个宇宙其实非常狂暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe can be a very violent place.{\r}
+Dialogue: 0,0:01:21.47,0:01:24.39,Default,,0,0,0,,{\blur3}星系之间经常碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where galaxies routinely collide.{\r}
+Dialogue: 0,0:01:25.89,0:01:30.04,Default,,0,0,0,,{\blur3}耗尽的恒星不断发生爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And exhausted stars... explode.{\r}
+Dialogue: 0,0:01:32.83,0:01:34.17,Default,,0,0,0,,{\blur3}但也是在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it is also a place{\r}
+Dialogue: 0,0:01:35.09,0:01:39.00,Default,,0,0,0,,{\blur3}诞生了超凡脱俗之物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that gave birth to something absolutely extraordinary,{\r}
+Dialogue: 0,0:01:40.02,0:01:41.78,Default,,0,0,0,,{\blur3}至少地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at least here on Earth,{\r}
+Dialogue: 0,0:01:44.90,0:01:47.34,Default,,0,0,0,,{\blur3}诞生了有意识情感的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}conscious, sentient beings.{\r}
+Dialogue: 0,0:01:51.17,0:01:53.52,Default,,0,0,0,,{\blur3}宇宙中为何会出现智慧生命的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is, of course, a mystery to why the universe exists{\r}
+Dialogue: 0,0:01:53.87,0:01:55.13,Default,,0,0,0,,{\blur3}令人难以捉摸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in such an intelligible manner,{\r}
+Dialogue: 0,0:01:55.57,0:01:57.13,Default,,0,0,0,,{\blur3}但至少对我而言{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it suggests me at least,{\r}
+Dialogue: 0,0:01:57.39,0:01:59.74,Default,,0,0,0,,{\blur3}宇宙 其逐渐展开的宏大计划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there's a deep link between the universe,{\r}
+Dialogue: 0,0:02:00.00,0:02:03.11,Default,,0,0,0,,{\blur3}以及像我们一样的生命之间有着很深的联系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the grand scheme that's unfolding, and beings like ourselves.{\r}
+Dialogue: 0,0:02:03.11,0:02:05.50,Default,,0,0,0,,{\blur3}宇宙自知的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Somehow the universe has become self-aware.{\r}
+Dialogue: 0,0:02:05.50,0:02:09.45,Default,,0,0,0,,{\blur3}它造出了像人类这种有思维有理解力的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's engineered the emergence of comprehending, thinking beings{\r}
+Dialogue: 0,0:02:09.79,0:02:13.03,Default,,0,0,0,,{\blur3}有能力去探索宇宙的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like ourselves, who can come to know the universe.{\r}
+Dialogue: 0,0:02:14.43,0:02:16.40,Default,,0,0,0,,{\blur3}另许多人倍感惊奇的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some people marvel at the fact that{\r}
+Dialogue: 0,0:02:16.40,0:02:18.16,Default,,0,0,0,,{\blur3}宇宙拥有几百亿年的历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe has over billions of years,{\r}
+Dialogue: 0,0:02:18.16,0:02:23.00,Default,,0,0,0,,{\blur3}诞出能够领会其复杂性的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to beings who can appreciate its complexity.{\r}
+Dialogue: 0,0:02:24.08,0:02:29.15,Default,,0,0,0,,{\blur3}我们现在甚至开始思索 人类从何而来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can even ponder where and how we fit in.{\r}
+Dialogue: 0,0:02:32.19,0:02:33.67,Default,,0,0,0,,{\blur3}但是在人类历史初期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But at the dawn of history,{\r}
+Dialogue: 0,0:02:34.22,0:02:38.80,Default,,0,0,0,,{\blur3}人们认为自己知道此类深奥问题的答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}people thought they knew the answers to these profound questions.{\r}
+Dialogue: 0,0:02:39.99,0:02:43.56,Default,,0,0,0,,{\blur3}古人将世界看做一个雪景球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ancients viewed their world as a snow globe.{\r}
+Dialogue: 0,0:02:43.99,0:02:48.71,Default,,0,0,0,,{\blur3}地球是平的 像个碟子 上面盖着天穹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's essentially a flat earth, say a disc, covered by a dome.{\r}
+Dialogue: 0,0:02:49.20,0:02:51.05,Default,,0,0,0,,{\blur3}英语里称作天穹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we call this, in English, a firmament,{\r}
+Dialogue: 0,0:02:51.50,0:02:55.41,Default,,0,0,0,,{\blur3}恒星和行星即悬在那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and in the firmament is where all the stars and planets were hung.{\r}
+Dialogue: 0,0:02:56.75,0:02:58.75,Default,,0,0,0,,{\blur3}所有的古代文明相信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Almost all ancient cultures believed{\r}
+Dialogue: 0,0:02:58.99,0:03:02.24,Default,,0,0,0,,{\blur3}他们所在的宇宙都是在这样的一个弯顶下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}their universe existed in a dome similar to this one.{\r}
+Dialogue: 0,0:03:03.66,0:03:06.28,Default,,0,0,0,,{\blur3}他们从没质疑过谁是造物主的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they never questioned who created it.{\r}
+Dialogue: 0,0:03:07.45,0:03:11.21,Default,,0,0,0,,{\blur3}古人认定是上帝或者诸神{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ancients assumed that there was a God or gods{\r}
+Dialogue: 0,0:03:11.21,0:03:15.88,Default,,0,0,0,,{\blur3}创造并维持了宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}responsible for the creation and the maintenance of the universe.{\r}
+Dialogue: 0,0:03:17.00,0:03:19.13,Default,,0,0,0,,{\blur3}上帝创造了宇宙这一观点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The idea that God created the universe{\r}
+Dialogue: 0,0:03:19.42,0:03:22.80,Default,,0,0,0,,{\blur3}直到中世纪才遭到质疑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}went largely unchallenged until the Middle Ages,{\r}
+Dialogue: 0,0:03:23.45,0:03:26.36,Default,,0,0,0,,{\blur3}当时的科学家根据他们的观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when scientists made a sacrilegious suggestion,{\r}
+Dialogue: 0,0:03:26.36,0:03:28.33,Default,,0,0,0,,{\blur3}提出了亵渎神明的想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}based on their observations...{\r}
+Dialogue: 0,0:03:29.36,0:03:33.46,Default,,0,0,0,,{\blur3}宇宙的中心不是地球 而是太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun, not the Earth, was at the center of the universe.{\r}
+Dialogue: 0,0:03:35.72,0:03:36.84,Default,,0,0,0,,{\blur3}人类的思维模式发生了改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was a paradigm shift.{\r}
+Dialogue: 0,0:03:37.12,0:03:41.77,Default,,0,0,0,,{\blur3}产生了解释我们周围自然现象的新方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is now another way to explain the natural occurring phenomena around us,{\r}
+Dialogue: 0,0:03:42.07,0:03:43.58,Default,,0,0,0,,{\blur3}而这就是科学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this is science.{\r}
+Dialogue: 0,0:03:45.70,0:03:46.69,Default,,0,0,0,,{\blur3}从中世纪开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since the Middle Ages,{\r}
+Dialogue: 0,0:03:47.00,0:03:49.77,Default,,0,0,0,,{\blur3}科学家们发展出了许多复杂的新理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists have developed sophisticated new theories{\r}
+Dialogue: 0,0:03:50.17,0:03:53.50,Default,,0,0,0,,{\blur3}以描述宇宙的宏大以及地球所处的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the enormity of the universe and our place in it,{\r}
+Dialogue: 0,0:03:53.75,0:03:57.19,Default,,0,0,0,,{\blur3}在这些理论中往往都没有上帝的立足之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}theories that often have no room for God.{\r}
+Dialogue: 0,0:03:58.50,0:04:03.44,Default,,0,0,0,,{\blur3}许多现象曾对人类来说非常神秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many phenomena have appeared mysterious or miraculous or magical,{\r}
+Dialogue: 0,0:04:03.52,0:04:05.14,Default,,0,0,0,,{\blur3}而通过科学研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then through the process of science,{\r}
+Dialogue: 0,0:04:05.14,0:04:06.92,Default,,0,0,0,,{\blur3}人类慢慢开始理解这些现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've eventually understood them.{\r}
+Dialogue: 0,0:04:06.92,0:04:11.30,Default,,0,0,0,,{\blur3}科学家们慢慢意识到 太阳仅仅是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists gradually realized that the Sun really is just one star{\r}
+Dialogue: 0,0:04:11.67,0:04:15.01,Default,,0,0,0,,{\blur3}巨大的星系中的一颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}among a multitude of stars in a gigantic galaxy{\r}
+Dialogue: 0,0:04:15.29,0:04:17.82,Default,,0,0,0,,{\blur3}而这个星系拥有数以亿计颗类似恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}having hundreds of billions of such stars.{\r}
+Dialogue: 0,0:04:17.83,0:04:23.03,Default,,0,0,0,,{\blur3}所有这一切都始于137亿年前的一次大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And all this was created in a Big Bang 13.7 billion years ago.{\r}
+Dialogue: 0,0:04:25.08,0:04:28.71,Default,,0,0,0,,{\blur3}尽管科学理论 科学观察和实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But while scientific theories, observations, and experiments{\r}
+Dialogue: 0,0:04:29.02,0:04:31.23,Default,,0,0,0,,{\blur3}告诉我们人类在宇宙中的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tell us where we are in the cosmos,{\r}
+Dialogue: 0,0:04:31.58,0:04:33.65,Default,,0,0,0,,{\blur3}它们仍未回答两个永恒的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they don't answer the eternal questions:{\r}
+Dialogue: 0,0:04:34.13,0:04:35.61,Default,,0,0,0,,{\blur3}即人类产生的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why we are here{\r}
+Dialogue: 0,0:04:35.96,0:04:38.97,Default,,0,0,0,,{\blur3}若有造物主 它又是谁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and who, if anyone, created us.{\r}
+Dialogue: 0,0:04:40.17,0:04:44.27,Default,,0,0,0,,{\blur3}一些物理学家继续探索这些问题的答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So some physicists continue to search for those answers.{\r}
+Dialogue: 0,0:04:44.49,0:04:47.15,Default,,0,0,0,,{\blur3}他们的发现十分惊人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What they're finding is extraordinary.{\r}
+Dialogue: 0,0:04:48.26,0:04:53.22,Default,,0,0,0,,{\blur3}隐藏的非凡秩序支配着整个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A remarkable unseen order that may govern the universe.{\r}
+Dialogue: 0,0:04:56.50,0:04:59.81,Default,,0,0,0,,{\blur3}人类为自然世界之美所倾倒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're all struck by the beauty and majesty of the natural world, about us,{\r}
+Dialogue: 0,0:05:00.50,0:05:06.60,Default,,0,0,0,,{\blur3}树木 天空 还有日落之美{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the trees, the sky and the beauty of a sunset.{\r}
+Dialogue: 0,0:05:06.84,0:05:09.17,Default,,0,0,0,,{\blur3}如此神奇 如此壮观{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is awesome and it's majesty.{\r}
+Dialogue: 0,0:05:09.17,0:05:10.93,Default,,0,0,0,,{\blur3}我们如何才能了解这一切呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How can we make sense of it all?{\r}
+Dialogue: 0,0:05:13.52,0:05:16.29,Default,,0,0,0,,{\blur3}我们需要了解自然的潜台词{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We need to look at the hidden subtext of nature,{\r}
+Dialogue: 0,0:05:16.29,0:05:18.45,Default,,0,0,0,,{\blur3}也就是支持这个世界的数学关系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mathematical relationships that underpin it,{\r}
+Dialogue: 0,0:05:18.74,0:05:20.37,Default,,0,0,0,,{\blur3}形成某种影子世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forming a sort of shadow world.{\r}
+Dialogue: 0,0:05:20.37,0:05:23.00,Default,,0,0,0,,{\blur3}有人将其视作宇宙密码{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some people think of this as a cosmic code.{\r}
+Dialogue: 0,0:05:25.01,0:05:27.86,Default,,0,0,0,,{\blur3}不管这些科学家是不是信仰上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Regardless of whether or not they believe in God,{\r}
+Dialogue: 0,0:05:28.73,0:05:33.60,Default,,0,0,0,,{\blur3}他们大多承认宇宙密码的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most scientists agree the cosmic code appears to exist.{\r}
+Dialogue: 0,0:05:38.60,0:05:40.02,Default,,0,0,0,,{\blur3}宇宙中的万物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything in the universe{\r}
+Dialogue: 0,0:05:40.02,0:05:43.62,Default,,0,0,0,,{\blur3}都由自然的基本相互作用力支配着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is determined by the fundamental forces of nature.{\r}
+Dialogue: 0,0:05:44.47,0:05:47.99,Default,,0,0,0,,{\blur3}这些作用力以数字为特征 称为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The strength of those forces are characterized by numbers, called{\r}
+Dialogue: 0,0:05:47.99,0:05:51.46,Default,,0,0,0,,{\blur3}基本常数 它们如此敏感{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Fundamental constants" that are so sensitive{\r}
+Dialogue: 0,0:05:51.62,0:05:53.97,Default,,0,0,0,,{\blur3}只要稍有改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that if they changed by just a little bit,{\r}
+Dialogue: 0,0:05:53.97,0:05:56.56,Default,,0,0,0,,{\blur3}我们所知的宇宙就不复存在了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe, as we know it, wouldn't be here.{\r}
+Dialogue: 0,0:05:58.68,0:06:02.47,Default,,0,0,0,,{\blur3}譬如说 如果大爆炸之后宇宙的膨胀率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For example, if the rate of expansion of the universe right{\r}
+Dialogue: 0,0:06:02.47,0:06:06.81,Default,,0,0,0,,{\blur3}有一万兆分之一的改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}after the Big Bang had changed by one part in a quintillion...{\r}
+Dialogue: 0,0:06:06.89,0:06:10.75,Default,,0,0,0,,{\blur3}解释一下 1万兆就是1后面有18个零{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a quintillion is one with 18 zeros after it...{\r}
+Dialogue: 0,0:06:11.00,0:06:13.41,Default,,0,0,0,,{\blur3}宇宙将可能会持续膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe would continue to expand...{\r}
+Dialogue: 0,0:06:14.75,0:06:17.10,Default,,0,0,0,,{\blur3}或者坍塌回去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or collapse back on itself...{\r}
+Dialogue: 0,0:06:17.79,0:06:19.91,Default,,0,0,0,,{\blur3}现在的一切都不复存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And none of this would be possible.{\r}
+Dialogue: 0,0:06:21.50,0:06:26.02,Default,,0,0,0,,{\blur3}为了说明一万兆分之一有多小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To illustrate just how small a number one part in a quintillion is,{\r}
+Dialogue: 0,0:06:26.02,0:06:29.15,Default,,0,0,0,,{\blur3}你们可以想象一下这片沙滩上的沙粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}imagine all the grains of sand on this beach,{\r}
+Dialogue: 0,0:06:29.61,0:06:33.52,Default,,0,0,0,,{\blur3}或者 想象地球上所有沙滩上所有的沙粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in fact, imagine all the grains of sand in all the world's beaches.{\r}
+Dialogue: 0,0:06:33.54,0:06:36.76,Default,,0,0,0,,{\blur3}沙粒总数大概在一万兆左右{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That number's probably somewhere around a quintillion.{\r}
+Dialogue: 0,0:06:37.68,0:06:41.75,Default,,0,0,0,,{\blur3}以此类推 假使沙粒总数代表的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this analogy, if all that sand represents the rate of{\r}
+Dialogue: 0,0:06:41.75,0:06:44.59,Default,,0,0,0,,{\blur3}大爆炸之后宇宙的膨胀率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}expansion of the universe right after the Big Bang,{\r}
+Dialogue: 0,0:06:44.69,0:06:49.25,Default,,0,0,0,,{\blur3}若想破坏整个宇宙 须改变多少沙粒呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how many grains of sand would I need to add or subtract to wreck the Universe?{\r}
+Dialogue: 0,0:06:52.24,0:06:55.92,Default,,0,0,0,,{\blur3}仅仅一颗 一万兆分之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just one grain, one in a quintillion...{\r}
+Dialogue: 0,0:06:56.32,0:07:00.09,Default,,0,0,0,,{\blur3}宇宙出现的要求就是如此分毫不差{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's how precise things had to be for us to be here.{\r}
+Dialogue: 0,0:07:04.20,0:07:07.62,Default,,0,0,0,,{\blur3}即使这次大爆炸范围分毫不差{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even though the Big Bang was perfectly calibrated,{\r}
+Dialogue: 0,0:07:08.44,0:07:11.24,Default,,0,0,0,,{\blur3}如果物质平均延伸至整个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}intelligent life would never have formed,{\r}
+Dialogue: 0,0:07:11.53,0:07:14.76,Default,,0,0,0,,{\blur3}智慧生命也无法形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if matter had spread evenly across the universe.{\r}
+Dialogue: 0,0:07:17.29,0:07:20.84,Default,,0,0,0,,{\blur3}如果完全均匀 就不会产生任何结块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had it been perfectly smooth, then there wouldn't be any clumps,{\r}
+Dialogue: 0,0:07:21.10,0:07:23.94,Default,,0,0,0,,{\blur3}就不可能相互吸引并形成恒星和星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which would gravitate and form stars and galaxies.{\r}
+Dialogue: 0,0:07:24.38,0:07:26.81,Default,,0,0,0,,{\blur3}因此在宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, we needed slight irregularities{\r}
+Dialogue: 0,0:07:26.81,0:07:29.44,Default,,0,0,0,,{\blur3}物质的分布要有些许不均{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the distribution of matter in the universe.{\r}
+Dialogue: 0,0:07:30.31,0:07:32.77,Default,,0,0,0,,{\blur3}若物质分布更加均匀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had those irregularities been much smaller,{\r}
+Dialogue: 0,0:07:33.20,0:07:35.19,Default,,0,0,0,,{\blur3}恒星和星系就不可能形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stars and galaxies wouldn't have formed.{\r}
+Dialogue: 0,0:07:35.93,0:07:37.19,Default,,0,0,0,,{\blur3}若分布过于不均{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had they been much larger,{\r}
+Dialogue: 0,0:07:37.54,0:07:40.38,Default,,0,0,0,,{\blur3}一切物质会塌缩成一个黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}everything would have collapsed to form black holes.{\r}
+Dialogue: 0,0:07:42.25,0:07:46.21,Default,,0,0,0,,{\blur3}即使整个宇宙中的物质分布恰到好处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even with the right distribution of matter throughout the universe,{\r}
+Dialogue: 0,0:07:47.99,0:07:49.96,Default,,0,0,0,,{\blur3}没有恒星内部一系列复杂过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}life would still never have formed{\r}
+Dialogue: 0,0:07:51.15,0:07:54.76,Default,,0,0,0,,{\blur3}生命也不会形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without a complex series of processes inside stars{\r}
+Dialogue: 0,0:07:55.10,0:07:57.64,Default,,0,0,0,,{\blur3}这个过程即是将氦和氢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that converted helium and hydrogen{\r}
+Dialogue: 0,0:07:57.99,0:08:00.22,Default,,0,0,0,,{\blur3}转化成更重的元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into heavier elements, like carbon{\r}
+Dialogue: 0,0:08:00.22,0:08:03.46,Default,,0,0,0,,{\blur3}譬如形成所有生物的基本元素 碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that formed the bases of all living beings.{\r}
+Dialogue: 0,0:08:04.87,0:08:06.46,Default,,0,0,0,,{\blur3}其中一些恒星爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some of those stars explode,{\r}
+Dialogue: 0,0:08:07.35,0:08:09.98,Default,,0,0,0,,{\blur3}为新生恒星 行星以及最终的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}providing raw material with which to form new stars,{\r}
+Dialogue: 0,0:08:10.31,0:08:12.76,Default,,0,0,0,,{\blur3}提供了原材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planets, and, ultimately, life.{\r}
+Dialogue: 0,0:08:13.72,0:08:15.92,Default,,0,0,0,,{\blur3}如果物理定律有些许不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had the laws of physics been a little bit different,{\r}
+Dialogue: 0,0:08:16.35,0:08:18.91,Default,,0,0,0,,{\blur3}甚至是物理常数跟实际{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or even if physical constants had been a little bit different{\r}
+Dialogue: 0,0:08:19.20,0:08:20.07,Default,,0,0,0,,{\blur3}有些许差别{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from what they really are,{\r}
+Dialogue: 0,0:08:20.67,0:08:24.41,Default,,0,0,0,,{\blur3}核聚变的过程以及恒星爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this process of nuclear fusion and the explosion of stars{\r}
+Dialogue: 0,0:08:24.79,0:08:26.28,Default,,0,0,0,,{\blur3}都不会发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might not have been possible,{\r}
+Dialogue: 0,0:08:26.54,0:08:28.83,Default,,0,0,0,,{\blur3}我们也就不可能站在这讨论这个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we wouldn't be here discussing it.{\r}
+Dialogue: 0,0:08:31.71,0:08:34.41,Default,,0,0,0,,{\blur3}我从没见过任何科学家会否认{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't know a single scientist who would disagree with the statement{\r}
+Dialogue: 0,0:08:34.65,0:08:36.48,Default,,0,0,0,,{\blur3}这个世界无比精妙这个说法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the world is exceedingly ingenious...{\r}
+Dialogue: 0,0:08:38.15,0:08:41.05,Default,,0,0,0,,{\blur3}不仅是数学意义上的 不仅美丽优雅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not just mathematical, not just beautiful, not just elegant,{\r}
+Dialogue: 0,0:08:41.27,0:08:44.27,Default,,0,0,0,,{\blur3}这是对无与伦比之事物的完美诠释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the manifestation of something truly extraordinary.{\r}
+Dialogue: 0,0:08:46.10,0:08:49.85,Default,,0,0,0,,{\blur3}宇宙这种非凡的至臻之极{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How could this extraordinary fine-tuning of the universe{\r}
+Dialogue: 0,0:08:50.76,0:08:55.51,Default,,0,0,0,,{\blur3}怎能不是神圣造物主存在的确切证据呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}be anything less than unmistakable evidence of a divine creator.{\r}
+Dialogue: 0,0:08:58.11,0:09:01.65,Default,,0,0,0,,{\blur3}人们说这种至臻之极绝对证明了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's often said that the delicate fine-tuning{\r}
+Dialogue: 0,0:09:01.84,0:09:06.00,Default,,0,0,0,,{\blur3}存在某种力量精心调配出这一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}must be evidence that some agency tuned it that way.{\r}
+Dialogue: 0,0:09:07.08,0:09:12.18,Default,,0,0,0,,{\blur3}但大多数物理学家都持不同看法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most physicists' take on this is actually not to go in that direction.{\r}
+Dialogue: 0,0:09:12.59,0:09:15.31,Default,,0,0,0,,{\blur3}如果你再物理学中发现经过精密调整的事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you see something that's finely tuned in physics,{\r}
+Dialogue: 0,0:09:15.31,0:09:17.01,Default,,0,0,0,,{\blur3}这往往意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it usually means there's a mechanism{\r}
+Dialogue: 0,0:09:17.63,0:09:19.30,Default,,0,0,0,,{\blur3}有尚未知晓的机制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you don't yet understand{\r}
+Dialogue: 0,0:09:20.35,0:09:22.33,Default,,0,0,0,,{\blur3}在当中发挥作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is playing a role there.{\r}
+Dialogue: 0,0:09:25.74,0:09:29.28,Default,,0,0,0,,{\blur3}即使看起来像是有位神圣造物主创造了宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, while it appears a divine creator planned the universe,{\r}
+Dialogue: 0,0:09:30.73,0:09:35.23,Default,,0,0,0,,{\blur3}许多物理学家认为精密调制不能证明其存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}many physicists say apparent fine-tuning doesn't prove anything of the sort.{\r}
+Dialogue: 0,0:09:35.95,0:09:38.46,Default,,0,0,0,,{\blur3}肯定有其它事物在起作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Something else must be at work.{\r}
+Dialogue: 0,0:09:40.25,0:09:42.92,Default,,0,0,0,,{\blur3}但是除了上帝 还有什么事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what other than God could possibly explain{\r}
+Dialogue: 0,0:09:43.23,0:09:44.74,Default,,0,0,0,,{\blur3}能够创造出这一系列非凡的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the remarkable series of events{\r}
+Dialogue: 0,0:09:45.04,0:09:48.23,Default,,0,0,0,,{\blur3}最终导致宇宙中生命的诞生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that led to the creation of life in our universe?{\r}
+Dialogue: 0,0:09:50.93,0:09:54.01,Default,,0,0,0,,{\blur3}有种非常流行的理论 听起来似乎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One very popular contender is the idea that seems{\r}
+Dialogue: 0,0:09:54.01,0:09:57.26,Default,,0,0,0,,{\blur3}跟有神论一样难以置信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at least as incredible as the idea of God.{\r}
+Dialogue: 0,0:09:58.26,0:10:00.90,Default,,0,0,0,,{\blur3}称之为多宇宙论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the multiple-universe theory.{\r}
+Dialogue: 0,0:10:03.21,0:10:04.95,Default,,0,0,0,,{\blur3}即在广袤的超空间中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A very large number of universes{\r}
+Dialogue: 0,0:10:05.17,0:10:06.63,Default,,0,0,0,,{\blur3}存在数量极多的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps even an infinite number,{\r}
+Dialogue: 0,0:10:07.15,0:10:10.75,Default,,0,0,0,,{\blur3}这个数量甚至可能是无限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could, in principle exist in a vast hyperspace.{\r}
+Dialogue: 0,0:10:11.65,0:10:14.09,Default,,0,0,0,,{\blur3}用一杯啤酒作比喻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can understand the idea of hyperspace{\r}
+Dialogue: 0,0:10:14.41,0:10:16.67,Default,,0,0,0,,{\blur3}我们便能理解超空间的概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by comparing it to a mug of beer.{\r}
+Dialogue: 0,0:10:17.92,0:10:19.83,Default,,0,0,0,,{\blur3}这个啤酒杯代表的是超空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The beer mug would be the hyperspace{\r}
+Dialogue: 0,0:10:19.83,0:10:22.65,Default,,0,0,0,,{\blur3}当中的气泡就是单个的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the bubbles would be these individual universes.{\r}
+Dialogue: 0,0:10:23.31,0:10:26.86,Default,,0,0,0,,{\blur3}啤酒杯中的气泡外表几乎相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bubbles in a beer mug are all physically about the same.{\r}
+Dialogue: 0,0:10:27.44,0:10:30.28,Default,,0,0,0,,{\blur3}设想一下 它们的属性成分可能不一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But suppose they span a range of properties.{\r}
+Dialogue: 0,0:10:31.02,0:10:33.76,Default,,0,0,0,,{\blur3}有一些含有碳 氧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some of them might have carbon, oxygen{\r}
+Dialogue: 0,0:10:33.98,0:10:37.52,Default,,0,0,0,,{\blur3}恒星和重力 其它的可能没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and stars and gravity, and others don't.{\r}
+Dialogue: 0,0:10:38.05,0:10:42.63,Default,,0,0,0,,{\blur3}而我们则是其中一个宇宙 富饶 复杂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We would be in one of the ones that leads to a rich, complex universe{\r}
+Dialogue: 0,0:10:43.00,0:10:45.56,Default,,0,0,0,,{\blur3}最终诞生出生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}combinating with life as we know it.{\r}
+Dialogue: 0,0:10:46.49,0:10:49.61,Default,,0,0,0,,{\blur3}如果真有无限的宇宙 而这种精密调配{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If there are an infinite number of other universes{\r}
+Dialogue: 0,0:10:49.78,0:10:52.88,Default,,0,0,0,,{\blur3}出现在我们所在的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the fine tuning that seems to be present in ours{\r}
+Dialogue: 0,0:10:53.05,0:10:57.98,Default,,0,0,0,,{\blur3}与其说上帝的杰作 不如说是统计学定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}isn't an example of God's plan but rather the law of statistics.{\r}
+Dialogue: 0,0:10:59.38,0:11:02.11,Default,,0,0,0,,{\blur3}大部分宇宙不会自然地向这方面发展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of these universes wouldn't naturally develop{\r}
+Dialogue: 0,0:11:02.11,0:11:04.18,Default,,0,0,0,,{\blur3}并最终孕育出智慧生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in ways that fostered intelligent life...{\r}
+Dialogue: 0,0:11:05.64,0:11:07.62,Default,,0,0,0,,{\blur3}只有一小部分会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But a few, would.{\r}
+Dialogue: 0,0:11:09.79,0:11:12.58,Default,,0,0,0,,{\blur3}因此对于我们所处宇宙的特殊性的解释是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So then the explanation for the specialness of the universe{\r}
+Dialogue: 0,0:11:12.58,0:11:15.59,Default,,0,0,0,,{\blur3}我们是这个巨型宇宙抽奖中的赢家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that we are winners in a gigantic cosmic lottery.{\r}
+Dialogue: 0,0:11:15.59,0:11:18.69,Default,,0,0,0,,{\blur3}因为在不利于生命存在的宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It stands to reason that we couldn't be living and discussing this{\r}
+Dialogue: 0,0:11:19.06,0:11:21.27,Default,,0,0,0,,{\blur3}我们无法生存并讨论这个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a universe that was hostile to life,{\r}
+Dialogue: 0,0:11:21.38,0:11:25.08,Default,,0,0,0,,{\blur3}只有生态友善型宇宙中才会产生智能生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only the bio-friendly ones get populated with thinking beings.{\r}
+Dialogue: 0,0:11:27.43,0:11:32.10,Default,,0,0,0,,{\blur3}多重宇宙论其实是自然和简单的结论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Having a multitude of universes is actually a simple and natural consequence{\r}
+Dialogue: 0,0:11:32.10,0:11:34.18,Default,,0,0,0,,{\blur3}因为它和我们所处宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of some of the most favorite models{\r}
+Dialogue: 0,0:11:34.56,0:11:37.89,Default,,0,0,0,,{\blur3}诞生和早期演变的最佳模型不谋而合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the birth and early evolution of our universe.{\r}
+Dialogue: 0,0:11:38.16,0:11:40.05,Default,,0,0,0,,{\blur3}就像是恒星和行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's kind of like stars and planets.{\r}
+Dialogue: 0,0:11:40.60,0:11:43.25,Default,,0,0,0,,{\blur3}只要有能力制造一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As long as you have the capacity to make one,{\r}
+Dialogue: 0,0:11:43.30,0:11:45.27,Default,,0,0,0,,{\blur3}就很容易产生更多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's easy to make lots of them.{\r}
+Dialogue: 0,0:11:47.46,0:11:52.20,Default,,0,0,0,,{\blur3}但是一些神学家表示多重宇宙论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But some theologians say the idea of an infinite number of universes{\r}
+Dialogue: 0,0:11:52.72,0:11:55.48,Default,,0,0,0,,{\blur3}没有看不见的造物主论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}isn't any more likely than an unseen creator{\r}
+Dialogue: 0,0:11:55.48,0:11:59.21,Default,,0,0,0,,{\blur3}更有可能保证生命的诞生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ensuring our universe is habitable for life.{\r}
+Dialogue: 0,0:12:00.75,0:12:03.37,Default,,0,0,0,,{\blur3}相信多重宇宙的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A multiverse requires as much belief{\r}
+Dialogue: 0,0:12:03.37,0:12:06.18,Default,,0,0,0,,{\blur3}就如相信上帝一般{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as belief in a transcendent God.{\r}
+Dialogue: 0,0:12:06.18,0:12:09.14,Default,,0,0,0,,{\blur3}目前没有证据可以证明其存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is simply no evidence for it right now,{\r}
+Dialogue: 0,0:12:09.43,0:12:12.07,Default,,0,0,0,,{\blur3}而且以后也可能很难找到证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it may be very difficult to prove it in the future.{\r}
+Dialogue: 0,0:12:13.04,0:12:14.55,Default,,0,0,0,,{\blur3}物理学家保罗·戴维斯说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Physicist Paul Davies said,{\r}
+Dialogue: 0,0:12:14.98,0:12:18.03,Default,,0,0,0,,{\blur3}"若只为解释我们的宇宙是如何产生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"To postulate trillions upon trillions upon trillions of universes,{\r}
+Dialogue: 0,0:12:18.57,0:12:20.64,Default,,0,0,0,,{\blur3}就贸然假设存在亿万个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just to explain one like ours{\r}
+Dialogue: 0,0:12:20.94,0:12:25.60,Default,,0,0,0,,{\blur3}无非是给宇宙极端加上负担"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is bringing excess baggage to cosmic extremes."{\r}
+Dialogue: 0,0:12:30.09,0:12:33.05,Default,,0,0,0,,{\blur3}上帝创世与宇宙学说之间的辩论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This debate about the question of God and the universe{\r}
+Dialogue: 0,0:12:33.05,0:12:36.21,Default,,0,0,0,,{\blur3}可能即将进入最激烈的时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may soon enter an explosive phase.{\r}
+Dialogue: 0,0:12:38.15,0:12:42.24,Default,,0,0,0,,{\blur3}令人震惊的新理论指出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Startling new theories suggest something could exist{\r}
+Dialogue: 0,0:12:42.24,0:12:44.02,Default,,0,0,0,,{\blur3}可能有物体存在于另一维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in an unexplored dimension{\r}
+Dialogue: 0,0:12:44.58,0:12:49.00,Default,,0,0,0,,{\blur3}并且离我们只有几毫米的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just millimeters away from each person on Earth.{\r}
+Dialogue: 0,0:12:56.97,0:12:59.88,Default,,0,0,0,,{\blur3}在宇宙中探寻上帝的热潮愈演愈烈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While the search for God in the universe heats up,{\r}
+Dialogue: 0,0:12:59.89,0:13:02.75,Default,,0,0,0,,{\blur3}一些科学家正致力于新理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some scientists are working to develop a theory{\r}
+Dialogue: 0,0:13:02.75,0:13:06.10,Default,,0,0,0,,{\blur3}它被喻为 "物理界的圣杯"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that has been called "The Holy Grail of Physics".{\r}
+Dialogue: 0,0:13:07.75,0:13:10.70,Default,,0,0,0,,{\blur3}它可以解释宇宙中的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A theory that could explain everything in the universe{\r}
+Dialogue: 0,0:13:10.70,0:13:13.23,Default,,0,0,0,,{\blur3}包括它的诞生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including how it started.{\r}
+Dialogue: 0,0:13:14.57,0:13:16.94,Default,,0,0,0,,{\blur3}这就是弦理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's called String Theory.{\r}
+Dialogue: 0,0:13:19.60,0:13:22.87,Default,,0,0,0,,{\blur3}弦理论是目前流行的极有野心的新理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}String Theory is the latest ambitious popular attempt{\r}
+Dialogue: 0,0:13:22.89,0:13:26.16,Default,,0,0,0,,{\blur3}它试图将物理界各种分支集为一体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to pull all of the disparate strands of physics together{\r}
+Dialogue: 0,0:13:26.41,0:13:28.33,Default,,0,0,0,,{\blur3}形成统一的理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into one grand unified theory.{\r}
+Dialogue: 0,0:13:31.34,0:13:35.02,Default,,0,0,0,,{\blur3}既然它声称能解释物理界中几乎所有问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since it promises to answer nearly every question in physics,{\r}
+Dialogue: 0,0:13:35.52,0:13:38.05,Default,,0,0,0,,{\blur3}那么弦理论是否能告诉我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will string theory be able to tell us{\r}
+Dialogue: 0,0:13:38.65,0:13:40.91,Default,,0,0,0,,{\blur3}到底是超然的上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether it was a transcendent creator{\r}
+Dialogue: 0,0:13:40.91,0:13:43.44,Default,,0,0,0,,{\blur3}还是物理学定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the laws of physics alone{\r}
+Dialogue: 0,0:13:44.08,0:13:46.23,Default,,0,0,0,,{\blur3}创造了宇宙呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that gave birth to the universe?{\r}
+Dialogue: 0,0:13:48.98,0:13:50.76,Default,,0,0,0,,{\blur3}这让我们达到更深的一个层次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is getting us one level deeper.{\r}
+Dialogue: 0,0:13:50.76,0:13:54.33,Default,,0,0,0,,{\blur3}每当我们发现新联系时 我们就更深一步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every time we find new links between things, we go down a level.{\r}
+Dialogue: 0,0:13:54.33,0:13:56.52,Default,,0,0,0,,{\blur3}这令我们距全貌更近一些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's getting us closer to the total package{\r}
+Dialogue: 0,0:13:56.52,0:13:59.78,Default,,0,0,0,,{\blur3}最终当我们获得宇宙的所有信息时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and when we get that complete description of the universe{\r}
+Dialogue: 0,0:13:59.78,0:14:01.79,Default,,0,0,0,,{\blur3}就无法再深入了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}well, we can't do much better than that.{\r}
+Dialogue: 0,0:14:03.89,0:14:06.80,Default,,0,0,0,,{\blur3}无论弦理论是否指向上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whether or not String Theory leads us to God,{\r}
+Dialogue: 0,0:14:07.33,0:14:09.99,Default,,0,0,0,,{\blur3}它已经指引我们去考虑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it already offers tantalizing suggestions{\r}
+Dialogue: 0,0:14:09.99,0:14:15.05,Default,,0,0,0,,{\blur3}人类尚未发现的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about unexplored dimensions that humans have never detected.{\r}
+Dialogue: 0,0:14:17.04,0:14:19.10,Default,,0,0,0,,{\blur3}弦理论的基本观点是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The basic idea of String Theory{\r}
+Dialogue: 0,0:14:19.50,0:14:22.71,Default,,0,0,0,,{\blur3}宇宙中存在有基础能量单元{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that there are these little fundamental packages of energy.{\r}
+Dialogue: 0,0:14:22.71,0:14:24.14,Default,,0,0,0,,{\blur3}被称之为闭合弦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You could call them little strings,{\r}
+Dialogue: 0,0:14:24.14,0:14:29.82,Default,,0,0,0,,{\blur3}它们抖动的方式不同 而这种不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they vibrate in different ways, and the different modes of vibration{\r}
+Dialogue: 0,0:14:29.82,0:14:33.01,Default,,0,0,0,,{\blur3}就产生了宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}correspond to the different kinds of fundamental particles{\r}
+Dialogue: 0,0:14:33.03,0:14:35.07,Default,,0,0,0,,{\blur3}不同的基本粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we observe in the universe.{\r}
+Dialogue: 0,0:14:37.10,0:14:38.57,Default,,0,0,0,,{\blur3}根据理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to the theory,{\r}
+Dialogue: 0,0:14:38.57,0:14:41.17,Default,,0,0,0,,{\blur3}这些无穷小的闭合弦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these infinitesimally small strings{\r}
+Dialogue: 0,0:14:41.17,0:14:45.04,Default,,0,0,0,,{\blur3}是所有能量和物质的基本单位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the fundamental building blocks of all energy and matter,{\r}
+Dialogue: 0,0:14:46.36,0:14:48.35,Default,,0,0,0,,{\blur3}但是该理论的数学基础{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the mathematics behind the theory{\r}
+Dialogue: 0,0:14:48.35,0:14:51.23,Default,,0,0,0,,{\blur3}却指向了一个惊人的结论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}suggests one astounding conclusion.{\r}
+Dialogue: 0,0:14:52.67,0:14:56.10,Default,,0,0,0,,{\blur3}闭合弦不仅需要在三维世界振动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The strings have to vibrate not just in the three dimensions we see,{\r}
+Dialogue: 0,0:14:56.10,0:14:58.54,Default,,0,0,0,,{\blur3}而且需要在更高维度如此 那么问题便是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in a larger number. And so this raises a question...{\r}
+Dialogue: 0,0:14:58.64,0:15:00.30,Default,,0,0,0,,{\blur3}这些额外维度在哪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where are all these extra dimensions?{\r}
+Dialogue: 0,0:15:03.94,0:15:07.80,Default,,0,0,0,,{\blur3}一些物理学家认为 额外维度可能极小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some physicists believe those extra dimensions may be so small,{\r}
+Dialogue: 0,0:15:08.10,0:15:10.19,Default,,0,0,0,,{\blur3}人类从未能探测到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've never been able to detect them.{\r}
+Dialogue: 0,0:15:11.68,0:15:13.65,Default,,0,0,0,,{\blur3}但是另外一些认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But others say that some of them{\r}
+Dialogue: 0,0:15:14.28,0:15:17.53,Default,,0,0,0,,{\blur3}它们可能存在于我们的宇宙之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may lie outside our universe...{\r}
+Dialogue: 0,0:15:18.44,0:15:21.21,Default,,0,0,0,,{\blur3}在所谓的"体宇宙"中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a so-called "Bulk universe."{\r}
+Dialogue: 0,0:15:23.95,0:15:27.03,Default,,0,0,0,,{\blur3}很有可能 我们的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's quite possible that our universe,{\r}
+Dialogue: 0,0:15:27.03,0:15:29.10,Default,,0,0,0,,{\blur3}一个四维的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the four easily observed dimensions...{\r}
+Dialogue: 0,0:15:29.55,0:15:34.06,Default,,0,0,0,,{\blur3}只是存在于高维度体宇宙 中的一层"膜宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is like a membrane within a higher-dimensional bulk.{\r}
+Dialogue: 0,0:15:37.10,0:15:39.50,Default,,0,0,0,,{\blur3}根据理论 高维度体宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In theory, the higher dimensional bulk{\r}
+Dialogue: 0,0:15:39.50,0:15:42.22,Default,,0,0,0,,{\blur3}可以离我们近在咫尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could exist just millimeters away from us{\r}
+Dialogue: 0,0:15:42.23,0:15:44.43,Default,,0,0,0,,{\blur3}因为它在另一维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it is in a different dimension.{\r}
+Dialogue: 0,0:15:44.58,0:15:48.30,Default,,0,0,0,,{\blur3}但是为何它近在咫尺人类却从未察觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how could things exist so close to us without our knowing?{\r}
+Dialogue: 0,0:15:48.66,0:15:50.57,Default,,0,0,0,,{\blur3}而这对于上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what might that imply about{\r}
+Dialogue: 0,0:15:50.57,0:15:54.82,Default,,0,0,0,,{\blur3}是否存在 又有何影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the existence, or the nonexistence, of God?{\r}
+Dialogue: 0,0:15:57.06,0:16:00.22,Default,,0,0,0,,{\blur3}天文学家劳拉·丹莉将对此做出讲解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomer Laura Danly demonstrates this concept{\r}
+Dialogue: 0,0:16:00.22,0:16:06.05,Default,,0,0,0,,{\blur3}她身处三维世界 有高度 宽度及深度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from her three-dimensional world of height, width, and depth{\r}
+Dialogue: 0,0:16:06.05,0:16:09.44,Default,,0,0,0,,{\blur3}她将与屏幕中的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by trying to communicate with physicist{\r}
+Dialogue: 0,0:16:09.45,0:16:12.22,Default,,0,0,0,,{\blur3}物理学家亚历克·菲力彭科交流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alex Filippenko, who's on a television screen{\r}
+Dialogue: 0,0:16:12.58,0:16:17.62,Default,,0,0,0,,{\blur3}他身处二维世界 只有高度和宽度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with just two dimensions... height and width.{\r}
+Dialogue: 0,0:16:19.63,0:16:22.32,Default,,0,0,0,,{\blur3}亚历克 亚历克{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alex? Alex?{\r}
+Dialogue: 0,0:16:23.10,0:16:26.98,Default,,0,0,0,,{\blur3}亚历克看不到劳拉 因为他处于二维空间中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alex can't see Laura because he's trapped in two dimensions.{\r}
+Dialogue: 0,0:16:27.22,0:16:31.29,Default,,0,0,0,,{\blur3}他缺少深度来与劳拉的世界沟通{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He has no dimension of depth, that would link him to Laura's world.{\r}
+Dialogue: 0,0:16:31.96,0:16:35.07,Default,,0,0,0,,{\blur3}他无法看见自己的身前或背后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He can't see in front of him and he can't see behind him,{\r}
+Dialogue: 0,0:16:35.07,0:16:40.54,Default,,0,0,0,,{\blur3}因为在他的二维世界中 不存在前后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because in his two-dimensional universe, there is no in front or behind.{\r}
+Dialogue: 0,0:16:40.55,0:16:43.21,Default,,0,0,0,,{\blur3}我却可以看到自己身后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I, on the other hand, can see behind me{\r}
+Dialogue: 0,0:16:43.21,0:16:45.63,Default,,0,0,0,,{\blur3}以及屏幕中的亚历克{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and see Alex on that screen.{\r}
+Dialogue: 0,0:16:47.22,0:16:49.67,Default,,0,0,0,,{\blur3}她也能听见亚历克说话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And she can also hear what Alex says.{\r}
+Dialogue: 0,0:16:51.44,0:16:53.90,Default,,0,0,0,,{\blur3}如果物理定律局限于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the laws of physics are constrained to work{\r}
+Dialogue: 0,0:16:54.33,0:16:55.61,Default,,0,0,0,,{\blur3}某几个维度中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a certain number of dimensions,{\r}
+Dialogue: 0,0:16:55.61,0:16:59.82,Default,,0,0,0,,{\blur3}那么我们就无法看到 摸到或是感受到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then we can't physically see or touch or experience{\r}
+Dialogue: 0,0:17:00.15,0:17:03.70,Default,,0,0,0,,{\blur3}另一个与这几维度垂直的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a dimension that's perpendicular to those dimensions.{\r}
+Dialogue: 0,0:17:03.85,0:17:07.34,Default,,0,0,0,,{\blur3}假设你所处的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, for example, suppose your universe, your hypothetical universe,{\r}
+Dialogue: 0,0:17:07.57,0:17:10.47,Default,,0,0,0,,{\blur3}是这块电视屏幕的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was just the surface of this television screen.{\r}
+Dialogue: 0,0:17:10.62,0:17:13.24,Default,,0,0,0,,{\blur3}你可以上下左右运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can go up, down, left and right,{\r}
+Dialogue: 0,0:17:13.24,0:17:17.84,Default,,0,0,0,,{\blur3}或者是这些方向的组合 却无法向里或向外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or any combination of those motions, but you can't go in or out.{\r}
+Dialogue: 0,0:17:18.48,0:17:22.33,Default,,0,0,0,,{\blur3}这个维度可以用数学理论进行描述{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That dimension would be a mathematical describable{\r}
+Dialogue: 0,0:17:22.33,0:17:25.23,Default,,0,0,0,,{\blur3}但实际上却无法接触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but physically inaccessible dimension.{\r}
+Dialogue: 0,0:17:25.72,0:17:26.80,Default,,0,0,0,,{\blur3}亚历克{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alex?{\r}
+Dialogue: 0,0:17:26.80,0:17:29.27,Default,,0,0,0,,{\blur3}就如亚历克与劳拉身处一室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just as Alex can be in the same room as Laura{\r}
+Dialogue: 0,0:17:29.27,0:17:31.31,Default,,0,0,0,,{\blur3}却无法感知她一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without being able to see or hear her,{\r}
+Dialogue: 0,0:17:33.51,0:17:37.99,Default,,0,0,0,,{\blur3}我们身边就可能隐藏着永远无法探知的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there could be hidden dimensions right beside us that we can never detect.{\r}
+Dialogue: 0,0:17:41.11,0:17:45.64,Default,,0,0,0,,{\blur3}如果上帝或其他神物存在于高维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If God or other sanction creatures exist in a higher number of dimensions{\r}
+Dialogue: 0,0:17:45.96,0:17:47.61,Default,,0,0,0,,{\blur3}他们便可看见我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they might be able to see us,{\r}
+Dialogue: 0,0:17:47.93,0:17:51.23,Default,,0,0,0,,{\blur3}并且接近我们 却不被知晓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and get very close to us without our knowing it.{\r}
+Dialogue: 0,0:17:53.04,0:17:57.44,Default,,0,0,0,,{\blur3}你可以想象或推测 智能生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can imagine and speculate that there are intelligent forms{\r}
+Dialogue: 0,0:17:57.44,0:18:00.98,Default,,0,0,0,,{\blur3}生存于这些高维度空间中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of life that live in these higher-dimensional scenarios{\r}
+Dialogue: 0,0:18:00.98,0:18:03.83,Default,,0,0,0,,{\blur3}对我们的维度产生作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we see the effects of somehow in our dimensions,{\r}
+Dialogue: 0,0:18:03.83,0:18:09.53,Default,,0,0,0,,{\blur3}而我们却没有意识到这是生物对世界的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we don't realize that they're actual living agents affecting our lives.{\r}
+Dialogue: 0,0:18:09.57,0:18:12.59,Default,,0,0,0,,{\blur3}我想现在的科学无法推翻它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think right now science can certainly not disprove that.{\r}
+Dialogue: 0,0:18:12.75,0:18:15.71,Default,,0,0,0,,{\blur3}它也留给了我们很多推测的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think it's... it's very much in the realm of speculation.{\r}
+Dialogue: 0,0:18:17.96,0:18:20.32,Default,,0,0,0,,{\blur3}弦理论表示我们的宇宙可能延至其它维度中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}String theory predicts that our universe extends into other dimensions,{\r}
+Dialogue: 0,0:18:20.32,0:18:24.84,Default,,0,0,0,,{\blur3}却并未说明其它维度中是否有特定生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but doesn't predict that anything in particular lives in those other dimensions.{\r}
+Dialogue: 0,0:18:25.20,0:18:29.53,Default,,0,0,0,,{\blur3}没有一个大胡子家伙在创造宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no bearded fellow there creating the universe{\r}
+Dialogue: 0,0:18:29.87,0:18:32.61,Default,,0,0,0,,{\blur3}或是操控一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or pulling the strings.{\r}
+Dialogue: 0,0:18:35.64,0:18:37.18,Default,,0,0,0,,{\blur3}神学家表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Theologians argue{\r}
+Dialogue: 0,0:18:37.51,0:18:40.74,Default,,0,0,0,,{\blur3}我们无法按照弦理论所说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we'll never find God in the 11-dimensional reality{\r}
+Dialogue: 0,0:18:41.16,0:18:42.46,Default,,0,0,0,,{\blur3}在十一度空间中找到上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}predicted by String Theory,{\r}
+Dialogue: 0,0:18:42.83,0:18:46.32,Default,,0,0,0,,{\blur3}因为上帝超越了体宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because he transcends the bulk universe.{\r}
+Dialogue: 0,0:18:48.57,0:18:53.01,Default,,0,0,0,,{\blur3}藏于弦理论提出的十一度空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hidden within the 11 dimensions of String Theory{\r}
+Dialogue: 0,0:18:53.01,0:18:55.61,Default,,0,0,0,,{\blur3}已经十分的不凡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a remarkable amount of fine-tuning...{\r}
+Dialogue: 0,0:18:55.61,0:18:59.36,Default,,0,0,0,,{\blur3}但是藏于在十一度空间中的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But hidden within the 11 dimensions of string theory{\r}
+Dialogue: 0,0:18:59.70,0:19:02.66,Default,,0,0,0,,{\blur3}并不能完全否认{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is not an unconditioned,{\r}
+Dialogue: 0,0:19:02.70,0:19:04.91,Default,,0,0,0,,{\blur3}完全智能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}completely intelligible,{\r}
+Dialogue: 0,0:19:04.91,0:19:09.01,Default,,0,0,0,,{\blur3}无限制连续创造着的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}unrestricted, continuously creating reality.{\r}
+Dialogue: 0,0:19:12.64,0:19:15.76,Default,,0,0,0,,{\blur3}然而 一些科学家相信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However some scientists believe that even{\r}
+Dialogue: 0,0:19:15.76,0:19:18.55,Default,,0,0,0,,{\blur3}即使上帝不存在于体宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if God doesn't exist in the bulk universe{\r}
+Dialogue: 0,0:19:20.37,0:19:22.92,Default,,0,0,0,,{\blur3}大爆炸的起因可能源于体宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the reason for the Big Bang, might.{\r}
+Dialogue: 0,0:19:25.00,0:19:27.96,Default,,0,0,0,,{\blur3}有假设表示 大爆炸源于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's one hypothesis that the Big Bang resulted{\r}
+Dialogue: 0,0:19:28.09,0:19:30.72,Default,,0,0,0,,{\blur3}两层平行膜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when two of these parallel membranes{\r}
+Dialogue: 0,0:19:30.73,0:19:34.53,Default,,0,0,0,,{\blur3}在高维度超空间内相互碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}crashed together in a higher-dimensional hyperspace.{\r}
+Dialogue: 0,0:19:34.91,0:19:37.49,Default,,0,0,0,,{\blur3}我个人并不同意这一假设{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I personally don't subscribe to that hypothesis,{\r}
+Dialogue: 0,0:19:37.49,0:19:39.20,Default,,0,0,0,,{\blur3}但这是个有趣的想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it is an interesting idea.{\r}
+Dialogue: 0,0:19:41.62,0:19:44.72,Default,,0,0,0,,{\blur3}科学如何能证明或推翻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how can science proof or disproof what happens{\r}
+Dialogue: 0,0:19:44.72,0:19:46.77,Default,,0,0,0,,{\blur3}在假设的维度中会发生什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in these proposed extra dimensions{\r}
+Dialogue: 0,0:19:46.77,0:19:50.82,Default,,0,0,0,,{\blur3}它又如何能支持或反对造物者的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and whether they support or undermine the existence of a creator{\r}
+Dialogue: 0,0:19:52.30,0:19:56.17,Default,,0,0,0,,{\blur3}我们毕竟被困在三维空间之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when we're destined to remain in our 3 dimensional world?{\r}
+Dialogue: 0,0:19:57.76,0:20:02.76,Default,,0,0,0,,{\blur3}一种途径便是 我们可以通过粒子碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One possibility is that we can find the effects of those other dimensions{\r}
+Dialogue: 0,0:20:03.14,0:20:06.14,Default,,0,0,0,,{\blur3}试图让它们进入其他维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by interacting with particles that may be able{\r}
+Dialogue: 0,0:20:06.14,0:20:08.08,Default,,0,0,0,,{\blur3}以发现其他维度所产生的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to move into those other dimensions.{\r}
+Dialogue: 0,0:20:09.53,0:20:12.45,Default,,0,0,0,,{\blur3}为了找到能够进入更高维度的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To find matter that moves into higher dimensions{\r}
+Dialogue: 0,0:20:12.50,0:20:15.39,Default,,0,0,0,,{\blur3}科学家们建造了庞大的加速器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists have built enormous accelerators{\r}
+Dialogue: 0,0:20:15.65,0:20:20.39,Default,,0,0,0,,{\blur3}用于超高速对撞亚原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that smash subatomic particles together at tremendous speeds.{\r}
+Dialogue: 0,0:20:21.61,0:20:26.17,Default,,0,0,0,,{\blur3}但这些粒子加速器很快就可一撞惊人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But these particle accelerators may soon do something else as astounding,{\r}
+Dialogue: 0,0:20:26.17,0:20:29.93,Default,,0,0,0,,{\blur3}这在几年前是完全无法想象的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something that seemed impossible only a few years ago.{\r}
+Dialogue: 0,0:20:30.45,0:20:33.54,Default,,0,0,0,,{\blur3}它们可能让科学家回溯到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They may allow scientists to go back in time{\r}
+Dialogue: 0,0:20:33.88,0:20:37.37,Default,,0,0,0,,{\blur3}几乎是宇宙诞生的那一瞬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to nearly the moment our universe was created...{\r}
+Dialogue: 0,0:20:38.13,0:20:40.73,Default,,0,0,0,,{\blur3}也许像一些人推测的那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and perhaps as some have suggested,{\r}
+Dialogue: 0,0:20:40.91,0:20:43.73,Default,,0,0,0,,{\blur3}撇一眼造物者的身影{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}catch a glimpse of our creator.{\r}
+Dialogue: 0,0:20:49.26,0:20:51.49,Default,,0,0,0,,{\blur3}为确定是上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To help determine whether God{\r}
+Dialogue: 0,0:20:52.06,0:20:55.66,Default,,0,0,0,,{\blur3}或是物理规律创造了宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the law of physics alone created the universe,{\r}
+Dialogue: 0,0:20:56.66,0:20:59.19,Default,,0,0,0,,{\blur3}科学家们花了数十亿美元{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists are using multibillion-dollar{\r}
+Dialogue: 0,0:20:59.19,0:21:02.99,Default,,0,0,0,,{\blur3}建造粒子加速器 带他们重返{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}particle accelerators to take them in a journey back in time{\r}
+Dialogue: 0,0:21:02.99,0:21:05.49,Default,,0,0,0,,{\blur3}宇宙诞生的那一瞬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to nearly the moment of creation.{\r}
+Dialogue: 0,0:21:07.93,0:21:10.09,Default,,0,0,0,,{\blur3}为达成这一目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To achieve this remarkable feat{\r}
+Dialogue: 0,0:21:10.09,0:21:12.98,Default,,0,0,0,,{\blur3}物理学家在巨型椭形轨道中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}physicists send subatomic particles screaming{\r}
+Dialogue: 0,0:21:12.99,0:21:16.26,Default,,0,0,0,,{\blur3}将亚原子向相反方向发射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in opposite directions around enormous oval tracks.{\r}
+Dialogue: 0,0:21:16.49,0:21:20.13,Default,,0,0,0,,{\blur3}当这些微物质达到接近光速时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When these tiny pieces of matter reach nearly the speed of light{\r}
+Dialogue: 0,0:21:20.17,0:21:23.02,Default,,0,0,0,,{\blur3}科学家们将他们引向对方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists steer them into each other.{\r}
+Dialogue: 0,0:21:27.43,0:21:29.58,Default,,0,0,0,,{\blur3}这样粗暴地对撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how can these violent explosions,{\r}
+Dialogue: 0,0:21:29.58,0:21:32.39,Default,,0,0,0,,{\blur3}是如何使科学家回到过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}possibly allow scientists to look back{\r}
+Dialogue: 0,0:21:32.71,0:21:37.45,Default,,0,0,0,,{\blur3}解释上帝是否存在的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}far into the past to shed light on the question of God?{\r}
+Dialogue: 0,0:21:39.04,0:21:42.67,Default,,0,0,0,,{\blur3}粒子加速器让我们超越理论的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What particle accelerators do is take us beyond the realm of theory{\r}
+Dialogue: 0,0:21:42.93,0:21:45.81,Default,,0,0,0,,{\blur3}直击大爆炸之后一瞬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and give us some direct access to the physics that prevailed{\r}
+Dialogue: 0,0:21:46.17,0:21:49.03,Default,,0,0,0,,{\blur3}所发生的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the first split second after the Big Bang.{\r}
+Dialogue: 0,0:21:50.11,0:21:53.46,Default,,0,0,0,,{\blur3}这样的基本粒子高能对撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These high-energy collisions of elementary particles{\r}
+Dialogue: 0,0:21:53.71,0:21:58.48,Default,,0,0,0,,{\blur3}可以在瞬间产生足够的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that go on in these experiments create enough energy to create, for a moment,{\r}
+Dialogue: 0,0:21:58.48,0:22:00.88,Default,,0,0,0,,{\blur3}模拟宇宙诞生初期的状况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the conditions of the very early universe,{\r}
+Dialogue: 0,0:22:00.88,0:22:02.85,Default,,0,0,0,,{\blur3}我们可以利用物理原理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then we can actually study that moment of creation,{\r}
+Dialogue: 0,0:22:02.85,0:22:04.92,Default,,0,0,0,,{\blur3}来研究这一时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using the laws of physics.{\r}
+Dialogue: 0,0:22:07.27,0:22:10.69,Default,,0,0,0,,{\blur3}粒子对撞产生的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The enormous energy that comes out of these particle collisions{\r}
+Dialogue: 0,0:22:10.69,0:22:14.05,Default,,0,0,0,,{\blur3}是大爆炸之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a microscopic version of the super-heated conditions{\r}
+Dialogue: 0,0:22:14.05,0:22:17.31,Default,,0,0,0,,{\blur3}高温状态的一个缩影{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that existed just after the Big Bang.{\r}
+Dialogue: 0,0:22:20.66,0:22:23.71,Default,,0,0,0,,{\blur3}粒子加速器的一个恰当的类比{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A useful analogy for what goes in a particle accelerator{\r}
+Dialogue: 0,0:22:23.71,0:22:26.01,Default,,0,0,0,,{\blur3}就是让遥控赛车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to actually use remote-controlled cars{\r}
+Dialogue: 0,0:22:26.01,0:22:28.63,Default,,0,0,0,,{\blur3}在真实赛道上奔驰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}going around an actual racetrack.{\r}
+Dialogue: 0,0:22:33.81,0:22:37.28,Default,,0,0,0,,{\blur3}我现在和专家丹纳斯在赛道边上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm actually here at the racetrack with an expert Dana{\r}
+Dialogue: 0,0:22:37.28,0:22:40.17,Default,,0,0,0,,{\blur3}他正教我如何使用遥控器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who's been showing me how to use these remote controls{\r}
+Dialogue: 0,0:22:40.17,0:22:43.05,Default,,0,0,0,,{\blur3}控制车围绕赛道跑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to drive these cars around the track.{\r}
+Dialogue: 0,0:22:43.74,0:22:46.04,Default,,0,0,0,,{\blur3}Dana 这些车速度多少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dana, how fast are these cars going?{\r}
+Dialogue: 0,0:22:46.05,0:22:47.95,Default,,0,0,0,,{\blur3}大约每小时40公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're going around 25 miles per hour.{\r}
+Dialogue: 0,0:22:47.96,0:22:51.23,Default,,0,0,0,,{\blur3}如果是实体车 可以达到每小时200公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if it was a real-sized car, it would be going to 125 mph.{\r}
+Dialogue: 0,0:22:51.84,0:22:53.86,Default,,0,0,0,,{\blur3}这是是很恰当的演示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's actually great for a demonstration,{\r}
+Dialogue: 0,0:22:53.86,0:22:55.99,Default,,0,0,0,,{\blur3}因为这些小物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because having these small objects,{\r}
+Dialogue: 0,0:22:55.99,0:22:58.53,Default,,0,0,0,,{\blur3}这些围绕轨道高速行驶的小车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the cars, going around the track at high speed{\r}
+Dialogue: 0,0:22:58.71,0:23:02.08,Default,,0,0,0,,{\blur3}与粒子加速器里的情况相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is exactly what goes on in the particle accelerator,{\r}
+Dialogue: 0,0:23:02.31,0:23:05.74,Default,,0,0,0,,{\blur3}加速器中微小的基本粒子被驱动着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you have the tiny fundamental particles begin driven around the track{\r}
+Dialogue: 0,0:23:06.08,0:23:08.53,Default,,0,0,0,,{\blur3}以近光速的高速围绕轨道运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at incredibly high speeds, almost the speed of light.{\r}
+Dialogue: 0,0:23:08.53,0:23:12.52,Default,,0,0,0,,{\blur3}利用圆形轨道用强力磁场做引导{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The guided rounded track, using powerful magnets.{\r}
+Dialogue: 0,0:23:12.52,0:23:16.41,Default,,0,0,0,,{\blur3}我们用这些小车来代表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We actually want the cars to represent these super-fast particles{\r}
+Dialogue: 0,0:23:16.41,0:23:18.77,Default,,0,0,0,,{\blur3}粒子加速器中的超高速粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are going around in the particle accelerator.{\r}
+Dialogue: 0,0:23:18.77,0:23:21.29,Default,,0,0,0,,{\blur3}现在我们已经让赛车达到预期速度了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So now that we've got the cars up to speed,{\r}
+Dialogue: 0,0:23:21.79,0:23:23.14,Default,,0,0,0,,{\blur3}我想做一件有趣的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm thinking a fun thing to do would be to{\r}
+Dialogue: 0,0:23:23.14,0:23:25.69,Default,,0,0,0,,{\blur3}即引导它们相撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually guide them into each other and collide them.{\r}
+Dialogue: 0,0:23:25.69,0:23:26.85,Default,,0,0,0,,{\blur3}可以这样做吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could we do that?{\r}
+Dialogue: 0,0:23:26.85,0:23:29.50,Default,,0,0,0,,{\blur3}可以 但会是一次严重车祸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We could, but we're gonna get a big crash.{\r}
+Dialogue: 0,0:23:29.76,0:23:32.30,Default,,0,0,0,,{\blur3}- 会发生什么呢 - 残骸乱飞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- What would happen? - Oh, parts are gonna go everywhere.{\r}
+Dialogue: 0,0:23:32.31,0:23:33.78,Default,,0,0,0,,{\blur3}开始吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, let's do it.{\r}
+Dialogue: 0,0:23:41.62,0:23:43.81,Default,,0,0,0,,{\blur3}好极了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, that's great!{\r}
+Dialogue: 0,0:23:49.90,0:23:52.16,Default,,0,0,0,,{\blur3}残骸到处散落 我们去看看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pieces everywhere, let's go and have a look.{\r}
+Dialogue: 0,0:23:52.78,0:23:54.01,Default,,0,0,0,,{\blur3}好极了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is great.{\r}
+Dialogue: 0,0:23:54.39,0:23:57.81,Default,,0,0,0,,{\blur3}大片都在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wow, we have all of these great pieces.{\r}
+Dialogue: 0,0:23:57.81,0:23:59.36,Default,,0,0,0,,{\blur3}这里有很多碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A lot of pieces here.{\r}
+Dialogue: 0,0:24:01.14,0:24:03.27,Default,,0,0,0,,{\blur3}这次碰撞产生的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The energy created in this collision{\r}
+Dialogue: 0,0:24:03.27,0:24:06.97,Default,,0,0,0,,{\blur3}立刻将小车瓦解成许多碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}immediately shatters the cars into dozens of pieces.{\r}
+Dialogue: 0,0:24:07.82,0:24:10.45,Default,,0,0,0,,{\blur3}当这种爆炸在粒子加速器中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When this explosion is amplified exponentially,{\r}
+Dialogue: 0,0:24:10.45,0:24:12.32,Default,,0,0,0,,{\blur3}以指数倍数放大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a particle accelerator,{\r}
+Dialogue: 0,0:24:12.32,0:24:14.28,Default,,0,0,0,,{\blur3}产生了如此巨大的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it creates so much energy that,{\r}
+Dialogue: 0,0:24:14.28,0:24:15.74,Default,,0,0,0,,{\blur3}以至于有一刹那{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for a split second,{\r}
+Dialogue: 0,0:24:15.74,0:24:17.24,Default,,0,0,0,,{\blur3}碰撞点周围的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the conditions around the crash site{\r}
+Dialogue: 0,0:24:17.51,0:24:21.26,Default,,0,0,0,,{\blur3}近似于宇宙最初形成时的状况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}begin to resemble those near the moment our universe was created,{\r}
+Dialogue: 0,0:24:21.26,0:24:26.90,Default,,0,0,0,,{\blur3}科学家或能看到上帝之手在创造这一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and scientists may be able to see the hand of God starting it all.{\r}
+Dialogue: 0,0:24:28.05,0:24:29.65,Default,,0,0,0,,{\blur3}宇宙早期的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You actually get a glimpse of{\r}
+Dialogue: 0,0:24:29.65,0:24:32.83,Default,,0,0,0,,{\blur3}由此可略见一斑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what the universe was like very early on.{\r}
+Dialogue: 0,0:24:32.83,0:24:35.37,Default,,0,0,0,,{\blur3}我们能看到宇宙的初生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we get a glimpse of creation.{\r}
+Dialogue: 0,0:24:36.37,0:24:40.73,Default,,0,0,0,,{\blur3}通过物理 我们能看到数十亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can actually see how things got the way they are now{\r}
+Dialogue: 0,0:24:41.20,0:24:44.55,Default,,0,0,0,,{\blur3}宇宙的万物是如何发展至今日的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through physics that was going on billions of years ago.{\r}
+Dialogue: 0,0:24:44.55,0:24:48.74,Default,,0,0,0,,{\blur3}正如通过用实验制造一些碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's as though as going back to the factory of creation{\r}
+Dialogue: 0,0:24:48.74,0:24:52.19,Default,,0,0,0,,{\blur3}还原工厂生产的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by creating a little piece of it in the experiment{\r}
+Dialogue: 0,0:24:52.19,0:24:54.69,Default,,0,0,0,,{\blur3}这使得我们能见到创世的瞬间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and allowing us to look at the creation moment{\r}
+Dialogue: 0,0:24:54.69,0:24:58.23,Default,,0,0,0,,{\blur3}看看物理学定律能否展示当时的真实情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and see that the laws of physics can tell us what really happened...{\r}
+Dialogue: 0,0:24:58.25,0:24:59.92,Default,,0,0,0,,{\blur3}同样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the same way here,{\r}
+Dialogue: 0,0:24:59.92,0:25:02.46,Default,,0,0,0,,{\blur3}我们可以通过撞车的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we look at the output of the collision,{\r}
+Dialogue: 0,0:25:02.46,0:25:05.33,Default,,0,0,0,,{\blur3}用物理学原理推导出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we can use the laws of physics to figure out{\r}
+Dialogue: 0,0:25:05.33,0:25:06.96,Default,,0,0,0,,{\blur3}小车是怎样相撞的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how the cars collided{\r}
+Dialogue: 0,0:25:06.96,0:25:08.96,Default,,0,0,0,,{\blur3}以及小车是由什么组成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what the cars were made of.{\r}
+Dialogue: 0,0:25:14.42,0:25:18.32,Default,,0,0,0,,{\blur3}粒子加速器尚未能解答有神与否{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Particle accelerators have not yet answered the God question,{\r}
+Dialogue: 0,0:25:18.75,0:25:21.95,Default,,0,0,0,,{\blur3}因为最新技术还无法产生足够能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the latest technology can't generate enough energy{\r}
+Dialogue: 0,0:25:21.95,0:25:25.85,Default,,0,0,0,,{\blur3}无法回溯到创世瞬间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to go all the way back to the exact moment of creation.{\r}
+Dialogue: 0,0:25:27.70,0:25:29.73,Default,,0,0,0,,{\blur3}迄今为止 科学家们已能再现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So far, scientists have reached{\r}
+Dialogue: 0,0:25:29.73,0:25:32.68,Default,,0,0,0,,{\blur3}创世大爆炸后的一瞬间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a fraction of a second after the Big Bang.{\r}
+Dialogue: 0,0:25:32.68,0:25:36.32,Default,,0,0,0,,{\blur3}尚未发现任何物理学无法解释之事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Without finding anything that can't be explained by physics.{\r}
+Dialogue: 0,0:25:37.61,0:25:41.02,Default,,0,0,0,,{\blur3}当然 人们想回最初那一刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of course, people want to go back to the very first moment itself.{\r}
+Dialogue: 0,0:25:41.02,0:25:44.37,Default,,0,0,0,,{\blur3}在他们想象中 得以见证{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's where they might imagine that one would see, so to speak,{\r}
+Dialogue: 0,0:25:44.37,0:25:46.77,Default,,0,0,0,,{\blur3}上帝之手或是创始者之标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the hand of God or the maker's mark.{\r}
+Dialogue: 0,0:25:47.07,0:25:48.58,Default,,0,0,0,,{\blur3}这仍未实现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We haven't got there yet.{\r}
+Dialogue: 0,0:25:49.33,0:25:52.22,Default,,0,0,0,,{\blur3}根据我们所有的实验和观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With all the experiments and observations that we've made,{\r}
+Dialogue: 0,0:25:52.22,0:25:55.53,Default,,0,0,0,,{\blur3}尚未发现任何违背物理规律的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've never found any single exception to physical law,{\r}
+Dialogue: 0,0:25:55.53,0:25:57.69,Default,,0,0,0,,{\blur3}我们可以认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we believe that there's a good case to be made{\r}
+Dialogue: 0,0:25:57.69,0:25:59.13,Default,,0,0,0,,{\blur3}奇迹没有发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that miracles don't happen,{\r}
+Dialogue: 0,0:25:59.13,0:26:02.33,Default,,0,0,0,,{\blur3}一切皆可用自然法则来解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and everything can be explained by the laws of nature.{\r}
+Dialogue: 0,0:26:03.65,0:26:05.71,Default,,0,0,0,,{\blur3}目前为止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just because up to this point,{\r}
+Dialogue: 0,0:26:06.18,0:26:10.67,Default,,0,0,0,,{\blur3}尚未发现物理学原理无法解释的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one has not discovered anything that couldn't be explained by a physical law{\r}
+Dialogue: 0,0:26:10.97,0:26:12.85,Default,,0,0,0,,{\blur3}但这并不意味着 在将来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}doesn't mean that in the future{\r}
+Dialogue: 0,0:26:12.85,0:26:16.03,Default,,0,0,0,,{\blur3}不会有大量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there couldn't be literally thousands of things{\r}
+Dialogue: 0,0:26:16.04,0:26:21.00,Default,,0,0,0,,{\blur3}用物理学无法解释的最新发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}newly discovered that aren't explained by any physical law.{\r}
+Dialogue: 0,0:26:21.28,0:26:22.60,Default,,0,0,0,,{\blur3}为什么呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why is that?{\r}
+Dialogue: 0,0:26:22.60,0:26:27.93,Default,,0,0,0,,{\blur3}因为科学本身必须接受新的发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because science itself must always be open to new discoveries.{\r}
+Dialogue: 0,0:26:28.43,0:26:31.80,Default,,0,0,0,,{\blur3}然而 如果科学家最终能够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, if scientist are eventually able{\r}
+Dialogue: 0,0:26:31.81,0:26:34.84,Default,,0,0,0,,{\blur3}用自然规律解释一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to use the laws of nature to explain everything,{\r}
+Dialogue: 0,0:26:35.37,0:26:39.67,Default,,0,0,0,,{\blur3}是否有一天能用科学角度来理解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will be someday be able to understand, in scientific terms,{\r}
+Dialogue: 0,0:26:40.10,0:26:46.30,Default,,0,0,0,,{\blur3}类似灵魂和意识 天堂和地狱的概念呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}concepts like the soul, consciousness, heaven and hell?{\r}
+Dialogue: 0,0:26:46.84,0:26:49.23,Default,,0,0,0,,{\blur3}要求科学有一天能找到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's probably asking too much in science to find{\r}
+Dialogue: 0,0:26:49.69,0:26:51.70,Default,,0,0,0,,{\blur3}代表天堂或其他来自古老神话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that one day there'll be solutions of equations{\r}
+Dialogue: 0,0:26:51.96,0:26:55.15,Default,,0,0,0,,{\blur3}这些伟大事物的方程解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that represent heaven or hell or some other great thing{\r}
+Dialogue: 0,0:26:55.44,0:26:58.26,Default,,0,0,0,,{\blur3}似乎有些过分了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from mythological legends of old.{\r}
+Dialogue: 0,0:26:58.47,0:27:01.14,Default,,0,0,0,,{\blur3}这些也许比科学精妙得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's probably going to be a lot more subtle than that.{\r}
+Dialogue: 0,0:27:06.09,0:27:10.03,Default,,0,0,0,,{\blur3}对于创世界 科学家们希望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Physicists hope to eventually have a complete scientific explanation{\r}
+Dialogue: 0,0:27:10.03,0:27:12.47,Default,,0,0,0,,{\blur3}最终做出完整的科学解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for how the universe was created,{\r}
+Dialogue: 0,0:27:12.47,0:27:15.62,Default,,0,0,0,,{\blur3}但他们说这也许超出了他们的理解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they say it may be beyond their grasp{\r}
+Dialogue: 0,0:27:15.62,0:27:20.00,Default,,0,0,0,,{\blur3}无法确定上帝是否创立了这些科学法则{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to determine whether or not God created these scientific laws.{\r}
+Dialogue: 0,0:27:20.58,0:27:23.22,Default,,0,0,0,,{\blur3}除非有个创造者于实行计划时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unless we had a creator who left a message{\r}
+Dialogue: 0,0:27:23.22,0:27:27.16,Default,,0,0,0,,{\blur3}在宇宙密码中留下了一条信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}inside the universe's cosmic code when he programmed it.{\r}
+Dialogue: 0,0:27:28.96,0:27:31.96,Default,,0,0,0,,{\blur3}宇宙程序建筑师的线索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Are there clues to the architect of that cosmic program,{\r}
+Dialogue: 0,0:27:32.03,0:27:34.75,Default,,0,0,0,,{\blur3}这些深藏在宇宙中的数据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}buried deep within it, with all those ones and zeros,{\r}
+Dialogue: 0,0:27:34.75,0:27:36.33,Default,,0,0,0,,{\blur3}会像造物主的标记一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like the maker's mark{\r}
+Dialogue: 0,0:27:36.34,0:27:39.37,Default,,0,0,0,,{\blur3}于宇宙初始时烙印在建筑师的身上吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stamped on the architect of the universe at the outset?{\r}
+Dialogue: 0,0:27:39.43,0:27:42.22,Default,,0,0,0,,{\blur3}这个问题充满诱惑力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, the problem is tantalizing those ideas,{\r}
+Dialogue: 0,0:27:42.48,0:27:44.44,Default,,0,0,0,,{\blur3}因为就算永远研究这些数据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one might follow those ones and zeroes{\r}
+Dialogue: 0,0:27:44.44,0:27:47.12,Default,,0,0,0,,{\blur3}也许还是找不到这个标记{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forever and ever and still not find this mark.{\r}
+Dialogue: 0,0:27:47.12,0:27:49.67,Default,,0,0,0,,{\blur3}我认为那是做无用功 注定要失败{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think that's a lost cause, a hopeless exercise,{\r}
+Dialogue: 0,0:27:49.67,0:27:51.10,Default,,0,0,0,,{\blur3}但是在更深的层次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in some deeper sense,{\r}
+Dialogue: 0,0:27:51.10,0:27:53.32,Default,,0,0,0,,{\blur3}若宇宙遵循数学原理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the fact that the universe is mathematical...{\r}
+Dialogue: 0,0:27:53.32,0:27:57.16,Default,,0,0,0,,{\blur3}当我们探索数学领域时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and when we explore Mathematical realm,{\r}
+Dialogue: 0,0:27:57.16,0:27:59.70,Default,,0,0,0,,{\blur3}在某种意义上我们得以一窥上帝的意志{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we are, in a certain sense glimpsing the mind of God.{\r}
+Dialogue: 0,0:28:01.84,0:28:04.05,Default,,0,0,0,,{\blur3}我们真正在做的 是在一个隐性的层次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we're really doing is exploring, at a hidden level,{\r}
+Dialogue: 0,0:28:04.34,0:28:06.05,Default,,0,0,0,,{\blur3}探索自然规律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the order in nature.{\r}
+Dialogue: 0,0:28:08.17,0:28:11.17,Default,,0,0,0,,{\blur3}但是最近一位世界上最受尊重的科学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But one of the most respected scientists in the world{\r}
+Dialogue: 0,0:28:11.34,0:28:14.48,Default,,0,0,0,,{\blur3}近期震惊了世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}recently rocked the planet{\r}
+Dialogue: 0,0:28:14.48,0:28:18.11,Default,,0,0,0,,{\blur3}他声称已探寻出自然界的隐性规律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when he said he's explored the hidden order of nature{\r}
+Dialogue: 0,0:28:18.88,0:28:21.34,Default,,0,0,0,,{\blur3}并用数学的证据说明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and found mathematical proof{\r}
+Dialogue: 0,0:28:21.95,0:28:25.31,Default,,0,0,0,,{\blur3}上帝不需存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that God doesn't need to exist.{\r}
+Dialogue: 0,0:28:30.17,0:28:33.38,Default,,0,0,0,,{\blur3}宇宙与上帝的争论愈演愈烈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the debate over God and the universe rages{\r}
+Dialogue: 0,0:28:33.38,0:28:37.48,Default,,0,0,0,,{\blur3}著名物理学家霍金于其著作《大设计》写道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}fame physicist Stephen Hawking said in his book the Grand Design{\r}
+Dialogue: 0,0:28:37.94,0:28:40.50,Default,,0,0,0,,{\blur3}量子理论最新的推算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the latest calculations in quantum theory{\r}
+Dialogue: 0,0:28:40.51,0:28:44.60,Default,,0,0,0,,{\blur3}表明宇宙从不需要创世者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}suggest a universal creator need never have existed.{\r}
+Dialogue: 0,0:28:45.51,0:28:49.07,Default,,0,0,0,,{\blur3}霍金及其合著人伦纳德·曼罗迪诺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hawking and co-author Leonard Mlodinow{\r}
+Dialogue: 0,0:28:49.57,0:28:52.20,Default,,0,0,0,,{\blur3}断言物理规则{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}assert that the laws of physics{\r}
+Dialogue: 0,0:28:52.20,0:28:57.02,Default,,0,0,0,,{\blur3}令整个宇宙自发形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allow entire universes to form spontaneously.{\r}
+Dialogue: 0,0:28:58.49,0:29:01.22,Default,,0,0,0,,{\blur3}史蒂芬·霍金和我在《大设计》中说到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stephen Hawking and I say in The grand design{\r}
+Dialogue: 0,0:29:01.22,0:29:03.93,Default,,0,0,0,,{\blur3}宇宙 银河系 太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the universe, the galaxy, the Solar System,{\r}
+Dialogue: 0,0:29:03.93,0:29:05.73,Default,,0,0,0,,{\blur3}地球 岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth, this rock,{\r}
+Dialogue: 0,0:29:06.14,0:29:08.31,Default,,0,0,0,,{\blur3}以及所有一切事物都可无中生有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that everything could have come from nothing.{\r}
+Dialogue: 0,0:29:08.31,0:29:11.45,Default,,0,0,0,,{\blur3}它们可以在量子论的空间中自发产生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They could have been created spontaneously from a quantum vacuum.{\r}
+Dialogue: 0,0:29:11.89,0:29:15.35,Default,,0,0,0,,{\blur3}所以我们真的不需要上帝来创造世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so we don't really need God as a creator of the universe.{\r}
+Dialogue: 0,0:29:15.48,0:29:17.26,Default,,0,0,0,,{\blur3}只需遵循物理定律就可形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It follows from the laws of physics.{\r}
+Dialogue: 0,0:29:19.70,0:29:22.85,Default,,0,0,0,,{\blur3}宇宙可以自发地源自于无{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe could have formed spontaneously out of nothing,{\r}
+Dialogue: 0,0:29:22.85,0:29:24.93,Default,,0,0,0,,{\blur3}因为根据量子论物理学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because according to quantum physics,{\r}
+Dialogue: 0,0:29:24.93,0:29:27.79,Default,,0,0,0,,{\blur3}粒子可以凭空出现一小段时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}particles can form for a short time out of nothing,{\r}
+Dialogue: 0,0:29:27.80,0:29:29.47,Default,,0,0,0,,{\blur3}然后再度消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then they disappear again.{\r}
+Dialogue: 0,0:29:29.47,0:29:32.62,Default,,0,0,0,,{\blur3}我们在实验室观察到这种现象并测量过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We see this happening in labs. We've measured it.{\r}
+Dialogue: 0,0:29:32.91,0:29:37.27,Default,,0,0,0,,{\blur3}也许有很多量子波动已经消逝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, maybe there are lots of quantum fluctuations which go away,{\r}
+Dialogue: 0,0:29:37.27,0:29:43.54,Default,,0,0,0,,{\blur3}但某些情况便能继续发展和扩张{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in some cases conditions become conducive to further expansion.{\r}
+Dialogue: 0,0:29:43.54,0:29:47.69,Default,,0,0,0,,{\blur3}一个巨大的宇宙便能无中生有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That can then create a giant universe out of essentially nothing.{\r}
+Dialogue: 0,0:29:49.92,0:29:52.09,Default,,0,0,0,,{\blur3}但是菲利潘科和其他物理学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Filippenko and other physicists{\r}
+Dialogue: 0,0:29:52.09,0:29:56.83,Default,,0,0,0,,{\blur3}提出我们不知道物理定律是如何或何时起源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}say we don't know how or when the laws of physics originated.{\r}
+Dialogue: 0,0:29:56.83,0:29:58.52,Default,,0,0,0,,{\blur3}这很重要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is significant,{\r}
+Dialogue: 0,0:29:58.52,0:30:01.29,Default,,0,0,0,,{\blur3}因为评论家们说自发创世{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because critics say spontaneous creation{\r}
+Dialogue: 0,0:30:01.29,0:30:05.29,Default,,0,0,0,,{\blur3}要求在大爆炸前就有自然规则存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}requires nature to exist prior to the Big Bang.{\r}
+Dialogue: 0,0:30:05.91,0:30:08.28,Default,,0,0,0,,{\blur3}霍金所说的虚无{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The nothingness Hawking is talking about{\r}
+Dialogue: 0,0:30:08.28,0:30:12.37,Default,,0,0,0,,{\blur3}是一种由物理定律支配的量子真空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a quantum vacuum ruled by physical laws.{\r}
+Dialogue: 0,0:30:13.88,0:30:15.14,Default,,0,0,0,,{\blur3}就好比说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like saying,{\r}
+Dialogue: 0,0:30:15.51,0:30:19.80,Default,,0,0,0,,{\blur3}我有一个银行账户 但不幸的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"I have a bank account, but unfortunately{\r}
+Dialogue: 0,0:30:19.80,0:30:22.54,Default,,0,0,0,,{\blur3}这个账户里没有钱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in my bank account I have a zero Balance."{\r}
+Dialogue: 0,0:30:22.54,0:30:24.39,Default,,0,0,0,,{\blur3}那是否意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Does that mean that{\r}
+Dialogue: 0,0:30:24.39,0:30:28.27,Default,,0,0,0,,{\blur3}我并没有在真正的银行中有真正的账户呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't have a real bank account in a real bank?{\r}
+Dialogue: 0,0:30:28.27,0:30:29.70,Default,,0,0,0,,{\blur3}当然不是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of course not.{\r}
+Dialogue: 0,0:30:29.70,0:30:32.32,Default,,0,0,0,,{\blur3}即便我的余额为零{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just because I have a zero balance,{\r}
+Dialogue: 0,0:30:32.33,0:30:35.88,Default,,0,0,0,,{\blur3}这个账户确实存在于一个真实的银行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the bank account really exists in a real bank.{\r}
+Dialogue: 0,0:30:37.43,0:30:39.45,Default,,0,0,0,,{\blur3}当神学家们谈到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When theologians talk about{\r}
+Dialogue: 0,0:30:39.45,0:30:42.30,Default,,0,0,0,,{\blur3}宇宙起源之前已有的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what existed before the beginning of the universe{\r}
+Dialogue: 0,0:30:42.30,0:30:45.06,Default,,0,0,0,,{\blur3}他们想象宇宙曾是虚空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they imagine it was a true void.{\r}
+Dialogue: 0,0:30:46.55,0:30:48.64,Default,,0,0,0,,{\blur3}宇宙曾是虚空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe was really nothing,{\r}
+Dialogue: 0,0:30:49.02,0:30:53.32,Default,,0,0,0,,{\blur3}那意味着有某物超越了宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that implies something beyond the universe,{\r}
+Dialogue: 0,0:30:53.32,0:30:57.73,Default,,0,0,0,,{\blur3}创造了宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something transcending the universe created it,{\r}
+Dialogue: 0,0:30:57.74,0:31:02.59,Default,,0,0,0,,{\blur3}将宇宙从虚无发展至有物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to move it from nothing to something when it was nothing.{\r}
+Dialogue: 0,0:31:03.07,0:31:07.52,Default,,0,0,0,,{\blur3}这个超常的实体就是上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that transcendent entity, well, that would be God.{\r}
+Dialogue: 0,0:31:09.72,0:31:11.33,Default,,0,0,0,,{\blur3}史蒂芬·霍金{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stephen Hawking responds{\r}
+Dialogue: 0,0:31:11.33,0:31:14.06,Default,,0,0,0,,{\blur3}以一个令人吃惊的高雅理论予以回击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with an elegant and startling theory{\r}
+Dialogue: 0,0:31:14.61,0:31:19.03,Default,,0,0,0,,{\blur3}可以用一个南加州的地标性建筑来说明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that can be demonstrated inside a southern California landmark.{\r}
+Dialogue: 0,0:31:20.97,0:31:23.14,Default,,0,0,0,,{\blur3}我在洛杉矶格里菲斯天文台的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm walking under the planetarium dome of{\r}
+Dialogue: 0,0:31:23.14,0:31:25.80,Default,,0,0,0,,{\blur3}天文馆圆顶下行走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Griffith Observatory in Los Angeles.{\r}
+Dialogue: 0,0:31:25.89,0:31:29.89,Default,,0,0,0,,{\blur3}这圆顶很好地说明了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The dome gives a good illustration of one idea for the origin of the universe{\r}
+Dialogue: 0,0:31:30.18,0:31:32.56,Default,,0,0,0,,{\blur3}宇宙起源的无边界假设论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called, "The no boundary proposal."{\r}
+Dialogue: 0,0:31:33.56,0:31:37.06,Default,,0,0,0,,{\blur3}目前最成熟的宇宙起源论告诉我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our best theory for the origin of the universe tells us{\r}
+Dialogue: 0,0:31:37.31,0:31:40.22,Default,,0,0,0,,{\blur3}宇宙源自于一个点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the universe came from a single point.{\r}
+Dialogue: 0,0:31:41.42,0:31:44.43,Default,,0,0,0,,{\blur3}一切物质 空间 时间 能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All matter, space, time, energy,{\r}
+Dialogue: 0,0:31:44.67,0:31:46.85,Default,,0,0,0,,{\blur3}甚至物理定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even the laws of physics{\r}
+Dialogue: 0,0:31:46.88,0:31:51.39,Default,,0,0,0,,{\blur3}似乎都是从这个点爆发出来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seem to have exploded into existence from that single point.{\r}
+Dialogue: 0,0:31:54.09,0:31:57.37,Default,,0,0,0,,{\blur3}然而 当科学家们用物理基本定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, when scientists use the classical laws of physics{\r}
+Dialogue: 0,0:31:57.37,0:31:59.95,Default,,0,0,0,,{\blur3}解释大爆炸是如何发生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to figure out how the Big Bang started,{\r}
+Dialogue: 0,0:32:00.39,0:32:02.61,Default,,0,0,0,,{\blur3}他们遭遇了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they encounter what's called{\r}
+Dialogue: 0,0:32:03.15,0:32:04.55,Default,,0,0,0,,{\blur3}奇点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"A singularity"...{\r}
+Dialogue: 0,0:32:05.41,0:32:08.43,Default,,0,0,0,,{\blur3}在那里物理定律似乎无效{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a place where the laws of physics seem to break down{\r}
+Dialogue: 0,0:32:08.81,0:32:10.97,Default,,0,0,0,,{\blur3}理论上必须有一个超常的上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a transcendent God is theoretically{\r}
+Dialogue: 0,0:32:10.97,0:32:13.33,Default,,0,0,0,,{\blur3}来驱动这一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}needed to start the universe.{\r}
+Dialogue: 0,0:32:14.78,0:32:16.97,Default,,0,0,0,,{\blur3}这对科学家来说真的是个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a real problem for scientists,{\r}
+Dialogue: 0,0:32:17.49,0:32:18.87,Default,,0,0,0,,{\blur3}但是史蒂芬·霍金{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but Stephen Hawking{\r}
+Dialogue: 0,0:32:18.87,0:32:21.43,Default,,0,0,0,,{\blur3}和其他无边界假设的支持者们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and other proponents of the "No boundary proposal"{\r}
+Dialogue: 0,0:32:21.43,0:32:23.43,Default,,0,0,0,,{\blur3}为此找到了一个办法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have found a way around this{\r}
+Dialogue: 0,0:32:23.44,0:32:26.44,Default,,0,0,0,,{\blur3}他们说宇宙并非始于一个奇点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by saying that the universe didn't begin in a singularity.{\r}
+Dialogue: 0,0:32:28.13,0:32:31.16,Default,,0,0,0,,{\blur3}他们说宇宙的初始并非一个点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They say the beginning of the universe wasn't a point.{\r}
+Dialogue: 0,0:32:31.16,0:32:32.92,Default,,0,0,0,,{\blur3}而是更像个圆顶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was more like a dome.{\r}
+Dialogue: 0,0:32:33.48,0:32:37.51,Default,,0,0,0,,{\blur3}大爆炸一发生 时空就扭曲到一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just after the Big Bang, space and time curved together.{\r}
+Dialogue: 0,0:32:38.19,0:32:40.04,Default,,0,0,0,,{\blur3}另一点不易理解的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As hard as it is to imagine,{\r}
+Dialogue: 0,0:32:40.04,0:32:44.87,Default,,0,0,0,,{\blur3}霍金说时间是空间的另一个维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hawking says time actually started out as another dimension of space.{\r}
+Dialogue: 0,0:32:46.41,0:32:47.81,Default,,0,0,0,,{\blur3}根据无边界假设{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the no boundary proposal,{\r}
+Dialogue: 0,0:32:47.81,0:32:50.53,Default,,0,0,0,,{\blur3}物理定律一直有效{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there was never a time when the laws of physics didn't work.{\r}
+Dialogue: 0,0:32:51.22,0:32:54.28,Default,,0,0,0,,{\blur3}空间和时间没有边界 没有边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space and time had no boundary, no edge,{\r}
+Dialogue: 0,0:32:54.49,0:32:57.33,Default,,0,0,0,,{\blur3}没有开始 没有奇点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}no beginning, no singularity...{\r}
+Dialogue: 0,0:32:58.21,0:33:02.03,Default,,0,0,0,,{\blur3}所以试图回到宇宙初始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So trying to travel back in time to the beginning of the universe{\r}
+Dialogue: 0,0:33:02.03,0:33:05.63,Default,,0,0,0,,{\blur3}就像试图去往北极的北边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is like trying to travel north of the north pole{\r}
+Dialogue: 0,0:33:05.63,0:33:09.32,Default,,0,0,0,,{\blur3}或是达到比圆顶更高的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or, in this analogy higher than the top of our perfect dome.{\r}
+Dialogue: 0,0:33:11.88,0:33:14.93,Default,,0,0,0,,{\blur3}无法到达 因为根本没有这样的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can't get there, because no such place exists.{\r}
+Dialogue: 0,0:33:16.25,0:33:18.63,Default,,0,0,0,,{\blur3}若沿着宇宙历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you trace the great story back to{\r}
+Dialogue: 0,0:33:18.96,0:33:20.52,Default,,0,0,0,,{\blur3}回溯到你以为的最初时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what you thought was the first moment,{\r}
+Dialogue: 0,0:33:20.52,0:33:23.50,Default,,0,0,0,,{\blur3}一切全都融合成了某种量子模糊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it all merges in some quantum fuzz,{\r}
+Dialogue: 0,0:33:23.50,0:33:26.51,Default,,0,0,0,,{\blur3}所以从未存在一个起点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so there's never a singular switching on.{\r}
+Dialogue: 0,0:33:26.51,0:33:31.02,Default,,0,0,0,,{\blur3}宇宙是自给的 这个观点很恰当{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's a really neat idea that the universe is, somehow, self-contained.{\r}
+Dialogue: 0,0:33:31.02,0:33:35.22,Default,,0,0,0,,{\blur3}没有以前 时间不能延伸至永恒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was no before. Time does not extend back for all eternity.{\r}
+Dialogue: 0,0:33:35.36,0:33:40.12,Default,,0,0,0,,{\blur3}空间和时间随宇宙诞生而诞生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Time begins with the universe. Space begins with the universe.{\r}
+Dialogue: 0,0:33:40.50,0:33:43.67,Default,,0,0,0,,{\blur3}所以这样一来 就没有起始的一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in such a way that there isn't a single or first moment.{\r}
+Dialogue: 0,0:33:44.91,0:33:48.51,Default,,0,0,0,,{\blur3}若"无边界"理论与"自然发生"论为真{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the "no boundary proposal" and spontaneous creation are true,{\r}
+Dialogue: 0,0:33:48.57,0:33:49.71,Default,,0,0,0,,{\blur3}霍金认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hawking says,{\r}
+Dialogue: 0,0:33:50.34,0:33:52.54,Default,,0,0,0,,{\blur3}宇宙并没有的起点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe had no true beginning{\r}
+Dialogue: 0,0:33:52.65,0:33:54.40,Default,,0,0,0,,{\blur3}所以只需遵循物理规律发展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and would have required nothing outside{\r}
+Dialogue: 0,0:33:54.40,0:33:56.97,Default,,0,0,0,,{\blur3}便能逐渐发展成形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the laws of physics to come into existence.{\r}
+Dialogue: 0,0:33:57.68,0:34:00.74,Default,,0,0,0,,{\blur3}那为何我们需要超自然的造物者呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So why do we need a transcendent creator?{\r}
+Dialogue: 0,0:34:04.90,0:34:07.00,Default,,0,0,0,,{\blur3}不可能有个人坐在那 然后说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was no point when someone's sitting there and going,{\r}
+Dialogue: 0,0:34:07.00,0:34:08.30,Default,,0,0,0,,{\blur3}让宇宙诞生吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Let's start a universe."{\r}
+Dialogue: 0,0:34:08.30,0:34:10.03,Default,,0,0,0,,{\blur3}根本不存在这样的时间点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You don't have that point of time anymore.{\r}
+Dialogue: 0,0:34:10.74,0:34:13.34,Default,,0,0,0,,{\blur3}"宇宙是从无到有的" 这一理念也意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the idea that the universe can come spontaneously from nothing{\r}
+Dialogue: 0,0:34:13.34,0:34:15.80,Default,,0,0,0,,{\blur3}不需要上帝去创造一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also means you don't need a God to make everything.{\r}
+Dialogue: 0,0:34:15.95,0:34:18.95,Default,,0,0,0,,{\blur3}所以 结合二者来看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, taken together, those two ideas show that{\r}
+Dialogue: 0,0:34:19.25,0:34:21.03,Default,,0,0,0,,{\blur3}证明我们需要上帝的论点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the standard arguments for why we need a God{\r}
+Dialogue: 0,0:34:21.37,0:34:22.57,Default,,0,0,0,,{\blur3}是站不住脚的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}don't really hold.{\r}
+Dialogue: 0,0:34:24.98,0:34:26.94,Default,,0,0,0,,{\blur3}霍金和蒙洛迪诺的评论称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hawking and Mlodinow's critics say{\r}
+Dialogue: 0,0:34:27.00,0:34:30.00,Default,,0,0,0,,{\blur3}"宇宙无边界"假说逻辑十分严谨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the "no boundary proposal" is an elegant theory{\r}
+Dialogue: 0,0:34:30.00,0:34:32.50,Default,,0,0,0,,{\blur3}有可能是正确的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that may actually be correct,{\r}
+Dialogue: 0,0:34:32.67,0:34:34.49,Default,,0,0,0,,{\blur3}但却没能直击要害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's beside the point.{\r}
+Dialogue: 0,0:34:36.73,0:34:38.14,Default,,0,0,0,,{\blur3}他们没有明确说明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're not really saying that{\r}
+Dialogue: 0,0:34:38.14,0:34:41.63,Default,,0,0,0,,{\blur3}宇宙会无限地回缩至时间之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe extends infinitely backward into time.{\r}
+Dialogue: 0,0:34:42.17,0:34:44.23,Default,,0,0,0,,{\blur3}其首要观点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All you are saying is that{\r}
+Dialogue: 0,0:34:44.23,0:34:48.35,Default,,0,0,0,,{\blur3}便是初始阶段一切都处于混沌状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}your initial point is a kind of fuzzy condition.{\r}
+Dialogue: 0,0:34:49.34,0:34:51.00,Default,,0,0,0,,{\blur3}说白了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Which quite frankly means{\r}
+Dialogue: 0,0:34:51.00,0:34:52.97,Default,,0,0,0,,{\blur3}还是存在一个起点的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you still need a beginning.{\r}
+Dialogue: 0,0:34:55.11,0:34:56.42,Default,,0,0,0,,{\blur3}为了反驳史蒂芬·霍金{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To counter Stephen Hawking{\r}
+Dialogue: 0,0:34:56.43,0:34:58.31,Default,,0,0,0,,{\blur3}并论证上帝存在说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and support the idea of God,{\r}
+Dialogue: 0,0:34:58.31,0:35:02.81,Default,,0,0,0,,{\blur3}许多神学家支持BGV定理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}many theologians signed the Borde-Guth-Vilenkin Theorem.{\r}
+Dialogue: 0,0:35:03.60,0:35:06.80,Default,,0,0,0,,{\blur3}它由三位杰出的主流物理学家所提出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Formulated by three prominent mainstream physicists,{\r}
+Dialogue: 0,0:35:07.26,0:35:09.72,Default,,0,0,0,,{\blur3}阐述了"任何一个膨胀宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it states that any expanding universe{\r}
+Dialogue: 0,0:35:09.72,0:35:11.47,Default,,0,0,0,,{\blur3}必有其起源"这一观点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}must have have had a beginning.{\r}
+Dialogue: 0,0:35:15.00,0:35:16.24,Default,,0,0,0,,{\blur3}他们认为 这是真理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is true, they say,{\r}
+Dialogue: 0,0:35:16.66,0:35:19.19,Default,,0,0,0,,{\blur3}即使这个宇宙处于多重宇宙的环境中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even if the universe is part of a multi-verse,{\r}
+Dialogue: 0,0:35:19.87,0:35:23.39,Default,,0,0,0,,{\blur3}只要其它宇宙也在同时膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as long as those universes are also expanding.{\r}
+Dialogue: 0,0:35:24.77,0:35:28.70,Default,,0,0,0,,{\blur3}其所展示的每个膨胀中的宇宙模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What they showed was that every inflating universal model{\r}
+Dialogue: 0,0:35:29.36,0:35:31.75,Default,,0,0,0,,{\blur3}定会需要引入时间的边界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have to have a boundary to pass time.{\r}
+Dialogue: 0,0:35:32.14,0:35:36.10,Default,,0,0,0,,{\blur3}即使这一边界将是向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And even if that boundary only indicated a transition{\r}
+Dialogue: 0,0:35:36.10,0:35:37.32,Default,,0,0,0,,{\blur3}向新型物理学的过渡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a new kind of physics,{\r}
+Dialogue: 0,0:35:37.56,0:35:43.51,Default,,0,0,0,,{\blur3}即使在那个环境下 仍然需要边界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even that condition would require some kind of boundary to past time,{\r}
+Dialogue: 0,0:35:43.81,0:35:46.88,Default,,0,0,0,,{\blur3}所以在宇宙处于虚无状态之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so eventually you are going to get to a beginning,{\r}
+Dialogue: 0,0:35:47.20,0:35:49.42,Default,,0,0,0,,{\blur3}终归需要一个开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}prior to which the universe was nothing,{\r}
+Dialogue: 0,0:35:49.65,0:35:54.14,Default,,0,0,0,,{\blur3}即某种超自然的力量推动了宇宙形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}implying some sort of transcendent force to create it.{\r}
+Dialogue: 0,0:35:55.23,0:35:56.89,Default,,0,0,0,,{\blur3}争论的两派{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With each side of this debate{\r}
+Dialogue: 0,0:35:56.89,0:35:59.62,Default,,0,0,0,,{\blur3}对于宇宙的初始和上帝的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}citing their own complicated mathematical evidence{\r}
+Dialogue: 0,0:35:59.62,0:36:03.05,Default,,0,0,0,,{\blur3}各执己见 各有复杂的方程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about a possible beginning and a possible creator,{\r}
+Dialogue: 0,0:36:03.30,0:36:05.32,Default,,0,0,0,,{\blur3}究竟谁的方程式才是正确的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whose equations are right?{\r}
+Dialogue: 0,0:36:06.95,0:36:09.14,Default,,0,0,0,,{\blur3}史蒂芬·霍金的阐述得很好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stephen Hawking expresses this very well.{\r}
+Dialogue: 0,0:36:09.14,0:36:13.32,Default,,0,0,0,,{\blur3}我们对于虚拟世界有各种先进的数学描述{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have all this contending mathematical descriptions of possible worlds.{\r}
+Dialogue: 0,0:36:14.14,0:36:17.64,Default,,0,0,0,,{\blur3}究竟是什么使得其中一组方程式成立{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is it that breathes fire into one particular set of equations{\r}
+Dialogue: 0,0:36:17.64,0:36:19.53,Default,,0,0,0,,{\blur3}从而造就了整个宇宙呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and makes a universe form all together?{\r}
+Dialogue: 0,0:36:20.99,0:36:22.32,Default,,0,0,0,,{\blur3}这个问题问得好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's a good question.{\r}
+Dialogue: 0,0:36:23.07,0:36:29.05,Default,,0,0,0,,{\blur3}究竟是什么让这些方程的成为现实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is it that literally breathed reality into these equations{\r}
+Dialogue: 0,0:36:29.11,0:36:30.91,Default,,0,0,0,,{\blur3}让它们发挥作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that enabled them to do something,{\r}
+Dialogue: 0,0:36:31.07,0:36:34.80,Default,,0,0,0,,{\blur3}使之持续升温 乃至爆炸 形成宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to burn, to explode, to become a universe?{\r}
+Dialogue: 0,0:36:35.35,0:36:37.11,Default,,0,0,0,,{\blur3}真是问到点子上了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's a very good question,{\r}
+Dialogue: 0,0:36:37.44,0:36:41.79,Default,,0,0,0,,{\blur3}这暗示着超自然造物主的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it does imply a transcendent creator.{\r}
+Dialogue: 0,0:36:44.02,0:36:46.75,Default,,0,0,0,,{\blur3}有关是否存在超自然的上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This debate about whether a transcendent God{\r}
+Dialogue: 0,0:36:46.93,0:36:51.48,Default,,0,0,0,,{\blur3}或是物理定律使得宇宙成型的争论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the laws of physics alone breathed fire into the universe{\r}
+Dialogue: 0,0:36:51.49,0:36:56.41,Default,,0,0,0,,{\blur3}只有在我们找到确凿证据后才会停止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will rage until we find definitive evidence one way or the other.{\r}
+Dialogue: 0,0:36:57.65,0:37:01.72,Default,,0,0,0,,{\blur3}但一些物理学家却提出了第三种惊人可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But some physicists have come up with an intriguing third possibility.{\r}
+Dialogue: 0,0:37:02.36,0:37:04.47,Default,,0,0,0,,{\blur3}听起来可能匪夷所思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As mind boggling as it sounds,{\r}
+Dialogue: 0,0:37:04.53,0:37:08.52,Default,,0,0,0,,{\blur3}他们认为宇宙可能是由外星物种所创造{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they say the universe may have been created by an alien species,{\r}
+Dialogue: 0,0:37:08.52,0:37:13.98,Default,,0,0,0,,{\blur3}由于它过于先进 以至于人类无法察觉出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so advanced it's become indistinguishable from nature itself.{\r}
+Dialogue: 0,0:37:19.83,0:37:23.29,Default,,0,0,0,,{\blur3}物理学家们在寻找有关{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As physicists search for answers to fundamental questions{\r}
+Dialogue: 0,0:37:23.29,0:37:25.33,Default,,0,0,0,,{\blur3}宇宙起源解答{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the beginning of the universe{\r}
+Dialogue: 0,0:37:25.38,0:37:28.26,Default,,0,0,0,,{\blur3}并试图解释上帝是否参与其中时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the role a God may have played in it.{\r}
+Dialogue: 0,0:37:29.65,0:37:32.22,Default,,0,0,0,,{\blur3}有人曾提出与先进外星文明接触后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some wondered how this quest would change{\r}
+Dialogue: 0,0:37:32.23,0:37:36.15,Default,,0,0,0,,{\blur3}我们现在的探索任务将如何改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we made contact with an advanced alien civilization.{\r}
+Dialogue: 0,0:37:38.60,0:37:40.86,Default,,0,0,0,,{\blur3}我始终坚信 如果我们在外太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is no doubt in my mind that if we discovered the{\r}
+Dialogue: 0,0:37:40.86,0:37:43.56,Default,,0,0,0,,{\blur3}追寻到了其他高等生物的踪迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}existence of other intelligent beings out there in the universe,{\r}
+Dialogue: 0,0:37:43.57,0:37:46.33,Default,,0,0,0,,{\blur3}那将是科学探索史的巅峰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would be the greatest scientific discovery of all time,{\r}
+Dialogue: 0,0:37:46.44,0:37:50.24,Default,,0,0,0,,{\blur3}但同时也将不可避免地影响各大宗教体系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it would inevitably have an impact on the world's religions,{\r}
+Dialogue: 0,0:37:50.43,0:37:54.56,Default,,0,0,0,,{\blur3}因为这些宗教只关乎一个物种 人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because these refer to human beings, one species,{\r}
+Dialogue: 0,0:37:55.05,0:37:56.90,Default,,0,0,0,,{\blur3}只存于一颗星球 地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and planet earth, one planet.{\r}
+Dialogue: 0,0:37:57.16,0:38:01.31,Default,,0,0,0,,{\blur3}难免如此 因为宗教建立之初{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inevitably so, because the religions were put together at a time{\r}
+Dialogue: 0,0:38:01.43,0:38:03.05,Default,,0,0,0,,{\blur3}人们只知道地球和人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when that was all anybody knew.{\r}
+Dialogue: 0,0:38:03.63,0:38:06.96,Default,,0,0,0,,{\blur3}先进文明外星物种是否{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But would an advanced alien species{\r}
+Dialogue: 0,0:38:06.96,0:38:09.38,Default,,0,0,0,,{\blur3}也会向迥异的神明或诸神祈祷呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pray to an entirely different God or set of gods...{\r}
+Dialogue: 0,0:38:11.53,0:38:16.25,Default,,0,0,0,,{\blur3}更进一步说 其科技是否已发达到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or, more profoundly, would they have such an incredible grasp of science{\r}
+Dialogue: 0,0:38:16.72,0:38:20.79,Default,,0,0,0,,{\blur3}能够证明所谓的神明是不存在的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they've proven a divine consciousness does not exist?{\r}
+Dialogue: 0,0:38:21.45,0:38:24.21,Default,,0,0,0,,{\blur3}我认为我们探测不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't think we're gonna discover any surprising facts{\r}
+Dialogue: 0,0:38:24.40,0:38:27.17,Default,,0,0,0,,{\blur3}发达外星文明的新奇信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from an intelligent, developed alien culture,{\r}
+Dialogue: 0,0:38:27.34,0:38:31.59,Default,,0,0,0,,{\blur3}它们和我们一样对超自然有着同等追求{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because I think they're going to have the same transcendent desires that we do.{\r}
+Dialogue: 0,0:38:33.76,0:38:36.98,Default,,0,0,0,,{\blur3}即使遇见了所谓真正存在的外星人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm not sure that meeting extraterrestrials, if they exist,{\r}
+Dialogue: 0,0:38:37.24,0:38:40.18,Default,,0,0,0,,{\blur3}也未必能让我们进一步认识上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will give us any more insight on God.{\r}
+Dialogue: 0,0:38:40.41,0:38:44.58,Default,,0,0,0,,{\blur3}在新旧世界对话之时 我们就是如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've more or less done that already when the old world met the new world,{\r}
+Dialogue: 0,0:38:44.58,0:38:47.90,Default,,0,0,0,,{\blur3}新世界的居民所信奉的神明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the denizens of the new world observed certain gods,{\r}
+Dialogue: 0,0:38:47.90,0:38:50.30,Default,,0,0,0,,{\blur3}与旧世界居民所信奉的神明是不同的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they were different from the denizens of the old world.{\r}
+Dialogue: 0,0:38:51.46,0:38:53.12,Default,,0,0,0,,{\blur3}每每遇到新文化的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every time we encounter a new culture,{\r}
+Dialogue: 0,0:38:53.28,0:38:55.07,Default,,0,0,0,,{\blur3}我们能从中汲取新的元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we learn new things about that culture{\r}
+Dialogue: 0,0:38:55.25,0:38:58.54,Default,,0,0,0,,{\blur3}感受它如何崇拜上帝 描述上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and how it appreciates and describes God.{\r}
+Dialogue: 0,0:39:00.98,0:39:03.21,Default,,0,0,0,,{\blur3}但首要问题应该是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But perhaps a more pressing question{\r}
+Dialogue: 0,0:39:03.22,0:39:07.58,Default,,0,0,0,,{\blur3}外星人是否就是人类所寻找的创世者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is whether aliens might be the God that people have been seeking,{\r}
+Dialogue: 0,0:39:08.75,0:39:11.94,Default,,0,0,0,,{\blur3}即创造宇宙的实体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the entity that created the universe.{\r}
+Dialogue: 0,0:39:15.08,0:39:16.98,Default,,0,0,0,,{\blur3}可以想象在遥远的将来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can imagine the very far future{\r}
+Dialogue: 0,0:39:17.39,0:39:18.80,Default,,0,0,0,,{\blur3}科学发展到了这个程度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where science advances to the point{\r}
+Dialogue: 0,0:39:19.07,0:39:21.69,Default,,0,0,0,,{\blur3}人类不仅能够操控周围的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where we cannot just manipulate matter locally around us,{\r}
+Dialogue: 0,0:39:21.69,0:39:24.07,Default,,0,0,0,,{\blur3}但我们能创造整个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we could make entire universes.{\r}
+Dialogue: 0,0:39:24.87,0:39:28.59,Default,,0,0,0,,{\blur3}我们可以根据喜好进行设计创造{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We could design them and create them to our own liking.{\r}
+Dialogue: 0,0:39:28.97,0:39:33.50,Default,,0,0,0,,{\blur3}倘若还能将自由选取物理学规律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if this manipulation extends to choosing the laws of physics themselves,{\r}
+Dialogue: 0,0:39:33.50,0:39:37.38,Default,,0,0,0,,{\blur3}我们甚至可以创造出前所未有的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}well, we could make universes of a sort that maybe may have never existed.{\r}
+Dialogue: 0,0:39:37.38,0:39:39.70,Default,,0,0,0,,{\blur3}我们可以自行设计和创造{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We could make and design our universes.{\r}
+Dialogue: 0,0:39:39.74,0:39:41.67,Default,,0,0,0,,{\blur3}这个想法暂且还太过空泛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, this is wild and speculative stuff,{\r}
+Dialogue: 0,0:39:41.67,0:39:44.86,Default,,0,0,0,,{\blur3}但根据弦论预测 这并不十分遥远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's actually not so very far of what string theory predicts.{\r}
+Dialogue: 0,0:39:46.02,0:39:49.72,Default,,0,0,0,,{\blur3}也许某天 我们真能创造出一个全新的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Perhaps we will someday be able to create a new universe,{\r}
+Dialogue: 0,0:39:49.77,0:39:52.41,Default,,0,0,0,,{\blur3}就像是一项物理学工程项目{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}almost as if it was a physics project.{\r}
+Dialogue: 0,0:39:52.71,0:39:55.63,Default,,0,0,0,,{\blur3}科学家们最终也能够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientist could eventually focus enough energy{\r}
+Dialogue: 0,0:39:55.81,0:39:58.29,Default,,0,0,0,,{\blur3}全神贯注于微观世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a microscopically small space{\r}
+Dialogue: 0,0:39:58.51,0:40:01.77,Default,,0,0,0,,{\blur3}在我们的宇宙创造出黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to create a black hole in our universe,{\r}
+Dialogue: 0,0:40:01.88,0:40:02.87,Default,,0,0,0,,{\blur3}那么在空间的另一边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}well on the other side,{\r}
+Dialogue: 0,0:40:03.21,0:40:06.35,Default,,0,0,0,,{\blur3}就有大爆炸创造一个新宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a Big Bang would create another universe.{\r}
+Dialogue: 0,0:40:08.89,0:40:11.55,Default,,0,0,0,,{\blur3}进一步猜想应该是这样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, it's just a small step from this to the speculation{\r}
+Dialogue: 0,0:40:11.55,0:40:15.20,Default,,0,0,0,,{\blur3}也许我们的宇宙可能是由另一宇宙的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that maybe our universe is the product of a super duper intelligence{\r}
+Dialogue: 0,0:40:15.36,0:40:17.42,Default,,0,0,0,,{\blur3}超高等生物所创造{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that existed in another universe.{\r}
+Dialogue: 0,0:40:19.43,0:40:22.29,Default,,0,0,0,,{\blur3}若这一假想是真的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If this speculation turns out to be true,{\r}
+Dialogue: 0,0:40:22.33,0:40:24.75,Default,,0,0,0,,{\blur3}它便是古印度教义中所传授的那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would echo the ancient hindu teaching{\r}
+Dialogue: 0,0:40:24.85,0:40:27.54,Default,,0,0,0,,{\blur3}世间存在着无穷个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there are an infinite number of universes,{\r}
+Dialogue: 0,0:40:27.65,0:40:31.95,Default,,0,0,0,,{\blur3}拥有独立的神明 幻化各自的宙宇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}each with a different God, dreaming its own cosmic dream.{\r}
+Dialogue: 0,0:40:34.06,0:40:36.39,Default,,0,0,0,,{\blur3}但这个所谓的超自然神明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But would this God be the transcendent being{\r}
+Dialogue: 0,0:40:36.63,0:40:39.59,Default,,0,0,0,,{\blur3}会不会就是众人想象中的创世者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that many people imagine our creator is{\r}
+Dialogue: 0,0:40:39.72,0:40:43.11,Default,,0,0,0,,{\blur3}或者仅仅是一个先进的物种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or would it simply be an advanced mortal?{\r}
+Dialogue: 0,0:40:44.89,0:40:47.59,Default,,0,0,0,,{\blur3}母亲诞下孩子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, a mother creates a child and{\r}
+Dialogue: 0,0:40:47.91,0:40:51.15,Default,,0,0,0,,{\blur3}并不意味着她就是孩子的上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that doesn't mean that mother is the God to that child.{\r}
+Dialogue: 0,0:40:52.91,0:40:55.98,Default,,0,0,0,,{\blur3}我们在地球上诞生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are all created out of the Earth.{\r}
+Dialogue: 0,0:40:56.96,0:41:00.05,Default,,0,0,0,,{\blur3}并不意味着地球就是上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That doesn't mean that the Earth is God.{\r}
+Dialogue: 0,0:41:02.56,0:41:07.36,Default,,0,0,0,,{\blur3}就算存在诸神 掌管这多重宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even if you did have multiple gods thinking of multiple universes,{\r}
+Dialogue: 0,0:41:07.73,0:41:13.00,Default,,0,0,0,,{\blur3}在逻辑上还是应该存在某种超神{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're still going to logically have to have some super God{\r}
+Dialogue: 0,0:41:13.00,0:41:15.07,Default,,0,0,0,,{\blur3}创造诸神{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's thinking all of the other gods{\r}
+Dialogue: 0,0:41:15.19,0:41:20.73,Default,,0,0,0,,{\blur3}并创造诸神所掌管的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into existence along with all of the universes about which they are thinking.{\r}
+Dialogue: 0,0:41:23.73,0:41:26.35,Default,,0,0,0,,{\blur3}当然 著名的印度教义还说道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of course, the famous hindu teaching goes on to say{\r}
+Dialogue: 0,0:41:26.67,0:41:29.00,Default,,0,0,0,,{\blur3}万物可能相反{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that everything may be reversed{\r}
+Dialogue: 0,0:41:29.67,0:41:32.47,Default,,0,0,0,,{\blur3}并非诸神庇佑众生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that people might not be the dreams of the gods,{\r}
+Dialogue: 0,0:41:32.86,0:41:36.17,Default,,0,0,0,,{\blur3}亦可众生庇佑诸神{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that the gods might be the dreams of people.{\r}
+Dialogue: 0,0:41:38.66,0:41:42.56,Default,,0,0,0,,{\blur3}这是人类正在试图探求的重要问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is the fundamental question that people are trying to answer.{\r}
+Dialogue: 0,0:41:42.95,0:41:46.70,Default,,0,0,0,,{\blur3}是我们一直在憧憬这神圣秩序{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Are we just dreaming about a divine order to the universe?{\r}
+Dialogue: 0,0:41:47.61,0:41:51.25,Default,,0,0,0,,{\blur3}还是它成为我们的精神枷锁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or is the divine order drawing us to it?{\r}
+Dialogue: 0,0:41:52.15,0:41:55.40,Default,,0,0,0,,{\blur3}如果一项假说最终无法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ultimately the point is if there's no way to scientifically{\r}
+Dialogue: 0,0:41:55.40,0:41:59.51,Default,,0,0,0,,{\blur3}通过实验观察的检验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}test a hypothesis through experiments and observations,{\r}
+Dialogue: 0,0:41:59.85,0:42:02.82,Default,,0,0,0,,{\blur3}这就不能算是科学假说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's not truly a scientific hypothesis.{\r}
+Dialogue: 0,0:42:03.09,0:42:07.05,Default,,0,0,0,,{\blur3}因而 关于起源与创世者的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so, since the question of the ultimate origin and the{\r}
+Dialogue: 0,0:42:07.06,0:42:10.77,Default,,0,0,0,,{\blur3}基本上是无法通过实验检测出来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ultimate creator is fundamentally an untestable question,{\r}
+Dialogue: 0,0:42:10.77,0:42:13.49,Default,,0,0,0,,{\blur3}它就不能算是科学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's really not part of science.{\r}
+Dialogue: 0,0:42:15.54,0:42:19.92,Default,,0,0,0,,{\blur3}科学无法反证超越宇宙的事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Science cannot disprove something which is beyond our universe,{\r}
+Dialogue: 0,0:42:20.15,0:42:21.76,Default,,0,0,0,,{\blur3}其原因在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the reason is,{\r}
+Dialogue: 0,0:42:21.93,0:42:24.88,Default,,0,0,0,,{\blur3}它身在宇宙之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's taking its data{\r}
+Dialogue: 0,0:42:25.29,0:42:27.77,Default,,0,0,0,,{\blur3}又只能采用宇宙内部的数据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from within the universe itself.{\r}
+Dialogue: 0,0:42:27.97,0:42:29.68,Default,,0,0,0,,{\blur3}这不等于在说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean that's tempt to saying,{\r}
+Dialogue: 0,0:42:29.68,0:42:35.42,Default,,0,0,0,,{\blur3}卡通人物要用动画片中的例证{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Oh, the cartoon character is going to use data from the cartoon{\r}
+Dialogue: 0,0:42:35.42,0:42:37.74,Default,,0,0,0,,{\blur3}去推翻漫画家的立场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to disprove the cartoonist".{\r}
+Dialogue: 0,0:42:38.11,0:42:40.29,Default,,0,0,0,,{\blur3}这是不可能的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It just simply can't be done.{\r}
+Dialogue: 0,0:42:41.72,0:42:46.77,Default,,0,0,0,,{\blur3}随着科学进步 上帝的能力逐步减弱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The role of God has been pushed back by the advance of science.{\r}
+Dialogue: 0,0:42:46.78,0:42:49.71,Default,,0,0,0,,{\blur3}不过 这并不是科学与上帝之战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nevertheless, it is not a battle between the two.{\r}
+Dialogue: 0,0:42:50.27,0:42:53.49,Default,,0,0,0,,{\blur3}人类将一直处于对未知世界的探索阶段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't think there'll ever be a time when we understand everything.{\r}
+Dialogue: 0,0:42:53.87,0:42:57.33,Default,,0,0,0,,{\blur3}世界上总会存在未解之谜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think there'll always be the unknown.{\r}
+Dialogue: 0,0:42:57.36,0:42:59.21,Default,,0,0,0,,{\blur3}我们也会有无能为力之处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There'll always be a frontier.{\r}
+Dialogue: 0,0:42:59.21,0:43:02.84,Default,,0,0,0,,{\blur3}所以现阶段我们总会有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there will always be questions that are beyond our ability to answer them{\r}
+Dialogue: 0,0:43:02.85,0:43:04.27,Default,,0,0,0,,{\blur3}未解之事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at a current time,{\r}
+Dialogue: 0,0:43:04.44,0:43:05.40,Default,,0,0,0,,{\blur3}但同时也有希望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but then there's always hope{\r}
+Dialogue: 0,0:43:05.64,0:43:07.65,Default,,0,0,0,,{\blur3}我们能在未来更好的了解这些事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we might explain things better.{\r}
+Dialogue: 0,0:43:09.03,0:43:11.38,Default,,0,0,0,,{\blur3}物理学和数学永远都解释不了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Physics and mathematics can never explain{\r}
+Dialogue: 0,0:43:11.47,0:43:13.14,Default,,0,0,0,,{\blur3}定律与逻辑从何而来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where the laws or where logic came from.{\r}
+Dialogue: 0,0:43:13.14,0:43:14.33,Default,,0,0,0,,{\blur3}因为这是一切的初始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's where we start from, and{\r}
+Dialogue: 0,0:43:14.73,0:43:16.68,Default,,0,0,0,,{\blur3}如果有人要说 上帝创造了万物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if people want to say, "Well, that must come from God,"{\r}
+Dialogue: 0,0:43:16.68,0:43:19.12,Default,,0,0,0,,{\blur3}我们肯定不会去辩驳他{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We certainly don't argue against that.{\r}
+Dialogue: 0,0:43:19.23,0:43:20.51,Default,,0,0,0,,{\blur3}从某些方面来说 物理定律就像{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In some ways, the laws of physics{\r}
+Dialogue: 0,0:43:20.51,0:43:23.05,Default,,0,0,0,,{\blur3}神学家心中的上帝一般永恒不灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are as eternal as God is to a theologian.{\r}
+Dialogue: 0,0:43:24.76,0:43:27.28,Default,,0,0,0,,{\blur3}但我们可以想象 存在于世间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But we could imagine that there's something underpinning{\r}
+Dialogue: 0,0:43:27.28,0:43:29.92,Default,,0,0,0,,{\blur3}维持并解释自然规律的因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the laws of nature, upholding them, explaining them.{\r}
+Dialogue: 0,0:43:30.40,0:43:31.82,Default,,0,0,0,,{\blur3}为什么它们是数学层面的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why are they mathematical?{\r}
+Dialogue: 0,0:43:31.82,0:43:33.86,Default,,0,0,0,,{\blur3}为什么它们自身性质会是这样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why do they have the properties that they do?{\r}
+Dialogue: 0,0:43:33.86,0:43:35.48,Default,,0,0,0,,{\blur3}为什么它们又是浅显易懂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why are they intelligible?{\r}
+Dialogue: 0,0:43:35.49,0:43:37.50,Default,,0,0,0,,{\blur3}上帝不一定就是问题的答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm not sure God is the right answer to this,{\r}
+Dialogue: 0,0:43:37.50,0:43:39.54,Default,,0,0,0,,{\blur3}因为上帝是文化的产物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'cause of the cultural baggage that goes with it,{\r}
+Dialogue: 0,0:43:39.81,0:43:44.96,Default,,0,0,0,,{\blur3}我认为 就这样接受了匪夷所思之事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but I do think that accepting the universe and its underlying laws{\r}
+Dialogue: 0,0:43:44.98,0:43:47.28,Default,,0,0,0,,{\blur3}即宇宙及其内部的定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are package of marvels that just happens to be,{\r}
+Dialogue: 0,0:43:47.28,0:43:48.90,Default,,0,0,0,,{\blur3}太不求甚解了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is deeply unsatisfying.{\r}
+Dialogue: 0,0:43:49.23,0:43:50.71,Default,,0,0,0,,{\blur3}我们一定要超越自我{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think we must go beyond,{\r}
+Dialogue: 0,0:43:50.72,0:43:52.68,Default,,0,0,0,,{\blur3}我们一定能超越自我{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I think we can go beyond.{\r}

@@ -1,0 +1,842 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:22.37,0:01:25.94,Default,,0000,0000,0008,,{\blur3}宇宙:银河里的我们地区{\r}
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:21.37,0:00:25.43,Default,,0000,0000,0000,,{\blur3}在宇宙里 了解最靠近你的邻居很重要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the universe, it's important to know your nearest neighbors.{\r}
+Dialogue: 0,0:00:26.93,0:00:29.58,Default,,0000,0000,0000,,{\blur3}可是对我们这个银河角落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how much do we really know about our corner{\r}
+Dialogue: 0,0:00:29.59,0:00:31.02,Default,,0000,0000,0000,,{\blur3}我们真正了解多少？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Milky Way?{\r}
+Dialogue: 0,0:00:31.86,0:00:33.59,Default,,0000,0000,0000,,{\blur3}就在几年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In just the last few years,{\r}
+Dialogue: 0,0:00:33.61,0:00:36.27,Default,,0000,0000,0000,,{\blur3}科学家发现了潜藏在我们后院的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists have uncovered incredible secrets{\r}
+Dialogue: 0,0:00:36.29,0:00:38.48,Default,,0000,0000,0000,,{\blur3}惊人秘密:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lurking in our own backyard:{\r}
+Dialogue: 0,0:00:40.12,0:00:44.69,Default,,0000,0000,0000,,{\blur3}新卫星 新行星以及新奥秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}new moons, new planets, and new mysteries.{\r}
+Dialogue: 0,0:00:45.44,0:00:47.27,Default,,0000,0000,0000,,{\blur3}这就象你的邻居有一座房子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like there was a house in your neighborhood{\r}
+Dialogue: 0,0:00:47.29,0:00:49.06,Default,,0000,0000,0000,,{\blur3}但你从不知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you never knew was there.{\r}
+Dialogue: 0,0:00:49.38,0:00:50.91,Default,,0000,0000,0000,,{\blur3}你会遇到一些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Meet new neighbors{\r}
+Dialogue: 0,0:00:50.97,0:00:53.17,Default,,0000,0000,0000,,{\blur3}恰好经过的新邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who are just passing through...{\r}
+Dialogue: 0,0:00:53.48,0:00:56.91,Default,,0000,0000,0000,,{\blur3}有些行星在银河里漫无目的地流浪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are planets that are wandering the galaxy aimlessly{\r}
+Dialogue: 0,0:00:57.02,0:00:58.67,Default,,0000,0000,0000,,{\blur3}没有自己的家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without a place to call home.{\r}
+Dialogue: 0,0:00:59.44,0:01:00.72,Default,,0000,0000,0000,,{\blur3}而有些老朋友{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And old friends{\r}
+Dialogue: 0,0:01:00.90,0:01:02.55,Default,,0000,0000,0000,,{\blur3}则时日无多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whose days are numbered.{\r}
+Dialogue: 0,0:01:02.92,0:01:04.47,Default,,0000,0000,0000,,{\blur3}相信参宿四会在今晚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's conceivable that Betelgeuse{\r}
+Dialogue: 0,0:01:04.48,0:01:06.12,Default,,0000,0000,0000,,{\blur3}演进为超新星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will go supernova tonight.{\r}
+Dialogue: 0,0:01:06.26,0:01:08.40,Default,,0000,0000,0000,,{\blur3}让我们展开旅程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Join us for a tour of the neighborhood{\r}
+Dialogue: 0,0:01:08.41,0:01:10.54,Default,,0000,0000,0000,,{\blur3}现在就去认识这个地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're only now getting to know.{\r}
+Dialogue: 0,0:01:11.37,0:01:14.52,Default,,0000,0000,0000,,{\blur3}它就是"银河里的我们地区"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is "Our Place in the Milky Way."{\r}
+Dialogue: 0,0:01:28.23,0:01:30.44,Default,,0000,0000,0000,,{\blur3}这不是你的地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This isn't your neighborhood,{\r}
+Dialogue: 0,0:01:31.73,0:01:33.10,Default,,0000,0000,0000,,{\blur3}不论是这个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}neither is this{\r}
+Dialogue: 0,0:01:33.23,0:01:34.33,Default,,0000,0000,0000,,{\blur3}还是这个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or this{\r}
+Dialogue: 0,0:01:34.90,0:01:36.44,Default,,0000,0000,0000,,{\blur3}或这些的任何一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or any of these.{\r}
+Dialogue: 0,0:01:37.74,0:01:39.77,Default,,0000,0000,0000,,{\blur3}甚至这个也不是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it isn't even this.{\r}
+Dialogue: 0,0:01:43.16,0:01:45.29,Default,,0000,0000,0000,,{\blur3}从广义来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Looked at from a wider perspective,{\r}
+Dialogue: 0,0:01:45.30,0:01:48.49,Default,,0000,0000,0000,,{\blur3}你的地区是一团巨大的气体云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}your neighborhood is a big cloud of gas.{\r}
+Dialogue: 0,0:01:49.94,0:01:51.76,Default,,0000,0000,0000,,{\blur3}天文学家把{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers say the solar system{\r}
+Dialogue: 0,0:01:51.79,0:01:54.66,Default,,0000,0000,0000,,{\blur3}太阳系正在穿越的本星际云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is moving through the local interstellar cloud,{\r}
+Dialogue: 0,0:01:55.34,0:01:57.44,Default,,0000,0000,0000,,{\blur3}也称为"本地绒毛"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also called "the local fluff"{\r}
+Dialogue: 0,0:01:57.67,0:02:00.80,Default,,0000,0000,0000,,{\blur3}因为它密度低且形状不规则{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because of its low density and irregular shape.{\r}
+Dialogue: 0,0:02:01.69,0:02:05.78,Default,,0000,0000,0000,,{\blur3}气体主要是氢 以及一些氦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gases are mainly hydrogen and some helium.{\r}
+Dialogue: 0,0:02:06.06,0:02:08.80,Default,,0000,0000,0000,,{\blur3}还有微量的较重的原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are trace amounts of heavier atoms{\r}
+Dialogue: 0,0:02:08.81,0:02:11.29,Default,,0000,0000,0000,,{\blur3}比如在星际介质边缘漂浮着的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like carbon and oxygen and nitrogen{\r}
+Dialogue: 0,0:02:11.60,0:02:14.03,Default,,0000,0000,0000,,{\blur3}碳 氧和氮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are just floating around the interstellar medium.{\r}
+Dialogue: 0,0:02:14.88,0:02:18.73,Default,,0000,0000,0000,,{\blur3}我们知道 星际介质里较重的原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know that the heavier atoms in the interstellar medium{\r}
+Dialogue: 0,0:02:18.80,0:02:20.81,Default,,0000,0000,0000,,{\blur3}是超新星之类的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are left over from{\r}
+Dialogue: 0,0:02:20.84,0:02:24.46,Default,,0000,0000,0000,,{\blur3}发生爆炸而遗留下来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}previous explosions of stars as supernovae.{\r}
+Dialogue: 0,0:02:26.87,0:02:29.45,Default,,0000,0000,0000,,{\blur3}本星际云团长达30光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The local fluff is 30 light-years long,{\r}
+Dialogue: 0,0:02:29.47,0:02:31.84,Default,,0000,0000,0000,,{\blur3}大约是180万亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 180 trillion miles.{\r}
+Dialogue: 0,0:02:32.59,0:02:36.03,Default,,0000,0000,0000,,{\blur3}它位于一个被称为"本地泡"的烟囱状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's inside a larger chimney-shaped gas cloud{\r}
+Dialogue: 0,0:02:36.22,0:02:37.69,Default,,0000,0000,0000,,{\blur3}巨大气体云内部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called the local bubble,{\r}
+Dialogue: 0,0:02:37.84,0:02:40.62,Default,,0000,0000,0000,,{\blur3}那也是一个古老的超新星遗留下来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also the remnant of an ancient supernova.{\r}
+Dialogue: 0,0:02:41.49,0:02:44.09,Default,,0000,0000,0000,,{\blur3}本地泡长300光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bubble is 300 light-years long{\r}
+Dialogue: 0,0:02:44.80,0:02:49.55,Default,,0000,0000,0000,,{\blur3}位于银河一个旋臂的内缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and lies in the inner edge of one of the spiral arms of the Milky Way.{\r}
+Dialogue: 0,0:02:51.06,0:02:52.99,Default,,0000,0000,0000,,{\blur3}这就是我们的地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's our neighborhood.{\r}
+Dialogue: 0,0:02:53.30,0:02:55.26,Default,,0000,0000,0000,,{\blur3}至少 我们认为它是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At least, we think it is.{\r}
+Dialogue: 0,0:02:56.24,0:02:58.69,Default,,0000,0000,0000,,{\blur3}我们在银河系里的精确位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our exact position in the Milky Way galaxy{\r}
+Dialogue: 0,0:02:58.71,0:03:01.35,Default,,0000,0000,0000,,{\blur3}与某些未知的臂有关{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}relative to the arms actually isn't known.{\r}
+Dialogue: 0,0:03:02.20,0:03:05.88,Default,,0000,0000,0000,,{\blur3}银河的构造难以说清{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The structure of the galaxy is not known in any real detail.{\r}
+Dialogue: 0,0:03:06.12,0:03:08.48,Default,,0000,0000,0000,,{\blur3}一些人认为有两个主臂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some people think there are two major arms.{\r}
+Dialogue: 0,0:03:08.60,0:03:10.85,Default,,0000,0000,0000,,{\blur3}有人认为有四个主臂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some people think there are four major arms.{\r}
+Dialogue: 0,0:03:11.71,0:03:13.06,Default,,0000,0000,0000,,{\blur3}我们难以确定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's hard for us to determine{\r}
+Dialogue: 0,0:03:13.09,0:03:15.31,Default,,0000,0000,0000,,{\blur3}我们银河的精确结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the exact structure of our Milky Way,{\r}
+Dialogue: 0,0:03:15.48,0:03:17.60,Default,,0000,0000,0000,,{\blur3}这些臂在哪里等等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where all the arms are and so on,{\r}
+Dialogue: 0,0:03:18.12,0:03:21.09,Default,,0000,0000,0000,,{\blur3}因为如同迷宫里的老鼠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it's kind of like a mouse being inside a maze.{\r}
+Dialogue: 0,0:03:22.56,0:03:24.20,Default,,0000,0000,0000,,{\blur3}你不能掌控全局{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You don't get the big picture.{\r}
+Dialogue: 0,0:03:25.88,0:03:27.91,Default,,0000,0000,0000,,{\blur3}在地球上 在任意地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In almost any Earth neighborhood,{\r}
+Dialogue: 0,0:03:28.13,0:03:31.14,Default,,0000,0000,0000,,{\blur3}你都能非常精确地确定位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can determine your location very precisely.{\r}
+Dialogue: 0,0:03:32.27,0:03:34.52,Default,,0000,0000,0000,,{\blur3}30英尺后转左{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Turn left in 30 feet.{\r}
+Dialogue: 0,0:03:39.77,0:03:41.06,Default,,0000,0000,0000,,{\blur3}但是 当面对银河{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when you're dealing with something{\r}
+Dialogue: 0,0:03:41.09,0:03:42.74,Default,,0000,0000,0000,,{\blur3}这样的庞然大物时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as big as the Milky Way,{\r}
+Dialogue: 0,0:03:45.41,0:03:47.56,Default,,0000,0000,0000,,{\blur3}GPS就不行了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}GPS isn't an option.{\r}
+Dialogue: 0,0:03:48.89,0:03:52.69,Default,,0000,0000,0000,,{\blur3}银河的跨度为100 000光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The galaxy is, you know, 100,000 light-years across.{\r}
+Dialogue: 0,0:03:55.80,0:03:57.62,Default,,0000,0000,0000,,{\blur3}即使是在我们地区探索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even exploring our local neighborhood{\r}
+Dialogue: 0,0:03:57.63,0:03:59.41,Default,,0000,0000,0000,,{\blur3}也有许多的不确定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}involves a lot of uncertainty.{\r}
+Dialogue: 0,0:04:01.10,0:04:04.10,Default,,0000,0000,0000,,{\blur3}但如果有银河坐标系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if we did have a galactic positioning system,{\r}
+Dialogue: 0,0:04:05.51,0:04:08.31,Default,,0000,0000,0000,,{\blur3}也许能让我们在银河的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would probably locate us about midway between{\r}
+Dialogue: 0,0:04:08.34,0:04:10.67,Default,,0000,0000,0000,,{\blur3}顶部和底部之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the top and bottom of the Milky Way{\r}
+Dialogue: 0,0:04:12.87,0:04:15.96,Default,,0000,0000,0000,,{\blur3}以及内外缘之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and about midway between the galaxy's outer edge{\r}
+Dialogue: 0,0:04:16.09,0:04:17.39,Default,,0000,0000,0000,,{\blur3}进行定位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and inner core.{\r}
+Dialogue: 0,0:04:18.75,0:04:22.12,Default,,0000,0000,0000,,{\blur3}我们太阳系离银河中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our solar system is about 26,000 light-years away{\r}
+Dialogue: 0,0:04:22.13,0:04:23.82,Default,,0000,0000,0000,,{\blur3}大约26 000光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the center of our galaxy.{\r}
+Dialogue: 0,0:04:24.94,0:04:26.80,Default,,0000,0000,0000,,{\blur3}根据一个假说 我们拥有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to one hypothesis,{\r}
+Dialogue: 0,0:04:27.12,0:04:29.48,Default,,0000,0000,0000,,{\blur3}一个非常独特的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have a very exclusive location.{\r}
+Dialogue: 0,0:04:30.07,0:04:32.94,Default,,0000,0000,0000,,{\blur3}有一种看法认为 只有在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is one idea that only stars in a certain range{\r}
+Dialogue: 0,0:04:32.96,0:04:35.48,Default,,0000,0000,0000,,{\blur3}恒星与银河中心的距离为某一范围时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of distances from the center of our galaxy{\r}
+Dialogue: 0,0:04:35.75,0:04:38.75,Default,,0000,0000,0000,,{\blur3}它才在所谓的银河适宜居住区之内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are in the so-called galactic habitable zone,{\r}
+Dialogue: 0,0:04:38.99,0:04:41.92,Default,,0000,0000,0000,,{\blur3}这就是说 环绕这些恒星旋转的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is, able to have life on planets{\r}
+Dialogue: 0,0:04:41.94,0:04:43.63,Default,,0000,0000,0000,,{\blur3}才能拥有生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}surrounding those stars.{\r}
+Dialogue: 0,0:04:45.53,0:04:47.75,Default,,0000,0000,0000,,{\blur3}它正是这样的好地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is just the right place{\r}
+Dialogue: 0,0:04:47.77,0:04:49.57,Default,,0000,0000,0000,,{\blur3}有温度适宜的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a star of the right temperature{\r}
+Dialogue: 0,0:04:49.60,0:04:51.39,Default,,0000,0000,0000,,{\blur3}行星恰好位于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a planet at the right distance{\r}
+Dialogue: 0,0:04:51.57,0:04:54.15,Default,,0000,0000,0000,,{\blur3}表面能有许多液态水的距离上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for there to be a lot of liquid water on the surface,{\r}
+Dialogue: 0,0:04:54.66,0:04:58.28,Default,,0000,0000,0000,,{\blur3}生命化学物质出现并演化成我们人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where the chemistry of life began and evolved into us.{\r}
+Dialogue: 0,0:04:59.63,0:05:02.43,Default,,0000,0000,0000,,{\blur3}整个的银河适宜居住地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The overall range of the galactic habitable zone{\r}
+Dialogue: 0,0:05:02.53,0:05:07.02,Default,,0000,0000,0000,,{\blur3}从距离银河中心13 000光年的地方延伸到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}extends from about 13,000 to 35,000 light-years{\r}
+Dialogue: 0,0:05:07.03,0:05:08.84,Default,,0000,0000,0000,,{\blur3}35 000光年的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the center of the Milky Way.{\r}
+Dialogue: 0,0:05:09.57,0:05:11.31,Default,,0000,0000,0000,,{\blur3}主要的部分 是我们的所在地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The main part, where we are,{\r}
+Dialogue: 0,0:05:11.46,0:05:15.82,Default,,0000,0000,0000,,{\blur3}处于距离中心20 000至29 000光年的范围内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ranges from 20,000 to 29,000 light-years from the core.{\r}
+Dialogue: 0,0:05:18.39,0:05:19.92,Default,,0000,0000,0000,,{\blur3}在这个地带里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inside the zone,{\r}
+Dialogue: 0,0:05:22.66,0:05:24.81,Default,,0000,0000,0000,,{\blur3}旧区的消亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}old neighborhoods have been destroyed{\r}
+Dialogue: 0,0:05:25.27,0:05:28.50,Default,,0000,0000,0000,,{\blur3}造就了一个我们称为家园的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make a place we can call home.{\r}
+Dialogue: 0,0:05:29.18,0:05:30.93,Default,,0000,0000,0000,,{\blur3}受观察角度的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Depending upon how you look at things,{\r}
+Dialogue: 0,0:05:31.02,0:05:33.59,Default,,0000,0000,0000,,{\blur3}如果从全局去观察宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our local neighborhood, our local solar system,{\r}
+Dialogue: 0,0:05:33.81,0:05:37.05,Default,,0000,0000,0000,,{\blur3}与看起来将要发生的事来作比较 你可以认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is actually a relatively safe place{\r}
+Dialogue: 0,0:05:37.17,0:05:39.70,Default,,0000,0000,0000,,{\blur3}我们这个地区 我们太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}compared to what seems to be going on{\r}
+Dialogue: 0,0:05:40.03,0:05:42.96,Default,,0000,0000,0000,,{\blur3}是一个相对安全的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you look at the universe in the large.{\r}
+Dialogue: 0,0:05:43.84,0:05:46.78,Default,,0000,0000,0000,,{\blur3}但在太阳系的早期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the early history of our solar system,{\r}
+Dialogue: 0,0:05:46.89,0:05:48.80,Default,,0000,0000,0000,,{\blur3}它是非常动荡的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was a much more violent place.{\r}
+Dialogue: 0,0:05:48.98,0:05:52.31,Default,,0000,0000,0000,,{\blur3}构成太阳和行星的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the material that formed the Sun and the planets{\r}
+Dialogue: 0,0:05:52.32,0:05:54.52,Default,,0000,0000,0000,,{\blur3}还在忙着安顿自己{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was still sorting itself out.{\r}
+Dialogue: 0,0:05:54.74,0:05:56.41,Default,,0000,0000,0000,,{\blur3}五花八门的碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There were all sorts of collisions{\r}
+Dialogue: 0,0:05:56.43,0:05:58.85,Default,,0000,0000,0000,,{\blur3}层出不穷的动乱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and violent things happening{\r}
+Dialogue: 0,0:05:58.88,0:06:00.88,Default,,0000,0000,0000,,{\blur3}形成了我们今天这个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that gave rise to this nice, calm{\r}
+Dialogue: 0,0:06:00.89,0:06:03.35,Default,,0000,0000,0000,,{\blur3}美好 平静或者说是相对平静的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or relatively calm place that we have today.{\r}
+Dialogue: 0,0:06:06.68,0:06:08.36,Default,,0000,0000,0000,,{\blur3}我们认为最早的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think that the earliest stars formed{\r}
+Dialogue: 0,0:06:08.39,0:06:10.36,Default,,0000,0000,0000,,{\blur3}只由氢和氮所构成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out of hydrogen and helium alone,{\r}
+Dialogue: 0,0:06:10.54,0:06:14.02,Default,,0000,0000,0000,,{\blur3}但是 在长年累月之后 这些恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that, over time, the stars work as these processors{\r}
+Dialogue: 0,0:06:14.28,0:06:16.20,Default,,0000,0000,0000,,{\blur3}不断产生重元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that create the heavier elements.{\r}
+Dialogue: 0,0:06:17.24,0:06:19.17,Default,,0000,0000,0000,,{\blur3}这一点至关重要 因为当这些恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is important because when those stars{\r}
+Dialogue: 0,0:06:19.20,0:06:21.21,Default,,0000,0000,0000,,{\blur3}最终死亡和爆炸时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}eventually die and explode,{\r}
+Dialogue: 0,0:06:21.60,0:06:24.38,Default,,0000,0000,0000,,{\blur3}这些超新星或死亡星球的爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these supernovae, or stellar death explosions,{\r}
+Dialogue: 0,0:06:24.56,0:06:27.41,Default,,0000,0000,0000,,{\blur3}为银河和周围的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seed the galaxy and the material around it{\r}
+Dialogue: 0,0:06:27.54,0:06:29.24,Default,,0000,0000,0000,,{\blur3}带来了重元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with heavier elements.{\r}
+Dialogue: 0,0:06:30.78,0:06:33.13,Default,,0000,0000,0000,,{\blur3}比方说 我们细胞里的碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So for example, the carbon in our cells,{\r}
+Dialogue: 0,0:06:33.86,0:06:35.63,Default,,0000,0000,0000,,{\blur3}呼吸的氧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the oxygen that we breathe,{\r}
+Dialogue: 0,0:06:36.38,0:06:38.09,Default,,0000,0000,0000,,{\blur3}骨头里的钙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the calcium in our bones,{\r}
+Dialogue: 0,0:06:38.66,0:06:40.79,Default,,0000,0000,0000,,{\blur3}红细胞里的铁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the iron in our red blood cells,{\r}
+Dialogue: 0,0:06:41.41,0:06:43.39,Default,,0000,0000,0000,,{\blur3}所有这些都是重元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all those are heavy elements.{\r}
+Dialogue: 0,0:06:47.04,0:06:48.60,Default,,0000,0000,0000,,{\blur3}我们知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know that the Sun{\r}
+Dialogue: 0,0:06:48.61,0:06:50.89,Default,,0000,0000,0000,,{\blur3}太阳至少是第二 三代的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is at least a second or a third-generation star{\r}
+Dialogue: 0,0:06:50.92,0:06:52.67,Default,,0000,0000,0000,,{\blur3}因为有许多行星围绕着它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because there are planets around it.{\r}
+Dialogue: 0,0:06:52.68,0:06:55.71,Default,,0000,0000,0000,,{\blur3}有许多由铁 碳和其它重元素构成的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are things made of iron and carbon and other heavier elements.{\r}
+Dialogue: 0,0:06:58.16,0:07:00.61,Default,,0000,0000,0000,,{\blur3}但是 造就地球生命的过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the processes that led to life on Earth{\r}
+Dialogue: 0,0:07:00.74,0:07:03.35,Default,,0000,0000,0000,,{\blur3}在这个地带之外似乎看不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}don't seem to exist outside the zone.{\r}
+Dialogue: 0,0:07:04.41,0:07:06.22,Default,,0000,0000,0000,,{\blur3}紧挨银河边缘的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Closer to the edge of the galaxy,{\r}
+Dialogue: 0,0:07:06.46,0:07:08.84,Default,,0000,0000,0000,,{\blur3}有几个大恒星已经爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}fewer massive stars have exploded,{\r}
+Dialogue: 0,0:07:09.14,0:07:11.45,Default,,0000,0000,0000,,{\blur3}产生了不太多的重元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}producing fewer heavy elements.{\r}
+Dialogue: 0,0:07:12.10,0:07:13.70,Default,,0000,0000,0000,,{\blur3}在银河外层较远的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Further out in the galaxy,{\r}
+Dialogue: 0,0:07:13.71,0:07:18.52,Default,,0000,0000,0000,,{\blur3}你找不到象碳 氮和氧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you don't have as many atoms like carbon, nitrogen, oxygen{\r}
+Dialogue: 0,0:07:18.63,0:07:22.13,Default,,0000,0000,0000,,{\blur3}这些对生命化学物质非常重要的原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the atoms that are so important for the chemistry of life.{\r}
+Dialogue: 0,0:07:24.29,0:07:26.43,Default,,0000,0000,0000,,{\blur3}所以 银河适宜居住地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the habitable zone of the galaxy{\r}
+Dialogue: 0,0:07:26.74,0:07:29.04,Default,,0000,0000,0000,,{\blur3}以是否拥有构成生命的重元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cuts off at a distance where you just won't have{\r}
+Dialogue: 0,0:07:29.07,0:07:30.81,Default,,0000,0000,0000,,{\blur3}作为分界线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the heavier atoms to make life.{\r}
+Dialogue: 0,0:07:33.43,0:07:36.19,Default,,0000,0000,0000,,{\blur3}如果银河外层是不好的地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the outer galaxy is a bad neighborhood,{\r}
+Dialogue: 0,0:07:36.47,0:07:39.15,Default,,0000,0000,0000,,{\blur3}那么内层有过之而无不及{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the inner area is even worse.{\r}
+Dialogue: 0,0:07:41.40,0:07:44.18,Default,,0000,0000,0000,,{\blur3}巨大气体行星的大质量产生的万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gravity from massive gas giant planets{\r}
+Dialogue: 0,0:07:44.20,0:07:45.90,Default,,0000,0000,0000,,{\blur3}能够把我们撕碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could tear us apart.{\r}
+Dialogue: 0,0:07:47.03,0:07:49.52,Default,,0000,0000,0000,,{\blur3}而且 如果再靠近银河中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there are other dangers the closer you get{\r}
+Dialogue: 0,0:07:49.53,0:07:51.18,Default,,0000,0000,0000,,{\blur3}还会有其它危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the galactic core.{\r}
+Dialogue: 0,0:07:52.29,0:07:54.02,Default,,0000,0000,0000,,{\blur3}在哥白尼时代{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Back in the times of Copernicus,{\r}
+Dialogue: 0,0:07:54.17,0:07:56.50,Default,,0000,0000,0000,,{\blur3}我们自认是宇宙的中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we thought that we were the center of our universe,{\r}
+Dialogue: 0,0:07:56.72,0:07:59.45,Default,,0000,0000,0000,,{\blur3}甚至在开始进一步研究天空的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even as we started to learn more about the heavens,{\r}
+Dialogue: 0,0:07:59.63,0:08:02.65,Default,,0000,0000,0000,,{\blur3}人们最终还是认为自己是银河的中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}eventually, we still thought that we were the center of the galaxy.{\r}
+Dialogue: 0,0:08:03.06,0:08:04.50,Default,,0000,0000,0000,,{\blur3}现在我们知道得更多了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now that we know even more, though,{\r}
+Dialogue: 0,0:08:04.52,0:08:06.03,Default,,0000,0000,0000,,{\blur3}但是 我们应当庆幸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it actually turns out that we're lucky{\r}
+Dialogue: 0,0:08:06.04,0:08:08.00,Default,,0000,0000,0000,,{\blur3}我们不是在银河的中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're not in the center of the galaxy.{\r}
+Dialogue: 0,0:08:09.14,0:08:10.83,Default,,0000,0000,0000,,{\blur3}在银河中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the center of the Milky Way,{\r}
+Dialogue: 0,0:08:10.99,0:08:13.38,Default,,0000,0000,0000,,{\blur3}人马座A星正在疯狂吞噬物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sucking matter and even light into it,{\r}
+Dialogue: 0,0:08:13.49,0:08:15.74,Default,,0000,0000,0000,,{\blur3}即使是光也会被吸进去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is Sagittarius A-Star,{\r}
+Dialogue: 0,0:08:15.92,0:08:20.03,Default,,0000,0000,0000,,{\blur3}它是跨度接近一千四百万英里的一个黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a black hole nearly 14 million miles across{\r}
+Dialogue: 0,0:08:20.25,0:08:24.25,Default,,0000,0000,0000,,{\blur3}质量是太阳的370万倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a mass 3.7 million times that of our Sun.{\r}
+Dialogue: 0,0:08:25.79,0:08:28.88,Default,,0000,0000,0000,,{\blur3}如果银河中心有一个黑洞在里面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the galactic center has a black hole in it,{\r}
+Dialogue: 0,0:08:29.03,0:08:30.74,Default,,0000,0000,0000,,{\blur3}它会放射出大量的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it gives off a lot of radiation{\r}
+Dialogue: 0,0:08:30.86,0:08:33.58,Default,,0000,0000,0000,,{\blur3}足以摧毁生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}enough to fry life as we know it{\r}
+Dialogue: 0,0:08:33.99,0:08:35.99,Default,,0000,0000,0000,,{\blur3}所以你不能太靠近它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so you can't be too close to that.{\r}
+Dialogue: 0,0:08:36.97,0:08:39.50,Default,,0000,0000,0000,,{\blur3}此外 在银河里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then there are other regions in the galaxy{\r}
+Dialogue: 0,0:08:39.51,0:08:42.18,Default,,0000,0000,0000,,{\blur3}也有其它不太有利于生命的区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are also probably not so great for life{\r}
+Dialogue: 0,0:08:42.21,0:08:44.88,Default,,0000,0000,0000,,{\blur3}因为那里有非常大量的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because there's just so much radiation{\r}
+Dialogue: 0,0:08:44.97,0:08:48.89,Default,,0000,0000,0000,,{\blur3}从附近炽热的O-型星传来的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from nearby really hot O-type stars.{\r}
+Dialogue: 0,0:08:50.57,0:08:52.94,Default,,0000,0000,0000,,{\blur3}O-型星是宇宙巨人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}O-type stars are giants.{\r}
+Dialogue: 0,0:08:53.35,0:08:54.93,Default,,0000,0000,0000,,{\blur3}它们比太阳更热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're hotter than the Sun,{\r}
+Dialogue: 0,0:08:55.04,0:08:57.46,Default,,0000,0000,0000,,{\blur3}质量是太阳的10至50倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}10 to 50 times as massive,{\r}
+Dialogue: 0,0:08:58.06,0:09:01.82,Default,,0000,0000,0000,,{\blur3}会释放出非常大量的紫外线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and throw out titanic amounts of ultraviolet radiation.{\r}
+Dialogue: 0,0:09:02.21,0:09:05.29,Default,,0000,0000,0000,,{\blur3}面对这些恒星 你要担心的不是晒伤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With these stars, you don't worry about sunburn{\r}
+Dialogue: 0,0:09:05.74,0:09:07.29,Default,,0000,0000,0000,,{\blur3}而是毁灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but extinction.{\r}
+Dialogue: 0,0:09:07.93,0:09:11.78,Default,,0000,0000,0000,,{\blur3}大量O-型星簇拥着你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's probably not easy to survive in an environment{\r}
+Dialogue: 0,0:09:11.79,0:09:15.13,Default,,0000,0000,0000,,{\blur3}这样的环境 恐怕你不能轻易存活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you're in a tight cluster with a lot of O-type stars.{\r}
+Dialogue: 0,0:09:19.17,0:09:21.79,Default,,0000,0000,0000,,{\blur3}O-型巨星能够在行星形成之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}O-type giants can destroy planets{\r}
+Dialogue: 0,0:09:21.81,0:09:23.40,Default,,0000,0000,0000,,{\blur3}就摧毁它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before they form.{\r}
+Dialogue: 0,0:09:24.07,0:09:26.67,Default,,0000,0000,0000,,{\blur3}这些恒星的辐射如此之强{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The radiation from these stars is so strong{\r}
+Dialogue: 0,0:09:26.83,0:09:30.21,Default,,0000,0000,0000,,{\blur3}可以从即将成形的行星那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it actually sweeps the material away{\r}
+Dialogue: 0,0:09:30.25,0:09:33.72,Default,,0000,0000,0000,,{\blur3}把物质扫走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from these newly forming, would-be planetary systems{\r}
+Dialogue: 0,0:09:34.82,0:09:37.92,Default,,0000,0000,0000,,{\blur3}并从它们的恒星轨道上狠狠抛出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and rips it out of the orbit of their stars.{\r}
+Dialogue: 0,0:09:40.04,0:09:43.39,Default,,0000,0000,0000,,{\blur3}如果你需要证明 那就看看玫瑰星云吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you want proof, look at the Rosette nebula.{\r}
+Dialogue: 0,0:09:44.19,0:09:49.36,Default,,0000,0000,0000,,{\blur3}它离本地泡非常远 相隔5 200光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's 5,200 light-years away, far outside the local bubble,{\r}
+Dialogue: 0,0:09:50.69,0:09:54.75,Default,,0000,0000,0000,,{\blur3}但它能展示O-型星会为我们地区带来什么影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it shows what O-type giants could do to our neighborhood.{\r}
+Dialogue: 0,0:09:56.71,0:09:59.69,Default,,0000,0000,0000,,{\blur3}2008年亚利桑那州的一份研究表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A 2008 study by the University of Arizona{\r}
+Dialogue: 0,0:09:59.71,0:10:01.79,Default,,0000,0000,0000,,{\blur3}在星云中发现有1 000个恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of 1,000 stars in the nebula{\r}
+Dialogue: 0,0:10:02.00,0:10:04.85,Default,,0000,0000,0000,,{\blur3}因为太靠近蓝巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}found star after star had been made barren{\r}
+Dialogue: 0,0:10:05.18,0:10:07.83,Default,,0000,0000,0000,,{\blur3}而成为不毛之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by being too close to a blue giant.{\r}
+Dialogue: 0,0:10:08.65,0:10:11.22,Default,,0000,0000,0000,,{\blur3}那么 对于O-型巨星的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what's a safe distance from the radiation{\r}
+Dialogue: 0,0:10:11.24,0:10:13.04,Default,,0000,0000,0000,,{\blur3}距离多远才安全呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of an O-type giant?{\r}
+Dialogue: 0,0:10:14.10,0:10:15.74,Default,,0000,0000,0000,,{\blur3}如果你问我{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, if you ask me,{\r}
+Dialogue: 0,0:10:15.75,0:10:18.18,Default,,0000,0000,0000,,{\blur3}我会说 你到哪里都没用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can never be too far away from a giant.{\r}
+Dialogue: 0,0:10:19.87,0:10:21.61,Default,,0000,0000,0000,,{\blur3}但如果你象我们地球生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you're life like us here on Earth{\r}
+Dialogue: 0,0:10:21.62,0:10:23.94,Default,,0000,0000,0000,,{\blur3}习惯了温顺的太阳一样习惯了它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're used to our fairly tame Sun{\r}
+Dialogue: 0,0:10:24.21,0:10:27.78,Default,,0000,0000,0000,,{\blur3}你还得距离它至少数十光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you want to be probably at least tens of light-years away,{\r}
+Dialogue: 0,0:10:28.03,0:10:29.42,Default,,0000,0000,0000,,{\blur3}或许比这还远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}maybe more than that.{\r}
+Dialogue: 0,0:10:30.01,0:10:31.92,Default,,0000,0000,0000,,{\blur3}真的 别太近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Really, just don't get too close.{\r}
+Dialogue: 0,0:10:35.69,0:10:38.26,Default,,0000,0000,0000,,{\blur3}正如沙漠与海洋之间的城市{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like a city between a desert and an ocean,{\r}
+Dialogue: 0,0:10:38.80,0:10:40.93,Default,,0000,0000,0000,,{\blur3}我们这个银河角落在两个不同的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our corner of the galaxy thrives{\r}
+Dialogue: 0,0:10:40.94,0:10:44.30,Default,,0000,0000,0000,,{\blur3}不适宜居住地带之间繁荣发展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between two different inhospitable regions.{\r}
+Dialogue: 0,0:10:46.28,0:10:47.64,Default,,0000,0000,0000,,{\blur3}拥有生命的力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the elements of life{\r}
+Dialogue: 0,0:10:47.65,0:10:50.05,Default,,0000,0000,0000,,{\blur3}却没有强辐射的威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and without the threat of intense radiation,{\r}
+Dialogue: 0,0:10:50.72,0:10:52.19,Default,,0000,0000,0000,,{\blur3}看起来我们地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it seems like our neighborhood{\r}
+Dialogue: 0,0:10:52.21,0:10:54.76,Default,,0000,0000,0000,,{\blur3}似乎是唯一能居住的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is literally the only place to live.{\r}
+Dialogue: 0,0:10:55.92,0:10:58.04,Default,,0000,0000,0000,,{\blur3}但我们这个地方在银河里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But is our place in the Milky Way{\r}
+Dialogue: 0,0:10:58.05,0:10:59.86,Default,,0000,0000,0000,,{\blur3}真的独一无二？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}really so exclusive?{\r}
+Dialogue: 0,0:11:00.69,0:11:02.75,Default,,0000,0000,0000,,{\blur3}关于银河适宜居住地带的看法是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The idea of the galactic habitable zone is that{\r}
+Dialogue: 0,0:11:02.78,0:11:05.00,Default,,0000,0000,0000,,{\blur3}如果太靠近银河中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you're too close to the center of the galaxy,{\r}
+Dialogue: 0,0:11:05.03,0:11:06.72,Default,,0000,0000,0000,,{\blur3}那里的极端环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's all these crazy things going on,{\r}
+Dialogue: 0,0:11:06.73,0:11:08.28,Default,,0000,0000,0000,,{\blur3}会扼杀生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it tends to kill off life.{\r}
+Dialogue: 0,0:11:08.60,0:11:10.97,Default,,0000,0000,0000,,{\blur3}坦白说 我很怀疑这个观点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To be honest, I'm personally skeptical of the idea{\r}
+Dialogue: 0,0:11:10.98,0:11:12.19,Default,,0000,0000,0000,,{\blur3}我认为生命会发生在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because I think that life can happen{\r}
+Dialogue: 0,0:11:12.21,0:11:13.57,Default,,0000,0000,0000,,{\blur3}各种环境里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in all sorts of environments,{\r}
+Dialogue: 0,0:11:13.58,0:11:15.49,Default,,0000,0000,0000,,{\blur3}退一步来说 在不确切的情况下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or at the very least, we don't know,{\r}
+Dialogue: 0,0:11:15.96,0:11:17.40,Default,,0000,0000,0000,,{\blur3}我们要放开思想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we should be open-minded.{\r}
+Dialogue: 0,0:11:18.18,0:11:19.98,Default,,0000,0000,0000,,{\blur3}可能我们这种生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's possible that our kind of life{\r}
+Dialogue: 0,0:11:20.00,0:11:22.46,Default,,0000,0000,0000,,{\blur3}只能在这个银河宜居地带生活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can only live in this galactic habitable zone,{\r}
+Dialogue: 0,0:11:22.47,0:11:24.43,Default,,0000,0000,0000,,{\blur3}但会有我们称为极端生物的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but elsewhere, there could be other kinds of life{\r}
+Dialogue: 0,0:11:24.44,0:11:26.32,Default,,0000,0000,0000,,{\blur3}其它种类的生命在别处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we would call extremophiles.{\r}
+Dialogue: 0,0:11:26.83,0:11:29.18,Default,,0000,0000,0000,,{\blur3}反过来 他们会把我们称为极端生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the other hand, they would call us extremophiles.{\r}
+Dialogue: 0,0:11:33.48,0:11:35.00,Default,,0000,0000,0000,,{\blur3}有一件事是必然的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One thing is certain.{\r}
+Dialogue: 0,0:11:35.71,0:11:38.25,Default,,0000,0000,0000,,{\blur3}在我们地区 我们有一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our neighborhood, we have a sun that,{\r}
+Dialogue: 0,0:11:38.47,0:11:40.32,Default,,0000,0000,0000,,{\blur3}与蓝巨星不同的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}unlike a blue giant,{\r}
+Dialogue: 0,0:11:40.57,0:11:42.98,Default,,0000,0000,0000,,{\blur3}以我们尚在研究的各种方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}protects us from danger and destruction{\r}
+Dialogue: 0,0:11:43.41,0:11:45.68,Default,,0000,0000,0000,,{\blur3}来保护我们免受危险和毁灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in ways that we're still learning about.{\r}
+Dialogue: 0,0:11:47.26,0:11:49.47,Default,,0000,0000,0000,,{\blur3}它的保护可能是隐形的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That protection may be invisible,{\r}
+Dialogue: 0,0:11:51.14,0:11:53.11,Default,,0000,0000,0000,,{\blur3}如果失去太阳的保护{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but if we lose the Sun's protection,{\r}
+Dialogue: 0,0:11:53.33,0:11:56.93,Default,,0000,0000,0000,,{\blur3}我们地区的末日就会降临{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our neighborhood could be doomed.{\r}
+Dialogue: 0,0:12:00.54,0:12:03.84,Default,,0000,0000,0000,,{\blur3}在银河里的我们这个地方 似乎相当安宁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our place in the Milky Way seems pretty peaceful{\r}
+Dialogue: 0,0:12:05.15,0:12:07.15,Default,,0000,0000,0000,,{\blur3}因为 就象许多社区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because, like a lot of communities,{\r}
+Dialogue: 0,0:12:07.32,0:12:12.32,Default,,0000,0000,0000,,{\blur3}坏人被24小时工作的保安系统拒之门外了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we don't give much thought to the 24/7 security systems{\r}
+Dialogue: 0,0:12:12.40,0:12:14.52,Default,,0000,0000,0000,,{\blur3}我们不需要大伤脑筋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that keep the bad stuff away.{\r}
+Dialogue: 0,0:12:16.55,0:12:19.23,Default,,0000,0000,0000,,{\blur3}许多在河畔或海滨的城市{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many cities on the edges of rivers or oceans{\r}
+Dialogue: 0,0:12:19.26,0:12:22.58,Default,,0000,0000,0000,,{\blur3}组织人力物力去建筑堤坝 以防止洪灾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have dams and levies to protect them from floods.{\r}
+Dialogue: 0,0:12:23.19,0:12:25.16,Default,,0000,0000,0000,,{\blur3}如果堤坝不行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the dams and levies fail{\r}
+Dialogue: 0,0:12:26.65,0:12:28.04,Default,,0000,0000,0000,,{\blur3}灾难就会降临{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}disaster.{\r}
+Dialogue: 0,0:12:30.50,0:12:34.16,Default,,0000,0000,0000,,{\blur3}银河系里的我们 也是威胁与保护共存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've got threats and defenses on a galactic scale too.{\r}
+Dialogue: 0,0:12:35.41,0:12:39.15,Default,,0000,0000,0000,,{\blur3}太空充斥着被称为宇宙射线的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space is filled with radiation known as cosmic rays.{\r}
+Dialogue: 0,0:12:39.69,0:12:41.93,Default,,0000,0000,0000,,{\blur3}宇宙射线对我们的危害程度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cosmic rays are bad for us in the same sense{\r}
+Dialogue: 0,0:12:41.96,0:12:45.05,Default,,0000,0000,0000,,{\blur3}等同于地球上的核辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that nuclear radiation here on Earth would be bad for us,{\r}
+Dialogue: 0,0:12:47.22,0:12:48.79,Default,,0000,0000,0000,,{\blur3}因为高能辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because high-energy radiation{\r}
+Dialogue: 0,0:12:48.80,0:12:50.94,Default,,0000,0000,0000,,{\blur3}会让构成我们人类的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tends to dissociate carbon bonds,{\r}
+Dialogue: 0,0:12:50.96,0:12:52.48,Default,,0000,0000,0000,,{\blur3}碳化合物分离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is what we're made of.{\r}
+Dialogue: 0,0:12:52.69,0:12:55.07,Default,,0000,0000,0000,,{\blur3}你的DNA会被破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you're really doing is damaging your DNA,{\r}
+Dialogue: 0,0:12:55.32,0:12:56.61,Default,,0000,0000,0000,,{\blur3}而且有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's a potential there{\r}
+Dialogue: 0,0:12:56.62,0:12:59.64,Default,,0000,0000,0000,,{\blur3}因此而开始产生变异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you could start to have mutations based off of that.{\r}
+Dialogue: 0,0:13:01.25,0:13:04.48,Default,,0000,0000,0000,,{\blur3}变异会帮助物种生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some mutations can help a species survive{\r}
+Dialogue: 0,0:13:05.72,0:13:07.83,Default,,0000,0000,0000,,{\blur3}也会导致它灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or lead to extinction.{\r}
+Dialogue: 0,0:13:08.82,0:13:11.45,Default,,0000,0000,0000,,{\blur3}没有证据表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no evidence that cosmic radiation{\r}
+Dialogue: 0,0:13:11.47,0:13:14.34,Default,,0000,0000,0000,,{\blur3}宇宙辐射过去曾对地球有负面影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has really negatively impacted Earth in the past,{\r}
+Dialogue: 0,0:13:14.47,0:13:16.39,Default,,0000,0000,0000,,{\blur3}但你不能视之为无物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's nothing that you want to play around with.{\r}
+Dialogue: 0,0:13:17.62,0:13:19.15,Default,,0000,0000,0000,,{\blur3}我们对抗宇宙射线的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our neighborhood's prime defense{\r}
+Dialogue: 0,0:13:19.16,0:13:20.80,Default,,0000,0000,0000,,{\blur3}有力防御是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}against cosmic rays:{\r}
+Dialogue: 0,0:13:21.87,0:13:23.19,Default,,0000,0000,0000,,{\blur3}磁力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}magnetism.{\r}
+Dialogue: 0,0:13:24.68,0:13:27.76,Default,,0000,0000,0000,,{\blur3}这是我们的防御带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have this zone of protection in our neighborhood.{\r}
+Dialogue: 0,0:13:28.47,0:13:30.91,Default,,0000,0000,0000,,{\blur3}当然 地球拥有磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of course, the Earth has a magnetic field{\r}
+Dialogue: 0,0:13:30.93,0:13:34.54,Default,,0000,0000,0000,,{\blur3}归功于地核内的事物如何运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}due to how things move around in the core of the Earth.{\r}
+Dialogue: 0,0:13:34.55,0:13:37.20,Default,,0000,0000,0000,,{\blur3}太阳也有一个强大的磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun also has a powerful magnetic field,{\r}
+Dialogue: 0,0:13:37.23,0:13:38.91,Default,,0000,0000,0000,,{\blur3}也因此而拥有太阳风{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it also has the solar wind.{\r}
+Dialogue: 0,0:13:39.61,0:13:44.07,Default,,0000,0000,0000,,{\blur3}这些现象形成了对我们的各种保护{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These phenomena actually generate ways of protecting us{\r}
+Dialogue: 0,0:13:44.09,0:13:47.04,Default,,0000,0000,0000,,{\blur3}避免从太阳系外面而来的侵害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from things that come from outside the solar system.{\r}
+Dialogue: 0,0:13:51.40,0:13:53.55,Default,,0000,0000,0000,,{\blur3}太阳磁场被太阳风{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun's magnetic field is twisted{\r}
+Dialogue: 0,0:13:53.57,0:13:55.51,Default,,0000,0000,0000,,{\blur3}扭曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by the solar wind,{\r}
+Dialogue: 0,0:13:56.82,0:13:59.91,Default,,0000,0000,0000,,{\blur3}带电质子和电子源源不断地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}streams of charged protons and electrons{\r}
+Dialogue: 0,0:14:00.37,0:14:03.36,Default,,0000,0000,0000,,{\blur3}以一百万英里的时速从太阳发射出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that shoot out of the Sun at a million miles an hour.{\r}
+Dialogue: 0,0:14:05.25,0:14:08.37,Default,,0000,0000,0000,,{\blur3}于是 太阳系行星之间的微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then the particles that live in the solar system between the planets{\r}
+Dialogue: 0,0:14:08.38,0:14:11.45,Default,,0000,0000,0000,,{\blur3}沿着周围的磁力线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually stretch the lines of the magnetic field around{\r}
+Dialogue: 0,0:14:11.47,0:14:12.87,Default,,0000,0000,0000,,{\blur3}形成复杂的图案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in complicated patterns.{\r}
+Dialogue: 0,0:14:16.47,0:14:19.04,Default,,0000,0000,0000,,{\blur3}携带磁场的太阳风{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The solar wind carries the magnetic field{\r}
+Dialogue: 0,0:14:19.06,0:14:21.13,Default,,0000,0000,0000,,{\blur3}比海王星轨道的三倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more than three times farther out{\r}
+Dialogue: 0,0:14:21.16,0:14:22.83,Default,,0000,0000,0000,,{\blur3}还要长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the orbit of Neptune.{\r}
+Dialogue: 0,0:14:24.59,0:14:26.48,Default,,0000,0000,0000,,{\blur3}然而 在90亿英里外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But 9 billion miles away,{\r}
+Dialogue: 0,0:14:26.70,0:14:29.04,Default,,0000,0000,0000,,{\blur3}在一个被称为"太阳驻点"的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at a place called the heliopause,{\r}
+Dialogue: 0,0:14:29.58,0:14:34.51,Default,,0000,0000,0000,,{\blur3}太阳风失去动力 几乎没有速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the solar wind runs out of steam and slows to almost nothing.{\r}
+Dialogue: 0,0:14:36.33,0:14:40.02,Default,,0000,0000,0000,,{\blur3}在慢下来时 它扭曲太阳磁场成为一道屏障{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As it slows, it twists the Sun's magnetic field{\r}
+Dialogue: 0,0:14:40.19,0:14:42.55,Default,,0000,0000,0000,,{\blur3}抵挡从星际空间而来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into a barrier against cosmic rays{\r}
+Dialogue: 0,0:14:42.56,0:14:44.24,Default,,0000,0000,0000,,{\blur3}宇宙射线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from interstellar space.{\r}
+Dialogue: 0,0:14:45.18,0:14:47.41,Default,,0000,0000,0000,,{\blur3}这个区域被称为"日鞘"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is the heliosheath.{\r}
+Dialogue: 0,0:14:50.81,0:14:52.37,Default,,0000,0000,0000,,{\blur3}如果没有日鞘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it wasn't for the heliosheath,{\r}
+Dialogue: 0,0:14:52.43,0:14:56.52,Default,,0000,0000,0000,,{\blur3}宇宙射线会一直不停地涌入我们太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these cosmic rays would actually pour into our solar system all the time.{\r}
+Dialogue: 0,0:14:56.94,0:15:00.19,Default,,0000,0000,0000,,{\blur3}对这些可能影响我们地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The heliosheath acts as a kind of shark cage{\r}
+Dialogue: 0,0:15:00.58,0:15:02.81,Default,,0000,0000,0000,,{\blur3}来势汹汹的宇宙射线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for these incoming cosmic rays{\r}
+Dialogue: 0,0:15:02.94,0:15:05.15,Default,,0000,0000,0000,,{\blur3}日鞘起着鲨鱼笼的作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that might otherwise influence our planet.{\r}
+Dialogue: 0,0:15:07.44,0:15:08.93,Default,,0000,0000,0000,,{\blur3}有一些会穿过来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some do come through,{\r}
+Dialogue: 0,0:15:09.31,0:15:11.79,Default,,0000,0000,0000,,{\blur3}但不至于象没有这种保护一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they don't come through as strongly as they would{\r}
+Dialogue: 0,0:15:11.94,0:15:13.56,Default,,0000,0000,0000,,{\blur3}来得那么凶猛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without that protection.{\r}
+Dialogue: 0,0:15:16.04,0:15:18.19,Default,,0000,0000,0000,,{\blur3}人们一向认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It used to be thought that the heliosheath{\r}
+Dialogue: 0,0:15:18.22,0:15:20.05,Default,,0000,0000,0000,,{\blur3}日鞘是由磁力垂帘构成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was a rather elegant barrier{\r}
+Dialogue: 0,0:15:20.06,0:15:22.84,Default,,0000,0000,0000,,{\blur3}一道简单实用的屏障{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}made of flowing curtains of magnetic force,{\r}
+Dialogue: 0,0:15:24.22,0:15:25.34,Default,,0000,0000,0000,,{\blur3}但最近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but recently,{\r}
+Dialogue: 0,0:15:27.56,0:15:30.20,Default,,0000,0000,0000,,{\blur3}1977年从地球发射的太空船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}enter Voyager 1 and Voyager 2,,{\r}
+Dialogue: 0,0:15:31.48,0:15:34.76,Default,,0000,0000,0000,,{\blur3}旅行者1号和2号进入了该区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}probes sent out from Earth in 1977.{\r}
+Dialogue: 0,0:15:37.42,0:15:39.47,Default,,0000,0000,0000,,{\blur3}在21世纪早期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the early 21st century,{\r}
+Dialogue: 0,0:15:39.79,0:15:43.83,Default,,0000,0000,0000,,{\blur3}这些70年代的设备发回的信息指出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these disco-era devices sent back information{\r}
+Dialogue: 0,0:15:44.08,0:15:47.38,Default,,0000,0000,0000,,{\blur3}太阳的磁力线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}indicating that the Sun's magnetic field lines{\r}
+Dialogue: 0,0:15:47.40,0:15:49.27,Default,,0000,0000,0000,,{\blur3}不是光滑地连在一起的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}don't flow smoothly together;{\r}
+Dialogue: 0,0:15:49.69,0:15:53.77,Default,,0000,0000,0000,,{\blur3}它们间断开来 成为狂暴的磁泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they break up and reform into violent magnetic froth,{\r}
+Dialogue: 0,0:15:54.20,0:15:58.73,Default,,0000,0000,0000,,{\blur3}磁泡里的每一个泡宽一亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and each bubble in that froth is 100 million miles wide.{\r}
+Dialogue: 0,0:15:59.79,0:16:02.51,Default,,0000,0000,0000,,{\blur3}通常认为 在它们之间是一道光滑 优雅的屏障{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We used to think that it was a smooth, nice barrier{\r}
+Dialogue: 0,0:16:02.52,0:16:03.79,Default,,0000,0000,0000,,{\blur3}但实际上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between them, but in fact,{\r}
+Dialogue: 0,0:16:03.81,0:16:06.62,Default,,0000,0000,0000,,{\blur3}那是躁动之地 有各种泡和其它形状的图案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's a roiling place with all sorts of bubbles and patterns.{\r}
+Dialogue: 0,0:16:07.42,0:16:09.45,Default,,0000,0000,0000,,{\blur3}我想 总有人把宇宙超乎自然地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think there's always been people who think the universe{\r}
+Dialogue: 0,0:16:09.47,0:16:10.94,Default,,0000,0000,0000,,{\blur3}进行美化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is more elegant than it is{\r}
+Dialogue: 0,0:16:10.95,0:16:12.87,Default,,0000,0000,0000,,{\blur3}或是狂暴化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and people who think it's more violent than it is,{\r}
+Dialogue: 0,0:16:13.26,0:16:15.54,Default,,0000,0000,0000,,{\blur3}以至于我们总会惊讶于一面或其它面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we're always surprised one way or the other.{\r}
+Dialogue: 0,0:16:15.67,0:16:17.55,Default,,0000,0000,0000,,{\blur3}而真相是 宇宙有些方面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The truth is that some aspects of the universe{\r}
+Dialogue: 0,0:16:17.58,0:16:19.33,Default,,0000,0000,0000,,{\blur3}非常美丽 但在别的方面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are quite elegant, and in other aspects,{\r}
+Dialogue: 0,0:16:19.35,0:16:20.81,Default,,0000,0000,0000,,{\blur3}它非常糟糕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's quite a mess.{\r}
+Dialogue: 0,0:16:24.28,0:16:27.24,Default,,0000,0000,0000,,{\blur3}何处是我们银河地区的美丽地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where are the elegant areas of our galactic neighborhood,{\r}
+Dialogue: 0,0:16:27.44,0:16:29.14,Default,,0000,0000,0000,,{\blur3}何处是狂野之地？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and where are the rough parts?{\r}
+Dialogue: 0,0:16:31.66,0:16:35.47,Default,,0000,0000,0000,,{\blur3}宇宙里的气体和尘埃让我们难以分辨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can be hard to tell with all that gas and dust in the cosmos.{\r}
+Dialogue: 0,0:16:37.87,0:16:40.51,Default,,0000,0000,0000,,{\blur3}这有点象从这里看我身后的好莱坞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's sort of like looking here behind me at Hollywood.{\r}
+Dialogue: 0,0:16:40.52,0:16:41.92,Default,,0000,0000,0000,,{\blur3}那里有一个标志性建筑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's even a landmark there,{\r}
+Dialogue: 0,0:16:41.94,0:16:43.45,Default,,0000,0000,0000,,{\blur3}"神殿唱片"大厦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Capitol Records building.{\r}
+Dialogue: 0,0:16:43.59,0:16:45.31,Default,,0000,0000,0000,,{\blur3}你能勉强地看到它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can barely make it out.{\r}
+Dialogue: 0,0:16:45.55,0:16:46.77,Default,,0000,0000,0000,,{\blur3}但在更远处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And even beyond that,{\r}
+Dialogue: 0,0:16:46.78,0:16:49.10,Default,,0000,0000,0000,,{\blur3}山岗就显得很模糊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are some hills that are even hazier.{\r}
+Dialogue: 0,0:16:49.13,0:16:52.73,Default,,0000,0000,0000,,{\blur3}这是因为在空气中有东西妨碍了视线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's because there's stuff in the air that blocks the view.{\r}
+Dialogue: 0,0:16:53.73,0:16:57.34,Default,,0000,0000,0000,,{\blur3}山岗本身还让我看不了更远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The hill itself obscures my ability to look beyond it,{\r}
+Dialogue: 0,0:16:57.74,0:17:01.98,Default,,0000,0000,0000,,{\blur3}这有点象非常稠密的分子云中的尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's kind of like the dust in very dense molecular clouds.{\r}
+Dialogue: 0,0:17:01.99,0:17:04.94,Default,,0000,0000,0000,,{\blur3}充斥着尘埃的稠密的分子云构成一堵厚墙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you hit a big wall of a dense molecular cloud{\r}
+Dialogue: 0,0:17:04.95,0:17:07.01,Default,,0000,0000,0000,,{\blur3}让你看不到任何东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}filled with dust, you can't see anything.{\r}
+Dialogue: 0,0:17:10.01,0:17:12.67,Default,,0000,0000,0000,,{\blur3}我们在探索银河地区时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we explore our galactic neighborhood,{\r}
+Dialogue: 0,0:17:13.41,0:17:16.69,Default,,0000,0000,0000,,{\blur3}所见依赖于我们怎样去看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what we see depends on how we look at things.{\r}
+Dialogue: 0,0:17:18.05,0:17:21.09,Default,,0000,0000,0000,,{\blur3}通过观察天空 我们学到一个历史经验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the things we've learned through the history of looking at the sky{\r}
+Dialogue: 0,0:17:21.10,0:17:24.03,Default,,0000,0000,0000,,{\blur3}任何时候 如果用不同方法去观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that every time you look in a different way,{\r}
+Dialogue: 0,0:17:24.05,0:17:25.34,Default,,0000,0000,0000,,{\blur3}你会看到新东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you see new things,{\r}
+Dialogue: 0,0:17:25.81,0:17:27.69,Default,,0000,0000,0000,,{\blur3}而用不同方法观察天空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and looking at the sky a different way{\r}
+Dialogue: 0,0:17:27.71,0:17:30.42,Default,,0000,0000,0000,,{\blur3}简单地说 往往是指{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}often simply means looking in a different part{\r}
+Dialogue: 0,0:17:30.44,0:17:32.37,Default,,0000,0000,0000,,{\blur3}使用不同的电磁波频谱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the electromagnetic spectrum.{\r}
+Dialogue: 0,0:17:32.78,0:17:34.80,Default,,0000,0000,0000,,{\blur3}当我们用眼睛仰望天空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we look up into the sky with our eyes{\r}
+Dialogue: 0,0:17:34.81,0:17:36.99,Default,,0000,0000,0000,,{\blur3}或是借助于光学望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or with the aid of optical telescopes,{\r}
+Dialogue: 0,0:17:37.17,0:17:39.01,Default,,0000,0000,0000,,{\blur3}所利用的是光谱的可见部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the visible part of the spectrum,{\r}
+Dialogue: 0,0:17:39.02,0:17:41.01,Default,,0000,0000,0000,,{\blur3}我们对着夜空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we see the night sky,{\r}
+Dialogue: 0,0:17:41.03,0:17:42.83,Default,,0000,0000,0000,,{\blur3}会看到许多的事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's a lot to see,{\r}
+Dialogue: 0,0:17:42.99,0:17:45.31,Default,,0000,0000,0000,,{\blur3}但这只是其中的一小部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's only a fraction of what's out there.{\r}
+Dialogue: 0,0:17:49.19,0:17:50.77,Default,,0000,0000,0000,,{\blur3}某些太空望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some space telescopes{\r}
+Dialogue: 0,0:17:50.78,0:17:54.16,Default,,0000,0000,0000,,{\blur3}利用红外线成像来穿透宇宙尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}see through cosmic dust with infrared vision,{\r}
+Dialogue: 0,0:17:54.73,0:17:58.35,Default,,0000,0000,0000,,{\blur3}其原理类似于民用红外摄像机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}similar to that used by commercial infrared cameras.{\r}
+Dialogue: 0,0:17:59.21,0:18:01.46,Default,,0000,0000,0000,,{\blur3}我带来了一个塑料袋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've brought with me this plastic bag,{\r}
+Dialogue: 0,0:18:01.73,0:18:03.98,Default,,0000,0000,0000,,{\blur3}当我把手放进袋子里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and when I put my hand inside of the bag,{\r}
+Dialogue: 0,0:18:04.73,0:18:06.94,Default,,0000,0000,0000,,{\blur3}你看不到我竖起了多少个手指{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can't see how many fingers I'm holding up.{\r}
+Dialogue: 0,0:18:08.92,0:18:10.01,Default,,0000,0000,0000,,{\blur3}利用红外摄像机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the infrared camera,{\r}
+Dialogue: 0,0:18:10.03,0:18:12.07,Default,,0000,0000,0000,,{\blur3}你能够看到我身体散发的热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can see the heat coming off my body,{\r}
+Dialogue: 0,0:18:12.27,0:18:14.88,Default,,0000,0000,0000,,{\blur3}我的脸部 比较暖和 呈红白色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so my face, which is warm, is red and white,{\r}
+Dialogue: 0,0:18:15.05,0:18:17.71,Default,,0000,0000,0000,,{\blur3}但是我的头发 比较低温 明显呈蓝色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but my hair, which is cool, shows up as blue.{\r}
+Dialogue: 0,0:18:18.02,0:18:20.59,Default,,0000,0000,0000,,{\blur3}因此 利用红外摄像机 你能辩认出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So with the infrared camera, you should be able to make out{\r}
+Dialogue: 0,0:18:20.60,0:18:22.24,Default,,0000,0000,0000,,{\blur3}我竖起了多少个手指{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how many fingers I'm holding up,{\r}
+Dialogue: 0,0:18:22.37,0:18:25.12,Default,,0000,0000,0000,,{\blur3}哪怕你不能看穿这个塑料袋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even though you can't see through this bag.{\r}
+Dialogue: 0,0:18:26.14,0:18:28.73,Default,,0000,0000,0000,,{\blur3}这就是天文学家为什么能穿透宇宙尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's how astronomers peer through cosmic dust{\r}
+Dialogue: 0,0:18:28.74,0:18:31.41,Default,,0000,0000,0000,,{\blur3}去观察隐藏在视线之后的事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when they want to see things that are hidden from sight.{\r}
+Dialogue: 0,0:18:32.45,0:18:35.42,Default,,0000,0000,0000,,{\blur3}例如 正在形成的恒星非常热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For example, stars being born are very warm,{\r}
+Dialogue: 0,0:18:35.77,0:18:37.99,Default,,0000,0000,0000,,{\blur3}但它们被尘埃遮蔽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they're obscured by dust shells.{\r}
+Dialogue: 0,0:18:38.17,0:18:40.30,Default,,0000,0000,0000,,{\blur3}利用红外线 我们就能看到它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With infrared, we can see them.{\r}
+Dialogue: 0,0:18:41.28,0:18:45.99,Default,,0000,0000,0000,,{\blur3}某些物体透明或不透明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Certain objects are transparent or opaque{\r}
+Dialogue: 0,0:18:46.45,0:18:48.39,Default,,0000,0000,0000,,{\blur3}依赖于试图穿透它们的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}depending upon the frequency of the light{\r}
+Dialogue: 0,0:18:48.41,0:18:49.87,Default,,0000,0000,0000,,{\blur3}光的频率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's trying to get through them.{\r}
+Dialogue: 0,0:18:50.53,0:18:54.05,Default,,0000,0000,0000,,{\blur3}所以 在事实上 碍事的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so, in fact, something that's getting in the way,{\r}
+Dialogue: 0,0:18:54.16,0:18:56.69,Default,,0000,0000,0000,,{\blur3}比如诸多的星际尘埃或气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a lot of interstellar dust or gas,{\r}
+Dialogue: 0,0:18:56.70,0:18:59.89,Default,,0000,0000,0000,,{\blur3}妨碍着望远镜的观测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is getting in the way of what your telescopes can see,{\r}
+Dialogue: 0,0:19:00.16,0:19:03.49,Default,,0000,0000,0000,,{\blur3}但如果利用光谱的其它部分 那它们便化为无形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are actually invisible in another part of the spectrum.{\r}
+Dialogue: 0,0:19:03.50,0:19:05.10,Default,,0000,0000,0000,,{\blur3}你就能看到背后的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can see what's behind.{\r}
+Dialogue: 0,0:19:07.34,0:19:08.48,Default,,0000,0000,0000,,{\blur3}利用红外线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With infrared{\r}
+Dialogue: 0,0:19:08.49,0:19:11.42,Default,,0000,0000,0000,,{\blur3}和诸多我们可以自由支配的其它波段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a multitude of other wavelengths at our command,{\r}
+Dialogue: 0,0:19:11.67,0:19:15.28,Default,,0000,0000,0000,,{\blur3}我们发现了许多我们过去不知道的邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've discovered a lot of neighbors we didn't know we had.{\r}
+Dialogue: 0,0:19:16.30,0:19:18.91,Default,,0000,0000,0000,,{\blur3}如果你能用光谱的一个特殊波段去看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a whole array of instrumentation{\r}
+Dialogue: 0,0:19:19.05,0:19:22.73,Default,,0000,0000,0000,,{\blur3}你就能用一个非常特殊的方式去观察天空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is exploiting that lesson that if you look{\r}
+Dialogue: 0,0:19:22.74,0:19:24.17,Default,,0000,0000,0000,,{\blur3}有一个仪器阵列{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a particular part of the spectrum,{\r}
+Dialogue: 0,0:19:24.20,0:19:26.42,Default,,0000,0000,0000,,{\blur3}就是利用这个原理去工作的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you see the sky in a very particular way.{\r}
+Dialogue: 0,0:19:27.45,0:19:28.96,Default,,0000,0000,0000,,{\blur3}从既往的研究来看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From what we've observed,{\r}
+Dialogue: 0,0:19:29.27,0:19:31.46,Default,,0000,0000,0000,,{\blur3}在一些新邻居意欲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it looks like some old neighbors might have helped{\r}
+Dialogue: 0,0:19:31.49,0:19:33.21,Default,,0000,0000,0000,,{\blur3}彻底摧毁我们的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}life form on Earth,{\r}
+Dialogue: 0,0:19:34.42,0:19:37.17,Default,,0000,0000,0000,,{\blur3}似乎一些老邻居可能对地球生命的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while some newer neighbors may be planning{\r}
+Dialogue: 0,0:19:37.27,0:19:38.85,Default,,0000,0000,0000,,{\blur3}有过帮助{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to wipe us out.{\r}
+Dialogue: 0,0:19:45.11,0:19:47.84,Default,,0000,0000,0000,,{\blur3}在探索银河系里的我们这个地方时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we've explored our place in the Milky Way,{\r}
+Dialogue: 0,0:19:48.00,0:19:50.75,Default,,0000,0000,0000,,{\blur3}我们曾遇到许多有趣的新邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've met a lot of interesting new neighbors,{\r}
+Dialogue: 0,0:19:51.48,0:19:55.02,Default,,0000,0000,0000,,{\blur3}其中有好邻居 也有坏邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but there are good neighbors and bad ones.{\r}
+Dialogue: 0,0:19:56.36,0:19:58.99,Default,,0000,0000,0000,,{\blur3}好邻居是这样的物体 例如{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Good neighbors are, for example,{\r}
+Dialogue: 0,0:19:59.14,0:20:01.50,Default,,0000,0000,0000,,{\blur3}轨道稳定 有规律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}objects that are in predictable orbits,{\r}
+Dialogue: 0,0:20:01.64,0:20:05.06,Default,,0000,0000,0000,,{\blur3}虽然走来走去 但只是在专心做自己的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}moving around, doing their own thing, minding their own business.{\r}
+Dialogue: 0,0:20:05.07,0:20:06.88,Default,,0000,0000,0000,,{\blur3}我们可以打量它们 朝它们挥手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can look over and wave to them,{\r}
+Dialogue: 0,0:20:07.13,0:20:09.05,Default,,0000,0000,0000,,{\blur3}但它们不会对我们突然做什么事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they're not gonna do something sudden{\r}
+Dialogue: 0,0:20:09.06,0:20:10.57,Default,,0000,0000,0000,,{\blur3}不会危害我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or dangerous to us.{\r}
+Dialogue: 0,0:20:10.93,0:20:12.21,Default,,0000,0000,0000,,{\blur3}而坏邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bad neighbors, then,{\r}
+Dialogue: 0,0:20:12.23,0:20:15.77,Default,,0000,0000,0000,,{\blur3}会冷不防地搞一些动作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be things that may do something unstable.{\r}
+Dialogue: 0,0:20:15.79,0:20:18.52,Default,,0000,0000,0000,,{\blur3}它们可能会做一些我们始料不及的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They may do something that could affect us{\r}
+Dialogue: 0,0:20:18.61,0:20:21.50,Default,,0000,0000,0000,,{\blur3}以某种方式来影响我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a way that we can't predict when it's going to happen.{\r}
+Dialogue: 0,0:20:22.39,0:20:26.82,Default,,0000,0000,0000,,{\blur3}这也许会发生在恒星死亡或爆炸的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that might be when a star dies and explodes...{\r}
+Dialogue: 0,0:20:29.56,0:20:32.74,Default,,0000,0000,0000,,{\blur3}或可能会发生在物体碰撞 然后一些别的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or it might be when something collides and bounces off{\r}
+Dialogue: 0,0:20:32.75,0:20:35.27,Default,,0000,0000,0000,,{\blur3}迅速反弹到我们这边来的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something else and comes spinning in our direction.{\r}
+Dialogue: 0,0:20:35.77,0:20:38.56,Default,,0000,0000,0000,,{\blur3}所以 好坏邻居的大致划分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So classifying things roughly into good neighbors{\r}
+Dialogue: 0,0:20:38.59,0:20:41.09,Default,,0000,0000,0000,,{\blur3}是按照是否具有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and bad neighbors is really a classification{\r}
+Dialogue: 0,0:20:41.11,0:20:44.46,Default,,0000,0000,0000,,{\blur3}预测性来确定的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into predictability and unpredictability,{\r}
+Dialogue: 0,0:20:44.63,0:20:48.27,Default,,0000,0000,0000,,{\blur3}如果你喜欢 也可以用暴力和非暴力来划分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or violence and nonviolence if you like.{\r}
+Dialogue: 0,0:20:49.12,0:20:50.85,Default,,0000,0000,0000,,{\blur3}有时候 一个好邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sometimes a good neighbor{\r}
+Dialogue: 0,0:20:50.86,0:20:52.74,Default,,0000,0000,0000,,{\blur3}会带来天外礼物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will bring a moving-in gift.{\r}
+Dialogue: 0,0:20:53.43,0:20:56.52,Default,,0000,0000,0000,,{\blur3}对我们来说 这应该在数十亿年前发生过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That might have happened to us, billions of years ago,{\r}
+Dialogue: 0,0:20:56.81,0:20:59.13,Default,,0000,0000,0000,,{\blur3}当其时 物质聚合为太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the Earth was still cooling and forming{\r}
+Dialogue: 0,0:20:59.22,0:21:02.43,Default,,0000,0000,0000,,{\blur3}其剩余部分在形成地球并不断冷却{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out of recycled material from a recycled sun.{\r}
+Dialogue: 0,0:21:04.66,0:21:08.25,Default,,0000,0000,0000,,{\blur3}我们可能接收了一个改变一切的礼物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We might have received a gift that changed everything.{\r}
+Dialogue: 0,0:21:12.68,0:21:14.70,Default,,0000,0000,0000,,{\blur3}早期的地球非常热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The early Earth was very hot,{\r}
+Dialogue: 0,0:21:14.95,0:21:18.73,Default,,0000,0000,0000,,{\blur3}地表水很可能都蒸发掉了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and probably any original surface water evaporated away,{\r}
+Dialogue: 0,0:21:19.22,0:21:21.04,Default,,0000,0000,0000,,{\blur3}所以我们认为 相当多的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we think that quite a bit of the water{\r}
+Dialogue: 0,0:21:21.06,0:21:25.40,Default,,0000,0000,0000,,{\blur3}可能来自于彗星或有冰的行星 或来自两者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may have come from either comets or icy asteroids or both.{\r}
+Dialogue: 0,0:21:28.35,0:21:30.47,Default,,0000,0000,0000,,{\blur3}关于地球怎么会得到这么多的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the theories about how we might have gotten{\r}
+Dialogue: 0,0:21:30.49,0:21:32.07,Default,,0000,0000,0000,,{\blur3}世上有许多理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so much water here on Earth{\r}
+Dialogue: 0,0:21:32.28,0:21:35.18,Default,,0000,0000,0000,,{\blur3}其中一个理论认为来自于外太阳系里的冰团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is from icy bodies in the outer solar system,{\r}
+Dialogue: 0,0:21:35.20,0:21:38.17,Default,,0000,0000,0000,,{\blur3}它们是构成太阳和行星的剩余物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}left over from the formation of the Sun and the planets,{\r}
+Dialogue: 0,0:21:38.52,0:21:41.56,Default,,0000,0000,0000,,{\blur3}冲入地球所在的内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}crashing into our inner solar system where Earth lives{\r}
+Dialogue: 0,0:21:41.74,0:21:43.39,Default,,0000,0000,0000,,{\blur3}带来了一部分的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and deliver some of that water.{\r}
+Dialogue: 0,0:21:43.89,0:21:45.92,Default,,0000,0000,0000,,{\blur3}根据最近的一个理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to one recent theory,{\r}
+Dialogue: 0,0:21:46.13,0:21:48.02,Default,,0000,0000,0000,,{\blur3}大约在40亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 4 billion years ago,{\r}
+Dialogue: 0,0:21:48.25,0:21:50.68,Default,,0000,0000,0000,,{\blur3}由于木星这些气态巨行星的万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the gravity of gas giants like Jupiter{\r}
+Dialogue: 0,0:21:50.96,0:21:55.24,Default,,0000,0000,0000,,{\blur3}许多有冰的小行星猛烈地撞击了火星 地球和金星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sent icy asteroids slamming into Mars, Earth, and Venus.{\r}
+Dialogue: 0,0:21:57.90,0:22:02.64,Default,,0000,0000,0000,,{\blur3}但只有在地球上的冰进入了地幔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But only on Earth did the ice penetrate into the mantle.{\r}
+Dialogue: 0,0:22:04.43,0:22:06.27,Default,,0000,0000,0000,,{\blur3}水使得地球变软{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The water softened the Earth{\r}
+Dialogue: 0,0:22:06.92,0:22:11.11,Default,,0000,0000,0000,,{\blur3}开始了板块构造这个大工程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and initiated a titanic process of plate tectonics,{\r}
+Dialogue: 0,0:22:11.61,0:22:15.14,Default,,0000,0000,0000,,{\blur3}从而导致山岳和海洋的出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which led to the emergence of continents and oceans.{\r}
+Dialogue: 0,0:22:19.72,0:22:22.47,Default,,0000,0000,0000,,{\blur3}这和在海洋中形成生命有什么关系呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what of the life that formed in the oceans?{\r}
+Dialogue: 0,0:22:23.33,0:22:26.30,Default,,0000,0000,0000,,{\blur3}生命所必需的有机化合物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Did organic compounds necessary for life{\r}
+Dialogue: 0,0:22:26.67,0:22:29.07,Default,,0000,0000,0000,,{\blur3}也是从天而降吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also splash down from space?{\r}
+Dialogue: 0,0:22:31.58,0:22:35.07,Default,,0000,0000,0000,,{\blur3}在罕见的碳质球粒陨石里 科学家找到的有机化合物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In rare meteorites called carbonaceous chondrites,{\r}
+Dialogue: 0,0:22:35.17,0:22:37.70,Default,,0000,0000,0000,,{\blur3}类似于曾帮助地球形成生命的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists have found organic compounds{\r}
+Dialogue: 0,0:22:37.71,0:22:40.07,Default,,0000,0000,0000,,{\blur3}那些有机化合物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like those that helped form life on Earth.{\r}
+Dialogue: 0,0:22:41.18,0:22:43.71,Default,,0000,0000,0000,,{\blur3}许多有机化合物的来源不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These compounds are similar to what's been collected{\r}
+Dialogue: 0,0:22:43.72,0:22:45.26,Default,,0000,0000,0000,,{\blur3}但这些都与它们很相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from many different sources,{\r}
+Dialogue: 0,0:22:45.42,0:22:47.71,Default,,0000,0000,0000,,{\blur3}包括南极洲微小陨石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including Antarctic micrometeorites,{\r}
+Dialogue: 0,0:22:47.76,0:22:49.10,Default,,0000,0000,0000,,{\blur3}星际尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}interstellar dust,{\r}
+Dialogue: 0,0:22:49.33,0:22:50.89,Default,,0000,0000,0000,,{\blur3}和美国宇航局2005年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and comet samples acquired{\r}
+Dialogue: 0,0:22:50.90,0:22:54.07,Default,,0000,0000,0000,,{\blur3}星尘任务所捕捉到的彗星样本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by NASA's Stardust mission in 2005.{\r}
+Dialogue: 0,0:22:55.45,0:22:57.35,Default,,0000,0000,0000,,{\blur3}生命的起源包含一长串的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The origin of life involves a long series{\r}
+Dialogue: 0,0:22:57.38,0:23:00.22,Default,,0000,0000,0000,,{\blur3}许多不同有机分子的反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of reactions with many different organic molecules,{\r}
+Dialogue: 0,0:23:00.40,0:23:03.31,Default,,0000,0000,0000,,{\blur3}有机分子只含有一个碳分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}organic molecules being just ones with carbon in them,{\r}
+Dialogue: 0,0:23:03.54,0:23:05.99,Default,,0000,0000,0000,,{\blur3}而且 可能需要不同环境去形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's possible that different circumstances are needed{\r}
+Dialogue: 0,0:23:06.00,0:23:07.88,Default,,0000,0000,0000,,{\blur3}不同的有机化合物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make the different organic molecules.{\r}
+Dialogue: 0,0:23:07.90,0:23:10.22,Default,,0000,0000,0000,,{\blur3}它们中的一些应该是在地球形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some of them might be made here on Earth,{\r}
+Dialogue: 0,0:23:10.72,0:23:13.53,Default,,0000,0000,0000,,{\blur3}但其它的应该在太空里更容易形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but others might be easier to make out in space{\r}
+Dialogue: 0,0:23:13.79,0:23:16.75,Default,,0000,0000,0000,,{\blur3}它们被小行星或彗星带到了地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then bring them here to Earth on asteroids or comets.{\r}
+Dialogue: 0,0:23:20.11,0:23:22.89,Default,,0000,0000,0000,,{\blur3}这是可能的 如果没有我们太空邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's possible that without extraterrestrial gifts{\r}
+Dialogue: 0,0:23:23.07,0:23:24.65,Default,,0000,0000,0000,,{\blur3}给予的天外礼物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from our neighbors in space,{\r}
+Dialogue: 0,0:23:25.10,0:23:28.14,Default,,0000,0000,0000,,{\blur3}地球上的生命可能永远不会出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}life on Earth might never have happened.{\r}
+Dialogue: 0,0:23:30.18,0:23:33.06,Default,,0000,0000,0000,,{\blur3}银河邻居们可能会帮助孕育我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Milky Way neighbors may have helped nurture us,{\r}
+Dialogue: 0,0:23:33.74,0:23:36.97,Default,,0000,0000,0000,,{\blur3}但银河也有能杀死我们的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the Milky Way has things that can kill us as well,{\r}
+Dialogue: 0,0:23:37.85,0:23:39.60,Default,,0000,0000,0000,,{\blur3}比如这一颗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with something like this:{\r}
+Dialogue: 0,0:23:40.01,0:23:42.94,Default,,0000,0000,0000,,{\blur3}名为葛利斯710的橙矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an orange dwarf named Gliese 710.{\r}
+Dialogue: 0,0:23:43.57,0:23:46.61,Default,,0000,0000,0000,,{\blur3}它的质量大约是太阳的60%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's about 60% as massive as the Sun{\r}
+Dialogue: 0,0:23:46.90,0:23:50.04,Default,,0000,0000,0000,,{\blur3}目前离地球63光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and is currently just 63 light-years from Earth{\r}
+Dialogue: 0,0:23:50.40,0:23:52.04,Default,,0000,0000,0000,,{\blur3}正在不断逼近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and getting closer.{\r}
+Dialogue: 0,0:23:52.60,0:23:55.01,Default,,0000,0000,0000,,{\blur3}葛利斯710几乎是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gliese 710 appears to be heading{\r}
+Dialogue: 0,0:23:55.03,0:23:57.21,Default,,0000,0000,0000,,{\blur3}向着太阳系直冲过来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pretty much straight toward the solar system.{\r}
+Dialogue: 0,0:23:58.68,0:24:02.60,Default,,0000,0000,0000,,{\blur3}当一颗橙矮星越接近太阳系 它越值得关注{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As an orange dwarf approaches the solar system, it becomes more and more significant.{\r}
+Dialogue: 0,0:24:02.61,0:24:04.79,Default,,0000,0000,0000,,{\blur3}在距离1光年左右时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When it's about a light-year away or less,{\r}
+Dialogue: 0,0:24:04.81,0:24:06.19,Default,,0000,0000,0000,,{\blur3}它就变得非常紧要了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then it becomes very important.{\r}
+Dialogue: 0,0:24:08.06,0:24:10.65,Default,,0000,0000,0000,,{\blur3}离地球将近1光年的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Almost exactly 1 light-year away from Earth{\r}
+Dialogue: 0,0:24:10.67,0:24:14.83,Default,,0000,0000,0000,,{\blur3}一个有冰冻物体的巨大区域 它被称为奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a huge region of icy objects called the Oort cloud.{\r}
+Dialogue: 0,0:24:16.31,0:24:19.66,Default,,0000,0000,0000,,{\blur3}奥尔特云里的物体会变成彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Oort cloud objects could turn into comets{\r}
+Dialogue: 0,0:24:19.97,0:24:22.08,Default,,0000,0000,0000,,{\blur3}如果它们离太阳足够近的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if they were to come close enough to the Sun,{\r}
+Dialogue: 0,0:24:22.32,0:24:24.15,Default,,0000,0000,0000,,{\blur3}但我们通常根本看不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but usually we don't see them at all{\r}
+Dialogue: 0,0:24:24.17,0:24:26.44,Default,,0000,0000,0000,,{\blur3}因为它们离太阳是如此的远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they're so far away from the Sun.{\r}
+Dialogue: 0,0:24:27.85,0:24:29.42,Default,,0000,0000,0000,,{\blur3}数十亿潜在的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Billions of potential comets{\r}
+Dialogue: 0,0:24:29.43,0:24:33.14,Default,,0000,0000,0000,,{\blur3}在等待着某些东西 比如葛利斯710{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are waiting for something to give them a gravitational push,{\r}
+Dialogue: 0,0:24:33.89,0:24:37.40,Default,,0000,0000,0000,,{\blur3}给它们一个万有引力的推动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something like Gliese 710.{\r}
+Dialogue: 0,0:24:39.36,0:24:41.37,Default,,0000,0000,0000,,{\blur3}它会开始横穿奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It'll start intersecting the Oort cloud{\r}
+Dialogue: 0,0:24:41.39,0:24:43.54,Default,,0000,0000,0000,,{\blur3}或至少是万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or at least gravitationally disturbing it{\r}
+Dialogue: 0,0:24:43.71,0:24:46.22,Default,,0000,0000,0000,,{\blur3}对它干扰了130万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in something like 1.3 million years.{\r}
+Dialogue: 0,0:24:48.50,0:24:51.04,Default,,0000,0000,0000,,{\blur3}如果葛利斯710靠得足够近 其万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If Gliese 710 gets close enough,{\r}
+Dialogue: 0,0:24:51.30,0:24:54.56,Default,,0000,0000,0000,,{\blur3}会让无威胁的由冰和尘埃组成的厚块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}its gravity could turn harmless chunks of ice and dust{\r}
+Dialogue: 0,0:24:54.92,0:24:58.56,Default,,0000,0000,0000,,{\blur3}变成向我们进攻的狂怒彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into rampaging comets launched at us.{\r}
+Dialogue: 0,0:25:00.42,0:25:03.72,Default,,0000,0000,0000,,{\blur3}对地球来说 其结果是毁灭性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The results for Earth could be devastating.{\r}
+Dialogue: 0,0:25:06.22,0:25:09.39,Default,,0000,0000,0000,,{\blur3}到那时 会有一场大规模的彗星攻击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At that point, there could be a huge onslaught of comets{\r}
+Dialogue: 0,0:25:09.40,0:25:11.04,Default,,0000,0000,0000,,{\blur3}发生在内太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the inner solar system{\r}
+Dialogue: 0,0:25:11.35,0:25:13.94,Default,,0000,0000,0000,,{\blur3}从而导致再一次灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could lead to another mass extinction.{\r}
+Dialogue: 0,0:25:14.17,0:25:15.42,Default,,0000,0000,0000,,{\blur3}我们不知道它将来是否发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We don't know that that'll happen,{\r}
+Dialogue: 0,0:25:15.44,0:25:16.82,Default,,0000,0000,0000,,{\blur3}但它能够发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it could happen.{\r}
+Dialogue: 0,0:25:22.93,0:25:25.98,Default,,0000,0000,0000,,{\blur3}天文学家说 有86%的概率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers say there's an 86% chance{\r}
+Dialogue: 0,0:25:26.00,0:25:30.41,Default,,0000,0000,0000,,{\blur3}葛利斯710将会横穿奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that Gliese 710 will barrel right through the Oort cloud.{\r}
+Dialogue: 0,0:25:31.58,0:25:34.64,Default,,0000,0000,0000,,{\blur3}因此 假如橙色球是葛利斯710这样的橙矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if the orange ball was like an orange dwarf like Gliese 710{\r}
+Dialogue: 0,0:25:34.66,0:25:36.37,Default,,0000,0000,0000,,{\blur3}球瓶是奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the pins were the Oort cloud,{\r}
+Dialogue: 0,0:25:38.30,0:25:39.80,Default,,0000,0000,0000,,{\blur3}这就是要发生的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this is one thing that could happen.{\r}
+Dialogue: 0,0:25:40.00,0:25:41.91,Default,,0000,0000,0000,,{\blur3}对 但也有别的可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right, but here's something else that could happen.{\r}
+Dialogue: 0,0:25:42.98,0:25:45.48,Default,,0000,0000,0000,,{\blur3}存在14%的概率 葛利斯710会在外侧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a 14% chance that Gliese 710{\r}
+Dialogue: 0,0:25:45.51,0:25:47.14,Default,,0000,0000,0000,,{\blur3}与奥尔特云擦肩而过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is just gonna pass right by,{\r}
+Dialogue: 0,0:25:47.15,0:25:49.41,Default,,0000,0000,0000,,{\blur3}根本没有进入它的里面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}outside the Oort cloud, not coming inside it at all.{\r}
+Dialogue: 0,0:25:50.72,0:25:52.72,Default,,0000,0000,0000,,{\blur3}但是 即使没有直接命中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even without a direct hit,{\r}
+Dialogue: 0,0:25:54.25,0:25:56.07,Default,,0000,0000,0000,,{\blur3}这个恒星的万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the effect of the star's gravity{\r}
+Dialogue: 0,0:25:56.23,0:25:58.51,Default,,0000,0000,0000,,{\blur3}至少能够影响到一些彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could disrupt at least some comets{\r}
+Dialogue: 0,0:25:59.86,0:26:02.23,Default,,0000,0000,0000,,{\blur3}使得它们直接冲向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and send them straight for us.{\r}
+Dialogue: 0,0:26:02.98,0:26:06.15,Default,,0000,0000,0000,,{\blur3}所以 这个恒星能驱使少许彗星冲向内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the star could knock just a few comets toward the inner solar system.{\r}
+Dialogue: 0,0:26:06.25,0:26:08.16,Default,,0000,0000,0000,,{\blur3}而结果是一颗彗星撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And all it takes is one comet to hit Earth{\r}
+Dialogue: 0,0:26:08.18,0:26:09.48,Default,,0000,0000,0000,,{\blur3}引起一场大灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to cause a catastrophe.{\r}
+Dialogue: 0,0:26:13.53,0:26:16.80,Default,,0000,0000,0000,,{\blur3}我们需要担心的 不止是葛利斯710{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've got more than just Gliese 710 to worry about.{\r}
+Dialogue: 0,0:26:18.90,0:26:21.11,Default,,0000,0000,0000,,{\blur3}有超过150颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are more than 150 stars{\r}
+Dialogue: 0,0:26:21.29,0:26:25.24,Default,,0000,0000,0000,,{\blur3}在接下来的200万年里 与我们近得足以干扰到我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}close enough to disturb us within the next 2 million years.{\r}
+Dialogue: 0,0:26:27.01,0:26:28.89,Default,,0000,0000,0000,,{\blur3}银河系里的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The stars in our Milky Way galaxy{\r}
+Dialogue: 0,0:26:29.11,0:26:31.37,Default,,0000,0000,0000,,{\blur3}受到万有引力的制约在一起运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are all gravitationally bound together,{\r}
+Dialogue: 0,0:26:31.53,0:26:33.40,Default,,0000,0000,0000,,{\blur3}所以它们沿着不同轨道运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they're moving in various directions,{\r}
+Dialogue: 0,0:26:33.54,0:26:36.32,Default,,0000,0000,0000,,{\blur3}总体上是在围绕着银河中心旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}overall a rotation around the center of our galaxy,{\r}
+Dialogue: 0,0:26:36.41,0:26:38.94,Default,,0000,0000,0000,,{\blur3}但不是所有的物体都恰好如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but not all the orbits are exactly the same.{\r}
+Dialogue: 0,0:26:39.52,0:26:41.22,Default,,0000,0000,0000,,{\blur3}这意味着 从我们这里看过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means, from our perspective,{\r}
+Dialogue: 0,0:26:41.30,0:26:44.58,Default,,0000,0000,0000,,{\blur3}恒星不是离我们远去 就是向我们冲来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a given star might be going away from us or toward us.{\r}
+Dialogue: 0,0:26:45.39,0:26:46.90,Default,,0000,0000,0000,,{\blur3}而美国宇航局估计{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And NASA estimates{\r}
+Dialogue: 0,0:26:47.37,0:26:50.48,Default,,0000,0000,0000,,{\blur3}有超过20 000颗直径300英尺以上的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are more than 20,000 near-Earth asteroids{\r}
+Dialogue: 0,0:26:50.50,0:26:52.79,Default,,0000,0000,0000,,{\blur3}近地小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more than 300 feet across...{\r}
+Dialogue: 0,0:26:55.40,0:26:58.34,Default,,0000,0000,0000,,{\blur3}比如"2005 YU55"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like 2005 YU55,{\r}
+Dialogue: 0,0:26:59.09,0:27:01.25,Default,,0000,0000,0000,,{\blur3}它在2011年11月的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which, in November 2011,{\r}
+Dialogue: 0,0:27:01.51,0:27:03.77,Default,,0000,0000,0000,,{\blur3}比月亮还要靠近地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}came closer to the Earth than the Moon.{\r}
+Dialogue: 0,0:27:04.48,0:27:07.90,Default,,0000,0000,0000,,{\blur3}在未来的200年内 它可能会离地球更近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It might come even closer in 200 years.{\r}
+Dialogue: 0,0:27:08.69,0:27:12.02,Default,,0000,0000,0000,,{\blur3}被这样的石头撞击 情况会多糟糕呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How bad would it be to get hit by a rock like that?{\r}
+Dialogue: 0,0:27:12.55,0:27:16.18,Default,,0000,0000,0000,,{\blur3}想像一下二战末期的长崎市{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Think about Nagasaki at the end of World War II{\r}
+Dialogue: 0,0:27:17.61,0:27:20.27,Default,,0000,0000,0000,,{\blur3}然后乘以四{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and multiply by four.{\r}
+Dialogue: 0,0:27:22.33,0:27:24.76,Default,,0000,0000,0000,,{\blur3}在搜索我们这个银河角落的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we've searched our corner of the Milky Way{\r}
+Dialogue: 0,0:27:24.77,0:27:27.26,Default,,0000,0000,0000,,{\blur3}坏邻居和好邻居时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for other neighbors, bad and good,{\r}
+Dialogue: 0,0:27:27.68,0:27:30.52,Default,,0000,0000,0000,,{\blur3}我们发现了一些非常意想不到的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've found some very unexpected things.{\r}
+Dialogue: 0,0:27:30.73,0:27:34.11,Default,,0000,0000,0000,,{\blur3}现有证据表明 有些恒星的温度低到可以触摸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We now have evidence of stars cold enough to touch{\r}
+Dialogue: 0,0:27:34.41,0:27:37.60,Default,,0000,0000,0000,,{\blur3}而有些行星简直就是出自科幻小说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and planets straight out of science fiction.{\r}
+Dialogue: 0,0:27:42.08,0:27:44.54,Default,,0000,0000,0000,,{\blur3}对银河里我们这个地方的探测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Exploring our place in the Milky Way{\r}
+Dialogue: 0,0:27:45.57,0:27:48.25,Default,,0000,0000,0000,,{\blur3}引起了一个又一个的惊讶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has turned up one surprise after another.{\r}
+Dialogue: 0,0:27:49.83,0:27:51.70,Default,,0000,0000,0000,,{\blur3}这就像是你的邻居有一座房子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like there was a house in your neighborhood{\r}
+Dialogue: 0,0:27:51.72,0:27:53.11,Default,,0000,0000,0000,,{\blur3}但你从不知道它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you never knew was there{\r}
+Dialogue: 0,0:27:53.12,0:27:54.49,Default,,0000,0000,0000,,{\blur3}你在猛然间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that you've suddenly discovered,{\r}
+Dialogue: 0,0:27:54.50,0:27:55.94,Default,,0000,0000,0000,,{\blur3}才发现它在大街上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's just down the block.{\r}
+Dialogue: 0,0:27:57.68,0:27:59.07,Default,,0000,0000,0000,,{\blur3}阿尔法星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take Alpha Centauri,{\r}
+Dialogue: 0,0:27:59.13,0:28:02.19,Default,,0000,0000,0000,,{\blur3}这颗半人马座里最亮的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the brightest star in the constellation Centaurus{\r}
+Dialogue: 0,0:28:02.38,0:28:05.47,Default,,0000,0000,0000,,{\blur3}与我们最近的恒星邻居太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, after the Sun, our nearest neighbor star,{\r}
+Dialogue: 0,0:28:05.66,0:28:10.02,Default,,0000,0000,0000,,{\blur3}距离4.3光年 即25万亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}4.3 light-years, or 25 trillion miles, away.{\r}
+Dialogue: 0,0:28:13.25,0:28:16.31,Default,,0000,0000,0000,,{\blur3}在17世纪 天文学家宣称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the 17th century, astronomers announced{\r}
+Dialogue: 0,0:28:16.38,0:28:19.52,Default,,0000,0000,0000,,{\blur3}阿尔法星是双星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that Alpha Centauri was really two stars.{\r}
+Dialogue: 0,0:28:21.06,0:28:22.81,Default,,0000,0000,0000,,{\blur3}然后 在20世纪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then, in the 20th century,{\r}
+Dialogue: 0,0:28:22.97,0:28:25.51,Default,,0000,0000,0000,,{\blur3}它被认为是三合星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it turned out to be a triple system.{\r}
+Dialogue: 0,0:28:26.69,0:28:29.97,Default,,0000,0000,0000,,{\blur3}阿尔法A星是典型的类太阳恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha Centauri A is very much a sun-like star,{\r}
+Dialogue: 0,0:28:30.08,0:28:32.58,Default,,0000,0000,0000,,{\blur3}其质量几乎与太阳相当{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nearly exactly the same mass as our Sun.{\r}
+Dialogue: 0,0:28:33.08,0:28:35.95,Default,,0000,0000,0000,,{\blur3}阿尔法B星则稍小一些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alpha Centauri B is a little bit less massive.{\r}
+Dialogue: 0,0:28:37.08,0:28:39.51,Default,,0000,0000,0000,,{\blur3}第三颗星 比邻星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The third star, Proxima Centauri,{\r}
+Dialogue: 0,0:28:39.86,0:28:41.27,Default,,0000,0000,0000,,{\blur3}是一颗M型恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is an M-type star.{\r}
+Dialogue: 0,0:28:41.30,0:28:43.00,Default,,0000,0000,0000,,{\blur3}质量非常小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a very low-mass star,{\r}
+Dialogue: 0,0:28:43.13,0:28:46.09,Default,,0000,0000,0000,,{\blur3}或许只有太阳的12%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}having perhaps only 12% the mass of our Sun.{\r}
+Dialogue: 0,0:28:46.37,0:28:49.72,Default,,0000,0000,0000,,{\blur3}它非常微弱 肉眼看不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's so faint that we can't see it with our unaided eye.{\r}
+Dialogue: 0,0:28:52.50,0:28:55.33,Default,,0000,0000,0000,,{\blur3}其它非常出名的恒星邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It turns out that other very well-known neighbor stars{\r}
+Dialogue: 0,0:28:55.35,0:28:57.58,Default,,0000,0000,0000,,{\blur3}结果也都是双星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are also multiple systems.{\r}
+Dialogue: 0,0:28:59.94,0:29:02.88,Default,,0000,0000,0000,,{\blur3}天狼星 距离我们8.6光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sirius, just 8.6 light-years away{\r}
+Dialogue: 0,0:29:03.12,0:29:04.86,Default,,0000,0000,0000,,{\blur3}在数千年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and famed for thousands of years{\r}
+Dialogue: 0,0:29:04.88,0:29:07.41,Default,,0000,0000,0000,,{\blur3}一直以天空里最亮的星而著名{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the brightest single star in the sky,{\r}
+Dialogue: 0,0:29:08.18,0:29:10.37,Default,,0000,0000,0000,,{\blur3}是一颗双星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is really a binary star.{\r}
+Dialogue: 0,0:29:11.09,0:29:14.37,Default,,0000,0000,0000,,{\blur3}大多数恒星的质量和体积比太阳小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most stars are less massive and smaller than our Sun,{\r}
+Dialogue: 0,0:29:14.54,0:29:16.91,Default,,0000,0000,0000,,{\blur3}同时 大多数恒星是双星系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and most stars are in binary systems.{\r}
+Dialogue: 0,0:29:17.13,0:29:20.38,Default,,0000,0000,0000,,{\blur3}从这两方面来看 太阳稍为有点例外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In both respects, our Sun is a little bit of an exception.{\r}
+Dialogue: 0,0:29:23.52,0:29:26.81,Default,,0000,0000,0000,,{\blur3}大多数恒星是红矮星或褐矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The majority of stars are red dwarfs or brown dwarfs.{\r}
+Dialogue: 0,0:29:27.94,0:29:30.58,Default,,0000,0000,0000,,{\blur3}红矮星占恒星数量的70%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Red dwarfs make up 70% of the stars{\r}
+Dialogue: 0,0:29:30.67,0:29:33.05,Default,,0000,0000,0000,,{\blur3}不单在我们银河是这样 在宇宙里也是如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not only in our galaxy but in the universe,{\r}
+Dialogue: 0,0:29:33.36,0:29:35.76,Default,,0000,0000,0000,,{\blur3}因此 即使是我们围绕太阳运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so even though we orbit our Sun{\r}
+Dialogue: 0,0:29:35.77,0:29:38.91,Default,,0000,0000,0000,,{\blur3}我们倾向于说它是神圣的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we tend to think of it as the iconic star,{\r}
+Dialogue: 0,0:29:39.30,0:29:41.70,Default,,0000,0000,0000,,{\blur3}但事实上 这种红矮星非常普遍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}really, the red dwarfs are far more common.{\r}
+Dialogue: 0,0:29:42.88,0:29:44.72,Default,,0000,0000,0000,,{\blur3}对于褐矮星这些邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As for the brown dwarfs,{\r}
+Dialogue: 0,0:29:45.23,0:29:47.33,Default,,0000,0000,0000,,{\blur3}我们在20世纪90年代之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these are neighbors we weren't sure existed{\r}
+Dialogue: 0,0:29:47.34,0:29:49.13,Default,,0000,0000,0000,,{\blur3}还不能肯定它们的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until the 1990s.{\r}
+Dialogue: 0,0:29:49.91,0:29:53.22,Default,,0000,0000,0000,,{\blur3}它们不太象恒星 但它们不是行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're not quite stars, but they're not planets.{\r}
+Dialogue: 0,0:29:54.20,0:29:57.01,Default,,0000,0000,0000,,{\blur3}噢 而且它们不是真的褐色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, and they're not really brown either.{\r}
+Dialogue: 0,0:29:57.92,0:30:02.08,Default,,0000,0000,0000,,{\blur3}褐矮星是我们太阳系最神秘的居民之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The brown dwarfs are some of the most mysterious denizens of the solar neighborhood{\r}
+Dialogue: 0,0:30:02.41,0:30:05.79,Default,,0000,0000,0000,,{\blur3}因为它们非常非常寒冷 所以非常黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they're really very, very cold, and they're very dark,{\r}
+Dialogue: 0,0:30:05.80,0:30:08.19,Default,,0000,0000,0000,,{\blur3}这就意味着不能发出大量的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that means that they don't give off a lot of light,{\r}
+Dialogue: 0,0:30:08.41,0:30:10.17,Default,,0000,0000,0000,,{\blur3}因此它们非常难以看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they're very difficult to see.{\r}
+Dialogue: 0,0:30:12.72,0:30:16.22,Default,,0000,0000,0000,,{\blur3}2011年 美国宇航局一架广角红外探测器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 2011, one of NASA's space telescopes,{\r}
+Dialogue: 0,0:30:16.81,0:30:20.97,Default,,0000,0000,0000,,{\blur3}即简称WISE的太空望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Wide-Field Infrared Survey Explorer, or WISE,{\r}
+Dialogue: 0,0:30:21.49,0:30:24.97,Default,,0000,0000,0000,,{\blur3}发现了恰好位于我们地区的一系列褐矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}found a series of brown dwarfs right in our neighborhood,{\r}
+Dialogue: 0,0:30:25.26,0:30:27.82,Default,,0000,0000,0000,,{\blur3}它们距离我们在9至40光年之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between 9 and 40 light-years away,{\r}
+Dialogue: 0,0:30:28.15,0:30:31.40,Default,,0000,0000,0000,,{\blur3}拥有我们曾认为不可能的表面温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with surface temperatures once considered impossible.{\r}
+Dialogue: 0,0:30:32.69,0:30:36.58,Default,,0000,0000,0000,,{\blur3}我们发现的这些褐矮星 其中有一颗很清凉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of these brown dwarfs that we found is actually so cool{\r}
+Dialogue: 0,0:30:36.77,0:30:38.24,Default,,0000,0000,0000,,{\blur3}你可以用手去触摸它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you could touch it with your hand.{\r}
+Dialogue: 0,0:30:38.25,0:30:40.19,Default,,0000,0000,0000,,{\blur3}它只有华氏80度（约27摄氏度）{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's only 80 degrees Fahrenheit,{\r}
+Dialogue: 0,0:30:40.34,0:30:43.30,Default,,0000,0000,0000,,{\blur3}同样的温度在地球这里 会是好天气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the same temperature as a really lovely day out here on Earth.{\r}
+Dialogue: 0,0:30:43.78,0:30:46.03,Default,,0000,0000,0000,,{\blur3}因此 以后的发现谁也说不清楚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so who knows what else we'll find.{\r}
+Dialogue: 0,0:30:46.70,0:30:49.13,Default,,0000,0000,0000,,{\blur3}我们观察得越多 发现就越多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The more we look, the more we see.{\r}
+Dialogue: 0,0:30:51.20,0:30:53.84,Default,,0000,0000,0000,,{\blur3}为什么恒星的颜色不尽相同？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why are stars so many different colors?{\r}
+Dialogue: 0,0:30:54.37,0:30:57.35,Default,,0000,0000,0000,,{\blur3}这是路易斯安那州巴吞鲁日的安娜.K{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what Anna K. of Baton Rouge, Louisiana,{\r}
+Dialogue: 0,0:30:57.38,0:30:59.88,Default,,0000,0000,0000,,{\blur3}写信给《宇宙》咨询的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}texted to ask The Universe.{\r}
+Dialogue: 0,0:31:00.98,0:31:03.23,Default,,0000,0000,0000,,{\blur3}安娜 这问题很有趣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Anna, that's a really interesting question.{\r}
+Dialogue: 0,0:31:03.77,0:31:06.23,Default,,0000,0000,0000,,{\blur3}总的来说 恒星颜色不尽相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Basically, stars have slightly different colors{\r}
+Dialogue: 0,0:31:06.24,0:31:08.59,Default,,0000,0000,0000,,{\blur3}是因为其表面温度不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they have different surface temperatures.{\r}
+Dialogue: 0,0:31:09.19,0:31:12.23,Default,,0000,0000,0000,,{\blur3}温度不高的恒星 例如参宿四 看起来是淡红色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cool stars like Betelgeuse look reddish,{\r}
+Dialogue: 0,0:31:12.30,0:31:15.58,Default,,0000,0000,0000,,{\blur3}它们只有华氏6 000 7 000度（约摄氏3 300至3 900度）{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they have temperatures of only 6,000 or 7,000 degrees Fahrenheit.{\r}
+Dialogue: 0,0:31:16.35,0:31:19.52,Default,,0000,0000,0000,,{\blur3}最热的恒星 比如参宿七 呈浅蓝色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The hottest stars, like Rigel, appear bluish,{\r}
+Dialogue: 0,0:31:19.65,0:31:22.06,Default,,0000,0000,0000,,{\blur3}它们的温度超过了20 000度（约摄氏11 000度）{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they're upwards of 20,000 degrees.{\r}
+Dialogue: 0,0:31:22.52,0:31:24.08,Default,,0000,0000,0000,,{\blur3}至于太阳这样的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then there are stars like the Sun,{\r}
+Dialogue: 0,0:31:24.17,0:31:26.71,Default,,0000,0000,0000,,{\blur3}温度为10 000 11 000度（约摄氏5 500至6 100度）{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with temperatures of 10,000 or 11,000 degrees,{\r}
+Dialogue: 0,0:31:26.73,0:31:28.04,Default,,0000,0000,0000,,{\blur3}看起来是白色的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they look white.{\r}
+Dialogue: 0,0:31:28.38,0:31:30.88,Default,,0000,0000,0000,,{\blur3}现在 初升的太阳看起来是黄色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, the Sun looks yellow when it's setting,{\r}
+Dialogue: 0,0:31:30.90,0:31:32.98,Default,,0000,0000,0000,,{\blur3}这是因为大气层的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that's because of atmospheric effects.{\r}
+Dialogue: 0,0:31:32.99,0:31:34.81,Default,,0000,0000,0000,,{\blur3}它真正的颜色是白色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its true color is white.{\r}
+Dialogue: 0,0:31:38.96,0:31:41.23,Default,,0000,0000,0000,,{\blur3}那里不是只有恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are more than stars out there.{\r}
+Dialogue: 0,0:31:41.96,0:31:44.45,Default,,0000,0000,0000,,{\blur3}我们在本地泡的里面和外面发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've discovered hundreds of neighboring planets{\r}
+Dialogue: 0,0:31:44.46,0:31:47.02,Default,,0000,0000,0000,,{\blur3}数以百计的行星邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}inside and outside the local bubble.{\r}
+Dialogue: 0,0:31:47.81,0:31:51.01,Default,,0000,0000,0000,,{\blur3}我们通过开普勒任务 已经发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have discovered a lot of exoplanet candidates{\r}
+Dialogue: 0,0:31:51.20,0:31:52.76,Default,,0000,0000,0000,,{\blur3}大量申报中的外星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through a mission called Kepler{\r}
+Dialogue: 0,0:31:52.84,0:31:56.21,Default,,0000,0000,0000,,{\blur3}该任务利用行星经过其母恒星面前时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is looking at essentially little eclipses,{\r}
+Dialogue: 0,0:31:56.49,0:31:58.92,Default,,0000,0000,0000,,{\blur3}光线变弱少许接着复原{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when a planet moves in front of its parent star{\r}
+Dialogue: 0,0:31:58.94,0:32:00.05,Default,,0000,0000,0000,,{\blur3}这一原理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then out,{\r}
+Dialogue: 0,0:32:00.06,0:32:02.73,Default,,0000,0000,0000,,{\blur3}去观察星光的微弱变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the light dips a little and then goes back up.{\r}
+Dialogue: 0,0:32:03.77,0:32:05.39,Default,,0000,0000,0000,,{\blur3}它非常难以看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very difficult to see,{\r}
+Dialogue: 0,0:32:05.64,0:32:09.92,Default,,0000,0000,0000,,{\blur3}类似于在拉斯维加斯大道上 去寻找唯一一盏熄灭了的灯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}analogous to watching for a single lightbulb going out on the Vegas Strip.{\r}
+Dialogue: 0,0:32:10.09,0:32:11.56,Default,,0000,0000,0000,,{\blur3}但开普勒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Kepler is capable{\r}
+Dialogue: 0,0:32:11.58,0:32:13.66,Default,,0000,0000,0000,,{\blur3}是十分精确的测量高手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of doing these measurements so precisely{\r}
+Dialogue: 0,0:32:13.89,0:32:16.09,Default,,0000,0000,0000,,{\blur3}它能在象我们太阳一样的恒星周围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it's able to find even planets{\r}
+Dialogue: 0,0:32:16.12,0:32:19.13,Default,,0000,0000,0000,,{\blur3}发现环绕运行的行星 即使它象地球那样小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as small as our own Earth around stars like our Sun.{\r}
+Dialogue: 0,0:32:21.92,0:32:24.85,Default,,0000,0000,0000,,{\blur3}我们发现第一颗外星球只有15年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first exoplanet we discovered was only about 15 years ago{\r}
+Dialogue: 0,0:32:24.87,0:32:27.53,Default,,0000,0000,0000,,{\blur3}这很类似于我们是大街上唯一的房子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it was very much like we were the only house on the block,{\r}
+Dialogue: 0,0:32:27.55,0:32:30.13,Default,,0000,0000,0000,,{\blur3}然后我们看到第一个邻居建房子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we saw the first neighbor putting up their house,{\r}
+Dialogue: 0,0:32:30.26,0:32:32.94,Default,,0000,0000,0000,,{\blur3}从此之后 街区全面发展壮大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and ever since then, the entire neighborhood has grown.{\r}
+Dialogue: 0,0:32:32.95,0:32:36.27,Default,,0000,0000,0000,,{\blur3}外星球群落就这样在我们本地建起来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You built up communities of other exoplanets out in our local neighborhood.{\r}
+Dialogue: 0,0:32:39.80,0:32:41.20,Default,,0000,0000,0000,,{\blur3}据我们所知{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As far as we know,{\r}
+Dialogue: 0,0:32:41.63,0:32:44.77,Default,,0000,0000,0000,,{\blur3}外太阳系最靠近我们的行星邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our nearest planetary neighbor outside the solar system{\r}
+Dialogue: 0,0:32:44.78,0:32:48.98,Default,,0000,0000,0000,,{\blur3}来到了大街上 距离我们10.5光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is just down the street, 10.5 light-years away,{\r}
+Dialogue: 0,0:32:49.63,0:32:52.91,Default,,0000,0000,0000,,{\blur3}它围绕着桔红色的天苑四运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}orbiting the orange star Epsilon Eridani.{\r}
+Dialogue: 0,0:32:53.88,0:32:57.99,Default,,0000,0000,0000,,{\blur3}这颗行星 我们肯定到不了 也不能奢望它有生命存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This planet isn't exactly something that we could go visit and expect to find life.{\r}
+Dialogue: 0,0:32:58.57,0:33:00.74,Default,,0000,0000,0000,,{\blur3}我们认为这颗行星更象是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think that this planet is more equivalent{\r}
+Dialogue: 0,0:33:00.75,0:33:03.39,Default,,0000,0000,0000,,{\blur3}我们太阳系里的木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a planet like Jupiter in our solar system{\r}
+Dialogue: 0,0:33:03.98,0:33:05.46,Default,,0000,0000,0000,,{\blur3}一个巨大的气态球体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a big ball of gas,{\r}
+Dialogue: 0,0:33:05.63,0:33:07.41,Default,,0000,0000,0000,,{\blur3}无论我们怎样去理解它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which, as we understand it anyway,{\r}
+Dialogue: 0,0:33:07.42,0:33:09.13,Default,,0000,0000,0000,,{\blur3}它都不是寻找生命的好去处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}isn't a great place to look for life.{\r}
+Dialogue: 0,0:33:10.34,0:33:13.48,Default,,0000,0000,0000,,{\blur3}在稍远一点 大约200光年的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A little farther out, about 200 light-years,{\r}
+Dialogue: 0,0:33:13.55,0:33:15.34,Default,,0000,0000,0000,,{\blur3}是另外一个惊奇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is another surprise{\r}
+Dialogue: 0,0:33:16.10,0:33:17.81,Default,,0000,0000,0000,,{\blur3}一颗行星看起来象是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a planet that looks like something{\r}
+Dialogue: 0,0:33:17.82,0:33:19.73,Default,,0000,0000,0000,,{\blur3}从《星球大战》电影出来的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out of a Star Wars movie.{\r}
+Dialogue: 0,0:33:20.13,0:33:22.48,Default,,0000,0000,0000,,{\blur3}就在最近 开普勒望远镜发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just recently, the Kepler telescope discovered{\r}
+Dialogue: 0,0:33:22.49,0:33:24.59,Default,,0000,0000,0000,,{\blur3}一颗行星围绕两个太阳运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a planet that orbits two suns,{\r}
+Dialogue: 0,0:33:24.80,0:33:27.42,Default,,0000,0000,0000,,{\blur3}它被命名为开普勒-16b{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this is a planet called Kepler-16b.{\r}
+Dialogue: 0,0:33:29.32,0:33:32.77,Default,,0000,0000,0000,,{\blur3}这颗行星即使与"塔图因"很相似（《星球大战》中的沙漠行星）{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this planet, even though it has similarities to Tatooine,{\r}
+Dialogue: 0,0:33:32.91,0:33:35.75,Default,,0000,0000,0000,,{\blur3}但它完全不像天行者卢克的故土{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}isn't exactly like Luke Skywalker's home world.{\r}
+Dialogue: 0,0:33:36.71,0:33:39.24,Default,,0000,0000,0000,,{\blur3}它实际上是一个冰与气体组成的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's actually a planet that's icy and gassy,{\r}
+Dialogue: 0,0:33:39.32,0:33:41.37,Default,,0000,0000,0000,,{\blur3}更像土星 不象我们地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more like Saturn than our own Earth.{\r}
+Dialogue: 0,0:33:42.10,0:33:45.06,Default,,0000,0000,0000,,{\blur3}在这个发现之前 我们从来都不相信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, we were never sure, prior to this discovery,{\r}
+Dialogue: 0,0:33:45.17,0:33:48.23,Default,,0000,0000,0000,,{\blur3}一个行星能有两个太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether you could have a planet that actually has two suns,{\r}
+Dialogue: 0,0:33:48.70,0:33:50.92,Default,,0000,0000,0000,,{\blur3}因此 既然现在发现了一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so now that we've found one,{\r}
+Dialogue: 0,0:33:51.03,0:33:52.66,Default,,0000,0000,0000,,{\blur3}就有可能发现更多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we know that these are possible,{\r}
+Dialogue: 0,0:33:52.89,0:33:56.27,Default,,0000,0000,0000,,{\blur3}这就让人很感兴趣 因为它意味着这些双星系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's really interesting, because it means that these binary systems{\r}
+Dialogue: 0,0:33:56.30,0:33:58.16,Default,,0000,0000,0000,,{\blur3}是寻找行星的好地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are good places to look for planets.{\r}
+Dialogue: 0,0:34:00.27,0:34:03.41,Default,,0000,0000,0000,,{\blur3}在2011年 天文学家揭开了我们地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 2011, astronomers unveiled{\r}
+Dialogue: 0,0:34:03.42,0:34:05.67,Default,,0000,0000,0000,,{\blur3}一种新型行星的面纱 它就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a new kind of planet in our neighborhood{\r}
+Dialogue: 0,0:34:06.21,0:34:07.67,Default,,0000,0000,0000,,{\blur3}流浪行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the homeless.{\r}
+Dialogue: 0,0:34:08.35,0:34:11.56,Default,,0000,0000,0000,,{\blur3}有一些行星被发现具有这样的特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There have been some indications that there are planets to be found{\r}
+Dialogue: 0,0:34:11.70,0:34:15.28,Default,,0000,0000,0000,,{\blur3}它们不在围绕其母恒星的轨道上运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are not in orbit around their parent star.{\r}
+Dialogue: 0,0:34:15.53,0:34:17.70,Default,,0000,0000,0000,,{\blur3}它们开始时是围绕母恒星运行的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They started out in orbit around their parent star{\r}
+Dialogue: 0,0:34:17.73,0:34:21.11,Default,,0000,0000,0000,,{\blur3}但不知为什么 它们从自己的太阳系跑了出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but somehow got ejected from their solar system,{\r}
+Dialogue: 0,0:34:21.14,0:34:24.03,Default,,0000,0000,0000,,{\blur3}目前在银河系里漫无目的地闲逛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and now they're wandering the galaxy aimlessly,{\r}
+Dialogue: 0,0:34:24.17,0:34:25.66,Default,,0000,0000,0000,,{\blur3}无家可归{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without a place to call home,{\r}
+Dialogue: 0,0:34:25.84,0:34:28.50,Default,,0000,0000,0000,,{\blur3}对这些曾是行星 没有了母恒星的天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so one wonders if pretty soon we'll have another{\r}
+Dialogue: 0,0:34:28.66,0:34:31.38,Default,,0000,0000,0000,,{\blur3}人们充满了好奇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}new definition that encompasses those bodies{\r}
+Dialogue: 0,0:34:31.39,0:34:32.80,Default,,0000,0000,0000,,{\blur3}希望能在不久的将来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that used to be planets{\r}
+Dialogue: 0,0:34:32.81,0:34:35.48,Default,,0000,0000,0000,,{\blur3}有更多的认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and no longer have a parent star.{\r}
+Dialogue: 0,0:34:36.81,0:34:39.77,Default,,0000,0000,0000,,{\blur3}我认为这些被驱逐的天体依然是行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think it's still valid to refer to these ejected bodies as planets,{\r}
+Dialogue: 0,0:34:39.78,0:34:42.42,Default,,0000,0000,0000,,{\blur3}因为"行星"在希腊文中就是指"流浪者"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because "planet" is the Greek word for "wanderer,"{\r}
+Dialogue: 0,0:34:43.35,0:34:45.41,Default,,0000,0000,0000,,{\blur3}而它们的确是在外层空间流浪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they are certainly wandering through deep space.{\r}
+Dialogue: 0,0:34:47.92,0:34:49.27,Default,,0000,0000,0000,,{\blur3}从太阳系邻居身上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've even learned new things{\r}
+Dialogue: 0,0:34:49.28,0:34:51.36,Default,,0000,0000,0000,,{\blur3}我们甚至能学到了许多新东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about our solar system neighbors.{\r}
+Dialogue: 0,0:34:52.52,0:34:54.39,Default,,0000,0000,0000,,{\blur3}2011年夏天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the summer of 2011,{\r}
+Dialogue: 0,0:34:54.49,0:34:57.13,Default,,0000,0000,0000,,{\blur3}哈勃太空望远镜拍到了以前被忽视的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Hubble Space Telescope took the first pictures{\r}
+Dialogue: 0,0:34:57.14,0:35:01.48,Default,,0000,0000,0000,,{\blur3}矮行星冥王星的第四个卫星的第一张照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the dwarf planet Pluto's previously unsuspected fourth moon.{\r}
+Dialogue: 0,0:35:02.85,0:35:05.29,Default,,0000,0000,0000,,{\blur3}可能你会纳闷 冥王星不是太遥远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, you might wonder, Pluto is not all that distant.{\r}
+Dialogue: 0,0:35:05.31,0:35:08.37,Default,,0000,0000,0000,,{\blur3}发现它的第四个卫星 为什么要花费这么长的时间？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why did it take us so long to find a fourth moon?{\r}
+Dialogue: 0,0:35:08.71,0:35:11.06,Default,,0000,0000,0000,,{\blur3}嗯 这是因为它非常非常小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, it's because it's very, very small,{\r}
+Dialogue: 0,0:35:11.07,0:35:14.38,Default,,0000,0000,0000,,{\blur3}直径只有10至20英里 所以它非常暗弱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only 10 to 20 miles in diameter, so it's very faint.{\r}
+Dialogue: 0,0:35:14.47,0:35:16.85,Default,,0000,0000,0000,,{\blur3}它只反射少量的阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It reflects only a little bit of the Sun's light.{\r}
+Dialogue: 0,0:35:18.22,0:35:19.63,Default,,0000,0000,0000,,{\blur3}这颗新卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The new Moon is probably{\r}
+Dialogue: 0,0:35:19.66,0:35:23.93,Default,,0000,0000,0000,,{\blur3}很可能就象冥王星一样 是一个严寒和死寂的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a frozen, lifeless world like Pluto itself.{\r}
+Dialogue: 0,0:35:26.00,0:35:28.47,Default,,0000,0000,0000,,{\blur3}迄今为止 所有我们最近发现的邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So far, all of our newly discovered neighbors{\r}
+Dialogue: 0,0:35:28.49,0:35:32.11,Default,,0000,0000,0000,,{\blur3}不是太热 就是太冷 根本没有我们这种生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have been too hot or too cold to have any possibility{\r}
+Dialogue: 0,0:35:32.13,0:35:33.77,Default,,0000,0000,0000,,{\blur3}存在的可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our kind of life,{\r}
+Dialogue: 0,0:35:35.29,0:35:37.06,Default,,0000,0000,0000,,{\blur3}但搜索在继续着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the search goes on.{\r}
+Dialogue: 0,0:35:38.61,0:35:40.84,Default,,0000,0000,0000,,{\blur3}所以 即使我们还没有做到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So even though we haven't done it yet,{\r}
+Dialogue: 0,0:35:41.00,0:35:43.06,Default,,0000,0000,0000,,{\blur3}但科技已经能够紧跟上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're at this point where our technology{\r}
+Dialogue: 0,0:35:43.07,0:35:44.54,Default,,0000,0000,0000,,{\blur3}我们的需要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has caught up to our needs,{\r}
+Dialogue: 0,0:35:44.56,0:35:46.54,Default,,0000,0000,0000,,{\blur3}相信我们在不久的将来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we're actually going to be able to start{\r}
+Dialogue: 0,0:35:46.56,0:35:50.57,Default,,0000,0000,0000,,{\blur3}将能踏上旅程 去发现那些与地球相似的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}finding those planets like Earth in the really near future.{\r}
+Dialogue: 0,0:35:50.90,0:35:53.85,Default,,0000,0000,0000,,{\blur3}然而 要确定它们是否支持生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, being able to determine whether they would be{\r}
+Dialogue: 0,0:35:53.86,0:35:56.95,Default,,0000,0000,0000,,{\blur3}是一个难上加难的任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}supportive of life is a much more difficult task.{\r}
+Dialogue: 0,0:36:00.40,0:36:02.40,Default,,0000,0000,0000,,{\blur3}在我们银河角落 已发现的外行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}None of the exoplanets we've discovered{\r}
+Dialogue: 0,0:36:02.42,0:36:06.04,Default,,0000,0000,0000,,{\blur3}没有谁是在高举拳头恐吓我们的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our corner of the Milky Way pose any threat to us,{\r}
+Dialogue: 0,0:36:07.36,0:36:10.79,Default,,0000,0000,0000,,{\blur3}但别处的一些恒星会怎么样呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but what about some of the stars out there?{\r}
+Dialogue: 0,0:36:11.85,0:36:16.11,Default,,0000,0000,0000,,{\blur3}它们中的一些会扯上我们同归于尽吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could some of them die and take us with them?{\r}
+Dialogue: 0,0:36:22.50,0:36:25.65,Default,,0000,0000,0000,,{\blur3}银河里的我们这个地方有许多的好处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our place in the Milky Way has a lot of plusses.{\r}
+Dialogue: 0,0:36:27.25,0:36:29.49,Default,,0000,0000,0000,,{\blur3}我们正处在生命可以形成的地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're right in the zone for life to form,{\r}
+Dialogue: 0,0:36:30.14,0:36:34.22,Default,,0000,0000,0000,,{\blur3}最近的恒星让我们免受宇宙射线的侵害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our closest star protects us from dangerous cosmic rays,{\r}
+Dialogue: 0,0:36:34.96,0:36:37.83,Default,,0000,0000,0000,,{\blur3}大多数的邻居不会打扰我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and most of our neighbors don't disturb us.{\r}
+Dialogue: 0,0:36:39.90,0:36:42.67,Default,,0000,0000,0000,,{\blur3}但邻居是会翻脸的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But neighborhoods can change.{\r}
+Dialogue: 0,0:36:45.38,0:36:48.46,Default,,0000,0000,0000,,{\blur3}城门失火{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If a fire destroys a nearby home or business,{\r}
+Dialogue: 0,0:36:49.56,0:36:51.87,Default,,0000,0000,0000,,{\blur3}会殃及池鱼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}your home could also be damaged,{\r}
+Dialogue: 0,0:36:52.67,0:36:55.25,Default,,0000,0000,0000,,{\blur3}所以 想像一下 当一颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so imagine what might happen when a star{\r}
+Dialogue: 0,0:36:55.27,0:36:58.71,Default,,0000,0000,0000,,{\blur3}像超新星一样呜乎哀哉时发生的事情吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}goes out of business as a supernova.{\r}
+Dialogue: 0,0:37:02.47,0:37:04.21,Default,,0000,0000,0000,,{\blur3}这意味着它们会爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means they'll explode{\r}
+Dialogue: 0,0:37:04.22,0:37:08.59,Default,,0000,0000,0000,,{\blur3}把内部所有物质都抛到银河里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and throw all their innards back out to the galaxy.{\r}
+Dialogue: 0,0:37:11.71,0:37:14.28,Default,,0000,0000,0000,,{\blur3}爆炸的恒星创造了我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Exploding stars created us,{\r}
+Dialogue: 0,0:37:14.42,0:37:17.32,Default,,0000,0000,0000,,{\blur3}恒星里的大多数重元素围绕着我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most of the heavy elements in the stars around us,{\r}
+Dialogue: 0,0:37:17.93,0:37:21.04,Default,,0000,0000,0000,,{\blur3}气体在太阳系里弥漫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the gas clouds the solar system dwells in,{\r}
+Dialogue: 0,0:37:22.43,0:37:25.00,Default,,0000,0000,0000,,{\blur3}但在一颗死亡中的恒星爆炸时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's a bad idea to be too close{\r}
+Dialogue: 0,0:37:25.24,0:37:27.61,Default,,0000,0000,0000,,{\blur3}离它太近 则是一个臭主意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when a dying star explodes.{\r}
+Dialogue: 0,0:37:30.65,0:37:32.04,Default,,0000,0000,0000,,{\blur3}超新星的爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A supernova explosion{\r}
+Dialogue: 0,0:37:32.06,0:37:34.47,Default,,0000,0000,0000,,{\blur3}是极为强烈的爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is an incredibly powerful explosion.{\r}
+Dialogue: 0,0:37:36.76,0:37:39.50,Default,,0000,0000,0000,,{\blur3}恒星中心急速蹦出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The core of the star bounces out{\r}
+Dialogue: 0,0:37:39.53,0:37:42.24,Default,,0000,0000,0000,,{\blur3}撞碎外层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and smashes into the outer layers{\r}
+Dialogue: 0,0:37:42.25,0:37:46.21,Default,,0000,0000,0000,,{\blur3}把它们爆裂到银河里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and blows them out into the galaxy.{\r}
+Dialogue: 0,0:37:46.57,0:37:48.93,Default,,0000,0000,0000,,{\blur3}所以 这些物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what actually happens is that material{\r}
+Dialogue: 0,0:37:48.99,0:37:51.46,Default,,0000,0000,0000,,{\blur3}会产生一股冲击波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gets thrown out in a shock wave that,{\r}
+Dialogue: 0,0:37:51.47,0:37:55.14,Default,,0000,0000,0000,,{\blur3}如果你离冲击波足够近 就会被毁灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you're near enough to the shock wave, would be destructive.{\r}
+Dialogue: 0,0:37:58.06,0:38:00.10,Default,,0000,0000,0000,,{\blur3}如果距离10光年左右{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it's 10 light-years away or so,{\r}
+Dialogue: 0,0:38:00.28,0:38:03.92,Default,,0000,0000,0000,,{\blur3}则正如X射线和伽马射线的一样 高能辐射会危害我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then high-energy radiation like from X-rays and gamma rays can harm us.{\r}
+Dialogue: 0,0:38:03.94,0:38:06.99,Default,,0000,0000,0000,,{\blur3}它们会 比如 瓦解臭氧层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They can, for example, destroy part of the ozone layer.{\r}
+Dialogue: 0,0:38:08.19,0:38:11.00,Default,,0000,0000,0000,,{\blur3}具体是 辐射进来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What happens is, the radiation comes in,{\r}
+Dialogue: 0,0:38:11.61,0:38:13.78,Default,,0000,0000,0000,,{\blur3}使氮分子发生分裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}disrupts nitrogen molecules.{\r}
+Dialogue: 0,0:38:14.04,0:38:17.62,Default,,0000,0000,0000,,{\blur3}然后氮原子与氧结合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The nitrogen atoms then combine with oxygen{\r}
+Dialogue: 0,0:38:17.90,0:38:19.89,Default,,0000,0000,0000,,{\blur3}生成一氧化氮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to form nitric oxide.{\r}
+Dialogue: 0,0:38:20.31,0:38:22.46,Default,,0000,0000,0000,,{\blur3}一氧化氮 "NO"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That nitric oxide, NO,{\r}
+Dialogue: 0,0:38:22.94,0:38:26.13,Default,,0000,0000,0000,,{\blur3}分裂臭氧分子 "O3"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}disrupts ozone molecules, O3,{\r}
+Dialogue: 0,0:38:26.36,0:38:29.30,Default,,0000,0000,0000,,{\blur3}生成二氧化氮 "NO2"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and forms nitrogen dioxide, NO2.{\r}
+Dialogue: 0,0:38:30.21,0:38:33.97,Default,,0000,0000,0000,,{\blur3}然后二氧化氮会与氧原子结合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The nitrogen dioxide can then combine with atomic oxygen,{\r}
+Dialogue: 0,0:38:34.17,0:38:36.11,Default,,0000,0000,0000,,{\blur3}生成更多的一氧化氮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forming more nitric oxide,{\r}
+Dialogue: 0,0:38:36.18,0:38:39.18,Default,,0000,0000,0000,,{\blur3}接着分裂更多的臭氧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which then disrupts more ozone,{\r}
+Dialogue: 0,0:38:39.35,0:38:41.39,Default,,0000,0000,0000,,{\blur3}从而导致了滚雪球效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which leads to a snowball effect.{\r}
+Dialogue: 0,0:38:41.78,0:38:46.50,Default,,0000,0000,0000,,{\blur3}因此 不到数周 臭氧层就被摧毁得差不多了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So within a few weeks, you can destroy much of the ozone layer,{\r}
+Dialogue: 0,0:38:46.69,0:38:49.93,Default,,0000,0000,0000,,{\blur3}此时 太阳的紫外线辐射畅通无阻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allowing the Sun's ultraviolet radiation to come in,{\r}
+Dialogue: 0,0:38:50.69,0:38:52.61,Default,,0000,0000,0000,,{\blur3}它会杀死{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that would then kill life{\r}
+Dialogue: 0,0:38:52.62,0:38:55.96,Default,,0000,0000,0000,,{\blur3}海面上的或池塘里的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's on the surface layers of an ocean or in ponds.{\r}
+Dialogue: 0,0:38:58.08,0:39:01.01,Default,,0000,0000,0000,,{\blur3}死亡者中会包括浮游植物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That death toll would include the phytoplankton{\r}
+Dialogue: 0,0:39:01.76,0:39:04.33,Default,,0000,0000,0000,,{\blur3}要知道 它们是海洋食物链的基础{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are the foundation of the marine food chain{\r}
+Dialogue: 0,0:39:05.01,0:39:07.97,Default,,0000,0000,0000,,{\blur3}同时为地球提供了50%的氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and provide 50% of the Earth's oxygen,{\r}
+Dialogue: 0,0:39:08.60,0:39:13.01,Default,,0000,0000,0000,,{\blur3}这样就等于宣判了绝大多数生命形体的死刑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that would spell doom for most larger forms of life,{\r}
+Dialogue: 0,0:39:13.36,0:39:15.17,Default,,0000,0000,0000,,{\blur3}包括我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including us.{\r}
+Dialogue: 0,0:39:18.68,0:39:20.94,Default,,0000,0000,0000,,{\blur3}有一个星球灰飞烟灭的故事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One candidate for stellar extinction lies{\r}
+Dialogue: 0,0:39:20.97,0:39:22.68,Default,,0000,0000,0000,,{\blur3}正在本地泡外面上演{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}outside the local bubble, although it's been{\r}
+Dialogue: 0,0:39:23.40,0:39:27.08,Default,,0000,0000,0000,,{\blur3}主角是数千年来我们一直熟悉的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a familiar sight for thousands of years:{\r}
+Dialogue: 0,0:39:27.68,0:39:30.54,Default,,0000,0000,0000,,{\blur3}红超巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the red supergiant Betelgeuse.{\r}
+Dialogue: 0,0:39:32.36,0:39:35.76,Default,,0000,0000,0000,,{\blur3}这个恒星距离我们500至800光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The star, between 500 and 800 light-years away{\r}
+Dialogue: 0,0:39:35.78,0:39:37.97,Default,,0000,0000,0000,,{\blur3}其质量是太阳的20倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and 20 times the mass of the Sun,{\r}
+Dialogue: 0,0:39:38.22,0:39:41.46,Default,,0000,0000,0000,,{\blur3}构成猎户星座的右肩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forms the right shoulder of the constellation Orion.{\r}
+Dialogue: 0,0:39:43.33,0:39:45.91,Default,,0000,0000,0000,,{\blur3}参宿四正在走近生命的尽头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Betelgeuse is getting near the end of its life.{\r}
+Dialogue: 0,0:39:47.53,0:39:50.79,Default,,0000,0000,0000,,{\blur3}从1996到2011年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Between 1996 and 2011,{\r}
+Dialogue: 0,0:39:52.01,0:39:54.79,Default,,0000,0000,0000,,{\blur3}参宿四缩小了15%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Betelgeuse shrank by 15%{\r}
+Dialogue: 0,0:39:56.18,0:39:58.66,Default,,0000,0000,0000,,{\blur3}其原因目前还不清楚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for reasons that are still not understood.{\r}
+Dialogue: 0,0:39:59.75,0:40:03.64,Default,,0000,0000,0000,,{\blur3}这个红巨星可能会在50万年内变成超新星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The red giant may go supernova in half a million years,{\r}
+Dialogue: 0,0:40:03.97,0:40:06.62,Default,,0000,0000,0000,,{\blur3}或者这可能已经发生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or it may have already happened.{\r}
+Dialogue: 0,0:40:07.94,0:40:09.55,Default,,0000,0000,0000,,{\blur3}可能参宿四{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's conceivable that Betelgeuse{\r}
+Dialogue: 0,0:40:09.57,0:40:12.65,Default,,0000,0000,0000,,{\blur3}会在今晚 明晚或下周变成超新星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will go supernova tonight or tomorrow night or next week,{\r}
+Dialogue: 0,0:40:13.07,0:40:15.65,Default,,0000,0000,0000,,{\blur3}但它更可能在100 000年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's much more likely to become a supernova{\r}
+Dialogue: 0,0:40:15.80,0:40:18.64,Default,,0000,0000,0000,,{\blur3}或在数个100 000年里变成超新星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in 100,000 years or in a few 100,000 years.{\r}
+Dialogue: 0,0:40:19.14,0:40:22.28,Default,,0000,0000,0000,,{\blur3}在参宿四距离我们数百光年的情况下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Given that Betelgeuse is at least a few hundred light-years away,{\r}
+Dialogue: 0,0:40:22.37,0:40:24.62,Default,,0000,0000,0000,,{\blur3}它可能已经爆炸了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's possible that it's already blown up,{\r}
+Dialogue: 0,0:40:24.75,0:40:28.07,Default,,0000,0000,0000,,{\blur3}我们之所以不知道 是因为光线还没有到达这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we just don't know it because the light hasn't reached us yet.{\r}
+Dialogue: 0,0:40:30.12,0:40:31.44,Default,,0000,0000,0000,,{\blur3}好消息是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The good news is that{\r}
+Dialogue: 0,0:40:31.46,0:40:34.26,Default,,0000,0000,0000,,{\blur3}哪怕猎户星座失去它的右肩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even if Orion does dislocate its shoulder,{\r}
+Dialogue: 0,0:40:35.65,0:40:39.11,Default,,0000,0000,0000,,{\blur3}参宿四太遥远了 危害不到我们地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Betelgeuse is too far away to harm our neighborhood.{\r}
+Dialogue: 0,0:40:41.97,0:40:44.48,Default,,0000,0000,0000,,{\blur3}但另一方面 坏消息是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But then there's HR 8210,{\r}
+Dialogue: 0,0:40:44.89,0:40:47.28,Default,,0000,0000,0000,,{\blur3}距离我们大约150光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 150 light-years away,{\r}
+Dialogue: 0,0:40:47.41,0:40:49.59,Default,,0000,0000,0000,,{\blur3}在飞马座里的HR 8210{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the constellation Pegasus.{\r}
+Dialogue: 0,0:40:50.01,0:40:52.48,Default,,0000,0000,0000,,{\blur3}它不是一颗恒星 而是两颗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not one star but two{\r}
+Dialogue: 0,0:40:52.86,0:40:57.15,Default,,0000,0000,0000,,{\blur3}一颗恒星和一颗白矮星 在双轨道内相互围绕运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a star and a white dwarf in binary orbit around each other.{\r}
+Dialogue: 0,0:40:57.72,0:41:01.96,Default,,0000,0000,0000,,{\blur3}这颗白矮星质量比太阳大约大15%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The white dwarf is about 15% more massive than our Sun{\r}
+Dialogue: 0,0:41:02.39,0:41:05.61,Default,,0000,0000,0000,,{\blur3}还没有到达向超新星演变的转折点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not at the supernova tipping point yet.{\r}
+Dialogue: 0,0:41:06.98,0:41:09.86,Default,,0000,0000,0000,,{\blur3}HR 8210是双星系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}HR 8210 is this binary system,{\r}
+Dialogue: 0,0:41:09.87,0:41:11.84,Default,,0000,0000,0000,,{\blur3}两颗恒星相互围绕运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}two stars that are orbiting one another,{\r}
+Dialogue: 0,0:41:11.98,0:41:14.01,Default,,0000,0000,0000,,{\blur3}已经死亡的那颗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of which has actually already died{\r}
+Dialogue: 0,0:41:14.02,0:41:15.29,Default,,0000,0000,0000,,{\blur3}是一颗白矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and is a white dwarf.{\r}
+Dialogue: 0,0:41:15.69,0:41:17.59,Default,,0000,0000,0000,,{\blur3}现在 这个体系有这样的可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, this system has the potential{\r}
+Dialogue: 0,0:41:17.61,0:41:20.59,Default,,0000,0000,0000,,{\blur3}当目前非常高温的那一颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that when the star that's very hot right now{\r}
+Dialogue: 0,0:41:20.61,0:41:22.30,Default,,0000,0000,0000,,{\blur3}开始垂死挣扎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}starts to go through its death throes{\r}
+Dialogue: 0,0:41:22.32,0:41:24.86,Default,,0000,0000,0000,,{\blur3}并在死亡过程中开始膨胀时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and stars to puff up as it dies,{\r}
+Dialogue: 0,0:41:25.39,0:41:28.68,Default,,0000,0000,0000,,{\blur3}它会开始在这颗白矮星上面倾泻物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it might start to pour material onto that white dwarf.{\r}
+Dialogue: 0,0:41:28.91,0:41:31.98,Default,,0000,0000,0000,,{\blur3}从本质上来说 这些系统就象是吞食同伴的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Essentially these systems are like zombie stars{\r}
+Dialogue: 0,0:41:32.00,0:41:33.58,Default,,0000,0000,0000,,{\blur3}僵尸恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}eating their companions.{\r}
+Dialogue: 0,0:41:34.76,0:41:37.12,Default,,0000,0000,0000,,{\blur3}当那个正常的恒星开始变大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When that normal star starts to expand,{\r}
+Dialogue: 0,0:41:37.23,0:41:39.66,Default,,0000,0000,0000,,{\blur3}白矮星会开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the white dwarf will start stealing material{\r}
+Dialogue: 0,0:41:39.68,0:41:42.23,Default,,0000,0000,0000,,{\blur3}偷窃同伴的物质 质量变得更加大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from its companion, becoming more massive,{\r}
+Dialogue: 0,0:41:42.50,0:41:45.22,Default,,0000,0000,0000,,{\blur3}假如它达到某一个不稳定的极限时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and if it reaches a certain unstable limit,{\r}
+Dialogue: 0,0:41:45.43,0:41:48.12,Default,,0000,0000,0000,,{\blur3}它会象"Ia型超新星"一样爆炸（热核爆炸型超新星）{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it'll blow up as a type Ia supernova.{\r}
+Dialogue: 0,0:41:52.25,0:41:53.87,Default,,0000,0000,0000,,{\blur3}我们远到足以避开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Are we far enough away{\r}
+Dialogue: 0,0:41:53.89,0:41:58.50,Default,,0000,0000,0000,,{\blur3}HR 8210爆炸时带来的飞来横祸吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to avoid being collateral damage when HR 8210 explodes?{\r}
+Dialogue: 0,0:41:59.72,0:42:02.43,Default,,0000,0000,0000,,{\blur3}如果要在超新星爆炸时毫发无损{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you want to be completely safe from a supernova,{\r}
+Dialogue: 0,0:42:02.59,0:42:05.10,Default,,0000,0000,0000,,{\blur3}你应当至少距离它100光年远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you should be at least 100 light-years away.{\r}
+Dialogue: 0,0:42:05.54,0:42:07.33,Default,,0000,0000,0000,,{\blur3}10光年可能足够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}10 light-years might be enough,{\r}
+Dialogue: 0,0:42:07.43,0:42:08.50,Default,,0000,0000,0000,,{\blur3}也可能不够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it might not.{\r}
+Dialogue: 0,0:42:08.55,0:42:10.97,Default,,0000,0000,0000,,{\blur3}这要看首先杀死你的影响而定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It depends on what effect kills you first.{\r}
+Dialogue: 0,0:42:13.07,0:42:15.75,Default,,0000,0000,0000,,{\blur3}但这在相当长的时间里不会发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that won't happen for a really long time,{\r}
+Dialogue: 0,0:42:15.91,0:42:18.23,Default,,0000,0000,0000,,{\blur3}而到那个时候 我们已不在了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and by then we will have moved off,{\r}
+Dialogue: 0,0:42:18.25,0:42:19.76,Default,,0000,0000,0000,,{\blur3}同时由于星河里的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it will have moved off{\r}
+Dialogue: 0,0:42:19.86,0:42:21.65,Default,,0000,0000,0000,,{\blur3}都有各自的发展方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because everything in the galaxy{\r}
+Dialogue: 0,0:42:21.66,0:42:23.36,Default,,0000,0000,0000,,{\blur3}它也会不在了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is really on its way somewhere.{\r}
+Dialogue: 0,0:42:23.65,0:42:25.68,Default,,0000,0000,0000,,{\blur3}所以随着时间的流逝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So over time, that might happen,{\r}
+Dialogue: 0,0:42:25.70,0:42:27.85,Default,,0000,0000,0000,,{\blur3}这可能发生 但在发生的刹那{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but at the point that it does,{\r}
+Dialogue: 0,0:42:28.69,0:42:31.48,Default,,0000,0000,0000,,{\blur3}也可能它根本不会太靠近地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it probably won't be very close to Earth at all anymore.{\r}
+Dialogue: 0,0:42:33.84,0:42:35.83,Default,,0000,0000,0000,,{\blur3}不过 不要高枕无忧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But don't feel too comfortable.{\r}
+Dialogue: 0,0:42:36.61,0:42:40.90,Default,,0000,0000,0000,,{\blur3}HR 8210只是2002年发现的威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The threat of HR 8210 was only discovered in 2002.{\r}
+Dialogue: 0,0:42:42.72,0:42:45.91,Default,,0000,0000,0000,,{\blur3}还有多少潜在的超新星呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How many more potential supernovas are out there?{\r}
+Dialogue: 0,0:42:47.04,0:42:49.12,Default,,0000,0000,0000,,{\blur3}它们距离我们有多近？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How close are they to us?{\r}
+Dialogue: 0,0:42:50.48,0:42:53.30,Default,,0000,0000,0000,,{\blur3}要多久它们会爆炸？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And how soon will they explode?{\r}
+Dialogue: 0,0:42:59.19,0:43:01.44,Default,,0000,0000,0000,,{\blur3}形势可能不容乐观{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To possibly make matters worse,{\r}
+Dialogue: 0,0:43:01.88,0:43:05.72,Default,,0000,0000,0000,,{\blur3}一些天文学家认为 今后在我们地区里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some astronomers say that there are a lot more supernovas{\r}
+Dialogue: 0,0:43:05.73,0:43:07.47,Default,,0000,0000,0000,,{\blur3}会有大量的超新星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our neighborhood's future.{\r}
+Dialogue: 0,0:43:09.41,0:43:13.08,Default,,0000,0000,0000,,{\blur3}我们太阳系围绕银河运行的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our solar system orbits our galaxy at a different rate{\r}
+Dialogue: 0,0:43:13.13,0:43:14.79,Default,,0000,0000,0000,,{\blur3}与旋臂的不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the spiral arms do.{\r}
+Dialogue: 0,0:43:15.13,0:43:17.96,Default,,0000,0000,0000,,{\blur3}这意味着 最终我们将进入一个旋臂里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means, eventually, we're gonna enter a spiral arm,{\r}
+Dialogue: 0,0:43:18.33,0:43:21.46,Default,,0000,0000,0000,,{\blur3}而那里有大量的更大质量的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and because there is a lot more massive stars there,{\r}
+Dialogue: 0,0:43:21.91,0:43:23.93,Default,,0000,0000,0000,,{\blur3}它们中的一些会终结自己的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some of them will be ending their lives,{\r}
+Dialogue: 0,0:43:23.98,0:43:26.84,Default,,0000,0000,0000,,{\blur3}产生超新星 对地球上的生命造成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating supernovae and posing a greater threat{\r}
+Dialogue: 0,0:43:26.88,0:43:28.09,Default,,0000,0000,0000,,{\blur3}更大威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to life on Earth.{\r}
+Dialogue: 0,0:43:31.08,0:43:33.81,Default,,0000,0000,0000,,{\blur3}在今晚 银河里的我们这个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Still, our place in the Milky Way{\r}
+Dialogue: 0,0:43:33.83,0:43:35.60,Default,,0000,0000,0000,,{\blur3}还是安全的 而且{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is secure for tonight{\r}
+Dialogue: 0,0:43:35.99,0:43:38.63,Default,,0000,0000,0000,,{\blur3}太空充斥着被称为宇宙射线的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space is filled with radiation known as cosmic rays.{\r}
+Dialogue: 0,0:43:39.83,0:43:42.45,Default,,0000,0000,0000,,{\blur3}我们有大量时间去探索更多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}plenty of time for more exploration{\r}
+Dialogue: 0,0:43:42.91,0:43:45.12,Default,,0000,0000,0000,,{\blur3}也会有更多的惊奇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and more surprises.{\r}
+Dialogue: 0,0:43:45.83,0:43:47.58,Default,,0000,0000,0000,,{\blur3}我们居住在多变的地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We live in a pretty diverse neighborhood,{\r}
+Dialogue: 0,0:43:47.61,0:43:49.44,Default,,0000,0000,0000,,{\blur3}事实上 事物正在变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually, and things are changing.{\r}
+Dialogue: 0,0:43:49.45,0:43:51.11,Default,,0000,0000,0000,,{\blur3}银河不会一成不变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The galaxy is not a static place,{\r}
+Dialogue: 0,0:43:51.12,0:43:53.09,Default,,0000,0000,0000,,{\blur3}所以它在亿万年里将会是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it's gonna be an interesting place to see{\r}
+Dialogue: 0,0:43:53.12,0:43:54.45,Default,,0000,0000,0000,,{\blur3}一个有趣的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a billion years.{\r}

@@ -1,0 +1,791 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.45,0:00:03.50,*Default,NTP,0000,0000,0000,,创世之初 冥冥之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness,
+Dialogue: 0,0:00:03.54,0:00:05.92,*Default,NTP,0000,0000,0000,,随着一声爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang--
+Dialogue: 0,0:00:05.96,0:00:08.34,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.38,0:00:10.96,*Default,NTP,0000,0000,0000,,时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space, and matter.
+Dialogue: 0,0:00:11.01,0:00:14.59,*Default,NTP,0000,0000,0000,,每一天 新的发现都在揭秘这个诡异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:14.63,0:00:17.09,*Default,NTP,0000,0000,0000,,震撼 神秘莫测的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:17.14,0:00:19.97,*Default,NTP,0000,0000,0000,,我们所谓的《宇宙》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call "The Universe."
+Dialogue: 0,0:00:21.56,0:00:24.77,*Default,NTP,0000,0000,0000,,地球上 液体就在我们周围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, liquids are all around us,
+Dialogue: 0,0:00:24.81,0:00:27.94,*Default,NTP,0000,0000,0000,,甚至在我们体内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even inside of us.
+Dialogue: 0,0:00:27.98,0:00:31.32,*Default,NTP,0000,0000,0000,,然而我们的世界却与众不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But our world is not like others.
+Dialogue: 0,0:00:31.36,0:00:34.95,*Default,NTP,0000,0000,0000,,我们举目浩瀚宇宙间的恒星及行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When we look at the stars and planets of our vast cosmos,
+Dialogue: 0,0:00:34.99,0:00:37.32,*Default,NTP,0000,0000,0000,,液体其实是相当罕见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}liquids are actually very rare.
+Dialogue: 0,0:00:37.37,0:00:39.45,*Default,NTP,0000,0000,0000,,当我们发现有液体时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when we do find liquids,
+Dialogue: 0,0:00:39.49,0:00:44.66,*Default,NTP,0000,0000,0000,,其怪模怪样地流动在怪异的世界里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they flow in strange ways, on bizarre worlds.
+Dialogue: 0,0:00:44.71,0:00:48.21,*Default,NTP,0000,0000,0000,,这种环境是我们在地球上无法创造的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an environment where nothing that we can build here on Earth
+Dialogue: 0,0:00:48.25,0:00:51.42,*Default,NTP,0000,0000,0000,,是片刻都无法承受的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could withstand that for more than a fraction of a second.
+Dialogue: 0,0:00:51.46,0:00:54.67,*Default,NTP,0000,0000,0000,,新发现将永远改变我们对我们液体宇宙的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New discoveries are forever changing what we know
+Dialogue: 0,0:00:54.72,0:00:59.51,*Default,NTP,0000,0000,0000,,翻腾 沸腾问题的认识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about the churning, bubbling matter of our liquid universe.
+Dialogue: 0,0:01:00.00,0:01:02.75,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:03.25,0:01:05.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:暮云春树  字幕来源：HDC字幕组 调校：晴天 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:05.72,0:01:10.51,*Default,NTP,0000,0000,0000,,历史频道 - 宇宙 第4季第9集 液体宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The History Channel - The Universe s04e09 Liquid Universe
+Dialogue: 0,0:01:11.86,0:01:16.86,*Default,NTP,0000,0000,0000,,液体几乎覆盖了地球表面的四分之三\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Liquids cover nearly 75% of the Earth's surface.
+Dialogue: 0,0:01:16.91,0:01:19.16,*Default,NTP,0000,0000,0000,,我们看到它们从地下渗出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see them oozing from the ground
+Dialogue: 0,0:01:19.20,0:01:21.45,*Default,NTP,0000,0000,0000,,从天上落下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or falling from the sky.
+Dialogue: 0,0:01:22.49,0:01:25.00,*Default,NTP,0000,0000,0000,,我们操控它们为我们的城市供能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we manipulate them to power our cities
+Dialogue: 0,0:01:25.04,0:01:27.00,*Default,NTP,0000,0000,0000,,为我们的引擎供油\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and fuel our engines.
+Dialogue: 0,0:01:28.75,0:01:32.38,*Default,NTP,0000,0000,0000,,不过宇宙的大部分地方不是这个样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But this is not the way of most of the rest of the universe.
+Dialogue: 0,0:01:34.76,0:01:38.38,*Default,NTP,0000,0000,0000,,液体只占全部物质中很小一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Liquids only make up a tiny fraction of all matter.
+Dialogue: 0,0:01:39.59,0:01:42.26,*Default,NTP,0000,0000,0000,,宇宙大部分是由气体构成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the universe consists of gas,
+Dialogue: 0,0:01:42.31,0:01:45.31,*Default,NTP,0000,0000,0000,,不管是星际气体 - 恒星之间的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}either interstellar gas, the gas between the stars,
+Dialogue: 0,0:01:45.35,0:01:47.98,*Default,NTP,0000,0000,0000,,还是恒星里面的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or the gas within the stars themselves,
+Dialogue: 0,0:01:48.02,0:01:49.90,*Default,NTP,0000,0000,0000,,还有行星的大气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or the atmospheres of planets.
+Dialogue: 0,0:01:51.73,0:01:54.53,*Default,NTP,0000,0000,0000,,其它存在的东西就是固体材料了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The other stuff that exists is solid material.
+Dialogue: 0,0:01:54.57,0:01:56.53,*Default,NTP,0000,0000,0000,,行星就是固体材料构成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Planets are made out of solid material.
+Dialogue: 0,0:01:56.57,0:01:58.40,*Default,NTP,0000,0000,0000,,但还是存在少量的液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's really very little liquid.
+Dialogue: 0,0:01:58.45,0:02:01.99,*Default,NTP,0000,0000,0000,,它确实是宇宙中最难得的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's exactly what's most rare in the universe
+Dialogue: 0,0:02:02.03,0:02:04.37,*Default,NTP,0000,0000,0000,,似乎也是最重要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that seems to be the most important.
+Dialogue: 0,0:02:05.58,0:02:07.20,*Default,NTP,0000,0000,0000,,要是宇宙间没了液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there were no liquids in the universe,
+Dialogue: 0,0:02:07.25,0:02:08.96,*Default,NTP,0000,0000,0000,,我真不知道会不会出现生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I actually doubt that there would be life,
+Dialogue: 0,0:02:09.00,0:02:11.75,*Default,NTP,0000,0000,0000,,至少像我们在地球上所了解的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at least life as we know it here on Earth.
+Dialogue: 0,0:02:14.46,0:02:18.17,*Default,NTP,0000,0000,0000,,看看其它行星系 或许有其它形式的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Looking in other planetary systems, there may be other forms of life
+Dialogue: 0,0:02:18.22,0:02:21.76,*Default,NTP,0000,0000,0000,,并不利用液体 某种形式的流体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that don't use liquidity, fluidity in some way,
+Dialogue: 0,0:02:21.80,0:02:25.93,*Default,NTP,0000,0000,0000,,不过此刻 很难想象它是怎么运作的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but right now, it's difficult to imagine how that would work.
+Dialogue: 0,0:02:27.48,0:02:30.48,*Default,NTP,0000,0000,0000,,我们在宇宙什么地方能找到液体呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So where in the universe do we find liquids?
+Dialogue: 0,0:02:31.44,0:02:34.98,*Default,NTP,0000,0000,0000,,究竟怎样才能让它们存在呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what does it take for them to exist at all?
+Dialogue: 0,0:02:35.02,0:02:37.36,*Default,NTP,0000,0000,0000,,唯有某些特殊的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only in certain special locations
+Dialogue: 0,0:02:37.40,0:02:40.07,*Default,NTP,0000,0000,0000,,温度压力恰到好处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the temperatures and the pressures are just right
+Dialogue: 0,0:02:40.11,0:02:41.61,*Default,NTP,0000,0000,0000,,你才能得到液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}do you get liquids.
+Dialogue: 0,0:02:42.82,0:02:47.04,*Default,NTP,0000,0000,0000,,那些条件恰到好处的特殊的地方之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And one of those special places where the conditions are just right
+Dialogue: 0,0:02:47.08,0:02:50.16,*Default,NTP,0000,0000,0000,,就在土卫六上 土星最大的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is on Titan, Saturn's largest moon.
+Dialogue: 0,0:02:51.00,0:02:53.58,*Default,NTP,0000,0000,0000,,土卫六包裹着厚厚的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Titan is wrapped in a thick atmosphere,
+Dialogue: 0,0:02:53.63,0:02:56.42,*Default,NTP,0000,0000,0000,,密度是地球的50倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}50 times denser than Earth's,
+Dialogue: 0,0:02:56.46,0:03:01.84,*Default,NTP,0000,0000,0000,,但是在朦胧橙色的天空下 远处昏暗的太阳光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but underneath the hazy orange sky, dimly lit by a distant Sun
+Dialogue: 0,0:03:01.89,0:03:04.64,*Default,NTP,0000,0000,0000,,主宰着土星美景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and dominated by a stunning view of Saturn,
+Dialogue: 0,0:03:06.14,0:03:07.72,*Default,NTP,0000,0000,0000,,湖泊波光粼粼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lakes glisten.
+Dialogue: 0,0:03:09.18,0:03:10.77,*Default,NTP,0000,0000,0000,,如果我们在土卫六上有个摄像头的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we had a webcam on Titan
+Dialogue: 0,0:03:10.81,0:03:12.27,*Default,NTP,0000,0000,0000,,我们就会远眺景色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we were just looking out on the scenery,
+Dialogue: 0,0:03:12.31,0:03:14.61,*Default,NTP,0000,0000,0000,,你会以为是在地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you could think you were on Earth,
+Dialogue: 0,0:03:14.65,0:03:16.90,*Default,NTP,0000,0000,0000,,要不是画面中有个温度计\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unless there was a thermometer in the image
+Dialogue: 0,0:03:16.94,0:03:20.32,*Default,NTP,0000,0000,0000,,你看到温度在零下几百度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you saw that the temperature was hundreds of degrees below zero.
+Dialogue: 0,0:03:22.53,0:03:26.74,*Default,NTP,0000,0000,0000,,严酷的零下290度是千真万确的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A cruel 290 degrees below zero to be exact.
+Dialogue: 0,0:03:28.04,0:03:32.29,*Default,NTP,0000,0000,0000,,液体不是水 而是甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the liquid isn't water, but, rather, methane.
+Dialogue: 0,0:03:32.33,0:03:35.71,*Default,NTP,0000,0000,0000,,当我们考量我们太阳系里的世界时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When we think about the worlds of our solar system,
+Dialogue: 0,0:03:35.75,0:03:39.09,*Default,NTP,0000,0000,0000,,只有两个世界在其表面存在有液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's only two worlds that have liquids at their surface,
+Dialogue: 0,0:03:40.42,0:03:43.84,*Default,NTP,0000,0000,0000,,低密度的流动液体会形成湖泊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}low-density flowing liquids that could form lakes.
+Dialogue: 0,0:03:43.89,0:03:48.18,*Default,NTP,0000,0000,0000,,那就是有水的地球以及有甲烷的土卫六\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's Earth with water and Titan with methane.
+Dialogue: 0,0:03:49.93,0:03:53.44,*Default,NTP,0000,0000,0000,,但如何才能让地球上的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how can something that's a gas on Earth
+Dialogue: 0,0:03:53.48,0:03:55.48,*Default,NTP,0000,0000,0000,,变成土卫六上的液体的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}be a liquid on Titan?
+Dialogue: 0,0:03:55.52,0:03:57.69,*Default,NTP,0000,0000,0000,,土卫六肯定不同于地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Titan is certainly not quite Earth.
+Dialogue: 0,0:03:57.73,0:03:59.69,*Default,NTP,0000,0000,0000,,最大的不同之处就是温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the biggest difference is really the temperature.
+Dialogue: 0,0:03:59.73,0:04:01.74,*Default,NTP,0000,0000,0000,,土卫六距离太阳非常遥远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Titan is so much further away from the Sun
+Dialogue: 0,0:04:01.78,0:04:03.61,*Default,NTP,0000,0000,0000,,只能接收到少得可怜的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it receives very little energy,
+Dialogue: 0,0:04:03.66,0:04:06.57,*Default,NTP,0000,0000,0000,,使其成为了极其寒冷的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that makes it a very, very cold world.
+Dialogue: 0,0:04:06.62,0:04:09.53,*Default,NTP,0000,0000,0000,,那就意味着同样的元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that means that the same elements
+Dialogue: 0,0:04:09.58,0:04:12.33,*Default,NTP,0000,0000,0000,,我们在地球上看到的会在土卫六上表现得完全不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we have on the Earth behave very differently on Titan.
+Dialogue: 0,0:04:14.04,0:04:17.04,*Default,NTP,0000,0000,0000,,你可以想象土卫六上的情景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can imagine a scene like this on Titan.
+Dialogue: 0,0:04:17.09,0:04:19.50,*Default,NTP,0000,0000,0000,,液体拍打岸边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the liquid that's lapping up on the shore
+Dialogue: 0,0:04:19.55,0:04:22.88,*Default,NTP,0000,0000,0000,,那是液态甲烷 一种透明的液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is liquid methane, a clear liquid,
+Dialogue: 0,0:04:22.92,0:04:27.72,*Default,NTP,0000,0000,0000,,或许会有点微风 就像我们今天在这里感觉到的一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe a very tiny gentle breeze like the one we're feeling here today
+Dialogue: 0,0:04:27.76,0:04:30.39,*Default,NTP,0000,0000,0000,,会有一点小波浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with just tiny waves coming up,
+Dialogue: 0,0:04:30.43,0:04:34.69,*Default,NTP,0000,0000,0000,,岸边的白色东西是冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the whitish stuff that makes the shore is water ice.
+Dialogue: 0,0:04:34.73,0:04:37.81,*Default,NTP,0000,0000,0000,,严格说 冻结的水坚如石头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's literally frozen water as hard as rock.
+Dialogue: 0,0:04:37.86,0:04:40.69,*Default,NTP,0000,0000,0000,,我们考虑石头和水时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when we think of rock and water,
+Dialogue: 0,0:04:40.73,0:04:43.03,*Default,NTP,0000,0000,0000,,在土卫六上 要把冰看作是石头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on Titan, think of water ice as the rock
+Dialogue: 0,0:04:43.07,0:04:45.53,*Default,NTP,0000,0000,0000,,液态甲烷看作是液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and liquid methane as the liquid.
+Dialogue: 0,0:04:45.57,0:04:50.87,*Default,NTP,0000,0000,0000,,显然 在这么低的温度下 液态水就变成固态的冰了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Clearly, at such a low temperature, liquid water turns into solid ice.
+Dialogue: 0,0:04:50.91,0:04:53.41,*Default,NTP,0000,0000,0000,,不过不管物质采用何种形态 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But which state any type of matter takes--
+Dialogue: 0,0:04:53.45,0:04:55.12,*Default,NTP,0000,0000,0000,,液态 固态 或气态 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}liquid, solid, or gas--
+Dialogue: 0,0:04:56.21,0:04:58.67,*Default,NTP,0000,0000,0000,,都必须牵涉到每个分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has to do with how the individual molecules,
+Dialogue: 0,0:04:58.71,0:05:01.38,*Default,NTP,0000,0000,0000,,其基本构件相互作用的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its building blocks, are interacting.
+Dialogue: 0,0:05:03.05,0:05:05.09,*Default,NTP,0000,0000,0000,,这有点像一群羊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a bit like how a flock of sheep
+Dialogue: 0,0:05:05.13,0:05:08.64,*Default,NTP,0000,0000,0000,,在不同条件下的不同反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will respond differently to different conditions.
+Dialogue: 0,0:05:08.68,0:05:12.56,*Default,NTP,0000,0000,0000,,这群羊可以被看作是每一个原子或分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These sheep can be thought of as individual atoms or molecules,
+Dialogue: 0,0:05:12.60,0:05:14.22,*Default,NTP,0000,0000,0000,,比如水分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like molecules of water.
+Dialogue: 0,0:05:14.27,0:05:18.48,*Default,NTP,0000,0000,0000,,宛如水分子一样 它们可以有各种形态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And just like molecules of water, they can be in different states.
+Dialogue: 0,0:05:18.52,0:05:21.23,*Default,NTP,0000,0000,0000,,比如现在 它们簇拥在一块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, right now, they're kind of clustered together.
+Dialogue: 0,0:05:21.27,0:05:22.98,*Default,NTP,0000,0000,0000,,它们很少走动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're not moving around very much.
+Dialogue: 0,0:05:23.03,0:05:24.28,*Default,NTP,0000,0000,0000,,它们被圈了起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're penned in.
+Dialogue: 0,0:05:24.32,0:05:26.61,*Default,NTP,0000,0000,0000,,那就像固态的水 - 冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's like solid water, ice.
+Dialogue: 0,0:05:28.57,0:05:33.37,*Default,NTP,0000,0000,0000,,在固态下 分子与自己的近邻圈在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a solid, the molecules are really penned in by their nearest neighbors.
+Dialogue: 0,0:05:33.41,0:05:35.16,*Default,NTP,0000,0000,0000,,它们根本不能移动太多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're not allowed to move much at all.
+Dialogue: 0,0:05:37.96,0:05:41.00,*Default,NTP,0000,0000,0000,,水沸腾蒸发成蒸汽时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When water boils and steams into a vapor,
+Dialogue: 0,0:05:41.04,0:05:44.17,*Default,NTP,0000,0000,0000,,它会从液态变成气态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it changes phases from liquid to gas.
+Dialogue: 0,0:05:45.05,0:05:47.22,*Default,NTP,0000,0000,0000,,在气态下 其内部的粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a gas, the constituent particles,
+Dialogue: 0,0:05:47.26,0:05:48.68,*Default,NTP,0000,0000,0000,,原子或分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the atoms or molecules,
+Dialogue: 0,0:05:48.72,0:05:53.43,*Default,NTP,0000,0000,0000,,到处游荡 一派混乱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are all wandering around in a kind of chaotic way,
+Dialogue: 0,0:05:53.47,0:05:57.77,*Default,NTP,0000,0000,0000,,它们往往是随着温度的升高而活动加速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they tend to move faster if the temperature is higher.
+Dialogue: 0,0:05:57.81,0:06:01.02,*Default,NTP,0000,0000,0000,,羊群游荡在开阔的原野里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And sheep wandering around in a wide-open field,
+Dialogue: 0,0:06:01.06,0:06:03.15,*Default,NTP,0000,0000,0000,,自由自在 随心所欲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}free to wander every which way they want,
+Dialogue: 0,0:06:03.19,0:06:05.15,*Default,NTP,0000,0000,0000,,它们不一定呆在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they won't necessarily stay together.
+Dialogue: 0,0:06:05.19,0:06:08.15,*Default,NTP,0000,0000,0000,,它们可以去这里或那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They might go off in one direction or the other.
+Dialogue: 0,0:06:08.20,0:06:10.82,*Default,NTP,0000,0000,0000,,那就像是羊的气态状况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's like a gaseous state of sheep.
+Dialogue: 0,0:06:10.87,0:06:12.28,*Default,NTP,0000,0000,0000,,它们彼此远离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're far from one another,
+Dialogue: 0,0:06:12.33,0:06:14.79,*Default,NTP,0000,0000,0000,,彼此之间有很大的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but there's a lot of space between them.
+Dialogue: 0,0:06:14.83,0:06:17.20,*Default,NTP,0000,0000,0000,,它们的行为无拘无束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their motions are unconstrained.
+Dialogue: 0,0:06:18.12,0:06:21.29,*Default,NTP,0000,0000,0000,,然而液体 如水就是一种魔术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But liquid like water is magic.
+Dialogue: 0,0:06:21.33,0:06:24.04,*Default,NTP,0000,0000,0000,,它是一种不稳定的物质状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a state of matter in limbo,
+Dialogue: 0,0:06:24.09,0:06:26.96,*Default,NTP,0000,0000,0000,,介于固态的坚实结构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}somewhere between the rigid structures of a solid
+Dialogue: 0,0:06:27.01,0:06:29.47,*Default,NTP,0000,0000,0000,,与气态的无序散射之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the random scatter of a gas.
+Dialogue: 0,0:06:30.18,0:06:32.68,*Default,NTP,0000,0000,0000,,在液态下 原子或分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a liquid, the atoms or molecules
+Dialogue: 0,0:06:32.72,0:06:35.39,*Default,NTP,0000,0000,0000,,好像受制于其邻居\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are somewhat constrained by their neighbors.
+Dialogue: 0,0:06:35.43,0:06:37.85,*Default,NTP,0000,0000,0000,,它们相互之间稍有一点错位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They might pass each other up a little bit,
+Dialogue: 0,0:06:37.89,0:06:39.81,*Default,NTP,0000,0000,0000,,但它们趋向一起流动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they tend to flow together.
+Dialogue: 0,0:06:39.85,0:06:41.56,*Default,NTP,0000,0000,0000,,羊群里的羊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When sheep are in a flock,
+Dialogue: 0,0:06:41.60,0:06:43.86,*Default,NTP,0000,0000,0000,,在牧羊人的控制下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}kind of constrained by the herders
+Dialogue: 0,0:06:43.90,0:06:45.98,*Default,NTP,0000,0000,0000,,一起从一个地方流到另一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and flowing along from one place to another,
+Dialogue: 0,0:06:46.03,0:06:48.90,*Default,NTP,0000,0000,0000,,那可以看作是液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can be thought of as a liquid.
+Dialogue: 0,0:06:48.95,0:06:50.82,*Default,NTP,0000,0000,0000,,它们可以相互有点错位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can pass each other up a little bit,
+Dialogue: 0,0:06:50.86,0:06:55.91,*Default,NTP,0000,0000,0000,,但它们基本上不会与其邻居离开得太远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they're basically not wandering too far away from their nearest neighbors.
+Dialogue: 0,0:06:55.95,0:06:57.04,*Default,NTP,0000,0000,0000,,它们是一起行动的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're all going together.
+Dialogue: 0,0:06:57.08,0:07:00.00,*Default,NTP,0000,0000,0000,,它们始终随大流 可以这么说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're all going with the flow, so to speak.
+Dialogue: 0,0:07:01.12,0:07:03.71,*Default,NTP,0000,0000,0000,,在土卫六上 寒冷的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Titan, the frigid temperatures
+Dialogue: 0,0:07:03.75,0:07:07.25,*Default,NTP,0000,0000,0000,,让甲烷分子粘在一起形成液态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}keep methane molecules stuck together in a liquid form.
+Dialogue: 0,0:07:09.05,0:07:11.38,*Default,NTP,0000,0000,0000,,它们的行动犹如羊群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're moving like sheep in a flock.
+Dialogue: 0,0:07:13.34,0:07:16.18,*Default,NTP,0000,0000,0000,,在地球上 甲烷是一种天然气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, methane is naturally a gas
+Dialogue: 0,0:07:16.22,0:07:20.56,*Default,NTP,0000,0000,0000,,其分子四处游荡宛如那些自由放养的羊群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with its molecules floating around like those free-ranging sheep.
+Dialogue: 0,0:07:21.39,0:07:23.40,*Default,NTP,0000,0000,0000,,要将其变成液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To transform it to a liquid
+Dialogue: 0,0:07:23.44,0:07:26.57,*Default,NTP,0000,0000,0000,,让甲烷分子像羊群一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that the methane molecules are like a flock,
+Dialogue: 0,0:07:26.61,0:07:29.07,*Default,NTP,0000,0000,0000,,科学家需要将它们挤压在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientists need to squeeze them together
+Dialogue: 0,0:07:29.11,0:07:33.20,*Default,NTP,0000,0000,0000,,用上普通地面压力的300倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with 300 times normal surface pressure.
+Dialogue: 0,0:07:33.24,0:07:34.87,*Default,NTP,0000,0000,0000,,地球上甲烷的一个主要用途\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the main uses of methane on Earth
+Dialogue: 0,0:07:34.91,0:07:37.28,*Default,NTP,0000,0000,0000,,就是取暖做饭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is for heating and cooking,
+Dialogue: 0,0:07:37.33,0:07:39.83,*Default,NTP,0000,0000,0000,,所以甲烷是很好的能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so methane is a great source for power,
+Dialogue: 0,0:07:39.87,0:07:42.25,*Default,NTP,0000,0000,0000,,不管是作为燃料还是某种能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether it's heat or some kind of propulsive power.
+Dialogue: 0,0:07:42.92,0:07:45.92,*Default,NTP,0000,0000,0000,,液态甲烷是一种很好的能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Liquid methane is such a great source of power
+Dialogue: 0,0:07:45.96,0:07:49.55,*Default,NTP,0000,0000,0000,,航天局正在测试它作为潜在的新火箭燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that NASA is testing it as a potential new rocket fuel.
+Dialogue: 0,0:07:49.59,0:07:52.88,*Default,NTP,0000,0000,0000,,主发动机点火 升空 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Main engines up and burning and liftoff 
+Dialogue: 0,0:07:52.93,0:07:55.09,*Default,NTP,0000,0000,0000,,目前 航天器发射升空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Currently, spacecraft launch into orbit
+Dialogue: 0,0:07:55.14,0:07:59.56,*Default,NTP,0000,0000,0000,,燃料罐里装的是液态氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the backs of fuel tanks filled with liquid hydrogen.
+Dialogue: 0,0:08:01.02,0:08:03.89,*Default,NTP,0000,0000,0000,,因为它比液态氢更轻更稠密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because it's lighter and denser than liquid hydrogen,
+Dialogue: 0,0:08:03.94,0:08:06.98,*Default,NTP,0000,0000,0000,,发射燃烧甲烷将更加便宜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}launches burning methane could be cheaper.
+Dialogue: 0,0:08:07.02,0:08:10.60,*Default,NTP,0000,0000,0000,,和液态氢一样 液态甲烷燃烧容易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And like liquid hydrogen, liquid methane combusts readily
+Dialogue: 0,0:08:10.69,0:08:12.94,*Default,NTP,0000,0000,0000,,因为有氧的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because of the presence of oxygen.
+Dialogue: 0,0:08:14.03,0:08:17.62,*Default,NTP,0000,0000,0000,,但是在土卫六上 因为大气中缺乏氧气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But on Titan, because the atmosphere lacks oxygen,
+Dialogue: 0,0:08:17.66,0:08:19.53,*Default,NTP,0000,0000,0000,,甲烷难以点燃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}methane isn't flammable.
+Dialogue: 0,0:08:21.20,0:08:23.75,*Default,NTP,0000,0000,0000,,地球有氮和氧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So Earth has nitrogen and oxygen,
+Dialogue: 0,0:08:23.79,0:08:26.42,*Default,NTP,0000,0000,0000,,土卫六有氮和甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Titan has nitrogen and methane.
+Dialogue: 0,0:08:26.46,0:08:30.42,*Default,NTP,0000,0000,0000,,奇怪的是太阳系里唯一的两个世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's curious that these are the only two worlds in the solar system that 
+Dialogue: 0,0:08:30.42,0:08:34.13,*Default,NTP,0000,0000,0000,,都将氮作为大气层里的主要气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have nitrogen as their dominant gas in the atmosphere.
+Dialogue: 0,0:08:34.18,0:08:38.35,*Default,NTP,0000,0000,0000,,因此在那个意义上 土卫六是我们的姐妹星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So in that sense, Titan is our sister world.
+Dialogue: 0,0:08:38.39,0:08:42.10,*Default,NTP,0000,0000,0000,,氧在土卫六上将是危险的爆炸性气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oxygen would be a dangerous explosive gas on Titan,
+Dialogue: 0,0:08:42.14,0:08:43.77,*Default,NTP,0000,0000,0000,,因为周围都是甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's surrounded by methane,
+Dialogue: 0,0:08:43.81,0:08:47.94,*Default,NTP,0000,0000,0000,,同样甲烷在地球上是危险的爆炸性气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the same way that methane is a dangerous explosive gas on Earth,
+Dialogue: 0,0:08:47.98,0:08:50.07,*Default,NTP,0000,0000,0000,,因为我们周围都是氧气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we're surrounded by oxygen.
+Dialogue: 0,0:08:51.82,0:08:55.40,*Default,NTP,0000,0000,0000,,土卫六上 液态甲烷会聚集成湖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Titan, the liquid methane collects in pools,
+Dialogue: 0,0:08:55.45,0:08:57.78,*Default,NTP,0000,0000,0000,,有些大如五大湖区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some as large as the Great Lakes.
+Dialogue: 0,0:08:58.95,0:09:02.54,*Default,NTP,0000,0000,0000,,土卫六的湖区在其北极地区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The lake country on Titan is the northern polar regions,
+Dialogue: 0,0:09:02.58,0:09:03.91,*Default,NTP,0000,0000,0000,,湖泊众多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}enormous number of lakes.
+Dialogue: 0,0:09:05.12,0:09:07.37,*Default,NTP,0000,0000,0000,,我们看到南部有一个湖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see one lake in the south.
+Dialogue: 0,0:09:07.42,0:09:10.21,*Default,NTP,0000,0000,0000,,我们真的不明白为何所有的湖泊都北移\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't really understand why all the lakes moved north
+Dialogue: 0,0:09:10.25,0:09:11.96,*Default,NTP,0000,0000,0000,,只留下一个在南部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and left one behind in the south.
+Dialogue: 0,0:09:13.67,0:09:16.34,*Default,NTP,0000,0000,0000,,为何南部没有更多的湖泊呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why aren't there more lakes in the south?
+Dialogue: 0,0:09:17.84,0:09:22.18,*Default,NTP,0000,0000,0000,,最近的探索有可能提供了重要的线索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A recent discovery may have provided an important clue.
+Dialogue: 0,0:09:24.14,0:09:27.64,*Default,NTP,0000,0000,0000,,2009年8月 研究人员发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In August 2009, researchers detected
+Dialogue: 0,0:09:27.69,0:09:31.31,*Default,NTP,0000,0000,0000,,风暴云突然出现在土卫六赤道附近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a sudden appearance of storm clouds around Titan's equator.
+Dialogue: 0,0:09:34.36,0:09:36.53,*Default,NTP,0000,0000,0000,,这可能意味着液态甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This could mean that liquid methane
+Dialogue: 0,0:09:36.57,0:09:38.53,*Default,NTP,0000,0000,0000,,貌似地球上的水循环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mimics the water cycle on Earth,
+Dialogue: 0,0:09:38.57,0:09:41.20,*Default,NTP,0000,0000,0000,,水在一个地方的湖泊里蒸发出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where water evaporates from lakes in one area
+Dialogue: 0,0:09:41.24,0:09:44.33,*Default,NTP,0000,0000,0000,,然后降雨到另一个地方的湖泊里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then rains to form lakes in another.
+Dialogue: 0,0:09:45.37,0:09:46.87,*Default,NTP,0000,0000,0000,,在地球上沙漠地区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the desert landscapes of Earth,
+Dialogue: 0,0:09:46.91,0:09:50.50,*Default,NTP,0000,0000,0000,,你偶然会看到少雨的地方豪雨如注\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have occasional cloudbursts where it rains very hard
+Dialogue: 0,0:09:50.54,0:09:53.21,*Default,NTP,0000,0000,0000,,大水冲过干旱的山谷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the water rushes through the dry valleys.
+Dialogue: 0,0:09:59.01,0:10:03.05,*Default,NTP,0000,0000,0000,,不过土卫六大部分地区是甲烷沙漠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the vast majority of Titan is sort of a methane desert,
+Dialogue: 0,0:10:03.10,0:10:05.39,*Default,NTP,0000,0000,0000,,一旦下起雨来 一场倾盆大雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and when it does rain, it's a real cloudburst,
+Dialogue: 0,0:10:05.43,0:10:08.44,*Default,NTP,0000,0000,0000,,你会在其表面看到巨大的河流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you have a huge flow over the surface.
+Dialogue: 0,0:10:09.48,0:10:13.15,*Default,NTP,0000,0000,0000,,所以我们确实认为甲烷能够\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we actually think that in terms of the ability of methane
+Dialogue: 0,0:10:13.19,0:10:16.19,*Default,NTP,0000,0000,0000,,侵蚀和切割出土卫六上的沟渠和山谷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to erode and carve channels and valleys on Titan,
+Dialogue: 0,0:10:17.15,0:10:19.70,*Default,NTP,0000,0000,0000,,非常类似于水能够\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be very similar to the ability of water
+Dialogue: 0,0:10:19.74,0:10:21.74,*Default,NTP,0000,0000,0000,,切割出地球上的山谷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to carve valleys on the Earth.
+Dialogue: 0,0:10:23.41,0:10:25.83,*Default,NTP,0000,0000,0000,,湖泊集中在北部的原因之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One reason lakes are pooling in the north
+Dialogue: 0,0:10:25.87,0:10:28.20,*Default,NTP,0000,0000,0000,,可能是因为该地区正在经历\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could be because that region is experiencing
+Dialogue: 0,0:10:28.25,0:10:30.37,*Default,NTP,0000,0000,0000,,一个很长的雨季\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a very long rainy season.
+Dialogue: 0,0:10:32.17,0:10:34.92,*Default,NTP,0000,0000,0000,,土星环绕太阳需要30年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It takes 30 years for Saturn to go around the Sun.
+Dialogue: 0,0:10:34.96,0:10:38.88,*Default,NTP,0000,0000,0000,,因此土卫六的一年 土卫六的四季\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So a year on Titan, four seasons on Titan,
+Dialogue: 0,0:10:38.92,0:10:39.97,*Default,NTP,0000,0000,0000,,需要30年时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}takes 30 years.
+Dialogue: 0,0:10:40.80,0:10:43.14,*Default,NTP,0000,0000,0000,,每一季约7年之久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each season is about seven years long.
+Dialogue: 0,0:10:44.06,0:10:47.56,*Default,NTP,0000,0000,0000,,我们想有可能在春季或雨季\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We think that there might be, during the spring or the fall,
+Dialogue: 0,0:10:47.60,0:10:48.93,*Default,NTP,0000,0000,0000,,你会有大量的降雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you get increased rainfall,
+Dialogue: 0,0:10:48.98,0:10:51.56,*Default,NTP,0000,0000,0000,,那就意味着整个北半球处在那个季节里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which means that whatever hemisphere has that season,
+Dialogue: 0,0:10:51.60,0:10:53.27,*Default,NTP,0000,0000,0000,,这样你就看到有大量的湖泊形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually you have a lot of lakes forming.
+Dialogue: 0,0:10:54.94,0:10:57.44,*Default,NTP,0000,0000,0000,,但是甲烷雨不同于降雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But methane rains down differently than water,
+Dialogue: 0,0:10:57.49,0:11:01.11,*Default,NTP,0000,0000,0000,,那是由于土卫六稠密的大气层和较低的重力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thanks to Titan's thick atmosphere and low gravity.
+Dialogue: 0,0:11:02.41,0:11:05.58,*Default,NTP,0000,0000,0000,,来看看大雨滴 是地球雨滴的两倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think of big drops, twice the size of raindrops on Earth,
+Dialogue: 0,0:11:05.62,0:11:09.04,*Default,NTP,0000,0000,0000,,落下的速度很慢 砰 砰 砰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}falling at a much slower speed, bump bump bump,
+Dialogue: 0,0:11:09.08,0:11:11.08,*Default,NTP,0000,0000,0000,,但它们极其寒冷 很冷很冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they'd be freezing cold, very, very cold,
+Dialogue: 0,0:11:11.12,0:11:12.29,*Default,NTP,0000,0000,0000,,要是打在你的皮肤上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if they hit your skin.
+Dialogue: 0,0:11:13.29,0:11:16.29,*Default,NTP,0000,0000,0000,,不过液态甲烷不是液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But liquid methane is not liquid water,
+Dialogue: 0,0:11:16.34,0:11:20.26,*Default,NTP,0000,0000,0000,,胆敢潜入甲烷湖里的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and anyone who would dare dive into a methane lake
+Dialogue: 0,0:11:20.30,0:11:23.26,*Default,NTP,0000,0000,0000,,会感到意外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be in for a nasty surprise.
+Dialogue: 0,0:11:26.14,0:11:29.22,*Default,NTP,0000,0000,0000,,这是我们宇宙间十分罕见的 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a rare find in our universe--
+Dialogue: 0,0:11:29.27,0:11:33.56,*Default,NTP,0000,0000,0000,,一个世界 不是地球 却有着液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a world, not Earth, that is home to a liquid.
+Dialogue: 0,0:11:33.60,0:11:34.90,*Default,NTP,0000,0000,0000,,从远处看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From a distance,
+Dialogue: 0,0:11:34.94,0:11:39.53,*Default,NTP,0000,0000,0000,,土卫六的甲烷湖似乎很熟悉和诱人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Titan's methane lakes seem so familiar and inviting,
+Dialogue: 0,0:11:39.57,0:11:42.57,*Default,NTP,0000,0000,0000,,但那确实是个化外之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but this is truly an alien place.
+Dialogue: 0,0:11:43.66,0:11:45.95,*Default,NTP,0000,0000,0000,,首先 土卫六湖泊的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First, the temperature of Titan's lakes
+Dialogue: 0,0:11:45.99,0:11:48.91,*Default,NTP,0000,0000,0000,,是零下数百度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is hundreds of degrees below zero.
+Dialogue: 0,0:11:52.92,0:11:55.54,*Default,NTP,0000,0000,0000,,假如你能够适应寒冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And assuming you could survive the cold,
+Dialogue: 0,0:11:57.92,0:12:01.59,*Default,NTP,0000,0000,0000,,在甲烷湖里游泳将是一个惊人的体验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}swimming in a methane lake would be a shocking experience
+Dialogue: 0,0:12:02.72,0:12:05.26,*Default,NTP,0000,0000,0000,,完全是出乎意料的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for a totally unexpected reason.
+Dialogue: 0,0:12:08.22,0:12:10.77,*Default,NTP,0000,0000,0000,,液态甲烷的密度远小于水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The density of liquid methane is much less than water,
+Dialogue: 0,0:12:10.81,0:12:12.52,*Default,NTP,0000,0000,0000,,因此你在里头会很重\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so you would be heavy in that.
+Dialogue: 0,0:12:12.56,0:12:13.89,*Default,NTP,0000,0000,0000,,你会下沉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would sink.
+Dialogue: 0,0:12:13.94,0:12:15.27,*Default,NTP,0000,0000,0000,,我重200磅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I weigh 200 pounds.
+Dialogue: 0,0:12:16.69,0:12:20.02,*Default,NTP,0000,0000,0000,,在水中 我的实际重量接近零\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In water, my effective weight is very close to zero.
+Dialogue: 0,0:12:20.74,0:12:24.07,*Default,NTP,0000,0000,0000,,在液态甲烷中 我的实际重量将会有80磅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In liquid methane, my effective weight would be 80 pounds.
+Dialogue: 0,0:12:26.41,0:12:30.91,*Default,NTP,0000,0000,0000,,想象一下试图在湖里踩水或游泳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So imagine trying to tread water in a lake or a swimming pool
+Dialogue: 0,0:12:30.95,0:12:32.83,*Default,NTP,0000,0000,0000,,绑着80磅重量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with an 80-pound weight belt tied to you.
+Dialogue: 0,0:12:32.87,0:12:34.54,*Default,NTP,0000,0000,0000,,那将是很艰难的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's going to be hard.
+Dialogue: 0,0:12:35.46,0:12:38.84,*Default,NTP,0000,0000,0000,,那就会是在土卫六湖里游泳的情景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what it'd be like trying to swim in a lake on Titan.
+Dialogue: 0,0:12:40.38,0:12:42.38,*Default,NTP,0000,0000,0000,,甲烷透彻无比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Methane is so clear,
+Dialogue: 0,0:12:42.42,0:12:46.09,*Default,NTP,0000,0000,0000,,潜水员会感觉到好像透过液态空气一般\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}divers might feel as though they were looking through liquid air.
+Dialogue: 0,0:12:47.39,0:12:50.05,*Default,NTP,0000,0000,0000,,大部分的湖水并非如此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's not the case in most water lakes.
+Dialogue: 0,0:12:51.64,0:12:54.73,*Default,NTP,0000,0000,0000,,不过水的不透明并不只是由于污染\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But water's opacity isn't just due to pollution.
+Dialogue: 0,0:12:55.52,0:12:59.06,*Default,NTP,0000,0000,0000,,那也是水的自然特性造成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's also the result of a natural characteristic of water,
+Dialogue: 0,0:12:59.98,0:13:03.99,*Default,NTP,0000,0000,0000,,这对地球生命是至关重要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which turns out to be vital for life on Earth.
+Dialogue: 0,0:13:04.03,0:13:05.61,*Default,NTP,0000,0000,0000,,这罐子是水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This pitcher is water.
+Dialogue: 0,0:13:05.65,0:13:08.45,*Default,NTP,0000,0000,0000,,我们相当熟悉水的性质了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're familiar with the properties of water.
+Dialogue: 0,0:13:08.49,0:13:12.49,*Default,NTP,0000,0000,0000,,这里我们有液体看上去像水 但不是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here we have a liquid that looks like water, but it's not.
+Dialogue: 0,0:13:12.54,0:13:14.12,*Default,NTP,0000,0000,0000,,这是碳氢化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is a hydrocarbon.
+Dialogue: 0,0:13:14.16,0:13:17.62,*Default,NTP,0000,0000,0000,,这东西类似于土卫六上的液态甲烷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is analogous to the liquid methane on Titan.
+Dialogue: 0,0:13:17.67,0:13:18.92,*Default,NTP,0000,0000,0000,,它们看上去一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They look the same,
+Dialogue: 0,0:13:18.96,0:13:21.09,*Default,NTP,0000,0000,0000,,但它们的化学性质大不相同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they have very different chemical properties.
+Dialogue: 0,0:13:21.13,0:13:23.63,*Default,NTP,0000,0000,0000,,为了显示这两种液体的不同之处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To show the difference between these two liquids,
+Dialogue: 0,0:13:23.67,0:13:25.63,*Default,NTP,0000,0000,0000,,我会拿出一些饼干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm going to take some crackers,
+Dialogue: 0,0:13:25.67,0:13:29.14,*Default,NTP,0000,0000,0000,,我们可以吃的东西 淀粉 糖 盐等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}kind of things that we eat, starch, sugars, salt.
+Dialogue: 0,0:13:29.18,0:13:32.06,*Default,NTP,0000,0000,0000,,我要将它放到液体里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm going to put it in the liquids.
+Dialogue: 0,0:13:33.27,0:13:34.72,*Default,NTP,0000,0000,0000,,现在我们将饼干放到水里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So now we've got crackers in the water.
+Dialogue: 0,0:13:34.77,0:13:36.39,*Default,NTP,0000,0000,0000,,现在我取出一叠饼干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now I'm going to take a set of crackers,
+Dialogue: 0,0:13:36.44,0:13:37.56,*Default,NTP,0000,0000,0000,,同样数量的饼干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the same number of crackers,
+Dialogue: 0,0:13:37.60,0:13:40.23,*Default,NTP,0000,0000,0000,,把它们放到液态碳氢化合物里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and I'm going to put them in our liquid hydrocarbon.
+Dialogue: 0,0:13:42.02,0:13:44.28,*Default,NTP,0000,0000,0000,,因为水能很好地溶解东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because water dissolves things so well,
+Dialogue: 0,0:13:44.32,0:13:46.82,*Default,NTP,0000,0000,0000,,被认为是强大的溶剂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it is considered a powerful solvent.
+Dialogue: 0,0:13:48.28,0:13:49.57,*Default,NTP,0000,0000,0000,,甲烷 那一边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Methane, on the other hand,
+Dialogue: 0,0:13:49.62,0:13:53.74,*Default,NTP,0000,0000,0000,,不能有效地溶解别的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can't dissolve other materials as effectively.
+Dialogue: 0,0:13:53.79,0:13:55.79,*Default,NTP,0000,0000,0000,,来看看取出的这些饼干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look at these crackers coming out.
+Dialogue: 0,0:13:55.83,0:14:00.63,*Default,NTP,0000,0000,0000,,这饼干仍然如当初那么脆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This cracker is still as crisp as when we put it in.
+Dialogue: 0,0:14:00.67,0:14:03.00,*Default,NTP,0000,0000,0000,,这并不是很好的溶剂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is not a very good solvent.
+Dialogue: 0,0:14:06.30,0:14:10.09,*Default,NTP,0000,0000,0000,,水的溶解能力来自其分子结构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Water's dissolving power comes from its molecular structure.
+Dialogue: 0,0:14:10.14,0:14:13.72,*Default,NTP,0000,0000,0000,,水的分子是H2O\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A water molecule is H2O,
+Dialogue: 0,0:14:13.76,0:14:15.60,*Default,NTP,0000,0000,0000,,就是两个氢加一个氧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which means two hydrogens on an oxygen,
+Dialogue: 0,0:14:15.64,0:14:17.52,*Default,NTP,0000,0000,0000,,你要是去看分子的形状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if you just think about the shape of the molecule,
+Dialogue: 0,0:14:17.56,0:14:20.19,*Default,NTP,0000,0000,0000,,你会看到你的氧原子和两个小氢原子在一头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you got your oxygen and two little hydrogens on one end.
+Dialogue: 0,0:14:21.23,0:14:24.19,*Default,NTP,0000,0000,0000,,这种结构意味着水分子的一头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This structure means that one end of the water molecule
+Dialogue: 0,0:14:24.23,0:14:28.15,*Default,NTP,0000,0000,0000,,是正电荷 而另一头则是负电荷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has a positive charge and the other has a negative charge.
+Dialogue: 0,0:14:29.49,0:14:31.28,*Default,NTP,0000,0000,0000,,因此小小的水分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the little water molecules
+Dialogue: 0,0:14:31.32,0:14:34.03,*Default,NTP,0000,0000,0000,,就像是小磁铁 搅动周围的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are like little magnets going around stirring things up,
+Dialogue: 0,0:14:34.08,0:14:36.45,*Default,NTP,0000,0000,0000,,排斥一些东西 吸引一些东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}repelling some things, attracting other things.
+Dialogue: 0,0:14:38.00,0:14:41.54,*Default,NTP,0000,0000,0000,,相比之下 甲烷是一种弱溶剂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By contrast, methane is a weak solvent.
+Dialogue: 0,0:14:41.58,0:14:45.04,*Default,NTP,0000,0000,0000,,甲烷是一个碳加上四个氢在其周围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Methane is a carbon with four hydrogens on all sides.
+Dialogue: 0,0:14:45.09,0:14:46.92,*Default,NTP,0000,0000,0000,,平均分布 没有极性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's even. It has no polarity.
+Dialogue: 0,0:14:46.96,0:14:49.63,*Default,NTP,0000,0000,0000,,它不会分解其它分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It won't break up other molecules.
+Dialogue: 0,0:14:51.89,0:14:54.51,*Default,NTP,0000,0000,0000,,因为水能够溶解其接触的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since water dissolves what it contacts,
+Dialogue: 0,0:14:54.56,0:14:59.02,*Default,NTP,0000,0000,0000,,能够把自己变成浓汤甚至浑浊的汤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it can turn itself into a rich and sometimes murky soup.
+Dialogue: 0,0:15:00.52,0:15:02.31,*Default,NTP,0000,0000,0000,,来看这水里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So here in water,
+Dialogue: 0,0:15:02.35,0:15:06.19,*Default,NTP,0000,0000,0000,,有机物已演化到了生存在这个浓汤里了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}organisms that have evolved to live in a rich soup like that,
+Dialogue: 0,0:15:06.23,0:15:07.73,*Default,NTP,0000,0000,0000,,它们微小而致密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're going to be small and compact.
+Dialogue: 0,0:15:07.78,0:15:09.65,*Default,NTP,0000,0000,0000,,那就是我们在地球上见到的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's what we see on Earth.
+Dialogue: 0,0:15:09.70,0:15:12.61,*Default,NTP,0000,0000,0000,,微生物微小而致密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Microorganisms are small and compact.
+Dialogue: 0,0:15:12.66,0:15:14.91,*Default,NTP,0000,0000,0000,,它们能够从水里获得营养\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can get their nutrients from the water.
+Dialogue: 0,0:15:16.66,0:15:21.25,*Default,NTP,0000,0000,0000,,不过甲烷可能是另类的生命形式感兴趣的液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But methane could be an appealing liquid for a different kind of life form.
+Dialogue: 0,0:15:22.54,0:15:26.09,*Default,NTP,0000,0000,0000,,设想一下土卫六上的生物观察地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine an organism on Titan looking at Earth
+Dialogue: 0,0:15:26.13,0:15:28.00,*Default,NTP,0000,0000,0000,,看到有液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and seeing the liquid water.
+Dialogue: 0,0:15:29.84,0:15:32.47,*Default,NTP,0000,0000,0000,,会惊诧于居然会有东西想生活在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would just be appalled that anything would want to live
+Dialogue: 0,0:15:32.51,0:15:35.93,*Default,NTP,0000,0000,0000,,这样活跃 高温 具有腐蚀的液体里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in such a reactive, hot, aggressive liquid.
+Dialogue: 0,0:15:35.97,0:15:39.60,*Default,NTP,0000,0000,0000,,它会想 哎呀 地球上不可能会有生命滴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it would think, "Jeez, there can't be life on Earth.
+Dialogue: 0,0:15:39.64,0:15:42.64,*Default,NTP,0000,0000,0000,,这种液体太难对付了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The liquid there is much too difficult to manage."
+Dialogue: 0,0:15:45.11,0:15:49.36,*Default,NTP,0000,0000,0000,,任何外星游客都有可能马上被土卫六或地球给吸引住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Any alien visitors might immediately be drawn to Titan or Earth
+Dialogue: 0,0:15:49.40,0:15:52.45,*Default,NTP,0000,0000,0000,,因为液体就在其表面流动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because liquids flow right on the surface.
+Dialogue: 0,0:15:53.70,0:15:59.20,*Default,NTP,0000,0000,0000,,有超过3亿兆加仑的水在地球上流动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over 300 million trillion gallons of water slosh around on Earth alone.
+Dialogue: 0,0:16:04.04,0:16:08.13,*Default,NTP,0000,0000,0000,,但可能不会给星际游客就下太深刻的印象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that might not impress interstellar travelers very much,
+Dialogue: 0,0:16:08.17,0:16:12.17,*Default,NTP,0000,0000,0000,,因为地球七大洋里没有一个是最大最深的海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because none of Earth's seven seas are the biggest or deepest oceans,
+Dialogue: 0,0:16:13.76,0:16:15.72,*Default,NTP,0000,0000,0000,,即使是在我们太阳系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even in our solar system.
+Dialogue: 0,0:16:17.14,0:16:19.39,*Default,NTP,0000,0000,0000,,木星 太阳的第五颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter, the fifth planet from the Sun,
+Dialogue: 0,0:16:19.43,0:16:22.43,*Default,NTP,0000,0000,0000,,隐藏着一个巨大而怪异的液体海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}conceals an immense and bizarre liquid sea
+Dialogue: 0,0:16:22.48,0:16:24.69,*Default,NTP,0000,0000,0000,,在其神秘的云层下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beneath its mysterious clouds.
+Dialogue: 0,0:16:26.44,0:16:29.11,*Default,NTP,0000,0000,0000,,进入这种液体就需要航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Reaching this liquid would require a spacecraft
+Dialogue: 0,0:16:29.15,0:16:32.74,*Default,NTP,0000,0000,0000,,远超过现代科技的极限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}far beyond the limits of modern technology.
+Dialogue: 0,0:16:32.78,0:16:36.57,*Default,NTP,0000,0000,0000,,必须要设法承受难以置信的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would have to somehow withstand incredible pressures,
+Dialogue: 0,0:16:36.62,0:16:39.95,*Default,NTP,0000,0000,0000,,以及 更重要的是 能够经受的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, more importantly, be able to stand up under temperatures
+Dialogue: 0,0:16:39.99,0:16:42.41,*Default,NTP,0000,0000,0000,,将大大超过太阳表面的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are much hotter than the surface of the Sun.
+Dialogue: 0,0:16:45.00,0:16:48.00,*Default,NTP,0000,0000,0000,,是地球体积的1400倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At 1,400 times the volume of Earth,
+Dialogue: 0,0:16:48.04,0:16:52.05,*Default,NTP,0000,0000,0000,,这颗巨星几乎是由氢和氦的气体构成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this giant planet is mostly made up of hydrogen and helium gas.
+Dialogue: 0,0:16:53.47,0:16:57.14,*Default,NTP,0000,0000,0000,,不过在云层的深处 有一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But miles and miles beneath those clouds, there's a point
+Dialogue: 0,0:16:57.18,0:17:00.47,*Default,NTP,0000,0000,0000,,大气层的重量会变得非常厉害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the weight of that atmosphere gets so intense,
+Dialogue: 0,0:17:00.51,0:17:03.39,*Default,NTP,0000,0000,0000,,气体会变成液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gas turns into liquid,
+Dialogue: 0,0:17:03.43,0:17:05.48,*Default,NTP,0000,0000,0000,,存在大量的液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lots and lots of liquid.
+Dialogue: 0,0:17:07.48,0:17:08.69,*Default,NTP,0000,0000,0000,,进入液体的旅程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The journey to the liquid
+Dialogue: 0,0:17:08.73,0:17:13.28,*Default,NTP,0000,0000,0000,,始于木星大气层的外缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}begins at the outer edge of Jupiter's atmosphere,
+Dialogue: 0,0:17:13.32,0:17:17.66,*Default,NTP,0000,0000,0000,,那里的气压接近我们地球的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the air pressure is close to what we experience on Earth's surface.
+Dialogue: 0,0:17:19.91,0:17:22.87,*Default,NTP,0000,0000,0000,,一头扎进木星将是个惊人的体验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Diving into Jupiter would be an amazing experience.
+Dialogue: 0,0:17:22.91,0:17:25.54,*Default,NTP,0000,0000,0000,,首先你会穿过整个上部云层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First you'd go through all these upper cloud layers,
+Dialogue: 0,0:17:25.58,0:17:28.54,*Default,NTP,0000,0000,0000,,那里有氨 甲烷及其它化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where there's ammonia and methane and other compounds.
+Dialogue: 0,0:17:28.58,0:17:32.30,*Default,NTP,0000,0000,0000,,它们鲜艳多彩 成漩涡状 有大量的风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're really colorful and swirly, lots of storms.
+Dialogue: 0,0:17:32.34,0:17:36.80,*Default,NTP,0000,0000,0000,,色彩斑斓表示奇怪的化学混合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The explosion of color indicates a strange brew of chemicals
+Dialogue: 0,0:17:36.84,0:17:39.30,*Default,NTP,0000,0000,0000,,夹杂着氢和氦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mixed in the hydrogen and helium.
+Dialogue: 0,0:17:39.34,0:17:43.89,*Default,NTP,0000,0000,0000,,木星大气层里有大量的各种硫化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a lot of different sulfur compounds in the atmosphere of Jupiter.
+Dialogue: 0,0:17:43.93,0:17:46.56,*Default,NTP,0000,0000,0000,,因此你穿过木星的大气层上部时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So as you fall down through the upper layers of Jupiter,
+Dialogue: 0,0:17:46.60,0:17:49.31,*Default,NTP,0000,0000,0000,,会闻到臭鸡蛋的味道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would have the smell of rotten eggs.
+Dialogue: 0,0:17:49.35,0:17:53.78,*Default,NTP,0000,0000,0000,,因此木星之旅踏上了一段不舒服之路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So a trip to Jupiter starts off in an unpleasant way.
+Dialogue: 0,0:17:56.03,0:18:00.74,*Default,NTP,0000,0000,0000,,就像客机乘客从高空下降一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just like passengers on a commercial jet descending from high altitudes,
+Dialogue: 0,0:18:02.12,0:18:05.83,*Default,NTP,0000,0000,0000,,航天器里的乘客在木星大气层里下降\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}passengers on a spacecraft descending into Jupiter's atmosphere
+Dialogue: 0,0:18:05.87,0:18:08.87,*Default,NTP,0000,0000,0000,,会感觉到耳朵里的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would feel pressure on their ears.
+Dialogue: 0,0:18:08.92,0:18:11.92,*Default,NTP,0000,0000,0000,,如果你要深入到行星内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you go deeper into the interior of a planet,
+Dialogue: 0,0:18:11.96,0:18:15.17,*Default,NTP,0000,0000,0000,,密度会越来越大 压力会越来越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the densities become higher, the pressures become higher.
+Dialogue: 0,0:18:15.21,0:18:17.17,*Default,NTP,0000,0000,0000,,气体会越发压缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gas is more compressed.
+Dialogue: 0,0:18:17.22,0:18:19.55,*Default,NTP,0000,0000,0000,,那类似于我们地球上的情景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's similar to what we have here on Earth.
+Dialogue: 0,0:18:20.51,0:18:21.64,*Default,NTP,0000,0000,0000,,在我们大气层高处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Way up in our atmosphere,
+Dialogue: 0,0:18:21.68,0:18:24.14,*Default,NTP,0000,0000,0000,,密度和压力很低\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the densities and pressures are low.
+Dialogue: 0,0:18:24.18,0:18:26.52,*Default,NTP,0000,0000,0000,,随着你往下走 它们就会增大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As you go farther down, they increase.
+Dialogue: 0,0:18:28.89,0:18:33.36,*Default,NTP,0000,0000,0000,,降落1 3万英里后 一片漆黑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After descending for 13,000 miles, it's dark,
+Dialogue: 0,0:18:33.40,0:18:36.65,*Default,NTP,0000,0000,0000,,因为阳光已无法透过这么多东西了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because sunlight can't penetrate through so much matter.
+Dialogue: 0,0:18:41.74,0:18:44.37,*Default,NTP,0000,0000,0000,,最后 黑暗消散了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At last, the darkness lifts.
+Dialogue: 0,0:18:44.41,0:18:48.58,*Default,NTP,0000,0000,0000,,光线 从木星的海洋里射出 就在下方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Light, streaming from Jupiter's ocean, lies just below.
+Dialogue: 0,0:18:49.58,0:18:53.58,*Default,NTP,0000,0000,0000,,你不会溅落在木星的这种海洋里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't splash down onto this sort of liquid ocean of Jupiter
+Dialogue: 0,0:18:53.63,0:18:56.71,*Default,NTP,0000,0000,0000,,如同你在地球上溅落的那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the same way that you splash down on Earth.
+Dialogue: 0,0:18:56.76,0:18:59.42,*Default,NTP,0000,0000,0000,,更多的像是你穿越蒸汽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's much more like you're going through a steam
+Dialogue: 0,0:18:59.47,0:19:01.09,*Default,NTP,0000,0000,0000,,越来越浓密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that becomes denser and denser and denser
+Dialogue: 0,0:19:01.14,0:19:05.10,*Default,NTP,0000,0000,0000,,直到很难区分的高温液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until it's indistinguishable from a very, very hot liquid.
+Dialogue: 0,0:19:06.64,0:19:08.93,*Default,NTP,0000,0000,0000,,那液体就是氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The liquid is hydrogen.
+Dialogue: 0,0:19:08.98,0:19:13.06,*Default,NTP,0000,0000,0000,,这种热气腾腾的大海 无边无际\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This steamy sea, stretching from horizon to horizon,
+Dialogue: 0,0:19:13.11,0:19:16.15,*Default,NTP,0000,0000,0000,,覆盖木星的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is what passes for the surface of Jupiter.
+Dialogue: 0,0:19:16.19,0:19:20.57,*Default,NTP,0000,0000,0000,,似乎难以想象 但这种液态氢的海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It may seem unthinkable, but this liquid hydrogen ocean
+Dialogue: 0,0:19:20.61,0:19:24.95,*Default,NTP,0000,0000,0000,,漂浮在另一种更为奇怪的液体上方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is floating above another even more bizarre liquid below it.
+Dialogue: 0,0:19:28.25,0:19:31.83,*Default,NTP,0000,0000,0000,,液体在外面的世界里很难看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Liquids aren't easy to find on worlds outside of our own.
+Dialogue: 0,0:19:31.87,0:19:34.88,*Default,NTP,0000,0000,0000,,它们通常的形式是我们在地球上无法想象的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They often take forms we can't imagine on Earth.
+Dialogue: 0,0:19:37.92,0:19:42.09,*Default,NTP,0000,0000,0000,,那就是木星氢海洋的案例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's the case with Jupiter's hydrogen ocean.
+Dialogue: 0,0:19:42.13,0:19:43.13,*Default,NTP,0000,0000,0000,,貌似很陌生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Strange as it may seem,
+Dialogue: 0,0:19:43.18,0:19:47.47,*Default,NTP,0000,0000,0000,,但宇宙间最为丰富的液体却是液态氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most abundant liquid in the universe is liquid hydrogen.
+Dialogue: 0,0:19:47.51,0:19:49.64,*Default,NTP,0000,0000,0000,,现在事实上 某种程度上是并不陌生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, in fact, in some ways that's not so strange.
+Dialogue: 0,0:19:49.68,0:19:53.02,*Default,NTP,0000,0000,0000,,氢是到目前为止宇宙间最丰富的元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hydrogen is by far the most abundant element in the universe.
+Dialogue: 0,0:19:54.06,0:19:55.98,*Default,NTP,0000,0000,0000,,在宇宙大多数地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In most places in the universe,
+Dialogue: 0,0:19:56.02,0:20:00.23,*Default,NTP,0000,0000,0000,,氢分子作为气体随机游荡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hydrogen molecules are moving randomly about as a gas,
+Dialogue: 0,0:20:01.45,0:20:03.78,*Default,NTP,0000,0000,0000,,就像那些在空地里吃草的羊只\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like those sheep grazing in open space.
+Dialogue: 0,0:20:05.16,0:20:09.95,*Default,NTP,0000,0000,0000,,不过木星里的环境并没有让它们自由自在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the conditions inside Jupiter don't let them roam so freely.
+Dialogue: 0,0:20:10.00,0:20:11.75,*Default,NTP,0000,0000,0000,,不同状态下的差异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The difference between the different states
+Dialogue: 0,0:20:11.79,0:20:14.79,*Default,NTP,0000,0000,0000,,其实必定会让分子靠拢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}really has to do with how closely the molecules
+Dialogue: 0,0:20:14.83,0:20:16.38,*Default,NTP,0000,0000,0000,,挤压在一起 可以这么说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are crushed together, if you will.
+Dialogue: 0,0:20:17.38,0:20:20.46,*Default,NTP,0000,0000,0000,,在地球上 我们看到液体形成于气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, we see liquids form from gases
+Dialogue: 0,0:20:20.51,0:20:22.51,*Default,NTP,0000,0000,0000,,此时我们忽略了一杯冰水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when we leave out a glass of ice water.
+Dialogue: 0,0:20:22.55,0:20:26.55,*Default,NTP,0000,0000,0000,,暖空气接触到冰冷的杯子表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As warm air comes in contact with the surface of the cool glass,
+Dialogue: 0,0:20:26.60,0:20:30.64,*Default,NTP,0000,0000,0000,,温度的下降消耗了气体分子的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the drop in temperature saps the energy of the air molecules,
+Dialogue: 0,0:20:30.68,0:20:34.81,*Default,NTP,0000,0000,0000,,从而让它们更加接近 形成液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}bringing them closer together and forming a liquid.
+Dialogue: 0,0:20:34.85,0:20:38.11,*Default,NTP,0000,0000,0000,,温度不是影响物质状态的唯一要素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Temperature isn't the only thing that affects the state of matter.
+Dialogue: 0,0:20:38.15,0:20:40.69,*Default,NTP,0000,0000,0000,,压力同样扮演了重要的角色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pressure also plays a very important role.
+Dialogue: 0,0:20:40.73,0:20:43.24,*Default,NTP,0000,0000,0000,,压力 顾名思义 就是挤压\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pressure, as you can imagine, sort of crushes.
+Dialogue: 0,0:20:43.28,0:20:46.41,*Default,NTP,0000,0000,0000,,压力越高 把分子挤在一起就越厉害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The higher the pressure, the more it crushes molecules together
+Dialogue: 0,0:20:46.45,0:20:48.87,*Default,NTP,0000,0000,0000,,能把气体压缩成液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and can take a gas and compress it into a liquid.
+Dialogue: 0,0:20:50.91,0:20:54.08,*Default,NTP,0000,0000,0000,,比如 即使是在太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, even in interstellar space,
+Dialogue: 0,0:20:54.12,0:20:57.63,*Default,NTP,0000,0000,0000,,零下450多度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where it's over 450 degrees below zero,
+Dialogue: 0,0:20:57.67,0:21:00.80,*Default,NTP,0000,0000,0000,,杯子里的水还会蒸发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a glass of water would just boil away.
+Dialogue: 0,0:21:02.21,0:21:04.88,*Default,NTP,0000,0000,0000,,因此当你拿上一杯水进入太空时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when you take that glass of liquid water into space,
+Dialogue: 0,0:21:04.93,0:21:07.84,*Default,NTP,0000,0000,0000,,并不是温度 而是较低的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's not the temperature, it's the low pressure
+Dialogue: 0,0:21:07.89,0:21:10.51,*Default,NTP,0000,0000,0000,,让所有的分子飞起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that allows all the molecules to fly away
+Dialogue: 0,0:21:10.56,0:21:13.52,*Default,NTP,0000,0000,0000,,把杯子里的水变成了气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and turn the glass of water into a gas.
+Dialogue: 0,0:21:13.56,0:21:17.85,*Default,NTP,0000,0000,0000,,木星高炉内所发生的刚好相反\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The reverse occurs inside Jupiter's blast-furnace interior,
+Dialogue: 0,0:21:17.90,0:21:20.86,*Default,NTP,0000,0000,0000,,氢分子被上面大气的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where hydrogen molecules are jammed together 
+Dialogue: 0,0:21:20.86,0:21:23.82,*Default,NTP,0000,0000,0000,,巨大重量挤压在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the colossal weight of the atmosphere above.
+Dialogue: 0,0:21:25.90,0:21:30.07,*Default,NTP,0000,0000,0000,,一旦你将粒子压缩到晃动很小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you squeeze the particles down so they're not vibrating very much,
+Dialogue: 0,0:21:30.12,0:21:32.41,*Default,NTP,0000,0000,0000,,它们就会彼此紧挨着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then they tend to sort of stick to one another.
+Dialogue: 0,0:21:32.45,0:21:34.20,*Default,NTP,0000,0000,0000,,它们进入了一起流动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They start flowing together.
+Dialogue: 0,0:21:34.25,0:21:35.58,*Default,NTP,0000,0000,0000,,那就是液态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's the liquid state.
+Dialogue: 0,0:21:38.54,0:21:43.38,*Default,NTP,0000,0000,0000,,那就是为何 要是液态氢被设法立即送回地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's why, if liquid hydrogen were somehow instantly transported to Earth
+Dialogue: 0,0:21:43.42,0:21:45.38,*Default,NTP,0000,0000,0000,,没有足够的压力来抑制它的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without enough pressure to contain it,
+Dialogue: 0,0:21:45.42,0:21:50.93,*Default,NTP,0000,0000,0000,,哪怕是一丁点都可以重新界定为所谓的氢弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even a tiny bit could redefine what we think of as a hydrogen bomb.
+Dialogue: 0,0:21:52.93,0:21:57.10,*Default,NTP,0000,0000,0000,,从木星的氢海洋里舀起一杯水可不是个好主意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It wouldn't be a good idea to scoop up a cup of the liquid hydrogen from Jupiter
+Dialogue: 0,0:21:57.14,0:21:59.31,*Default,NTP,0000,0000,0000,,因为那里压力巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's under tremendous pressure.
+Dialogue: 0,0:22:00.44,0:22:03.40,*Default,NTP,0000,0000,0000,,会发生巨大的爆炸 远胜过TNT\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be a tremendous explosive, much better than TNT.
+Dialogue: 0,0:22:03.44,0:22:05.15,*Default,NTP,0000,0000,0000,,将会是一场灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be a total disaster.
+Dialogue: 0,0:22:10.32,0:22:13.33,*Default,NTP,0000,0000,0000,,木星液体氢海洋里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Inside Jupiter's liquid hydrogen ocean,
+Dialogue: 0,0:22:13.37,0:22:16.12,*Default,NTP,0000,0000,0000,,温度超过1 7万度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's over 17,000 degrees,
+Dialogue: 0,0:22:17.33,0:22:19.67,*Default,NTP,0000,0000,0000,,高于太阳的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hotter than the surface of the Sun.
+Dialogue: 0,0:22:22.84,0:22:25.38,*Default,NTP,0000,0000,0000,,深处的蓝色闪光标志了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The bluish glow at these depths signals
+Dialogue: 0,0:22:25.42,0:22:27.76,*Default,NTP,0000,0000,0000,,我们碰到了另一种液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we've reached another type of liquid.
+Dialogue: 0,0:22:28.97,0:22:30.43,*Default,NTP,0000,0000,0000,,它还是氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's still hydrogen,
+Dialogue: 0,0:22:30.47,0:22:34.60,*Default,NTP,0000,0000,0000,,但是非常特殊的形式 叫做金属液态氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in a very special form called metallic liquid hydrogen.
+Dialogue: 0,0:22:36.14,0:22:38.60,*Default,NTP,0000,0000,0000,,它比太阳表面更亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's brighter than the surface of the Sun
+Dialogue: 0,0:22:38.64,0:22:41.48,*Default,NTP,0000,0000,0000,,比太阳表面更蓝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and far, far bluer than the surface of the Sun.
+Dialogue: 0,0:22:41.52,0:22:45.27,*Default,NTP,0000,0000,0000,,这种环境是我们在地球上无法打造的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an environment where nothing that we can build here on Earth
+Dialogue: 0,0:22:45.32,0:22:47.99,*Default,NTP,0000,0000,0000,,是片刻都无法忍受的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could withstand that for more than a fraction of a second.
+Dialogue: 0,0:22:49.20,0:22:51.11,*Default,NTP,0000,0000,0000,,在这种极端环境中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this extreme environment,
+Dialogue: 0,0:22:51.16,0:22:54.45,*Default,NTP,0000,0000,0000,,构成木星海洋的氢分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the hydrogen molecules that make up Jupiter's ocean
+Dialogue: 0,0:22:54.49,0:22:56.62,*Default,NTP,0000,0000,0000,,变得活动异常怪异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}start to act very strangely.
+Dialogue: 0,0:22:58.16,0:23:00.66,*Default,NTP,0000,0000,0000,,普通液态氢海洋里的分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The molecules of the regular liquid hydrogen ocean
+Dialogue: 0,0:23:00.71,0:23:03.38,*Default,NTP,0000,0000,0000,,就像是成群结队的羊群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are like those sheep moving as a flock.
+Dialogue: 0,0:23:05.38,0:23:06.50,*Default,NTP,0000,0000,0000,,或更恰当的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or better yet,
+Dialogue: 0,0:23:06.55,0:23:09.01,*Default,NTP,0000,0000,0000,,更像是游乐场里的情景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more like what's happening inside of an amusement park
+Dialogue: 0,0:23:09.05,0:23:12.55,*Default,NTP,0000,0000,0000,,碰碰车在溜冰场里到处乱窜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when bumper cars are streaming around a rink.
+Dialogue: 0,0:23:13.55,0:23:15.47,*Default,NTP,0000,0000,0000,,所以液体之所以成为液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what makes a liquid a liquid
+Dialogue: 0,0:23:15.51,0:23:20.56,*Default,NTP,0000,0000,0000,,就在于原子和分子彼此之间滑动的能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the ability of the atoms and molecules to slide past each other.
+Dialogue: 0,0:23:20.60,0:23:22.52,*Default,NTP,0000,0000,0000,,原子自由移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The atoms are free to move,
+Dialogue: 0,0:23:22.56,0:23:25.69,*Default,NTP,0000,0000,0000,,它们东碰西撞 就像这些碰碰车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they jostle around, much like these bumper cars here
+Dialogue: 0,0:23:25.73,0:23:27.23,*Default,NTP,0000,0000,0000,,在这个碰碰车场里一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at this bumper car rink.
+Dialogue: 0,0:23:27.28,0:23:29.03,*Default,NTP,0000,0000,0000,,它们不能自由飞翔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can't fly freely,
+Dialogue: 0,0:23:29.07,0:23:31.65,*Default,NTP,0000,0000,0000,,但是它们始终在改变邻居的位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they are changing their neighbors all the time.
+Dialogue: 0,0:23:32.95,0:23:35.16,*Default,NTP,0000,0000,0000,,在每一个氢原子里面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Inside each hydrogen atom,
+Dialogue: 0,0:23:35.20,0:23:37.49,*Default,NTP,0000,0000,0000,,不管是气态还是液态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether it's in a gas or liquid form,
+Dialogue: 0,0:23:37.54,0:23:41.16,*Default,NTP,0000,0000,0000,,都有一个电子绑定在原子核上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a single electron is bound to its nucleus,
+Dialogue: 0,0:23:41.21,0:23:45.38,*Default,NTP,0000,0000,0000,,扣在它自己的原子碰碰车的驾驶座上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}buckled into the driver's seat of its own atomic bumper car.
+Dialogue: 0,0:23:46.88,0:23:50.42,*Default,NTP,0000,0000,0000,,然而在木星金属液态氢的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But at the surface of Jupiter's metallic liquid hydrogen,
+Dialogue: 0,0:23:50.47,0:23:53.13,*Default,NTP,0000,0000,0000,,那里的压力达到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a depth where the pressure reaches 3 million times 
+Dialogue: 0,0:23:53.13,0:23:56.47,*Default,NTP,0000,0000,0000,,地球表面的300万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what we experience on Earth's surface,
+Dialogue: 0,0:23:56.51,0:23:59.81,*Default,NTP,0000,0000,0000,,氢分子崩溃了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the hydrogen molecules are freaking out.
+Dialogue: 0,0:23:59.85,0:24:03.89,*Default,NTP,0000,0000,0000,,液态氢实际上变成了液态金属氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The liquid hydrogen actually becomes liquid metallic hydrogen.
+Dialogue: 0,0:24:03.94,0:24:06.86,*Default,NTP,0000,0000,0000,,现在 我所说的那个液态氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, what I mean by that is that the liquid hydrogen
+Dialogue: 0,0:24:06.90,0:24:10.36,*Default,NTP,0000,0000,0000,,变得导电导热良好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}starts conducting electricity and heat really well.
+Dialogue: 0,0:24:11.40,0:24:14.53,*Default,NTP,0000,0000,0000,,在木星金属液态氢里面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Inside Jupiter's metallic liquid hydrogen,
+Dialogue: 0,0:24:14.57,0:24:18.20,*Default,NTP,0000,0000,0000,,电子在分子间跳来跳去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}electrons are jumping from molecule to molecule,
+Dialogue: 0,0:24:18.24,0:24:22.79,*Default,NTP,0000,0000,0000,,与自己的原子核拜拜 去找新家了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}splitting away from their own nucleus and finding another home.
+Dialogue: 0,0:24:22.83,0:24:25.21,*Default,NTP,0000,0000,0000,,它们高效地带着电荷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're carrying electric charges efficiently
+Dialogue: 0,0:24:25.25,0:24:26.63,*Default,NTP,0000,0000,0000,,从一个地方到另一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from one place to another,
+Dialogue: 0,0:24:26.67,0:24:28.88,*Default,NTP,0000,0000,0000,,传递着电荷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the transport of electric charges,
+Dialogue: 0,0:24:28.92,0:24:29.92,*Default,NTP,0000,0000,0000,,形成了电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's the current.
+Dialogue: 0,0:24:29.96,0:24:31.46,*Default,NTP,0000,0000,0000,,那就让电流流动了起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what allows current to flow.
+Dialogue: 0,0:24:31.51,0:24:34.01,*Default,NTP,0000,0000,0000,,你肯定不想在那里的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you sure wouldn't want to be there
+Dialogue: 0,0:24:34.05,0:24:38.68,*Default,NTP,0000,0000,0000,,要是有人放电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if someone were to discharge a big bolt of lightning
+Dialogue: 0,0:24:38.72,0:24:41.14,*Default,NTP,0000,0000,0000,,或类似的东西 因为电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or something like that, because that electricity
+Dialogue: 0,0:24:41.18,0:24:44.23,*Default,NTP,0000,0000,0000,,会轻易穿越液态金属氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would travel easily through the liquid metallic hydrogen,
+Dialogue: 0,0:24:44.27,0:24:47.10,*Default,NTP,0000,0000,0000,,将你杀死 把你烤死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}zapping you completely, frying you.
+Dialogue: 0,0:24:50.86,0:24:53.86,*Default,NTP,0000,0000,0000,,地球上最接近金属液态氢的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The closest thing to metallic liquid hydrogen on Earth
+Dialogue: 0,0:24:55.07,0:24:57.07,*Default,NTP,0000,0000,0000,,是钢水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is liquid steel.
+Dialogue: 0,0:24:57.12,0:25:00.49,*Default,NTP,0000,0000,0000,,他们把钢水倒出坩埚时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When they pour the liquid steel out of the cauldron,
+Dialogue: 0,0:25:00.54,0:25:04.41,*Default,NTP,0000,0000,0000,,炙热 流动 导电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's glowing hot, it's flowing, it's conductive of electricity.
+Dialogue: 0,0:25:04.46,0:25:07.12,*Default,NTP,0000,0000,0000,,那非常像木星内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's very much like the interior of Jupiter
+Dialogue: 0,0:25:07.17,0:25:09.08,*Default,NTP,0000,0000,0000,,会是你在那里的情形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be like if you could be down there.
+Dialogue: 0,0:25:10.13,0:25:13.51,*Default,NTP,0000,0000,0000,,在木星北部 金属液态氢不同于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Inside Jupiter, the metallic liquid hydrogen is different
+Dialogue: 0,0:25:13.55,0:25:18.30,*Default,NTP,0000,0000,0000,,普通的液态氢 因为它是导电的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the regular liquid hydrogen, because it's conducting electricity.
+Dialogue: 0,0:25:18.35,0:25:22.10,*Default,NTP,0000,0000,0000,,因此事实上 电子能够在其中自由流动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the fact that the electrons are able to flow freely inside
+Dialogue: 0,0:25:22.14,0:25:26.89,*Default,NTP,0000,0000,0000,,意味着你可以在木星内部看到强电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}means that you can have strong electric currents in the interior of Jupiter.
+Dialogue: 0,0:25:26.94,0:25:30.61,*Default,NTP,0000,0000,0000,,要是你有液体具有强电流的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And whenever you have a fluid that has strong electric currents,
+Dialogue: 0,0:25:30.65,0:25:33.07,*Default,NTP,0000,0000,0000,,那就会创造出一个磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then it will create a magnetic field.
+Dialogue: 0,0:25:41.03,0:25:44.66,*Default,NTP,0000,0000,0000,,四周方圆400万英里的空间里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For over 4 million miles of space in each direction,
+Dialogue: 0,0:25:44.70,0:25:48.83,*Default,NTP,0000,0000,0000,,木星的磁场截住并偏转在我们太阳系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter's magnetic field scoops up and deflects charged particles
+Dialogue: 0,0:25:48.88,0:25:51.63,*Default,NTP,0000,0000,0000,,自然流动的带电粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that naturally course through our solar system.
+Dialogue: 0,0:25:54.21,0:25:58.22,*Default,NTP,0000,0000,0000,,不过宇宙间最大最强的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the largest and most powerful magnetic fields in the universe
+Dialogue: 0,0:25:58.26,0:26:02.93,*Default,NTP,0000,0000,0000,,是从古怪的恒星尸体中射出的 那就是中子星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shoot out from curious stellar corpses known as neutron stars.
+Dialogue: 0,0:26:05.27,0:26:08.73,*Default,NTP,0000,0000,0000,,这些磁场可能产自液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These magnetic fields may also be generated by liquid.
+Dialogue: 0,0:26:09.94,0:26:13.52,*Default,NTP,0000,0000,0000,,不管怎样 死亡之星的内部貌似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, the interior of a dead star seems like the last place
+Dialogue: 0,0:26:13.57,0:26:16.11,*Default,NTP,0000,0000,0000,,你预计能找到液体的最后的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'd expect to find anything flowing.
+Dialogue: 0,0:26:18.53,0:26:22.83,*Default,NTP,0000,0000,0000,,中子星就好象是一大堆种子材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A neutron star is like a big hunk of neutron material,
+Dialogue: 0,0:26:22.87,0:26:25.41,*Default,NTP,0000,0000,0000,,尽可能紧的挤压在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just packed as tight as it can be.
+Dialogue: 0,0:26:25.45,0:26:27.66,*Default,NTP,0000,0000,0000,,我们将其称为物质的简并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We call that matter degenerate
+Dialogue: 0,0:26:27.71,0:26:31.21,*Default,NTP,0000,0000,0000,,因为它已被压缩的紧得不能再紧了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it can't get packed any tighter.
+Dialogue: 0,0:26:31.25,0:26:33.50,*Default,NTP,0000,0000,0000,,大多数物质 你挤压它们 就会更致密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most materials, you push on them, they get denser.
+Dialogue: 0,0:26:33.55,0:26:35.67,*Default,NTP,0000,0000,0000,,你挤压越用力 它们就越致密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You push on them harder, they get denser.
+Dialogue: 0,0:26:35.71,0:26:37.51,*Default,NTP,0000,0000,0000,,简并物质就不一样了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not a degenerate material.
+Dialogue: 0,0:26:37.55,0:26:39.72,*Default,NTP,0000,0000,0000,,你挤压它 再也挤不动了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You push on it, it's not going anywhere.
+Dialogue: 0,0:26:41.18,0:26:44.68,*Default,NTP,0000,0000,0000,,中子星的直径约几十英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neutron stars are roughly a dozen miles in diameter,
+Dialogue: 0,0:26:44.72,0:26:47.85,*Default,NTP,0000,0000,0000,,约是大城市的大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about the size of a large city.
+Dialogue: 0,0:26:47.89,0:26:49.73,*Default,NTP,0000,0000,0000,,中子星很庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neutron stars are so massive
+Dialogue: 0,0:26:49.77,0:26:54.02,*Default,NTP,0000,0000,0000,,质量被压缩在一个很小的区域里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the mass is compressed into such a tiny region
+Dialogue: 0,0:26:54.07,0:26:57.61,*Default,NTP,0000,0000,0000,,基本上开始弯曲空间本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it basically is starting to warp space itself.
+Dialogue: 0,0:26:59.40,0:27:02.32,*Default,NTP,0000,0000,0000,,造访其表面是不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Visiting its surface is impossible.
+Dialogue: 0,0:27:04.08,0:27:06.12,*Default,NTP,0000,0000,0000,,你用普通材料打造的所有东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Anything that you could build out of ordinary material
+Dialogue: 0,0:27:06.16,0:27:08.20,*Default,NTP,0000,0000,0000,,都会被压扁或压碎在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be immediately flattened and crushed
+Dialogue: 0,0:27:08.25,0:27:10.71,*Default,NTP,0000,0000,0000,,中子星的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the surface of a neutron star.
+Dialogue: 0,0:27:12.42,0:27:15.13,*Default,NTP,0000,0000,0000,,中子星 引力很高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neutron stars, the gravity is so high
+Dialogue: 0,0:27:15.17,0:27:17.80,*Default,NTP,0000,0000,0000,,甚至中子星上最高的山脉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that even the highest mountain range on a neutron star
+Dialogue: 0,0:27:17.84,0:27:20.05,*Default,NTP,0000,0000,0000,,都只能用毫米来衡量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is just measured in-- in literally millimeters.
+Dialogue: 0,0:27:21.59,0:27:25.68,*Default,NTP,0000,0000,0000,,液体会存在于如此恶劣的环境之中吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could liquid possibly exist inside this hostile environment?
+Dialogue: 0,0:27:25.72,0:27:29.06,*Default,NTP,0000,0000,0000,,出人意料的是 答案有可能是肯定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Surprisingly, the answer may be yes.
+Dialogue: 0,0:27:29.10,0:27:31.85,*Default,NTP,0000,0000,0000,,有些科学家认为中子星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists believe that neutron stars
+Dialogue: 0,0:27:31.90,0:27:34.48,*Default,NTP,0000,0000,0000,,并不是彻头彻尾的固体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are not solid to the core.
+Dialogue: 0,0:27:34.52,0:27:38.28,*Default,NTP,0000,0000,0000,,事实上 其内部有可能活动很自由\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, their interiors may be moving so freely,
+Dialogue: 0,0:27:38.32,0:27:41.90,*Default,NTP,0000,0000,0000,,其中有可能充满了叫做超流体的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they could be filled with something called superfluids,
+Dialogue: 0,0:27:41.95,0:27:44.78,*Default,NTP,0000,0000,0000,,没有稠度或粘度的液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}liquids with no thickness or viscosity.
+Dialogue: 0,0:27:46.33,0:27:51.25,*Default,NTP,0000,0000,0000,,粘度是衡量流体抵抗流动的指标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Viscosity is a measure of how resistant a fluid is to flowing.
+Dialogue: 0,0:27:51.29,0:27:55.46,*Default,NTP,0000,0000,0000,,因此低粘度的材料如水流动很容易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So a low-viscosity material like water flows very easily.
+Dialogue: 0,0:27:55.50,0:27:59.76,*Default,NTP,0000,0000,0000,,我的意思是 你可以看到它很快就流入碗里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, you can see how quickly it falls into this bowl.
+Dialogue: 0,0:28:00.76,0:28:03.88,*Default,NTP,0000,0000,0000,,但是蜂蜜 这一边的 非常粘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But honey, on the other hand, is very viscous,
+Dialogue: 0,0:28:03.93,0:28:06.30,*Default,NTP,0000,0000,0000,,它流动很慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it flows more slowly.
+Dialogue: 0,0:28:06.35,0:28:08.93,*Default,NTP,0000,0000,0000,,流体越稠 或越粘稠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The thicker a fluid is, or the more viscous,
+Dialogue: 0,0:28:08.97,0:28:10.06,*Default,NTP,0000,0000,0000,,流动就越少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the less it flows,
+Dialogue: 0,0:28:10.10,0:28:12.27,*Default,NTP,0000,0000,0000,,其中的东西流动就越少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the less things can move around in it.
+Dialogue: 0,0:28:14.10,0:28:17.15,*Default,NTP,0000,0000,0000,,超流体具有零粘度 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A superfluid has zero viscosity--
+Dialogue: 0,0:28:17.19,0:28:20.48,*Default,NTP,0000,0000,0000,,液体非常稀薄 流动永不停\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a liquid so thin, it never stops flowing.
+Dialogue: 0,0:28:21.36,0:28:25.07,*Default,NTP,0000,0000,0000,,因此在中子星内部的怪异流体里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So in the bizarre fluid inside a neutron star,
+Dialogue: 0,0:28:25.12,0:28:27.62,*Default,NTP,0000,0000,0000,,具有我们所说的超流体性质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it has what we call a superfluid property.
+Dialogue: 0,0:28:27.66,0:28:31.45,*Default,NTP,0000,0000,0000,,因此其意思就是如果你开始搅动出一些水流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so what that means is that if you start up some sort of current,
+Dialogue: 0,0:28:31.50,0:28:35.17,*Default,NTP,0000,0000,0000,,如果你能够在中子星内部弄出一个漩涡的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you're able to start up a vortex inside a neutron star,
+Dialogue: 0,0:28:35.21,0:28:37.79,*Default,NTP,0000,0000,0000,,它就会一直转啊 转个不停\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then it will just keep going and going and going
+Dialogue: 0,0:28:37.84,0:28:39.00,*Default,NTP,0000,0000,0000,,不会消亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it won't die out.
+Dialogue: 0,0:28:39.05,0:28:42.76,*Default,NTP,0000,0000,0000,,一点都不存在粘性 让这些水流消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no viscosity that causes these currents to dissolve away.
+Dialogue: 0,0:28:44.01,0:28:49.47,*Default,NTP,0000,0000,0000,,有些中子星如陀螺一般旋转 每秒转上几圈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some neutron stars spin like tops, rotating several times every second.
+Dialogue: 0,0:28:51.39,0:28:54.81,*Default,NTP,0000,0000,0000,,就像木星上液态金属氢的情形一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And just like the liquid metallic hydrogen works for Jupiter,
+Dialogue: 0,0:28:54.85,0:28:59.11,*Default,NTP,0000,0000,0000,,超流体内部 高能粒子到处游荡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a superfluid interior, sloshing energetic particles around,
+Dialogue: 0,0:28:59.15,0:29:01.65,*Default,NTP,0000,0000,0000,,产生出一个巨大的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spawns a massive magnetic field,
+Dialogue: 0,0:29:01.69,0:29:04.57,*Default,NTP,0000,0000,0000,,只是中子星的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}except that a neutron star's magnetic field
+Dialogue: 0,0:29:04.61,0:29:07.03,*Default,NTP,0000,0000,0000,,要强上数百万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is millions of times more powerful.
+Dialogue: 0,0:29:09.16,0:29:13.54,*Default,NTP,0000,0000,0000,,我们的地球有其自己的液体在深处搅动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our planet has its own liquid churning deep inside.
+Dialogue: 0,0:29:13.58,0:29:18.25,*Default,NTP,0000,0000,0000,,虽然没人见过它 但是地球上的生命离开了它就无法生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although no one has ever seen it, life on Earth wouldn't exist without it.
+Dialogue: 0,0:29:21.92,0:29:24.92,*Default,NTP,0000,0000,0000,,生命 我们知道它离开了液体将无法生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life as we know it wouldn't exist without liquids.
+Dialogue: 0,0:29:26.38,0:29:29.22,*Default,NTP,0000,0000,0000,,在地球上 你可能会认为水是最重要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, you might think it's water that's most critical.
+Dialogue: 0,0:29:30.47,0:29:33.47,*Default,NTP,0000,0000,0000,,但还有一种地球液体同样至关重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's another Earthly liquid that's just as vital.
+Dialogue: 0,0:29:36.02,0:29:39.06,*Default,NTP,0000,0000,0000,,地球地表以下1800英里处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}1,800 miles below the Earth's surface,
+Dialogue: 0,0:29:39.11,0:29:42.15,*Default,NTP,0000,0000,0000,,温度达到了炙热的7000度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where it's a scalding 7,000 degrees,
+Dialogue: 0,0:29:42.19,0:29:45.94,*Default,NTP,0000,0000,0000,,铁水大海有一千多英里深\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a sea of liquid iron over a thousand miles deep,
+Dialogue: 0,0:29:45.99,0:29:49.11,*Default,NTP,0000,0000,0000,,包裹着我们星球的固体内核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}engulfs the solid inner core of our planet.
+Dialogue: 0,0:29:50.41,0:29:53.87,*Default,NTP,0000,0000,0000,,不过科学家又是如何能确定地球内部的东西的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how can scientists be sure what's inside the Earth?
+Dialogue: 0,0:29:55.62,0:29:58.50,*Default,NTP,0000,0000,0000,,这正是来自康涅狄格州丹伯里的吉娜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's exactly what Gina S. from Danbury, Connecticut,
+Dialogue: 0,0:29:58.54,0:30:01.88,*Default,NTP,0000,0000,0000,,向《宇宙》节目提出的问题 她发短信给我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wanted to ask "The Universe," when she texted us,
+Dialogue: 0,0:30:01.92,0:30:04.92,*Default,NTP,0000,0000,0000,,"我们是如何得知地球有一个铁核的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"How do we know the Earth has an iron core
+Dialogue: 0,0:30:04.96,0:30:06.84,*Default,NTP,0000,0000,0000,,而我们又从来没见过它？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"if we've never seen it?"
+Dialogue: 0,0:30:07.51,0:30:09.30,*Default,NTP,0000,0000,0000,,多谢提问 吉娜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks for the question, Gina.
+Dialogue: 0,0:30:09.34,0:30:13.22,*Default,NTP,0000,0000,0000,,原来科学家往往能够间接推断事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns out that scientists can often infer things indirectly,
+Dialogue: 0,0:30:13.26,0:30:15.72,*Default,NTP,0000,0000,0000,,即使他们无法直接看到它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even if they can't see them directly.
+Dialogue: 0,0:30:15.77,0:30:17.56,*Default,NTP,0000,0000,0000,,比如 我们知道地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, we know that the Earth
+Dialogue: 0,0:30:17.60,0:30:21.77,*Default,NTP,0000,0000,0000,,有一个液态的外核和一个固态的内核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has a liquid iron outer core and a solid iron inner core
+Dialogue: 0,0:30:21.82,0:30:23.98,*Default,NTP,0000,0000,0000,,因为地球有一个大磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because Earth has a big magnetic field,
+Dialogue: 0,0:30:24.03,0:30:28.53,*Default,NTP,0000,0000,0000,,这个液态铁核里的导电活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and motions in this electrically conducting liquid iron core
+Dialogue: 0,0:30:28.57,0:30:31.03,*Default,NTP,0000,0000,0000,,就是产生磁场的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are what produce the magnetic field.
+Dialogue: 0,0:30:34.04,0:30:38.75,*Default,NTP,0000,0000,0000,,没有了磁场 地球上的生命将会遭殃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without a magnetic field, life on Earth's surface would suffer.
+Dialogue: 0,0:30:38.79,0:30:41.96,*Default,NTP,0000,0000,0000,,要是它不存在 那么来自太阳及外太空的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it didn't exist, then all these charged particles
+Dialogue: 0,0:30:42.00,0:30:44.25,*Default,NTP,0000,0000,0000,,所有这些带电粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming from the Sun and from outer space
+Dialogue: 0,0:30:44.30,0:30:46.59,*Default,NTP,0000,0000,0000,,将会闯入我们的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would go zipping through our atmosphere
+Dialogue: 0,0:30:46.63,0:30:49.01,*Default,NTP,0000,0000,0000,,影响到生命细胞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and interact with living cells,
+Dialogue: 0,0:30:49.05,0:30:51.47,*Default,NTP,0000,0000,0000,,造成大量的癌变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}causing lots more cancerous mutations.
+Dialogue: 0,0:30:53.64,0:30:57.18,*Default,NTP,0000,0000,0000,,不同于地核 地球表面的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike at the core, the conditions at the Earth's surface
+Dialogue: 0,0:30:57.23,0:31:00.44,*Default,NTP,0000,0000,0000,,把铁冻结得非常坚固\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}freeze iron into a solid so strong
+Dialogue: 0,0:31:00.48,0:31:05.15,*Default,NTP,0000,0000,0000,,我们在建造高大的办公楼或大桥时就要有求于它了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we turn to it when we need to construct tall office towers or long bridges.
+Dialogue: 0,0:31:06.07,0:31:08.36,*Default,NTP,0000,0000,0000,,但是在星系遥远的角落里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in distant corners of the galaxy,
+Dialogue: 0,0:31:08.40,0:31:11.57,*Default,NTP,0000,0000,0000,,居然有世界 具有天然的高温和密度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are worlds so naturally hot and dense
+Dialogue: 0,0:31:11.61,0:31:15.33,*Default,NTP,0000,0000,0000,,铁只不过是热气腾腾的毛毛细雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that iron is nothing more than a steamy drizzle.
+Dialogue: 0,0:31:16.54,0:31:20.96,*Default,NTP,0000,0000,0000,,它们出现在那里 几乎被忽视和误解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're out there, mostly overlooked and misunderstood,
+Dialogue: 0,0:31:21.00,0:31:24.33,*Default,NTP,0000,0000,0000,,作为行星则太大 作为恒星则太小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}too big to be planets and too small to be stars.
+Dialogue: 0,0:31:25.17,0:31:27.71,*Default,NTP,0000,0000,0000,,它们就是所谓的褐矮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're known as brown dwarfs.
+Dialogue: 0,0:31:30.55,0:31:33.93,*Default,NTP,0000,0000,0000,,这些物体就像是超大版本的木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These objects are like super-sized versions of Jupiter,
+Dialogue: 0,0:31:33.97,0:31:38.56,*Default,NTP,0000,0000,0000,,气体巨星 除了质量大出75倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gas giants, except up to 75 times more massive.
+Dialogue: 0,0:31:40.06,0:31:43.31,*Default,NTP,0000,0000,0000,,褐矮星 某种意义上 是失败的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Brown dwarfs, in a sense, are failed stars.
+Dialogue: 0,0:31:43.35,0:31:45.98,*Default,NTP,0000,0000,0000,,它们没有足够的质量在其内部产生出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They didn't have enough mass ever to produce
+Dialogue: 0,0:31:46.02,0:31:50.07,*Default,NTP,0000,0000,0000,,足够高的温度和压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sufficiently high temperatures and pressures in their interior
+Dialogue: 0,0:31:50.11,0:31:54.20,*Default,NTP,0000,0000,0000,,去点燃普通的氢并长期燃烧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to ignite normal hydrogen and burn it for a long time.
+Dialogue: 0,0:31:55.49,0:31:58.16,*Default,NTP,0000,0000,0000,,不过这些对象还是非常炙热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But these objects are still very hot,
+Dialogue: 0,0:31:58.20,0:32:01.00,*Default,NTP,0000,0000,0000,,尽管它们的名字那样 但并不是褐色的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and despite their names, not brown.
+Dialogue: 0,0:32:02.42,0:32:03.96,*Default,NTP,0000,0000,0000,,如果你在它跟前 它发出的光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were right there, it would be glowing
+Dialogue: 0,0:32:04.00,0:32:07.50,*Default,NTP,0000,0000,0000,,有点像是橙红色的 大量的热量源源不断散发出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sort of a cherry-orange red, a lot of heat coming off,
+Dialogue: 0,0:32:07.55,0:32:10.59,*Default,NTP,0000,0000,0000,,因此你会在褐矮星附近燃烧起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so you would get burned in the vicinity of a brown dwarf.
+Dialogue: 0,0:32:12.51,0:32:15.80,*Default,NTP,0000,0000,0000,,这些对象温度很高 以至于褐矮星的云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These objects are so hot that brown dwarf clouds
+Dialogue: 0,0:32:15.85,0:32:18.47,*Default,NTP,0000,0000,0000,,并非如地球上那样由水蒸汽构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}aren't made of water vapor like on Earth,
+Dialogue: 0,0:32:18.51,0:32:21.22,*Default,NTP,0000,0000,0000,,而是气态的铁蒸汽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but rather gaseous iron vapor.
+Dialogue: 0,0:32:22.89,0:32:25.31,*Default,NTP,0000,0000,0000,,在褐矮星内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the interior of the brown dwarf,
+Dialogue: 0,0:32:25.36,0:32:27.02,*Default,NTP,0000,0000,0000,,压力非常之高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the pressures are sufficiently high,
+Dialogue: 0,0:32:27.07,0:32:31.86,*Default,NTP,0000,0000,0000,,气态的铁会凝结成液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the gaseous iron can condense into a liquid
+Dialogue: 0,0:32:31.90,0:32:37.03,*Default,NTP,0000,0000,0000,,实际上会以液态铁雨滴落下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and can actually rain down as liquid droplets of iron.
+Dialogue: 0,0:32:37.08,0:32:38.95,*Default,NTP,0000,0000,0000,,那真是好酷啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That is really cool.
+Dialogue: 0,0:32:40.20,0:32:44.62,*Default,NTP,0000,0000,0000,,没错 褐矮星上下起了铁雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's right. It rains iron on brown dwarfs.
+Dialogue: 0,0:32:44.67,0:32:47.88,*Default,NTP,0000,0000,0000,,庆幸的是 我们地球上没有铁雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately, we don't have iron rain here on Earth,
+Dialogue: 0,0:32:47.92,0:32:50.75,*Default,NTP,0000,0000,0000,,但要是我们曾有过的话 那完全就不很愉快了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but if we were to have it, it wouldn't be very pleasant at all.
+Dialogue: 0,0:32:52.47,0:32:54.63,*Default,NTP,0000,0000,0000,,就会有滚烫的铁雨滴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There'd be these hot blobs of iron
+Dialogue: 0,0:32:54.68,0:32:56.89,*Default,NTP,0000,0000,0000,,劈头盖脑落下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hitting your head and cheeks and your arms
+Dialogue: 0,0:32:56.93,0:32:58.22,*Default,NTP,0000,0000,0000,,灼伤烫伤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and burning them and scalding them.
+Dialogue: 0,0:32:58.26,0:32:59.85,*Default,NTP,0000,0000,0000,,再加上非常沉重\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And plus being pretty heavy.
+Dialogue: 0,0:32:59.89,0:33:03.60,*Default,NTP,0000,0000,0000,,告诉你 你要是被快速的铁雨滴击中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, if you get hit by a rapidly moving droplet of iron,
+Dialogue: 0,0:33:03.64,0:33:05.27,*Default,NTP,0000,0000,0000,,那感觉就不那么好受了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that wouldn't feel very good.
+Dialogue: 0,0:33:06.27,0:33:08.61,*Default,NTP,0000,0000,0000,,液态铁从未在地球上落下过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Liquid iron never falls on Earth,
+Dialogue: 0,0:33:08.65,0:33:12.65,*Default,NTP,0000,0000,0000,,但有可能现在就在宇宙各处发生着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it might be happening right now all across the universe.
+Dialogue: 0,0:33:13.90,0:33:15.86,*Default,NTP,0000,0000,0000,,我们星系里到处都是褐矮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our galaxy is really teeming with brown dwarfs.
+Dialogue: 0,0:33:15.91,0:33:19.24,*Default,NTP,0000,0000,0000,,我们星系里有数百亿颗褐矮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's tens of billions of brown dwarfs in our galaxy,
+Dialogue: 0,0:33:19.28,0:33:21.79,*Default,NTP,0000,0000,0000,,几乎与实际存在的恒星一样多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}almost as many as there are actual stars.
+Dialogue: 0,0:33:22.91,0:33:26.71,*Default,NTP,0000,0000,0000,,不过我们的星系里也充斥着较小的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But our galaxy is also flooded with smaller worlds,
+Dialogue: 0,0:33:26.75,0:33:29.84,*Default,NTP,0000,0000,0000,,较多岩石 温度较低 更像地球的样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rockier and cooler, more like Earth.
+Dialogue: 0,0:33:31.13,0:33:33.63,*Default,NTP,0000,0000,0000,,最近发生的最惊奇的事情之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the most amazing things that happened recently
+Dialogue: 0,0:33:33.67,0:33:35.42,*Default,NTP,0000,0000,0000,,就是我们发现了首颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that we found the first planet
+Dialogue: 0,0:33:35.47,0:33:38.51,*Default,NTP,0000,0000,0000,,其表面或存在有水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could potentially have water on its surface.
+Dialogue: 0,0:33:40.10,0:33:46.14,*Default,NTP,0000,0000,0000,,该行星位于围绕着名为格利泽581的恒星的太阳系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planet is in a solar system orbiting a star named Gliese 581,
+Dialogue: 0,0:33:46.19,0:33:48.52,*Default,NTP,0000,0000,0000,,距离地球约20光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 20 light-years from Earth.
+Dialogue: 0,0:33:50.98,0:33:56.61,*Default,NTP,0000,0000,0000,,其中第四颗行星 格利泽581d 轨道非常靠近其恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fourth planet out, Gliese 581d, circles so close to its star
+Dialogue: 0,0:33:56.65,0:34:00.82,*Default,NTP,0000,0000,0000,,它一年就只有66天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that one of its years lasts just 66 days.
+Dialogue: 0,0:34:03.24,0:34:05.50,*Default,NTP,0000,0000,0000,,不过那是个好事情 如果我们想找到一颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that's a good thing if we want to find a planet
+Dialogue: 0,0:34:05.54,0:34:08.04,*Default,NTP,0000,0000,0000,,其表面存在水的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with water on its surface,
+Dialogue: 0,0:34:08.08,0:34:12.38,*Default,NTP,0000,0000,0000,,因为格利泽581比我们的太阳更小更冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because Gliese 581 is smaller and cooler than our Sun.
+Dialogue: 0,0:34:16.05,0:34:19.30,*Default,NTP,0000,0000,0000,,估算揭示了格利泽581d\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Estimates have revealed Gliese 581d
+Dialogue: 0,0:34:19.34,0:34:22.85,*Default,NTP,0000,0000,0000,,其质量是地球的10倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be 10 times more massive than Earth,
+Dialogue: 0,0:34:22.89,0:34:25.56,*Default,NTP,0000,0000,0000,,直径是宽度的两倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a diameter that is twice as wide.
+Dialogue: 0,0:34:26.56,0:34:29.48,*Default,NTP,0000,0000,0000,,有些科学家认为其额外的质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists think that what makes up that extra mass
+Dialogue: 0,0:34:29.52,0:34:31.31,*Default,NTP,0000,0000,0000,,有可能主要是气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could be mostly gas.
+Dialogue: 0,0:34:31.36,0:34:34.90,*Default,NTP,0000,0000,0000,,那意味着格利泽581d可能类似于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means Gliese 581d could resemble
+Dialogue: 0,0:34:34.94,0:34:37.28,*Default,NTP,0000,0000,0000,,我们太阳系里的气体巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the gas giants of our solar system,
+Dialogue: 0,0:34:37.32,0:34:41.28,*Default,NTP,0000,0000,0000,,如木星 土星 天王星 海王星那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like Jupiter, Saturn, Uranus, and Neptune.
+Dialogue: 0,0:34:42.37,0:34:44.95,*Default,NTP,0000,0000,0000,,大量的气体 很少的液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lots of gas, very little liquid.
+Dialogue: 0,0:34:46.58,0:34:51.04,*Default,NTP,0000,0000,0000,,不过其他人认为格利泽581d是不一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But others believe that Gliese 581d is different,
+Dialogue: 0,0:34:51.08,0:34:52.17,*Default,NTP,0000,0000,0000,,更像是地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more like Earth.
+Dialogue: 0,0:34:53.21,0:34:56.84,*Default,NTP,0000,0000,0000,,我们认为你要拼凑出10倍的地球质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We think 10 times Earth's mass you can make up
+Dialogue: 0,0:34:56.88,0:34:59.84,*Default,NTP,0000,0000,0000,,只要将岩石材料堆在一起就行了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by just piling rocky material together.
+Dialogue: 0,0:34:59.88,0:35:02.76,*Default,NTP,0000,0000,0000,,也就是使其成为我们所谓的超级地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So just make it something that we call a super-Earth.
+Dialogue: 0,0:35:03.72,0:35:05.64,*Default,NTP,0000,0000,0000,,它也可以是一个迷你海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could be a mini-Neptune, too.
+Dialogue: 0,0:35:05.68,0:35:06.97,*Default,NTP,0000,0000,0000,,尚无定论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The jury is still out.
+Dialogue: 0,0:35:07.02,0:35:11.19,*Default,NTP,0000,0000,0000,,不过它是首个有可能像地球的东西 只是更大些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's the first one that could be like Earth, just bigger.
+Dialogue: 0,0:35:12.73,0:35:15.02,*Default,NTP,0000,0000,0000,,到了地球质量的10倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At 10 times Earth's mass,
+Dialogue: 0,0:35:15.07,0:35:18.40,*Default,NTP,0000,0000,0000,,这颗外行星有可能会是一个水世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this exoplanet may turn out to be a water world,
+Dialogue: 0,0:35:18.44,0:35:20.86,*Default,NTP,0000,0000,0000,,包裹着很深的大海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}covered in a very deep ocean.
+Dialogue: 0,0:35:22.82,0:35:27.37,*Default,NTP,0000,0000,0000,,格利泽581d紧凑的轨道意味着其母星的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gliese 581d's tight orbit means its parent star's gravity
+Dialogue: 0,0:35:27.41,0:35:30.75,*Default,NTP,0000,0000,0000,,始终让行星的一面面对着恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}keeps the same side of the planet facing the star.
+Dialogue: 0,0:35:31.71,0:35:35.25,*Default,NTP,0000,0000,0000,,那就意味着行星的一半永远都没有黑夜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means half of the planet never goes dark.
+Dialogue: 0,0:35:35.88,0:35:38.13,*Default,NTP,0000,0000,0000,,因此基本上 就是你在看月球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, basically, whenever you look up at the Moon,
+Dialogue: 0,0:35:38.17,0:35:40.22,*Default,NTP,0000,0000,0000,,看到的是始终月球的同一个面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you see the same side of the Moon.
+Dialogue: 0,0:35:40.26,0:35:43.93,*Default,NTP,0000,0000,0000,,那就是挨近恒星的行星所发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would happen to a planet that close to a star.
+Dialogue: 0,0:35:45.64,0:35:49.72,*Default,NTP,0000,0000,0000,,这颗行星的一侧永远不会感觉到阳光的温暖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The far side of this planet never feels the warmth of sunlight,
+Dialogue: 0,0:35:49.77,0:35:52.60,*Default,NTP,0000,0000,0000,,有可能就是冰天雪地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leaving it potentially covered in ice.
+Dialogue: 0,0:35:54.61,0:35:56.02,*Default,NTP,0000,0000,0000,,要是你想到了这一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you think about that,
+Dialogue: 0,0:35:56.07,0:35:58.23,*Default,NTP,0000,0000,0000,,应该会有极端的强风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there should be extremely strong winds
+Dialogue: 0,0:35:58.28,0:36:00.11,*Default,NTP,0000,0000,0000,,从高温一侧吹向寒冷的一侧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the hot to the cold side.
+Dialogue: 0,0:36:01.49,0:36:04.49,*Default,NTP,0000,0000,0000,,大风产生波浪 即使是在地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wind creates waves, even on Earth,
+Dialogue: 0,0:36:04.53,0:36:08.41,*Default,NTP,0000,0000,0000,,劲吹的空气推拉着水面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whenever gusts of air push and pull at the water's surface.
+Dialogue: 0,0:36:10.71,0:36:15.08,*Default,NTP,0000,0000,0000,,如果格利泽581d确实是个水世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If Gliese 581d really is a water world,
+Dialogue: 0,0:36:15.13,0:36:18.13,*Default,NTP,0000,0000,0000,,那么就没有陆地来瓦解波涛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then there's no land to break up the waves.
+Dialogue: 0,0:36:19.38,0:36:20.92,*Default,NTP,0000,0000,0000,,你有高达一英里的波涛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have waves a mile high,
+Dialogue: 0,0:36:20.97,0:36:24.01,*Default,NTP,0000,0000,0000,,它们会愈演愈烈高达数英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they keep going and keep going for miles.
+Dialogue: 0,0:36:24.05,0:36:26.22,*Default,NTP,0000,0000,0000,,因此你要是喜欢冲浪的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if you like surfing,
+Dialogue: 0,0:36:26.26,0:36:28.68,*Default,NTP,0000,0000,0000,,那地方绝对是你求之不得的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's definitely where you want to be.
+Dialogue: 0,0:36:28.72,0:36:32.14,*Default,NTP,0000,0000,0000,,这个超级大洋的下面可能存在硬壳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There might be a hard surface underneath this super-ocean,
+Dialogue: 0,0:36:32.19,0:36:34.98,*Default,NTP,0000,0000,0000,,但将完全不同于我们在地球上所知的一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's unlike anything we know on Earth.
+Dialogue: 0,0:36:35.02,0:36:38.94,*Default,NTP,0000,0000,0000,,那是固态的水 称为七度冰(冰的立方结晶体)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a state of solid water known as Ice VII.
+Dialogue: 0,0:36:40.36,0:36:43.82,*Default,NTP,0000,0000,0000,,并不是羊群或碰碰车了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead of sheep or bumper cars,
+Dialogue: 0,0:36:45.70,0:36:51.16,*Default,NTP,0000,0000,0000,,我们把水分子看作是倒入集装箱里的一个个铝罐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}let's imagine water molecules as individual aluminum cans dumped into a container.
+Dialogue: 0,0:36:52.21,0:36:54.83,*Default,NTP,0000,0000,0000,,在典型的地球温度和压力下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At typical Earth temperatures and pressures,
+Dialogue: 0,0:36:54.87,0:36:58.13,*Default,NTP,0000,0000,0000,,它们会相互错位移动 如液体一般\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they interact and move together as a liquid.
+Dialogue: 0,0:36:58.17,0:36:59.71,*Default,NTP,0000,0000,0000,,它们冻结时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When they freeze,
+Dialogue: 0,0:36:59.75,0:37:03.05,*Default,NTP,0000,0000,0000,,水分子就锁在一起变成了固态的冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}water molecules lock together into solid ice.
+Dialogue: 0,0:37:03.93,0:37:08.97,*Default,NTP,0000,0000,0000,,那种水分子结构 科学家称其为一度冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a molecular structure of water that scientists refer to as Ice I.
+Dialogue: 0,0:37:10.14,0:37:13.06,*Default,NTP,0000,0000,0000,,一度冰 那东西是你我司空见惯的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now Ice I, that one that you and me are actually used to,
+Dialogue: 0,0:37:13.10,0:37:17.85,*Default,NTP,0000,0000,0000,,那只是因为没有留下太多的能量移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this is just because it doesn't have much energy left to move
+Dialogue: 0,0:37:17.90,0:37:19.19,*Default,NTP,0000,0000,0000,,因为它已经冻住了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it gets so cold.
+Dialogue: 0,0:37:20.69,0:37:22.48,*Default,NTP,0000,0000,0000,,水世界里的汪洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The massive ocean of a water world
+Dialogue: 0,0:37:22.53,0:37:25.15,*Default,NTP,0000,0000,0000,,会有成百上千英里深\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be hundreds and hundreds of miles deep.
+Dialogue: 0,0:37:25.20,0:37:29.62,*Default,NTP,0000,0000,0000,,和地球上一样 水越深 压力就越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just like on Earth, the deeper the water, the greater the pressure.
+Dialogue: 0,0:37:30.58,0:37:34.66,*Default,NTP,0000,0000,0000,,一旦压力足够大时 有趣的事情就发生在水里了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the pressure is great enough, something funny happens to water.
+Dialogue: 0,0:37:34.71,0:37:39.17,*Default,NTP,0000,0000,0000,,它就会变成固体 变成一种热冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns solid, into a kind of hot ice.
+Dialogue: 0,0:37:39.21,0:37:40.67,*Default,NTP,0000,0000,0000,,如果你提高液体的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you raise the pressure of a liquid,
+Dialogue: 0,0:37:40.71,0:37:43.00,*Default,NTP,0000,0000,0000,,通常可以将其转变成固体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can generally turn it into a solid,
+Dialogue: 0,0:37:43.05,0:37:45.17,*Default,NTP,0000,0000,0000,,因为你将原子和分子紧紧挤压在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because you're squeezing the atoms and molecules
+Dialogue: 0,0:37:45.22,0:37:48.01,*Default,NTP,0000,0000,0000,,使它们束缚在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so close together that they feel penned in.
+Dialogue: 0,0:37:48.05,0:37:50.14,*Default,NTP,0000,0000,0000,,它们相互之间动弹不得\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can't move past one another.
+Dialogue: 0,0:37:50.18,0:37:51.26,*Default,NTP,0000,0000,0000,,它们无法流动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can't flow.
+Dialogue: 0,0:37:52.77,0:37:55.93,*Default,NTP,0000,0000,0000,,高压能创造出各种固态冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Higher pressures can create a variety of solid ices
+Dialogue: 0,0:37:55.98,0:38:01.44,*Default,NTP,0000,0000,0000,,其内部构造不同于冻结的冰 - 一度冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with internal structures different from frozen ice, or Ice I.
+Dialogue: 0,0:38:01.48,0:38:03.78,*Default,NTP,0000,0000,0000,,物体之间的差异 如一度冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The difference between anything like Ice I,
+Dialogue: 0,0:38:03.82,0:38:05.57,*Default,NTP,0000,0000,0000,,二 三 四 五 六 七度之间 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}II, III, IV, V, VI, VII--
+Dialogue: 0,0:38:05.61,0:38:08.49,*Default,NTP,0000,0000,0000,,我们认为可以一直到十度 但有可能更进一步 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we think it goes to 10, but it could go maybe further--
+Dialogue: 0,0:38:08.53,0:38:09.82,*Default,NTP,0000,0000,0000,,实际上就是压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is actually the pressure.
+Dialogue: 0,0:38:11.20,0:38:13.95,*Default,NTP,0000,0000,0000,,在我们习以为常的一度冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The difference between what we're used to, Ice I,
+Dialogue: 0,0:38:14.00,0:38:16.37,*Default,NTP,0000,0000,0000,,与其他冰之间的差异就是 在其它冰里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the other ices is that, on the other ices,
+Dialogue: 0,0:38:16.41,0:38:20.79,*Default,NTP,0000,0000,0000,,实际作用在这些罐子上的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are pressures that actually act on these cans.
+Dialogue: 0,0:38:21.50,0:38:25.13,*Default,NTP,0000,0000,0000,,在这么大的行星上 水压能够达到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On a planet this big, the water pressure can reach levels
+Dialogue: 0,0:38:25.17,0:38:28.63,*Default,NTP,0000,0000,0000,,数百万倍于我们在地球上所碰到的水压\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}millions of times what we experience anywhere on Earth.
+Dialogue: 0,0:38:29.43,0:38:31.80,*Default,NTP,0000,0000,0000,,那就意味着 七度冰能够形成在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means Ice VII could be forming
+Dialogue: 0,0:38:31.85,0:38:36.10,*Default,NTP,0000,0000,0000,,格利泽581d的海底\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}underneath the oceans on Gliese 581d.
+Dialogue: 0,0:38:36.14,0:38:39.56,*Default,NTP,0000,0000,0000,,一头扎下去 水 - 占你身体的七成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Diving down there, water-- 70% of your body--
+Dialogue: 0,0:38:39.60,0:38:41.19,*Default,NTP,0000,0000,0000,,实际上会变成冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would actually become ice,
+Dialogue: 0,0:38:41.23,0:38:43.36,*Default,NTP,0000,0000,0000,,因此或许那不是最好的选择\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so probably not the best option.
+Dialogue: 0,0:38:43.40,0:38:46.65,*Default,NTP,0000,0000,0000,,因此眼下 就目前的科学智慧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So for now, right now, technology-wise,
+Dialogue: 0,0:38:46.69,0:38:49.53,*Default,NTP,0000,0000,0000,,我们或许毫无办法下去进行探索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we probably have nothing that can go down and explore it.
+Dialogue: 0,0:38:50.57,0:38:52.91,*Default,NTP,0000,0000,0000,,但如果我们只是寻找液态水的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if we're just looking for liquid water,
+Dialogue: 0,0:38:52.95,0:38:55.95,*Default,NTP,0000,0000,0000,,我们完全没必要走出我们的太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we don't have to travel outside our own solar system.
+Dialogue: 0,0:38:57.04,0:38:59.00,*Default,NTP,0000,0000,0000,,我们有个邻居 拥有的水量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have a neighbor that has more water
+Dialogue: 0,0:38:59.04,0:39:02.00,*Default,NTP,0000,0000,0000,,超过了地球上所有海洋的总和\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than all the oceans of Earth combined.
+Dialogue: 0,0:39:04.55,0:39:08.21,*Default,NTP,0000,0000,0000,,在液体宇宙中 木星的卫星木卫二\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a universe of liquids, Jupiter's moon, Europa,
+Dialogue: 0,0:39:08.26,0:39:11.43,*Default,NTP,0000,0000,0000,,似乎是能找到什么的难以想象的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}appears to be an unlikely place to find some.
+Dialogue: 0,0:39:11.47,0:39:13.60,*Default,NTP,0000,0000,0000,,它是一个冰冷的荒漠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an arctic wasteland,
+Dialogue: 0,0:39:13.64,0:39:17.64,*Default,NTP,0000,0000,0000,,包裹着寒冰 布满了裂缝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sheathed in water ice and riddled with cracks.
+Dialogue: 0,0:39:17.68,0:39:21.69,*Default,NTP,0000,0000,0000,,它看上去貌似南极或北极的浮冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like looking down on ice floes in the Arctic or Antarctic.
+Dialogue: 0,0:39:22.65,0:39:26.02,*Default,NTP,0000,0000,0000,,你看到裂缝相互交错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You see cracks that have been just offset from one another
+Dialogue: 0,0:39:26.07,0:39:27.94,*Default,NTP,0000,0000,0000,,表明其表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and suggesting that the surface
+Dialogue: 0,0:39:27.99,0:39:31.32,*Default,NTP,0000,0000,0000,,像是漂浮在液体的上面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is kind of floating around on top of a liquid underneath.
+Dialogue: 0,0:39:33.03,0:39:36.03,*Default,NTP,0000,0000,0000,,它不只是一汪水 当然啦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's not just a splash of water, either.
+Dialogue: 0,0:39:36.66,0:39:39.87,*Default,NTP,0000,0000,0000,,在60英里厚的冰层下面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Beneath a layer of ice 60 miles thick
+Dialogue: 0,0:39:39.91,0:39:43.17,*Default,NTP,0000,0000,0000,,是60英里深的大海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lies an ocean 60 miles deep.
+Dialogue: 0,0:39:43.21,0:39:45.88,*Default,NTP,0000,0000,0000,,真够深的 你需要使劲钻孔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's deep. That's a lot of drilling you would need to do
+Dialogue: 0,0:39:45.92,0:39:47.84,*Default,NTP,0000,0000,0000,,才能在木卫二上进行冰钓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you're going to go ice fishing on Europa.
+Dialogue: 0,0:39:49.38,0:39:50.80,*Default,NTP,0000,0000,0000,,小于我们的月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Smaller than our Moon
+Dialogue: 0,0:39:50.84,0:39:54.01,*Default,NTP,0000,0000,0000,,远离太阳近三倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and nearly three times farther away from the Sun,
+Dialogue: 0,0:39:54.05,0:39:56.14,*Default,NTP,0000,0000,0000,,随着小小的木卫二的运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as tiny Europa orbits,
+Dialogue: 0,0:39:56.18,0:39:58.97,*Default,NTP,0000,0000,0000,,它穿越在木星的磁场里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it passes through Jupiter's magnetic field.
+Dialogue: 0,0:40:00.18,0:40:02.44,*Default,NTP,0000,0000,0000,,但是另一个强大的木星力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's another mighty Jovian force
+Dialogue: 0,0:40:02.48,0:40:06.86,*Default,NTP,0000,0000,0000,,让这个距离太阳如此遥远的世界避免了被冻成固体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that keeps a world so far from the Sun from being frozen solid.
+Dialogue: 0,0:40:08.03,0:40:12.03,*Default,NTP,0000,0000,0000,,它获得了木星引力的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It gets energy from the gravitational tug of Jupiter.
+Dialogue: 0,0:40:12.07,0:40:16.57,*Default,NTP,0000,0000,0000,,木星非常庞大 拉起了木卫二上的潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter is very massive, and it pulls tides on Europa
+Dialogue: 0,0:40:16.62,0:40:20.16,*Default,NTP,0000,0000,0000,,就像月球拉起地球的潮汐一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much the way the Moon pulls tides on Earth.
+Dialogue: 0,0:40:22.50,0:40:26.67,*Default,NTP,0000,0000,0000,,木星的引力与附近轨道上的其它卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter's gravity teams with the tugging and shoving of the other satellites 
+Dialogue: 0,0:40:26.68,0:40:29.63,*Default,NTP,0000,0000,0000,,拉扯推搡 搓揉着木卫二\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in nearby orbit to mash and stretch Europa.
+Dialogue: 0,0:40:30.63,0:40:34.26,*Default,NTP,0000,0000,0000,,从而产生摩擦热 熔化了卫星的内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The resulting friction heats and melts the moon's interior.
+Dialogue: 0,0:40:35.39,0:40:39.51,*Default,NTP,0000,0000,0000,,木卫二内部整个就是盐水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's left ground up inside Europa is saltwater.
+Dialogue: 0,0:40:39.56,0:40:42.60,*Default,NTP,0000,0000,0000,,主要是H2O 陈年纯水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's mainly H2O, plain old water.
+Dialogue: 0,0:40:42.64,0:40:45.69,*Default,NTP,0000,0000,0000,,不过溶解于其中的是盐和其它物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But dissolved in it are salts and other materials
+Dialogue: 0,0:40:45.73,0:40:48.15,*Default,NTP,0000,0000,0000,,就像我们的海洋里有盐 矿物质等东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like our ocean has salts and minerals and things
+Dialogue: 0,0:40:48.19,0:40:49.19,*Default,NTP,0000,0000,0000,,溶解在其中一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dissolved in them.
+Dialogue: 0,0:40:49.23,0:40:52.61,*Default,NTP,0000,0000,0000,,木卫二之水的最佳比喻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The best analogy for the water on Europa
+Dialogue: 0,0:40:52.65,0:40:56.87,*Default,NTP,0000,0000,0000,,就是以色列死海里的水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be water from the Dead Sea in Israel,
+Dialogue: 0,0:40:56.91,0:41:00.79,*Default,NTP,0000,0000,0000,,有一个很高很高浓度的盐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where you have a very, very high concentration of salts.
+Dialogue: 0,0:41:00.83,0:41:03.37,*Default,NTP,0000,0000,0000,,可不是你获取瓶装水的好地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not a good place to get your bottled water from.
+Dialogue: 0,0:41:04.46,0:41:07.92,*Default,NTP,0000,0000,0000,,液体可以出现在最意想不到的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Liquids can turn up in the most unexpected places,
+Dialogue: 0,0:41:07.96,0:41:10.04,*Default,NTP,0000,0000,0000,,但令人乍舌的莫过于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and none may be more surprising
+Dialogue: 0,0:41:10.09,0:41:14.59,*Default,NTP,0000,0000,0000,,最近所发现的液体几乎与时间本身一样古老\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than a recently discovered liquid nearly as old as time itself.
+Dialogue: 0,0:41:15.51,0:41:19.35,*Default,NTP,0000,0000,0000,,140亿年前 宇宙诞生于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}14 billion years ago, the universe began
+Dialogue: 0,0:41:19.39,0:41:21.72,*Default,NTP,0000,0000,0000,,一个无穷小的一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as an infinitesimally small point
+Dialogue: 0,0:41:23.14,0:41:27.15,*Default,NTP,0000,0000,0000,,当时它迸发于一个宇宙爆发之中 即所谓的大爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it erupted in a cosmic explosion known as the Big Bang.
+Dialogue: 0,0:41:28.94,0:41:32.23,*Default,NTP,0000,0000,0000,,它迅速向外不断扩展膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It rushed outward, expanding and expanding,
+Dialogue: 0,0:41:32.28,0:41:36.57,*Default,NTP,0000,0000,0000,,怪异的粒子和气体不断冷却凝聚成恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exotic particles and gases cooling and coalescing into stars,
+Dialogue: 0,0:41:36.61,0:41:38.95,*Default,NTP,0000,0000,0000,,接着就是太阳系 星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then solar systems and galaxies.
+Dialogue: 0,0:41:40.20,0:41:44.62,*Default,NTP,0000,0000,0000,,不过让我们倒转时光到大爆炸后的那一刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But let's rewind the clock to a time just after the Big Bang,
+Dialogue: 0,0:41:44.66,0:41:50.04,*Default,NTP,0000,0000,0000,,在质子和电子合并形成第一个原子之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before protons and electrons combined to form the first atoms.
+Dialogue: 0,0:41:50.09,0:41:51.96,*Default,NTP,0000,0000,0000,,一切都在彼此碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So everything was running into each other
+Dialogue: 0,0:41:52.00,0:41:53.42,*Default,NTP,0000,0000,0000,,彼此撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and smashing into each other,
+Dialogue: 0,0:41:53.46,0:41:54.80,*Default,NTP,0000,0000,0000,,因此所发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that what was going on
+Dialogue: 0,0:41:54.84,0:42:00.68,*Default,NTP,0000,0000,0000,,就是没有充分的自由让粒子安顿下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was that there wasn't enough freedom for the particles to sort of settle down
+Dialogue: 0,0:42:00.72,0:42:03.14,*Default,NTP,0000,0000,0000,,凝聚成我们现在所熟悉的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and clump into the things that we're familiar with now.
+Dialogue: 0,0:42:08.27,0:42:11.65,*Default,NTP,0000,0000,0000,,早期的宇宙宛如乏善可陈的沙漠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The early universe was like a featureless desert,
+Dialogue: 0,0:42:12.65,0:42:15.99,*Default,NTP,0000,0000,0000,,在上亿亿度的高温中燃烧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}burning at a temperature of a million billion degrees,
+Dialogue: 0,0:42:16.95,0:42:21.49,*Default,NTP,0000,0000,0000,,铺天盖地的粒子叫做夸克和胶子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a random collection of particles known as quarks and gluons.
+Dialogue: 0,0:42:22.49,0:42:26.45,*Default,NTP,0000,0000,0000,,夸克和胶子是构成我们的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Quarks and gluons are the fundamental constituents of the nuclei 
+Dialogue: 0,0:42:26.45,0:42:29.33,*Default,NTP,0000,0000,0000,,原子核的基本要素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that make up our atoms.
+Dialogue: 0,0:42:30.75,0:42:35.63,*Default,NTP,0000,0000,0000,,实际上在宇宙生命最早的百万分之十秒里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Actually in the first 10-millionth of a second of the lifetime of the universe,
+Dialogue: 0,0:42:35.67,0:42:40.68,*Default,NTP,0000,0000,0000,,曾有过一个宇宙阶段 充满了夸克和胶子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there was a phase of the universe where it was all quarks and gluons.
+Dialogue: 0,0:42:42.43,0:42:45.52,*Default,NTP,0000,0000,0000,,早期宇宙环境的最新模拟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New simulations of the conditions of the early universe
+Dialogue: 0,0:42:45.56,0:42:48.73,*Default,NTP,0000,0000,0000,,揭示了每个夸克和胶子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have revealed that the individual quarks and gluons
+Dialogue: 0,0:42:48.77,0:42:51.44,*Default,NTP,0000,0000,0000,,并不是随意乱飞 好像气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were not flying about randomly as a gas
+Dialogue: 0,0:42:51.48,0:42:54.52,*Default,NTP,0000,0000,0000,,在那些环境中所预期的那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as would be expected in those conditions.
+Dialogue: 0,0:42:54.57,0:42:58.36,*Default,NTP,0000,0000,0000,,相反 它们是结合在一起流动 如液体一般\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead, they were connected and flowing like a liquid.
+Dialogue: 0,0:42:59.36,0:43:02.03,*Default,NTP,0000,0000,0000,,确切的举例就是沙子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A really good example of this is sand.
+Dialogue: 0,0:43:02.07,0:43:03.99,*Default,NTP,0000,0000,0000,,我这里拿的是一把沙子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What I have here is a handful of sand,
+Dialogue: 0,0:43:04.03,0:43:07.29,*Default,NTP,0000,0000,0000,,由很多小颗粒所构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's made up of lots of little particles
+Dialogue: 0,0:43:07.33,0:43:10.96,*Default,NTP,0000,0000,0000,,基本上是小石子或石头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which are essentially like tiny rocks or stones.
+Dialogue: 0,0:43:11.00,0:43:14.34,*Default,NTP,0000,0000,0000,,然而它们相互之间的作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how they interact with each other
+Dialogue: 0,0:43:14.38,0:43:18.51,*Default,NTP,0000,0000,0000,,决定了它们它们相互之间一起活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is what determines how lots of them move together
+Dialogue: 0,0:43:18.55,0:43:21.18,*Default,NTP,0000,0000,0000,,让你看到了更像是液体的流动 要远甚于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to give you something that's much more like a fluid flow
+Dialogue: 0,0:43:21.22,0:43:24.30,*Default,NTP,0000,0000,0000,,它的固体状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than it is the behavior of a solid.
+Dialogue: 0,0:43:24.35,0:43:26.35,*Default,NTP,0000,0000,0000,,这非常像夸克和胶子在那种环境中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so much the same thing is going on
+Dialogue: 0,0:43:26.39,0:43:31.35,*Default,NTP,0000,0000,0000,,相互碰撞的那种情形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with quarks and gluons in that situation where they're colliding.
+Dialogue: 0,0:43:31.40,0:43:33.02,*Default,NTP,0000,0000,0000,,或许同样的状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that was probably the same sort of behavior
+Dialogue: 0,0:43:33.06,0:43:35.77,*Default,NTP,0000,0000,0000,,就发生在宇宙的最早期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was going on in the very early universe.
+Dialogue: 0,0:43:37.40,0:43:39.24,*Default,NTP,0000,0000,0000,,你看沙子中的模样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'll see patterns in the sand
+Dialogue: 0,0:43:39.28,0:43:42.41,*Default,NTP,0000,0000,0000,,看上去像是洋面上的波痕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that look like ripples on the surface of an ocean
+Dialogue: 0,0:43:42.45,0:43:44.37,*Default,NTP,0000,0000,0000,,来回应 比如 风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in response, for example, to the wind,
+Dialogue: 0,0:43:44.41,0:43:47.87,*Default,NTP,0000,0000,0000,,回应的方式更多的是流体状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and responding in a way that's much more fluid-like
+Dialogue: 0,0:43:47.91,0:43:50.16,*Default,NTP,0000,0000,0000,,或液体状 多过了其作为固体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or liquid-like than it is as a solid.
+Dialogue: 0,0:43:51.17,0:43:55.25,*Default,NTP,0000,0000,0000,,波痕是某种干扰所留下的痕迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ripples are traces left behind by some kind of disturbance.
+Dialogue: 0,0:43:56.42,0:43:57.96,*Default,NTP,0000,0000,0000,,在物质的液态状况下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a liquid state of matter,
+Dialogue: 0,0:43:58.01,0:44:01.80,*Default,NTP,0000,0000,0000,,波痕很容易传遍各个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ripples spread easily throughout the whole.
+Dialogue: 0,0:44:01.84,0:44:04.39,*Default,NTP,0000,0000,0000,,那种传递干扰的能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That ability to communicate disturbances
+Dialogue: 0,0:44:04.43,0:44:08.39,*Default,NTP,0000,0000,0000,,可能已经对宇宙的最终命运留下了某种烙印\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may have some imprint on the ultimate fate of the universe.
+Dialogue: 0,0:44:09.43,0:44:12.85,*Default,NTP,0000,0000,0000,,在其诞生后的关键的混沌时刻里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In that critical chaotic moment after its creation,
+Dialogue: 0,0:44:12.90,0:44:16.31,*Default,NTP,0000,0000,0000,,我们早期宇宙液态的流动性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the fluidity of our early universe's liquid state
+Dialogue: 0,0:44:16.36,0:44:19.98,*Default,NTP,0000,0000,0000,,就是恢宏未来的初现端倪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was already beginning to show signs of a grand future.
+Dialogue: 0,0:44:21.61,0:44:23.11,*Default,NTP,0000,0000,0000,,因此就会有部分流体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there will be some parts of the fluid
+Dialogue: 0,0:44:23.16,0:44:25.95,*Default,NTP,0000,0000,0000,,其密度要稍大于其他部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are slightly more dense than other parts,
+Dialogue: 0,0:44:25.99,0:44:29.33,*Default,NTP,0000,0000,0000,,我们就能够看到开始形成的模样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we'd be able to see patterns beginning to form
+Dialogue: 0,0:44:29.37,0:44:32.83,*Default,NTP,0000,0000,0000,,其最终所形成的结构就是我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that will ultimately become the structure that we see
+Dialogue: 0,0:44:32.87,0:44:34.25,*Default,NTP,0000,0000,0000,,在宇宙后期所见到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the late universe.
+Dialogue: 0,0:44:37.13,0:44:41.59,*Default,NTP,0000,0000,0000,,流体运动被嵌入了时空结构里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fluid motion is stitched into the fabric of space and time.
+Dialogue: 0,0:44:41.63,0:44:44.68,*Default,NTP,0000,0000,0000,,所以下次你用吸管吸汽水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the next time you sip soda through a straw,
+Dialogue: 0,0:44:44.72,0:44:46.93,*Default,NTP,0000,0000,0000,,跳入泳池\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dive into a pool,
+Dialogue: 0,0:44:46.97,0:44:50.47,*Default,NTP,0000,0000,0000,,或看到雨滴洒入水坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or watch raindrops sprinkle into puddles,
+Dialogue: 0,0:44:52.27,0:44:56.52,*Default,NTP,0000,0000,0000,,要知道你正在用多半人生见证着我们的宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}know that you are witnessing our universe

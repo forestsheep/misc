@@ -1,0 +1,773 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: CMCT
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:32.20,0:01:36.20,Default,,0000,0000,0001,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:36.30,0:01:39.30,Default,,0000,0000,0008,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制&调校:无影  字幕来源:人人影视  招募Q号:76846146{\r}
+Dialogue: 0,0:01:39.81,0:01:43.06,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(149,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宇
+Dialogue: 0,0:01:39.81,0:01:43.06,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(228,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宙
+Dialogue: 0,0:01:39.81,0:01:43.06,Default,NTP,0000,0000,0000,,{\fe134}{\fad(300,300)\pos(192,207)\c&FBF7ED&\3c&HFFFFFF&\fn微软雅黑\fs24\shad0\bord2\be1}{\t(0,3500,0.5,\c&B59475&,\fscx110,\fscy110)}磁 暴
+Dialogue: 0,0:01:39.81,0:01:43.06,Default,NTP,0000,0000,0000,,{\1c&HFF00FF&\b1}第5季　第3集
+Dialogue: 0,0:00:01.19,0:00:03.33,Default,NTP,0000,0000,0000,,最初  宇宙是一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness
+Dialogue: 0,0:00:03.33,0:00:05.29,Default,NTP,0000,0000,0000,,紧接着一声巨响  混沌初开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang, giving birth to
+Dialogue: 0,0:00:05.36,0:00:09.93,Default,NTP,0000,0000,0000,,时间  空间和物质开始不断膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an endless expanding existence of time, space and matter.
+Dialogue: 0,0:00:10.63,0:00:13.38,Default,NTP,0000,0000,0000,,每天  我们都在解密这神秘莫测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking
+Dialogue: 0,0:00:13.38,0:00:16.58,Default,NTP,0000,0000,0000,,令人疯狂的极端之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mysterious, the mind-blowing,
+Dialogue: 0,0:00:16.58,0:00:19.53,Default,NTP,0000,0000,0000,,宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the deadly secrets of a place we call the universe.
+Dialogue: 0,0:00:10.63,0:00:13.07,Default,NTP,0000,0000,0000,,{\an8}{\fs14}彗星撞击木星
+Dialogue: 0,0:00:13.07,0:00:14.07,Default,NTP,0000,0000,0000,,{\an8}{\fs14}新发现的行星
+Dialogue: 0,0:00:15.48,0:00:16.48,Default,NTP,0000,0000,0000,,{\an8}{\fs14}冲向地球的流星
+Dialogue: 0,0:00:22.21,0:00:23.23,Default,NTP,0000,0000,0000,,由太阳喷发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It bursts from the Sun
+Dialogue: 0,0:00:23.23,0:00:27.21,Default,NTP,0000,0000,0000,,相当于核武器一万倍的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the power of 10,000 nuclear weapons
+Dialogue: 0,0:00:27.21,0:00:29.47,Default,NTP,0000,0000,0000,,径直冲向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}heading straight for Earth.
+Dialogue: 0,0:00:30.62,0:00:34.53,Default,NTP,0000,0000,0000,,想到整块大陆的所有电网都彻底摧毁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think of totally destroying the power grid of an entire continent.
+Dialogue: 0,0:00:35.72,0:00:40.00,Default,NTP,0000,0000,0000,,电视  收音机  因特网都将停止运转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Television, radio, Internet all down.
+Dialogue: 0,0:00:40.26,0:00:43.00,Default,NTP,0000,0000,0000,,全世界的自来水  燃料供给\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So is running water, fuel deliveries,
+Dialogue: 0,0:00:43.10,0:00:46.57,Default,NTP,0000,0000,0000,,食品和杂货店都无一幸免\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}food and groceries across the globe.
+Dialogue: 0,0:00:47.41,0:00:50.91,Default,NTP,0000,0000,0000,,这些磁暴的影响是全球性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These storms have a planetary footprint.
+Dialogue: 0,0:00:51.03,0:00:54.44,Default,NTP,0000,0000,0000,,很多人会因此而丧生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the potential for loss of life is quite large.
+Dialogue: 0,0:00:55.16,0:00:58.75,Default,NTP,0000,0000,0000,,不到一年  就有数百万人死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within a year, millions of people are dead.
+Dialogue: 0,0:00:58.90,0:01:03.51,Default,NTP,0000,0000,0000,,国家基础设施被彻底毁灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}National infrastructures are ruined and may never come back.
+Dialogue: 0,0:01:04.79,0:01:06.81,Default,NTP,0000,0000,0000,,这不是灾难片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This isn't a disaster film.
+Dialogue: 0,0:01:07.53,0:01:12.16,Default,NTP,0000,0000,0000,,这是美国国家科学院在2009年的一份研究报告\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is a 2009 research report from the National Academy of Sciences.
+Dialogue: 0,0:01:12.16,0:01:17.59,Default,NTP,0000,0000,0000,,有人预言  报告所描述的全球灾难即将来临\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And some say the global catastrophe it outlines may be coming soon.
+Dialogue: 0,0:01:17.79,0:01:18.99,Default,NTP,0000,0000,0000,,这一次迟迟未到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're overdue.
+Dialogue: 0,0:01:19.71,0:01:21.53,Default,NTP,0000,0000,0000,,太阳磁力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Solar magnetism.
+Dialogue: 0,0:01:21.76,0:01:26.24,Default,NTP,0000,0000,0000,,为何如此致命  令人费解呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why is it so deadly and so miSunderstood?
+Dialogue: 0,0:01:26.43,0:01:28.66,Default,NTP,0000,0000,0000,,我们能做些什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And is there anything we can do
+Dialogue: 0,0:01:28.66,0:01:32.02,Default,NTP,0000,0000,0000,,以避免磁暴所带来的影响呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to escape the magnetic storm?
+Dialogue: 0,0:01:45.53,0:01:48.11,Default,NTP,0000,0000,0000,,2013年  春天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Spring, 2013.
+Dialogue: 0,0:01:48.80,0:01:54.77,Default,NTP,0000,0000,0000,,北极光在纽约  芝加哥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The northern lights dazzle millions in the night skies above New York, Chicago,
+Dialogue: 0,0:01:55.10,0:01:58.64,Default,NTP,0000,0000,0000,,华盛顿和整个欧洲上空发出耀眼光芒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Washington D.C., and across Europe.
+Dialogue: 0,0:02:00.47,0:02:04.01,Default,NTP,0000,0000,0000,,这些极光的产生源于日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These auroras are the result of a Coronal Mass Ejection.
+Dialogue: 0,0:02:04.70,0:02:06.62,Default,NTP,0000,0000,0000,,或称为CME\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Also known as a CME,
+Dialogue: 0,0:02:07.02,0:02:10.53,Default,NTP,0000,0000,0000,,这是来自太阳的巨大的磁耀斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a massive magnetic flare from the Sun.
+Dialogue: 0,0:02:13.37,0:02:17.05,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}特拉维斯·斯·泰勒\N物理学家
+Dialogue: 0,0:02:13.17,0:02:16.63,Default,NTP,0000,0000,0000,,这种极强的磁场就像是太阳表面发生的爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The extreme magnetic field is like an explosion on the surface of the Sun,
+Dialogue: 0,0:02:16.74,0:02:19.29,Default,NTP,0000,0000,0000,,磁场等同于10的25次幂焦耳的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's 10 to the 25 joules worth of energy.
+Dialogue: 0,0:02:19.36,0:02:22.13,Default,NTP,0000,0000,0000,,比人类制造的最大的核装置所产生的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's a hundred million times more energy
+Dialogue: 0,0:02:22.24,0:02:24.89,Default,NTP,0000,0000,0000,,还要强一亿倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the largest nuclear device that man has ever made.
+Dialogue: 0,0:02:27.16,0:02:31.22,Default,NTP,0000,0000,0000,,数十亿吨的太阳物质向宇宙中喷射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Billions of tons of solar material fired off into space...
+Dialogue: 0,0:02:32.02,0:02:35.50,Default,NTP,0000,0000,0000,,带电的  磁极化的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Electrically charged, magnetically polarized,
+Dialogue: 0,0:02:35.50,0:02:37.73,Default,NTP,0000,0000,0000,,直向我们侵袭而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}aimed directly at us.
+Dialogue: 0,0:02:39.95,0:02:43.85,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}托德·霍克斯马\N斯坦福大学
+Dialogue: 0,0:02:40.00,0:02:42.94,Default,NTP,0000,0000,0000,,这些物质宽度足有十万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These things are the size of, well, they're a hundred-thousand miles across.
+Dialogue: 0,0:02:42.94,0:02:44.71,Default,NTP,0000,0000,0000,,是太阳体积的三分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're a third the size of the Sun.
+Dialogue: 0,0:02:45.22,0:02:47.39,Default,NTP,0000,0000,0000,,它就像是整条快速流动的密西西比河\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's like accelerating the whole Mississippi river
+Dialogue: 0,0:02:47.39,0:02:49.86,Default,NTP,0000,0000,0000,,以每小时一百万英里的速度流向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and making it move at a million miles an hour toward the Earth.
+Dialogue: 0,0:02:52.24,0:02:54.96,Default,NTP,0000,0000,0000,,NASA戈达德航天飞行中心的科学家们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists at NASA's Goddard space center
+Dialogue: 0,0:02:52.24,0:02:54.96,Default,NTP,0000,0000,0000,,{\an8}NASA:美国国家航空航天局
+Dialogue: 0,0:02:54.96,0:02:56.32,Default,NTP,0000,0000,0000,,观察了此次太阳耀斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}observe the solar flare,
+Dialogue: 0,0:02:57.42,0:03:00.80,Default,NTP,0000,0000,0000,,日冕物质抛射移动速度之快超出人们预料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the CME is moving faster than anticipated.
+Dialogue: 0,0:03:02.42,0:03:05.84,Default,NTP,0000,0000,0000,,人们首次看到北极光之后  不到90秒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}90 seconds after citizens first see the northern lights,
+Dialogue: 0,0:03:06.49,0:03:08.63,Default,NTP,0000,0000,0000,,这块大陆的大部分就已陷入一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most of the continent goes dark.
+Dialogue: 0,0:03:09.72,0:03:12.75,Default,NTP,0000,0000,0000,,磁暴通过电线发射出极高的电压\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The magnetic storm sends ultra-high voltage
+Dialogue: 0,0:03:12.92,0:03:15.08,Default,NTP,0000,0000,0000,,横扫北美洲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through power lines across north America.
+Dialogue: 0,0:03:16.99,0:03:18.58,Default,NTP,0000,0000,0000,,它创造了一个真正的强力磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It creates a really strong magnetic field
+Dialogue: 0,0:03:18.58,0:03:20.24,Default,NTP,0000,0000,0000,,不断吸进新的电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that induces another current and so on,
+Dialogue: 0,0:03:20.71,0:03:22.53,Default,NTP,0000,0000,0000,,电流变得越来越强  直至融化电线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the current gets so strong it melts the wire
+Dialogue: 0,0:03:22.70,0:03:24.69,Default,NTP,0000,0000,0000,,最后释放出很大的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then you got a lot of energy being released.
+Dialogue: 0,0:03:24.69,0:03:26.15,Default,NTP,0000,0000,0000,,导致变压器爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It explodes the transformer.
+Dialogue: 0,0:03:27.96,0:03:32.05,Default,NTP,0000,0000,0000,,不同城市中巨大的变压器相继爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Giant transformers explode in city after city.
+Dialogue: 0,0:03:32.63,0:03:35.11,Default,NTP,0000,0000,0000,,所有的电力消失殆尽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All electricity disappears.
+Dialogue: 0,0:03:37.08,0:03:41.03,Default,NTP,0000,0000,0000,,卫星被烧毁  通讯因而中断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So do communications as satellites are burnt out.
+Dialogue: 0,0:03:45.55,0:03:48.13,Default,NTP,0000,0000,0000,,没有电话  没有电视\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are no phones, no television,
+Dialogue: 0,0:03:48.13,0:03:50.82,Default,NTP,0000,0000,0000,,没有收音机  没有因特网\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no radio, no Internet.
+Dialogue: 0,0:03:52.13,0:03:53.63,Default,NTP,0000,0000,0000,,所有的基础设施被毁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The whole infrastructure would be damaged.
+Dialogue: 0,0:03:53.63,0:03:55.10,Default,NTP,0000,0000,0000,,我们将失去通讯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We wouldn't have communications.
+Dialogue: 0,0:03:55.10,0:03:56.81,Default,NTP,0000,0000,0000,,我们将失去很多东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We wouldn't have so many different things.
+Dialogue: 0,0:03:59.36,0:04:02.29,Default,NTP,0000,0000,0000,,停电时间是漫长的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the electricity will not be coming back.
+Dialogue: 0,0:04:04.70,0:04:08.56,Default,NTP,0000,0000,0000,,一场磁暴就足以毁灭大部分的变压器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could damage enough transformers in one storm
+Dialogue: 0,0:04:10.35,0:04:13.87,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}约翰·凯朋玛\N电网专家  太阳风暴分析顾问
+Dialogue: 0,0:04:09.56,0:04:15.09,Default,NTP,0000,0000,0000,,全世界共同努力  需要几年的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it would take several years of the entire world's manufacturing capability
+Dialogue: 0,0:04:15.09,0:04:18.73,Default,NTP,0000,0000,0000,,才能重建被毁的变压器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to replace all of those damaged transformers.
+Dialogue: 0,0:04:20.95,0:04:24.47,Default,NTP,0000,0000,0000,,没有电  基础设施就会瘫痪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without power, infrastructure collapses.
+Dialogue: 0,0:04:25.13,0:04:27.53,Default,NTP,0000,0000,0000,,首先影响到的是  水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first thing to go: Water.
+Dialogue: 0,0:04:28.26,0:04:30.50,Default,NTP,0000,0000,0000,,水泵没有电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without electricity for pumps,
+Dialogue: 0,0:04:30.50,0:04:33.40,Default,NTP,0000,0000,0000,,一天之内  城市里的水管就会干涸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}city tap water will go dry within a day.
+Dialogue: 0,0:04:36.72,0:04:38.04,Default,NTP,0000,0000,0000,,{\pos(75,155)}无油供应
+Dialogue: 0,0:04:34.60,0:04:37.93,Default,NTP,0000,0000,0000,,油泵和加油站也是一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The same is true for gas pumps and gas stations.
+Dialogue: 0,0:04:38.80,0:04:42.22,Default,NTP,0000,0000,0000,,没有燃料  国家货运停滞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without fuel, national trucking stops.
+Dialogue: 0,0:04:43.04,0:04:45.87,Default,NTP,0000,0000,0000,,食物也没法送到杂货店\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So do food deliveries to grocery stores.
+Dialogue: 0,0:04:47.48,0:04:51.12,Default,NTP,0000,0000,0000,,人们无法离开城市  因为他们的车没有燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People can't leave the cities because their gas tanks are empty.
+Dialogue: 0,0:04:51.44,0:04:53.99,Default,NTP,0000,0000,0000,,他们用不了信用卡或者自动取款机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can't use their credit cards or ATMs
+Dialogue: 0,0:04:53.99,0:04:56.62,Default,NTP,0000,0000,0000,,因为没有电源和电话连接\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without electrical power and phone connections.
+Dialogue: 0,0:04:58.05,0:05:00.59,Default,NTP,0000,0000,0000,,没有电  没有油  没有食物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No power, no gas, no food,
+Dialogue: 0,0:05:00.62,0:05:05.51,Default,NTP,0000,0000,0000,,没有水  看不到希望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no water, and no end in sight.
+Dialogue: 0,0:05:07.21,0:05:11.44,Default,NTP,0000,0000,0000,,想到整块大陆的所有电网都彻底摧毁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think of totally destroying the power grid of an entire continent.
+Dialogue: 0,0:05:12.13,0:05:14.45,Default,NTP,0000,0000,0000,,我们好似基本上回到了黑暗时代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We would be basically put back in the dark ages.
+Dialogue: 0,0:05:16.70,0:05:18.54,Default,NTP,0000,0000,0000,,没有援助\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And no help is coming
+Dialogue: 0,0:05:19.31,0:05:23.78,Default,NTP,0000,0000,0000,,因为磁暴已经毁坏了整个北半球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since the magnetic storm has devastated the entire northern hemisphere.
+Dialogue: 0,0:05:26.31,0:05:30.22,Default,NTP,0000,0000,0000,,这些磁暴的影响是全球性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These storms have a planetary footprint.
+Dialogue: 0,0:05:30.22,0:05:33.93,Default,NTP,0000,0000,0000,,不仅侵袭整个大陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They extend not only across entire continents,
+Dialogue: 0,0:05:33.93,0:05:37.42,Default,NTP,0000,0000,0000,,而且可以说是肆虐全球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but arguably across the entire planet.
+Dialogue: 0,0:05:38.41,0:05:40.58,Default,NTP,0000,0000,0000,,这不仅仅是一场磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not just a magnetic storm.
+Dialogue: 0,0:05:40.59,0:05:43.27,Default,NTP,0000,0000,0000,,这是一场磁灾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a magnetic apocalypse.
+Dialogue: 0,0:05:45.79,0:05:49.17,Default,NTP,0000,0000,0000,,经济损失可能高达数十亿  甚至数万亿美元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There would be billions or even trillions of dollars of lost economy.
+Dialogue: 0,0:05:49.34,0:05:51.69,Default,NTP,0000,0000,0000,,我们失去的还不止这些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's not the only thing lost.
+Dialogue: 0,0:05:54.64,0:05:59.95,Default,NTP,0000,0000,0000,,还有很多人会因此丧生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The consequences and the potential for loss of life are quite large,
+Dialogue: 0,0:05:59.95,0:06:03.49,Default,NTP,0000,0000,0000,,数目可能达到世界文明地区人口的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps taking out a third to a half of the population
+Dialogue: 0,0:06:03.49,0:06:06.51,Default,NTP,0000,0000,0000,,三分之一到二分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the civilized portions of the world.
+Dialogue: 0,0:06:09.29,0:06:10.59,Default,NTP,0000,0000,0000,,听起来不可思议吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sound unlikely?
+Dialogue: 0,0:06:10.98,0:06:11.91,Default,NTP,0000,0000,0000,,但这确实是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that is exactly
+Dialogue: 0,0:06:11.91,0:06:16.50,Default,NTP,0000,0000,0000,,美国国家科学院2009年度的研究报告结论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the conclusion of the National  Academy of Sciences report from 2009.
+Dialogue: 0,0:06:16.86,0:06:18.87,Default,NTP,0000,0000,0000,,来自太阳的磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A magnetic storm from the Sun
+Dialogue: 0,0:06:18.97,0:06:22.23,Default,NTP,0000,0000,0000,,将彻底摧毁我们的科技基础设施\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could wipe out our technological infrastructure,
+Dialogue: 0,0:06:22.30,0:06:24.15,Default,NTP,0000,0000,0000,,扼杀数百万条人命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}killing millions of people
+Dialogue: 0,0:06:24.57,0:06:29.91,Default,NTP,0000,0000,0000,,并将毁灭大部分我们心目中的21世纪的文明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and destroying much of what we think of as 21st century civilization.
+Dialogue: 0,0:06:31.31,0:06:33.46,Default,NTP,0000,0000,0000,,这不仅仅是猜测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not just guesswork.
+Dialogue: 0,0:06:34.63,0:06:39.83,Default,NTP,0000,0000,0000,,太阳磁暴确实在1989年摧毁了魁北克电网\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A solar magnetic storm actually knocked out power to Quebec in 1989,
+Dialogue: 0,0:06:40.55,0:06:43.34,Default,NTP,0000,0000,0000,,令这个加拿大省份全面停电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}blacking out an entire Canadian province.
+Dialogue: 0,0:06:43.59,0:06:45.57,Default,NTP,0000,0000,0000,,但是那场磁暴很小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that storm was small.
+Dialogue: 0,0:06:47.21,0:06:51.32,Default,NTP,0000,0000,0000,,我们将面临的磁暴威力是三十多年来前所未有的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're seeing storm events over the last 30 years or so
+Dialogue: 0,0:06:51.87,0:06:56.60,Default,NTP,0000,0000,0000,,其威力将是1989年那场磁暴的10倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that jumped up literally 10 times larger than that 1989 storm.
+Dialogue: 0,0:07:00.31,0:07:02.74,Default,NTP,0000,0000,0000,,新一代太阳人造卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A new generation of solar satellites
+Dialogue: 0,0:07:02.74,0:07:05.91,Default,NTP,0000,0000,0000,,已经显示了  这些太阳耀斑的威力何等巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has revealed just how big these solar flares are,
+Dialogue: 0,0:07:06.37,0:07:08.85,Default,NTP,0000,0000,0000,,以及我们的星球是多么不堪一击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and how vulnerable our planet is.
+Dialogue: 0,0:07:09.85,0:07:12.48,Default,NTP,0000,0000,0000,,我们这个社会并没有准备好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a society, we are not prepared for
+Dialogue: 0,0:07:12.48,0:07:16.87,Default,NTP,0000,0000,0000,,应付长时期的停电生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a long-term blackout of the power grid.
+Dialogue: 0,0:07:18.59,0:07:20.90,Default,NTP,0000,0000,0000,,我们能阻止这一幕的发生吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can this scenario be prevented?
+Dialogue: 0,0:07:21.29,0:07:22.10,Default,NTP,0000,0000,0000,,也许\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Possibly.
+Dialogue: 0,0:07:22.10,0:07:23.86,Default,NTP,0000,0000,0000,,但是只有先弄清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But only by understanding
+Dialogue: 0,0:07:23.86,0:07:26.57,Default,NTP,0000,0000,0000,,宇宙中最为基本的力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the most basic forces of the universe
+Dialogue: 0,0:07:26.57,0:07:30.89,Default,NTP,0000,0000,0000,,也是最不可思议的力量  磁力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and one of the least understood: magnetism.
+Dialogue: 0,0:07:32.31,0:07:35.14,Default,NTP,0000,0000,0000,,要理解很多物理现象  磁力是关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetism is key to understanding a lot of physics
+Dialogue: 0,0:07:35.31,0:07:36.68,Default,NTP,0000,0000,0000,,因为它影响着很多事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because it affects a lot of things.
+Dialogue: 0,0:07:36.68,0:07:39.12,Default,NTP,0000,0000,0000,,星球的聚合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It affects how stars condense.
+Dialogue: 0,0:07:39.12,0:07:41.09,Default,NTP,0000,0000,0000,,星系的形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It affects how galaxies form.
+Dialogue: 0,0:07:41.38,0:07:43.87,Default,NTP,0000,0000,0000,,黑洞的塌陷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It affects how black holes collapse.
+Dialogue: 0,0:07:47.39,0:07:50.97,Default,NTP,0000,0000,0000,,磁力无所不在  蕴含在万物之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetism is everywhere and in nearly everything.
+Dialogue: 0,0:07:51.66,0:07:55.03,Default,NTP,0000,0000,0000,,它是物理中四个基本力量之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is one of the four fundamental forces of physics,
+Dialogue: 0,0:07:55.03,0:07:58.59,Default,NTP,0000,0000,0000,,它使宇宙凝聚在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The forces that keep the universe itself together.
+Dialogue: 0,0:08:00.57,0:08:02.08,Default,NTP,0000,0000,0000,,物理学家们已经识别出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicists have identified
+Dialogue: 0,0:08:02.08,0:08:04.94,Default,NTP,0000,0000,0000,,构成自然的四种基本力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}four fundamental forces at play in nature.
+Dialogue: 0,0:08:04.94,0:08:08.41,Default,NTP,0000,0000,0000,,强核力使原子聚合在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a strong nuclear force that holds atoms together;
+Dialogue: 0,0:08:05.11,0:08:08.91,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:08:08.41,0:08:11.18,Default,NTP,0000,0000,0000,,弱核力也能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The weak nuclear force, that also has to do with
+Dialogue: 0,0:08:11.18,0:08:13.22,Default,NTP,0000,0000,0000,,将原子和粒子聚合在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}holding together particles and atoms;
+Dialogue: 0,0:08:13.22,0:08:15.75,Default,NTP,0000,0000,0000,,然后是重力  我们都很熟悉它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And gravity, with which we are all familiar,
+Dialogue: 0,0:08:15.94,0:08:18.77,Default,NTP,0000,0000,0000,,最后一个就是电磁力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then electromagnetism is the fourth.
+Dialogue: 0,0:08:18.84,0:08:21.92,Default,NTP,0000,0000,0000,,电和磁可以说就是一回事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Electricity and magnetism are really one and the same thing.
+Dialogue: 0,0:08:24.25,0:08:25.85,Default,NTP,0000,0000,0000,,在这些基本力量中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For something so fundamental,
+Dialogue: 0,0:08:25.92,0:08:28.01,Default,NTP,0000,0000,0000,,磁力经常会被忽视\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetism often gets overlooked.
+Dialogue: 0,0:08:28.83,0:08:31.66,Default,NTP,0000,0000,0000,,除了在冰箱上粘一张便条\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Besides holding notes on your refrigerator,
+Dialogue: 0,0:08:31.77,0:08:35.88,Default,NTP,0000,0000,0000,,磁铁很少出现在人们的日常生活中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}magnets rarely show up in an average person's daily life.
+Dialogue: 0,0:08:38.39,0:08:41.29,Default,NTP,0000,0000,0000,,我们通常不怎么用到磁力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetism is not something that we normally deal with.
+Dialogue: 0,0:08:41.29,0:08:42.66,Default,NTP,0000,0000,0000,,你感觉不到磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can't feel a magnetic field.
+Dialogue: 0,0:08:42.66,0:08:45.41,Default,NTP,0000,0000,0000,,把磁铁从自己身上掠过时  你感觉不到任何东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can run a magnet over yourself and you don't feel a thing.
+Dialogue: 0,0:08:45.48,0:08:48.27,Default,NTP,0000,0000,0000,,所以日常生活中我们感觉不到磁力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it isn't part of our daily experience.
+Dialogue: 0,0:08:49.35,0:08:51.47,Default,NTP,0000,0000,0000,,磁力的关键在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The key component of magnetism
+Dialogue: 0,0:08:51.78,0:08:54.96,Default,NTP,0000,0000,0000,,吸引和排斥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that it attracts and repels.
+Dialogue: 0,0:08:56.44,0:08:59.91,Default,NTP,0000,0000,0000,,我用这两块磁铁来说明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm holding here two magnets to illustrate
+Dialogue: 0,0:08:59.91,0:09:00.85,Default,NTP,0000,0000,0000,,磁场怎么发挥作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how magnetic Fields work
+Dialogue: 0,0:09:00.85,0:09:03.17,Default,NTP,0000,0000,0000,,以及磁力有多大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, frankly, how strong they are.
+Dialogue: 0,0:09:03.17,0:09:05.46,Default,NTP,0000,0000,0000,,现在  它们相互吸引\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now, they're attracting one another
+Dialogue: 0,0:09:05.46,0:09:07.78,Default,NTP,0000,0000,0000,,我得用力拉才能把它们分开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and I have to really pull to pull them apart.
+Dialogue: 0,0:09:07.78,0:09:09.82,Default,NTP,0000,0000,0000,,但是它们也能相互排斥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But they also can repel each other,
+Dialogue: 0,0:09:09.82,0:09:12.56,Default,NTP,0000,0000,0000,,通过把它放在这个杆上就可以说明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I can illustrate it by putting it on this post.
+Dialogue: 0,0:09:12.56,0:09:14.50,Default,NTP,0000,0000,0000,,我把第一块放下去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If I put first one down
+Dialogue: 0,0:09:14.79,0:09:16.26,Default,NTP,0000,0000,0000,,然后放下第二块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and drop the second one,
+Dialogue: 0,0:09:16.45,0:09:17.57,Default,NTP,0000,0000,0000,,第二块确实放不下去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I really can't push it down.
+Dialogue: 0,0:09:17.57,0:09:19.05,Default,NTP,0000,0000,0000,,它弹起了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It just bounces.
+Dialogue: 0,0:09:20.31,0:09:23.44,Default,NTP,0000,0000,0000,,事实上  使人们不能穿墙而过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, the only thing that keeps people from walking through walls
+Dialogue: 0,0:09:23.44,0:09:26.74,Default,NTP,0000,0000,0000,,也不能穿越楼板掉下楼的唯一力量  就是磁力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or falling through the floor is magnetism.
+Dialogue: 0,0:09:28.56,0:09:31.67,Default,NTP,0000,0000,0000,,分子原子极其小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Molecules and atoms are extremely small
+Dialogue: 0,0:09:31.67,0:09:35.16,Default,NTP,0000,0000,0000,,原子之间的空隙又极其大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the space between atoms is extremely large.
+Dialogue: 0,0:09:35.36,0:09:39.91,Default,NTP,0000,0000,0000,,以原子来看  每一个事物都有着巨大的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At an atomic level, almost everything is made of empty space.
+Dialogue: 0,0:09:41.43,0:09:44.43,Default,NTP,0000,0000,0000,,原子核中  电子围绕着质子运转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The distance between the electrons that are orbiting around
+Dialogue: 0,0:09:44.43,0:09:47.38,Default,NTP,0000,0000,0000,,两者之间的距离是相当大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the protons in the nucleus is fairly immense.
+Dialogue: 0,0:09:47.38,0:09:48.60,Default,NTP,0000,0000,0000,,就像这个风扇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like this fan.
+Dialogue: 0,0:09:48.81,0:09:50.70,Default,NTP,0000,0000,0000,,假设扇叶就是电子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you let the electrons be the blade
+Dialogue: 0,0:09:50.70,0:09:52.21,Default,NTP,0000,0000,0000,,中心就是原子核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the center be the nucleus,
+Dialogue: 0,0:09:52.21,0:09:54.14,Default,NTP,0000,0000,0000,,如果风扇没有动起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there's no motion taking place there,
+Dialogue: 0,0:09:54.92,0:09:56.43,Default,NTP,0000,0000,0000,,其他东西就可以从中穿过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would pass right through things.
+Dialogue: 0,0:09:56.46,0:09:57.34,Default,NTP,0000,0000,0000,,它不是连成一片的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not solid.
+Dialogue: 0,0:09:57.34,0:09:58.85,Default,NTP,0000,0000,0000,,为什么它连成了一片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So why is it solid?
+Dialogue: 0,0:09:58.85,0:10:01.67,Default,NTP,0000,0000,0000,,因为带负电荷的电子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's because the electromagnetic attraction between
+Dialogue: 0,0:10:01.67,0:10:02.99,Default,NTP,0000,0000,0000,,和带正电荷的质子之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the negatively charged electron
+Dialogue: 0,0:10:02.99,0:10:04.53,Default,NTP,0000,0000,0000,,在电磁作用下相互吸引\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the positively charged proton,
+Dialogue: 0,0:10:04.62,0:10:06.62,Default,NTP,0000,0000,0000,,电磁吸引使它绕转起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It captures it and it spins around.
+Dialogue: 0,0:10:06.93,0:10:08.63,Default,NTP,0000,0000,0000,,如果绕转速度非常快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if it's spinning really fast
+Dialogue: 0,0:10:08.63,0:10:10.34,Default,NTP,0000,0000,0000,,就像这个风扇的扇叶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like the fan blades of this fan
+Dialogue: 0,0:10:10.34,0:10:12.43,Default,NTP,0000,0000,0000,,表示围绕着原子的电子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}representing the electrons around the atom,
+Dialogue: 0,0:10:12.96,0:10:14.39,Default,NTP,0000,0000,0000,,其他东西会被弹开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it bounces right off.
+Dialogue: 0,0:10:15.31,0:10:17.32,Default,NTP,0000,0000,0000,,那就是你不会穿越楼板掉下楼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's why you don't fall through the floor
+Dialogue: 0,0:10:17.32,0:10:19.06,Default,NTP,0000,0000,0000,,也不能穿墙而过的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and why you can't walk through walls.
+Dialogue: 0,0:10:22.54,0:10:24.69,Default,NTP,0000,0000,0000,,并不是原子本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not the atoms themselves,
+Dialogue: 0,0:10:24.69,0:10:27.83,Default,NTP,0000,0000,0000,,而是磁场  使得物质连成一片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the magnetic field that makes matter solid.
+Dialogue: 0,0:10:27.99,0:10:31.66,Default,NTP,0000,0000,0000,,因此人们不能穿墙而过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That keeps a person from walking through walls.
+Dialogue: 0,0:10:31.73,0:10:34.53,Default,NTP,0000,0000,0000,,磁力沿着磁力线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetic force attracts and repels
+Dialogue: 0,0:10:34.56,0:10:37.53,Default,NTP,0000,0000,0000,,产生吸引和排斥作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}along field lines.
+Dialogue: 0,0:10:37.57,0:10:39.17,Default,NTP,0000,0000,0000,,拿一块磁棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can take the bar magnet
+Dialogue: 0,0:10:39.20,0:10:40.27,Default,NTP,0000,0000,0000,,然后放一张纸在上面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and lay a piece of paper over it
+Dialogue: 0,0:10:40.37,0:10:42.84,Default,NTP,0000,0000,0000,,在纸上撒上铁屑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and cover that piece of paper with iron filings.
+Dialogue: 0,0:10:42.91,0:10:45.01,Default,NTP,0000,0000,0000,,这些铁屑就会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the iron filings will actually line themselves up
+Dialogue: 0,0:10:45.07,0:10:47.28,Default,NTP,0000,0000,0000,,沿该磁场的磁力线排列起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}along the field lines coming out of the magnet.
+Dialogue: 0,0:10:47.38,0:10:48.71,Default,NTP,0000,0000,0000,,这是个好办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's a good way to see
+Dialogue: 0,0:10:48.75,0:10:51.21,Default,NTP,0000,0000,0000,,能观察到磁场的样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what the magnetic field actually looks like.
+Dialogue: 0,0:10:52.88,0:10:54.55,Default,NTP,0000,0000,0000,,另一个办法是把这些磁力线想像成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One way to think of field lines
+Dialogue: 0,0:10:54.62,0:10:56.56,Default,NTP,0000,0000,0000,,高速公路的车道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is like lanes on a freeway.
+Dialogue: 0,0:10:57.79,0:11:01.29,Default,NTP,0000,0000,0000,,南行方向的车流与北行方向的车流互不相干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The south-bound traffic never interacts with the north-bound traffic.
+Dialogue: 0,0:11:03.56,0:11:06.90,Default,NTP,0000,0000,0000,,电磁场线就像高速公路的车道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Electromagnetic field lines are like lanes on a freeway:
+Dialogue: 0,0:11:06.93,0:11:09.90,Default,NTP,0000,0000,0000,,车都沿着高速路的车道开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cars go down the lanes, down the freeway.
+Dialogue: 0,0:11:09.97,0:11:12.00,Default,NTP,0000,0000,0000,,那就是为什么当你看太阳表面时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's why if you look on the surface of the Sun,
+Dialogue: 0,0:11:12.07,0:11:13.54,Default,NTP,0000,0000,0000,,会看见许多美丽的弧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you see these beautiful arcs
+Dialogue: 0,0:11:13.60,0:11:16.94,Default,NTP,0000,0000,0000,,那就是等离子沿着流动的磁力线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That represent the field lines where the plasma can flow.
+Dialogue: 0,0:11:18.63,0:11:20.54,Default,NTP,0000,0000,0000,,但是在太阳的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But on the surface of the Sun,
+Dialogue: 0,0:11:20.61,0:11:24.86,Default,NTP,0000,0000,0000,,这些磁力线含有巨大能量且致命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these field lines are intensely powerful and deadly.
+Dialogue: 0,0:11:26.08,0:11:27.70,Default,NTP,0000,0000,0000,,用高速公路来作比方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this freeway analogy,
+Dialogue: 0,0:11:27.90,0:11:30.89,Default,NTP,0000,0000,0000,,试想如果在公路上的南北向高速行驶的车流中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}imagine if a middle lane was opened up on the freeway
+Dialogue: 0,0:11:31.13,0:11:34.23,Default,NTP,0000,0000,0000,,开了一条中间的车道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between the speeding north and south traffic.
+Dialogue: 0,0:11:35.86,0:11:36.89,Default,NTP,0000,0000,0000,,而且也没有一个路牌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there is no instruction
+Dialogue: 0,0:11:36.96,0:11:39.16,Default,NTP,0000,0000,0000,,来说明哪个方向的车应该走这条道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as to who is supposed to go on that lane.
+Dialogue: 0,0:11:39.20,0:11:41.14,Default,NTP,0000,0000,0000,,那么  这条车道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'll get a big mash up right there
+Dialogue: 0,0:11:41.14,0:11:41.87,Default,NTP,0000,0000,0000,,就会一团混乱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the car is.
+Dialogue: 0,0:11:41.87,0:11:43.45,Default,NTP,0000,0000,0000,,每个人都想驶上这条车道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everyone is trying to go on that lane
+Dialogue: 0,0:11:43.45,0:11:47.60,Default,NTP,0000,0000,0000,,随之而来就会发生混乱以及会释放出大量能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and chaos ensues and there's a big release of energy.
+Dialogue: 0,0:11:50.24,0:11:51.51,Default,NTP,0000,0000,0000,,现在再试想一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now imagine
+Dialogue: 0,0:11:51.51,0:11:53.21,Default,NTP,0000,0000,0000,,这条高速路就在太阳表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if this freeway was on the Sun
+Dialogue: 0,0:11:53.64,0:11:56.57,Default,NTP,0000,0000,0000,,这段车流足有两万英里长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the cars were 20,000 miles long.
+Dialogue: 0,0:11:58.08,0:12:01.33,Default,NTP,0000,0000,0000,,这起巨大的事故导致太阳向外发射物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The enormous crash fires material off the Sun
+Dialogue: 0,0:12:01.86,0:12:03.90,Default,NTP,0000,0000,0000,,径直冲向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and straight toward our planet.
+Dialogue: 0,0:12:04.22,0:12:06.76,Default,NTP,0000,0000,0000,,这就是日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That is a Coronal Mass Ejection.
+Dialogue: 0,0:12:08.79,0:12:10.87,Default,NTP,0000,0000,0000,,CME非常巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A CME is gigantic,
+Dialogue: 0,0:12:10.87,0:12:14.03,Default,NTP,0000,0000,0000,,含有超过十亿吨的太阳等离子体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over 10 billion tons of solar plasma.
+Dialogue: 0,0:12:14.76,0:12:18.37,Default,NTP,0000,0000,0000,,相当于10万艘航空母舰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the equivalent of 100,000 aircraft carriers
+Dialogue: 0,0:12:18.75,0:12:22.20,Default,NTP,0000,0000,0000,,以每小时数百万英里的速度冲向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}traveling at several million miles per hour toward Earth.
+Dialogue: 0,0:12:23.54,0:12:25.78,Default,NTP,0000,0000,0000,,这威胁到我们整个星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the threat to our planet.
+Dialogue: 0,0:12:26.11,0:12:29.50,Default,NTP,0000,0000,0000,,日冕物质抛射通常不会直接攻击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A direct hit from a CME is a rare occurrence,
+Dialogue: 0,0:12:29.63,0:12:33.15,Default,NTP,0000,0000,0000,,但是一旦攻击  就会给我们的文明带来巨大灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it would be catastrophic for our civilization.
+Dialogue: 0,0:12:36.59,0:12:39.11,Default,NTP,0000,0000,0000,,只消一场大磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're literally one big storm away
+Dialogue: 0,0:12:39.11,0:12:41.63,Default,NTP,0000,0000,0000,,就能给我们的工程带来灭顶之灾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from an engineering disaster.
+Dialogue: 0,0:12:44.59,0:12:47.94,Default,NTP,0000,0000,0000,,来自太阳能科学的最新报告让我们更加明了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The sheer size of that disaster has only become clear
+Dialogue: 0,0:12:47.94,0:12:51.56,Default,NTP,0000,0000,0000,,灾难的规模之宏大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with new reports from the cutting edge of solar science.
+Dialogue: 0,0:12:53.04,0:12:55.44,Default,NTP,0000,0000,0000,,来自卫星的令人不安的新信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Disturbing new information from satellites
+Dialogue: 0,0:12:55.44,0:12:57.10,Default,NTP,0000,0000,0000,,也许能帮助我们预测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might help us predict
+Dialogue: 0,0:12:57.10,0:13:01.37,Default,NTP,0000,0000,0000,,下一个致命性的超级大磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the next deadly blast of a magnetic superstorm.
+Dialogue: 0,0:13:06.54,0:13:09.83,Default,NTP,0000,0000,0000,,直到最近  人们才发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetic solar storms have only recently been
+Dialogue: 0,0:13:09.83,0:13:12.42,Default,NTP,0000,0000,0000,,太阳磁暴是地球的致命威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shown to be a deadly threat to the Earth.
+Dialogue: 0,0:13:16.45,0:13:19.39,Default,NTP,0000,0000,0000,,太阳一直在向外抛射物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun is constantly ejecting material,
+Dialogue: 0,0:13:20.46,0:13:22.65,Default,NTP,0000,0000,0000,,从放射物到X射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from radiation to x-rays
+Dialogue: 0,0:13:22.83,0:13:26.53,Default,NTP,0000,0000,0000,,到太阳耀斑  到日冕物质抛射  种种皆有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to solar flares to coronal mass ejections.
+Dialogue: 0,0:13:29.46,0:13:32.46,Default,NTP,0000,0000,0000,,这些物质通常没有击中我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The reason these ejections don't routinely hit us
+Dialogue: 0,0:13:32.73,0:13:35.17,Default,NTP,0000,0000,0000,,是因为地球有保护层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that Earth is protected.
+Dialogue: 0,0:13:36.47,0:13:39.55,Default,NTP,0000,0000,0000,,地球被巨大的磁场所包围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth has this huge magnetic field surrounding it.
+Dialogue: 0,0:13:37.55,0:13:40.55,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}特拉维斯·斯·泰勒\N物理学家
+Dialogue: 0,0:13:39.55,0:13:41.06,Default,NTP,0000,0000,0000,,它包围着整个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's all around the thing.
+Dialogue: 0,0:13:41.06,0:13:44.43,Default,NTP,0000,0000,0000,,无论是太阳耀斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and what happens is, if there's a solar flare,
+Dialogue: 0,0:13:44.43,0:13:45.62,Default,NTP,0000,0000,0000,,还是日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a coronal mass ejection,
+Dialogue: 0,0:13:45.62,0:13:48.22,Default,NTP,0000,0000,0000,,我们的磁场就是我们的救星  我们的盔甲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our magnetic field is our savior, it's our armor.
+Dialogue: 0,0:13:51.17,0:13:52.14,Default,NTP,0000,0000,0000,,比方说  这地球仪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine the Earth
+Dialogue: 0,0:13:52.18,0:13:54.14,Default,NTP,0000,0000,0000,,就是我们的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as this globe,
+Dialogue: 0,0:13:54.18,0:13:57.51,Default,NTP,0000,0000,0000,,而太阳此时是这支猎枪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Sun is a shotgun.
+Dialogue: 0,0:13:57.61,0:14:00.51,Default,NTP,0000,0000,0000,,太阳每隔几天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun fires off powerful blasts
+Dialogue: 0,0:14:00.52,0:14:06.22,Default,NTP,0000,0000,0000,,便向地球攻击一阵\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}toward the Earth every few days.
+Dialogue: 0,0:14:07.89,0:14:08.26,Default,NTP,0000,0000,0000,,但地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the planet
+Dialogue: 0,0:14:08.33,0:14:10.39,Default,NTP,0000,0000,0000,,有一层防护罩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has a protective shield,
+Dialogue: 0,0:14:10.43,0:14:12.23,Default,NTP,0000,0000,0000,,就像一块树脂玻璃板\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like a sheet of Plexiglas
+Dialogue: 0,0:14:12.26,0:14:13.23,Default,NTP,0000,0000,0000,,可以保护这只地球仪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that protects a globe
+Dialogue: 0,0:14:13.26,0:14:18.23,Default,NTP,0000,0000,0000,,免遭子弹射中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from shotgun blasts.
+Dialogue: 0,0:14:20.70,0:14:22.81,Default,NTP,0000,0000,0000,,它叫磁层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's called the magnetosphere,
+Dialogue: 0,0:14:22.87,0:14:24.57,Default,NTP,0000,0000,0000,,是由地球剧烈流动的内核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a gigantic magnetic field
+Dialogue: 0,0:14:24.61,0:14:29.58,Default,NTP,0000,0000,0000,,发出的强烈磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}generated by the planet's churning core.
+Dialogue: 0,0:14:29.61,0:14:35.22,Default,NTP,0000,0000,0000,,外延足有四万三千英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It extends out 43,000 miles.
+Dialogue: 0,0:14:36.49,0:14:38.05,Default,NTP,0000,0000,0000,,就像两条环形磁铁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just as a ring magnet
+Dialogue: 0,0:14:38.16,0:14:40.06,Default,NTP,0000,0000,0000,,互相排斥一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}repels another ring,
+Dialogue: 0,0:14:40.16,0:14:42.06,Default,NTP,0000,0000,0000,,地球的磁层也会排斥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's magnetosphere repels
+Dialogue: 0,0:14:42.16,0:14:47.50,Default,NTP,0000,0000,0000,,来自太阳的磁化等离子体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the magnetized plasma from the Sun.
+Dialogue: 0,0:14:47.53,0:14:49.70,Default,NTP,0000,0000,0000,,十亿吨过热的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A billion tons of superheated,
+Dialogue: 0,0:14:49.80,0:14:52.07,Default,NTP,0000,0000,0000,,并带电的等离子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}electrically-charged plasma
+Dialogue: 0,0:14:52.14,0:14:54.50,Default,NTP,0000,0000,0000,,向地球袭来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hits our planet,
+Dialogue: 0,0:14:54.60,0:14:58.14,Default,NTP,0000,0000,0000,,但通常只是在地球周围打转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and normally just rolls around it.
+Dialogue: 0,0:14:58.14,0:14:59.41,Default,NTP,0000,0000,0000,,地球外层的电磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The electromagnetic shield
+Dialogue: 0,0:14:59.51,0:15:01.71,Default,NTP,0000,0000,0000,,是地球的防护盾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the Earth is a shield.
+Dialogue: 0,0:14:59.51,0:15:02.71,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:15:01.78,0:15:03.35,Default,NTP,0000,0000,0000,,带电粒子想进入地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Charged particles try to get in,
+Dialogue: 0,0:15:03.41,0:15:09.85,Default,NTP,0000,0000,0000,,但会被磁场弹回并改换方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they bounce against and get redirected by the magnetic field.
+Dialogue: 0,0:15:09.85,0:15:11.89,Default,NTP,0000,0000,0000,,只有极小的一部分磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only a tiny piece of the magnetic storm
+Dialogue: 0,0:15:11.96,0:15:16.59,Default,NTP,0000,0000,0000,,能够通过地球的两极的缝隙进入\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gets caught in the small opening at the planet's poles,
+Dialogue: 0,0:15:16.69,0:15:20.13,Default,NTP,0000,0000,0000,,这便是我们所称的北极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where we see it as the northern lights.
+Dialogue: 0,0:15:20.16,0:15:25.57,Default,NTP,0000,0000,0000,,地球的磁场将高能粒子指引至地球两极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's magnetic field redirects energetic particles to the poles of the Earth.
+Dialogue: 0,0:15:25.60,0:15:28.77,Default,NTP,0000,0000,0000,,在看到北极光和南极光的时候  那便是它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we see that when we see the northern and southern lights.
+Dialogue: 0,0:15:28.87,0:15:33.14,Default,NTP,0000,0000,0000,,这些粒子与地球大气层互相作用  引起极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Those particles interact with the Earth's atmosphere and cause it to glow,
+Dialogue: 0,0:15:33.21,0:15:39.12,Default,NTP,0000,0000,0000,,便是漫天美丽光炫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's a beautiful light display.
+Dialogue: 0,0:15:39.15,0:15:44.12,Default,NTP,0000,0000,0000,,磁层能改变电磁材料的方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The magnetosphere can redirect electromagnetic material
+Dialogue: 0,0:15:44.15,0:15:47.16,Default,NTP,0000,0000,0000,,而电磁材料正是地球繁荣不可或缺之物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which allows life to flourish on Earth.
+Dialogue: 0,0:15:47.22,0:15:49.23,Default,NTP,0000,0000,0000,,没有它  放射性粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without it, radioactive particles
+Dialogue: 0,0:15:49.33,0:15:53.13,Default,NTP,0000,0000,0000,,很可能会杀死所有生命形态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would likely kill off all forms of life.
+Dialogue: 0,0:15:53.20,0:15:56.50,Default,NTP,0000,0000,0000,,幸运的是  这层防护盾引走一些材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately, the field directs away some material,
+Dialogue: 0,0:15:57.90,0:16:01.84,Default,NTP,0000,0000,0000,,如太阳耀斑  但却允许其他材料进入地球大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like solar flares, and allows other materials in to our planet's atmosphere,
+Dialogue: 0,0:16:01.87,0:16:04.57,Default,NTP,0000,0000,0000,,如光和热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like light and heat.
+Dialogue: 0,0:16:04.61,0:16:06.31,Default,NTP,0000,0000,0000,,你可能会好奇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You might wonder how is it
+Dialogue: 0,0:16:06.31,0:16:10.31,Default,NTP,0000,0000,0000,,磁层保护我们免于日冕物质抛射侵袭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that our magnetosphere protects us from coronal mass ejections.
+Dialogue: 0,0:16:10.31,0:16:12.88,Default,NTP,0000,0000,0000,,太阳光却可以长驱直入\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the Sunlight still comes right through
+Dialogue: 0,0:16:12.95,0:16:14.65,Default,NTP,0000,0000,0000,,普照大地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we have daylight.
+Dialogue: 0,0:16:14.68,0:16:17.15,Default,NTP,0000,0000,0000,,这是因为日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, that's because the coronal mass ejection
+Dialogue: 0,0:16:17.22,0:16:19.19,Default,NTP,0000,0000,0000,,大多都是带电粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is mostly charged particles.
+Dialogue: 0,0:16:19.22,0:16:20.39,Default,NTP,0000,0000,0000,,磁场能阻拦的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's the electric charge
+Dialogue: 0,0:16:20.39,0:16:24.69,Default,NTP,0000,0000,0000,,正是这些电荷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the magnetic field grabs a hold to and traps.
+Dialogue: 0,0:16:24.76,0:16:26.86,Default,NTP,0000,0000,0000,,光不含电荷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Light has no electric charge.
+Dialogue: 0,0:16:26.93,0:16:28.93,Default,NTP,0000,0000,0000,,由于它不是带电粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and since it's not a charged particle,
+Dialogue: 0,0:16:28.97,0:16:30.67,Default,NTP,0000,0000,0000,,便可以通过磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it passes right on through the magnetic field
+Dialogue: 0,0:16:30.77,0:16:34.47,Default,NTP,0000,0000,0000,,毫无影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like it's not even there.
+Dialogue: 0,0:16:34.50,0:16:39.31,Default,NTP,0000,0000,0000,,但地球的强力磁场又是从哪儿来的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But where does the planet's powerful magnetic force come from?
+Dialogue: 0,0:16:39.38,0:16:41.11,Default,NTP,0000,0000,0000,,我们可由一种历史最悠久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That can be answered with one of the oldest
+Dialogue: 0,0:16:41.14,0:16:44.11,Default,NTP,0000,0000,0000,,也是最简单的磁力计得出答案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and simplest of magnetometers,
+Dialogue: 0,0:16:44.15,0:16:46.48,Default,NTP,0000,0000,0000,,罗盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A compass.
+Dialogue: 0,0:16:46.58,0:16:48.12,Default,NTP,0000,0000,0000,,这是一只罗盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I've got a compass here.
+Dialogue: 0,0:16:47.59,0:16:52.09,Default,NTP,0000,0000,0000,,{\pos(253,115)}{\fs12}快速\N金属回收
+Dialogue: 0,0:16:48.19,0:16:51.09,Default,NTP,0000,0000,0000,,它能告诉你北在哪个方向  是种非常简单的仪器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a pretty simple device to tell you which direction is north.
+Dialogue: 0,0:16:51.15,0:16:52.15,Default,NTP,0000,0000,0000,,它是依靠磁场来指向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It uses magnetic fields,
+Dialogue: 0,0:16:52.19,0:16:54.56,Default,NTP,0000,0000,0000,,所以有时候它指的方向也不一定正确\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so sometimes it doesn't always Point that way.
+Dialogue: 0,0:16:54.62,0:17:00.10,Default,NTP,0000,0000,0000,,让我来告诉你们为什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I want to show you why it doesn't.
+Dialogue: 0,0:17:01.16,0:17:02.10,Default,NTP,0000,0000,0000,,咱们现在在一个废品收购站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're here at a junkyard.
+Dialogue: 0,0:17:02.20,0:17:04.20,Default,NTP,0000,0000,0000,,在我身后  是一个强磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And behind me is a huge electromagnet.
+Dialogue: 0,0:17:04.27,0:17:05.84,Default,NTP,0000,0000,0000,,当强磁场工作的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when we turn that thing on,
+Dialogue: 0,0:17:05.90,0:17:07.10,Default,NTP,0000,0000,0000,,会发生什么呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what's gonna happen?
+Dialogue: 0,0:17:07.17,0:17:12.44,Default,NTP,0000,0000,0000,,让我们来瞧一瞧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's take a look.
+Dialogue: 0,0:17:14.18,0:17:15.68,Default,NTP,0000,0000,0000,,指针指向强磁场的方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The compass turned tord the magnet.
+Dialogue: 0,0:17:15.75,0:17:16.78,Default,NTP,0000,0000,0000,,但关掉强磁场后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when we turn that off,
+Dialogue: 0,0:17:16.88,0:17:18.81,Default,NTP,0000,0000,0000,,指针会回到北的方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's gonna turn back and point to the north.
+Dialogue: 0,0:17:18.92,0:17:19.45,Default,NTP,0000,0000,0000,,这说明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what that tells us
+Dialogue: 0,0:17:19.52,0:17:22.08,Default,NTP,0000,0000,0000,,罗盘并不一定指向北\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a compass doesn't point to the north.
+Dialogue: 0,0:17:22.19,0:17:26.52,Default,NTP,0000,0000,0000,,它指的是附近最强大的磁场方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It points to the nearest largest magnetic field.
+Dialogue: 0,0:17:26.56,0:17:30.36,Default,NTP,0000,0000,0000,,实际上  罗盘指的也不真是北极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, compasses don't really point to the north pole.
+Dialogue: 0,0:17:30.46,0:17:35.26,Default,NTP,0000,0000,0000,,而是指向加拿大埃尔斯米尔岛西部的一堆巨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They point to a chunk of rock west of Ellesmere Island Off Canada.
+Dialogue: 0,0:17:35.37,0:17:39.54,Default,NTP,0000,0000,0000,,那里是地磁北极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the magnetic north pole.
+Dialogue: 0,0:17:39.60,0:17:43.11,Default,NTP,0000,0000,0000,,北极并不是一个磁极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the north pole is not a magnet itself.
+Dialogue: 0,0:17:43.11,0:17:49.81,Default,NTP,0000,0000,0000,,磁场其实是由地球深处的力产生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The magnetic field is actually generated by forces deep within the planet.
+Dialogue: 0,0:17:49.88,0:17:53.55,Default,NTP,0000,0000,0000,,磁场由移动流产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetic fields are generated by moving currents
+Dialogue: 0,0:17:53.62,0:17:59.09,Default,NTP,0000,0000,0000,,地球  其实就是一个巨大的运动流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the Earth is one big moving current.
+Dialogue: 0,0:17:59.16,0:18:03.83,Default,NTP,0000,0000,0000,,地球自转  而地球内部是熔融液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth spins and the interior of the Earth is molten and liquid.
+Dialogue: 0,0:18:03.89,0:18:06.16,Default,NTP,0000,0000,0000,,有点像这杯红酒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's kind of like this glass of wine,
+Dialogue: 0,0:18:06.23,0:18:10.17,Default,NTP,0000,0000,0000,,当我旋转它时  内部产生有组织的运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when I swirl it around, it has a nice organized motion.
+Dialogue: 0,0:18:10.23,0:18:12.87,Default,NTP,0000,0000,0000,,围绕杯沿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it hugs the rim of the glass.
+Dialogue: 0,0:18:12.90,0:18:16.37,Default,NTP,0000,0000,0000,,地球内核运动大概就是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's kind of what happens inside the Earth's core.
+Dialogue: 0,0:18:16.44,0:18:24.71,Default,NTP,0000,0000,0000,,地核中的熔融金属旋转  引发磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Molten iron in the core swirls around and generates a magnetic field.
+Dialogue: 0,0:18:24.78,0:18:27.08,Default,NTP,0000,0000,0000,,我们的地球其实就是一个发电机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our planet is actually a dynamo,
+Dialogue: 0,0:18:27.18,0:18:33.09,Default,NTP,0000,0000,0000,,将机械能转化为磁能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a device that transfers mechanical energy to magnetic energy.
+Dialogue: 0,0:18:33.16,0:18:34.26,Default,NTP,0000,0000,0000,,发电机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dynamos.
+Dialogue: 0,0:18:34.32,0:18:37.73,Default,NTP,0000,0000,0000,,地球里有一个  太阳里有一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's one on the Earth, there's one on the Sun,
+Dialogue: 0,0:18:37.79,0:18:40.26,Default,NTP,0000,0000,0000,,我自行车上也有一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and there's one on my bike.
+Dialogue: 0,0:18:40.33,0:18:42.06,Default,NTP,0000,0000,0000,,当轮子旋转时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As you see as the wheel turns,
+Dialogue: 0,0:18:42.13,0:18:44.07,Default,NTP,0000,0000,0000,,轮轴也随之运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's turning the axle in this dynamo.
+Dialogue: 0,0:18:44.13,0:18:45.50,Default,NTP,0000,0000,0000,,轮轴周围有磁铁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are magnets attached to the axles.
+Dialogue: 0,0:18:45.54,0:18:47.07,Default,NTP,0000,0000,0000,,于是磁铁旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The magnets are spinning around.
+Dialogue: 0,0:18:47.14,0:18:49.07,Default,NTP,0000,0000,0000,,磁铁周围有一圈电线缠绕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a coil of wire wrapped around there,
+Dialogue: 0,0:18:49.17,0:18:52.24,Default,NTP,0000,0000,0000,,于是旋转磁铁产生电场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that spinning magnet is inducing an electric field,
+Dialogue: 0,0:18:52.34,0:18:56.55,Default,NTP,0000,0000,0000,,电流通过导线  达到这灯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and current into this wire, it runs up to this light.
+Dialogue: 0,0:18:56.61,0:18:59.82,Default,NTP,0000,0000,0000,,当我踩踏板的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as I spin the pedals,
+Dialogue: 0,0:18:59.88,0:19:04.42,Default,NTP,0000,0000,0000,,它便将动能转化为电能  再转化为光能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you see it converts the kinetic energy to electrical energy to light energy.
+Dialogue: 0,0:19:06.62,0:19:10.06,Default,NTP,0000,0000,0000,,发电机的关键在于运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The key for a dynamo is motion.
+Dialogue: 0,0:19:10.16,0:19:13.26,Default,NTP,0000,0000,0000,,运动的液体能产生电磁能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Moving fluid can create electromagnetic energy
+Dialogue: 0,0:19:13.33,0:19:19.64,Default,NTP,0000,0000,0000,,就像转动的自行车胎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just as much as a moving bike tire.
+Dialogue: 0,0:19:19.70,0:19:24.71,Default,NTP,0000,0000,0000,,实际上  液体创造了地球上最强的磁力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, fluid creates the most powerful magnetic force on the planet
+Dialogue: 0,0:19:24.81,0:19:30.08,Default,NTP,0000,0000,0000,,这个液体发电机叫做地核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the fluid dynamo called Earth's core.
+Dialogue: 0,0:19:30.15,0:19:33.32,Default,NTP,0000,0000,0000,,但这古老的发电机有个问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's a problem with this ancient dynamo.
+Dialogue: 0,0:19:33.35,0:19:38.59,Default,NTP,0000,0000,0000,,它可以自发停止  或改变方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can stop or change direction.
+Dialogue: 0,0:19:38.62,0:19:42.16,Default,NTP,0000,0000,0000,,地球磁场并不稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's magnetic field is not a stable, static thing.
+Dialogue: 0,0:19:42.26,0:19:46.13,Default,NTP,0000,0000,0000,,随着时间的过去  它经常改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's changed quite a lot over time.
+Dialogue: 0,0:19:46.16,0:19:48.13,Default,NTP,0000,0000,0000,,如同杯中的红酒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like the wine in the glass,
+Dialogue: 0,0:19:48.16,0:19:52.13,Default,NTP,0000,0000,0000,,地球磁场可以改变方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's magnetic dynamo can change direction.
+Dialogue: 0,0:19:52.17,0:19:55.70,Default,NTP,0000,0000,0000,,北极和南极可以互换\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The north and south pole can literally flip.
+Dialogue: 0,0:19:58.41,0:20:01.14,Default,NTP,0000,0000,0000,,究竟是什么引起了两极互换\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Exactly what causes the poles to reverse
+Dialogue: 0,0:20:01.21,0:20:03.71,Default,NTP,0000,0000,0000,,还是一个未解之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is not completely understood.
+Dialogue: 0,0:20:03.78,0:20:07.25,Default,NTP,0000,0000,0000,,我们只知道  它经常发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All we know is that it happens.
+Dialogue: 0,0:20:07.75,0:20:11.65,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}本杰明·维斯\N麻省理工学院
+Dialogue: 0,0:20:07.25,0:20:10.65,Default,NTP,0000,0000,0000,,我们还知道  地球的磁极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know that the orientation of the Earth's magnetic poles
+Dialogue: 0,0:20:10.75,0:20:15.26,Default,NTP,0000,0000,0000,,每几十万年改变一次方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}switches every few hundred thousand years.
+Dialogue: 0,0:20:15.26,0:20:19.23,Default,NTP,0000,0000,0000,,冰核以及深海地质学研究揭示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ice cores and deep-sea geology reveal evidence
+Dialogue: 0,0:20:19.23,0:20:21.56,Default,NTP,0000,0000,0000,,大约78万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that 780,000 years ago,
+Dialogue: 0,0:20:21.67,0:20:24.67,Default,NTP,0000,0000,0000,,罗盘指的方向应该是南边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compasses would have pointed south.
+Dialogue: 0,0:20:24.77,0:20:27.10,Default,NTP,0000,0000,0000,,再之前的5万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}50,000 years before that,
+Dialogue: 0,0:20:27.20,0:20:30.74,Default,NTP,0000,0000,0000,,指的应该是北边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a compass would have pointed north.
+Dialogue: 0,0:20:30.84,0:20:33.51,Default,NTP,0000,0000,0000,,这是地球的循环改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a recurring pattern on our planet
+Dialogue: 0,0:20:33.51,0:20:36.45,Default,NTP,0000,0000,0000,,很有可能再次发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it may happen again.
+Dialogue: 0,0:20:36.48,0:20:37.75,Default,NTP,0000,0000,0000,,我们几乎可以确定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's almost certain
+Dialogue: 0,0:20:37.75,0:20:40.42,Default,NTP,0000,0000,0000,,地球的磁场会再次改变方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that Earth's magnetic field will change direction again,
+Dialogue: 0,0:20:40.42,0:20:42.82,Default,NTP,0000,0000,0000,,但我们不知道确切时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we don't know how soon.
+Dialogue: 0,0:20:42.85,0:20:43.22,Default,NTP,0000,0000,0000,,实际上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact,
+Dialogue: 0,0:20:43.29,0:20:46.66,Default,NTP,0000,0000,0000,,上一次磁场逆转是在78万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the last magnetic reversal was 780,000 years ago,
+Dialogue: 0,0:20:46.76,0:20:50.16,Default,NTP,0000,0000,0000,,这比以往的磁场逆转平均时间要长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is longer than, on average, the field reverses.
+Dialogue: 0,0:20:50.18,0:20:53.71,Default,NTP,0000,0000,0000,,因此在某种意义上磁场逆转已经推迟了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, in a sense, we're overdue for a reversal.
+Dialogue: 0,0:20:56.68,0:21:00.92,Default,NTP,0000,0000,0000,,磁极逆转对人类生活的影响程度尚无定论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No one is sure how a pole reversal will affect human life.
+Dialogue: 0,0:21:01.32,0:21:03.40,Default,NTP,0000,0000,0000,,罗盘会掉转指向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Compasses will point south.
+Dialogue: 0,0:21:03.78,0:21:06.43,Default,NTP,0000,0000,0000,,鸟类的迁徙行为会陷入混乱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Bird migrations might be disrupted.
+Dialogue: 0,0:21:06.91,0:21:09.55,Default,NTP,0000,0000,0000,,GPS的导航也会受到干扰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}GPS navigation will be affected.
+Dialogue: 0,0:21:10.32,0:21:13.23,Default,NTP,0000,0000,0000,,但这些后果还不是最令人忧心的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there is a more disturbing consequence.
+Dialogue: 0,0:21:13.86,0:21:17.29,Default,NTP,0000,0000,0000,,两极的逆转可能导致某段时期内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A pole reversal might mean a period where there is a weakened
+Dialogue: 0,0:21:17.29,0:21:19.69,Default,NTP,0000,0000,0000,,地磁场被弱化  甚至消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or no magnetic field on the planet.
+Dialogue: 0,0:21:22.04,0:21:26.04,Default,NTP,0000,0000,0000,,问题在于  地磁场一旦被弱化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The problem is that the magnetic field, when it gets weak,
+Dialogue: 0,0:21:26.11,0:21:30.20,Default,NTP,0000,0000,0000,,地球便失去阻隔太阳微粒辐射的有效挡板\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's no longer an effective shield against particle radiation from the Sun.
+Dialogue: 0,0:21:34.29,0:21:37.93,Default,NTP,0000,0000,0000,,假设地球是个有树脂玻璃做挡板的地球仪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine the Earth as a globe with a plexiglass shield.
+Dialogue: 0,0:21:38.32,0:21:41.46,Default,NTP,0000,0000,0000,,而此时挡板已经受损\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only now the shield is weakened.
+Dialogue: 0,0:21:41.60,0:21:45.92,Default,NTP,0000,0000,0000,,一股来自太阳的高能冲击便足以造成重创\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A high-powered blast from the Sun can do immense damage.
+Dialogue: 0,0:21:49.13,0:21:52.08,Default,NTP,0000,0000,0000,,当磁极逆转期来临时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the overdue pole reversal takes place,
+Dialogue: 0,0:21:52.08,0:21:56.30,Default,NTP,0000,0000,0000,,地球的保护磁层便会消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's protective magnetosphere may disappear,
+Dialogue: 0,0:21:56.34,0:21:58.35,Default,NTP,0000,0000,0000,,地球将完全暴露在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leaving the entire planet vulnerable
+Dialogue: 0,0:21:58.35,0:22:02.09,Default,NTP,0000,0000,0000,,致命的太阳磁暴面前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to deadly magnetic storms from the Sun.
+Dialogue: 0,0:22:09.65,0:22:15.12,Default,NTP,0000,0000,0000,,太阳磁暴对地球生物构成的威胁令人担忧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Solar magnetic storms pose a disturbing threat to life on our planet.
+Dialogue: 0,0:22:17.79,0:22:19.31,Default,NTP,0000,0000,0000,,在太阳表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the surface of the Sun,
+Dialogue: 0,0:22:19.82,0:22:25.07,Default,NTP,0000,0000,0000,,耀斑开始沸腾  滚动  然后爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a flare begins to boil, bubble, then explode.
+Dialogue: 0,0:22:27.44,0:22:30.92,Default,NTP,0000,0000,0000,,太阳表面发生了极为剧烈的爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a horrendous explosion on the surface of the Sun.
+Dialogue: 0,0:22:30.92,0:22:34.20,Default,NTP,0000,0000,0000,,接下来产生巨大的风暴  即日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you have this huge storm, a coronal mass ejection.
+Dialogue: 0,0:22:30.72,0:22:34.20,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}特拉维斯·斯·泰勒\N物理学家
+Dialogue: 0,0:22:34.20,0:22:38.16,Default,NTP,0000,0000,0000,,这些电离粒子以极高的速率飞离太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These ionized particles fly away from the Sun at extreme velocities.
+Dialogue: 0,0:22:43.34,0:22:47.73,Default,NTP,0000,0000,0000,,这些前所未有的照片来自NASA新发射的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are unprecedented images from NASA's new satellite
+Dialogue: 0,0:22:48.04,0:22:52.36,Default,NTP,0000,0000,0000,,名为SDO  意即太阳动力学观测站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called SDO, the solar dynamics observatory.
+Dialogue: 0,0:22:53.48,0:22:58.48,Default,NTP,0000,0000,0000,,人类从未如此近距离地观察过我们的主星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Never before has humanity had such a close look at our home star.
+Dialogue: 0,0:23:01.76,0:23:05.81,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}托德·霍克斯马\N斯坦福大学
+Dialogue: 0,0:23:00.36,0:23:03.41,Default,NTP,0000,0000,0000,,这个观测站和以往观测站最大的区别在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The big difference between this observatory and previous observatories
+Dialogue: 0,0:23:03.41,0:23:06.16,Default,NTP,0000,0000,0000,,它能每时每刻都观测到太阳的整体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that we're looking at all of the Sun all of the time.
+Dialogue: 0,0:23:06.26,0:23:09.71,Default,NTP,0000,0000,0000,,此前我们只能观测到一小部分而非全局\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Previously, we've looked at small areas, not the whole disk.
+Dialogue: 0,0:23:16.88,0:23:20.76,Default,NTP,0000,0000,0000,,SDO发射于2010年2月  用于检测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Launched in February of 2010, the SDO measures
+Dialogue: 0,0:23:20.76,0:23:25.93,Default,NTP,0000,0000,0000,,磁力  紫外线甚至太阳内部的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}magnetism, ultraviolet rays and even the interior of the Sun.
+Dialogue: 0,0:23:28.48,0:23:32.51,Default,NTP,0000,0000,0000,,SDO已传回前所未有的特写照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Already, SDO has returned never-before-seen close-ups
+Dialogue: 0,0:23:32.51,0:23:35.57,Default,NTP,0000,0000,0000,,包括耀斑  磁雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of solar flares, magnetic rain,
+Dialogue: 0,0:23:35.57,0:23:39.73,Default,NTP,0000,0000,0000,,以及掠过太阳表面的海啸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and tsunamis that ripple across the surface of the Sun.
+Dialogue: 0,0:23:42.70,0:23:43.88,Default,NTP,0000,0000,0000,,它就像一个数字录像机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like having a DVR.
+Dialogue: 0,0:23:44.04,0:23:46.06,Default,NTP,0000,0000,0000,,你可以倒回到有趣的画面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can go back, and you can catch the interesting part
+Dialogue: 0,0:23:46.06,0:23:47.54,Default,NTP,0000,0000,0000,,还能随时重复播放\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and having an instant replay.
+Dialogue: 0,0:23:49.18,0:23:51.60,Default,NTP,0000,0000,0000,,我们发现之前未被揭示的关联性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we're gonna see connections that we've never seen before.
+Dialogue: 0,0:23:55.30,0:23:58.08,Default,NTP,0000,0000,0000,,其中最重要的一点是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the most important connections is that
+Dialogue: 0,0:23:58.08,0:24:01.78,Default,NTP,0000,0000,0000,,所有的太阳活动本质上都是磁活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all solar activity is basically magnetic activity.
+Dialogue: 0,0:24:03.80,0:24:07.49,Default,NTP,0000,0000,0000,,要理解太阳的易变性  关键在于磁力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The key to understanding the variability of the Sun is magnetism.
+Dialogue: 0,0:24:08.02,0:24:11.57,Default,NTP,0000,0000,0000,,我们观测到的有太阳黑子  暗条和爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see Sunspots, we see filaments, we see explosions.
+Dialogue: 0,0:24:11.68,0:24:13.17,Default,NTP,0000,0000,0000,,还观测到日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see coronal mass ejections,
+Dialogue: 0,0:24:13.17,0:24:15.33,Default,NTP,0000,0000,0000,,即太阳物质通过大爆炸进入宇宙空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}big explosions of material into space.
+Dialogue: 0,0:24:15.84,0:24:18.76,Default,NTP,0000,0000,0000,,弄清楚这些现象之间联系的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The only way to understand how that all ties together is
+Dialogue: 0,0:24:18.77,0:24:19.42,Default,NTP,0000,0000,0000,,在于磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through the magnetic field.
+Dialogue: 0,0:24:23.11,0:24:24.68,Default,NTP,0000,0000,0000,,太阳的磁力源于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun's magnetism is created
+Dialogue: 0,0:24:24.68,0:24:30.81,Default,NTP,0000,0000,0000,,超高温等离子体在其表面的快速运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the movement of superheated plasma as it ripples across the surface of our home star.
+Dialogue: 0,0:24:32.78,0:24:37.09,Default,NTP,0000,0000,0000,,磁力产生的原因之一是运动流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the ways in which magnetism is generated is by a moving current.
+Dialogue: 0,0:24:37.34,0:24:42.69,Default,NTP,0000,0000,0000,,任何流动或运动的电荷都能产生磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So any flowing, moving charges will generate a magnetic field.
+Dialogue: 0,0:24:37.74,0:24:41.69,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:24:42.79,0:24:47.69,Default,NTP,0000,0000,0000,,太阳就相当于大量运动电荷的巨大的集合体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun is one huge bag of flowing, moving charges.
+Dialogue: 0,0:24:50.00,0:24:53.86,Default,NTP,0000,0000,0000,,在地球上能观测到的磁力现象之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the magnetic phenomena that can actually be seen from Earth
+Dialogue: 0,0:24:53.86,0:24:55.22,Default,NTP,0000,0000,0000,,就是太阳黑子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a Sunspot.
+Dialogue: 0,0:24:57.24,0:24:58.93,Default,NTP,0000,0000,0000,,你可以看到太阳黑子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now if you look at the Sun and you see a Sunspot.
+Dialogue: 0,0:24:58.93,0:25:00.48,Default,NTP,0000,0000,0000,,就像一个黑点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It looks like a dark spot.
+Dialogue: 0,0:25:00.48,0:25:04.24,Default,NTP,0000,0000,0000,,事实上是磁场本身产生了某种螺旋式扭曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's really happening is the magnetic field is twisted up on itself in a certain way.
+Dialogue: 0,0:25:04.24,0:25:06.82,Default,NTP,0000,0000,0000,,看起来有点像拔开浴缸的排水口后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It looks kinda like when you pull the drain out of a bathtub
+Dialogue: 0,0:25:06.82,0:25:08.53,Default,NTP,0000,0000,0000,,水旋流入下水道的情景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it spirals down into the drain.
+Dialogue: 0,0:25:08.53,0:25:12.64,Default,NTP,0000,0000,0000,,在太阳表面产生了旋风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You create sort of a Tornado, a vortex, on the surface of the Sun.
+Dialogue: 0,0:25:12.65,0:25:15.59,Default,NTP,0000,0000,0000,,一个强大的电磁场便产生了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you have extremely strong electromagnetic fields there.
+Dialogue: 0,0:25:17.53,0:25:22.44,Default,NTP,0000,0000,0000,,太阳黑子引发的更严重的后果是太阳耀斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A Sunspot can lead to something far more dramatic: a solar flare.
+Dialogue: 0,0:25:24.12,0:25:25.60,Default,NTP,0000,0000,0000,,发生在太阳上的爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are explosions on the Sun.
+Dialogue: 0,0:25:25.60,0:25:26.98,Default,NTP,0000,0000,0000,,我们称之为太阳耀斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We call them solar flares.
+Dialogue: 0,0:25:27.40,0:25:31.58,Default,NTP,0000,0000,0000,,太阳耀斑可能小至相当一个原子弹的威力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Solar flares Can be either fairly small, by which I mean the size of an atomic bomb,
+Dialogue: 0,0:25:31.59,0:25:33.92,Default,NTP,0000,0000,0000,,也可能大至相当于十亿原子弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or they can be as big as a billion atomic bombs
+Dialogue: 0,0:25:33.92,0:25:35.36,Default,NTP,0000,0000,0000,,同时爆炸的威力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all happening at the same time.
+Dialogue: 0,0:25:37.89,0:25:42.30,Default,NTP,0000,0000,0000,,太阳表面上的耀斑弧跨度长达数百万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Solar flares arc millions of miles above the surface of the Sun.
+Dialogue: 0,0:25:43.31,0:25:47.54,Default,NTP,0000,0000,0000,,这些磁暴远非引人入胜的天文数据能表现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These magnetic storms are more than simply intriguing astronomical data.
+Dialogue: 0,0:25:50.20,0:25:52.23,Default,NTP,0000,0000,0000,,太阳磁场造就了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun's magnetic field creates
+Dialogue: 0,0:25:52.23,0:25:56.25,Default,NTP,0000,0000,0000,,整个太阳系活跃多变的宇宙环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a dynamic, ever-changing atmosphere throughout the solar system.
+Dialogue: 0,0:25:57.60,0:26:00.54,Default,NTP,0000,0000,0000,,形成了所谓的空间气象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It has come to be called space weather.
+Dialogue: 0,0:26:01.98,0:26:05.32,Default,NTP,0000,0000,0000,,空间气象是指当太空环境发生的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Space weather is the idea that things that change in space
+Dialogue: 0,0:26:05.49,0:26:07.64,Default,NTP,0000,0000,0000,,并对地球上的生物造成影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can have effects on us here on the Earth.
+Dialogue: 0,0:26:07.64,0:26:08.65,Default,NTP,0000,0000,0000,,我们对此应如何监测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And how do we measure that?
+Dialogue: 0,0:26:08.65,0:26:09.85,Default,NTP,0000,0000,0000,,又应如何进行预测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How do we learn to predict it?
+Dialogue: 0,0:26:12.45,0:26:16.10,Default,NTP,0000,0000,0000,,空间气象会对绕地球运行的卫星产生影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Space weather can affect satellites surrounding Earth.
+Dialogue: 0,0:26:16.83,0:26:19.14,Default,NTP,0000,0000,0000,,耀斑产生的高能X射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}High-powered x-rays from a solar flare
+Dialogue: 0,0:26:19.14,0:26:22.15,Default,NTP,0000,0000,0000,,对通讯卫星和导航卫星的影响之大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can cause millions of dollars of damage
+Dialogue: 0,0:26:22.15,0:26:24.92,Default,NTP,0000,0000,0000,,相当于造成数百万美元的损失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in communications and navigation satellites.
+Dialogue: 0,0:26:27.03,0:26:29.89,Default,NTP,0000,0000,0000,,航天飞机及空间站内的宇航员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronauts on the shuttle and space station
+Dialogue: 0,0:26:29.89,0:26:31.73,Default,NTP,0000,0000,0000,,需掌握空间气象预报\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have to know the space weather forecasts
+Dialogue: 0,0:26:31.73,0:26:35.21,Default,NTP,0000,0000,0000,,以避免太空行走时遭受致命的辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to avoid deadly radiation during a space walk.
+Dialogue: 0,0:26:41.32,0:26:46.84,Default,NTP,0000,0000,0000,,为了对此进行预测  SDO应运而生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are the kinds of problems the solar dynamics observatory is designed to predict.
+Dialogue: 0,0:26:48.71,0:26:51.25,Default,NTP,0000,0000,0000,,预测空间气象对我们而言是一大挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Forecasting space weather is one of our big challenges.
+Dialogue: 0,0:26:51.35,0:26:53.02,Default,NTP,0000,0000,0000,,我们希望能做得更好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We want to learn how to do it better.
+Dialogue: 0,0:26:53.28,0:26:56.72,Default,NTP,0000,0000,0000,,如今很多人不太信任天气预报\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, most of us don't really trust weather reports too much,
+Dialogue: 0,0:26:56.72,0:26:58.34,Default,NTP,0000,0000,0000,,可能会信一点  但不太相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A little bit, but not too much.
+Dialogue: 0,0:26:58.38,0:26:59.78,Default,NTP,0000,0000,0000,,而我们连这也做不到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're way behind that.
+Dialogue: 0,0:26:59.78,0:27:02.68,Default,NTP,0000,0000,0000,,在预测空间气象方面我们仍然举步不前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're not anywhere close to being able to do that yet with space weather.
+Dialogue: 0,0:27:04.35,0:27:06.91,Default,NTP,0000,0000,0000,,空间气象是否有规律可循\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are there regular patterns to space weather?
+Dialogue: 0,0:27:07.89,0:27:11.44,Default,NTP,0000,0000,0000,,这正是俄亥俄州克里夫兰的本杰明·E\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's exactly what Benjamin E. From Cleveland, Ohio
+Dialogue: 0,0:27:11.44,0:27:13.30,Default,NTP,0000,0000,0000,,向《宇宙》提出的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wanted to "Ask the universe."
+Dialogue: 0,0:27:14.82,0:27:16.50,Default,NTP,0000,0000,0000,,本杰明给我们发来提问邮件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Benjamin emailed us...
+Dialogue: 0,0:27:17.50,0:27:22.44,Default,NTP,0000,0000,0000,,科学能否提前预测太阳耀斑和日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can science predict solar flares and CME's before they begin?
+Dialogue: 0,0:27:22.73,0:27:24.45,Default,NTP,0000,0000,0000,,本杰明  这个问题很有趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Interesting question, Benjamin.
+Dialogue: 0,0:27:24.51,0:27:29.47,Default,NTP,0000,0000,0000,,我们希望能预测大型日冕物质抛射的精准时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'd love to be able to predict exactly when giant coronal mass ejections occur.
+Dialogue: 0,0:27:29.82,0:27:32.04,Default,NTP,0000,0000,0000,,结论是大约每隔十一年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns out that roughly every 11 years,
+Dialogue: 0,0:27:32.04,0:27:35.12,Default,NTP,0000,0000,0000,,太阳黑子的数量就会达到最大值\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's a maximum in the number of Sunspots,
+Dialogue: 0,0:27:35.12,0:27:39.46,Default,NTP,0000,0000,0000,,日冕物质抛射和太阳耀斑等相关运动也最为频繁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coronal mass ejections, solar flares and associated activity.
+Dialogue: 0,0:27:39.70,0:27:41.90,Default,NTP,0000,0000,0000,,我们能粗略地预测发生的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can predict roughly when that'll occur.
+Dialogue: 0,0:27:42.33,0:27:46.15,Default,NTP,0000,0000,0000,,只是无法确定具体是哪一组太阳黑子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, we can't predict when any particular Sunspot group
+Dialogue: 0,0:27:46.15,0:27:49.09,Default,NTP,0000,0000,0000,,或日冕物质抛射发生的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or coronal mass ejection will occur.
+Dialogue: 0,0:27:53.84,0:27:57.17,Default,NTP,0000,0000,0000,,迄今影响最广的空间气象现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By far, the most powerful examples of space weather
+Dialogue: 0,0:27:57.59,0:27:59.75,Default,NTP,0000,0000,0000,,是日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are coronal mass ejections.
+Dialogue: 0,0:28:02.51,0:28:04.60,Default,NTP,0000,0000,0000,,它们与太阳活动周期息息相关\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are connected to the solar cycle,
+Dialogue: 0,0:28:04.78,0:28:06.81,Default,NTP,0000,0000,0000,,在太阳最大年达到峰值\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}peaking during solar maximum,
+Dialogue: 0,0:28:07.43,0:28:09.87,Default,NTP,0000,0000,0000,,每天有多达两到三次爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with as many as two or three per day.
+Dialogue: 0,0:28:12.81,0:28:15.49,Default,NTP,0000,0000,0000,,爆发开始时  是美丽的太阳风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They begin with beautiful solar storms,
+Dialogue: 0,0:28:15.97,0:28:19.95,Default,NTP,0000,0000,0000,,SDO以全彩色照片将其记录下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}witnessed by the solar dynamics observatory in full color.
+Dialogue: 0,0:28:24.87,0:28:28.59,Default,NTP,0000,0000,0000,,一股磁场飓风将不断增强并形成旋涡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A hurricane of magnetic fields will grow and swirl,
+Dialogue: 0,0:28:29.13,0:28:32.03,Default,NTP,0000,0000,0000,,散发着弧形和羽状的燃烧的等离子体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sending arcs and plumes of flaming plasma
+Dialogue: 0,0:28:32.50,0:28:35.44,Default,NTP,0000,0000,0000,,覆盖了太阳表面几千英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thousands of miles over the surface of the Sun.
+Dialogue: 0,0:28:37.20,0:28:39.32,Default,NTP,0000,0000,0000,,有时候会平静几天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sometimes these structures are stable for days
+Dialogue: 0,0:28:39.32,0:28:40.66,Default,NTP,0000,0000,0000,,或者甚至几周\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or even weeks at a time,
+Dialogue: 0,0:28:40.67,0:28:43.08,Default,NTP,0000,0000,0000,,然后就会有点什么来触发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then something will happen to trigger
+Dialogue: 0,0:28:43.09,0:28:44.54,Default,NTP,0000,0000,0000,,一场巨大的日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a release of the coronal mass ejection.
+Dialogue: 0,0:28:44.98,0:28:46.93,Default,NTP,0000,0000,0000,,其中一部分会突然升空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And all of a sudden, one part will lift off,
+Dialogue: 0,0:28:46.93,0:28:48.68,Default,NTP,0000,0000,0000,,然后就是一场巨大的抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then there'll be a huge lift off,
+Dialogue: 0,0:28:48.76,0:28:50.42,Default,NTP,0000,0000,0000,,进入太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then it will go off into space.
+Dialogue: 0,0:28:55.21,0:28:57.55,Default,NTP,0000,0000,0000,,带电等离子体的巨大爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gigantic burst of charged plasma
+Dialogue: 0,0:28:57.55,0:28:59.51,Default,NTP,0000,0000,0000,,冲向我们的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}heads toward our planet
+Dialogue: 0,0:28:59.51,0:29:03.16,Default,NTP,0000,0000,0000,,不过通常只是围绕我们的磁层流动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where it usually flows harmlessly around our magnetosphere.
+Dialogue: 0,0:29:05.04,0:29:07.92,Default,NTP,0000,0000,0000,,但是地球的磁场有个问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's a problem with Earth's magnetic field.
+Dialogue: 0,0:29:08.16,0:29:10.12,Default,NTP,0000,0000,0000,,它开始变化了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's beginning to change.
+Dialogue: 0,0:29:10.93,0:29:14.61,Default,NTP,0000,0000,0000,,地磁未来最坏的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the worst-case scenario for Earth's magnetic future
+Dialogue: 0,0:29:15.35,0:29:19.44,Default,NTP,0000,0000,0000,,就是像火星表面一样寒冷且没有生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the cold, dead surface of Mars.
+Dialogue: 0,0:29:24.01,0:29:28.91,Default,NTP,0000,0000,0000,,要不是我们有磁层作为保护的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetic storms may well be able to bring civilization to a standstill,
+Dialogue: 0,0:29:32.20,0:29:36.11,Default,NTP,0000,0000,0000,,磁暴也许会令文明中断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if it weren't for the protective power of our planet's magnetosphere.
+Dialogue: 0,0:29:37.56,0:29:41.00,Default,NTP,0000,0000,0000,,如果地球有磁场的话  其他星球呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If Earth has a magnetic field, do other planets?
+Dialogue: 0,0:29:41.67,0:29:44.19,Default,NTP,0000,0000,0000,,按照NASA的说法  这是关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a vital question, according to NASA,
+Dialogue: 0,0:29:44.80,0:29:47.09,Default,NTP,0000,0000,0000,,因为其他星球的磁性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because other planets' magnetic properties
+Dialogue: 0,0:29:47.09,0:29:49.48,Default,NTP,0000,0000,0000,,也许会预示地球的未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may reveal the future of Earth.
+Dialogue: 0,0:29:51.86,0:29:55.09,Default,NTP,0000,0000,0000,,一  零  发射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}1, 0, lift off.
+Dialogue: 0,0:29:55.09,0:29:56.39,Default,NTP,0000,0000,0000,,发射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have a lift off.
+Dialogue: 0,0:29:56.94,0:29:59.22,Default,NTP,0000,0000,0000,,仅在太空计划开始之时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only with the beginning of the space programs,
+Dialogue: 0,0:29:59.22,0:30:01.98,Default,NTP,0000,0000,0000,,在二十世纪六十年代  我们已经可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the 1960s have we been able
+Dialogue: 0,0:30:01.98,0:30:04.98,Default,NTP,0000,0000,0000,,探测其他星球的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to detect the magnetic fields of other planets.
+Dialogue: 0,0:30:05.66,0:30:08.12,Default,NTP,0000,0000,0000,,结果令人吃惊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the discoveries are surprising.
+Dialogue: 0,0:30:09.85,0:30:11.52,Default,NTP,0000,0000,0000,,四个大行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All four of the giant planets:
+Dialogue: 0,0:30:11.52,0:30:14.66,Default,NTP,0000,0000,0000,,木星  土星  天王星和海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter,Saturn, Uranus, and Neptune,
+Dialogue: 0,0:30:14.66,0:30:18.21,Default,NTP,0000,0000,0000,,现在全都有着活跃的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all have actively generated magnetic fields today.
+Dialogue: 0,0:30:19.46,0:30:22.97,Default,NTP,0000,0000,0000,,木星的磁场是太阳系最强的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter's magnetic field is the strongest in the solar system.
+Dialogue: 0,0:30:19.46,0:30:23.66,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}本杰明·维斯\N麻省理工学院
+Dialogue: 0,0:30:22.98,0:30:26.84,Default,NTP,0000,0000,0000,,它表面的磁场强度是地球的十倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its surface field is about 10 times the strength of the Earth's.
+Dialogue: 0,0:30:29.14,0:30:30.78,Default,NTP,0000,0000,0000,,木星的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter's magnetic field
+Dialogue: 0,0:30:30.78,0:30:34.00,Default,NTP,0000,0000,0000,,从表面延伸超过四百万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stretches over four-million miles from its surface,
+Dialogue: 0,0:30:34.66,0:30:37.85,Default,NTP,0000,0000,0000,,它的功能跟地球磁场一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it performs the same function as Earth's field.
+Dialogue: 0,0:30:40.13,0:30:43.75,Default,NTP,0000,0000,0000,,我们在木星和土星上见到了北极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see northern lights on Jupiter and Saturn,
+Dialogue: 0,0:30:43.75,0:30:45.34,Default,NTP,0000,0000,0000,,那跟我们地球上的北极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is exactly the same interaction
+Dialogue: 0,0:30:45.34,0:30:47.33,Default,NTP,0000,0000,0000,,是一样的原理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we have northern lights on Earth.
+Dialogue: 0,0:30:47.54,0:30:50.89,Default,NTP,0000,0000,0000,,是来自太阳的粒子集中在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's particles from the Sun being focused
+Dialogue: 0,0:30:48.73,0:30:51.58,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:30:50.90,0:30:53.71,Default,NTP,0000,0000,0000,,这些行星的磁层形成的两极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the poles of those planets by those planets' magnetospheres
+Dialogue: 0,0:30:53.71,0:30:58.04,Default,NTP,0000,0000,0000,,它们就像在地球上一样照亮了大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they light up the atmosphere just like they do on Earth.
+Dialogue: 0,0:31:02.28,0:31:03.53,Default,NTP,0000,0000,0000,,但是离太阳越近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But closer to the Sun,
+Dialogue: 0,0:31:03.54,0:31:07.20,Default,NTP,0000,0000,0000,,行星的磁场就越弱  令人费解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planetary fields are mysteriously less common.
+Dialogue: 0,0:31:08.00,0:31:12.94,Default,NTP,0000,0000,0000,,水星的磁层很弱  大约是地球的百分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mercury has a very weak magnetosphere, about 1% of Earth's.
+Dialogue: 0,0:31:13.85,0:31:15.87,Default,NTP,0000,0000,0000,,金星则根本没有磁层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Venus has virtually none.
+Dialogue: 0,0:31:17.14,0:31:21.97,Default,NTP,0000,0000,0000,,最神秘的是那个红色的星球  火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the most mysterious of all is the red planet, Mars.
+Dialogue: 0,0:31:23.35,0:31:26.66,Default,NTP,0000,0000,0000,,九十年代末  火星环球探测者飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the late nineties, the Mars Global Surveyor spacecraft,
+Dialogue: 0,0:31:26.66,0:31:28.47,Default,NTP,0000,0000,0000,,它的轨道就围绕着火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which was in orbit around Mars,
+Dialogue: 0,0:31:28.47,0:31:30.56,Default,NTP,0000,0000,0000,,飞船上有一个磁力计\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}had a magnetometer aboard.
+Dialogue: 0,0:31:30.94,0:31:32.17,Default,NTP,0000,0000,0000,,磁力计发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That magnetometer found
+Dialogue: 0,0:31:32.17,0:31:34.61,Default,NTP,0000,0000,0000,,火星没有一个球形的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that Mars does not have a global magnetic field.
+Dialogue: 0,0:31:37.24,0:31:39.36,Default,NTP,0000,0000,0000,,但是火星探测者发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the Mars surveyor found evidence of
+Dialogue: 0,0:31:39.36,0:31:42.86,Default,NTP,0000,0000,0000,,火星表面散布着小磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}small magnetic Fields scattered on the face of the planet.
+Dialogue: 0,0:31:44.32,0:31:47.08,Default,NTP,0000,0000,0000,,NASA认为那是古地磁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA believed it was paleomagnetism,
+Dialogue: 0,0:31:47.44,0:31:50.76,Default,NTP,0000,0000,0000,,即数十亿年前留下的古代残迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an ancient remnant from a period billions of years ago.
+Dialogue: 0,0:31:52.32,0:31:55.56,Default,NTP,0000,0000,0000,,火星曾经有过跟地球一样的磁场吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Did Mars once have a magnetic field rivaling Earth's?
+Dialogue: 0,0:31:56.54,0:31:59.35,Default,NTP,0000,0000,0000,,如果是  那它怎么样了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if so, what happened to it?
+Dialogue: 0,0:32:01.68,0:32:05.40,Default,NTP,0000,0000,0000,,我们很幸运  不必去那颗红色的星球调查\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately, we don't have to go to the red planet to investigate,
+Dialogue: 0,0:32:05.74,0:32:09.30,Default,NTP,0000,0000,0000,,因为它的碎片已经在这里了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because pieces of the red planet are already here.
+Dialogue: 0,0:32:11.19,0:32:13.85,Default,NTP,0000,0000,0000,,我们的确有样品  来自火星的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We actually have samples, rocks from Mars.
+Dialogue: 0,0:32:13.85,0:32:14.93,Default,NTP,0000,0000,0000,,是陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're meteorites.
+Dialogue: 0,0:32:14.93,0:32:16.89,Default,NTP,0000,0000,0000,,由于数百万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They were blasted off of Mars
+Dialogue: 0,0:32:16.89,0:32:20.47,Default,NTP,0000,0000,0000,,一次小行星或彗星的撞击  它们从火星飞了出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by an asteroid or comet impact millions of years ago.
+Dialogue: 0,0:32:22.22,0:32:24.48,Default,NTP,0000,0000,0000,,这些岩石在宇宙中游荡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These rocks wandered around in space,
+Dialogue: 0,0:32:24.66,0:32:27.19,Default,NTP,0000,0000,0000,,其中一些偶然地落到了地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then some of them landed on the Earth randomly.
+Dialogue: 0,0:32:29.15,0:32:32.89,Default,NTP,0000,0000,0000,,这些火星陨石中有一块真的很有名\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of these martian meteorites is actually famous:
+Dialogue: 0,0:32:33.86,0:32:36.79,Default,NTP,0000,0000,0000,,ALH84-001{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&000000&}ALH 84-001.
+Dialogue: 0,0:32:38.02,0:32:40.23,Default,NTP,0000,0000,0000,,一些科学家已经表明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists have suggested
+Dialogue: 0,0:32:40.23,0:32:43.64,Default,NTP,0000,0000,0000,,它含有古代火星生命的残骸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it contains the remains of ancient martian life-forms.
+Dialogue: 0,0:32:44.81,0:32:46.65,Default,NTP,0000,0000,0000,,不管这一点能否证实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whether or not this proves true,
+Dialogue: 0,0:32:46.77,0:32:51.23,Default,NTP,0000,0000,0000,,这块岩石也许可以回答关于火星磁力的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this piece of rock may answer the question of Martian magnetism.
+Dialogue: 0,0:32:53.04,0:32:57.64,Default,NTP,0000,0000,0000,,ALH84-001是已知来自所有行星中最老的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ALH 84-001 is the oldest known rock from any planet
+Dialogue: 0,0:32:57.64,0:33:00.24,Default,NTP,0000,0000,0000,,它是来自火星的唯一样本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it is a unique sample from Mars.
+Dialogue: 0,0:33:00.33,0:33:03.90,Default,NTP,0000,0000,0000,,它经历了最早的火星历史纪元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It lived through the earliest epoch of Martian history.
+Dialogue: 0,0:33:03.94,0:33:07.23,Default,NTP,0000,0000,0000,,所以它里面有各种令人着迷的印记\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this sample has all kinds of fascinating records in it.
+Dialogue: 0,0:33:09.14,0:33:13.85,Default,NTP,0000,0000,0000,,麻省理工学院的超导量子显微镜  也叫乌贼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}MIT's superconducting quantum microscope, or "Squid,"
+Dialogue: 0,0:33:14.21,0:33:18.28,Default,NTP,0000,0000,0000,,是地球上最灵敏的磁力探测器之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is one of the most sensitive magnetic detection devices on Earth.
+Dialogue: 0,0:33:19.57,0:33:21.61,Default,NTP,0000,0000,0000,,一个来自于火星陨石的样本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A sample from the Martian meteorite
+Dialogue: 0,0:33:21.61,0:33:24.87,Default,NTP,0000,0000,0000,,在乌贼的镜头下交出了令人吃惊的结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gives up startling results under the squid lens.
+Dialogue: 0,0:33:28.45,0:33:33.12,Default,NTP,0000,0000,0000,,我们发现这块岩石是磁化的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We showed that this rock is magnetized and the magnetism,
+Dialogue: 0,0:33:33.12,0:33:36.30,Default,NTP,0000,0000,0000,,这个古地磁可以精确地追溯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the paleomagnetism has been very precisely dated
+Dialogue: 0,0:33:36.30,0:33:38.15,Default,NTP,0000,0000,0000,,到大约40亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be about four billion years old.
+Dialogue: 0,0:33:39.77,0:33:41.99,Default,NTP,0000,0000,0000,,这块陨石表面之下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Beneath the surface of the meteorite
+Dialogue: 0,0:33:42.37,0:33:45.58,Default,NTP,0000,0000,0000,,是古老的火星磁层的记录\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the ancient record of Mars' magnetosphere.
+Dialogue: 0,0:33:47.68,0:33:51.04,Default,NTP,0000,0000,0000,,40亿年前  火星内核中搅动的岩浆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Four billion years ago, a strong magnetic field
+Dialogue: 0,0:33:51.04,0:33:54.83,Default,NTP,0000,0000,0000,,产生了一个强大的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was generated by churning magma in the planet's core.
+Dialogue: 0,0:33:56.47,0:33:57.54,Default,NTP,0000,0000,0000,,早期的有地磁的火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Early magnetic Mars was
+Dialogue: 0,0:33:57.54,0:34:00.87,Default,NTP,0000,0000,0000,,跟我们现在看到的完全不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a fundamentally different place than the one we see today.
+Dialogue: 0,0:34:00.95,0:34:02.57,Default,NTP,0000,0000,0000,,我们认为当时的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The atmosphere we think at that time
+Dialogue: 0,0:34:02.57,0:34:04.90,Default,NTP,0000,0000,0000,,比现在的厚得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was much thicker than it is today.
+Dialogue: 0,0:34:04.90,0:34:07.62,Default,NTP,0000,0000,0000,,也许表面还有水流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was probably water flowing on the surface.
+Dialogue: 0,0:34:07.62,0:34:09.24,Default,NTP,0000,0000,0000,,气候温暖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Temperatures were warmer.
+Dialogue: 0,0:34:09.25,0:34:10.93,Default,NTP,0000,0000,0000,,所以比现在更像地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it was much more Earth-like.
+Dialogue: 0,0:34:13.02,0:34:17.43,Default,NTP,0000,0000,0000,,后来不知为什么  火星死了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then, mysteriously, Mars died.
+Dialogue: 0,0:34:19.75,0:34:23.44,Default,NTP,0000,0000,0000,,温度下降  水也干了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Temperatures dropped. Water vanished.
+Dialogue: 0,0:34:23.83,0:34:27.58,Default,NTP,0000,0000,0000,,大气层消失了  发生了什么呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The atmosphere disappeared. What happened?
+Dialogue: 0,0:34:28.81,0:34:32.92,Default,NTP,0000,0000,0000,,火星的磁场在大约41亿年前消失了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars' magnetic field died sometime around 4.1 billion years ago.
+Dialogue: 0,0:34:33.43,0:34:34.96,Default,NTP,0000,0000,0000,,真正令人着迷的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's really fascinating about that is
+Dialogue: 0,0:34:34.96,0:34:40.91,Default,NTP,0000,0000,0000,,磁场的消失跟火星开始发生变化基本是同时发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it seems to be roughly coincident with the time when Mars began to change
+Dialogue: 0,0:34:40.92,0:34:43.27,Default,NTP,0000,0000,0000,,从早期温暖湿润的状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from an early warm, wet state
+Dialogue: 0,0:34:43.27,0:34:45.81,Default,NTP,0000,0000,0000,,变成现在寒冷干燥的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to its current cold and dry conditions.
+Dialogue: 0,0:34:48.53,0:34:51.43,Default,NTP,0000,0000,0000,,对于火星大气层的消失有种假设\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One hypothesis for why Mars' atmosphere disappeared
+Dialogue: 0,0:34:51.43,0:34:54.21,Default,NTP,0000,0000,0000,,就是因为它没有了磁层的保护\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is because it didn't have a magnetosphere to help protect it.
+Dialogue: 0,0:34:54.67,0:34:56.85,Default,NTP,0000,0000,0000,,所以来自太阳的离子流不断地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the solar wind was constantly stripping away
+Dialogue: 0,0:34:56.72,0:34:59.77,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}托德·霍克斯马\N斯坦福大学
+Dialogue: 0,0:34:56.85,0:34:59.59,Default,NTP,0000,0000,0000,,侵蚀火星大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}parts of the Mars atmosphere.
+Dialogue: 0,0:35:01.12,0:35:02.73,Default,NTP,0000,0000,0000,,没有了磁力盔甲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without magnetic armor,
+Dialogue: 0,0:35:02.73,0:35:06.33,Default,NTP,0000,0000,0000,,日冕物质抛射会轰炸火星的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a coronal mass ejection would bombard Mars' surface,
+Dialogue: 0,0:35:06.64,0:35:10.98,Default,NTP,0000,0000,0000,,磁力飓风也会撕开它的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A magnetic hurricane that would tear away the planet's atmosphere.
+Dialogue: 0,0:35:12.78,0:35:16.29,Default,NTP,0000,0000,0000,,大气层突然失去大量的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Suddenly, the atmosphere was losing large quantities of gases
+Dialogue: 0,0:35:16.29,0:35:19.15,Default,NTP,0000,0000,0000,,比如氧气  氩气  氮气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like oxygen, argon, nitrogen.
+Dialogue: 0,0:35:19.22,0:35:21.81,Default,NTP,0000,0000,0000,,大气层越来越薄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The atmosphere got thinner over time.
+Dialogue: 0,0:35:21.89,0:35:24.56,Default,NTP,0000,0000,0000,,液态水也无法停留在火星表面了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Liquid water stopped being stable on the surface.
+Dialogue: 0,0:35:24.56,0:35:28.91,Default,NTP,0000,0000,0000,,火星有点进入停滞  寒冷干涸的停滞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And Mars kinda went into a stasis, a cold, dry stasis.
+Dialogue: 0,0:35:33.14,0:35:34.93,Default,NTP,0000,0000,0000,,但是地球会发生这样的事情吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But could it happen on Earth?
+Dialogue: 0,0:35:36.54,0:35:37.65,Default,NTP,0000,0000,0000,,当然  在某一时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Certainly, at some point,
+Dialogue: 0,0:35:37.65,0:35:39.79,Default,NTP,0000,0000,0000,,地球的磁场将会消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth's magnetic field will shut down.
+Dialogue: 0,0:35:40.61,0:35:42.07,Default,NTP,0000,0000,0000,,但是那还早着呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that's a long way off.
+Dialogue: 0,0:35:42.36,0:35:44.08,Default,NTP,0000,0000,0000,,更紧要的问题是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A more immediate issue
+Dialogue: 0,0:35:44.09,0:35:46.69,Default,NTP,0000,0000,0000,,地磁场何时倒转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is when will the Earth's magnetic field reverse.
+Dialogue: 0,0:35:48.16,0:35:49.16,Default,NTP,0000,0000,0000,,正如我们所见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we saw earlier,
+Dialogue: 0,0:35:49.16,0:35:53.70,Default,NTP,0000,0000,0000,,地球的磁场每隔几十万年就会倒转一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our planet reverses its field every few hundred thousand years,
+Dialogue: 0,0:35:53.70,0:35:56.31,Default,NTP,0000,0000,0000,,而这一次迟迟未到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we're overdue.
+Dialogue: 0,0:35:58.95,0:36:01.40,Default,NTP,0000,0000,0000,,在地磁场倒转的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Earth's magnetic field reverses,
+Dialogue: 0,0:36:01.40,0:36:05.54,Default,NTP,0000,0000,0000,,地球会失去磁层的保护\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the process may leave Earth without a protective Magnetosphere
+Dialogue: 0,0:36:05.54,0:36:08.88,Default,NTP,0000,0000,0000,,这种情况会持续几天  甚至更长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for a period of days or even longer.
+Dialogue: 0,0:36:10.37,0:36:15.25,Default,NTP,0000,0000,0000,,火星的悲剧很有可能因此重演\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This could lead to the very real possibility of the Mars scenario.
+Dialogue: 0,0:36:16.38,0:36:17.91,Default,NTP,0000,0000,0000,,我们将会看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're gonna see magnetic storms like
+Dialogue: 0,0:36:17.91,0:36:21.60,Default,NTP,0000,0000,0000,,现代文明时代从未经历过的磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we've never really experienced since modern civilization.
+Dialogue: 0,0:36:25.06,0:36:28.65,Default,NTP,0000,0000,0000,,但是  未必需要等到行星磁场转换的那天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we don't need a planetary reversal to wreak havoc.
+Dialogue: 0,0:36:29.05,0:36:31.52,Default,NTP,0000,0000,0000,,专家分析  一场磁暴就能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Experts say our entire society
+Dialogue: 0,0:36:31.54,0:36:34.53,Default,NTP,0000,0000,0000,,使整个社会陷入浩劫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could be destroyed by a magnetic storm.
+Dialogue: 0,0:36:35.45,0:36:38.02,Default,NTP,0000,0000,0000,,想要避免星球被毁灭的命运\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Planetary disaster might be avoided,
+Dialogue: 0,0:36:38.08,0:36:40.39,Default,NTP,0000,0000,0000,,必须尽快采取措施\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but steps must be taken soon,
+Dialogue: 0,0:36:41.25,0:36:45.13,Default,NTP,0000,0000,0000,,磁暴灾难迫在眉睫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the clock is ticking toward magnetic apocalypse.
+Dialogue: 0,0:36:53.87,0:36:58.53,Default,NTP,0000,0000,0000,,磁暴是我们太阳系中最强大的力量之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetic storms are some of the most powerful forces in our solar system,
+Dialogue: 0,0:37:00.90,0:37:04.58,Default,NTP,0000,0000,0000,,而它们几乎一直被科学界所忽视\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they've been nearly completely overlooked by science.
+Dialogue: 0,0:37:06.56,0:37:09.39,Default,NTP,0000,0000,0000,,磁暴曾经重创过我们的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These storms have damaged our planet before.
+Dialogue: 0,0:37:11.46,0:37:15.61,Default,NTP,0000,0000,0000,,1989年  一股太阳耀斑袭击了北美\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1989, a solar flare hit north America,
+Dialogue: 0,0:37:16.89,0:37:21.17,Default,NTP,0000,0000,0000,,使魁北克及周围地区的电力系统陷入瘫痪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wiping out power to Quebec and the surrounding area.
+Dialogue: 0,0:37:23.43,0:37:24.87,Default,NTP,0000,0000,0000,,在加拿大寒冷的冬天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Six million people
+Dialogue: 0,0:37:24.87,0:37:28.38,Default,NTP,0000,0000,0000,,六百万人陷入了无电可用的境地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were without power in the middle of a cold Canadian winter.
+Dialogue: 0,0:37:29.66,0:37:32.14,Default,NTP,0000,0000,0000,,一天内  供电恢复\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Electricity was restored within a day,
+Dialogue: 0,0:37:32.56,0:37:34.80,Default,NTP,0000,0000,0000,,阻止了一场更大的灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}preventing a greater catastrophe.
+Dialogue: 0,0:37:37.77,0:37:39.91,Default,NTP,0000,0000,0000,,然而  袭击魁北克的磁暴只是米粒之珠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the Quebec storm was a small one.
+Dialogue: 0,0:37:41.34,0:37:46.02,Default,NTP,0000,0000,0000,,据记载  1859年发生了一次规模空前的磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A far greater storm was actually recorded in 1859.
+Dialogue: 0,0:37:46.70,0:37:49.88,Default,NTP,0000,0000,0000,,往南一直到古巴  都能看见北极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Northern lights were seen as far south as Cuba.
+Dialogue: 0,0:37:50.19,0:37:53.04,Default,NTP,0000,0000,0000,,贯穿美国的电报线路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Telegraph lines stretching across America
+Dialogue: 0,0:37:53.04,0:37:57.79,Default,NTP,0000,0000,0000,,被强大的磁浪摧毁  沿线嗡鸣火花不断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hummed and sparked as a massive power surge shorted them out.
+Dialogue: 0,0:37:59.12,0:37:59.94,Default,NTP,0000,0000,0000,,这应该是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This may have been
+Dialogue: 0,0:38:01.56,0:38:04.93,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}约翰·凯朋玛\N电网专家  太阳风暴分析顾问
+Dialogue: 0,0:37:59.94,0:38:05.83,Default,NTP,0000,0000,0000,,发生过的规模最大的磁暴之一了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the largest geomagnetic storms that has ever occurred.
+Dialogue: 0,0:38:06.24,0:38:09.95,Default,NTP,0000,0000,0000,,几乎是1989年袭击北美电网\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Literally 10 times larger than what caused the problems
+Dialogue: 0,0:38:09.95,0:38:12.91,Default,NTP,0000,0000,0000,,磁暴规模的十倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the north American grid in 1989.
+Dialogue: 0,0:38:16.86,0:38:20.20,Default,NTP,0000,0000,0000,,来自SDO以及其它天文台的新的观测数据显示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New data from SDO and other observatories show
+Dialogue: 0,0:38:20.20,0:38:22.12,Default,NTP,0000,0000,0000,,这些大规模太阳磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that these massive solar storms
+Dialogue: 0,0:38:22.12,0:38:24.94,Default,NTP,0000,0000,0000,,要比我们所料想的更加常见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are far more common than we once thought.
+Dialogue: 0,0:38:28.84,0:38:32.84,Default,NTP,0000,0000,0000,,如果1859年的大磁暴今天再次袭击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What would happen if the same giant storm from 1859
+Dialogue: 0,0:38:32.84,0:38:34.51,Default,NTP,0000,0000,0000,,会发生什么呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hit our planet today?
+Dialogue: 0,0:38:37.57,0:38:42.07,Default,NTP,0000,0000,0000,,灾难将始于太阳表面的一次黑子爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The disaster would begin with a sunspot erupting on the solar surface,
+Dialogue: 0,0:38:43.58,0:38:47.73,Default,NTP,0000,0000,0000,,几十亿吨的太阳物质朝地球喷涌而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}firing billions of tons of material directly at Earth.
+Dialogue: 0,0:38:49.64,0:38:50.98,Default,NTP,0000,0000,0000,,不到8分钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In eight minutes,
+Dialogue: 0,0:38:50.98,0:38:54.47,Default,NTP,0000,0000,0000,,伽马射线和X射线将摧毁大多数卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gamma rays and x-rays wipe out most satellites.
+Dialogue: 0,0:38:55.85,0:38:59.51,Default,NTP,0000,0000,0000,,网络社会一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our wired society is now blinded.
+Dialogue: 0,0:39:00.37,0:39:04.37,Default,NTP,0000,0000,0000,,GPS失灵  飞机导航失效\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No GPS. No plane navigation.
+Dialogue: 0,0:39:04.37,0:39:07.45,Default,NTP,0000,0000,0000,,卫星有线电视关闭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No satellite or cable television.
+Dialogue: 0,0:39:10.21,0:39:13.46,Default,NTP,0000,0000,0000,,数以百计的卫星在轨道上行驶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have hundreds and hundreds of hundreds of satellites in orbit.
+Dialogue: 0,0:39:12.46,0:39:15.94,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}特拉维斯·斯·泰勒\N物理学家
+Dialogue: 0,0:39:13.46,0:39:18.09,Default,NTP,0000,0000,0000,,平均每颗卫星价值五亿美元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And on average, each of those satellites costs a half a billion dollars.
+Dialogue: 0,0:39:18.19,0:39:20.98,Default,NTP,0000,0000,0000,,数千亿美元就这么没了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, there's hundreds of billions of dollars right there that's gone.
+Dialogue: 0,0:39:23.47,0:39:28.39,Default,NTP,0000,0000,0000,,8到16个小时之后  大量日冕抛射物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within 8 to 16 hours, the great mass of ejected solar material
+Dialogue: 0,0:39:28.39,0:39:30.30,Default,NTP,0000,0000,0000,,将冲击地球磁层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hits Earth's magnetosphere,
+Dialogue: 0,0:39:31.29,0:39:35.37,Default,NTP,0000,0000,0000,,瞬间突破它的保护  横扫地球表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}overwhelms it and blasts across the face of the planet.
+Dialogue: 0,0:39:37.98,0:39:41.70,Default,NTP,0000,0000,0000,,在设备的大型输电线中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Infrastructure will start seeing large induced currents
+Dialogue: 0,0:39:41.70,0:39:44.71,Default,NTP,0000,0000,0000,,开始生成巨大的感应电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}starting to flow through large power lines.
+Dialogue: 0,0:39:46.45,0:39:49.51,Default,NTP,0000,0000,0000,,磁暴将引发整个国家的变压器爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's gonna make power transformers explode all across the country.
+Dialogue: 0,0:39:51.47,0:39:53.44,Default,NTP,0000,0000,0000,,变压器瘫痪后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the transformers go,
+Dialogue: 0,0:39:53.44,0:39:57.89,Default,NTP,0000,0000,0000,,美国的每一处电力设备也全都会瘫痪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every piece of electrical equipment in America goes with it.
+Dialogue: 0,0:39:59.16,0:40:01.54,Default,NTP,0000,0000,0000,,电力系统起着决定性作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a critical infrastructure,
+Dialogue: 0,0:40:01.54,0:40:04.13,Default,NTP,0000,0000,0000,,是所有基础设施的基石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}probably the keystone infrastructure.
+Dialogue: 0,0:40:04.20,0:40:06.84,Default,NTP,0000,0000,0000,,如果供电被中断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you take electric supply away,
+Dialogue: 0,0:40:07.64,0:40:09.88,Default,NTP,0000,0000,0000,,几乎其他所有的基础设施\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}virtually all other infrastructures
+Dialogue: 0,0:40:09.88,0:40:14.31,Default,NTP,0000,0000,0000,,都会立刻失效  或在几天内失效\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will fail either immediately or within just a few days.
+Dialogue: 0,0:40:17.97,0:40:19.50,Default,NTP,0000,0000,0000,,饮用水从何而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where does your drinking water come from?
+Dialogue: 0,0:40:19.50,0:40:22.61,Default,NTP,0000,0000,0000,,供水的许多环节都需要电  才能抽起水来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It needs electricity in a lot of cases to pump the water up.
+Dialogue: 0,0:40:22.67,0:40:24.32,Default,NTP,0000,0000,0000,,否则就喝不到饮用水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you're not gonna have drinking water.
+Dialogue: 0,0:40:24.37,0:40:26.79,Default,NTP,0000,0000,0000,,没有自己的发电机  也不会有灯光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're not gonna have lights unless you have your own generator.
+Dialogue: 0,0:40:26.79,0:40:28.69,Default,NTP,0000,0000,0000,,即使有  当发电机燃料耗尽时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then when the generator runs out of fuel,
+Dialogue: 0,0:40:28.78,0:40:30.93,Default,NTP,0000,0000,0000,,你就得跑去加油站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}well, if you run down to the gas station
+Dialogue: 0,0:40:30.93,0:40:32.59,Default,NTP,0000,0000,0000,,弄些发电机的燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to get some more fuel for the generator,
+Dialogue: 0,0:40:32.93,0:40:34.79,Default,NTP,0000,0000,0000,,{\an8}无油供应
+Dialogue: 0,0:40:32.94,0:40:34.87,Default,NTP,0000,0000,0000,,可是没有电  油泵无法运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no electricity to run the pumps.
+Dialogue: 0,0:40:37.39,0:40:39.72,Default,NTP,0000,0000,0000,,电力一去不复返\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The electricity will not come back on,
+Dialogue: 0,0:40:40.95,0:40:44.14,Default,NTP,0000,0000,0000,,因为变压器遭到重创  难以修复\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the transformers will be too damaged to repair.
+Dialogue: 0,0:40:44.71,0:40:47.14,Default,NTP,0000,0000,0000,,必须重建所有的变压器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They will have to be completely replayed,
+Dialogue: 0,0:40:47.36,0:40:49.99,Default,NTP,0000,0000,0000,,这可不是什么简单事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that is not a simple proposition.
+Dialogue: 0,0:40:52.86,0:40:55.55,Default,NTP,0000,0000,0000,,要从头开始建一座单相变压器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It takes at least six months
+Dialogue: 0,0:40:55.55,0:40:57.62,Default,NTP,0000,0000,0000,,需要六个月的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to build a single transformer from scratch.
+Dialogue: 0,0:40:58.93,0:41:00.73,Default,NTP,0000,0000,0000,,这意味着  在六个月内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means no electricity,
+Dialogue: 0,0:41:00.81,0:41:02.33,Default,NTP,0000,0000,0000,,大城市将陷入\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no water, no fuel, no banking
+Dialogue: 0,0:41:02.33,0:41:07.66,Default,NTP,0000,0000,0000,,无电  无水  燃料匮乏  金融停滞的状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for six months for major cities.
+Dialogue: 0,0:41:08.28,0:41:10.40,Default,NTP,0000,0000,0000,,而小城市要经历的时间则更长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Smaller cities will take longer.
+Dialogue: 0,0:41:11.51,0:41:15.26,Default,NTP,0000,0000,0000,,重建一个完整的电网则需要十年以上的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To rebuild the entire grid might take over a decade.
+Dialogue: 0,0:41:16.21,0:41:18.70,Default,NTP,0000,0000,0000,,修复费用高得难以置信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The cost of repair is staggering.
+Dialogue: 0,0:41:19.09,0:41:22.66,Default,NTP,0000,0000,0000,,更令人沉痛的是...那些因此牺牲的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The cost in human lives... disturbing.
+Dialogue: 0,0:41:24.93,0:41:29.12,Default,NTP,0000,0000,0000,,在这种毁灭性的灾难面前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is no way that we could sustain a 300 million population
+Dialogue: 0,0:41:29.12,0:41:33.59,Default,NTP,0000,0000,0000,,国家无法维持3亿人的生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in this country with large disruption of that scale.
+Dialogue: 0,0:41:37.44,0:41:40.31,Default,NTP,0000,0000,0000,,一些分析表明一场强烈的磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some estimates suggest that a large magnetic storm
+Dialogue: 0,0:41:40.31,0:41:44.63,Default,NTP,0000,0000,0000,,可能会夺去现代世界人口的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could lead to the death of 1/3 to 1/2 of the population
+Dialogue: 0,0:41:44.63,0:41:46.15,Default,NTP,0000,0000,0000,,三分之一至二分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the developed world.
+Dialogue: 0,0:41:48.52,0:41:53.75,Default,NTP,0000,0000,0000,,也就是1亿美国人  2亿5千万欧洲人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's 100 million deaths in the U.S., 250 million in Europe,
+Dialogue: 0,0:41:53.84,0:42:01.08,Default,NTP,0000,0000,0000,,和10亿亚洲人死于一场磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A billion in Asia, lives lost to the power of a magnetic storm.
+Dialogue: 0,0:42:03.01,0:42:04.27,Default,NTP,0000,0000,0000,,直到现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Up until this time,
+Dialogue: 0,0:42:04.49,0:42:07.89,Default,NTP,0000,0000,0000,,我们对这种灾难也没有一个清晰的认识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this sort of disaster has truly been incomprehensible.
+Dialogue: 0,0:42:10.00,0:42:13.62,Default,NTP,0000,0000,0000,,我们能做些什么  阻止这场灾难吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can anything be done to prevent this type of destruction?
+Dialogue: 0,0:42:15.36,0:42:17.79,Default,NTP,0000,0000,0000,,专家们已经开始行动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Experts are trying to plan for that now,
+Dialogue: 0,0:42:18.58,0:42:22.56,Default,NTP,0000,0000,0000,,他们对太阳表面的磁暴进行更细致的观察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with better observation of the Sun's explosive magnetic surface,
+Dialogue: 0,0:42:23.46,0:42:25.94,Default,NTP,0000,0000,0000,,为电缆设计防护措施\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as well as designing shields for cables
+Dialogue: 0,0:42:26.05,0:42:29.05,Default,NTP,0000,0000,0000,,并为变压器设立强电振荡防护器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and creating surge preventers for transformers.
+Dialogue: 0,0:42:30.43,0:42:36.05,Default,NTP,0000,0000,0000,,现在  我们必须想办法在电网的设计上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We now have to think in ways of retrofitting design changes
+Dialogue: 0,0:42:36.05,0:42:37.34,Default,NTP,0000,0000,0000,,做一些改进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into those grids.
+Dialogue: 0,0:42:37.95,0:42:40.97,Default,NTP,0000,0000,0000,,对于如何加强这些设施的防护\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're still at early days of trying to figure out
+Dialogue: 0,0:42:40.97,0:42:44.03,Default,NTP,0000,0000,0000,,我们仍处于起步阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how to harden the infrastructures against these.
+Dialogue: 0,0:42:46.62,0:42:50.61,Default,NTP,0000,0000,0000,,磁暴无与伦比的威力揭示了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The apocalyptic power of a magnetic storm reveals
+Dialogue: 0,0:42:50.61,0:42:54.25,Default,NTP,0000,0000,0000,,磁是多么普遍而深远地影响了我们的生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just how essential magnetism is in our lives,
+Dialogue: 0,0:42:54.88,0:42:57.58,Default,NTP,0000,0000,0000,,乃至整个宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and in the very universe itself.
+Dialogue: 0,0:43:00.35,0:43:04.19,Default,NTP,0000,0000,0000,,电磁是如此重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Electromagnetism is the most important thing
+Dialogue: 0,0:43:04.19,0:43:06.97,Default,NTP,0000,0000,0000,,你会发现它驾驭着我们的日常生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you can see that's driving our daily lives.
+Dialogue: 0,0:43:09.43,0:43:11.57,Default,NTP,0000,0000,0000,,我想人们不会在意磁现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think people don't think about magnetism
+Dialogue: 0,0:43:12.87,0:43:16.57,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹利\N格里菲斯天文台
+Dialogue: 0,0:43:12.87,0:43:14.91,Default,NTP,0000,0000,0000,,就像水里的鱼不会在意水一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's kind of like a fish in water doesn't think about water.
+Dialogue: 0,0:43:14.91,0:43:17.87,Default,NTP,0000,0000,0000,,它无处不在  聚合世间万物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's everywhere. It holds everything together.
+Dialogue: 0,0:43:17.87,0:43:21.27,Default,NTP,0000,0000,0000,,大气因磁而生  呼吸因磁而发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It holds the atmosphere, the action of breathing,
+Dialogue: 0,0:43:21.28,0:43:24.46,Default,NTP,0000,0000,0000,,眼睛看见事物的过程是一种电磁交互\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the action of seeing is an electromagnetic interaction.
+Dialogue: 0,0:43:26.06,0:43:28.26,Default,NTP,0000,0000,0000,,磁力是一种简单的力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Magnetism is a simple force,
+Dialogue: 0,0:43:29.23,0:43:32.35,Default,NTP,0000,0000,0000,,是宇宙中四种最基本的力之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of four most basic forces in the universe.
+Dialogue: 0,0:43:33.68,0:43:35.60,Default,NTP,0000,0000,0000,,它可以成为孩童的玩具\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can become a child's toy,
+Dialogue: 0,0:43:36.20,0:43:40.28,Default,NTP,0000,0000,0000,,让我们的分子聚集在一起  幸运的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it holds our molecules together, and if we're lucky,
+Dialogue: 0,0:43:40.57,0:43:44.15,Default,NTP,0000,0000,0000,,它能使我们幸免于太阳放射的巨大能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it protects our planet from the vast powers of the Sun.
+Dialogue: 0,0:43:46.59,0:43:48.34,Default,NTP,0000,0000,0000,,对于地球上的居民来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To the inhabitants of Earth,
+Dialogue: 0,0:43:48.49,0:43:52.12,Default,NTP,0000,0000,0000,,它是宇宙间最被我们忽视的力之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it is one of the most overlooked forces in our universe.
+Dialogue: 0,0:43:52.82,0:43:58.03,Default,NTP,0000,0000,0000,,然而一切  都任其主宰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet magnetism gives and can take everything.

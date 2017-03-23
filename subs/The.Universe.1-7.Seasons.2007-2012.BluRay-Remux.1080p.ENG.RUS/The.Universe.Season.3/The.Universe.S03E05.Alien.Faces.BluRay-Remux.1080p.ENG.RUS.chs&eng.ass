@@ -1,0 +1,732 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:23.66,0:01:28.83,Default,,0000,0000,0008,,{\fn华文楷体\fs20\1c&HE0E0E0&\blur3}宇宙:陌生的面孔{\r}
+Dialogue: 0,0:00:01.58,0:00:04.04,Default,,0000,0000,0000,,{\blur3}创世之初 冥冥之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness...{\r}
+Dialogue: 0,0:00:04.08,0:00:06.17,Default,,0000,0000,0000,,{\blur3}随着轰的一声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, bang...{\r}
+Dialogue: 0,0:00:06.21,0:00:09.38,Default,,0000,0000,0000,,{\blur3}诞生了无限膨胀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to an endless expanding existence...{\r}
+Dialogue: 0,0:00:09.42,0:00:11.96,Default,,0000,0000,0000,,{\blur3}时间 空间和物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:12.01,0:00:14.26,Default,,0000,0000,0000,,{\blur3}现在 所见超乎我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, see further than we've ever imagined...{\r}
+Dialogue: 0,0:00:14.30,0:00:16.55,Default,,0000,0000,0000,,{\blur3}超越了我们生存的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the limits of our existence...{\r}
+Dialogue: 0,0:00:16.59,0:00:19.26,Default,,0000,0000,0000,,{\blur3}这个空间我们称之为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a place we call "The Universe."{\r}
+Dialogue: 0,0:00:22.23,0:00:24.64,Default,,0000,0000,0000,,{\blur3}它们漫步在行星的地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They roam the planetary surface...{\r}
+Dialogue: 0,0:00:26.44,0:00:28.27,Default,,0000,0000,0000,,{\blur3}穿梭于水下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}fly under water...{\r}
+Dialogue: 0,0:00:29.23,0:00:31.36,Default,,0000,0000,0000,,{\blur3}翱翔在空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and soar through the heavens.{\r}
+Dialogue: 0,0:00:35.24,0:00:39.20,Default,,0000,0000,0000,,{\blur3}然而这不是地球上的野生动物游猎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But this is no wildlife safari on planet Earth.{\r}
+Dialogue: 0,0:00:39.24,0:00:42.79,Default,,0000,0000,0000,,{\blur3}这是天文级的探险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is an expedition of astronomical proportions.{\r}
+Dialogue: 0,0:00:42.83,0:00:44.66,Default,,0000,0000,0000,,{\blur3}这里看出去一切良好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything looks good from here.{\r}
+Dialogue: 0,0:00:44.71,0:00:46.58,Default,,0000,0000,0000,,{\blur3}好 收到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, we copy that.{\r}
+Dialogue: 0,0:00:48.21,0:00:51.25,Default,,0000,0000,0000,,{\blur3}一旦人类发现自己并不孤单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the human race discovers it is not alone...{\r}
+Dialogue: 0,0:00:51.30,0:00:54.51,Default,,0000,0000,0000,,{\blur3}那么我们的宇宙兄弟姐妹们都会是什么模样呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what will our cosmic brothers and sisters look like?{\r}
+Dialogue: 0,0:00:54.55,0:00:59.01,Default,,0000,0000,0000,,{\blur3}为了回答这个问题 主要的天文学家和太空生物学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To answer this question, leading astronomers and astrobiologists...{\r}
+Dialogue: 0,0:00:59.05,0:01:01.68,Default,,0000,0000,0000,,{\blur3}将进化原理和物理学运用于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have applied the principles of evolution and physics...{\r}
+Dialogue: 0,0:01:01.72,0:01:07.06,Default,,0000,0000,0000,,{\blur3}有可能在宇宙中发现的五种类型的外星世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to five types of alien worlds likely to be found in the cosmos.{\r}
+Dialogue: 0,0:01:07.10,0:01:10.11,Default,,0000,0000,0000,,{\blur3}这些是有可能存在的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are the creatures that could be out there.{\r}
+Dialogue: 0,0:01:15.74,0:01:18.61,Default,,0000,0000,0000,,{\blur3}准备好 来一次星际游猎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Prepare to take an intergalactic safari...{\r}
+Dialogue: 0,0:01:18.66,0:01:22.83,Default,,0000,0000,0000,,{\blur3}睁大眼睛 来看看《陌生的面孔》{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and peer directly into the eyes of "Alien Faces."{\r}
+Dialogue: 0,0:01:36.76,0:01:38.26,Default,,0000,0000,0000,,{\blur3}宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe...{\r}
+Dialogue: 0,0:01:45.85,0:01:48.31,Default,,0000,0000,0000,,{\blur3}星际庇护所{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an intergalactic sanctuary...{\r}
+Dialogue: 0,0:01:48.35,0:01:50.52,Default,,0000,0000,0000,,{\blur3}居住着数十亿个星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of billions of galaxies...{\r}
+Dialogue: 0,0:01:53.40,0:01:55.32,Default,,0000,0000,0000,,{\blur3}数万亿颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and trillions of stars.{\r}
+Dialogue: 0,0:02:09.54,0:02:12.96,Default,,0000,0000,0000,,{\blur3}难道它只是死气腾腾的荒芜之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could it only be a lifeless, barren wasteland...{\r}
+Dialogue: 0,0:02:13.00,0:02:14.80,Default,,0000,0000,0000,,{\blur3}到处是伽马射线暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of gamma-ray bursts...{\r}
+Dialogue: 0,0:02:16.05,0:02:17.59,Default,,0000,0000,0000,,{\blur3}燃烧的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}burning stars...{\r}
+Dialogue: 0,0:02:21.01,0:02:22.05,Default,,0000,0000,0000,,{\blur3}黑洞?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and black holes?{\r}
+Dialogue: 0,0:02:26.89,0:02:31.73,Default,,0000,0000,0000,,{\blur3}抑或有生命存在于地球以外的宇宙天堂里呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or does life exist beyond Earth in this cosmic paradise?{\r}
+Dialogue: 0,0:02:33.44,0:02:39.36,Default,,0000,0000,0000,,{\blur3}会不会外星人也盯着我们 琢磨着一个古老的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Do alien faces gaze towards us, pondering the age-old question...{\r}
+Dialogue: 0,0:02:39.40,0:02:41.32,Default,,0000,0000,0000,,{\blur3}我们孤独吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are we alone?{\r}
+Dialogue: 0,0:02:43.20,0:02:44.99,Default,,0000,0000,0000,,{\blur3}科学家仍然在搜索着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists are still searching...{\r}
+Dialogue: 0,0:02:45.03,0:02:47.70,Default,,0000,0000,0000,,{\blur3}我们地球以外生命发来的首个信号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the first signs of life beyond our planet...{\r}
+Dialogue: 0,0:02:47.75,0:02:52.92,Default,,0000,0000,0000,,{\blur3}但是很多人相信它就在那里 等待着我们去发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but many are convinced it's out there, waiting for us to find it.{\r}
+Dialogue: 0,0:02:54.09,0:02:57.42,Default,,0000,0000,0000,,{\blur3}然而立足地球 要是存在的话 那会是啥模样呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what on Earth, if anything, would it look like?{\r}
+Dialogue: 0,0:02:59.55,0:03:04.89,Default,,0000,0000,0000,,{\blur3}利用地球科学 逻辑学 进化理论的有力结合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With a potent mix of earth science, logic, and the theory of evolution...{\r}
+Dialogue: 0,0:03:04.93,0:03:06.93,Default,,0000,0000,0000,,{\blur3}计算机图形艺术家已经能够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}computer graphic artists are able...{\r}
+Dialogue: 0,0:03:06.97,0:03:09.98,Default,,0000,0000,0000,,{\blur3}拿出某些外星生命的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to bring some of these alien faces to life.{\r}
+Dialogue: 0,0:03:17.48,0:03:21.57,Default,,0000,0000,0000,,{\blur3}为了亲眼目睹这些外星人世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And to come face to face with these extraterrestrial creations...{\r}
+Dialogue: 0,0:03:22.41,0:03:25.03,Default,,0000,0000,0000,,{\blur3}我们将展开一场梦幻游猎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we will embark on a fantasy safari...{\r}
+Dialogue: 0,0:03:25.07,0:03:27.83,Default,,0000,0000,0000,,{\blur3}进入宇宙尚未探索的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through the unexplored reaches of the universe...{\r}
+Dialogue: 0,0:03:28.49,0:03:31.37,Default,,0000,0000,0000,,{\blur3}就像是巡游在星际动物园里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a tourist in an intergalactic zoo.{\r}
+Dialogue: 0,0:03:34.50,0:03:39.13,Default,,0000,0000,0000,,{\blur3}我们的第一站 假设行星 Eronel{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our first stop, the theoretical planet Eronel.{\r}
+Dialogue: 0,0:03:46.14,0:03:48.72,Default,,0000,0000,0000,,{\blur3}行星 Eronel是一颗年长的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The planet Eronel is an odd planet.{\r}
+Dialogue: 0,0:03:50.52,0:03:54.52,Default,,0000,0000,0000,,{\blur3}首先 它并不是围绕着我们太阳一般的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First of all, it doesn't circle around a star like our Sun.{\r}
+Dialogue: 0,0:03:54.56,0:03:57.36,Default,,0000,0000,0000,,{\blur3}它围绕着一颗小红矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It circles around a little red dwarf.{\r}
+Dialogue: 0,0:03:57.40,0:03:58.86,Default,,0000,0000,0000,,{\blur3}那些都是些小恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are tiny stars.{\r}
+Dialogue: 0,0:03:59.82,0:04:03.70,Default,,0000,0000,0000,,{\blur3}它们有时会是我们太阳大小的五分之一 六分之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're sometimes a fifth, a sixth the size of our Sun.{\r}
+Dialogue: 0,0:04:03.74,0:04:08.08,Default,,0000,0000,0000,,{\blur3}因此 宜居区会非常靠近那颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the habitable zone is going to be much closer to that star.{\r}
+Dialogue: 0,0:04:11.41,0:04:14.37,Default,,0000,0000,0000,,{\blur3}这个宜居区是谜团的关键部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This habitable zone is a crucial piece of the puzzle...{\r}
+Dialogue: 0,0:04:14.42,0:04:18.34,Default,,0000,0000,0000,,{\blur3}了解任何一颗行星上的生命进化的关键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when understanding the evolution of life on any alien planet.{\r}
+Dialogue: 0,0:04:21.34,0:04:25.88,Default,,0000,0000,0000,,{\blur3}一个太阳系里的宜居区就是与恒星的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A habitable zone in a solar system is the distance from the star...{\r}
+Dialogue: 0,0:04:25.93,0:04:29.64,Default,,0000,0000,0000,,{\blur3}在那里 水可以以液态存在于地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where water can exist as a liquid on the surface.{\r}
+Dialogue: 0,0:04:29.68,0:04:32.14,Default,,0000,0000,0000,,{\blur3}能从恒星获得足够的热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It gets enough heat energy from the star...{\r}
+Dialogue: 0,0:04:32.18,0:04:34.85,Default,,0000,0000,0000,,{\blur3}来获得和保留液态水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to have liquid water and stay liquid water.{\r}
+Dialogue: 0,0:04:35.73,0:04:39.73,Default,,0000,0000,0000,,{\blur3}液态水是生命起源的基本元素之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Liquid water is one of the basic elements for life to begin.{\r}
+Dialogue: 0,0:04:43.36,0:04:45.53,Default,,0000,0000,0000,,{\blur3}但是在Eronel上 宜居区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But on Eronel, the habitable zone...{\r}
+Dialogue: 0,0:04:45.57,0:04:48.74,Default,,0000,0000,0000,,{\blur3}太靠近这颗熊熊燃烧的气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is so close to this glowing ball of burning gas...{\r}
+Dialogue: 0,0:04:48.78,0:04:52.66,Default,,0000,0000,0000,,{\blur3}恒星的引力将Eronel潮汐锁定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the star's gravity causes Eronel to be tidally locked...{\r}
+Dialogue: 0,0:04:52.70,0:04:54.16,Default,,0000,0000,0000,,{\blur3}极像地球的月球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much like Earth's Moon...{\r}
+Dialogue: 0,0:04:54.21,0:04:58.54,Default,,0000,0000,0000,,{\blur3}我们始终只能看到月球的一个面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as we only see one side of the lunar surface at all times.{\r}
+Dialogue: 0,0:05:00.88,0:05:04.46,Default,,0000,0000,0000,,{\blur3}这就意味着Eronel的一半始终是白天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This would mean that half of Eronel is constantly in daylight...{\r}
+Dialogue: 0,0:05:04.51,0:05:07.63,Default,,0000,0000,0000,,{\blur3}而另一半始终是黑夜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the other half is constantly in darkness.{\r}
+Dialogue: 0,0:05:09.22,0:05:12.93,Default,,0000,0000,0000,,{\blur3}在中间 会有一个200英里宽的区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the middle, there would be a 200-mile-wide area...{\r}
+Dialogue: 0,0:05:12.97,0:05:16.35,Default,,0000,0000,0000,,{\blur3}横跨南北两极{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that stretches from the north pole to the south pole...{\r}
+Dialogue: 0,0:05:16.39,0:05:18.70,Default,,0000,0000,0000,,{\blur3}那里就是永恒的曙光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is in a constant state of twilight.{\r}
+Dialogue: 0,0:05:18.70,0:05:20.70,Default,,0000,0000,0000,,{\blur3}因此就会让你琢磨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it makes you wonder...{\r}
+Dialogue: 0,0:05:20.74,0:05:23.69,Default,,0000,0000,0000,,{\blur3}在这颗行星上 哪里可以发现生命呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where would we find life on this planet?{\r}
+Dialogue: 0,0:05:23.95,0:05:26.75,Default,,0000,0000,0000,,{\blur3}实话实说 你会发现它到处都是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, truthfully, you're going to find it everywhere.{\r}
+Dialogue: 0,0:05:27.37,0:05:30.07,Default,,0000,0000,0000,,{\blur3}但是如果它是在黑暗面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if it's on the dark side...{\r}
+Dialogue: 0,0:05:30.11,0:05:32.38,Default,,0000,0000,0000,,{\blur3}生命就已经适应居住在黑暗里了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's life that's been adapted for living in the dark.{\r}
+Dialogue: 0,0:05:33.28,0:05:34.99,Default,,0000,0000,0000,,{\blur3}如果是在明亮面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if it's on the bright side...{\r}
+Dialogue: 0,0:05:35.03,0:05:39.12,Default,,0000,0000,0000,,{\blur3}生命就已经适应就居住在明亮里了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's life that's been adapted for living only in the bright side.{\r}
+Dialogue: 0,0:05:39.16,0:05:41.33,Default,,0000,0000,0000,,{\blur3}而在这个曙光区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in this twilight zone area...{\r}
+Dialogue: 0,0:05:41.37,0:05:44.96,Default,,0000,0000,0000,,{\blur3}你会发现两者都适应的生物了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're going to find creatures that are adapted for both.{\r}
+Dialogue: 0,0:05:45.00,0:05:48.84,Default,,0000,0000,0000,,{\blur3}它们可以在这个世界的两边自由来去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They can wander and stray into both sides on this world.{\r}
+Dialogue: 0,0:05:48.88,0:05:51.55,Default,,0000,0000,0000,,{\blur3}它们真的把握了自己的命运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They really control their own destinies...{\r}
+Dialogue: 0,0:05:51.59,0:05:54.30,Default,,0000,0000,0000,,{\blur3}去想去的地方 去想捕食的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in where they want to go and where they want to hunt.{\r}
+Dialogue: 0,0:05:56.47,0:05:59.14,Default,,0000,0000,0000,,{\blur3}在Eronel上 你会看到有光合有机物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Eronel, you're going to have a photosynthetic organism...{\r}
+Dialogue: 0,0:05:59.18,0:06:01.06,Default,,0000,0000,0000,,{\blur3}或许 有可能在海洋环境中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}probably, likely in the marine environment...{\r}
+Dialogue: 0,0:06:01.10,0:06:02.60,Default,,0000,0000,0000,,{\blur3}红藻或细菌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a red alga or a bacteria...{\r}
+Dialogue: 0,0:06:02.64,0:06:05.48,Default,,0000,0000,0000,,{\blur3}可能适应了摄取红外线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will be adapted to taking in infrared light...{\r}
+Dialogue: 0,0:06:05.52,0:06:09.11,Default,,0000,0000,0000,,{\blur3}摄取可以摄取的能量来充当食物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and taking what energy it can out of that and making food.{\r}
+Dialogue: 0,0:06:09.15,0:06:12.40,Default,,0000,0000,0000,,{\blur3}在陆地上 它或许会成为地衣之类的东西 因为天冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On land, it would probably be a lichen-like thing because it's cold--{\r}
+Dialogue: 0,0:06:12.44,0:06:14.32,Default,,0000,0000,0000,,{\blur3}苔藓将会适应的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mosses that would be adapted that way.{\r}
+Dialogue: 0,0:06:14.36,0:06:16.78,Default,,0000,0000,0000,,{\blur3}你将看到以这些为食的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're going to have organisms that are going to feed off those.{\r}
+Dialogue: 0,0:06:18.91,0:06:24.16,Default,,0000,0000,0000,,{\blur3}Eronel上的这种藻类代表了一个很长食物链的底部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This algae on Eronel represents the bottom of a very long food chain.{\r}
+Dialogue: 0,0:06:24.21,0:06:26.96,Default,,0000,0000,0000,,{\blur3}所有东西为了生存都扮演着重要的角色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything plays a vital role for survival...{\r}
+Dialogue: 0,0:06:27.00,0:06:30.79,Default,,0000,0000,0000,,{\blur3}从植物到更大 更复杂的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the plant life to the larger, more complex creatures.{\r}
+Dialogue: 0,0:06:31.84,0:06:35.63,Default,,0000,0000,0000,,{\blur3}在Eronel上利用这种藻类作为食物来源的一个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One example on Eronel that uses this algae as a food source...{\r}
+Dialogue: 0,0:06:35.68,0:06:38.34,Default,,0000,0000,0000,,{\blur3}就是叫做achom的昆虫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the insect known as an achom.{\r}
+Dialogue: 0,0:06:40.68,0:06:43.47,Default,,0000,0000,0000,,{\blur3}achom是一种奇怪的小生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The achoms are a bizarre little creature.{\r}
+Dialogue: 0,0:06:46.31,0:06:49.06,Default,,0000,0000,0000,,{\blur3}在地球上 我们知道有所谓的形态变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Earth, we know of what we call metamorphosis.{\r}
+Dialogue: 0,0:06:49.11,0:06:53.57,Default,,0000,0000,0000,,{\blur3}就是生物从一种形态变成另一种形态的奇怪的能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the odd ability of a creature to change...from one shape to another.{\r}
+Dialogue: 0,0:06:54.77,0:06:56.69,Default,,0000,0000,0000,,{\blur3}我们看到变成蝴蝶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We see it in butterflies.{\r}
+Dialogue: 0,0:06:56.73,0:06:58.61,Default,,0000,0000,0000,,{\blur3}毛毛虫 在你花园里蚕食{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A caterpillar, eating in your garden...{\r}
+Dialogue: 0,0:06:58.65,0:07:01.69,Default,,0000,0000,0000,,{\blur3}爬上围墙 作茧自缚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will climb up on the fence, spin a cocoon...{\r}
+Dialogue: 0,0:07:01.73,0:07:04.40,Default,,0000,0000,0000,,{\blur3}几个月后 破茧变成蝴蝶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}months later, hatch out into a butterfly.{\r}
+Dialogue: 0,0:07:04.45,0:07:08.24,Default,,0000,0000,0000,,{\blur3}这些虫子也是这样 但是方法非常奇特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These do that, too, but they do it in a very odd way.{\r}
+Dialogue: 0,0:07:08.28,0:07:09.45,Default,,0000,0000,0000,,{\blur3}它们看上去活像鳗鱼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They look almost eel-like...{\r}
+Dialogue: 0,0:07:09.49,0:07:13.04,Default,,0000,0000,0000,,{\blur3}两排鳍分列两侧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with two sets of fins that stick out on either side.{\r}
+Dialogue: 0,0:07:13.08,0:07:15.12,Default,,0000,0000,0000,,{\blur3}在某些特殊的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At some peculiar moment...{\r}
+Dialogue: 0,0:07:15.16,0:07:17.33,Default,,0000,0000,0000,,{\blur3}它们爬上植物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they move over to some of the plant life...{\r}
+Dialogue: 0,0:07:17.38,0:07:18.92,Default,,0000,0000,0000,,{\blur3}固定在上面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lock themselves in...{\r}
+Dialogue: 0,0:07:18.96,0:07:21.96,Default,,0000,0000,0000,,{\blur3}依附在上面 外面形成一个壳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and attach themselves and form a shell around them.{\r}
+Dialogue: 0,0:07:23.13,0:07:25.47,Default,,0000,0000,0000,,{\blur3}当外壳破裂时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When that shell splits...{\r}
+Dialogue: 0,0:07:25.51,0:07:28.76,Default,,0000,0000,0000,,{\blur3}出现的东西是我们前所未见的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out comes something that we've never seen before.{\r}
+Dialogue: 0,0:07:28.80,0:07:30.68,Default,,0000,0000,0000,,{\blur3}攫取水中的氢气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Taking the hydrogen from the water...{\r}
+Dialogue: 0,0:07:30.72,0:07:33.10,Default,,0000,0000,0000,,{\blur3}分解氢气和氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}splitting the hydrogen from the oxygen...{\r}
+Dialogue: 0,0:07:33.14,0:07:34.89,Default,,0000,0000,0000,,{\blur3}充气成一个小气泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it inflates a little bubble...{\r}
+Dialogue: 0,0:07:34.93,0:07:37.73,Default,,0000,0000,0000,,{\blur3}它们就升出水面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they lift right out of the water...{\r}
+Dialogue: 0,0:07:38.85,0:07:42.27,Default,,0000,0000,0000,,{\blur3}微风吹拂它们 将它们带入高空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the breezes picking them up, carrying them to high altitudes...{\r}
+Dialogue: 0,0:07:42.32,0:07:44.28,Default,,0000,0000,0000,,{\blur3}把它们散播到星球各地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}spreading them out over the planet...{\r}
+Dialogue: 0,0:07:44.32,0:07:47.24,Default,,0000,0000,0000,,{\blur3}随风飘到曙光区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}towards the twilight zones as the breezes move.{\r}
+Dialogue: 0,0:07:47.28,0:07:49.95,Default,,0000,0000,0000,,{\blur3}它们几乎就像是伞兵从天而降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they're almost like parachutists coming back down.{\r}
+Dialogue: 0,0:07:52.58,0:07:54.62,Default,,0000,0000,0000,,{\blur3}一旦achom抵达地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once the achoms reach the ground...{\r}
+Dialogue: 0,0:07:54.66,0:07:58.29,Default,,0000,0000,0000,,{\blur3}它们就立即建造洞穴 作为它们的住所{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they immediately create a burrow, where they primarily live.{\r}
+Dialogue: 0,0:07:58.33,0:08:01.33,Default,,0000,0000,0000,,{\blur3}不过在achom觅食泥土里的垃圾时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But as the achoms scavenge through the dirt for food...{\r}
+Dialogue: 0,0:08:02.55,0:08:03.88,Default,,0000,0000,0000,,{\blur3}它们又会被食物链的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they are hunted from above...{\r}
+Dialogue: 0,0:08:03.92,0:08:06.26,Default,,0000,0000,0000,,{\blur3}上一层动物从上方捕食{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by one of the next links in the food chain...{\r}
+Dialogue: 0,0:08:09.39,0:08:11.55,Default,,0000,0000,0000,,{\blur3}那就是peena pod{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the peena-pod.{\r}
+Dialogue: 0,0:08:11.60,0:08:12.64,Default,,0000,0000,0000,,{\blur3}我们在这个星球上看到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, one of the creatures...{\r}
+Dialogue: 0,0:08:12.68,0:08:15.72,Default,,0000,0000,0000,,{\blur3}最有趣的动物之一就是peena pod{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we'd find most interesting on this world is the peena-pod.{\r}
+Dialogue: 0,0:08:16.77,0:08:17.93,Default,,0000,0000,0000,,{\blur3}它是一种奇怪的小动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's an odd little creature...{\r}
+Dialogue: 0,0:08:17.98,0:08:20.69,Default,,0000,0000,0000,,{\blur3}因为它的眼睛一直绕道后面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because its eyes wrap all the way around...{\r}
+Dialogue: 0,0:08:20.73,0:08:23.02,Default,,0000,0000,0000,,{\blur3}所以它可以看到背后的所有动静{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it can see any movement behind it.{\r}
+Dialogue: 0,0:08:24.07,0:08:26.19,Default,,0000,0000,0000,,{\blur3}在Eronel的曙光区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the twilight zone of Eronel...{\r}
+Dialogue: 0,0:08:26.24,0:08:28.82,Default,,0000,0000,0000,,{\blur3}那里会是非常阴冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it is going to be very dark and cold...{\r}
+Dialogue: 0,0:08:28.86,0:08:31.32,Default,,0000,0000,0000,,{\blur3}原因就是其母星的光线暗淡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}due to the low light of its star...{\r}
+Dialogue: 0,0:08:31.37,0:08:33.83,Default,,0000,0000,0000,,{\blur3}猎手 甚至被猎者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the hunters, or even the hunted...{\r}
+Dialogue: 0,0:08:33.87,0:08:36.24,Default,,0000,0000,0000,,{\blur3}都会发展出猫头鹰一般的大眼睛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will have developed large eyes like owls...{\r}
+Dialogue: 0,0:08:36.29,0:08:38.66,Default,,0000,0000,0000,,{\blur3}或像地球上的其它夜行性动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or other nocturnal creatures here on Earth.{\r}
+Dialogue: 0,0:08:41.46,0:08:43.17,Default,,0000,0000,0000,,{\blur3}不过Eronel上的大多数动物已经发展成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there is an interesting adaptation...{\r}
+Dialogue: 0,0:08:43.21,0:08:45.80,Default,,0000,0000,0000,,{\blur3}一个有趣的适应现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that developed in most creatures on Eronel.{\r}
+Dialogue: 0,0:08:47.17,0:08:49.90,Default,,0000,0000,0000,,{\blur3}Eronel围绕着M星运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eronel orbits an M star.{\r}
+Dialogue: 0,0:08:49.90,0:08:53.36,Default,,0000,0000,0000,,{\blur3}M星发出的光大多数是红外线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}M stars emit most of their light in infrared.{\r}
+Dialogue: 0,0:08:54.57,0:08:57.16,Default,,0000,0000,0000,,{\blur3}红外线就是那种光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Infrared is the light that--{\r}
+Dialogue: 0,0:08:57.20,0:09:01.16,Default,,0000,0000,0000,,{\blur3}就是你打开烤箱会感到热的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's actually heat that you feel when you open up the oven.{\r}
+Dialogue: 0,0:09:01.20,0:09:03.37,Default,,0000,0000,0000,,{\blur3}那就是这些动物能看见的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what these creatures would see.{\r}
+Dialogue: 0,0:09:03.41,0:09:08.04,Default,,0000,0000,0000,,{\blur3}它们可以看到四周物体所发出的热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They would see the heat expended by their bodies...in the world around them.{\r}
+Dialogue: 0,0:09:08.09,0:09:11.25,Default,,0000,0000,0000,,{\blur3}它看上去完全不同于看你我{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would look very different than it does to you or me.{\r}
+Dialogue: 0,0:09:11.30,0:09:14.59,Default,,0000,0000,0000,,{\blur3}为了看到星球的黑暗面的热信号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To see heat signatures on the dark side of the planet...{\r}
+Dialogue: 0,0:09:14.63,0:09:17.59,Default,,0000,0000,0000,,{\blur3}赋予了Eronel上食物链最大的一环{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gives one of the biggest links on the food chain of Eronel...{\r}
+Dialogue: 0,0:09:19.26,0:09:22.02,Default,,0000,0000,0000,,{\blur3}courga一个狡诈的优势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the courga, a cunning advantage.{\r}
+Dialogue: 0,0:09:25.48,0:09:28.65,Default,,0000,0000,0000,,{\blur3}在它们的意识 动作 集体行动的方式里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In their sense, in their moves, in the way they act together...{\r}
+Dialogue: 0,0:09:28.69,0:09:31.86,Default,,0000,0000,0000,,{\blur3}活像是非洲平原上的豺狼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they resemble jackals in the plains of Africa.{\r}
+Dialogue: 0,0:09:31.90,0:09:32.98,Default,,0000,0000,0000,,{\blur3}它们结队而行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They move in herds.{\r}
+Dialogue: 0,0:09:33.03,0:09:34.36,Default,,0000,0000,0000,,{\blur3}它们是猎手 它们是掠食者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're hunters. They're predators.{\r}
+Dialogue: 0,0:09:37.78,0:09:39.37,Default,,0000,0000,0000,,{\blur3}丑陋而讨厌的动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ugly little, nasty creatures...{\r}
+Dialogue: 0,0:09:39.41,0:09:42.24,Default,,0000,0000,0000,,{\blur3}它们会包围一只或一群peena pod{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will surround a peena-pod or a colony of them...{\r}
+Dialogue: 0,0:09:42.29,0:09:44.66,Default,,0000,0000,0000,,{\blur3}把它们给揪出来 作为自己的大餐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ferret them out, and that's their meal.{\r}
+Dialogue: 0,0:09:46.50,0:09:49.04,Default,,0000,0000,0000,,{\blur3}它们具有与众不同的能力 不管怎样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They have the odd ability, however...{\r}
+Dialogue: 0,0:09:49.09,0:09:51.13,Default,,0000,0000,0000,,{\blur3}不仅能在曙光区里看到东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to see not only in the twilight regions...{\r}
+Dialogue: 0,0:09:51.17,0:09:53.51,Default,,0000,0000,0000,,{\blur3}用我们普通人一样的眼睛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with eyes like we might normally have...{\r}
+Dialogue: 0,0:09:53.55,0:09:56.76,Default,,0000,0000,0000,,{\blur3}而且它们在上方还有第二双小眼睛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they have a second set of smaller eyes right above...{\r}
+Dialogue: 0,0:09:56.80,0:09:59.43,Default,,0000,0000,0000,,{\blur3}一旦它们进入黑暗区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that, once they move into the darker regions...{\r}
+Dialogue: 0,0:09:59.47,0:10:00.93,Default,,0000,0000,0000,,{\blur3}就是黑暗面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the nighttime side...{\r}
+Dialogue: 0,0:10:00.97,0:10:04.89,Default,,0000,0000,0000,,{\blur3}它们就可以逮住那个区域里的动物的热信号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they can now pick up the heat signatures...of creatures in that area.{\r}
+Dialogue: 0,0:10:06.48,0:10:08.35,Default,,0000,0000,0000,,{\blur3}这些只是可能生活在Eronel之类的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are only a few of the creatures...{\r}
+Dialogue: 0,0:10:08.40,0:10:11.27,Default,,0000,0000,0000,,{\blur3}星球上的少数动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could live on a planet like Eronel...{\r}
+Dialogue: 0,0:10:11.32,0:10:12.52,Default,,0000,0000,0000,,{\blur3}然而 至少在眼下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but, at least for now...{\r}
+Dialogue: 0,0:10:12.57,0:10:16.03,Default,,0000,0000,0000,,{\blur3}它们只是我们想象的产物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they are simply a product of our imagination.{\r}
+Dialogue: 0,0:10:19.70,0:10:21.07,Default,,0000,0000,0000,,{\blur3}在科学上 我们可以坐在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In science, we can sit there...{\r}
+Dialogue: 0,0:10:21.12,0:10:23.66,Default,,0000,0000,0000,,{\blur3}想象其他地方的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we can imagine life elsewhere.{\r}
+Dialogue: 0,0:10:25.66,0:10:30.38,Default,,0000,0000,0000,,{\blur3}但是要我们举例子 拿出数据点 事实上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if we have examples, we have one data point, in fact...{\r}
+Dialogue: 0,0:10:30.42,0:10:31.75,Default,,0000,0000,0000,,{\blur3}也就是地球上的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's planet Earth.{\r}
+Dialogue: 0,0:10:33.67,0:10:35.96,Default,,0000,0000,0000,,{\blur3}因此 要是我们可以观察地球上的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so, if we can look at life on Earth...{\r}
+Dialogue: 0,0:10:36.01,0:10:39.68,Default,,0000,0000,0000,,{\blur3}地球给了我们大量惊人的信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it provides us with an amazing wealth of information...{\r}
+Dialogue: 0,0:10:39.72,0:10:43.31,Default,,0000,0000,0000,,{\blur3}那么我们就可以循迹找到别处的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we can then take forward to look for life elsewhere.{\r}
+Dialogue: 0,0:10:46.68,0:10:49.52,Default,,0000,0000,0000,,{\blur3}我们有各种生态系统供我们研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have a variety of ecosystems that we can study...{\r}
+Dialogue: 0,0:10:49.56,0:10:51.90,Default,,0000,0000,0000,,{\blur3}我们可以审视其中的挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we can look at the challenges.{\r}
+Dialogue: 0,0:10:53.57,0:10:54.65,Default,,0000,0000,0000,,{\blur3}生态系统里有些什么?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What are in ecosystems?{\r}
+Dialogue: 0,0:10:54.69,0:10:57.32,Default,,0000,0000,0000,,{\blur3}生命会面临那些挑战?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What challenges do living things face?{\r}
+Dialogue: 0,0:10:57.36,0:11:02.12,Default,,0000,0000,0000,,{\blur3}我们可以将这些原理用到外星生命上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we can apply these principles to alien life.{\r}
+Dialogue: 0,0:11:02.16,0:11:04.83,Default,,0000,0000,0000,,{\blur3}为了了解如何去运用这些原理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To understand how these principles can be applied...{\r}
+Dialogue: 0,0:11:05.66,0:11:09.12,Default,,0000,0000,0000,,{\blur3}我们必须继续我们的星际野生动物游猎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we must continue our intergalactic fantasy safari.{\r}
+Dialogue: 0,0:11:12.04,0:11:13.84,Default,,0000,0000,0000,,{\blur3}我们离开了Eronel{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We leave the surface of Eronel...{\r}
+Dialogue: 0,0:11:13.88,0:11:18.30,Default,,0000,0000,0000,,{\blur3}急速穿越宇宙322光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and zip across the cosmos 322 light-years away...{\r}
+Dialogue: 0,0:11:19.34,0:11:21.18,Default,,0000,0000,0000,,{\blur3}来到一个新太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a new solar system...{\r}
+Dialogue: 0,0:11:21.22,0:11:25.18,Default,,0000,0000,0000,,{\blur3}一个假想的行星AG 143{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the theoretical planet AG-143.{\r}
+Dialogue: 0,0:11:28.64,0:11:34.02,Default,,0000,0000,0000,,{\blur3}AG 143比地球大 比地球大很多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}AG-143 is bigger than the Earth, much bigger than the Earth.{\r}
+Dialogue: 0,0:11:34.07,0:11:38.69,Default,,0000,0000,0000,,{\blur3}它有一个美丽的环系统围绕着它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has a beautiful ring system that circles around it.{\r}
+Dialogue: 0,0:11:38.74,0:11:43.07,Default,,0000,0000,0000,,{\blur3}然而更重要的是它是一个巨大的干旱荒漠之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But more importantly, it is a big, gigantic dry desert...{\r}
+Dialogue: 0,0:11:45.41,0:11:47.74,Default,,0000,0000,0000,,{\blur3}其引力场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with three times the gravitational field...{\r}
+Dialogue: 0,0:11:47.79,0:11:49.58,Default,,0000,0000,0000,,{\blur3}是我们地球的三倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we feel here on the Earth.{\r}
+Dialogue: 0,0:11:50.41,0:11:54.58,Default,,0000,0000,0000,,{\blur3}一个人 在地球上重175磅的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A human, weighing in at 175 pounds on Earth...{\r}
+Dialogue: 0,0:11:54.63,0:11:57.59,Default,,0000,0000,0000,,{\blur3}站在AG 143的地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would step off onto the surface of AG-143...{\r}
+Dialogue: 0,0:11:57.63,0:12:00.84,Default,,0000,0000,0000,,{\blur3}就会重达525磅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to weigh about 525 pounds.{\r}
+Dialogue: 0,0:12:00.88,0:12:03.97,Default,,0000,0000,0000,,{\blur3}毫无疑问 生命也必须适应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Certainly, life would need to adapt.{\r}
+Dialogue: 0,0:12:05.26,0:12:06.26,Default,,0000,0000,0000,,{\blur3}但如何适应呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how?{\r}
+Dialogue: 0,0:12:10.10,0:12:13.77,Default,,0000,0000,0000,,{\blur3}哈佛大学天体物理中心的大卫.阿吉拉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}David Aguilar of Harvard University's Center for Astrophysics...{\r}
+Dialogue: 0,0:12:13.81,0:12:19.19,Default,,0000,0000,0000,,{\blur3}认为想象复杂的外星生命形式适应的最佳方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}believes the best way to envision...the adaptations of complex alienlife forms...{\r}
+Dialogue: 0,0:12:19.24,0:12:21.57,Default,,0000,0000,0000,,{\blur3}就是通过观察各种生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is by looking at the variety of creatures...{\r}
+Dialogue: 0,0:12:21.61,0:12:25.95,Default,,0000,0000,0000,,{\blur3}它们已经进化到了栖息在我们地球上各种生态系统中了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have evolved to inhabit the diverse ecosystems of our own world.{\r}
+Dialogue: 0,0:12:27.99,0:12:29.66,Default,,0000,0000,0000,,{\blur3}我们来到了北卡罗来纳动物园{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're here at the North Carolina Zoo...{\r}
+Dialogue: 0,0:12:29.70,0:12:33.04,Default,,0000,0000,0000,,{\blur3}因为目前在国内所有的动物园里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because, of all the zoos in the country right now...{\r}
+Dialogue: 0,0:12:33.08,0:12:34.87,Default,,0000,0000,0000,,{\blur3}这个是非常特殊的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this is very special.{\r}
+Dialogue: 0,0:12:36.71,0:12:38.09,Default,,0000,0000,0000,,{\blur3}它规模大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is large.{\r}
+Dialogue: 0,0:12:39.13,0:12:40.13,Default,,0000,0000,0000,,{\blur3}占地大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's big.{\r}
+Dialogue: 0,0:12:41.88,0:12:46.80,Default,,0000,0000,0000,,{\blur3}这里的环境重现了我们地球的各种环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the environments here duplicate the different environments...we find on our planet.{\r}
+Dialogue: 0,0:12:47.93,0:12:50.27,Default,,0000,0000,0000,,{\blur3}今天这里是我们星球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This here today is a marvelous example...{\r}
+Dialogue: 0,0:12:50.31,0:12:52.43,Default,,0000,0000,0000,,{\blur3}生命多样性的绝妙例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the variety of life on our planet.{\r}
+Dialogue: 0,0:12:54.35,0:12:58.02,Default,,0000,0000,0000,,{\blur3}在地球生命多样性里面 吉拉尔认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And within this variety of life on Earth, Aguilar believes...{\r}
+Dialogue: 0,0:12:58.07,0:13:00.98,Default,,0000,0000,0000,,{\blur3}支撑极其沉重结构的这些动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that creatures supporting an extremely heavy structure...{\r}
+Dialogue: 0,0:13:01.03,0:13:07.32,Default,,0000,0000,0000,,{\blur3}成为了了解AG 143进化的理想模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}become the perfect model for understanding evolution on AG-143.{\r}
+Dialogue: 0,0:13:07.37,0:13:11.08,Default,,0000,0000,0000,,{\blur3}我们所说的适应了一个沉重世界环境的动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we talk about an animal...adapted for a heavy-world environment...{\r}
+Dialogue: 0,0:13:11.12,0:13:13.66,Default,,0000,0000,0000,,{\blur3}就是这个世界重力较大 就是它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a world with more gravity, this is it.{\r}
+Dialogue: 0,0:13:13.71,0:13:14.91,Default,,0000,0000,0000,,{\blur3}来看看我们在这里看到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Look at what we have out here...{\r}
+Dialogue: 0,0:13:14.96,0:13:18.63,Default,,0000,0000,0000,,{\blur3}这原型的腿可以支撑庞大的身躯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the prototype legs that can suspend a huge body.{\r}
+Dialogue: 0,0:13:18.67,0:13:20.42,Default,,0000,0000,0000,,{\blur3}当然我们可以将它放低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of course, we would have to move him down...{\r}
+Dialogue: 0,0:13:20.46,0:13:22.34,Default,,0000,0000,0000,,{\blur3}使其更接近地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}move him closer to the ground.{\r}
+Dialogue: 0,0:13:22.38,0:13:24.17,Default,,0000,0000,0000,,{\blur3}但是这就是我们所见到的理想状态:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But this is perfect what we would see:{\r}
+Dialogue: 0,0:13:24.22,0:13:27.30,Default,,0000,0000,0000,,{\blur3}矮壮敦实 不过这样的重量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shorter, squattier, but heavy like this...{\r}
+Dialogue: 0,0:13:27.34,0:13:30.81,Default,,0000,0000,0000,,{\blur3}适应了一个重力较大的星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}adapted to a planet with much stronger gravity.{\r}
+Dialogue: 0,0:13:33.98,0:13:38.19,Default,,0000,0000,0000,,{\blur3}尽管AG 143的生命形式肯定具有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although life forms on AG-143 have certain comparable characteristics...{\r}
+Dialogue: 0,0:13:38.23,0:13:40.44,Default,,0000,0000,0000,,{\blur3}地球生物类似的特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to creatures on Earth...{\r}
+Dialogue: 0,0:13:40.48,0:13:44.82,Default,,0000,0000,0000,,{\blur3}但是它们的陌生模样是我们星球上根本看不到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}their alien faces are beyond anything found on our planet.{\r}
+Dialogue: 0,0:13:55.71,0:13:57.83,Default,,0000,0000,0000,,{\blur3}看出去一切良好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything looks good from here.{\r}
+Dialogue: 0,0:13:57.88,0:13:59.08,Default,,0000,0000,0000,,{\blur3}好 收到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay. We copy that.{\r}
+Dialogue: 0,0:13:59.13,0:14:00.63,Default,,0000,0000,0000,,{\blur3}声音良好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sounds good.{\r}
+Dialogue: 0,0:14:00.67,0:14:02.67,Default,,0000,0000,0000,,{\blur3}恭候大驾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We wish we were with you.{\r}
+Dialogue: 0,0:14:05.42,0:14:08.93,Default,,0000,0000,0000,,{\blur3}要是有朝一日 深太空探测发现了太阳系外的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What if, one day, a deep space probe...{\r}
+Dialogue: 0,0:14:08.97,0:14:12.22,Default,,0000,0000,0000,,{\blur3}又当如何呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}detects life outside our solar system?{\r}
+Dialogue: 0,0:14:17.65,0:14:19.65,Default,,0000,0000,0000,,{\blur3}外星人会是啥模样呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What would an alien look like?{\r}
+Dialogue: 0,0:14:21.23,0:14:23.90,Default,,0000,0000,0000,,{\blur3}为了更好地了解这些异界生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To better understand these otherworldly creatures...{\r}
+Dialogue: 0,0:14:23.94,0:14:25.94,Default,,0000,0000,0000,,{\blur3}以及它们是如何进化的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and how they might have evolved...{\r}
+Dialogue: 0,0:14:26.86,0:14:29.11,Default,,0000,0000,0000,,{\blur3}科学家认为你必须首先了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists believe you must first understand...{\r}
+Dialogue: 0,0:14:29.16,0:14:32.53,Default,,0000,0000,0000,,{\blur3}有关生命诞生的物理环境的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a few simple concepts about the physical environments...{\r}
+Dialogue: 0,0:14:32.58,0:14:33.95,Default,,0000,0000,0000,,{\blur3}一些简单概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where life might begin.{\r}
+Dialogue: 0,0:14:36.21,0:14:39.25,Default,,0000,0000,0000,,{\blur3}在你关注遥远恒星周围的行星时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When looking at planets around distant stars...{\r}
+Dialogue: 0,0:14:39.29,0:14:44.09,Default,,0000,0000,0000,,{\blur3}有两个因素是我们科学家所瞄准的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are two factors that we scientists zero in on.{\r}
+Dialogue: 0,0:14:44.13,0:14:47.55,Default,,0000,0000,0000,,{\blur3}首先是与母星的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First is distance to the mother star.{\r}
+Dialogue: 0,0:14:47.59,0:14:50.09,Default,,0000,0000,0000,,{\blur3}这决定了你获取能量的多少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That determines how much energy you have...{\r}
+Dialogue: 0,0:14:50.14,0:14:52.93,Default,,0000,0000,0000,,{\blur3}是否有液态水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and whether or not you have liquid water.{\r}
+Dialogue: 0,0:14:54.68,0:14:56.35,Default,,0000,0000,0000,,{\blur3}其次 质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Second, the mass...{\r}
+Dialogue: 0,0:14:58.19,0:14:59.85,Default,,0000,0000,0000,,{\blur3}行星的大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the size of the planet.{\r}
+Dialogue: 0,0:15:00.94,0:15:02.56,Default,,0000,0000,0000,,{\blur3}这决定着重力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That determines gravity...{\r}
+Dialogue: 0,0:15:02.61,0:15:05.28,Default,,0000,0000,0000,,{\blur3}以及你可能会看到何种生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what kind of organisms you may have.{\r}
+Dialogue: 0,0:15:06.61,0:15:08.90,Default,,0000,0000,0000,,{\blur3}在人们思考进化生物学时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When people think about evolutionary biology...{\r}
+Dialogue: 0,0:15:08.95,0:15:10.82,Default,,0000,0000,0000,,{\blur3}我们往往认为整个自然界充满了腥风血雨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we tend to think of the whole nature...{\r}
+Dialogue: 0,0:15:10.87,0:15:12.12,Default,,0000,0000,0000,,{\blur3}生物间 物种间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}red in tooth and claw,{\r}
+Dialogue: 0,0:15:15.37,0:15:17.08,Default,,0000,0000,0000,,{\blur3}等等充满了达尔文主义的竞争{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and among species and so on...{\r}
+Dialogue: 0,0:15:17.12,0:15:19.41,Default,,0000,0000,0000,,{\blur3}我们忽视了就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we forget that it's the physical environment...{\r}
+Dialogue: 0,0:15:19.46,0:15:20.83,Default,,0000,0000,0000,,{\blur3}物理环境塑造了生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that really shapes life.{\r}
+Dialogue: 0,0:15:22.63,0:15:23.84,Default,,0000,0000,0000,,{\blur3}你所看得的何种重力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What gravity you have...{\r}
+Dialogue: 0,0:15:23.88,0:15:26.38,Default,,0000,0000,0000,,{\blur3}何种温度 何种压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what temperature, what pressure...{\r}
+Dialogue: 0,0:15:26.42,0:15:28.26,Default,,0000,0000,0000,,{\blur3}何种大气成分取决于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what composition the atmosphere is...{\r}
+Dialogue: 0,0:15:28.30,0:15:30.97,Default,,0000,0000,0000,,{\blur3}是否存在着大气层 等等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if there is any atmosphere, and so on.{\r}
+Dialogue: 0,0:15:34.01,0:15:37.60,Default,,0000,0000,0000,,{\blur3}物理定律并未因你穿行宇宙而改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The laws of physics don't change as you travel through the universe...{\r}
+Dialogue: 0,0:15:37.64,0:15:41.48,Default,,0000,0000,0000,,{\blur3}因此了解我们地球环境中的生物进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so understanding how creatures evolved in our Earthly environment...{\r}
+Dialogue: 0,0:15:41.52,0:15:43.27,Default,,0000,0000,0000,,{\blur3}已经让科学家去想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has allowed scientists to imagine...{\r}
+Dialogue: 0,0:15:43.31,0:15:46.65,Default,,0000,0000,0000,,{\blur3}假设行星AG 143之类的其它星球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what life forms might arise on other types of worlds...{\r}
+Dialogue: 0,0:15:47.90,0:15:51.03,Default,,0000,0000,0000,,{\blur3}有可能出现的生命形式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like the theoretical planet AG-143.{\r}
+Dialogue: 0,0:15:54.74,0:15:58.45,Default,,0000,0000,0000,,{\blur3}AG 143围绕着明亮的F级恒星运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}AG-143 orbits a bright F-class star.{\r}
+Dialogue: 0,0:15:59.41,0:16:03.08,Default,,0000,0000,0000,,{\blur3}这个世界只有10%的地表覆盖着地表水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Only ten percent of this world is covered with surface water.{\r}
+Dialogue: 0,0:16:03.58,0:16:05.50,Default,,0000,0000,0000,,{\blur3}集中在沙漠之下的水囊里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And pockets of this liquid H2O...{\r}
+Dialogue: 0,0:16:05.54,0:16:08.21,Default,,0000,0000,0000,,{\blur3}里面收集了稀少的降雨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}collect under the sands from the sparse rainfall.{\r}
+Dialogue: 0,0:16:09.88,0:16:13.80,Default,,0000,0000,0000,,{\blur3}AG 143的环境炎热干旱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The environment on AG-143 is hot, arid...{\r}
+Dialogue: 0,0:16:13.84,0:16:16.30,Default,,0000,0000,0000,,{\blur3}阳光极其耀眼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the sunshine extremely bright.{\r}
+Dialogue: 0,0:16:17.85,0:16:21.77,Default,,0000,0000,0000,,{\blur3}因为那颗恒星是F级恒星 所以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, because the star is an F-class star, okay...{\r}
+Dialogue: 0,0:16:21.81,0:16:22.98,Default,,0000,0000,0000,,{\blur3}比太阳更亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is brighter than the Sun...{\r}
+Dialogue: 0,0:16:23.02,0:16:25.86,Default,,0000,0000,0000,,{\blur3}你会接受到紫外线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're going to have a UV output, ultraviolet light output.{\r}
+Dialogue: 0,0:16:27.19,0:16:28.57,Default,,0000,0000,0000,,{\blur3}因此那里的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, the organisms there...{\r}
+Dialogue: 0,0:16:28.61,0:16:30.82,Default,,0000,0000,0000,,{\blur3}将不得不以某种方式来保护{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are going to have to somehow be shielded...{\r}
+Dialogue: 0,0:16:30.86,0:16:34.24,Default,,0000,0000,0000,,{\blur3}不是大气层就是它们自己的遮蔽物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}either in the atmosphere or in their own coverings.{\r}
+Dialogue: 0,0:16:35.70,0:16:38.49,Default,,0000,0000,0000,,{\blur3}这些遮蔽物可能是厚厚的壳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These coverings may be in the form of thick shells...{\r}
+Dialogue: 0,0:16:38.54,0:16:43.08,Default,,0000,0000,0000,,{\blur3}或其它外衣 来吸收强烈的紫外线辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or other exteriors that would absorb the harsh UV radiation.{\r}
+Dialogue: 0,0:16:43.12,0:16:45.17,Default,,0000,0000,0000,,{\blur3}但是AG 143上的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the creatures on AG-143...{\r}
+Dialogue: 0,0:16:45.21,0:16:48.00,Default,,0000,0000,0000,,{\blur3}也会进化出其它身体特性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would also develop other physical characteristics...{\r}
+Dialogue: 0,0:16:48.05,0:16:50.05,Default,,0000,0000,0000,,{\blur3}是那个世界特有的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are unique to this world.{\r}
+Dialogue: 0,0:16:51.38,0:16:52.67,Default,,0000,0000,0000,,{\blur3}这真是有趣的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's really interesting to imagine...{\r}
+Dialogue: 0,0:16:52.72,0:16:55.80,Default,,0000,0000,0000,,{\blur3}生命可能会喜欢上高重力的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what life might be like on a planet with higher gravity.{\r}
+Dialogue: 0,0:16:59.01,0:17:01.35,Default,,0000,0000,0000,,{\blur3}从微生物的角度出发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, from a microbe's point of view...{\r}
+Dialogue: 0,0:17:01.39,0:17:03.98,Default,,0000,0000,0000,,{\blur3}可能不会有很大的差异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there might not be a whole lot of difference.{\r}
+Dialogue: 0,0:17:04.02,0:17:06.15,Default,,0000,0000,0000,,{\blur3}所产生的差异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where the differences would start to come...{\r}
+Dialogue: 0,0:17:06.19,0:17:09.32,Default,,0000,0000,0000,,{\blur3}就是你一旦登陆上去 举个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is when you go out and land, for example...{\r}
+Dialogue: 0,0:17:09.36,0:17:13.40,Default,,0000,0000,0000,,{\blur3}你就不得不为站立而烦恼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there you have to worry about standing up.{\r}
+Dialogue: 0,0:17:13.45,0:17:13.97,Default,,0000,0000,0000,,{\blur3}噢 该死的重力 我只是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, darn gravity, you know, l just--{\r}
+Dialogue: 0,0:17:13.97,0:17:16.61,Default,,0000,0000,0000,,{\blur3}它也有可能吸引住很高比例的氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It may also hold a much higher level of oxygen.{\r}
+Dialogue: 0,0:17:16.62,0:17:18.24,Default,,0000,0000,0000,,{\blur3}我只是无法站立起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I just can't pull myself up.{\r}
+Dialogue: 0,0:17:20.49,0:17:22.79,Default,,0000,0000,0000,,{\blur3}然而强大重力的另一个副作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But another byproduct of strong gravity...{\r}
+Dialogue: 0,0:17:22.83,0:17:26.08,Default,,0000,0000,0000,,{\blur3}有可能让AG 143上的山丘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may also give rise to an unlikely cast of characters...{\r}
+Dialogue: 0,0:17:26.13,0:17:28.75,Default,,0000,0000,0000,,{\blur3}具有难以置信的地貌特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the surface of AG-143...{\r}
+Dialogue: 0,0:17:30.13,0:17:33.09,Default,,0000,0000,0000,,{\blur3}更确切说 是略高于地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or rather, slightly above the surface.{\r}
+Dialogue: 0,0:17:36.26,0:17:39.89,Default,,0000,0000,0000,,{\blur3}地球上 我们的大气是79%的氮气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Earth, our atmosphere is 79 percent nitrogen...{\r}
+Dialogue: 0,0:17:39.93,0:17:43.73,Default,,0000,0000,0000,,{\blur3}20%的氧气 1%的其他气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}twenty percent oxygen, and one percent other gases...{\r}
+Dialogue: 0,0:17:43.77,0:17:47.60,Default,,0000,0000,0000,,{\blur3}如此安排是因为地球的重力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is held in place due to the gravitational pull of the Earth.{\r}
+Dialogue: 0,0:17:49.94,0:17:52.28,Default,,0000,0000,0000,,{\blur3}但是在AG 143之类的行星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But on a planet like AG-143...{\r}
+Dialogue: 0,0:17:52.32,0:17:55.82,Default,,0000,0000,0000,,{\blur3}较强的重力会吸引住更为稠密的大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the stronger gravity would hold a much thicker atmosphere...{\r}
+Dialogue: 0,0:17:55.86,0:17:57.86,Default,,0000,0000,0000,,{\blur3}完全适合飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perfect for achieving flight.{\r}
+Dialogue: 0,0:18:02.75,0:18:06.08,Default,,0000,0000,0000,,{\blur3}我们在2亿年前经历过一个时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We went through a period...a couple of hundred million years ago...{\r}
+Dialogue: 0,0:18:06.12,0:18:11.09,Default,,0000,0000,0000,,{\blur3}那时 我们认为地球有过一个氧气含量较高的时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where we think the Earth had a higher concentration of oxygen for a while.{\r}
+Dialogue: 0,0:18:11.13,0:18:13.38,Default,,0000,0000,0000,,{\blur3}我们从化石记录中看到过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what we see in the fossil record...{\r}
+Dialogue: 0,0:18:13.42,0:18:18.93,Default,,0000,0000,0000,,{\blur3}大型昆虫 大型翅膀 大型飞行生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is giant insects, huge wings, giant flying organisms.{\r}
+Dialogue: 0,0:18:18.97,0:18:20.14,Default,,0000,0000,0000,,{\blur3}因为只要你想一想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because if you think about it...{\r}
+Dialogue: 0,0:18:20.18,0:18:22.43,Default,,0000,0000,0000,,{\blur3}你要有更多的氧来代谢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you have more oxygen for metabolism...{\r}
+Dialogue: 0,0:18:22.47,0:18:24.60,Default,,0000,0000,0000,,{\blur3}因此你做事要用上更多的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so you can do things with more energy.{\r}
+Dialogue: 0,0:18:24.64,0:18:26.98,Default,,0000,0000,0000,,{\blur3}那就像是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like taking in higher oxygen...{\r}
+Dialogue: 0,0:18:27.02,0:18:28.90,Default,,0000,0000,0000,,{\blur3}用氧气瓶之类的东西吸高压氧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with an oxygen tank or something.{\r}
+Dialogue: 0,0:18:28.94,0:18:30.40,Default,,0000,0000,0000,,{\blur3}你感觉整个上气不接下气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You feel all pumped up...{\r}
+Dialogue: 0,0:18:30.44,0:18:33.23,Default,,0000,0000,0000,,{\blur3}那就是这些生物必定的感觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's how these organisms must have felt.{\r}
+Dialogue: 0,0:18:35.32,0:18:36.69,Default,,0000,0000,0000,,{\blur3}由于稠密的大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With a thicker atmosphere...{\r}
+Dialogue: 0,0:18:36.74,0:18:39.03,Default,,0000,0000,0000,,{\blur3}和高浓度的氧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and higher concentration of oxygen...{\r}
+Dialogue: 0,0:18:39.07,0:18:43.74,Default,,0000,0000,0000,,{\blur3}AG 143的空中遍布大型飞行动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the skies of AG-143 would be full of large flying creatures...{\r}
+Dialogue: 0,0:18:43.79,0:18:47.16,Default,,0000,0000,0000,,{\blur3}随心所欲长时间呆在空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could stay airborne for as long as they need.{\r}
+Dialogue: 0,0:18:49.33,0:18:51.42,Default,,0000,0000,0000,,{\blur3}一个例子可能是sargan{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One example could be the sargan.{\r}
+Dialogue: 0,0:18:52.46,0:18:54.55,Default,,0000,0000,0000,,{\blur3}这种动物可能大半辈子都翱翔在空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This creature would live most of its life...{\r}
+Dialogue: 0,0:18:54.59,0:18:57.59,Default,,0000,0000,0000,,{\blur3}寻找着这颗行星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}soaring through the atmosphere, looking for pockets of water...{\r}
+Dialogue: 0,0:18:57.63,0:18:59.55,Default,,0000,0000,0000,,{\blur3}零散分布的水源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that scarcely pepper the planet.{\r}
+Dialogue: 0,0:19:01.35,0:19:03.39,Default,,0000,0000,0000,,{\blur3}一旦sargan找到了出水孔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once the sargan finds a watering hole...{\r}
+Dialogue: 0,0:19:03.43,0:19:06.35,Default,,0000,0000,0000,,{\blur3}它们会扑向水坑 不仅是饮水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they swoop down in hopes to not only drink...{\r}
+Dialogue: 0,0:19:06.39,0:19:07.52,Default,,0000,0000,0000,,{\blur3}还要捕猎那些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but hunt any creatures...{\r}
+Dialogue: 0,0:19:07.56,0:19:10.56,Default,,0000,0000,0000,,{\blur3}找到通向绿洲之路的动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that may have found their way to the oasis...{\r}
+Dialogue: 0,0:19:11.56,0:19:13.98,Default,,0000,0000,0000,,{\blur3}如moblant之类的动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a creature like the moblant.{\r}
+Dialogue: 0,0:19:14.02,0:19:19.28,Default,,0000,0000,0000,,{\blur3}乍一看 你几乎会把moblant当作海星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At first sight, you might almost mistake a moblant for a starfish.{\r}
+Dialogue: 0,0:19:19.32,0:19:22.70,Default,,0000,0000,0000,,{\blur3}它有短而粗的手臂用来穿越沙漠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has stubby little arms that it moves across the desert.{\r}
+Dialogue: 0,0:19:22.74,0:19:24.49,Default,,0000,0000,0000,,{\blur3}然而关于这些手臂的怪事是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the odd thing about these arms...{\r}
+Dialogue: 0,0:19:24.54,0:19:27.33,Default,,0000,0000,0000,,{\blur3}它们具有很长的触须来探测沙子里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is they have long tentacles that probe the sand...{\r}
+Dialogue: 0,0:19:27.37,0:19:30.21,Default,,0000,0000,0000,,{\blur3}可能隐藏的宝贵的水囊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for pockets of precious water that may be hidden.{\r}
+Dialogue: 0,0:19:30.25,0:19:32.13,Default,,0000,0000,0000,,{\blur3}这种生物的怪异之处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the odd thing about this creature...{\r}
+Dialogue: 0,0:19:32.17,0:19:35.50,Default,,0000,0000,0000,,{\blur3}是一旦它找到一个好大好大的水囊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is if it finds a large, large pocket of water...{\r}
+Dialogue: 0,0:19:37.13,0:19:41.72,Default,,0000,0000,0000,,{\blur3}就会把水抽上来 就像抽水井那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it begins pulling the water up like it's pulling it up a well...{\r}
+Dialogue: 0,0:19:41.76,0:19:44.60,Default,,0000,0000,0000,,{\blur3}它会一点一点增大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it grows in size, and it grows in size...{\r}
+Dialogue: 0,0:19:44.64,0:19:47.64,Default,,0000,0000,0000,,{\blur3}把水储存起来 宛如骆驼那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and stores the water up like a camel does.{\r}
+Dialogue: 0,0:19:49.48,0:19:54.23,Default,,0000,0000,0000,,{\blur3}适应了找到和储存水是生存的关键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Adaptations to locate and store water are crucial for survival.{\r}
+Dialogue: 0,0:19:55.40,0:19:57.69,Default,,0000,0000,0000,,{\blur3}要坚持在沙漠里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To be stuck out in the middle of a desert...{\r}
+Dialogue: 0,0:19:57.73,0:20:01.32,Default,,0000,0000,0000,,{\blur3}距离貌似有水源的数百英里范围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hundreds of miles from anything resembling a liquid...{\r}
+Dialogue: 0,0:20:01.36,0:20:04.74,Default,,0000,0000,0000,,{\blur3}将会是几乎所有地球生物的葬身之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be a death sentence for almost any Earth creature.{\r}
+Dialogue: 0,0:20:08.45,0:20:12.71,Default,,0000,0000,0000,,{\blur3}对于我们假设行星AG 143上的生命 情况也是大同小异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The same would be true for life on our theoretical planet AG-143.{\r}
+Dialogue: 0,0:20:14.96,0:20:18.63,Default,,0000,0000,0000,,{\blur3}这就是为何pholis的活动主要是在地下水附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is why the pholis lives primarily near the water deposits...{\r}
+Dialogue: 0,0:20:19.55,0:20:22.88,Default,,0000,0000,0000,,{\blur3}这样它就尽可能靠近在这宝贵的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that it will remain close to this precious commodity.{\r}
+Dialogue: 0,0:20:24.85,0:20:30.27,Default,,0000,0000,0000,,{\blur3}AG 143上最怪异的生物之一就是pholis{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the most bizarre creatures on AG-143 is the pholis.{\r}
+Dialogue: 0,0:20:30.31,0:20:31.98,Default,,0000,0000,0000,,{\blur3}它们短小精悍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're short, squatty.{\r}
+Dialogue: 0,0:20:32.02,0:20:35.27,Default,,0000,0000,0000,,{\blur3}它是三条腿支撑一只嘴巴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a mouth supported by three legs...{\r}
+Dialogue: 0,0:20:35.31,0:20:39.28,Default,,0000,0000,0000,,{\blur3}下面的基座靠鳞片在地面攀爬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a pedestal platform that has scales underneath.{\r}
+Dialogue: 0,0:20:39.32,0:20:43.45,Default,,0000,0000,0000,,{\blur3}它在沙子上滑行 宛如响尾蛇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It glides across tee sand almost like a sidewinder as it moves.{\r}
+Dialogue: 0,0:20:43.49,0:20:46.32,Default,,0000,0000,0000,,{\blur3}它具有感觉化学物质的超凡能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has the uncanny ability to sense chemically...{\r}
+Dialogue: 0,0:20:46.37,0:20:48.37,Default,,0000,0000,0000,,{\blur3}不管其猎物在不在附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether or not its prey is nearby.{\r}
+Dialogue: 0,0:20:50.29,0:20:54.67,Default,,0000,0000,0000,,{\blur3}它在溪流或小湖泊周围捕食{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It hunts around the edges of streams and small, little lakes.{\r}
+Dialogue: 0,0:20:54.71,0:20:59.17,Default,,0000,0000,0000,,{\blur3}它一旦发现猎物 会突然停下不动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if it finds its prey, it suddenly stops, freezes...{\r}
+Dialogue: 0,0:20:59.21,0:21:03.88,Default,,0000,0000,0000,,{\blur3}伪装自己 这样它几乎就变得分辨不出了 耐心等待{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and camouflages itself so that it almost becomes invisible, waiting...{\r}
+Dialogue: 0,0:21:06.14,0:21:08.35,Default,,0000,0000,0000,,{\blur3}直到不行的生物过来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until a hapless creature moves...{\r}
+Dialogue: 0,0:21:08.39,0:21:10.56,Default,,0000,0000,0000,,{\blur3}然后突然之间 将其抓获{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, suddenly, out it snaps.{\r}
+Dialogue: 0,0:21:13.06,0:21:14.77,Default,,0000,0000,0000,,{\blur3}它得到了自己的晚餐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's found its dinner.{\r}
+Dialogue: 0,0:21:17.52,0:21:20.07,Default,,0000,0000,0000,,{\blur3}pholis的移动方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the pholis' method of movement...{\r}
+Dialogue: 0,0:21:20.11,0:21:23.44,Default,,0000,0000,0000,,{\blur3}在地面上滑动好像草地上的蛇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gliding across the surface like a snake on grass...{\r}
+Dialogue: 0,0:21:23.49,0:21:25.70,Default,,0000,0000,0000,,{\blur3}是另一种进化特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is another evolutionary characteristic...{\r}
+Dialogue: 0,0:21:25.74,0:21:28.41,Default,,0000,0000,0000,,{\blur3}肇因就是这颗行星较强的重力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}caused by the stronger gravity of the planet.{\r}
+Dialogue: 0,0:21:30.24,0:21:33.00,Default,,0000,0000,0000,,{\blur3}用鳞片爬行 而不是用腿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To slide with scales, rather than lifting a leg...{\r}
+Dialogue: 0,0:21:33.04,0:21:35.71,Default,,0000,0000,0000,,{\blur3}会比其它动物来的便当得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be a lot easier for any creature.{\r}
+Dialogue: 0,0:21:37.38,0:21:41.67,Default,,0000,0000,0000,,{\blur3}这提供的优势是其猎物远比不上的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That, and it offers a quiet advantage over its prey.{\r}
+Dialogue: 0,0:21:41.71,0:21:44.13,Default,,0000,0000,0000,,{\blur3}它们可能永远都觉察不到pholis的逼近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They may never hear the pholis coming.{\r}
+Dialogue: 0,0:21:46.34,0:21:51.68,Default,,0000,0000,0000,,{\blur3}但是作为AG 143食物链的一员 没有什么是高枕无忧的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But as the food chain goes on AG-143, nothing is safe.{\r}
+Dialogue: 0,0:21:54.69,0:21:59.65,Default,,0000,0000,0000,,{\blur3}潜伏在这些水池里是一种无声而致命的动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For lurking in these pools of water lies a silent but deadly creature...{\r}
+Dialogue: 0,0:21:59.69,0:22:01.73,Default,,0000,0000,0000,,{\blur3}叫做heathor{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}known as the heathor.{\r}
+Dialogue: 0,0:22:03.03,0:22:06.99,Default,,0000,0000,0000,,{\blur3}在我们行将结束对AG 143的食物链考察时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we end our examination of the food chain on AG-143...{\r}
+Dialogue: 0,0:22:08.03,0:22:09.78,Default,,0000,0000,0000,,{\blur3}我们看到了极端的挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've seen the extreme challenges...{\r}
+Dialogue: 0,0:22:09.83,0:22:12.62,Default,,0000,0000,0000,,{\blur3}那里的生物对很少的地表水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that creatures on a world with little surface water...{\r}
+Dialogue: 0,0:22:12.66,0:22:15.25,Default,,0000,0000,0000,,{\blur3}和较强的重力必定要去克服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and higher gravity must overcome.{\r}
+Dialogue: 0,0:22:17.37,0:22:20.63,Default,,0000,0000,0000,,{\blur3}但要是行星的条件倒过来呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what if the planetary conditions were reversed?{\r}
+Dialogue: 0,0:22:20.67,0:22:23.80,Default,,0000,0000,0000,,{\blur3}要是星球上对于生命来说有适量的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What if a planet had a suitable amount of water for life...{\r}
+Dialogue: 0,0:22:24.88,0:22:28.43,Default,,0000,0000,0000,,{\blur3}但同时重力又很弱呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but also a much weaker gravitational force?{\r}
+Dialogue: 0,0:22:28.47,0:22:31.14,Default,,0000,0000,0000,,{\blur3}答案或许就在我们头顶上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The answer might lie right above our heads...{\r}
+Dialogue: 0,0:22:31.18,0:22:33.31,Default,,0000,0000,0000,,{\blur3}在地球的上空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the skies above the Earth.{\r}
+Dialogue: 0,0:22:37.19,0:22:39.35,Default,,0000,0000,0000,,{\blur3}在我们的星际游猎中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On our intergalactic safari...{\r}
+Dialogue: 0,0:22:39.40,0:22:41.65,Default,,0000,0000,0000,,{\blur3}我们看到了主要的太空生物学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've seen how leading astrobiologists...{\r}
+Dialogue: 0,0:22:41.69,0:22:44.48,Default,,0000,0000,0000,,{\blur3}利用当今的地球科学来假设{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}used present-day earth science to hypothesize...{\r}
+Dialogue: 0,0:22:44.53,0:22:48.03,Default,,0000,0000,0000,,{\blur3}假想世界里的生物的大小 形状和行为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the size, shape, and behavior of creatures...{\r}
+Dialogue: 0,0:22:48.07,0:22:52.07,Default,,0000,0000,0000,,{\blur3}那里的重力要比地球强得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on an imaginary world with much stronger gravity than Earth.{\r}
+Dialogue: 0,0:22:57.25,0:23:01.04,Default,,0000,0000,0000,,{\blur3}但是如果重力弱很多 情况又当如何呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what would happen if the gravity was much weaker?{\r}
+Dialogue: 0,0:23:01.08,0:23:06.05,Default,,0000,0000,0000,,{\blur3}为了找到答案 我们离开强重力的AG 143{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To find out, we lift off from the strong gravity of AG-143...{\r}
+Dialogue: 0,0:23:06.09,0:23:12.26,Default,,0000,0000,0000,,{\blur3}前往89光年外的另一颗行星GP C 925{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to another planet 89 light-years away, GP-C 925.{\r}
+Dialogue: 0,0:23:14.60,0:23:19.06,Default,,0000,0000,0000,,{\blur3}GP C 925比地球小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}GP-C 925 is smaller than the Earth.{\r}
+Dialogue: 0,0:23:19.10,0:23:21.23,Default,,0000,0000,0000,,{\blur3}它是地球大小的一半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's about half the size of the Earth.{\r}
+Dialogue: 0,0:23:21.27,0:23:24.44,Default,,0000,0000,0000,,{\blur3}它是地球类行星的分水岭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's borderline for an Earth-like planet.{\r}
+Dialogue: 0,0:23:24.48,0:23:27.15,Default,,0000,0000,0000,,{\blur3}因为它较小 所以重力也弱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And because it's smaller, it has less gravity.{\r}
+Dialogue: 0,0:23:31.11,0:23:33.99,Default,,0000,0000,0000,,{\blur3}它所围绕的恒星温度要比太阳低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The star that it circles around is cooler than our Sun.{\r}
+Dialogue: 0,0:23:34.03,0:23:38.87,Default,,0000,0000,0000,,{\blur3}正因为如此 在冰冻区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And because of that, it's a cross between frozen ice patches...{\r}
+Dialogue: 0,0:23:38.91,0:23:41.75,Default,,0000,0000,0000,,{\blur3}绿色光合植物探头的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}green photosynthetic plants peeking through...{\r}
+Dialogue: 0,0:23:41.79,0:23:43.88,Default,,0000,0000,0000,,{\blur3}和水体之间有个交叉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and some bodies of water.{\r}
+Dialogue: 0,0:23:43.92,0:23:46.80,Default,,0000,0000,0000,,{\blur3}这里看上去极像我们地球的北部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would look very much like the northern part of our planet...{\r}
+Dialogue: 0,0:23:46.84,0:23:50.05,Default,,0000,0000,0000,,{\blur3}靠近加拿大和格林兰的北部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you get up towards the northern parts of Canada and Greenland.{\r}
+Dialogue: 0,0:23:50.09,0:23:52.09,Default,,0000,0000,0000,,{\blur3}我们管那里叫针叶林地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We call it the taiga areas.{\r}
+Dialogue: 0,0:23:54.97,0:24:00.14,Default,,0000,0000,0000,,{\blur3}GP C 925有一个非常特殊的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}GP-C 925 would be a very specific type of environment.{\r}
+Dialogue: 0,0:24:00.19,0:24:02.10,Default,,0000,0000,0000,,{\blur3}你在这个星球上看不到沙漠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You wouldn't find deserts on this world.{\r}
+Dialogue: 0,0:24:02.15,0:24:04.98,Default,,0000,0000,0000,,{\blur3}实际上 你在这个星球上很少能看到山脉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'd find very few mountains, actually, on this world.{\r}
+Dialogue: 0,0:24:05.02,0:24:07.94,Default,,0000,0000,0000,,{\blur3}这是个非常寒冷的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would be a world that was cooler...{\r}
+Dialogue: 0,0:24:07.98,0:24:11.36,Default,,0000,0000,0000,,{\blur3}保存要易于我们自己的星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more preserved than what we see on our own planet...{\r}
+Dialogue: 0,0:24:12.66,0:24:14.62,Default,,0000,0000,0000,,{\blur3}但是美景却无二致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but beautiful just the same.{\r}
+Dialogue: 0,0:24:16.83,0:24:18.58,Default,,0000,0000,0000,,{\blur3}这个星球 由于重力要小得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This world, with much lower gravity...{\r}
+Dialogue: 0,0:24:18.62,0:24:22.50,Default,,0000,0000,0000,,{\blur3}就会产生更大 更优美的生命形式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could generate much larger, more elegant life forms.{\r}
+Dialogue: 0,0:24:22.54,0:24:23.62,Default,,0000,0000,0000,,{\blur3}我身高6英尺6英寸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, I'm 6' 6".{\r}
+Dialogue: 0,0:24:23.67,0:24:25.92,Default,,0000,0000,0000,,{\blur3}想象一下 我在只有一半或三分之一重力的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine how tall l could be if l had evolved...{\r}
+Dialogue: 0,0:24:25.96,0:24:27.92,Default,,0000,0000,0000,,{\blur3}身高会有多少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a world with a half or a third the gravity.{\r}
+Dialogue: 0,0:24:27.96,0:24:29.96,Default,,0000,0000,0000,,{\blur3}想象一下 红杉在低重力世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine what a redwood would look like...{\r}
+Dialogue: 0,0:24:30.01,0:24:32.01,Default,,0000,0000,0000,,{\blur3}会是什么样子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a world with lower gravity.{\r}
+Dialogue: 0,0:24:36.35,0:24:39.60,Default,,0000,0000,0000,,{\blur3}作用于地表生命的此类重力效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These types of gravitational effects on the surface life...{\r}
+Dialogue: 0,0:24:39.64,0:24:43.02,Default,,0000,0000,0000,,{\blur3}将会塑造出不同的特色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would shape and model different characteristics.{\r}
+Dialogue: 0,0:24:43.06,0:24:46.94,Default,,0000,0000,0000,,{\blur3}这也会反映在GP C 925之类的星球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would also appear that on a world like GP-C 925...{\r}
+Dialogue: 0,0:24:49.82,0:24:54.03,Default,,0000,0000,0000,,{\blur3}很大程度上 地表生命根本就不会在地表发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much of that surface life would not be found on the surface at all.{\r}
+Dialogue: 0,0:25:01.46,0:25:03.08,Default,,0000,0000,0000,,{\blur3}我们现在是在鸟笼里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here we are in the aviary.{\r}
+Dialogue: 0,0:25:03.12,0:25:07.46,Default,,0000,0000,0000,,{\blur3}高踞这些树上的是恐龙的残余{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Up in these trees are the remnants of the dinosaurs.{\r}
+Dialogue: 0,0:25:07.50,0:25:10.59,Default,,0000,0000,0000,,{\blur3}那就是恐龙消亡后留下的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was what was left behind when the dinosaurs passed on.{\r}
+Dialogue: 0,0:25:10.63,0:25:13.34,Default,,0000,0000,0000,,{\blur3}这些鸟注定是高飞的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These birds are meant to fly.{\r}
+Dialogue: 0,0:25:13.38,0:25:17.34,Default,,0000,0000,0000,,{\blur3}它们的骨骼是空的 它们的羽毛紧贴在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Their bones are hollow, their feathers locked together.{\r}
+Dialogue: 0,0:25:17.39,0:25:19.97,Default,,0000,0000,0000,,{\blur3}这些鸟注定要统治天空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These birds were meant to rule the skies.{\r}
+Dialogue: 0,0:25:21.64,0:25:24.35,Default,,0000,0000,0000,,{\blur3}但是在低重力星球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But on a low-gravity planet...{\r}
+Dialogue: 0,0:25:24.39,0:25:27.98,Default,,0000,0000,0000,,{\blur3}这就是你会见到的统治天空的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this is what you would see that would rule the planet.{\r}
+Dialogue: 0,0:25:30.07,0:25:33.03,Default,,0000,0000,0000,,{\blur3}因为重力将变得较轻 飞翔将变得非常容易{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because gravity is going to be light, flight is going to be very easy.{\r}
+Dialogue: 0,0:25:35.45,0:25:38.20,Default,,0000,0000,0000,,{\blur3}飞翔将会像地球上一些生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And flight is something that's been done on Earth...{\r}
+Dialogue: 0,0:25:38.24,0:25:40.41,Default,,0000,0000,0000,,{\blur3}各显神通的家常便饭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by a number of organisms in different ways.{\r}
+Dialogue: 0,0:25:40.45,0:25:43.25,Default,,0000,0000,0000,,{\blur3}蝙蝠张开它们脚趾之间的膜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bats stretch membranes between their fingers...{\r}
+Dialogue: 0,0:25:43.29,0:25:45.87,Default,,0000,0000,0000,,{\blur3}变成翅膀来飞翔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and create wings to fly.{\r}
+Dialogue: 0,0:25:45.92,0:25:48.54,Default,,0000,0000,0000,,{\blur3}飞鼠展开它们的皮襟翼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Flying squirrels put flaps out of their fur...{\r}
+Dialogue: 0,0:25:48.59,0:25:50.21,Default,,0000,0000,0000,,{\blur3}一路滑行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and glide that way.{\r}
+Dialogue: 0,0:25:52.09,0:25:54.84,Default,,0000,0000,0000,,{\blur3}然而并非GP C 925上的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But not everything on GP-C 925...{\r}
+Dialogue: 0,0:25:54.88,0:25:56.88,Default,,0000,0000,0000,,{\blur3}都类似于地球上的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is comparable to creatures on Earth.{\r}
+Dialogue: 0,0:26:00.10,0:26:04.10,Default,,0000,0000,0000,,{\blur3}能够想象出来的最奇怪的飞行生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The strangest of the airborne creatures one could imagine...{\r}
+Dialogue: 0,0:26:04.14,0:26:06.02,Default,,0000,0000,0000,,{\blur3}是lollygar{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the lollygars.{\r}
+Dialogue: 0,0:26:06.06,0:26:11.27,Default,,0000,0000,0000,,{\blur3}想象中的漂浮的囊袋几乎就像是充足气的肺囊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine floating sacs that almost look like inflated lungs...{\r}
+Dialogue: 0,0:26:12.94,0:26:17.07,Default,,0000,0000,0000,,{\blur3}有很长很长的触须下垂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with long, long, long tentacles hanging down...{\r}
+Dialogue: 0,0:26:17.11,0:26:19.28,Default,,0000,0000,0000,,{\blur3}在背景中缓慢漂浮时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that drape along the countryside...{\r}
+Dialogue: 0,0:26:19.32,0:26:22.49,Default,,0000,0000,0000,,{\blur3}一直垂落到地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as they slowly move and float over the scenery.{\r}
+Dialogue: 0,0:26:23.12,0:26:28.21,Default,,0000,0000,0000,,{\blur3}靠内部加热 温暖的气体将其囊袋膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Heated by internal heat inside, the warm air inflates their sacs.{\r}
+Dialogue: 0,0:26:28.25,0:26:31.25,Default,,0000,0000,0000,,{\blur3}它们看上去几乎就像是水母 漂浮在空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They almost look like jellyfish, floating through the air.{\r}
+Dialogue: 0,0:26:32.34,0:26:35.84,Default,,0000,0000,0000,,{\blur3}和水母一般 它们蛰刺捕食{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And like jellyfish, they sting and grab anything...{\r}
+Dialogue: 0,0:26:35.88,0:26:38.88,Default,,0000,0000,0000,,{\blur3}面前来不及躲避的一切东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that scurries over the ground in front of them.{\r}
+Dialogue: 0,0:26:38.93,0:26:41.68,Default,,0000,0000,0000,,{\blur3}来看一下它们随风飘荡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To see them moving, bobbing up and down in the wind...{\r}
+Dialogue: 0,0:26:41.72,0:26:45.68,Default,,0000,0000,0000,,{\blur3}就像一群迷幻水母那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a herd of psychedelic jellyfish...{\r}
+Dialogue: 0,0:26:45.73,0:26:48.23,Default,,0000,0000,0000,,{\blur3}是我们难以想象的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is something beyond what we can imagine.{\r}
+Dialogue: 0,0:26:49.15,0:26:51.44,Default,,0000,0000,0000,,{\blur3}而在这里 那是再平常不过的事情了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And yet here, it's quite common.{\r}
+Dialogue: 0,0:26:54.28,0:26:55.53,Default,,0000,0000,0000,,{\blur3}即使身临其境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even life on the ground...{\r}
+Dialogue: 0,0:26:55.57,0:26:59.07,Default,,0000,0000,0000,,{\blur3}也会超越我们已知科学的极限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would push the limits of science as we know it.{\r}
+Dialogue: 0,0:26:59.11,0:27:03.37,Default,,0000,0000,0000,,{\blur3}我们观察这个世界时 不妨来考量一下这些swaystack{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we take a look at this world, think of the swaystacks.{\r}
+Dialogue: 0,0:27:03.41,0:27:05.79,Default,,0000,0000,0000,,{\blur3}它们看上去好像有长长的主茎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They look like they're long stalks...{\r}
+Dialogue: 0,0:27:05.83,0:27:09.50,Default,,0000,0000,0000,,{\blur3}伸向15 20 30英尺高的空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that extend 15, 20, 30 feet into the air...{\r}
+Dialogue: 0,0:27:09.54,0:27:12.63,Default,,0000,0000,0000,,{\blur3}好多个在其顶端有一个灯泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}numerous ones coming up with a bulb on the end.{\r}
+Dialogue: 0,0:27:12.67,0:27:14.63,Default,,0000,0000,0000,,{\blur3}它们在风中摇摆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They sway in the wind.{\r}
+Dialogue: 0,0:27:14.67,0:27:17.59,Default,,0000,0000,0000,,{\blur3}然而惊奇的是它们并非植物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what's amazing is these aren't plants.{\r}
+Dialogue: 0,0:27:17.63,0:27:21.93,Default,,0000,0000,0000,,{\blur3}它们是有根的动物 让其生根 缓缓走过星球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are animals with roots that pick up and slowly move...{\r}
+Dialogue: 0,0:27:21.97,0:27:25.56,Default,,0000,0000,0000,,{\blur3}并将自己拴住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}across the planet surface and anchor themselves back down...{\r}
+Dialogue: 0,0:27:25.60,0:27:27.52,Default,,0000,0000,0000,,{\blur3}在风中飘荡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}swaying in the wind...{\r}
+Dialogue: 0,0:27:27.56,0:27:30.64,Default,,0000,0000,0000,,{\blur3}等候着靠近的动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where they wait for any creature that happens by.{\r}
+Dialogue: 0,0:27:32.31,0:27:35.44,Default,,0000,0000,0000,,{\blur3}对于靠近的动物 其顶端像小飞盘那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As a creature moves by, the top of them, like little Frisbees...{\r}
+Dialogue: 0,0:27:35.48,0:27:38.07,Default,,0000,0000,0000,,{\blur3}快速刺入它的身子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}shoot off and wedge into the side of the creature...{\r}
+Dialogue: 0,0:27:38.11,0:27:41.70,Default,,0000,0000,0000,,{\blur3}刺入它们的腿 甲壳 毛发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into their leg, into their carapace, into their hair...{\r}
+Dialogue: 0,0:27:41.74,0:27:43.62,Default,,0000,0000,0000,,{\blur3}瞬间致命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stuck for the moment.{\r}
+Dialogue: 0,0:27:43.66,0:27:47.66,Default,,0000,0000,0000,,{\blur3}一旦移动到新的地方 它们会降落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As they move on, they reach a new area, they drop off...{\r}
+Dialogue: 0,0:27:47.70,0:27:50.16,Default,,0000,0000,0000,,{\blur3}开始新一轮生长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they begin growing all over again.{\r}
+Dialogue: 0,0:27:50.21,0:27:52.08,Default,,0000,0000,0000,,{\blur3}它们只是利用这些飞在空中的这些小飞碟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're simply spreading their seeds...{\r}
+Dialogue: 0,0:27:52.13,0:27:55.00,Default,,0000,0000,0000,,{\blur3}来散布种子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with these tiny little disks flying through the air...{\r}
+Dialogue: 0,0:27:55.05,0:27:57.21,Default,,0000,0000,0000,,{\blur3}前提是它们觉察到有东西经过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}once they sense something moving by.{\r}
+Dialogue: 0,0:27:59.55,0:28:02.30,Default,,0000,0000,0000,,{\blur3}在这个星球上 我们看到类似的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On this planet, we see similar things...{\r}
+Dialogue: 0,0:28:02.34,0:28:05.35,Default,,0000,0000,0000,,{\blur3}植物和杂草生长在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the plants and the weeds that grow here...{\r}
+Dialogue: 0,0:28:05.39,0:28:07.35,Default,,0000,0000,0000,,{\blur3}但是并不妨碍它的个头和范围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but nothing to this size and extent...{\r}
+Dialogue: 0,0:28:07.39,0:28:10.64,Default,,0000,0000,0000,,{\blur3}我们的概念会把握不定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the idea that we begin crossing plants...{\r}
+Dialogue: 0,0:28:10.69,0:28:14.94,Default,,0000,0000,0000,,{\blur3}究竟是类似动物的植物呢还是类似植物的动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that look like animals and animals that look like plants--{\r}
+Dialogue: 0,0:28:14.98,0:28:18.07,Default,,0000,0000,0000,,{\blur3}这的确是个怪异的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this is a bizarre world indeed.{\r}
+Dialogue: 0,0:28:18.11,0:28:21.36,Default,,0000,0000,0000,,{\blur3}swaystack和lollygar之类的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Creatures like the swaystacks and the lollygars...{\r}
+Dialogue: 0,0:28:21.40,0:28:25.74,Default,,0000,0000,0000,,{\blur3}在GP C 925 将会享用到充分的水量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would enjoy an adequate amount of water on GP-C 925.{\r}
+Dialogue: 0,0:28:27.45,0:28:29.04,Default,,0000,0000,0000,,{\blur3}但是在一个有着更多水的 好多水的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what would happen on a world...{\r}
+Dialogue: 0,0:28:29.08,0:28:36.17,Default,,0000,0000,0000,,{\blur3}情况又当如何呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where there was even more water...a lot more?{\r}
+Dialogue: 0,0:28:36.21,0:28:40.38,Default,,0000,0000,0000,,{\blur3}尤其是 在没有任何陆地的星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Specifically, a planet with no land whatsoever...{\r}
+Dialogue: 0,0:28:40.42,0:28:42.30,Default,,0000,0000,0000,,{\blur3}一个水世界上呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a water world?{\r}
+Dialogue: 0,0:28:57.57,0:29:00.65,Default,,0000,0000,0000,,{\blur3}打我们开始星际游猎开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since we embarked on our intergalactic safari...{\r}
+Dialogue: 0,0:29:00.69,0:29:05.57,Default,,0000,0000,0000,,{\blur3}我们已经看到了Eronel星上achom 惊人的生命周期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have seen the amazing lifecycle of the achom on Eronel...{\r}
+Dialogue: 0,0:29:05.62,0:29:09.37,Default,,0000,0000,0000,,{\blur3}AG 143星上模样怪异的pholis{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the bizarre-looking pholis on AG-143...{\r}
+Dialogue: 0,0:29:09.41,0:29:13.16,Default,,0000,0000,0000,,{\blur3}以及GP C 925星上漂浮的lollygar{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the floating lollygars of GP-C 925.{\r}
+Dialogue: 0,0:29:15.63,0:29:19.21,Default,,0000,0000,0000,,{\blur3}所有这些假象世界里的这些假设生命形式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of these theoretical life forms on these imaginary worlds...{\r}
+Dialogue: 0,0:29:19.25,0:29:22.21,Default,,0000,0000,0000,,{\blur3}都是科学家所创造的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have been created by scientists, based on knowledge...{\r}
+Dialogue: 0,0:29:22.26,0:29:24.59,Default,,0000,0000,0000,,{\blur3}根据是地球生命进化的知识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the development of life on Earth.{\r}
+Dialogue: 0,0:29:27.64,0:29:30.14,Default,,0000,0000,0000,,{\blur3}然而这些生物又是如何诞生于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how would these creatures have gotten their start...{\r}
+Dialogue: 0,0:29:30.18,0:29:32.98,Default,,0000,0000,0000,,{\blur3}这些奇怪 遥远的行星的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on these strange, far-flung planets?{\r}
+Dialogue: 0,0:29:35.65,0:29:38.44,Default,,0000,0000,0000,,{\blur3}我们知道产生生命的必要条件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The requirements that we know have to be there for life...{\r}
+Dialogue: 0,0:29:38.48,0:29:41.07,Default,,0000,0000,0000,,{\blur3}就是根据我们所知的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is based on the life that we know...{\r}
+Dialogue: 0,0:29:41.11,0:29:43.44,Default,,0000,0000,0000,,{\blur3}我们所了解的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the chemistry that we think...{\r}
+Dialogue: 0,0:29:43.49,0:29:45.95,Default,,0000,0000,0000,,{\blur3}导致生命的起源及演化的化学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}leads to the origin and evolution of life...{\r}
+Dialogue: 0,0:29:45.99,0:29:49.91,Default,,0000,0000,0000,,{\blur3}就是含水或水溶液里的碳化学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is carbon chemistry in aqueous or water solution.{\r}
+Dialogue: 0,0:29:53.50,0:29:55.04,Default,,0000,0000,0000,,{\blur3}我们需要有氮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we need nitrogen.{\r}
+Dialogue: 0,0:29:56.50,0:29:58.88,Default,,0000,0000,0000,,{\blur3}你需要某种能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you need some sort of energy...{\r}
+Dialogue: 0,0:30:01.17,0:30:04.01,Default,,0000,0000,0000,,{\blur3}因为生命 即使是微生物 都需要食物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'cause life, even microbes, needs food.{\r}
+Dialogue: 0,0:30:04.05,0:30:05.92,Default,,0000,0000,0000,,{\blur3}它们必须要有某种代谢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They've got to have some sort of metabolism...{\r}
+Dialogue: 0,0:30:05.97,0:30:07.97,Default,,0000,0000,0000,,{\blur3}因此你需要有某种能源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so you need some source of energy.{\r}
+Dialogue: 0,0:30:08.01,0:30:09.30,Default,,0000,0000,0000,,{\blur3}阳光作用相当有效{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sunlight works pretty well...{\r}
+Dialogue: 0,0:30:09.35,0:30:11.72,Default,,0000,0000,0000,,{\blur3}但是它并非唯一的能源 即使是在地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it isn't the only source of energy, even on Earth.{\r}
+Dialogue: 0,0:30:19.11,0:30:21.65,Default,,0000,0000,0000,,{\blur3}数百年来 科学家认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For hundreds of years, scientists believed...{\r}
+Dialogue: 0,0:30:21.69,0:30:25.32,Default,,0000,0000,0000,,{\blur3}阳光是生命能量的唯一来源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that sunlight was the only energy source for life.{\r}
+Dialogue: 0,0:30:31.08,0:30:33.08,Default,,0000,0000,0000,,{\blur3}但是在过去几十年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But within the past few decades...{\r}
+Dialogue: 0,0:30:33.95,0:30:36.21,Default,,0000,0000,0000,,{\blur3}新的发现表明他们错了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}new findings showed they were wrong.{\r}
+Dialogue: 0,0:30:42.17,0:30:43.55,Default,,0000,0000,0000,,{\blur3}在海底热水口附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Boiling water temperatures...{\r}
+Dialogue: 0,0:30:43.59,0:30:46.67,Default,,0000,0000,0000,,{\blur3}所见的热水温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}found around hydrothermal vents on the seafloor...{\r}
+Dialogue: 0,0:30:46.72,0:30:50.34,Default,,0000,0000,0000,,{\blur3}曾被认为是与生命格格不入的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were once believed to be incompatible with life.{\r}
+Dialogue: 0,0:30:54.31,0:30:56.56,Default,,0000,0000,0000,,{\blur3}但是最近科学家已经发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, recently, scientists have discovered...{\r}
+Dialogue: 0,0:30:56.60,0:31:00.44,Default,,0000,0000,0000,,{\blur3}这些黑烟囱周围的区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the areas around these black smokers are perfectly suitable...{\r}
+Dialogue: 0,0:31:00.48,0:31:02.98,Default,,0000,0000,0000,,{\blur3}完全适合水下种群的繁荣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for a flourishing underwater community.{\r}
+Dialogue: 0,0:31:09.36,0:31:12.37,Default,,0000,0000,0000,,{\blur3}取代了太阳 这些生物的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead of the Sun, these creatures take their energy...{\r}
+Dialogue: 0,0:31:12.41,0:31:16.33,Default,,0000,0000,0000,,{\blur3}取自这些出水口的高温 气体和矿物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the heat, gases, and minerals spewing from the vents.{\r}
+Dialogue: 0,0:31:17.91,0:31:22.38,Default,,0000,0000,0000,,{\blur3}这些高度顽强的生命形式就是所谓的嗜极生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These highly tenacious life forms are known as extremophiles.{\r}
+Dialogue: 0,0:31:22.42,0:31:25.30,Default,,0000,0000,0000,,{\blur3}这些极端的嗜极生物拓展了我们的认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The existence of extremophiles broadens our aspects...{\r}
+Dialogue: 0,0:31:25.34,0:31:27.71,Default,,0000,0000,0000,,{\blur3}即认为生物能做什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of what we think organisms can do...{\r}
+Dialogue: 0,0:31:27.76,0:31:29.88,Default,,0000,0000,0000,,{\blur3}和了解生物能做什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what we know organisms can do.{\r}
+Dialogue: 0,0:31:29.93,0:31:30.93,Default,,0000,0000,0000,,{\blur3}换句话说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In other words, if you look...{\r}
+Dialogue: 0,0:31:30.97,0:31:33.39,Default,,0000,0000,0000,,{\blur3}如果你观察所有不同种类的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at all of the different kinds of environments...{\r}
+Dialogue: 0,0:31:33.43,0:31:34.89,Default,,0000,0000,0000,,{\blur3}我们就会发现在地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we find here on Earth...{\r}
+Dialogue: 0,0:31:34.93,0:31:37.72,Default,,0000,0000,0000,,{\blur3}其范围会从极冷到极热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it ranges from extremely cold to extremely hot...{\r}
+Dialogue: 0,0:31:37.77,0:31:39.10,Default,,0000,0000,0000,,{\blur3}到酸 到碱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to acid, to alkaline...{\r}
+Dialogue: 0,0:31:40.31,0:31:42.40,Default,,0000,0000,0000,,{\blur3}几乎到你所能想到所有状况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just about anything you can think of.{\r}
+Dialogue: 0,0:31:42.44,0:31:44.98,Default,,0000,0000,0000,,{\blur3}几乎在任何地方 你都能发现生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And just about everywhere, you find life.{\r}
+Dialogue: 0,0:31:46.11,0:31:48.99,Default,,0000,0000,0000,,{\blur3}整个地球都能发现生命的事实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The fact that life is found at all on Earth...{\r}
+Dialogue: 0,0:31:49.03,0:31:53.16,Default,,0000,0000,0000,,{\blur3}很大程度上要归功于我们在太阳系里的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is due in large part to our position in the solar system.{\r}
+Dialogue: 0,0:31:53.20,0:31:55.08,Default,,0000,0000,0000,,{\blur3}我们科学家曾经认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We scientists used to believe...{\r}
+Dialogue: 0,0:31:55.12,0:31:57.74,Default,,0000,0000,0000,,{\blur3}为了让生命出现在一个行星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that in order to get life off the ground on a planet...{\r}
+Dialogue: 0,0:31:57.79,0:32:01.08,Default,,0000,0000,0000,,{\blur3}它必须是距离太阳的宜居区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it has to be in the Goldilocks zone of the Sun...{\r}
+Dialogue: 0,0:32:02.17,0:32:04.63,Default,,0000,0000,0000,,{\blur3}不能太近 因为水会沸腾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not too close because water will boil...{\r}
+Dialogue: 0,0:32:04.67,0:32:07.25,Default,,0000,0000,0000,,{\blur3}不能太远 因为水会冰冻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not too far because water will freeze...{\r}
+Dialogue: 0,0:32:07.30,0:32:10.55,Default,,0000,0000,0000,,{\blur3}而是要恰到好处 有液态海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but just right to have a liquid ocean...{\r}
+Dialogue: 0,0:32:10.59,0:32:13.18,Default,,0000,0000,0000,,{\blur3}在其中DNA可以形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out of which DNA can form.{\r}
+Dialogue: 0,0:32:13.22,0:32:16.26,Default,,0000,0000,0000,,{\blur3}啊 那种情景我们现在知道是错误的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, that picture we now know is wrong.{\r}
+Dialogue: 0,0:32:16.31,0:32:21.10,Default,,0000,0000,0000,,{\blur3}我们现在认为 即使是在木星这样的行星的冰冻卫星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We now believe that even on icy moons of planets like Jupiter...{\r}
+Dialogue: 0,0:32:21.14,0:32:24.15,Default,,0000,0000,0000,,{\blur3}都可能有生命出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it is possible to get life off the ground.{\r}
+Dialogue: 0,0:32:26.57,0:32:28.69,Default,,0000,0000,0000,,{\blur3}木卫二是木星的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Europa is a moon of Jupiter.{\r}
+Dialogue: 0,0:32:28.74,0:32:30.07,Default,,0000,0000,0000,,{\blur3}它被冰包得严严实实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's covered in ice.{\r}
+Dialogue: 0,0:32:30.86,0:32:36.03,Default,,0000,0000,0000,,{\blur3}但是在冰层下面 似乎有一个巨大的海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But beneath the ice, there is apparently a gigantic ocean...{\r}
+Dialogue: 0,0:32:36.08,0:32:40.66,Default,,0000,0000,0000,,{\blur3}或许在数十亿年里 一直就存在着液态水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps stable for billions of years, containing liquid water.{\r}
+Dialogue: 0,0:32:46.25,0:32:48.88,Default,,0000,0000,0000,,{\blur3}因此这就让物理学家等不知所措{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so that sent the physicists and so on scrambling.{\r}
+Dialogue: 0,0:32:48.92,0:32:51.30,Default,,0000,0000,0000,,{\blur3}你怎么会在如此远离太阳的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How could you end up with liquid water...{\r}
+Dialogue: 0,0:32:53.18,0:32:56.43,Default,,0000,0000,0000,,{\blur3}现在 事实证明 这个概念是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, what it turns out, the idea is...{\r}
+Dialogue: 0,0:32:56.47,0:32:58.81,Default,,0000,0000,0000,,{\blur3}存在着所谓的潮汐可挠性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that there's something called tidal flexing.{\r}
+Dialogue: 0,0:33:00.68,0:33:04.23,Default,,0000,0000,0000,,{\blur3}对于木卫二来说 潮汐可挠性的肇因是其巨大的个头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For Europa, tidal flexing is caused by the immense size...{\r}
+Dialogue: 0,0:33:04.27,0:33:06.65,Default,,0000,0000,0000,,{\blur3}以及木星的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and gravitational pull of Jupiter...{\r}
+Dialogue: 0,0:33:06.69,0:33:08.57,Default,,0000,0000,0000,,{\blur3}引起了卫星上的冰拉伸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which causes the ice on the moon...{\r}
+Dialogue: 0,0:33:08.61,0:33:11.74,Default,,0000,0000,0000,,{\blur3}产生了热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to pull and stretch, generating heat.{\r}
+Dialogue: 0,0:33:15.16,0:33:17.99,Default,,0000,0000,0000,,{\blur3}一旦下面的冰层得到足够的热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once the insulated lower layers get warm enough...{\r}
+Dialogue: 0,0:33:18.03,0:33:20.99,Default,,0000,0000,0000,,{\blur3}冰就会融化 变成海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the ice will melt, creating oceans.{\r}
+Dialogue: 0,0:33:23.46,0:33:25.79,Default,,0000,0000,0000,,{\blur3}现在加入被认为可以在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now add the types of organic compounds...{\r}
+Dialogue: 0,0:33:25.83,0:33:27.75,Default,,0000,0000,0000,,{\blur3}木卫二上生存的生物种群{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are believed to exist on Europa...{\r}
+Dialogue: 0,0:33:27.79,0:33:32.34,Default,,0000,0000,0000,,{\blur3}你只需稍加改进 但又是对生命非常现实的手段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you've got a slightly altered, but very realistic recipe for life.{\r}
+Dialogue: 0,0:33:34.93,0:33:38.60,Default,,0000,0000,0000,,{\blur3}这就把我们带去了星际游猎的下一站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This brings us to our next stop in our intergalactic safari.{\r}
+Dialogue: 0,0:33:43.23,0:33:47.52,Default,,0000,0000,0000,,{\blur3}我们离开GP C 925背后热闹的星空后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we leave the busy skies of GP-C 925 behind...{\r}
+Dialogue: 0,0:33:47.56,0:33:49.65,Default,,0000,0000,0000,,{\blur3}我们走过72光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can travel 72 light-years...{\r}
+Dialogue: 0,0:33:49.69,0:33:53.57,Default,,0000,0000,0000,,{\blur3}来到一颗假想的气体巨星 叫做Yeneer g{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a theoretical gas giant known as Yeneer g...{\r}
+Dialogue: 0,0:33:55.11,0:33:57.91,Default,,0000,0000,0000,,{\blur3}有着8颗卫星的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a planet circled by eight moons.{\r}
+Dialogue: 0,0:33:59.03,0:34:01.66,Default,,0000,0000,0000,,{\blur3}通常 我们不会理会Yeneer g{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Normally, we wouldn't bother with Yeneer g.{\r}
+Dialogue: 0,0:34:01.70,0:34:02.95,Default,,0000,0000,0000,,{\blur3}它是颗气体巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lt's a gas giant...{\r}
+Dialogue: 0,0:34:03.00,0:34:05.96,Default,,0000,0000,0000,,{\blur3}我们不认为生命会存在于这些星球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we don't think life could exist on these worlds.{\r}
+Dialogue: 0,0:34:06.00,0:34:10.71,Default,,0000,0000,0000,,{\blur3}我们感兴趣的星球是其卫星Aner'bas{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The world we're interested in is the moon Aner'bas.{\r}
+Dialogue: 0,0:34:10.75,0:34:14.05,Default,,0000,0000,0000,,{\blur3}其大小是水星的两倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's about twice the size of Mercury.{\r}
+Dialogue: 0,0:34:14.09,0:34:16.93,Default,,0000,0000,0000,,{\blur3}它是个非常类似于围绕木星的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a world very similar to the moon Europa...{\r}
+Dialogue: 0,0:34:16.97,0:34:18.59,Default,,0000,0000,0000,,{\blur3}木卫二的星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that circles around Jupiter.{\r}
+Dialogue: 0,0:34:20.26,0:34:23.89,Default,,0000,0000,0000,,{\blur3}想象一下 一个行星覆盖了海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine a planet covered with oceans...{\r}
+Dialogue: 0,0:34:23.93,0:34:26.64,Default,,0000,0000,0000,,{\blur3}在其表面 有冰 大量的冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and on the surface, ice, a lot of ice...{\r}
+Dialogue: 0,0:34:26.69,0:34:29.06,Default,,0000,0000,0000,,{\blur3}把一切都锁定在里面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that locks everything inside.{\r}
+Dialogue: 0,0:34:29.11,0:34:31.86,Default,,0000,0000,0000,,{\blur3}这个星球上没有踏足之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no ground to walk on this planet.{\r}
+Dialogue: 0,0:34:31.90,0:34:35.24,Default,,0000,0000,0000,,{\blur3}然而就在这些海洋里 有可能充满了生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But inside these oceans, they could be teeming with life.{\r}
+Dialogue: 0,0:34:41.53,0:34:44.33,Default,,0000,0000,0000,,{\blur3}由于Yeneer g持续不断的牵引{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And with the constant pull by Yeneer g...{\r}
+Dialogue: 0,0:34:44.37,0:34:46.08,Default,,0000,0000,0000,,{\blur3}Aner'bas既有可能具有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Aner'bas would most likely have...{\r}
+Dialogue: 0,0:34:46.12,0:34:48.79,Default,,0000,0000,0000,,{\blur3}大量的地热活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a large amount of geothermal activity...{\r}
+Dialogue: 0,0:34:48.83,0:34:52.34,Default,,0000,0000,0000,,{\blur3}那可能是生命诞生的主要能源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could be a prime source of energy for life to begin.{\r}
+Dialogue: 0,0:34:58.47,0:35:01.76,Default,,0000,0000,0000,,{\blur3}Aner'bas的表面极少量的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Near the surface on Aner'bas, small amounts of light...{\r}
+Dialogue: 0,0:35:01.80,0:35:05.81,Default,,0000,0000,0000,,{\blur3}有可能透过薄冰层渗入下面的水中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may bleed through the thinner areas of ice to the water below.{\r}
+Dialogue: 0,0:35:07.31,0:35:10.31,Default,,0000,0000,0000,,{\blur3}这里某些生物有可能已经进化成了眼状物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here some creatures may have evolved eyes.{\r}
+Dialogue: 0,0:35:10.35,0:35:12.40,Default,,0000,0000,0000,,{\blur3}这可能提供给了它们有利条件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This may provide them with advantages...{\r}
+Dialogue: 0,0:35:12.44,0:35:16.07,Default,,0000,0000,0000,,{\blur3}但是也会让它们对某些防御技术更加敏感{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but would also make them vulnerable to certain defense techniques.{\r}
+Dialogue: 0,0:35:17.49,0:35:20.78,Default,,0000,0000,0000,,{\blur3}amabo堪称狡猾的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One example of a cunning underwater escape artist...{\r}
+Dialogue: 0,0:35:20.82,0:35:22.28,Default,,0000,0000,0000,,{\blur3}水下逃脱大师楷模{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the amabos.{\r}
+Dialogue: 0,0:35:24.66,0:35:27.20,Default,,0000,0000,0000,,{\blur3}对我们来说 光就是光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To us, light is just light.{\r}
+Dialogue: 0,0:35:27.25,0:35:29.33,Default,,0000,0000,0000,,{\blur3}然而来看看amabo{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But think of the amabos.{\r}
+Dialogue: 0,0:35:29.37,0:35:32.63,Default,,0000,0000,0000,,{\blur3}小巧玲珑 几乎是胶状模样的动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A small, little, almost gelatinous-looking creature...{\r}
+Dialogue: 0,0:35:32.67,0:35:36.09,Default,,0000,0000,0000,,{\blur3}在水下游动 无忧无虑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that swims through the water, innocent.{\r}
+Dialogue: 0,0:35:36.13,0:35:38.59,Default,,0000,0000,0000,,{\blur3}假如有什么靠近它 威胁它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If anything comes close to it that threatens it...{\r}
+Dialogue: 0,0:35:38.63,0:35:44.39,Default,,0000,0000,0000,,{\blur3}它就会发出耀眼的闪光笼罩自己{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it throws out a brilliant flash of sparkling lights all around it...{\r}
+Dialogue: 0,0:35:44.43,0:35:47.43,Default,,0000,0000,0000,,{\blur3}让靠近自己的动物眼花缭乱 不能自拔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}blinding whatever creature came up to it.{\r}
+Dialogue: 0,0:35:47.48,0:35:49.64,Default,,0000,0000,0000,,{\blur3}就在那一刻 它逃之夭夭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in that moment, it's gone...{\r}
+Dialogue: 0,0:35:49.69,0:35:52.31,Default,,0000,0000,0000,,{\blur3}犹如墨鱼喷出大大的墨水团一般{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much like a squid might shoot out a big ink cloud...{\r}
+Dialogue: 0,0:35:53.69,0:35:56.11,Default,,0000,0000,0000,,{\blur3}它突然之间被耀眼的闪光笼罩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is suddenly masked by brilliant lights...{\r}
+Dialogue: 0,0:35:56.15,0:35:58.24,Default,,0000,0000,0000,,{\blur3}几乎就像是国庆日的烟花{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that almost look like the Fourth of July.{\r}
+Dialogue: 0,0:36:00.78,0:36:01.86,Default,,0000,0000,0000,,{\blur3}它逃之夭夭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it's gone.{\r}
+Dialogue: 0,0:36:02.66,0:36:06.54,Default,,0000,0000,0000,,{\blur3}光 在那种场合 就是一种防卫机制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light, in that sense, is a protective mechanism.{\r}
+Dialogue: 0,0:36:09.58,0:36:12.37,Default,,0000,0000,0000,,{\blur3}但是生活在深海里的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But creatures that live much deeper in the oceans...{\r}
+Dialogue: 0,0:36:12.42,0:36:14.42,Default,,0000,0000,0000,,{\blur3}会有其他的生存方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would adapt other methods for survival.{\r}
+Dialogue: 0,0:36:16.38,0:36:19.17,Default,,0000,0000,0000,,{\blur3}一个例子是zowalina{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One example is the zowalina.{\r}
+Dialogue: 0,0:36:19.22,0:36:20.84,Default,,0000,0000,0000,,{\blur3}zowalina就像是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The zowalina look like a cross...{\r}
+Dialogue: 0,0:36:20.88,0:36:26.93,Default,,0000,0000,0000,,{\blur3}可怕的蜘蛛和奇怪的螃蟹的杂交种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between a weird, weird spider and a very strange crab.{\r}
+Dialogue: 0,0:36:29.64,0:36:33.23,Default,,0000,0000,0000,,{\blur3}但是它们具有奇异的能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But they have an odd, odd ability.{\r}
+Dialogue: 0,0:36:33.27,0:36:35.23,Default,,0000,0000,0000,,{\blur3}它们不是通过眼睛来感受世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't sense their world through eyes.{\r}
+Dialogue: 0,0:36:35.94,0:36:38.07,Default,,0000,0000,0000,,{\blur3}它们不是通过耳朵来感受世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't sense their world through ears.{\r}
+Dialogue: 0,0:36:39.19,0:36:42.28,Default,,0000,0000,0000,,{\blur3}它们感受世界是通过电场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They sense their world through an electric field...{\r}
+Dialogue: 0,0:36:42.32,0:36:44.32,Default,,0000,0000,0000,,{\blur3}它们身体周围所产生的电场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they generate around their bodies.{\r}
+Dialogue: 0,0:36:45.32,0:36:47.37,Default,,0000,0000,0000,,{\blur3}这个电场可以延展出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This field can be stretched out...{\r}
+Dialogue: 0,0:36:47.41,0:36:50.58,Default,,0000,0000,0000,,{\blur3}因此它就会感受到周围的动静{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that it senses everything that's moving around it.{\r}
+Dialogue: 0,0:36:50.62,0:36:56.38,Default,,0000,0000,0000,,{\blur3}貌似它的世界受到这个电场的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It sees its world by what impinges on this electronic field.{\r}
+Dialogue: 0,0:36:56.42,0:36:58.63,Default,,0000,0000,0000,,{\blur3}有趣的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the interesting thing about it is...{\r}
+Dialogue: 0,0:36:58.67,0:37:03.05,Default,,0000,0000,0000,,{\blur3}它们一旦锁定认为是猎物的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}once they've locked onto something that they think is prey...{\r}
+Dialogue: 0,0:37:03.09,0:37:06.85,Default,,0000,0000,0000,,{\blur3}它们就会静候其慢慢靠近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they wait till it draws nearer and nearer...{\r}
+Dialogue: 0,0:37:06.89,0:37:09.06,Default,,0000,0000,0000,,{\blur3}以迅雷不及掩耳之势发起攻击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and all of a sudden--zap.{\r}
+Dialogue: 0,0:37:14.90,0:37:19.90,Default,,0000,0000,0000,,{\blur3}一个巨大的电击 击昏猎物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A huge bolt of electricityjets out, stuns their prey...{\r}
+Dialogue: 0,0:37:19.94,0:37:21.48,Default,,0000,0000,0000,,{\blur3}伸出触角将其抓住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a tentacle whips out and grabs it...{\r}
+Dialogue: 0,0:37:21.53,0:37:23.28,Default,,0000,0000,0000,,{\blur3}拉入囊中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and pulls it right in.{\r}
+Dialogue: 0,0:37:23.32,0:37:26.03,Default,,0000,0000,0000,,{\blur3}它捕猎是利用电流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It hunts by using electricity.{\r}
+Dialogue: 0,0:37:28.24,0:37:30.24,Default,,0000,0000,0000,,{\blur3}在我们观察此类生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we see the immense challenges...{\r}
+Dialogue: 0,0:37:30.29,0:37:33.91,Default,,0000,0000,0000,,{\blur3}必须战胜水世界的巨大挑战时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that creatures like this would have to overcome in a water world...{\r}
+Dialogue: 0,0:37:33.96,0:37:36.63,Default,,0000,0000,0000,,{\blur3}尚有最后一个因素有待探索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is one last factor yet to explore.{\r}
+Dialogue: 0,0:37:40.88,0:37:43.01,Default,,0000,0000,0000,,{\blur3}一旦到了地球人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the time comes that the people of Earth...{\r}
+Dialogue: 0,0:37:43.05,0:37:45.34,Default,,0000,0000,0000,,{\blur3}探索宇宙间的生命时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}discover life in the cosmos...{\r}
+Dialogue: 0,0:37:45.38,0:37:49.60,Default,,0000,0000,0000,,{\blur3}或生命最终决定自己暴露给人类时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or that life finally decides to reveal itself to the human race...{\r}
+Dialogue: 0,0:37:49.64,0:37:52.64,Default,,0000,0000,0000,,{\blur3}有可能它根本就不是生物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it may not be a biological entity at all.{\r}
+Dialogue: 0,0:37:53.56,0:37:56.27,Default,,0000,0000,0000,,{\blur3}不是血肉之躯 碳啊什么的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Rather than flesh, blood, and carbon...{\r}
+Dialogue: 0,0:37:56.31,0:37:59.48,Default,,0000,0000,0000,,{\blur3}我们有可能会碰到钢和硅啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we might be met with steel and silicon...{\r}
+Dialogue: 0,0:38:00.69,0:38:01.69,Default,,0000,0000,0000,,{\blur3}机器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a machine.{\r}
+Dialogue: 0,0:38:12.16,0:38:16.92,Default,,0000,0000,0000,,{\blur3}我们走近假设行星Gaia' Leo 我们的最后一站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we approach the theoretical planet Gaia' Leo, our final stop...{\r}
+Dialogue: 0,0:38:16.96,0:38:20.67,Default,,0000,0000,0000,,{\blur3}我们注意到其表面有三个巨大的陨石坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we notice three extremely large craters on the surface.{\r}
+Dialogue: 0,0:38:23.01,0:38:25.72,Default,,0000,0000,0000,,{\blur3}小行星撞击有生命的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An asteroid collision with a life-supporting planet...{\r}
+Dialogue: 0,0:38:25.76,0:38:27.22,Default,,0000,0000,0000,,{\blur3}将是灾难性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be catastrophic.{\r}
+Dialogue: 0,0:38:30.01,0:38:32.72,Default,,0000,0000,0000,,{\blur3}但是在Gaia' Leo上 情况会有所不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But on Gaia' Leo, something's different.{\r}
+Dialogue: 0,0:38:37.69,0:38:39.40,Default,,0000,0000,0000,,{\blur3}我们近地观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We approach the surface...{\r}
+Dialogue: 0,0:38:39.44,0:38:42.90,Default,,0000,0000,0000,,{\blur3}看到机械小生物到处在漫游{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and see tiny mechanical creatures roaming around.{\r}
+Dialogue: 0,0:38:44.65,0:38:46.15,Default,,0000,0000,0000,,{\blur3}尽管我们经历了千里迢迢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although our journey thus far...{\r}
+Dialogue: 0,0:38:46.20,0:38:48.99,Default,,0000,0000,0000,,{\blur3}发现在假想的宇宙边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has explored an imaginary edge of the universe...{\r}
+Dialogue: 0,0:38:49.03,0:38:52.70,Default,,0000,0000,0000,,{\blur3}充满了形形色色的生物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}filled with biological creatures of all shapes and sizes...{\r}
+Dialogue: 0,0:38:54.08,0:38:56.16,Default,,0000,0000,0000,,{\blur3}但是某些科学家认为外星世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some scientists believe an alien world...{\r}
+Dialogue: 0,0:38:56.21,0:38:59.25,Default,,0000,0000,0000,,{\blur3}反而有可能是合成机器的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could instead be a land of synthetic machines...{\r}
+Dialogue: 0,0:38:59.29,0:39:01.17,Default,,0000,0000,0000,,{\blur3}就像Gaia' Leo那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much like Gaia' Leo.{\r}
+Dialogue: 0,0:39:09.51,0:39:13.18,Default,,0000,0000,0000,,{\blur3}搜索地外智慧(SETI)中心的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dr. Seth Shostak of the Search for Extraterrestrial Intelligence...{\r}
+Dialogue: 0,0:39:13.22,0:39:14.81,Default,,0000,0000,0000,,{\blur3}塞思.肖斯塔克博士{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or SETI Institute...{\r}
+Dialogue: 0,0:39:14.85,0:39:18.39,Default,,0000,0000,0000,,{\blur3}认为一旦地外生命被发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}believes that when life beyond Earth is discovered...{\r}
+Dialogue: 0,0:39:18.44,0:39:21.44,Default,,0000,0000,0000,,{\blur3}我们的宇宙较有可能是铁和硅构成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our cosmic relative may be made of steel and silicon...{\r}
+Dialogue: 0,0:39:21.48,0:39:23.27,Default,,0000,0000,0000,,{\blur3}而不是血和肉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than flesh and blood.{\r}
+Dialogue: 0,0:39:27.28,0:39:29.24,Default,,0000,0000,0000,,{\blur3}任何已经足够聪明的外星人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Any aliens that have gotten clever enough...{\r}
+Dialogue: 0,0:39:29.28,0:39:32.20,Default,,0000,0000,0000,,{\blur3}都会建造无线电发射机进行联系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to build a radio transmitter and get on the air...{\r}
+Dialogue: 0,0:39:32.24,0:39:33.78,Default,,0000,0000,0000,,{\blur3}因此我们会听到他们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that we could hear them...{\r}
+Dialogue: 0,0:39:33.83,0:39:36.41,Default,,0000,0000,0000,,{\blur3}有可能已经到了下一个阶段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have probably gone the next step...{\r}
+Dialogue: 0,0:39:36.45,0:39:41.04,Default,,0000,0000,0000,,{\blur3}这下一个阶段有可能是开发有思想的机器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the next step might be the development of thinking machines.{\r}
+Dialogue: 0,0:39:43.04,0:39:45.96,Default,,0000,0000,0000,,{\blur3}要更好地了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To better understand the origin of an alien planet...{\r}
+Dialogue: 0,0:39:46.01,0:39:48.51,Default,,0000,0000,0000,,{\blur3}遍布此类机器的外行星的起源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}teeming with these types of machines...{\r}
+Dialogue: 0,0:39:48.55,0:39:50.30,Default,,0000,0000,0000,,{\blur3}科学家称我们只要看看地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists say we only have to look...{\r}
+Dialogue: 0,0:39:50.34,0:39:54.64,Default,,0000,0000,0000,,{\blur3}我们自己的智慧的进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as far as our own evolution of intelligence here on Earth...{\r}
+Dialogue: 0,0:39:54.68,0:39:57.56,Default,,0000,0000,0000,,{\blur3}尤其是人工智能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}specifically artificial intelligence.{\r}
+Dialogue: 0,0:39:58.56,0:40:00.77,Default,,0000,0000,0000,,{\blur3}人工智能 你可能会说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Artificial intelligence, you might say...{\r}
+Dialogue: 0,0:40:00.81,0:40:03.02,Default,,0000,0000,0000,,{\blur3}就是凭空制造孩子的科学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the science of making babies from scratch...{\r}
+Dialogue: 0,0:40:03.06,0:40:04.73,Default,,0000,0000,0000,,{\blur3}而不是用传统的手段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}instead of the old-fashioned way.{\r}
+Dialogue: 0,0:40:06.03,0:40:10.65,Default,,0000,0000,0000,,{\blur3}它尝试通过了解大脑的运作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the science and engineering that tries to put together a mind...{\r}
+Dialogue: 0,0:40:10.70,0:40:12.70,Default,,0000,0000,0000,,{\blur3}将科学工程组合进大脑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by understanding how the mind works.{\r}
+Dialogue: 0,0:40:15.79,0:40:17.08,Default,,0000,0000,0000,,{\blur3}现在 我们尚未达到这一步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, we haven't done that.{\r}
+Dialogue: 0,0:40:17.12,0:40:19.37,Default,,0000,0000,0000,,{\blur3}我们尚未打造出思想机器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We haven't built thinking machines...{\r}
+Dialogue: 0,0:40:19.41,0:40:20.91,Default,,0000,0000,0000,,{\blur3}但是圈内人士似乎认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but people who work in that area...{\r}
+Dialogue: 0,0:40:20.96,0:40:22.92,Default,,0000,0000,0000,,{\blur3}那有可能在...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seem to think that that's likely to happen...{\r}
+Dialogue: 0,0:40:22.96,0:40:25.84,Default,,0000,0000,0000,,{\blur3}20 50 100年里问世{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}within 20 years, 50 years, 100 years.{\r}
+Dialogue: 0,0:40:27.59,0:40:32.43,Default,,0000,0000,0000,,{\blur3}可以想象未来数百乃至数千年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's conceivable that hundreds...perhaps thousands of years into the future...{\r}
+Dialogue: 0,0:40:32.47,0:40:35.85,Default,,0000,0000,0000,,{\blur3}我们可能会和我们的机器合二为一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we may want to merge with our machines.{\r}
+Dialogue: 0,0:40:35.89,0:40:38.60,Default,,0000,0000,0000,,{\blur3}要认识到在未来数个世纪里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Realize that in the coming centuries...{\r}
+Dialogue: 0,0:40:38.64,0:40:40.98,Default,,0000,0000,0000,,{\blur3}机器实际上会变得比我们聪明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}machines could actually become smarter than us...{\r}
+Dialogue: 0,0:40:43.31,0:40:44.69,Default,,0000,0000,0000,,{\blur3}这样始终存在着危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's always the danger...{\r}
+Dialogue: 0,0:40:44.73,0:40:47.90,Default,,0000,0000,0000,,{\blur3}我们的作品会将我们投入动物园 关进笼子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that our creations will put us in zoos, behind bars...{\r}
+Dialogue: 0,0:40:47.94,0:40:51.61,Default,,0000,0000,0000,,{\blur3}扔花生给我们 让我们跳舞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and throw peanuts at us, and make us dance...{\r}
+Dialogue: 0,0:40:51.65,0:40:54.45,Default,,0000,0000,0000,,{\blur3}就像我们把熊关进笼子跳舞一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just like we make bears dance at zoos.{\r}
+Dialogue: 0,0:40:56.91,0:40:59.24,Default,,0000,0000,0000,,{\blur3}但是要是与机器合二为一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But instead of merging with the machines...{\r}
+Dialogue: 0,0:41:01.33,0:41:05.21,Default,,0000,0000,0000,,{\blur3}那么有朝一日 事实上 人类就有可能变成机器了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one day humans may, in fact, become the machines.{\r}
+Dialogue: 0,0:41:08.34,0:41:11.76,Default,,0000,0000,0000,,{\blur3}一旦芯片胜过了人脑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And once the CPU surpasses the human brain...{\r}
+Dialogue: 0,0:41:11.80,0:41:14.47,Default,,0000,0000,0000,,{\blur3}成熟的软件将会让这些人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sophisticated software could give these beings...{\r}
+Dialogue: 0,0:41:14.51,0:41:16.93,Default,,0000,0000,0000,,{\blur3}具有我们无法比拟的优势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an unparalleled advantage over us.{\r}
+Dialogue: 0,0:41:17.64,0:41:20.06,Default,,0000,0000,0000,,{\blur3}要是你具有了人工智能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you've got artificial intelligences...{\r}
+Dialogue: 0,0:41:20.10,0:41:22.81,Default,,0000,0000,0000,,{\blur3}大脑的运行速度超过人脑100万倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}running on brains a million times faster than human...{\r}
+Dialogue: 0,0:41:22.85,0:41:25.10,Default,,0000,0000,0000,,{\blur3}思维快过人脑100万倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and thinking a million times fast as human...{\r}
+Dialogue: 0,0:41:25.15,0:41:29.90,Default,,0000,0000,0000,,{\blur3}那么理论上它们干1万年 就只要思索上3.5天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they can theoretically do 10,000 years worth of thinking in 3 1/2 days.{\r}
+Dialogue: 0,0:41:31.53,0:41:36.03,Default,,0000,0000,0000,,{\blur3}巨大的能量将是他们实现这一壮举的生命线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vast amounts of energy would be their lifeline to achieving such a feat.{\r}
+Dialogue: 0,0:41:38.12,0:41:41.45,Default,,0000,0000,0000,,{\blur3}一旦他们为了所有可利用的资源而获得了Gaia' Leo{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once they harvested Gaia' Leo for all usable resources...{\r}
+Dialogue: 0,0:41:41.50,0:41:45.87,Default,,0000,0000,0000,,{\blur3}这些小机器人生物 即所谓的seval{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these small robotic creatures, known as sevals...{\r}
+Dialogue: 0,0:41:45.92,0:41:48.25,Default,,0000,0000,0000,,{\blur3}就会建造一条通向太空的星际高速公路{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could build a planetary highway to space...{\r}
+Dialogue: 0,0:41:50.71,0:41:53.17,Default,,0000,0000,0000,,{\blur3}然后下一级的机器 捕捞器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the next level of machines, the fishers...{\r}
+Dialogue: 0,0:41:53.22,0:41:56.38,Default,,0000,0000,0000,,{\blur3}将可以为自己的生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have access to virtually an unlimited amount of energy...{\r}
+Dialogue: 0,0:41:56.43,0:41:57.84,Default,,0000,0000,0000,,{\blur3}获得几乎无极限的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for their survival.{\r}
+Dialogue: 0,0:42:01.72,0:42:03.52,Default,,0000,0000,0000,,{\blur3}要认识到地球只是利用了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just realize that the Earth only uses...{\r}
+Dialogue: 0,0:42:03.56,0:42:07.23,Default,,0000,0000,0000,,{\blur3}太阳能量的很少一部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a tiny fraction of the energy from the Sun.{\r}
+Dialogue: 0,0:42:08.73,0:42:10.77,Default,,0000,0000,0000,,{\blur3}如果太阳这么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the Sun were this big...{\r}
+Dialogue: 0,0:42:10.82,0:42:15.11,Default,,0000,0000,0000,,{\blur3}地球相对太阳的个头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth would be nothing but a head of a pin...{\r}
+Dialogue: 0,0:42:15.15,0:42:17.03,Default,,0000,0000,0000,,{\blur3}就只有针头那么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}compared to the size of the Sun...{\r}
+Dialogue: 0,0:42:17.07,0:42:21.08,Default,,0000,0000,0000,,{\blur3}因此我们只吸收了太阳发出的能量极小一丁点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we absorb only the tiniest fraction of energy from the Sun.{\r}
+Dialogue: 0,0:42:25.75,0:42:28.04,Default,,0000,0000,0000,,{\blur3}为了获得太阳发出的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To harvest the energy from the Sun...{\r}
+Dialogue: 0,0:42:28.08,0:42:31.46,Default,,0000,0000,0000,,{\blur3}一个叫做戴森球的理论结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a theoretical structure known as a Dyson sphere...{\r}
+Dialogue: 0,0:42:31.50,0:42:34.26,Default,,0000,0000,0000,,{\blur3}围绕它或其它所有的恒星周围构建起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be built around it or any other star.{\r}
+Dialogue: 0,0:42:34.30,0:42:37.26,Default,,0000,0000,0000,,{\blur3}戴森球是一个巨形球体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A Dyson sphere is a gigantic sphere...{\r}
+Dialogue: 0,0:42:37.30,0:42:39.72,Default,,0000,0000,0000,,{\blur3}围绕着恒星构建{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is built to surround a star...{\r}
+Dialogue: 0,0:42:39.76,0:42:42.89,Default,,0000,0000,0000,,{\blur3}以吸收那颗恒星所有的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to absorb all the energy from that star.{\r}
+Dialogue: 0,0:42:45.27,0:42:49.02,Default,,0000,0000,0000,,{\blur3}这样 你就可以吸收恒星在这个过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this way, you can absorb the entire output of a star...{\r}
+Dialogue: 0,0:42:49.06,0:42:51.06,Default,,0000,0000,0000,,{\blur3}没有燃烧的全部输出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without getting burned in the process.{\r}
+Dialogue: 0,0:42:53.65,0:42:57.57,Default,,0000,0000,0000,,{\blur3}一旦恒星分解 能量耗尽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once a star is dissected for parts and its energy is depleted...{\r}
+Dialogue: 0,0:42:57.61,0:42:59.82,Default,,0000,0000,0000,,{\blur3}捕捞器就会拆卸戴森球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the fishers could dismantle the sphere...{\r}
+Dialogue: 0,0:42:59.87,0:43:03.87,Default,,0000,0000,0000,,{\blur3}自己推进到下一个星系组{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and propel themselves towards the next galactic battery.{\r}
+Dialogue: 0,0:43:15.97,0:43:17.67,Default,,0000,0000,0000,,{\blur3}如果科学家说的没错{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If scientists are correct...{\r}
+Dialogue: 0,0:43:17.72,0:43:20.09,Default,,0000,0000,0000,,{\blur3}这种机器的架设有可能就在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this rise of the machines may even happen...{\r}
+Dialogue: 0,0:43:20.14,0:43:22.85,Default,,0000,0000,0000,,{\blur3}基地附近的行星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a planet closer to home.{\r}
+Dialogue: 0,0:43:37.49,0:43:39.45,Default,,0000,0000,0000,,{\blur3}随着时间的推移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As each year passes...{\r}
+Dialogue: 0,0:43:39.49,0:43:41.61,Default,,0000,0000,0000,,{\blur3}新的科学发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}new scientific findings are being made...{\r}
+Dialogue: 0,0:43:41.66,0:43:44.12,Default,,0000,0000,0000,,{\blur3}正推进着认识上的突破{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that push the envelope in understanding...{\r}
+Dialogue: 0,0:43:44.16,0:43:47.66,Default,,0000,0000,0000,,{\blur3}不仅是我们自己 而且还有宇宙间的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not only ourselves, but life in the universe.{\r}
+Dialogue: 0,0:43:51.00,0:43:54.54,Default,,0000,0000,0000,,{\blur3}那是一个全新的世界 或者更确切地说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is a whole new world, or, rather, worlds...{\r}
+Dialogue: 0,0:43:54.59,0:43:57.55,Default,,0000,0000,0000,,{\blur3}是有待于我们去发现的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ready for us to discover out there.{\r}
+Dialogue: 0,0:44:00.13,0:44:04.14,Default,,0000,0000,0000,,{\blur3}如果宇宙其他地方的生命最终被发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if life elsewhere in the universe is finally discovered...{\r}
+Dialogue: 0,0:44:04.18,0:44:07.18,Default,,0000,0000,0000,,{\blur3}那么 恒星数量之多让我们确信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the sheer number of stars assures us...{\r}
+Dialogue: 0,0:44:07.22,0:44:12.81,Default,,0000,0000,0000,,{\blur3}一定会有丰富多彩 数量繁多的生命被发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there is a diverse, colorful, and vast array of life to be found...{\r}
+Dialogue: 0,0:44:12.86,0:44:18.26,Default,,0000,0000,0000,,{\blur3}陌生的面孔会多得超乎想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and more alien faces than anyone could ever imagine.{\r}

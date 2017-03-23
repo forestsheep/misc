@@ -1,0 +1,768 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.29,0:00:03.58,*Default,NTP,0000,0000,0000,,创世之初 冥冥之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness,
+Dialogue: 0,0:00:03.62,0:00:05.79,*Default,NTP,0000,0000,0000,,随着一声爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang--
+Dialogue: 0,0:00:05.83,0:00:08.25,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.29,0:00:10.96,*Default,NTP,0000,0000,0000,,时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space, and matter.
+Dialogue: 0,0:00:11.01,0:00:14.26,*Default,NTP,0000,0000,0000,,每一天 新的发现都在揭秘这个诡异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:14.30,0:00:16.76,*Default,NTP,0000,0000,0000,,震撼 神秘莫测的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:16.80,0:00:19.72,*Default,NTP,0000,0000,0000,,地方 - 我们所谓的《宇宙》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call "The Universe."
+Dialogue: 0,0:00:22.31,0:00:23.77,*Default,NTP,0000,0000,0000,,曲速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Warp speed,
+Dialogue: 0,0:00:23.81,0:00:25.44,*Default,NTP,0000,0000,0000,,输送器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}transporters,
+Dialogue: 0,0:00:25.48,0:00:27.44,*Default,NTP,0000,0000,0000,,虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wormholes,
+Dialogue: 0,0:00:27.48,0:00:29.44,*Default,NTP,0000,0000,0000,,激光武器 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and laser blasters--
+Dialogue: 0,0:00:29.48,0:00:31.48,*Default,NTP,0000,0000,0000,,科幻发明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}science fiction concepts.
+Dialogue: 0,0:00:31.53,0:00:34.07,*Default,NTP,0000,0000,0000,,然而它们有现实基础吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But are they grounded in reality?
+Dialogue: 0,0:00:34.11,0:00:36.45,*Default,NTP,0000,0000,0000,,是否有生命存在？ 回答是肯定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is there life out there? The answer is yes.
+Dialogue: 0,0:00:37.49,0:00:39.99,*Default,NTP,0000,0000,0000,,现在下一代物理学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now the next generation of physicists
+Dialogue: 0,0:00:40.04,0:00:43.04,*Default,NTP,0000,0000,0000,,致力于重写宇宙规则手册\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}work to rewrite the cosmic rule book.
+Dialogue: 0,0:00:43.08,0:00:46.46,*Default,NTP,0000,0000,0000,,我不一定将自己局限在我们现在所掌握的物理学里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can't necessarily limit myself by the physics we know today.
+Dialogue: 0,0:00:46.50,0:00:50.29,*Default,NTP,0000,0000,0000,,似乎数十年前的未来派\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what seemed futuristic just decades ago
+Dialogue: 0,0:00:50.34,0:00:53.34,*Default,NTP,0000,0000,0000,,就可能很快前往你附近的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be coming soon to a planet near you.
+Dialogue: 0,0:00:54.01,0:00:56.26,*Default,NTP,0000,0000,0000,,接近光速出行的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Someone traveling close to the speed of light
+Dialogue: 0,0:00:56.30,0:00:58.51,*Default,NTP,0000,0000,0000,,实际上能够跳入未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can effectively jump into the future.
+Dialogue: 0,0:00:59.85,0:01:01.51,*Default,NTP,0000,0000,0000,,下一站 明天 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Next stop: tomorrow 
+Dialogue: 0,0:01:01.56,0:01:03.14,*Default,NTP,0000,0000,0000,,抵达今天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}arriving today,
+Dialogue: 0,0:01:03.18,0:01:07.98,*Default,NTP,0000,0000,0000,,让我们一起去探索科学幻想和科学事实的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we explore the worlds of science fiction and science fact.
+Dialogue: 0,0:01:08.00,0:01:10.75,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:11.25,0:01:14.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:暮云春树  字幕来源：HDC字幕组 调校：晴天 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:14.18,0:01:20.98,*Default,NTP,0000,0000,0000,,历史频道 - 宇宙 第4季第11集 科幻与科学事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The History Channel - The Universe s04e11 Science Fiction,Science Fact
+Dialogue: 0,0:01:21.91,0:01:26.50,*Default,NTP,0000,0000,0000,,科学幻想探索新生命 新文明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science fiction explores new life, new civilizations,
+Dialogue: 0,0:01:26.54,0:01:29.04,*Default,NTP,0000,0000,0000,,以及遥远的星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and galaxies far, far away.
+Dialogue: 0,0:01:31.09,0:01:34.67,*Default,NTP,0000,0000,0000,,飞行汽车及激光束的神奇未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fantastic future of flying cars and laser beams
+Dialogue: 0,0:01:34.71,0:01:38.72,*Default,NTP,0000,0000,0000,,似乎依然是遥不可及的光鲜的海市蜃楼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}still seems like a shimmering mirage of a tomorrow that never came.
+Dialogue: 0,0:01:49.77,0:01:51.02,*Default,NTP,0000,0000,0000,,路在何方？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Roads?
+Dialogue: 0,0:01:51.06,0:01:54.78,*Default,NTP,0000,0000,0000,,我们要去的地方 我想我们还是需要有路可走的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where we're going, I think we'll still need some roads.
+Dialogue: 0,0:01:58.86,0:02:01.53,*Default,NTP,0000,0000,0000,,不过有那么一些科幻技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But then there are those sci-fi technologies
+Dialogue: 0,0:02:01.57,0:02:05.33,*Default,NTP,0000,0000,0000,,可以让你走得比想得快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which may be arriving sooner than you think.
+Dialogue: 0,0:02:12.59,0:02:14.04,*Default,NTP,0000,0000,0000,,约会迟到了？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Running late for an appointment?
+Dialogue: 0,0:02:14.09,0:02:15.71,*Default,NTP,0000,0000,0000,,堵在路上了？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stuck in traffic?
+Dialogue: 0,0:02:16.97,0:02:21.39,*Default,NTP,0000,0000,0000,,科幻有了你出行问题的解决方案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science fiction has the answer for your transportation problems.
+Dialogue: 0,0:02:21.43,0:02:23.85,*Default,NTP,0000,0000,0000,,只要从地点A发送到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Simply beam from point A 
+Dialogue: 0,0:02:25.14,0:02:27.52,*Default,NTP,0000,0000,0000,,地点B\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to point B.
+Dialogue: 0,0:02:27.56,0:02:30.10,*Default,NTP,0000,0000,0000,,《星际迷航》里的输送器是那些东西之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The "Star Trek" transporter is one of those things
+Dialogue: 0,0:02:30.15,0:02:32.44,*Default,NTP,0000,0000,0000,,我们谁都可以进行大量飞行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that any of us who do a lot of flying
+Dialogue: 0,0:02:32.48,0:02:35.73,*Default,NTP,0000,0000,0000,,但愿快点发明出来吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}really wish would just please be invented.
+Dialogue: 0,0:02:35.78,0:02:39.24,*Default,NTP,0000,0000,0000,,但是当你着手考虑所需的技术时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But then when you start thinking about the technologies required,
+Dialogue: 0,0:02:39.28,0:02:40.95,*Default,NTP,0000,0000,0000,,它就有点令人生畏了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it becomes a bit daunting.
+Dialogue: 0,0:02:43.70,0:02:46.66,*Default,NTP,0000,0000,0000,,在《星际迷航》里 如我们在演出中所描述的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On "Star Trek," as we've depicted it on the show,
+Dialogue: 0,0:02:46.70,0:02:50.91,*Default,NTP,0000,0000,0000,,输送器的工作是将人拆成一颗颗原子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the transporter works by taking a person apart atom by atom,
+Dialogue: 0,0:02:50.96,0:02:53.29,*Default,NTP,0000,0000,0000,,将那些原子转换成能量束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}converting those atoms into a stream of energy,
+Dialogue: 0,0:02:53.33,0:02:55.25,*Default,NTP,0000,0000,0000,,将那能量发送到目的地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beaming that energy to the target location,
+Dialogue: 0,0:02:55.30,0:02:57.22,*Default,NTP,0000,0000,0000,,然后在目的地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then reassembling all of those atoms 
+Dialogue: 0,0:02:57.22,0:03:00.42,*Default,NTP,0000,0000,0000,,把所有的原子重组成人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that make up the person at the target location.
+Dialogue: 0,0:03:04.01,0:03:05.89,*Default,NTP,0000,0000,0000,,在它们扫描人体的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As they're scanning the person,
+Dialogue: 0,0:03:05.93,0:03:08.52,*Default,NTP,0000,0000,0000,,会记录下状态 所有的原子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're recording the positions of all the atoms,
+Dialogue: 0,0:03:08.56,0:03:10.43,*Default,NTP,0000,0000,0000,,所有围绕原子的电子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of all the electrons orbiting the atoms,
+Dialogue: 0,0:03:10.48,0:03:13.06,*Default,NTP,0000,0000,0000,,所有电子的自旋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the spins of all of the electrons,
+Dialogue: 0,0:03:13.10,0:03:17.61,*Default,NTP,0000,0000,0000,,体内分子结构的波函数\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the wave functions of all of the molecular structures in the body,
+Dialogue: 0,0:03:17.65,0:03:20.78,*Default,NTP,0000,0000,0000,,所有东西的振荡 运动 速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how everything's vibrating, moving, the velocities.
+Dialogue: 0,0:03:20.82,0:03:24.16,*Default,NTP,0000,0000,0000,,数据量非常庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The amount of data is enormous,
+Dialogue: 0,0:03:24.20,0:03:27.08,*Default,NTP,0000,0000,0000,,然而它们设法仔细地全部扫描\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and somehow they're scanning all of it remotely,
+Dialogue: 0,0:03:27.12,0:03:31.66,*Default,NTP,0000,0000,0000,,然后它们设法将人体拆解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then they're somehow taking and tearing that body apart.
+Dialogue: 0,0:03:33.79,0:03:38.32,*Default,NTP,0000,0000,0000,,将人转成纯粹的能所需的能量将远超过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The amount of energy required to turn a human into pure energy would be 
+Dialogue: 0,0:03:38.32,0:03:43.13,*Default,NTP,0000,0000,0000,,人类迄今制造的最强大的核武器里的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}far more than in the most powerful nuclear weapons that humans have ever made.
+Dialogue: 0,0:03:44.68,0:03:46.68,*Default,NTP,0000,0000,0000,,其过程本身将是毁灭性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The process itself would be destructive.
+Dialogue: 0,0:03:48.93,0:03:52.43,*Default,NTP,0000,0000,0000,,要将我这般大小的人整个转换为能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To convert someone my size entirely to energy
+Dialogue: 0,0:03:52.48,0:03:56.90,*Default,NTP,0000,0000,0000,,将相当于地球上引爆过的最大的核弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be the equivalent 41 times the energy release
+Dialogue: 0,0:03:56.94,0:04:01.53,*Default,NTP,0000,0000,0000,,所释放能量的41倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the largest nuclear weapon ever exploded on planet Earth.
+Dialogue: 0,0:04:01.57,0:04:03.65,*Default,NTP,0000,0000,0000,,我的意思是 如果你现在就想传送我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, if you tried to transport me right now,
+Dialogue: 0,0:04:03.70,0:04:05.36,*Default,NTP,0000,0000,0000,,你就得扪心自问一下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have to ask yourself 
+Dialogue: 0,0:04:09.62,0:04:12.66,*Default,NTP,0000,0000,0000,,然而传送器传送另一头出来的是什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what comes out the other side of a transporter beam?
+Dialogue: 0,0:04:14.46,0:04:16.00,*Default,NTP,0000,0000,0000,,是你么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is it you,
+Dialogue: 0,0:04:16.04,0:04:19.09,*Default,NTP,0000,0000,0000,,还是你的完美量子复制品呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a perfect quantum replica of you?
+Dialogue: 0,0:04:20.71,0:04:24.88,*Default,NTP,0000,0000,0000,,它们是将人分解并重组呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are they disassembling the person and reassembling them,
+Dialogue: 0,0:04:24.93,0:04:28.14,*Default,NTP,0000,0000,0000,,还是把人分解后 储存信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or are they disassembling the person, storing the information,
+Dialogue: 0,0:04:28.18,0:04:30.26,*Default,NTP,0000,0000,0000,,然后在从头重新创造人呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and recreating the person from scratch?
+Dialogue: 0,0:04:32.73,0:04:34.85,*Default,NTP,0000,0000,0000,,这是个有趣的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an interesting question.
+Dialogue: 0,0:04:34.89,0:04:38.52,*Default,NTP,0000,0000,0000,,传送器究竟是把你杀死 然后造出一个克隆人呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Does the transporter actually kill you and then create a clone,
+Dialogue: 0,0:04:38.56,0:04:43.24,*Default,NTP,0000,0000,0000,,还是它设法维持你 将你传送到别的地方呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or does it somehow preserve you and transport you to another place?
+Dialogue: 0,0:04:45.24,0:04:48.12,*Default,NTP,0000,0000,0000,,要是你说 你被分解成一颗颗原子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're going to say that you're disassembled atom by atom,
+Dialogue: 0,0:04:48.16,0:04:49.57,*Default,NTP,0000,0000,0000,,被转换成了能量束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}converted into an energy stream,
+Dialogue: 0,0:04:49.62,0:04:51.49,*Default,NTP,0000,0000,0000,,然后再别的地方进行重组\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then reassembled someplace else,
+Dialogue: 0,0:04:52.41,0:04:55.04,*Default,NTP,0000,0000,0000,,我看不出 它相比杀死你然后再复活你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't see how that's anything other than killing you
+Dialogue: 0,0:04:55.08,0:04:56.08,*Default,NTP,0000,0000,0000,,有何不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and resurrecting you.
+Dialogue: 0,0:05:00.13,0:05:03.34,*Default,NTP,0000,0000,0000,,它可能是来源于科幻的装置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It may be a device rooted in science fiction,
+Dialogue: 0,0:05:03.38,0:05:06.72,*Default,NTP,0000,0000,0000,,但是传送技术在现实世界里的前景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the real-world prospects for transporter technology
+Dialogue: 0,0:05:06.76,0:05:10.14,*Default,NTP,0000,0000,0000,,已引起了美国军方的注意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}attracted the attention of the U.S. military.
+Dialogue: 0,0:05:11.35,0:05:13.89,*Default,NTP,0000,0000,0000,,空军展开了一项研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Air Force commissioned a study
+Dialogue: 0,0:05:13.93,0:05:17.31,*Default,NTP,0000,0000,0000,,研究未来的物质传送系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to investigate the future of matter transmission systems,
+Dialogue: 0,0:05:17.35,0:05:20.98,*Default,NTP,0000,0000,0000,,不足为奇 遇上了一些障碍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, not surprisingly, found a number of roadblocks.
+Dialogue: 0,0:05:22.36,0:05:26.28,*Default,NTP,0000,0000,0000,,开发有效的传送器是个难题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Developing a working transporter is a tough nut.
+Dialogue: 0,0:05:26.32,0:05:28.49,*Default,NTP,0000,0000,0000,,最大的问题之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Among the biggest,
+Dialogue: 0,0:05:28.53,0:05:32.16,*Default,NTP,0000,0000,0000,,你可能已经苦恼于自己的家用电脑 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a problem you may have struggled with on your home computer--
+Dialogue: 0,0:05:32.20,0:05:34.54,*Default,NTP,0000,0000,0000,,没有足够的硬盘空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not enough hard drive space.
+Dialogue: 0,0:05:36.12,0:05:38.96,*Default,NTP,0000,0000,0000,,别再考虑兆字节或千兆字节了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Forget megabytes or gigabytes.
+Dialogue: 0,0:05:39.00,0:05:43.05,*Default,NTP,0000,0000,0000,,仅仅扫描一个人所创建的信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The information created by a scan of just one person
+Dialogue: 0,0:05:43.09,0:05:45.80,*Default,NTP,0000,0000,0000,,就会产生数十亿兆兆字节\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would generate billions of terabytes.
+Dialogue: 0,0:05:47.34,0:05:53.31,*Default,NTP,0000,0000,0000,,一个人用TB硬盘来储存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One person would take roughly enough terabyte drives' worth of storage
+Dialogue: 0,0:05:53.35,0:05:56.93,*Default,NTP,0000,0000,0000,,足以填满5亿个帝国大厦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to fill 500 million Empire State Buildings.
+Dialogue: 0,0:05:58.98,0:06:02.15,*Default,NTP,0000,0000,0000,,把个人储存为数据的含义就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the implication of storing a person as data is,
+Dialogue: 0,0:06:02.19,0:06:04.44,*Default,NTP,0000,0000,0000,,你是否必须立刻传送它们？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}do you have to teleport them immediately?
+Dialogue: 0,0:06:04.48,0:06:07.28,*Default,NTP,0000,0000,0000,,要是你把它们非物质化 储存为信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What if you dematerialize them, store the information,
+Dialogue: 0,0:06:07.32,0:06:10.70,*Default,NTP,0000,0000,0000,,保存50年 100年 5000年又当如何呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and save it for 50 years, 100 years, 5,000 years?
+Dialogue: 0,0:06:10.74,0:06:12.87,*Default,NTP,0000,0000,0000,,从那个人的角度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the point of view of that person,
+Dialogue: 0,0:06:12.91,0:06:14.24,*Default,NTP,0000,0000,0000,,就变成了时间旅行了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it becomes time travel.
+Dialogue: 0,0:06:16.83,0:06:20.79,*Default,NTP,0000,0000,0000,,如果硬盘的容量在目前的水平上继续改善的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If hard drive capacities continue to improve at their present rate,
+Dialogue: 0,0:06:20.83,0:06:25.17,*Default,NTP,0000,0000,0000,,处理储存需求的驱动能力就有可能存续\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a drive capable of handling the storage requirements may exist
+Dialogue: 0,0:06:26.13,0:06:28.51,*Default,NTP,0000,0000,0000,,约200到300年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in about 200 to 300 years.
+Dialogue: 0,0:06:31.89,0:06:35.22,*Default,NTP,0000,0000,0000,,打造物质传送器的最后一个障碍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A final barrier to creating a matter transporter
+Dialogue: 0,0:06:35.26,0:06:38.27,*Default,NTP,0000,0000,0000,,是量子物理学的一个基本属性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a fundamental property of quantum physics,
+Dialogue: 0,0:06:38.31,0:06:41.52,*Default,NTP,0000,0000,0000,,叫做海森堡的测不准原理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}known as Heisenberg's Uncertainty Principle.
+Dialogue: 0,0:06:43.40,0:06:45.32,*Default,NTP,0000,0000,0000,,在最早的《星际迷航》首映之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After the original "Star Trek" premiered,
+Dialogue: 0,0:06:45.36,0:06:49.07,*Default,NTP,0000,0000,0000,,很多物理学家纷纷质疑传送技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a lot of physicists questioned the transporter technology,
+Dialogue: 0,0:06:49.11,0:06:51.86,*Default,NTP,0000,0000,0000,,他们谈论的最大的问题之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and one of the biggest problems with it that they talked about
+Dialogue: 0,0:06:51.91,0:06:58.04,*Default,NTP,0000,0000,0000,,就是确实不可能完全精确地同时掌握\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was that it's really not possible to know with complete precision
+Dialogue: 0,0:06:58.08,0:07:02.58,*Default,NTP,0000,0000,0000,,原子或亚原子粒子的位置和动量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}both the location and the momentum of an atom or a subatomic particle.
+Dialogue: 0,0:07:04.25,0:07:06.50,*Default,NTP,0000,0000,0000,,换句话说 你对物体的位置掌握越多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In other words, the more you know where something is,
+Dialogue: 0,0:07:06.55,0:07:08.88,*Default,NTP,0000,0000,0000,,那你对其速度的掌握就越少 反之亦然\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the less you know how fast it's going and vice versa.
+Dialogue: 0,0:07:11.22,0:07:13.76,*Default,NTP,0000,0000,0000,,来拍一张旋转木马的照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Take a picture of the merry-go-round.
+Dialogue: 0,0:07:13.80,0:07:16.85,*Default,NTP,0000,0000,0000,,好 你无疑能看到旋转木马\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, you can certainly see where that merry-go-round is
+Dialogue: 0,0:07:16.89,0:07:19.98,*Default,NTP,0000,0000,0000,,相对附近其它东西的位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with respect to anything else that's nearby,
+Dialogue: 0,0:07:20.02,0:07:23.69,*Default,NTP,0000,0000,0000,,但问题是旋转木马的旋转就有点模糊了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the things that are spinning on the merry-go-round are kind of blurred.
+Dialogue: 0,0:07:26.48,0:07:29.03,*Default,NTP,0000,0000,0000,,如果你想重组零零碎碎的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're trying to reassemble the bits and pieces
+Dialogue: 0,0:07:29.07,0:07:33.32,*Default,NTP,0000,0000,0000,,来构建已经非物质化了的柯克船长量子形象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that make up a quantum image of a just-dematerialized Captain Kirk,
+Dialogue: 0,0:07:34.49,0:07:38.08,*Default,NTP,0000,0000,0000,,你最不愿意看到的事情就是海森堡的量子不确定性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the last thing you want is Heisenberg's quantum uncertainty.
+Dialogue: 0,0:07:41.16,0:07:43.21,*Default,NTP,0000,0000,0000,,在《星际旅行 下一代》里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In "Star Trek: The Next Generation,"
+Dialogue: 0,0:07:43.25,0:07:45.21,*Default,NTP,0000,0000,0000,,我们的技术顾问之一 迈克 奥库达\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of our technical advisors, Mike Okuda,
+Dialogue: 0,0:07:45.25,0:07:47.71,*Default,NTP,0000,0000,0000,,想出了这个叫做海森堡补偿器的主意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}came up with the idea of this thing called a Heisenberg compensator,
+Dialogue: 0,0:07:47.75,0:07:50.05,*Default,NTP,0000,0000,0000,,那是传送器的组件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is the component in the transporter
+Dialogue: 0,0:07:50.09,0:07:52.13,*Default,NTP,0000,0000,0000,,方便地处理那个小问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that conveniently deals with that little problem.
+Dialogue: 0,0:07:52.18,0:07:54.76,*Default,NTP,0000,0000,0000,,我一直认为那是个很聪明的解决方案 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I always thought that was a very clever solution to--
+Dialogue: 0,0:07:54.80,0:07:57.93,*Default,NTP,0000,0000,0000,,针对建造传送器的最大的障碍之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to one of the biggest obstacles in building a transporter.
+Dialogue: 0,0:07:59.64,0:08:01.89,*Default,NTP,0000,0000,0000,,传送器有时会发生故障\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The transporter would, on occasion, break down,
+Dialogue: 0,0:08:01.93,0:08:05.15,*Default,NTP,0000,0000,0000,,那在人的传送中一般是很不好的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that was generally not good for the person being transported.
+Dialogue: 0,0:08:07.86,0:08:10.32,*Default,NTP,0000,0000,0000,,如果有数据在传送过程中丢失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If some data were lost during transport,
+Dialogue: 0,0:08:10.36,0:08:12.78,*Default,NTP,0000,0000,0000,,你最后就会缺眼少脑什么的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you ended up without eyes or a brain or something,
+Dialogue: 0,0:08:12.82,0:08:14.65,*Default,NTP,0000,0000,0000,,那显然是个灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would obviously be disastrous.
+Dialogue: 0,0:08:16.53,0:08:18.62,*Default,NTP,0000,0000,0000,,你可能会丢失一些DNA\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You might lose a bit from your DNA,
+Dialogue: 0,0:08:18.66,0:08:21.50,*Default,NTP,0000,0000,0000,,虽然你的身体具有DNA修复机能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and while your body has DNA repair mechanisms,
+Dialogue: 0,0:08:21.54,0:08:24.58,*Default,NTP,0000,0000,0000,,但无数次修复有可能会导致癌症\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that repeated numerous times could lead to cancers.
+Dialogue: 0,0:08:24.62,0:08:25.83,*Default,NTP,0000,0000,0000,,它会导致畸形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could lead to deformities.
+Dialogue: 0,0:08:25.88,0:08:27.38,*Default,NTP,0000,0000,0000,,它会导致各种毛病\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could lead to all sorts of maladies
+Dialogue: 0,0:08:27.42,0:08:28.96,*Default,NTP,0000,0000,0000,,那是你真的可能不愿意涉及的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you really probably wouldn't want to deal with.
+Dialogue: 0,0:08:32.97,0:08:35.68,*Default,NTP,0000,0000,0000,,超大规模超级计算机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Massively huge supercomputers,
+Dialogue: 0,0:08:35.72,0:08:37.76,*Default,NTP,0000,0000,0000,,海森堡补偿器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Heisenberg compensators,
+Dialogue: 0,0:08:37.80,0:08:39.93,*Default,NTP,0000,0000,0000,,量子扫描 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}quantum scanning--
+Dialogue: 0,0:08:39.97,0:08:41.64,*Default,NTP,0000,0000,0000,,科幻的方方面面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all part of science fiction.
+Dialogue: 0,0:08:42.60,0:08:45.27,*Default,NTP,0000,0000,0000,,那么我们如何才能使其成为科学事实呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So how do we make it science fact?
+Dialogue: 0,0:08:46.27,0:08:47.94,*Default,NTP,0000,0000,0000,,通过来一点幽灵\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By getting a little spooky.
+Dialogue: 0,0:08:51.03,0:08:56.11,*Default,NTP,0000,0000,0000,,爱因斯坦著名的将其称为 超距幽灵作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Einstein famously called it "spooky action at a distance."
+Dialogue: 0,0:08:56.16,0:09:00.12,*Default,NTP,0000,0000,0000,,那是怪异的量子纠缠世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the bizarre world of quantum entanglement.
+Dialogue: 0,0:09:02.12,0:09:05.96,*Default,NTP,0000,0000,0000,,基本上 两个粒子会以这样的方式互动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Basically, two particles can interact in such a way
+Dialogue: 0,0:09:06.00,0:09:08.00,*Default,NTP,0000,0000,0000,,在它们分开时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that when they become separated,
+Dialogue: 0,0:09:08.04,0:09:11.80,*Default,NTP,0000,0000,0000,,一个状态会直接影响到另一个的状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the state of one directly affects the state of the other.
+Dialogue: 0,0:09:11.84,0:09:14.38,*Default,NTP,0000,0000,0000,,利用这种纠缠属性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And using this property of entanglement,
+Dialogue: 0,0:09:14.42,0:09:16.88,*Default,NTP,0000,0000,0000,,你可以操控一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can manipulate one location
+Dialogue: 0,0:09:16.93,0:09:20.26,*Default,NTP,0000,0000,0000,,来瞬间改变另一个地方的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to change what's going on in the other location instantaneously.
+Dialogue: 0,0:09:21.72,0:09:26.06,*Default,NTP,0000,0000,0000,,这就是出自量子力学的一个最诡异的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is about the single freakiest thing to come out of quantum mechanics.
+Dialogue: 0,0:09:26.10,0:09:31.15,*Default,NTP,0000,0000,0000,,没办法把信息从一个粒子传给另一个粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no way for the information to travel from the one particle to the other.
+Dialogue: 0,0:09:31.19,0:09:32.82,*Default,NTP,0000,0000,0000,,你可以将它们分开到的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can separate them by so much
+Dialogue: 0,0:09:32.86,0:09:35.74,*Default,NTP,0000,0000,0000,,是如果你进行测量 连光速都不会让信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that even the speed of light doesn't allow the information
+Dialogue: 0,0:09:35.78,0:09:39.74,*Default,NTP,0000,0000,0000,,从一点到另外一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to get from one point to the other when you make the measurement.
+Dialogue: 0,0:09:39.78,0:09:42.08,*Default,NTP,0000,0000,0000,,整个地球上或许就三个人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's probably three people on the entire planet
+Dialogue: 0,0:09:42.12,0:09:44.83,*Default,NTP,0000,0000,0000,,完全理解这个概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that fully understand this concept,
+Dialogue: 0,0:09:44.87,0:09:46.54,*Default,NTP,0000,0000,0000,,我们其余的人就看着运算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the rest of us just look at the mathematics
+Dialogue: 0,0:09:46.58,0:09:47.79,*Default,NTP,0000,0000,0000,,浑身不舒服\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and get queasy.
+Dialogue: 0,0:09:50.21,0:09:54.30,*Default,NTP,0000,0000,0000,,计划中的纠缠幽灵作用的测试安排\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Plans are in the works to test the spooky action of entanglement
+Dialogue: 0,0:09:54.34,0:09:58.05,*Default,NTP,0000,0000,0000,,是通过地面与低地球轨道间的传送信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by transmitting information between the ground and low Earth orbit,
+Dialogue: 0,0:09:59.30,0:10:02.10,*Default,NTP,0000,0000,0000,,人类史上的首次发送\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the first "beaming up" In human history.
+Dialogue: 0,0:10:05.06,0:10:06.95,*Default,NTP,0000,0000,0000,,该技术会被利用在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This technology could be put to use in 
+Dialogue: 0,0:10:06.95,0:10:10.27,*Default,NTP,0000,0000,0000,,新一代的超级计算机的研发之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the development of a new generation of supercomputers,
+Dialogue: 0,0:10:11.48,0:10:14.02,*Default,NTP,0000,0000,0000,,计算机可能会有朝一日快到足以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}computers that may one day be fast enough
+Dialogue: 0,0:10:14.07,0:10:19.57,*Default,NTP,0000,0000,0000,,执行复杂计算以满足更加尖端的传送器的需求\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to carry out the complex calculations needed for a more sophisticated transporter.
+Dialogue: 0,0:10:21.41,0:10:25.04,*Default,NTP,0000,0000,0000,,我会立马使用传送器的 前提是我要确保\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I would use a transporter in an instant if I were assured
+Dialogue: 0,0:10:25.08,0:10:28.71,*Default,NTP,0000,0000,0000,,我可以回到家里与亲人团聚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that I could return home to my loved ones when I so desired.
+Dialogue: 0,0:10:28.75,0:10:31.42,*Default,NTP,0000,0000,0000,,我认为那将是个奇妙之旅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think it would be a fantastic trip.
+Dialogue: 0,0:10:37.97,0:10:41.84,*Default,NTP,0000,0000,0000,,在J J 艾布拉姆斯重启的《星际迷航》系列中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In J.J. Abrams' reboot of the "Star Trek" franchise,
+Dialogue: 0,0:10:41.89,0:10:46.01,*Default,NTP,0000,0000,0000,,坏人以全新的方式用作了科幻的主角\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the villain used a science fiction staple in a whole new way,
+Dialogue: 0,0:10:47.48,0:10:50.10,*Default,NTP,0000,0000,0000,,把黑洞作为武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using a black hole as a weapon.
+Dialogue: 0,0:10:51.85,0:10:54.23,*Default,NTP,0000,0000,0000,,我喜欢新的《星际迷航》电影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I love the new "Star Trek" movie.
+Dialogue: 0,0:10:54.27,0:10:56.32,*Default,NTP,0000,0000,0000,,我喜欢它们进入的方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I love the direction they've gone in,
+Dialogue: 0,0:10:56.36,0:11:01.03,*Default,NTP,0000,0000,0000,,但黑洞伤透了我的脑筋 就像物理学那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the black hole just broke the part of my brain that likes physics.
+Dialogue: 0,0:11:04.62,0:11:06.16,*Default,NTP,0000,0000,0000,,黑洞是太空中的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are regions in space
+Dialogue: 0,0:11:06.20,0:11:08.70,*Default,NTP,0000,0000,0000,,那里 物质被压缩得非常厉害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where matter has been compressed so much
+Dialogue: 0,0:11:08.75,0:11:12.42,*Default,NTP,0000,0000,0000,,局部引力异常强大 任何东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the local gravity is so strong that nothing,
+Dialogue: 0,0:11:12.46,0:11:14.13,*Default,NTP,0000,0000,0000,,甚至是光 都无法逃脱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not even light, can escape.
+Dialogue: 0,0:11:17.09,0:11:20.34,*Default,NTP,0000,0000,0000,,要是你可以将一个黑洞投入行星的核心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you could drop a black hole into the core of a planet 
+Dialogue: 0,0:11:20.38,0:11:22.47,*Default,NTP,0000,0000,0000,,完完了 它将会聚爆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gone. It would implode.
+Dialogue: 0,0:11:22.51,0:11:24.34,*Default,NTP,0000,0000,0000,,控制黑洞简直是不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Controlling a black hole is nigh-impossible,
+Dialogue: 0,0:11:24.39,0:11:27.47,*Default,NTP,0000,0000,0000,,因为要是你企图操控它 你也会完蛋的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because if you try to manipulate it you would also implode.
+Dialogue: 0,0:11:30.31,0:11:31.43,*Default,NTP,0000,0000,0000,,在《星际迷航》电影里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the "Star Trek" film,
+Dialogue: 0,0:11:31.48,0:11:34.02,*Default,NTP,0000,0000,0000,,一些外来的物质形式 它们叫做红物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some exotic form of matter that they called red matter
+Dialogue: 0,0:11:34.06,0:11:37.44,*Default,NTP,0000,0000,0000,,被用来启动黑洞形成在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was used to initiate the formation of a black hole
+Dialogue: 0,0:11:38.15,0:11:41.11,*Default,NTP,0000,0000,0000,,现存行星的核心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}inside the core of an existing planet.
+Dialogue: 0,0:11:41.15,0:11:45.48,*Default,NTP,0000,0000,0000,,你通常是不会利用一些红粘液\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You aren't generally going to collapse a planet into a black hole 
+Dialogue: 0,0:11:45.48,0:11:48.49,*Default,NTP,0000,0000,0000,,将行星塌缩成黑洞的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using any amount of red slime.
+Dialogue: 0,0:11:48.54,0:11:50.50,*Default,NTP,0000,0000,0000,,那就是不会发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's just not going to happen.
+Dialogue: 0,0:11:52.67,0:11:54.79,*Default,NTP,0000,0000,0000,,当然啦 在科学事实里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course, in science fact,
+Dialogue: 0,0:11:54.83,0:11:58.63,*Default,NTP,0000,0000,0000,,我们近来有自己对黑洞的担忧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we recently had our own concerns about black holes
+Dialogue: 0,0:11:58.67,0:12:02.13,*Default,NTP,0000,0000,0000,,可能性就在对知识的追求中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the possibility that in a quest for knowledge,
+Dialogue: 0,0:12:02.17,0:12:04.38,*Default,NTP,0000,0000,0000,,我们的星球会被抹去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our planet could be obliterated,
+Dialogue: 0,0:12:05.26,0:12:10.89,*Default,NTP,0000,0000,0000,,被吸进我们所创造的黑洞贪得无厌的肚子里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sucked into the insatiable maw of a black hole we created.
+Dialogue: 0,0:12:15.94,0:12:17.48,*Default,NTP,0000,0000,0000,,在科幻中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In science fiction,
+Dialogue: 0,0:12:17.52,0:12:20.19,*Default,NTP,0000,0000,0000,,诸如J J 艾布拉姆斯的首部《星际迷航》电影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}such as J.J. Abrams' first "Star Trek" movie,
+Dialogue: 0,0:12:21.65,0:12:24.61,*Default,NTP,0000,0000,0000,,行星中心创造出来的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a black hole created at the center of a planet
+Dialogue: 0,0:12:24.66,0:12:28.24,*Default,NTP,0000,0000,0000,,造成了屏幕上60亿火神人的死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}caused the on-screen deaths of 6 billion Vulcans.
+Dialogue: 0,0:12:31.87,0:12:34.91,*Default,NTP,0000,0000,0000,,该行星将成为黑洞质量的一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That planet would become part of the mass of the black hole.
+Dialogue: 0,0:12:34.96,0:12:36.12,*Default,NTP,0000,0000,0000,,它会被撕成碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be ripped to shreds
+Dialogue: 0,0:12:36.17,0:12:38.84,*Default,NTP,0000,0000,0000,,从我们的宇宙中永远消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and disappear from our universe forever.
+Dialogue: 0,0:12:38.88,0:12:41.59,*Default,NTP,0000,0000,0000,,所以它就是终极末日武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it is kind of the ultimate doomsday weapon.
+Dialogue: 0,0:12:44.22,0:12:45.76,*Default,NTP,0000,0000,0000,,在科学事实里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In science fact,
+Dialogue: 0,0:12:45.80,0:12:50.01,*Default,NTP,0000,0000,0000,,地球这里将亚原子粒子撞击在一起的打算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}plans to smash subatomic particles together here on Earth
+Dialogue: 0,0:12:50.06,0:12:51.97,*Default,NTP,0000,0000,0000,,引发了担心 如果粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}raised fears that if the particles
+Dialogue: 0,0:12:52.02,0:12:55.14,*Default,NTP,0000,0000,0000,,碰撞时速度够快的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were going fast enough when they collided,
+Dialogue: 0,0:12:55.19,0:12:59.52,*Default,NTP,0000,0000,0000,,它们就会形成黑洞 摧毁我们的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they could form a black hole, destroying our planet.
+Dialogue: 0,0:13:02.90,0:13:05.57,*Default,NTP,0000,0000,0000,,有在瑞士的欧洲核子研究中心建造的新工厂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The new facility that's been built by CERN in Switzerland,
+Dialogue: 0,0:13:05.61,0:13:07.61,*Default,NTP,0000,0000,0000,,大型强子对撞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Large Hadron Collider,
+Dialogue: 0,0:13:07.66,0:13:10.53,*Default,NTP,0000,0000,0000,,旨在探索物质的基本属性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is designed to explore the fundamental nature of matter,
+Dialogue: 0,0:13:10.58,0:13:15.21,*Default,NTP,0000,0000,0000,,将原子撞在一起 这样你就可以将它们打碎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to smash atoms together so that you can break them apart
+Dialogue: 0,0:13:15.25,0:13:17.92,*Default,NTP,0000,0000,0000,,来看看其基本构件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and see what the fundamental building blocks are.
+Dialogue: 0,0:13:19.92,0:13:23.21,*Default,NTP,0000,0000,0000,,比如 他们想找到所谓的希格斯玻色子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, they want to find the so-called Higgs boson,
+Dialogue: 0,0:13:23.26,0:13:27.05,*Default,NTP,0000,0000,0000,,它被认为是把质量赋予其它所有粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is thought to give mass to all other particles,
+Dialogue: 0,0:13:27.09,0:13:29.97,*Default,NTP,0000,0000,0000,,但它们也有可能产生迷你黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they also might produce miniature black holes.
+Dialogue: 0,0:13:31.97,0:13:33.89,*Default,NTP,0000,0000,0000,,地球上的黑洞？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes on Earth?
+Dialogue: 0,0:13:36.60,0:13:38.77,*Default,NTP,0000,0000,0000,,人类往往认为黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Humans tend to view black holes
+Dialogue: 0,0:13:38.81,0:13:41.90,*Default,NTP,0000,0000,0000,,是不停旋转 吞噬物质的大漩涡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as large swirling, matter-sucking vortexes
+Dialogue: 0,0:13:41.94,0:13:45.11,*Default,NTP,0000,0000,0000,,任何东西 甚至光都无法逃逸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from which nothing, not even light, can escape.
+Dialogue: 0,0:13:46.70,0:13:52.28,*Default,NTP,0000,0000,0000,,正在瑞士形成黑洞的想法敲响了警钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea of one forming in Switzerland set off alarm bells.
+Dialogue: 0,0:13:55.70,0:13:58.29,*Default,NTP,0000,0000,0000,,不过科学家向紧张的公众保证\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But scientists assured a nervous public
+Dialogue: 0,0:13:58.33,0:14:01.63,*Default,NTP,0000,0000,0000,,所形成的任何黑洞都是微观的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}any black holes formed would be microscopic.
+Dialogue: 0,0:14:03.13,0:14:07.22,*Default,NTP,0000,0000,0000,,小黑洞会瞬间蒸发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tiny little black holes would instantaneously evaporate,
+Dialogue: 0,0:14:07.26,0:14:11.05,*Default,NTP,0000,0000,0000,,然而仍然会存在极短的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}yet, nevertheless, would exist for a very, very short time.
+Dialogue: 0,0:14:12.81,0:14:15.39,*Default,NTP,0000,0000,0000,,那种情况的概率是很小的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Probability of that happening is small,
+Dialogue: 0,0:14:15.43,0:14:18.43,*Default,NTP,0000,0000,0000,,即使我们创造出了一个微观黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and even if we did create a microscopic black hole,
+Dialogue: 0,0:14:18.48,0:14:21.23,*Default,NTP,0000,0000,0000,,它也不是那种会钻入地球中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's not something that would sink to the center of the Earth
+Dialogue: 0,0:14:21.27,0:14:23.94,*Default,NTP,0000,0000,0000,,从内向外吞噬我们星球的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and start devouring our planet from the inside out.
+Dialogue: 0,0:14:25.99,0:14:27.99,*Default,NTP,0000,0000,0000,,黑洞是如何长大的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How does a black hole grow?
+Dialogue: 0,0:14:28.82,0:14:32.40,*Default,NTP,0000,0000,0000,,来看看纸棒在棉花糖机里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think of a paper stick going round and round 
+Dialogue: 0,0:14:32.40,0:14:34.03,*Default,NTP,0000,0000,0000,,绕圈的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the inside of a cotton candy machine.
+Dialogue: 0,0:14:35.66,0:14:40.42,*Default,NTP,0000,0000,0000,,随着纸棒采集材料 会长得越来越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the stick gathers material it grows bigger and bigger,
+Dialogue: 0,0:14:41.33,0:14:44.67,*Default,NTP,0000,0000,0000,,就像黑洞吞噬物质的过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just as a black hole does when it sucks in matter.
+Dialogue: 0,0:14:47.09,0:14:49.92,*Default,NTP,0000,0000,0000,,那么微观黑洞呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But a microscopic black hole?
+Dialogue: 0,0:14:49.97,0:14:56.01,*Default,NTP,0000,0000,0000,,首先 情况是它吸得极其缓慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first thing that happens is it eats the stick very, very slowly.
+Dialogue: 0,0:14:57.52,0:14:59.81,*Default,NTP,0000,0000,0000,,事实上 在一年的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, in the course of a year,
+Dialogue: 0,0:14:59.85,0:15:02.98,*Default,NTP,0000,0000,0000,,饥饿 愤怒的小微观黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a hungry, angry little microscopic black hole
+Dialogue: 0,0:15:03.02,0:15:05.19,*Default,NTP,0000,0000,0000,,可能就吃下100个质子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might eat a hundred protons.
+Dialogue: 0,0:15:06.98,0:15:11.40,*Default,NTP,0000,0000,0000,,由于吸管逐渐远离 由于漩涡的蒸发要快于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And with the stick going away, with the vortex evaporating faster
+Dialogue: 0,0:15:11.45,0:15:14.99,*Default,NTP,0000,0000,0000,,它吸进供成长的新物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than it can suck in new material to grow,
+Dialogue: 0,0:15:15.03,0:15:18.75,*Default,NTP,0000,0000,0000,,所以微观黑洞就只能消失了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the microscopic black hole simply disappears.
+Dialogue: 0,0:15:23.08,0:15:25.34,*Default,NTP,0000,0000,0000,,黑洞并非我们需要担心的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes aren't something that we need to worry about.
+Dialogue: 0,0:15:25.38,0:15:27.88,*Default,NTP,0000,0000,0000,,事实上 就有超大质量黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, there's a supermassive black hole
+Dialogue: 0,0:15:27.92,0:15:30.92,*Default,NTP,0000,0000,0000,,在我们银河系的中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sitting right in the center of our own Milky Way Galaxy,
+Dialogue: 0,0:15:30.97,0:15:32.47,*Default,NTP,0000,0000,0000,,埋头干自己的活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}minding its own business,
+Dialogue: 0,0:15:32.51,0:15:35.97,*Default,NTP,0000,0000,0000,,群星高兴地围绕着它周而复始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with stars happily orbiting it round after round after round.
+Dialogue: 0,0:15:37.89,0:15:40.85,*Default,NTP,0000,0000,0000,,你实际上可以看到黑洞周围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can actually see around the black holes
+Dialogue: 0,0:15:40.89,0:15:45.86,*Default,NTP,0000,0000,0000,,附近星系盘里的某些物质正遭破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in some of the nearby galaxies disks of material getting destroyed
+Dialogue: 0,0:15:45.90,0:15:49.78,*Default,NTP,0000,0000,0000,,在其旋入时 会变得非常炙热和致密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it spirals in, and it gets so hot and so dense
+Dialogue: 0,0:15:49.82,0:15:53.36,*Default,NTP,0000,0000,0000,,在其旋入时 会发出大量的光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it spirals in that it gives off massive amounts of light.
+Dialogue: 0,0:15:56.24,0:16:00.37,*Default,NTP,0000,0000,0000,,如果科幻作家想像坏蛋那样利用黑洞的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If sci-fi writers want to make use of black holes as the bad guy,
+Dialogue: 0,0:16:00.41,0:16:04.08,*Default,NTP,0000,0000,0000,,这里就有一个科学准确的方法来达到目的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is a scientifically accurate way to do so.
+Dialogue: 0,0:16:05.79,0:16:11.13,*Default,NTP,0000,0000,0000,,在我看来用得还不够的奇思妙想的装置之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the interesting plot devices that isn't used enough in my opinion
+Dialogue: 0,0:16:11.17,0:16:14.51,*Default,NTP,0000,0000,0000,,就是把黑洞作为太阳系的破坏装置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the black hole as destructor of the solar system.
+Dialogue: 0,0:16:15.72,0:16:20.60,*Default,NTP,0000,0000,0000,,会有一些小黑洞在外头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There could be some small black hole out there
+Dialogue: 0,0:16:20.64,0:16:23.77,*Default,NTP,0000,0000,0000,,在与我们太阳系碰撞的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on a collision course with our solar system,
+Dialogue: 0,0:16:23.81,0:16:25.23,*Default,NTP,0000,0000,0000,,我们看不到它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we wouldn't see it
+Dialogue: 0,0:16:25.27,0:16:27.40,*Default,NTP,0000,0000,0000,,直到它碰上奥尔特云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until it started to interact with the Oort cloud,
+Dialogue: 0,0:16:27.44,0:16:29.40,*Default,NTP,0000,0000,0000,,冰冻的云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the cloud of frozen stuff
+Dialogue: 0,0:16:29.44,0:16:31.90,*Default,NTP,0000,0000,0000,,来自外太阳系的彗星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that comets come from in the outer solar system.
+Dialogue: 0,0:16:31.94,0:16:35.41,*Default,NTP,0000,0000,0000,,它可能就在碰撞的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could just be on a collision course,
+Dialogue: 0,0:16:35.45,0:16:38.95,*Default,NTP,0000,0000,0000,,等待着摧毁我们整个太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}waiting to destroy our entire solar system,
+Dialogue: 0,0:16:38.99,0:16:42.95,*Default,NTP,0000,0000,0000,,直到地球末日来临的前几年才被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}invisible until a few years away from the Earth's doom.
+Dialogue: 0,0:16:46.63,0:16:51.71,*Default,NTP,0000,0000,0000,,我们或许首先注意到的是奥尔特云开始闪烁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first thing we'd probably notice is the Oort cloud starting to flicker
+Dialogue: 0,0:16:51.76,0:16:53.51,*Default,NTP,0000,0000,0000,,因为高能粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with high-energy particles
+Dialogue: 0,0:16:53.55,0:16:57.14,*Default,NTP,0000,0000,0000,,如小冰粒开始被吸进去了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as little bits of ice start to get sucked in.
+Dialogue: 0,0:16:57.18,0:16:58.64,*Default,NTP,0000,0000,0000,,接着我们会注意到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then we'd start to notice
+Dialogue: 0,0:16:58.68,0:17:02.35,*Default,NTP,0000,0000,0000,,外太阳系的轨道开始变形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the outer solar system's orbits getting deformed.
+Dialogue: 0,0:17:02.39,0:17:05.27,*Default,NTP,0000,0000,0000,,然后轨道变形的数量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then the amount of deformation of orbits
+Dialogue: 0,0:17:05.31,0:17:07.60,*Default,NTP,0000,0000,0000,,会波及到我们的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would increase as our own planet Earth,
+Dialogue: 0,0:17:07.65,0:17:11.86,*Default,NTP,0000,0000,0000,,这取决于黑洞出现在太阳的哪一边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}depending on which side of the Sun the black hole was coming in from,
+Dialogue: 0,0:17:11.90,0:17:14.07,*Default,NTP,0000,0000,0000,,不是开始拉向太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}either started to get pulled toward the Sun
+Dialogue: 0,0:17:14.11,0:17:15.45,*Default,NTP,0000,0000,0000,,就是拉出太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or pulled out from the Sun
+Dialogue: 0,0:17:15.49,0:17:19.49,*Default,NTP,0000,0000,0000,,使我们不是死于火就是死于冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}causing us to die either by fire or ice,
+Dialogue: 0,0:17:19.53,0:17:21.58,*Default,NTP,0000,0000,0000,,我个人并不认为哪个好些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and I personally don't think either is nice.
+Dialogue: 0,0:17:30.25,0:17:35.63,*Default,NTP,0000,0000,0000,,地球毁灭是科幻的流行主题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The destruction of the Earth is a popular theme in science fiction,
+Dialogue: 0,0:17:35.67,0:17:39.01,*Default,NTP,0000,0000,0000,,对地球生存的威胁有好多种形式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with threats to the planet's existence coming in many forms.
+Dialogue: 0,0:17:41.35,0:17:43.14,*Default,NTP,0000,0000,0000,,来看电影《绝世天劫》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Take the movie "Armageddon."
+Dialogue: 0,0:17:44.68,0:17:49.19,*Default,NTP,0000,0000,0000,,一颗德州般大的小行星正砸向我们地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An asteroid the size of Texas is bearing down on our planet.
+Dialogue: 0,0:17:50.48,0:17:52.15,*Default,NTP,0000,0000,0000,,在这部灾难片里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this disaster movie,
+Dialogue: 0,0:17:52.19,0:17:54.86,*Default,NTP,0000,0000,0000,,科学就成了真正的灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's the science which is the real disaster.
+Dialogue: 0,0:17:56.82,0:18:02.08,*Default,NTP,0000,0000,0000,,我想所有科学家都会认同 世界末日 噢 天哪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think any scientist will agree that, "Armageddon," oh, my gosh,
+Dialogue: 0,0:18:02.12,0:18:03.49,*Default,NTP,0000,0000,0000,,科学幻想只是名义而已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}science fiction in name only.
+Dialogue: 0,0:18:03.54,0:18:05.20,*Default,NTP,0000,0000,0000,,大量的虚构 不是大量的科学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lot of fiction, not a lot of science.
+Dialogue: 0,0:18:06.96,0:18:10.83,*Default,NTP,0000,0000,0000,,看他们所描绘的 这颗小行星行将撞上地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The way they depicted this asteroid that was going to impact the Earth
+Dialogue: 0,0:18:10.88,0:18:12.67,*Default,NTP,0000,0000,0000,,他们又如何来应对威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and how they dealt with that threat
+Dialogue: 0,0:18:12.71,0:18:17.30,*Default,NTP,0000,0000,0000,,通过发送航天飞机 利用核装置   \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by sending up a space shuttle and using nuclear devices was 
+Dialogue: 0,0:18:17.34,0:18:18.59,*Default,NTP,0000,0000,0000,,真是荒谬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was ridiculous.
+Dialogue: 0,0:18:20.01,0:18:22.93,*Default,NTP,0000,0000,0000,,由此带来的问题是现在 并不是一颗小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The problem with that is now, instead of having one asteroid
+Dialogue: 0,0:18:22.97,0:18:25.18,*Default,NTP,0000,0000,0000,,行将摧毁地球一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's going to destroy one part of the planet,
+Dialogue: 0,0:18:25.22,0:18:29.27,*Default,NTP,0000,0000,0000,,而是你有了成千上万甚至数百万个小行星碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have thousands and maybe millions of chunks of asteroid
+Dialogue: 0,0:18:29.31,0:18:32.23,*Default,NTP,0000,0000,0000,,行将毁灭地球的大部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are going to destroy large parts of the planet.
+Dialogue: 0,0:18:37.32,0:18:39.32,*Default,NTP,0000,0000,0000,,没错 炸毁小行星 - 实在很糟糕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah, blowing up asteroids-- really, really bad.
+Dialogue: 0,0:18:39.36,0:18:42.70,*Default,NTP,0000,0000,0000,,你要设法将它们移走 而不是将其炸毁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You want to move them somehow, not blow them up.
+Dialogue: 0,0:18:45.95,0:18:47.79,*Default,NTP,0000,0000,0000,,但要是地球命在旦夕了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if Earth bites the big one,
+Dialogue: 0,0:18:49.41,0:18:51.37,*Default,NTP,0000,0000,0000,,我们就需要有新地方来定居了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'll need a new place to live.
+Dialogue: 0,0:18:58.55,0:19:02.22,*Default,NTP,0000,0000,0000,,地球化的概念就是你有火星那样的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea of terraforming is you take a world like Mars
+Dialogue: 0,0:19:02.26,0:19:05.05,*Default,NTP,0000,0000,0000,,目前并没有能力维持生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that isn't currently capable of supporting life
+Dialogue: 0,0:19:05.10,0:19:07.60,*Default,NTP,0000,0000,0000,,行走于其地表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just walking around on its surface,
+Dialogue: 0,0:19:07.64,0:19:09.23,*Default,NTP,0000,0000,0000,,你改变其环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you alter the environment,
+Dialogue: 0,0:19:09.27,0:19:11.89,*Default,NTP,0000,0000,0000,,你某种程度改变行星本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you alter the planet itself in a way
+Dialogue: 0,0:19:11.94,0:19:15.69,*Default,NTP,0000,0000,0000,,使得人类能随便生存于其表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that allows human life to exist casually on the surface.
+Dialogue: 0,0:19:17.57,0:19:18.65,*Default,NTP,0000,0000,0000,,把火星变成一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Make Mars into a place
+Dialogue: 0,0:19:18.69,0:19:21.49,*Default,NTP,0000,0000,0000,,我们可以不用宇航服就能呼吸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where we can breathe without a spacesuit,
+Dialogue: 0,0:19:21.53,0:19:25.58,*Default,NTP,0000,0000,0000,,我们可以穿着舒适的夏装站在户外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where we can stand outside in our comfortable summer clothes
+Dialogue: 0,0:19:25.62,0:19:28.95,*Default,NTP,0000,0000,0000,,创造一个全新的世界供我们生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and create a whole new world for us to live on.
+Dialogue: 0,0:19:29.00,0:19:31.79,*Default,NTP,0000,0000,0000,,这将是个惊人之举\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This would be a pretty phenomenal thing to do,
+Dialogue: 0,0:19:31.83,0:19:34.67,*Default,NTP,0000,0000,0000,,但是他们认为 那并非做不到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but, they think, not impossible.
+Dialogue: 0,0:19:37.63,0:19:42.43,*Default,NTP,0000,0000,0000,,我们太阳系里的新行星被人类称为家园的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A new planet in our solar system for humans to call home,
+Dialogue: 0,0:19:42.47,0:19:45.97,*Default,NTP,0000,0000,0000,,只是以防地球整个报废\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just in case the Earth gets all used up.
+Dialogue: 0,0:19:47.85,0:19:50.98,*Default,NTP,0000,0000,0000,,要是我们整个物种的生存要依靠它时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If our survival as a species depended on it,
+Dialogue: 0,0:19:51.02,0:19:56.06,*Default,NTP,0000,0000,0000,,如何才能将红色星球变蓝呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just what would it take to turn the Red Planet blue?
+Dialogue: 0,0:20:00.28,0:20:04.28,*Default,NTP,0000,0000,0000,,火星是一个红色 贫瘠的不毛之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars is a red, barren, desolate world.
+Dialogue: 0,0:20:06.33,0:20:08.87,*Default,NTP,0000,0000,0000,,冰冻的原野 陡峭的悬崖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Freezing plains and sheer cliffs,
+Dialogue: 0,0:20:10.00,0:20:13.50,*Default,NTP,0000,0000,0000,,冻土层深埋地下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a permafrost layer embedded in the surface,
+Dialogue: 0,0:20:13.54,0:20:17.42,*Default,NTP,0000,0000,0000,,巨大的火山 干涸的河床\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}massive volcanoes and dry river beds
+Dialogue: 0,0:20:17.46,0:20:19.88,*Default,NTP,0000,0000,0000,,暗示了该星球湿润的过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that hint at the planet's watery past.
+Dialogue: 0,0:20:21.22,0:20:24.01,*Default,NTP,0000,0000,0000,,因为火星非常类似于地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because Mars is so similar to Earth,
+Dialogue: 0,0:20:24.05,0:20:25.64,*Default,NTP,0000,0000,0000,,地球化火星的想法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the idea of terraforming Mars
+Dialogue: 0,0:20:25.68,0:20:28.05,*Default,NTP,0000,0000,0000,,几十年来在科幻中已暂露头角\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has come up in science fiction for decades.
+Dialogue: 0,0:20:29.51,0:20:32.81,*Default,NTP,0000,0000,0000,,不过要让火星再次生息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But to make Mars live and breathe again,
+Dialogue: 0,0:20:32.85,0:20:37.10,*Default,NTP,0000,0000,0000,,这个冰凉的荒原将要经历大规模的全球变暖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this frozen wasteland will have to undergo a massive global warming.
+Dialogue: 0,0:20:39.40,0:20:42.32,*Default,NTP,0000,0000,0000,,地球化火星的一个关键要素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A key ingredient for terraforming Mars
+Dialogue: 0,0:20:42.36,0:20:46.49,*Default,NTP,0000,0000,0000,,就是把所有的固体二氧化碳 干冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is to get all the solid carbon dioxide, the dry ice,
+Dialogue: 0,0:20:46.53,0:20:52.50,*Default,NTP,0000,0000,0000,,取出火星土壤 进入大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}out of Mars' soil and into the atmosphere.
+Dialogue: 0,0:20:52.54,0:20:54.54,*Default,NTP,0000,0000,0000,,那会产生较高的气压\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would create higher pressures.
+Dialogue: 0,0:20:54.58,0:20:57.54,*Default,NTP,0000,0000,0000,,也会产生某种温室效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would also produce some greenhouse warming,
+Dialogue: 0,0:20:57.58,0:21:00.04,*Default,NTP,0000,0000,0000,,升高温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}raising temperatures.
+Dialogue: 0,0:21:00.09,0:21:01.75,*Default,NTP,0000,0000,0000,,那要走过很长的路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would go a long way
+Dialogue: 0,0:21:01.80,0:21:04.38,*Default,NTP,0000,0000,0000,,才能使其更加适合于生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}toward making it more sustainable for life.
+Dialogue: 0,0:21:05.88,0:21:07.47,*Default,NTP,0000,0000,0000,,火星的极冠之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the polar caps of Mars
+Dialogue: 0,0:21:07.51,0:21:10.47,*Default,NTP,0000,0000,0000,,几乎是由冰冻的二氧化碳构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is comprised mostly of frozen carbon dioxide.
+Dialogue: 0,0:21:10.51,0:21:12.77,*Default,NTP,0000,0000,0000,,假如我们能够设法加热该极冠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we could somehow heat up that polar cap
+Dialogue: 0,0:21:12.81,0:21:14.68,*Default,NTP,0000,0000,0000,,释放出二氧化碳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and release that carbon dioxide
+Dialogue: 0,0:21:14.73,0:21:16.85,*Default,NTP,0000,0000,0000,,将它放回大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and put it back into the atmosphere,
+Dialogue: 0,0:21:16.90,0:21:21.32,*Default,NTP,0000,0000,0000,,那么你就开启了增厚火星大气层的进程了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then you would start a process of thickening the atmosphere of Mars.
+Dialogue: 0,0:21:21.36,0:21:23.90,*Default,NTP,0000,0000,0000,,那将是朝着地球化的第一步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would be the first step toward terraforming it.
+Dialogue: 0,0:21:26.24,0:21:28.41,*Default,NTP,0000,0000,0000,,方法之一就是安放一大堆卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One way would be to put up a bunch of satellites
+Dialogue: 0,0:21:28.45,0:21:33.16,*Default,NTP,0000,0000,0000,,收集太阳能并聚焦到火星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would collect the Sun's energy and focus them in on Mars.
+Dialogue: 0,0:21:33.20,0:21:35.62,*Default,NTP,0000,0000,0000,,那基本上会被地表所吸收\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would basically be absorbed by the surface,
+Dialogue: 0,0:21:35.66,0:21:39.13,*Default,NTP,0000,0000,0000,,会蒸发那些冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would go into evaporating those ices,
+Dialogue: 0,0:21:39.17,0:21:40.33,*Default,NTP,0000,0000,0000,,将它们释放出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would free them up
+Dialogue: 0,0:21:40.38,0:21:42.92,*Default,NTP,0000,0000,0000,,那样它们就会形成大气层了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that they form atmospheric gases.
+Dialogue: 0,0:21:44.92,0:21:47.34,*Default,NTP,0000,0000,0000,,人们还可以将大量黑色材料放在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One could also put a bunch of dark material
+Dialogue: 0,0:21:47.38,0:21:50.97,*Default,NTP,0000,0000,0000,,火星的极地冰冠上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the frozen polar ice caps of Mars.
+Dialogue: 0,0:21:51.01,0:21:54.81,*Default,NTP,0000,0000,0000,,那种黑色材料将会吸收而不是反射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That dark material would absorb rather than reflect
+Dialogue: 0,0:21:54.85,0:21:56.98,*Default,NTP,0000,0000,0000,,较多的太阳辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more of the Sun's radiation,
+Dialogue: 0,0:21:57.02,0:22:00.98,*Default,NTP,0000,0000,0000,,这样就使得那材料及下面的冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thus allowing that material and the ices underneath
+Dialogue: 0,0:22:01.02,0:22:03.40,*Default,NTP,0000,0000,0000,,得到加热并蒸发那些冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to heat up and evaporate those ices.
+Dialogue: 0,0:22:05.44,0:22:08.15,*Default,NTP,0000,0000,0000,,在为人类居住而对火星地球化时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When terraforming Mars for human habitation,
+Dialogue: 0,0:22:09.32,0:22:12.78,*Default,NTP,0000,0000,0000,,有一个关键要素是你不能忽视的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's one key ingredient you can't overlook.
+Dialogue: 0,0:22:14.12,0:22:16.25,*Default,NTP,0000,0000,0000,,地球有一个较强的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth has a fairly strong magnetic field.
+Dialogue: 0,0:22:16.29,0:22:19.42,*Default,NTP,0000,0000,0000,,磁场保护我们抵御太阳风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That magnetic field protects us from solar wind.
+Dialogue: 0,0:22:19.46,0:22:21.88,*Default,NTP,0000,0000,0000,,太阳流出的带电粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Charged particles streaming out from the Sun
+Dialogue: 0,0:22:21.92,0:22:24.59,*Default,NTP,0000,0000,0000,,被地球的磁场绕开了地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are shunted around Earth by Earth's magnetic field.
+Dialogue: 0,0:22:25.17,0:22:26.92,*Default,NTP,0000,0000,0000,,火星并没有那东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars doesn't have that.
+Dialogue: 0,0:22:27.97,0:22:30.09,*Default,NTP,0000,0000,0000,,任何试图居住其表面的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Anybody who tried to live on the surface
+Dialogue: 0,0:22:30.14,0:22:32.85,*Default,NTP,0000,0000,0000,,都会让自己的身体 自己的个头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have their body, their mass,
+Dialogue: 0,0:22:32.89,0:22:36.14,*Default,NTP,0000,0000,0000,,持续遭遇到太阳辐射的攻击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}constantly impinged upon by radiation from the Sun.
+Dialogue: 0,0:22:37.60,0:22:41.69,*Default,NTP,0000,0000,0000,,火星度假之旅依然是科幻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Taking a vacation trip to Mars is still science fiction.
+Dialogue: 0,0:22:43.23,0:22:46.78,*Default,NTP,0000,0000,0000,,不过人类一直在拉近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But mankind continues to draw closer to the day
+Dialogue: 0,0:22:46.82,0:22:50.15,*Default,NTP,0000,0000,0000,,地球飞船能翱翔我们太阳系的日子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when ships from Earth will zip around our solar system.
+Dialogue: 0,0:22:58.37,0:23:02.08,*Default,NTP,0000,0000,0000,,在我们自己的太阳系里逛逛相对较为容易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's relatively easy to get around within our own solar system.
+Dialogue: 0,0:23:02.13,0:23:05.04,*Default,NTP,0000,0000,0000,,40年前 我们造访了月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}40 years ago, we traveled to the Moon.
+Dialogue: 0,0:23:05.09,0:23:09.47,*Default,NTP,0000,0000,0000,,我们已派送航天器去我们太阳系里所有的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've sent spacecraft to all of the other planets in our solar system.
+Dialogue: 0,0:23:09.51,0:23:12.68,*Default,NTP,0000,0000,0000,,距离以数百万或者数十亿来计\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The distances are measured in millions or billions of miles.
+Dialogue: 0,0:23:13.93,0:23:16.18,*Default,NTP,0000,0000,0000,,那是本地的太空旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's local space travel.
+Dialogue: 0,0:23:17.64,0:23:21.02,*Default,NTP,0000,0000,0000,,星际旅行将有极大的不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Interstellar travel is something much different.
+Dialogue: 0,0:23:22.48,0:23:25.44,*Default,NTP,0000,0000,0000,,物理学给我们的一个非常现实的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the very real problems that physics gives us
+Dialogue: 0,0:23:25.48,0:23:27.86,*Default,NTP,0000,0000,0000,,就是光速的限制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the limitation of the speed of light.
+Dialogue: 0,0:23:29.03,0:23:30.95,*Default,NTP,0000,0000,0000,,说起超光速旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it comes to faster-than-light travel,
+Dialogue: 0,0:23:30.99,0:23:34.24,*Default,NTP,0000,0000,0000,,传统的物理学家一直就是一个声音 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}traditionally physicists have been speaking with one voice--
+Dialogue: 0,0:23:34.28,0:23:37.16,*Default,NTP,0000,0000,0000,,没辙 阿门\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"No way. So say we all."
+Dialogue: 0,0:23:38.33,0:23:42.00,*Default,NTP,0000,0000,0000,,但为何光速是宇宙速度的极限呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But why is the speed of light a universal speed limit?
+Dialogue: 0,0:23:43.29,0:23:48.67,*Default,NTP,0000,0000,0000,,那是我们的观众想问《宇宙》节目的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what one of our viewers wanted to ask "The Universe,"
+Dialogue: 0,0:23:48.71,0:23:50.71,*Default,NTP,0000,0000,0000,,所以他们写给我们的网站 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so they wrote to us on our website 
+Dialogue: 0,0:23:51.71,0:23:55.71,*Default,NTP,0000,0000,0000,,为什么物体的速度不能超过光速呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why can't something travel faster than the speed of light?
+Dialogue: 0,0:23:56.10,0:23:58.22,*Default,NTP,0000,0000,0000,,是啊 有好多人问过我这个问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, a lot of people ask me that question.
+Dialogue: 0,0:23:58.27,0:23:59.68,*Default,NTP,0000,0000,0000,,那是个幸运儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a favorite.
+Dialogue: 0,0:23:59.72,0:24:03.89,*Default,NTP,0000,0000,0000,,你就是无法从这里到那里 用快于光的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You just can't get from here to there at a speed faster than that of light
+Dialogue: 0,0:24:03.94,0:24:05.90,*Default,NTP,0000,0000,0000,,除非你没有质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unless you're massless.
+Dialogue: 0,0:24:05.94,0:24:09.28,*Default,NTP,0000,0000,0000,,我们必须搞明白如何去处理的问题之一就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the problems we have to figure out how to deal with is,
+Dialogue: 0,0:24:09.32,0:24:13.53,*Default,NTP,0000,0000,0000,,我们跑得越快 基本上我们的质量会随之增加\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we go faster, essentially our mass increases,
+Dialogue: 0,0:24:13.57,0:24:19.41,*Default,NTP,0000,0000,0000,,这就需要越来越多的能量来提高我们的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it takes more and more energy to increase our velocity.
+Dialogue: 0,0:24:19.45,0:24:22.25,*Default,NTP,0000,0000,0000,,唯有光 光子没有质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only light, photons with no mass,
+Dialogue: 0,0:24:22.29,0:24:24.04,*Default,NTP,0000,0000,0000,,能够达到光的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can go at the speed of light,
+Dialogue: 0,0:24:24.08,0:24:26.67,*Default,NTP,0000,0000,0000,,但任何具有质量的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but anything that has mass
+Dialogue: 0,0:24:26.71,0:24:28.71,*Default,NTP,0000,0000,0000,,都需要无穷的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would require an infinite amount of energy
+Dialogue: 0,0:24:28.75,0:24:30.55,*Default,NTP,0000,0000,0000,,才能够达到那么快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to get going that fast.
+Dialogue: 0,0:24:30.59,0:24:32.38,*Default,NTP,0000,0000,0000,,那是无法达到的 是不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can't be done. It's impossible.
+Dialogue: 0,0:24:35.14,0:24:37.64,*Default,NTP,0000,0000,0000,,在科幻中 这不是个问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In science fiction, this isn't a problem.
+Dialogue: 0,0:24:38.76,0:24:42.77,*Default,NTP,0000,0000,0000,,就发明一些灵巧的未来科技来对付它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just invent some handy bit of futuristic tech to deal with it.
+Dialogue: 0,0:24:44.44,0:24:46.44,*Default,NTP,0000,0000,0000,,锂晶体派啥用场？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What are dilithium crystals for?
+Dialogue: 0,0:24:46.48,0:24:48.56,*Default,NTP,0000,0000,0000,,它们不能做什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What aren't they for?
+Dialogue: 0,0:24:48.61,0:24:50.94,*Default,NTP,0000,0000,0000,,锂晶体能让曲速引擎跑起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dilithium crystals make the warp engine go.
+Dialogue: 0,0:24:52.57,0:24:53.78,*Default,NTP,0000,0000,0000,,那就是我们对此要说的一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's all we need to say about it.
+Dialogue: 0,0:24:55.95,0:24:57.07,*Default,NTP,0000,0000,0000,,有各种名称\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are various names
+Dialogue: 0,0:24:57.12,0:25:00.16,*Default,NTP,0000,0000,0000,,给予了那种种科技 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that have been given to these kinds of technologies:
+Dialogue: 0,0:25:00.20,0:25:01.99,*Default,NTP,0000,0000,0000,,超空间引擎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hyperdrive,
+Dialogue: 0,0:25:02.04,0:25:03.75,*Default,NTP,0000,0000,0000,,超光速推进器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}superluminal drive,
+Dialogue: 0,0:25:03.79,0:25:04.79,*Default,NTP,0000,0000,0000,,星际之门\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stargates.
+Dialogue: 0,0:25:07.79,0:25:10.54,*Default,NTP,0000,0000,0000,,越来越多的科学家在成长过程中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}More and more, scientists who've grown up
+Dialogue: 0,0:25:10.59,0:25:14.09,*Default,NTP,0000,0000,0000,,眼看着自己的英雄在星系里跑来跑去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}watching their heroes whiz around the galaxy
+Dialogue: 0,0:25:14.13,0:25:18.97,*Default,NTP,0000,0000,0000,,似乎不愿意断然否定超光速旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seem unwilling to flatly dismiss the possibility of faster-than-light travel.
+Dialogue: 0,0:25:20.81,0:25:22.81,*Default,NTP,0000,0000,0000,,有位科学家 名叫米给尔 阿库别瑞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A scientist named Miguel Alcubierre
+Dialogue: 0,0:25:22.85,0:25:25.39,*Default,NTP,0000,0000,0000,,提出了一个用于曲速引擎的理论概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}came up with a theoretical notion for a warp drive
+Dialogue: 0,0:25:25.44,0:25:29.27,*Default,NTP,0000,0000,0000,,它需要扩张你飞船身后的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would involve expanding space behind your starship
+Dialogue: 0,0:25:29.31,0:25:32.15,*Default,NTP,0000,0000,0000,,压缩你飞船前面的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and contracting it in front of your starship.
+Dialogue: 0,0:25:32.19,0:25:35.69,*Default,NTP,0000,0000,0000,,物理学里 爱因斯坦或别人的理论里没有提及\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there was nothing in physics, in Einstein's theory or anybody else's,
+Dialogue: 0,0:25:35.74,0:25:37.99,*Default,NTP,0000,0000,0000,,称空间本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that says that space itself
+Dialogue: 0,0:25:38.03,0:25:41.95,*Default,NTP,0000,0000,0000,,不能扩展或压缩会快于光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cannot stretch or be squeezed faster than the speed of light.
+Dialogue: 0,0:25:41.99,0:25:45.16,*Default,NTP,0000,0000,0000,,事实上 我们认为那在宇宙诞生时确实发生过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, we think that's exactly what happened when the universe was born.
+Dialogue: 0,0:25:46.92,0:25:50.42,*Default,NTP,0000,0000,0000,,空间的扩展在大爆炸后的百万分之一秒里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Space expanded much, much faster than the speed of light
+Dialogue: 0,0:25:50.46,0:25:52.80,*Default,NTP,0000,0000,0000,,要比光速快许多许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the microseconds after the Big Bang,
+Dialogue: 0,0:25:52.84,0:25:55.97,*Default,NTP,0000,0000,0000,,一直延伸到我们今天所见到的我们周围的宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leading to the universe that we see around us today.
+Dialogue: 0,0:25:56.01,0:25:57.17,*Default,NTP,0000,0000,0000,,因此 如果你有足够的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, if you had enough energy,
+Dialogue: 0,0:25:57.22,0:26:02.18,*Default,NTP,0000,0000,0000,,你就可以以百倍光速来扩展你身后的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you could conceivably expand space behind you at a hundred times the speed of light,
+Dialogue: 0,0:26:02.22,0:26:05.35,*Default,NTP,0000,0000,0000,,以百倍光速来压缩你前面的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and squeeze space in front of you at a hundred times the speed of light,
+Dialogue: 0,0:26:05.39,0:26:08.85,*Default,NTP,0000,0000,0000,,实际上就是以百倍光速旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, in effect, be traveling at a hundred times the speed of light,
+Dialogue: 0,0:26:08.90,0:26:11.23,*Default,NTP,0000,0000,0000,,虽然是在你自己的小空间气泡里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even though in your own little bubble of space,
+Dialogue: 0,0:26:11.27,0:26:13.61,*Default,NTP,0000,0000,0000,,不过你永远都不会超过光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you're never traveling faster than the speed of light.
+Dialogue: 0,0:26:17.15,0:26:20.70,*Default,NTP,0000,0000,0000,,现实生活中的宇航员想迅速抵达某处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a real-life astronaut wants to get somewhere in a hurry,
+Dialogue: 0,0:26:20.74,0:26:22.87,*Default,NTP,0000,0000,0000,,选项是相当有限的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the options are rather limited.
+Dialogue: 0,0:26:24.66,0:26:29.21,*Default,NTP,0000,0000,0000,,如今的大多数航天器都是用液体燃料和固体燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most spacecraft today use liquid fuel and solid fuel.
+Dialogue: 0,0:26:30.54,0:26:32.84,*Default,NTP,0000,0000,0000,,航天飞机所使用的固体燃料助推器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The space shuttle uses solid fuel boosters
+Dialogue: 0,0:26:32.88,0:26:35.13,*Default,NTP,0000,0000,0000,,就好象是一个大冲天炮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are kind of like a big bottle rocket.
+Dialogue: 0,0:26:35.17,0:26:37.51,*Default,NTP,0000,0000,0000,,一旦你将它点燃 它就起飞了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once you light them off, they're going.
+Dialogue: 0,0:26:40.68,0:26:43.22,*Default,NTP,0000,0000,0000,,同时 你还有化学火箭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the other hand, you also have chemical rockets.
+Dialogue: 0,0:26:43.26,0:26:46.93,*Default,NTP,0000,0000,0000,,很简单的类型就是液态氢和液态氧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A very simple type would be liquid hydrogen and liquid oxygen.
+Dialogue: 0,0:26:46.98,0:26:49.98,*Default,NTP,0000,0000,0000,,你只要将它们放在一起 - 巨大的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You just run them together-- huge amount of energy.
+Dialogue: 0,0:26:52.48,0:26:55.48,*Default,NTP,0000,0000,0000,,副产品是水和大量的热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The byproduct's water and a whole lot of heat.
+Dialogue: 0,0:26:59.74,0:27:02.87,*Default,NTP,0000,0000,0000,,现在新一代神太空探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now the latest generation of deep-space probes
+Dialogue: 0,0:27:02.91,0:27:06.04,*Default,NTP,0000,0000,0000,,依赖全新的科技\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}relies on entirely new technology,
+Dialogue: 0,0:27:06.08,0:27:09.46,*Default,NTP,0000,0000,0000,,直接出自科幻经典小说里 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lifted straight from the pages of classic sci-fi stories--
+Dialogue: 0,0:27:10.75,0:27:12.33,*Default,NTP,0000,0000,0000,,离子驱动器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ion drives.
+Dialogue: 0,0:27:13.75,0:27:17.67,*Default,NTP,0000,0000,0000,,就是你基本上将原子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is where you basically take atoms,
+Dialogue: 0,0:27:17.71,0:27:19.55,*Default,NTP,0000,0000,0000,,剥离一些电子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}strip off a few electrons,
+Dialogue: 0,0:27:19.59,0:27:21.30,*Default,NTP,0000,0000,0000,,最后形成带电粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you end up with a charged particle.
+Dialogue: 0,0:27:21.34,0:27:24.05,*Default,NTP,0000,0000,0000,,用磁场来加速它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Accelerate it with a magnetic field
+Dialogue: 0,0:27:24.10,0:27:29.10,*Default,NTP,0000,0000,0000,,将这些高速粒子送出航天器的尾部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and send these high-velocity particles out one end of the spacecraft.
+Dialogue: 0,0:27:30.60,0:27:33.06,*Default,NTP,0000,0000,0000,,其与化学引擎的区别\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The difference between that and chemical engines
+Dialogue: 0,0:27:33.10,0:27:37.02,*Default,NTP,0000,0000,0000,,在于有了离子引擎 你就有了很低很低的推力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that with an ion engine you have very, very low thrust.
+Dialogue: 0,0:27:37.07,0:27:39.28,*Default,NTP,0000,0000,0000,,产生同样推力的离子引擎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An ion engine generates the same amount of thrust
+Dialogue: 0,0:27:39.32,0:27:41.28,*Default,NTP,0000,0000,0000,,就这张纸的重量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the weight of this piece of paper,
+Dialogue: 0,0:27:41.32,0:27:43.53,*Default,NTP,0000,0000,0000,,但它一次可以用上几个月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it does so for months at a time.
+Dialogue: 0,0:27:43.57,0:27:46.58,*Default,NTP,0000,0000,0000,,由于恒定 虽然很小 但经过数月的加速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And with constant, albeit small, acceleration for months,
+Dialogue: 0,0:27:46.62,0:27:48.62,*Default,NTP,0000,0000,0000,,你就可以得到相当高的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can get up to some pretty high speeds.
+Dialogue: 0,0:27:51.92,0:27:55.42,*Default,NTP,0000,0000,0000,,航天局的黎明号航天器正利用离子动力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Dawn spacecraft is using ion power
+Dialogue: 0,0:27:55.46,0:27:58.63,*Default,NTP,0000,0000,0000,,逼近邂逅灶神星和谷神星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to close in on an encounter with Vesta and Ceres,
+Dialogue: 0,0:27:59.80,0:28:03.59,*Default,NTP,0000,0000,0000,,那两颗我们太阳系的小行星带里最大的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}two of the largest objects in our solar system's asteroid belt.
+Dialogue: 0,0:28:06.97,0:28:10.43,*Default,NTP,0000,0000,0000,,离子驱动器如此强大的原因之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the things that makes ion drives so powerful
+Dialogue: 0,0:28:10.48,0:28:14.02,*Default,NTP,0000,0000,0000,,就在于它们具有对燃料的最有效利用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is they have the most effective use of fuel,
+Dialogue: 0,0:28:14.06,0:28:16.40,*Default,NTP,0000,0000,0000,,在太空中 不存在摩擦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and in space, there's no friction.
+Dialogue: 0,0:28:16.44,0:28:18.52,*Default,NTP,0000,0000,0000,,没东西让你慢下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's nothing to slow you down.
+Dialogue: 0,0:28:19.32,0:28:23.11,*Default,NTP,0000,0000,0000,,因此用来加速这些离子的所有能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so all the energy used to accelerate these ions
+Dialogue: 0,0:28:23.15,0:28:25.20,*Default,NTP,0000,0000,0000,,都能够变成前进的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can go into forward velocity,
+Dialogue: 0,0:28:25.24,0:28:28.28,*Default,NTP,0000,0000,0000,,你可以持之以恒 假以时日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you can just keep, over huge periods of time,
+Dialogue: 0,0:28:28.33,0:28:31.50,*Default,NTP,0000,0000,0000,,加速 加速 再加速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}accelerating and accelerating and accelerating.
+Dialogue: 0,0:28:33.54,0:28:38.38,*Default,NTP,0000,0000,0000,,传统的化学火箭燃烧迅速 喧闹 炙热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Traditional chemical rockets burn fast, loud, and hot.
+Dialogue: 0,0:28:39.96,0:28:42.34,*Default,NTP,0000,0000,0000,,离子推进系统 另一方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ion propulsion systems, on the other hand,
+Dialogue: 0,0:28:42.38,0:28:44.43,*Default,NTP,0000,0000,0000,,用于长途推进上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are in it for the long haul.
+Dialogue: 0,0:28:45.89,0:28:48.30,*Default,NTP,0000,0000,0000,,因而离子驱动器不光是科幻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So ion drives are both science fiction
+Dialogue: 0,0:28:48.35,0:28:50.22,*Default,NTP,0000,0000,0000,,如今也成了科学事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, today, science fact.
+Dialogue: 0,0:28:59.73,0:29:02.90,*Default,NTP,0000,0000,0000,,离开我们太阳系的太空探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Between space probes headed out of our solar system
+Dialogue: 0,0:29:02.94,0:29:07.16,*Default,NTP,0000,0000,0000,,以及电视和无线电波中 有些已经离开了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and TV and radio waves, which have already left,
+Dialogue: 0,0:29:07.20,0:29:10.33,*Default,NTP,0000,0000,0000,,人类宣告了自己在宇宙间的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}humans have announced their presence to the universe.
+Dialogue: 0,0:29:12.87,0:29:14.83,*Default,NTP,0000,0000,0000,,我们已经送出了信使\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have sent out missions
+Dialogue: 0,0:29:14.87,0:29:18.50,*Default,NTP,0000,0000,0000,,携带的唱片包含了笑声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with records containing the sounds of laughter
+Dialogue: 0,0:29:18.54,0:29:19.67,*Default,NTP,0000,0000,0000,,心跳声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the beating of the heart,
+Dialogue: 0,0:29:19.71,0:29:23.84,*Default,NTP,0000,0000,0000,,男性和女性的解剖图\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with anatomical diagrams of men and women.
+Dialogue: 0,0:29:23.88,0:29:28.09,*Default,NTP,0000,0000,0000,,这些是物理使节 我们将它们送往星际\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are physical ambassadors that we've sent out among the stars.
+Dialogue: 0,0:29:29.89,0:29:32.06,*Default,NTP,0000,0000,0000,,卡尔 萨根N多年前问过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Carl Sagan asked the question many years ago,
+Dialogue: 0,0:29:32.10,0:29:33.52,*Default,NTP,0000,0000,0000,,谁代表地球发话？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Who speaks for Earth?"
+Dialogue: 0,0:29:33.56,0:29:35.98,*Default,NTP,0000,0000,0000,,好 最后 我认为我们都代表地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, ultimately, I guess we all speak for Earth,
+Dialogue: 0,0:29:36.02,0:29:38.60,*Default,NTP,0000,0000,0000,,我希望我们更多一点谨慎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and I wish we'd been a little more circumspect
+Dialogue: 0,0:29:38.65,0:29:41.52,*Default,NTP,0000,0000,0000,,更多一点思考 把各种信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a little more thoughtful about the kinds of messages
+Dialogue: 0,0:29:41.57,0:29:45.69,*Default,NTP,0000,0000,0000,,和想法用我们的电台和电视节目送入太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and ideas we're sending out into space with our radio and television programs.
+Dialogue: 0,0:29:48.11,0:29:51.91,*Default,NTP,0000,0000,0000,,迄今为止 我们的广播没有回音\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So far, our broadcasts have gone unanswered.
+Dialogue: 0,0:29:53.79,0:29:55.54,*Default,NTP,0000,0000,0000,,但要是有所变化呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what if that changes?
+Dialogue: 0,0:29:55.58,0:30:01.21,*Default,NTP,0000,0000,0000,,科幻充满了外星人来到我们中间所发生的故事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science fiction is filled with tales of what happens when aliens arrive among us.
+Dialogue: 0,0:30:02.92,0:30:05.92,*Default,NTP,0000,0000,0000,,我认为我们会发现生命确实存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think we're going to find life out there definitely.
+Dialogue: 0,0:30:07.88,0:30:11.93,*Default,NTP,0000,0000,0000,,如果是那样 我们有没有任何机遇呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if that happens, do we stand any chance?
+Dialogue: 0,0:30:11.97,0:30:15.39,*Default,NTP,0000,0000,0000,,抑或我们注定要被彻底抹去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or are we destined to be wiped from existence,
+Dialogue: 0,0:30:15.43,0:30:18.94,*Default,NTP,0000,0000,0000,,被先进的外星智慧所消灭呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exterminated by an advanced alien intellect?
+Dialogue: 0,0:30:26.78,0:30:28.78,*Default,NTP,0000,0000,0000,,它们说它们虔诚地走来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They say they come in peace.
+Dialogue: 0,0:30:29.78,0:30:32.91,*Default,NTP,0000,0000,0000,,它们打碎了我们的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They leave our planet in pieces.
+Dialogue: 0,0:30:36.00,0:30:38.87,*Default,NTP,0000,0000,0000,,打最早的科幻小说开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since the earliest science fiction stories,
+Dialogue: 0,0:30:38.92,0:30:42.50,*Default,NTP,0000,0000,0000,,某些主题重复着引人注目的频率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some themes have recurred with remarkable frequency,
+Dialogue: 0,0:30:42.54,0:30:45.00,*Default,NTP,0000,0000,0000,,或许都莫过于这个话题 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps none so much as this one--
+Dialogue: 0,0:30:46.05,0:30:47.92,*Default,NTP,0000,0000,0000,,外来入侵\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}alien invasions.
+Dialogue: 0,0:30:49.93,0:30:54.43,*Default,NTP,0000,0000,0000,,外星人成群抵达地球大肆破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alien hordes arriving at the Earth and wreaking havoc,
+Dialogue: 0,0:30:54.47,0:30:56.10,*Default,NTP,0000,0000,0000,,只是出自戏剧的视角\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just from a dramatic point of view,
+Dialogue: 0,0:30:56.14,0:30:58.52,*Default,NTP,0000,0000,0000,,那本身就比友善的外星人前来解决\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's inherently more interesting than friendly aliens
+Dialogue: 0,0:30:58.56,0:31:00.31,*Default,NTP,0000,0000,0000,,我们所有的问题来的有趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming and solving all of our problems for us.
+Dialogue: 0,0:31:02.02,0:31:05.02,*Default,NTP,0000,0000,0000,,据信这始于H G 威尔斯 和《星际战争》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think it started with H.G. Wells and "The War of the Worlds,"
+Dialogue: 0,0:31:05.07,0:31:10.11,*Default,NTP,0000,0000,0000,,他写那本小说是作为对当时的英国殖民主义的批判\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and he wrote that novel as a kind of criticism of British colonialism at the time.
+Dialogue: 0,0:31:12.49,0:31:14.12,*Default,NTP,0000,0000,0000,,电影《第九区》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The movie "District 9"
+Dialogue: 0,0:31:14.16,0:31:19.00,*Default,NTP,0000,0000,0000,,一睹人类天生有多猜疑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}takes a look at how humanity is inherently suspicious
+Dialogue: 0,0:31:19.04,0:31:21.75,*Default,NTP,0000,0000,0000,,天生在许多方面 种族主义有多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and inherently, in many ways, racist
+Dialogue: 0,0:31:21.79,0:31:24.29,*Default,NTP,0000,0000,0000,,防范我们尚不了解的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}against the things that we don't understand.
+Dialogue: 0,0:31:24.34,0:31:28.26,*Default,NTP,0000,0000,0000,,外星人 我们对其的不了解是否\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And aliens, well, what do we not understand
+Dialogue: 0,0:31:28.30,0:31:31.63,*Default,NTP,0000,0000,0000,,就如同我们不了解其他世界的生命那样呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as much as we don't understand life on other worlds?
+Dialogue: 0,0:31:33.93,0:31:36.85,*Default,NTP,0000,0000,0000,,天文学家长期以来一直试图确定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers have long been trying to determine
+Dialogue: 0,0:31:36.89,0:31:40.98,*Default,NTP,0000,0000,0000,,是否有合理科学的方法来回答这个古老的问题 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if there's a plausible, scientific way to answer the age-old question,
+Dialogue: 0,0:31:41.02,0:31:42.81,*Default,NTP,0000,0000,0000,,我们孤独吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Are we alone?"
+Dialogue: 0,0:31:44.27,0:31:47.69,*Default,NTP,0000,0000,0000,,智慧生命在宇宙间常见吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How common is intelligent life in the universe?
+Dialogue: 0,0:31:49.19,0:31:51.15,*Default,NTP,0000,0000,0000,,费米悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Fermi Paradox,
+Dialogue: 0,0:31:51.20,0:31:55.20,*Default,NTP,0000,0000,0000,,取名来自首次提出问题的物理学家恩里科 费米\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}named for a question first posed by physicist Enrico Fermi,
+Dialogue: 0,0:31:55.24,0:31:59.29,*Default,NTP,0000,0000,0000,,试图阐明关于外星生命的难题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}attempts to illuminate a conundrum about extraterrestrial life.
+Dialogue: 0,0:32:03.67,0:32:05.17,*Default,NTP,0000,0000,0000,,如果外星生命在宇宙间并不罕见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If intelligent life in the universe is common,
+Dialogue: 0,0:32:05.21,0:32:06.21,*Default,NTP,0000,0000,0000,,那么它们又在哪里呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then where are they?
+Dialogue: 0,0:32:06.25,0:32:10.26,*Default,NTP,0000,0000,0000,,好 如果它们不在这 就有可能不在任何地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, if they're not here, they're probably not anywhere.
+Dialogue: 0,0:32:10.30,0:32:12.67,*Default,NTP,0000,0000,0000,,所以我想要么我们是独一无二的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So I think either we're unique,
+Dialogue: 0,0:32:12.72,0:32:15.89,*Default,NTP,0000,0000,0000,,这本身就有点让人惊讶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is in and of itself kind of astonishing,
+Dialogue: 0,0:32:15.93,0:32:18.85,*Default,NTP,0000,0000,0000,,要么就是我们这样的智慧生命并不是那么普遍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or intelligent life like us is just not that common.
+Dialogue: 0,0:32:20.77,0:32:22.35,*Default,NTP,0000,0000,0000,,好 问题可以倒过来问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, the question can be reversed.
+Dialogue: 0,0:32:22.39,0:32:23.94,*Default,NTP,0000,0000,0000,,为何它们还没有发现我们？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why haven't they detected us?
+Dialogue: 0,0:32:23.98,0:32:25.85,*Default,NTP,0000,0000,0000,,我们对那已相当了解了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we understand that fairly well.
+Dialogue: 0,0:32:25.90,0:32:28.77,*Default,NTP,0000,0000,0000,,把我们的存在广播给\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What would broadcast our existence
+Dialogue: 0,0:32:28.82,0:32:31.07,*Default,NTP,0000,0000,0000,,宇宙其他地方的是我们的无线电发射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the rest of the universe is our radio emissions.
+Dialogue: 0,0:32:31.11,0:32:32.19,*Default,NTP,0000,0000,0000,,我们自上世纪20年代开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we've really been broadcasting
+Dialogue: 0,0:32:32.24,0:32:35.53,*Default,NTP,0000,0000,0000,,实际上一直在以适当的量进行广播\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in any reasonable amount since about the 1920s.
+Dialogue: 0,0:32:35.57,0:32:37.41,*Default,NTP,0000,0000,0000,,因此那意味着我们的发射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that means that our emissions,
+Dialogue: 0,0:32:37.45,0:32:39.79,*Default,NTP,0000,0000,0000,,以光速向外发送\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which radiate outwards at the speed of light,
+Dialogue: 0,0:32:39.83,0:32:41.70,*Default,NTP,0000,0000,0000,,已经走过了约90光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have reached about 90 light-years.
+Dialogue: 0,0:32:41.75,0:32:44.41,*Default,NTP,0000,0000,0000,,这样我们就有了90光年半径的球形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we have a sphere of 90 light-years of radius
+Dialogue: 0,0:32:44.46,0:32:47.79,*Default,NTP,0000,0000,0000,,其中的行星 恒星以及文明就会发现我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of planets and stars, civilizations that could detect us.
+Dialogue: 0,0:32:47.84,0:32:48.84,*Default,NTP,0000,0000,0000,,那并不很大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's not very big.
+Dialogue: 0,0:32:48.88,0:32:52.30,*Default,NTP,0000,0000,0000,,我们的星系从一头到另一头是10万光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our galaxy is 100,000 light-years from end to end.
+Dialogue: 0,0:32:52.34,0:32:55.93,*Default,NTP,0000,0000,0000,,因此要是有成百数千个文明存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if there were hundreds, thousands of civilizations out there,
+Dialogue: 0,0:32:55.97,0:32:59.22,*Default,NTP,0000,0000,0000,,也许就只有一两个能够在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it might be that only one or two have been able to detect us
+Dialogue: 0,0:32:59.26,0:33:00.51,*Default,NTP,0000,0000,0000,,我们不停的广播过程中发现我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the time we've been broadcasting.
+Dialogue: 0,0:33:00.56,0:33:04.69,*Default,NTP,0000,0000,0000,,它们或许还没来得及回复信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they may not have had time to send a hello message back.
+Dialogue: 0,0:33:07.15,0:33:10.32,*Default,NTP,0000,0000,0000,,另一个潜在的问题 - 信号丢失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another possible problem-- loss of signal.
+Dialogue: 0,0:33:11.65,0:33:17.41,*Default,NTP,0000,0000,0000,,电波送出地球后 其强度会衰减\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As radio waves spread out from Earth, they fall off in intensity,
+Dialogue: 0,0:33:17.45,0:33:20.41,*Default,NTP,0000,0000,0000,,最终融合进宇宙背景之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eventually blending in to the cosmic background.
+Dialogue: 0,0:33:23.20,0:33:26.96,*Default,NTP,0000,0000,0000,,如果另一个星球上的人要听到我们的信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If someone on another planet is going to hear our transmissions,
+Dialogue: 0,0:33:27.00,0:33:29.29,*Default,NTP,0000,0000,0000,,它们可能必须要相对靠近些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they might have to be relatively close.
+Dialogue: 0,0:33:32.05,0:33:37.30,*Default,NTP,0000,0000,0000,,那么会有多少文明会调到我们的电台节目和重播呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So how many civilizations might be tuning in to our radio shows and reruns?
+Dialogue: 0,0:33:37.34,0:33:39.43,*Default,NTP,0000,0000,0000,,那是天文学家弗兰克 德雷克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's a question astronomer Frank Drake
+Dialogue: 0,0:33:39.47,0:33:41.51,*Default,NTP,0000,0000,0000,,试图解答的著名的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}famously tried to answer.
+Dialogue: 0,0:33:43.02,0:33:45.77,*Default,NTP,0000,0000,0000,,约50年前 弗兰克 德雷克 射电天文学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Around 50 years ago, Frank Drake, a radio astronomer,
+Dialogue: 0,0:33:45.81,0:33:48.98,*Default,NTP,0000,0000,0000,,一直在考虑宇宙生命的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was considering the possibility for life in the universe,
+Dialogue: 0,0:33:49.02,0:33:51.11,*Default,NTP,0000,0000,0000,,他推出了首个搜寻地外文明计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and he launched the first SETI program,
+Dialogue: 0,0:33:51.15,0:33:53.65,*Default,NTP,0000,0000,0000,,第一次尝试利用射电望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the first attempt to use a radio telescope
+Dialogue: 0,0:33:53.69,0:33:56.19,*Default,NTP,0000,0000,0000,,来监听来自其他星球的信号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to listen for signals from other stars.
+Dialogue: 0,0:33:56.24,0:33:57.32,*Default,NTP,0000,0000,0000,,德雷克一直在想\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So Drake was wondering,
+Dialogue: 0,0:33:57.36,0:33:59.16,*Default,NTP,0000,0000,0000,,我成功的机会有多少？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}well, what are my chances of success here?
+Dialogue: 0,0:33:59.20,0:34:02.03,*Default,NTP,0000,0000,0000,,我们星系里会有多少文明的存在？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How many civilizations might there be in our galaxy?
+Dialogue: 0,0:34:02.08,0:34:03.70,*Default,NTP,0000,0000,0000,,和其他优秀的天文学家一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, like any good astronomer,
+Dialogue: 0,0:34:03.75,0:34:05.62,*Default,NTP,0000,0000,0000,,他做了一点粗略的估算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}he did a little back-of-the-envelope calculation,
+Dialogue: 0,0:34:05.66,0:34:08.37,*Default,NTP,0000,0000,0000,,他建了一个等式 基本上是说 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and he created an equation that basically said,
+Dialogue: 0,0:34:08.42,0:34:09.46,*Default,NTP,0000,0000,0000,,好 我们来计算一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all right, here's how we calculate
+Dialogue: 0,0:34:09.50,0:34:11.92,*Default,NTP,0000,0000,0000,,我们星系里的文明数量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the number of civilizations in our galaxy.
+Dialogue: 0,0:34:11.96,0:34:13.96,*Default,NTP,0000,0000,0000,,我们星系里会有多少恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How many stars are there in our galaxy
+Dialogue: 0,0:34:14.01,0:34:17.05,*Default,NTP,0000,0000,0000,,能够具有类似地球的行星呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are capable of having planets that are like the Earth?
+Dialogue: 0,0:34:17.09,0:34:20.14,*Default,NTP,0000,0000,0000,,那些恒星中有多少确实具有地球这样的行星呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How many of those stars do have planets like Earth?
+Dialogue: 0,0:34:20.18,0:34:21.76,*Default,NTP,0000,0000,0000,,在那些类地行星中又有多少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On how many of those Earth-like planets
+Dialogue: 0,0:34:21.80,0:34:24.10,*Default,NTP,0000,0000,0000,,确实有生命的发展呢？ 等等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}did life actually develop? And so on.
+Dialogue: 0,0:34:25.31,0:34:28.48,*Default,NTP,0000,0000,0000,,如果你是个乐观主义者 你就会发现有好多好多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're an optimist, you find that there are lots and lots
+Dialogue: 0,0:34:28.52,0:34:31.06,*Default,NTP,0000,0000,0000,,智能 结社的文明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of intelligent, communicating civilizations
+Dialogue: 0,0:34:31.11,0:34:33.19,*Default,NTP,0000,0000,0000,,存在于我们的银河系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in our Milky Way Galaxy.
+Dialogue: 0,0:34:33.23,0:34:36.65,*Default,NTP,0000,0000,0000,,如果你是个悲观主义者 那么 你很容易发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're a pessimist, however, you can easily find
+Dialogue: 0,0:34:36.69,0:34:41.32,*Default,NTP,0000,0000,0000,,一百万个我们这样的星系里头只有一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that only one in a million galaxies like ours
+Dialogue: 0,0:34:41.37,0:34:43.49,*Default,NTP,0000,0000,0000,,有可能存在智能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might have intelligence.
+Dialogue: 0,0:34:43.53,0:34:44.87,*Default,NTP,0000,0000,0000,,因此要是你是悲观主义者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, if you're a pessimist,
+Dialogue: 0,0:34:44.91,0:34:48.96,*Default,NTP,0000,0000,0000,,我们就可能是我们银河系里的独生子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we may well be the only ones in our Milky Way Galaxy.
+Dialogue: 0,0:34:51.79,0:34:55.38,*Default,NTP,0000,0000,0000,,如果一个庞大的邪恶外星力量冲我们而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a massive and malevolent alien force heads our way,
+Dialogue: 0,0:34:55.42,0:34:58.38,*Default,NTP,0000,0000,0000,,地球的最佳防御是什么呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what is Earth's best defense?
+Dialogue: 0,0:35:00.30,0:35:04.85,*Default,NTP,0000,0000,0000,,拯救我们的情况之一就是太空旅行并不快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the things that saves us is space travel is slow.
+Dialogue: 0,0:35:04.89,0:35:06.72,*Default,NTP,0000,0000,0000,,我们会获得警告 它们来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll have warning that they're coming.
+Dialogue: 0,0:35:06.77,0:35:10.89,*Default,NTP,0000,0000,0000,,我们会看到它们 或许会有好多天的警告\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll see them with probably many days' warning
+Dialogue: 0,0:35:10.94,0:35:13.23,*Default,NTP,0000,0000,0000,,因为它们穿过太阳系时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as they pass through the solar system
+Dialogue: 0,0:35:13.27,0:35:16.61,*Default,NTP,0000,0000,0000,,看上去就像又一个巨大的小行星或彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}looking like another giant asteroid or comet
+Dialogue: 0,0:35:16.65,0:35:19.53,*Default,NTP,0000,0000,0000,,从外太阳系闯入\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming in from the outer solar system.
+Dialogue: 0,0:35:19.57,0:35:22.61,*Default,NTP,0000,0000,0000,,随着它们的到来 问题是 它们要干嘛？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As they get here, the question is, what do they do?
+Dialogue: 0,0:35:22.66,0:35:25.70,*Default,NTP,0000,0000,0000,,难道它们真的就是《独立日》里的外星人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are they really the "Independence Day" aliens
+Dialogue: 0,0:35:25.74,0:35:28.04,*Default,NTP,0000,0000,0000,,进来占领我们的大都市\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that come in and sit over our major cities
+Dialogue: 0,0:35:28.08,0:35:30.75,*Default,NTP,0000,0000,0000,,威胁所有的生命 如我们预料的那样？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and threaten all life as we know it?
+Dialogue: 0,0:35:31.46,0:35:33.29,*Default,NTP,0000,0000,0000,,还是它们只是登陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or do they simply land
+Dialogue: 0,0:35:33.33,0:35:36.21,*Default,NTP,0000,0000,0000,,向我们派发书籍和药物呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and offer us their books and their medicine?
+Dialogue: 0,0:35:42.76,0:35:46.85,*Default,NTP,0000,0000,0000,,要是那成为一场街头战争的话 或许拯救地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it becomes a street fight, perhaps Earth will be saved
+Dialogue: 0,0:35:46.89,0:35:49.43,*Default,NTP,0000,0000,0000,,要用上受科幻启发的武器了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using weapons inspired by science fiction.
+Dialogue: 0,0:35:52.90,0:35:55.98,*Default,NTP,0000,0000,0000,,从卢克 天行者优雅的光剑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From Luke Skywalker's elegant lightsaber
+Dialogue: 0,0:35:56.02,0:36:00.15,*Default,NTP,0000,0000,0000,,到上千场周末下午场电影里用到的激光枪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the laser guns used in a thousand Saturday matinees,
+Dialogue: 0,0:36:00.19,0:36:03.41,*Default,NTP,0000,0000,0000,,科幻中并不缺手持武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's no shortage of handheld weapons in sci-fi.
+Dialogue: 0,0:36:06.28,0:36:10.83,*Default,NTP,0000,0000,0000,,多年来科幻里的武器已经有了骇人的装置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Weaponry in science fiction for years has had some sort of stun setting.
+Dialogue: 0,0:36:10.87,0:36:12.50,*Default,NTP,0000,0000,0000,,《星际迷航》里的光枪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The phasers in "Star Trek,"
+Dialogue: 0,0:36:12.54,0:36:14.58,*Default,NTP,0000,0000,0000,,《空间 1999》里的钉枪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the staple guns in "Space: 1999,"
+Dialogue: 0,0:36:14.63,0:36:17.54,*Default,NTP,0000,0000,0000,,都会致人昏迷不醒 但不会让人丧命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will render somebody unconscious, but not kill them.
+Dialogue: 0,0:36:17.59,0:36:20.13,*Default,NTP,0000,0000,0000,,如今的科技在那种东西上正变得越来越好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Technology today is getting better at that sort of thing.
+Dialogue: 0,0:36:22.30,0:36:24.43,*Default,NTP,0000,0000,0000,,受科幻的启发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Inspired by science fiction,
+Dialogue: 0,0:36:24.47,0:36:26.43,*Default,NTP,0000,0000,0000,,武器研究一直在开发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}weapons researchers continue to develop
+Dialogue: 0,0:36:26.47,0:36:29.31,*Default,NTP,0000,0000,0000,,种种手段去影响人的行为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a variety of ways to affect someone's behavior
+Dialogue: 0,0:36:29.35,0:36:32.68,*Default,NTP,0000,0000,0000,,无需使用粗糙的子弹去洞穿他们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without blowing a hole through them using a crude projectile.
+Dialogue: 0,0:36:35.15,0:36:38.65,*Default,NTP,0000,0000,0000,,美军已研发出主动拒止系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The U.S. military have developed the Active Denial System,
+Dialogue: 0,0:36:38.69,0:36:41.78,*Default,NTP,0000,0000,0000,,系统旨在激发再见效果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a system designed to elicit the goodbye effect.
+Dialogue: 0,0:36:41.82,0:36:44.45,*Default,NTP,0000,0000,0000,,那个就是大型微波发射机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What this is, is a huge microwave transmitter.
+Dialogue: 0,0:36:44.49,0:36:47.53,*Default,NTP,0000,0000,0000,,你发射它来驱散人群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You shoot this to disperse crowds.
+Dialogue: 0,0:36:47.58,0:36:49.41,*Default,NTP,0000,0000,0000,,人们确实会感到皮肤上火烧火燎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People literally feel like their skin's on fire
+Dialogue: 0,0:36:49.45,0:36:50.83,*Default,NTP,0000,0000,0000,,他们就退避三舍了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they say goodbye.
+Dialogue: 0,0:36:52.66,0:36:56.79,*Default,NTP,0000,0000,0000,,其它军事项目利用电力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Other military projects harness the power of electricity,
+Dialogue: 0,0:36:56.83,0:37:01.00,*Default,NTP,0000,0000,0000,,基于泰瑟枪技术来发射非致命的震慑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}building on Taser technology to deliver a nonlethal jolt.
+Dialogue: 0,0:37:03.55,0:37:06.43,*Default,NTP,0000,0000,0000,,一个简单的现象 诸如电流 当然啦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A simple phenomenon, such as electricity, of course,
+Dialogue: 0,0:37:06.47,0:37:08.05,*Default,NTP,0000,0000,0000,,是科学事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is science fact,
+Dialogue: 0,0:37:09.81,0:37:13.64,*Default,NTP,0000,0000,0000,,已经引出了科幻中的许多想法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one that has sparked many ideas in science fiction,
+Dialogue: 0,0:37:13.68,0:37:15.56,*Default,NTP,0000,0000,0000,,包括提供能量给\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}including providing the power
+Dialogue: 0,0:37:15.60,0:37:18.77,*Default,NTP,0000,0000,0000,,史上最著名的时间机器之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for one of the most famous time machines ever built.
+Dialogue: 0,0:37:19.94,0:37:23.49,*Default,NTP,0000,0000,0000,,让你的1 21千兆瓦待命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Have your 1.21 jigowatts standing by,
+Dialogue: 0,0:37:23.53,0:37:25.49,*Default,NTP,0000,0000,0000,,点燃通量电容器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fire up the flux capacitor,
+Dialogue: 0,0:37:25.53,0:37:28.87,*Default,NTP,0000,0000,0000,,准备来一趟时光倒流之旅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and get ready to take a trip back in time.
+Dialogue: 0,0:37:37.88,0:37:39.92,*Default,NTP,0000,0000,0000,,时光旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Time travel.
+Dialogue: 0,0:37:39.96,0:37:41.84,*Default,NTP,0000,0000,0000,,有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is possible,
+Dialogue: 0,0:37:41.88,0:37:46.17,*Default,NTP,0000,0000,0000,,根据20世纪两位最伟大的科学大脑 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}according to two of the 20th century's greatest scientific minds--
+Dialogue: 0,0:37:46.22,0:37:49.18,*Default,NTP,0000,0000,0000,,阿尔伯特 爱因斯坦 他著名的方程式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Albert Einstein, whose famous equations
+Dialogue: 0,0:37:49.22,0:37:53.01,*Default,NTP,0000,0000,0000,,一点都不排除时光旅行的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}did nothing to preclude the possibility of time travel,
+Dialogue: 0,0:37:53.06,0:37:58.02,*Default,NTP,0000,0000,0000,,还有埃米特 布朗博士 通量电容器的发明者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Dr. Emmett Brown, inventor of the flux capacitor.
+Dialogue: 0,0:37:58.06,0:37:59.19,*Default,NTP,0000,0000,0000,,根本区别在哪？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The big difference?
+Dialogue: 0,0:38:01.07,0:38:03.94,*Default,NTP,0000,0000,0000,,爱因斯坦的时间机器只能单向行驶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Einstein's time machine only goes in one direction
+Dialogue: 0,0:38:05.15,0:38:07.82,*Default,NTP,0000,0000,0000,,依据来自大量的科学论证\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and is supported by mounds of scientific evidence.
+Dialogue: 0,0:38:09.32,0:38:11.62,*Default,NTP,0000,0000,0000,,我们知道根据狭义相对论和广义相对论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know from special relativity and general relativity
+Dialogue: 0,0:38:11.66,0:38:13.74,*Default,NTP,0000,0000,0000,,时光旅行是完全有可能的 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that time travel is absolutely possible--
+Dialogue: 0,0:38:13.79,0:38:16.50,*Default,NTP,0000,0000,0000,,时光旅行到未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}time travel to the future.
+Dialogue: 0,0:38:16.54,0:38:18.62,*Default,NTP,0000,0000,0000,,如果你前往邻近的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you traveled to a nearby star
+Dialogue: 0,0:38:18.67,0:38:20.50,*Default,NTP,0000,0000,0000,,速度达到光速的较大比例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a sizeable fraction of the speed of light
+Dialogue: 0,0:38:20.54,0:38:22.92,*Default,NTP,0000,0000,0000,,回来时 你会发现地球上的人们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and came back, you would find that people on Earth
+Dialogue: 0,0:38:22.96,0:38:24.80,*Default,NTP,0000,0000,0000,,比你老很多了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have aged a lot more than you have.
+Dialogue: 0,0:38:24.84,0:38:28.93,*Default,NTP,0000,0000,0000,,相对论实际上允许往前的时光旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Relativity actually allows time travel forward.
+Dialogue: 0,0:38:28.97,0:38:31.22,*Default,NTP,0000,0000,0000,,《巴克 罗杰斯在25世纪》演的没错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Buck Rogers in the 25th Century" got it right,
+Dialogue: 0,0:38:31.26,0:38:32.60,*Default,NTP,0000,0000,0000,,《仙女座》演的没错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Andromeda" got it right.
+Dialogue: 0,0:38:35.81,0:38:37.10,*Default,NTP,0000,0000,0000,,布朗博士的时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Doc Brown's time machine
+Dialogue: 0,0:38:37.14,0:38:41.23,*Default,NTP,0000,0000,0000,,在时间上能同时往前往后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}goes both forward and backward in time,
+Dialogue: 0,0:38:41.27,0:38:45.19,*Default,NTP,0000,0000,0000,,根据物理定律 那是行不通的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and according to the laws of physics, that's a no-no.
+Dialogue: 0,0:38:46.07,0:38:47.11,*Default,NTP,0000,0000,0000,,是这样吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or is it?
+Dialogue: 0,0:38:48.36,0:38:49.49,*Default,NTP,0000,0000,0000,,穿梭回过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Traveling into the past
+Dialogue: 0,0:38:49.53,0:38:53.58,*Default,NTP,0000,0000,0000,,似乎并不违背任何物理学基本定律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}doesn't seem to violate any fundamental laws of physics.
+Dialogue: 0,0:38:53.62,0:38:55.37,*Default,NTP,0000,0000,0000,,事实上 有一些方案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And, in fact, there are some schemes
+Dialogue: 0,0:38:55.41,0:38:57.08,*Default,NTP,0000,0000,0000,,物理学家所讨论到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that physicists have talked about
+Dialogue: 0,0:38:57.12,0:39:00.96,*Default,NTP,0000,0000,0000,,似乎提供了一个旅行回过去的机会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that seem to provide an opportunity to travel into the past.
+Dialogue: 0,0:39:01.96,0:39:05.13,*Default,NTP,0000,0000,0000,,以某种方式围绕着黑洞穿行似乎能够做到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Traveling in a certain way around a black hole might do it.
+Dialogue: 0,0:39:06.59,0:39:09.76,*Default,NTP,0000,0000,0000,,虫洞无疑能转换成时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wormholes could conceivably be converted into time machines.
+Dialogue: 0,0:39:09.80,0:39:12.34,*Default,NTP,0000,0000,0000,,如果你拿虫洞的一头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you take one end of a wormhole,
+Dialogue: 0,0:39:12.39,0:39:15.10,*Default,NTP,0000,0000,0000,,将其加速到接近光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}accelerate it to close to the speed of light,
+Dialogue: 0,0:39:15.14,0:39:17.31,*Default,NTP,0000,0000,0000,,将其送出数百光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}send it out many hundreds of light-years
+Dialogue: 0,0:39:17.35,0:39:19.93,*Default,NTP,0000,0000,0000,,让其回到你所在位置的附近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and bring it back to close to where you started,
+Dialogue: 0,0:39:19.98,0:39:21.52,*Default,NTP,0000,0000,0000,,那好 虫洞的那一头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}well, that end of the wormhole
+Dialogue: 0,0:39:21.56,0:39:24.44,*Default,NTP,0000,0000,0000,,就长期存在于另外一头的过去中了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exists permanently in the past at the other end.
+Dialogue: 0,0:39:24.48,0:39:27.94,*Default,NTP,0000,0000,0000,,因此 有可能 通过穿越虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, presumably, by flying through the wormhole,
+Dialogue: 0,0:39:27.99,0:39:29.99,*Default,NTP,0000,0000,0000,,你就可以旅行回过去了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you could travel into the past.
+Dialogue: 0,0:39:31.16,0:39:35.28,*Default,NTP,0000,0000,0000,,听起来简单 但科学家称没有已知的方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sounds simple, but scientists say there's no known way
+Dialogue: 0,0:39:35.33,0:39:39.33,*Default,NTP,0000,0000,0000,,稳定能量场来打造这样一个虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to stabilize the energy field that would make up such a wormhole.
+Dialogue: 0,0:39:41.54,0:39:42.54,*Default,NTP,0000,0000,0000,,另一个问题 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And another problem--
+Dialogue: 0,0:39:44.17,0:39:48.46,*Default,NTP,0000,0000,0000,,旅行回过去 你有造成悖论的风险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}travel to the past and you risk causing a paradox.
+Dialogue: 0,0:39:50.05,0:39:52.47,*Default,NTP,0000,0000,0000,,时间旅行中的祖父悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The grandfather paradox in time travel
+Dialogue: 0,0:39:52.51,0:39:56.05,*Default,NTP,0000,0000,0000,,就是你回到过去杀死你的祖父\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that you go back in time and kill your grandfather
+Dialogue: 0,0:39:56.10,0:39:58.10,*Default,NTP,0000,0000,0000,,此时你的母亲或父亲尚未出生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before your mother or father was born,
+Dialogue: 0,0:39:58.14,0:40:02.31,*Default,NTP,0000,0000,0000,,那么这就意味着你就不可能来到人世了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this then means that you couldn't have possibly come into existence.
+Dialogue: 0,0:40:02.35,0:40:04.65,*Default,NTP,0000,0000,0000,,那么你又怎么能够回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But then how could you have gone back in time
+Dialogue: 0,0:40:04.69,0:40:06.19,*Default,NTP,0000,0000,0000,,干掉你的祖父呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and killed your grandfather?
+Dialogue: 0,0:40:06.23,0:40:08.02,*Default,NTP,0000,0000,0000,,那是个逻辑悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a logical paradox.
+Dialogue: 0,0:40:09.99,0:40:10.99,*Default,NTP,0000,0000,0000,,有人曾经说过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Other people have said,
+Dialogue: 0,0:40:11.03,0:40:12.99,*Default,NTP,0000,0000,0000,,啊 要知道 没准有办法绕开这个问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}well, you know, maybe there's a way around this problem.
+Dialogue: 0,0:40:13.03,0:40:16.20,*Default,NTP,0000,0000,0000,,量子力学有一个方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is a way of looking at quantum mechanics
+Dialogue: 0,0:40:16.24,0:40:19.20,*Default,NTP,0000,0000,0000,,叫做量子力学的多重世界解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called the Many-Worlds Interpretation of Quantum Mechanics.
+Dialogue: 0,0:40:20.50,0:40:24.21,*Default,NTP,0000,0000,0000,,量子力学的许多解释之一称\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the many interpretations of quantum mechanics says
+Dialogue: 0,0:40:24.25,0:40:28.00,*Default,NTP,0000,0000,0000,,每做出一个决定 宇宙就分裂了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that every time a decision is made, the universe splits.
+Dialogue: 0,0:40:28.05,0:40:31.26,*Default,NTP,0000,0000,0000,,每当我发送一个光子经过裂缝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every time I send a photon of light through a slit
+Dialogue: 0,0:40:31.30,0:40:33.17,*Default,NTP,0000,0000,0000,,它就向一个方向跑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it goes in one direction,
+Dialogue: 0,0:40:33.22,0:40:36.14,*Default,NTP,0000,0000,0000,,而在另外一个宇宙里 它跑向另一个方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's another universe where it goes in another direction.
+Dialogue: 0,0:40:36.18,0:40:38.89,*Default,NTP,0000,0000,0000,,我在这个宇宙里泼出我的咖啡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every time I spill my coffee in this universe,
+Dialogue: 0,0:40:38.93,0:40:42.35,*Default,NTP,0000,0000,0000,,而另一个宇宙里 我的咖啡却安然无恙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's another universe where my coffee remains safe.
+Dialogue: 0,0:40:42.39,0:40:46.77,*Default,NTP,0000,0000,0000,,根据这个量子力学的多重世界解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}According to this Many-Worlds Interpretation of Quantum Mechanics,
+Dialogue: 0,0:40:46.81,0:40:51.19,*Default,NTP,0000,0000,0000,,一切可能出现的东西 都已经发生在了某处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}anything that could've been, has happened somewhere.
+Dialogue: 0,0:40:51.24,0:40:55.45,*Default,NTP,0000,0000,0000,,一切都可能 都会存在于多重宇宙的某个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And anything that can be, will be, somewhere in the multiverse.
+Dialogue: 0,0:40:58.16,0:41:00.87,*Default,NTP,0000,0000,0000,,因此确实有无数个宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so there are literally countless universes
+Dialogue: 0,0:41:00.91,0:41:02.70,*Default,NTP,0000,0000,0000,,不停地分裂出我们的宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}splitting off from our own
+Dialogue: 0,0:41:02.75,0:41:05.71,*Default,NTP,0000,0000,0000,,分分秒秒 时时刻刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every second of every day of every year.
+Dialogue: 0,0:41:05.75,0:41:07.08,*Default,NTP,0000,0000,0000,,如果是那样的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if that's the case,
+Dialogue: 0,0:41:07.13,0:41:10.42,*Default,NTP,0000,0000,0000,,人们就会认为旅行回到了过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then people argue that, well, traveling back in time,
+Dialogue: 0,0:41:11.59,0:41:13.59,*Default,NTP,0000,0000,0000,,你可以回去杀死你的祖父\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you could go back and kill your grandfather,
+Dialogue: 0,0:41:13.63,0:41:15.47,*Default,NTP,0000,0000,0000,,你还活着 哈 怎么样？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you'd still be alive. Well, how is that?
+Dialogue: 0,0:41:15.51,0:41:18.18,*Default,NTP,0000,0000,0000,,啊 你只是来到了另一个宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, you just traveled into a different universe.
+Dialogue: 0,0:41:20.89,0:41:25.10,*Default,NTP,0000,0000,0000,,如果时间旅行时可能的 有一件事是肯定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If time travel is possible, one thing is certain.
+Dialogue: 0,0:41:25.14,0:41:27.23,*Default,NTP,0000,0000,0000,,它需要大量的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's going to take a lot of energy.
+Dialogue: 0,0:41:29.44,0:41:32.94,*Default,NTP,0000,0000,0000,,在《回到未来》中 博士进行时间旅行时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In "Back to the Future," Doc achieves time travel
+Dialogue: 0,0:41:32.99,0:41:37.57,*Default,NTP,0000,0000,0000,,他将他的德劳瑞恩汽车的动力提高到了1 21千兆瓦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when he gets his DeLorean powered up with 1.21 jigowatts
+Dialogue: 0,0:41:37.62,0:41:40.74,*Default,NTP,0000,0000,0000,,达到了时速88英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and achieves a speed of 88 miles per hour.
+Dialogue: 0,0:41:40.78,0:41:42.99,*Default,NTP,0000,0000,0000,,那整个就是天方夜谭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's all just complete fantasy.
+Dialogue: 0,0:41:43.04,0:41:46.83,*Default,NTP,0000,0000,0000,,穿梭回过去所需的实际能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The actual energy required for travel backwards in time,
+Dialogue: 0,0:41:46.87,0:41:48.88,*Default,NTP,0000,0000,0000,,也就是 速度超过光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is, travel faster than the speed of light,
+Dialogue: 0,0:41:48.92,0:41:51.92,*Default,NTP,0000,0000,0000,,是无穷大的 甚至大得我们难以言表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is infinite or even more than infinite from what we can tell,
+Dialogue: 0,0:41:51.96,0:41:54.42,*Default,NTP,0000,0000,0000,,或者需要某种虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or requires some sort of a wormhole
+Dialogue: 0,0:41:54.47,0:41:57.93,*Default,NTP,0000,0000,0000,,或其它的快捷方式来穿越宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or other passage shortcut through the universe.
+Dialogue: 0,0:41:57.97,0:42:01.35,*Default,NTP,0000,0000,0000,,1 21千兆瓦是做不到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}1.21 jigowatts just isn't going to do it.
+Dialogue: 0,0:42:01.39,0:42:03.85,*Default,NTP,0000,0000,0000,,时速88英里是做不到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}88 miles an hour just isn't going to do it.
+Dialogue: 0,0:42:05.89,0:42:10.15,*Default,NTP,0000,0000,0000,,有时 电影学科会胜过科学学科的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sometimes, movie science trumps science science.
+Dialogue: 0,0:42:11.73,0:42:14.82,*Default,NTP,0000,0000,0000,,通量电容器是什么玩意 其原理何在？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What is a flux capacitor, and how does it work?
+Dialogue: 0,0:42:14.86,0:42:17.20,*Default,NTP,0000,0000,0000,,告诉你 我一点都不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, I have no idea whatsoever.
+Dialogue: 0,0:42:18.66,0:42:20.53,*Default,NTP,0000,0000,0000,,《回到未来》三部曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The "Back to the Future" trilogy
+Dialogue: 0,0:42:20.57,0:42:24.45,*Default,NTP,0000,0000,0000,,还表演了飞行汽车飞驰在空中高速公路上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}also shows flying cars speeding down aerial highways
+Dialogue: 0,0:42:24.50,0:42:28.67,*Default,NTP,0000,0000,0000,,就在并不遥远的2015年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the now not-so-far-off year of 2015.
+Dialogue: 0,0:42:31.09,0:42:33.63,*Default,NTP,0000,0000,0000,,许多科幻故事不着边际\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many tales of science fiction miss the mark
+Dialogue: 0,0:42:33.67,0:42:36.01,*Default,NTP,0000,0000,0000,,如果靠它来预测未来的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it comes to predicting the future.
+Dialogue: 0,0:42:39.97,0:42:42.89,*Default,NTP,0000,0000,0000,,关于回头观看老科幻的令人惊叹的事情之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the amazing things about going back and looking at old sci-fi
+Dialogue: 0,0:42:42.93,0:42:46.52,*Default,NTP,0000,0000,0000,,就是人们从来没有真正想过 我们生活不可分割的组成部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is people never really imagined how integral a part of our lives
+Dialogue: 0,0:42:46.56,0:42:48.14,*Default,NTP,0000,0000,0000,,居然会是电脑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}computers would become,
+Dialogue: 0,0:42:48.19,0:42:50.98,*Default,NTP,0000,0000,0000,,我们大家居然都有自己的手持设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how all of us would have our own handheld devices,
+Dialogue: 0,0:42:51.02,0:42:53.02,*Default,NTP,0000,0000,0000,,我们自己的笔记本 自己的台式机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our own laptops, our own desktops,
+Dialogue: 0,0:42:53.07,0:42:56.15,*Default,NTP,0000,0000,0000,,我们所做的一切 在很多方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and everything we do would, in many ways,
+Dialogue: 0,0:42:56.19,0:42:58.15,*Default,NTP,0000,0000,0000,,要依靠技术来解决\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}be mediated through the technology.
+Dialogue: 0,0:42:58.20,0:43:02.87,*Default,NTP,0000,0000,0000,,甚至小孩子现在在很多情况下都有自己的笔记本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even small children now have their own laptops in many cases.
+Dialogue: 0,0:43:02.91,0:43:06.37,*Default,NTP,0000,0000,0000,,你在科幻中没有看到这情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you don't see this in the sci-fi.
+Dialogue: 0,0:43:07.71,0:43:10.08,*Default,NTP,0000,0000,0000,,但另一方面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in other ways, 
+Dialogue: 0,0:43:10.08,0:43:14.84,*Default,NTP,0000,0000,0000,,科幻与科学事实之间的差异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the distinctions between the worlds of science fiction and science fact
+Dialogue: 0,0:43:15.92,0:43:19.92,*Default,NTP,0000,0000,0000,,正逐年变得越来越模糊了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are becoming more and more blurred with each passing year.
+Dialogue: 0,0:43:21.76,0:43:24.51,*Default,NTP,0000,0000,0000,,毕竟 柯克和斯波克并不是唯一的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After all, Kirk and Spock aren't the only ones
+Dialogue: 0,0:43:24.56,0:43:26.72,*Default,NTP,0000,0000,0000,,持有袖珍通讯设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a pocket-sized communications device
+Dialogue: 0,0:43:26.77,0:43:30.10,*Default,NTP,0000,0000,0000,,能够让你与世界各地的人进行沟通\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can connect you with anyone else on the planet.
+Dialogue: 0,0:43:32.90,0:43:35.86,*Default,NTP,0000,0000,0000,,博曼尼斯呼叫格雷齐尔 博曼尼斯呼叫格雷齐尔 听到请回话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Bormanis to Grazier. Bormanis to Grazier. Come in.
+Dialogue: 0,0:43:35.90,0:43:40.19,*Default,NTP,0000,0000,0000,,关于通讯技术的话题 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Under the topic of communications technology--
+Dialogue: 0,0:43:40.24,0:43:41.90,*Default,NTP,0000,0000,0000,,对不起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Excuse me.
+Dialogue: 0,0:43:41.95,0:43:43.74,*Default,NTP,0000,0000,0000,,稍等 安德烈 我没空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not now, Andre. I'm busy.
+Dialogue: 0,0:43:46.08,0:43:50.62,*Default,NTP,0000,0000,0000,,通讯就是科学超越了科幻的一个方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Communications is a place where science has outpaced science fiction.
+Dialogue: 0,0:43:50.66,0:43:54.42,*Default,NTP,0000,0000,0000,,翻盖式手机就像是原始的发报机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The cell phones that flip open like the original communicator
+Dialogue: 0,0:43:54.46,0:43:56.34,*Default,NTP,0000,0000,0000,,实际上具有比发报机更多的选项\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually have more options than the communicator did.
+Dialogue: 0,0:43:56.38,0:43:58.55,*Default,NTP,0000,0000,0000,,我的意思是 你见过斯波克先生玩俄罗斯方块吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, did you ever see Mr. Spock playing Tetris?
+Dialogue: 0,0:43:58.59,0:44:01.13,*Default,NTP,0000,0000,0000,,你见过柯克船长被短信打扰过吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Did you ever see Captain Kirk interrupted by a text message?
+Dialogue: 0,0:44:01.18,0:44:02.22,*Default,NTP,0000,0000,0000,,没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No.
+Dialogue: 0,0:44:02.26,0:44:04.55,*Default,NTP,0000,0000,0000,,科学胜过了科幻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science trumps science fiction.
+Dialogue: 0,0:44:04.60,0:44:05.93,*Default,NTP,0000,0000,0000,,谁会料到呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Who'd have thought it?
+Dialogue: 0,0:44:07.06,0:44:09.64,*Default,NTP,0000,0000,0000,,40年前貌似神奇的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What seemed miraculous 40 years ago
+Dialogue: 0,0:44:09.68,0:44:12.77,*Default,NTP,0000,0000,0000,,如今已装进了我们的口袋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is carried around in our pockets today.
+Dialogue: 0,0:44:16.61,0:44:19.32,*Default,NTP,0000,0000,0000,,科幻是梦幻的科学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science fiction is the dreaming side of science.
+Dialogue: 0,0:44:19.36,0:44:21.11,*Default,NTP,0000,0000,0000,,那是想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the imagination,
+Dialogue: 0,0:44:21.15,0:44:24.86,*Default,NTP,0000,0000,0000,,但你不能只有科学而没有想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but you can't have science itself without imagination.
+Dialogue: 0,0:44:24.91,0:44:26.07,*Default,NTP,0000,0000,0000,,科学需要灵感\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science needs inspiration.
+Dialogue: 0,0:44:26.12,0:44:28.91,*Default,NTP,0000,0000,0000,,它需要灵光闪现的时刻 啊哈 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It needs that eureka moment, that "aha!"
+Dialogue: 0,0:44:28.95,0:44:29.99,*Default,NTP,0000,0000,0000,,我认为科幻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I think science fiction
+Dialogue: 0,0:44:30.04,0:44:32.41,*Default,NTP,0000,0000,0000,,帮助科学家创造了那样的时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}helps create those moments for scientists.
+Dialogue: 0,0:44:35.21,0:44:37.46,*Default,NTP,0000,0000,0000,,随着时代的推进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With each passing decade,
+Dialogue: 0,0:44:37.50,0:44:43.30,*Default,NTP,0000,0000,0000,,未来幻想故事的创造者都进一步推进了想象力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creators of fantastic tales of the future push the imagination further,
+Dialogue: 0,0:44:43.34,0:44:47.35,*Default,NTP,0000,0000,0000,,因为人们总是好奇于明天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because man will always wonder about tomorrow,
+Dialogue: 0,0:44:47.39,0:44:50.43,*Default,NTP,0000,0000,0000,,甚至在它来临后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even after it arrives,
+Dialogue: 0,0:44:50.47,0:44:54.60,*Default,NTP,0000,0000,0000,,矛盾还是交织在科幻和科学事实的世界里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a paradox befitting the intertwined worlds

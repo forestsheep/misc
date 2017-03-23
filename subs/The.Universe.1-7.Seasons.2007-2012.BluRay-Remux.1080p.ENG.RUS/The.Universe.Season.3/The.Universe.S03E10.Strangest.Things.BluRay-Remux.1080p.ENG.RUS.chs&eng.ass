@@ -1,0 +1,750 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:13.44,0:01:18.52,Default,,0000,0000,0008,,{\fn华文楷体\fs20\1c&HE0E0E0&\blur3}宇宙:怪异之最{\r}
+Dialogue: 0,0:00:01.50,0:00:03.96,Default,,0000,0000,0000,,{\blur3}创世之初 冥冥之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness...{\r}
+Dialogue: 0,0:00:04.00,0:00:06.08,Default,,0000,0000,0000,,{\blur3}随着轰的一声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, bang...{\r}
+Dialogue: 0,0:00:06.13,0:00:09.29,Default,,0000,0000,0000,,{\blur3}诞生了无限膨胀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to an endless expanding existence...{\r}
+Dialogue: 0,0:00:09.34,0:00:11.88,Default,,0000,0000,0000,,{\blur3}时间 空间和物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:11.92,0:00:14.59,Default,,0000,0000,0000,,{\blur3}现在 所见超乎我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, see further than we've ever imagined...{\r}
+Dialogue: 0,0:00:14.63,0:00:16.55,Default,,0000,0000,0000,,{\blur3}超越了我们生存的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the limits of our existence...{\r}
+Dialogue: 0,0:00:16.59,0:00:18.97,Default,,0000,0000,0000,,{\blur3}这个空间我们称之为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a place we call "The Universe."{\r}
+Dialogue: 0,0:00:23.52,0:00:27.40,Default,,0000,0000,0000,,{\blur3}广袤太空中存在的物体和现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the vast reaches of space exist objects and phenomena...{\r}
+Dialogue: 0,0:00:27.44,0:00:31.73,Default,,0000,0000,0000,,{\blur3}其怪异程度是任何科幻小说家都想象不出的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as bizarre as any science fiction writer's imagination.{\r}
+Dialogue: 0,0:00:31.78,0:00:35.99,Default,,0000,0000,0000,,{\blur3}太空中有那么多的极端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are so many extremes in space that it's really hard for a human being...{\r}
+Dialogue: 0,0:00:36.03,0:00:38.37,Default,,0000,0000,0000,,{\blur3}实在是让地球上的人类匪夷所思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}here on planet Earth to imagine a lot of them.{\r}
+Dialogue: 0,0:00:40.62,0:00:44.20,Default,,0000,0000,0000,,{\blur3}想象一下粒子可以穿过你的身体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Picture a particle that can pass right through you...{\r}
+Dialogue: 0,0:00:44.25,0:00:47.25,Default,,0000,0000,0000,,{\blur3}一颗没听说过的行星正蛰伏在我们的太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a missing planet lurking in our own solar system...{\r}
+Dialogue: 0,0:00:48.59,0:00:52.67,Default,,0000,0000,0000,,{\blur3}星云里充满了我们所饮的酒精{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and clouds filled with the alcohol we drink.{\r}
+Dialogue: 0,0:00:52.71,0:00:56.01,Default,,0000,0000,0000,,{\blur3}宇宙充满了各种稀奇古怪的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe is filled with all sorts of bizarre things...{\r}
+Dialogue: 0,0:00:56.05,0:00:58.59,Default,,0000,0000,0000,,{\blur3}不过通常的情况下 最怪异的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's often the case that the strangest phenomena...{\r}
+Dialogue: 0,0:00:58.64,0:01:00.89,Default,,0000,0000,0000,,{\blur3}最终会告诉我们宇宙之最{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}end up teaching us the most about the universe.{\r}
+Dialogue: 0,0:01:02.06,0:01:05.31,Default,,0000,0000,0000,,{\blur3}它们稀奇古怪 莫名其妙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're outlandish, unexplainable...{\r}
+Dialogue: 0,0:01:05.35,0:01:08.40,Default,,0000,0000,0000,,{\blur3}匪夷所思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and unbelievably peculiar.{\r}
+Dialogue: 0,0:01:08.44,0:01:12.52,Default,,0000,0000,0000,,{\blur3}一起来光顾一下宇宙的怪异吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take a journey to the strange side of our universe.{\r}
+Dialogue: 0,0:01:26.41,0:01:28.33,Default,,0000,0000,0000,,{\blur3}从我们的银河系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From our Milky Way galaxy...{\r}
+Dialogue: 0,0:01:29.71,0:01:33.71,Default,,0000,0000,0000,,{\blur3}一直到数十亿光年外遥远的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to remote regions billions of light-years away...{\r}
+Dialogue: 0,0:01:33.76,0:01:38.34,Default,,0000,0000,0000,,{\blur3}太空中充满了千奇百怪的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}space is jam-packed with really weird stuff.{\r}
+Dialogue: 0,0:01:39.89,0:01:42.43,Default,,0000,0000,0000,,{\blur3}很难理解某些概念和我们在外太空里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's hard to comprehend some of the concepts and things...{\r}
+Dialogue: 0,0:01:42.47,0:01:43.60,Default,,0000,0000,0000,,{\blur3}所发现的东西...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we find in outer space...{\r}
+Dialogue: 0,0:01:43.64,0:01:46.77,Default,,0000,0000,0000,,{\blur3}因为它们根本不同于我们这星球的现实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they're so profoundly different from life on our own planet.{\r}
+Dialogue: 0,0:01:49.44,0:01:51.90,Default,,0000,0000,0000,,{\blur3}我们认识越多 知晓越少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The more we learn, the less we know.{\r}
+Dialogue: 0,0:01:51.94,0:01:53.94,Default,,0000,0000,0000,,{\blur3}因此看来宇宙中有无穷无尽的怪异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there's a seemingly limitless supply...{\r}
+Dialogue: 0,0:01:53.98,0:01:57.44,Default,,0000,0000,0000,,{\blur3}有待于发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of strange things about the universe that remain to be discovered.{\r}
+Dialogue: 0,0:02:00.70,0:02:02.91,Default,,0000,0000,0000,,{\blur3}宇宙充满的各种对象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe is filled with objects...{\r}
+Dialogue: 0,0:02:02.95,0:02:05.62,Default,,0000,0000,0000,,{\blur3}和种种神秘的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and all sorts of mysterious phenomena...{\r}
+Dialogue: 0,0:02:05.66,0:02:07.66,Default,,0000,0000,0000,,{\blur3}是我们没有完全搞明白的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we still don't fully understand.{\r}
+Dialogue: 0,0:02:10.13,0:02:11.92,Default,,0000,0000,0000,,{\blur3}似乎很怪异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Strange as it may seem...{\r}
+Dialogue: 0,0:02:11.96,0:02:14.71,Default,,0000,0000,0000,,{\blur3}天文学家发现星云里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomers have discovered interstellar clouds...{\r}
+Dialogue: 0,0:02:14.75,0:02:19.26,Default,,0000,0000,0000,,{\blur3}实际上充满了和啤酒里所能见到的一模一样的酒精{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually filled with the same kind of alcohol found in beer.{\r}
+Dialogue: 0,0:02:19.30,0:02:20.76,Default,,0000,0000,0000,,{\blur3}最奇怪的星云之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the strangest clouds...{\r}
+Dialogue: 0,0:02:20.80,0:02:24.35,Default,,0000,0000,0000,,{\blur3}充满有机分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is one that's filled with organic molecules...{\r}
+Dialogue: 0,0:02:24.39,0:02:26.89,Default,,0000,0000,0000,,{\blur3}尤其是乙醇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in particular, with ethyl alcohol.{\r}
+Dialogue: 0,0:02:28.64,0:02:30.98,Default,,0000,0000,0000,,{\blur3}那个 当然就是我们所喝的老酒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, that, of course, is the alcohol we drink.{\r}
+Dialogue: 0,0:02:32.31,0:02:34.61,Default,,0000,0000,0000,,{\blur3}所以这种巨大的宇宙酿酒厂的想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so the idea that there could be...{\r}
+Dialogue: 0,0:02:34.65,0:02:38.86,Default,,0000,0000,0000,,{\blur3}或许是一种可笑的想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this huge cosmic distillery is kind of a fun idea...{\r}
+Dialogue: 0,0:02:38.90,0:02:40.57,Default,,0000,0000,0000,,{\blur3}但事实上 一点没错{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in fact, that's correct.{\r}
+Dialogue: 0,0:02:44.33,0:02:49.87,Default,,0000,0000,0000,,{\blur3}庞大的分子云是气体与尘埃的巨大的混合体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giant molecular clouds are enormous complexes of gas and dust.{\r}
+Dialogue: 0,0:02:49.91,0:02:54.29,Default,,0000,0000,0000,,{\blur3}其中有些是我们太阳系大小的上千倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some of them are up to a thousand times the size of our own solar system.{\r}
+Dialogue: 0,0:02:55.09,0:02:57.13,Default,,0000,0000,0000,,{\blur3}其致密庞大的核心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Their dense and sizable cores...{\r}
+Dialogue: 0,0:02:57.17,0:03:00.17,Default,,0000,0000,0000,,{\blur3}足以形成复杂的分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allow for the formation of complex molecules...{\r}
+Dialogue: 0,0:03:00.22,0:03:02.84,Default,,0000,0000,0000,,{\blur3}产出宇宙鸡尾酒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that can produce a cosmic cocktail.{\r}
+Dialogue: 0,0:03:09.89,0:03:11.02,Default,,0000,0000,0000,,{\blur3}在这个酿酒厂里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this microbrewery...{\r}
+Dialogue: 0,0:03:11.06,0:03:14.06,Default,,0000,0000,0000,,{\blur3}大麦 水和酵母用于生产酒类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}barley, water, and yeast are used to produce alcohol...{\r}
+Dialogue: 0,0:03:15.06,0:03:17.15,Default,,0000,0000,0000,,{\blur3}然而在星际分子云里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whereas in interstellar molecular clouds...{\r}
+Dialogue: 0,0:03:17.19,0:03:20.65,Default,,0000,0000,0000,,{\blur3}是尘埃颗粒团 在关键的成核点里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's dust grains that serve as the key nucleation site...{\r}
+Dialogue: 0,0:03:20.70,0:03:23.03,Default,,0000,0000,0000,,{\blur3}将一些较简单的分子 如氢分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for simpler molecules like molecular hydrogen...{\r}
+Dialogue: 0,0:03:23.07,0:03:27.03,Default,,0000,0000,0000,,{\blur3}水 二氧化碳聚集在一起 发生化学反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}water, and carbon dioxide to come together and react chemically...{\r}
+Dialogue: 0,0:03:27.08,0:03:30.25,Default,,0000,0000,0000,,{\blur3}形成较为复杂的分子 如乙醇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to form more complex molecules like ethyl alcohol.{\r}
+Dialogue: 0,0:03:31.75,0:03:33.42,Default,,0000,0000,0000,,{\blur3}随着尘埃颗粒团...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the dust grains migrate...{\r}
+Dialogue: 0,0:03:33.46,0:03:35.75,Default,,0000,0000,0000,,{\blur3}迁移至分子云的中央{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}closer to the center of the molecular cloud...{\r}
+Dialogue: 0,0:03:35.79,0:03:39.80,Default,,0000,0000,0000,,{\blur3}它们就会接近正在中央逐步形成的中央星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they start to approach the central star that's forming in its core...{\r}
+Dialogue: 0,0:03:39.84,0:03:41.38,Default,,0000,0000,0000,,{\blur3}这会将它们加热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this heats them up...{\r}
+Dialogue: 0,0:03:41.42,0:03:44.18,Default,,0000,0000,0000,,{\blur3}有可能足够蒸发掉某些复杂的分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}possibly enough to evaporate some of the complex molecules...{\r}
+Dialogue: 0,0:03:44.22,0:03:47.22,Default,,0000,0000,0000,,{\blur3}如乙醇蒸发进星际空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like ethyl alcohol off and into interstellar space.{\r}
+Dialogue: 0,0:03:57.90,0:03:58.90,Default,,0000,0000,0000,,{\blur3}谢谢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank you.{\r}
+Dialogue: 0,0:03:58.94,0:04:00.03,Default,,0000,0000,0000,,{\blur3}请用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cheers.{\r}
+Dialogue: 0,0:04:00.07,0:04:02.11,Default,,0000,0000,0000,,{\blur3}这个 如这个啤酒吧一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, just like this microbrewery...{\r}
+Dialogue: 0,0:04:02.15,0:04:04.70,Default,,0000,0000,0000,,{\blur3}星际分子云里的尘埃颗粒团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the dust grains in interstellar molecular clouds...{\r}
+Dialogue: 0,0:04:04.74,0:04:07.74,Default,,0000,0000,0000,,{\blur3}担当了孤单分子的碰头地点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}serve as meeting places where lonely molecules...{\r}
+Dialogue: 0,0:04:07.78,0:04:09.91,Default,,0000,0000,0000,,{\blur3}以形成较为复杂的分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can form more complex molecules.{\r}
+Dialogue: 0,0:04:13.12,0:04:17.00,Default,,0000,0000,0000,,{\blur3}首个酒精云是在1875年发现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first alcohol cloud was detected in 1975.{\r}
+Dialogue: 0,0:04:18.29,0:04:21.67,Default,,0000,0000,0000,,{\blur3}从此 更多的千奇百怪的星云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since then, many more of these truly strange space clouds...{\r}
+Dialogue: 0,0:04:21.71,0:04:22.80,Default,,0000,0000,0000,,{\blur3}被发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have been observed.{\r}
+Dialogue: 0,0:04:24.59,0:04:29.76,Default,,0000,0000,0000,,{\blur3}星云G34.3 位于天鹰座里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The cloud G 34.3, which resides in the constellation Aquila...{\r}
+Dialogue: 0,0:04:29.81,0:04:33.27,Default,,0000,0000,0000,,{\blur3}其直径是我们太阳系的1000倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is 1,000 times the diameter of our solar system.{\r}
+Dialogue: 0,0:04:37.61,0:04:41.23,Default,,0000,0000,0000,,{\blur3}事实上 G34.3里的乙醇足以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, in G 34.3, there's enough ethyl alcohol...{\r}
+Dialogue: 0,0:04:41.28,0:04:45.57,Default,,0000,0000,0000,,{\blur3}每天供应30万品脱的啤酒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to supply 300,000 pints of beer every day...{\r}
+Dialogue: 0,0:04:45.61,0:04:47.57,Default,,0000,0000,0000,,{\blur3}给我们地球上每一个人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to every single person on planet Earth...{\r}
+Dialogue: 0,0:04:47.62,0:04:49.41,Default,,0000,0000,0000,,{\blur3}足以供应10亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the next billion years.{\r}
+Dialogue: 0,0:04:50.29,0:04:51.87,Default,,0000,0000,0000,,{\blur3}那会是个万醉不休啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That'd be one heck of a party.{\r}
+Dialogue: 0,0:04:51.91,0:04:53.04,Default,,0000,0000,0000,,{\blur3}唯一的不足{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The only downside...{\r}
+Dialogue: 0,0:04:53.08,0:04:55.58,Default,,0000,0000,0000,,{\blur3}就是会让你闹头痛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that it would probably give you a pretty bad headache...{\r}
+Dialogue: 0,0:04:55.62,0:04:58.17,Default,,0000,0000,0000,,{\blur3}因为它混有氰化氢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it's also mixed in with hydrogen cyanide...{\r}
+Dialogue: 0,0:04:58.21,0:05:00.84,Default,,0000,0000,0000,,{\blur3}一氧化碳 二氧化碳 氨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}carbon monoxide, carbon dioxide, ammonia...{\r}
+Dialogue: 0,0:05:00.88,0:05:03.59,Default,,0000,0000,0000,,{\blur3}以及其他一些不太好的化学物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and some other fairly not-so-nice chemicals.{\r}
+Dialogue: 0,0:05:06.38,0:05:10.72,Default,,0000,0000,0000,,{\blur3}它们看似醉云摇摇晃晃飘荡在太空里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They may seem like inebriated clouds drifting aimlessly in space...{\r}
+Dialogue: 0,0:05:12.14,0:05:14.60,Default,,0000,0000,0000,,{\blur3}但是听来有点难以置信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}yet as unbelievable as it may sound...{\r}
+Dialogue: 0,0:05:14.64,0:05:17.81,Default,,0000,0000,0000,,{\blur3}这些星云最终会形成多种多样的恒星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these clouds eventually form multiple star systems...{\r}
+Dialogue: 0,0:05:18.81,0:05:20.73,Default,,0000,0000,0000,,{\blur3}行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planets...{\r}
+Dialogue: 0,0:05:20.77,0:05:23.78,Default,,0000,0000,0000,,{\blur3}乃至生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and maybe even life.{\r}
+Dialogue: 0,0:05:23.82,0:05:26.24,Default,,0000,0000,0000,,{\blur3}在星云的外缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the outer edges of the cloud...{\r}
+Dialogue: 0,0:05:26.28,0:05:28.82,Default,,0000,0000,0000,,{\blur3}这些冰冷的尘埃颗粒团携带着它们复杂的分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these frozen dust grains with their complex molecules...{\r}
+Dialogue: 0,0:05:28.87,0:05:30.03,Default,,0000,0000,0000,,{\blur3}依旧完好如初{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}still remain intact.{\r}
+Dialogue: 0,0:05:31.66,0:05:34.62,Default,,0000,0000,0000,,{\blur3}事实上 我们知道它们今天成为了彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, in fact, we know them today as comets...{\r}
+Dialogue: 0,0:05:36.25,0:05:38.92,Default,,0000,0000,0000,,{\blur3}被认为是这些彗星肩负着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's thought that these comets may be responsible...{\r}
+Dialogue: 0,0:05:38.96,0:05:41.50,Default,,0000,0000,0000,,{\blur3}将某些较为复杂的分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for bringing some of these more complicated molecules...{\r}
+Dialogue: 0,0:05:41.54,0:05:43.34,Default,,0000,0000,0000,,{\blur3}带入太阳系内部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the inner solar system.{\r}
+Dialogue: 0,0:05:44.46,0:05:47.97,Default,,0000,0000,0000,,{\blur3}事实上 它们有可能在我们的星球上播下了这些分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, they may have seeded our own planet with these molecules...{\r}
+Dialogue: 0,0:05:48.01,0:05:50.84,Default,,0000,0000,0000,,{\blur3}作为构建我们生命所需物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which are the building blocks of things like amino acids...{\r}
+Dialogue: 0,0:05:50.89,0:05:52.55,Default,,0000,0000,0000,,{\blur3}如氨基酸的基石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which we need for life.{\r}
+Dialogue: 0,0:05:55.31,0:05:58.39,Default,,0000,0000,0000,,{\blur3}我们的太阳 地球脱胎于星云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our Sun and Earth were formed out of an interstellar cloud...{\r}
+Dialogue: 0,0:05:58.44,0:06:00.15,Default,,0000,0000,0000,,{\blur3}诸如此类的星云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much like this cloud.{\r}
+Dialogue: 0,0:06:00.19,0:06:01.69,Default,,0000,0000,0000,,{\blur3}你只要有了合适的成分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if you've got the right ingredients...{\r}
+Dialogue: 0,0:06:01.73,0:06:03.82,Default,,0000,0000,0000,,{\blur3}有合适的有机成分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the right organic ingredients...{\r}
+Dialogue: 0,0:06:03.86,0:06:05.82,Default,,0000,0000,0000,,{\blur3}你就有了合适的成分来构建生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you've got the right ingredients for life.{\r}
+Dialogue: 0,0:06:07.86,0:06:10.49,Default,,0000,0000,0000,,{\blur3}貌似真的很怪异 会有这种巨大的酒精云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It may seem really weird that there's this giant cloud of alcohol...{\r}
+Dialogue: 0,0:06:10.53,0:06:11.70,Default,,0000,0000,0000,,{\blur3}漂浮在太空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}floating through space.{\r}
+Dialogue: 0,0:06:11.74,0:06:13.03,Default,,0000,0000,0000,,{\blur3}不过我热衷的一个情况是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But one of the things that l love...{\r}
+Dialogue: 0,0:06:13.08,0:06:16.45,Default,,0000,0000,0000,,{\blur3}普通的有机分子 酒精是其中之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is how common organic molecules, alcohol being one of them...{\r}
+Dialogue: 0,0:06:16.50,0:06:18.83,Default,,0000,0000,0000,,{\blur3}怎么会遍及星系乃至宇宙的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is throughout the galaxy and the universe.{\r}
+Dialogue: 0,0:06:19.54,0:06:21.67,Default,,0000,0000,0000,,{\blur3}我们发现它们无处不在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We find them everywhere.{\r}
+Dialogue: 0,0:06:21.71,0:06:23.79,Default,,0000,0000,0000,,{\blur3}如果你将地球碾成粉末{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you pulverize the Earth into powder...{\r}
+Dialogue: 0,0:06:23.84,0:06:26.51,Default,,0000,0000,0000,,{\blur3}那基本上星云的化学物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's basically what an interstellar cloud is like...{\r}
+Dialogue: 0,0:06:27.30,0:06:29.05,Default,,0000,0000,0000,,{\blur3}完全类同于我们的成分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all the chemicals that make us up.{\r}
+Dialogue: 0,0:06:30.72,0:06:32.39,Default,,0000,0000,0000,,{\blur3}饱含酒精的星云可能帮助了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alcohol-laden clouds may have helped...{\r}
+Dialogue: 0,0:06:32.43,0:06:34.39,Default,,0000,0000,0000,,{\blur3}播撒生命的种子在地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to sow the seeds of life on Earth...{\r}
+Dialogue: 0,0:06:36.72,0:06:41.31,Default,,0000,0000,0000,,{\blur3}然而 与听上去一样不可思议 生命本身可能其实是存在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}yet, as incredible as it may sound, life itself may actually exist...{\r}
+Dialogue: 0,0:06:41.35,0:06:44.06,Default,,0000,0000,0000,,{\blur3}其它类型的怪异星云里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in other types of truly weird clouds.{\r}
+Dialogue: 0,0:06:48.49,0:06:50.90,Default,,0000,0000,0000,,{\blur3}金星 我们太阳的第二颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Venus, the second planet from our Sun...{\r}
+Dialogue: 0,0:06:50.95,0:06:53.37,Default,,0000,0000,0000,,{\blur3}表面炙热如地狱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has a hot, hellish surface...{\r}
+Dialogue: 0,0:06:53.41,0:06:55.53,Default,,0000,0000,0000,,{\blur3}但是怪异的是 其云层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}yet, strangely, its clouds...{\r}
+Dialogue: 0,0:06:55.58,0:06:58.50,Default,,0000,0000,0000,,{\blur3}接近30英里的高处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which hover at an altitude of around 30 miles...{\r}
+Dialogue: 0,0:06:58.54,0:07:01.21,Default,,0000,0000,0000,,{\blur3}具有的温度却有可能是生命适宜的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}bear temperatures that may be habitable for life.{\r}
+Dialogue: 0,0:07:03.54,0:07:06.42,Default,,0000,0000,0000,,{\blur3}那里的温度相当于地球表面的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The temperatures are roughly the same as Earth's surface.{\r}
+Dialogue: 0,0:07:06.46,0:07:10.01,Default,,0000,0000,0000,,{\blur3}气压也相当于地球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The atmospheric pressure is about the same as Earth's surface.{\r}
+Dialogue: 0,0:07:10.05,0:07:12.59,Default,,0000,0000,0000,,{\blur3}因此你可能会说 如果生命可以存在于地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you might say, if life can exist here on Earth...{\r}
+Dialogue: 0,0:07:12.64,0:07:15.05,Default,,0000,0000,0000,,{\blur3}那么或许也可以存在于金星上类似的环境中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps it can exist in similar conditions on Venus.{\r}
+Dialogue: 0,0:07:17.56,0:07:20.35,Default,,0000,0000,0000,,{\blur3}如果生命确实存在于金星的云层里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If life does exist in the clouds of Venus...{\r}
+Dialogue: 0,0:07:20.39,0:07:23.40,Default,,0000,0000,0000,,{\blur3}那么一开始又是如何到那里了呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how did it get there in the first place?{\r}
+Dialogue: 0,0:07:24.77,0:07:26.11,Default,,0000,0000,0000,,{\blur3}据认为金星的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's thought that the atmosphere of Venus...{\r}
+Dialogue: 0,0:07:26.15,0:07:28.86,Default,,0000,0000,0000,,{\blur3}是所谓的失控的温室效应的产物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the product of what's called a runaway greenhouse effect...{\r}
+Dialogue: 0,0:07:28.90,0:07:31.49,Default,,0000,0000,0000,,{\blur3}那里二氧化碳的堆积{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where the buildup of carbon dioxide...{\r}
+Dialogue: 0,0:07:31.53,0:07:34.24,Default,,0000,0000,0000,,{\blur3}导致了表面温度的上升{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}causes the temperature to rise at the surface...{\r}
+Dialogue: 0,0:07:34.28,0:07:37.62,Default,,0000,0000,0000,,{\blur3}其中 如果金星上存在有液态水的海洋的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which, if there were any liquid oceans of water on Venus...{\r}
+Dialogue: 0,0:07:37.66,0:07:41.00,Default,,0000,0000,0000,,{\blur3}它们也会最终蒸发 逃逸进空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they would have eventually boiled away and escaped into space.{\r}
+Dialogue: 0,0:07:41.75,0:07:43.25,Default,,0000,0000,0000,,{\blur3}于是它有可能移到了上部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then it may have migrated up...{\r}
+Dialogue: 0,0:07:43.29,0:07:46.29,Default,,0000,0000,0000,,{\blur3}较为宜居的大气层里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the upper, more hospitable layers of the atmosphere.{\r}
+Dialogue: 0,0:07:50.63,0:07:52.97,Default,,0000,0000,0000,,{\blur3}生命如我们所知离不开水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Life as we know it needs water.{\r}
+Dialogue: 0,0:07:54.30,0:07:56.09,Default,,0000,0000,0000,,{\blur3}金星的云层里含有水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The clouds of Venus contain water...{\r}
+Dialogue: 0,0:07:56.14,0:07:58.89,Default,,0000,0000,0000,,{\blur3}表现为浓硫酸形式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the form of concentrated sulfuric acid.{\r}
+Dialogue: 0,0:08:01.35,0:08:05.60,Default,,0000,0000,0000,,{\blur3}在地球上 科学家发现了叫做嗜极菌的微生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here on Earth, scientists have found organisms called extremophiles...{\r}
+Dialogue: 0,0:08:05.65,0:08:07.90,Default,,0000,0000,0000,,{\blur3}茁壮成长在类似的酸性液体里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that thrive in similar acidic liquids...{\r}
+Dialogue: 0,0:08:09.32,0:08:12.28,Default,,0000,0000,0000,,{\blur3}如黄石国家公园的温泉里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}such as the hot springs in Yellowstone National Park.{\r}
+Dialogue: 0,0:08:15.03,0:08:17.28,Default,,0000,0000,0000,,{\blur3}因此有人士猜测有机物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So some have speculated that organisms...{\r}
+Dialogue: 0,0:08:17.33,0:08:19.74,Default,,0000,0000,0000,,{\blur3}可以生存在金星的云层里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could survive in the clouds of Venus...{\r}
+Dialogue: 0,0:08:19.79,0:08:21.41,Default,,0000,0000,0000,,{\blur3}它们甚至已经进化到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they may have even evolved ways...{\r}
+Dialogue: 0,0:08:21.45,0:08:24.25,Default,,0000,0000,0000,,{\blur3}利用可利用的紫外线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of making use of available ultraviolet light...{\r}
+Dialogue: 0,0:08:24.29,0:08:27.75,Default,,0000,0000,0000,,{\blur3}宛如植物利用可见光一样进行光合作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much like plants use visible light for photosynthesis.{\r}
+Dialogue: 0,0:08:28.75,0:08:32.42,Default,,0000,0000,0000,,{\blur3}你在云层里有大量的化学反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have a lot of chemistry going on in the clouds.{\r}
+Dialogue: 0,0:08:32.47,0:08:33.51,Default,,0000,0000,0000,,{\blur3}你有硫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've got sulfurs...{\r}
+Dialogue: 0,0:08:33.55,0:08:36.09,Default,,0000,0000,0000,,{\blur3}有氢 有其他元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you've got hydrogen and other elements...{\r}
+Dialogue: 0,0:08:36.14,0:08:40.31,Default,,0000,0000,0000,,{\blur3}收留与维持生命的必需品{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are needed to harbor life and to sustain life...{\r}
+Dialogue: 0,0:08:40.35,0:08:44.02,Default,,0000,0000,0000,,{\blur3}在那个高度大量存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and those are abundant at those altitudes.{\r}
+Dialogue: 0,0:08:44.06,0:08:48.44,Default,,0000,0000,0000,,{\blur3}因此并非不可思议 生命可以生存或存在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's not inconceivable that life could survive or exist...{\r}
+Dialogue: 0,0:08:48.48,0:08:50.36,Default,,0000,0000,0000,,{\blur3}金星的云层里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the cloud layers of Venus.{\r}
+Dialogue: 0,0:08:51.73,0:08:53.69,Default,,0000,0000,0000,,{\blur3}有个方法可以测试生命是否存在于金星的云层里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One method to test whether life could exist...{\r}
+Dialogue: 0,0:08:53.74,0:08:58.41,Default,,0000,0000,0000,,{\blur3}那就是研究地球上空的云层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the clouds of Venus is to examine the clouds above Earth.{\r}
+Dialogue: 0,0:09:01.29,0:09:03.12,Default,,0000,0000,0000,,{\blur3}地球上的测量 举个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Measurements here on Earth, for example...{\r}
+Dialogue: 0,0:09:03.16,0:09:06.67,Default,,0000,0000,0000,,{\blur3}捕获云层里的粒子 在实验室里进行研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}capturing particles of cloud and examining them in the lab...{\r}
+Dialogue: 0,0:09:06.71,0:09:09.33,Default,,0000,0000,0000,,{\blur3}已经表明很小的微生物和细菌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have shown that very small organisms and bacteria...{\r}
+Dialogue: 0,0:09:09.38,0:09:13.17,Default,,0000,0000,0000,,{\blur3}实际上可以就生存在那种漂浮不定的大气里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can actually survive just sort of floating through the atmosphere...{\r}
+Dialogue: 0,0:09:14.84,0:09:18.18,Default,,0000,0000,0000,,{\blur3}扶摇直上 随风飘荡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}being caught up on updrafts and just gusts of wind.{\r}
+Dialogue: 0,0:09:20.43,0:09:22.35,Default,,0000,0000,0000,,{\blur3}它们也许可以在大气层里...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they can perhaps survive in the atmosphere...{\r}
+Dialogue: 0,0:09:22.39,0:09:24.02,Default,,0000,0000,0000,,{\blur3}存活好长时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for long periods of time.{\r}
+Dialogue: 0,0:09:24.06,0:09:25.73,Default,,0000,0000,0000,,{\blur3}类推 同样的情形也有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As an analogy, the same type of behavior...{\r}
+Dialogue: 0,0:09:25.77,0:09:27.73,Default,,0000,0000,0000,,{\blur3}发生在金星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might be occurring on Venus.{\r}
+Dialogue: 0,0:09:27.77,0:09:31.23,Default,,0000,0000,0000,,{\blur3}因此 如果金星的大气层里存在生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, if there were life in the Venusian atmosphere...{\r}
+Dialogue: 0,0:09:31.27,0:09:34.86,Default,,0000,0000,0000,,{\blur3}有可能就只是长期不停飞行的物种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it mightjust be kind of flitting along for long periods of time.{\r}
+Dialogue: 0,0:09:36.24,0:09:38.86,Default,,0000,0000,0000,,{\blur3}航天局可能有朝一日派出使团前往金星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA may one day send a mission to Venus...{\r}
+Dialogue: 0,0:09:38.91,0:09:41.49,Default,,0000,0000,0000,,{\blur3}去看看其云层里是否有生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to find out if there's life in its clouds.{\r}
+Dialogue: 0,0:09:42.58,0:09:45.29,Default,,0000,0000,0000,,{\blur3}不过眼下 科学家非常热衷于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But right now, scientists are keenly interested...{\r}
+Dialogue: 0,0:09:45.33,0:09:48.33,Default,,0000,0000,0000,,{\blur3}了解是否有另一颗特殊的行星存在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to learn whether another truly peculiar planet exists...{\r}
+Dialogue: 0,0:09:48.37,0:09:50.29,Default,,0000,0000,0000,,{\blur3}我们的太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our solar system...{\r}
+Dialogue: 0,0:09:50.33,0:09:53.59,Default,,0000,0000,0000,,{\blur3}一颗尚未被发现的神秘行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a mysterious planet that has yet to be discovered.{\r}
+Dialogue: 0,0:10:00.30,0:10:04.93,Default,,0000,0000,0000,,{\blur3}行星X是一颗假设有可能存在于海王星之外的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Planet X is a hypothetical planet that may exist beyond Neptune.{\r}
+Dialogue: 0,0:10:08.85,0:10:11.10,Default,,0000,0000,0000,,{\blur3}行星X可以说是对未知行星的通用名字{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Planet X is sort of a generic designation...{\r}
+Dialogue: 0,0:10:11.15,0:10:15.32,Default,,0000,0000,0000,,{\blur3}它在外太阳系的某处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for an unknown planet that's somewhere in the outer solar system...{\r}
+Dialogue: 0,0:10:15.36,0:10:17.40,Default,,0000,0000,0000,,{\blur3}有待于发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that remains to be discovered.{\r}
+Dialogue: 0,0:10:24.91,0:10:28.12,Default,,0000,0000,0000,,{\blur3}天文学家在观察柯伊伯带时 开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers began to speculate there might be a missing planet...{\r}
+Dialogue: 0,0:10:28.16,0:10:30.12,Default,,0000,0000,0000,,{\blur3}怀疑有可能存在着一颗失踪的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when observing the Kuiper Belt...{\r}
+Dialogue: 0,0:10:30.17,0:10:34.04,Default,,0000,0000,0000,,{\blur3}那是海王星轨道之外的冰冷石块的储存地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a repository for icy rocks beyond the orbit of Neptune.{\r}
+Dialogue: 0,0:10:38.63,0:10:42.22,Default,,0000,0000,0000,,{\blur3}柯伊伯带外缘叫做柯伊伯悬崖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The outer edge of the Kuiper Belt is called the Kuiper Cliff...{\r}
+Dialogue: 0,0:10:42.26,0:10:45.64,Default,,0000,0000,0000,,{\blur3}因为太空石块的密度在这里陡然下降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the density of space rocks drops off steeply here.{\r}
+Dialogue: 0,0:10:46.77,0:10:50.19,Default,,0000,0000,0000,,{\blur3}这可能是由于海王星的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This could be caused by Neptune's gravitational pull...{\r}
+Dialogue: 0,0:10:50.23,0:10:53.56,Default,,0000,0000,0000,,{\blur3}或者是一颗未知的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or perhaps by an unknown planet.{\r}
+Dialogue: 0,0:10:53.61,0:10:56.73,Default,,0000,0000,0000,,{\blur3}对柯伊伯带里天体的减少的一个假设{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One hypothesis for the drop-off in Kuiper Belt objects...{\r}
+Dialogue: 0,0:10:56.78,0:11:00.61,Default,,0000,0000,0000,,{\blur3}就是我们看到约50到55个天文单位背后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we see after about 50 or 55 astronomical units...{\r}
+Dialogue: 0,0:11:00.66,0:11:03.45,Default,,0000,0000,0000,,{\blur3}有一颗行星潜伏在某个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that there is a planet lurking out there somewhere...{\r}
+Dialogue: 0,0:11:03.49,0:11:07.16,Default,,0000,0000,0000,,{\blur3}可能像是将它们集中到那个区域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which could be sort of herding them inside of that region.{\r}
+Dialogue: 0,0:11:10.75,0:11:12.96,Default,,0000,0000,0000,,{\blur3}科学家几十年来一直迷惑于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists have wondered for decades...{\r}
+Dialogue: 0,0:11:13.00,0:11:16.13,Default,,0000,0000,0000,,{\blur3}我们太阳系究竟居留了多少行星?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how many planets our solar system harbors?{\r}
+Dialogue: 0,0:11:16.17,0:11:18.17,Default,,0000,0000,0000,,{\blur3}是否真的存在行星X?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is there really a Planet X?{\r}
+Dialogue: 0,0:11:21.68,0:11:23.97,Default,,0000,0000,0000,,{\blur3}本来 冥王星 在发现时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Originally, Pluto, when that was discovered...{\r}
+Dialogue: 0,0:11:24.01,0:11:25.85,Default,,0000,0000,0000,,{\blur3}是被指定为行星X的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was designated as Planet X.{\r}
+Dialogue: 0,0:11:26.68,0:11:28.10,Default,,0000,0000,0000,,{\blur3}最近 有其它的...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}More recently, there have been discoveries...{\r}
+Dialogue: 0,0:11:28.14,0:11:29.97,Default,,0000,0000,0000,,{\blur3}柯伊伯带天体发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of other Kuiper Belt objects...{\r}
+Dialogue: 0,0:11:30.02,0:11:32.69,Default,,0000,0000,0000,,{\blur3}比如像厄里斯和塞德娜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}things like Eris and Sedna, for example...{\r}
+Dialogue: 0,0:11:32.73,0:11:35.94,Default,,0000,0000,0000,,{\blur3}都曾被冠以行星X的名头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have been assigned the designation Planet X.{\r}
+Dialogue: 0,0:11:35.98,0:11:39.40,Default,,0000,0000,0000,,{\blur3}太阳系深处依然有...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There still remains to be the discovery of a very large object...{\r}
+Dialogue: 0,0:11:39.44,0:11:40.44,Default,,0000,0000,0000,,{\blur3}发现大天体的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the deep solar system.{\r}
+Dialogue: 0,0:11:40.49,0:11:42.32,Default,,0000,0000,0000,,{\blur3}因此就产生了这种想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there's sort of still this idea...{\r}
+Dialogue: 0,0:11:42.36,0:11:44.99,Default,,0000,0000,0000,,{\blur3}行星X或神秘的隐匿行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that a Planet X or a mysterious hidden planet...{\r}
+Dialogue: 0,0:11:45.03,0:11:47.37,Default,,0000,0000,0000,,{\blur3}就躲在太阳系的某个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is out in the solar system somewhere.{\r}
+Dialogue: 0,0:11:52.54,0:11:54.87,Default,,0000,0000,0000,,{\blur3}科学家可能不久就能解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists may soon solve the mystery...{\r}
+Dialogue: 0,0:11:54.92,0:11:56.71,Default,,0000,0000,0000,,{\blur3}所谓的柯伊伯悬崖之谜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the so-called Kuiper Cliff.{\r}
+Dialogue: 0,0:11:58.34,0:12:03.26,Default,,0000,0000,0000,,{\blur3}如果行星X确实存在 这些宇宙侦探将会找到它的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf a Planet X really exists, these cosmic sleuths will find it.{\r}
+Dialogue: 0,0:12:05.09,0:12:07.05,Default,,0000,0000,0000,,{\blur3}我们认为我们应该能了解到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think that we should be able to learn...{\r}
+Dialogue: 0,0:12:07.10,0:12:09.68,Default,,0000,0000,0000,,{\blur3}不管是否很快就能确定存在这样一颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether or not there really is such a planet relatively soon...{\r}
+Dialogue: 0,0:12:09.72,0:12:12.52,Default,,0000,0000,0000,,{\blur3}新一代的大规模调查{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the new generation of large scale surveys...{\r}
+Dialogue: 0,0:12:12.56,0:12:15.15,Default,,0000,0000,0000,,{\blur3}都将发现那里存在的任何东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are going to detect anything out there.{\r}
+Dialogue: 0,0:12:20.23,0:12:22.57,Default,,0000,0000,0000,,{\blur3}行星X或许有可能存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Planet X may or may not exist.{\r}
+Dialogue: 0,0:12:25.99,0:12:27.45,Default,,0000,0000,0000,,{\blur3}不过有其他行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there are other planets...{\r}
+Dialogue: 0,0:12:27.49,0:12:29.91,Default,,0000,0000,0000,,{\blur3}被发现在遥远的太空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have been observed far off in space...{\r}
+Dialogue: 0,0:12:29.95,0:12:32.29,Default,,0000,0000,0000,,{\blur3}已经超出了这个世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are truly out of this world.{\r}
+Dialogue: 0,0:12:49.93,0:12:54.06,Default,,0000,0000,0000,,{\blur3}我们太阳系包括了某些异乎寻常的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our solar system contains some pretty unusual planets...{\r}
+Dialogue: 0,0:12:54.10,0:12:55.89,Default,,0000,0000,0000,,{\blur3}但是我们并不是独一无二的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we're not alone.{\r}
+Dialogue: 0,0:13:00.15,0:13:04.36,Default,,0000,0000,0000,,{\blur3}先进的望远镜已经发现了近300颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sophisticated telescopes have now identified nearly 300 planets...{\r}
+Dialogue: 0,0:13:04.40,0:13:07.07,Default,,0000,0000,0000,,{\blur3}都位于我们太阳系以外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are located well beyond our solar system.{\r}
+Dialogue: 0,0:13:10.28,0:13:12.62,Default,,0000,0000,0000,,{\blur3}它们被称为日外行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're known as exoplanets.{\r}
+Dialogue: 0,0:13:15.96,0:13:20.00,Default,,0000,0000,0000,,{\blur3}最奇特的日外行星是脉冲星行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most peculiar exoplanets are pulsar planets.{\r}
+Dialogue: 0,0:13:20.04,0:13:22.96,Default,,0000,0000,0000,,{\blur3}根本不同于围绕我们太阳那样的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unlike most that orbit a star like our Sun...{\r}
+Dialogue: 0,0:13:23.01,0:13:28.01,Default,,0000,0000,0000,,{\blur3}这些行星围绕的是快速旋转的中子星 叫做脉冲星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these planets orbit a fast-spinning neutron star called a pulsar...{\r}
+Dialogue: 0,0:13:28.05,0:13:31.81,Default,,0000,0000,0000,,{\blur3}它发出脉冲射电辐射 宛如灯塔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which emits a pulsing radio emission much like a lighthouse.{\r}
+Dialogue: 0,0:13:33.81,0:13:36.77,Default,,0000,0000,0000,,{\blur3}1990年代 科学家居然发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the 1990s, scientists actually discovered...{\r}
+Dialogue: 0,0:13:36.81,0:13:41.06,Default,,0000,0000,0000,,{\blur3}一组三颗脉冲行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a trio of pulsar planets about 900 light-years away...{\r}
+Dialogue: 0,0:13:41.11,0:13:44.07,Default,,0000,0000,0000,,{\blur3}在约900光年外的室女座内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}located in the constellation Virgo.{\r}
+Dialogue: 0,0:13:44.11,0:13:45.82,Default,,0000,0000,0000,,{\blur3}要我说 它们有可能被载入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If I had my say, they'd probably go down...{\r}
+Dialogue: 0,0:13:45.86,0:13:48.07,Default,,0000,0000,0000,,{\blur3}宇宙间最怪异的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the weirdest planets in the universe.{\r}
+Dialogue: 0,0:13:49.87,0:13:53.70,Default,,0000,0000,0000,,{\blur3}这些行星都非常靠近脉冲星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And these planets are all very close in to the pulsar.{\r}
+Dialogue: 0,0:13:53.74,0:13:56.12,Default,,0000,0000,0000,,{\blur3}现在 行星真是无处不在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, that's no place for a planet to exist.{\r}
+Dialogue: 0,0:13:56.16,0:13:59.08,Default,,0000,0000,0000,,{\blur3}谁都没料到会发现有行星围绕着这些东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nobody expected to find planets around these things...{\r}
+Dialogue: 0,0:13:59.12,0:14:01.96,Default,,0000,0000,0000,,{\blur3}因为脉冲星 或中子星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because a pulsar or a neutron star...{\r}
+Dialogue: 0,0:14:02.00,0:14:04.34,Default,,0000,0000,0000,,{\blur3}是超新星爆发的残骸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the remnant of a supernova explosion.{\r}
+Dialogue: 0,0:14:06.84,0:14:08.80,Default,,0000,0000,0000,,{\blur3}恒星将自己扯得粉碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The star has ripped itself apart...{\r}
+Dialogue: 0,0:14:08.84,0:14:12.85,Default,,0000,0000,0000,,{\blur3}是宇宙间已知最暴戾 最无序的爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in one of the most violent, chaotic explosions known in the universe.{\r}
+Dialogue: 0,0:14:17.06,0:14:18.64,Default,,0000,0000,0000,,{\blur3}那么行星在那里干嘛?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what are planets doing there?{\r}
+Dialogue: 0,0:14:18.69,0:14:19.73,Default,,0000,0000,0000,,{\blur3}这真是个意外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was a real surprise.{\r}
+Dialogue: 0,0:14:21.02,0:14:22.40,Default,,0000,0000,0000,,{\blur3}这里有三颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are three of these planets...{\r}
+Dialogue: 0,0:14:22.44,0:14:25.44,Default,,0000,0000,0000,,{\blur3}其中两颗约是地球质量的4倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and two of them are about four times the mass of the Earth...{\r}
+Dialogue: 0,0:14:25.48,0:14:29.45,Default,,0000,0000,0000,,{\blur3}第三颗行星约是月球质量的两倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the third planet is about twice the mass of Earth's Moon.{\r}
+Dialogue: 0,0:14:29.49,0:14:31.53,Default,,0000,0000,0000,,{\blur3}因此的确是很小的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So very small planets indeed.{\r}
+Dialogue: 0,0:14:31.57,0:14:35.41,Default,,0000,0000,0000,,{\blur3}事实上 它们的轨道基本上非常靠近它们的中子星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, they orbit so close to their neutron star primary...{\r}
+Dialogue: 0,0:14:35.45,0:14:38.00,Default,,0000,0000,0000,,{\blur3}实际上也就在水星的轨道内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they could actually fit within the orbit of Mercury.{\r}
+Dialogue: 0,0:14:38.04,0:14:39.83,Default,,0000,0000,0000,,{\blur3}因此它们非常接近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So they're very close in.{\r}
+Dialogue: 0,0:14:46.71,0:14:48.72,Default,,0000,0000,0000,,{\blur3}悬而未决的问题是这些行星是如何{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The enduring question is how these planets...{\r}
+Dialogue: 0,0:14:48.76,0:14:51.30,Default,,0000,0000,0000,,{\blur3}躲过超新星事件劫难的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}survived the supernova event at all.{\r}
+Dialogue: 0,0:14:54.39,0:14:56.35,Default,,0000,0000,0000,,{\blur3}要是同样的事情发生在我们的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the same thing happened to our Sun...{\r}
+Dialogue: 0,0:14:56.39,0:15:00.06,Default,,0000,0000,0000,,{\blur3}太阳系内部的行星早已经蒸发殆尽了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the planets in the inner solar system would've been vaporized.{\r}
+Dialogue: 0,0:15:06.07,0:15:10.70,Default,,0000,0000,0000,,{\blur3}如果我们所见到的那些行星在超新星爆发时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If those planets that we see were there at the time of the supernova...{\r}
+Dialogue: 0,0:15:10.74,0:15:12.11,Default,,0000,0000,0000,,{\blur3}躲过了一劫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they survived it...{\r}
+Dialogue: 0,0:15:12.16,0:15:14.37,Default,,0000,0000,0000,,{\blur3}它们肯定会铲除有可能存在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they certainly would extinguish any life...{\r}
+Dialogue: 0,0:15:14.41,0:15:16.53,Default,,0000,0000,0000,,{\blur3}那些行星上的任何生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that might have been on those planets.{\r}
+Dialogue: 0,0:15:16.58,0:15:17.99,Default,,0000,0000,0000,,{\blur3}毫无任何生机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no hope for that.{\r}
+Dialogue: 0,0:15:22.46,0:15:24.46,Default,,0000,0000,0000,,{\blur3}光是威力和能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just the power and the energy...{\r}
+Dialogue: 0,0:15:24.50,0:15:27.30,Default,,0000,0000,0000,,{\blur3}以及超新星的辐射环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the radiation environment of the supernova...{\r}
+Dialogue: 0,0:15:27.34,0:15:29.80,Default,,0000,0000,0000,,{\blur3}都足以消灭任何东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would make it pretty lethal to anything.{\r}
+Dialogue: 0,0:15:29.84,0:15:32.55,Default,,0000,0000,0000,,{\blur3}如果这三颗行星在超新星爆发时不是围绕着该星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the three planets weren't orbiting the star...{\r}
+Dialogue: 0,0:15:32.59,0:15:36.43,Default,,0000,0000,0000,,{\blur3}那么它们又是如何在那个地方的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the time of the supernova explosion, then how did they get there?{\r}
+Dialogue: 0,0:15:37.39,0:15:40.14,Default,,0000,0000,0000,,{\blur3}也许这些怪异的脉冲星行星脱胎于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe these weird pulsar planets formed...{\r}
+Dialogue: 0,0:15:40.18,0:15:44.48,Default,,0000,0000,0000,,{\blur3}超新星 那颗爆发恒星周围的残渣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the debris surrounding the supernova, the exploding star.{\r}
+Dialogue: 0,0:15:44.52,0:15:46.61,Default,,0000,0000,0000,,{\blur3}也许有一个物质盘喷出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe there was a disk of material...{\r}
+Dialogue: 0,0:15:46.65,0:15:49.40,Default,,0000,0000,0000,,{\blur3}但是它并没有完全消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was shot out, but it didn't quite escape...{\r}
+Dialogue: 0,0:15:49.44,0:15:53.74,Default,,0000,0000,0000,,{\blur3}留下了残渣盘 于是行星得以形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it left a disk of debris from which planets then formed.{\r}
+Dialogue: 0,0:15:53.78,0:15:58.08,Default,,0000,0000,0000,,{\blur3}我们真的不知道这些怪异的脉冲星行星是如何形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We don't really know how these weird pulsar planets form.{\r}
+Dialogue: 0,0:15:58.12,0:16:00.95,Default,,0000,0000,0000,,{\blur3}它们挑战着迄今以来所有的理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They challenge all theories so far.{\r}
+Dialogue: 0,0:16:01.96,0:16:04.50,Default,,0000,0000,0000,,{\blur3}脉冲星行星将惊人的新见解推向了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pulsar planets shed startling new insight...{\r}
+Dialogue: 0,0:16:04.54,0:16:07.54,Default,,0000,0000,0000,,{\blur3}整个宇宙里的太阳系的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the formation of solar systems throughout the universe.{\r}
+Dialogue: 0,0:16:10.88,0:16:16.09,Default,,0000,0000,0000,,{\blur3}如果脉冲星行星形成在超新星爆发之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the pulsar planets formed after the supernova explosion...{\r}
+Dialogue: 0,0:16:16.14,0:16:18.10,Default,,0000,0000,0000,,{\blur3}那么其意义重大 因为它们表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then they're important because they indicate...{\r}
+Dialogue: 0,0:16:18.14,0:16:20.43,Default,,0000,0000,0000,,{\blur3}行星的形成可以发生在相当极端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that planet formation can happen...{\r}
+Dialogue: 0,0:16:20.47,0:16:23.69,Default,,0000,0000,0000,,{\blur3}意想不到的环境中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in rather extreme, unexpected environments.{\r}
+Dialogue: 0,0:16:25.48,0:16:28.44,Default,,0000,0000,0000,,{\blur3}也许你不需要某些秩序井然的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe you don't need something quite as orderly...{\r}
+Dialogue: 0,0:16:28.48,0:16:32.11,Default,,0000,0000,0000,,{\blur3}如形成我们太阳系的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the gas that formed our own planetary system.{\r}
+Dialogue: 0,0:16:33.20,0:16:34.36,Default,,0000,0000,0000,,{\blur3}所以那真的是很酷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that's really cool.{\r}
+Dialogue: 0,0:16:38.16,0:16:42.04,Default,,0000,0000,0000,,{\blur3}但是如果行星在爆发前就在那里了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if the planets were there before the explosion...{\r}
+Dialogue: 0,0:16:42.08,0:16:44.66,Default,,0000,0000,0000,,{\blur3}并且依然受到该星的约束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and remained bound to the star...{\r}
+Dialogue: 0,0:16:44.71,0:16:47.08,Default,,0000,0000,0000,,{\blur3}那同样是对理论的有趣挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's an interesting challenge to theory as well...{\r}
+Dialogue: 0,0:16:47.13,0:16:49.34,Default,,0000,0000,0000,,{\blur3}因为它表明不管怎样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it shows that somehow...{\r}
+Dialogue: 0,0:16:49.38,0:16:51.96,Default,,0000,0000,0000,,{\blur3}行星在某种情况下可以依然受到约束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planets can remain bound in some cases.{\r}
+Dialogue: 0,0:16:54.63,0:16:56.59,Default,,0000,0000,0000,,{\blur3}脉冲星行星是怪物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pulsar planets are oddities...{\r}
+Dialogue: 0,0:16:56.64,0:17:01.18,Default,,0000,0000,0000,,{\blur3}但是它们所围绕的中子星或脉冲星也相当怪异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the neutron or pulsar stars they orbit are also quite bizarre.{\r}
+Dialogue: 0,0:17:08.77,0:17:11.69,Default,,0000,0000,0000,,{\blur3}中子星的物质密度极其大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neutron star material is incredibly dense.{\r}
+Dialogue: 0,0:17:11.73,0:17:14.19,Default,,0000,0000,0000,,{\blur3}单位体积的质量极高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has a very high mass per unit volume.{\r}
+Dialogue: 0,0:17:14.24,0:17:17.36,Default,,0000,0000,0000,,{\blur3}事实上 其密度相当于原子核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, it's as dense as an atomic nucleus.{\r}
+Dialogue: 0,0:17:17.41,0:17:19.91,Default,,0000,0000,0000,,{\blur3}因此如果我铲上一铲沙子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if l had a shovelful of sand...{\r}
+Dialogue: 0,0:17:19.95,0:17:22.58,Default,,0000,0000,0000,,{\blur3}这要是中子星的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this were actually neutron star material...{\r}
+Dialogue: 0,0:17:22.62,0:17:24.66,Default,,0000,0000,0000,,{\blur3}其重量差不多如{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would weigh as much as Mount Whitney...{\r}
+Dialogue: 0,0:17:24.71,0:17:27.25,Default,,0000,0000,0000,,{\blur3}加州内华达山脉的惠特尼山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the Sierra Nevada range in California.{\r}
+Dialogue: 0,0:17:27.29,0:17:29.25,Default,,0000,0000,0000,,{\blur3}其质量犹如大山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would have as much mass as a mountain.{\r}
+Dialogue: 0,0:17:29.29,0:17:33.09,Default,,0000,0000,0000,,{\blur3}一桶这种中子星的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And a bucketful of this neutron star material...{\r}
+Dialogue: 0,0:17:33.13,0:17:35.17,Default,,0000,0000,0000,,{\blur3}重量差不多如地球上最大的高山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would weigh as much as Mount Everest...{\r}
+Dialogue: 0,0:17:35.22,0:17:37.68,Default,,0000,0000,0000,,{\blur3}珠穆朗玛峰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the biggest mountain on Earth.{\r}
+Dialogue: 0,0:17:37.72,0:17:41.10,Default,,0000,0000,0000,,{\blur3}现在 我可以轻而易举提起这桶沙子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, l can lift a bucket of sand quite easily...{\r}
+Dialogue: 0,0:17:41.22,0:17:43.56,Default,,0000,0000,0000,,{\blur3}但这要是中子星物质的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but if this were actually neutron star material...{\r}
+Dialogue: 0,0:17:43.60,0:17:46.35,Default,,0000,0000,0000,,{\blur3}我是绝不可能提起珠峰的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's no way I could lift Mount Everest.{\r}
+Dialogue: 0,0:17:46.39,0:17:51.15,Default,,0000,0000,0000,,{\blur3}这表明中子星物质的密度之大有多惊人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That shows how incredibly dense neutron star material really is.{\r}
+Dialogue: 0,0:17:57.74,0:18:00.49,Default,,0000,0000,0000,,{\blur3}有两种类型的中子星:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are two types of neutron stars:{\r}
+Dialogue: 0,0:18:02.24,0:18:06.70,Default,,0000,0000,0000,,{\blur3}快速旋转并发出射电脉冲的中子星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pulsars that spin rapidly and emit beeping radio pulses...{\r}
+Dialogue: 0,0:18:08.08,0:18:13.21,Default,,0000,0000,0000,,{\blur3}以及旋转缓慢并发出磁能的磁星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and magnetars that spin slower and emit energy from magnetism.{\r}
+Dialogue: 0,0:18:16.22,0:18:19.26,Default,,0000,0000,0000,,{\blur3}磁星 比脉冲星罕见得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Magnetars, which are much rarer than pulsars...{\r}
+Dialogue: 0,0:18:19.30,0:18:22.64,Default,,0000,0000,0000,,{\blur3}具有宇宙间最强的磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have the strongest magnetic fields known in the universe.{\r}
+Dialogue: 0,0:18:25.14,0:18:28.39,Default,,0000,0000,0000,,{\blur3}地球上没有任何地方 你可以看到有磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There aren't any places on Earth where you can find magnetic fields...{\r}
+Dialogue: 0,0:18:28.44,0:18:30.56,Default,,0000,0000,0000,,{\blur3}强大到你在磁星上所看到的那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as strong as you find them in a magnetar.{\r}
+Dialogue: 0,0:18:30.60,0:18:35.15,Default,,0000,0000,0000,,{\blur3}不过好像这个特斯拉线圈可以与之匹敌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's kind of a parallel with this Tesla coil.{\r}
+Dialogue: 0,0:18:37.32,0:18:41.53,Default,,0000,0000,0000,,{\blur3}特斯拉线圈的最初实验者是尼古拉.特斯拉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Tesla coil is originally experimented with by Nikola Tesla...{\r}
+Dialogue: 0,0:18:41.57,0:18:42.74,Default,,0000,0000,0000,,{\blur3}他试图解决{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who was trying to figure out...{\r}
+Dialogue: 0,0:18:42.78,0:18:46.04,Default,,0000,0000,0000,,{\blur3}如何不用电线为家庭供电{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how to provide electricity without having to wire homes...{\r}
+Dialogue: 0,0:18:46.08,0:18:48.29,Default,,0000,0000,0000,,{\blur3}而实际上是通过空中来供电{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but actually provide electricity through the air.{\r}
+Dialogue: 0,0:18:50.08,0:18:52.25,Default,,0000,0000,0000,,{\blur3}特斯拉线圈有一个巨大的电压差{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Tesla coil has a big voltage difference.{\r}
+Dialogue: 0,0:18:52.29,0:18:54.59,Default,,0000,0000,0000,,{\blur3}中间的球与周围的笼子之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About half a million volts between the ball in the middle...{\r}
+Dialogue: 0,0:18:54.63,0:18:56.46,Default,,0000,0000,0000,,{\blur3}有约50万伏的电压{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the cage that surrounds it...{\r}
+Dialogue: 0,0:18:56.51,0:18:59.22,Default,,0000,0000,0000,,{\blur3}那个压差就是能量的释放{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that gap is a release of energy...{\r}
+Dialogue: 0,0:18:59.26,0:19:01.76,Default,,0000,0000,0000,,{\blur3}也就是 电子在空中划过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that, when the electrons fly through the air...{\r}
+Dialogue: 0,0:19:01.80,0:19:03.30,Default,,0000,0000,0000,,{\blur3}释放出巨大的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it releases a tremendous amount of energy...{\r}
+Dialogue: 0,0:19:03.35,0:19:05.10,Default,,0000,0000,0000,,{\blur3}你就看到了那些火花{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you see in those sparks.{\r}
+Dialogue: 0,0:19:05.14,0:19:07.10,Default,,0000,0000,0000,,{\blur3}磁星的情况大同小异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A magnetar is kind of the same thing.{\r}
+Dialogue: 0,0:19:07.14,0:19:08.39,Default,,0000,0000,0000,,{\blur3}它是一种能量的释放{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a release of energy...{\r}
+Dialogue: 0,0:19:08.43,0:19:11.77,Default,,0000,0000,0000,,{\blur3}你可以看到伽玛射线和X射线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you see in gamma rays and X-rays.{\r}
+Dialogue: 0,0:19:15.82,0:19:19.78,Default,,0000,0000,0000,,{\blur3}磁星可以释放出巨大的能量爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Magnetars can release gigantic bursts of energy...{\r}
+Dialogue: 0,0:19:19.82,0:19:24.62,Default,,0000,0000,0000,,{\blur3}并不是中子星那样的有规律性 而是相当的随意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not in the periodic way like a pulsar, but rather sort of at random.{\r}
+Dialogue: 0,0:19:24.66,0:19:27.66,Default,,0000,0000,0000,,{\blur3}发生于外壳的情况 如星震{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Something happens to the crust like a star quake...{\r}
+Dialogue: 0,0:19:29.58,0:19:31.71,Default,,0000,0000,0000,,{\blur3}与磁场的约束结合在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a bunch of magnetic fields come together...{\r}
+Dialogue: 0,0:19:31.75,0:19:33.46,Default,,0000,0000,0000,,{\blur3}释放出的巨大能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and release a tremendous amount of energy...{\r}
+Dialogue: 0,0:19:34.71,0:19:37.92,Default,,0000,0000,0000,,{\blur3}会转变成X射线和伽玛射线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which gets turned into X-rays and gamma rays.{\r}
+Dialogue: 0,0:19:39.63,0:19:43.76,Default,,0000,0000,0000,,{\blur3}磁星与脉冲星都是奇异之星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Magnetars and pulsars are both strange stars...{\r}
+Dialogue: 0,0:19:43.80,0:19:47.14,Default,,0000,0000,0000,,{\blur3}但是科学家发现了某些更为离奇的东西:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but scientists have discovered something even more bizarre:{\r}
+Dialogue: 0,0:19:50.68,0:19:54.02,Default,,0000,0000,0000,,{\blur3}有星体的行为如脉冲星和磁星一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a star that acts like a pulsar and a magnetar.{\r}
+Dialogue: 0,0:19:56.65,0:20:01.61,Default,,0000,0000,0000,,{\blur3}航天局的罗西X射线计时探测器 观察到这颗异乎寻常的星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA's Rossi X-ray Timing Explorer has observed this unusual star...{\r}
+Dialogue: 0,0:20:01.65,0:20:05.49,Default,,0000,0000,0000,,{\blur3}以耀斑形式喷发出五个巨大的能量爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ejecting five colossal outbursts of energy in the form of flares...{\r}
+Dialogue: 0,0:20:05.53,0:20:08.12,Default,,0000,0000,0000,,{\blur3}那是磁星的特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which are characteristic of magnetars.{\r}
+Dialogue: 0,0:20:08.16,0:20:13.08,Default,,0000,0000,0000,,{\blur3}它们在2005年5 6月间共发生了5次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They occurred five times between May and July of 2005.{\r}
+Dialogue: 0,0:20:13.12,0:20:15.50,Default,,0000,0000,0000,,{\blur3}每一个耀斑持续不到一秒钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each flare lasted less than a second...{\r}
+Dialogue: 0,0:20:15.54,0:20:19.50,Default,,0000,0000,0000,,{\blur3}但是释放的能量相当于数万个太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but released energy equivalent to tens of thousand of suns.{\r}
+Dialogue: 0,0:20:22.05,0:20:24.93,Default,,0000,0000,0000,,{\blur3}作为一例脉冲星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's been one case of a pulsar...{\r}
+Dialogue: 0,0:20:24.97,0:20:28.76,Default,,0000,0000,0000,,{\blur3}在经历了数次磁星般爆发后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which went through several magnetar-like outbursts...{\r}
+Dialogue: 0,0:20:28.81,0:20:32.43,Default,,0000,0000,0000,,{\blur3}那需要有非常强的磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that require this much stronger magnetic field...{\r}
+Dialogue: 0,0:20:32.48,0:20:34.81,Default,,0000,0000,0000,,{\blur3}某种磁场的重组{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and some sort of a restructuring of the magnetic field...{\r}
+Dialogue: 0,0:20:34.85,0:20:37.90,Default,,0000,0000,0000,,{\blur3}突然释放出的能量大大超过了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that suddenly releases a lot more energy...{\r}
+Dialogue: 0,0:20:37.94,0:20:39.44,Default,,0000,0000,0000,,{\blur3}普通的脉冲星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than a normal pulsar.{\r}
+Dialogue: 0,0:20:40.90,0:20:45.28,Default,,0000,0000,0000,,{\blur3}我们至少有了一例脉冲星与磁星之间的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we have at least one case of a link, or a missing link...{\r}
+Dialogue: 0,0:20:45.32,0:20:49.08,Default,,0000,0000,0000,,{\blur3}环节 或缺失的环节{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between pulsars and magnetars...{\r}
+Dialogue: 0,0:20:49.12,0:20:52.58,Default,,0000,0000,0000,,{\blur3}脉冲星后来表现出某种磁星的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a pulsar that later showed some magnetar phenomena.{\r}
+Dialogue: 0,0:20:55.54,0:20:59.00,Default,,0000,0000,0000,,{\blur3}脉冲星 磁星组合星相当年轻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The pulsar-magnetar combo star is fairly young...{\r}
+Dialogue: 0,0:20:59.04,0:21:00.71,Default,,0000,0000,0000,,{\blur3}尚不足900岁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}less than 900 years old.{\r}
+Dialogue: 0,0:21:03.51,0:21:05.76,Default,,0000,0000,0000,,{\blur3}因此天文学家认为中子星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So astronomers think neutron stars...{\r}
+Dialogue: 0,0:21:05.80,0:21:08.39,Default,,0000,0000,0000,,{\blur3}有可能以磁星开始自己的人生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may begin their lives as magnetars...{\r}
+Dialogue: 0,0:21:08.43,0:21:11.01,Default,,0000,0000,0000,,{\blur3}然后安顿下来变成了脉冲星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then settle down and become pulsars.{\r}
+Dialogue: 0,0:21:14.98,0:21:18.90,Default,,0000,0000,0000,,{\blur3}有可能许多中子星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could be that many neutron stars...{\r}
+Dialogue: 0,0:21:18.94,0:21:22.23,Default,,0000,0000,0000,,{\blur3}最终变成了普通的脉冲星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that eventually become normal pulsars...{\r}
+Dialogue: 0,0:21:22.28,0:21:25.11,Default,,0000,0000,0000,,{\blur3}其实在经历磁星式爆发时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually go through magnetar-like outbursts...{\r}
+Dialogue: 0,0:21:25.15,0:21:26.28,Default,,0000,0000,0000,,{\blur3}它们都很年轻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when they're very young...{\r}
+Dialogue: 0,0:21:26.32,0:21:28.74,Default,,0000,0000,0000,,{\blur3}也就几百岁或上千岁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just a few hundred years old or a thousand years old.{\r}
+Dialogue: 0,0:21:28.78,0:21:31.08,Default,,0000,0000,0000,,{\blur3}那可能是关键的环节{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That could be the critical link.{\r}
+Dialogue: 0,0:21:31.12,0:21:34.25,Default,,0000,0000,0000,,{\blur3}我们看到的这个要比我们所看到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're seeing this one when it's much younger...{\r}
+Dialogue: 0,0:21:34.29,0:21:36.29,Default,,0000,0000,0000,,{\blur3}多数脉冲星年轻得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than most pulsars that we see.{\r}
+Dialogue: 0,0:21:39.04,0:21:42.13,Default,,0000,0000,0000,,{\blur3}宇宙间有某些不同寻常的星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some unusual stars exist in the cosmos...{\r}
+Dialogue: 0,0:21:44.51,0:21:47.51,Default,,0000,0000,0000,,{\blur3}但太空中也同样有怪异的小不点存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but there is equally odd small stuff in space.{\r}
+Dialogue: 0,0:21:49.34,0:21:52.39,Default,,0000,0000,0000,,{\blur3}最近 科学家已经解开了整个宇宙间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And recently, scientists have solved the mystery...{\r}
+Dialogue: 0,0:21:52.43,0:21:56.27,Default,,0000,0000,0000,,{\blur3}最难以捉摸的东西之一的谜团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}surrounding one of the most elusive things in the entire universe...{\r}
+Dialogue: 0,0:21:56.31,0:22:01.48,Default,,0000,0000,0000,,{\blur3}每时每刻都在穿越我们的幽灵粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a ghostly particle that passes through us every second of every day.{\r}
+Dialogue: 0,0:22:07.82,0:22:10.74,Default,,0000,0000,0000,,{\blur3}宇宙号称拥有无穷无尽的...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe lays claim to infinite numbers...{\r}
+Dialogue: 0,0:22:10.78,0:22:12.83,Default,,0000,0000,0000,,{\blur3}异常行星和恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of abnormal planets and stars.{\r}
+Dialogue: 0,0:22:14.62,0:22:15.95,Default,,0000,0000,0000,,{\blur3}与此同时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the same time...{\r}
+Dialogue: 0,0:22:16.00,0:22:19.42,Default,,0000,0000,0000,,{\blur3}太空中同样拥有怪异的小不点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are equally strange small things in space.{\r}
+Dialogue: 0,0:22:23.21,0:22:25.84,Default,,0000,0000,0000,,{\blur3}人类以及大部分宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Human beings and most of the universe...{\r}
+Dialogue: 0,0:22:25.88,0:22:28.05,Default,,0000,0000,0000,,{\blur3}是由普通物质构成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are made up of normal matter...{\r}
+Dialogue: 0,0:22:29.59,0:22:33.14,Default,,0000,0000,0000,,{\blur3}其中主要包括了四种基本粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which primarily consists of four fundamental particles.{\r}
+Dialogue: 0,0:22:33.97,0:22:37.81,Default,,0000,0000,0000,,{\blur3}其中之一就是幽灵般的粒子 叫做中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One is a ghost-like particle called a neutrino.{\r}
+Dialogue: 0,0:22:39.52,0:22:41.02,Default,,0000,0000,0000,,{\blur3}中微子 我会认为是...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neutrinos would be my vote...{\r}
+Dialogue: 0,0:22:41.06,0:22:43.90,Default,,0000,0000,0000,,{\blur3}宇宙间最奇异的普通物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for some of the weirdest normal matter in the universe.{\r}
+Dialogue: 0,0:22:46.32,0:22:48.07,Default,,0000,0000,0000,,{\blur3}就在此时 每秒钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At this very moment, every second...{\r}
+Dialogue: 0,0:22:48.11,0:22:51.20,Default,,0000,0000,0000,,{\blur3}有50万亿个中微子来自太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are 50 trillion neutrinos actually coming from the Sun...{\r}
+Dialogue: 0,0:22:51.24,0:22:52.91,Default,,0000,0000,0000,,{\blur3}穿过我的身体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are passing through my body...{\r}
+Dialogue: 0,0:22:52.95,0:22:54.70,Default,,0000,0000,0000,,{\blur3}还有中微子来自其它恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there are other neutrinos from other stars...{\r}
+Dialogue: 0,0:22:54.74,0:22:57.24,Default,,0000,0000,0000,,{\blur3}从四面八方奔向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}coming in different directions right through the Earth.{\r}
+Dialogue: 0,0:22:57.29,0:23:00.83,Default,,0000,0000,0000,,{\blur3}这些东西 数以万亿计 一刻不停涌入我体内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These things, by the trillions, are pouring into me every second...{\r}
+Dialogue: 0,0:23:00.87,0:23:02.67,Default,,0000,0000,0000,,{\blur3}但是我们却毫无觉察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we're completely unaware of them.{\r}
+Dialogue: 0,0:23:02.71,0:23:05.17,Default,,0000,0000,0000,,{\blur3}它们根本不会与我们相互作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't really interact with us at all.{\r}
+Dialogue: 0,0:23:06.96,0:23:10.17,Default,,0000,0000,0000,,{\blur3}有一种小粒子叫做中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a funny little particle called a neutrino...{\r}
+Dialogue: 0,0:23:10.22,0:23:12.68,Default,,0000,0000,0000,,{\blur3}是意大利语中的"小中性粒子"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Italian for "little neutral one."{\r}
+Dialogue: 0,0:23:12.72,0:23:15.68,Default,,0000,0000,0000,,{\blur3}它具有极小的质量 极少量的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has very little mass, a very small amount of matter...{\r}
+Dialogue: 0,0:23:15.72,0:23:17.85,Default,,0000,0000,0000,,{\blur3}几乎没有 但它却具有能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}almost nothing, but it has energy...{\r}
+Dialogue: 0,0:23:17.89,0:23:21.23,Default,,0000,0000,0000,,{\blur3}它穿越空间 速度几近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it zips through space at close to the speed of light.{\r}
+Dialogue: 0,0:23:31.15,0:23:34.74,Default,,0000,0000,0000,,{\blur3}这些东西是非互动性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These things are so non-interactive...{\r}
+Dialogue: 0,0:23:34.78,0:23:38.08,Default,,0000,0000,0000,,{\blur3}要是你设想有一光年厚的铅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that if you imagine a light-year thickness of lead...{\r}
+Dialogue: 0,0:23:38.12,0:23:40.70,Default,,0000,0000,0000,,{\blur3}你拿一束中微子射向它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you shined a beam of neutrinos toward it...{\r}
+Dialogue: 0,0:23:40.75,0:23:41.96,Default,,0000,0000,0000,,{\blur3}其中一半的中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}half of those neutrinos...{\r}
+Dialogue: 0,0:23:42.00,0:23:45.71,Default,,0000,0000,0000,,{\blur3}将会穿过这一光年厚的铅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would make it through that light-year thickness of lead...{\r}
+Dialogue: 0,0:23:45.75,0:23:47.59,Default,,0000,0000,0000,,{\blur3}居然毫发无伤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}completely unscathed.{\r}
+Dialogue: 0,0:23:51.84,0:23:53.76,Default,,0000,0000,0000,,{\blur3}中微子最常见是形成于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neutrinos are most commonly formed...{\r}
+Dialogue: 0,0:23:53.80,0:23:57.81,Default,,0000,0000,0000,,{\blur3}恒星内部的核反应 包括我们的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by nuclear reactions inside stars, including our Sun.{\r}
+Dialogue: 0,0:24:09.69,0:24:12.15,Default,,0000,0000,0000,,{\blur3}每秒钟约有600亿个太阳中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 60 billion solar neutrinos...{\r}
+Dialogue: 0,0:24:12.20,0:24:14.95,Default,,0000,0000,0000,,{\blur3}穿过我们的拇指{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pass through our thumbnails every second.{\r}
+Dialogue: 0,0:24:20.91,0:24:24.00,Default,,0000,0000,0000,,{\blur3}不过还有其它源头产生着中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there are other sources that create neutrinos.{\r}
+Dialogue: 0,0:24:25.13,0:24:27.92,Default,,0000,0000,0000,,{\blur3}它们产生于核反应堆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are produced by nuclear reactors...{\r}
+Dialogue: 0,0:24:27.96,0:24:29.96,Default,,0000,0000,0000,,{\blur3}有些产生于一直就在我们周围的岩石里的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are some being produced by the radioactive decay...{\r}
+Dialogue: 0,0:24:30.01,0:24:32.38,Default,,0000,0000,0000,,{\blur3}元素的放射性衰变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of elements in the rock around us all the time.{\r}
+Dialogue: 0,0:24:33.93,0:24:35.43,Default,,0000,0000,0000,,{\blur3}还有实际上是产生于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there are others that are actually produced...{\r}
+Dialogue: 0,0:24:35.47,0:24:37.80,Default,,0000,0000,0000,,{\blur3}宇宙射线轰击我们的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when cosmic rays slam into our atmosphere.{\r}
+Dialogue: 0,0:24:40.31,0:24:43.02,Default,,0000,0000,0000,,{\blur3}它们轰击大气层的力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they hit the atmosphere literally with the force...{\r}
+Dialogue: 0,0:24:43.06,0:24:45.31,Default,,0000,0000,0000,,{\blur3}相当于时速100英里的快球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of a 100-mile-an-hour fastball.{\r}
+Dialogue: 0,0:24:51.07,0:24:54.36,Default,,0000,0000,0000,,{\blur3}海量的中微子被释放进宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vast numbers of neutrinos were released into the universe...{\r}
+Dialogue: 0,0:24:54.40,0:24:58.99,Default,,0000,0000,0000,,{\blur3}紧接着大爆炸 伴随着其它粒子和光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}immediately after the Big Bang, along with other particles and light.{\r}
+Dialogue: 0,0:24:59.74,0:25:03.45,Default,,0000,0000,0000,,{\blur3}人类就是这种原生汤的后裔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Humans are the descendants of this primordial soup.{\r}
+Dialogue: 0,0:25:09.75,0:25:12.84,Default,,0000,0000,0000,,{\blur3}中微子是不同寻常的小不点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neutrinos are unusual small objects...{\r}
+Dialogue: 0,0:25:14.17,0:25:17.55,Default,,0000,0000,0000,,{\blur3}但是同样存在着不同凡响的大玩意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but there are equally out of the ordinary big things.{\r}
+Dialogue: 0,0:25:22.72,0:25:25.02,Default,,0000,0000,0000,,{\blur3}小行星就是太阳系形成时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Asteroids are the rocky leftovers...{\r}
+Dialogue: 0,0:25:25.06,0:25:27.19,Default,,0000,0000,0000,,{\blur3}所残留的石头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the formation of the solar system.{\r}
+Dialogue: 0,0:25:30.07,0:25:31.98,Default,,0000,0000,0000,,{\blur3}这些太空石块主要呆在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These space rocks primarily orbit...{\r}
+Dialogue: 0,0:25:32.03,0:25:34.69,Default,,0000,0000,0000,,{\blur3}火星与木星之间的小行星带里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}within the asteroid belt between Jupiter and Mars.{\r}
+Dialogue: 0,0:25:39.28,0:25:42.08,Default,,0000,0000,0000,,{\blur3}在定居小行星带里的数十亿个里头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Among the billions that inhabit the asteroid belt...{\r}
+Dialogue: 0,0:25:42.12,0:25:45.04,Default,,0000,0000,0000,,{\blur3}有一个小行星真是模样古怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's one asteroid that's truly eccentric.{\r}
+Dialogue: 0,0:25:47.42,0:25:51.29,Default,,0000,0000,0000,,{\blur3}最怪异的小行星叫做图塔蒂斯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the strangest asteroids is one called Toutatis...{\r}
+Dialogue: 0,0:25:51.34,0:25:55.21,Default,,0000,0000,0000,,{\blur3}我想它之所以引人瞩目就在于它与众不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and l guess it catches our attention a lot because it's odd.{\r}
+Dialogue: 0,0:25:55.26,0:25:57.26,Default,,0000,0000,0000,,{\blur3}它不是球形的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not perfectly round.{\r}
+Dialogue: 0,0:25:57.30,0:25:58.38,Default,,0000,0000,0000,,{\blur3}它有点畸形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's kind of misshapen.{\r}
+Dialogue: 0,0:25:58.43,0:26:02.01,Default,,0000,0000,0000,,{\blur3}它看上去像是保龄球瓶 细长的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It sort of looks like a bowling pin, elongated...{\r}
+Dialogue: 0,0:26:02.06,0:26:04.22,Default,,0000,0000,0000,,{\blur3}下面鼓起来 然后有个狭长的脖子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a bulge down here and then a narrow neck...{\r}
+Dialogue: 0,0:26:04.27,0:26:05.27,Default,,0000,0000,0000,,{\blur3}然后一头又鼓起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then another bulge.{\r}
+Dialogue: 0,0:26:05.31,0:26:06.31,Default,,0000,0000,0000,,{\blur3}有人甚至称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some have even said...{\r}
+Dialogue: 0,0:26:06.35,0:26:10.23,Default,,0000,0000,0000,,{\blur3}它有可能是两个单独的物体松散地结合在一起的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's maybe two separate objects loosely connected.{\r}
+Dialogue: 0,0:26:11.94,0:26:15.57,Default,,0000,0000,0000,,{\blur3}它有一个奇怪的自转周期 好像在翻跟斗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's got a strange rotational period where it's sort of tumbling...{\r}
+Dialogue: 0,0:26:15.61,0:26:18.03,Default,,0000,0000,0000,,{\blur3}就像是没投好的橄榄球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}kind of like a badly thrown football.{\r}
+Dialogue: 0,0:26:18.07,0:26:21.24,Default,,0000,0000,0000,,{\blur3}其旋转并没有任何主轴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not spinning along any of its primary axes.{\r}
+Dialogue: 0,0:26:22.24,0:26:24.62,Default,,0000,0000,0000,,{\blur3}它实际上是沿着三个方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's actually sort of spinning along all three...{\r}
+Dialogue: 0,0:26:24.66,0:26:25.91,Default,,0000,0000,0000,,{\blur3}在太空中翻滚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tumbling through space.{\r}
+Dialogue: 0,0:26:31.17,0:26:34.04,Default,,0000,0000,0000,,{\blur3}图塔蒂斯也有一个大椭圆轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Toutatis also has a highly elliptical orbit...{\r}
+Dialogue: 0,0:26:34.09,0:26:38.47,Default,,0000,0000,0000,,{\blur3}把它从小行星带里带到地球的轨道内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which carries it from the asteroid belt to inside the Earth's orbit.{\r}
+Dialogue: 0,0:26:38.51,0:26:40.22,Default,,0000,0000,0000,,{\blur3}它是颗越地小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's an Earth-Crossing asteroid...{\r}
+Dialogue: 0,0:26:40.26,0:26:42.01,Default,,0000,0000,0000,,{\blur3}使它进入危险区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that puts it in the danger zone...{\r}
+Dialogue: 0,0:26:42.05,0:26:44.39,Default,,0000,0000,0000,,{\blur3}成为潜在袭击我们的对象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as something that could potentially strike us.{\r}
+Dialogue: 0,0:26:45.81,0:26:50.23,Default,,0000,0000,0000,,{\blur3}2004年9月 图塔蒂斯近在咫尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In September of 2004, Toutatis got too close for comfort.{\r}
+Dialogue: 0,0:26:52.02,0:26:54.57,Default,,0000,0000,0000,,{\blur3}该小行星不足百万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The asteroid came within a million miles...{\r}
+Dialogue: 0,0:26:54.61,0:26:57.61,Default,,0000,0000,0000,,{\blur3}即约我们月球距离的四倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or about four times the distance to our Moon.{\r}
+Dialogue: 0,0:26:58.02,0:27:00.49,Default,,0000,0000,0000,,{\blur3}那是非常近的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's really close for an asteroid...{\r}
+Dialogue: 0,0:27:00.53,0:27:01.91,Default,,0000,0000,0000,,{\blur3}尤其是对这么大的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially for one that big...{\r}
+Dialogue: 0,0:27:01.95,0:27:03.99,Default,,0000,0000,0000,,{\blur3}如果它一头撞向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and if it were to crash into Earth...{\r}
+Dialogue: 0,0:27:04.03,0:27:08.33,Default,,0000,0000,0000,,{\blur3}是不会被我们的大气层减缓速度的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would not slow down one bit by our atmosphere.{\r}
+Dialogue: 0,0:27:08.37,0:27:11.87,Default,,0000,0000,0000,,{\blur3}它确实会打击我们 对地球极具威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would really smack us and be very devastating to Earth.{\r}
+Dialogue: 0,0:27:20.47,0:27:25.30,Default,,0000,0000,0000,,{\blur3}下一次接近过程要到26世纪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The next near passage isn't until about the 26th century...{\r}
+Dialogue: 0,0:27:25.35,0:27:27.35,Default,,0000,0000,0000,,{\blur3}数百年后了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so hundreds of years away.{\r}
+Dialogue: 0,0:27:27.39,0:27:30.56,Default,,0000,0000,0000,,{\blur3}所以我们和图塔蒂斯相安无事 但我们必须时刻关注{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we're in good shape with Toutatis, but we have to keep an eye on it.{\r}
+Dialogue: 0,0:27:33.86,0:27:36.52,Default,,0000,0000,0000,,{\blur3}图塔蒂斯是颗不规则的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Toutatis is an irregular asteroid...{\r}
+Dialogue: 0,0:27:36.57,0:27:39.61,Default,,0000,0000,0000,,{\blur3}但是有许多更大 更怪异的宇宙天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but there are much bigger and stranger cosmic bodies...{\r}
+Dialogue: 0,0:27:39.65,0:27:40.99,Default,,0000,0000,0000,,{\blur3}游荡在宇宙间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that roam the universe.{\r}
+Dialogue: 0,0:27:45.33,0:27:47.70,Default,,0000,0000,0000,,{\blur3}月球 也就是众所周知的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A moon, also known as a satellite...{\r}
+Dialogue: 0,0:27:47.74,0:27:52.75,Default,,0000,0000,0000,,{\blur3}是天体 围绕着行星或较小的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a celestial body that orbits a planet or a smaller object...{\r}
+Dialogue: 0,0:27:52.79,0:27:55.13,Default,,0000,0000,0000,,{\blur3}诸如矮行星或小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}such as a dwarf planet or asteroid.{\r}
+Dialogue: 0,0:27:56.25,0:28:00.42,Default,,0000,0000,0000,,{\blur3}光我们太阳系里就有240个卫星存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 240 moons exist in our solar system alone.{\r}
+Dialogue: 0,0:28:02.22,0:28:05.97,Default,,0000,0000,0000,,{\blur3}可是地球的月球是太阳系里唯一的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And yet Earth's Moon is the only satellite in the solar system...{\r}
+Dialogue: 0,0:28:06.01,0:28:08.35,Default,,0000,0000,0000,,{\blur3}可以完全遮挡太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that perfectly eclipses the Sun.{\r}
+Dialogue: 0,0:28:13.23,0:28:14.98,Default,,0000,0000,0000,,{\blur3}不过最奇怪的卫星之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But one of the most curious moons...{\r}
+Dialogue: 0,0:28:15.02,0:28:18.82,Default,,0000,0000,0000,,{\blur3}属于我们外太阳系里的一颗巨大的气体行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}belongs to a gas giant planet in our outer solar system.{\r}
+Dialogue: 0,0:28:22.07,0:28:26.24,Default,,0000,0000,0000,,{\blur3}米兰达(天卫五)天王星的卫星之一 是在是一颗奇怪的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Miranda, one of Uranus' moons, is really a weird moon.{\r}
+Dialogue: 0,0:28:26.28,0:28:27.57,Default,,0000,0000,0000,,{\blur3}它非常小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very small.{\r}
+Dialogue: 0,0:28:27.62,0:28:29.87,Default,,0000,0000,0000,,{\blur3}只有290英里宽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its only about 290 miles across...{\r}
+Dialogue: 0,0:28:29.91,0:28:31.08,Default,,0000,0000,0000,,{\blur3}所以它刚好可以塞进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it would tuck neatly...{\r}
+Dialogue: 0,0:28:31.12,0:28:34.12,Default,,0000,0000,0000,,{\blur3}纽约到华盛顿之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the sort of New York to Washington corridor.{\r}
+Dialogue: 0,0:28:34.17,0:28:40.09,Default,,0000,0000,0000,,{\blur3}但是它是一派混乱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it is completely, you know, a mess.{\r}
+Dialogue: 0,0:28:42.38,0:28:43.72,Default,,0000,0000,0000,,{\blur3}米兰达被命名为...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Miranda has been named...{\r}
+Dialogue: 0,0:28:43.76,0:28:46.30,Default,,0000,0000,0000,,{\blur3}我们太阳系里的怪物卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Frankenstein moon of our solar system...{\r}
+Dialogue: 0,0:28:46.34,0:28:49.05,Default,,0000,0000,0000,,{\blur3}因为其乱七八糟的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because of its haphazard surface.{\r}
+Dialogue: 0,0:28:49.10,0:28:53.14,Default,,0000,0000,0000,,{\blur3}其表面有各种地貌 峡谷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The surface has all kinds of features and canyons...{\r}
+Dialogue: 0,0:28:53.18,0:28:56.56,Default,,0000,0000,0000,,{\blur3}河流 裂缝 看上去就像{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and flows and cracks, and it looks like...{\r}
+Dialogue: 0,0:28:56.60,0:28:58.69,Default,,0000,0000,0000,,{\blur3}刚被绞拧过 要知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's just been through the wringer, you know...{\r}
+Dialogue: 0,0:28:58.73,0:29:00.40,Default,,0000,0000,0000,,{\blur3}它经历过什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it's been through something.{\r}
+Dialogue: 0,0:29:01.44,0:29:04.03,Default,,0000,0000,0000,,{\blur3}尽管它只有290英里宽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even though it's only 290 miles across...{\r}
+Dialogue: 0,0:29:04.07,0:29:06.78,Default,,0000,0000,0000,,{\blur3}它的峡谷却有12英里深{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it has canyons that are 12 miles deep.{\r}
+Dialogue: 0,0:29:06.82,0:29:08.24,Default,,0000,0000,0000,,{\blur3}要知道 相比之下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You know, by comparison...{\r}
+Dialogue: 0,0:29:08.28,0:29:11.37,Default,,0000,0000,0000,,{\blur3}大峡谷长约280英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Grand Canyon is about 280 miles long...{\r}
+Dialogue: 0,0:29:11.41,0:29:13.87,Default,,0000,0000,0000,,{\blur3}深1英里不等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and is a mile deep or thereabouts.{\r}
+Dialogue: 0,0:29:13.91,0:29:15.91,Default,,0000,0000,0000,,{\blur3}使米兰达成为太阳系里最怪异的卫星之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What makes Miranda one of the strangest moons...{\r}
+Dialogue: 0,0:29:15.96,0:29:19.33,Default,,0000,0000,0000,,{\blur3}就是它看上去好像是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the solar system is that it looks as though it were--{\r}
+Dialogue: 0,0:29:19.38,0:29:21.84,Default,,0000,0000,0000,,{\blur3}它是其它卫星或行星的...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was assembled from the leftover bits...{\r}
+Dialogue: 0,0:29:21.88,0:29:23.13,Default,,0000,0000,0000,,{\blur3}边角料做成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of other moons and planets.{\r}
+Dialogue: 0,0:29:25.59,0:29:28.14,Default,,0000,0000,0000,,{\blur3}其表面有着两重性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's got a dual nature about the surface.{\r}
+Dialogue: 0,0:29:28.18,0:29:31.81,Default,,0000,0000,0000,,{\blur3}你可以看到有些地区非常平坦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've got certain regions that appear very flat...{\r}
+Dialogue: 0,0:29:33.48,0:29:36.10,Default,,0000,0000,0000,,{\blur3}而其他地区就变幻莫测了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then other locations that are very dynamic.{\r}
+Dialogue: 0,0:29:38.15,0:29:40.06,Default,,0000,0000,0000,,{\blur3}米兰达困惑着天文学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Miranda puzzles astronomers...{\r}
+Dialogue: 0,0:29:40.11,0:29:42.98,Default,,0000,0000,0000,,{\blur3}因为他们不清楚它究竟是怎么形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they don't know exactly how it was formed.{\r}
+Dialogue: 0,0:29:46.11,0:29:49.36,Default,,0000,0000,0000,,{\blur3}一种理论认为在几十亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One theory suggests that billions of years ago...{\r}
+Dialogue: 0,0:29:49.41,0:29:52.53,Default,,0000,0000,0000,,{\blur3}这颗小卫星牵涉到了一次宇宙冲击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the tiny moon may have been involved in a cosmic impact...{\r}
+Dialogue: 0,0:29:52.58,0:29:58.75,Default,,0000,0000,0000,,{\blur3}其威力之大 将它破碎成了许多冰块和石块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so immense that it broke into many icy and rocky pieces.{\r}
+Dialogue: 0,0:29:58.79,0:30:01.04,Default,,0000,0000,0000,,{\blur3}这些碎片会重新融合在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These pieces could have melded back together...{\r}
+Dialogue: 0,0:30:01.38,0:30:04.84,Default,,0000,0000,0000,,{\blur3}成为明暗相间图案和形状的大杂烩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a hodgepodge of light and dark patterns and shapes.{\r}
+Dialogue: 0,0:30:09.51,0:30:11.72,Default,,0000,0000,0000,,{\blur3}不过另一种假设认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But an alternative hypothesis suggests...{\r}
+Dialogue: 0,0:30:11.76,0:30:15.14,Default,,0000,0000,0000,,{\blur3}米兰达的地表是断裂的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that Miranda's surface is the result of faulting...{\r}
+Dialogue: 0,0:30:15.18,0:30:16.89,Default,,0000,0000,0000,,{\blur3}当时有巨大的压力形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when enormous stresses build...{\r}
+Dialogue: 0,0:30:16.94,0:30:20.02,Default,,0000,0000,0000,,{\blur3}推动巨大的岩石超过了它们的极限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and push large rock masses beyond their limit.{\r}
+Dialogue: 0,0:30:25.90,0:30:28.90,Default,,0000,0000,0000,,{\blur3}很像地球上所发生的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's much like what has happened here on Earth.{\r}
+Dialogue: 0,0:30:34.08,0:30:37.25,Default,,0000,0000,0000,,{\blur3}这里是南加州的华斯克巨岩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vasquez Rocks here in Southern California...{\r}
+Dialogue: 0,0:30:37.29,0:30:41.96,Default,,0000,0000,0000,,{\blur3}我们看到的是地球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what we see is the result of two plates on Earth's surface...{\r}
+Dialogue: 0,0:30:42.00,0:30:44.34,Default,,0000,0000,0000,,{\blur3}两个板块彼此对撞的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are sort of pushing against each other...{\r}
+Dialogue: 0,0:30:44.38,0:30:46.38,Default,,0000,0000,0000,,{\blur3}传递着巨大的压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}imparting a large amount of stress.{\r}
+Dialogue: 0,0:30:48.38,0:30:49.63,Default,,0000,0000,0000,,{\blur3}为了减轻压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In order to relieve that stress...{\r}
+Dialogue: 0,0:30:49.68,0:30:52.14,Default,,0000,0000,0000,,{\blur3}你要产生皱褶 隆起地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're generating folding and buckling of the surface...{\r}
+Dialogue: 0,0:30:52.18,0:30:54.64,Default,,0000,0000,0000,,{\blur3}给我们带来这些引人注目的山尖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that gives us these dramatic spires...{\r}
+Dialogue: 0,0:30:54.68,0:30:56.35,Default,,0000,0000,0000,,{\blur3}我们周围的这些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we see all around.{\r}
+Dialogue: 0,0:30:58.23,0:31:01.10,Default,,0000,0000,0000,,{\blur3}类似的活动也发生在米兰达上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A similar type of action is occurring on Miranda...{\r}
+Dialogue: 0,0:31:01.15,0:31:04.11,Default,,0000,0000,0000,,{\blur3}在那里你看到其表面有巨大的压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you have enormous amounts of stress on the surface...{\r}
+Dialogue: 0,0:31:04.15,0:31:07.23,Default,,0000,0000,0000,,{\blur3}造成米兰达地表的皱褶和隆起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are causing buckling and folding of the Mirandan surface...{\r}
+Dialogue: 0,0:31:07.28,0:31:10.28,Default,,0000,0000,0000,,{\blur3}产生了我们所见到的山峰和陡坡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}generating the peaks and scarps that we see there.{\r}
+Dialogue: 0,0:31:12.57,0:31:16.41,Default,,0000,0000,0000,,{\blur3}米兰达只是构成我们银河系的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Miranda is just one of millions of unexplainable objects...{\r}
+Dialogue: 0,0:31:16.45,0:31:19.62,Default,,0000,0000,0000,,{\blur3}数百万个无法解释的天体之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that make up our Milky Way galaxy.{\r}
+Dialogue: 0,0:31:19.66,0:31:24.13,Default,,0000,0000,0000,,{\blur3}但是我们的星系并非宇宙间最怪异的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yet our galaxy isn't the strangest one in the universe.{\r}
+Dialogue: 0,0:31:24.17,0:31:27.84,Default,,0000,0000,0000,,{\blur3}有其它星系赋予了"怪异"一词以新的意思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are others that give new meaning to the word "strange."{\r}
+Dialogue: 0,0:31:32.72,0:31:36.18,Default,,0000,0000,0000,,{\blur3}星系 是星际社区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Galaxies-- they're celestial neighborhoods...{\r}
+Dialogue: 0,0:31:36.22,0:31:41.39,Default,,0000,0000,0000,,{\blur3}由行星 恒星 气体 尘埃组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}made up of planets, stars, gas, and dust.{\r}
+Dialogue: 0,0:31:45.82,0:31:50.03,Default,,0000,0000,0000,,{\blur3}至少有1000亿个星系存在于可观察到的宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At least 100 billion of them exist in the observable universe...{\r}
+Dialogue: 0,0:31:53.07,0:31:56.24,Default,,0000,0000,0000,,{\blur3}但是很多天文学家认为最怪异的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but many astronomers think the most bizarre galaxies...{\r}
+Dialogue: 0,0:31:56.28,0:32:02.29,Default,,0000,0000,0000,,{\blur3}是极亮红外星系 即ULIRGs{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are ultraluminous infrared galaxies, also known ULIRGs.{\r}
+Dialogue: 0,0:32:02.33,0:32:04.50,Default,,0000,0000,0000,,{\blur3}以红外线观察它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When looking at them in the infrared light...{\r}
+Dialogue: 0,0:32:04.54,0:32:08.88,Default,,0000,0000,0000,,{\blur3}其亮度是普通星系的100倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they are 100 times brighter than normal galaxies...{\r}
+Dialogue: 0,0:32:08.92,0:32:12.63,Default,,0000,0000,0000,,{\blur3}因此它们是宇宙间最明亮的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they are among the most luminous in the universe.{\r}
+Dialogue: 0,0:32:14.93,0:32:16.93,Default,,0000,0000,0000,,{\blur3}这些极亮红外星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The enormous amounts of energy being put out...{\r}
+Dialogue: 0,0:32:16.97,0:32:19.64,Default,,0000,0000,0000,,{\blur3}释放出的巨大能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by these ultraluminous infrared galaxies...{\r}
+Dialogue: 0,0:32:19.81,0:32:25.77,Default,,0000,0000,0000,,{\blur3}是恒星形成时巨大爆发的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the result of huge bursts of star formation.{\r}
+Dialogue: 0,0:32:32.11,0:32:38.78,Default,,0000,0000,0000,,{\blur3}在我们星系里 每年都会诞生一颗我们太阳大小的新星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our galaxy, about one new star the size of our Sun is born every year...{\r}
+Dialogue: 0,0:32:41.33,0:32:46.00,Default,,0000,0000,0000,,{\blur3}但是在ULIRGs里 每年都会形成100颗新星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in ULIRGs, about a hundred new stars are formed yearly.{\r}
+Dialogue: 0,0:32:48.00,0:32:50.71,Default,,0000,0000,0000,,{\blur3}恒星诞生于星际气体中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stars are formed out of interstellar gas...{\r}
+Dialogue: 0,0:32:50.76,0:32:52.38,Default,,0000,0000,0000,,{\blur3}它们四周笼罩着尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they're surrounded by dust...{\r}
+Dialogue: 0,0:32:52.42,0:32:54.26,Default,,0000,0000,0000,,{\blur3}你是无法看到恒星的形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you can't really see the stars forming.{\r}
+Dialogue: 0,0:32:54.30,0:32:57.84,Default,,0000,0000,0000,,{\blur3}但是那能量整个加热了尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But all of that energy heats up the dust...{\r}
+Dialogue: 0,0:32:57.89,0:33:00.72,Default,,0000,0000,0000,,{\blur3}转而 发出了红外线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which, in turn, glows in infrared light.{\r}
+Dialogue: 0,0:33:00.77,0:33:04.85,Default,,0000,0000,0000,,{\blur3}所以你看到的这世世代代恒星发出的所有能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you're seeing all of the energy of all of these generations of stars...{\r}
+Dialogue: 0,0:33:04.89,0:33:07.77,Default,,0000,0000,0000,,{\blur3}被这些星系里的尘埃吸收{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}being absorbed and re-radiated in infrared...{\r}
+Dialogue: 0,0:33:07.81,0:33:10.02,Default,,0000,0000,0000,,{\blur3}并重新发出红外辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the dust in these galaxies.{\r}
+Dialogue: 0,0:33:10.07,0:33:12.78,Default,,0000,0000,0000,,{\blur3}所以就像是裹尸布包裹着星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's like there's a shroud over the galaxies...{\r}
+Dialogue: 0,0:33:12.82,0:33:16.99,Default,,0000,0000,0000,,{\blur3}不过裹尸布本身的发光极其明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the shroud itself is glowing really, really brightly.{\r}
+Dialogue: 0,0:33:21.62,0:33:25.50,Default,,0000,0000,0000,,{\blur3}ULIRGs首次发现是在1980年代初{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ULIRGs were first discovered in the early 1980s...{\r}
+Dialogue: 0,0:33:25.54,0:33:29.58,Default,,0000,0000,0000,,{\blur3}当时的红外天文卫星(IRAS){\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when the infrared astronomical satellite known as IRAS...{\r}
+Dialogue: 0,0:33:29.67,0:33:33.51,Default,,0000,0000,0000,,{\blur3}偶尔发现有星系的红外波极其明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}picked up galaxies that are extremely bright at infrared wavelengths...{\r}
+Dialogue: 0,0:33:34.92,0:33:38.18,Default,,0000,0000,0000,,{\blur3}其强度超过了我们的太阳有万亿倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a trillion times more powerful than our Sun.{\r}
+Dialogue: 0,0:33:42.02,0:33:48.81,Default,,0000,0000,0000,,{\blur3}已发现的最亮的ULIRGs之一是f15307+3252{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the most luminous ULIRGs has been identified as f15307+3252.{\r}
+Dialogue: 0,0:33:49.94,0:33:52.77,Default,,0000,0000,0000,,{\blur3}它位于70亿光年外的...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's located seven billion light-years away...{\r}
+Dialogue: 0,0:33:52.82,0:33:54.86,Default,,0000,0000,0000,,{\blur3}牧夫座里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the constellation Bootes.{\r}
+Dialogue: 0,0:33:56.36,0:33:59.11,Default,,0000,0000,0000,,{\blur3}那个名字中的数字指的是星座在空中的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The numbers in those names refer to the direction...{\r}
+Dialogue: 0,0:33:59.16,0:34:02.28,Default,,0000,0000,0000,,{\blur3}这样你就可以找到该天体了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the coordinates in the sky where you can find the object.{\r}
+Dialogue: 0,0:34:02.33,0:34:04.24,Default,,0000,0000,0000,,{\blur3}这星系非常明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This one is very bright...{\r}
+Dialogue: 0,0:34:04.29,0:34:07.21,Default,,0000,0000,0000,,{\blur3}相对来说 非常遥远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}very, relatively speaking, distant...{\r}
+Dialogue: 0,0:34:07.25,0:34:10.08,Default,,0000,0000,0000,,{\blur3}是个激动人心的发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and is a very exciting find...{\r}
+Dialogue: 0,0:34:10.13,0:34:13.30,Default,,0000,0000,0000,,{\blur3}因为居然有这么多的恒星在形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because there's just so much star formation going on...{\r}
+Dialogue: 0,0:34:13.34,0:34:16.05,Default,,0000,0000,0000,,{\blur3}我们想弄个明白 为何会是那种情形?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we want to understand, why is that the case?{\r}
+Dialogue: 0,0:34:16.09,0:34:17.67,Default,,0000,0000,0000,,{\blur3}它是如何发生的?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How did it happen?{\r}
+Dialogue: 0,0:34:17.72,0:34:21.39,Default,,0000,0000,0000,,{\blur3}究竟是什么导致了我们所见到的 这种大量恒星的形成的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What triggered this enormous amount of star formation that we're seeing?{\r}
+Dialogue: 0,0:34:22.22,0:34:25.85,Default,,0000,0000,0000,,{\blur3}有一种假设认为这些星系非常活跃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One hypothesis has been that these galaxies are very active...{\r}
+Dialogue: 0,0:34:25.89,0:34:28.19,Default,,0000,0000,0000,,{\blur3}因为它们是与其它星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they're the product of either mergers...{\r}
+Dialogue: 0,0:34:28.23,0:34:30.06,Default,,0000,0000,0000,,{\blur3}兼并或失之交臂的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or near misses with other galaxies.{\r}
+Dialogue: 0,0:34:31.36,0:34:35.07,Default,,0000,0000,0000,,{\blur3}当一个星系与另一个星系遭遇或撞击在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When one galaxy passes close by another or actually hits it...{\r}
+Dialogue: 0,0:34:35.11,0:34:37.65,Default,,0000,0000,0000,,{\blur3}你可以看到大量气体的压缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can have compression of a large amount of gas...{\r}
+Dialogue: 0,0:34:37.70,0:34:40.70,Default,,0000,0000,0000,,{\blur3}可以掀起恒星形成的巨浪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which can set off huge waves of star formation...{\r}
+Dialogue: 0,0:34:41.91,0:34:45.41,Default,,0000,0000,0000,,{\blur3}或可以极其有效地将气体吸入中央的黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or can very efficiently funnel gas into the central black hole...{\r}
+Dialogue: 0,0:34:45.45,0:34:46.91,Default,,0000,0000,0000,,{\blur3}产生大量的热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}causing a lot of heat to be produced...{\r}
+Dialogue: 0,0:34:46.95,0:34:48.62,Default,,0000,0000,0000,,{\blur3}延伸到周围的吸积盘里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the surrounding accretion disk.{\r}
+Dialogue: 0,0:34:49.42,0:34:52.17,Default,,0000,0000,0000,,{\blur3}不过这依然是目前一个活跃的研究领域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But this is still an active area of research right now...{\r}
+Dialogue: 0,0:34:52.21,0:34:53.88,Default,,0000,0000,0000,,{\blur3}要真正搞清楚这个过程为何会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as to exactly why this process happens...{\r}
+Dialogue: 0,0:34:53.92,0:34:55.59,Default,,0000,0000,0000,,{\blur3}发生在产生这些不寻常的星系身上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make these unusual galaxies.{\r}
+Dialogue: 0,0:35:01.09,0:35:03.43,Default,,0000,0000,0000,,{\blur3}极亮红外星系中心已经发现有...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Supermassive black holes have been detected...{\r}
+Dialogue: 0,0:35:03.47,0:35:06.60,Default,,0000,0000,0000,,{\blur3}超大质量黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the centers of ultraluminous infrared galaxies.{\r}
+Dialogue: 0,0:35:07.85,0:35:10.89,Default,,0000,0000,0000,,{\blur3}它们所在空域引力极其强大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're regions of space where gravity is so strong...{\r}
+Dialogue: 0,0:35:10.94,0:35:14.19,Default,,0000,0000,0000,,{\blur3}任何东西都难逃其魔爪 甚至是光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that nothing can escape it, not even light.{\r}
+Dialogue: 0,0:35:15.57,0:35:18.24,Default,,0000,0000,0000,,{\blur3}然而 有一种更为怪异的黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's an even stranger breed of black holes...{\r}
+Dialogue: 0,0:35:18.28,0:35:19.86,Default,,0000,0000,0000,,{\blur3}有可能也存在着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that may also exist.{\r}
+Dialogue: 0,0:35:22.16,0:35:24.91,Default,,0000,0000,0000,,{\blur3}迷你黑洞是一种假设的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Miniature black holes are hypothetical objects...{\r}
+Dialogue: 0,0:35:24.95,0:35:26.91,Default,,0000,0000,0000,,{\blur3}比原子核还小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}smaller than atomic nuclei.{\r}
+Dialogue: 0,0:35:28.66,0:35:32.71,Default,,0000,0000,0000,,{\blur3}不同于它们的恒星质量或超大质量黑洞表哥{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unlike their stellar mass and supermassive black hole cousins...{\r}
+Dialogue: 0,0:35:32.75,0:35:35.75,Default,,0000,0000,0000,,{\blur3}迷你黑洞从来没有被发现过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mini black holes have never been observed...{\r}
+Dialogue: 0,0:35:36.75,0:35:40.01,Default,,0000,0000,0000,,{\blur3}但是许多科学家相信它们确实存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but many scientists believe that they do exist.{\r}
+Dialogue: 0,0:35:42.80,0:35:45.10,Default,,0000,0000,0000,,{\blur3}迷你黑洞很可能并不稀罕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mini black holes are probably nothing unusual.{\r}
+Dialogue: 0,0:35:45.14,0:35:47.39,Default,,0000,0000,0000,,{\blur3}很可能现在就有一个在我鼻子跟前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's probably one right here in front of my nose right now...{\r}
+Dialogue: 0,0:35:47.43,0:35:48.60,Default,,0000,0000,0000,,{\blur3}这里有一个 那里有一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and one here and one here.{\r}
+Dialogue: 0,0:35:48.64,0:35:49.98,Default,,0000,0000,0000,,{\blur3}我们或许被它们团团包围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're probably surrounded by them.{\r}
+Dialogue: 0,0:35:52.40,0:35:55.77,Default,,0000,0000,0000,,{\blur3}迷你黑洞可能是大爆炸的...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mini black holes might be primordial leftovers...{\r}
+Dialogue: 0,0:35:55.82,0:35:57.07,Default,,0000,0000,0000,,{\blur3}残羹剩菜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the Big Bang.{\r}
+Dialogue: 0,0:35:58.65,0:36:00.24,Default,,0000,0000,0000,,{\blur3}爆炸有可能将物质的浓度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The explosion could have squeezed...{\r}
+Dialogue: 0,0:36:00.28,0:36:03.11,Default,,0000,0000,0000,,{\blur3}压缩到形成的黑洞...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}concentrations of matter to form black holes...{\r}
+Dialogue: 0,0:36:03.16,0:36:05.62,Default,,0000,0000,0000,,{\blur3}小得要靠显微镜才能看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}too small to be seen with a microscope.{\r}
+Dialogue: 0,0:36:06.45,0:36:10.25,Default,,0000,0000,0000,,{\blur3}黑洞愈小 物质的丧失愈快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the smaller the black hole, the faster it loses mass.{\r}
+Dialogue: 0,0:36:10.96,0:36:14.46,Default,,0000,0000,0000,,{\blur3}因此如果你有一个小小的黑洞 如山体那么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if you had a little, tiny black hole, like the mass of a mountain...{\r}
+Dialogue: 0,0:36:14.50,0:36:17.21,Default,,0000,0000,0000,,{\blur3}是在大爆炸不久诞生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was created shortly after the Big Bang...{\r}
+Dialogue: 0,0:36:17.25,0:36:20.55,Default,,0000,0000,0000,,{\blur3}那么到了现在 140亿年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then right about now, 14 billion years later...{\r}
+Dialogue: 0,0:36:20.59,0:36:23.05,Default,,0000,0000,0000,,{\blur3}它就会蒸发很多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it will have evaporated so much...{\r}
+Dialogue: 0,0:36:23.09,0:36:25.84,Default,,0000,0000,0000,,{\blur3}其余的物质将会消失在巨大的爆炸中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the remaining stuff will evaporate...{\r}
+Dialogue: 0,0:36:25.89,0:36:28.89,Default,,0000,0000,0000,,{\blur3}砰的一下子!{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a colossal explosion. Just, bam!{\r}
+Dialogue: 0,0:36:42.36,0:36:45.41,Default,,0000,0000,0000,,{\blur3}科学家可以证明迷你黑洞的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientist may prove mini black holes exist...{\r}
+Dialogue: 0,0:36:45.45,0:36:48.33,Default,,0000,0000,0000,,{\blur3}通过在地球上暂时制造出它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by manufacturing them temporarily here on Earth.{\r}
+Dialogue: 0,0:36:49.66,0:36:53.79,Default,,0000,0000,0000,,{\blur3}在瑞士 科学家已经建造了大型强子对撞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In Switzerland, scientists have built the Large Hadron Collider.{\r}
+Dialogue: 0,0:36:53.83,0:36:55.75,Default,,0000,0000,0000,,{\blur3}它是一个粒子加速器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a particle accelerator...{\r}
+Dialogue: 0,0:36:55.79,0:36:59.96,Default,,0000,0000,0000,,{\blur3}希望能够将亚原子粒子对撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hopefully capable of slamming subatomic particles together...{\r}
+Dialogue: 0,0:37:00.00,0:37:02.21,Default,,0000,0000,0000,,{\blur3}来重现大爆炸后一秒钟之内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to replicate the energies that existed...{\r}
+Dialogue: 0,0:37:02.26,0:37:04.55,Default,,0000,0000,0000,,{\blur3}所存在的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}less than a second after the Big Bang.{\r}
+Dialogue: 0,0:37:06.39,0:37:09.18,Default,,0000,0000,0000,,{\blur3}大型强子对撞机将能够射出粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Large Hadron Collider is going to be able to shoot particles...{\r}
+Dialogue: 0,0:37:09.22,0:37:10.89,Default,,0000,0000,0000,,{\blur3}彼此飞快对撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}very fast at each other...{\r}
+Dialogue: 0,0:37:12.89,0:37:14.60,Default,,0000,0000,0000,,{\blur3}瞬间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and for an instant...{\r}
+Dialogue: 0,0:37:14.64,0:37:17.90,Default,,0000,0000,0000,,{\blur3}将大量的质量集中在极小的空间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there will be a lot of mass in a tiny little bit of space.{\r}
+Dialogue: 0,0:37:20.40,0:37:24.40,Default,,0000,0000,0000,,{\blur3}它有可能成功地释放出迷你黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it may actually succeed in popping off little mini black holes.{\r}
+Dialogue: 0,0:37:28.74,0:37:30.33,Default,,0000,0000,0000,,{\blur3}这是个惊人的想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's an amazing idea.{\r}
+Dialogue: 0,0:37:30.37,0:37:31.41,Default,,0000,0000,0000,,{\blur3}我们已接近于能够在实验室里制造出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're on the verge of being able to make...{\r}
+Dialogue: 0,0:37:31.45,0:37:34.08,Default,,0000,0000,0000,,{\blur3}人造迷你黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}artificial tiny black holes in the laboratory.{\r}
+Dialogue: 0,0:37:36.67,0:37:38.38,Default,,0000,0000,0000,,{\blur3}如果大型强子对撞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the Large Hadron Collider...{\r}
+Dialogue: 0,0:37:38.42,0:37:40.92,Default,,0000,0000,0000,,{\blur3}真的造出了迷你黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}really does produce miniature black holes...{\r}
+Dialogue: 0,0:37:40.96,0:37:42.75,Default,,0000,0000,0000,,{\blur3}那将是非常激动人心的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it will also be really exciting...{\r}
+Dialogue: 0,0:37:42.80,0:37:45.63,Default,,0000,0000,0000,,{\blur3}因为那将表明迷你黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it will show that miniature black holes...{\r}
+Dialogue: 0,0:37:45.68,0:37:48.39,Default,,0000,0000,0000,,{\blur3}确实存在或可以存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}really do exist or can exist...{\r}
+Dialogue: 0,0:37:48.43,0:37:52.14,Default,,0000,0000,0000,,{\blur3}而不是理论上的凭空虚构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and are not just a figment of the theoretical imagination.{\r}
+Dialogue: 0,0:37:52.93,0:37:54.06,Default,,0000,0000,0000,,{\blur3}大型强子对撞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The mini black holes...{\r}
+Dialogue: 0,0:37:54.10,0:37:56.39,Default,,0000,0000,0000,,{\blur3}可能制造出的迷你黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the Large Hadron Collider may produce...{\r}
+Dialogue: 0,0:37:56.44,0:37:59.10,Default,,0000,0000,0000,,{\blur3}将持续片刻才会消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will last an instant before disappearing.{\r}
+Dialogue: 0,0:38:00.69,0:38:04.40,Default,,0000,0000,0000,,{\blur3}假如成功 实验还有可能揭示宇宙间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, if successful, the experiment may also reveal secrets...{\r}
+Dialogue: 0,0:38:04.44,0:38:07.24,Default,,0000,0000,0000,,{\blur3}另一个费解的现象:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about another puzzling phenomenon in the universe:{\r}
+Dialogue: 0,0:38:07.28,0:38:10.45,Default,,0000,0000,0000,,{\blur3}根本看不见的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a matter that's completely invisible.{\r}
+Dialogue: 0,0:38:12.12,0:38:15.79,Default,,0000,0000,0000,,{\blur3}为了找到这个幽灵般的物质 科学家无须将眼光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To find this phantom matter, scientists had to look no further...{\r}
+Dialogue: 0,0:38:15.83,0:38:19.21,Default,,0000,0000,0000,,{\blur3}超出我们自己的星系街坊 银河系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than our own galactic neighborhood, the Milky Way.{\r}
+Dialogue: 0,0:38:23.42,0:38:28.01,Default,,0000,0000,0000,,{\blur3}怪异也许显而易见 行星 恒星 卫星 星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Strange as it may seem, planets, stars, moons, and galaxies...{\r}
+Dialogue: 0,0:38:28.05,0:38:31.80,Default,,0000,0000,0000,,{\blur3}占到了宇宙全部物质的不足二成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}make up less than 20 percent of all matter in the universe.{\r}
+Dialogue: 0,0:38:37.23,0:38:39.48,Default,,0000,0000,0000,,{\blur3}其余部分被暗物质所占有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The rest is made up of dark matter...{\r}
+Dialogue: 0,0:38:39.52,0:38:43.48,Default,,0000,0000,0000,,{\blur3}一种我们无法看见的物质 但是却无所不在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a form of matter we can't see, but exists everywhere.{\r}
+Dialogue: 0,0:38:50.16,0:38:53.62,Default,,0000,0000,0000,,{\blur3}暗物质是1930年代首次提出来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dark matter was first inferred in the early 1930s...{\r}
+Dialogue: 0,0:38:53.66,0:38:56.70,Default,,0000,0000,0000,,{\blur3}但是当时鲜有科学家认可这个概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but very few scientists bought the concept at the time.{\r}
+Dialogue: 0,0:38:58.50,0:39:00.08,Default,,0000,0000,0000,,{\blur3}但是在过去二十年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in the past two decades...{\r}
+Dialogue: 0,0:39:00.12,0:39:02.38,Default,,0000,0000,0000,,{\blur3}这种看不见的现象的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the evidence for this invisible phenomenon...{\r}
+Dialogue: 0,0:39:02.42,0:39:04.29,Default,,0000,0000,0000,,{\blur3}已经势不可挡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has become overwhelming.{\r}
+Dialogue: 0,0:39:06.13,0:39:08.30,Default,,0000,0000,0000,,{\blur3}随着人们开始绘制银河系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As people began to map the Milky Way galaxy...{\r}
+Dialogue: 0,0:39:08.34,0:39:10.63,Default,,0000,0000,0000,,{\blur3}他们注意到其边缘的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they noticed that the stars at the very edge...{\r}
+Dialogue: 0,0:39:10.68,0:39:14.68,Default,,0000,0000,0000,,{\blur3}移动非常之快 它们应该要飞出星系了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were moving so fast, they should have actually flown off the galaxy...{\r}
+Dialogue: 0,0:39:15.60,0:39:16.85,Default,,0000,0000,0000,,{\blur3}但是并没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they're not.{\r}
+Dialogue: 0,0:39:16.89,0:39:19.27,Default,,0000,0000,0000,,{\blur3}它们被某种东西羁留在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're being held together by something invisible...{\r}
+Dialogue: 0,0:39:19.31,0:39:22.35,Default,,0000,0000,0000,,{\blur3}某种东西对星系施加着更大的吸引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something that's adding more attractive force to the galaxy...{\r}
+Dialogue: 0,0:39:22.40,0:39:23.94,Default,,0000,0000,0000,,{\blur3}更大的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more gravity.{\r}
+Dialogue: 0,0:39:23.98,0:39:26.32,Default,,0000,0000,0000,,{\blur3}但是我们不知道那是什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But we have no idea what this could be.{\r}
+Dialogue: 0,0:39:27.53,0:39:32.49,Default,,0000,0000,0000,,{\blur3}很奇怪 好大部分宇宙我们居然看不见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's kind of strange that a lot of the universe we can't even see.{\r}
+Dialogue: 0,0:39:32.53,0:39:36.20,Default,,0000,0000,0000,,{\blur3}我们发觉暗物质是因为它与{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We detect dark matter because it interacts gravitationally...{\r}
+Dialogue: 0,0:39:36.24,0:39:37.83,Default,,0000,0000,0000,,{\blur3}我们看得见的物质的引力互动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with mass that we do see.{\r}
+Dialogue: 0,0:39:37.87,0:39:40.29,Default,,0000,0000,0000,,{\blur3}星系旋转速度超过了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Galaxies spin faster than they should...{\r}
+Dialogue: 0,0:39:40.33,0:39:42.62,Default,,0000,0000,0000,,{\blur3}你所见到的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}counting up the amount of gravity that you can see...{\r}
+Dialogue: 0,0:39:42.67,0:39:45.00,Default,,0000,0000,0000,,{\blur3}所具有的引力总量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the matter they have.{\r}
+Dialogue: 0,0:39:45.04,0:39:47.17,Default,,0000,0000,0000,,{\blur3}如果那个引力不存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if that gravitational attraction weren't there...{\r}
+Dialogue: 0,0:39:47.21,0:39:48.84,Default,,0000,0000,0000,,{\blur3}高温气体将会消散{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the hot gas would disperse.{\r}
+Dialogue: 0,0:39:48.88,0:39:53.43,Default,,0000,0000,0000,,{\blur3}因此我们知道引力超出了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we know there's more gravity than we can account for...{\r}
+Dialogue: 0,0:39:53.47,0:39:55.51,Default,,0000,0000,0000,,{\blur3}我们所见到的物质总量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by the mass that we see...{\r}
+Dialogue: 0,0:39:55.55,0:39:58.93,Default,,0000,0000,0000,,{\blur3}那就被简单称为暗物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that is just simply called dark matter.{\r}
+Dialogue: 0,0:40:01.06,0:40:05.56,Default,,0000,0000,0000,,{\blur3}测量暗物质的一个方法是观察热X射线源气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One method to measure dark matter is to look at hot X-ray-emitting gas...{\r}
+Dialogue: 0,0:40:05.61,0:40:08.94,Default,,0000,0000,0000,,{\blur3}以及它是如何被其中的引力控制住的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and how it's contained by the gravity present in it.{\r}
+Dialogue: 0,0:40:14.49,0:40:18.24,Default,,0000,0000,0000,,{\blur3}另一个观察事物的方法叫做引力透镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another way is to look at something called gravitational lensing.{\r}
+Dialogue: 0,0:40:19.58,0:40:23.37,Default,,0000,0000,0000,,{\blur3}引力透镜产生在我们观察非常遥远的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gravitational lensing is caused when we see a very distant galaxy...{\r}
+Dialogue: 0,0:40:23.42,0:40:25.79,Default,,0000,0000,0000,,{\blur3}前面有一个前景星系时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}behind a foreground galaxy...{\r}
+Dialogue: 0,0:40:25.84,0:40:27.79,Default,,0000,0000,0000,,{\blur3}远处星系所发出的光在经过较近的星系时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the light from the distant one is bent...{\r}
+Dialogue: 0,0:40:27.84,0:40:30.46,Default,,0000,0000,0000,,{\blur3}会发生弯曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it goes around the nearer galaxy.{\r}
+Dialogue: 0,0:40:30.51,0:40:33.88,Default,,0000,0000,0000,,{\blur3}那好像是一个奇怪的想法 光确实会被透镜弯曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's kind of an odd idea-- light actually bending in a lens...{\r}
+Dialogue: 0,0:40:33.93,0:40:36.01,Default,,0000,0000,0000,,{\blur3}那实际上是空间本身形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's really just formed by space itself.{\r}
+Dialogue: 0,0:40:36.05,0:40:39.18,Default,,0000,0000,0000,,{\blur3}引力扭曲了空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gravity makes that distortion in space.{\r}
+Dialogue: 0,0:40:39.22,0:40:40.22,Default,,0000,0000,0000,,{\blur3}因此我们注意到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we noticed there were...{\r}
+Dialogue: 0,0:40:40.27,0:40:43.89,Default,,0000,0000,0000,,{\blur3}引力扭曲了我们所看到的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these gravitationally distorted galaxies that we could see.{\r}
+Dialogue: 0,0:40:43.94,0:40:47.27,Default,,0000,0000,0000,,{\blur3}在我们估计其中心造成这种扭曲的质量时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when we estimated what the mass in the center should have been...{\r}
+Dialogue: 0,0:40:47.31,0:40:49.57,Default,,0000,0000,0000,,{\blur3}发现它十分巨大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make those distortions, it was gigantic...{\r}
+Dialogue: 0,0:40:49.61,0:40:52.53,Default,,0000,0000,0000,,{\blur3}超出了我们所见到质量的10倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ten times more than the mass we saw there.{\r}
+Dialogue: 0,0:40:52.57,0:40:55.78,Default,,0000,0000,0000,,{\blur3}所以我们观察到了暗物质的集群{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we were observing a collection of dark matter.{\r}
+Dialogue: 0,0:40:55.82,0:40:59.74,Default,,0000,0000,0000,,{\blur3}暗物质可能构成了太空物质的大部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dark matter may constitute most of the mass in space...{\r}
+Dialogue: 0,0:40:59.79,0:41:01.91,Default,,0000,0000,0000,,{\blur3}但是宇宙间的多半能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the majority of energy in the universe...{\r}
+Dialogue: 0,0:41:01.95,0:41:06.79,Default,,0000,0000,0000,,{\blur3}来自另一种无形的现象叫做暗能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comes from yet another invisible phenomenon called dark energy.{\r}
+Dialogue: 0,0:41:08.25,0:41:12.09,Default,,0000,0000,0000,,{\blur3}它是一种理论上的无处不在的能量形式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a theoretical form of energy that exists everywhere...{\r}
+Dialogue: 0,0:41:12.13,0:41:16.59,Default,,0000,0000,0000,,{\blur3}占到了宇宙全部质量与能量的70%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and accounts for 70 percent of all mass and energy in the universe.{\r}
+Dialogue: 0,0:41:17.64,0:41:19.26,Default,,0000,0000,0000,,{\blur3}或许最怪异的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Probably the weirdest thing...{\r}
+Dialogue: 0,0:41:19.31,0:41:21.31,Default,,0000,0000,0000,,{\blur3}宇宙间了解最少的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}being that it's the least understood thing in the universe...{\r}
+Dialogue: 0,0:41:21.35,0:41:23.31,Default,,0000,0000,0000,,{\blur3}就是所谓的能量这个玩艺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the stuff called dark energy.{\r}
+Dialogue: 0,0:41:23.35,0:41:24.93,Default,,0000,0000,0000,,{\blur3}暗能量 比方说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dark energy, for example...{\r}
+Dialogue: 0,0:41:24.98,0:41:26.90,Default,,0000,0000,0000,,{\blur3}实际上与暗物质没有多大的关系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}doesn't really have all that much to do with dark matter.{\r}
+Dialogue: 0,0:41:26.94,0:41:28.40,Default,,0000,0000,0000,,{\blur3}它们不是一回事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're different things.{\r}
+Dialogue: 0,0:41:28.44,0:41:31.23,Default,,0000,0000,0000,,{\blur3}所谓的"暗"其实是指 我们只是不知道是怎么回事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The "dark" really means we just don't know what's going on.{\r}
+Dialogue: 0,0:41:32.03,0:41:35.20,Default,,0000,0000,0000,,{\blur3}暗能量首次发现是在1988年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dark energy was first observed in 1998...{\r}
+Dialogue: 0,0:41:35.24,0:41:37.78,Default,,0000,0000,0000,,{\blur3}当时测量遥远恒星爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when measurements of faraway exploding stars...{\r}
+Dialogue: 0,0:41:37.82,0:41:41.33,Default,,0000,0000,0000,,{\blur3}被用来确定星系的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were used to determine the distances of galaxies.{\r}
+Dialogue: 0,0:41:41.37,0:41:44.62,Default,,0000,0000,0000,,{\blur3}发现那些星系的远离超过了预计{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those galaxies were found to be farther away than expected...{\r}
+Dialogue: 0,0:41:44.66,0:41:47.46,Default,,0000,0000,0000,,{\blur3}当时预计在宇宙间 它会随着时间减缓速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a universe that's slowing down with time.{\r}
+Dialogue: 0,0:41:48.50,0:41:50.46,Default,,0000,0000,0000,,{\blur3}天文学家于是得出结论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronomers thus concluded...{\r}
+Dialogue: 0,0:41:50.50,0:41:53.84,Default,,0000,0000,0000,,{\blur3}宇宙实际上随着时间膨胀愈发加快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the universe is actually expanding more quickly with time...{\r}
+Dialogue: 0,0:41:54.51,0:41:57.01,Default,,0000,0000,0000,,{\blur3}暗能量可能是罪魁祸首{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and dark energy may be the culprit.{\r}
+Dialogue: 0,0:41:57.89,0:42:01.97,Default,,0000,0000,0000,,{\blur3}宇宙充满了这种可恶的暗物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe is filled with this repulsive dark energy.{\r}
+Dialogue: 0,0:42:02.01,0:42:03.14,Default,,0000,0000,0000,,{\blur3}它确实是怪异的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's really weird stuff...{\r}
+Dialogue: 0,0:42:03.18,0:42:05.85,Default,,0000,0000,0000,,{\blur3}造成了宇宙的膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's causing the expansion of the universe...{\r}
+Dialogue: 0,0:42:05.89,0:42:08.35,Default,,0000,0000,0000,,{\blur3}随着时间而加速 加快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to speed up with time, to accelerate...{\r}
+Dialogue: 0,0:42:08.40,0:42:12.23,Default,,0000,0000,0000,,{\blur3}因此它呼的一下子 就这样 越来越快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it's going whoosh, like that, you know, faster and faster.{\r}
+Dialogue: 0,0:42:12.27,0:42:14.86,Default,,0000,0000,0000,,{\blur3}发现它时真的感到很奇怪 知道吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that was really weird when it was found, you know?{\r}
+Dialogue: 0,0:42:14.90,0:42:16.24,Default,,0000,0000,0000,,{\blur3}并不是预计的那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was not anticipated.{\r}
+Dialogue: 0,0:42:18.70,0:42:22.12,Default,,0000,0000,0000,,{\blur3}它至少在现在向我们表明了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It appears, at least to us at this time...{\r}
+Dialogue: 0,0:42:22.16,0:42:26.25,Default,,0000,0000,0000,,{\blur3}宇宙的更多部分是暗能量构成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that even more of the universe is made up of dark energy...{\r}
+Dialogue: 0,0:42:26.29,0:42:27.58,Default,,0000,0000,0000,,{\blur3}那是某些物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is some substance.{\r}
+Dialogue: 0,0:42:27.62,0:42:30.00,Default,,0000,0000,0000,,{\blur3}它是黑暗的 不发光 我们看不到它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's dark, it doesn't shine, we can't see it...{\r}
+Dialogue: 0,0:42:30.04,0:42:33.25,Default,,0000,0000,0000,,{\blur3}但是其活动加速了宇宙的膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it acts to speed up the expansion of the universe.{\r}
+Dialogue: 0,0:42:33.30,0:42:34.96,Default,,0000,0000,0000,,{\blur3}它是某种反引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's sort of an anti-gravity.{\r}
+Dialogue: 0,0:42:36.17,0:42:38.88,Default,,0000,0000,0000,,{\blur3}普通物质和能量趋向于减缓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Normal matter and energy tend to slow down the rate...{\r}
+Dialogue: 0,0:42:38.93,0:42:41.14,Default,,0000,0000,0000,,{\blur3}物体相互之间分开的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at which things are going away from each other...{\r}
+Dialogue: 0,0:42:41.18,0:42:44.51,Default,,0000,0000,0000,,{\blur3}因为普通物质彼此之间有引力的吸引{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because normal things pull on one another gravitationally.{\r}
+Dialogue: 0,0:42:44.56,0:42:47.23,Default,,0000,0000,0000,,{\blur3}但是暗能量表现出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But dark energy appears to accelerate the rate...{\r}
+Dialogue: 0,0:42:47.27,0:42:49.64,Default,,0000,0000,0000,,{\blur3}加快物体彼此之间拉开的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at which objects pull away from each other.{\r}
+Dialogue: 0,0:42:52.27,0:42:54.73,Default,,0000,0000,0000,,{\blur3}有一个理论认为暗能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One theory suggests that dark energy...{\r}
+Dialogue: 0,0:42:54.78,0:42:58.19,Default,,0000,0000,0000,,{\blur3}将会加速空间的膨胀到这样一个程度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will accelerate the expansion of space to such an extent...{\r}
+Dialogue: 0,0:42:58.24,0:43:01.07,Default,,0000,0000,0000,,{\blur3}整个宇宙将在500亿年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the entire universe will be ripped to shreds...{\r}
+Dialogue: 0,0:43:01.12,0:43:03.58,Default,,0000,0000,0000,,{\blur3}被扯成碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in about 50 billion years.{\r}
+Dialogue: 0,0:43:03.62,0:43:06.70,Default,,0000,0000,0000,,{\blur3}如果是那种情形 那么最终{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that's the case, then eventually...{\r}
+Dialogue: 0,0:43:06.75,0:43:10.29,Default,,0000,0000,0000,,{\blur3}不仅仅星系团会被相互扯开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not only will clusters of galaxies be ripped apart from one another...{\r}
+Dialogue: 0,0:43:10.33,0:43:12.88,Default,,0000,0000,0000,,{\blur3}而且星系本身也会被扯碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then galaxies themselves will get ripped apart...{\r}
+Dialogue: 0,0:43:12.92,0:43:15.42,Default,,0000,0000,0000,,{\blur3}恒星相互之间快速远离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the stars zip away from one another.{\r}
+Dialogue: 0,0:43:15.46,0:43:16.88,Default,,0000,0000,0000,,{\blur3}于是太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then solar systems...{\r}
+Dialogue: 0,0:43:16.92,0:43:19.17,Default,,0000,0000,0000,,{\blur3}行星系也将被扯碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planetary systems will get ripped apart.{\r}
+Dialogue: 0,0:43:19.22,0:43:22.26,Default,,0000,0000,0000,,{\blur3}于是接下来 甚至行星都将被扯碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then, later on, even planets will get ripped apart...{\r}
+Dialogue: 0,0:43:22.30,0:43:24.14,Default,,0000,0000,0000,,{\blur3}人类也将撕得粉身碎骨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and humans will get ripped apart.{\r}
+Dialogue: 0,0:43:24.18,0:43:28.56,Default,,0000,0000,0000,,{\blur3}最终 甚至原子和亚原子粒子都将被撕得粉碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And finally, even atoms and subatomic particles will get ripped apart.{\r}
+Dialogue: 0,0:43:32.31,0:43:36.02,Default,,0000,0000,0000,,{\blur3}宇宙充满了千奇百怪的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe is full of odd and interesting things...{\r}
+Dialogue: 0,0:43:36.07,0:43:38.15,Default,,0000,0000,0000,,{\blur3}但是宇宙间最怪异的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the most peculiar thing in the universe...{\r}
+Dialogue: 0,0:43:38.19,0:43:40.19,Default,,0000,0000,0000,,{\blur3}有可能就在我们的后院{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may exist in our own backyard.{\r}
+Dialogue: 0,0:43:41.11,0:43:42.74,Default,,0000,0000,0000,,{\blur3}毫无疑问 最怪异的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By far and away the strangest thing...{\r}
+Dialogue: 0,0:43:42.78,0:43:45.33,Default,,0000,0000,0000,,{\blur3}在我看来 在宇宙间就是地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in my opinion, in the universe is Earth...{\r}
+Dialogue: 0,0:43:45.37,0:43:47.95,Default,,0000,0000,0000,,{\blur3}我生于斯 长于斯 我了解其一二{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I live here, and I know something about it.{\r}
+Dialogue: 0,0:43:49.37,0:43:50.58,Default,,0000,0000,0000,,{\blur3}这真是个怪异之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What a crazy place this is.{\r}
+Dialogue: 0,0:43:50.62,0:43:54.42,Default,,0000,0000,0000,,{\blur3}岩质行星 靠近恒星 布满绿色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A rocky planet, near a star with all this green stuff...{\r}
+Dialogue: 0,0:43:54.46,0:43:57.05,Default,,0000,0000,0000,,{\blur3}获取阳光 变成食物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that takes sunlight and turns it into food.{\r}
+Dialogue: 0,0:43:57.09,0:44:01.42,Default,,0000,0000,0000,,{\blur3}多怪异啊 但是 知道吗 对别人来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's strange but, you know, to others...{\r}
+Dialogue: 0,0:44:01.47,0:44:03.89,Default,,0000,0000,0000,,{\blur3}一点都没有什么特别之处 因为它是家园{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's nothing particularly peculiar because it's home.{\r}
+Dialogue: 0,0:44:07.68,0:44:11.39,Default,,0000,0000,0000,,{\blur3}我说啊 外太空里最怪异的东西就是人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'd say the strangest things in outer space are human beings.{\r}
+Dialogue: 0,0:44:11.44,0:44:12.81,Default,,0000,0000,0000,,{\blur3}我们确实不同凡响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're definitely unusual...{\r}
+Dialogue: 0,0:44:12.85,0:44:15.77,Default,,0000,0000,0000,,{\blur3}迄今为止 我们在宇宙间还没有发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we haven't found any other beings like us yet...{\r}
+Dialogue: 0,0:44:15.81,0:44:16.86,Default,,0000,0000,0000,,{\blur3}有任何其它东西如我们这样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the universe.{\r}
+Dialogue: 0,0:44:16.86,0:44:18.94,Default,,0000,0000,0000,,{\blur3}尽管那并不是说它们不存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although that's not to say that they aren't out there...{\r}
+Dialogue: 0,0:44:18.98,0:44:22.00,Default,,0000,0000,0000,,{\blur3}但是我们非常怪异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we're pretty strange.{\r}

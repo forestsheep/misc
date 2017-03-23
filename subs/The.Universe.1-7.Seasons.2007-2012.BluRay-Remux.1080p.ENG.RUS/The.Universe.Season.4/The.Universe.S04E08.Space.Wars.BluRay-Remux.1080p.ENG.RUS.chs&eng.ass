@@ -1,0 +1,758 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.87,0:00:04.21,*Default,NTP,0000,0000,0000,,创世之初 冥冥之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning there was darkness,
+Dialogue: 0,0:00:04.25,0:00:06.25,*Default,NTP,0000,0000,0000,,随着一声爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang--
+Dialogue: 0,0:00:06.29,0:00:08.50,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.55,0:00:11.51,*Default,NTP,0000,0000,0000,,时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space, and matter.
+Dialogue: 0,0:00:11.55,0:00:15.01,*Default,NTP,0000,0000,0000,,每一天 新的发现都在揭秘这个诡异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:15.05,0:00:17.22,*Default,NTP,0000,0000,0000,,震撼 神秘莫测的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:17.26,0:00:20.22,*Default,NTP,0000,0000,0000,,地方 - 我们所谓的《宇宙》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call "The Universe."
+Dialogue: 0,0:00:23.85,0:00:28.02,*Default,NTP,0000,0000,0000,,电杆大小的棍棒从外太空飞驰而下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Telephone-pole-sized rods streak down from outer space
+Dialogue: 0,0:00:28.06,0:00:30.36,*Default,NTP,0000,0000,0000,,消灭地球上的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and obliterate targets on Earth.
+Dialogue: 0,0:00:30.40,0:00:32.11,*Default,NTP,0000,0000,0000,,它将是终极掩体克星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be the ultimate bunker buster.
+Dialogue: 0,0:00:33.24,0:00:38.12,*Default,NTP,0000,0000,0000,,强大的激光瞬间炸毁任何方向的敌人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Powerful lasers instantly blast enemies in any direction.
+Dialogue: 0,0:00:38.16,0:00:43.04,*Default,NTP,0000,0000,0000,,你会在看到敌人启动武器的同时遭毒手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'll get zapped at the same time that you see the zapper initiate the zapping.
+Dialogue: 0,0:00:43.08,0:00:45.96,*Default,NTP,0000,0000,0000,,导弹速度接近光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Missiles traveling near the speed of light
+Dialogue: 0,0:00:46.00,0:00:50.71,*Default,NTP,0000,0000,0000,,产生爆炸无需炸药\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}deliver massive blasts without the aid of explosives.
+Dialogue: 0,0:00:50.75,0:00:52.84,*Default,NTP,0000,0000,0000,,它开始成为潜在的武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It starts to become possible to hit things
+Dialogue: 0,0:00:52.88,0:00:55.17,*Default,NTP,0000,0000,0000,,具有核弹的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the energy of an atomic bomb
+Dialogue: 0,0:00:55.22,0:00:58.22,*Default,NTP,0000,0000,0000,,实际上不必用上任何辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without actually having to use any sort of radiation.
+Dialogue: 0,0:00:59.76,0:01:02.22,*Default,NTP,0000,0000,0000,,宇航员殊死搏斗在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And space pilots battle to the death
+Dialogue: 0,0:01:02.27,0:01:04.60,*Default,NTP,0000,0000,0000,,完全另类的空战中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a very different kind of dogfight.
+Dialogue: 0,0:01:06.10,0:01:08.48,*Default,NTP,0000,0000,0000,,这些不是科幻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These aren't just sci-fi fantasies.
+Dialogue: 0,0:01:08.52,0:01:13.15,*Default,NTP,0000,0000,0000,,它们是宇宙间未来的太空战争\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are the future of space wars in the universe.
+Dialogue: 0,0:01:14.00,0:01:16.75,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:17.25,0:01:20.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:暮云春树  字幕来源：HDC字幕组 调校：晴天 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:20.52,0:01:25.15,*Default,NTP,0000,0000,0000,,历史频道 - 宇宙 第4季第8集 太空战争\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The History Channel - The Universe s04e08 Space Wars
+Dialogue: 0,0:01:28.79,0:01:31.13,*Default,NTP,0000,0000,0000,,今后100年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's 100 years in the future,
+Dialogue: 0,0:01:31.17,0:01:35.34,*Default,NTP,0000,0000,0000,,最后的边疆已经变成了终极战场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the final frontier has turned into the ultimate battleground.
+Dialogue: 0,0:01:36.67,0:01:38.72,*Default,NTP,0000,0000,0000,,月球上的歹徒殖民地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A rogue colony on the Moon
+Dialogue: 0,0:01:38.76,0:01:41.55,*Default,NTP,0000,0000,0000,,已经袭击了邻近的殖民地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has already attacked neighboring colonies.
+Dialogue: 0,0:01:43.01,0:01:46.27,*Default,NTP,0000,0000,0000,,地球派出的飞船已进入阵地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A spacecraft from Earth has moved into position
+Dialogue: 0,0:01:46.31,0:01:48.81,*Default,NTP,0000,0000,0000,,此时谈判已经破裂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}after negotiations have broken down.
+Dialogue: 0,0:01:50.94,0:01:54.94,*Default,NTP,0000,0000,0000,,随着我们走入太阳系乃至外太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we travel out into the solar system and maybe even the stars,
+Dialogue: 0,0:01:54.98,0:01:57.28,*Default,NTP,0000,0000,0000,,将会有人与人之间的意见不合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are going to be people who disagree with other people,
+Dialogue: 0,0:01:57.32,0:01:59.03,*Default,NTP,0000,0000,0000,,潜在的战争\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the potential for warfare 
+Dialogue: 0,0:01:59.03,0:02:03.49,*Default,NTP,0000,0000,0000,,与人类史上的任何时候一样大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is just as great there as it has been any time through human history.
+Dialogue: 0,0:02:05.04,0:02:08.46,*Default,NTP,0000,0000,0000,,在歹徒殖民地夺走更多无辜生命之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Before the rogue colony takes any more innocent lives,
+Dialogue: 0,0:02:08.50,0:02:12.17,*Default,NTP,0000,0000,0000,,飞船释放了无比强大的武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the spacecraft releases a weapon of unimaginable power,
+Dialogue: 0,0:02:12.21,0:02:14.04,*Default,NTP,0000,0000,0000,,反物质炸弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an anti-matter bomb.
+Dialogue: 0,0:02:16.71,0:02:19.63,*Default,NTP,0000,0000,0000,,反物质与普通物质并无两样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Anti-matter is the same as normal matter,
+Dialogue: 0,0:02:19.68,0:02:22.85,*Default,NTP,0000,0000,0000,,除了相反的原子电荷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}except with the opposite atomic charges.
+Dialogue: 0,0:02:22.89,0:02:26.43,*Default,NTP,0000,0000,0000,,并非负电荷的电子和正电荷的质子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead of negative electrons and positive protons,
+Dialogue: 0,0:02:26.47,0:02:31.02,*Default,NTP,0000,0000,0000,,反物质具有正电荷的电子和负电荷的质子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}anti-matter has positive electrons and negative protons.
+Dialogue: 0,0:02:31.06,0:02:33.48,*Default,NTP,0000,0000,0000,,一旦物质与反物质接触\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When matter and anti-matter touch,
+Dialogue: 0,0:02:33.52,0:02:35.86,*Default,NTP,0000,0000,0000,,它们就会瞬间同时湮灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they instantly annihilate each other,
+Dialogue: 0,0:02:35.90,0:02:38.36,*Default,NTP,0000,0000,0000,,产生巨大的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}releasing a huge amount of energy.
+Dialogue: 0,0:02:39.53,0:02:41.91,*Default,NTP,0000,0000,0000,,一旦你有反物质与物质碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you have anti-matter colliding with matter,
+Dialogue: 0,0:02:41.95,0:02:44.83,*Default,NTP,0000,0000,0000,,所有的质量就会转换成能量 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all of the mass gets converted into energy--
+Dialogue: 0,0:02:44.87,0:02:46.62,*Default,NTP,0000,0000,0000,,百分百的效率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}100% efficiency.
+Dialogue: 0,0:02:46.66,0:02:49.33,*Default,NTP,0000,0000,0000,,那真是回报大大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's a lot of bang for the buck.
+Dialogue: 0,0:02:49.37,0:02:53.63,*Default,NTP,0000,0000,0000,,核武器甚至都只有约1%的效率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even nuclear weapons are only about 1% efficient.
+Dialogue: 0,0:02:53.67,0:02:58.01,*Default,NTP,0000,0000,0000,,化学武器在效率方面可谓微乎其微\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chemical weapons are a tiny fraction of a percent in terms of their efficiency.
+Dialogue: 0,0:02:59.88,0:03:02.51,*Default,NTP,0000,0000,0000,,普通物质的弹头在行将与内部的反物质接触时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A warhead of normal matter would simply explode
+Dialogue: 0,0:03:02.55,0:03:05.55,*Default,NTP,0000,0000,0000,,只会发生爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it came in contact with the anti-matter inside.
+Dialogue: 0,0:03:07.22,0:03:10.60,*Default,NTP,0000,0000,0000,,飞向歹徒殖民地的反物质炸弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The anti-matter bomb streaking toward the rogue colony
+Dialogue: 0,0:03:10.64,0:03:15.23,*Default,NTP,0000,0000,0000,,是一团由电磁场所包围的反物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a mass of anti-matter surrounded by an electromagnetic field.
+Dialogue: 0,0:03:15.27,0:03:18.61,*Default,NTP,0000,0000,0000,,在撞击之前 电磁场是关闭的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just before impact, the field is turned off.
+Dialogue: 0,0:03:20.40,0:03:22.20,*Default,NTP,0000,0000,0000,,你甚至都无需引信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't even need a fuse.
+Dialogue: 0,0:03:22.24,0:03:27.37,*Default,NTP,0000,0000,0000,,你只需要将反物质到达所需的目标并打击它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You just need that anti-matter to reach the desired destination and hit it,
+Dialogue: 0,0:03:27.41,0:03:30.54,*Default,NTP,0000,0000,0000,,然后它就会转换其所有的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it will then convert all of its energy
+Dialogue: 0,0:03:30.58,0:03:34.50,*Default,NTP,0000,0000,0000,,及它所打击的目标的能量转换成爆炸的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the energy of the object that it hit into this explosive energy,
+Dialogue: 0,0:03:34.54,0:03:36.42,*Default,NTP,0000,0000,0000,,产生巨大的爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}producing a tremendous explosion.
+Dialogue: 0,0:03:39.71,0:03:42.38,*Default,NTP,0000,0000,0000,,围绕着地球的其它航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Other spacecraft in orbit around Earth
+Dialogue: 0,0:03:42.43,0:03:45.89,*Default,NTP,0000,0000,0000,,则用强大的激光武器来攻击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}target smaller remote outposts loyal to the rogue colony
+Dialogue: 0,0:03:45.93,0:03:47.97,*Default,NTP,0000,0000,0000,,忠于歹徒殖民地偏远的的小哨所\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with powerful laser weapons.
+Dialogue: 0,0:03:51.43,0:03:53.06,*Default,NTP,0000,0000,0000,,激光武器的优势\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An advantage of a laser weapon
+Dialogue: 0,0:03:53.10,0:03:55.98,*Default,NTP,0000,0000,0000,,在于激光束的穿行达到了光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that the laser beam travels at the speed of light.
+Dialogue: 0,0:03:56.02,0:03:59.73,*Default,NTP,0000,0000,0000,,因此你可以将这些激光束在极端的时间里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you could have these light beams going across very large distances
+Dialogue: 0,0:03:59.78,0:04:01.49,*Default,NTP,0000,0000,0000,,穿越遥远的距离 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a very small amount of time, 
+Dialogue: 0,0:04:01.49,0:04:04.70,*Default,NTP,0000,0000,0000,,在敌人尚未意识到之前就消灭他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}zapping the enemy before the enemy realizes what's going on.
+Dialogue: 0,0:04:08.45,0:04:13.58,*Default,NTP,0000,0000,0000,,光在宇宙间穿行的速度是每秒18 6万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Light races across the universe at 186,000 miles per second,
+Dialogue: 0,0:04:14.71,0:04:18.42,*Default,NTP,0000,0000,0000,,因此未来在近地轨道上发射的激光武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so the futuristic laser weapons fired from orbit near Earth
+Dialogue: 0,0:04:18.46,0:04:22.59,*Default,NTP,0000,0000,0000,,只需要一秒钟就能对约24万英里远的月球上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}take just over a second to blast holes in their targets on the Moon,
+Dialogue: 0,0:04:22.63,0:04:25.47,*Default,NTP,0000,0000,0000,,目标炸出一个窟窿来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 240,000 miles away.
+Dialogue: 0,0:04:29.14,0:04:31.89,*Default,NTP,0000,0000,0000,,不过只是因为我们在未来的100年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But just because we're 100 years in the future
+Dialogue: 0,0:04:31.93,0:04:35.89,*Default,NTP,0000,0000,0000,,并不意味着简单的投射武器会从战场上消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}doesn't mean simple projectiles have disappeared from the battlefield.
+Dialogue: 0,0:04:38.02,0:04:41.86,*Default,NTP,0000,0000,0000,,它们通过猛烈轰击敌人施加危害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They inflict damage by slamming into the enemy,
+Dialogue: 0,0:04:41.90,0:04:44.15,*Default,NTP,0000,0000,0000,,利用所谓的动能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using what's known as kinetic energy,
+Dialogue: 0,0:04:44.20,0:04:47.57,*Default,NTP,0000,0000,0000,,运动之能 来摧毁目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the energy of motion, to destroy a target.
+Dialogue: 0,0:04:49.16,0:04:51.29,*Default,NTP,0000,0000,0000,,如果我们将某种物质加速到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we accelerated some kind of mass
+Dialogue: 0,0:04:51.33,0:04:53.83,*Default,NTP,0000,0000,0000,,光速的相当比例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}up to sizable fractions of the speed of light,
+Dialogue: 0,0:04:53.87,0:04:55.29,*Default,NTP,0000,0000,0000,,你甚至都无需弹头了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you wouldn't even need a warhead.
+Dialogue: 0,0:04:55.33,0:04:57.83,*Default,NTP,0000,0000,0000,,此时该物体本身运动的动能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just the kinetic energy of the motion of that object itself
+Dialogue: 0,0:04:57.88,0:05:00.84,*Default,NTP,0000,0000,0000,,就具有难以置信的破坏力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have an incredible destructive power.
+Dialogue: 0,0:05:02.34,0:05:04.88,*Default,NTP,0000,0000,0000,,就像小行星撞击行星一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like an asteroid impacting a planet,
+Dialogue: 0,0:05:04.92,0:05:07.76,*Default,NTP,0000,0000,0000,,物体的重量(质量)越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the more an object weighs-- its mass--
+Dialogue: 0,0:05:07.80,0:05:10.76,*Default,NTP,0000,0000,0000,,它跑得(速度)越快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the faster it's going-- its velocity--
+Dialogue: 0,0:05:10.81,0:05:13.18,*Default,NTP,0000,0000,0000,,那么它所具有的动能就越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the more kinetic energy it has.
+Dialogue: 0,0:05:13.22,0:05:17.48,*Default,NTP,0000,0000,0000,,不过速度在动能方程式中 优势盖过了质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But velocity has an advantage over mass in the kinetic energy equation,
+Dialogue: 0,0:05:17.52,0:05:21.23,*Default,NTP,0000,0000,0000,,因为质量要乘以速度的平方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since mass is multiplied by the square of the velocity.
+Dialogue: 0,0:05:24.03,0:05:26.19,*Default,NTP,0000,0000,0000,,因此速度快上两倍的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So something traveling twice as fast
+Dialogue: 0,0:05:26.24,0:05:29.66,*Default,NTP,0000,0000,0000,,四倍于相同质量物体的动能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has four times the kinetic energy of something of equal mass.
+Dialogue: 0,0:05:29.70,0:05:31.83,*Default,NTP,0000,0000,0000,,因此你有很高速度的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you get something up to very high velocities,
+Dialogue: 0,0:05:31.87,0:05:34.20,*Default,NTP,0000,0000,0000,,那它就具有大量的动能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it has a lot of kinetic energy.
+Dialogue: 0,0:05:35.50,0:05:37.66,*Default,NTP,0000,0000,0000,,动能的差异是很容易看出的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The different amounts of kinetic energy
+Dialogue: 0,0:05:37.71,0:05:41.92,*Default,NTP,0000,0000,0000,,如果用同样的弹丸来打击目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are easy to see when hitting a target with the same type of projectile
+Dialogue: 0,0:05:41.96,0:05:43.92,*Default,NTP,0000,0000,0000,,而用上两种不同的速度的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}traveling at two different speeds.
+Dialogue: 0,0:05:46.05,0:05:49.84,*Default,NTP,0000,0000,0000,,这位火器专家将发射两个一米一样的铅弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This firearms expert is going to fire two identical lead balls,
+Dialogue: 0,0:05:49.89,0:05:54.31,*Default,NTP,0000,0000,0000,,首先用上这支滑膛手枪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the first from this smooth-bore pistol,
+Dialogue: 0,0:05:54.35,0:05:58.39,*Default,NTP,0000,0000,0000,,然后是用这支滑膛火枪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the second from this smooth-bore musket.
+Dialogue: 0,0:05:58.44,0:06:02.31,*Default,NTP,0000,0000,0000,,由于其枪膛更长 火药填量更多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, with its longer barrel and larger powder charge,
+Dialogue: 0,0:06:02.36,0:06:04.94,*Default,NTP,0000,0000,0000,,它发射的弹丸将要快更多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's going to fire that ball much faster.
+Dialogue: 0,0:06:04.98,0:06:06.03,*Default,NTP,0000,0000,0000,,来看看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's see.
+Dialogue: 0,0:06:06.99,0:06:10.24,*Default,NTP,0000,0000,0000,,首先 手枪把弹丸送向靶子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First, the pistol sends the ball downrange 
+Dialogue: 0,0:06:11.57,0:06:13.99,*Default,NTP,0000,0000,0000,,相对较慢的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a relatively slow speed.
+Dialogue: 0,0:06:17.50,0:06:20.87,*Default,NTP,0000,0000,0000,,现在火枪发射同样大小的弹丸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now the musket fires the same sized lead ball
+Dialogue: 0,0:06:20.92,0:06:22.25,*Default,NTP,0000,0000,0000,,速度较快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a higher speed.
+Dialogue: 0,0:06:30.76,0:06:32.51,*Default,NTP,0000,0000,0000,,在靶子的背后 你可以看到手枪射出的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the back of the target, you can see the damage
+Dialogue: 0,0:06:32.55,0:06:35.31,*Default,NTP,0000,0000,0000,,弹丸所造成的危害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}caused by the lead ball fired from the pistol.
+Dialogue: 0,0:06:35.35,0:06:38.39,*Default,NTP,0000,0000,0000,,不过现在来看看火枪射出的弹丸造成的结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But now look at what happened with the lead ball from the musket.
+Dialogue: 0,0:06:38.43,0:06:41.81,*Default,NTP,0000,0000,0000,,动能高多了 危害也大多了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Much higher kinetic energy, much greater damage.
+Dialogue: 0,0:06:43.36,0:06:45.48,*Default,NTP,0000,0000,0000,,在真空状态的太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And out in the vacuum of space,
+Dialogue: 0,0:06:45.53,0:06:48.36,*Default,NTP,0000,0000,0000,,没有大气让物体减速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's no atmosphere to slow things down.
+Dialogue: 0,0:06:49.45,0:06:51.07,*Default,NTP,0000,0000,0000,,因而地球轨道上的另一艘飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So another ship in Earth orbit
+Dialogue: 0,0:06:51.11,0:06:55.08,*Default,NTP,0000,0000,0000,,将一个由高密度金属制成的电杆大小的炮弹射向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}launches a telephone-pole-sized projectile made of dense metal
+Dialogue: 0,0:06:55.12,0:06:58.16,*Default,NTP,0000,0000,0000,,歹徒殖民地的地下司令部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at the rogue colonists' underground headquarters.
+Dialogue: 0,0:06:58.20,0:07:00.58,*Default,NTP,0000,0000,0000,,它被称为上帝之棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's known as a rod from God.
+Dialogue: 0,0:07:02.75,0:07:04.29,*Default,NTP,0000,0000,0000,,经过短暂的火箭推进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After a brief rocket boost,
+Dialogue: 0,0:07:04.34,0:07:07.59,*Default,NTP,0000,0000,0000,,重力加速度让非爆炸棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the acceleration of gravity gets the non-explosive rod
+Dialogue: 0,0:07:07.63,0:07:11.97,*Default,NTP,0000,0000,0000,,在撞击时的速度超过了时速1万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}moving at more than 10,000 miles an hour by the time of impact.
+Dialogue: 0,0:07:13.43,0:07:15.80,*Default,NTP,0000,0000,0000,,随着我们能够让越来越重的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we're able to get heavier and heavier objects
+Dialogue: 0,0:07:15.85,0:07:18.68,*Default,NTP,0000,0000,0000,,运动的速度越来越快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}moving at faster and faster velocities,
+Dialogue: 0,0:07:18.72,0:07:21.60,*Default,NTP,0000,0000,0000,,就有可能打击东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it starts to become possible to hit things
+Dialogue: 0,0:07:21.64,0:07:24.10,*Default,NTP,0000,0000,0000,,具有原子弹的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the energy of an atomic bomb
+Dialogue: 0,0:07:24.15,0:07:27.15,*Default,NTP,0000,0000,0000,,而不必实际用上任何的辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without actually having to use any sort of radiation.
+Dialogue: 0,0:07:28.48,0:07:31.65,*Default,NTP,0000,0000,0000,,沉重的金属棒穿透月球岩层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The heavy metal rod penetrates layers of Moon rock
+Dialogue: 0,0:07:31.70,0:07:34.36,*Default,NTP,0000,0000,0000,,去摧毁地下指挥中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to destroy the underground command center.
+Dialogue: 0,0:07:34.41,0:07:38.83,*Default,NTP,0000,0000,0000,,无需爆炸 单凭动能就足以摧毁该地区了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without explosives, kinetic energy aIone has devastated the area,
+Dialogue: 0,0:07:40.00,0:07:44.67,*Default,NTP,0000,0000,0000,,宛如小行星 产生巨大的弹坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like an asteroid, creating a huge crater.
+Dialogue: 0,0:07:47.50,0:07:51.13,*Default,NTP,0000,0000,0000,,然而不管太空武器会变得如何先进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But no matter how advanced space weapons become,
+Dialogue: 0,0:07:51.17,0:07:54.59,*Default,NTP,0000,0000,0000,,战争与技术上的一个基本原则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the basic principles of warfare and technology
+Dialogue: 0,0:07:54.64,0:07:56.47,*Default,NTP,0000,0000,0000,,可能会依然适用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will probably still apply.
+Dialogue: 0,0:07:58.97,0:08:02.89,*Default,NTP,0000,0000,0000,,我认为人性与人类史上一个不可避免的事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}l think it's an inevitable fact of human nature and human history
+Dialogue: 0,0:08:02.94,0:08:07.15,*Default,NTP,0000,0000,0000,,一种武器的发明与使用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the invention of one weapon and its use
+Dialogue: 0,0:08:07.19,0:08:11.69,*Default,NTP,0000,0000,0000,,会引发对策 或试图致胜的方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}triggers a countermeasure or a way to try to defeat it
+Dialogue: 0,0:08:11.74,0:08:13.74,*Default,NTP,0000,0000,0000,,或打造更好的武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or build a better one.
+Dialogue: 0,0:08:13.78,0:08:16.07,*Default,NTP,0000,0000,0000,,因此你会看到在太空武器中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you're going to see that in space weaponry,
+Dialogue: 0,0:08:16.12,0:08:18.49,*Default,NTP,0000,0000,0000,,并不介意你在未来走得多远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no matter how far in the future you go.
+Dialogue: 0,0:08:21.04,0:08:23.96,*Default,NTP,0000,0000,0000,,对付定向能武器的一个绝妙对策\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A fantastic countermeasure against a directed-energy weapon
+Dialogue: 0,0:08:24.00,0:08:26.17,*Default,NTP,0000,0000,0000,,比如激光那样的 将会是隐形装置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like, say, a laser, would be a cloaking device
+Dialogue: 0,0:08:26.21,0:08:29.67,*Default,NTP,0000,0000,0000,,诸如我们在科幻电影《星际迷航》里屡见不鲜的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like we see in many science fiction shows like "Star Trek."
+Dialogue: 0,0:08:29.71,0:08:32.17,*Default,NTP,0000,0000,0000,,如果我们能让飞船隐形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we can render a ship invisible,
+Dialogue: 0,0:08:32.22,0:08:34.88,*Default,NTP,0000,0000,0000,,那么电磁能就只能擦肩而过了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then electromagnetic energy just passes right through it.
+Dialogue: 0,0:08:36.97,0:08:40.26,*Default,NTP,0000,0000,0000,,不过让整个飞船隐形的技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the technology to make entire spaceships invisible
+Dialogue: 0,0:08:40.31,0:08:42.68,*Default,NTP,0000,0000,0000,,或让激光有足够强大到远距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or the power needed to create lasers strong enough
+Dialogue: 0,0:08:42.73,0:08:46.14,*Default,NTP,0000,0000,0000,,击中大目标所需的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to blast big targets from vast distances
+Dialogue: 0,0:08:46.19,0:08:48.77,*Default,NTP,0000,0000,0000,,将远远超出了我们目前的能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are well beyond our current capabilities.
+Dialogue: 0,0:08:49.57,0:08:53.65,*Default,NTP,0000,0000,0000,,目前 尚没有任何进攻性武器驻扎在太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And right now, there aren't any offensive weapons stationed in space.
+Dialogue: 0,0:08:54.74,0:08:58.66,*Default,NTP,0000,0000,0000,,但是在未来十年左右的时间里 战争仍然可能进入太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But war could still come to space within the next decade or so.
+Dialogue: 0,0:09:00.20,0:09:03.87,*Default,NTP,0000,0000,0000,,未来的太空战争可能看起来有所不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The future of space warfare may look a little different.
+Dialogue: 0,0:09:03.91,0:09:08.38,*Default,NTP,0000,0000,0000,,一开始 我想会是卫星与反卫星系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At first, I think it's going to be satellites and anti-satellite systems,
+Dialogue: 0,0:09:08.42,0:09:12.05,*Default,NTP,0000,0000,0000,,导弹与卫星 都是不载人的系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}missiles and satellites, not manned systems at all.
+Dialogue: 0,0:09:12.96,0:09:16.72,*Default,NTP,0000,0000,0000,,为什么卫星及摧毁它们的武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And why would satellites and weapons that could destroy them
+Dialogue: 0,0:09:16.76,0:09:19.76,*Default,NTP,0000,0000,0000,,会是太空战争一开始的重点呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}likely be the focus of the first space war?
+Dialogue: 0,0:09:21.43,0:09:25.85,*Default,NTP,0000,0000,0000,,因为卫星已经是地面战争必不可少的了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because satellites are already essential to fighting wars on Earth.
+Dialogue: 0,0:09:26.94,0:09:32.32,*Default,NTP,0000,0000,0000,,美国尤其极度依赖太空了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}America, in particular, is extremely dependent on space.
+Dialogue: 0,0:09:32.36,0:09:36.61,*Default,NTP,0000,0000,0000,,我们的军队如今离开了卫星已无法运作了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our military cannot operate the way it does today without satellites.
+Dialogue: 0,0:09:36.65,0:09:39.74,*Default,NTP,0000,0000,0000,,我们将它们用于通讯 导航\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We use them for communications, navigation,
+Dialogue: 0,0:09:39.78,0:09:41.53,*Default,NTP,0000,0000,0000,,搜集各种情报\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}intelligence gathering of all kinds.
+Dialogue: 0,0:09:41.58,0:09:44.83,*Default,NTP,0000,0000,0000,,不管是图像情报还是信号情报\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whether it's photo intelligence, whether it's signal intelligence,
+Dialogue: 0,0:09:44.87,0:09:47.41,*Default,NTP,0000,0000,0000,,大量都是靠卫星来完成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a lot of it is done by satellites.
+Dialogue: 0,0:09:47.46,0:09:50.92,*Default,NTP,0000,0000,0000,,甚至地面机动都需要非常精准的定位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even ground maneuvers require very accurate positioning,
+Dialogue: 0,0:09:50.96,0:09:52.17,*Default,NTP,0000,0000,0000,,GPS信号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}GPS signals.
+Dialogue: 0,0:09:53.75,0:09:57.72,*Default,NTP,0000,0000,0000,,2007年以来 中美两国\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since 2007, China and the United States
+Dialogue: 0,0:09:57.76,0:10:00.30,*Default,NTP,0000,0000,0000,,都证明了他们有能力用导弹来摧毁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have proven they're capable of destroying satellites
+Dialogue: 0,0:10:00.34,0:10:02.80,*Default,NTP,0000,0000,0000,,低地球轨道卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in low-Earth orbit with missiles.
+Dialogue: 0,0:10:02.85,0:10:05.47,*Default,NTP,0000,0000,0000,,他们各自清除了自己的一颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They've each taken out one of their own satellites.
+Dialogue: 0,0:10:09.10,0:10:13.27,*Default,NTP,0000,0000,0000,,这绝非易事 因为卫星在空中飞驰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's no easy feat since the satellites are streaking across the sky
+Dialogue: 0,0:10:13.32,0:10:17.99,*Default,NTP,0000,0000,0000,,在地球上空数百英里高处 时速达到了约1 7万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a few hundred miles above Earth at about 17,000 miles an hour.
+Dialogue: 0,0:10:19.41,0:10:23.41,*Default,NTP,0000,0000,0000,,没有快速计算机 人们是没有任何可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without fast computers, people wouldn't stand a chance.
+Dialogue: 0,0:10:31.00,0:10:34.04,*Default,NTP,0000,0000,0000,,用导弹击中太空中的卫星 难度不亚于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hitting a satellite in space with a missile is as difficult
+Dialogue: 0,0:10:34.09,0:10:37.80,*Default,NTP,0000,0000,0000,,用你的网球去击中别人发出的网球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as hitting someone else's tennis serve with yours.
+Dialogue: 0,0:10:37.84,0:10:39.97,*Default,NTP,0000,0000,0000,,把握正确的时间 把握正确的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Getting the timing, getting the speed right,
+Dialogue: 0,0:10:40.01,0:10:41.43,*Default,NTP,0000,0000,0000,,几乎是难以办到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's virtually impossible.
+Dialogue: 0,0:10:42.18,0:10:45.22,*Default,NTP,0000,0000,0000,,不过对于具有先进技术的现代导弹而言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But for a modern missile with advanced technology,
+Dialogue: 0,0:10:45.26,0:10:47.14,*Default,NTP,0000,0000,0000,,就并不那么困难了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's not that difficult.
+Dialogue: 0,0:10:47.18,0:10:48.98,*Default,NTP,0000,0000,0000,,这些导弹的传感器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These missiles have sensors
+Dialogue: 0,0:10:49.02,0:10:51.60,*Default,NTP,0000,0000,0000,,让它们确定自己的位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that allow them to determine their own location
+Dialogue: 0,0:10:51.65,0:10:54.94,*Default,NTP,0000,0000,0000,,目标的位置及其变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the target location and changes
+Dialogue: 0,0:10:54.98,0:10:58.32,*Default,NTP,0000,0000,0000,,瞬间调整并击中它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and make split-second adjustments and hit them.
+Dialogue: 0,0:10:58.36,0:11:00.45,*Default,NTP,0000,0000,0000,,设想一下 要是你有一个聪明的网球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine if you had a smart tennis ball
+Dialogue: 0,0:11:00.49,0:11:02.91,*Default,NTP,0000,0000,0000,,用上类似的传感技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using the same kind of sensor technology,
+Dialogue: 0,0:11:02.95,0:11:05.83,*Default,NTP,0000,0000,0000,,每秒钟调整位置数百次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}adjusting its location hundreds of times a second
+Dialogue: 0,0:11:05.87,0:11:08.20,*Default,NTP,0000,0000,0000,,来确保其击中目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to make sure it hit the target.
+Dialogue: 0,0:11:11.29,0:11:13.88,*Default,NTP,0000,0000,0000,,导弹拦截卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And once a missile intercepts a satellite,
+Dialogue: 0,0:11:13.92,0:11:16.13,*Default,NTP,0000,0000,0000,,大爆炸是不需要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a big explosion isn't needed.
+Dialogue: 0,0:11:16.17,0:11:18.34,*Default,NTP,0000,0000,0000,,事实上 许多反卫星导弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, many anti-satellite missiles
+Dialogue: 0,0:11:18.38,0:11:20.42,*Default,NTP,0000,0000,0000,,都设计成简单撞击其目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are designed to simply ram their target
+Dialogue: 0,0:11:20.47,0:11:22.55,*Default,NTP,0000,0000,0000,,根本无需任何爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without any explosives at all.
+Dialogue: 0,0:11:25.89,0:11:29.18,*Default,NTP,0000,0000,0000,,用于太空的材料被设计成非常轻质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Space-based materials are designed to be fairly light.
+Dialogue: 0,0:11:29.23,0:11:31.69,*Default,NTP,0000,0000,0000,,物体送上轨道花费不菲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very expensive to lift things into orbit.
+Dialogue: 0,0:11:31.73,0:11:33.65,*Default,NTP,0000,0000,0000,,需要上百磅燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It takes about a hundred pounds of fuel
+Dialogue: 0,0:11:33.69,0:11:35.06,*Default,NTP,0000,0000,0000,,才能将一磅东西送入轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to lift one pound into orbit.
+Dialogue: 0,0:11:35.11,0:11:36.86,*Default,NTP,0000,0000,0000,,因此你会尽可能将东西做轻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you want to make things as light as possible,
+Dialogue: 0,0:11:36.90,0:11:40.36,*Default,NTP,0000,0000,0000,,这样也使得它们通常比较容易毁坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which makes them also usually comparatively easy to knock out.
+Dialogue: 0,0:11:42.53,0:11:45.74,*Default,NTP,0000,0000,0000,,回到地球上 一场全面太空战争的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And back on Earth, the effects of an all-out space war
+Dialogue: 0,0:11:45.78,0:11:48.12,*Default,NTP,0000,0000,0000,,在未来十年里将十分严峻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the next decade would be severe.
+Dialogue: 0,0:11:50.41,0:11:54.25,*Default,NTP,0000,0000,0000,,如果各国开始相互间摧毁空中的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If countries begin blasting each other's satellites out of the sky,
+Dialogue: 0,0:11:54.29,0:11:57.50,*Default,NTP,0000,0000,0000,,问题很快就会蔓延开来 远不止使其难以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the problems would quickly spread beyond making it difficult
+Dialogue: 0,0:11:57.55,0:11:59.55,*Default,NTP,0000,0000,0000,,针对发动战争的军事卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the military to wage war.
+Dialogue: 0,0:12:00.88,0:12:05.39,*Default,NTP,0000,0000,0000,,如今的全球科技绝对依赖太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today's global society is definitely dependent on space.
+Dialogue: 0,0:12:05.43,0:12:08.89,*Default,NTP,0000,0000,0000,,要是我们失去卫星 不光是军事卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we were to start losing satellites, not just military satellites,
+Dialogue: 0,0:12:08.93,0:12:11.81,*Default,NTP,0000,0000,0000,,还有通讯和民用卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but commercial and civil satellites,
+Dialogue: 0,0:12:11.85,0:12:14.23,*Default,NTP,0000,0000,0000,,那么日常生活将会如何呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what would happen to daily life?
+Dialogue: 0,0:12:14.27,0:12:16.69,*Default,NTP,0000,0000,0000,,突然间 ATM机罢工了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Suddenly, ATM machines don't work.
+Dialogue: 0,0:12:16.73,0:12:19.52,*Default,NTP,0000,0000,0000,,许多手机罢工了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many cell phones don't work.
+Dialogue: 0,0:12:19.57,0:12:22.69,*Default,NTP,0000,0000,0000,,自助加油不工作了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pay at the pump no longer works.
+Dialogue: 0,0:12:22.74,0:12:24.99,*Default,NTP,0000,0000,0000,,全世界的金融业务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Financial transactions all over the world
+Dialogue: 0,0:12:25.03,0:12:28.74,*Default,NTP,0000,0000,0000,,使用的GPS计时信号突然间都中断了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that use the GPS timing signal all of a sudden are disrupted.
+Dialogue: 0,0:12:28.78,0:12:30.45,*Default,NTP,0000,0000,0000,,整个世界放慢了脚步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the whole world slows down.
+Dialogue: 0,0:12:32.58,0:12:36.00,*Default,NTP,0000,0000,0000,,如果太空战争升级到完全失控\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if a space war escalated totally out of control,
+Dialogue: 0,0:12:36.04,0:12:39.46,*Default,NTP,0000,0000,0000,,导弹可能会携带核弹头进入太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}missiles might carry nuclear warheads into space
+Dialogue: 0,0:12:39.50,0:12:43.51,*Default,NTP,0000,0000,0000,,以确保重要目标在大爆炸中消灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to make sure important targets were knocked out with a big blast.
+Dialogue: 0,0:12:45.93,0:12:50.43,*Default,NTP,0000,0000,0000,,然而你不会相信太空核爆炸的样子有何不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But you won't believe how different a nuclear blast in space looks,
+Dialogue: 0,0:12:50.47,0:12:53.93,*Default,NTP,0000,0000,0000,,以及它仍然会对地球造成破坏程度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and how destructive it can still be back on Earth.
+Dialogue: 0,0:13:03.40,0:13:05.28,*Default,NTP,0000,0000,0000,,今天的武器库里有一件武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's one weapon in today's arsenals
+Dialogue: 0,0:13:05.32,0:13:07.74,*Default,NTP,0000,0000,0000,,可能还会在未来的大规模太空战争中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that might still be used to annihilate targets
+Dialogue: 0,0:13:07.78,0:13:10.07,*Default,NTP,0000,0000,0000,,用来消灭目标 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in massive space battles of the future:
+Dialogue: 0,0:13:11.91,0:13:13.16,*Default,NTP,0000,0000,0000,,原子弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}atomic bombs.
+Dialogue: 0,0:13:15.25,0:13:18.29,*Default,NTP,0000,0000,0000,,不过曾经见过地球上的原子弹爆炸的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But anyone used to seeing atomic explosions on Earth
+Dialogue: 0,0:13:18.33,0:13:21.67,*Default,NTP,0000,0000,0000,,会很难认出这些太空中的爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have a hard time recognizing these blasts in space.
+Dialogue: 0,0:13:24.17,0:13:28.13,*Default,NTP,0000,0000,0000,,太空核爆炸一个毛骨悚然的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the creepy things about exploding a nuclear weapon in space
+Dialogue: 0,0:13:28.18,0:13:30.64,*Default,NTP,0000,0000,0000,,就是它看上去并不是你想象的那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is it doesn't look like anything you'd expect.
+Dialogue: 0,0:13:30.68,0:13:34.18,*Default,NTP,0000,0000,0000,,在地球上 我们会看到这种标志性的蘑菇云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here on the planet Earth, we see this iconic mushroom cloud.
+Dialogue: 0,0:13:34.23,0:13:38.94,*Default,NTP,0000,0000,0000,,然而在太空中 由于没有大气 所以也就没有云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in space, with no atmosphere, there's no cloud.
+Dialogue: 0,0:13:38.98,0:13:43.36,*Default,NTP,0000,0000,0000,,相反 你会有一个扩散的辐射气泡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead you have an expanding bubble of radiation,
+Dialogue: 0,0:13:43.40,0:13:47.61,*Default,NTP,0000,0000,0000,,一个闪光 像星星一样 很小 变成了超新星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a single flash of light like a star, very small, going supernova.
+Dialogue: 0,0:13:53.66,0:13:55.83,*Default,NTP,0000,0000,0000,,在最初的几纳秒里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the first few nanoseconds,
+Dialogue: 0,0:13:55.87,0:14:01.00,*Default,NTP,0000,0000,0000,,高能伽玛射线随着一道闪光向四处爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}high-energy gamma rays explode in all directions along with a flash of light,
+Dialogue: 0,0:14:01.04,0:14:03.88,*Default,NTP,0000,0000,0000,,紧接着是扩散的辐射云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}followed by an expanding cloud of radiation.
+Dialogue: 0,0:14:05.30,0:14:08.80,*Default,NTP,0000,0000,0000,,在地球上撕碎建筑物的冲击波不见了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The shockwave that rips buildings apart on Earth is gone,
+Dialogue: 0,0:14:08.84,0:14:11.26,*Default,NTP,0000,0000,0000,,因为太空中没有空气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since there's no atmosphere in space.
+Dialogue: 0,0:14:12.47,0:14:16.81,*Default,NTP,0000,0000,0000,,但是辐射扩散的范围比地球上更快更广\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the sphere of radiation expands faster and farther than on Earth.
+Dialogue: 0,0:14:18.64,0:14:21.19,*Default,NTP,0000,0000,0000,,你就能想到的几乎就像是子弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can just think of almost like bullets,
+Dialogue: 0,0:14:21.23,0:14:23.77,*Default,NTP,0000,0000,0000,,但是它们是辐射粒子的飞出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they're radiation particles going out,
+Dialogue: 0,0:14:23.82,0:14:27.32,*Default,NTP,0000,0000,0000,,它们会源源不断的流出 - 伽玛射线 中子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they will travel a long ways-- gamma rays, neutrons.
+Dialogue: 0,0:14:27.36,0:14:29.82,*Default,NTP,0000,0000,0000,,它们会穿透卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They will penetrate satellites.
+Dialogue: 0,0:14:29.86,0:14:31.53,*Default,NTP,0000,0000,0000,,有些刚好经过爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some go blasting right through.
+Dialogue: 0,0:14:31.57,0:14:34.58,*Default,NTP,0000,0000,0000,,其它会打击电子元件 造成很大的危害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Others hit electronics and cause a lot of damage.
+Dialogue: 0,0:14:35.58,0:14:37.62,*Default,NTP,0000,0000,0000,,对于平均规模的核弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With an average-size nuclear bomb,
+Dialogue: 0,0:14:37.66,0:14:41.58,*Default,NTP,0000,0000,0000,,半径50英里范围内的任何卫星都将被摧毁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}any satellites within a 50-mile radius will be destroyed.
+Dialogue: 0,0:14:43.75,0:14:47.51,*Default,NTP,0000,0000,0000,,然而太空核爆炸不仅仅破坏设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But an atomic blast in space wouldn't just destroy equipment.
+Dialogue: 0,0:14:49.43,0:14:55.01,*Default,NTP,0000,0000,0000,,宇航员飞经太空核爆炸产生的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronauts flying through the debris from an exploded nuclear weapon in space
+Dialogue: 0,0:14:55.06,0:14:58.68,*Default,NTP,0000,0000,0000,,将会遭遇极端的辐射量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be subject to extreme levels of radiation.
+Dialogue: 0,0:14:58.73,0:15:00.48,*Default,NTP,0000,0000,0000,,尤其是 放射性核的放射性衰变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In particular, there are gamma rays
+Dialogue: 0,0:15:00.52,0:15:04.06,*Default,NTP,0000,0000,0000,,会产生出伽玛射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming from radioactive decay of radioactive nuclei,
+Dialogue: 0,0:15:04.11,0:15:07.69,*Default,NTP,0000,0000,0000,,会与皮肤发生作用 引发癌症\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they can interact with skin and cause cancer.
+Dialogue: 0,0:15:07.74,0:15:10.90,*Default,NTP,0000,0000,0000,,还有高能电子和其他粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Also there are energetic electrons and other particles
+Dialogue: 0,0:15:10.95,0:15:13.74,*Default,NTP,0000,0000,0000,,会来自这些放射性核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming from these radioactive nuclei,
+Dialogue: 0,0:15:13.78,0:15:17.12,*Default,NTP,0000,0000,0000,,所有这些东西会危害生命组织\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and all of these things are damaging to living tissue.
+Dialogue: 0,0:15:22.46,0:15:25.59,*Default,NTP,0000,0000,0000,,没有风或其它空气影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without any wind or other atmospheric effects,
+Dialogue: 0,0:15:25.63,0:15:27.67,*Default,NTP,0000,0000,0000,,辐射的扩散范围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that expanding sphere of radiation
+Dialogue: 0,0:15:27.71,0:15:30.47,*Default,NTP,0000,0000,0000,,会数月保持在危险水平上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would stay at dangerous levels for months.
+Dialogue: 0,0:15:31.84,0:15:34.93,*Default,NTP,0000,0000,0000,,如今的导弹可能会携带核弹头进入太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today's missiles can carry nuclear warheads into space,
+Dialogue: 0,0:15:34.97,0:15:39.06,*Default,NTP,0000,0000,0000,,因为原子弹会与地球上部的大气层产生互动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and due to the way atomic bombs interact with Earth's upper atmosphere,
+Dialogue: 0,0:15:39.10,0:15:42.85,*Default,NTP,0000,0000,0000,,一个国家可以用太空爆炸来解决另一个国家的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one country might decide to target another with a blast in space,
+Dialogue: 0,0:15:42.90,0:15:45.40,*Default,NTP,0000,0000,0000,,因为它实际上会造成很大的破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it actually causes a lot of damage
+Dialogue: 0,0:15:45.44,0:15:47.44,*Default,NTP,0000,0000,0000,,一路到地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the way down on Earth.
+Dialogue: 0,0:15:48.36,0:15:53.20,*Default,NTP,0000,0000,0000,,当核武器在地球大气层最高处爆炸时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a nuclear weapon goes off above most of the Earth's atmosphere,
+Dialogue: 0,0:15:53.24,0:15:55.45,*Default,NTP,0000,0000,0000,,会释放出伽玛射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it releases a bunch of gamma rays,
+Dialogue: 0,0:15:55.49,0:15:57.70,*Default,NTP,0000,0000,0000,,极高能的电磁辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}very high-energy electromagnetic radiation,
+Dialogue: 0,0:15:57.74,0:16:00.70,*Default,NTP,0000,0000,0000,,电离大气层里的大气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that ionize the gas in the atmosphere,
+Dialogue: 0,0:16:00.75,0:16:05.29,*Default,NTP,0000,0000,0000,,也就是 它们会踢走原子和分子里的电子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is, they kick the electrons off of the atoms and molecules.
+Dialogue: 0,0:16:05.33,0:16:09.00,*Default,NTP,0000,0000,0000,,那些电子主要是踢向地面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Those electrons are kicked largely in a downward direction,
+Dialogue: 0,0:16:09.05,0:16:12.84,*Default,NTP,0000,0000,0000,,速度会接近光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they're moving at a substantial fraction of the speed of light.
+Dialogue: 0,0:16:12.88,0:16:15.76,*Default,NTP,0000,0000,0000,,现在 它产生了一个极大的电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, that creates an incredible electric current,
+Dialogue: 0,0:16:15.80,0:16:18.72,*Default,NTP,0000,0000,0000,,能够对地球上的弟子设备产生很大的电压差\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that can set up big voltage differences
+Dialogue: 0,0:16:18.76,0:16:23.43,*Default,NTP,0000,0000,0000,,和很大的电涌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and big surges of current in electrical equipment here on Earth.
+Dialogue: 0,0:16:26.15,0:16:27.86,*Default,NTP,0000,0000,0000,,所以如果美国是目标的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if America were the target,
+Dialogue: 0,0:16:27.90,0:16:32.15,*Default,NTP,0000,0000,0000,,就会有突然的电流峰 即所谓的电磁脉冲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there'd be a sudden spike of current known as an electromagnetic pulse,
+Dialogue: 0,0:16:32.19,0:16:33.40,*Default,NTP,0000,0000,0000,,{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}EMP\Nor EMP,
+Dialogue: 0,0:16:33.45,0:16:36.95,*Default,NTP,0000,0000,0000,,落下就像是个巨大的无形闪电球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming down like a massive invisible ball of lightning.
+Dialogue: 0,0:16:36.99,0:16:38.99,*Default,NTP,0000,0000,0000,,它会瞬间破坏电子设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It destroys electronics
+Dialogue: 0,0:16:39.03,0:16:42.37,*Default,NTP,0000,0000,0000,,和任何带有电流的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and anything else carrying an electric current in an instant.
+Dialogue: 0,0:16:47.04,0:16:50.71,*Default,NTP,0000,0000,0000,,地球上的核爆炸也会产生EMP\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Atomic blasts on Earth also create EMPs,
+Dialogue: 0,0:16:50.75,0:16:52.51,*Default,NTP,0000,0000,0000,,但是范围极其有限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but with more limited ranges.
+Dialogue: 0,0:16:52.55,0:16:55.01,*Default,NTP,0000,0000,0000,,而大气层上方的爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By exploding above the atmosphere,
+Dialogue: 0,0:16:55.05,0:16:58.93,*Default,NTP,0000,0000,0000,,一个核爆炸就能够摧毁一个国家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a single atomic blast could devastate the country.
+Dialogue: 0,0:17:00.68,0:17:02.35,*Default,NTP,0000,0000,0000,,据估计 如果你在堪萨斯州上空100公里处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's been estimated that if you lit off
+Dialogue: 0,0:17:02.39,0:17:06.94,*Default,NTP,0000,0000,0000,,引爆一个百万吨级的核弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a one-megaton nuclear weapon 100 kilometers over Kansas,
+Dialogue: 0,0:17:06.98,0:17:09.69,*Default,NTP,0000,0000,0000,,你就会令美国大部分 如果不是全部的电子设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would render most, if not all the electronics
+Dialogue: 0,0:17:09.73,0:17:11.40,*Default,NTP,0000,0000,0000,,失效\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the United States inoperative.
+Dialogue: 0,0:17:17.45,0:17:22.37,*Default,NTP,0000,0000,0000,,太空核爆炸对地球的破坏不只是理论上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The damage on Earth from atomic explosions in space isn't just theory.
+Dialogue: 0,0:17:22.41,0:17:26.46,*Default,NTP,0000,0000,0000,,始于上世纪50年代后期 冷战高峰时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Starting in the late 1950s, during the height of the Cold War,
+Dialogue: 0,0:17:26.50,0:17:29.54,*Default,NTP,0000,0000,0000,,美国及前苏联\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}both the United States and the former Soviet Union
+Dialogue: 0,0:17:29.59,0:17:34.17,*Default,NTP,0000,0000,0000,,成为了唯一利用太空作为核试验场的国家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}became the only nations to use space as a nuclear testing ground.
+Dialogue: 0,0:17:39.55,0:17:44.10,*Default,NTP,0000,0000,0000,,1962年在太平洋上空进行的最后一次试验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the last tests in 1962 above the Pacific Ocean
+Dialogue: 0,0:17:44.14,0:17:46.81,*Default,NTP,0000,0000,0000,,产生的EMP毁坏的电子设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}created an EMP that knocked out electronics
+Dialogue: 0,0:17:46.85,0:17:49.52,*Default,NTP,0000,0000,0000,,从新西兰一直到夏威夷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the way from New Zealand to Hawaii.
+Dialogue: 0,0:17:51.19,0:17:54.07,*Default,NTP,0000,0000,0000,,你可以影响很大的区域 用这些电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you can affect a large area with these currents,
+Dialogue: 0,0:17:54.11,0:17:55.49,*Default,NTP,0000,0000,0000,,这些瞬间电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these sharp currents,
+Dialogue: 0,0:17:55.53,0:17:59.07,*Default,NTP,0000,0000,0000,,不只是在核弹下方直接影响的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not just the immediate area right below the bomb.
+Dialogue: 0,0:17:59.11,0:18:03.33,*Default,NTP,0000,0000,0000,,因为在太空中和地球上的广泛破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because of the widespread damage in space and on Earth,
+Dialogue: 0,0:18:03.37,0:18:07.46,*Default,NTP,0000,0000,0000,,两个国家在十来次试验后都停止了这些爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}both countries stopped these blasts after less than two dozen tests.
+Dialogue: 0,0:18:10.96,0:18:15.53,*Default,NTP,0000,0000,0000,,为了预防不确定的大核爆打击无害的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To avoid hitting friendly satellites or spacecraft with big, 
+Dialogue: 0,0:18:15.53,0:18:16.55,*Default,NTP,0000,0000,0000,,和航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}imprecise nuclear blasts,
+Dialogue: 0,0:18:16.59,0:18:19.18,*Default,NTP,0000,0000,0000,,常规武器可以被用于太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}conventional firearms could be used in space.
+Dialogue: 0,0:18:21.22,0:18:24.97,*Default,NTP,0000,0000,0000,,但如果你在空间站外负责防卫的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if you were in charge of security outside of a space station,
+Dialogue: 0,0:18:25.02,0:18:28.81,*Default,NTP,0000,0000,0000,,普通手枪在微重力环境中 没有大气中的氧气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would a normal handgun even fire without atmospheric oxygen
+Dialogue: 0,0:18:28.85,0:18:30.81,*Default,NTP,0000,0000,0000,,能开火吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a microgravity environment?
+Dialogue: 0,0:18:32.48,0:18:34.32,*Default,NTP,0000,0000,0000,,火药里头自己带有氧化剂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gunpowder has its own oxidizer built into it,
+Dialogue: 0,0:18:34.36,0:18:36.44,*Default,NTP,0000,0000,0000,,所以能够开火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it would fire.
+Dialogue: 0,0:18:36.49,0:18:40.11,*Default,NTP,0000,0000,0000,,如果你设法让撞针打击子弹的屁股\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you managed to get the firing pin to hit the end of the bullet,
+Dialogue: 0,0:18:40.16,0:18:41.45,*Default,NTP,0000,0000,0000,,它就会开火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would go off.
+Dialogue: 0,0:18:41.49,0:18:44.78,*Default,NTP,0000,0000,0000,,现在它会不会弹出滑槽 下一颗子弹入膛？ \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now would it eject the slide and the next bullet go into the round
+Dialogue: 0,0:18:44.83,0:18:47.04,*Default,NTP,0000,0000,0000,,会那样动作吗？ 这是个好问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and would that work? That's a good question.
+Dialogue: 0,0:18:47.08,0:18:52.17,*Default,NTP,0000,0000,0000,,我真的不能肯定 在它卡壳停止工作之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm not real positive that it would fire more than a few times
+Dialogue: 0,0:18:52.21,0:18:53.75,*Default,NTP,0000,0000,0000,,能开火几次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before it seized up and quit working.
+Dialogue: 0,0:18:55.59,0:18:59.88,*Default,NTP,0000,0000,0000,,问题很大部分在于枪里的金属活动部件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A big part of the problem is that the metal moving parts inside guns
+Dialogue: 0,0:18:59.93,0:19:02.64,*Default,NTP,0000,0000,0000,,需要润滑油才能工作顺畅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}need lubricants to work smoothly,
+Dialogue: 0,0:19:02.68,0:19:04.26,*Default,NTP,0000,0000,0000,,但是极端严酷的太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the harsh extremes of space
+Dialogue: 0,0:19:04.30,0:19:07.01,*Default,NTP,0000,0000,0000,,可能会导致润滑油失效\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would probably cause the lubricants to fail.
+Dialogue: 0,0:19:08.56,0:19:11.94,*Default,NTP,0000,0000,0000,,举个例子 比如手枪置于阳光下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a handgun got in the sunlight, for example,
+Dialogue: 0,0:19:11.98,0:19:13.69,*Default,NTP,0000,0000,0000,,就会变得很热很热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would get really, really hot,
+Dialogue: 0,0:19:13.73,0:19:16.23,*Default,NTP,0000,0000,0000,,部件可能会粘在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the parts would seize together probably.
+Dialogue: 0,0:19:16.28,0:19:19.07,*Default,NTP,0000,0000,0000,,如果不是在阳光下 就会变得很冷很冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it were not in the sunlight, it would get really, really cold,
+Dialogue: 0,0:19:19.11,0:19:21.57,*Default,NTP,0000,0000,0000,,部件也可能会粘在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the parts would seize together probably,
+Dialogue: 0,0:19:21.61,0:19:26.08,*Default,NTP,0000,0000,0000,,润滑油在真空的太空中很难发挥作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and lubricants just have a hard time of working in the vacuum of space.
+Dialogue: 0,0:19:26.12,0:19:27.33,*Default,NTP,0000,0000,0000,,最大的问题是它们会结珠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The biggest problem is they bead up.
+Dialogue: 0,0:19:27.37,0:19:29.04,*Default,NTP,0000,0000,0000,,它们会变成小珠子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They turn into little balls,
+Dialogue: 0,0:19:29.08,0:19:33.92,*Default,NTP,0000,0000,0000,,因为没有重力 没有空气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because there's no gravity or any other atmosphere
+Dialogue: 0,0:19:33.96,0:19:35.63,*Default,NTP,0000,0000,0000,,使其能够依附\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it can adhere to.
+Dialogue: 0,0:19:37.50,0:19:43.51,*Default,NTP,0000,0000,0000,,宇航员在微重力下饮液体时已证实了同样的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronauts have demonstrated the same thing when they drink liquids in microgravity.
+Dialogue: 0,0:19:43.55,0:19:45.05,*Default,NTP,0000,0000,0000,,不是连贯地流出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead of flowing evenly,
+Dialogue: 0,0:19:45.10,0:19:48.06,*Default,NTP,0000,0000,0000,,液体而是分开形成一连串的小球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the liquids separate into a series of spheres.
+Dialogue: 0,0:19:53.27,0:19:55.52,*Default,NTP,0000,0000,0000,,但是有一个系统会工作良好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there is one system that would work well
+Dialogue: 0,0:19:55.56,0:19:58.32,*Default,NTP,0000,0000,0000,,用来防范太空中的歹徒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for keeping away the bad guys in space:
+Dialogue: 0,0:19:58.36,0:20:00.78,*Default,NTP,0000,0000,0000,,用轨道炮来发射炮弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}launching bullets with a rail gun.
+Dialogue: 0,0:20:00.82,0:20:04.03,*Default,NTP,0000,0000,0000,,轨道炮用一个强磁场系列\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rail guns use a series of strong magnetic fields,
+Dialogue: 0,0:20:04.07,0:20:06.57,*Default,NTP,0000,0000,0000,,而不是用火药来推进炮弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rather than gunpowder, to propel bullets.
+Dialogue: 0,0:20:08.83,0:20:11.87,*Default,NTP,0000,0000,0000,,目前的轨道炮炮弹已经能够发射到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Current rail gun projectiles can already race downrange
+Dialogue: 0,0:20:11.91,0:20:15.54,*Default,NTP,0000,0000,0000,,M16步枪射出的子弹的三倍快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about three times faster than a bullet from an M-16 rifle.
+Dialogue: 0,0:20:20.26,0:20:24.22,*Default,NTP,0000,0000,0000,,轨道炮的概念就是你将小弹丸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea of a rail gun is you take a small pellet that's 
+Dialogue: 0,0:20:24.26,0:20:27.22,*Default,NTP,0000,0000,0000,,有可能是金属的 有可能是塑料的 不管什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It may be metal, it may be plastic, may be whatever,
+Dialogue: 0,0:20:27.26,0:20:30.14,*Default,NTP,0000,0000,0000,,但是你必须将它包在铝箔里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but you have to have it wrapped in aluminum foil,
+Dialogue: 0,0:20:30.18,0:20:34.35,*Default,NTP,0000,0000,0000,,因为你要在两根长轨之间完成一个电路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because you complete an electric circuit between two long rails
+Dialogue: 0,0:20:34.39,0:20:38.77,*Default,NTP,0000,0000,0000,,创造磁场来加速在轨道端部的小弹丸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the magnetic field created accelerates that little pellet
+Dialogue: 0,0:20:38.82,0:20:42.03,*Default,NTP,0000,0000,0000,,它能够将其加速得很快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}out the end of the rails, and it can accelerate it very fast.
+Dialogue: 0,0:20:42.07,0:20:46.91,*Default,NTP,0000,0000,0000,,最高 有人认为 可以接近光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Up to, some people believe, close to the speed of light.
+Dialogue: 0,0:20:48.45,0:20:50.20,*Default,NTP,0000,0000,0000,,类似的系统应用于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Similar systems are at work
+Dialogue: 0,0:20:50.24,0:20:53.00,*Default,NTP,0000,0000,0000,,某些高铁和过山车上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in certain bullet trains and roller coasters.
+Dialogue: 0,0:20:57.25,0:21:01.92,*Default,NTP,0000,0000,0000,,你有一系列的磁铁 磁铁驱动物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have a series of magnets, and the magnets propel an object,
+Dialogue: 0,0:21:01.96,0:21:05.63,*Default,NTP,0000,0000,0000,,不管是过山车还是你想用它来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}either a roller coaster car or this giant slug of a bullet
+Dialogue: 0,0:21:05.68,0:21:07.76,*Default,NTP,0000,0000,0000,,打击太空中的东西巨大的子弹棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you want to use to hit something in space,
+Dialogue: 0,0:21:07.80,0:21:10.26,*Default,NTP,0000,0000,0000,,从一头到另一头 不断将其加速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from one to the other, accelerating as it goes,
+Dialogue: 0,0:21:10.31,0:21:14.10,*Default,NTP,0000,0000,0000,,一旦它经过了一定数量的加速器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and by the time it's reached a certain number of accelerators,
+Dialogue: 0,0:21:14.14,0:21:15.39,*Default,NTP,0000,0000,0000,,一定数量的磁铁对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a certain number of pairs of magnets,
+Dialogue: 0,0:21:15.44,0:21:17.94,*Default,NTP,0000,0000,0000,,它就会达到你所需要的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's really going as fast as you need it to go.
+Dialogue: 0,0:21:20.27,0:21:22.40,*Default,NTP,0000,0000,0000,,安装在大型航天器上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mounted on a large spacecraft,
+Dialogue: 0,0:21:22.44,0:21:25.95,*Default,NTP,0000,0000,0000,,轨道炮有可能成为未来的舰载大炮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the rail gun could become the naval cannon of the future.
+Dialogue: 0,0:21:25.99,0:21:29.74,*Default,NTP,0000,0000,0000,,长长排列的强大磁铁能够推动大炮弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Long rows of powerful magnets could propel big projectiles
+Dialogue: 0,0:21:29.78,0:21:32.16,*Default,NTP,0000,0000,0000,,到时速数百万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to millions of miles an hour.
+Dialogue: 0,0:21:32.20,0:21:34.79,*Default,NTP,0000,0000,0000,,但是那种大炮是否足以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But would that kind of gun be enough
+Dialogue: 0,0:21:34.83,0:21:39.25,*Default,NTP,0000,0000,0000,,在外星文明毁灭地球之前将其消灭呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to take out an alien civilization before it could destroy Earth?
+Dialogue: 0,0:21:45.67,0:21:47.34,*Default,NTP,0000,0000,0000,,从今百年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A hundred years from now,
+Dialogue: 0,0:21:47.38,0:21:51.80,*Default,NTP,0000,0000,0000,,参战的飞船可能会用超高速轨道炮来开火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spaceships at war may blast away with ultra-high-speed rail guns
+Dialogue: 0,0:21:51.85,0:21:54.77,*Default,NTP,0000,0000,0000,,无需炸药去摧毁目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that destroy targets without explosives.
+Dialogue: 0,0:21:54.81,0:21:59.65,*Default,NTP,0000,0000,0000,,只要以时速数千乃至百万英里的速度来攻击敌人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just by slamming into the enemy at many thousands or even millions of miles an hour,
+Dialogue: 0,0:21:59.69,0:22:02.69,*Default,NTP,0000,0000,0000,,就会释放出巨量的动能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they'll release incredible amounts of kinetic energy,
+Dialogue: 0,0:22:02.73,0:22:04.32,*Default,NTP,0000,0000,0000,,运动的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the energy of motion.
+Dialogue: 0,0:22:07.49,0:22:10.11,*Default,NTP,0000,0000,0000,,2008年 美国海军测试了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2008, the U.S. Navy tested
+Dialogue: 0,0:22:10.16,0:22:12.78,*Default,NTP,0000,0000,0000,,现存最强大的轨道炮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most powerful rail gun that now exists.
+Dialogue: 0,0:22:12.83,0:22:16.16,*Default,NTP,0000,0000,0000,,利用一系列磁铁和强大的电流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Using a series of magnets and strong electrical currents,
+Dialogue: 0,0:22:16.20,0:22:21.08,*Default,NTP,0000,0000,0000,,它发射了一个7磅重的炮弹 时速超过了5000英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it launched a 7-pound projectile at over 5,000 miles an hour.
+Dialogue: 0,0:22:21.13,0:22:25.55,*Default,NTP,0000,0000,0000,,大炮估计全程运作的射程将达到200英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gun's estimated range when fully operational will be 200 miles.
+Dialogue: 0,0:22:27.42,0:22:30.09,*Default,NTP,0000,0000,0000,,炮弹的速度是音速的七倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A slug moving at seven times the speed of sound
+Dialogue: 0,0:22:30.14,0:22:31.93,*Default,NTP,0000,0000,0000,,会造成很大的破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}does a lot of damage.
+Dialogue: 0,0:22:33.18,0:22:36.27,*Default,NTP,0000,0000,0000,,它是你很高兴我们所掌握的那些东西之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's one of those things where you're glad it's on our side.
+Dialogue: 0,0:22:37.27,0:22:40.06,*Default,NTP,0000,0000,0000,,那种武器确实能够对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the kind of weapon that could really do some damage
+Dialogue: 0,0:22:40.10,0:22:43.81,*Default,NTP,0000,0000,0000,,野蛮外星文明的都市造成某种破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the capital city of a violent alien civilization.
+Dialogue: 0,0:22:47.28,0:22:49.03,*Default,NTP,0000,0000,0000,,你可以想象巨型母舰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can envision the big mother ship
+Dialogue: 0,0:22:49.07,0:22:51.70,*Default,NTP,0000,0000,0000,,携带沿着船边运行的轨道炮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}having a rail gun that runs along the periphery
+Dialogue: 0,0:22:51.74,0:22:53.03,*Default,NTP,0000,0000,0000,,从一头到另一头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from one end to the other,
+Dialogue: 0,0:22:53.08,0:22:54.91,*Default,NTP,0000,0000,0000,,它可以发射很大的炮弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it could shoot a very large projectile,
+Dialogue: 0,0:22:54.95,0:22:57.04,*Default,NTP,0000,0000,0000,,大如汽车或推土机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like the size of a car or a bulldozer,
+Dialogue: 0,0:22:59.92,0:23:02.71,*Default,NTP,0000,0000,0000,,然后你可以加速轨道炮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you could then accelerate on that rail gun
+Dialogue: 0,0:23:02.75,0:23:05.71,*Default,NTP,0000,0000,0000,,到或许是10% 20%的光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe 10%, 20% the speed of light,
+Dialogue: 0,0:23:05.75,0:23:09.72,*Default,NTP,0000,0000,0000,,巨大的动能有可能会摧毁整个城市\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that much kinetic energy could likely destroy the whole city.
+Dialogue: 0,0:23:09.76,0:23:12.30,*Default,NTP,0000,0000,0000,,我是说 它具有很大的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, that's a lot of energy.
+Dialogue: 0,0:23:13.68,0:23:17.47,*Default,NTP,0000,0000,0000,,但是如此先进的轨道炮显然有很长的路要走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But such an advanced rail gun is obviously a long way off.
+Dialogue: 0,0:23:17.52,0:23:20.18,*Default,NTP,0000,0000,0000,,那么有没有何种动能武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So are there any kinetic-energy weapons
+Dialogue: 0,0:23:20.23,0:23:23.23,*Default,NTP,0000,0000,0000,,能够在不久的将来进入太空呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could come to space in the near future?
+Dialogue: 0,0:23:24.27,0:23:26.69,*Default,NTP,0000,0000,0000,,记得电杆状的棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Remember the telephone-pole-sized rod
+Dialogue: 0,0:23:26.73,0:23:28.44,*Default,NTP,0000,0000,0000,,击打地下掩体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pummeling the underground bunker
+Dialogue: 0,0:23:28.49,0:23:31.24,*Default,NTP,0000,0000,0000,,发生在今后百年里的月球战争中么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in our Moon battle set a hundred years from now?
+Dialogue: 0,0:23:31.28,0:23:34.74,*Default,NTP,0000,0000,0000,,啊 那武器 就是所谓的上帝之棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, that weapon, known as a rod from God,
+Dialogue: 0,0:23:34.78,0:23:37.24,*Default,NTP,0000,0000,0000,,很简单 它会出现的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is simple enough that it could show up
+Dialogue: 0,0:23:37.29,0:23:40.41,*Default,NTP,0000,0000,0000,,如果未来数十年里 战争出现在太空里的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if a war comes to space in the next few decades.
+Dialogue: 0,0:23:43.13,0:23:47.34,*Default,NTP,0000,0000,0000,,小型火箭来启动流线型棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A small rocket boost would get the aerodynamic rod started.
+Dialogue: 0,0:23:51.26,0:23:53.55,*Default,NTP,0000,0000,0000,,它基本上就是一根大金属棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's basically just a big metal rod,
+Dialogue: 0,0:23:53.59,0:23:55.76,*Default,NTP,0000,0000,0000,,或许就是钨之类的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would probably be something like tungsten
+Dialogue: 0,0:23:55.80,0:23:58.93,*Default,NTP,0000,0000,0000,,或某些很坚固的重金属\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or some really strong and heavy metal
+Dialogue: 0,0:23:58.97,0:24:04.65,*Default,NTP,0000,0000,0000,,你把它放入轨道 将其掷向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you could put in orbit and drop it onto the 
+Dialogue: 0,0:24:04.69,0:24:07.69,*Default,NTP,0000,0000,0000,,你想的目标 从太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wherever you want, whatever the target is, from space,
+Dialogue: 0,0:24:07.73,0:24:10.07,*Default,NTP,0000,0000,0000,,就让重力来加速那东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and just let gravity accelerate the thing.
+Dialogue: 0,0:24:15.91,0:24:18.37,*Default,NTP,0000,0000,0000,,重力加速物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity's ability to speed up an object
+Dialogue: 0,0:24:18.41,0:24:20.29,*Default,NTP,0000,0000,0000,,提高其破坏力的能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and increase its destructive power
+Dialogue: 0,0:24:20.33,0:24:23.83,*Default,NTP,0000,0000,0000,,可以在几百年前的一件武器中看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can be seen in a weapon from centuries past.
+Dialogue: 0,0:24:23.87,0:24:26.50,*Default,NTP,0000,0000,0000,,投石机 一种石弩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The trebuchet, which is a type of catapult,
+Dialogue: 0,0:24:26.54,0:24:29.63,*Default,NTP,0000,0000,0000,,用来从高处落下造成破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}used to rain down destruction from on high.
+Dialogue: 0,0:24:31.01,0:24:34.63,*Default,NTP,0000,0000,0000,,作用在这块石头上的重力加速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity acts upon an object like this rock
+Dialogue: 0,0:24:34.68,0:24:37.60,*Default,NTP,0000,0000,0000,,达到了每秒每秒10米\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a rate of 10 meters per second squared,
+Dialogue: 0,0:24:37.64,0:24:41.31,*Default,NTP,0000,0000,0000,,约是每秒每秒30英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}roughly 30 feet per second squared.
+Dialogue: 0,0:24:41.35,0:24:44.02,*Default,NTP,0000,0000,0000,,因此我们将其掷下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if we take it and drop it 
+Dialogue: 0,0:24:45.48,0:24:47.31,*Default,NTP,0000,0000,0000,,落下不足一秒钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's fallen for less than a second,
+Dialogue: 0,0:24:47.36,0:24:51.90,*Default,NTP,0000,0000,0000,,还没有接近每秒30英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has not come close to reaching 30 feet per second,
+Dialogue: 0,0:24:51.94,0:24:55.82,*Default,NTP,0000,0000,0000,,但是取同样的石头 用投石机来发射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but take that same rock, launch it with a trebuchet,
+Dialogue: 0,0:24:55.86,0:24:58.45,*Default,NTP,0000,0000,0000,,更高 更远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}higher, further,
+Dialogue: 0,0:24:58.49,0:25:02.20,*Default,NTP,0000,0000,0000,,就有机会加速到每秒30英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will have a chance to accelerate to 30 feet per second,
+Dialogue: 0,0:25:02.25,0:25:04.46,*Default,NTP,0000,0000,0000,,第二秒到60英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}60 feet in the second second,
+Dialogue: 0,0:25:04.50,0:25:06.37,*Default,NTP,0000,0000,0000,,第三秒到90英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}90 feet in the third second.
+Dialogue: 0,0:25:06.42,0:25:09.42,*Default,NTP,0000,0000,0000,,一旦被其击中 就会留下很大的弹坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it hits, it'll leave a much bigger crater.
+Dialogue: 0,0:25:30.73,0:25:33.57,*Default,NTP,0000,0000,0000,,这块石头在空中飞行约5秒钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This rock traveled through the air for about five seconds,
+Dialogue: 0,0:25:33.61,0:25:35.36,*Default,NTP,0000,0000,0000,,这意味着当其击中时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which means that by the time it hit,
+Dialogue: 0,0:25:35.40,0:25:38.66,*Default,NTP,0000,0000,0000,,其速度接近或相当于每秒150英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was traveling close to or around 150 feet per second,
+Dialogue: 0,0:25:38.70,0:25:42.70,*Default,NTP,0000,0000,0000,,那增加了动能 将会留下更大的弹坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and with that added kinetic energy, it left a much bigger crater.
+Dialogue: 0,0:25:46.92,0:25:49.12,*Default,NTP,0000,0000,0000,,在未来百年的战争中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the battle 100 years from now,
+Dialogue: 0,0:25:49.17,0:25:51.50,*Default,NTP,0000,0000,0000,,月球上发射的棒的优势\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a rod launched at the Moon has an advantage
+Dialogue: 0,0:25:51.55,0:25:54.17,*Default,NTP,0000,0000,0000,,将超过地球上的投石机射出的石头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over the rock from the trebuchet on Earth.
+Dialogue: 0,0:25:54.21,0:25:56.55,*Default,NTP,0000,0000,0000,,因为月球上没有空气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since the Moon doesn't have any atmosphere,
+Dialogue: 0,0:25:56.59,0:25:59.47,*Default,NTP,0000,0000,0000,,棒将不断加速 直到它击中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the rod keeps accelerating until it impacts
+Dialogue: 0,0:25:59.51,0:26:02.85,*Default,NTP,0000,0000,0000,,分裂势力殖民地的地下指挥所\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the underground command post of the separatist colony.
+Dialogue: 0,0:26:02.89,0:26:07.23,*Default,NTP,0000,0000,0000,,它钻入月岩 摧毁指挥所\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It burrows into the Moon rock and destroys the command post.
+Dialogue: 0,0:26:07.27,0:26:11.15,*Default,NTP,0000,0000,0000,,但要是月球上的分裂势力还以颜色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what if the separatists on the Moon return the favor
+Dialogue: 0,0:26:11.19,0:26:14.78,*Default,NTP,0000,0000,0000,,从太空平台上向地球发射棒又当如何呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and launch a rod from a space platform at Earth?
+Dialogue: 0,0:26:14.82,0:26:17.70,*Default,NTP,0000,0000,0000,,地球大气层会减缓棒的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's atmosphere will slow the rod.
+Dialogue: 0,0:26:17.74,0:26:20.24,*Default,NTP,0000,0000,0000,,但这是否足以防止对地球地下指挥部的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But will it be enough to prevent a knockout blow
+Dialogue: 0,0:26:20.28,0:26:22.78,*Default,NTP,0000,0000,0000,,毁灭性打击呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to an underground headquarters on Earth?
+Dialogue: 0,0:26:22.83,0:26:24.62,*Default,NTP,0000,0000,0000,,当其撞上大气层上部时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it hits the upper atmosphere,
+Dialogue: 0,0:26:24.66,0:26:28.04,*Default,NTP,0000,0000,0000,,其速度约是25马赫 就是音速的25倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's doing about Mach 25, 25 times the speed of sound.
+Dialogue: 0,0:26:28.08,0:26:31.21,*Default,NTP,0000,0000,0000,,它落入大气层时会减缓速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It slows down as it comes down through the atmosphere,
+Dialogue: 0,0:26:31.25,0:26:35.63,*Default,NTP,0000,0000,0000,,但要是它击中地球 就会钻入地下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but if it were to hit the Earth, it would bore way down in there,
+Dialogue: 0,0:26:35.67,0:26:39.84,*Default,NTP,0000,0000,0000,,因为其会以时速5000-7000英里撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's going to hit at like 5,000, 7,000 miles per hour.
+Dialogue: 0,0:26:39.88,0:26:42.80,*Default,NTP,0000,0000,0000,,在很短的时间里落在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the amount of energy that's dumped in a very small space 
+Dialogue: 0,0:26:42.80,0:26:46.06,*Default,NTP,0000,0000,0000,,一个很小的地方的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a very short amount of time
+Dialogue: 0,0:26:46.10,0:26:49.14,*Default,NTP,0000,0000,0000,,相当于一个小型核弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is equivalent to a small nuclear weapon.
+Dialogue: 0,0:26:58.28,0:27:01.32,*Default,NTP,0000,0000,0000,,那种东西具有很强的穿透力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Something like this would have a lot of penetrating power.
+Dialogue: 0,0:27:01.36,0:27:03.49,*Default,NTP,0000,0000,0000,,它将是掩体的终极克星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be the ultimate bunker buster.
+Dialogue: 0,0:27:04.53,0:27:09.79,*Default,NTP,0000,0000,0000,,虽然上帝之棒的速度和轨道炮弹令人称奇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as impressive as the speeds of rods from God and rail gun projectiles are 
+Dialogue: 0,0:27:13.13,0:27:15.75,*Default,NTP,0000,0000,0000,,但一点都比不上激光的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nothing can compete with a laser's speed,
+Dialogue: 0,0:27:15.80,0:27:19.38,*Default,NTP,0000,0000,0000,,每秒18 6万英里的光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the 186,000-miles-per-second speed of light.
+Dialogue: 0,0:27:21.38,0:27:23.89,*Default,NTP,0000,0000,0000,,激光一直就是科幻小说里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lasers have always been the favorite weapon
+Dialogue: 0,0:27:23.93,0:27:25.72,*Default,NTP,0000,0000,0000,,太空战争中最中意的武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of science fiction space battles.
+Dialogue: 0,0:27:27.60,0:27:31.60,*Default,NTP,0000,0000,0000,,拥有一支单兵激光的想法就是迷人和诱人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea of having a personal laser is just fascinating and attractive.
+Dialogue: 0,0:27:31.65,0:27:34.23,*Default,NTP,0000,0000,0000,,我在12岁时就喜欢上了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I would have loved one at the age of 12 myself,
+Dialogue: 0,0:27:34.27,0:27:37.15,*Default,NTP,0000,0000,0000,,同样孩子们有时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the same way that kids sometimes
+Dialogue: 0,0:27:37.19,0:27:39.36,*Default,NTP,0000,0000,0000,,也想成为牛仔和枪手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}want to be cowboys and gunslingers.
+Dialogue: 0,0:27:39.40,0:27:42.78,*Default,NTP,0000,0000,0000,,有趣的的想法就是拥有一支\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's something very fun about the idea of having a weapon
+Dialogue: 0,0:27:42.82,0:27:45.28,*Default,NTP,0000,0000,0000,,快速 无痛 瞬间的武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is quick, painless, instantaneous,
+Dialogue: 0,0:27:45.33,0:27:48.29,*Default,NTP,0000,0000,0000,,让你来对付山谷里最顽固的混蛋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and makes you the toughest s.o.b. in the valley.
+Dialogue: 0,0:27:52.71,0:27:56.13,*Default,NTP,0000,0000,0000,,但激光究竟是啥东西？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what exactly is a laser?
+Dialogue: 0,0:27:56.17,0:28:00.17,*Default,NTP,0000,0000,0000,,激光可以被认为是高科技的手电筒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lasers can be thought of as sort of a high-tech flashlight,
+Dialogue: 0,0:28:00.22,0:28:02.22,*Default,NTP,0000,0000,0000,,但所有的光波是同步的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but all the waves are in phase,
+Dialogue: 0,0:28:02.26,0:28:05.01,*Default,NTP,0000,0000,0000,,你会看到所有的波峰排列整齐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so you've got all the wave crests lining up,
+Dialogue: 0,0:28:05.05,0:28:10.18,*Default,NTP,0000,0000,0000,,所以这就使得辐射对于给定的能量来说异常强烈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that makes the radiation really intense for a given amount of power.
+Dialogue: 0,0:28:10.23,0:28:12.81,*Default,NTP,0000,0000,0000,,瞧 手电筒或太阳发出的普通光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}See, normal light from a flashlight or from the Sun
+Dialogue: 0,0:28:12.85,0:28:15.60,*Default,NTP,0000,0000,0000,,都是不同步的 是杂乱无章的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is all out of phase. It's incoherent.
+Dialogue: 0,0:28:15.65,0:28:17.23,*Default,NTP,0000,0000,0000,,有些波峰是这个样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some wave crests are like this,
+Dialogue: 0,0:28:17.27,0:28:19.40,*Default,NTP,0000,0000,0000,,其它波的波谷是那个样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the wave troughs of other waves are like that.
+Dialogue: 0,0:28:19.44,0:28:21.74,*Default,NTP,0000,0000,0000,,它们往往大部分相互抵消了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They tend to largely cancel out,
+Dialogue: 0,0:28:21.78,0:28:25.45,*Default,NTP,0000,0000,0000,,你所看到的就是没有抵消的剩余部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and what you see is the leftover parts that didn't cancel out.
+Dialogue: 0,0:28:29.24,0:28:32.54,*Default,NTP,0000,0000,0000,,大部分可见的激光束呈现出特定的颜色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most visible-light laser beams appear as a certain color,
+Dialogue: 0,0:28:32.58,0:28:35.67,*Default,NTP,0000,0000,0000,,因为唯有具有特定颜色波段的光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since only the light at that specific color frequency
+Dialogue: 0,0:28:35.71,0:28:37.96,*Default,NTP,0000,0000,0000,,才能排列整齐 走出腔膛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is lined up and coming out of the chamber.
+Dialogue: 0,0:28:39.09,0:28:43.92,*Default,NTP,0000,0000,0000,,不同类型的激光能够以不同的方式破坏目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And different types of lasers can damage targets in different ways.
+Dialogue: 0,0:28:43.97,0:28:48.22,*Default,NTP,0000,0000,0000,,斯坦福大学的高能激光实验室里的这种绿色激光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This green-light laser at Stanford University's high-power laser lab
+Dialogue: 0,0:28:48.26,0:28:52.06,*Default,NTP,0000,0000,0000,,脉冲的开闭是强大的爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pulses on and off in powerful bursts.
+Dialogue: 0,0:28:52.10,0:28:54.14,*Default,NTP,0000,0000,0000,,它实际上并不产生大量的热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's actually not delivering a lot of heat.
+Dialogue: 0,0:28:54.19,0:28:56.85,*Default,NTP,0000,0000,0000,,然而 它是一个很强的电场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What it is, though, is a very strong electric field.
+Dialogue: 0,0:28:56.90,0:29:00.48,*Default,NTP,0000,0000,0000,,这个可以提供一个足够强的电场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this one can provide a strong enough electric field.
+Dialogue: 0,0:29:00.53,0:29:03.65,*Default,NTP,0000,0000,0000,,通过创造一个强电场 你就可以撕开原子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By creating a high electric field, you can rip apart atoms,
+Dialogue: 0,0:29:03.70,0:29:05.82,*Default,NTP,0000,0000,0000,,你可以将电子剥离原子 如果你愿意的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can rip electrons off of atoms if you wish,
+Dialogue: 0,0:29:05.86,0:29:07.74,*Default,NTP,0000,0000,0000,,你可以分解物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you can break down materials.
+Dialogue: 0,0:29:08.99,0:29:12.87,*Default,NTP,0000,0000,0000,,强电场甚至还可以撕碎大气分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The strong electrical field even rips apart air molecules.
+Dialogue: 0,0:29:12.91,0:29:15.58,*Default,NTP,0000,0000,0000,,它们在各个脉冲之间同时回来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They come back together between each pulse.
+Dialogue: 0,0:29:15.62,0:29:16.75,*Default,NTP,0000,0000,0000,,那时你就会看到这种闪光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's when you get this flash,
+Dialogue: 0,0:29:16.79,0:29:18.21,*Default,NTP,0000,0000,0000,,因为在能量释放时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}'cause when the energy comes out,
+Dialogue: 0,0:29:18.25,0:29:21.09,*Default,NTP,0000,0000,0000,,你就会看到光 会收到那边的报告\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you see the light, and you get the report that way,
+Dialogue: 0,0:29:21.13,0:29:23.21,*Default,NTP,0000,0000,0000,,宛如雷电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much like thunder and lightning.
+Dialogue: 0,0:29:26.30,0:29:29.09,*Default,NTP,0000,0000,0000,,这些强电场尤其擅长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And these strong fields are especially good
+Dialogue: 0,0:29:29.14,0:29:31.39,*Default,NTP,0000,0000,0000,,破坏电子设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at knocking out electronic equipment.
+Dialogue: 0,0:29:31.43,0:29:34.14,*Default,NTP,0000,0000,0000,,事实上 激光束非常强大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, the laser beam is so powerful,
+Dialogue: 0,0:29:34.18,0:29:38.10,*Default,NTP,0000,0000,0000,,实际上会破坏我们拍摄这些画面的摄像机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it actually damaged our camera as we recorded these images
+Dialogue: 0,0:29:38.15,0:29:41.86,*Default,NTP,0000,0000,0000,,一旦尘埃粒子偏转部分脉冲到镜头里的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when dust particles deflected part of the pulse into the lens.
+Dialogue: 0,0:29:41.90,0:29:43.82,*Default,NTP,0000,0000,0000,,它留下了一个永恒的绿色印记\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It left a permanent green imprint
+Dialogue: 0,0:29:43.86,0:29:47.24,*Default,NTP,0000,0000,0000,,在摄像机的聚光CCD屏幕上了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the camera's light-gathering CCD imager.
+Dialogue: 0,0:29:47.28,0:29:49.49,*Default,NTP,0000,0000,0000,,实验室的另一台激光演示了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another laser at the lab demonstrates
+Dialogue: 0,0:29:49.53,0:29:52.33,*Default,NTP,0000,0000,0000,,连续脉冲波的威力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the power of continuous waves instead of pulses.
+Dialogue: 0,0:29:55.83,0:29:57.16,*Default,NTP,0000,0000,0000,,这是个红外光束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an infrared beam,
+Dialogue: 0,0:29:57.21,0:29:59.42,*Default,NTP,0000,0000,0000,,因此肉眼是看不见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it's not visible to the human eye,
+Dialogue: 0,0:29:59.46,0:30:01.13,*Default,NTP,0000,0000,0000,,但是其影响是显而易见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but its effects certainly are.
+Dialogue: 0,0:30:03.13,0:30:05.63,*Default,NTP,0000,0000,0000,,它非常类似于军方目前在开发的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very similar to the one that military is developing,
+Dialogue: 0,0:30:05.67,0:30:09.59,*Default,NTP,0000,0000,0000,,只是军方的要强大5万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only the military's is about 50,000 times stronger.
+Dialogue: 0,0:30:09.64,0:30:13.01,*Default,NTP,0000,0000,0000,,这里我们有一个透镜 我们只要穿过透镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right here we have a lens, and so as we go through the lens,
+Dialogue: 0,0:30:13.06,0:30:15.93,*Default,NTP,0000,0000,0000,,光束就会聚焦到这个平面上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the beam is focusing down in this plane here.
+Dialogue: 0,0:30:15.98,0:30:17.81,*Default,NTP,0000,0000,0000,,如果我在那个面上放上一个靶子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If I put a target in that plane,
+Dialogue: 0,0:30:17.85,0:30:22.52,*Default,NTP,0000,0000,0000,,你可以看到我们最终让它燃烧 因为有热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can see that we end up burning it because of the heat.
+Dialogue: 0,0:30:22.57,0:30:24.11,*Default,NTP,0000,0000,0000,,然后我可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I can then take out
+Dialogue: 0,0:30:24.15,0:30:29.15,*Default,NTP,0000,0000,0000,,从这张卡片上取下一片精美光滑的切片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a nice, smoothly edged piece of cardboard from this cardstock.
+Dialogue: 0,0:30:30.82,0:30:33.58,*Default,NTP,0000,0000,0000,,未来太空战里的激光武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The laser weapons of future space wars
+Dialogue: 0,0:30:33.62,0:30:35.58,*Default,NTP,0000,0000,0000,,的功能大同小异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would likely work in the same way,
+Dialogue: 0,0:30:35.62,0:30:39.04,*Default,NTP,0000,0000,0000,,但是科幻电影迷们可能会惊讶地发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but sci-fi movie fans may be very surprised to find out
+Dialogue: 0,0:30:39.08,0:30:42.75,*Default,NTP,0000,0000,0000,,真正的激光武器在太空中的作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how real laser weapons will actually work in space.
+Dialogue: 0,0:30:42.79,0:30:45.84,*Default,NTP,0000,0000,0000,,在科幻片中 我们经常看到激光闪电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In science fiction, we often see a laser bolt,
+Dialogue: 0,0:30:45.88,0:30:50.09,*Default,NTP,0000,0000,0000,,能量光束 然而在现实中 对于激光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a bolt of energy, whereas in reality, with a laser,
+Dialogue: 0,0:30:50.13,0:30:52.01,*Default,NTP,0000,0000,0000,,你是看不到光束闪烁的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'd see a beam connect, then disconnect.
+Dialogue: 0,0:30:52.05,0:30:54.14,*Default,NTP,0000,0000,0000,,我是说 光是我们所知道最快的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}l mean, light is the fastest thing we know of.
+Dialogue: 0,0:30:57.48,0:31:00.81,*Default,NTP,0000,0000,0000,,如果你看到有人用激光束对准你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were to see someone about to shoot you with a laser beam,
+Dialogue: 0,0:31:00.85,0:31:02.90,*Default,NTP,0000,0000,0000,,你就必须快速做出反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would have to react very quickly
+Dialogue: 0,0:31:02.94,0:31:06.65,*Default,NTP,0000,0000,0000,,如果你看到他们的手指要去扳动按钮的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when you see their finger beginning to twitch toward the button.
+Dialogue: 0,0:31:06.69,0:31:07.55,*Default,NTP,0000,0000,0000,,否则 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Otherwise, 
+Dialogue: 0,0:31:07.55,0:31:12.45,*Default,NTP,0000,0000,0000,,你会在看到敌人启动武器的同时遭毒手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'll get zapped at the same time that you see the zapper initiate the zapping.
+Dialogue: 0,0:31:12.49,0:31:15.20,*Default,NTP,0000,0000,0000,,然而在决斗在真空的太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in a duel in the vacuum of space,
+Dialogue: 0,0:31:15.24,0:31:19.25,*Default,NTP,0000,0000,0000,,即使是利用可见光的激光武器的光束都是看不见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even the beams of laser weapons using visible light won't be seen.
+Dialogue: 0,0:31:24.25,0:31:27.25,*Default,NTP,0000,0000,0000,,我们在这里可以看到这个光束的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the reason that we can see this beam here
+Dialogue: 0,0:31:27.30,0:31:31.55,*Default,NTP,0000,0000,0000,,在于它被空气中的尘埃给散射了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that it's scattering off of the dust particles in the air.
+Dialogue: 0,0:31:31.59,0:31:33.72,*Default,NTP,0000,0000,0000,,太空中 不存在尘埃粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In space, there are no dust particles.
+Dialogue: 0,0:31:33.76,0:31:37.10,*Default,NTP,0000,0000,0000,,它是真空的 所以你无法看到光束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a vacuum, so you wouldn't see the beam,
+Dialogue: 0,0:31:37.14,0:31:41.02,*Default,NTP,0000,0000,0000,,除了抵达了目标并从目标反射回来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}except for at its target and reflections off of its target.
+Dialogue: 0,0:31:42.44,0:31:45.23,*Default,NTP,0000,0000,0000,,因为声音无法在真空中穿行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And since sound can't travel through a vacuum,
+Dialogue: 0,0:31:45.27,0:31:48.03,*Default,NTP,0000,0000,0000,,因此没有那些很酷的科幻音效\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}none of those cool sci-fi laser sound effects
+Dialogue: 0,0:31:48.07,0:31:51.40,*Default,NTP,0000,0000,0000,,将属于真实的太空激光战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be part of a real laser battle in space.
+Dialogue: 0,0:31:54.12,0:31:56.24,*Default,NTP,0000,0000,0000,,不过即使太空激光武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even though laser weapons in space
+Dialogue: 0,0:31:56.28,0:31:58.91,*Default,NTP,0000,0000,0000,,模样和声音并不像它们在电影里那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}won't look and sound like they do in the movies,
+Dialogue: 0,0:31:58.95,0:32:02.87,*Default,NTP,0000,0000,0000,,但它们在战场上还是迅猛致命的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they'll still be fast and deadly on the battlefield.
+Dialogue: 0,0:32:02.92,0:32:06.42,*Default,NTP,0000,0000,0000,,那么真正的太空空战又是何种样子呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what will a real space dogfight look like?
+Dialogue: 0,0:32:07.25,0:32:09.50,*Default,NTP,0000,0000,0000,,眼见为实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'll have to see it to believe it.
+Dialogue: 0,0:32:14.05,0:32:18.18,*Default,NTP,0000,0000,0000,,没有那种武器能超过高能激光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No weapon has fascinated generations of science fiction fans
+Dialogue: 0,0:32:18.22,0:32:20.31,*Default,NTP,0000,0000,0000,,让代代科幻迷们如痴如醉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more than high-energy lasers.
+Dialogue: 0,0:32:22.48,0:32:26.10,*Default,NTP,0000,0000,0000,,有可能不久 在未来的数十年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's possible that as soon as the next few decades,
+Dialogue: 0,0:32:26.15,0:32:30.09,*Default,NTP,0000,0000,0000,,激光将强大到足以在一眨眼间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lasers will be powerful enough to knock out satellites 
+Dialogue: 0,0:32:30.09,0:32:31.78,*Default,NTP,0000,0000,0000,,击毁近地卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in near-Earth orbit in the blink of an eye.
+Dialogue: 0,0:32:36.07,0:32:38.06,*Default,NTP,0000,0000,0000,,没有武器能快过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No weapon is faster than 
+Dialogue: 0,0:32:38.06,0:32:42.33,*Default,NTP,0000,0000,0000,,速度为每秒186万英里的激光束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a laser's beam of light traveling at 186,000 miles per second.
+Dialogue: 0,0:32:44.33,0:32:46.46,*Default,NTP,0000,0000,0000,,如果我们能打造出一种武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we could build a weapon
+Dialogue: 0,0:32:46.50,0:32:52.13,*Default,NTP,0000,0000,0000,,具有洞穿装甲钢板的能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that had the capabilities to punch through armor plating,
+Dialogue: 0,0:32:52.17,0:32:54.63,*Default,NTP,0000,0000,0000,,那么你真的找到好东东了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then you really are onto something,
+Dialogue: 0,0:32:54.68,0:33:00.89,*Default,NTP,0000,0000,0000,,因为如果它就是你用来驱动物体的电能的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because if it is just electrical power that you need to drive the thing,
+Dialogue: 0,0:33:00.93,0:33:03.27,*Default,NTP,0000,0000,0000,,你就有了我们所谓的无限弹仓了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have what we call an infinite magazine.
+Dialogue: 0,0:33:03.31,0:33:06.85,*Default,NTP,0000,0000,0000,,你提及战舰上的大炮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're talking about the big gun on a battleship,
+Dialogue: 0,0:33:06.90,0:33:09.52,*Default,NTP,0000,0000,0000,,就必须要有炮弹和火药\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have to have bullets and gunpowder.
+Dialogue: 0,0:33:10.53,0:33:12.07,*Default,NTP,0000,0000,0000,,你会耗尽它们的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can run out of those.
+Dialogue: 0,0:33:12.11,0:33:17.82,*Default,NTP,0000,0000,0000,,如果你只是用电能来打造一个激光系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you simply use electrical power to create a laser system,
+Dialogue: 0,0:33:17.87,0:33:20.49,*Default,NTP,0000,0000,0000,,我们就无庸担心谁给我们送来更多的炮弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we don't have to worry about somebody bringing us more bullets
+Dialogue: 0,0:33:20.54,0:33:22.54,*Default,NTP,0000,0000,0000,,以及在哪里储存那些炮弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and where to store those bullets.
+Dialogue: 0,0:33:27.29,0:33:29.38,*Default,NTP,0000,0000,0000,,用于地球上的激光武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Laser weapons for use on Earth
+Dialogue: 0,0:33:29.42,0:33:32.59,*Default,NTP,0000,0000,0000,,有可能随时出现在战场上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may begin showing up on battlefields any day.
+Dialogue: 0,0:33:34.97,0:33:39.14,*Default,NTP,0000,0000,0000,,在2008到2009年间 美国空军\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2008 and 2009, the United States Air Force
+Dialogue: 0,0:33:39.18,0:33:43.72,*Default,NTP,0000,0000,0000,,对一种武器进行了有限的测试 就是所谓的机载激光系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}conducted limited tests with a weapon known as the Airborne Laser System.
+Dialogue: 0,0:33:45.02,0:33:50.65,*Default,NTP,0000,0000,0000,,从改装的波音747头部射出的高能激光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a high-energy laser fired from the nose of a modified Boeing 747
+Dialogue: 0,0:33:50.69,0:33:53.28,*Default,NTP,0000,0000,0000,,能识别并跟踪目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that identifies and tracks targets
+Dialogue: 0,0:33:53.32,0:33:56.36,*Default,NTP,0000,0000,0000,,这样它就能用精准的能量束去击毁它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it can blast them with a precise beam of energy.
+Dialogue: 0,0:34:00.03,0:34:03.37,*Default,NTP,0000,0000,0000,,它可以发出巨大的激光能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can put an awful lot of laser energy out.
+Dialogue: 0,0:34:04.08,0:34:06.25,*Default,NTP,0000,0000,0000,,飞机在高空飞行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The airplane flies at high altitude,
+Dialogue: 0,0:34:06.29,0:34:09.37,*Default,NTP,0000,0000,0000,,它可以瞄准并消灭导弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it can shoot up and take out missiles,
+Dialogue: 0,0:34:09.42,0:34:11.71,*Default,NTP,0000,0000,0000,,所以它是个反导弹系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it's a counter-missile system.
+Dialogue: 0,0:34:13.05,0:34:14.25,*Default,NTP,0000,0000,0000,,为期不远了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the day is coming.
+Dialogue: 0,0:34:14.30,0:34:17.42,*Default,NTP,0000,0000,0000,,随着技术让我们将激光器封装在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As technology allows us to package lasers
+Dialogue: 0,0:34:17.47,0:34:20.18,*Default,NTP,0000,0000,0000,,越来越小的系统里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in smaller and smaller systems,
+Dialogue: 0,0:34:20.22,0:34:23.97,*Default,NTP,0000,0000,0000,,我们就可以将它们放上卫星 理论上可以消灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we can put them on satellites and theoretically take out missiles
+Dialogue: 0,0:34:24.02,0:34:26.02,*Default,NTP,0000,0000,0000,,从大气层外闯入的导弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming up out of the atmosphere.
+Dialogue: 0,0:34:30.31,0:34:33.07,*Default,NTP,0000,0000,0000,,由于其达到光速的惊人能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And with their speed-of-light striking ability,
+Dialogue: 0,0:34:33.11,0:34:36.49,*Default,NTP,0000,0000,0000,,激光将会是宇航战士的杰出武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lasers would be a great weapon for spaceship fighters.
+Dialogue: 0,0:34:36.53,0:34:39.61,*Default,NTP,0000,0000,0000,,不过未来的飞船之间的空战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But futuristic dogfights between spacecraft
+Dialogue: 0,0:34:39.66,0:34:42.37,*Default,NTP,0000,0000,0000,,将会与现在的空战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will have little in common with today's aerial battles
+Dialogue: 0,0:34:42.41,0:34:44.87,*Default,NTP,0000,0000,0000,,甚至你在科幻片里所看到的情景大相径庭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or what you've seen in science fiction movies.
+Dialogue: 0,0:34:48.04,0:34:52.29,*Default,NTP,0000,0000,0000,,在未来200年后 一艘补给船及其护航战斗机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}200 years in the future, a supply ship and her escort fighters
+Dialogue: 0,0:34:52.34,0:34:54.54,*Default,NTP,0000,0000,0000,,前往火星殖民地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on their way to colonies on Mars
+Dialogue: 0,0:34:54.59,0:34:58.38,*Default,NTP,0000,0000,0000,,遭遇了寻找外快的太空海盗的拦截\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are intercepted by space pirates looking for a quick payday.
+Dialogue: 0,0:35:00.47,0:35:03.47,*Default,NTP,0000,0000,0000,,现在 在大气层里 飞机需要有升力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today, in an atmosphere, planes need to generate lift,
+Dialogue: 0,0:35:03.51,0:35:05.47,*Default,NTP,0000,0000,0000,,这就是它们有机翼的原因所在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is why they have wings.
+Dialogue: 0,0:35:05.52,0:35:06.60,*Default,NTP,0000,0000,0000,,因为它们有了机翼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because they have wings
+Dialogue: 0,0:35:06.64,0:35:08.81,*Default,NTP,0000,0000,0000,,因为你还想让飞行员保持清醒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and because you also want to keep your pilots conscious,
+Dialogue: 0,0:35:08.85,0:35:10.98,*Default,NTP,0000,0000,0000,,所以你就有了长距离的侧飞拐弯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have long banking turns.
+Dialogue: 0,0:35:12.81,0:35:14.98,*Default,NTP,0000,0000,0000,,太空中 你无需这么做\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In space, you don't need to do that.
+Dialogue: 0,0:35:15.02,0:35:16.32,*Default,NTP,0000,0000,0000,,你可能会看到飞船在飞翔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You might have a spacecraft flying along
+Dialogue: 0,0:35:16.36,0:35:19.69,*Default,NTP,0000,0000,0000,,简单转身 向身后的家伙开火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and simply turn around and shoot the guy behind him.
+Dialogue: 0,0:35:20.74,0:35:24.57,*Default,NTP,0000,0000,0000,,那些就是在你无需空气的情况下所能做到的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Those are the kinds of things you can do when you don't require an atmosphere.
+Dialogue: 0,0:35:25.83,0:35:28.25,*Default,NTP,0000,0000,0000,,由于海盗袭击补给船队\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the pirates attack the supply convoy,
+Dialogue: 0,0:35:28.29,0:35:32.75,*Default,NTP,0000,0000,0000,,双方模样古怪的战机发生了短兵相接\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the odd-looking fighters on both sides face off.
+Dialogue: 0,0:35:32.79,0:35:36.55,*Default,NTP,0000,0000,0000,,或许最佳的就是立方体外装满推进器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Probably the best would be a cube covered with thrusters,
+Dialogue: 0,0:35:36.59,0:35:38.59,*Default,NTP,0000,0000,0000,,或小火箭 以及传感器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or little rockets, and sensors.
+Dialogue: 0,0:35:38.63,0:35:40.59,*Default,NTP,0000,0000,0000,,没有空气需要担心的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Doesn't have an atmosphere to worry about,
+Dialogue: 0,0:35:40.63,0:35:42.63,*Default,NTP,0000,0000,0000,,因而阻力不是问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so drag is not an issue.
+Dialogue: 0,0:35:42.68,0:35:47.31,*Default,NTP,0000,0000,0000,,不过你想能看到360度 三维\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But you want to be able to see 360 degrees, 3-dimensionally,
+Dialogue: 0,0:35:47.35,0:35:50.23,*Default,NTP,0000,0000,0000,,能够向四面八方都能开火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and be able to fire in all of those directions.
+Dialogue: 0,0:35:50.27,0:35:52.64,*Default,NTP,0000,0000,0000,,那就是立方体了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be a cube.
+Dialogue: 0,0:35:52.69,0:35:56.73,*Default,NTP,0000,0000,0000,,由于这些怪模怪样的飞船战斗在真空的太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With these strange-looking craft fighting in the vacuum of space,
+Dialogue: 0,0:35:56.77,0:35:59.07,*Default,NTP,0000,0000,0000,,打斗的动作看上去也\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the movements of the fight will also 
+Dialogue: 0,0:35:59.07,0:36:01.90,*Default,NTP,0000,0000,0000,,与地球上的空战大不一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}look much different than an aerial battle over Earth.
+Dialogue: 0,0:36:04.37,0:36:07.24,*Default,NTP,0000,0000,0000,,我们会看到更多的急拉动作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're going to have much more jerky motion,
+Dialogue: 0,0:36:07.29,0:36:10.16,*Default,NTP,0000,0000,0000,,我们可以突然向左边开火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where we're allowed to suddenly just shoot off to the left,
+Dialogue: 0,0:36:10.20,0:36:13.46,*Default,NTP,0000,0000,0000,,突然向右边开火 同时保持前行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}suddenly shoot off to the right while keeping our forward motion.
+Dialogue: 0,0:36:13.50,0:36:15.79,*Default,NTP,0000,0000,0000,,我们能够发动火箭任意制动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can throw rockets on to randomly brake
+Dialogue: 0,0:36:15.84,0:36:18.96,*Default,NTP,0000,0000,0000,,无需担心掉在星球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without having to worry about crashing down to a planet,
+Dialogue: 0,0:36:19.01,0:36:22.01,*Default,NTP,0000,0000,0000,,就像我们在大气层里所担心的那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like you have to worry about within an atmosphere.
+Dialogue: 0,0:36:23.22,0:36:26.93,*Default,NTP,0000,0000,0000,,但没有了任何空气让飞船减速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But without any atmosphere to slow spacecraft down,
+Dialogue: 0,0:36:26.97,0:36:29.89,*Default,NTP,0000,0000,0000,,那达到了这般高速的太空空战会不会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could space dogfights reach such high speeds
+Dialogue: 0,0:36:29.93,0:36:33.19,*Default,NTP,0000,0000,0000,,让人类飞行员开始崩溃呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the human pilots would begin to fall apart?
+Dialogue: 0,0:36:33.23,0:36:35.85,*Default,NTP,0000,0000,0000,,这就是伊利诺伊州齐格勒的尼古拉斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what Nicholas B. from Zeigler, Illinois,
+Dialogue: 0,0:36:35.90,0:36:37.36,*Default,NTP,0000,0000,0000,,向《宇宙》节目提出的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wanted to ask "The Universe."
+Dialogue: 0,0:36:37.40,0:36:39.04,*Default,NTP,0000,0000,0000,,他发来短信 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So he texted 
+Dialogue: 0,0:36:39.40,0:36:42.94,*Default,NTP,0000,0000,0000,,到了何种速度 人类的原子就会被拆散呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at what speed do human atoms start to brake down?
+Dialogue: 0,0:36:43.99,0:36:46.78,*Default,NTP,0000,0000,0000,,尼古拉斯 你的问题其实是共同关心的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nicholas, your question actually is about a common,
+Dialogue: 0,0:36:46.82,0:36:49.28,*Default,NTP,0000,0000,0000,,但又是可以理解的误解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but very understandable misconception.
+Dialogue: 0,0:36:49.33,0:36:52.37,*Default,NTP,0000,0000,0000,,其实在任何速度下都是稳定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns out that atoms are stable at any speed,
+Dialogue: 0,0:36:52.41,0:36:55.83,*Default,NTP,0000,0000,0000,,因为在它们自己的参照系里 它们是静止的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because in their own frame of reference, they're at rest.
+Dialogue: 0,0:36:55.88,0:37:01.00,*Default,NTP,0000,0000,0000,,不过 人类会死于遭遇到持续的加速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, humans die if they're subject to sustained accelerations
+Dialogue: 0,0:37:01.05,0:37:03.17,*Default,NTP,0000,0000,0000,,一旦超过了10个G\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}greater than about 10 g.
+Dialogue: 0,0:37:03.22,0:37:05.05,*Default,NTP,0000,0000,0000,,因此 我会说那就是在星际旅行时的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So I would say that's the practical limit
+Dialogue: 0,0:37:05.09,0:37:07.76,*Default,NTP,0000,0000,0000,,加速度的实际极限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for accelerations during interstellar travel,
+Dialogue: 0,0:37:07.80,0:37:08.89,*Default,NTP,0000,0000,0000,,{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}10G\N10g.
+Dialogue: 0,0:37:09.97,0:37:13.06,*Default,NTP,0000,0000,0000,,不过茫茫太空中又何来重力呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how could there be g-forces in the emptiness of space
+Dialogue: 0,0:37:13.10,0:37:15.73,*Default,NTP,0000,0000,0000,,那里根本就几乎没有什么引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where there's barely any gravity at all?
+Dialogue: 0,0:37:15.77,0:37:18.94,*Default,NTP,0000,0000,0000,,那全是因为爱因斯坦的等效原理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's all because of Albert Einstein's equivalence principle,
+Dialogue: 0,0:37:18.98,0:37:22.40,*Default,NTP,0000,0000,0000,,其广义相对论的关键部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a key part of his Theory of General Relativity.
+Dialogue: 0,0:37:22.44,0:37:26.28,*Default,NTP,0000,0000,0000,,它规定重力和加速度是等价的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It states that gravity and acceleration are equivalent,
+Dialogue: 0,0:37:26.32,0:37:28.24,*Default,NTP,0000,0000,0000,,比如电梯加速上升\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like an elevator accelerating up,
+Dialogue: 0,0:37:28.28,0:37:31.49,*Default,NTP,0000,0000,0000,,会让乘客感觉到好像有额外的重力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}making a passenger feel like there's additional gravity
+Dialogue: 0,0:37:31.54,0:37:33.33,*Default,NTP,0000,0000,0000,,在把他们推向地面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pushing them into the floor.
+Dialogue: 0,0:37:37.63,0:37:40.42,*Default,NTP,0000,0000,0000,,因此如果你在太空中移动太快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if you moved around too quickly in space,
+Dialogue: 0,0:37:40.46,0:37:41.75,*Default,NTP,0000,0000,0000,,你就会扭动很快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you jerked real quick,
+Dialogue: 0,0:37:41.80,0:37:45.17,*Default,NTP,0000,0000,0000,,你的大脑就会在你的脑袋里移动飞快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}your brain would move around inside your skull so quickly
+Dialogue: 0,0:37:45.22,0:37:46.84,*Default,NTP,0000,0000,0000,,就会把你自己给干掉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you could kill yourself.
+Dialogue: 0,0:37:46.88,0:37:50.14,*Default,NTP,0000,0000,0000,,因此你可能希望你的飞船里的导航系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so you might want the guidance system of your spacecraft
+Dialogue: 0,0:37:50.18,0:37:52.85,*Default,NTP,0000,0000,0000,,能让你避开那种机动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to keep you from making those types of maneuvers.
+Dialogue: 0,0:37:55.39,0:38:01.02,*Default,NTP,0000,0000,0000,,或者未来的战略家可能会决定让飞行员完全脱离战斗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or future strategists may decide to keep pilots out of the fight entirely.
+Dialogue: 0,0:38:01.07,0:38:05.11,*Default,NTP,0000,0000,0000,,所以是否貌似太空中的无人驾驶的战争呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So then what would a pilotless battle in space look like?
+Dialogue: 0,0:38:09.87,0:38:13.87,*Default,NTP,0000,0000,0000,,由于太空空战的复杂性和危险性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because of the complexities and dangers of dogfighting in space,
+Dialogue: 0,0:38:13.91,0:38:18.12,*Default,NTP,0000,0000,0000,,飞行员有可能被完全排除在未来的太空战之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pilots may be left out of future space battles altogether.
+Dialogue: 0,0:38:18.17,0:38:21.63,*Default,NTP,0000,0000,0000,,想象一下我们的海盗船 在未来200年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine our pirate ship, 200 years in the future,
+Dialogue: 0,0:38:21.67,0:38:23.96,*Default,NTP,0000,0000,0000,,试图截获补给船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}trying to take over the supply ship,
+Dialogue: 0,0:38:24.01,0:38:28.13,*Default,NTP,0000,0000,0000,,此时所有的人都留在了两艘宇航母舰上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while all of the people remained on the two main spacecraft.
+Dialogue: 0,0:38:28.18,0:38:33.14,*Default,NTP,0000,0000,0000,,假设你有一艘巨大的载人或有人驾驶的飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Assuming you had a large manned or piloted spacecraft
+Dialogue: 0,0:38:33.18,0:38:37.48,*Default,NTP,0000,0000,0000,,而卷入战斗的是另一艘同样大小的飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was engaged in combat operations with another vehicle the same size,
+Dialogue: 0,0:38:37.52,0:38:40.40,*Default,NTP,0000,0000,0000,,你是不会为其发射战斗机的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you wouldn't launch fighters at it.
+Dialogue: 0,0:38:40.44,0:38:44.15,*Default,NTP,0000,0000,0000,,你会扔下一些小小的太空雷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would throw some tiny space mine,
+Dialogue: 0,0:38:44.19,0:38:46.69,*Default,NTP,0000,0000,0000,,机动飞船 手提箱般大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maneuverable vehicle, the size of a suitcase
+Dialogue: 0,0:38:46.74,0:38:47.74,*Default,NTP,0000,0000,0000,,会是隐形的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would be stealthy,
+Dialogue: 0,0:38:47.78,0:38:49.99,*Default,NTP,0000,0000,0000,,会漂浮在敌方的飞船身上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would float up to the enemy spacecraft,
+Dialogue: 0,0:38:50.03,0:38:51.70,*Default,NTP,0000,0000,0000,,贴附上去自我爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}attach itself, and blow up.
+Dialogue: 0,0:38:52.66,0:38:53.87,*Default,NTP,0000,0000,0000,,那就是你会做得方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would be the way you do it.
+Dialogue: 0,0:38:56.33,0:38:58.50,*Default,NTP,0000,0000,0000,,不过即使有人驾驶的太空战斗机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even though piloted space fighters
+Dialogue: 0,0:38:58.54,0:39:01.58,*Default,NTP,0000,0000,0000,,有可能不是未来的主要武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may not be a dominant weapon in the future,
+Dialogue: 0,0:39:01.63,0:39:06.13,*Default,NTP,0000,0000,0000,,激光在太空战中仍可能发挥作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lasers are still likely to play a role if war comes to space,
+Dialogue: 0,0:39:06.17,0:39:08.84,*Default,NTP,0000,0000,0000,,尽管它们还有一些挑战需要克服\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}although they will have some challenges to overcome.
+Dialogue: 0,0:39:12.60,0:39:15.51,*Default,NTP,0000,0000,0000,,今后30年 地球上的地面站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}30 years from now, a ground station on Earth
+Dialogue: 0,0:39:15.56,0:39:18.89,*Default,NTP,0000,0000,0000,,正试图用激光去摧毁敌方的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is trying to destroy an enemy satellite with a laser.
+Dialogue: 0,0:39:19.64,0:39:21.69,*Default,NTP,0000,0000,0000,,然而在其抵达其目标之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But before it reaches its target,
+Dialogue: 0,0:39:21.73,0:39:24.40,*Default,NTP,0000,0000,0000,,光束将不得不应付地球的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the beam will have to deal with Earth's atmosphere.
+Dialogue: 0,0:39:26.73,0:39:29.61,*Default,NTP,0000,0000,0000,,你要是曾经将吸管放入过一杯水里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you've ever stuck a straw into a glass of water
+Dialogue: 0,0:39:29.65,0:39:32.07,*Default,NTP,0000,0000,0000,,从侧面去观察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and looked at it from the side,
+Dialogue: 0,0:39:32.11,0:39:33.60,*Default,NTP,0000,0000,0000,,你可能已经注意到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you might have noticed that 
+Dialogue: 0,0:39:33.60,0:39:35.66,*Default,NTP,0000,0000,0000,,吸管在穿过水面时弯曲了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the straw appears to bend as it goes through the surface.
+Dialogue: 0,0:39:35.70,0:39:42.29,*Default,NTP,0000,0000,0000,,那是因为光从一种材料穿到另一种材料时被弯曲了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is because light gets bent as it goes through one material and into another.
+Dialogue: 0,0:39:42.33,0:39:44.13,*Default,NTP,0000,0000,0000,,激光穿越我们的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, lasers passing through our atmosphere
+Dialogue: 0,0:39:44.17,0:39:47.38,*Default,NTP,0000,0000,0000,,将不得不面对同样的问题 - 折射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have to deal with the same sort of problem--refraction.
+Dialogue: 0,0:39:47.42,0:39:49.96,*Default,NTP,0000,0000,0000,,因此如果我们试图将激光从地球表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when we're trying to point lasers
+Dialogue: 0,0:39:50.01,0:39:52.88,*Default,NTP,0000,0000,0000,,指向太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the surfaces of the Earth, out into space,
+Dialogue: 0,0:39:52.93,0:39:55.10,*Default,NTP,0000,0000,0000,,我们就必须考虑到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we have to take into consideration
+Dialogue: 0,0:39:55.14,0:39:57.76,*Default,NTP,0000,0000,0000,,大气层会多大程度弯曲光线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how much the atmosphere bends light.
+Dialogue: 0,0:40:02.14,0:40:05.56,*Default,NTP,0000,0000,0000,,已在太空中的激光武器会更为有效地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A laser weapon already in space will be much more effective
+Dialogue: 0,0:40:05.61,0:40:08.36,*Default,NTP,0000,0000,0000,,消灭卫星或航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at taking out satellites or spacecraft.
+Dialogue: 0,0:40:11.28,0:40:13.53,*Default,NTP,0000,0000,0000,,太空高处 没有空气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Up in space, there would be no atmosphere,
+Dialogue: 0,0:40:13.57,0:40:17.16,*Default,NTP,0000,0000,0000,,因而没有激光的衰减\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so there'd be no attenuation of the laser light,
+Dialogue: 0,0:40:17.20,0:40:19.20,*Default,NTP,0000,0000,0000,,而在穿越大气时会发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as there is when it's going through the atmosphere.
+Dialogue: 0,0:40:20.62,0:40:22.87,*Default,NTP,0000,0000,0000,,但除非科学家拿出一个强劲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But until scientists come up with a strong,
+Dialogue: 0,0:40:22.92,0:40:25.63,*Default,NTP,0000,0000,0000,,轻质的能源供太空里使用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lightweight energy source for use in space,
+Dialogue: 0,0:40:26.75,0:40:30.00,*Default,NTP,0000,0000,0000,,否则激光将不会强大到能炸掉任何东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lasers won't be powerful enough to blast anything.
+Dialogue: 0,0:40:31.42,0:40:33.68,*Default,NTP,0000,0000,0000,,同样的能量限制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the same kind of energy limitations
+Dialogue: 0,0:40:33.72,0:40:37.72,*Default,NTP,0000,0000,0000,,将有可能将激光武器排斥在太空战士的双手之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will likely keep laser weapons out of the hands of space soldiers.
+Dialogue: 0,0:40:39.64,0:40:45.02,*Default,NTP,0000,0000,0000,,除非我们创造一个核聚变装置在手机大小的电池里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Until we create a fusion reactor in a cell phone-sized battery,
+Dialogue: 0,0:40:45.06,0:40:50.02,*Default,NTP,0000,0000,0000,,我们是不会携带那种东西随时去搞破坏的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we're not going to be carrying those things around anytime soon that do real damage,
+Dialogue: 0,0:40:51.32,0:40:55.57,*Default,NTP,0000,0000,0000,,就像科克船长的手持光炮 狂轰滥炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like Captain Kirk's hand-held phaser, that he shoots and destroys
+Dialogue: 0,0:40:55.61,0:40:57.41,*Default,NTP,0000,0000,0000,,把人整个撕碎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and completely disintegrates somebody.
+Dialogue: 0,0:40:58.99,0:41:00.62,*Default,NTP,0000,0000,0000,,那需要大量的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That takes a lot of power.
+Dialogue: 0,0:41:00.66,0:41:03.20,*Default,NTP,0000,0000,0000,,我想知道里头究竟是什么能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'd like to know what power source those things have in them.
+Dialogue: 0,0:41:04.21,0:41:08.71,*Default,NTP,0000,0000,0000,,要是激光结果并不是未来主要的太空武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if lasers don't turn out to be the dominant space weapon of the future,
+Dialogue: 0,0:41:08.75,0:41:11.13,*Default,NTP,0000,0000,0000,,那么百年以后月球表面的的战斗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then what might a battle on the surface of the Moon
+Dialogue: 0,0:41:11.17,0:41:14.01,*Default,NTP,0000,0000,0000,,又会是何种模样呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}look like 100 years from now?
+Dialogue: 0,0:41:14.05,0:41:15.63,*Default,NTP,0000,0000,0000,,因为殖民地之间经常会发生争执\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As colonies often do, they get into a dispute
+Dialogue: 0,0:41:15.68,0:41:17.72,*Default,NTP,0000,0000,0000,,发生一些战争\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and have some kind of war.
+Dialogue: 0,0:41:17.76,0:41:20.22,*Default,NTP,0000,0000,0000,,你会觉得很唐突的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would think it would be fairly short.
+Dialogue: 0,0:41:20.26,0:41:22.14,*Default,NTP,0000,0000,0000,,环境一开始就充满敌意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The environment is so hostile to begin with,
+Dialogue: 0,0:41:22.18,0:41:23.73,*Default,NTP,0000,0000,0000,,你庆幸还活着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you're lucky to be alive.
+Dialogue: 0,0:41:25.98,0:41:28.90,*Default,NTP,0000,0000,0000,,逼近敌对殖民地的攻击力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The attacking force approaching the rival colony
+Dialogue: 0,0:41:28.94,0:41:32.78,*Default,NTP,0000,0000,0000,,或许相当小 源于严酷的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will probably be fairly small, due to the harsh conditions
+Dialogue: 0,0:41:32.82,0:41:36.70,*Default,NTP,0000,0000,0000,,以及将人及装备送入太空的巨大成本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the huge cost of bringing people and equipment into space.
+Dialogue: 0,0:41:37.95,0:41:40.66,*Default,NTP,0000,0000,0000,,出于同样的节约成本的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And for the same cost-saving reason,
+Dialogue: 0,0:41:40.70,0:41:44.58,*Default,NTP,0000,0000,0000,,殖民地也是用轻质材料打造的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the colony will also be made from lightweight, thin materials.
+Dialogue: 0,0:41:46.58,0:41:50.77,*Default,NTP,0000,0000,0000,,运送不锈钢或其它重型装甲 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It costs way too much to send stainless steel 
+Dialogue: 0,0:41:50.77,0:41:52.71,*Default,NTP,0000,0000,0000,,花费太昂贵了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or whatever would be heavy armored plating.
+Dialogue: 0,0:41:52.76,0:41:54.67,*Default,NTP,0000,0000,0000,,那不是首批殖民地会做得事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's not what the first colonies are going to be.
+Dialogue: 0,0:41:54.72,0:41:56.01,*Default,NTP,0000,0000,0000,,它们会非常脆弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're going to be very fragile.
+Dialogue: 0,0:41:57.22,0:42:00.22,*Default,NTP,0000,0000,0000,,因此即使是简单的攻击也会非常有效\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So even a simple attack could be very effective.
+Dialogue: 0,0:42:02.22,0:42:04.72,*Default,NTP,0000,0000,0000,,我想你只会看到有人拉着炸弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think you would just find somebody trucking a bomb
+Dialogue: 0,0:42:04.77,0:42:06.02,*Default,NTP,0000,0000,0000,,去错误的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over to the wrong place
+Dialogue: 0,0:42:06.06,0:42:08.44,*Default,NTP,0000,0000,0000,,悄悄潜入 将其引爆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sneaking it in and setting it off,
+Dialogue: 0,0:42:08.48,0:42:11.31,*Default,NTP,0000,0000,0000,,或对人发射一颗小导弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or launching a small missile at somebody.
+Dialogue: 0,0:42:11.36,0:42:13.82,*Default,NTP,0000,0000,0000,,那确实很难阻止的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be incredibly hard to stop.
+Dialogue: 0,0:42:13.86,0:42:17.24,*Default,NTP,0000,0000,0000,,会极其容易把人们杀死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be incredibly easy to get everybody killed.
+Dialogue: 0,0:42:19.74,0:42:20.87,*Default,NTP,0000,0000,0000,,但要是攻击力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if the strike force
+Dialogue: 0,0:42:20.91,0:42:23.49,*Default,NTP,0000,0000,0000,,没能立马将殖民地消灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}isn't able to take out the colony right away,
+Dialogue: 0,0:42:23.54,0:42:27.54,*Default,NTP,0000,0000,0000,,他们就有可能面临来自月球表面的反击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they might face a counterattack out on the surface of the Moon.
+Dialogue: 0,0:42:29.08,0:42:31.71,*Default,NTP,0000,0000,0000,,现在 在真空的太空里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here, in the vacuum of space,
+Dialogue: 0,0:42:31.75,0:42:35.21,*Default,NTP,0000,0000,0000,,即使是最小的伤口都可以让人送命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even the smallest wound can be a death sentence.
+Dialogue: 0,0:42:38.30,0:42:41.55,*Default,NTP,0000,0000,0000,,如果宇航服被打出一个洞 就会漏气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a hole were punched in a spacesuit, it would leak,
+Dialogue: 0,0:42:41.60,0:42:44.22,*Default,NTP,0000,0000,0000,,另外 洞穿宇航服的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and by the way, what punched the hole in the spacesuit
+Dialogue: 0,0:42:44.27,0:42:47.56,*Default,NTP,0000,0000,0000,,没准会一路洞穿里面的人 不是吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}probably kept on punching through to the person inside it, right?
+Dialogue: 0,0:42:47.60,0:42:50.69,*Default,NTP,0000,0000,0000,,那么你如何去救助那个人呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So how do you help that person?
+Dialogue: 0,0:42:50.73,0:42:53.61,*Default,NTP,0000,0000,0000,,你如何对他们急救呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How do you perform first aid on them?
+Dialogue: 0,0:42:55.61,0:42:58.07,*Default,NTP,0000,0000,0000,,不过遥远未来的太空战争\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the space wars of the distant future
+Dialogue: 0,0:42:58.11,0:43:02.82,*Default,NTP,0000,0000,0000,,有可能超越人与机器的整个技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may move beyond the technology of man and machine altogether.
+Dialogue: 0,0:43:02.87,0:43:07.50,*Default,NTP,0000,0000,0000,,毕竟 宇宙自然现象的破坏力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After all, the destructive power of natural phenomena in the universe
+Dialogue: 0,0:43:07.54,0:43:11.00,*Default,NTP,0000,0000,0000,,远超过人类所制造的任何武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}goes far beyond any weapon people have ever made.
+Dialogue: 0,0:43:15.50,0:43:18.13,*Default,NTP,0000,0000,0000,,展望未来数百年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Looking hundreds of years into the future,
+Dialogue: 0,0:43:18.17,0:43:23.26,*Default,NTP,0000,0000,0000,,好战的外星文明正利用火星作为中转区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a belligerent alien civilization is using Mars as a staging area
+Dialogue: 0,0:43:23.30,0:43:25.31,*Default,NTP,0000,0000,0000,,准备入侵地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for their coming invasion of Earth.
+Dialogue: 0,0:43:27.81,0:43:31.27,*Default,NTP,0000,0000,0000,,人们可以设想重新定位一颗小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One might imagine redirecting an asteroid
+Dialogue: 0,0:43:31.31,0:43:33.77,*Default,NTP,0000,0000,0000,,或飞经太阳系的石块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a rock flying through the solar system,
+Dialogue: 0,0:43:33.81,0:43:35.44,*Default,NTP,0000,0000,0000,,让其去撞击火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that it hits Mars.
+Dialogue: 0,0:43:36.90,0:43:40.11,*Default,NTP,0000,0000,0000,,我们可以设想发射火箭到小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could imagine firing a rocket to an asteroid,
+Dialogue: 0,0:43:40.15,0:43:43.24,*Default,NTP,0000,0000,0000,,稍稍偏转其轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}deflecting it ever so slightly in its trajectory,
+Dialogue: 0,0:43:43.28,0:43:48.66,*Default,NTP,0000,0000,0000,,这样经过数次转轨 它就会最终撞上火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that after a number of orbits, it would finally hit Mars.
+Dialogue: 0,0:43:52.17,0:43:54.29,*Default,NTP,0000,0000,0000,,然而是不是人们免不了会把\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But is it inevitable that man will turn
+Dialogue: 0,0:43:54.34,0:43:57.42,*Default,NTP,0000,0000,0000,,最终的边界变成战场的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the final frontier into a battleground?
+Dialogue: 0,0:43:57.46,0:44:00.63,*Default,NTP,0000,0000,0000,,抑或我们在破坏性技术上的进步是否会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or could our advances in destructive technology
+Dialogue: 0,0:44:00.67,0:44:05.01,*Default,NTP,0000,0000,0000,,匹配上理智和自我保护的进步呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}be matched by advances in wisdom and self-preservation?
+Dialogue: 0,0:44:07.51,0:44:11.31,*Default,NTP,0000,0000,0000,,人类总是觉得不久的将来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Human beings always think that one day soon,
+Dialogue: 0,0:44:11.35,0:44:13.77,*Default,NTP,0000,0000,0000,,我们会超越冲突的需求\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we're going to move beyond the need for conflict.
+Dialogue: 0,0:44:13.81,0:44:15.40,*Default,NTP,0000,0000,0000,,我们在这里没做到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We haven't done it here,
+Dialogue: 0,0:44:15.44,0:44:17.86,*Default,NTP,0000,0000,0000,,我不认为我们在太空中会超越它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and I don't think we're going to move beyond it in space.
+Dialogue: 0,0:44:21.65,0:44:24.45,*Default,NTP,0000,0000,0000,,世界上多数国家已经签署了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most countries of the world have already signed
+Dialogue: 0,0:44:24.49,0:44:29.20,*Default,NTP,0000,0000,0000,,众所周知的1967外太空条约\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what's commonly known as the 1967 Outer Space Treaty,
+Dialogue: 0,0:44:29.24,0:44:32.16,*Default,NTP,0000,0000,0000,,保留太空 月球 其他行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}preserving space, the Moon, and other planets
+Dialogue: 0,0:44:32.21,0:44:34.62,*Default,NTP,0000,0000,0000,,用于和平目的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for peaceful purposes.
+Dialogue: 0,0:44:34.67,0:44:38.09,*Default,NTP,0000,0000,0000,,但随着未来的太空旅行越来越常态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as space travel in the future becomes more routine
+Dialogue: 0,0:44:38.13,0:44:40.42,*Default,NTP,0000,0000,0000,,一旦有价值的未开发资源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if valuable untapped resources
+Dialogue: 0,0:44:40.46,0:44:44.59,*Default,NTP,0000,0000,0000,,在地球外发现 一个条约管用吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are discovered beyond Earth, will a treaty be enough?
+Dialogue: 0,0:44:46.22,0:44:50.14,*Default,NTP,0000,0000,0000,,只有时间才能证明这种奇特的太空武器库\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only time will tell if this arsenal of exotic space weapons
+Dialogue: 0,0:44:50.18,0:44:52.60,*Default,NTP,0000,0000,0000,,究竟是我们未来的预演\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a preview of our future
+Dialogue: 0,0:44:53.18,0:44:55.60,*Default,NTP,0000,0000,0000,,还是我们的庸人自扰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a dangerous fantasy world.

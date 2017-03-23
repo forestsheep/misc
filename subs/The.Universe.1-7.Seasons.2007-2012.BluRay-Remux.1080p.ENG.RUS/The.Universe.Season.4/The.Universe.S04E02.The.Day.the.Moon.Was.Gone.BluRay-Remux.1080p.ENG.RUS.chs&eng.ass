@@ -1,0 +1,734 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.75,0:00:03.79,*Default,NTP,0000,0000,0000,,创世之初 冥冥之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning there was darkness,
+Dialogue: 0,0:00:03.83,0:00:05.96,*Default,NTP,0000,0000,0000,,随着一声爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang--
+Dialogue: 0,0:00:06.00,0:00:08.63,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.67,0:00:11.38,*Default,NTP,0000,0000,0000,,时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space, and matter.
+Dialogue: 0,0:00:11.42,0:00:14.88,*Default,NTP,0000,0000,0000,,每一天 新的发现都在揭秘这个诡异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:14.93,0:00:16.97,*Default,NTP,0000,0000,0000,,震撼 神秘莫测的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:17.01,0:00:20.10,*Default,NTP,0000,0000,0000,,地方 - 我们所谓的《宇宙》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call "The Universe."
+Dialogue: 0,0:00:22.52,0:00:27.69,*Default,NTP,0000,0000,0000,,要是我们的月球突然消失又当如何呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What would happen if our Moon suddenly disappeared?
+Dialogue: 0,0:00:27.73,0:00:31.53,*Default,NTP,0000,0000,0000,,全球性海啸将摧毁世界各地的海岸线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Global tsunamis decimate coastlines around the world,
+Dialogue: 0,0:00:31.57,0:00:35.20,*Default,NTP,0000,0000,0000,,因为海水涌向了太阳的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as ocean waters surge toward the gravitational pull of the Sun.
+Dialogue: 0,0:00:36.66,0:00:38.45,*Default,NTP,0000,0000,0000,,洋流变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sea currents shift,
+Dialogue: 0,0:00:38.49,0:00:42.24,*Default,NTP,0000,0000,0000,,改变着气象模式 破坏了食品供应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}changing weather patterns and destroying food supplies.
+Dialogue: 0,0:00:42.29,0:00:45.91,*Default,NTP,0000,0000,0000,,最终地球自转轴倾角失控\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eventually Earth's axis tilts wildly,
+Dialogue: 0,0:00:45.96,0:00:48.58,*Default,NTP,0000,0000,0000,,变两极为热带丛林\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}turning the poles into tropical jungles
+Dialogue: 0,0:00:48.63,0:00:51.50,*Default,NTP,0000,0000,0000,,赤道成寒冷的不毛之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the equator into frigid wastelands.
+Dialogue: 0,0:00:53.92,0:00:57.63,*Default,NTP,0000,0000,0000,,新的物种出现 其它物种则消亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New species emerge, while others go extinct.
+Dialogue: 0,0:00:57.68,0:01:01.43,*Default,NTP,0000,0000,0000,,我们的星球变得面目全非\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our planet becomes unrecognizable
+Dialogue: 0,0:01:01.47,0:01:03.81,*Default,NTP,0000,0000,0000,,月球消失后的日子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the day the Moon was gone.
+Dialogue: 0,0:01:04.00,0:01:07.75,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:08.25,0:01:11.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:暮云春树  字幕来源：HDC字幕组 调校：晴天 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:11.47,0:01:17.81,*Default,NTP,0000,0000,0000,,历史频道 - 宇宙 第4季第2集 月球消失后的日子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The History Channel - The Universe s04e02 The Day The Moon Was Gone
+Dialogue: 0,0:01:19.62,0:01:23.16,*Default,NTP,0000,0000,0000,,月球是一块荒凉 毫无生机的石头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon is a barren, lifeless rock,
+Dialogue: 0,0:01:23.20,0:01:28.42,*Default,NTP,0000,0000,0000,,但是它在地球生命的故事里扮演了一个出人意料的重要角色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it plays a surprisingly important role in the story of life on Earth.
+Dialogue: 0,0:01:28.46,0:01:29.67,*Default,NTP,0000,0000,0000,,有多重要？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How important?
+Dialogue: 0,0:01:34.38,0:01:37.38,*Default,NTP,0000,0000,0000,,我们来把它从空中拿走看看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's remove it from the sky and find out.
+Dialogue: 0,0:01:39.59,0:01:43.35,*Default,NTP,0000,0000,0000,,怪事几乎立马就会发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Strange things start to happen almost immediately.
+Dialogue: 0,0:01:43.39,0:01:47.27,*Default,NTP,0000,0000,0000,,海边的人们首先会注意到变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People on the coast are the first to notice the change.
+Dialogue: 0,0:01:48.27,0:01:50.48,*Default,NTP,0000,0000,0000,,它或许会造成诸如海啸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This would probably create something like a tsunami,
+Dialogue: 0,0:01:50.52,0:01:53.94,*Default,NTP,0000,0000,0000,,大潮汐 确实是极具戏剧性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a tidal wave, which would be very dramatic indeed.
+Dialogue: 0,0:02:00.12,0:02:03.33,*Default,NTP,0000,0000,0000,,众所周知 月球控制着地球的潮涨潮落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's well known that the Moon controls Earth's tides.
+Dialogue: 0,0:02:04.45,0:02:09.62,*Default,NTP,0000,0000,0000,,在它围绕着我们运转的过程中其质量把我们的海洋拉向它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As it orbits around us, its mass tugs our oceans toward it,
+Dialogue: 0,0:02:09.67,0:02:14.29,*Default,NTP,0000,0000,0000,,引起潮汐被拽向了地球最靠近月球的那一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}causing a tidal bulge on the side of the planet nearest the Moon.
+Dialogue: 0,0:02:14.34,0:02:17.34,*Default,NTP,0000,0000,0000,,由于引力物理学上的怪事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And through a strange quirk of gravitational physics,
+Dialogue: 0,0:02:17.38,0:02:19.17,*Default,NTP,0000,0000,0000,,它形成了第二个涌起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it forms a second bulge
+Dialogue: 0,0:02:19.22,0:02:21.89,*Default,NTP,0000,0000,0000,,在远离月球的那一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the side farthest away from the Moon.
+Dialogue: 0,0:02:23.35,0:02:28.06,*Default,NTP,0000,0000,0000,,很少有人知道太阳也在管控潮汐中发挥了作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Few people realize the Sun also plays a role in governing the tides,
+Dialogue: 0,0:02:29.60,0:02:33.90,*Default,NTP,0000,0000,0000,,但是因为它距离我们比月球远400倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but because it's 400 times farther from us than the Moon,
+Dialogue: 0,0:02:33.94,0:02:36.53,*Default,NTP,0000,0000,0000,,其对海洋的引力作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its gravitational influence on the oceans
+Dialogue: 0,0:02:36.57,0:02:40.45,*Default,NTP,0000,0000,0000,,相对较小 约占整个影响的三分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is relatively small, about 1/3 of the total effect.
+Dialogue: 0,0:02:43.74,0:02:45.70,*Default,NTP,0000,0000,0000,,但是随着月球的出局\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But with the Moon out of the picture,
+Dialogue: 0,0:02:45.74,0:02:47.74,*Default,NTP,0000,0000,0000,,现在太阳当上了家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Sun is now in control.
+Dialogue: 0,0:02:49.25,0:02:50.25,*Default,NTP,0000,0000,0000,,由于月球高高在上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With the Moon up here,
+Dialogue: 0,0:02:50.29,0:02:53.46,*Default,NTP,0000,0000,0000,,其引力可以说是把水泡拉起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its gravitational pull is sort of pulling a dome of water up.
+Dialogue: 0,0:02:53.50,0:02:54.50,*Default,NTP,0000,0000,0000,,有一个大的涌起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a big sort of bulge.
+Dialogue: 0,0:02:54.54,0:02:57.05,*Default,NTP,0000,0000,0000,,来想象一下剪断其联系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then imagine you just snipped the cord
+Dialogue: 0,0:02:57.09,0:02:59.76,*Default,NTP,0000,0000,0000,,水就必定会回流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the water had to flow back out.
+Dialogue: 0,0:03:02.51,0:03:05.05,*Default,NTP,0000,0000,0000,,水会涌向太阳的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The water rushes toward the gravity of the Sun
+Dialogue: 0,0:03:05.10,0:03:07.18,*Default,NTP,0000,0000,0000,,形成一个巨大的全球性海啸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a massive global tsunami.
+Dialogue: 0,0:03:09.43,0:03:10.81,*Default,NTP,0000,0000,0000,,取决于月球的海浪的力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The force of the waves
+Dialogue: 0,0:03:12.02,0:03:16.69,*Default,NTP,0000,0000,0000,,在月球消失后就与太阳有关了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}depends on where the Moon is in relation to the Sun when it disappears.
+Dialogue: 0,0:03:17.94,0:03:21.36,*Default,NTP,0000,0000,0000,,如果月球消失在满月即新月时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Moon vanished at full moon or at new moon,
+Dialogue: 0,0:03:21.40,0:03:23.99,*Default,NTP,0000,0000,0000,,也就是月球与地球 太阳连成一线时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's when the Moon is lined up with the Earth and the Sun.
+Dialogue: 0,0:03:24.91,0:03:26.41,*Default,NTP,0000,0000,0000,,月球的潮涌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The lunar tidal bulges
+Dialogue: 0,0:03:26.45,0:03:30.25,*Default,NTP,0000,0000,0000,,就会减弱同一地点的太阳潮涌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would shrink to solar tidal bulges in the same spots,
+Dialogue: 0,0:03:30.29,0:03:32.46,*Default,NTP,0000,0000,0000,,来自月球潮涌额外的海水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the extra water from the lunar bulges
+Dialogue: 0,0:03:32.50,0:03:35.50,*Default,NTP,0000,0000,0000,,会很快流向世界其他地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would quickly flow to other parts of the globe.
+Dialogue: 0,0:03:36.75,0:03:40.09,*Default,NTP,0000,0000,0000,,但是存在着更加戏剧的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's an even more dramatic possibility.
+Dialogue: 0,0:03:40.13,0:03:43.09,*Default,NTP,0000,0000,0000,,如果月球消失在弦月时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Moon vanished when it's at quarter moon,
+Dialogue: 0,0:03:43.13,0:03:45.34,*Default,NTP,0000,0000,0000,,不管是上弦月还是下弦月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}either first quarter or last quarter,
+Dialogue: 0,0:03:45.39,0:03:48.39,*Default,NTP,0000,0000,0000,,那时的月球潮涌是不会在同时出现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the Moon's tidal bulge is not in the same place
+Dialogue: 0,0:03:48.43,0:03:49.93,*Default,NTP,0000,0000,0000,,太阳潮涌的地方的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the Sun's tidal bulge.
+Dialogue: 0,0:03:49.97,0:03:54.94,*Default,NTP,0000,0000,0000,,因此我预计你会看到地球上的海水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so I expect you would see a very quick motion of Earth's oceans
+Dialogue: 0,0:03:54.98,0:03:58.52,*Default,NTP,0000,0000,0000,,会从月球潮涌快速流向太阳潮涌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the lunar tidal bulge to the solar tidal bulge.
+Dialogue: 0,0:03:59.90,0:04:01.40,*Default,NTP,0000,0000,0000,,有些专家认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some experts believe
+Dialogue: 0,0:04:01.44,0:04:04.32,*Default,NTP,0000,0000,0000,,这种海水更为剧烈的横向侧移\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this more drastic lateral shift in ocean water
+Dialogue: 0,0:04:04.36,0:04:07.32,*Default,NTP,0000,0000,0000,,会冲击全球沿海各地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would blast coastal spots around the world.
+Dialogue: 0,0:04:09.99,0:04:14.96,*Default,NTP,0000,0000,0000,,猛烈的冲击将类同于2004年南亚大海啸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The powerful pulses would be similar to the 2004 Southeast Asian tsunami,
+Dialogue: 0,0:04:15.00,0:04:18.88,*Default,NTP,0000,0000,0000,,除了波涛会造成更大的伤亡和破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}except the waves would cause even more death and destruction
+Dialogue: 0,0:04:18.92,0:04:20.80,*Default,NTP,0000,0000,0000,,因为那是世界性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since they'd be worldwide.
+Dialogue: 0,0:04:24.18,0:04:28.22,*Default,NTP,0000,0000,0000,,两个巨大的从东到西和从西到东的波浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two massive east-to-west and west-to-east waves
+Dialogue: 0,0:04:28.26,0:04:31.64,*Default,NTP,0000,0000,0000,,将分别在地球的相对的两端发起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be initiated on opposite ends of the Earth.
+Dialogue: 0,0:04:31.68,0:04:37.02,*Default,NTP,0000,0000,0000,,迈阿密这样的海滨城市将遭遇50英尺高的水墙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A seaside city like Miami would be pummeled by a 50-foot wall of water
+Dialogue: 0,0:04:37.06,0:04:39.69,*Default,NTP,0000,0000,0000,,会摧毁大多数沿岸建筑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would destroy most coastal buildings
+Dialogue: 0,0:04:39.73,0:04:43.49,*Default,NTP,0000,0000,0000,,横扫整个佛罗里达州南部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sweep across the entire width of southern Florida,
+Dialogue: 0,0:04:43.53,0:04:46.20,*Default,NTP,0000,0000,0000,,危及900万生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}putting nine million lives at risk.
+Dialogue: 0,0:04:51.33,0:04:54.50,*Default,NTP,0000,0000,0000,,然而对于这样一个巨大的海水移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But with such a titanic shift of water,
+Dialogue: 0,0:04:54.54,0:04:57.29,*Default,NTP,0000,0000,0000,,还会有什么别的不可预测的后果呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could there be other unpredictable results?
+Dialogue: 0,0:04:59.04,0:05:02.71,*Default,NTP,0000,0000,0000,,可以想象得到 海水的东西向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One can imagine that perhaps the east-west
+Dialogue: 0,0:05:02.76,0:05:06.34,*Default,NTP,0000,0000,0000,,南北向的运动可能会扰乱洋流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or north-south motion of that water could disrupt the currents.
+Dialogue: 0,0:05:06.38,0:05:11.64,*Default,NTP,0000,0000,0000,,墨西哥暖流会把温暖的海水从加勒比送往英国\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Gulf Stream carries warm water from the Caribbean up to Great Britain,
+Dialogue: 0,0:05:11.68,0:05:14.39,*Default,NTP,0000,0000,0000,,帮助维持了英国比它实际位置要暖和很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it helps keep Great Britain a lot warmer
+Dialogue: 0,0:05:14.43,0:05:18.35,*Default,NTP,0000,0000,0000,,想想它其实是很靠北方的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than it otherwise would be, considering how far north it is.
+Dialogue: 0,0:05:18.40,0:05:20.52,*Default,NTP,0000,0000,0000,,气候是个很微妙的系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Climate is a very delicate system,
+Dialogue: 0,0:05:20.57,0:05:24.28,*Default,NTP,0000,0000,0000,,你调整其中一部分 其他部分就会有所反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you tweak one part of it and another part responds.
+Dialogue: 0,0:05:24.32,0:05:26.90,*Default,NTP,0000,0000,0000,,因而可以想见粮食生产\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then one can imagine that food productivity
+Dialogue: 0,0:05:26.95,0:05:29.87,*Default,NTP,0000,0000,0000,,以及整个生活方式都将发生极大的转变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the overall way of life would be dramatically altered
+Dialogue: 0,0:05:29.91,0:05:32.37,*Default,NTP,0000,0000,0000,,要是北欧更加寒冷的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if it were cooler in northern Europe.
+Dialogue: 0,0:05:33.91,0:05:36.37,*Default,NTP,0000,0000,0000,,撒哈拉大沙漠就是个很好的例子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sahara Desert is a great example of someplace
+Dialogue: 0,0:05:36.41,0:05:40.21,*Default,NTP,0000,0000,0000,,过去曾经是绿意盎然 而现在则完全是个不毛之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that used to be green and lush and now is completely a desert.
+Dialogue: 0,0:05:40.25,0:05:41.88,*Default,NTP,0000,0000,0000,,气候带来的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Having changes with climate
+Dialogue: 0,0:05:41.92,0:05:44.38,*Default,NTP,0000,0000,0000,,确实可以影响到我们的生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can really have impact on our survival.
+Dialogue: 0,0:05:48.55,0:05:50.72,*Default,NTP,0000,0000,0000,,不过我们星球上最大的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the biggest impact on our planet
+Dialogue: 0,0:05:50.76,0:05:53.93,*Default,NTP,0000,0000,0000,,莫过于改变地球倾角的稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be the changes to Earth's steady tilt,
+Dialogue: 0,0:05:53.97,0:05:55.22,*Default,NTP,0000,0000,0000,,这种独特的特点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a unique feature
+Dialogue: 0,0:05:56.81,0:05:59.31,*Default,NTP,0000,0000,0000,,给了我们有规律的四季\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that gives us our four regular seasons.
+Dialogue: 0,0:06:01.40,0:06:03.15,*Default,NTP,0000,0000,0000,,我们地球的倾角一直固定在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The thing that locks our planet's tilt
+Dialogue: 0,0:06:03.19,0:06:06.11,*Default,NTP,0000,0000,0000,,约23 5度的关键就在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to about 23.5 degrees so consistently
+Dialogue: 0,0:06:06.15,0:06:09.36,*Default,NTP,0000,0000,0000,,月球的存在充当了巨大的稳定器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the presence of the Moon that acts as a large stabilizer.
+Dialogue: 0,0:06:09.41,0:06:11.07,*Default,NTP,0000,0000,0000,,要是我们不再有月球的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we don't have the Moon anymore,
+Dialogue: 0,0:06:11.12,0:06:13.45,*Default,NTP,0000,0000,0000,,我们就可能陷入的状况更多的就像火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we may get into a regime that's much more like Mars.
+Dialogue: 0,0:06:13.49,0:06:17.08,*Default,NTP,0000,0000,0000,,火星 并没有稳定的23 5度倾角\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And Mars, instead of being at a stable 23.5 degrees,
+Dialogue: 0,0:06:17.12,0:06:20.75,*Default,NTP,0000,0000,0000,,经受着狂乱的倾角变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}goes through wild variations of the tilt,
+Dialogue: 0,0:06:20.79,0:06:24.96,*Default,NTP,0000,0000,0000,,呈现出最低从低至15度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}varying from maybe as low as 15 degrees on the low side,
+Dialogue: 0,0:06:25.00,0:06:29.09,*Default,NTP,0000,0000,0000,,一直到最高约75 80度那个样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the way up to something like about 75, 80 degrees on the high side.
+Dialogue: 0,0:06:31.97,0:06:35.51,*Default,NTP,0000,0000,0000,,没有了月球 我们的地轴就会在几十万年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the Moon, our axis begins fluctuating erratically
+Dialogue: 0,0:06:35.56,0:06:37.64,*Default,NTP,0000,0000,0000,,开始不正常的摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over several hundred thousand years.
+Dialogue: 0,0:06:40.14,0:06:43.27,*Default,NTP,0000,0000,0000,,太阳系里的其他行星的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gravitational pull from other planets in the solar system
+Dialogue: 0,0:06:43.31,0:06:46.11,*Default,NTP,0000,0000,0000,,会开始肆虐地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}starts wreaking havoc on Earth.
+Dialogue: 0,0:06:46.15,0:06:50.99,*Default,NTP,0000,0000,0000,,我们正常的季节会随着我们星球在某些时期里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our stable seasons shift dramatically as different parts of our planet
+Dialogue: 0,0:06:51.03,0:06:54.62,*Default,NTP,0000,0000,0000,,急剧地倒向太阳而发生戏剧性的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tilt radically toward the Sun during some periods
+Dialogue: 0,0:06:54.66,0:06:56.33,*Default,NTP,0000,0000,0000,,不复存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and away at others.
+Dialogue: 0,0:06:57.75,0:06:59.04,*Default,NTP,0000,0000,0000,,你失去月球后不久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Soon as you get rid of the Moon,
+Dialogue: 0,0:06:59.08,0:07:03.50,*Default,NTP,0000,0000,0000,,就会随着这个剧烈倾斜的地轴来回摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you're stuck with this radical tilting of the axis back and forth,
+Dialogue: 0,0:07:03.54,0:07:07.55,*Default,NTP,0000,0000,0000,,从而气候会发生从未有过的剧烈变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and therefore radical climate changes that don't happen today.
+Dialogue: 0,0:07:11.34,0:07:14.26,*Default,NTP,0000,0000,0000,,地球变成了非常怪异的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth becomes a very strange world,
+Dialogue: 0,0:07:14.30,0:07:17.81,*Default,NTP,0000,0000,0000,,人类要拼命去适应和挺过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as mankind struggles to adapt and survive.
+Dialogue: 0,0:07:18.68,0:07:21.77,*Default,NTP,0000,0000,0000,,如果我们进入那种不稳定状况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we go to a situation where we don't have that stabilization,
+Dialogue: 0,0:07:21.81,0:07:24.23,*Default,NTP,0000,0000,0000,,那些极小的变化都会变得非常的大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those very small changes become very, very big.
+Dialogue: 0,0:07:24.27,0:07:25.94,*Default,NTP,0000,0000,0000,,我们会进入到的状况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We may go to a situation
+Dialogue: 0,0:07:25.98,0:07:28.32,*Default,NTP,0000,0000,0000,,冰会持久地覆盖热带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the ice becomes stable over the tropics.
+Dialogue: 0,0:07:28.36,0:07:30.78,*Default,NTP,0000,0000,0000,,设想一下 南极有丛林\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine jungles and forests in Antarctica
+Dialogue: 0,0:07:30.82,0:07:33.57,*Default,NTP,0000,0000,0000,,非洲中部有冰盖和冰川\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and ice sheets and glaciers in central Africa.
+Dialogue: 0,0:07:33.61,0:07:36.99,*Default,NTP,0000,0000,0000,,倾斜会在几十万年的时间范围内发生变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The tilt would vary on time scales of a few hundred thousand years.
+Dialogue: 0,0:07:37.03,0:07:40.16,*Default,NTP,0000,0000,0000,,那就是冰河降临地球的时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are time scales of ice ages coming upon the Earth.
+Dialogue: 0,0:07:40.20,0:07:41.83,*Default,NTP,0000,0000,0000,,我们知道影响会有多大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know how much of an impact that had.
+Dialogue: 0,0:07:41.87,0:07:44.75,*Default,NTP,0000,0000,0000,,人类有过艰难的时期去适应这些变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Humanity had a hard time adjusting to those changes
+Dialogue: 0,0:07:44.79,0:07:47.92,*Default,NTP,0000,0000,0000,,在我们走出上一个冰河时期时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we came out of the last Ice Age.
+Dialogue: 0,0:07:47.96,0:07:51.67,*Default,NTP,0000,0000,0000,,很难预测究竟人类的结局如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very difficult to predict exactly what would happen to humans,
+Dialogue: 0,0:07:51.72,0:07:56.18,*Default,NTP,0000,0000,0000,,因为我们没有把握我们能否很快去适应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we're not sure how rapidly we're able to adapt
+Dialogue: 0,0:07:56.22,0:07:58.72,*Default,NTP,0000,0000,0000,,剧烈改变的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to radically changing environments.
+Dialogue: 0,0:08:00.56,0:08:03.10,*Default,NTP,0000,0000,0000,,如果我们的月球一去不复返了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if our Moon disappeared permanently,
+Dialogue: 0,0:08:03.14,0:08:07.15,*Default,NTP,0000,0000,0000,,海里和岸上的生命会有彻底的改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}life in the sea and on the shore would be drastically transformed.
+Dialogue: 0,0:08:09.57,0:08:12.07,*Default,NTP,0000,0000,0000,,鲨鱼将丧失猎捕威力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sharks would lose their hunting prowess,
+Dialogue: 0,0:08:12.11,0:08:16.03,*Default,NTP,0000,0000,0000,,无法追逐在月光下簇拥在它们头上的鱼群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unable to track the schools of fish swarming above them in the moonlight.
+Dialogue: 0,0:08:16.82,0:08:20.66,*Default,NTP,0000,0000,0000,,螃蟹 通常在退潮时交尾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Crabs, used to mating at extreme low tides,
+Dialogue: 0,0:08:20.70,0:08:23.58,*Default,NTP,0000,0000,0000,,会在月相消失后迷失方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}become disoriented at the loss of lunar phases.
+Dialogue: 0,0:08:25.17,0:08:28.54,*Default,NTP,0000,0000,0000,,在满月涨潮时产卵的银汉鱼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Grunion that lay their eggs during a high tide in full moon
+Dialogue: 0,0:08:28.59,0:08:31.09,*Default,NTP,0000,0000,0000,,则遭遇到繁殖的破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}suffer reproductive disruption.
+Dialogue: 0,0:08:31.96,0:08:35.26,*Default,NTP,0000,0000,0000,,甚至原始的水生植物也会受到影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even primitive aquatic plant life would be affected.
+Dialogue: 0,0:08:36.76,0:08:39.68,*Default,NTP,0000,0000,0000,,许多物种会在海面上过夜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many species will spend their evenings on the surface,
+Dialogue: 0,0:08:39.72,0:08:41.43,*Default,NTP,0000,0000,0000,,与月光互动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}interacting with moonlight.
+Dialogue: 0,0:08:42.35,0:08:44.73,*Default,NTP,0000,0000,0000,,月亮升起 海藻也升起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon comes up as the algae are moving up,
+Dialogue: 0,0:08:44.77,0:08:46.73,*Default,NTP,0000,0000,0000,,紧随其后的是所有以海藻为食的生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they're followed by all of the organisms
+Dialogue: 0,0:08:46.77,0:08:49.69,*Default,NTP,0000,0000,0000,,以及以它们为食的生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that eat the algae and the organisms that eat them,
+Dialogue: 0,0:08:49.73,0:08:53.57,*Default,NTP,0000,0000,0000,,因而整个海洋生态是靠光调节的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so the whole ecology of the ocean is tuned to light.
+Dialogue: 0,0:08:53.61,0:08:58.49,*Default,NTP,0000,0000,0000,,所有这些生物通通被搞乱了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All of these organisms will be completely disrupted.
+Dialogue: 0,0:08:58.53,0:08:59.78,*Default,NTP,0000,0000,0000,,它们的生态已不起作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}None of their ecology will work,
+Dialogue: 0,0:08:59.83,0:09:02.70,*Default,NTP,0000,0000,0000,,因为它们将失去平常的传感信号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they won't have the usual sensing signals.
+Dialogue: 0,0:09:05.62,0:09:08.79,*Default,NTP,0000,0000,0000,,万众将遭受到粮食短缺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Millions of people would suffer from food shortages,
+Dialogue: 0,0:09:10.17,0:09:12.84,*Default,NTP,0000,0000,0000,,沿海经济将随着全球性的海洋生物的毁灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and coastal economies would be devastated
+Dialogue: 0,0:09:12.88,0:09:16.47,*Default,NTP,0000,0000,0000,,而遭灭顶之灾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the worldwide crash in marine life populations.
+Dialogue: 0,0:09:18.80,0:09:23.47,*Default,NTP,0000,0000,0000,,我将它比作是我们突然一朝醒来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I would liken it to one of us suddenly waking up one morning
+Dialogue: 0,0:09:23.52,0:09:26.35,*Default,NTP,0000,0000,0000,,发现我们变成了瞎子 聋子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and discovering we were blind or deaf.
+Dialogue: 0,0:09:27.19,0:09:28.81,*Default,NTP,0000,0000,0000,,那将是一派混乱的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would be a chaotic thing.
+Dialogue: 0,0:09:30.98,0:09:34.78,*Default,NTP,0000,0000,0000,,一颗没有月球的地球是一颗随波逐流的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An Earth without the Moon is a rudderless planet,
+Dialogue: 0,0:09:34.82,0:09:37.95,*Default,NTP,0000,0000,0000,,强调的就是这块大石头对维系生命在这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}highlighting just how critical this big rock is
+Dialogue: 0,0:09:37.99,0:09:39.66,*Default,NTP,0000,0000,0000,,是多么的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to sustaining life here.
+Dialogue: 0,0:09:43.41,0:09:47.33,*Default,NTP,0000,0000,0000,,我们太阳系里有150多颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are over 150 moons in our solar system,
+Dialogue: 0,0:09:47.37,0:09:50.33,*Default,NTP,0000,0000,0000,,但是地球的月球确实与众不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but Earth's Moon is truly unique.
+Dialogue: 0,0:09:51.38,0:09:55.38,*Default,NTP,0000,0000,0000,,我们的月球一点都不像太阳系里的其它卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Moon is unlike any of the other moons in the solar system.
+Dialogue: 0,0:09:55.42,0:09:57.63,*Default,NTP,0000,0000,0000,,它相比地球个头庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is huge compared to Earth.
+Dialogue: 0,0:09:57.68,0:10:00.59,*Default,NTP,0000,0000,0000,,它约是地球大小的四分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's about a quarter of the size of Earth,
+Dialogue: 0,0:10:00.64,0:10:03.35,*Default,NTP,0000,0000,0000,,是你在其他卫星所见不到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you don't see that in any of the other planets.
+Dialogue: 0,0:10:03.39,0:10:05.60,*Default,NTP,0000,0000,0000,,因为月球相对地球来说很大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because the Moon is so big relative to the Earth,
+Dialogue: 0,0:10:05.64,0:10:08.98,*Default,NTP,0000,0000,0000,,仿佛我们就是在一个双星系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's as if we are really in a double-planet system.
+Dialogue: 0,0:10:11.02,0:10:15.53,*Default,NTP,0000,0000,0000,,有一个粗略的方法来思考月球稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a crude way to think about the effect of the Moon
+Dialogue: 0,0:10:15.57,0:10:18.74,*Default,NTP,0000,0000,0000,,地球这根轴倾斜的作用的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stabilizing this axial tilt of the Earth.
+Dialogue: 0,0:10:18.78,0:10:22.70,*Default,NTP,0000,0000,0000,,你是否注意到走钢丝人手持这根长杆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you notice tightrope walkers will carry this long pole
+Dialogue: 0,0:10:22.74,0:10:24.16,*Default,NTP,0000,0000,0000,,那会给他们更多的稳定性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that gives them more stability,
+Dialogue: 0,0:10:24.20,0:10:25.62,*Default,NTP,0000,0000,0000,,因为质量在杆子的两头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because there's mass out there on the end of the pole,
+Dialogue: 0,0:10:25.66,0:10:28.37,*Default,NTP,0000,0000,0000,,这样就不易掉下钢丝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's harder to fall off the line.
+Dialogue: 0,0:10:28.41,0:10:31.58,*Default,NTP,0000,0000,0000,,同样的情况 质量隔上一段距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's that same kind of thing that the mass at a distance
+Dialogue: 0,0:10:31.63,0:10:33.96,*Default,NTP,0000,0000,0000,,可以影响到系统的稳定性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can affect the stability of the system.
+Dialogue: 0,0:10:35.34,0:10:38.80,*Default,NTP,0000,0000,0000,,不过月球并不是一直就在我们身边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the Moon has not always been by our side.
+Dialogue: 0,0:10:41.34,0:10:44.01,*Default,NTP,0000,0000,0000,,地球早期有过一段时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was a time early in Earth's history
+Dialogue: 0,0:10:44.06,0:10:45.72,*Default,NTP,0000,0000,0000,,当时并没有月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when there was no Moon,
+Dialogue: 0,0:10:46.52,0:10:51.02,*Default,NTP,0000,0000,0000,,一段时期里 我们的星球是个奇怪的地方每天8个小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a period when our planet was a strange place with eight-hour days
+Dialogue: 0,0:10:51.06,0:10:54.52,*Default,NTP,0000,0000,0000,,熔化的大地 生命无法忍受\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a molten landscape too harsh for life,
+Dialogue: 0,0:10:54.57,0:10:59.86,*Default,NTP,0000,0000,0000,,接着遭遇了其历史上最猛烈的撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then suffered the most violent collision in its history.
+Dialogue: 0,0:11:06.29,0:11:09.37,*Default,NTP,0000,0000,0000,,难以想象 但确实有过一段时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hard to imagine, but there was a time
+Dialogue: 0,0:11:09.41,0:11:12.08,*Default,NTP,0000,0000,0000,,我们的地球没有月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when our Earth did not have a Moon.
+Dialogue: 0,0:11:16.59,0:11:20.05,*Default,NTP,0000,0000,0000,,我们的星球形成于45亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our planet was formed 4 1/2 billion years ago
+Dialogue: 0,0:11:20.09,0:11:23.47,*Default,NTP,0000,0000,0000,,积聚并融合了我们不稳定的太阳系的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by accumulating and fusing large amounts of debris
+Dialogue: 0,0:11:23.51,0:11:26.51,*Default,NTP,0000,0000,0000,,早期阶段的大量碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the early stages of our volatile solar system.
+Dialogue: 0,0:11:29.93,0:11:32.94,*Default,NTP,0000,0000,0000,,在那个早期阶段 我们无月的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During that early period, our moonless Earth
+Dialogue: 0,0:11:32.98,0:11:35.81,*Default,NTP,0000,0000,0000,,翻腾着可怕的熔岩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was a monstrous stew of flowing lava,
+Dialogue: 0,0:11:35.86,0:11:38.44,*Default,NTP,0000,0000,0000,,熔化的岩石以及液态铁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}molten rock, and liquid iron.
+Dialogue: 0,0:11:39.99,0:11:46.03,*Default,NTP,0000,0000,0000,,其大气层里充满了地球深处喷出的二氧化碳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its atmosphere was filled with carbon dioxide belched from the bowels of the Earth,
+Dialogue: 0,0:11:46.08,0:11:49.45,*Default,NTP,0000,0000,0000,,稠密厚重 不适宜生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thick, heavy, and uninhabitable for life.
+Dialogue: 0,0:11:51.79,0:11:54.12,*Default,NTP,0000,0000,0000,,星球上光秃秃一片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was almost nothing on the planet.
+Dialogue: 0,0:11:55.38,0:11:58.09,*Default,NTP,0000,0000,0000,,那是一个讨厌的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This was a nasty place to be.
+Dialogue: 0,0:11:58.13,0:11:59.67,*Default,NTP,0000,0000,0000,,很多东西正在凝固\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lots of things were condensing.
+Dialogue: 0,0:11:59.71,0:12:05.47,*Default,NTP,0000,0000,0000,,那是一个充满敌意的地方 哪怕对岩石化学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was an extremely hostile place, even to rock chemistry.
+Dialogue: 0,0:12:07.01,0:12:08.81,*Default,NTP,0000,0000,0000,,岩石被熔化了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the rocks were melted.
+Dialogue: 0,0:12:08.85,0:12:10.18,*Default,NTP,0000,0000,0000,,一切都一团糟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everything was a mess.
+Dialogue: 0,0:12:14.65,0:12:17.02,*Default,NTP,0000,0000,0000,,我们最初的地球 没有自己的月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our original Earth, without its Moon,
+Dialogue: 0,0:12:17.06,0:12:19.32,*Default,NTP,0000,0000,0000,,是一个难以辨认的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was an unrecognizable world.
+Dialogue: 0,0:12:21.44,0:12:24.40,*Default,NTP,0000,0000,0000,,早期地球是一个炙热的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The early Earth was a really hot place.
+Dialogue: 0,0:12:24.45,0:12:28.41,*Default,NTP,0000,0000,0000,,事实上 地球的那个时期叫做冥古代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, that era of the Earth is called the Hadean,
+Dialogue: 0,0:12:28.45,0:12:32.50,*Default,NTP,0000,0000,0000,,就像是冥府地狱一般 因为温度实在是高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like Hades, because, well  because it was really hot.
+Dialogue: 0,0:12:34.33,0:12:36.58,*Default,NTP,0000,0000,0000,,有大量的火山活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was a tremendous amount of volcanism
+Dialogue: 0,0:12:36.63,0:12:39.50,*Default,NTP,0000,0000,0000,,有大量的撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a lot of impacts coming in.
+Dialogue: 0,0:12:39.55,0:12:41.96,*Default,NTP,0000,0000,0000,,或许有大量的闪电\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was probably a lot of lightning
+Dialogue: 0,0:12:42.01,0:12:46.59,*Default,NTP,0000,0000,0000,,排气分别来自火山和蒸汽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and out-gassing both from the volcanoes and from steam.
+Dialogue: 0,0:12:51.39,0:12:55.06,*Default,NTP,0000,0000,0000,,我们早期的太阳系的稳定性也好不到哪里去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The stability of our early solar system was not much better.
+Dialogue: 0,0:12:55.98,0:13:00.02,*Default,NTP,0000,0000,0000,,它打造出一个巨大的气体 碎片 尘埃盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was created out of a huge disk of gas, debris, and dust
+Dialogue: 0,0:13:00.07,0:13:02.65,*Default,NTP,0000,0000,0000,,盘旋在新生太阳的周围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that swirled around the newly formed Sun.
+Dialogue: 0,0:13:04.53,0:13:07.41,*Default,NTP,0000,0000,0000,,我们的早期太阳系就好象是一场轮滑比赛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our early solar system was kind of like a roller derby.
+Dialogue: 0,0:13:09.16,0:13:11.83,*Default,NTP,0000,0000,0000,,人人都朝着一个方向跑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everybody was generally going in the same direction,
+Dialogue: 0,0:13:11.87,0:13:13.54,*Default,NTP,0000,0000,0000,,但是一派混乱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but there was a lot of chaos.
+Dialogue: 0,0:13:14.87,0:13:16.71,*Default,NTP,0000,0000,0000,,有大量的挤碰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was a lot of clumping and accreting
+Dialogue: 0,0:13:16.75,0:13:18.08,*Default,NTP,0000,0000,0000,,物体被抛向内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and things getting flung to the inside
+Dialogue: 0,0:13:18.13,0:13:19.92,*Default,NTP,0000,0000,0000,,越线到外面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and crossing lanes to the outside.
+Dialogue: 0,0:13:21.09,0:13:23.76,*Default,NTP,0000,0000,0000,,人们相互挤在一起 跌倒在角落里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People all spilling over each other, mashing up in the corner.
+Dialogue: 0,0:13:23.80,0:13:25.05,*Default,NTP,0000,0000,0000,,真是乱作一团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a real mess.
+Dialogue: 0,0:13:30.76,0:13:33.01,*Default,NTP,0000,0000,0000,,没有月球 我们只能猜测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the Moon, we can only guess
+Dialogue: 0,0:13:33.06,0:13:36.18,*Default,NTP,0000,0000,0000,,地球早期的倾角和旋转速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at the Earth's early tilt and rotation rate.
+Dialogue: 0,0:13:36.23,0:13:39.27,*Default,NTP,0000,0000,0000,,可以通过那些横冲直撞在我们早期太阳系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would have been determined by the multiple glancing collisions
+Dialogue: 0,0:13:39.31,0:13:41.66,*Default,NTP,0000,0000,0000,,的小行星和原行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the innumerable asteroids and protoplanets 
+Dialogue: 0,0:13:41.66,0:13:45.19,*Default,NTP,0000,0000,0000,,多重随意的碰撞来得到确定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that ricocheted throughout our early solar system.
+Dialogue: 0,0:13:47.15,0:13:49.49,*Default,NTP,0000,0000,0000,,如果你来平均一下太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you kind of average over the solar system
+Dialogue: 0,0:13:49.53,0:13:51.70,*Default,NTP,0000,0000,0000,,来看一下所有的行星和大的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and look at all the planets and the big asteroids
+Dialogue: 0,0:13:51.74,0:13:54.04,*Default,NTP,0000,0000,0000,,做一个旋转速度的正态分布曲线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and make a bell curve of rotation speeds,
+Dialogue: 0,0:13:54.08,0:13:56.08,*Default,NTP,0000,0000,0000,,看上去好象典型的转速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it looks like the typical rotation speed
+Dialogue: 0,0:13:56.12,0:13:57.66,*Default,NTP,0000,0000,0000,,可能就是8个小时 就是那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might be eight hours, something like that.
+Dialogue: 0,0:13:57.71,0:13:59.71,*Default,NTP,0000,0000,0000,,所以我们可以做出猜测 那有可能就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we could make a guess that that might have been
+Dialogue: 0,0:13:59.75,0:14:03.25,*Default,NTP,0000,0000,0000,,月球形成之前的旋转速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the likely rotation speed before the Moon was formed.
+Dialogue: 0,0:14:06.26,0:14:11.43,*Default,NTP,0000,0000,0000,,接着 在无月地球开始成形的1000万年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then, about 10 million years after our moonless Earth began taking shape,
+Dialogue: 0,0:14:11.47,0:14:13.43,*Default,NTP,0000,0000,0000,,发生了一次巨大的撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there was a massive collision.
+Dialogue: 0,0:14:14.85,0:14:17.35,*Default,NTP,0000,0000,0000,,现在天文学家已普遍接受\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now widely accepted by astronomers,
+Dialogue: 0,0:14:17.39,0:14:21.02,*Default,NTP,0000,0000,0000,,大碰撞说称 一颗火星大小的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Giant Impact Theory says that a Mars-sized planet
+Dialogue: 0,0:14:21.06,0:14:25.82,*Default,NTP,0000,0000,0000,,以时速2 5万英里以一个斜角撞上地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}collided at an oblique angle at 25,000 miles per hour with Earth.
+Dialogue: 0,0:14:27.40,0:14:33.07,*Default,NTP,0000,0000,0000,,撞击者把地球七成以上的熔岩地壳撞进了太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The impactor blasted more than 70% of the Earth's molten crust into space.
+Dialogue: 0,0:14:33.12,0:14:34.91,*Default,NTP,0000,0000,0000,,一条巨大的旋臂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A giant whirling arm,
+Dialogue: 0,0:14:34.95,0:14:39.41,*Default,NTP,0000,0000,0000,,由50亿立方英里的炽热的岩石和轻金属构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}made up of 5 billion cubic miles of blazing rock and light metals,
+Dialogue: 0,0:14:39.46,0:14:41.96,*Default,NTP,0000,0000,0000,,被射入了围绕我们星球的轨道上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was launched into orbit around our planet.
+Dialogue: 0,0:14:44.21,0:14:48.46,*Default,NTP,0000,0000,0000,,大块的重力开始把较小粒子拉向自己\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gravity of the larger chunks began pulling smaller particles towards them.
+Dialogue: 0,0:14:50.38,0:14:54.22,*Default,NTP,0000,0000,0000,,一年时间里 就凝结成了我们的月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within one year, it coalesced into our Moon.
+Dialogue: 0,0:14:58.23,0:15:01.31,*Default,NTP,0000,0000,0000,,唯一从地球上炸出去的材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The only materials that were blown out from the Earth
+Dialogue: 0,0:15:01.35,0:15:02.65,*Default,NTP,0000,0000,0000,,是地壳岩石材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were the crustal rocky material.
+Dialogue: 0,0:15:02.69,0:15:04.56,*Default,NTP,0000,0000,0000,,那就是月球的成分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's what the Moon's made out of.
+Dialogue: 0,0:15:04.61,0:15:08.40,*Default,NTP,0000,0000,0000,,事实上 如果你去到太阳系里任何一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, if you go to any other place in the solar system,
+Dialogue: 0,0:15:08.44,0:15:09.61,*Default,NTP,0000,0000,0000,,比如 火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for example, Mars,
+Dialogue: 0,0:15:09.65,0:15:13.11,*Default,NTP,0000,0000,0000,,或者你看一下来自小行星带里的陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or you look at meteorites that come from the asteroid belt,
+Dialogue: 0,0:15:13.16,0:15:18.24,*Default,NTP,0000,0000,0000,,都含有一定比例的不同类型的氧气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are certain ratios of the different types of oxygen.
+Dialogue: 0,0:15:18.29,0:15:20.96,*Default,NTP,0000,0000,0000,,太阳系里其他地方的那种比例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That ratio in other parts of the solar system
+Dialogue: 0,0:15:21.00,0:15:24.46,*Default,NTP,0000,0000,0000,,完全不同于我们在地球上所看到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is very different than what we see in the Earth.
+Dialogue: 0,0:15:24.50,0:15:25.63,*Default,NTP,0000,0000,0000,,现在我们飞往月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now we fly to the Moon,
+Dialogue: 0,0:15:25.67,0:15:27.42,*Default,NTP,0000,0000,0000,,拿到月球岩石 将其带回来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we get the Moon rocks, we bring them back.
+Dialogue: 0,0:15:27.46,0:15:31.55,*Default,NTP,0000,0000,0000,,它们具有与地球上完全一样的氧同位素比例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They have exactly the same oxygen-isotope ratio as the Earth.
+Dialogue: 0,0:15:31.59,0:15:34.47,*Default,NTP,0000,0000,0000,,因此 材料出自地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that material came out of the Earth,
+Dialogue: 0,0:15:34.51,0:15:37.26,*Default,NTP,0000,0000,0000,,符合这个碰撞说的概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that fits this idea of an impact theory.
+Dialogue: 0,0:15:41.35,0:15:43.81,*Default,NTP,0000,0000,0000,,大碰撞所释放的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The energy released in the giant collision
+Dialogue: 0,0:15:43.85,0:15:47.69,*Default,NTP,0000,0000,0000,,等于6万亿个原子弹的当量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}equaled a force of six trillion atomic bombs.
+Dialogue: 0,0:15:49.78,0:15:52.82,*Default,NTP,0000,0000,0000,,也就是目前地球人口60亿人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's a thousand atom bombs for every person
+Dialogue: 0,0:15:52.86,0:15:55.99,*Default,NTP,0000,0000,0000,,每人1000个原子弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in Earth's current population of six billion people.
+Dialogue: 0,0:16:01.83,0:16:04.12,*Default,NTP,0000,0000,0000,,打击地球的撞击行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The impactor planet that hit Earth
+Dialogue: 0,0:16:04.17,0:16:06.92,*Default,NTP,0000,0000,0000,,被认为是形成于我们太阳系里的一个区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was thought to have formed in an area of our solar system
+Dialogue: 0,0:16:06.96,0:16:09.21,*Default,NTP,0000,0000,0000,,叫做拉格朗日点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called the Lagrangian points.
+Dialogue: 0,0:16:10.21,0:16:15.76,*Default,NTP,0000,0000,0000,,那是地球前后分别60度的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are regions 60 degrees either ahead of or behind the Earth,
+Dialogue: 0,0:16:15.80,0:16:17.64,*Default,NTP,0000,0000,0000,,然而是在距离太阳相近的位置上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but at a similar distance from the Sun.
+Dialogue: 0,0:16:19.18,0:16:21.85,*Default,NTP,0000,0000,0000,,碎片可以逗留在拉格朗日点上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Debris can stay fixed in the Lagrangian points
+Dialogue: 0,0:16:21.89,0:16:24.60,*Default,NTP,0000,0000,0000,,数千万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for tens of millions of years,
+Dialogue: 0,0:16:24.65,0:16:28.52,*Default,NTP,0000,0000,0000,,被牢牢控制在日地之间的引力中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}locked between the gravitational influence of the Sun and Earth.
+Dialogue: 0,0:16:29.32,0:16:34.11,*Default,NTP,0000,0000,0000,,但是最终 有东西将撞击者击出了它固定的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, eventually, something knocked the impactor off its fixed course.
+Dialogue: 0,0:16:34.15,0:16:36.74,*Default,NTP,0000,0000,0000,,那东西就是木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That something was Jupiter.
+Dialogue: 0,0:16:37.70,0:16:40.49,*Default,NTP,0000,0000,0000,,每次木星在其轨道上经过我们时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every time Jupiter passed by us in its orbit,
+Dialogue: 0,0:16:40.54,0:16:44.25,*Default,NTP,0000,0000,0000,,都会给这颗撞击行星施加一点小拉扯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be giving a little tug to this impactor planet.
+Dialogue: 0,0:16:44.29,0:16:47.21,*Default,NTP,0000,0000,0000,,每次小拉扯都不会很大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And each little tug wouldn't be very big.
+Dialogue: 0,0:16:47.25,0:16:49.54,*Default,NTP,0000,0000,0000,,不过你不妨想一想 举个例子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if you think about, for example,
+Dialogue: 0,0:16:49.59,0:16:53.55,*Default,NTP,0000,0000,0000,,有一辆车被陷在沟渠里或陷在雪堆里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}having a car that's stuck in a ditch or stuck in a snow bank,
+Dialogue: 0,0:16:53.59,0:16:56.13,*Default,NTP,0000,0000,0000,,你又是如何将车弄出雪堆的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how do you get that car out of the snow bank?
+Dialogue: 0,0:16:56.18,0:16:58.51,*Default,NTP,0000,0000,0000,,对 你的办法就是来回推动车子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, the way you do it is you rock the car.
+Dialogue: 0,0:16:58.55,0:17:00.56,*Default,NTP,0000,0000,0000,,你推它一点点 它就回来一点点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You push it a little bit, it comes back,
+Dialogue: 0,0:17:00.60,0:17:03.18,*Default,NTP,0000,0000,0000,,推它越多一点 它就回来越远一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}push a little bit more, it comes back a little farther,
+Dialogue: 0,0:17:03.23,0:17:05.60,*Default,NTP,0000,0000,0000,,这样 随着雪堆的一点点推开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this way, with a bunch of little pushes,
+Dialogue: 0,0:17:05.64,0:17:07.15,*Default,NTP,0000,0000,0000,,你最终释放了它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you eventually free it,
+Dialogue: 0,0:17:07.19,0:17:10.90,*Default,NTP,0000,0000,0000,,那正是木星对这颗撞击行星所干的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's exactly what Jupiter did to this impactor planet.
+Dialogue: 0,0:17:10.94,0:17:12.82,*Default,NTP,0000,0000,0000,,一旦它脱离了拉格朗日点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And once it gets away from the Lagrange point,
+Dialogue: 0,0:17:12.86,0:17:14.90,*Default,NTP,0000,0000,0000,,它就不安分了 劫数已定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's no longer stable, and it's doomed.
+Dialogue: 0,0:17:14.95,0:17:17.28,*Default,NTP,0000,0000,0000,,它注定要撞上地球了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's eventually going to collide with Earth.
+Dialogue: 0,0:17:20.45,0:17:22.41,*Default,NTP,0000,0000,0000,,经历了大灾变后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After the giant cataclysm,
+Dialogue: 0,0:17:22.45,0:17:25.46,*Default,NTP,0000,0000,0000,,喷射碎片的旋臂内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the inner part of the whirling arm of ejected debris
+Dialogue: 0,0:17:25.50,0:17:30.84,*Default,NTP,0000,0000,0000,,形成了一个大块头 含有来自撞击者铁核的材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}forms a clump that consists of materials from the impactor's iron core.
+Dialogue: 0,0:17:30.88,0:17:33.67,*Default,NTP,0000,0000,0000,,那个大块头重新撞上地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That heavier clump recollides with Earth
+Dialogue: 0,0:17:33.71,0:17:36.47,*Default,NTP,0000,0000,0000,,被吸纳进了我们星球的核心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and is absorbed into our planet's center.
+Dialogue: 0,0:17:37.89,0:17:41.43,*Default,NTP,0000,0000,0000,,大撞击确实是地球有史以来所发生的最大的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The giant impact was really the biggest thing that ever happened to Earth.
+Dialogue: 0,0:17:43.39,0:17:46.02,*Default,NTP,0000,0000,0000,,我们现在有了一个核心再加半个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we have now is a core and a half.
+Dialogue: 0,0:17:46.06,0:17:48.02,*Default,NTP,0000,0000,0000,,那就使得我们的星球的密度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That makes our planet denser
+Dialogue: 0,0:17:48.06,0:17:50.86,*Default,NTP,0000,0000,0000,,和我们的重力更大更强于要是没有撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and our gravity stronger than it would be otherwise.
+Dialogue: 0,0:17:53.78,0:17:56.74,*Default,NTP,0000,0000,0000,,更大的熔核所需的冷却时间要长过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The larger molten core takes longer to cool
+Dialogue: 0,0:17:56.78,0:17:59.24,*Default,NTP,0000,0000,0000,,地球原始核心的冷却时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the Earth's original core would have.
+Dialogue: 0,0:18:00.12,0:18:02.53,*Default,NTP,0000,0000,0000,,热量源源不断地推高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Heat is constantly pushed up and through
+Dialogue: 0,0:18:02.58,0:18:05.58,*Default,NTP,0000,0000,0000,,并透过薄薄的地壳 创造出裂缝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the thin crust of the Earth, creating fissures.
+Dialogue: 0,0:18:09.96,0:18:12.46,*Default,NTP,0000,0000,0000,,或许就是这个更大的核心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's possible that this larger core
+Dialogue: 0,0:18:12.50,0:18:15.30,*Default,NTP,0000,0000,0000,,帮助打造了持续的板块构造系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}helped create the sustained plate tectonic system
+Dialogue: 0,0:18:15.34,0:18:17.22,*Default,NTP,0000,0000,0000,,形成了我们的陆地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that formed our continents,
+Dialogue: 0,0:18:17.26,0:18:20.47,*Default,NTP,0000,0000,0000,,我们太阳系里的一个独特的行星特征\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a unique planetary feature in our solar system.
+Dialogue: 0,0:18:21.76,0:18:23.85,*Default,NTP,0000,0000,0000,,作为例子 火星要小许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As an example, Mars was much smaller.
+Dialogue: 0,0:18:23.89,0:18:28.68,*Default,NTP,0000,0000,0000,,它冷却地较快 所以它就没有地壳板块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It cooled much quicker, and so it has no crustal plates.
+Dialogue: 0,0:18:31.73,0:18:34.48,*Default,NTP,0000,0000,0000,,最为关键的是 撞击将地球撞到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most critically, the collision knocks the Earth
+Dialogue: 0,0:18:34.53,0:18:38.44,*Default,NTP,0000,0000,0000,,其目前的地轴倾角23 5度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}onto its current axial tilt of 23 1/2 degrees
+Dialogue: 0,0:18:38.49,0:18:42.78,*Default,NTP,0000,0000,0000,,并将其转速从8小时加速到了5个小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and speeds up its rotation from eight hours to just five hours.
+Dialogue: 0,0:18:45.79,0:18:51.54,*Default,NTP,0000,0000,0000,,不到一年时间 月球形成在距离地球约1 4万英里处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within a year, the Moon forms roughly 14,000 miles away from Earth,
+Dialogue: 0,0:18:51.58,0:18:57.67,*Default,NTP,0000,0000,0000,,距离之近 大大超过了它目前的23 4万英里的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}significantly closer than its current distance of 234,000 miles.
+Dialogue: 0,0:18:57.71,0:19:00.30,*Default,NTP,0000,0000,0000,,你会看到这个巨大的月球高挂空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You've got this immense Moon in the sky,
+Dialogue: 0,0:19:00.34,0:19:02.93,*Default,NTP,0000,0000,0000,,是目前月球的15倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}15 times as big as the present Moon.
+Dialogue: 0,0:19:02.97,0:19:09.35,*Default,NTP,0000,0000,0000,,所以想想这玩意缓缓升起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So think about this thing rising and rising and rising
+Dialogue: 0,0:19:09.39,0:19:14.11,*Default,NTP,0000,0000,0000,,直到它占去了很大的一块夜空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until it fills up a pretty big chunk of that evening sky,
+Dialogue: 0,0:19:14.15,0:19:19.19,*Default,NTP,0000,0000,0000,,可以想象到它是彤红的 因为熔岩布满了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and imagine it being red because it's full of this molten lava
+Dialogue: 0,0:19:19.24,0:19:20.40,*Default,NTP,0000,0000,0000,,它的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}around the surface.
+Dialogue: 0,0:19:20.45,0:19:24.24,*Default,NTP,0000,0000,0000,,想象它笼罩在你的头顶上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And imagine that looming over your head.
+Dialogue: 0,0:19:24.28,0:19:26.66,*Default,NTP,0000,0000,0000,,真是难以想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's mind-boggling.
+Dialogue: 0,0:19:29.12,0:19:31.91,*Default,NTP,0000,0000,0000,,早期月球对地球的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The early Moon's gravitational pull on Earth
+Dialogue: 0,0:19:31.96,0:19:35.79,*Default,NTP,0000,0000,0000,,大约要比现在强200倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is roughly 200 times stronger than today
+Dialogue: 0,0:19:35.84,0:19:37.92,*Default,NTP,0000,0000,0000,,因为它的距离要近好多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because of its much closer distance.
+Dialogue: 0,0:19:38.71,0:19:40.63,*Default,NTP,0000,0000,0000,,尽管尚未出现海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Though no oceans exist yet,
+Dialogue: 0,0:19:40.67,0:19:45.05,*Default,NTP,0000,0000,0000,,但是月球的潮汐力要强上3400倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the lunar tidal forces are 3,400 times more powerful.
+Dialogue: 0,0:19:46.35,0:19:49.52,*Default,NTP,0000,0000,0000,,它们抬起和落下巨大的熔岩地壳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They lift and drop large crusts of molten rock
+Dialogue: 0,0:19:49.56,0:19:52.89,*Default,NTP,0000,0000,0000,,超过半英里之高 一天两回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to more than half a mile high twice a day.
+Dialogue: 0,0:19:56.57,0:20:01.74,*Default,NTP,0000,0000,0000,,我们早期地轴的倾斜稳定得益于月球的形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our early planet's axial tilt stabilizes due to the Moon's formation,
+Dialogue: 0,0:20:01.78,0:20:04.32,*Default,NTP,0000,0000,0000,,其质量充当了一个锚具\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and its mass acts as an anchor.
+Dialogue: 0,0:20:05.49,0:20:07.62,*Default,NTP,0000,0000,0000,,但是地球的旋转开始放慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the Earth's spin begins slowing,
+Dialogue: 0,0:20:07.66,0:20:10.45,*Default,NTP,0000,0000,0000,,因为月球的引力创造了一个潮汐隆起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the Moon's gravitation creates a tidal bulge
+Dialogue: 0,0:20:10.50,0:20:12.91,*Default,NTP,0000,0000,0000,,围绕着我们星球的中部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}around our planet's mid-section,
+Dialogue: 0,0:20:12.96,0:20:15.42,*Default,NTP,0000,0000,0000,,对地球自转产生了阻力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}causing a drag on the Earth's rotation.
+Dialogue: 0,0:20:16.75,0:20:20.21,*Default,NTP,0000,0000,0000,,把地球看作是这个绿色的气球 这个是月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let the Earth be this green balloon, and here's the Moon.
+Dialogue: 0,0:20:20.26,0:20:21.96,*Default,NTP,0000,0000,0000,,如果地球没有自转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Earth weren't rotating,
+Dialogue: 0,0:20:22.01,0:20:25.59,*Default,NTP,0000,0000,0000,,潮汐隆起就会直接对准月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the tidal bulge would point directly toward the Moon.
+Dialogue: 0,0:20:25.64,0:20:28.14,*Default,NTP,0000,0000,0000,,然而地球转动相当的快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the Earth is rotating pretty quickly,
+Dialogue: 0,0:20:28.18,0:20:32.43,*Default,NTP,0000,0000,0000,,因此事实上 潮汐隆起会有一点点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so, in fact, the tidal bulge tends to be a little bit ahead
+Dialogue: 0,0:20:32.48,0:20:34.73,*Default,NTP,0000,0000,0000,,对准月球的趋势\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the direction toward the Moon.
+Dialogue: 0,0:20:34.77,0:20:36.40,*Default,NTP,0000,0000,0000,,这意味着月球的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means the Moon's gravity
+Dialogue: 0,0:20:36.44,0:20:40.78,*Default,NTP,0000,0000,0000,,把地球的隆起拉回了一点点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is pulling back on the Earth's bulge a little bit,
+Dialogue: 0,0:20:40.82,0:20:44.65,*Default,NTP,0000,0000,0000,,稍稍减缓了它的自转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}retarding its rotation ever so slightly.
+Dialogue: 0,0:20:46.95,0:20:48.57,*Default,NTP,0000,0000,0000,,但是地球上的潮汐隆起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the tidal bulge on Earth
+Dialogue: 0,0:20:48.62,0:20:51.49,*Default,NTP,0000,0000,0000,,也会对月球有一个反作用力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}also has a reactive force on the Moon.
+Dialogue: 0,0:20:52.66,0:20:56.17,*Default,NTP,0000,0000,0000,,这个潮汐隆起会拽着月球沿着轨道往前跑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This tidal bulge pulls the Moon ahead in its orbit.
+Dialogue: 0,0:20:56.21,0:20:58.63,*Default,NTP,0000,0000,0000,,它不断地试图拖着月球跑得更快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's constantly trying to tug the Moon faster,
+Dialogue: 0,0:20:58.67,0:21:01.21,*Default,NTP,0000,0000,0000,,但是月球不想在自己的轨道上跑得更快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the Moon doesn't want to go faster in its orbit.
+Dialogue: 0,0:21:01.26,0:21:02.42,*Default,NTP,0000,0000,0000,,结果却是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead what happens,
+Dialogue: 0,0:21:02.46,0:21:05.84,*Default,NTP,0000,0000,0000,,你不妨设想投掷一个弹弓 飞速地旋转它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you imagine throwing a slingshot and swinging it faster,
+Dialogue: 0,0:21:05.88,0:21:07.55,*Default,NTP,0000,0000,0000,,它就会飞出去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it wants to go out.
+Dialogue: 0,0:21:07.59,0:21:08.93,*Default,NTP,0000,0000,0000,,那就是月球的情形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's what the Moon does.
+Dialogue: 0,0:21:08.97,0:21:12.52,*Default,NTP,0000,0000,0000,,它向外跑出去 因为它在轨道上被拖得越来越快了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It goes outward because it's being tugged faster in its orbit.
+Dialogue: 0,0:21:12.56,0:21:14.77,*Default,NTP,0000,0000,0000,,所以日积月累\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So gradually over the years,
+Dialogue: 0,0:21:14.81,0:21:17.48,*Default,NTP,0000,0000,0000,,月球跑得越来越远了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon is moving farther and farther out.
+Dialogue: 0,0:21:20.02,0:21:23.69,*Default,NTP,0000,0000,0000,,两个伙伴之间复杂的引力舞蹈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The complex gravitational dance between the two partners
+Dialogue: 0,0:21:23.74,0:21:26.15,*Default,NTP,0000,0000,0000,,现在正将月球推离地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is now pushing the Moon away from Earth
+Dialogue: 0,0:21:26.20,0:21:28.86,*Default,NTP,0000,0000,0000,,速度是每年1 5英寸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a rate of 1.5 inches per year.
+Dialogue: 0,0:21:29.20,0:21:30.70,*Default,NTP,0000,0000,0000,,经过了数十亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over billions of years,
+Dialogue: 0,0:21:30.74,0:21:33.79,*Default,NTP,0000,0000,0000,,月球的后退已经减缓了地球的自转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon's recession has slowed the Earth's rotation
+Dialogue: 0,0:21:33.83,0:21:37.58,*Default,NTP,0000,0000,0000,,从昼夜5小时到如今的昼夜24小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from 5-hour days to our 24-hour day today.
+Dialogue: 0,0:21:39.50,0:21:42.04,*Default,NTP,0000,0000,0000,,这个地球自转受到月球影响的整个概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The whole idea of this rotation of the Earth
+Dialogue: 0,0:21:42.09,0:21:46.30,*Default,NTP,0000,0000,0000,,有点像是你看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}being influenced by the Moon is a little bit like what you see
+Dialogue: 0,0:21:46.34,0:21:48.26,*Default,NTP,0000,0000,0000,,花样滑冰运动员在旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when a figure skater is spinning
+Dialogue: 0,0:21:48.30,0:21:51.55,*Default,NTP,0000,0000,0000,,她收拢手臂旋转时 旋转加快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and when she pulls her arms in close and spins, she spins faster,
+Dialogue: 0,0:21:52.85,0:21:55.73,*Default,NTP,0000,0000,0000,,她舒展手臂就会慢下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and she throws her arms out to slow down.
+Dialogue: 0,0:21:55.77,0:21:59.06,*Default,NTP,0000,0000,0000,,这就是物理学上所说的角动量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this is all what the physicist would call angular momentum.
+Dialogue: 0,0:21:59.10,0:22:01.02,*Default,NTP,0000,0000,0000,,但是这也是月球往外跑的同样的道理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's the same idea as the Moon moved out.
+Dialogue: 0,0:22:01.06,0:22:02.86,*Default,NTP,0000,0000,0000,,有点像把手臂展开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's kinda like throwing those arms out,
+Dialogue: 0,0:22:02.90,0:22:06.61,*Default,NTP,0000,0000,0000,,放慢了整个系统的旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that slows down the rotation in the whole system.
+Dialogue: 0,0:22:10.41,0:22:13.99,*Default,NTP,0000,0000,0000,,但是要是大撞击未发生又将怎样呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what if the giant impact had never happened?
+Dialogue: 0,0:22:14.04,0:22:16.70,*Default,NTP,0000,0000,0000,,地球的变化的急剧将远超过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The changes to Earth would be even more drastic
+Dialogue: 0,0:22:16.75,0:22:19.08,*Default,NTP,0000,0000,0000,,如果月球现在突然消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than if the Moon now suddenly disappeared.
+Dialogue: 0,0:22:20.88,0:22:25.46,*Default,NTP,0000,0000,0000,,现在 我们是否会认可一个从来就没有过月球的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today, would we recognize an Earth that never had a Moon,
+Dialogue: 0,0:22:25.51,0:22:27.59,*Default,NTP,0000,0000,0000,,会有人类存在吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and would humans even exist?
+Dialogue: 0,0:22:37.27,0:22:39.81,*Default,NTP,0000,0000,0000,,如果月球瞬间消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Moon disappeared instantly,
+Dialogue: 0,0:22:39.85,0:22:44.23,*Default,NTP,0000,0000,0000,,地球所经受的变化可能会有海啸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth would undergo changes like possible tsunamis,
+Dialogue: 0,0:22:44.27,0:22:48.78,*Default,NTP,0000,0000,0000,,洋流的改变 海洋生物的灭绝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a shift in ocean currents, sea life extinctions,
+Dialogue: 0,0:22:48.82,0:22:51.45,*Default,NTP,0000,0000,0000,,最终大规模的气候波动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventual massive climate swings.
+Dialogue: 0,0:22:52.66,0:22:54.70,*Default,NTP,0000,0000,0000,,但要是月球从未出现过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if the Moon had never existed,
+Dialogue: 0,0:22:54.74,0:22:58.29,*Default,NTP,0000,0000,0000,,地球将会是现在谁都认不出来的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth would be unrecognizable to anyone today.
+Dialogue: 0,0:22:59.66,0:23:03.33,*Default,NTP,0000,0000,0000,,没有月球 地球生命或将全然不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the Moon, life on Earth would probably look quite different.
+Dialogue: 0,0:23:03.38,0:23:07.96,*Default,NTP,0000,0000,0000,,尤其是 人类将可能永远不会问世\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In particular, humans might well never have come into existence.
+Dialogue: 0,0:23:13.30,0:23:19.77,*Default,NTP,0000,0000,0000,,在45亿年前无月的地球形成的1 5亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About 150 million years after a moonless Earth forms 4.5 billion years ago,
+Dialogue: 0,0:23:19.81,0:23:23.48,*Default,NTP,0000,0000,0000,,它走出了炽热的熔化阶段 开始冷却\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it moves out of its hot, molten phase and begins cooling.
+Dialogue: 0,0:23:24.15,0:23:27.32,*Default,NTP,0000,0000,0000,,昼夜只有8小时长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The day is only about eight hours long.
+Dialogue: 0,0:23:27.36,0:23:29.24,*Default,NTP,0000,0000,0000,,如果我们处于8小时的自转周期里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we had an eight-hour rotation period,
+Dialogue: 0,0:23:29.28,0:23:31.86,*Default,NTP,0000,0000,0000,,我们就会有4小时白昼 4小时夜晚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'd have four hours of daylight, four hours of night,
+Dialogue: 0,0:23:31.91,0:23:35.28,*Default,NTP,0000,0000,0000,,夜晚将漆黑一团 如果我们没有月球的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and nights would be totally black if we don't have a Moon.
+Dialogue: 0,0:23:36.33,0:23:40.83,*Default,NTP,0000,0000,0000,,一旦冷却了 我们的星球将温暖到足以保留住水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once cooled, our planet is temperate enough to retain water.
+Dialogue: 0,0:23:40.87,0:23:42.71,*Default,NTP,0000,0000,0000,,地核泄漏的热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Heat escaping from Earth's core
+Dialogue: 0,0:23:42.75,0:23:46.17,*Default,NTP,0000,0000,0000,,将蒸汽和二氧化碳赶出地表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}drives steam and carbon dioxide beyond the surface,
+Dialogue: 0,0:23:46.21,0:23:48.34,*Default,NTP,0000,0000,0000,,逐步形成了稠密的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creating a thick atmosphere.
+Dialogue: 0,0:23:49.55,0:23:52.22,*Default,NTP,0000,0000,0000,,经过了一段时间 N多N多年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over a period of time, many, many, many, many years,
+Dialogue: 0,0:23:52.26,0:23:54.80,*Default,NTP,0000,0000,0000,,整个大气层就会塌缩回来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all that atmosphere would have kind of collapsed back out,
+Dialogue: 0,0:23:54.85,0:23:55.93,*Default,NTP,0000,0000,0000,,于是 随着它的冷却\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, as it cooled,
+Dialogue: 0,0:23:55.97,0:23:58.68,*Default,NTP,0000,0000,0000,,海洋就诞生于疾风暴雨中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the oceans would have formed in torrential rainstorms.
+Dialogue: 0,0:24:01.23,0:24:04.65,*Default,NTP,0000,0000,0000,,冰态小行星持续不断地猛击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Icy asteroids continually pummel the planet,
+Dialogue: 0,0:24:04.69,0:24:07.02,*Default,NTP,0000,0000,0000,,带来了又一个大水源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}bringing in another large source of water.
+Dialogue: 0,0:24:08.53,0:24:13.86,*Default,NTP,0000,0000,0000,,较小较冷的熔核 是没有可能板块构造的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With a smaller, cooler molten core, there are probably no plate tectonics,
+Dialogue: 0,0:24:13.91,0:24:17.66,*Default,NTP,0000,0000,0000,,因而 也就没有大山和巨大的海洋盆地的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and therefore, no large mountains and huge ocean basins.
+Dialogue: 0,0:24:18.79,0:24:22.54,*Default,NTP,0000,0000,0000,,水很快就就会覆盖星球大部分较为单调的地表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Water soon covers most of the planet's more uniform crust.
+Dialogue: 0,0:24:23.71,0:24:27.88,*Default,NTP,0000,0000,0000,,我们当然会看到比现在高的海平面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We certainly would have a higher sea level than we have today,
+Dialogue: 0,0:24:27.92,0:24:29.96,*Default,NTP,0000,0000,0000,,陆地很少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}less continental area,
+Dialogue: 0,0:24:30.01,0:24:31.38,*Default,NTP,0000,0000,0000,,那是个别样的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that would be a different world.
+Dialogue: 0,0:24:31.42,0:24:33.76,*Default,NTP,0000,0000,0000,,我们的蓝色星球更加蔚蓝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our blue marble would be even bluer.
+Dialogue: 0,0:24:35.47,0:24:38.01,*Default,NTP,0000,0000,0000,,讽刺的是 尽管是那个水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ironically, even with all that water,
+Dialogue: 0,0:24:38.05,0:24:41.35,*Default,NTP,0000,0000,0000,,早期无月的地球也会有一些不大的潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the early moonless Earth would have smaller tides.
+Dialogue: 0,0:24:42.81,0:24:45.85,*Default,NTP,0000,0000,0000,,只是受制于太阳的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Determined only by the gravitation of the Sun,
+Dialogue: 0,0:24:45.90,0:24:49.57,*Default,NTP,0000,0000,0000,,它们只有我们现在潮汐的三分之一的规模\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they would be just 1/3 the size of our current tides.
+Dialogue: 0,0:24:50.82,0:24:52.78,*Default,NTP,0000,0000,0000,,潮涨潮落之间的范围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The range between high and low tide
+Dialogue: 0,0:24:52.82,0:24:55.36,*Default,NTP,0000,0000,0000,,全年保持不变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would remain constant throughout the year
+Dialogue: 0,0:24:55.41,0:24:58.95,*Default,NTP,0000,0000,0000,,会发生在每天的同一时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and would occur at exactly the same time each day.
+Dialogue: 0,0:25:01.75,0:25:05.41,*Default,NTP,0000,0000,0000,,那意味着潮间带一直很窄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means the intertidal regions would have been narrower,
+Dialogue: 0,0:25:05.46,0:25:09.54,*Default,NTP,0000,0000,0000,,几乎肯定会导致生命很少有变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}probably leading to less diversification of life
+Dialogue: 0,0:25:09.59,0:25:16.34,*Default,NTP,0000,0000,0000,,甚至会阻碍生命从海洋到陆地的进程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and perhaps even impeding the progress of life from the oceans to the land,
+Dialogue: 0,0:25:16.38,0:25:18.89,*Default,NTP,0000,0000,0000,,因为就是在潮间带里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's in the intertidal regions
+Dialogue: 0,0:25:18.93,0:25:25.06,*Default,NTP,0000,0000,0000,,生物才得以进化为能够同时生存在水陆之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where creatures had to develop the ability to survive both in the water and on land.
+Dialogue: 0,0:25:26.31,0:25:29.36,*Default,NTP,0000,0000,0000,,由于昼夜8个小时 - 就4个小时有光线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With an eight-hour day-- just four hours of light
+Dialogue: 0,0:25:29.40,0:25:32.07,*Default,NTP,0000,0000,0000,,接着就是4小时的漆黑一团 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}followed by four hours of moonless black--
+Dialogue: 0,0:25:32.11,0:25:36.78,*Default,NTP,0000,0000,0000,,早期地球的自转快于今天3倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the early Earth spins three times faster than today.
+Dialogue: 0,0:25:36.82,0:25:40.95,*Default,NTP,0000,0000,0000,,狂风怒吼 是因为地球快速旋转的空气动力学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The winds howl, due to the aerodynamics of Earth's quicker rotation.
+Dialogue: 0,0:25:42.95,0:25:47.37,*Default,NTP,0000,0000,0000,,木星 就是一例 是一颗飞速旋转的巨大行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter, for example, is a giant planet that spins very rapidly.
+Dialogue: 0,0:25:47.42,0:25:50.17,*Default,NTP,0000,0000,0000,,它具有10小时的自转周期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It has a 10-hour spin period,
+Dialogue: 0,0:25:50.21,0:25:53.63,*Default,NTP,0000,0000,0000,,其大气层上部狂风肆孽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's got ferocious winds in its upper atmosphere,
+Dialogue: 0,0:25:53.67,0:25:55.42,*Default,NTP,0000,0000,0000,,时速数百英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hundreds of miles an hour,
+Dialogue: 0,0:25:55.47,0:25:58.13,*Default,NTP,0000,0000,0000,,大红斑那样的惊人的风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and incredible storms like the Great Red Spot,
+Dialogue: 0,0:25:58.18,0:26:00.18,*Default,NTP,0000,0000,0000,,已存在了几个世纪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which has been around for centuries.
+Dialogue: 0,0:26:00.93,0:26:04.31,*Default,NTP,0000,0000,0000,,地球或许比现在旋转得更快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, Earth probably would be spinning more rapidly than it is now,
+Dialogue: 0,0:26:04.35,0:26:07.56,*Default,NTP,0000,0000,0000,,通常会引起强风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that would generally lead to stronger winds
+Dialogue: 0,0:26:07.60,0:26:10.35,*Default,NTP,0000,0000,0000,,更加猛烈的飓风和其它风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and more violent hurricanes and other storms.
+Dialogue: 0,0:26:13.61,0:26:17.82,*Default,NTP,0000,0000,0000,,早期地球快速旋转导致了另一个重大的副作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Early Earth's fast spin results in another important side effect.
+Dialogue: 0,0:26:19.82,0:26:21.41,*Default,NTP,0000,0000,0000,,地核的旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rotation of Earth's core,
+Dialogue: 0,0:26:21.45,0:26:23.91,*Default,NTP,0000,0000,0000,,尤其是地核的熔化部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}particularly the molten part of the core,
+Dialogue: 0,0:26:23.95,0:26:27.20,*Default,NTP,0000,0000,0000,,据信就是它产生了我们的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is believed to be what generates our magnetic field.
+Dialogue: 0,0:26:27.25,0:26:29.96,*Default,NTP,0000,0000,0000,,因而如果地球旋转快了三倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so if the Earth rotates three times faster,
+Dialogue: 0,0:26:30.00,0:26:31.92,*Default,NTP,0000,0000,0000,,磁场也会强上三倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the magnetic field is three times stronger.
+Dialogue: 0,0:26:33.00,0:26:36.26,*Default,NTP,0000,0000,0000,,增强的磁场覆盖无月的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The enhanced magnetic field over the moonless Earth
+Dialogue: 0,0:26:36.30,0:26:39.93,*Default,NTP,0000,0000,0000,,更加有效地将高能太阳耀斑粒子偏转到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more effectively deflects high-energy solar flare particles
+Dialogue: 0,0:26:39.97,0:26:41.30,*Default,NTP,0000,0000,0000,,地球的两极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}towards the Earth's poles,
+Dialogue: 0,0:26:42.47,0:26:45.56,*Default,NTP,0000,0000,0000,,产生出更大 更为壮观的极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}resulting in larger, more spectacular auroras.
+Dialogue: 0,0:26:46.39,0:26:48.73,*Default,NTP,0000,0000,0000,,但是通过阻挡太阳耀斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But by blocking the solar flares,
+Dialogue: 0,0:26:48.77,0:26:52.52,*Default,NTP,0000,0000,0000,,就不会有太多的辐射来攻击大气层底部的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not as much radiation zaps life in the lower atmosphere,
+Dialogue: 0,0:26:52.56,0:26:55.69,*Default,NTP,0000,0000,0000,,减少了驱动进化的突变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}decreasing mutations that drive evolution.
+Dialogue: 0,0:26:57.86,0:26:59.24,*Default,NTP,0000,0000,0000,,强磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A stronger magnetic field
+Dialogue: 0,0:26:59.28,0:27:03.07,*Default,NTP,0000,0000,0000,,可能会放慢地球生命进化的步伐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might have slowed the rate at which life evolved on Earth.
+Dialogue: 0,0:27:05.04,0:27:06.37,*Default,NTP,0000,0000,0000,,没有月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the Moon,
+Dialogue: 0,0:27:06.41,0:27:09.71,*Default,NTP,0000,0000,0000,,发展中的地球会遭遇到剧烈的气候波动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the developing Earth suffers intense climate volatility.
+Dialogue: 0,0:27:10.71,0:27:14.67,*Default,NTP,0000,0000,0000,,历经许多纪 每纪都持续了数百万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over many periods, each lasting several million years,
+Dialogue: 0,0:27:14.71,0:27:18.71,*Default,NTP,0000,0000,0000,,地轴被太阳和其他行星推来拉去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth's axis is pulled and pushed by the Sun and other planets.
+Dialogue: 0,0:27:19.72,0:27:23.01,*Default,NTP,0000,0000,0000,,没有月球的稳定作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the stabilizing influence of the Moon,
+Dialogue: 0,0:27:23.05,0:27:26.06,*Default,NTP,0000,0000,0000,,环境将会类似于火星的遭遇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}conditions would have paralleled what happened to Mars.
+Dialogue: 0,0:27:28.14,0:27:30.27,*Default,NTP,0000,0000,0000,,我们在过去15到20年里认识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we've learned in the last 15 or 20 years
+Dialogue: 0,0:27:30.31,0:27:35.81,*Default,NTP,0000,0000,0000,,火星有一个不稳定的星轴 因为它没有大卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that Mars has a very unstable axis because it has no big moon.
+Dialogue: 0,0:27:35.86,0:27:38.86,*Default,NTP,0000,0000,0000,,我们观察火星时 实际上可以看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when we look at Mars, we can actually see
+Dialogue: 0,0:27:38.90,0:27:41.49,*Default,NTP,0000,0000,0000,,火星表面的地质地貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the surface of Mars geological features
+Dialogue: 0,0:27:41.53,0:27:45.20,*Default,NTP,0000,0000,0000,,形成于完全不同的气候条件下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that formed under very different climate regimes
+Dialogue: 0,0:27:45.24,0:27:47.62,*Default,NTP,0000,0000,0000,,当时极轴倾覆了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the polar axis was tilted over.
+Dialogue: 0,0:27:48.75,0:27:51.41,*Default,NTP,0000,0000,0000,,火星上 我们其实看到了这些地貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Mars, we actually see these features,
+Dialogue: 0,0:27:51.46,0:27:55.04,*Default,NTP,0000,0000,0000,,就像是干涸的河道以及冰川沉积\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like the dry river channels and glacial deposits
+Dialogue: 0,0:27:55.09,0:27:59.46,*Default,NTP,0000,0000,0000,,其他地貌 冰靠近赤道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and other features, ice close to the equator,
+Dialogue: 0,0:27:59.51,0:28:01.26,*Default,NTP,0000,0000,0000,,所以大认识就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so the big realization was
+Dialogue: 0,0:28:01.30,0:28:03.55,*Default,NTP,0000,0000,0000,,噢 对 气候一直在改变着火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}oh, yeah, the climate has been changing on Mars,
+Dialogue: 0,0:28:03.59,0:28:06.43,*Default,NTP,0000,0000,0000,,这就解释了我们所看到的较早期的地貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this explains that we're seeing older features.
+Dialogue: 0,0:28:08.31,0:28:09.68,*Default,NTP,0000,0000,0000,,和红色行星一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like the Red Planet,
+Dialogue: 0,0:28:09.72,0:28:12.85,*Default,NTP,0000,0000,0000,,无月地球的地轴也会疯狂倾斜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a moonless Earth's axis would tilt wildly,
+Dialogue: 0,0:28:12.89,0:28:15.44,*Default,NTP,0000,0000,0000,,把我们的星球搞得颠三倒四的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}turning our planet topsy-turvy.
+Dialogue: 0,0:28:16.69,0:28:19.86,*Default,NTP,0000,0000,0000,,我们的地轴 在数百万年的时期里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our axis, over a period of millions of years,
+Dialogue: 0,0:28:19.90,0:28:21.28,*Default,NTP,0000,0000,0000,,会乱七八糟地晃动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would wobble chaotically.
+Dialogue: 0,0:28:21.32,0:28:22.95,*Default,NTP,0000,0000,0000,,它时而垂直\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would sometimes be vertical.
+Dialogue: 0,0:28:22.99,0:28:25.57,*Default,NTP,0000,0000,0000,,时而接近水平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would sometimes be close to horizontal.
+Dialogue: 0,0:28:25.62,0:28:26.82,*Default,NTP,0000,0000,0000,,它垂直时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it's vertical,
+Dialogue: 0,0:28:26.87,0:28:30.29,*Default,NTP,0000,0000,0000,,整个地球就像是热带伊甸园\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the whole Earth might be kind of a tropical paradise.
+Dialogue: 0,0:28:30.33,0:28:33.21,*Default,NTP,0000,0000,0000,,它水平时 你实际上会看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it's horizontal, you could actually have
+Dialogue: 0,0:28:33.25,0:28:35.33,*Default,NTP,0000,0000,0000,,两极指向太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the poles pointing towards the Sun
+Dialogue: 0,0:28:35.38,0:28:37.08,*Default,NTP,0000,0000,0000,,极地实际上就逐步有了热带丛林\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the poles actually getting jungles.
+Dialogue: 0,0:28:37.13,0:28:41.42,*Default,NTP,0000,0000,0000,,所以你会看到地球气候的巨大变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you would see very big changes in Earth's climate
+Dialogue: 0,0:28:41.46,0:28:45.26,*Default,NTP,0000,0000,0000,,成为了地轴混乱摆动的结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as a result of this chaotic wandering of Earth's axis,
+Dialogue: 0,0:28:45.30,0:28:49.43,*Default,NTP,0000,0000,0000,,这将给生命繁荣带来更大的困难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this would make it more difficult for life to flourish,
+Dialogue: 0,0:28:49.47,0:28:53.23,*Default,NTP,0000,0000,0000,,因为它要去不断去适应各种环境 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it would constantly have to adapt to different conditions--
+Dialogue: 0,0:28:53.27,0:28:57.15,*Default,NTP,0000,0000,0000,,冰河时期到酷热时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to ice ages and to extremely hot ages.
+Dialogue: 0,0:29:05.82,0:29:08.12,*Default,NTP,0000,0000,0000,,那么如果我们从来没有过月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what would life on Earth look like today
+Dialogue: 0,0:29:08.16,0:29:10.16,*Default,NTP,0000,0000,0000,,像现在这样的地球生命又会怎样呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if we had never had a Moon?
+Dialogue: 0,0:29:11.75,0:29:15.08,*Default,NTP,0000,0000,0000,,短昼夜 疾风 其他变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Short days, high winds, and other changes
+Dialogue: 0,0:29:15.12,0:29:17.75,*Default,NTP,0000,0000,0000,,会产生出一个奇特的世界 生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could produce a freakish world, with creatures
+Dialogue: 0,0:29:17.79,0:29:20.59,*Default,NTP,0000,0000,0000,,看上去就像是从科幻小说里走出来的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that look like they're straight out of science fiction.
+Dialogue: 0,0:29:25.97,0:29:29.18,*Default,NTP,0000,0000,0000,,月球形成于数十亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon was formed billions of years ago
+Dialogue: 0,0:29:29.22,0:29:32.72,*Default,NTP,0000,0000,0000,,当时一颗行星大小的小行星撞上了地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when a planet-sized asteroid crashed into Earth.
+Dialogue: 0,0:29:34.27,0:29:37.56,*Default,NTP,0000,0000,0000,,然而要是那个剧烈碰撞从未发生过呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what if that violent collision never happened?
+Dialogue: 0,0:29:39.52,0:29:42.90,*Default,NTP,0000,0000,0000,,如果月球从未出现来稳定我们的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Moon never came along to stabilize our planet,
+Dialogue: 0,0:29:44.11,0:29:46.28,*Default,NTP,0000,0000,0000,,地球将是一个化外之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth would be an alien place.
+Dialogue: 0,0:29:51.28,0:29:54.41,*Default,NTP,0000,0000,0000,,早期地球的旋转很快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The spin of early Earth was very fast,
+Dialogue: 0,0:29:54.45,0:29:58.87,*Default,NTP,0000,0000,0000,,4个小时白昼 接着就是4个小时的黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with about four hours of daylight, followed by four hours of darkness.
+Dialogue: 0,0:30:00.04,0:30:03.92,*Default,NTP,0000,0000,0000,,在数十亿年里 太阳引力及潮汐摩擦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over billions of years, the Sun's gravity and tidal friction
+Dialogue: 0,0:30:03.96,0:30:07.30,*Default,NTP,0000,0000,0000,,会将每天8小时延长到12小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would lengthen that 8-hour day to 12 hours.
+Dialogue: 0,0:30:09.22,0:30:12.81,*Default,NTP,0000,0000,0000,,但这依然是目前地球旋转速度的两倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But this is still twice as fast as the current Earth spins,
+Dialogue: 0,0:30:12.85,0:30:15.31,*Default,NTP,0000,0000,0000,,就会产生出一些极端天气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which makes for some extreme weather,
+Dialogue: 0,0:30:15.35,0:30:18.35,*Default,NTP,0000,0000,0000,,包括毁灭性的风暴和疾风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}including devastating storms and high winds.
+Dialogue: 0,0:30:22.15,0:30:23.52,*Default,NTP,0000,0000,0000,,如果月球没有形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Moon hadn't formed,
+Dialogue: 0,0:30:23.57,0:30:27.36,*Default,NTP,0000,0000,0000,,你肯定会有一个面目全非的地球环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'd certainly get a wildly different environment on the Earth.
+Dialogue: 0,0:30:27.40,0:30:30.24,*Default,NTP,0000,0000,0000,,由于快速旋转的地球 你就有了更多的射流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With a faster-turning Earth, you get more jet streams,
+Dialogue: 0,0:30:30.28,0:30:33.87,*Default,NTP,0000,0000,0000,,你或许就有更多的涡流 甚至更大的风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you get more turbulence probably, maybe bigger storms,
+Dialogue: 0,0:30:33.91,0:30:36.45,*Default,NTP,0000,0000,0000,,更多的电闪雷鸣 是空气流动中的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more lightning because of the friction
+Dialogue: 0,0:30:36.50,0:30:38.87,*Default,NTP,0000,0000,0000,,不同云团的摩擦所致\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the different masses of air moving.
+Dialogue: 0,0:30:38.92,0:30:43.42,*Default,NTP,0000,0000,0000,,在某些地方 风速可以达到时速100或200英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In some places, the winds could reach 100 or 200 miles an hour.
+Dialogue: 0,0:30:43.46,0:30:46.09,*Default,NTP,0000,0000,0000,,还有更强的飓风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There would also be stronger hurricanes,
+Dialogue: 0,0:30:46.13,0:30:50.22,*Default,NTP,0000,0000,0000,,地球会有更大的海浪拍打海岸线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Earth would have larger waves battering the coastlines.
+Dialogue: 0,0:30:52.26,0:30:54.56,*Default,NTP,0000,0000,0000,,没有月亮的稳定作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And without the Moon's stabilizing effect,
+Dialogue: 0,0:30:54.60,0:30:57.56,*Default,NTP,0000,0000,0000,,快速旋转的地球会来回摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the rapidly spinning Earth tilts back and forth.
+Dialogue: 0,0:30:59.73,0:31:01.98,*Default,NTP,0000,0000,0000,,在数十万年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over hundreds of thousands of years,
+Dialogue: 0,0:31:02.02,0:31:05.57,*Default,NTP,0000,0000,0000,,我们的星球遭受了不断变化的气候的蹂躏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our planet suffers the ravages of ever-shifting climate
+Dialogue: 0,0:31:05.61,0:31:08.36,*Default,NTP,0000,0000,0000,,那是地轴倾角的无规则变化造成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because of the erratic changes in axial tilt,
+Dialogue: 0,0:31:10.24,0:31:13.99,*Default,NTP,0000,0000,0000,,各个地区一会儿酷热难当\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as different regions are blasted by heat,
+Dialogue: 0,0:31:14.03,0:31:17.20,*Default,NTP,0000,0000,0000,,一会儿冰天雪地 反复无常\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then covered by ice again and again.
+Dialogue: 0,0:31:19.29,0:31:20.54,*Default,NTP,0000,0000,0000,,没有了月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And without the Moon,
+Dialogue: 0,0:31:20.58,0:31:23.54,*Default,NTP,0000,0000,0000,,还有另一层地轴的不稳定性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is another layer of axial instability.
+Dialogue: 0,0:31:25.09,0:31:28.21,*Default,NTP,0000,0000,0000,,尽管现在的地球是月球来稳定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even though today's Earth is stabilized by the Moon,
+Dialogue: 0,0:31:28.26,0:31:30.92,*Default,NTP,0000,0000,0000,,但还是存在地球自转的摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is still a wobble to the Earth's rotation,
+Dialogue: 0,0:31:30.97,0:31:32.47,*Default,NTP,0000,0000,0000,,叫做岁差\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}known as precession.
+Dialogue: 0,0:31:33.72,0:31:36.56,*Default,NTP,0000,0000,0000,,地球的倾角为23 5度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's tilt is 23 1/2 degrees,
+Dialogue: 0,0:31:36.60,0:31:39.27,*Default,NTP,0000,0000,0000,,但是在一个2 6万年的周期里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but over a period of 26,000 years,
+Dialogue: 0,0:31:39.31,0:31:42.02,*Default,NTP,0000,0000,0000,,它会走过这样的锥形变差\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it goes through conical variations like this.
+Dialogue: 0,0:31:42.98,0:31:45.02,*Default,NTP,0000,0000,0000,,如果月球从未面世\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if the Moon had never formed,
+Dialogue: 0,0:31:45.06,0:31:48.07,*Default,NTP,0000,0000,0000,,这种摆动将会更加难以预测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this wobbling would be much more unpredictable.
+Dialogue: 0,0:31:49.53,0:31:51.19,*Default,NTP,0000,0000,0000,,要是我们没有月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we didn't have the Moon,
+Dialogue: 0,0:31:51.24,0:31:54.28,*Default,NTP,0000,0000,0000,,地球的进动将会慢很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth would precess much more slowly,
+Dialogue: 0,0:31:54.32,0:32:00.25,*Default,NTP,0000,0000,0000,,这是源于地轴倾角的混乱变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this is one cause for chaotic variations in the axial tilt.
+Dialogue: 0,0:32:00.29,0:32:02.50,*Default,NTP,0000,0000,0000,,地球的慢进动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A slower precession of the Earth
+Dialogue: 0,0:32:02.54,0:32:07.63,*Default,NTP,0000,0000,0000,,会导致地球自转轴的更不稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would lead to a much more unstable axis of rotation for the Earth.
+Dialogue: 0,0:32:09.55,0:32:11.76,*Default,NTP,0000,0000,0000,,没有月球 现在的地轴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the Moon, Earth's axis today
+Dialogue: 0,0:32:11.80,0:32:14.51,*Default,NTP,0000,0000,0000,,就会像越转越慢的陀螺一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be like the slower spinning top,
+Dialogue: 0,0:32:14.55,0:32:19.43,*Default,NTP,0000,0000,0000,,边进动 边旋转 晃动在更大的圆锥面上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}precessing, gyrating, and wobbling in ever larger conical circles.
+Dialogue: 0,0:32:22.98,0:32:26.48,*Default,NTP,0000,0000,0000,,眼下 2 6万年 很稳定的区间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now, 26,000 years, a very stable zone,
+Dialogue: 0,0:32:26.52,0:32:29.98,*Default,NTP,0000,0000,0000,,你看到它越走越慢 或许4万\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you get It going slower, so it's maybe 40,000,
+Dialogue: 0,0:32:30.03,0:32:32.15,*Default,NTP,0000,0000,0000,,或许5万 或许6万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe 50,000, maybe 60,000,
+Dialogue: 0,0:32:32.20,0:32:36.82,*Default,NTP,0000,0000,0000,,你会遭遇到一个混乱的时段 那时一切都出毛病了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then you hit the chaotic range, and then everything goes wrong.
+Dialogue: 0,0:32:36.87,0:32:39.49,*Default,NTP,0000,0000,0000,,由于愈加恶劣 反复无常的气候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With the more forbidding and shifting climate,
+Dialogue: 0,0:32:39.54,0:32:42.33,*Default,NTP,0000,0000,0000,,无月地球的进化摆动在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}evolution on a moonless Earth varies
+Dialogue: 0,0:32:42.37,0:32:46.25,*Default,NTP,0000,0000,0000,,突发性适应和剧烈的灭绝之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between bursts of adaptation and violent extinction.
+Dialogue: 0,0:32:46.29,0:32:48.67,*Default,NTP,0000,0000,0000,,怪诞的生命形式如雨后春笋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Bizarre life forms mushroom.
+Dialogue: 0,0:32:48.71,0:32:52.38,*Default,NTP,0000,0000,0000,,植物物种很脆弱 因为它们不具备机动性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Plant species are vulnerable, as they don't have the mobility
+Dialogue: 0,0:32:52.42,0:32:54.76,*Default,NTP,0000,0000,0000,,走在快速的气候变化的前头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to stay ahead of speedy climate change.
+Dialogue: 0,0:32:56.26,0:32:59.18,*Default,NTP,0000,0000,0000,,复杂的生命形式 如人类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And complex life forms like humans
+Dialogue: 0,0:32:59.22,0:33:01.89,*Default,NTP,0000,0000,0000,,或许根本就没什么机会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}probably wouldn't stand a chance at all.
+Dialogue: 0,0:33:03.18,0:33:07.90,*Default,NTP,0000,0000,0000,,气候变化将是极端和快速的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The variations in climate would be extreme and rather rapid,
+Dialogue: 0,0:33:07.94,0:33:13.24,*Default,NTP,0000,0000,0000,,或许会让复杂生物的进化难以为继\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would probably make it difficult for complex creatures to evolve,
+Dialogue: 0,0:33:13.28,0:33:18.20,*Default,NTP,0000,0000,0000,,因为大多数复杂生物的进化不可能非常快速地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because most complex creatures can't evolve very quickly
+Dialogue: 0,0:33:18.24,0:33:20.08,*Default,NTP,0000,0000,0000,,在它们的环境中进行变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to changes in their environment.
+Dialogue: 0,0:33:21.58,0:33:26.83,*Default,NTP,0000,0000,0000,,相反 原始有机体会占上风并坚持下去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead, primitive organisms would predominate and endure.
+Dialogue: 0,0:33:26.87,0:33:31.17,*Default,NTP,0000,0000,0000,,细菌不仅能够更快地适应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Bacterial life is able not only to adapt more quickly,
+Dialogue: 0,0:33:31.21,0:33:34.17,*Default,NTP,0000,0000,0000,,而且还能承受更为极端的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but also to withstand more extreme environments.
+Dialogue: 0,0:33:34.22,0:33:39.93,*Default,NTP,0000,0000,0000,,我们看到细菌在南极和格陵兰的冰芯深处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see bacteria under the deep ice cores of the Antarctic or Greenland,
+Dialogue: 0,0:33:39.97,0:33:41.22,*Default,NTP,0000,0000,0000,,我们看到细菌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we see bacteria
+Dialogue: 0,0:33:41.26,0:33:45.89,*Default,NTP,0000,0000,0000,,生活在黄石公园沸腾的水穴里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that live in steaming, boiling pots in Yellowstone.
+Dialogue: 0,0:33:48.77,0:33:52.77,*Default,NTP,0000,0000,0000,,如果复杂生命得以进化 它看上去绝对别样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If complex life were to evolve, it would look very different,
+Dialogue: 0,0:33:52.82,0:33:54.82,*Default,NTP,0000,0000,0000,,因为短昼夜 疾风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}due to short days, high winds,
+Dialogue: 0,0:33:54.86,0:33:57.20,*Default,NTP,0000,0000,0000,,以及无月地球的其它特征\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and other features of a moonless Earth.
+Dialogue: 0,0:33:58.45,0:34:01.12,*Default,NTP,0000,0000,0000,,要比现在严酷的多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be much more hostile than it is now.
+Dialogue: 0,0:34:01.16,0:34:04.08,*Default,NTP,0000,0000,0000,,你会看到那些风 那些声音\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would see that all of these winds and all of the noise
+Dialogue: 0,0:34:04.12,0:34:05.25,*Default,NTP,0000,0000,0000,,那些云彩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and all of the clouds.
+Dialogue: 0,0:34:05.29,0:34:09.58,*Default,NTP,0000,0000,0000,,生命从水里走向陆地将异常艰难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Moving from water to life on land would be very tough,
+Dialogue: 0,0:34:09.63,0:34:11.92,*Default,NTP,0000,0000,0000,,我们可能会看到较短的寿命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we might see shorter life spans,
+Dialogue: 0,0:34:11.96,0:34:14.34,*Default,NTP,0000,0000,0000,,因为事情发展太快了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because things are going on faster.
+Dialogue: 0,0:34:14.38,0:34:16.34,*Default,NTP,0000,0000,0000,,白天 时间有限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the day, there will be a limited time
+Dialogue: 0,0:34:16.38,0:34:19.13,*Default,NTP,0000,0000,0000,,去新陈代谢 去获取能量 去做事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to metabolize and gain energy and do things.
+Dialogue: 0,0:34:19.18,0:34:22.10,*Default,NTP,0000,0000,0000,,生物体必须要更机灵一点才行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Organisms would have to be a little more clever.
+Dialogue: 0,0:34:23.64,0:34:26.43,*Default,NTP,0000,0000,0000,,进化将偏好短小粗壮的动植物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Evolution would favor short, stout creatures
+Dialogue: 0,0:34:26.48,0:34:29.98,*Default,NTP,0000,0000,0000,,它们可以抵挡猛烈的飓风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and plant life that could withstand ferocious hurricanes.
+Dialogue: 0,0:34:31.31,0:34:35.32,*Default,NTP,0000,0000,0000,,丛林将不会存在 因为它们需要风障才得以茂盛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jungles wouldn't exist since they need wind barriers to flourish.
+Dialogue: 0,0:34:36.15,0:34:38.15,*Default,NTP,0000,0000,0000,,可能不会有任何生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there probably wouldn't be any creatures
+Dialogue: 0,0:34:38.20,0:34:40.36,*Default,NTP,0000,0000,0000,,在树枝上荡来荡去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}swinging from branch to branch,
+Dialogue: 0,0:34:40.41,0:34:43.45,*Default,NTP,0000,0000,0000,,那是因为粗矮植物和疾风的缘故\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}due to stubbier plant life and high winds.
+Dialogue: 0,0:34:44.79,0:34:47.95,*Default,NTP,0000,0000,0000,,我预计生物一般都不会长得很高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I would expect the creatures generally wouldn't be as tall,
+Dialogue: 0,0:34:48.00,0:34:50.33,*Default,NTP,0000,0000,0000,,因为它们很难保持直立\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they'd have a harder time holding themselves up.
+Dialogue: 0,0:34:50.37,0:34:55.46,*Default,NTP,0000,0000,0000,,根系很浅的树木不会长得很高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And trees with shallow root systems wouldn't become very tall.
+Dialogue: 0,0:34:55.51,0:34:58.51,*Default,NTP,0000,0000,0000,,棕榈树 举个例子 或许不会存活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Palm trees, for example, probably wouldn't survive too well.
+Dialogue: 0,0:35:03.68,0:35:07.18,*Default,NTP,0000,0000,0000,,持续的强风会推动其它的适应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The constant gusts would push other adaptations.
+Dialogue: 0,0:35:08.89,0:35:11.02,*Default,NTP,0000,0000,0000,,风帆 你知道 很可能是膜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sailing, you know, maybe membranes,
+Dialogue: 0,0:35:11.06,0:35:13.65,*Default,NTP,0000,0000,0000,,让你飞起来 跃上天空 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that let you take off and leap through the air 
+Dialogue: 0,0:35:16.73,0:35:19.11,*Default,NTP,0000,0000,0000,,没完没了的狂风环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the perpetual gale-like conditions
+Dialogue: 0,0:35:19.15,0:35:21.91,*Default,NTP,0000,0000,0000,,会打造出一个格外喧闹的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would create an exceptionally loud planet.
+Dialogue: 0,0:35:21.95,0:35:24.70,*Default,NTP,0000,0000,0000,,如果动物用声音来进行沟通\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If animals made noises to communicate,
+Dialogue: 0,0:35:24.74,0:35:28.75,*Default,NTP,0000,0000,0000,,它们就必须完全区别于连续呼啸的风声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they'd have to be very different from the constant shrieking wind sounds.
+Dialogue: 0,0:35:30.21,0:35:33.42,*Default,NTP,0000,0000,0000,,使用的声音在波长上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The use of sound at wavelengths
+Dialogue: 0,0:35:33.46,0:35:35.88,*Default,NTP,0000,0000,0000,,不是背景噪音的声音\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are not the sound of the background noise.
+Dialogue: 0,0:35:35.92,0:35:41.17,*Default,NTP,0000,0000,0000,,如果你有感官能消除那个噪音\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you have a receptor that just zeros out that noise,
+Dialogue: 0,0:35:41.22,0:35:45.51,*Default,NTP,0000,0000,0000,,我们就能够像这样来说话并听个明白\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we might be able to speak like this and be heard perfectly.
+Dialogue: 0,0:35:45.56,0:35:48.35,*Default,NTP,0000,0000,0000,,我们都会成为女高音的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We might all be sopranos
+Dialogue: 0,0:35:48.39,0:35:50.73,*Default,NTP,0000,0000,0000,,耳朵都调到另外的音调\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and have ears tuned to a different pitch.
+Dialogue: 0,0:35:52.90,0:35:55.36,*Default,NTP,0000,0000,0000,,或更多的视觉提示可能会进化成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or more visual cues might be developed
+Dialogue: 0,0:35:55.40,0:35:57.73,*Default,NTP,0000,0000,0000,,穿透音频超载\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to cut through the audio overload.
+Dialogue: 0,0:35:57.78,0:36:00.11,*Default,NTP,0000,0000,0000,,生物可能会进化出额外的肢体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Creatures might develop extra limbs
+Dialogue: 0,0:36:00.15,0:36:02.70,*Default,NTP,0000,0000,0000,,不仅能挡风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to not only shield themselves from the wind,
+Dialogue: 0,0:36:02.74,0:36:05.74,*Default,NTP,0000,0000,0000,,而且还能利用附属肢体来进行沟通\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but also use their appendages to communicate
+Dialogue: 0,0:36:05.78,0:36:08.49,*Default,NTP,0000,0000,0000,,就像水手使用旗语信号一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like sailors using semaphore signals.
+Dialogue: 0,0:36:09.79,0:36:11.54,*Default,NTP,0000,0000,0000,,或许说话能力不会发展起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perhaps speech would not develop,
+Dialogue: 0,0:36:11.58,0:36:14.83,*Default,NTP,0000,0000,0000,,因此也许其它沟通方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so maybe other forms of communication,
+Dialogue: 0,0:36:14.88,0:36:17.25,*Default,NTP,0000,0000,0000,,会不会是颜色变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether color changes,
+Dialogue: 0,0:36:17.30,0:36:21.51,*Default,NTP,0000,0000,0000,,表情变化 手语 谁知道呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}expression changes, hand languages, who knows?
+Dialogue: 0,0:36:23.34,0:36:27.47,*Default,NTP,0000,0000,0000,,即使在现在 有许多地球生物 如萤火虫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even today, many of Earth's beings, such as fireflies,
+Dialogue: 0,0:36:27.51,0:36:29.39,*Default,NTP,0000,0000,0000,,鱿鱼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}squids,
+Dialogue: 0,0:36:29.43,0:36:31.10,*Default,NTP,0000,0000,0000,,磷虾 水母\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}krill, and jellyfish,
+Dialogue: 0,0:36:31.14,0:36:33.77,*Default,NTP,0000,0000,0000,,沟通就是靠改变它们身体的颜色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}communicate by changing their body colors.
+Dialogue: 0,0:36:34.73,0:36:36.61,*Default,NTP,0000,0000,0000,,因为在黑夜里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because of the dark nights,
+Dialogue: 0,0:36:36.65,0:36:40.44,*Default,NTP,0000,0000,0000,,生物也可能进化出增强的视觉和感官系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creatures might also develop enhanced vision and sensory systems
+Dialogue: 0,0:36:41.61,0:36:43.03,*Default,NTP,0000,0000,0000,,类似于夜视镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}similar to the night vision goggles
+Dialogue: 0,0:36:43.07,0:36:46.16,*Default,NTP,0000,0000,0000,,以及军用红外显示器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and infrared displays used by the military.
+Dialogue: 0,0:36:47.45,0:36:49.37,*Default,NTP,0000,0000,0000,,有趣之事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The interesting possibility
+Dialogue: 0,0:36:49.41,0:36:53.12,*Default,NTP,0000,0000,0000,,在于生命有可能进化出感官\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that life might be able to develop sensors
+Dialogue: 0,0:36:53.16,0:36:57.42,*Default,NTP,0000,0000,0000,,非常有效 它们实际上可以感觉到星光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that were so good that they could actually sense starlight,
+Dialogue: 0,0:36:57.46,0:36:59.46,*Default,NTP,0000,0000,0000,,那是很了不起的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this would be something colossal.
+Dialogue: 0,0:37:05.34,0:37:09.76,*Default,NTP,0000,0000,0000,,它看上去貌似危险狂野的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It looks and sounds like a rough and too tough world,
+Dialogue: 0,0:37:09.81,0:37:11.97,*Default,NTP,0000,0000,0000,,不适合人类居住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unfit for human habitation.
+Dialogue: 0,0:37:13.39,0:37:15.44,*Default,NTP,0000,0000,0000,,幸运的是 月球形成后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Luckily, when the Moon formed,
+Dialogue: 0,0:37:15.48,0:37:19.65,*Default,NTP,0000,0000,0000,,它创造了人类发展繁荣的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it created the conditions for people to develop and prosper.
+Dialogue: 0,0:37:19.69,0:37:23.86,*Default,NTP,0000,0000,0000,,但是我们的月球也正在逐年远离地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But our Moon is also moving farther away from Earth every year.
+Dialogue: 0,0:37:23.90,0:37:26.11,*Default,NTP,0000,0000,0000,,那是否意味着会有地球将来那么一天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Does that mean there will be another time
+Dialogue: 0,0:37:26.16,0:37:28.99,*Default,NTP,0000,0000,0000,,失去月球呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in Earth's future without the Moon?
+Dialogue: 0,0:37:34.29,0:37:36.75,*Default,NTP,0000,0000,0000,,45亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}4 1/2 billion years ago,
+Dialogue: 0,0:37:36.79,0:37:41.80,*Default,NTP,0000,0000,0000,,年轻的地球是一个炼狱 不适合生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the young Earth was a hellish molten place, unfit for life.
+Dialogue: 0,0:37:46.01,0:37:50.89,*Default,NTP,0000,0000,0000,,那么一个火星般大小的天体在地球形成后不久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So then how did a violent collision by an object the size of Mars
+Dialogue: 0,0:37:50.93,0:37:52.76,*Default,NTP,0000,0000,0000,,猛烈地撞上地球又是如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}soon after the Earth's formation
+Dialogue: 0,0:37:52.81,0:37:56.48,*Default,NTP,0000,0000,0000,,创造环境适合复杂生命 包括今天的我们的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}create the conditions for the complex life we're part of today?
+Dialogue: 0,0:38:00.31,0:38:04.19,*Default,NTP,0000,0000,0000,,打击地球的天体把我们星球敲打到目前的倾角\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The body blow to Earth knocked our planet to its current tilt
+Dialogue: 0,0:38:04.24,0:38:07.24,*Default,NTP,0000,0000,0000,,月球的形成使之保持了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the formation of the Moon kept it there.
+Dialogue: 0,0:38:08.66,0:38:10.03,*Default,NTP,0000,0000,0000,,月球的质量放在那边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The mass of the Moon out there,
+Dialogue: 0,0:38:10.07,0:38:12.95,*Default,NTP,0000,0000,0000,,它的作用就是防止其他行星的拖拉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what it's done is it's prevented the tugs of the other planets
+Dialogue: 0,0:38:12.99,0:38:15.83,*Default,NTP,0000,0000,0000,,从而造成地球倾角的过度变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from causing the Earth's tilt to change too much.
+Dialogue: 0,0:38:15.87,0:38:19.92,*Default,NTP,0000,0000,0000,,由此它对我们的气候真正发挥了稳定作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it provided a real stabilizing effect on our climate because of that.
+Dialogue: 0,0:38:21.42,0:38:24.75,*Default,NTP,0000,0000,0000,,碰撞也创造了力量的连锁反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The collision also created a chain reaction of forces
+Dialogue: 0,0:38:24.80,0:38:26.80,*Default,NTP,0000,0000,0000,,奠定了生命的舞台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that set the stage for life.
+Dialogue: 0,0:38:28.93,0:38:32.51,*Default,NTP,0000,0000,0000,,两颗星星的铁核合并后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the iron cores of the two planets combined,
+Dialogue: 0,0:38:32.56,0:38:35.56,*Default,NTP,0000,0000,0000,,就产生了新地球更大的地核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it created a larger core for the new Earth.
+Dialogue: 0,0:38:37.94,0:38:42.27,*Default,NTP,0000,0000,0000,,碰撞也敲掉了地球的大部分地壳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The collision also knocked off much of the Earth's crust.
+Dialogue: 0,0:38:42.32,0:38:44.69,*Default,NTP,0000,0000,0000,,这个兼并 有大量的热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This combination, with large amounts of heat
+Dialogue: 0,0:38:44.73,0:38:48.40,*Default,NTP,0000,0000,0000,,从巨大的地核中透过薄薄的地壳被推了出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pushing up from a giant core through a thin crust,
+Dialogue: 0,0:38:48.45,0:38:52.41,*Default,NTP,0000,0000,0000,,可能创造了持续的板块构造的条件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}likely created the conditions for sustained plate tectonics.
+Dialogue: 0,0:38:52.45,0:38:56.62,*Default,NTP,0000,0000,0000,,这些板块的运动形成了山脉和盆地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The movement of these plates formed mountain ranges and deep basins,
+Dialogue: 0,0:38:56.66,0:38:58.50,*Default,NTP,0000,0000,0000,,产生的火山活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the resulting volcanic activity
+Dialogue: 0,0:38:58.54,0:39:01.79,*Default,NTP,0000,0000,0000,,喷出的气体形成了我们的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spewed out the gases that created our atmosphere.
+Dialogue: 0,0:39:03.09,0:39:06.67,*Default,NTP,0000,0000,0000,,水最终安家在了盆地里 形成了海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Water eventually settled in the basins, creating oceans,
+Dialogue: 0,0:39:06.71,0:39:08.92,*Default,NTP,0000,0000,0000,,把陆地留在了高处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leaving continents of land above.
+Dialogue: 0,0:39:10.93,0:39:13.51,*Default,NTP,0000,0000,0000,,然而生命还要有一段艰苦的岁月才能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But life still had a tough time getting started
+Dialogue: 0,0:39:13.55,0:39:15.56,*Default,NTP,0000,0000,0000,,诞生于早期的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the early days of Earth.
+Dialogue: 0,0:39:17.68,0:39:21.73,*Default,NTP,0000,0000,0000,,对于地球和月球出现后的头5亿年来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For the first half billion years of the Earth's and the Moon's existence,
+Dialogue: 0,0:39:21.77,0:39:24.94,*Default,NTP,0000,0000,0000,,它们遭遇到了尚在完成太阳系形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they were bombarded by debris that was still finishing up
+Dialogue: 0,0:39:24.98,0:39:27.61,*Default,NTP,0000,0000,0000,,碎片的狂轰滥炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the formation of the solar system.
+Dialogue: 0,0:39:27.65,0:39:31.03,*Default,NTP,0000,0000,0000,,因此即使有原始生命 微生物和细菌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So even if primitive life, microbes and bacteria,
+Dialogue: 0,0:39:31.07,0:39:33.99,*Default,NTP,0000,0000,0000,,形成于最早的几亿年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}had formed in the first few hundred million years,
+Dialogue: 0,0:39:34.03,0:39:35.74,*Default,NTP,0000,0000,0000,,它们也可能轻而易举就被那些撞入地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they might easily have been wiped out
+Dialogue: 0,0:39:35.79,0:39:38.62,*Default,NTP,0000,0000,0000,,庞然大物所消灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by these giant things crashing into Earth.
+Dialogue: 0,0:39:41.25,0:39:46.54,*Default,NTP,0000,0000,0000,,现在 我们有证据证明生命可追溯到38亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, we have evidence for life dating back to 3.8 billion years ago.
+Dialogue: 0,0:39:46.59,0:39:51.34,*Default,NTP,0000,0000,0000,,那是重轰炸期结束后不久的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's shortly after the end of the Era of Heavy Bombardment.
+Dialogue: 0,0:39:55.60,0:39:59.39,*Default,NTP,0000,0000,0000,,那时 由于地月之间的潮汐摩擦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By then, due to tidal friction between the Earth and Moon,
+Dialogue: 0,0:39:59.43,0:40:02.44,*Default,NTP,0000,0000,0000,,月球已稍稍远离了地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon had moved slightly farther away from Earth,
+Dialogue: 0,0:40:03.52,0:40:07.23,*Default,NTP,0000,0000,0000,,地球的自转已减慢到了大约一天10小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Earth's rotation had slowed to roughly a 10-hour day.
+Dialogue: 0,0:40:08.69,0:40:11.61,*Default,NTP,0000,0000,0000,,但是由于月球依然比今天近许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But since the Moon was still much closer than today,
+Dialogue: 0,0:40:11.65,0:40:15.20,*Default,NTP,0000,0000,0000,,地球早期海洋的潮汐是滔天海浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the tides in Earth's early oceans were humongous.
+Dialogue: 0,0:40:16.74,0:40:20.20,*Default,NTP,0000,0000,0000,,潮汐侵入内陆又倒回大海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The tides went way inland and poured back out to sea.
+Dialogue: 0,0:40:20.25,0:40:23.50,*Default,NTP,0000,0000,0000,,一天两次 你会有大海湾 海水灌入\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Twice a day, you'd get a big gulf of water in,
+Dialogue: 0,0:40:23.54,0:40:27.92,*Default,NTP,0000,0000,0000,,它一旦回流 就把大量的矿物质和土壤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and when it drained back out, it carried a lot of minerals and soils
+Dialogue: 0,0:40:27.96,0:40:32.34,*Default,NTP,0000,0000,0000,,以及地壳的其它成分随之带回了大海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and other parts of the Earth's crust back out to sea with it.
+Dialogue: 0,0:40:32.38,0:40:37.47,*Default,NTP,0000,0000,0000,,因而 就有了这种对陆地的持续侵蚀和冲刷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there was this constant erosion and scrubbing of the land.
+Dialogue: 0,0:40:37.51,0:40:39.14,*Default,NTP,0000,0000,0000,,无疑 一个独特的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Certainly a unique environment
+Dialogue: 0,0:40:39.18,0:40:42.06,*Default,NTP,0000,0000,0000,,有可能正好适合生命的发展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that might have been just right for life to develop.
+Dialogue: 0,0:40:44.23,0:40:46.65,*Default,NTP,0000,0000,0000,,涨潮 落潮间的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The area between high and low tide,
+Dialogue: 0,0:40:46.69,0:40:49.98,*Default,NTP,0000,0000,0000,,叫做潮间带 面积巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}known as the intertidal region, was enormous.
+Dialogue: 0,0:40:50.03,0:40:52.99,*Default,NTP,0000,0000,0000,,涨潮会冲入数百英里的内陆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}High tides would rush hundreds of miles inland,
+Dialogue: 0,0:40:53.03,0:40:55.41,*Default,NTP,0000,0000,0000,,然后数小时后退潮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then back out a few hours later.
+Dialogue: 0,0:40:58.28,0:41:02.25,*Default,NTP,0000,0000,0000,,退潮时 分子链开始形成于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the low tides, molecular strands began forming
+Dialogue: 0,0:41:02.29,0:41:05.29,*Default,NTP,0000,0000,0000,,望不到头的潮池中的一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in some of the endless miles of tide pools.
+Dialogue: 0,0:41:07.33,0:41:08.92,*Default,NTP,0000,0000,0000,,水蒸发后会发生什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What happens when water evaporates?
+Dialogue: 0,0:41:08.96,0:41:11.88,*Default,NTP,0000,0000,0000,,水分子消失了 别的都留下了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The H2O molecules go away, and everything else is left.
+Dialogue: 0,0:41:11.92,0:41:13.92,*Default,NTP,0000,0000,0000,,这样潮池中的有机污泥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the organic sludge in the pool
+Dialogue: 0,0:41:13.97,0:41:17.43,*Default,NTP,0000,0000,0000,,随着水的蒸发变得越来越浓缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gets more and more concentrated as the water evaporates,
+Dialogue: 0,0:41:17.47,0:41:20.56,*Default,NTP,0000,0000,0000,,这就是生命诞生于这些小潮池的概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so this was the idea that life formed in these little pools.
+Dialogue: 0,0:41:25.06,0:41:28.02,*Default,NTP,0000,0000,0000,,约5 7亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Around 570 million years ago,
+Dialogue: 0,0:41:28.06,0:41:32.11,*Default,NTP,0000,0000,0000,,差不多是大碰撞后39亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}almost 3.9 billion years after the giant impact,
+Dialogue: 0,0:41:32.15,0:41:35.36,*Default,NTP,0000,0000,0000,,地球上的海洋生命开始走向陆地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's ocean life begins moving onto land,
+Dialogue: 0,0:41:35.40,0:41:38.03,*Default,NTP,0000,0000,0000,,逐步诞生出复杂物种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to complex species.
+Dialogue: 0,0:41:40.08,0:41:41.99,*Default,NTP,0000,0000,0000,,潮间带区域越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The bigger the intertidal regions,
+Dialogue: 0,0:41:42.04,0:41:45.08,*Default,NTP,0000,0000,0000,,导致的生命多样性就越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the greater the resulting diversity of life,
+Dialogue: 0,0:41:45.12,0:41:49.04,*Default,NTP,0000,0000,0000,,因为你可以有物种生活在这些环境中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because you can have species that live in these environments
+Dialogue: 0,0:41:49.08,0:41:52.05,*Default,NTP,0000,0000,0000,,有时暴露在阳光下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are sometimes exposed to the Sun
+Dialogue: 0,0:41:52.09,0:41:53.92,*Default,NTP,0000,0000,0000,,有时在水下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sometimes underwater.
+Dialogue: 0,0:41:57.97,0:41:59.72,*Default,NTP,0000,0000,0000,,经过了数十亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over billions of years,
+Dialogue: 0,0:41:59.76,0:42:03.35,*Default,NTP,0000,0000,0000,,我们地球似乎达到了完美的平衡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our Earth seems to have reached a perfect equilibrium
+Dialogue: 0,0:42:03.39,0:42:05.81,*Default,NTP,0000,0000,0000,,已能承担起丰富多彩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that has allowed for the evolution of a diverse,
+Dialogue: 0,0:42:05.85,0:42:08.48,*Default,NTP,0000,0000,0000,,错综复杂 脆弱的生态系统的进化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}intricate, and fragile ecosystem.
+Dialogue: 0,0:42:11.82,0:42:15.32,*Default,NTP,0000,0000,0000,,有些气候太单调了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are some climates that are too uniform,
+Dialogue: 0,0:42:15.36,0:42:19.03,*Default,NTP,0000,0000,0000,,没有季节变化等等 不会导致生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no seasonal changes and so on, and don't lead to life,
+Dialogue: 0,0:42:19.07,0:42:22.70,*Default,NTP,0000,0000,0000,,因为没有环境压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because there's no environmental stress.
+Dialogue: 0,0:42:22.74,0:42:26.79,*Default,NTP,0000,0000,0000,,而另一方面 气候太多变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And, on the other hand, climates that are too variable,
+Dialogue: 0,0:42:26.83,0:42:29.08,*Default,NTP,0000,0000,0000,,季节一直变个不停\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the seasons are changing all the time,
+Dialogue: 0,0:42:29.12,0:42:32.21,*Default,NTP,0000,0000,0000,,你每百万年就遭遇一颗小行星的打击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you're getting hit by an asteroid every million years,
+Dialogue: 0,0:42:32.25,0:42:35.80,*Default,NTP,0000,0000,0000,,那样的行星可能会设法形成生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planets like that would probably try to form life,
+Dialogue: 0,0:42:35.84,0:42:36.88,*Default,NTP,0000,0000,0000,,但是它们难以走下去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they couldn't get it going,
+Dialogue: 0,0:42:36.92,0:42:38.30,*Default,NTP,0000,0000,0000,,因为事情变化太快了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because things would change too fast.
+Dialogue: 0,0:42:38.34,0:42:41.09,*Default,NTP,0000,0000,0000,,因此或许会有一个环境 刚好处在中间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So maybe there's a situation that's just right in the middle,
+Dialogue: 0,0:42:41.14,0:42:44.51,*Default,NTP,0000,0000,0000,,或许地月系统就在那范围的某个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and maybe the Earth-Moon system is somewhere in that range,
+Dialogue: 0,0:42:44.56,0:42:47.85,*Default,NTP,0000,0000,0000,,它促进了 不光是原始生命的形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which has fostered, not only formation of primitive life,
+Dialogue: 0,0:42:47.89,0:42:51.94,*Default,NTP,0000,0000,0000,,而且生命还进化到了我们这样的人类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the evolution of that life into folks like us.
+Dialogue: 0,0:42:54.94,0:42:58.49,*Default,NTP,0000,0000,0000,,尽管我们的月球稳定着局面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But though our Moon stabilizes things,
+Dialogue: 0,0:42:58.53,0:43:03.70,*Default,NTP,0000,0000,0000,,但它在不断地退离我们 每年1 5英寸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it continues to recede from us at a rate of an inch and a half inch per year
+Dialogue: 0,0:43:03.74,0:43:05.33,*Default,NTP,0000,0000,0000,,同时也在减慢我们的自转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while it slows our spin.
+Dialogue: 0,0:43:06.87,0:43:12.54,*Default,NTP,0000,0000,0000,,科学家估计我们每10万年 昼夜增加2秒钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists estimate that we're adding 2 seconds to our day every 100,000 years.
+Dialogue: 0,0:43:13.75,0:43:15.00,*Default,NTP,0000,0000,0000,,距今10亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A billion years from now,
+Dialogue: 0,0:43:15.05,0:43:18.51,*Default,NTP,0000,0000,0000,,我们每天会有26小时 而不是24小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our days might last 26 hours, rather than 24 hours,
+Dialogue: 0,0:43:18.55,0:43:20.84,*Default,NTP,0000,0000,0000,,那太好了 如果你像我这样 拖拖拉拉的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is great if you're a procrastinator like me.
+Dialogue: 0,0:43:20.88,0:43:22.47,*Default,NTP,0000,0000,0000,,你可以一直用上更多的时间了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could always use more time.
+Dialogue: 0,0:43:25.47,0:43:28.56,*Default,NTP,0000,0000,0000,,那么会对产生地球生命的这种独特的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what will happen to the unique Earth-Moon partnership
+Dialogue: 0,0:43:28.60,0:43:31.31,*Default,NTP,0000,0000,0000,,地月伙伴关系产生什么后果呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that made life on Earth possible?
+Dialogue: 0,0:43:31.35,0:43:33.86,*Default,NTP,0000,0000,0000,,月球最终会不会慢慢离去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will the Moon eventually just drift away
+Dialogue: 0,0:43:33.90,0:43:36.19,*Default,NTP,0000,0000,0000,,摆脱地球的引力影响呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}out of Earth's gravitational influence?
+Dialogue: 0,0:43:37.32,0:43:42.49,*Default,NTP,0000,0000,0000,,速度会很慢很慢 不会有很大的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rate will be so slow that it won't be a very big effect,
+Dialogue: 0,0:43:42.53,0:43:46.78,*Default,NTP,0000,0000,0000,,长长的时间里不会有太大的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and long periods of time will pass without much change,
+Dialogue: 0,0:43:46.83,0:43:50.04,*Default,NTP,0000,0000,0000,,时间会长到我们有时间让我们的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so long that we will have had time for our Sun
+Dialogue: 0,0:43:50.08,0:43:53.42,*Default,NTP,0000,0000,0000,,耗尽燃料成为一颗红巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to run out of fuel and become a red giant.
+Dialogue: 0,0:43:55.67,0:43:59.05,*Default,NTP,0000,0000,0000,,到了那时 地球行将毁灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At that time, the Earth will be destroyed,
+Dialogue: 0,0:43:59.09,0:44:02.09,*Default,NTP,0000,0000,0000,,所以月球也将同时报销\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so will the Moon at the same time.
+Dialogue: 0,0:44:03.22,0:44:04.97,*Default,NTP,0000,0000,0000,,我们会一起受到煎熬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll all get baked together.
+Dialogue: 0,0:44:07.35,0:44:11.85,*Default,NTP,0000,0000,0000,,或许令人欣慰的是 距今50亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So maybe it's comforting to know that 5 billion years from now,
+Dialogue: 0,0:44:11.89,0:44:15.81,*Default,NTP,0000,0000,0000,,在地球临终之日 我们并不孤独\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the day the Earth faces its end, we won't be alone.
+Dialogue: 0,0:44:17.36,0:44:20.19,*Default,NTP,0000,0000,0000,,我们天上的锚具会呆在那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our anchor in the sky will be there

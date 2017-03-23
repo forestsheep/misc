@@ -1,0 +1,854 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:06.94,0:01:10.50,Default,,0000,0000,0008,,{\blur3}宇宙:与彗星同行{\r}
+Dialogue: 0,0:41:03.84,0:41:06.00,Default,,0000,0000,0008,,{\an8\blur3}询问宇宙{\r}
+Dialogue: 0,0:41:39.82,0:41:40.76,Default,,0000,0000,0008,,{\an8\blur3}询问宇宙{\r}
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:21.59,0:00:24.41,Default,,0000,0000,0000,,{\blur3}彗星以一往无前的气概{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Chart a daring course with comets,{\r}
+Dialogue: 0,0:00:24.44,0:00:27.79,Default,,0000,0000,0000,,{\blur3}在宇宙里进行着漫长的旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the cosmic time travelers of the skies.{\r}
+Dialogue: 0,0:00:28.13,0:00:30.76,Default,,0000,0000,0000,,{\blur3}这些神秘物体曾被视为异兆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These mysteious objects have been agents of change.{\r}
+Dialogue: 0,0:00:31.11,0:00:33.22,Default,,0000,0000,0000,,{\blur3}它们曾被认为是灾星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They've been agents of destruction.{\r}
+Dialogue: 0,0:00:33.63,0:00:36.20,Default,,0000,0000,0000,,{\blur3}这些天体携带着以前的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Discover why these celestial bodies{\r}
+Dialogue: 0,0:00:36.23,0:00:38.48,Default,,0000,0000,0000,,{\blur3}如果了解其中原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}carry secrets from our past{\r}
+Dialogue: 0,0:00:38.73,0:00:41.43,Default,,0000,0000,0000,,{\blur3}就可以让我们把握未来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and cast doom over our future.{\r}
+Dialogue: 0,0:00:41.87,0:00:44.03,Default,,0000,0000,0000,,{\blur3}如果它冲着我们而来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it's getting into our on-ramp,{\r}
+Dialogue: 0,0:00:44.04,0:00:45.45,Default,,0000,0000,0000,,{\blur3}我们就得担心吊胆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we need to worry about it.{\r}
+Dialogue: 0,0:00:45.72,0:00:47.37,Default,,0000,0000,0000,,{\blur3}除了发射巨型原子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's very little we can do{\r}
+Dialogue: 0,0:00:47.40,0:00:49.58,Default,,0000,0000,0000,,{\blur3}让它们偏离方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}other than sending a giant bomb toward them{\r}
+Dialogue: 0,0:00:49.61,0:00:51.17,Default,,0000,0000,0000,,{\blur3}我们别无选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and trying to deflect them.{\r}
+Dialogue: 0,0:00:51.87,0:00:53.94,Default,,0000,0000,0000,,{\blur3}让我们迎上这些冰冷的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Brace yourself as we rendezvous{\r}
+Dialogue: 0,0:00:53.97,0:00:56.77,Default,,0000,0000,0000,,{\blur3}来自宇宙深处的不速之客{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the frozen intruders from the great beyond{\r}
+Dialogue: 0,0:00:56.94,0:00:59.88,Default,,0000,0000,0000,,{\blur3}展开壮丽的"与彗星同行"之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on an epic journey to "Ride the Comet."{\r}
+Dialogue: 0,0:01:13.70,0:01:15.77,Default,,0000,0000,0000,,{\blur3}它们悄然出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They appear out of nowhere,{\r}
+Dialogue: 0,0:01:16.26,0:01:19.53,Default,,0000,0000,0000,,{\blur3}缓缓地划过漆黑夜空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gliding slowly across the nighttime sky{\r}
+Dialogue: 0,0:01:19.73,0:01:22.33,Default,,0000,0000,0000,,{\blur3}然后消失在视线之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then disappearing from sight.{\r}
+Dialogue: 0,0:01:23.87,0:01:26.95,Default,,0000,0000,0000,,{\blur3}许多古文明认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Throughout human history, ancient cultures{\r}
+Dialogue: 0,0:01:26.98,0:01:29.33,Default,,0000,0000,0000,,{\blur3}这些不速之客{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}believed these celestial intruders{\r}
+Dialogue: 0,0:01:29.54,0:01:32.23,Default,,0000,0000,0000,,{\blur3}拥有上帝赋予的特殊力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}carried special powers from the gods,{\r}
+Dialogue: 0,0:01:33.62,0:01:37.06,Default,,0000,0000,0000,,{\blur3}蕴藏着生与死的神秘信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mystical messengers of life and death.{\r}
+Dialogue: 0,0:01:37.98,0:01:38.90,Default,,0000,0000,0000,,{\blur3}科学家认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists like to think{\r}
+Dialogue: 0,0:01:38.93,0:01:41.37,Default,,0000,0000,0000,,{\blur3}彗星相当神秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that comets are fairly mysterious objects,{\r}
+Dialogue: 0,0:01:41.39,0:01:43.65,Default,,0000,0000,0000,,{\blur3}这是因为它们非常古老{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because we know that they're very old.{\r}
+Dialogue: 0,0:01:43.72,0:01:45.76,Default,,0000,0000,0000,,{\blur3}好象是来自太阳系诞生时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're like frozen time capsules{\r}
+Dialogue: 0,0:01:45.78,0:01:48.02,Default,,0000,0000,0000,,{\blur3}把时间冻结起来的密封舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from when our solar system was first formed.{\r}
+Dialogue: 0,0:01:49.53,0:01:51.48,Default,,0000,0000,0000,,{\blur3}彗星耀眼夺目{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comets are a bit of show-offs.{\r}
+Dialogue: 0,0:01:52.96,0:01:56.33,Default,,0000,0000,0000,,{\blur3}在夜空里 来无影 去无踪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They come into the night sky unannounced, unpredicted.{\r}
+Dialogue: 0,0:01:57.53,0:02:00.77,Default,,0000,0000,0000,,{\blur3}它们在中世纪被认为是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the Middle Ages, they were thought to be fireballs{\r}
+Dialogue: 0,0:02:00.80,0:02:01.97,Default,,0000,0000,0000,,{\blur3}怒火中烧的上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}thrown at a sinful Earth{\r}
+Dialogue: 0,0:02:02.00,0:02:03.97,Default,,0000,0000,0000,,{\blur3}掷向罪恶地球的火球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the right hand of an avenging god.{\r}
+Dialogue: 0,0:02:04.02,0:02:09.50,Default,,0000,0000,0000,,{\blur3}被视为畏惧之物 或是诡秘的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so they've always been feared or seen as mysterious.{\r}
+Dialogue: 0,0:02:11.32,0:02:12.87,Default,,0000,0000,0000,,{\blur3}让我们勇敢地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to hitch a ride{\r}
+Dialogue: 0,0:02:12.89,0:02:16.45,Default,,0000,0000,0000,,{\blur3}踏上茫茫旅程 去了解太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a bold, uncharted journey through the secret life{\r}
+Dialogue: 0,0:02:16.48,0:02:18.99,Default,,0000,0000,0000,,{\blur3}彗星的秘密生活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our solar system's comets.{\r}
+Dialogue: 0,0:02:20.77,0:02:24.99,Default,,0000,0000,0000,,{\blur3}我们坐着时光穿梭机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our daring quest begins 4.5 billion years ago,{\r}
+Dialogue: 0,0:02:25.12,0:02:28.24,Default,,0000,0000,0000,,{\blur3}从45亿年前太阳系诞生的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as our futuristic spacecraft time-travels{\r}
+Dialogue: 0,0:02:28.27,0:02:31.10,Default,,0000,0000,0000,,{\blur3}开始我们的无畏之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}back to the birth of our solar system.{\r}
+Dialogue: 0,0:02:36.26,0:02:39.00,Default,,0000,0000,0000,,{\blur3}我们曲折地穿过碎石群{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We zigzag through a maelstrom of debris{\r}
+Dialogue: 0,0:02:39.28,0:02:41.74,Default,,0000,0000,0000,,{\blur3}去开始研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to catch our first glimpse of comets,{\r}
+Dialogue: 0,0:02:42.40,0:02:45.92,Default,,0000,0000,0000,,{\blur3}这些自由任性 不肯与行星结合的石头堆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the wayward rocks that didn't meld into planets.{\r}
+Dialogue: 0,0:02:47.20,0:02:49.38,Default,,0000,0000,0000,,{\blur3}彗星其实是肮脏的雪球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comets are basically dirty snowballs{\r}
+Dialogue: 0,0:02:49.40,0:02:50.99,Default,,0000,0000,0000,,{\blur3}或者结冰的脏球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or icy dirtballs.{\r}
+Dialogue: 0,0:02:51.15,0:02:54.69,Default,,0000,0000,0000,,{\blur3}它们是由岩石 灰尘和脏东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They consist of rocks and dust and dirt{\r}
+Dialogue: 0,0:02:54.83,0:02:56.66,Default,,0000,0000,0000,,{\blur3}在冰块的作用下混合而成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}held together by ices-{\r}
+Dialogue: 0,0:02:56.69,0:03:01.25,Default,,0000,0000,0000,,{\blur3}冰块里包含有水 氨 甲烷和二氧化碳干冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}water ice, ammonia, methane, carbon dioxide, dry ice.{\r}
+Dialogue: 0,0:03:01.38,0:03:02.47,Default,,0000,0000,0000,,{\blur3}它就象是胶水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's sort of like the glue{\r}
+Dialogue: 0,0:03:02.50,0:03:03.86,Default,,0000,0000,0000,,{\blur3}把小石头和尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that holds all these little pebbles{\r}
+Dialogue: 0,0:03:03.89,0:03:05.85,Default,,0000,0000,0000,,{\blur3}牢牢地粘在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and particles of dust together.{\r}
+Dialogue: 0,0:03:08.58,0:03:12.11,Default,,0000,0000,0000,,{\blur3}这些冰团最主要的部分是彗核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The heart of these cosmic icebergs is the nucleus,{\r}
+Dialogue: 0,0:03:12.14,0:03:15.54,Default,,0000,0000,0000,,{\blur3}彗核也叫中央核心 它们的直径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or central core, which averages in size{\r}
+Dialogue: 0,0:03:15.65,0:03:20.00,Default,,0000,0000,0000,,{\blur3}有的长半英里 有的象一个现代城市这么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from a half mile wide to as big as a modern city.{\r}
+Dialogue: 0,0:03:21.60,0:03:23.05,Default,,0000,0000,0000,,{\blur3}通过近距离观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the things we've learned{\r}
+Dialogue: 0,0:03:23.08,0:03:26.84,Default,,0000,0000,0000,,{\blur3}我们发现彗核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by flying close by and observing the nuclei of comets{\r}
+Dialogue: 0,0:03:27.02,0:03:28.91,Default,,0000,0000,0000,,{\blur3}它们是奇怪的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that they're these strange{\r}
+Dialogue: 0,0:03:28.91,0:03:32.60,Default,,0000,0000,0000,,{\blur3}冰和岩石的聚合物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sort of compacted conglomerates of ice and rock.{\r}
+Dialogue: 0,0:03:32.63,0:03:33.69,Default,,0000,0000,0000,,{\blur3}彼此不相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're not uniform.{\r}
+Dialogue: 0,0:03:33.72,0:03:35.16,Default,,0000,0000,0000,,{\blur3}它们不是紧密的聚合体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're not perfectly mixed.{\r}
+Dialogue: 0,0:03:35.19,0:03:37.99,Default,,0000,0000,0000,,{\blur3}非常粗短 形状古怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're quite chunky and oddly shaped.{\r}
+Dialogue: 0,0:03:39.32,0:03:41.56,Default,,0000,0000,0000,,{\blur3}彗核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The nuclei of comets are...{\r}
+Dialogue: 0,0:03:42.36,0:03:43.79,Default,,0000,0000,0000,,{\blur3}非常易碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}very fragile entities.{\r}
+Dialogue: 0,0:03:43.87,0:03:44.80,Default,,0000,0000,0000,,{\blur3}如果手里有一块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you had a chunk,{\r}
+Dialogue: 0,0:03:44.83,0:03:47.68,Default,,0000,0000,0000,,{\blur3}你能轻而易举地折断它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you could probably break it easily in your hands.{\r}
+Dialogue: 0,0:03:50.19,0:03:53.49,Default,,0000,0000,0000,,{\blur3}准确来讲 与其说彗星象超大号雪球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Up close, comets look like bland chunks of charcoal{\r}
+Dialogue: 0,0:03:53.52,0:03:56.17,Default,,0000,0000,0000,,{\blur3}不如说它象大木炭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than supersized snowballs.{\r}
+Dialogue: 0,0:03:57.52,0:03:59.33,Default,,0000,0000,0000,,{\blur3}它们与我们在漆黑天空里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't even remotely resemble{\r}
+Dialogue: 0,0:03:59.36,0:04:01.20,Default,,0000,0000,0000,,{\blur3}见到的发光圆形天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the glowing orbs we see{\r}
+Dialogue: 0,0:04:01.23,0:04:03.27,Default,,0000,0000,0000,,{\blur3}相去甚远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our pitch-black skies.{\r}
+Dialogue: 0,0:04:04.46,0:04:07.30,Default,,0000,0000,0000,,{\blur3}我们认为绝大多数彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think that most comets are extremely dark{\r}
+Dialogue: 0,0:04:07.32,0:04:09.26,Default,,0000,0000,0000,,{\blur3}其表面非常黑 覆盖着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on their surfaces, that the surfaces are covered{\r}
+Dialogue: 0,0:04:09.28,0:04:11.24,Default,,0000,0000,0000,,{\blur3}类似于烧烤烟灰的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with something kind of like barbecue soot,{\r}
+Dialogue: 0,0:04:11.43,0:04:13.35,Default,,0000,0000,0000,,{\blur3}这种物质黑色无光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this really dark, black material{\r}
+Dialogue: 0,0:04:13.38,0:04:15.34,Default,,0000,0000,0000,,{\blur3}让彗星非常难被观察到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that makes them very difficult to see.{\r}
+Dialogue: 0,0:04:16.52,0:04:18.16,Default,,0000,0000,0000,,{\blur3}由于它们的远亲小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While their asteroid cousins{\r}
+Dialogue: 0,0:04:18.19,0:04:21.66,Default,,0000,0000,0000,,{\blur3}也拥有类似的物质 比如岩石和金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}share similar properties, such as rock and metal,{\r}
+Dialogue: 0,0:04:22.22,0:04:25.36,Default,,0000,0000,0000,,{\blur3}科学家们怀疑彗星产生于更遥远的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists suspect that comets were born farther out,{\r}
+Dialogue: 0,0:04:25.39,0:04:27.35,Default,,0000,0000,0000,,{\blur3}毗邻着气态巨行星的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}near the gas giant planets,{\r}
+Dialogue: 0,0:04:27.45,0:04:29.13,Default,,0000,0000,0000,,{\blur3}那里寒冷至极{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where it's much colder,{\r}
+Dialogue: 0,0:04:29.69,0:04:33.50,Default,,0000,0000,0000,,{\blur3}所以它们有很多的冰和易挥发成分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they possess more ices and volatile elements.{\r}
+Dialogue: 0,0:04:35.55,0:04:39.70,Default,,0000,0000,0000,,{\blur3}大约38亿年前 在寒冷的柯伊伯带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 3.8 billion years ago, many of these icy bodies{\r}
+Dialogue: 0,0:04:39.73,0:04:43.94,Default,,0000,0000,0000,,{\blur3}这个与太阳系最外侧的海王星相毗邻的区域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were whisked away to the Kuiper belt, a frigid neighborhood{\r}
+Dialogue: 0,0:04:43.95,0:04:46.84,Default,,0000,0000,0000,,{\blur3}许多冰团被甩了出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just beyond the outermost planet, Neptune.{\r}
+Dialogue: 0,0:04:48.73,0:04:51.98,Default,,0000,0000,0000,,{\blur3}柯伊伯带里的冰团或许会飞向太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Icy objects in the Kuiper belt probably formed{\r}
+Dialogue: 0,0:04:52.01,0:04:54.93,Default,,0000,0000,0000,,{\blur3}但那里有许多巨型行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}closer in toward the Sun, where the giant planets are,{\r}
+Dialogue: 0,0:04:55.04,0:04:58.52,Default,,0000,0000,0000,,{\blur3}巨型行星们联手施加万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but then gravitational interactions with those giant planets{\r}
+Dialogue: 0,0:04:58.54,0:05:01.54,Default,,0000,0000,0000,,{\blur3}从而让它们逃出了太阳的魔爪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}made those icy objects migrate outward.{\r}
+Dialogue: 0,0:05:07.03,0:05:08.96,Default,,0000,0000,0000,,{\blur3}我们飞船所穿越的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our spacecraft navigates{\r}
+Dialogue: 0,0:05:08.99,0:05:11.33,Default,,0000,0000,0000,,{\blur3}这一片黑暗的圆盘状区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through this dark, disklike region,{\r}
+Dialogue: 0,0:05:11.59,0:05:14.49,Default,,0000,0000,0000,,{\blur3}大约20亿英里宽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is almost 2 billion miles wide{\r}
+Dialogue: 0,0:05:14.95,0:05:18.91,Default,,0000,0000,0000,,{\blur3}估计里面的彗星超过60亿颗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and is estimated to hold over 6 billion comets.{\r}
+Dialogue: 0,0:05:20.17,0:05:25.20,Default,,0000,0000,0000,,{\blur3}我们最后降落在其中一块冰团的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We eventually touch down on the surface of one of these icy boulders.{\r}
+Dialogue: 0,0:05:25.99,0:05:28.83,Default,,0000,0000,0000,,{\blur3}登陆彗星相当棘手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Landing on a comet would be a pretty tricky affair.{\r}
+Dialogue: 0,0:05:31.67,0:05:33.88,Default,,0000,0000,0000,,{\blur3}在肮脏的冰雪下面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you could kind of imagine dirty snow{\r}
+Dialogue: 0,0:05:33.91,0:05:35.43,Default,,0000,0000,0000,,{\blur3}是气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's covered with exhaust,{\r}
+Dialogue: 0,0:05:35.55,0:05:37.20,Default,,0000,0000,0000,,{\blur3}如果在上面行走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and if you step on it, in places,{\r}
+Dialogue: 0,0:05:37.22,0:05:39.40,Default,,0000,0000,0000,,{\blur3}许多地方的表层不堪负荷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can punch through to places where there's more{\r}
+Dialogue: 0,0:05:39.42,0:05:40.86,Default,,0000,0000,0000,,{\blur3}就会被穿透{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}fresh material underneath it.{\r}
+Dialogue: 0,0:05:42.63,0:05:43.95,Default,,0000,0000,0000,,{\blur3}柯伊伯带里的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Kuiper belt objects{\r}
+Dialogue: 0,0:05:43.96,0:05:46.42,Default,,0000,0000,0000,,{\blur3}其轨道相当稳定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}appear to have fairly stable orbits,{\r}
+Dialogue: 0,0:05:46.74,0:05:49.41,Default,,0000,0000,0000,,{\blur3}用来做顺风车没有太多意思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they won't be that much fun to ride.{\r}
+Dialogue: 0,0:05:51.81,0:05:54.02,Default,,0000,0000,0000,,{\blur3}所以我们再次起飞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We lift off in search of a comet{\r}
+Dialogue: 0,0:05:54.05,0:05:56.01,Default,,0000,0000,0000,,{\blur3}去寻找穿越太阳系的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will cut a more exciting path{\r}
+Dialogue: 0,0:05:56.03,0:05:57.57,Default,,0000,0000,0000,,{\blur3}共赴激情之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through our solar system.{\r}
+Dialogue: 0,0:05:59.39,0:06:00.97,Default,,0000,0000,0000,,{\blur3}我们飞向更遥远的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We navigate farther out{\r}
+Dialogue: 0,0:06:00.99,0:06:04.85,Default,,0000,0000,0000,,{\blur3}行星稀少的"离散盘"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a sparsely populated region called the scattered disc,{\r}
+Dialogue: 0,0:06:05.42,0:06:09.43,Default,,0000,0000,0000,,{\blur3}那里是冰团的家园 其轨道椭而长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is home to icy bodies with long, elliptical orbits.{\r}
+Dialogue: 0,0:06:10.06,0:06:13.97,Default,,0000,0000,0000,,{\blur3}最细微的扰动也能让这些不稳定的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The slightest disturbance can send these unstable objects{\r}
+Dialogue: 0,0:06:13.99,0:06:16.34,Default,,0000,0000,0000,,{\blur3}猛冲进内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}careening into the inner solar system,{\r}
+Dialogue: 0,0:06:17.08,0:06:20.56,Default,,0000,0000,0000,,{\blur3}成为我们所说的每20年至200年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where they become known as short-period comets,{\r}
+Dialogue: 0,0:06:20.94,0:06:25.48,Default,,0000,0000,0000,,{\blur3}环绕太阳一次的"短周期彗星"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}those which orbit the Sun every 20 to 200 years.{\r}
+Dialogue: 0,0:06:26.84,0:06:28.25,Default,,0000,0000,0000,,{\blur3}那里行星稀少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The scattered disc region{\r}
+Dialogue: 0,0:06:28.28,0:06:30.42,Default,,0000,0000,0000,,{\blur3}被认为是短周期彗星的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is thought to be the primary source{\r}
+Dialogue: 0,0:06:30.49,0:06:32.01,Default,,0000,0000,0000,,{\blur3}主要发源地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the short-period comets.{\r}
+Dialogue: 0,0:06:32.13,0:06:34.58,Default,,0000,0000,0000,,{\blur3}它们之所以被踢进内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are kicked into the inner solar system{\r}
+Dialogue: 0,0:06:34.61,0:06:36.56,Default,,0000,0000,0000,,{\blur3}是因为海王星或路过的天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}either by interacting with Neptune{\r}
+Dialogue: 0,0:06:36.58,0:06:38.84,Default,,0000,0000,0000,,{\blur3}对它们施加影响的缘故{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or possibly passing stars.{\r}
+Dialogue: 0,0:06:39.90,0:06:41.57,Default,,0000,0000,0000,,{\blur3}飞船里的我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our spacecraft witnesses{\r}
+Dialogue: 0,0:06:41.59,0:06:44.43,Default,,0000,0000,0000,,{\blur3}亲眼目睹了海王星的万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neptune's gravitational influence at work,{\r}
+Dialogue: 0,0:06:45.16,0:06:48.79,Default,,0000,0000,0000,,{\blur3}把一颗彗星甩出了离散盘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dislodging a comet out of the scattered disc.{\r}
+Dialogue: 0,0:06:49.81,0:06:52.81,Default,,0000,0000,0000,,{\blur3}登陆眼前的彗星 实在是太危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This comet would be too dangerous to land on,{\r}
+Dialogue: 0,0:06:53.21,0:06:55.15,Default,,0000,0000,0000,,{\blur3}我们只能紧跟其后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we'll track alongside it{\r}
+Dialogue: 0,0:06:55.27,0:06:59.02,Default,,0000,0000,0000,,{\blur3}去一睹其穿越太阳系的新生之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on its transformational flight through our solar system.{\r}
+Dialogue: 0,0:07:02.04,0:07:04.71,Default,,0000,0000,0000,,{\blur3}如果它飞向太阳 会发生什么情况？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what would happen if it was on a journey toward the Sun?{\r}
+Dialogue: 0,0:07:04.80,0:07:07.47,Default,,0000,0000,0000,,{\blur3}一开始 它象黑色的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, it would start off looking like a dark asteroid.{\r}
+Dialogue: 0,0:07:07.70,0:07:09.28,Default,,0000,0000,0000,,{\blur3}什么都没有发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nothing much is happening.{\r}
+Dialogue: 0,0:07:09.51,0:07:11.52,Default,,0000,0000,0000,,{\blur3}它的周围没有大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It doesn't have an atmosphere around it.{\r}
+Dialogue: 0,0:07:12.52,0:07:15.10,Default,,0000,0000,0000,,{\blur3}一到了内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As you start to travel toward the inner solar system,{\r}
+Dialogue: 0,0:07:15.11,0:07:17.88,Default,,0000,0000,0000,,{\blur3}接近木星 或是离太阳更近的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}get up to Jupiter or even closer to the Sun,{\r}
+Dialogue: 0,0:07:17.94,0:07:20.51,Default,,0000,0000,0000,,{\blur3}彗星会开始变得活跃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the comet would start to become active.{\r}
+Dialogue: 0,0:07:21.87,0:07:24.67,Default,,0000,0000,0000,,{\blur3}太阳的温暖让彗星开始变热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The warmth from the Sun starts to heat up the comet,{\r}
+Dialogue: 0,0:07:24.91,0:07:27.70,Default,,0000,0000,0000,,{\blur3}其内部的冰冻物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and all the frozen material that's trapped on the inside{\r}
+Dialogue: 0,0:07:27.73,0:07:31.34,Default,,0000,0000,0000,,{\blur3}开始从冰转化为气态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}starts to convert from ice into gaseous material,{\r}
+Dialogue: 0,0:07:31.53,0:07:33.97,Default,,0000,0000,0000,,{\blur3}穿透彗星的外层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so these gas jets can actually punch through{\r}
+Dialogue: 0,0:07:33.99,0:07:36.41,Default,,0000,0000,0000,,{\blur3}形成喷射气流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the crust of the comet and form jets.{\r}
+Dialogue: 0,0:07:36.77,0:07:38.99,Default,,0000,0000,0000,,{\blur3}喷射气流离开表面时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As these jets flow away from the surface,{\r}
+Dialogue: 0,0:07:39.02,0:07:41.67,Default,,0000,0000,0000,,{\blur3}会把尘埃和石头一起冲出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they can start to pull dust and rocks with them,{\r}
+Dialogue: 0,0:07:41.77,0:07:45.06,Default,,0000,0000,0000,,{\blur3}形成了笼罩彗核的烟雾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this forms a kind of hazy atmosphere around the comet's nucleus.{\r}
+Dialogue: 0,0:07:45.09,0:07:46.90,Default,,0000,0000,0000,,{\blur3}我们称之为"彗发"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We call this the coma.{\r}
+Dialogue: 0,0:07:47.75,0:07:49.51,Default,,0000,0000,0000,,{\blur3}从地球上观测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As it zooms by Earth,{\r}
+Dialogue: 0,0:07:49.54,0:07:52.59,Default,,0000,0000,0000,,{\blur3}彗发会渐渐变得{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the coma of a comet can grow to be larger{\r}
+Dialogue: 0,0:07:52.62,0:07:54.90,Default,,0000,0000,0000,,{\blur3}比太阳的直径还要大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the diameter of our Sun.{\r}
+Dialogue: 0,0:07:56.42,0:07:59.96,Default,,0000,0000,0000,,{\blur3}最后 太阳辐射把光环加在彗核后面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Solar radiation eventually pushes this cosmic halo{\r}
+Dialogue: 0,0:07:59.98,0:08:03.89,Default,,0000,0000,0000,,{\blur3}形成两条明亮的尾巴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}behind the nucleus, forming two bright tails:{\r}
+Dialogue: 0,0:08:04.14,0:08:07.80,Default,,0000,0000,0000,,{\blur3}一条尘埃的 一条气体的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of dust and the other of gas.{\r}
+Dialogue: 0,0:08:08.71,0:08:11.57,Default,,0000,0000,0000,,{\blur3}尾巴将会越长越大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There will be a tail growing and growing and growing,{\r}
+Dialogue: 0,0:08:11.67,0:08:13.68,Default,,0000,0000,0000,,{\blur3}而紧随其后的你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you would eventually become engulfed{\r}
+Dialogue: 0,0:08:13.71,0:08:17.55,Default,,0000,0000,0000,,{\blur3}被包裹在夹杂尘埃的石头和冰块当中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in just a really rocky, icy, particle-filled environment.{\r}
+Dialogue: 0,0:08:17.57,0:08:19.88,Default,,0000,0000,0000,,{\blur3}你的飞船将难以飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would be very difficult on your spacecraft{\r}
+Dialogue: 0,0:08:19.96,0:08:22.72,Default,,0000,0000,0000,,{\blur3}就好象是在暴风雪中穿梭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it'd be like flying through a blizzard.{\r}
+Dialogue: 0,0:08:24.69,0:08:28.41,Default,,0000,0000,0000,,{\blur3}有些尾巴会延伸至1亿英里长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some tails can stretch for 100 million miles,{\r}
+Dialogue: 0,0:08:28.47,0:08:31.57,Default,,0000,0000,0000,,{\blur3}这意味着 在朝太阳进发的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more than the distance between the Sun and the Earth,{\r}
+Dialogue: 0,0:08:31.64,0:08:34.24,Default,,0000,0000,0000,,{\blur3}彗尾比太阳和地球的间距还要长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it travels towards our home star.{\r}
+Dialogue: 0,0:08:34.35,0:08:38.54,Default,,0000,0000,0000,,{\blur3}这是太阳系里最壮丽的奇观之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's one of the most spectacular spectacles of our solar system.{\r}
+Dialogue: 0,0:08:39.81,0:08:41.14,Default,,0000,0000,0000,,{\blur3}现在 我们一起看看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Today we're going to see what happens{\r}
+Dialogue: 0,0:08:41.16,0:08:44.94,Default,,0000,0000,0000,,{\blur3}如果让位于寒冷 漆黑的太阳系外围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when we take a comet that's been in the cold, dark, icy outer reaches{\r}
+Dialogue: 0,0:08:44.96,0:08:46.20,Default,,0000,0000,0000,,{\blur3}被冰封的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the solar system,{\r}
+Dialogue: 0,0:08:46.32,0:08:48.86,Default,,0000,0000,0000,,{\blur3}向着近日点 即是最接近太阳的点逼近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we're going to send it inward towards its perihelion,{\r}
+Dialogue: 0,0:08:48.88,0:08:51.20,Default,,0000,0000,0000,,{\blur3}会发生什么情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the point of closest approach to the Sun.{\r}
+Dialogue: 0,0:08:51.52,0:08:53.88,Default,,0000,0000,0000,,{\blur3}干冰是冰冻的二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, dry ice is frozen carbon dioxide,{\r}
+Dialogue: 0,0:08:53.91,0:08:56.90,Default,,0000,0000,0000,,{\blur3}它是彗星非常普遍的成份{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this is a very common constituent of comets.{\r}
+Dialogue: 0,0:08:56.92,0:08:58.23,Default,,0000,0000,0000,,{\blur3}请注意了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's see what happens.{\r}
+Dialogue: 0,0:08:58.27,0:08:59.84,Default,,0000,0000,0000,,{\blur3}我们把干冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we take this piece of dry ice,{\r}
+Dialogue: 0,0:08:59.87,0:09:01.86,Default,,0000,0000,0000,,{\blur3}放进温暖的水中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we drop it into the warm water,{\r}
+Dialogue: 0,0:09:01.91,0:09:03.74,Default,,0000,0000,0000,,{\blur3}它开始升华{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the dry ice starts to sublimate.{\r}
+Dialogue: 0,0:09:03.78,0:09:06.67,Default,,0000,0000,0000,,{\blur3}这说明它直接从冻结的固态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means it converts directly from a solid, frozen state{\r}
+Dialogue: 0,0:09:06.70,0:09:08.17,Default,,0000,0000,0000,,{\blur3}转变为气态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into a gaseous state.{\r}
+Dialogue: 0,0:09:08.34,0:09:10.59,Default,,0000,0000,0000,,{\blur3}而由于干冰的某些部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as the water starts to warm up{\r}
+Dialogue: 0,0:09:10.62,0:09:12.63,Default,,0000,0000,0000,,{\blur3}首先被水加热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}certain parts of the dry ice first,{\r}
+Dialogue: 0,0:09:12.81,0:09:15.74,Default,,0000,0000,0000,,{\blur3}所以开始出现微小的喷射流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can start to see that little jets kind of form on it,{\r}
+Dialogue: 0,0:09:15.89,0:09:18.88,Default,,0000,0000,0000,,{\blur3}形成了被称为"彗发"的雾气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this forms a hazy atmosphere called a coma.{\r}
+Dialogue: 0,0:09:20.04,0:09:21.77,Default,,0000,0000,0000,,{\blur3}在升华的过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can see that the little chips of dry ice{\r}
+Dialogue: 0,0:09:21.78,0:09:24.62,Default,,0000,0000,0000,,{\blur3}干冰小碎片不停地变化着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are constantly changing as they sublimate away.{\r}
+Dialogue: 0,0:09:24.80,0:09:25.84,Default,,0000,0000,0000,,{\blur3}时而加速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sometimes they speed up.{\r}
+Dialogue: 0,0:09:25.86,0:09:27.26,Default,,0000,0000,0000,,{\blur3}时而慢下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sometimes they slow down.{\r}
+Dialogue: 0,0:09:27.37,0:09:28.93,Default,,0000,0000,0000,,{\blur3}所以 如果它是彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if this was a comet,{\r}
+Dialogue: 0,0:09:28.96,0:09:32.04,Default,,0000,0000,0000,,{\blur3}你能想象得到 当彗星接近太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can get the idea that, as the comet approaches the Sun,{\r}
+Dialogue: 0,0:09:32.16,0:09:34.29,Default,,0000,0000,0000,,{\blur3}不稳定的物质会开始蒸发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the volatiles start to vaporize,{\r}
+Dialogue: 0,0:09:34.34,0:09:36.50,Default,,0000,0000,0000,,{\blur3}彗星的运行状态会发生改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this can actually change the comet's rotational state{\r}
+Dialogue: 0,0:09:36.53,0:09:38.21,Default,,0000,0000,0000,,{\blur3}甚至轨道也会改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even its orbit.{\r}
+Dialogue: 0,0:09:40.18,0:09:42.50,Default,,0000,0000,0000,,{\blur3}在最靠近太阳的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comets are brightest and fastest{\r}
+Dialogue: 0,0:09:42.53,0:09:44.36,Default,,0000,0000,0000,,{\blur3}彗星最明亮 最快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when they're closest to the Sun.{\r}
+Dialogue: 0,0:09:45.13,0:09:48.32,Default,,0000,0000,0000,,{\blur3}太阳的灼热和巨大的万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The searing heat and immense gravity of our mother star{\r}
+Dialogue: 0,0:09:48.35,0:09:50.47,Default,,0000,0000,0000,,{\blur3}可以让彗星加速至{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can accelerate a comet's speed{\r}
+Dialogue: 0,0:09:50.69,0:09:53.81,Default,,0000,0000,0000,,{\blur3}每小时将近2百万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to nearly 2 million miles per hour.{\r}
+Dialogue: 0,0:09:54.17,0:09:57.12,Default,,0000,0000,0000,,{\blur3}太阳使它的速度大幅增加{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed increases a lot, and it whips around the Sun,{\r}
+Dialogue: 0,0:09:57.15,0:09:59.14,Default,,0000,0000,0000,,{\blur3}而且越来越快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it goes zoom, like that,{\r}
+Dialogue: 0,0:09:59.39,0:10:02.61,Default,,0000,0000,0000,,{\blur3}如同一辆冲向低处的巨型过山车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like being propelled at the bottom of a giant roller coaster.{\r}
+Dialogue: 0,0:10:02.64,0:10:05.97,Default,,0000,0000,0000,,{\blur3}过山车刚从高处下落时 非常慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A roller coaster starts out high, very slowly,{\r}
+Dialogue: 0,0:10:06.33,0:10:08.37,Default,,0000,0000,0000,,{\blur3}重力作用使它速度加快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}picks up speed due to the gravity,{\r}
+Dialogue: 0,0:10:08.49,0:10:10.60,Default,,0000,0000,0000,,{\blur3}风驰电掣地通过低处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}goes zooming past the bottom,{\r}
+Dialogue: 0,0:10:10.65,0:10:13.79,Default,,0000,0000,0000,,{\blur3}然后又再次慢下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then slows down again on its outward journey.{\r}
+Dialogue: 0,0:10:15.57,0:10:18.08,Default,,0000,0000,0000,,{\blur3}彗星最终会离太阳而去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually, as our comet leaves the vicinity of the Sun,{\r}
+Dialogue: 0,0:10:18.11,0:10:21.32,Default,,0000,0000,0000,,{\blur3}返回到遥远的太阳系深处 继续不变的旅程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's going to travel back out into the far reaches of the solar system.{\r}
+Dialogue: 0,0:10:21.37,0:10:23.00,Default,,0000,0000,0000,,{\blur3}一切会平息下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything's going to quiet down.{\r}
+Dialogue: 0,0:10:23.03,0:10:26.17,Default,,0000,0000,0000,,{\blur3}所有的气体和尘埃将重新沉积回表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of the gas and dust is going to settle back onto its surface.{\r}
+Dialogue: 0,0:10:26.27,0:10:28.87,Default,,0000,0000,0000,,{\blur3}最后 整个彗星将没入宁静的黑暗中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And eventually, it'll cruise away into the quiet dark.{\r}
+Dialogue: 0,0:10:32.42,0:10:35.42,Default,,0000,0000,0000,,{\blur3}彗星回到寒冷的离散盘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Back in the cold region of the scattered disc,{\r}
+Dialogue: 0,0:10:35.50,0:10:37.01,Default,,0000,0000,0000,,{\blur3}再次变成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a comet transforms{\r}
+Dialogue: 0,0:10:37.04,0:10:40.22,Default,,0000,0000,0000,,{\blur3}晦暗无光的石头和冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}back into a dull, black lump of rock and ice{\r}
+Dialogue: 0,0:10:40.43,0:10:43.98,Default,,0000,0000,0000,,{\blur3}直到它再次去环绕太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until it makes its journey around the Sun once again.{\r}
+Dialogue: 0,0:10:47.61,0:10:50.87,Default,,0000,0000,0000,,{\blur3}哈雷是最著名的短周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Haley, the most famous short-period comet,{\r}
+Dialogue: 0,0:10:51.13,0:10:53.88,Default,,0000,0000,0000,,{\blur3}每76年经过地球一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was first recorded in 240.C.{\r}
+Dialogue: 0,0:10:54.18,0:10:57.85,Default,,0000,0000,0000,,{\blur3}在公元前240年被首次记录下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and has passed by Earth every 76 years.{\r}
+Dialogue: 0,0:10:58.48,0:11:01.08,Default,,0000,0000,0000,,{\blur3}家喻户晓的它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Estimated to be the size of Manhattan,{\r}
+Dialogue: 0,0:11:01.25,0:11:04.23,Default,,0000,0000,0000,,{\blur3}估计有曼哈顿那么大 非常明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this superstar comet is sometimes so bright,{\r}
+Dialogue: 0,0:11:04.30,0:11:06.74,Default,,0000,0000,0000,,{\blur3}在大白天也能看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it has been seen in broad daylight.{\r}
+Dialogue: 0,0:11:08.22,0:11:09.69,Default,,0000,0000,0000,,{\blur3}在历史上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Throughout history,{\r}
+Dialogue: 0,0:11:09.82,0:11:13.23,Default,,0000,0000,0000,,{\blur3}哈雷的出现都会引起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the appearance of Haley has inspired awe and dread{\r}
+Dialogue: 0,0:11:13.32,0:11:15.47,Default,,0000,0000,0000,,{\blur3}地球人的敬畏和恐惧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}among earthly observers.{\r}
+Dialogue: 0,0:11:15.97,0:11:18.71,Default,,0000,0000,0000,,{\blur3}在1910年 人们为此惊恐万分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 1910, it was feared,{\r}
+Dialogue: 0,0:11:18.73,0:11:21.37,Default,,0000,0000,0000,,{\blur3}刚创立不久的光谱学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because spectroscopy had just been introduced,{\r}
+Dialogue: 0,0:11:21.40,0:11:24.96,Default,,0000,0000,0000,,{\blur3}让人们认为 彗星含有氰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they had determined that comets contain cyanogen,{\r}
+Dialogue: 0,0:11:25.03,0:11:28.12,Default,,0000,0000,0000,,{\blur3}氰是一种无臭的有毒气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is an odorless and poisonous gas,{\r}
+Dialogue: 0,0:11:28.15,0:11:30.81,Default,,0000,0000,0000,,{\blur3}所以天文学家预测 这种毒气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so astronomers predicted that there'd be problems{\r}
+Dialogue: 0,0:11:30.84,0:11:32.98,Default,,0000,0000,0000,,{\blur3}扫过地球时会带来麻烦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because of this poisonous gas sweeping the Earth,{\r}
+Dialogue: 0,0:11:33.00,0:11:36.02,Default,,0000,0000,0000,,{\blur3}给人类造成浩劫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so there were actually comet pills manufactured.{\r}
+Dialogue: 0,0:11:36.04,0:11:39.18,Default,,0000,0000,0000,,{\blur3}当时的保险就删除了有关彗星的内容{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Life insurance policies on the comet were taken out.{\r}
+Dialogue: 0,0:11:41.79,0:11:43.46,Default,,0000,0000,0000,,{\blur3}在彗星被认为是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While comets have been thought to be{\r}
+Dialogue: 0,0:11:43.48,0:11:45.95,Default,,0000,0000,0000,,{\blur3}天外死亡预言的同时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}extraterrestrial harbingers of doom,{\r}
+Dialogue: 0,0:11:46.35,0:11:49.80,Default,,0000,0000,0000,,{\blur3}天文学家思考着 是否这些发光的石头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomers have long wondered if these glowing rocks{\r}
+Dialogue: 0,0:11:49.82,0:11:53.83,Default,,0000,0000,0000,,{\blur3}蕴藏着关于我们过去的珍贵信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}contain precious information about our past.{\r}
+Dialogue: 0,0:11:56.11,0:11:59.67,Default,,0000,0000,0000,,{\blur3}在21世纪 美国航天局 (NASA) 筹划了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By the 21st century, NASA was ready to ignite{\r}
+Dialogue: 0,0:11:59.70,0:12:02.11,Default,,0000,0000,0000,,{\blur3}一次异常大胆的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a bold offensive strike,{\r}
+Dialogue: 0,0:12:02.25,0:12:04.34,Default,,0000,0000,0000,,{\blur3}希望可以对{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one that would hopefully expose{\r}
+Dialogue: 0,0:12:04.37,0:12:08.03,Default,,0000,0000,0000,,{\blur3}被誉为行星科学终极目标之一的彗星进行揭秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of the holy grails of planetary science.{\r}
+Dialogue: 0,0:12:08.43,0:12:11.25,Default,,0000,0000,0000,,{\blur3}这些星际流浪者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could these interplanetary vagabonds{\r}
+Dialogue: 0,0:12:11.27,0:12:14.22,Default,,0000,0000,0000,,{\blur3}曾经是宇宙生命的传递者吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have been the cosmic transporters of life?{\r}
+Dialogue: 0,0:12:20.46,0:12:23.18,Default,,0000,0000,0000,,{\blur3}迄今为止 我们与彗星一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So far, we've traveled with comets{\r}
+Dialogue: 0,0:12:23.37,0:12:27.24,Default,,0000,0000,0000,,{\blur3}从寒冷 偏远的柯伊伯带和离散盘出发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the frozen hinterlands of the Kuiper belt and scattered disc{\r}
+Dialogue: 0,0:12:27.73,0:12:30.72,Default,,0000,0000,0000,,{\blur3}飞赴激情的环绕太阳之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to an exhilarating orbit around the Sun.{\r}
+Dialogue: 0,0:12:31.42,0:12:33.92,Default,,0000,0000,0000,,{\blur3}在它形成明亮的彗发和彗尾的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've watched these dark bodies come alive{\r}
+Dialogue: 0,0:12:33.94,0:12:37.44,Default,,0000,0000,0000,,{\blur3}我们看到了彗星爆发的活力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as they formed brilliant comas and tails.{\r}
+Dialogue: 0,0:12:38.04,0:12:40.04,Default,,0000,0000,0000,,{\blur3}但科学家们仍然{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But scientists are still puzzled{\r}
+Dialogue: 0,0:12:40.06,0:12:44.57,Default,,0000,0000,0000,,{\blur3}对彗星内部有什么东西 感到困惑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about what's really inside these cosmic interlopers.{\r}
+Dialogue: 0,0:12:45.93,0:12:48.68,Default,,0000,0000,0000,,{\blur3}我希望了解彗星内部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Man, I wish I knew what the interior of a comet looked like.{\r}
+Dialogue: 0,0:12:48.72,0:12:52.65,Default,,0000,0000,0000,,{\blur3}很想看到彗核里的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You would love to be able to look inside the nucleus of a comet,{\r}
+Dialogue: 0,0:12:52.97,0:12:55.88,Default,,0000,0000,0000,,{\blur3}看看是不是块状 是不是千篇一律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to see if it's clumpy, if it's uniform.{\r}
+Dialogue: 0,0:12:56.31,0:12:57.71,Default,,0000,0000,0000,,{\blur3}有结晶的冰吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is there crystalline ice?{\r}
+Dialogue: 0,0:12:57.73,0:12:59.43,Default,,0000,0000,0000,,{\blur3}有玻璃状的冰吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is there glassy ice?{\r}
+Dialogue: 0,0:13:05.35,0:13:06.84,Default,,0000,0000,0000,,{\blur3}我们的神奇飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our protective spacecraft{\r}
+Dialogue: 0,0:13:06.87,0:13:09.68,Default,,0000,0000,0000,,{\blur3}穿越时空 回到2005年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}time-travels back to 2005{\r}
+Dialogue: 0,0:13:10.19,0:13:13.67,Default,,0000,0000,0000,,{\blur3}与NASA执行撞击彗星任务的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and meets up with NASA's Deep Impact space probe{\r}
+Dialogue: 0,0:13:13.79,0:13:15.54,Default,,0000,0000,0000,,{\blur3}"深度撞击号"相会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a comet-hunting mission.{\r}
+Dialogue: 0,0:13:16.88,0:13:21.06,Default,,0000,0000,0000,,{\blur3}它撞击的目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It zeroes in on a short-period comet named Tempel 1{\r}
+Dialogue: 0,0:13:21.28,0:13:23.52,Default,,0000,0000,0000,,{\blur3}是坦普尔1号短周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with an aggressive plan of attack.{\r}
+Dialogue: 0,0:13:26.55,0:13:29.94,Default,,0000,0000,0000,,{\blur3}深度撞击号向擦肩而过的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We hover at a safe distance as Deep Impact{\r}
+Dialogue: 0,0:13:29.96,0:13:33.86,Default,,0000,0000,0000,,{\blur3}发射了一个800磅重的撞击器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}launches an 800-pound projectile into the passing comet.{\r}
+Dialogue: 0,0:13:37.17,0:13:40.38,Default,,0000,0000,0000,,{\blur3}撞击器轰出一个弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Debris sprays out for thousands of miles{\r}
+Dialogue: 0,0:13:40.42,0:13:43.02,Default,,0000,0000,0000,,{\blur3}碎片飞溅数千英里高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the impactor excavates a crater{\r}
+Dialogue: 0,0:13:43.36,0:13:48.42,Default,,0000,0000,0000,,{\blur3}数以吨计的气体 岩石和尘埃被抛入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and sends tons of blinding gas, rocks, and dust into space.{\r}
+Dialogue: 0,0:13:48.91,0:13:50.89,Default,,0000,0000,0000,,{\blur3}在人类历史上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the first time in history,{\r}
+Dialogue: 0,0:13:51.13,0:13:53.80,Default,,0000,0000,0000,,{\blur3}这或许是科学家首次能够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists are able to peer inside{\r}
+Dialogue: 0,0:13:53.89,0:13:57.14,Default,,0000,0000,0000,,{\blur3}仔细观察彗星内部的冰封世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the icy, muddy interior of a comet.{\r}
+Dialogue: 0,0:13:58.54,0:13:59.85,Default,,0000,0000,0000,,{\blur3}在撞击后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right after the impact,{\r}
+Dialogue: 0,0:13:59.86,0:14:02.78,Default,,0000,0000,0000,,{\blur3}硅酸盐颗粒强烈反光 极为明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you could see silicate grains fluorescing and glowing.{\r}
+Dialogue: 0,0:14:02.97,0:14:06.16,Default,,0000,0000,0000,,{\blur3}这就说明 彗星是非常原始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This tells us that comets are very primitive material{\r}
+Dialogue: 0,0:14:06.36,0:14:09.22,Default,,0000,0000,0000,,{\blur3}它们让物质基本保持了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that they pretty much do preserve in pristine state{\r}
+Dialogue: 0,0:14:09.36,0:14:12.73,Default,,0000,0000,0000,,{\blur3}恒星形成最初期的原始状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the materials that we find in the youngest star-forming systems.{\r}
+Dialogue: 0,0:14:13.33,0:14:15.52,Default,,0000,0000,0000,,{\blur3}所以 它们是时间的密封舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So indeed, they really are time capsules{\r}
+Dialogue: 0,0:14:15.54,0:14:17.77,Default,,0000,0000,0000,,{\blur3}能让我们追溯到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that let us look back on our own solar system{\r}
+Dialogue: 0,0:14:17.80,0:14:19.29,Default,,0000,0000,0000,,{\blur3}太阳系的最早期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the very beginning.{\r}
+Dialogue: 0,0:14:22.37,0:14:23.55,Default,,0000,0000,0000,,{\blur3}在深度撞击号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While Deep Impact{\r}
+Dialogue: 0,0:14:23.57,0:14:26.49,Default,,0000,0000,0000,,{\blur3}对彗星内部一窥究竟的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}captures a rare glimpse of a comet's interior,{\r}
+Dialogue: 0,0:14:27.24,0:14:30.36,Default,,0000,0000,0000,,{\blur3}由于碎片太多太细 景象模糊不清{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it is unable to snap clear images of the crater,{\r}
+Dialogue: 0,0:14:30.65,0:14:34.29,Default,,0000,0000,0000,,{\blur3}它未能得到清晰的弹坑照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which was obscured by an enormous plume of debris.{\r}
+Dialogue: 0,0:14:37.36,0:14:39.44,Default,,0000,0000,0000,,{\blur3}在2011年2月{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In February 2011,{\r}
+Dialogue: 0,0:14:39.56,0:14:42.56,Default,,0000,0000,0000,,{\blur3}另一艘宇宙飞船"星尘-延续任务号"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another spacecraft, named Stardust-NExT,{\r}
+Dialogue: 0,0:14:42.59,0:14:44.37,Default,,0000,0000,0000,,{\blur3}追赶上五年绕太阳一次的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}catches up to Tempel 1{\r}
+Dialogue: 0,0:14:44.47,0:14:47.96,Default,,0000,0000,0000,,{\blur3}坦普尔1号彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it completes its five-year orbit around the Sun.{\r}
+Dialogue: 0,0:14:51.00,0:14:52.80,Default,,0000,0000,0000,,{\blur3}让每个人都吃惊的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To everyone's surprise,{\r}
+Dialogue: 0,0:14:52.96,0:14:56.63,Default,,0000,0000,0000,,{\blur3}五年前历史性的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the impact crater is much smaller than had been expected{\r}
+Dialogue: 0,0:14:56.66,0:15:00.29,Default,,0000,0000,0000,,{\blur3}所留下的弹坑比预料的小得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the historic smash-up that occurred five years earlier.{\r}
+Dialogue: 0,0:15:01.65,0:15:02.70,Default,,0000,0000,0000,,{\blur3}真奇怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Amazing...{\r}
+Dialogue: 0,0:15:02.95,0:15:05.17,Default,,0000,0000,0000,,{\blur3}弹坑看起来比较小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the crater looked like it was small.{\r}
+Dialogue: 0,0:15:05.29,0:15:06.97,Default,,0000,0000,0000,,{\blur3}由此引发了一个争议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this now creates this issue:{\r}
+Dialogue: 0,0:15:06.99,0:15:08.93,Default,,0000,0000,0000,,{\blur3}弹坑总是这么小吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Was the crater always small?{\r}
+Dialogue: 0,0:15:09.03,0:15:12.03,Default,,0000,0000,0000,,{\blur3}弹坑与我们预想的不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know the crater isn't what we expected.{\r}
+Dialogue: 0,0:15:13.06,0:15:14.69,Default,,0000,0000,0000,,{\blur3}所以要进行一些实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we're going to do some experiments{\r}
+Dialogue: 0,0:15:14.71,0:15:18.57,Default,,0000,0000,0000,,{\blur3}看看能否解释个中原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to see if we can explain why the crater looks like it does.{\r}
+Dialogue: 0,0:15:18.66,0:15:20.06,Default,,0000,0000,0000,,{\blur3}太阳灯来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sunlamp's coming on.{\r}
+Dialogue: 0,0:15:21.26,0:15:22.66,Default,,0000,0000,0000,,{\blur3}可以上移一点吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can we move it up a bit?{\r}
+Dialogue: 0,0:15:24.29,0:15:26.85,Default,,0000,0000,0000,,{\blur3}在NASA的艾姆斯垂直射击靶场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At NASA's Ames Vertical Gun Range,{\r}
+Dialogue: 0,0:15:27.29,0:15:30.36,Default,,0000,0000,0000,,{\blur3}"星尘-延续任务"的负责人皮特.舒尔茨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stardust-NExT coinvestigator Pete Schultz{\r}
+Dialogue: 0,0:15:30.49,0:15:33.72,Default,,0000,0000,0000,,{\blur3}正在安排高速撞击试验 以便弄明白{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is conducting high-velocity impact experiments{\r}
+Dialogue: 0,0:15:33.90,0:15:38.09,Default,,0000,0000,0000,,{\blur3}深度撞击号留下的弹坑怎么那么小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to find out why Deep Impact produced such a tiny crater.{\r}
+Dialogue: 0,0:15:39.56,0:15:43.64,Default,,0000,0000,0000,,{\blur3}他将会用一支巨大的点30口径高速气枪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He will use a massive .30-caliber high-velocity gas gun{\r}
+Dialogue: 0,0:15:43.94,0:15:47.53,Default,,0000,0000,0000,,{\blur3}发射细小的子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to fire tiny projectile beads at various targets{\r}
+Dialogue: 0,0:15:47.84,0:15:50.33,Default,,0000,0000,0000,,{\blur3}打向真空室里的目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}located inside a vacuum chamber.{\r}
+Dialogue: 0,0:15:55.24,0:15:57.27,Default,,0000,0000,0000,,{\blur3}我们正试图模拟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're trying to simulate{\r}
+Dialogue: 0,0:15:57.55,0:16:01.23,Default,,0000,0000,0000,,{\blur3}9P/Tempel 1 彗星的真实表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what the nature of the surface of comet 9P/Tempel 1 is like,{\r}
+Dialogue: 0,0:16:01.33,0:16:02.96,Default,,0000,0000,0000,,{\blur3}所以我们放入珍珠岩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we're putting in perlite,{\r}
+Dialogue: 0,0:16:02.99,0:16:05.40,Default,,0000,0000,0000,,{\blur3}这种低密度的园林材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is this low-density material that you find in gardens,{\r}
+Dialogue: 0,0:16:05.43,0:16:07.46,Default,,0000,0000,0000,,{\blur3}再加入中空的小球粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then we're adding in hollow microspheres,{\r}
+Dialogue: 0,0:16:07.83,0:16:11.84,Default,,0000,0000,0000,,{\blur3}让它更加类似于真实的彗星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this also resemble what the nature of the comet is like.{\r}
+Dialogue: 0,0:16:11.98,0:16:15.27,Default,,0000,0000,0000,,{\blur3}实验的目的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The purpose of the experiment is to see what happens{\r}
+Dialogue: 0,0:16:15.30,0:16:16.92,Default,,0000,0000,0000,,{\blur3}观察弹坑的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the crater after formation.{\r}
+Dialogue: 0,0:16:17.18,0:16:19.03,Default,,0000,0000,0000,,{\blur3}会有弹坑吗？它会坍塌吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Does it stay there? Does it collapse?{\r}
+Dialogue: 0,0:16:19.11,0:16:21.54,Default,,0000,0000,0000,,{\blur3}实验之后 将真相大白{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With this experiment, we should be able to find out.{\r}
+Dialogue: 0,0:16:22.68,0:16:24.23,Default,,0000,0000,0000,,{\blur3}好了 我走出箱子了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, I'm out of the tank.{\r}
+Dialogue: 0,0:16:24.26,0:16:25.55,Default,,0000,0000,0000,,{\blur3}准备开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lock and load.{\r}
+Dialogue: 0,0:16:26.14,0:16:29.35,Default,,0000,0000,0000,,{\blur3}高速摄影机遍布真空室四周{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}High-speed cameras mounted around the vacuum chamber{\r}
+Dialogue: 0,0:16:29.70,0:16:31.46,Default,,0000,0000,0000,,{\blur3}将对撞击进行记录{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will document the impact.{\r}
+Dialogue: 0,0:16:31.83,0:16:33.24,Default,,0000,0000,0000,,{\blur3}我们象离弦的箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've got this one covered.{\r}
+Dialogue: 0,0:16:33.34,0:16:35.83,Default,,0000,0000,0000,,{\blur3}只能命中目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We just have to hit the target.{\r}
+Dialogue: 0,0:16:36.57,0:16:37.61,Default,,0000,0000,0000,,{\blur3}好了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay.{\r}
+Dialogue: 0,0:16:39.06,0:16:40.75,Default,,0000,0000,0000,,{\blur3}让我们动手吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's shoot this puppy.{\r}
+Dialogue: 0,0:16:40.83,0:16:41.90,Default,,0000,0000,0000,,{\blur3}J.P. 好了吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}J.P., are you ready?{\r}
+Dialogue: 0,0:16:41.93,0:16:43.02,Default,,0000,0000,0000,,{\blur3}好了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yeah.{\r}
+Dialogue: 0,0:16:45.02,0:16:47.91,Default,,0000,0000,0000,,{\blur3}焦急等待的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the crew anxiously awaits in the control room,{\r}
+Dialogue: 0,0:16:48.27,0:16:51.53,Default,,0000,0000,0000,,{\blur3}皮特做出了一个迷信的举动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pete mixes science with a little superstition.{\r}
+Dialogue: 0,0:16:52.41,0:16:53.61,Default,,0000,0000,0000,,{\blur3}风险始终存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's always a risk.{\r}
+Dialogue: 0,0:16:53.63,0:16:55.81,Default,,0000,0000,0000,,{\blur3}有时会失败 有时会成功{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sometimes you miss. Sometimes you hit.{\r}
+Dialogue: 0,0:17:02.44,0:17:03.58,Default,,0000,0000,0000,,{\blur3}噢 天哪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, sweet.{\r}
+Dialogue: 0,0:17:03.61,0:17:06.36,Default,,0000,0000,0000,,{\blur3}它塌了下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The whole thing sort of collapses in on itself.{\r}
+Dialogue: 0,0:17:06.38,0:17:07.80,Default,,0000,0000,0000,,{\blur3}变小了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's getting smaller now.{\r}
+Dialogue: 0,0:17:07.82,0:17:09.78,Default,,0000,0000,0000,,{\blur3}开始大 现在小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was bigger. Now it's getting smaller.{\r}
+Dialogue: 0,0:17:09.98,0:17:13.74,Default,,0000,0000,0000,,{\blur3}许多尘埃和喷射物飞溅起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what we see here is that there's a lot of dust and ejecta{\r}
+Dialogue: 0,0:17:13.77,0:17:16.59,Default,,0000,0000,0000,,{\blur3}填充了弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sent upwards, and that blocked the view.{\r}
+Dialogue: 0,0:17:16.68,0:17:18.41,Default,,0000,0000,0000,,{\blur3}弹坑不成样子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We couldn't see the crater forming.{\r}
+Dialogue: 0,0:17:18.77,0:17:21.23,Default,,0000,0000,0000,,{\blur3}因此 美丽的弹坑在眨眼间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what started off being a nice-looking crater,{\r}
+Dialogue: 0,0:17:21.37,0:17:22.56,Default,,0000,0000,0000,,{\blur3}不见了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it just doesn't stay there.{\r}
+Dialogue: 0,0:17:22.61,0:17:24.01,Default,,0000,0000,0000,,{\blur3}它自我恢复了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It just simply heals itself.{\r}
+Dialogue: 0,0:17:24.11,0:17:27.67,Default,,0000,0000,0000,,{\blur3}所以 9P/Tempel 1彗星可能也是如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what may have happened for 9P/Tempel 1,{\r}
+Dialogue: 0,0:17:27.80,0:17:31.39,Default,,0000,0000,0000,,{\blur3}对弹坑进行了自我恢复{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the nucleus, is that that crater healed itself.{\r}
+Dialogue: 0,0:17:31.43,0:17:34.49,Default,,0000,0000,0000,,{\blur3}也就是说 彗核自我治愈了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The nucleus healed itself from the scar created{\r}
+Dialogue: 0,0:17:34.52,0:17:36.59,Default,,0000,0000,0000,,{\blur3}深度撞击号带来的创伤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by us with Deep Impact.{\r}
+Dialogue: 0,0:17:36.84,0:17:38.35,Default,,0000,0000,0000,,{\blur3}让我们去看看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's see what we did.{\r}
+Dialogue: 0,0:17:44.14,0:17:46.03,Default,,0000,0000,0000,,{\blur3}这个结果很奇怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the results were fantastic.{\r}
+Dialogue: 0,0:17:46.15,0:17:48.55,Default,,0000,0000,0000,,{\blur3}我们检查了原来的计划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We got to see just what we planned to.{\r}
+Dialogue: 0,0:17:48.68,0:17:50.27,Default,,0000,0000,0000,,{\blur3}发现不是这么简单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There may be more to the story,{\r}
+Dialogue: 0,0:17:50.30,0:17:52.90,Default,,0000,0000,0000,,{\blur3}所以还要做另一个不同的实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we're going to try a different experiment as well.{\r}
+Dialogue: 0,0:17:54.48,0:17:55.60,Default,,0000,0000,0000,,{\blur3}皮特有一个预感{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pete has a hunch{\r}
+Dialogue: 0,0:17:55.63,0:17:58.72,Default,,0000,0000,0000,,{\blur3}深度撞击任务有疏漏之处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's a missing piece to the Deep Impact mission.{\r}
+Dialogue: 0,0:17:59.56,0:18:01.88,Default,,0000,0000,0000,,{\blur3}他现在想知道 航天探测器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He now wants to see if the space probe{\r}
+Dialogue: 0,0:18:01.91,0:18:05.18,Default,,0000,0000,0000,,{\blur3}是否因为坦普尔1号核心的构造{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}created a different type of crater on Tempel 1,{\r}
+Dialogue: 0,0:18:05.67,0:18:08.60,Default,,0000,0000,0000,,{\blur3}而产生一个不同类型的弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}due to the makeup of the comet's nucleus.{\r}
+Dialogue: 0,0:18:09.60,0:18:11.78,Default,,0000,0000,0000,,{\blur3}眼下 我们将在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this time, we're going to put{\r}
+Dialogue: 0,0:18:11.81,0:18:16.29,Default,,0000,0000,0000,,{\blur3}珍珠岩下面放一层密度大的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a denser layer below that perlite,{\r}
+Dialogue: 0,0:18:16.91,0:18:18.61,Default,,0000,0000,0000,,{\blur3}去确认一下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we want to find out whether or not{\r}
+Dialogue: 0,0:18:18.63,0:18:20.19,Default,,0000,0000,0000,,{\blur3}能否得到一个不同类型的弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we'll get a different type of crater{\r}
+Dialogue: 0,0:18:20.22,0:18:22.73,Default,,0000,0000,0000,,{\blur3}如果我们使用上软下密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we have two different types of material:{\r}
+Dialogue: 0,0:18:22.75,0:18:27.00,Default,,0000,0000,0000,,{\blur3}这两种不同类型的材料的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one very soft on top and one denser on the bottom.{\r}
+Dialogue: 0,0:18:28.76,0:18:31.30,Default,,0000,0000,0000,,{\blur3}皮特和队员回到控制室观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pete and his crew return to the control room{\r}
+Dialogue: 0,0:18:31.48,0:18:34.34,Default,,0000,0000,0000,,{\blur3}底下铺着厚厚一层沙子的珍珠岩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to see what happens to the new target of perlite{\r}
+Dialogue: 0,0:18:34.48,0:18:36.66,Default,,0000,0000,0000,,{\blur3}这个新靶子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}poured over a heavier layer of sand.{\r}
+Dialogue: 0,0:18:44.16,0:18:47.41,Default,,0000,0000,0000,,{\blur3}这次在珍珠岩上形成了一个大弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, that formed a big crater in the perlite.{\r}
+Dialogue: 0,0:18:47.62,0:18:49.09,Default,,0000,0000,0000,,{\blur3}请仔细看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Boy, look at that.{\r}
+Dialogue: 0,0:18:49.74,0:18:53.51,Default,,0000,0000,0000,,{\blur3}噢 哥们 太棒了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, oh, man, that is gorgeous.{\r}
+Dialogue: 0,0:18:53.93,0:18:54.89,Default,,0000,0000,0000,,{\blur3}好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay.{\r}
+Dialogue: 0,0:18:55.27,0:18:56.92,Default,,0000,0000,0000,,{\blur3}子弹钻进深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The projectile went deep,{\r}
+Dialogue: 0,0:18:57.19,0:18:59.79,Default,,0000,0000,0000,,{\blur3}击起了无数的碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and now the stuff is coming back out that hole,{\r}
+Dialogue: 0,0:18:59.97,0:19:03.19,Default,,0000,0000,0000,,{\blur3}向洞外四处飞溅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while, on the surface, it's excavating debris.{\r}
+Dialogue: 0,0:19:05.05,0:19:06.24,Default,,0000,0000,0000,,{\blur3}砰 好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pow! Okay.{\r}
+Dialogue: 0,0:19:06.31,0:19:08.87,Default,,0000,0000,0000,,{\blur3}双层靶子产生的不是一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The double-layered target created not one{\r}
+Dialogue: 0,0:19:08.89,0:19:10.56,Default,,0000,0000,0000,,{\blur3}而是两个弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but two craters,{\r}
+Dialogue: 0,0:19:10.82,0:19:14.82,Default,,0000,0000,0000,,{\blur3}小的弹坑是在大而浅的弹坑内部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a small crater inside a larger, shallower crater.{\r}
+Dialogue: 0,0:19:15.48,0:19:18.82,Default,,0000,0000,0000,,{\blur3}在9P/Tempel 1彗星上也会如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This could be what happened for 9P/Tempel 1.{\r}
+Dialogue: 0,0:19:18.85,0:19:21.32,Default,,0000,0000,0000,,{\blur3}射弹钻进彗核很深的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It went so deep into the nucleus,{\r}
+Dialogue: 0,0:19:21.84,0:19:25.05,Default,,0000,0000,0000,,{\blur3}然后引起坍塌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then it just simply collapses away,{\r}
+Dialogue: 0,0:19:25.07,0:19:27.84,Default,,0000,0000,0000,,{\blur3}我们在外面只能看到非常不起眼的圆环{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we're left with just this very, very faint rim{\r}
+Dialogue: 0,0:19:27.87,0:19:30.80,Default,,0000,0000,0000,,{\blur3}其中心也只是一个小凹点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the outside with a small pit in the center.{\r}
+Dialogue: 0,0:19:31.73,0:19:33.30,Default,,0000,0000,0000,,{\blur3}这些撞击实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These impact experiments{\r}
+Dialogue: 0,0:19:33.32,0:19:37.25,Default,,0000,0000,0000,,{\blur3}为研究坦普尔1号彗星提供了意外的线索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}yield surprising clues about the interior of Tempel 1{\r}
+Dialogue: 0,0:19:37.55,0:19:40.21,Default,,0000,0000,0000,,{\blur3}甚至可能适用于所有的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and perhaps all comets.{\r}
+Dialogue: 0,0:19:40.62,0:19:42.84,Default,,0000,0000,0000,,{\blur3}彗星历史悠久{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now we know that comets have history.{\r}
+Dialogue: 0,0:19:43.32,0:19:44.57,Default,,0000,0000,0000,,{\blur3}由不同的层组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We see layers.{\r}
+Dialogue: 0,0:19:44.60,0:19:46.92,Default,,0000,0000,0000,,{\blur3}但我不清楚彗核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't know if these layers go all the way{\r}
+Dialogue: 0,0:19:46.95,0:19:48.59,Default,,0000,0000,0000,,{\blur3}是通体如一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through the nucleus,{\r}
+Dialogue: 0,0:19:48.61,0:19:50.71,Default,,0000,0000,0000,,{\blur3}还是各层相互不同？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or are they only in one part?{\r}
+Dialogue: 0,0:19:52.50,0:19:53.89,Default,,0000,0000,0000,,{\blur3}解开彗星内部之迷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unraveling the secrets{\r}
+Dialogue: 0,0:19:53.92,0:19:57.41,Default,,0000,0000,0000,,{\blur3}将有助于科学家去了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of what's inside comets will help scientists understand{\r}
+Dialogue: 0,0:19:57.43,0:20:00.91,Default,,0000,0000,0000,,{\blur3}是什么使得它们行为怪异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what causes them to exhibit some really bizarre behavior.{\r}
+Dialogue: 0,0:20:12.10,0:20:14.14,Default,,0000,0000,0000,,{\blur3}去与哈特利2号见面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it encounters Hartley 2,{\r}
+Dialogue: 0,0:20:14.63,0:20:18.04,Default,,0000,0000,0000,,{\blur3}那是一颗快速旋转的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a fast-spinning comet that tumbles through space{\r}
+Dialogue: 0,0:20:18.07,0:20:20.95,Default,,0000,0000,0000,,{\blur3}好象一颗在太空里不停翻转的花生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a hyperactive cosmic peanut.{\r}
+Dialogue: 0,0:20:21.75,0:20:23.24,Default,,0000,0000,0000,,{\blur3}哈特利2号比较小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hartley 2 is a smaller comet.{\r}
+Dialogue: 0,0:20:23.27,0:20:25.16,Default,,0000,0000,0000,,{\blur3}直径只有大约一英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's only about a mile or so across,{\r}
+Dialogue: 0,0:20:25.18,0:20:27.77,Default,,0000,0000,0000,,{\blur3}因此它异常活跃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so it's kind of a surprise that it's so active.{\r}
+Dialogue: 0,0:20:27.79,0:20:31.54,Default,,0000,0000,0000,,{\blur3}它喷射出大量的二氧化碳和氰气流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's putting off huge amounts of CO2 and, actually, cyanide gas.{\r}
+Dialogue: 0,0:20:31.63,0:20:34.17,Default,,0000,0000,0000,,{\blur3}但问题是 是所有小彗星都如此活跃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the question is, are all small comets active like this{\r}
+Dialogue: 0,0:20:34.20,0:20:35.27,Default,,0000,0000,0000,,{\blur3}还是少数？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or only a few?{\r}
+Dialogue: 0,0:20:35.29,0:20:37.35,Default,,0000,0000,0000,,{\blur3}还有 是什么让它们如此活跃？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what makes them so active?{\r}
+Dialogue: 0,0:20:39.84,0:20:42.14,Default,,0000,0000,0000,,{\blur3}这里有一个小塑料瓶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I've got a peanut-shaped plastic bottle here{\r}
+Dialogue: 0,0:20:42.17,0:20:44.56,Default,,0000,0000,0000,,{\blur3}假设它是哈特利2号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's supposed to represent comet Hartley 2.{\r}
+Dialogue: 0,0:20:44.66,0:20:46.64,Default,,0000,0000,0000,,{\blur3}它里面装满了干冰和热水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's full of dry ice and warm water,{\r}
+Dialogue: 0,0:20:46.67,0:20:47.61,Default,,0000,0000,0000,,{\blur3}可以看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and as you can see,{\r}
+Dialogue: 0,0:20:47.64,0:20:50.20,Default,,0000,0000,0000,,{\blur3}热水开始让干冰升华{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the warm water starts to make the dry ice sublimate,{\r}
+Dialogue: 0,0:20:50.39,0:20:51.77,Default,,0000,0000,0000,,{\blur3}并从瓶子上的洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it shoots out these jets{\r}
+Dialogue: 0,0:20:51.79,0:20:53.66,Default,,0000,0000,0000,,{\blur3}喷射出气流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through the holes that we've got poked in the bottle.{\r}
+Dialogue: 0,0:20:53.74,0:20:55.38,Default,,0000,0000,0000,,{\blur3}如果我把它放到水里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If I drop it into the water,{\r}
+Dialogue: 0,0:20:55.43,0:20:57.34,Default,,0000,0000,0000,,{\blur3}不再用手拿着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}instead of holding it fixed in space,{\r}
+Dialogue: 0,0:20:57.57,0:20:59.29,Default,,0000,0000,0000,,{\blur3}喷射气流会立即让瓶子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can see that the jets actually start{\r}
+Dialogue: 0,0:20:59.32,0:21:00.52,Default,,0000,0000,0000,,{\blur3}发生旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pushing the bottle around,{\r}
+Dialogue: 0,0:21:00.54,0:21:02.93,Default,,0000,0000,0000,,{\blur3}这就是彗星运行状态改变的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}causing the comet's rotational state to change.{\r}
+Dialogue: 0,0:21:02.96,0:21:06.25,Default,,0000,0000,0000,,{\blur3}它非常类似于哈特利2号的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is very similar to what's going on on the surface of comet Hartley 2.{\r}
+Dialogue: 0,0:21:06.43,0:21:09.61,Default,,0000,0000,0000,,{\blur3}二氧化碳喷射流改变了彗星的运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The CO2 jets are actually changing the rotational state{\r}
+Dialogue: 0,0:21:09.64,0:21:12.35,Default,,0000,0000,0000,,{\blur3}导致它时快时慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the comet, causing it to speed up and slow down.{\r}
+Dialogue: 0,0:21:15.17,0:21:17.07,Default,,0000,0000,0000,,{\blur3}跟踪哈特利2号的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When tracking Hartley 2,{\r}
+Dialogue: 0,0:21:17.50,0:21:20.66,Default,,0000,0000,0000,,{\blur3}我们的飞船遇上了宇宙里的暴风雪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our spacecraft gets caught in a cosmic blizzard{\r}
+Dialogue: 0,0:21:21.06,0:21:24.11,Default,,0000,0000,0000,,{\blur3}这颗彗星神经质地喷出冰冻的雪球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the spastic comet burps and belches out{\r}
+Dialogue: 0,0:21:24.14,0:21:29.52,Default,,0000,0000,0000,,{\blur3}在宇宙间绵延数百万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a trail of frozen snowballs that extend for millions of miles.{\r}
+Dialogue: 0,0:21:30.77,0:21:32.53,Default,,0000,0000,0000,,{\blur3}哈特利2号带来的惊奇之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the big surprises about Hartley 2{\r}
+Dialogue: 0,0:21:32.56,0:21:36.43,Default,,0000,0000,0000,,{\blur3}是环绕着它的一群微型彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that it was surrounded by this posse of mini comets.{\r}
+Dialogue: 0,0:21:36.77,0:21:39.68,Default,,0000,0000,0000,,{\blur3}那是喷发出来的冰雪球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is simply ices that are coming off,{\r}
+Dialogue: 0,0:21:39.93,0:21:42.82,Default,,0000,0000,0000,,{\blur3}尺寸甚至有篮球这样大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the size of a snowball all the way up to a basketball.{\r}
+Dialogue: 0,0:21:43.90,0:21:46.82,Default,,0000,0000,0000,,{\blur3}科学家怀疑这些雪球大小的碎块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists suspect the snowball-sized debris{\r}
+Dialogue: 0,0:21:46.85,0:21:49.32,Default,,0000,0000,0000,,{\blur3}下雨般回落到哈特利2号上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rains back down on Hartley 2,{\r}
+Dialogue: 0,0:21:49.81,0:21:54.40,Default,,0000,0000,0000,,{\blur3}形成弹坑和高峰无数的奇异景观{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}producing its unusual landscape of craters and towering spires.{\r}
+Dialogue: 0,0:21:55.75,0:21:57.95,Default,,0000,0000,0000,,{\blur3}这些彗星的引力非常小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because these comets have very little gravities,{\r}
+Dialogue: 0,0:21:57.97,0:21:59.88,Default,,0000,0000,0000,,{\blur3}绝大多数气体被刮进了宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most of the gas is blown out into space,{\r}
+Dialogue: 0,0:21:59.90,0:22:02.82,Default,,0000,0000,0000,,{\blur3}只有非常少的一部分再沉积回表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but a very small fraction can actually redeposit{\r}
+Dialogue: 0,0:22:02.85,0:22:05.83,Default,,0000,0000,0000,,{\blur3}在那里形成非常平滑的结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the surface, generating very smooth textures,{\r}
+Dialogue: 0,0:22:05.86,0:22:08.32,Default,,0000,0000,0000,,{\blur3}而在其它的地方 或是坑洼不平{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and on other locations, generating these very bumpy{\r}
+Dialogue: 0,0:22:08.35,0:22:10.02,Default,,0000,0000,0000,,{\blur3}或是高峰林立{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or spire-like texture.{\r}
+Dialogue: 0,0:22:10.42,0:22:11.83,Default,,0000,0000,0000,,{\blur3}告别了哈特利2号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From Hartley 2,{\r}
+Dialogue: 0,0:22:12.08,0:22:15.90,Default,,0000,0000,0000,,{\blur3}我们向太阳系的最外沿进发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we blast off to the extreme outer edge of our solar system,{\r}
+Dialogue: 0,0:22:17.04,0:22:18.97,Default,,0000,0000,0000,,{\blur3}那里空旷阴森{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a vast, eerie place,{\r}
+Dialogue: 0,0:22:19.13,0:22:22.24,Default,,0000,0000,0000,,{\blur3}太阳的万有引力鞭长莫及{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}barely within the gravitational grasp of our Sun{\r}
+Dialogue: 0,0:22:22.60,0:22:26.36,Default,,0000,0000,0000,,{\blur3}即使凭借现代化的望远镜 也难以看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and impossible to see, even with modern telescopes.{\r}
+Dialogue: 0,0:22:27.64,0:22:30.42,Default,,0000,0000,0000,,{\blur3}我们在银河邻居这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here, we come upon the largest{\r}
+Dialogue: 0,0:22:30.45,0:22:31.99,Default,,0000,0000,0000,,{\blur3}已经邂逅了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and perhaps most elusive{\r}
+Dialogue: 0,0:22:32.01,0:22:35.72,Default,,0000,0000,0000,,{\blur3}最大的 可能是最不可捉摸的冰团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}icy bodies in our galactic neighborhood.{\r}
+Dialogue: 0,0:22:44.06,0:22:47.10,Default,,0000,0000,0000,,{\blur3}迷人的彗星世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our journey through the fascinating world of comets{\r}
+Dialogue: 0,0:22:47.38,0:22:51.13,Default,,0000,0000,0000,,{\blur3}给我们的旅程增添了无限惊喜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has provided us a ringside seat to some of the greatest{\r}
+Dialogue: 0,0:22:51.14,0:22:55.11,Default,,0000,0000,0000,,{\blur3}让我们欣赏到了不少精彩的宇宙表演秀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cosmic shows observed from Earth and space.{\r}
+Dialogue: 0,0:22:59.86,0:23:02.13,Default,,0000,0000,0000,,{\blur3}我们现在改变航线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We now change course and travel{\r}
+Dialogue: 0,0:23:02.15,0:23:06.50,Default,,0000,0000,0000,,{\blur3}去跨越比地球到太阳还远5万倍的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over 50,000 times the distance between Earth and the Sun{\r}
+Dialogue: 0,0:23:06.71,0:23:10.03,Default,,0000,0000,0000,,{\blur3}奔向我们太阳系的最外沿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the outermost edge of our solar system.{\r}
+Dialogue: 0,0:23:11.86,0:23:13.86,Default,,0000,0000,0000,,{\blur3}我们抵达了奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We arrive at the Oort cloud,{\r}
+Dialogue: 0,0:23:13.96,0:23:16.81,Default,,0000,0000,0000,,{\blur3}一个非常大的彗星云集地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an even larger fraternity of comets,{\r}
+Dialogue: 0,0:23:16.86,0:23:19.31,Default,,0000,0000,0000,,{\blur3}其数量可能超过一万亿个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps over a trillion of them.{\r}
+Dialogue: 0,0:23:21.26,0:23:22.64,Default,,0000,0000,0000,,{\blur3}如果我们的飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we'd actually got in a spaceship{\r}
+Dialogue: 0,0:23:22.67,0:23:25.18,Default,,0000,0000,0000,,{\blur3}想游览整个奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and tried to go out and, say, visit the Oort cloud,{\r}
+Dialogue: 0,0:23:26.13,0:23:28.49,Default,,0000,0000,0000,,{\blur3}那将会是一段漫长旅程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this would have been a long journey.{\r}
+Dialogue: 0,0:23:29.38,0:23:31.75,Default,,0000,0000,0000,,{\blur3}那里的物体不可计数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's billions and billions of these objects,{\r}
+Dialogue: 0,0:23:32.63,0:23:34.75,Default,,0000,0000,0000,,{\blur3}彼此间相隔遥远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's a lot of space in between them.{\r}
+Dialogue: 0,0:23:36.94,0:23:39.71,Default,,0000,0000,0000,,{\blur3}与柯伊伯带和离散盘相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like the Kuiper belt and scattered disc,{\r}
+Dialogue: 0,0:23:40.33,0:23:43.68,Default,,0000,0000,0000,,{\blur3}奥尔特云物体和太阳的形成时间可能很接近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Oort cloud objects may have formed closer to the Sun,{\r}
+Dialogue: 0,0:23:44.72,0:23:48.71,Default,,0000,0000,0000,,{\blur3}但在太阳系形成大约8亿年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but about 800 million years after the solar system was formed,{\r}
+Dialogue: 0,0:23:49.26,0:23:52.82,Default,,0000,0000,0000,,{\blur3}气态巨行星的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the gravitational influence of the gas giant planets{\r}
+Dialogue: 0,0:23:53.21,0:23:54.39,Default,,0000,0000,0000,,{\blur3}把这些彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}flung these comets{\r}
+Dialogue: 0,0:23:54.42,0:23:57.26,Default,,0000,0000,0000,,{\blur3}扔到了寒冷的太阳系外沿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out to the frigid edge of our solar system.{\r}
+Dialogue: 0,0:23:58.83,0:24:02.65,Default,,0000,0000,0000,,{\blur3}一些物体以非常椭的轨道 被往外扔到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some of these objects were flung into very highly elliptical orbits{\r}
+Dialogue: 0,0:24:02.67,0:24:03.96,Default,,0000,0000,0000,,{\blur3}奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out into the Oort cloud.{\r}
+Dialogue: 0,0:24:04.07,0:24:06.19,Default,,0000,0000,0000,,{\blur3}路过的星体使它们的轨道变圆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Passing stars could circularize those orbits,{\r}
+Dialogue: 0,0:24:06.22,0:24:08.89,Default,,0000,0000,0000,,{\blur3}并让它们在一定程度上稳定下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}making somewhat stable orbits for them.{\r}
+Dialogue: 0,0:24:10.06,0:24:11.72,Default,,0000,0000,0000,,{\blur3}大多数奥尔特云物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of the Oort cloud bodies{\r}
+Dialogue: 0,0:24:11.75,0:24:13.43,Default,,0000,0000,0000,,{\blur3}自从太阳系诞生之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have been in frozen hibernation{\r}
+Dialogue: 0,0:24:13.46,0:24:15.81,Default,,0000,0000,0000,,{\blur3}一直处在寒冷的冬眠世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since the birth of our solar system.{\r}
+Dialogue: 0,0:24:17.06,0:24:19.69,Default,,0000,0000,0000,,{\blur3}只有在轨道受到影响的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They only become long-period comets{\r}
+Dialogue: 0,0:24:19.72,0:24:21.36,Default,,0000,0000,0000,,{\blur3}它们才会变成长周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when they get sucked into orbits{\r}
+Dialogue: 0,0:24:21.39,0:24:25.24,Default,,0000,0000,0000,,{\blur3}冲向太阳系内的行星和太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that carry them inward towards the planets and the Sun.{\r}
+Dialogue: 0,0:24:27.08,0:24:29.14,Default,,0000,0000,0000,,{\blur3}科学家们还没有得到过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists have never actually captured{\r}
+Dialogue: 0,0:24:29.15,0:24:30.71,Default,,0000,0000,0000,,{\blur3}奥尔特云的影像{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an image of the Oort cloud,{\r}
+Dialogue: 0,0:24:31.14,0:24:33.97,Default,,0000,0000,0000,,{\blur3}但他们很有理由相信它在那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they have good reason to believe it's there.{\r}
+Dialogue: 0,0:24:34.92,0:24:37.46,Default,,0000,0000,0000,,{\blur3}即使距离太远 看起来模糊不清{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even though scientists can't directly observe the Oort cloud{\r}
+Dialogue: 0,0:24:37.49,0:24:39.87,Default,,0000,0000,0000,,{\blur3}科学家不能直接研究奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it's so far away and so faint,{\r}
+Dialogue: 0,0:24:40.03,0:24:42.50,Default,,0000,0000,0000,,{\blur3}但他们能够推断它的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what they are able to do is infer its existence{\r}
+Dialogue: 0,0:24:42.53,0:24:43.62,Default,,0000,0000,0000,,{\blur3}因为我们能研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because we can look at{\r}
+Dialogue: 0,0:24:43.65,0:24:46.74,Default,,0000,0000,0000,,{\blur3}那些从四面八方游弋而来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where all these long-period comets come from on the sky,{\r}
+Dialogue: 0,0:24:46.76,0:24:48.65,Default,,0000,0000,0000,,{\blur3}长周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they seem to come from all different directions.{\r}
+Dialogue: 0,0:24:48.68,0:24:51.48,Default,,0000,0000,0000,,{\blur3}它们到来的方向不太一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There doesn't really seem to be a preferred direction for them.{\r}
+Dialogue: 0,0:24:51.61,0:24:53.36,Default,,0000,0000,0000,,{\blur3}这就说明奥尔特云很可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This suggests that the Oort cloud,{\r}
+Dialogue: 0,0:24:53.39,0:24:56.03,Default,,0000,0000,0000,,{\blur3}大致是圆的 如果它存在的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if it exists, is probably roughly spherical.{\r}
+Dialogue: 0,0:24:58.40,0:25:00.17,Default,,0000,0000,0000,,{\blur3}一个巨大的疑问是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the big mysteries{\r}
+Dialogue: 0,0:25:00.26,0:25:03.35,Default,,0000,0000,0000,,{\blur3}到底是什么东西横蛮地撞击这些冰团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is what knocks these icy bodies off course{\r}
+Dialogue: 0,0:25:03.61,0:25:07.22,Default,,0000,0000,0000,,{\blur3}让它们游弋到了地球附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and sends them cruising by our neighborhood of Earth.{\r}
+Dialogue: 0,0:25:08.05,0:25:13.28,Default,,0000,0000,0000,,{\blur3}奥尔特云的彗星很容易受到太阳系外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The comets in the Oort cloud are very susceptible to gravitational pulls from other things{\r}
+Dialogue: 0,0:25:13.30,0:25:14.93,Default,,0000,0000,0000,,{\blur3}其它物体引力的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}outside the solar system.{\r}
+Dialogue: 0,0:25:14.96,0:25:16.97,Default,,0000,0000,0000,,{\blur3}其中一种是路过的星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One thing is passing stars.{\r}
+Dialogue: 0,0:25:17.00,0:25:20.00,Default,,0000,0000,0000,,{\blur3}如果一个星体碰巧靠近太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If a star happens to come close to our Sun,{\r}
+Dialogue: 0,0:25:20.05,0:25:23.54,Default,,0000,0000,0000,,{\blur3}它会把彗星从奥尔特云外围驱散{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it can scatter comets from the outer Oort cloud.{\r}
+Dialogue: 0,0:25:25.26,0:25:28.37,Default,,0000,0000,0000,,{\blur3}在太阳系经过银河系某一颗行星时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Icy objects in the Oort cloud can also be dislodged{\r}
+Dialogue: 0,0:25:28.51,0:25:30.83,Default,,0000,0000,0000,,{\blur3}奥尔特云的冰团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by gravitational perturbations that occur{\r}
+Dialogue: 0,0:25:30.86,0:25:33.65,Default,,0000,0000,0000,,{\blur3}会因为受到引力而发生移动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when the solar system goes through the plane of our galaxy.{\r}
+Dialogue: 0,0:25:33.85,0:25:37.08,Default,,0000,0000,0000,,{\blur3}太阳系主要围绕银河系中心运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the solar system is basically orbiting around the center of our galaxy,{\r}
+Dialogue: 0,0:25:37.12,0:25:39.33,Default,,0000,0000,0000,,{\blur3}但它也会周期性地往上或往下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's also oscillating up and down,{\r}
+Dialogue: 0,0:25:39.44,0:25:41.15,Default,,0000,0000,0000,,{\blur3}当它经过某一颗行星时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and when it goes through the plane,{\r}
+Dialogue: 0,0:25:41.18,0:25:44.30,Default,,0000,0000,0000,,{\blur3}万有引力会扰动奥尔特云物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then gravitational interactions can perturb objects{\r}
+Dialogue: 0,0:25:44.48,0:25:47.37,Default,,0000,0000,0000,,{\blur3}进入到内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the Oort cloud into the inner solar system.{\r}
+Dialogue: 0,0:25:48.58,0:25:50.41,Default,,0000,0000,0000,,{\blur3}一些长周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some long-period comets{\r}
+Dialogue: 0,0:25:50.44,0:25:52.83,Default,,0000,0000,0000,,{\blur3}需要花费大约三千万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}take up to about 30 million years{\r}
+Dialogue: 0,0:25:52.86,0:25:55.82,Default,,0000,0000,0000,,{\blur3}才能完成绕太阳一周{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to complete one round trip around the Sun.{\r}
+Dialogue: 0,0:25:59.59,0:26:02.21,Default,,0000,0000,0000,,{\blur3}我们的飞船尾随着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our spacecraft tracks a long-period comet{\r}
+Dialogue: 0,0:26:02.23,0:26:04.72,Default,,0000,0000,0000,,{\blur3}一颗长周期彗星长途跋涉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for hundreds of thousands of miles{\r}
+Dialogue: 0,0:26:04.75,0:26:07.34,Default,,0000,0000,0000,,{\blur3}来到了地球的附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until we approach planet Earth.{\r}
+Dialogue: 0,0:26:08.79,0:26:10.87,Default,,0000,0000,0000,,{\blur3}随着它张开冰冷的尾巴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As its icy tails unfurl,{\r}
+Dialogue: 0,0:26:10.98,0:26:13.43,Default,,0000,0000,0000,,{\blur3}一阵尘埃和冰雪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a layer of dust and ice zips through{\r}
+Dialogue: 0,0:26:13.46,0:26:15.30,Default,,0000,0000,0000,,{\blur3}在地球稀薄的大气里尖啸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our planet's thin atmosphere,{\r}
+Dialogue: 0,0:26:15.65,0:26:19.03,Default,,0000,0000,0000,,{\blur3}人们把这种景象称为流星雨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Leaving visible trails known as a meteor shower.{\r}
+Dialogue: 0,0:26:22.28,0:26:23.39,Default,,0000,0000,0000,,{\blur3}我认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I like to think of comets{\r}
+Dialogue: 0,0:26:23.41,0:26:25.39,Default,,0000,0000,0000,,{\blur3}彗星相当于太阳系的猪窝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as sort of the pigpens of the solar system,{\r}
+Dialogue: 0,0:26:25.41,0:26:27.37,Default,,0000,0000,0000,,{\blur3}在绕行太阳的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because, as they orbit around the Sun,{\r}
+Dialogue: 0,0:26:27.41,0:26:29.58,Default,,0000,0000,0000,,{\blur3}留下了大量凌乱的残渣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they leave a big, messy trail of debris.{\r}
+Dialogue: 0,0:26:29.61,0:26:31.69,Default,,0000,0000,0000,,{\blur3}当地球横穿过其中一些尘埃团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But sometimes the Earth's orbit can intersect some of these dust bands,{\r}
+Dialogue: 0,0:26:33.36,0:26:36.48,Default,,0000,0000,0000,,{\blur3}我们就能看到流星雨的出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and when it does, we can sometimes see meteor showers.{\r}
+Dialogue: 0,0:26:36.86,0:26:38.39,Default,,0000,0000,0000,,{\blur3}这些划破夜空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those beautiful bright streaks of light{\r}
+Dialogue: 0,0:26:38.41,0:26:40.02,Default,,0000,0000,0000,,{\blur3}美丽耀眼的光芒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you see coming through the night sky{\r}
+Dialogue: 0,0:26:40.05,0:26:41.48,Default,,0000,0000,0000,,{\blur3}其实只是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are actually produced by particles{\r}
+Dialogue: 0,0:26:41.51,0:26:43.96,Default,,0000,0000,0000,,{\blur3}砂粒般大小的颗粒所产生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are most often no bigger than a sand grain.{\r}
+Dialogue: 0,0:26:46.15,0:26:48.82,Default,,0000,0000,0000,,{\blur3}随着不断研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While longand short-period comets{\r}
+Dialogue: 0,0:26:49.02,0:26:51.55,Default,,0000,0000,0000,,{\blur3}各种长短周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}make up the bulk of comets that have been observed,{\r}
+Dialogue: 0,0:26:52.44,0:26:55.87,Default,,0000,0000,0000,,{\blur3}有新证据表明 不是所有的冰团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}new evidence suggests that not all icy bodies{\r}
+Dialogue: 0,0:26:56.12,0:26:59.65,Default,,0000,0000,0000,,{\blur3}都来自于太阳系里零下温度的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}come from the subzero suburbs of our solar system.{\r}
+Dialogue: 0,0:27:00.52,0:27:02.83,Default,,0000,0000,0000,,{\blur3}有一些是偷偷地躲藏在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some have secretly taken up residence{\r}
+Dialogue: 0,0:27:02.86,0:27:04.93,Default,,0000,0000,0000,,{\blur3}非常暖和的区域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a much warmer neighborhood.{\r}
+Dialogue: 0,0:27:09.87,0:27:12.02,Default,,0000,0000,0000,,{\blur3}科学家们现在已发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists have now discovered{\r}
+Dialogue: 0,0:27:12.75,0:27:15.77,Default,,0000,0000,0000,,{\blur3}在木星和火星之间的小行星带里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are comets masquerading as asteroids{\r}
+Dialogue: 0,0:27:15.97,0:27:20.66,Default,,0000,0000,0000,,{\blur3}存在着伪装成小行星的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the asteroid belt, located between Jupiter and Mars.{\r}
+Dialogue: 0,0:27:23.69,0:27:27.32,Default,,0000,0000,0000,,{\blur3}主带彗星的产生只有一个原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The only reason that we've discovered these main-belt comets{\r}
+Dialogue: 0,0:27:27.33,0:27:28.76,Default,,0000,0000,0000,,{\blur3}那就是在偶然间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is because, occasionally,{\r}
+Dialogue: 0,0:27:28.77,0:27:32.69,Default,,0000,0000,0000,,{\blur3}太阳温暖的射线进入彗星内核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the warming rays of the Sun get into the interior,{\r}
+Dialogue: 0,0:27:32.84,0:27:34.36,Default,,0000,0000,0000,,{\blur3}使冰块汽化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}vaporize the ices,{\r}
+Dialogue: 0,0:27:34.37,0:27:37.47,Default,,0000,0000,0000,,{\blur3}彗星不一会就突然爆裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so the comet just bursts forth for a while,{\r}
+Dialogue: 0,0:27:37.50,0:27:41.91,Default,,0000,0000,0000,,{\blur3}然后它们重新成为不活跃的物体或者小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then they go back to being inactive objects or asteroids.{\r}
+Dialogue: 0,0:27:43.18,0:27:45.90,Default,,0000,0000,0000,,{\blur3}科学家以前曾认为 行星和彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists used to think that there were strong distinctions{\r}
+Dialogue: 0,0:27:45.93,0:27:47.65,Default,,0000,0000,0000,,{\blur3}有很大的差别{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between asteroids and comets{\r}
+Dialogue: 0,0:27:47.68,0:27:50.37,Default,,0000,0000,0000,,{\blur3}它们是两种完全不同的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that they were two totally different types of objects,{\r}
+Dialogue: 0,0:27:50.58,0:27:52.07,Default,,0000,0000,0000,,{\blur3}但现在人们发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but what we're finding nowadays is,{\r}
+Dialogue: 0,0:27:52.09,0:27:54.82,Default,,0000,0000,0000,,{\blur3}一些行星具有象彗星一样的特性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are some asteroids that have comet-like properties,{\r}
+Dialogue: 0,0:27:54.84,0:27:57.33,Default,,0000,0000,0000,,{\blur3}而有一些彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there are some comets that eventually kind of look{\r}
+Dialogue: 0,0:27:57.36,0:27:58.63,Default,,0000,0000,0000,,{\blur3}极象小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like asteroids.{\r}
+Dialogue: 0,0:28:02.30,0:28:04.84,Default,,0000,0000,0000,,{\blur3}一些科学家认为主带彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some scientists think main-belt comets{\r}
+Dialogue: 0,0:28:04.86,0:28:07.59,Default,,0000,0000,0000,,{\blur3}可能把水和孕育生命的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may have delivered water to early Earth{\r}
+Dialogue: 0,0:28:08.07,0:28:10.73,Default,,0000,0000,0000,,{\blur3}带到了早期的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the materials to create life.{\r}
+Dialogue: 0,0:28:13.25,0:28:16.58,Default,,0000,0000,0000,,{\blur3}我们回到2004年的1月份{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We blast back to January 2004{\r}
+Dialogue: 0,0:28:16.83,0:28:19.61,Default,,0000,0000,0000,,{\blur3}跟随NASA的"星尘号"飞船去执行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and follow NASA's Stardust spacecraft{\r}
+Dialogue: 0,0:28:19.97,0:28:21.86,Default,,0000,0000,0000,,{\blur3}一项史无前例的任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on an unprecedented mission{\r}
+Dialogue: 0,0:28:22.27,0:28:25.58,Default,,0000,0000,0000,,{\blur3}到太空里收集未受污染的彗星尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to collect pure comet dust in space.{\r}
+Dialogue: 0,0:28:27.61,0:28:29.47,Default,,0000,0000,0000,,{\blur3}就在火星的附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just beyond the planet Mars,{\r}
+Dialogue: 0,0:28:29.56,0:28:32.88,Default,,0000,0000,0000,,{\blur3}我们遇到了"野生2"彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we meet up with a comet named Wild 2.{\r}
+Dialogue: 0,0:28:33.50,0:28:35.88,Default,,0000,0000,0000,,{\blur3}在靠近它的彗发时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Upon approaching its enormous coma,{\r}
+Dialogue: 0,0:28:36.16,0:28:39.48,Default,,0000,0000,0000,,{\blur3}星尘号伸出一个网球拍状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stardust flips open a paddle-shaped collector tray{\r}
+Dialogue: 0,0:28:39.98,0:28:44.47,Default,,0000,0000,0000,,{\blur3}由牢固的泡沫气凝胶制成的收集器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}filled with a durable foam-like substance called aerogel.{\r}
+Dialogue: 0,0:28:46.41,0:28:50.01,Default,,0000,0000,0000,,{\blur3}比尘粒还小的彗星微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cometary particles no bigger than specks of dust{\r}
+Dialogue: 0,0:28:50.44,0:28:54.97,Default,,0000,0000,0000,,{\blur3}以6倍于出膛子弹的速度飞进气凝胶里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}fly into the aerogel at six times the speed of a rifle bullet.{\r}
+Dialogue: 0,0:28:56.31,0:28:59.87,Default,,0000,0000,0000,,{\blur3}此任务的特别之处 是要保护好微粒的完整{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The mission's task is to preserve the precious particles{\r}
+Dialogue: 0,0:28:59.98,0:29:02.12,Default,,0000,0000,0000,,{\blur3}不能破坏或改变它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without damaging or altering them.{\r}
+Dialogue: 0,0:29:03.66,0:29:07.70,Default,,0000,0000,0000,,{\blur3}如果想在地球上把这演示出来 可不是容易的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But this is no easy feat, as we show here on Earth.{\r}
+Dialogue: 0,0:29:10.62,0:29:12.81,Default,,0000,0000,0000,,{\blur3}在我身边的是康诺特.布鲁尔中士{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're here at a firing range with Sergeant Connacht Brewer,{\r}
+Dialogue: 0,0:29:12.84,0:29:14.19,Default,,0000,0000,0000,,{\blur3}他以前是伞兵{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a former army paratrooper,{\r}
+Dialogue: 0,0:29:14.22,0:29:16.33,Default,,0000,0000,0000,,{\blur3}他将使用小号铅弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who is going to demonstrate for us what happens{\r}
+Dialogue: 0,0:29:16.36,0:29:19.18,Default,,0000,0000,0000,,{\blur3}去射击巨大的粘土模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when this birdshot strikes a large block of modeling clay.{\r}
+Dialogue: 0,0:29:19.23,0:29:21.44,Default,,0000,0000,0000,,{\blur3}这非常类似于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is an excellent analogy for what happened{\r}
+Dialogue: 0,0:29:21.65,0:29:24.13,Default,,0000,0000,0000,,{\blur3}彗星微粒撞击到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when cometary particles impacted the aerogel{\r}
+Dialogue: 0,0:29:24.16,0:29:25.61,Default,,0000,0000,0000,,{\blur3}星尘号上的气凝胶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the Stardust spacecraft.{\r}
+Dialogue: 0,0:29:25.65,0:29:27.49,Default,,0000,0000,0000,,{\blur3}略有不同的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Except there, the particles were moving{\r}
+Dialogue: 0,0:29:27.52,0:29:29.95,Default,,0000,0000,0000,,{\blur3}微粒移动的速度比这种小号铅弹快50倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 50 times faster than this birdshot.{\r}
+Dialogue: 0,0:29:30.05,0:29:30.98,Default,,0000,0000,0000,,{\blur3}准备好了吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ready to give it a go?{\r}
+Dialogue: 0,0:29:31.01,0:29:31.94,Default,,0000,0000,0000,,{\blur3}准备好了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yes, I am.{\r}
+Dialogue: 0,0:29:31.95,0:29:34.31,Default,,0000,0000,0000,,{\blur3}请戴好护目镜 戴上耳塞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go ahead and put on your eye protection and your earplugs.{\r}
+Dialogue: 0,0:29:34.40,0:29:35.47,Default,,0000,0000,0000,,{\blur3}我们将使用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we're using for this today{\r}
+Dialogue: 0,0:29:35.48,0:29:38.34,Default,,0000,0000,0000,,{\blur3}雷明登12号1100型猎枪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a 12-gauge Model 1100 Remington shotgun{\r}
+Dialogue: 0,0:29:38.37,0:29:40.41,Default,,0000,0000,0000,,{\blur3}射击大约35码外的目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at a distance of about 35 yards.{\r}
+Dialogue: 0,0:29:41.22,0:29:43.88,Default,,0000,0000,0000,,{\blur3}即是说 我装填12号子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Basically, I'm just gonna load a 12-gauge shot shell{\r}
+Dialogue: 0,0:29:44.58,0:29:45.86,Default,,0000,0000,0000,,{\blur3}到猎枪里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the shotgun...{\r}
+Dialogue: 0,0:29:46.30,0:29:47.47,Default,,0000,0000,0000,,{\blur3}然后开枪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we're hot.{\r}
+Dialogue: 0,0:29:53.36,0:29:55.16,Default,,0000,0000,0000,,{\blur3}粘土模型千疮百孔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It really did some damage to that clay.{\r}
+Dialogue: 0,0:29:55.19,0:29:56.15,Default,,0000,0000,0000,,{\blur3}想看看吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You want to go take a look?{\r}
+Dialogue: 0,0:29:56.17,0:29:57.26,Default,,0000,0000,0000,,{\blur3}求之不得{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yeah, we're clear.{\r}
+Dialogue: 0,0:29:57.29,0:29:58.29,Default,,0000,0000,0000,,{\blur3}好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right.{\r}
+Dialogue: 0,0:30:01.09,0:30:03.44,Default,,0000,0000,0000,,{\blur3}哇 千疮百孔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wow, look at the damage it did to the clay.{\r}
+Dialogue: 0,0:30:03.97,0:30:05.84,Default,,0000,0000,0000,,{\blur3}每一颗子弹都形成了一个洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each pellet created one of these holes.{\r}
+Dialogue: 0,0:30:05.87,0:30:08.29,Default,,0000,0000,0000,,{\blur3}我们把它切成几块 好吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what do you say we cut this open and try to find some pieces?{\r}
+Dialogue: 0,0:30:08.35,0:30:09.72,Default,,0000,0000,0000,,{\blur3}－ 这主意不错　－ 好的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Sounds good. - All right.{\r}
+Dialogue: 0,0:30:14.58,0:30:17.12,Default,,0000,0000,0000,,{\blur3}看 粘土里的弹迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you see, the trail here that's formed inside the clay{\r}
+Dialogue: 0,0:30:17.15,0:30:20.92,Default,,0000,0000,0000,,{\blur3}能让你找到小号铅弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is going to lead you, ultimately, to where the birdshot pellets are located.{\r}
+Dialogue: 0,0:30:21.27,0:30:23.35,Default,,0000,0000,0000,,{\blur3}通过眼前的实验 你能想象到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can imagine how difficult it would have been{\r}
+Dialogue: 0,0:30:23.38,0:30:24.63,Default,,0000,0000,0000,,{\blur3}星尘号的科研团队{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and how time-consuming{\r}
+Dialogue: 0,0:30:24.74,0:30:27.40,Default,,0000,0000,0000,,{\blur3}解决彗星材料微粒的捕捉问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the Stardust team to locate these microscopic pieces{\r}
+Dialogue: 0,0:30:27.42,0:30:29.95,Default,,0000,0000,0000,,{\blur3}是如何困难 如何旷日持久{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of cometary material inside the aerogel.{\r}
+Dialogue: 0,0:30:33.52,0:30:35.90,Default,,0000,0000,0000,,{\blur3}当星尘号回到地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Upon Stardust's return to Earth,{\r}
+Dialogue: 0,0:30:36.10,0:30:39.91,Default,,0000,0000,0000,,{\blur3}科学家从气凝胶里找到了1万多块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists recovered over 10,000 cometary fragments{\r}
+Dialogue: 0,0:30:39.92,0:30:41.23,Default,,0000,0000,0000,,{\blur3}彗星碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the aerogel.{\r}
+Dialogue: 0,0:30:42.59,0:30:45.41,Default,,0000,0000,0000,,{\blur3}通过化学分析 发现在微粒里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Chemical analysis revealed that the particles{\r}
+Dialogue: 0,0:30:45.44,0:30:48.28,Default,,0000,0000,0000,,{\blur3}含有机化合物甘氨酸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}contained the organic compound glycine,{\r}
+Dialogue: 0,0:30:49.15,0:30:51.42,Default,,0000,0000,0000,,{\blur3}这是生命的基础主材之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a fundamental building block of life{\r}
+Dialogue: 0,0:30:51.45,0:30:55.56,Default,,0000,0000,0000,,{\blur3}在40多亿年间 一直被保存在冰块里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that had been preserved in ice for over 4 billion years.{\r}
+Dialogue: 0,0:30:56.92,0:30:59.91,Default,,0000,0000,0000,,{\blur3}彗星里有机化合物的发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The discovery of organic compounds in comets{\r}
+Dialogue: 0,0:30:59.98,0:31:03.41,Default,,0000,0000,0000,,{\blur3}说明了有机化合物很容易形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}suggests that organic compounds can form pretty easily.{\r}
+Dialogue: 0,0:31:03.74,0:31:06.73,Default,,0000,0000,0000,,{\blur3}它不能说明在彗星上有过活着的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, it doesn't mean that there was ever anything truly alive{\r}
+Dialogue: 0,0:31:06.76,0:31:10.24,Default,,0000,0000,0000,,{\blur3}但至少说明了生命的基础材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in those comets, but at least the building blocks of life{\r}
+Dialogue: 0,0:31:10.40,0:31:12.28,Default,,0000,0000,0000,,{\blur3}曾在彗星上形成过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could have been built in comets.{\r}
+Dialogue: 0,0:31:14.98,0:31:17.52,Default,,0000,0000,0000,,{\blur3}彗星似乎能保留非常宝贵的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comets appear to hold invaluable information{\r}
+Dialogue: 0,0:31:17.55,0:31:19.91,Default,,0000,0000,0000,,{\blur3}关于太阳系起源的信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the origin of our solar system{\r}
+Dialogue: 0,0:31:20.63,0:31:22.99,Default,,0000,0000,0000,,{\blur3}可能还有它本身起源的信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and perhaps life itself.{\r}
+Dialogue: 0,0:31:23.87,0:31:25.44,Default,,0000,0000,0000,,{\blur3}但天文学家发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But astronomers have discovered{\r}
+Dialogue: 0,0:31:25.46,0:31:28.38,Default,,0000,0000,0000,,{\blur3}这些冰团并非亘古不变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that these icy bodies are not immortal.{\r}
+Dialogue: 0,0:31:29.95,0:31:33.70,Default,,0000,0000,0000,,{\blur3}现在最先进的卫星拍摄到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now state-of-the-art satellites have captured images{\r}
+Dialogue: 0,0:31:33.73,0:31:37.33,Default,,0000,0000,0000,,{\blur3}一群彗星将会踏上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of a select group of comets that will end their life{\r}
+Dialogue: 0,0:31:37.38,0:31:39.83,Default,,0000,0000,0000,,{\blur3}自杀之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a suicidal death dive.{\r}
+Dialogue: 0,0:31:47.48,0:31:49.48,Default,,0000,0000,0000,,{\blur3}我们觉得与彗星的同行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While our journey with the comets{\r}
+Dialogue: 0,0:31:49.62,0:31:52.78,Default,,0000,0000,0000,,{\blur3}就象一个无穷尽的过山车游戏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has felt like an endless cosmic roller coaster ride,{\r}
+Dialogue: 0,0:31:53.96,0:31:57.52,Default,,0000,0000,0000,,{\blur3}但这些冰团却不会永远绕着太阳飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these icy objects will not orbit our Sun forever.{\r}
+Dialogue: 0,0:31:59.20,0:32:02.53,Default,,0000,0000,0000,,{\blur3}绝大多数还会飞行数千年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most will make the voyage for several thousand years{\r}
+Dialogue: 0,0:32:02.83,0:32:06.21,Default,,0000,0000,0000,,{\blur3}直到它们被蒸发掉 只剩下尘埃颗粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before evaporating into specks of dust.{\r}
+Dialogue: 0,0:32:09.66,0:32:12.30,Default,,0000,0000,0000,,{\blur3}甚至巨型彗星 比如哈雷彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even massive comets, like Haley,{\r}
+Dialogue: 0,0:32:12.46,0:32:15.41,Default,,0000,0000,0000,,{\blur3}也只有150 000年的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only have 150,000 years left.{\r}
+Dialogue: 0,0:32:16.24,0:32:21.31,Default,,0000,0000,0000,,{\blur3}这是因为 彗星每一秒都会失去数吨的冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's because, every second, a comet loses tons of ice.{\r}
+Dialogue: 0,0:32:22.55,0:32:25.49,Default,,0000,0000,0000,,{\blur3}彗星会渐渐萎缩或湮灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comets gradually wither away or fade away,{\r}
+Dialogue: 0,0:32:25.55,0:32:27.96,Default,,0000,0000,0000,,{\blur3}因为在临近太阳的每一刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because every time they pass close to the Sun,{\r}
+Dialogue: 0,0:32:28.06,0:32:29.87,Default,,0000,0000,0000,,{\blur3}它们都会失去一些冰块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they lose some of their ices.{\r}
+Dialogue: 0,0:32:29.89,0:32:31.37,Default,,0000,0000,0000,,{\blur3}它们被蒸发了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They evaporate away.{\r}
+Dialogue: 0,0:32:31.63,0:32:34.31,Default,,0000,0000,0000,,{\blur3}最后 只有很少的冰块留下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually, there's very little ice left,{\r}
+Dialogue: 0,0:32:34.34,0:32:37.55,Default,,0000,0000,0000,,{\blur3}以至于形成不了彗发和彗尾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so the comet coma and tail doesn't form.{\r}
+Dialogue: 0,0:32:37.92,0:32:39.60,Default,,0000,0000,0000,,{\blur3}这时的它象小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It just looks like an asteroid.{\r}
+Dialogue: 0,0:32:39.78,0:32:43.03,Default,,0000,0000,0000,,{\blur3}或者甚至会破碎为许多小物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or it may even break apart into a whole bunch of little objects{\r}
+Dialogue: 0,0:32:43.12,0:32:45.88,Default,,0000,0000,0000,,{\blur3}因为冰的胶合力已不复存在了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the icy glue is no longer there{\r}
+Dialogue: 0,0:32:45.94,0:32:48.95,Default,,0000,0000,0000,,{\blur3}或者是潮汐的影响使它发生破裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or because tidal effects actually break it apart.{\r}
+Dialogue: 0,0:32:51.09,0:32:54.39,Default,,0000,0000,0000,,{\blur3}但不是所有彗星都会平静地消失在阳光里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But not all comets quietly fade into the sunset.{\r}
+Dialogue: 0,0:32:58.05,0:33:01.38,Default,,0000,0000,0000,,{\blur3}我们现在正穷追着一群彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're now in hot pursuit of a group of comets{\r}
+Dialogue: 0,0:33:01.41,0:33:03.30,Default,,0000,0000,0000,,{\blur3}它们被称为"掠日彗星"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called sungrazers{\r}
+Dialogue: 0,0:33:03.32,0:33:05.80,Default,,0000,0000,0000,,{\blur3}其生命匆匆 分外短暂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that live fast and die young.{\r}
+Dialogue: 0,0:33:08.20,0:33:11.49,Default,,0000,0000,0000,,{\blur3}当彗星沿着非常狭长的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inside our spacecraft, we feel the heat{\r}
+Dialogue: 0,0:33:11.69,0:33:14.57,Default,,0000,0000,0000,,{\blur3}带我们去到离太阳很近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the comets' extremely elongated orbits{\r}
+Dialogue: 0,0:33:14.94,0:33:17.20,Default,,0000,0000,0000,,{\blur3}相隔只有数十万英里的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}bring us very close to the Sun...{\r}
+Dialogue: 0,0:33:17.60,0:33:20.12,Default,,0000,0000,0000,,{\blur3}飞船里的我们感受到了太阳的炽热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}within a few hundred thousand miles.{\r}
+Dialogue: 0,0:33:22.34,0:33:24.56,Default,,0000,0000,0000,,{\blur3}在这个危险区域里 我们不时看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we enter this danger zone,{\r}
+Dialogue: 0,0:33:24.98,0:33:27.78,Default,,0000,0000,0000,,{\blur3}有一些彗星象日本神风队一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we see that some of these kamikaze comets{\r}
+Dialogue: 0,0:33:27.81,0:33:30.81,Default,,0000,0000,0000,,{\blur3}径自冲向太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}occasionally plunge right into our home star,{\r}
+Dialogue: 0,0:33:31.55,0:33:33.88,Default,,0000,0000,0000,,{\blur3}上演了一场残忍的告别演出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating a ferocious spectacle.{\r}
+Dialogue: 0,0:33:37.07,0:33:39.87,Default,,0000,0000,0000,,{\blur3}掠日彗星的诞生与普通彗星相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sungrazer comets start out their life as normal comets.{\r}
+Dialogue: 0,0:33:39.89,0:33:41.64,Default,,0000,0000,0000,,{\blur3}它们或是居住在奥尔特云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They probably live either in the Oort cloud,{\r}
+Dialogue: 0,0:33:41.67,0:33:43.39,Default,,0000,0000,0000,,{\blur3}或者本来就是短周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or they're short-period comets,{\r}
+Dialogue: 0,0:33:43.46,0:33:45.92,Default,,0000,0000,0000,,{\blur3}但它们的不幸在于 遇上了一个行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they've had an unlucky encounter with another planet,{\r}
+Dialogue: 0,0:33:46.10,0:33:47.28,Default,,0000,0000,0000,,{\blur3}可能是木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}probably Jupiter.{\r}
+Dialogue: 0,0:33:48.67,0:33:50.17,Default,,0000,0000,0000,,{\blur3}如果它们非常 非常幸运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If they're really, really lucky,{\r}
+Dialogue: 0,0:33:50.20,0:33:52.87,Default,,0000,0000,0000,,{\blur3}就可以逃脱 从而避免{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they might just escape and be able to get away{\r}
+Dialogue: 0,0:33:52.89,0:33:54.89,Default,,0000,0000,0000,,{\blur3}经过太阳时过于靠近它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with one close passage by the Sun,{\r}
+Dialogue: 0,0:33:54.92,0:33:57.80,Default,,0000,0000,0000,,{\blur3}如果运气不好 太阳会让它们彻底地灰飞烟灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but if they're not lucky, they just get swallowed up whole by the Sun.{\r}
+Dialogue: 0,0:34:01.55,0:34:05.25,Default,,0000,0000,0000,,{\blur3}太阳和太阳风层探测器 简称SOHO{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Solar and Heliospheric Observatory,or SOHO,{\r}
+Dialogue: 0,0:34:05.71,0:34:07.30,Default,,0000,0000,0000,,{\blur3}是一颗太空卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or SOHO, is a space satellite{\r}
+Dialogue: 0,0:34:07.41,0:34:11.32,Default,,0000,0000,0000,,{\blur3}已经发现了2 000颗正在自杀途中的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that has observed 2,000 comets on suicidal orbits.{\r}
+Dialogue: 0,0:34:14.39,0:34:17.73,Default,,0000,0000,0000,,{\blur3}最著名的掠日彗星是克鲁兹族彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most famous sungrazers are the Kreutz family,{\r}
+Dialogue: 0,0:34:18.18,0:34:20.92,Default,,0000,0000,0000,,{\blur3}它们是由一颗巨型彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which originated from one giant comet{\r}
+Dialogue: 0,0:34:21.07,0:34:23.71,Default,,0000,0000,0000,,{\blur3}破裂而成的许多碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that broke up into many smaller pieces.{\r}
+Dialogue: 0,0:34:25.63,0:34:28.05,Default,,0000,0000,0000,,{\blur3}目睹来自外太阳系的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a kind of cool thing to think of a comet{\r}
+Dialogue: 0,0:34:28.06,0:34:29.59,Default,,0000,0000,0000,,{\blur3}一直坠落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's lived in the outer solar system{\r}
+Dialogue: 0,0:34:29.60,0:34:32.44,Default,,0000,0000,0000,,{\blur3}在太阳里粉身碎骨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just falling all the way and smashing into the Sun,{\r}
+Dialogue: 0,0:34:32.73,0:34:34.53,Default,,0000,0000,0000,,{\blur3}感觉真爽 屡看不厌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they do. We see them all the time.{\r}
+Dialogue: 0,0:34:39.63,0:34:42.74,Default,,0000,0000,0000,,{\blur3}有些彗星不只是想自杀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And some comets do more than self-destruct.{\r}
+Dialogue: 0,0:34:43.60,0:34:46.79,Default,,0000,0000,0000,,{\blur3}它们还梦想成为超级杀手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They become the messengers of mass destruction.{\r}
+Dialogue: 0,0:34:48.81,0:34:51.10,Default,,0000,0000,0000,,{\blur3}巨型彗星撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's estimated that a large comet{\r}
+Dialogue: 0,0:34:51.13,0:34:55.00,Default,,0000,0000,0000,,{\blur3}据估计 大约每4千万年可能发生一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may have struck Earth roughly every 40 million years,{\r}
+Dialogue: 0,0:34:55.25,0:34:58.42,Default,,0000,0000,0000,,{\blur3}以至于如今的地球还残留许多明显弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}based on the amount of craters still visible on our planet.{\r}
+Dialogue: 0,0:35:02.11,0:35:04.78,Default,,0000,0000,0000,,{\blur3}彗星也许要对地球史上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A comet may have even been responsible{\r}
+Dialogue: 0,0:35:04.88,0:35:08.42,Default,,0000,0000,0000,,{\blur3}最著名的灭绝事件负责{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the most famous extinction event of all time.{\r}
+Dialogue: 0,0:35:11.81,0:35:14.70,Default,,0000,0000,0000,,{\blur3}在白垩-第三纪时期发生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For the Cretaceous-Tertiary extinction event,{\r}
+Dialogue: 0,0:35:14.75,0:35:16.21,Default,,0000,0000,0000,,{\blur3}6千5百万年前恐龙灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the one that took out the dinosaurs{\r}
+Dialogue: 0,0:35:16.24,0:35:19.25,Default,,0000,0000,0000,,{\blur3}其原因至今没有定论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}65 million years ago, the jury is still out.{\r}
+Dialogue: 0,0:35:19.41,0:35:22.06,Default,,0000,0000,0000,,{\blur3}人们认为是一个直径10公里的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That was thought to be a 10-kilometer-sized object,{\r}
+Dialogue: 0,0:35:22.09,0:35:25.31,Default,,0000,0000,0000,,{\blur3}但在地球附近 没有小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there are no asteroids in near-Earth space{\r}
+Dialogue: 0,0:35:25.34,0:35:28.81,Default,,0000,0000,0000,,{\blur3}可以把地球撞击得如此惨烈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are that large that could impact the Earth,{\r}
+Dialogue: 0,0:35:29.11,0:35:32.11,Default,,0000,0000,0000,,{\blur3}却有为数不少的巨型彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there are a number of comets that are that large.{\r}
+Dialogue: 0,0:35:32.43,0:35:35.00,Default,,0000,0000,0000,,{\blur3}况且那是发生6千5百万年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And since it occurred 65 million years ago,{\r}
+Dialogue: 0,0:35:35.03,0:35:37.03,Default,,0000,0000,0000,,{\blur3}而彗星撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you would expect a cometary impact{\r}
+Dialogue: 0,0:35:37.06,0:35:39.96,Default,,0000,0000,0000,,{\blur3}大约是每4千万年一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}every 40 million years or so,{\r}
+Dialogue: 0,0:35:40.31,0:35:42.18,Default,,0000,0000,0000,,{\blur3}所以它可能就是彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it may well have been a comet.{\r}
+Dialogue: 0,0:35:43.82,0:35:46.14,Default,,0000,0000,0000,,{\blur3}由于彗星在过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While comets likely slammed into Earth{\r}
+Dialogue: 0,0:35:46.17,0:35:48.40,Default,,0000,0000,0000,,{\blur3}有可能无数次撞击过地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}countless times in the past,{\r}
+Dialogue: 0,0:35:49.03,0:35:50.52,Default,,0000,0000,0000,,{\blur3}所以很难以判定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's been difficult to determine{\r}
+Dialogue: 0,0:35:50.54,0:35:54.95,Default,,0000,0000,0000,,{\blur3}一个撞击坑是由彗星还是小行星产生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if an impact crater was made by a comet or asteroid{\r}
+Dialogue: 0,0:35:55.22,0:35:57.86,Default,,0000,0000,0000,,{\blur3}毕竟这两种物体很类似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the two bodies appear to be similar.{\r}
+Dialogue: 0,0:36:00.38,0:36:02.32,Default,,0000,0000,0000,,{\blur3}我们通过研究化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we study the fossil records,{\r}
+Dialogue: 0,0:36:02.52,0:36:05.92,Default,,0000,0000,0000,,{\blur3}发现了大量的罕见材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a lot of the material is gone, and just-we simply can't find it,{\r}
+Dialogue: 0,0:36:06.02,0:36:09.46,Default,,0000,0000,0000,,{\blur3}但彗星与小行星有许多共同的原材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it turns out that asteroids and comets have a lot of materials in common,{\r}
+Dialogue: 0,0:36:09.57,0:36:12.31,Default,,0000,0000,0000,,{\blur3}所以 即使你发现了外星物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so even if you do find extraterrestrial material,{\r}
+Dialogue: 0,0:36:12.34,0:36:13.45,Default,,0000,0000,0000,,{\blur3}也难于分清楚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's really hard to tell{\r}
+Dialogue: 0,0:36:13.47,0:36:15.92,Default,,0000,0000,0000,,{\blur3}它到底来自于小行星 还是彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether it came from an asteroid or from a comet.{\r}
+Dialogue: 0,0:36:17.67,0:36:19.35,Default,,0000,0000,0000,,{\blur3}彗星撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And to complicate matters,{\r}
+Dialogue: 0,0:36:19.38,0:36:22.71,Default,,0000,0000,0000,,{\blur3}引发灾难的话题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a comet doesn't even have to impact Earth's surface{\r}
+Dialogue: 0,0:36:22.74,0:36:24.60,Default,,0000,0000,0000,,{\blur3}一直众说纷纭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to ignite a catastrophe.{\r}
+Dialogue: 0,0:36:27.50,0:36:31.71,Default,,0000,0000,0000,,{\blur3}在1908年 一个火球在西伯利亚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 1908, a fireball exploded in the atmosphere{\r}
+Dialogue: 0,0:36:31.74,0:36:34.79,Default,,0000,0000,0000,,{\blur3}通古斯地区的荒野上空爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}above the Tunguska wilderness in Siberia.{\r}
+Dialogue: 0,0:36:35.47,0:36:37.54,Default,,0000,0000,0000,,{\blur3}空中爆炸所产生的温度和能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The heat and energy from the airburst{\r}
+Dialogue: 0,0:36:37.57,0:36:40.77,Default,,0000,0000,0000,,{\blur3}象热旋风一样往下推进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}propelled downward like a hot tornado.{\r}
+Dialogue: 0,0:36:41.46,0:36:43.97,Default,,0000,0000,0000,,{\blur3}它横扫丛林{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It propagated across the forest,{\r}
+Dialogue: 0,0:36:44.07,0:36:47.81,Default,,0000,0000,0000,,{\blur3}把方圆800英里森林夷为平地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}flattening over 800 square miles of trees.{\r}
+Dialogue: 0,0:36:49.36,0:36:52.60,Default,,0000,0000,0000,,{\blur3}在一个世纪之后 一些科学家猜想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For over a century, some scientists have wondered{\r}
+Dialogue: 0,0:36:52.63,0:36:57.54,Default,,0000,0000,0000,,{\blur3}这位不速之客是不是彗星或者小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if the cosmic intruder was a comet or an asteroid.{\r}
+Dialogue: 0,0:36:58.82,0:37:00.39,Default,,0000,0000,0000,,{\blur3}如果是彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it were caused by a comet,{\r}
+Dialogue: 0,0:37:00.43,0:37:02.49,Default,,0000,0000,0000,,{\blur3}你就会在沉积物中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would imagine you'd find in the sediment{\r}
+Dialogue: 0,0:37:02.51,0:37:04.78,Default,,0000,0000,0000,,{\blur3}找到一些不寻常的迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some record of unusual things,{\r}
+Dialogue: 0,0:37:04.81,0:37:07.97,Default,,0000,0000,0000,,{\blur3}比如氦-3和氦-4的比例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a ratio of helium 3 to helium 4.{\r}
+Dialogue: 0,0:37:08.07,0:37:10.70,Default,,0000,0000,0000,,{\blur3}这才能够说明它可能是彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That could be an indication that it may have been a comet.{\r}
+Dialogue: 0,0:37:10.78,0:37:12.85,Default,,0000,0000,0000,,{\blur3}或者是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, another possibility is if you find{\r}
+Dialogue: 0,0:37:12.88,0:37:15.86,Default,,0000,0000,0000,,{\blur3}在湖里找到奇异的同位素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some strange isotope buried in a lake somewhere.{\r}
+Dialogue: 0,0:37:16.21,0:37:18.26,Default,,0000,0000,0000,,{\blur3}但这无异于大海捞针{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's tough. This is not easy.{\r}
+Dialogue: 0,0:37:21.14,0:37:22.32,Default,,0000,0000,0000,,{\blur3}虽然难以证明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While it's been difficult{\r}
+Dialogue: 0,0:37:22.35,0:37:25.47,Default,,0000,0000,0000,,{\blur3}彗星是否曾撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to substantiate cometary impacts on Earth,{\r}
+Dialogue: 0,0:37:28.29,0:37:30.35,Default,,0000,0000,0000,,{\blur3}但有物理证据表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}physical proof of their colossal power{\r}
+Dialogue: 0,0:37:30.38,0:37:32.99,Default,,0000,0000,0000,,{\blur3}它们在巨型气态行星上威力强大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}exists on the gas giant planets.{\r}
+Dialogue: 0,0:37:34.13,0:37:38.06,Default,,0000,0000,0000,,{\blur3}对地球来说 这些事件是严重的警告{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And these dramatic events warn that far worse collisions{\r}
+Dialogue: 0,0:37:38.13,0:37:39.46,Default,,0000,0000,0000,,{\blur3}在未来的日子里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}loom in the future,{\r}
+Dialogue: 0,0:37:40.31,0:37:43.58,Default,,0000,0000,0000,,{\blur3}极为糟糕的撞击在步步逼近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with Earth as the potential bull's-eye.{\r}
+Dialogue: 0,0:37:51.53,0:37:54.97,Default,,0000,0000,0000,,{\blur3}我们已经尾随着彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we have followed the trail of comets through space,{\r}
+Dialogue: 0,0:37:55.15,0:37:57.08,Default,,0000,0000,0000,,{\blur3}穿越了太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have passed through the chilliest{\r}
+Dialogue: 0,0:37:57.13,0:38:00.06,Default,,0000,0000,0000,,{\blur3}极寒冷和极暖和的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and warmest places in our solar system.{\r}
+Dialogue: 0,0:38:00.63,0:38:03.83,Default,,0000,0000,0000,,{\blur3}我们还调查了这些冰团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've also investigated whether these icy bodies{\r}
+Dialogue: 0,0:38:03.85,0:38:07.85,Default,,0000,0000,0000,,{\blur3}是否曾经传递和毁灭生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have been deliverers and destroyers of life.{\r}
+Dialogue: 0,0:38:10.53,0:38:14.49,Default,,0000,0000,0000,,{\blur3}而且有新证据表明 许多这样的古老物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And new observations prove many of these ancient bodies{\r}
+Dialogue: 0,0:38:14.76,0:38:17.83,Default,,0000,0000,0000,,{\blur3}不会在寒冷的外太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}haven't quietly retired to the frigid outer limits{\r}
+Dialogue: 0,0:38:17.86,0:38:19.28,Default,,0000,0000,0000,,{\blur3}安享晚年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our solar system.{\r}
+Dialogue: 0,0:38:21.93,0:38:24.94,Default,,0000,0000,0000,,{\blur3}那里有一些晚期的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think there are several possible end states for comets.{\r}
+Dialogue: 0,0:38:25.10,0:38:28.49,Default,,0000,0000,0000,,{\blur3}它们一是可能被扯向太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In one case, they can actually get pulled right into the Sun.{\r}
+Dialogue: 0,0:38:28.60,0:38:30.46,Default,,0000,0000,0000,,{\blur3}二是可能被某一个行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In other cases, they can actually get scattered{\r}
+Dialogue: 0,0:38:30.49,0:38:32.44,Default,,0000,0000,0000,,{\blur3}强行赶出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by one of the planets and kind of get kicked out,{\r}
+Dialogue: 0,0:38:32.47,0:38:35.19,Default,,0000,0000,0000,,{\blur3}或许回到奥尔特云 永远都见不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}maybe back into the Oort cloud and never seen again.{\r}
+Dialogue: 0,0:38:35.47,0:38:38.42,Default,,0000,0000,0000,,{\blur3}最后一种可能是 它们撞上某个行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And finally they can also actually impact a planet.{\r}
+Dialogue: 0,0:38:43.49,0:38:46.86,Default,,0000,0000,0000,,{\blur3}我们现在飞回到1994年的7月{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We now shuttle back to July 1994.{\r}
+Dialogue: 0,0:38:50.01,0:38:51.26,Default,,0000,0000,0000,,{\blur3}我们去追随{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We follow a string of{\r}
+Dialogue: 0,0:38:51.29,0:38:55.22,Default,,0000,0000,0000,,{\blur3}有着21块碎块的苏梅克-列维彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}21 comet fragments called Shoemaker-Levy 9{\r}
+Dialogue: 0,0:38:55.67,0:38:58.89,Default,,0000,0000,0000,,{\blur3}观察它们因重力的影响而坠入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as they're gravitationally pulled toward the gas giant{\r}
+Dialogue: 0,0:38:59.26,0:39:00.85,Default,,0000,0000,0000,,{\blur3}巨型气态行星－木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planet Jupiter.{\r}
+Dialogue: 0,0:39:01.89,0:39:02.93,Default,,0000,0000,0000,,{\blur3}如果我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we were riding on{\r}
+Dialogue: 0,0:39:02.96,0:39:05.94,Default,,0000,0000,0000,,{\blur3}和苏梅克-列维彗星碎块一起飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of the fragments of the comet Shoemaker-Levy 9,{\r}
+Dialogue: 0,0:39:06.14,0:39:07.80,Default,,0000,0000,0000,,{\blur3}就会看到非常壮观的景象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would have been truly spectacular{\r}
+Dialogue: 0,0:39:07.83,0:39:09.96,Default,,0000,0000,0000,,{\blur3}因为随着我们的逼近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because we're heading toward Jupiter,{\r}
+Dialogue: 0,0:39:09.99,0:39:12.94,Default,,0000,0000,0000,,{\blur3}木星这颗巨星变得巨大无比{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this giant planet is looming ever bigger,{\r}
+Dialogue: 0,0:39:13.11,0:39:14.30,Default,,0000,0000,0000,,{\blur3}接着啪哒作响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then-splat!{\r}
+Dialogue: 0,0:39:14.33,0:39:15.60,Default,,0000,0000,0000,,{\blur3}我们撞上它了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We crash into it.{\r}
+Dialogue: 0,0:39:15.62,0:39:20.76,Default,,0000,0000,0000,,{\blur3}一团烟幕腾天而起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We throw up a whole bunch of material from the insides.{\r}
+Dialogue: 0,0:39:20.86,0:39:23.03,Default,,0000,0000,0000,,{\blur3}令人叹为观止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would be really an amazing journey.{\r}
+Dialogue: 0,0:39:23.17,0:39:25.73,Default,,0000,0000,0000,,{\blur3}撞击剧烈至极 使得烟幕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The plumes of material coming out of Jupiter{\r}
+Dialogue: 0,0:39:25.89,0:39:28.82,Default,,0000,0000,0000,,{\blur3}饱含因撞击而产生的过热蒸汽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were superheated gas heated by this collision{\r}
+Dialogue: 0,0:39:28.87,0:39:32.15,Default,,0000,0000,0000,,{\blur3}以及木星的内部物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and also excavated from the interior of Jupiter.{\r}
+Dialogue: 0,0:39:33.79,0:39:36.82,Default,,0000,0000,0000,,{\blur3}苏梅克-列维彗星留下的撞击疤痕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Shoemaker-Levy 9 left impact scars{\r}
+Dialogue: 0,0:39:36.85,0:39:38.48,Default,,0000,0000,0000,,{\blur3}如同地球般大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the size of Earth,{\r}
+Dialogue: 0,0:39:39.22,0:39:41.21,Default,,0000,0000,0000,,{\blur3}如果它撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}driving home the scale of violence{\r}
+Dialogue: 0,0:39:41.23,0:39:45.36,Default,,0000,0000,0000,,{\blur3}后果将不堪设想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that comets can produce if they slam into our planet.{\r}
+Dialogue: 0,0:39:47.35,0:39:49.86,Default,,0000,0000,0000,,{\blur3}如果这些碎块的任何一块撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If any of those fragments had hit the Earth{\r}
+Dialogue: 0,0:39:49.89,0:39:52.93,Default,,0000,0000,0000,,{\blur3}与木星不同 我们会陷入极度危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than Jupiter, we'd have been in serious trouble,{\r}
+Dialogue: 0,0:39:52.96,0:39:56.58,Default,,0000,0000,0000,,{\blur3}因为它们都是大块头 而且来势迅猛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they were large and they were coming in extremely rapidly.{\r}
+Dialogue: 0,0:39:56.96,0:39:58.50,Default,,0000,0000,0000,,{\blur3}但幸运的是 老大哥木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But fortunately, big brother Jupiter{\r}
+Dialogue: 0,0:39:58.51,0:40:00.85,Default,,0000,0000,0000,,{\blur3}代我们接受撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}took all the hits for us and didn't seem to{\r}
+Dialogue: 0,0:40:00.87,0:40:02.53,Default,,0000,0000,0000,,{\blur3}而且若无其事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}suffer much in the way of damage.{\r}
+Dialogue: 0,0:40:03.71,0:40:07.15,Default,,0000,0000,0000,,{\blur3}但是 尽管有木星这块行星盾牌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even with Jupiter acting as a planetary shield,{\r}
+Dialogue: 0,0:40:07.28,0:40:10.25,Default,,0000,0000,0000,,{\blur3}还是会有漏网之鱼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comets still sneak by the gas giants{\r}
+Dialogue: 0,0:40:10.82,0:40:13.78,Default,,0000,0000,0000,,{\blur3}突如其来地接近地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and have close encounters with Earth.{\r}
+Dialogue: 0,0:40:14.28,0:40:15.58,Default,,0000,0000,0000,,{\blur3}好消息是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The good news is,{\r}
+Dialogue: 0,0:40:15.64,0:40:18.50,Default,,0000,0000,0000,,{\blur3}在近地空间里 袭击地球的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}asteroid impacts are far more likely to occur{\r}
+Dialogue: 0,0:40:18.53,0:40:21.94,Default,,0000,0000,0000,,{\blur3}更多时候是小行星 因为它们的数量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because asteroids outnumber comets 100 to 1{\r}
+Dialogue: 0,0:40:21.97,0:40:23.41,Default,,0000,0000,0000,,{\blur3}比彗星多100倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in near-Earth space.{\r}
+Dialogue: 0,0:40:23.44,0:40:25.55,Default,,0000,0000,0000,,{\blur3}坏消息是 如果彗星沿着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bad news is, if we do find a comet{\r}
+Dialogue: 0,0:40:25.58,0:40:27.69,Default,,0000,0000,0000,,{\blur3}撞击地球的轨道飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on an Earth-impacting trajectory,{\r}
+Dialogue: 0,0:40:28.09,0:40:29.29,Default,,0000,0000,0000,,{\blur3}我们不会有所察觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we wouldn't realize it{\r}
+Dialogue: 0,0:40:29.32,0:40:31.76,Default,,0000,0000,0000,,{\blur3}除非它在进入木星轨道时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}till it got inside the orbit of Jupiter,{\r}
+Dialogue: 0,0:40:31.79,0:40:34.19,Default,,0000,0000,0000,,{\blur3}会开始喷发气体和尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when it started throwing off gas and dust.{\r}
+Dialogue: 0,0:40:35.54,0:40:37.71,Default,,0000,0000,0000,,{\blur3}虽然彗星接近地球不太可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the very unlikely event that a comet{\r}
+Dialogue: 0,0:40:37.72,0:40:39.61,Default,,0000,0000,0000,,{\blur3}但你要考虑它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could get close to the Earth, you would worry about it{\r}
+Dialogue: 0,0:40:39.64,0:40:43.41,Default,,0000,0000,0000,,{\blur3}因为其平均速度要高于小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they tend to have high average velocities relative to an asteroid,{\r}
+Dialogue: 0,0:40:43.50,0:40:45.36,Default,,0000,0000,0000,,{\blur3}达到每秒几十英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as high as tens of miles a second.{\r}
+Dialogue: 0,0:40:45.65,0:40:48.04,Default,,0000,0000,0000,,{\blur3}也就是说 它们出拳凶猛有力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So in other words, they would pack a bigger punch.{\r}
+Dialogue: 0,0:40:49.22,0:40:51.80,Default,,0000,0000,0000,,{\blur3}邻近地球的小行星数量众多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While the frequency of near-Earth asteroids{\r}
+Dialogue: 0,0:40:51.83,0:40:53.76,Default,,0000,0000,0000,,{\blur3}袭击地球的可能性很高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}heightens the risk of impacts,{\r}
+Dialogue: 0,0:40:54.25,0:40:56.76,Default,,0000,0000,0000,,{\blur3}但彗星的速度同样令人不安{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the speed of comets is equally troubling.{\r}
+Dialogue: 0,0:40:58.01,0:41:00.14,Default,,0000,0000,0000,,{\blur3}佛罗里达州波尔得市的观测者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This sobering fact has prompted{\r}
+Dialogue: 0,0:41:00.16,0:41:03.71,Default,,0000,0000,0000,,{\blur3}罗宾 W.意识到了事情的严重性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}viewer Robin W. from Boulder, Colorado, to...{\r}
+Dialogue: 0,0:41:06.55,0:41:11.82,Default,,0000,0000,0000,,{\blur3}对人类更有危险的 是小行星还是彗星？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What poses a greater hazard to humans: asteroids or comets?{\r}
+Dialogue: 0,0:41:12.26,0:41:14.11,Default,,0000,0000,0000,,{\blur3}罗宾 这问题非同小同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Robin, that's an important question.{\r}
+Dialogue: 0,0:41:14.36,0:41:16.18,Default,,0000,0000,0000,,{\blur3}小行星数不胜数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The asteroids are more numerous,{\r}
+Dialogue: 0,0:41:16.21,0:41:18.22,Default,,0000,0000,0000,,{\blur3}很多都有可能撞击我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so there's more of them that could hit us.{\r}
+Dialogue: 0,0:41:18.34,0:41:20.54,Default,,0000,0000,0000,,{\blur3}但我们能跟踪它们的轨迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But we can track their trajectories{\r}
+Dialogue: 0,0:41:20.57,0:41:23.52,Default,,0000,0000,0000,,{\blur3}对即将到来的撞击采取措施{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and maybe do something about one that's gonna hit us,{\r}
+Dialogue: 0,0:41:23.57,0:41:25.09,Default,,0000,0000,0000,,{\blur3}比如让它转向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}deflect it for example.{\r}
+Dialogue: 0,0:41:25.51,0:41:27.29,Default,,0000,0000,0000,,{\blur3}彗星相对较为罕见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The comets are more rare,{\r}
+Dialogue: 0,0:41:27.46,0:41:30.51,Default,,0000,0000,0000,,{\blur3}但我们难以觉察它们的到来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we have very little warning when they come in.{\r}
+Dialogue: 0,0:41:30.66,0:41:33.41,Default,,0000,0000,0000,,{\blur3}而且 它们的速度比小行星快得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And also, they move much faster than asteroids,{\r}
+Dialogue: 0,0:41:33.44,0:41:36.45,Default,,0000,0000,0000,,{\blur3}撞击地球的能量更大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so there's more energy impacting Earth.{\r}
+Dialogue: 0,0:41:36.59,0:41:39.58,Default,,0000,0000,0000,,{\blur3}所以我认为 彗星最危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So I would say comets are the most hazardous objects.{\r}
+Dialogue: 0,0:41:43.61,0:41:46.73,Default,,0000,0000,0000,,{\blur3}NASA很认真地对待彗星的威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA is taking the threat of comets seriously.{\r}
+Dialogue: 0,0:41:47.47,0:41:49.41,Default,,0000,0000,0000,,{\blur3}迄今为止 负责跟踪的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So far, tracking satellites{\r}
+Dialogue: 0,0:41:49.44,0:41:52.50,Default,,0000,0000,0000,,{\blur3}已经辨识到84颗靠近地球的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have tagged 84 near-Earth comets,{\r}
+Dialogue: 0,0:41:53.05,0:41:56.48,Default,,0000,0000,0000,,{\blur3}其轨道是在地球绕太阳公转路线的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}objects with orbits that come within 28 million miles{\r}
+Dialogue: 0,0:41:56.51,0:41:58.68,Default,,0000,0000,0000,,{\blur3}2千8百万英里范围内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of Earth's path around the Sun.{\r}
+Dialogue: 0,0:41:59.83,0:42:01.30,Default,,0000,0000,0000,,{\blur3}眼下还没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are no periodic comets{\r}
+Dialogue: 0,0:42:01.33,0:42:03.72,Default,,0000,0000,0000,,{\blur3}喜欢上地球的周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that currently have Earth's name written on them.{\r}
+Dialogue: 0,0:42:04.15,0:42:06.19,Default,,0000,0000,0000,,{\blur3}但木星和其它的巨型行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Jupiter and the other giant planets{\r}
+Dialogue: 0,0:42:06.22,0:42:08.76,Default,,0000,0000,0000,,{\blur3}偶尔会扰乱彗星的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}occasionally perturb the orbits of comets.{\r}
+Dialogue: 0,0:42:08.79,0:42:11.85,Default,,0000,0000,0000,,{\blur3}所以未来应该会有一颗周期彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there could be a periodic comet in the future{\r}
+Dialogue: 0,0:42:11.97,0:42:13.75,Default,,0000,0000,0000,,{\blur3}与地球相撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will collide with Earth.{\r}
+Dialogue: 0,0:42:22.43,0:42:24.91,Default,,0000,0000,0000,,{\blur3}自有史记载以来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since the beginning of recorded history,{\r}
+Dialogue: 0,0:42:25.37,0:42:28.63,Default,,0000,0000,0000,,{\blur3}被发现的彗星超过 4 200颗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over 4,200 comets have been observed,{\r}
+Dialogue: 0,0:42:29.47,0:42:33.44,Default,,0000,0000,0000,,{\blur3}但这只是这些冰团的一小部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a mere fraction of the total number of these icy bodies.{\r}
+Dialogue: 0,0:42:34.59,0:42:37.27,Default,,0000,0000,0000,,{\blur3}这意味着数百万的未知彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This means billions of unknown comets{\r}
+Dialogue: 0,0:42:37.30,0:42:41.05,Default,,0000,0000,0000,,{\blur3}还在外层空间潜伏着 等待着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}still lie in wait in the outer reaches of space.{\r}
+Dialogue: 0,0:42:41.94,0:42:46.01,Default,,0000,0000,0000,,{\blur3}某一天 一颗末日彗星会被推出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One day, a doomsday comet could be nudged out{\r}
+Dialogue: 0,0:42:46.20,0:42:48.97,Default,,0000,0000,0000,,{\blur3}踏上与地球相撞的旅程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and sent on a collision course with Earth.{\r}
+Dialogue: 0,0:42:51.26,0:42:54.04,Default,,0000,0000,0000,,{\blur3}假设我们是在宇宙里的高速公路上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we're on that cosmic highway,{\r}
+Dialogue: 0,0:42:54.15,0:42:56.36,Default,,0000,0000,0000,,{\blur3}而它开进了我们的车道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's getting into our on-ramp,{\r}
+Dialogue: 0,0:42:57.19,0:42:58.38,Default,,0000,0000,0000,,{\blur3}我们需要提防它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we need to worry about it.{\r}
+Dialogue: 0,0:42:58.41,0:43:01.20,Default,,0000,0000,0000,,{\blur3}但我们只有非常短的反应时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we need to worry about it with very little lead time.{\r}
+Dialogue: 0,0:43:02.02,0:43:03.66,Default,,0000,0000,0000,,{\blur3}我们别无选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is very little we can do,{\r}
+Dialogue: 0,0:43:03.68,0:43:05.83,Default,,0000,0000,0000,,{\blur3}只能向它们发射巨型原子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}other than sending a giant bomb toward them{\r}
+Dialogue: 0,0:43:05.86,0:43:07.22,Default,,0000,0000,0000,,{\blur3}设法让它们转向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and trying to deflect them.{\r}
+Dialogue: 0,0:43:07.24,0:43:08.70,Default,,0000,0000,0000,,{\blur3}但非常棘手的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that's very difficult{\r}
+Dialogue: 0,0:43:08.73,0:43:10.49,Default,,0000,0000,0000,,{\blur3}我们只有几个月的预警时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when there's only a few months' warning.{\r}
+Dialogue: 0,0:43:12.37,0:43:15.48,Default,,0000,0000,0000,,{\blur3}正如彗星让我们的祖先{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just as comets have inspired awe and fear{\r}
+Dialogue: 0,0:43:15.51,0:43:17.52,Default,,0000,0000,0000,,{\blur3}感到无比的敬畏和害怕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}among our ancestors,{\r}
+Dialogue: 0,0:43:18.23,0:43:21.04,Default,,0000,0000,0000,,{\blur3}它们今天依然不可藐视{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they remain a force to reckon with.{\r}
+Dialogue: 0,0:43:21.74,0:43:24.91,Default,,0000,0000,0000,,{\blur3}通过持续追踪它们的尘埃尾巴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By continuing to track their tails of dust,{\r}
+Dialogue: 0,0:43:25.18,0:43:29.40,Default,,0000,0000,0000,,{\blur3}我们也许能发现关于我们遥远过去的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we may uncover more clues about these frozen artifacts{\r}
+Dialogue: 0,0:43:29.43,0:43:31.68,Default,,0000,0000,0000,,{\blur3}更多线索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our ancient past.{\r}
+Dialogue: 0,0:43:32.59,0:43:34.44,Default,,0000,0000,0000,,{\blur3}你会觉得它很不寻常{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's pretty remarkable if you think about it.{\r}
+Dialogue: 0,0:43:34.47,0:43:37.44,Default,,0000,0000,0000,,{\blur3}在数百年前 我们不知道它们是什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just a few hundred years ago, we had no idea what they were.{\r}
+Dialogue: 0,0:43:37.47,0:43:38.94,Default,,0000,0000,0000,,{\blur3}不知道它们的意义{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We had no idea what they meant.{\r}
+Dialogue: 0,0:43:38.98,0:43:41.43,Default,,0000,0000,0000,,{\blur3}但现在我们已经去到了彗星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And now we've actually been to the surfaces of comets.{\r}
+Dialogue: 0,0:43:41.45,0:43:44.19,Default,,0000,0000,0000,,{\blur3}近距离地观察它们 去研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've seen up close and personal what they're really like{\r}
+Dialogue: 0,0:43:44.26,0:43:45.40,Default,,0000,0000,0000,,{\blur3}它们的组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what they're made out of.{\r}
+Dialogue: 0,0:43:45.43,0:43:48.12,Default,,0000,0000,0000,,{\blur3}总之 这些神秘之物对人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So these mysterious objects have meant a lot to humans{\r}
+Dialogue: 0,0:43:48.15,0:43:49.20,Default,,0000,0000,0000,,{\blur3}意义非同凡响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}throughout our history.{\r}
+Dialogue: 0,0:43:49.23,0:43:50.92,Default,,0000,0000,0000,,{\blur3}它们曾被视为异兆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They've been agents of change.{\r}
+Dialogue: 0,0:43:51.54,0:43:54.26,Default,,0000,0000,0000,,{\blur3}它们有时被当作灾星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They've been agents of destruction sometimes.{\r}
+Dialogue: 0,0:43:54.65,0:43:56.66,Default,,0000,0000,0000,,{\blur3}它们也许曾是造物使者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They've maybe been agents of creation.{\r}

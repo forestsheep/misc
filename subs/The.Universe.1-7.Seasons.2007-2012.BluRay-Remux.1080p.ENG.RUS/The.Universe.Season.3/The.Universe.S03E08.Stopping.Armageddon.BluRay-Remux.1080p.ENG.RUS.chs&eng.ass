@@ -1,0 +1,753 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:07.56,0:01:13.81,Default,,0000,0000,0008,,{\fn华文楷体\fs20\1c&HE0E0E0&\blur3}宇宙:阻止世界末日{\r}
+Dialogue: 0,0:00:01.45,0:00:03.91,Default,,0000,0000,0000,,{\blur3}创世之初 冥冥之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness...{\r}
+Dialogue: 0,0:00:03.96,0:00:06.04,Default,,0000,0000,0000,,{\blur3}随着轰的一声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, bang...{\r}
+Dialogue: 0,0:00:06.08,0:00:09.25,Default,,0000,0000,0000,,{\blur3}诞生了无限膨胀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to an endless expanding existence...{\r}
+Dialogue: 0,0:00:09.30,0:00:11.84,Default,,0000,0000,0000,,{\blur3}时间 空间和物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:11.88,0:00:14.47,Default,,0000,0000,0000,,{\blur3}现在 所见超乎我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, see further than we've ever imagined...{\r}
+Dialogue: 0,0:00:14.51,0:00:16.51,Default,,0000,0000,0000,,{\blur3}超越了我们生存的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the limits of our existence...{\r}
+Dialogue: 0,0:00:16.55,0:00:18.93,Default,,0000,0000,0000,,{\blur3}这个空间我们称之为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a place we call "The Universe."{\r}
+Dialogue: 0,0:00:21.64,0:00:24.48,Default,,0000,0000,0000,,{\blur3}听起来宛如好莱坞大片:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It sounds like a Hollywood blockbuster:{\r}
+Dialogue: 0,0:00:24.52,0:00:27.98,Default,,0000,0000,0000,,{\blur3}一颗致命小行星正在撞向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a deadly asteroid is on a collision course with Earth.{\r}
+Dialogue: 0,0:00:29.73,0:00:33.69,Default,,0000,0000,0000,,{\blur3}但是在现实中 真有一颗巨大的世界末日大石头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in reality, is there a giant doomsday rock...{\r}
+Dialogue: 0,0:00:33.74,0:00:37.36,Default,,0000,0000,0000,,{\blur3}威胁着要抹去文明吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that threatens to wipe out civilization?{\r}
+Dialogue: 0,0:00:37.41,0:00:39.28,Default,,0000,0000,0000,,{\blur3}不是会不会发生的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not a question of if it'll happen.{\r}
+Dialogue: 0,0:00:39.33,0:00:41.83,Default,,0000,0000,0000,,{\blur3}而是何时会发生的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a question of when it will happen.{\r}
+Dialogue: 0,0:00:43.66,0:00:47.92,Default,,0000,0000,0000,,{\blur3}小行星在6500万年前抹去了恐龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An asteroid took out the dinosaurs 65 million years ago.{\r}
+Dialogue: 0,0:00:48.96,0:00:50.34,Default,,0000,0000,0000,,{\blur3}下来轮到我们了吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Are we next?{\r}
+Dialogue: 0,0:00:51.30,0:00:53.63,Default,,0000,0000,0000,,{\blur3}着手搜索这些宇宙杀手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go in search of these cosmic killers...{\r}
+Dialogue: 0,0:00:54.76,0:00:56.09,Default,,0000,0000,0000,,{\blur3}评估它们的威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}assess their threat...{\r}
+Dialogue: 0,0:00:56.13,0:01:01.89,Default,,0000,0000,0000,,{\blur3}分析最佳方法 在它们遭遇我们之前去截获它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and analyze the best ways to get them before they get us.{\r}
+Dialogue: 0,0:01:03.56,0:01:06.81,Default,,0000,0000,0000,,{\blur3}《阻止世界末日》从现在抓起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Stopping Armageddon" starts now.{\r}
+Dialogue: 0,0:01:21.74,0:01:26.04,Default,,0000,0000,0000,,{\blur3}它来自火星和木星之间的小行星带的某个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It came from somewhere in the asteroid belt...between Mars and Jupiter...{\r}
+Dialogue: 0,0:01:27.54,0:01:30.08,Default,,0000,0000,0000,,{\blur3}一大堆碎石翻滚着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a massive pile of rock and rubble...{\r}
+Dialogue: 0,0:01:31.17,0:01:34.13,Default,,0000,0000,0000,,{\blur3}大摇大摆一路奔向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rotating and rumbling its way towards Earth.{\r}
+Dialogue: 0,0:01:36.01,0:01:39.01,Default,,0000,0000,0000,,{\blur3}昔日大爆炸所产生的残骸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What was once mere debris from the Big Bang...{\r}
+Dialogue: 0,0:01:39.93,0:01:43.60,Default,,0000,0000,0000,,{\blur3}现在注定要制造其自身的大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is now destined to make a big bang of its own.{\r}
+Dialogue: 0,0:01:46.73,0:01:49.10,Default,,0000,0000,0000,,{\blur3}突然闯入地球的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bursting through the Earth's atmosphere...{\r}
+Dialogue: 0,0:01:49.15,0:01:53.07,Default,,0000,0000,0000,,{\blur3}这个巨大的小行星会变成不可阻挡的力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this giant asteroid becomes an unstoppable force.{\r}
+Dialogue: 0,0:01:55.94,0:02:00.49,Default,,0000,0000,0000,,{\blur3}其威力是苏联的"帝王核弹"的200万倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nearly two million times more powerful...than the Soviet "Emperor Bomb"...{\r}
+Dialogue: 0,0:02:00.53,0:02:04.24,Default,,0000,0000,0000,,{\blur3}那是史上引爆过的规模和威力最大的核装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the largest, most powerful explosive device ever detonated.{\r}
+Dialogue: 0,0:02:05.95,0:02:08.37,Default,,0000,0000,0000,,{\blur3}它的目标是 洛杉矶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its target? Los Angeles.{\r}
+Dialogue: 0,0:02:12.84,0:02:15.84,Default,,0000,0000,0000,,{\blur3}人们最后一眼看到的是火光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The last thing anyone there sees is a flash...{\r}
+Dialogue: 0,0:02:17.55,0:02:18.97,Default,,0000,0000,0000,,{\blur3}火球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a fireball...{\r}
+Dialogue: 0,0:02:19.01,0:02:20.01,Default,,0000,0000,0000,,{\blur3}然后...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then...{\r}
+Dialogue: 0,0:02:25.64,0:02:28.60,Default,,0000,0000,0000,,{\blur3}如果这颗小行星如我们设想的大如{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf this asteroid were as large as we might imagine...{\r}
+Dialogue: 0,0:02:28.64,0:02:31.10,Default,,0000,0000,0000,,{\blur3}直径10公里的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a 10-kilometer asteroid...{\r}
+Dialogue: 0,0:02:31.15,0:02:34.31,Default,,0000,0000,0000,,{\blur3}我们认为撞击坑将会大上10倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we would be talking about a crater that is ten times larger than that...{\r}
+Dialogue: 0,0:02:34.36,0:02:37.23,Default,,0000,0000,0000,,{\blur3}我们认为会有50英里的撞击坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we'd be talking about a 50-mile crater.{\r}
+Dialogue: 0,0:02:39.28,0:02:43.07,Default,,0000,0000,0000,,{\blur3}因此整个洛杉矶将最终会变成这巨大的陨石坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So all of Los Angeles would end up being this humongous crater.{\r}
+Dialogue: 0,0:02:43.12,0:02:45.58,Default,,0000,0000,0000,,{\blur3}我们认为绝对是毁灭性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'd be talking about absolute devastation...{\r}
+Dialogue: 0,0:02:45.62,0:02:50.46,Default,,0000,0000,0000,,{\blur3}100英里范围内的东西将荡然无存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nothing left over a range up to perhaps 100 miles.{\r}
+Dialogue: 0,0:02:51.54,0:02:55.63,Default,,0000,0000,0000,,{\blur3}远处的圣地亚哥 都会感到有强烈的地震{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As far away as San Diego, they would get massive Earthquakes.{\r}
+Dialogue: 0,0:02:55.67,0:02:57.75,Default,,0000,0000,0000,,{\blur3}都会受到巨大的气浪冲击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They would get massive air blasts.{\r}
+Dialogue: 0,0:02:57.80,0:03:01.59,Default,,0000,0000,0000,,{\blur3}狂风荡平200英里外的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Winds that would simply flatten everything 200 miles away...{\r}
+Dialogue: 0,0:03:01.63,0:03:05.14,Default,,0000,0000,0000,,{\blur3}将会伤及1000英里范围内的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would kill everything out to a range of perhaps 1,000 miles.{\r}
+Dialogue: 0,0:03:06.14,0:03:08.47,Default,,0000,0000,0000,,{\blur3}那还只是直接的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's just the immediate impact.{\r}
+Dialogue: 0,0:03:11.27,0:03:15.11,Default,,0000,0000,0000,,{\blur3}随后你会看到整个碎片坠落回地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then you would have all this debris fall back on the planet Earth.{\r}
+Dialogue: 0,0:03:15.15,0:03:16.73,Default,,0000,0000,0000,,{\blur3}将会像圣诞树那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It'd be like a Christmas tree...{\r}
+Dialogue: 0,0:03:16.77,0:03:20.82,Default,,0000,0000,0000,,{\blur3}看到所有的装饰品向四面八方抛洒出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seeing all these ornaments being thrown out in all directions.{\r}
+Dialogue: 0,0:03:22.16,0:03:24.16,Default,,0000,0000,0000,,{\blur3}于是你会看到大爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then you would see firestorms...{\r}
+Dialogue: 0,0:03:24.20,0:03:27.28,Default,,0000,0000,0000,,{\blur3}大地熊熊燃烧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}enormous areas of the planet Earth burning...{\r}
+Dialogue: 0,0:03:27.33,0:03:30.62,Default,,0000,0000,0000,,{\blur3}释放出大量的烟尘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}releasing even more soot and ash in the air...{\r}
+Dialogue: 0,0:03:30.66,0:03:32.29,Default,,0000,0000,0000,,{\blur3}遮天蔽日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}blanketing out sunlight.{\r}
+Dialogue: 0,0:03:32.33,0:03:33.96,Default,,0000,0000,0000,,{\blur3}温度骤降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Temperatures would then plunge...{\r}
+Dialogue: 0,0:03:34.00,0:03:38.17,Default,,0000,0000,0000,,{\blur3}生命将会被消灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and life itself would be perhaps extinguished.{\r}
+Dialogue: 0,0:03:45.14,0:03:50.22,Default,,0000,0000,0000,,{\blur3}你所看到的是严重的地球撞击事件的最坏的情景{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you've just seen is a worst-case scenario...of a major Earth impact event.{\r}
+Dialogue: 0,0:03:51.85,0:03:56.65,Default,,0000,0000,0000,,{\blur3}可以消灭大部分地球生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The kinds of asteroids that can extinguish much of the life on Earth...{\r}
+Dialogue: 0,0:03:56.69,0:03:58.23,Default,,0000,0000,0000,,{\blur3}大部分物种的各种小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most of the species...{\r}
+Dialogue: 0,0:03:58.27,0:04:01.69,Default,,0000,0000,0000,,{\blur3}约每一亿年左右光顾一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}come around every, say, hundred million years or so.{\r}
+Dialogue: 0,0:04:01.74,0:04:03.45,Default,,0000,0000,0000,,{\blur3}它不是周期性现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it's not a periodic phenomenon.{\r}
+Dialogue: 0,0:04:03.49,0:04:05.20,Default,,0000,0000,0000,,{\blur3}并不会每一亿年发生一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It doesn't happen every hundred million years.{\r}
+Dialogue: 0,0:04:05.24,0:04:06.99,Default,,0000,0000,0000,,{\blur3}它随时都会发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could happen at any time.{\r}
+Dialogue: 0,0:04:07.03,0:04:10.54,Default,,0000,0000,0000,,{\blur3}只是平均起来 大约每一亿年一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just on average, roughly once every hundred million years.{\r}
+Dialogue: 0,0:04:10.58,0:04:13.29,Default,,0000,0000,0000,,{\blur3}因此不是会不会发生的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's not a question of if it'll happen.{\r}
+Dialogue: 0,0:04:13.33,0:04:16.00,Default,,0000,0000,0000,,{\blur3}而是何时发生的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a question of when it will happen.{\r}
+Dialogue: 0,0:04:21.97,0:04:24.93,Default,,0000,0000,0000,,{\blur3}小行星和彗星一直在撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Asteroids and comets have been crashing into the Earth...{\r}
+Dialogue: 0,0:04:24.97,0:04:26.97,Default,,0000,0000,0000,,{\blur3}只要存在着地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for as long as there's been an Earth.{\r}
+Dialogue: 0,0:04:28.26,0:04:29.68,Default,,0000,0000,0000,,{\blur3}在诞生后不久{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Soon after its formation...{\r}
+Dialogue: 0,0:04:29.72,0:04:32.22,Default,,0000,0000,0000,,{\blur3}约四 五十亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about four and a half billion years ago...{\r}
+Dialogue: 0,0:04:32.98,0:04:37.56,Default,,0000,0000,0000,,{\blur3}我们的星球就成为了宇宙射击场里被频繁光顾的目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our planet became a frequent target in a cosmic shooting gallery.{\r}
+Dialogue: 0,0:04:40.98,0:04:43.36,Default,,0000,0000,0000,,{\blur3}小行星和彗星为早期的地球带来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Asteroids and comets brought to the early Earth...{\r}
+Dialogue: 0,0:04:43.40,0:04:45.86,Default,,0000,0000,0000,,{\blur3}大部分的有机物质和水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much of the organic materials and water...{\r}
+Dialogue: 0,0:04:45.91,0:04:47.61,Default,,0000,0000,0000,,{\blur3}让生命得以形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that allowed life to form.{\r}
+Dialogue: 0,0:04:47.66,0:04:49.03,Default,,0000,0000,0000,,{\blur3}后来的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Subsequent collisions...{\r}
+Dialogue: 0,0:04:49.08,0:04:52.70,Default,,0000,0000,0000,,{\blur3}像6500万年前抹去恐龙的那一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like the one that took out the dinosaurs 65 million years ago...{\r}
+Dialogue: 0,0:04:52.75,0:04:54.12,Default,,0000,0000,0000,,{\blur3}打断了演化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}punctuated evolution...{\r}
+Dialogue: 0,0:04:54.16,0:04:57.75,Default,,0000,0000,0000,,{\blur3}让最具适应力的物种 那就是我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allowing the most adaptable species-- that's us--{\r}
+Dialogue: 0,0:04:57.79,0:04:59.96,Default,,0000,0000,0000,,{\blur3}登上了食物链的顶端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to rise to the top of the food chain.{\r}
+Dialogue: 0,0:05:01.25,0:05:03.84,Default,,0000,0000,0000,,{\blur3}因此 我们应当将我们的存在和处境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we owe our very existence and our position...{\r}
+Dialogue: 0,0:05:03.88,0:05:06.59,Default,,0000,0000,0000,,{\blur3}归功于有时会造成威胁的那些物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to these objects that sometimes cause a threat.{\r}
+Dialogue: 0,0:05:08.14,0:05:10.72,Default,,0000,0000,0000,,{\blur3}根据地球撞击数据库{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to the Earth Impact Database...{\r}
+Dialogue: 0,0:05:10.76,0:05:14.27,Default,,0000,0000,0000,,{\blur3}有160多个陨石坑得到了证实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more than 160 impact craters have been identified.{\r}
+Dialogue: 0,0:05:16.48,0:05:19.27,Default,,0000,0000,0000,,{\blur3}最大的叫做希克苏鲁伯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The largest one is called Chicxulub...{\r}
+Dialogue: 0,0:05:19.31,0:05:21.40,Default,,0000,0000,0000,,{\blur3}玛雅语中的"魔鬼的尾巴"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mayan for "tail of the devil."{\r}
+Dialogue: 0,0:05:25.45,0:05:29.61,Default,,0000,0000,0000,,{\blur3}这个陨石坑的直径超过了110英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This crater measures more than 110 miles in diameter.{\r}
+Dialogue: 0,0:05:29.66,0:05:33.12,Default,,0000,0000,0000,,{\blur3}它就是消灭恐龙的那颗小行星造成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was made by the asteroid that took out the dinosaurs...{\r}
+Dialogue: 0,0:05:34.12,0:05:37.37,Default,,0000,0000,0000,,{\blur3}当时它坠落在墨西哥的尤卡坦半岛外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when it crashed off Mexico's Yucatan Peninsula.{\r}
+Dialogue: 0,0:05:40.21,0:05:43.46,Default,,0000,0000,0000,,{\blur3}就在家门口 数据库里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Closer to home, the database also includes...{\r}
+Dialogue: 0,0:05:44.42,0:05:47.51,Default,,0000,0000,0000,,{\blur3}还有亚利桑那州北部的陨石坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Meteor Crater in northern Arizona.{\r}
+Dialogue: 0,0:05:47.55,0:05:50.76,Default,,0000,0000,0000,,{\blur3}现在作为旅游景点 这个1公里宽的大坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now a tourist attraction, this kilometer-wide hole...{\r}
+Dialogue: 0,0:05:50.80,0:05:54.26,Default,,0000,0000,0000,,{\blur3}是一块巨大的宇宙铁矿石留下的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was left by a huge chunk of cosmic iron ore...{\r}
+Dialogue: 0,0:05:54.31,0:05:57.64,Default,,0000,0000,0000,,{\blur3}它在5万年前撞上了地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that collided with Earth about 50,000 years ago.{\r}
+Dialogue: 0,0:05:59.56,0:06:01.06,Default,,0000,0000,0000,,{\blur3}就在不久前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Much more recently...{\r}
+Dialogue: 0,0:06:01.11,0:06:04.61,Default,,0000,0000,0000,,{\blur3}一块巨大的近地物体并没有留下陨石坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an enormous near-Earth object didn't leave a crater...{\r}
+Dialogue: 0,0:06:04.65,0:06:06.65,Default,,0000,0000,0000,,{\blur3}但还是造成了相当大的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but still made quite an impression.{\r}
+Dialogue: 0,0:06:07.74,0:06:11.11,Default,,0000,0000,0000,,{\blur3}携带1500万吨核弹当量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Packing the energy of a 15-megaton bomb...{\r}
+Dialogue: 0,0:06:11.16,0:06:14.79,Default,,0000,0000,0000,,{\blur3}超过了广岛投下的原子弹的1000倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more than 1,000 times that of the one dropped on Hiroshima...{\r}
+Dialogue: 0,0:06:14.83,0:06:18.50,Default,,0000,0000,0000,,{\blur3}1908年在西伯利亚通古斯爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it exploded over Tunguska, Siberia, in 1908.{\r}
+Dialogue: 0,0:06:20.63,0:06:23.09,Default,,0000,0000,0000,,{\blur3}它甚至{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It didn't even hit the ground.{\r}
+Dialogue: 0,0:06:23.13,0:06:25.05,Default,,0000,0000,0000,,{\blur3}并没有击中地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the shock wave from this air burst...{\r}
+Dialogue: 0,0:06:25.09,0:06:28.72,Default,,0000,0000,0000,,{\blur3}将这个区域里所有的树木与植被夷为平地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}flattened all the trees and vegetation in the area.{\r}
+Dialogue: 0,0:06:28.76,0:06:32.47,Default,,0000,0000,0000,,{\blur3}就像是一只巨手从天而降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was like a gigantic hand that came down from the heavens...{\r}
+Dialogue: 0,0:06:32.51,0:06:35.18,Default,,0000,0000,0000,,{\blur3}推到了所有的林木{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to press all the forests and trees.{\r}
+Dialogue: 0,0:06:35.22,0:06:38.89,Default,,0000,0000,0000,,{\blur3}那就是通古斯破坏的规模{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the size of the devastation of Tunguska.{\r}
+Dialogue: 0,0:06:41.52,0:06:45.52,Default,,0000,0000,0000,,{\blur3}要是通古斯事件发生在莫斯科{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the Tunguska event had occurred over Moscow...{\r}
+Dialogue: 0,0:06:45.57,0:06:47.82,Default,,0000,0000,0000,,{\blur3}或纽约 洛杉矶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or New York or Los Angeles...{\r}
+Dialogue: 0,0:06:47.86,0:06:51.24,Default,,0000,0000,0000,,{\blur3}破坏将是灾难性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the devastation would have been catastrophic...{\r}
+Dialogue: 0,0:06:51.28,0:06:56.66,Default,,0000,0000,0000,,{\blur3}会彻底摧毁城市及其周围大片区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}completely destroying the city and a vast area around it.{\r}
+Dialogue: 0,0:06:58.96,0:07:01.00,Default,,0000,0000,0000,,{\blur3}尽管通古斯之类的事件的再次遭遇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Though the chances of a Tunguska-type event...{\r}
+Dialogue: 0,0:07:01.04,0:07:05.71,Default,,0000,0000,0000,,{\blur3}遥遥无期 有可能每500年遭遇一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}happening again are remote, perhaps once every 500 years...{\r}
+Dialogue: 0,0:07:05.75,0:07:10.55,Default,,0000,0000,0000,,{\blur3}但是重大灾难发生的可能性是不容忽视的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the potential for a major disaster, if it does occur, can't be ignored.{\r}
+Dialogue: 0,0:07:12.64,0:07:16.14,Default,,0000,0000,0000,,{\blur3}那就是航天局在喷气推进实验室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's why NASA established the Near-Earth Object program...{\r}
+Dialogue: 0,0:07:16.18,0:07:18.35,Default,,0000,0000,0000,,{\blur3}设立近地物体项目的原因所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the Jet Propulsion Laboratory.{\r}
+Dialogue: 0,0:07:18.39,0:07:20.48,Default,,0000,0000,0000,,{\blur3}其任务就是发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its mission is to find asteroids...{\r}
+Dialogue: 0,0:07:20.52,0:07:23.40,Default,,0000,0000,0000,,{\blur3}对地球构成最严重威胁的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that pose the most serious threats to Earth...{\r}
+Dialogue: 0,0:07:23.44,0:07:26.36,Default,,0000,0000,0000,,{\blur3}第一步就是阻止世界末日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the first step in stopping Armageddon.{\r}
+Dialogue: 0,0:07:26.40,0:07:28.44,Default,,0000,0000,0000,,{\blur3}2032年是一颗0.02的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}2032 is a .O2.{\r}
+Dialogue: 0,0:07:28.48,0:07:30.44,Default,,0000,0000,0000,,{\blur3}这些不太正常 这是颗0.01的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- These are just anomalous. - There's a .01.{\r}
+Dialogue: 0,0:07:30.49,0:07:32.95,Default,,0000,0000,0000,,{\blur3}要问我近地物体项目中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whenever I'm asked what are the most important aspects...{\r}
+Dialogue: 0,0:07:32.99,0:07:34.41,Default,,0000,0000,0000,,{\blur3}最重要的方面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Near-Earth Object program...{\r}
+Dialogue: 0,0:07:34.45,0:07:36.41,Default,,0000,0000,0000,,{\blur3}我会说 有三个最重要的方面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I say, well, the three most important aspects...{\r}
+Dialogue: 0,0:07:36.45,0:07:38.74,Default,,0000,0000,0000,,{\blur3}就是早发现 早发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are find them early, find them early...{\r}
+Dialogue: 0,0:07:38.79,0:07:41.33,Default,,0000,0000,0000,,{\blur3}还是早发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then find them early.{\r}
+Dialogue: 0,0:07:41.37,0:07:43.04,Default,,0000,0000,0000,,{\blur3}因为如果我们能发现它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because if we can find them...{\r}
+Dialogue: 0,0:07:43.08,0:07:46.17,Default,,0000,0000,0000,,{\blur3}在问题产生之前10年 20年 30年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}10, 20, 30 years in advance of a problem...{\r}
+Dialogue: 0,0:07:46.21,0:07:49.55,Default,,0000,0000,0000,,{\blur3}我们可以用现在的技术去减缓它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have the technology now to mitigate them.{\r}
+Dialogue: 0,0:07:51.34,0:07:55.18,Default,,0000,0000,0000,,{\blur3}近地物体项目(NEO)调用五架全天候的望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The N.E.O. program employs five full-time telescopes...{\r}
+Dialogue: 0,0:07:55.22,0:07:58.97,Default,,0000,0000,0000,,{\blur3}它们坐落于美国西南部和世界各地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}located across the American southwest and around the world.{\r}
+Dialogue: 0,0:07:59.81,0:08:02.06,Default,,0000,0000,0000,,{\blur3}它们搜索天空 寻找小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They search the skies for asteroids...{\r}
+Dialogue: 0,0:08:02.60,0:08:06.56,Default,,0000,0000,0000,,{\blur3}尤其是那些直径至少1公里的家伙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially those measuring at least one kilometer in diameter...{\r}
+Dialogue: 0,0:08:06.61,0:08:09.23,Default,,0000,0000,0000,,{\blur3}也就是约三分之二英里以及更大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or about two-thirds of a mile and larger.{\r}
+Dialogue: 0,0:08:10.53,0:08:15.32,Default,,0000,0000,0000,,{\blur3}那样大的小行星的撞击会造成全球性灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Asteroids that big can cause worldwide devastation on impact.{\r}
+Dialogue: 0,0:08:17.16,0:08:19.91,Default,,0000,0000,0000,,{\blur3}我们来对比一下发现小行星的方法与{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can compare the process of finding asteroids...{\r}
+Dialogue: 0,0:08:19.95,0:08:21.75,Default,,0000,0000,0000,,{\blur3}计算高尔夫球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the process of figuring out...{\r}
+Dialogue: 0,0:08:21.79,0:08:23.96,Default,,0000,0000,0000,,{\blur3}击出后落于何地的方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where a golf ball is going to land after it's been hit.{\r}
+Dialogue: 0,0:08:26.00,0:08:27.71,Default,,0000,0000,0000,,{\blur3}现在就来想象一下 并不要能看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now just imagine that instead of being able...{\r}
+Dialogue: 0,0:08:27.75,0:08:31.09,Default,,0000,0000,0000,,{\blur3}高尔夫球的整个飞行路径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to see the golf ball continuously throughout its entire flight...{\r}
+Dialogue: 0,0:08:31.13,0:08:35.93,Default,,0000,0000,0000,,{\blur3}而是我只要能看到其飞行过程中的少数定格的快照{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I only have a handful of freeze-frame snapshots of it while it's moving.{\r}
+Dialogue: 0,0:08:35.97,0:08:38.47,Default,,0000,0000,0000,,{\blur3}现在我就可以计算出它会跑向何处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And now I've got to figure out where it's going to go.{\r}
+Dialogue: 0,0:08:41.47,0:08:43.93,Default,,0000,0000,0000,,{\blur3}因此 首先 我要正确地将照片里的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, first of all, I've got to correctly distinguish...{\r}
+Dialogue: 0,0:08:43.98,0:08:47.81,Default,,0000,0000,0000,,{\blur3}高尔夫球与其它物体区分开来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the golf ball in the frame from all other objects in the frame...{\r}
+Dialogue: 0,0:08:47.86,0:08:49.31,Default,,0000,0000,0000,,{\blur3}比如那些树啊 鸟啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}say trees or birds...{\r}
+Dialogue: 0,0:08:49.36,0:08:53.11,Default,,0000,0000,0000,,{\blur3}甚至并非同一个球的其它高尔夫球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or even other golf balls that may not be the same one.{\r}
+Dialogue: 0,0:08:53.15,0:08:55.74,Default,,0000,0000,0000,,{\blur3}一旦我确定了每一幅照片里的高尔夫球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once I've identified the golf ball in each of the frames...{\r}
+Dialogue: 0,0:08:55.78,0:08:58.03,Default,,0000,0000,0000,,{\blur3}我就需要利用万有引力定律知识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I need to use what I know about the laws of gravity...{\r}
+Dialogue: 0,0:08:58.07,0:09:00.12,Default,,0000,0000,0000,,{\blur3}来正确地匹配它的轨迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to correctly fit a trajectory to it...{\r}
+Dialogue: 0,0:09:00.16,0:09:03.25,Default,,0000,0000,0000,,{\blur3}这样我就可以计算出它最终的落地点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that I can figure out where it finally lands.{\r}
+Dialogue: 0,0:09:04.08,0:09:06.46,Default,,0000,0000,0000,,{\blur3}同样之理 我们寻找小行星时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the same way, when we look for asteroids...{\r}
+Dialogue: 0,0:09:06.50,0:09:10.04,Default,,0000,0000,0000,,{\blur3}我们也就摄取天空各个区域的快照{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have to just take snapshots of different parts of the sky...{\r}
+Dialogue: 0,0:09:10.09,0:09:13.21,Default,,0000,0000,0000,,{\blur3}将小行星区分于星星 星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and distinguish the asteroid from stars, from galaxies...{\r}
+Dialogue: 0,0:09:13.26,0:09:15.13,Default,,0000,0000,0000,,{\blur3}其它任何的暂时现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and from any other transient phenomenon...{\r}
+Dialogue: 0,0:09:15.17,0:09:16.84,Default,,0000,0000,0000,,{\blur3}比如说宇宙射线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like, say, cosmic rays.{\r}
+Dialogue: 0,0:09:17.84,0:09:19.30,Default,,0000,0000,0000,,{\blur3}然后我们要利用万有引力定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then we have to use the laws of gravity...{\r}
+Dialogue: 0,0:09:19.35,0:09:21.14,Default,,0000,0000,0000,,{\blur3}来匹配它的模型轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to fit a model orbit to it...{\r}
+Dialogue: 0,0:09:21.18,0:09:24.27,Default,,0000,0000,0000,,{\blur3}计算出它最终到达的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and figure out where it's actually going to go in the end.{\r}
+Dialogue: 0,0:09:33.36,0:09:37.32,Default,,0000,0000,0000,,{\blur3}NEO项目的望远镜所发现的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No telescopes in the N.E.O. program have found more asteroids...{\r}
+Dialogue: 0,0:09:37.36,0:09:40.70,Default,,0000,0000,0000,,{\blur3}并没有超过林肯近地小行星研究中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than those at Lincoln Near-Earth Asteroid Research...{\r}
+Dialogue: 0,0:09:40.74,0:09:42.70,Default,,0000,0000,0000,,{\blur3}简称 LINEAR{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}LINEAR for short.{\r}
+Dialogue: 0,0:09:44.87,0:09:46.83,Default,,0000,0000,0000,,{\blur3}位于新墨西哥州南部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Located in southern New Mexico...{\r}
+Dialogue: 0,0:09:46.87,0:09:51.50,Default,,0000,0000,0000,,{\blur3}他们已经发现了5000颗已知的近地小行星中的近一半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they've discovered almost half of the 5,000 known near-Earth asteroids...{\r}
+Dialogue: 0,0:09:51.54,0:09:54.17,Default,,0000,0000,0000,,{\blur3}包括700个直径1公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including about half of the 700 objects...{\r}
+Dialogue: 0,0:09:54.21,0:09:56.42,Default,,0000,0000,0000,,{\blur3}或更大的物体中的一半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}measuring one kilometer or larger.{\r}
+Dialogue: 0,0:09:58.30,0:10:00.64,Default,,0000,0000,0000,,{\blur3}我们在LINEAR项目中用于搜寻小行星的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the telescopes we use for hunting for asteroids...{\r}
+Dialogue: 0,0:10:00.68,0:10:02.51,Default,,0000,0000,0000,,{\blur3}一架望远镜就在我的身后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the LINEAR program is behind me.{\r}
+Dialogue: 0,0:10:02.56,0:10:04.39,Default,,0000,0000,0000,,{\blur3}它实际上按照天文学标准{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is actually not a rather large telescope...{\r}
+Dialogue: 0,0:10:04.43,0:10:05.52,Default,,0000,0000,0000,,{\blur3}并不是一架相对较大的望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by astronomical standards.{\r}
+Dialogue: 0,0:10:05.56,0:10:06.64,Default,,0000,0000,0000,,{\blur3}其孔径就一米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's one meter in aperture.{\r}
+Dialogue: 0,0:10:06.68,0:10:08.02,Default,,0000,0000,0000,,{\blur3}然而其灵敏度的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the secret to its sensitivity...{\r}
+Dialogue: 0,0:10:08.06,0:10:09.52,Default,,0000,0000,0000,,{\blur3}就在于那个蓝片 你可以看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that blue square that you can see...{\r}
+Dialogue: 0,0:10:09.56,0:10:11.23,Default,,0000,0000,0000,,{\blur3}就在望远镜的底部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}down in the bottom of the telescope.{\r}
+Dialogue: 0,0:10:11.27,0:10:12.61,Default,,0000,0000,0000,,{\blur3}那是一个电荷耦合元件(CCD){\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's a charge-coupled device...{\r}
+Dialogue: 0,0:10:12.65,0:10:15.82,Default,,0000,0000,0000,,{\blur3}专门用于广域传感搜索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}specially manufactured for wide area-sensitive search.{\r}
+Dialogue: 0,0:10:15.86,0:10:18.28,Default,,0000,0000,0000,,{\blur3}这台望远镜与那个CCD相结合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The combination of this telescope and that CCD...{\r}
+Dialogue: 0,0:10:18.32,0:10:21.53,Default,,0000,0000,0000,,{\blur3}所提供的系统的灵敏度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gives us a system exceeding one million times the sensitivity...{\r}
+Dialogue: 0,0:10:21.57,0:10:22.78,Default,,0000,0000,0000,,{\blur3}是人眼的1百万倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the human eye.{\r}
+Dialogue: 0,0:10:23.87,0:10:26.37,Default,,0000,0000,0000,,{\blur3}这就是 LINEAR望远镜所看到的天空的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is what the sky looks like through the LINEAR telescope.{\r}
+Dialogue: 0,0:10:26.41,0:10:28.79,Default,,0000,0000,0000,,{\blur3}你可以看到若干恒星固定不动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you can see is a number of stars here that are fixed.{\r}
+Dialogue: 0,0:10:28.83,0:10:32.21,Default,,0000,0000,0000,,{\blur3}同时 在那个数据里 还有若干近地物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And also, in that data, there are a number of near-Earth objects.{\r}
+Dialogue: 0,0:10:32.25,0:10:36.42,Default,,0000,0000,0000,,{\blur3}现在我们要做的就是处理这些数据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What I'm going to do now is have the process the data...{\r}
+Dialogue: 0,0:10:36.46,0:10:38.72,Default,,0000,0000,0000,,{\blur3}分析找出移动的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and analyze it to find the moving objects.{\r}
+Dialogue: 0,0:10:38.76,0:10:41.22,Default,,0000,0000,0000,,{\blur3}做法就是点击五幅快照{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What it's doing is it's clicking through the five frames...{\r}
+Dialogue: 0,0:10:41.26,0:10:44.10,Default,,0000,0000,0000,,{\blur3}事实上 现在就已经发现了若干移动的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, in fact, has now discovered a number of moving objects.{\r}
+Dialogue: 0,0:10:44.14,0:10:46.56,Default,,0000,0000,0000,,{\blur3}你现在看到的比如这个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you see here are ones that look like this.{\r}
+Dialogue: 0,0:10:46.60,0:10:48.56,Default,,0000,0000,0000,,{\blur3}这些实际上是主带小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are actually main belt asteroids.{\r}
+Dialogue: 0,0:10:48.60,0:10:52.23,Default,,0000,0000,0000,,{\blur3}它们就位于火星和木星之间的小行星带里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're out located in the main belt between Mars and Jupiter.{\r}
+Dialogue: 0,0:10:52.27,0:10:53.77,Default,,0000,0000,0000,,{\blur3}它们并不构成任何威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't pose any threat at all.{\r}
+Dialogue: 0,0:10:53.81,0:10:56.98,Default,,0000,0000,0000,,{\blur3}而在另一方面 你可以发现有两个非常异样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the other hand, you find a couple of them that are very different.{\r}
+Dialogue: 0,0:10:57.03,0:10:58.82,Default,,0000,0000,0000,,{\blur3}这个 事实上 在主带逆向移动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This one's, in fact, going opposite motion...{\r}
+Dialogue: 0,0:10:58.86,0:11:01.24,Default,,0000,0000,0000,,{\blur3}速度非常快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the main belt, and much, much faster.{\r}
+Dialogue: 0,0:11:01.28,0:11:02.91,Default,,0000,0000,0000,,{\blur3}这个在笔直前行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This one's going straight across.{\r}
+Dialogue: 0,0:11:02.95,0:11:04.82,Default,,0000,0000,0000,,{\blur3}这些事实上就是近地物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are, in fact, near-Earth objects.{\r}
+Dialogue: 0,0:11:04.87,0:11:06.95,Default,,0000,0000,0000,,{\blur3}事实上 这两个就是LINEAR发现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, in fact, these are two that LINEAR discovered.{\r}
+Dialogue: 0,0:11:08.95,0:11:10.54,Default,,0000,0000,0000,,{\blur3}LINEAR将数据发送到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}LINEAR sends its data...{\r}
+Dialogue: 0,0:11:10.58,0:11:13.92,Default,,0000,0000,0000,,{\blur3}马萨诸塞州剑桥国际小行星组织{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the Minor Planet Center in Cambridge, Massachusetts...{\r}
+Dialogue: 0,0:11:13.96,0:11:17.21,Default,,0000,0000,0000,,{\blur3}那是所有发现的近地物体的信息交流中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the clearinghouse for all near-Earth object searches.{\r}
+Dialogue: 0,0:11:18.71,0:11:20.84,Default,,0000,0000,0000,,{\blur3}国际小行星组织的具体工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Minor Planet Center's job specifically...{\r}
+Dialogue: 0,0:11:20.88,0:11:25.10,Default,,0000,0000,0000,,{\blur3}就是将新近地物体的观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to tie the observations of new N.E.O.s{\r}
+Dialogue: 0,0:11:25.14,0:11:26.39,Default,,0000,0000,0000,,{\blur3}与已存在的近地物体联系起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with already existing N.E.O.s...{\r}
+Dialogue: 0,0:11:26.43,0:11:29.97,Default,,0000,0000,0000,,{\blur3}然后精炼出近地物体总体的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and just refine the orbits of the near-Earth objects in general.{\r}
+Dialogue: 0,0:11:30.02,0:11:31.18,Default,,0000,0000,0000,,{\blur3}利用这些轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the orbits...{\r}
+Dialogue: 0,0:11:31.23,0:11:33.98,Default,,0000,0000,0000,,{\blur3}其他组织就可以进行物理观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}other groups can go perform physical observations...{\r}
+Dialogue: 0,0:11:34.02,0:11:38.15,Default,,0000,0000,0000,,{\blur3}利用各种望远镜来确定物体的实际大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using various telescopes to determine the actual sizes of the objects.{\r}
+Dialogue: 0,0:11:39.19,0:11:43.28,Default,,0000,0000,0000,,{\blur3}国际小行星组织认为小行星具有潜在的危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Minor Planet Center considers an asteroid potentially hazardous...{\r}
+Dialogue: 0,0:11:43.32,0:11:47.03,Default,,0000,0000,0000,,{\blur3}前提就在其轨道将其带到了距地球500万英里的范围内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if its orbit brings it to within five million miles of Earth.{\r}
+Dialogue: 0,0:11:49.25,0:11:51.45,Default,,0000,0000,0000,,{\blur3}那对宇宙的舒适度来说太近了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's too close for cosmic comfort...{\r}
+Dialogue: 0,0:11:51.50,0:11:54.71,Default,,0000,0000,0000,,{\blur3}肯定上了杜林灾难指数的一个等级{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and definitely earns a rating on the Torino Scale...{\r}
+Dialogue: 0,0:11:54.75,0:11:59.96,Default,,0000,0000,0000,,{\blur3}那是一个指南 科学家用来评估 小行星所构成威胁的等级{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a guide scientists use to assess the threat level posed by an asteroid.{\r}
+Dialogue: 0,0:12:00.01,0:12:02.22,Default,,0000,0000,0000,,{\blur3}该等级从0到10{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The scale ranges from zero to ten...{\r}
+Dialogue: 0,0:12:02.26,0:12:06.80,Default,,0000,0000,0000,,{\blur3}10是完全毁灭 0代表没有任何风险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where ten is absolute destruction and zero means no hazard at all...{\r}
+Dialogue: 0,0:12:06.85,0:12:08.85,Default,,0000,0000,0000,,{\blur3}或极少会遭遇任何的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or very little chance of any sort of impact.{\r}
+Dialogue: 0,0:12:11.48,0:12:14.27,Default,,0000,0000,0000,,{\blur3}迄今已经录入杜林灾难指数最高等级的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The highest rating that any object has ever received so far...{\r}
+Dialogue: 0,0:12:14.31,0:12:17.02,Default,,0000,0000,0000,,{\blur3}是一颗小行星 叫做阿波菲斯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the Torino Scale was an asteroid called Apophis.{\r}
+Dialogue: 0,0:12:17.06,0:12:21.03,Default,,0000,0000,0000,,{\blur3}阿波菲斯的名字来自埃及的毁灭之神{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And Apophis is named after the Egyptian god of destruction.{\r}
+Dialogue: 0,0:12:22.61,0:12:26.03,Default,,0000,0000,0000,,{\blur3}阿波菲斯一度到达了杜林灾难指数四级{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Apophis, at one point, had a Torino rating as high as four.{\r}
+Dialogue: 0,0:12:27.99,0:12:31.83,Default,,0000,0000,0000,,{\blur3}事实上 在2004年12月发现后的几个星期里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, in the weeks following its discovery in December 2004...{\r}
+Dialogue: 0,0:12:31.87,0:12:33.96,Default,,0000,0000,0000,,{\blur3}曾有一个时段 它表现出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there was a time period when it appeared to have...{\r}
+Dialogue: 0,0:12:34.00,0:12:39.00,Default,,0000,0000,0000,,{\blur3}在2029年会有2.7%的撞击概率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as high as 2.7 percent chance of impact in 2029.{\r}
+Dialogue: 0,0:12:39.04,0:12:41.00,Default,,0000,0000,0000,,{\blur3}那是约1: 37{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's about one in 37.{\r}
+Dialogue: 0,0:12:41.05,0:12:43.26,Default,,0000,0000,0000,,{\blur3}那是轮盘赌的赔率 而不是乐透彩的赔率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are roulette odds, not lottery odds.{\r}
+Dialogue: 0,0:12:43.30,0:12:46.80,Default,,0000,0000,0000,,{\blur3}因此在当时 大家都开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so, at that time, everybody really started...{\r}
+Dialogue: 0,0:12:46.84,0:12:52.18,Default,,0000,0000,0000,,{\blur3}密切关注阿波菲斯在2029年潜在威胁了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}paying a close attention to Apophis as a possible threat in 2029.{\r}
+Dialogue: 0,0:12:54.39,0:12:57.52,Default,,0000,0000,0000,,{\blur3}实际长约270米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Measuring about 270 meters in length...{\r}
+Dialogue: 0,0:12:57.56,0:12:59.23,Default,,0000,0000,0000,,{\blur3}即800英尺多一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or more than 800 feet...{\r}
+Dialogue: 0,0:13:00.73,0:13:04.99,Default,,0000,0000,0000,,{\blur3}阿波菲斯具有500个百万吨级的当量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Apophis has the energy of a 500-Megaton bomb...{\r}
+Dialogue: 0,0:13:05.03,0:13:09.91,Default,,0000,0000,0000,,{\blur3}足以抹平一个大都市 或造成毁灭性的海啸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}enough to wipe out a major city or cause a devastating tsunami.{\r}
+Dialogue: 0,0:13:11.24,0:13:15.04,Default,,0000,0000,0000,,{\blur3}到了2029年 阿波菲斯距离地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 2029, Apophis will come closer to the Earth...{\r}
+Dialogue: 0,0:13:15.08,0:13:18.12,Default,,0000,0000,0000,,{\blur3}将比转播这个电视节目的卫星更近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the satellite bringing you this TV program.{\r}
+Dialogue: 0,0:13:21.92,0:13:26.84,Default,,0000,0000,0000,,{\blur3}尽管超常地靠近 额外的雷达和光学分析{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Despite the unusual proximity, additional radar and optical analysis...{\r}
+Dialogue: 0,0:13:26.88,0:13:29.39,Default,,0000,0000,0000,,{\blur3}已经排除了对地球撞击的威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have eliminated the threat of an Earth impact...{\r}
+Dialogue: 0,0:13:29.43,0:13:31.43,Default,,0000,0000,0000,,{\blur3}杜林灾难指数零级{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a zero on the Torino Scale.{\r}
+Dialogue: 0,0:13:34.60,0:13:38.52,Default,,0000,0000,0000,,{\blur3}但是在那个轨道上 阿波菲斯有可能穿越一个钥匙孔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But during that orbit, Apophis may pass through a keyhole...{\r}
+Dialogue: 0,0:13:38.56,0:13:42.36,Default,,0000,0000,0000,,{\blur3}太空里的一个区域 如果有小行星穿越那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an area in space where, if the asteroid passes through it...{\r}
+Dialogue: 0,0:13:42.40,0:13:44.82,Default,,0000,0000,0000,,{\blur3}就会有4.5万分之一的概率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's a one in 45,000 chance...{\r}
+Dialogue: 0,0:13:44.86,0:13:48.45,Default,,0000,0000,0000,,{\blur3}在2036年与地球有另一次遭遇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of another encounter with Earth in 2036.{\r}
+Dialogue: 0,0:13:50.57,0:13:53.37,Default,,0000,0000,0000,,{\blur3}2036年里发生撞击的可能性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The possibility of a collision in 2036...{\r}
+Dialogue: 0,0:13:53.41,0:13:55.75,Default,,0000,0000,0000,,{\blur3}是我们要认真监视的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is something that we're very carefully monitoring.{\r}
+Dialogue: 0,0:13:55.79,0:13:58.75,Default,,0000,0000,0000,,{\blur3}然而 我们观察阿波菲斯的极佳的机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And yet, we have excellent opportunities...{\r}
+Dialogue: 0,0:13:58.79,0:14:01.92,Default,,0000,0000,0000,,{\blur3}是在2013年前后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to observe Apophis in around the year 2013...{\r}
+Dialogue: 0,0:14:01.96,0:14:03.59,Default,,0000,0000,0000,,{\blur3}还有2021年前后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and again around the year 2021.{\r}
+Dialogue: 0,0:14:03.63,0:14:07.22,Default,,0000,0000,0000,,{\blur3}届时 我们就可以有充分的信心称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At which time, with very high confidence...{\r}
+Dialogue: 0,0:14:07.26,0:14:10.68,Default,,0000,0000,0000,,{\blur3}撞击的可能性将被排除{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can say that that possibility of impact will be eliminated.{\r}
+Dialogue: 0,0:14:10.72,0:14:13.68,Default,,0000,0000,0000,,{\blur3}不太可能的情况 就是撞击的可能性依然存在的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the unlikely case that that possibility of impact persists...{\r}
+Dialogue: 0,0:14:13.72,0:14:16.52,Default,,0000,0000,0000,,{\blur3}我们还会有充分的时间来规避撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we will still have plenty of time to avert the collision...{\r}
+Dialogue: 0,0:14:16.56,0:14:18.98,Default,,0000,0000,0000,,{\blur3}通过某种缓解的行动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through some kind of a mitigation campaign.{\r}
+Dialogue: 0,0:14:20.94,0:14:24.61,Default,,0000,0000,0000,,{\blur3}缓解是阻止世界末日的下一步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mitigation is the next step to stopping Armageddon.{\r}
+Dialogue: 0,0:14:25.69,0:14:29.11,Default,,0000,0000,0000,,{\blur3}如何来预防阿波菲斯以及其它大型小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How do we prevent Apophis or any large asteroid...{\r}
+Dialogue: 0,0:14:29.15,0:14:33.87,Default,,0000,0000,0000,,{\blur3}撞击地球造成大规模破坏呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from colliding into Earth and causing mass devastation?{\r}
+Dialogue: 0,0:14:33.91,0:14:38.79,Default,,0000,0000,0000,,{\blur3}显然答案有可能是最差劲的选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The obvious answer may be the worst option of all.{\r}
+Dialogue: 0,0:14:45.80,0:14:49.88,Default,,0000,0000,0000,,{\blur3}我们的幸存取决于对这个问题的回答:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our very survival depends on the answer to this question:{\r}
+Dialogue: 0,0:14:53.80,0:14:58.18,Default,,0000,0000,0000,,{\blur3}一旦我们发现有较大的小行星 处于撞击地球的轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we find a large asteroid on track to collide with Earth...{\r}
+Dialogue: 0,0:14:58.23,0:15:01.02,Default,,0000,0000,0000,,{\blur3}我们能够采取行动来预防它的发生吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can we do anything to prevent it from happening?{\r}
+Dialogue: 0,0:15:04.19,0:15:08.03,Default,,0000,0000,0000,,{\blur3}你可以将小行星撞击视为巨大的自然灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can think of an asteroid impact as a huge natural disaster.{\r}
+Dialogue: 0,0:15:08.07,0:15:09.82,Default,,0000,0000,0000,,{\blur3}但是问题是它不同于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the thing that makes this different...{\r}
+Dialogue: 0,0:15:09.86,0:15:11.74,Default,,0000,0000,0000,,{\blur3}我们已知的各种自然灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the kinds of natural disasters that we know about--{\r}
+Dialogue: 0,0:15:11.78,0:15:14.12,Default,,0000,0000,0000,,{\blur3}飓风 地震 诸如此类的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hurricanes or earthquakes or things like that--{\r}
+Dialogue: 0,0:15:14.16,0:15:15.83,Default,,0000,0000,0000,,{\blur3}那些原则上是可以预防的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that, in principle, it's preventable.{\r}
+Dialogue: 0,0:15:19.08,0:15:23.42,Default,,0000,0000,0000,,{\blur3}因此你的工作未必就是如何去善后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So your job isn't necessarily how do you clean up in the aftermath...{\r}
+Dialogue: 0,0:15:28.21,0:15:29.42,Default,,0000,0000,0000,,{\blur3}而是如何去预防它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but how do you prevent it...{\r}
+Dialogue: 0,0:15:29.47,0:15:31.34,Default,,0000,0000,0000,,{\blur3}那是一个重大的区别{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's an important distinction.{\r}
+Dialogue: 0,0:15:33.05,0:15:35.18,Default,,0000,0000,0000,,{\blur3}预防大规模的地球撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Preventing a massive Earth impact...{\r}
+Dialogue: 0,0:15:35.22,0:15:38.31,Default,,0000,0000,0000,,{\blur3}把我们带到了阻止世界末日的第二步:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}brings us to step two for stopping Armageddon:{\r}
+Dialogue: 0,0:15:38.35,0:15:39.35,Default,,0000,0000,0000,,{\blur3}缓解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mitigation.{\r}
+Dialogue: 0,0:15:42.35,0:15:46.65,Default,,0000,0000,0000,,{\blur3}让致命的近地物体失效谈何容易{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neutralizing a deadly near-Earth object is no easy task.{\r}
+Dialogue: 0,0:15:49.07,0:15:50.57,Default,,0000,0000,0000,,{\blur3}它来自好莱坞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take it from Hollywood.{\r}
+Dialogue: 0,0:15:53.24,0:15:54.45,Default,,0000,0000,0000,,{\blur3}亦或不行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or maybe not.{\r}
+Dialogue: 0,0:15:59.24,0:16:03.21,Default,,0000,0000,0000,,{\blur3}最糟糕的做法尽在好莱坞电影里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The worst thing to do is to look at all the Hollywood movies...{\r}
+Dialogue: 0,0:16:03.25,0:16:06.88,Default,,0000,0000,0000,,{\blur3}我们看到猛男走出航天飞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where we have macho men going out in the space shuttle...{\r}
+Dialogue: 0,0:16:06.92,0:16:11.63,Default,,0000,0000,0000,,{\blur3}来到深太空 将氢弹放到那些物体上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}way out in deep space, planting hydrogen bombs on these objects.{\r}
+Dialogue: 0,0:16:11.67,0:16:15.72,Default,,0000,0000,0000,,{\blur3}嗯 首先 航天飞机甚至都到不了那个距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, first of all, the space shuttle can't even reach those distances.{\r}
+Dialogue: 0,0:16:15.76,0:16:18.60,Default,,0000,0000,0000,,{\blur3}航天飞机只能够围绕着地球本身运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The space shuttle simply goes around the planet Earth itself.{\r}
+Dialogue: 0,0:16:22.27,0:16:24.39,Default,,0000,0000,0000,,{\blur3}其次 更重要的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Second of all, and more important...{\r}
+Dialogue: 0,0:16:24.44,0:16:29.32,Default,,0000,0000,0000,,{\blur3}炸毁小行星是最糟糕的方案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to blow up an asteroid is the worst possible scenario.{\r}
+Dialogue: 0,0:16:32.28,0:16:34.99,Default,,0000,0000,0000,,{\blur3}因为没有了一颗大型小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'Cause instead of having one monster asteroid...{\r}
+Dialogue: 0,0:16:35.03,0:16:37.57,Default,,0000,0000,0000,,{\blur3}你现在则有了两个 三个 或四个碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you now have two, three, four pieces...{\r}
+Dialogue: 0,0:16:37.62,0:16:43.25,Default,,0000,0000,0000,,{\blur3}每一块都足以对地球发起巨大的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}each piece capable of initiating tremendous havoc on the planet Earth.{\r}
+Dialogue: 0,0:16:48.84,0:16:51.09,Default,,0000,0000,0000,,{\blur3}另一方面 如果它是个大型物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the other hand, if it were a large object...{\r}
+Dialogue: 0,0:16:51.13,0:16:54.51,Default,,0000,0000,0000,,{\blur3}你就有足够的时间 若干年的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you had enough time, several years...{\r}
+Dialogue: 0,0:16:54.55,0:16:56.43,Default,,0000,0000,0000,,{\blur3}你可以尝试去炸毁它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you could try and blow it up...{\r}
+Dialogue: 0,0:16:56.47,0:16:58.59,Default,,0000,0000,0000,,{\blur3}希望弹片能避开地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and hope that the shrapnel would miss the Earth...{\r}
+Dialogue: 0,0:16:58.64,0:16:59.68,Default,,0000,0000,0000,,{\blur3}至少大部分能避开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or most of it would.{\r}
+Dialogue: 0,0:16:59.72,0:17:03.64,Default,,0000,0000,0000,,{\blur3}不过对于大物体 我们几乎能提前发现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But large objects we almost certainly would find ahead of time.{\r}
+Dialogue: 0,0:17:06.15,0:17:09.06,Default,,0000,0000,0000,,{\blur3}实际上众多小物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's really the small, far more numerous objects...{\r}
+Dialogue: 0,0:17:09.11,0:17:11.32,Default,,0000,0000,0000,,{\blur3}才是难以对付的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are the ones that are tough to deal with.{\r}
+Dialogue: 0,0:17:15.32,0:17:17.41,Default,,0000,0000,0000,,{\blur3}如果彻底摧毁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If outright destruction...{\r}
+Dialogue: 0,0:17:17.45,0:17:20.20,Default,,0000,0000,0000,,{\blur3}如好莱坞式的炸毁 太冒险了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}such as a Hollywood-style bombing, is too risky...{\r}
+Dialogue: 0,0:17:20.24,0:17:24.50,Default,,0000,0000,0000,,{\blur3}或者充其量 只保留最大的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or, at best, reserved for only for the largest asteroids...{\r}
+Dialogue: 0,0:17:24.54,0:17:25.62,Default,,0000,0000,0000,,{\blur3}更为保险的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's a safer way...{\r}
+Dialogue: 0,0:17:25.66,0:17:28.12,Default,,0000,0000,0000,,{\blur3}就是将近地物体移出危害的路径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to move a near-Earth object out of harm's way...{\r}
+Dialogue: 0,0:17:28.17,0:17:30.17,Default,,0000,0000,0000,,{\blur3}那就是偏离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's by deflection.{\r}
+Dialogue: 0,0:17:32.00,0:17:36.47,Default,,0000,0000,0000,,{\blur3}如果小行星一头撞向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf an asteroid is headed toward an impact with Earth...{\r}
+Dialogue: 0,0:17:36.51,0:17:41.01,Default,,0000,0000,0000,,{\blur3}你最好是极其轻微地改变其轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're far better off by changing its orbit very slightly...{\r}
+Dialogue: 0,0:17:41.06,0:17:45.02,Default,,0000,0000,0000,,{\blur3}这样让它避开地球 呆在一个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that it misses the Earth, but stays in one piece...{\r}
+Dialogue: 0,0:17:45.06,0:17:48.02,Default,,0000,0000,0000,,{\blur3}要好过你试图炸毁它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much better off than you are trying to break it up.{\r}
+Dialogue: 0,0:17:49.06,0:17:51.31,Default,,0000,0000,0000,,{\blur3}你无法让任何物体消失殆尽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can't make anything disappear.{\r}
+Dialogue: 0,0:17:51.36,0:17:53.98,Default,,0000,0000,0000,,{\blur3}你只能将它炸成碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You simply break it into pieces.{\r}
+Dialogue: 0,0:17:54.03,0:17:55.99,Default,,0000,0000,0000,,{\blur3}轰炸它将会将它炸成碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bombing it is going to break it into pieces...{\r}
+Dialogue: 0,0:17:56.03,0:17:57.49,Default,,0000,0000,0000,,{\blur3}将会造成更多的破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which could do much more damage.{\r}
+Dialogue: 0,0:17:57.53,0:18:00.41,Default,,0000,0000,0000,,{\blur3}那会是霰弹攻击来代替步枪子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a shotgun blast instead of a rifle bullet.{\r}
+Dialogue: 0,0:18:03.74,0:18:07.50,Default,,0000,0000,0000,,{\blur3}要效果最佳 偏离则需要尽可能的提前量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To work best, deflection requires as much lead time as possible.{\r}
+Dialogue: 0,0:18:07.54,0:18:09.83,Default,,0000,0000,0000,,{\blur3}数年 甚至数十年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Years, if not decades.{\r}
+Dialogue: 0,0:18:09.88,0:18:13.92,Default,,0000,0000,0000,,{\blur3}简而言之 早发现意味着早偏离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Put simply, early detection means early deflection.{\r}
+Dialogue: 0,0:18:19.64,0:18:21.93,Default,,0000,0000,0000,,{\blur3}尤为重要的是 它越远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}More importantly, the farther away it is...{\r}
+Dialogue: 0,0:18:21.97,0:18:24.14,Default,,0000,0000,0000,,{\blur3}我们所要施加的力量就越小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the less force we have to apply...{\r}
+Dialogue: 0,0:18:24.18,0:18:27.06,Default,,0000,0000,0000,,{\blur3}以导致小行星轨道的大转移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in order to cause a large shift in the asteroid's orbit.{\r}
+Dialogue: 0,0:18:29.56,0:18:32.48,Default,,0000,0000,0000,,{\blur3}为了证明这一点 我们来玩一下冰球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To demonstrate the point, let's play hockey.{\r}
+Dialogue: 0,0:18:35.90,0:18:38.61,Default,,0000,0000,0000,,{\blur3}球员击球距离球门越远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The further away from the net a player shoots the puck...{\r}
+Dialogue: 0,0:18:39.99,0:18:42.91,Default,,0000,0000,0000,,{\blur3}阻挡目标所需的偏离也就越小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the less deflection will be needed to prevent a goal.{\r}
+Dialogue: 0,0:18:46.45,0:18:49.79,Default,,0000,0000,0000,,{\blur3}然而 如果球员射门越靠近球门{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, if a player takes a shot much closer to the net...{\r}
+Dialogue: 0,0:18:52.42,0:18:54.63,Default,,0000,0000,0000,,{\blur3}那么就需要更大的偏离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then a much larger deflection is required...{\r}
+Dialogue: 0,0:18:54.67,0:18:56.25,Default,,0000,0000,0000,,{\blur3}让冰球转向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to keep the puck from going in.{\r}
+Dialogue: 0,0:18:57.26,0:18:59.72,Default,,0000,0000,0000,,{\blur3}现在来设想一下 那冰球是颗小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now imagine that the puck is an asteroid...{\r}
+Dialogue: 0,0:18:59.76,0:19:02.43,Default,,0000,0000,0000,,{\blur3}球门是地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the net is the Earth.{\r}
+Dialogue: 0,0:19:02.47,0:19:03.76,Default,,0000,0000,0000,,{\blur3}首选方案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The preferred scenarios...{\r}
+Dialogue: 0,0:19:03.80,0:19:07.43,Default,,0000,0000,0000,,{\blur3}就是通过改变其速度来偏离小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are to deflect the asteroid by changing its velocity.{\r}
+Dialogue: 0,0:19:08.85,0:19:11.81,Default,,0000,0000,0000,,{\blur3}如果我们进行偏离有足够的提前量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf we can do that sufficiently far in advance...{\r}
+Dialogue: 0,0:19:11.85,0:19:14.11,Default,,0000,0000,0000,,{\blur3}比方说 10年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for example, ten years...{\r}
+Dialogue: 0,0:19:14.15,0:19:18.28,Default,,0000,0000,0000,,{\blur3}我们就只需要改变其速度不足每秒一厘米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we only need to change its velocity less than one centimeter per second.{\r}
+Dialogue: 0,0:19:20.36,0:19:22.91,Default,,0000,0000,0000,,{\blur3}因此这是速度上的极其微小的改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's a very, very small change in velocity.{\r}
+Dialogue: 0,0:19:22.95,0:19:24.95,Default,,0000,0000,0000,,{\blur3}于是其累积效应将意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The cumulative effect then will mean...{\r}
+Dialogue: 0,0:19:24.99,0:19:28.83,Default,,0000,0000,0000,,{\blur3}它将会抵达的地方 既不是在我们的前方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it will get to where we are either before we are there...{\r}
+Dialogue: 0,0:19:28.87,0:19:31.75,Default,,0000,0000,0000,,{\blur3}或地球所处位置的后方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or after the Earth is at that position...{\r}
+Dialogue: 0,0:19:31.79,0:19:33.33,Default,,0000,0000,0000,,{\blur3}因此将不再是个问题了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it is no longer a problem.{\r}
+Dialogue: 0,0:19:35.75,0:19:40.55,Default,,0000,0000,0000,,{\blur3}要做到这一点 几个偏转策略已经提出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To do just that, several deflection strategies have been proposed.{\r}
+Dialogue: 0,0:19:40.59,0:19:42.59,Default,,0000,0000,0000,,{\blur3}要说声对不起布鲁斯.威利斯了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And with apologies to Bruce Willis...{\r}
+Dialogue: 0,0:19:43.76,0:19:45.97,Default,,0000,0000,0000,,{\blur3}丝毫不需要载人飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}none requires a manned mission.{\r}
+Dialogue: 0,0:19:48.89,0:19:52.60,Default,,0000,0000,0000,,{\blur3}事实上 载人飞行将极大地妨碍那些东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, a manned mission would significantly hinder these things.{\r}
+Dialogue: 0,0:19:52.64,0:19:56.40,Default,,0000,0000,0000,,{\blur3}对此 利用目前的技术和目前的航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To this point, with current technology and current vehicles...{\r}
+Dialogue: 0,0:19:56.44,0:19:58.32,Default,,0000,0000,0000,,{\blur3}我们实际上无法跑得离地球很远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can't really get very far away from the Earth...{\r}
+Dialogue: 0,0:19:58.36,0:20:00.86,Default,,0000,0000,0000,,{\blur3}那将严重制约你的能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that severely constrains your ability...{\r}
+Dialogue: 0,0:20:00.90,0:20:02.82,Default,,0000,0000,0000,,{\blur3}去真正解决其中的一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to actually solve one of these problems...{\r}
+Dialogue: 0,0:20:02.86,0:20:06.07,Default,,0000,0000,0000,,{\blur3}如果最佳时间可能是到太阳的对面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when the optimal time might be the opposite side of the Sun...{\r}
+Dialogue: 0,0:20:06.12,0:20:07.33,Default,,0000,0000,0000,,{\blur3}去造访小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to meet the asteroid.{\r}
+Dialogue: 0,0:20:12.41,0:20:15.63,Default,,0000,0000,0000,,{\blur3}法国研究人员提出的一个偏离策略{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One deflection strategy advanced by French researchers...{\r}
+Dialogue: 0,0:20:15.67,0:20:18.67,Default,,0000,0000,0000,,{\blur3}叫做征用无威胁的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}calls for commandeering a non-threatening asteroid...{\r}
+Dialogue: 0,0:20:18.71,0:20:22.09,Default,,0000,0000,0000,,{\blur3}将近地物体敲离轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to knock an Earth-bound object off course.{\r}
+Dialogue: 0,0:20:23.63,0:20:27.30,Default,,0000,0000,0000,,{\blur3}这个策略可谓是"以星制星"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Call this strategy "asteroid versus asteroid."{\r}
+Dialogue: 0,0:20:33.85,0:20:36.94,Default,,0000,0000,0000,,{\blur3}它并非是天方夜谭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not totally outside the realm of possibility.{\r}
+Dialogue: 0,0:20:36.98,0:20:38.48,Default,,0000,0000,0000,,{\blur3}尝试将它停泊在我们想要的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Trying to park it where we want it...{\r}
+Dialogue: 0,0:20:38.52,0:20:42.15,Default,,0000,0000,0000,,{\blur3}不让它撞击地球是问题的要害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and not have it hit the Earth is in itself questionable.{\r}
+Dialogue: 0,0:20:42.19,0:20:45.86,Default,,0000,0000,0000,,{\blur3}我们只有其中的某些处在地球的附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have only a certain number of these...that are anywhere near the Earth.{\r}
+Dialogue: 0,0:20:48.45,0:20:50.99,Default,,0000,0000,0000,,{\blur3}发现有小行星活动在地球附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And finding one that could be easily moved...{\r}
+Dialogue: 0,0:20:51.04,0:20:54.33,Default,,0000,0000,0000,,{\blur3}显然 你要考虑到同样是小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in near Earth, obviously, you're talking about the same asteroids...{\r}
+Dialogue: 0,0:20:54.37,0:20:56.50,Default,,0000,0000,0000,,{\blur3}有可能会有撞击地球的危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that might be in danger of hitting the Earth to start with.{\r}
+Dialogue: 0,0:20:56.54,0:20:59.79,Default,,0000,0000,0000,,{\blur3}因此我是不会赞成考虑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so I would not be in favor of thinking...{\r}
+Dialogue: 0,0:20:59.84,0:21:01.75,Default,,0000,0000,0000,,{\blur3}取上一个以做备用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of bringing one in to have it later.{\r}
+Dialogue: 0,0:21:03.22,0:21:06.84,Default,,0000,0000,0000,,{\blur3}今后要打击较大小行星是非常困难的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the ability to shoot a large asteroid later is very difficult.{\r}
+Dialogue: 0,0:21:06.89,0:21:08.68,Default,,0000,0000,0000,,{\blur3}我们不需要大物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We don't need something that large...{\r}
+Dialogue: 0,0:21:08.72,0:21:11.22,Default,,0000,0000,0000,,{\blur3}具有足够的能量和动力来偏离它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to have enough energy and momentum to deflect it.{\r}
+Dialogue: 0,0:21:13.14,0:21:16.77,Default,,0000,0000,0000,,{\blur3}另一项提案出自欧洲航天局{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another proposal comes from the European Space Agency.{\r}
+Dialogue: 0,0:21:16.81,0:21:20.77,Default,,0000,0000,0000,,{\blur3}它所筹划的任务叫做堂吉诃德{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's preparing designs for a mission name Don Quixote.{\r}
+Dialogue: 0,0:21:22.86,0:21:24.94,Default,,0000,0000,0000,,{\blur3}不是用倾斜的风车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead of tilting at windmills...{\r}
+Dialogue: 0,0:21:24.99,0:21:28.86,Default,,0000,0000,0000,,{\blur3}该机构计划改变无威胁小行星的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the agency plans to alter the course of a non-threatening asteroid...{\r}
+Dialogue: 0,0:21:28.91,0:21:32.49,Default,,0000,0000,0000,,{\blur3}利用发射所谓的动能撞击器的航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by launching a spacecraft, called a kinetic impactor...{\r}
+Dialogue: 0,0:21:32.54,0:21:34.08,Default,,0000,0000,0000,,{\blur3}去撞击它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to collide into it.{\r}
+Dialogue: 0,0:21:39.08,0:21:43.63,Default,,0000,0000,0000,,{\blur3}动能撞击器是我准备的工具箱里的重头戏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A kinetic impactor's number one in my toolbox of what l would do.{\r}
+Dialogue: 0,0:21:44.46,0:21:46.09,Default,,0000,0000,0000,,{\blur3}非常简单 直截了当{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very simple, it's straightforward...{\r}
+Dialogue: 0,0:21:46.13,0:21:49.76,Default,,0000,0000,0000,,{\blur3}我们至少有了一条底线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we at least have a bottom line...{\r}
+Dialogue: 0,0:21:49.80,0:21:52.26,Default,,0000,0000,0000,,{\blur3}我们知道我们可以依赖的最低限度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a minimum effect that we know we can count on.{\r}
+Dialogue: 0,0:21:53.81,0:21:55.64,Default,,0000,0000,0000,,{\blur3}我们可以发射足够大的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can launch something large enough...{\r}
+Dialogue: 0,0:21:55.68,0:22:01.73,Default,,0000,0000,0000,,{\blur3}以足够大的速度 在至少 比方说10年 20年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at sufficiently high velocity within at least, let's say, 10 years, 20 years...{\r}
+Dialogue: 0,0:22:03.86,0:22:08.40,Default,,0000,0000,0000,,{\blur3}将一颗小行星偏移数百米的范围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to deflect an asteroid up into the several hundred meter range.{\r}
+Dialogue: 0,0:22:14.54,0:22:17.91,Default,,0000,0000,0000,,{\blur3}动能撞击 以及以星制星的策略{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Kinetic impact and asteroid versus asteroid strategies...{\r}
+Dialogue: 0,0:22:17.96,0:22:22.17,Default,,0000,0000,0000,,{\blur3}都需要大规模的碰撞来转移有威胁的近地物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}require a massive collision to deflect a threatening near-Earth object.{\r}
+Dialogue: 0,0:22:25.80,0:22:27.42,Default,,0000,0000,0000,,{\blur3}不过还有其它的建议提出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But other proposals suggest...{\r}
+Dialogue: 0,0:22:27.47,0:22:30.30,Default,,0000,0000,0000,,{\blur3}有可能会阻止世界末日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it may be possible to stop Armageddon...{\r}
+Dialogue: 0,0:22:30.34,0:22:33.14,Default,,0000,0000,0000,,{\blur3}只不过就是利用光束而已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with nothing more than a beam of light.{\r}
+Dialogue: 0,0:22:42.27,0:22:45.32,Default,,0000,0000,0000,,{\blur3}有几种方法来阻止世界末日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are several ways to stop Armageddon.{\r}
+Dialogue: 0,0:22:47.49,0:22:50.24,Default,,0000,0000,0000,,{\blur3}有人建议出其不意的巨大撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some propose a sudden massive impact...{\r}
+Dialogue: 0,0:22:50.28,0:22:53.62,Default,,0000,0000,0000,,{\blur3}实实在在地将近地小行星敲离轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that literally knocks an Earth-bound asteroid off course.{\r}
+Dialogue: 0,0:22:59.46,0:23:01.62,Default,,0000,0000,0000,,{\blur3}还有人提出任务的完成无需撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Others suggest the mission can be accomplished...{\r}
+Dialogue: 0,0:23:01.67,0:23:04.63,Default,,0000,0000,0000,,{\blur3}只要利用其它手段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without a collision by using other means...{\r}
+Dialogue: 0,0:23:04.67,0:23:07.42,Default,,0000,0000,0000,,{\blur3}诸如近距离核爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}such as a stand-off nuclear explosion...{\r}
+Dialogue: 0,0:23:07.46,0:23:10.17,Default,,0000,0000,0000,,{\blur3}将小行星推出威胁的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to push the asteroid out of harm's way.{\r}
+Dialogue: 0,0:23:20.35,0:23:23.69,Default,,0000,0000,0000,,{\blur3}你在距离其表面很小距离的地方引爆核弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You detonate the weapon some small distance off the surface.{\r}
+Dialogue: 0,0:23:24.52,0:23:27.65,Default,,0000,0000,0000,,{\blur3}其主要作用是为了让能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The main effect then is for energy...{\r}
+Dialogue: 0,0:23:27.69,0:23:31.57,Default,,0000,0000,0000,,{\blur3}希望能以中子的形式 穿透其表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hopefully in the form of neutrons, penetrating the surface.{\r}
+Dialogue: 0,0:23:32.95,0:23:36.53,Default,,0000,0000,0000,,{\blur3}你对其加热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you heat it and you blow off pieces of the surface.{\r}
+Dialogue: 0,0:23:36.58,0:23:38.74,Default,,0000,0000,0000,,{\blur3}炸掉其表层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's over a fairly large area...{\r}
+Dialogue: 0,0:23:38.79,0:23:41.41,Default,,0000,0000,0000,,{\blur3}这样你就减小了将其炸裂的机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so you diminish the chance of breaking it up.{\r}
+Dialogue: 0,0:23:48.26,0:23:49.71,Default,,0000,0000,0000,,{\blur3}虽然还存在着一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's one problem, though.{\r}
+Dialogue: 0,0:23:52.05,0:23:55.14,Default,,0000,0000,0000,,{\blur3}核武器是被国际公约禁止在太空中使用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nukes are banned from space by international treaty.{\r}
+Dialogue: 0,0:23:56.85,0:23:59.77,Default,,0000,0000,0000,,{\blur3}但要是小行星威胁到了我们的生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if an asteroid threatens our very survival...{\r}
+Dialogue: 0,0:23:59.81,0:24:01.81,Default,,0000,0000,0000,,{\blur3}还会有那么重要吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will that really matter?{\r}
+Dialogue: 0,0:24:01.85,0:24:03.52,Default,,0000,0000,0000,,{\blur3}就缓解策略而言{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In terms of mitigation strategies...{\r}
+Dialogue: 0,0:24:03.56,0:24:06.23,Default,,0000,0000,0000,,{\blur3}我最具印象的就是使用核武器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm most impressed with the use of the nuclear weapons...{\r}
+Dialogue: 0,0:24:07.73,0:24:10.40,Default,,0000,0000,0000,,{\blur3}我认为它最有效{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and l think it's the most efficient.{\r}
+Dialogue: 0,0:24:10.44,0:24:11.57,Default,,0000,0000,0000,,{\blur3}当然 这尚未试验过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sure, it's not been tested...{\r}
+Dialogue: 0,0:24:11.61,0:24:13.95,Default,,0000,0000,0000,,{\blur3}但是除此之外 别无选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but neither has anything else that we have.{\r}
+Dialogue: 0,0:24:13.99,0:24:17.03,Default,,0000,0000,0000,,{\blur3}此外 就从个人角度而言{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And also, just from a personal standpoint...{\r}
+Dialogue: 0,0:24:17.08,0:24:20.58,Default,,0000,0000,0000,,{\blur3}我是宁愿偏离物体 而不愿牺牲北美{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I would much rather deflect an object than sacrifice North America.{\r}
+Dialogue: 0,0:24:20.62,0:24:23.21,Default,,0000,0000,0000,,{\blur3}假如我随后不得不上法庭的话 那也无所谓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf l had to go to court afterwards, that would be just fine with me.{\r}
+Dialogue: 0,0:24:26.33,0:24:29.25,Default,,0000,0000,0000,,{\blur3}但是你不必对小行星用核弹来推开它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But you don't have to nuke an asteroid in order to nudge it.{\r}
+Dialogue: 0,0:24:33.05,0:24:36.22,Default,,0000,0000,0000,,{\blur3}更安全的方法包括利用太阳帆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Safer methods include using solar sails.{\r}
+Dialogue: 0,0:24:36.26,0:24:39.26,Default,,0000,0000,0000,,{\blur3}这些在轨反射镜 据主张者称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These orbiting reflectors, according to advocates...{\r}
+Dialogue: 0,0:24:39.31,0:24:42.64,Default,,0000,0000,0000,,{\blur3}可以将太阳光聚焦到小行星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could concentrate the Sun's rays on an asteroid.{\r}
+Dialogue: 0,0:24:42.68,0:24:45.52,Default,,0000,0000,0000,,{\blur3}产生的热量可以蒸发其表层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The heat generated would vaporize surface rock...{\r}
+Dialogue: 0,0:24:45.56,0:24:48.69,Default,,0000,0000,0000,,{\blur3}产生物质喷射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating a jet of material that would propel the object...{\r}
+Dialogue: 0,0:24:48.73,0:24:50.94,Default,,0000,0000,0000,,{\blur3}推动物体远离近地轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}away from an Earth-bound trajectory.{\r}
+Dialogue: 0,0:24:55.95,0:24:57.53,Default,,0000,0000,0000,,{\blur3}当然还有激光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then there are lasers.{\r}
+Dialogue: 0,0:25:00.12,0:25:02.79,Default,,0000,0000,0000,,{\blur3}如果它们强大到足以切割最坚硬的金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf they're powerful enough to cut the strongest metal...{\r}
+Dialogue: 0,0:25:03.66,0:25:05.62,Default,,0000,0000,0000,,{\blur3}进行精细的手术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and perform delicate surgeries...{\r}
+Dialogue: 0,0:25:05.67,0:25:09.84,Default,,0000,0000,0000,,{\blur3}那么也许会有更加强大的版本来偏转小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then maybe a more powerful version could deflect an asteroid.{\r}
+Dialogue: 0,0:25:11.71,0:25:14.59,Default,,0000,0000,0000,,{\blur3}激光非常诱人 因为其比较经济{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The laser is very attractive because it's more economical.{\r}
+Dialogue: 0,0:25:14.63,0:25:16.76,Default,,0000,0000,0000,,{\blur3}它基本上成本较低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It costs less, basically.{\r}
+Dialogue: 0,0:25:16.80,0:25:17.89,Default,,0000,0000,0000,,{\blur3}应用更加便当{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's easier to do.{\r}
+Dialogue: 0,0:25:17.93,0:25:20.05,Default,,0000,0000,0000,,{\blur3}它可以是机器人航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could a robotic spacecraft.{\r}
+Dialogue: 0,0:25:22.64,0:25:25.98,Default,,0000,0000,0000,,{\blur3}激光利用光束射向小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The laser uses a beam of light to the asteroid...{\r}
+Dialogue: 0,0:25:28.27,0:25:30.61,Default,,0000,0000,0000,,{\blur3}把物质轰离小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which causes material to fly off from the asteroid...{\r}
+Dialogue: 0,0:25:30.65,0:25:32.82,Default,,0000,0000,0000,,{\blur3}并推动小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which then pushes the asteroid.{\r}
+Dialogue: 0,0:25:33.69,0:25:36.28,Default,,0000,0000,0000,,{\blur3}你不必携带东西上去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You don't have to carry the material up there...{\r}
+Dialogue: 0,0:25:36.32,0:25:39.28,Default,,0000,0000,0000,,{\blur3}就会对小行星施加推力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's going to exert the force on the asteroid.{\r}
+Dialogue: 0,0:25:39.32,0:25:41.95,Default,,0000,0000,0000,,{\blur3}激光可以非常精准地定位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The laser can be very precisely directed.{\r}
+Dialogue: 0,0:25:41.99,0:25:43.45,Default,,0000,0000,0000,,{\blur3}可以循序渐进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very gradual.{\r}
+Dialogue: 0,0:25:43.50,0:25:45.75,Default,,0000,0000,0000,,{\blur3}可以在3个月里完成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could be done over a three-month period.{\r}
+Dialogue: 0,0:25:49.04,0:25:51.63,Default,,0000,0000,0000,,{\blur3}研究人员在80年代{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Researchers discovered a laser's potential...{\r}
+Dialogue: 0,0:25:51.67,0:25:53.63,Default,,0000,0000,0000,,{\blur3}偶然发现了激光的潜力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by accident in the eighties...{\r}
+Dialogue: 0,0:25:53.67,0:25:57.97,Default,,0000,0000,0000,,{\blur3}当时是在实验用短脉冲轰击硅晶片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while experimenting with short pulses on a wafer made of silicon...{\r}
+Dialogue: 0,0:25:58.01,0:26:00.68,Default,,0000,0000,0000,,{\blur3}这种材料类似于小行星的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}material similar to the surface of an asteroid.{\r}
+Dialogue: 0,0:26:01.26,0:26:03.64,Default,,0000,0000,0000,,{\blur3}我们基本上准备了一架摄影机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We basically set up a movie camera...{\r}
+Dialogue: 0,0:26:03.68,0:26:04.93,Default,,0000,0000,0000,,{\blur3}与激光同步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and timed it with the laser...{\r}
+Dialogue: 0,0:26:04.98,0:26:08.48,Default,,0000,0000,0000,,{\blur3}这样我们就可以步进拍摄到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we could take step-action shots of the material...{\r}
+Dialogue: 0,0:26:08.52,0:26:11.69,Default,,0000,0000,0000,,{\blur3}材料剥离硅片表面的镜头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}leaving the surface of the silicon wafer.{\r}
+Dialogue: 0,0:26:13.28,0:26:16.28,Default,,0000,0000,0000,,{\blur3}我们对我们的发现感到震惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we were surprised to discover what we found.{\r}
+Dialogue: 0,0:26:17.53,0:26:18.57,Default,,0000,0000,0000,,{\blur3}就是 我们实际上看到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That is, we could actually see...{\r}
+Dialogue: 0,0:26:18.61,0:26:22.49,Default,,0000,0000,0000,,{\blur3}这许多材料剥离了 看到它们蒸发了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these chunks of material coming off and see them vaporize.{\r}
+Dialogue: 0,0:26:23.62,0:26:26.87,Default,,0000,0000,0000,,{\blur3}它是科学发现 也是新的技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was a scientific discovery, as well as a new technology.{\r}
+Dialogue: 0,0:26:28.83,0:26:31.42,Default,,0000,0000,0000,,{\blur3}值得注意的是 那个发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As significant as that discovery was...{\r}
+Dialogue: 0,0:26:31.46,0:26:35.21,Default,,0000,0000,0000,,{\blur3}还是从硅片到小行星的一大飞跃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's still a big leap from a silicon wafer to an asteroid.{\r}
+Dialogue: 0,0:26:38.76,0:26:41.34,Default,,0000,0000,0000,,{\blur3}不过那可是难以做到的东西 支持者声称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's one that can be made, proponents claim...{\r}
+Dialogue: 0,0:26:41.39,0:26:45.06,Default,,0000,0000,0000,,{\blur3}激光束要比我们在地球上每天使用的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a laser pulse 5,000 times more powerful...{\r}
+Dialogue: 0,0:26:45.10,0:26:47.22,Default,,0000,0000,0000,,{\blur3}强大上5000倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than those we use every day on Earth.{\r}
+Dialogue: 0,0:26:52.48,0:26:56.69,Default,,0000,0000,0000,,{\blur3}这种超级激光 其动力来自目前的火箭和太阳能电池板{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This super laser, powered by existing rockets and solar panels...{\r}
+Dialogue: 0,0:26:56.74,0:27:01.28,Default,,0000,0000,0000,,{\blur3}可以停泊在小行星的5公里远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could park as many as five kilometers away from an asteroid...{\r}
+Dialogue: 0,0:27:01.32,0:27:03.70,Default,,0000,0000,0000,,{\blur3}然后利用一系列短脉冲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then use a series of short pulses...{\r}
+Dialogue: 0,0:27:03.74,0:27:06.41,Default,,0000,0000,0000,,{\blur3}而不是用连续不断的脉冲 去偏离它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than a continuous one, to deflect it.{\r}
+Dialogue: 0,0:27:10.00,0:27:11.21,Default,,0000,0000,0000,,{\blur3}利用这种脉冲的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The reason for the pulse...{\r}
+Dialogue: 0,0:27:11.25,0:27:14.79,Default,,0000,0000,0000,,{\blur3}就在于极短的短脉冲可以传送足够的强度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that the very short pulse can deliver enough intensity...{\r}
+Dialogue: 0,0:27:14.84,0:27:16.25,Default,,0000,0000,0000,,{\blur3}到小行星的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the surface of the asteroid...{\r}
+Dialogue: 0,0:27:16.30,0:27:20.26,Default,,0000,0000,0000,,{\blur3}这样物质就可以被炸离小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that the material explodes off from the asteroid.{\r}
+Dialogue: 0,0:27:20.30,0:27:22.34,Default,,0000,0000,0000,,{\blur3}一旦物质被炸离小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When that material explodes off from the asteroid,...{\r}
+Dialogue: 0,0:27:22.39,0:27:24.01,Default,,0000,0000,0000,,{\blur3}就会将小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it pushes the asteroid...{\r}
+Dialogue: 0,0:27:24.05,0:27:26.10,Default,,0000,0000,0000,,{\blur3}推向你所希望的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the direction that you want to send it.{\r}
+Dialogue: 0,0:27:28.77,0:27:30.43,Default,,0000,0000,0000,,{\blur3}你同样需要极短的短脉冲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You also need the very short pulse...{\r}
+Dialogue: 0,0:27:30.48,0:27:34.06,Default,,0000,0000,0000,,{\blur3}因为随着激光束轰击小行星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because, as the laser pulse strikes the surface of the asteroid...{\r}
+Dialogue: 0,0:27:34.11,0:27:37.40,Default,,0000,0000,0000,,{\blur3}会从小行星上出现物质云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it creates a cloud of material that emerges from the asteroid.{\r}
+Dialogue: 0,0:27:37.44,0:27:38.90,Default,,0000,0000,0000,,{\blur3}物质云会吸收{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That cloud of material...{\r}
+Dialogue: 0,0:27:38.94,0:27:42.74,Default,,0000,0000,0000,,{\blur3}射向小行星所有额外的光线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will absorb any additional light that's sent to the asteroid.{\r}
+Dialogue: 0,0:27:44.03,0:27:46.95,Default,,0000,0000,0000,,{\blur3}因此至关重要的是将所有的光能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's extremely important to get all of the light energy...{\r}
+Dialogue: 0,0:27:46.99,0:27:50.25,Default,,0000,0000,0000,,{\blur3}送入小行星的那个区域 要在极短的时间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into that area of the asteroid in that very short time...{\r}
+Dialogue: 0,0:27:50.29,0:27:51.83,Default,,0000,0000,0000,,{\blur3}在乌云形成之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before that black cloud forms.{\r}
+Dialogue: 0,0:27:56.80,0:28:00.55,Default,,0000,0000,0000,,{\blur3}对某些专家来说 激光甚至太阳帆是有效的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To some experts, lasers and even solar sails could work...{\r}
+Dialogue: 0,0:28:00.59,0:28:01.92,Default,,0000,0000,0000,,{\blur3}至少原则上是这样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at least in principle.{\r}
+Dialogue: 0,0:28:03.13,0:28:04.89,Default,,0000,0000,0000,,{\blur3}它们两者送出的强光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The intense light they both emit...{\r}
+Dialogue: 0,0:28:04.93,0:28:08.56,Default,,0000,0000,0000,,{\blur3}是可调节的 适合各类小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is adjustable and adaptable to all types of asteroids...{\r}
+Dialogue: 0,0:28:08.60,0:28:11.93,Default,,0000,0000,0000,,{\blur3}喷发出的物质 仅仅是尘埃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the ejected material, mere puffs of dust...{\r}
+Dialogue: 0,0:28:11.98,0:28:13.81,Default,,0000,0000,0000,,{\blur3}不会对地球构成威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would pose no threat to Earth.{\r}
+Dialogue: 0,0:28:14.73,0:28:18.07,Default,,0000,0000,0000,,{\blur3}不过它们潜在的缺陷可能证明是可望不可及的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But their potential drawbacks could prove prohibitive.{\r}
+Dialogue: 0,0:28:19.32,0:28:23.49,Default,,0000,0000,0000,,{\blur3}将激光源或大型太阳镜保持在正确的位置上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Keeping the laser source or a large solar mirror...{\r}
+Dialogue: 0,0:28:23.53,0:28:25.95,Default,,0000,0000,0000,,{\blur3}是很难做到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the correct place is very difficult to do...{\r}
+Dialogue: 0,0:28:25.99,0:28:27.83,Default,,0000,0000,0000,,{\blur3}必须很长时间才能完成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and has to be done for a long time.{\r}
+Dialogue: 0,0:28:29.66,0:28:32.45,Default,,0000,0000,0000,,{\blur3}对于太阳反射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With regard to the solar reflection also...{\r}
+Dialogue: 0,0:28:32.50,0:28:34.96,Default,,0000,0000,0000,,{\blur3}还有吹出的尘埃的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then there's the question of the dust that's blown out.{\r}
+Dialogue: 0,0:28:35.00,0:28:37.84,Default,,0000,0000,0000,,{\blur3}将会对太阳镜有啥影响?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is it going to do to the solar mirror?{\r}
+Dialogue: 0,0:28:37.88,0:28:40.96,Default,,0000,0000,0000,,{\blur3}因此这是个重大的长期问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so there are significant long-term problems.{\r}
+Dialogue: 0,0:28:41.01,0:28:44.13,Default,,0000,0000,0000,,{\blur3}因此将来能否做到 难说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so whether that could be done in the future, we don't know.{\r}
+Dialogue: 0,0:28:44.18,0:28:45.26,Default,,0000,0000,0000,,{\blur3}目前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the present time...{\r}
+Dialogue: 0,0:28:45.30,0:28:47.18,Default,,0000,0000,0000,,{\blur3}当然超出了我们的能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's certainly outside of our capability.{\r}
+Dialogue: 0,0:28:49.56,0:28:53.81,Default,,0000,0000,0000,,{\blur3}目前连续激光可产生更多的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are continuous lasers now that produce more power...{\r}
+Dialogue: 0,0:28:53.85,0:28:56.02,Default,,0000,0000,0000,,{\blur3}25千瓦 50千瓦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}25 kilowatts, 50 kilowatts...{\r}
+Dialogue: 0,0:28:56.06,0:28:59.15,Default,,0000,0000,0000,,{\blur3}已经用于军事目的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have been made for military purposes...{\r}
+Dialogue: 0,0:28:59.19,0:29:01.40,Default,,0000,0000,0000,,{\blur3}能量超过了必需{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have more power than is necessary.{\r}
+Dialogue: 0,0:29:03.36,0:29:05.49,Default,,0000,0000,0000,,{\blur3}我们所提出的那种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The kind that we're proposing...{\r}
+Dialogue: 0,0:29:05.53,0:29:07.95,Default,,0000,0000,0000,,{\blur3}将需要采用超短脉冲激光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would require taking the ultra-short pulse lasers...{\r}
+Dialogue: 0,0:29:07.99,0:29:10.99,Default,,0000,0000,0000,,{\blur3}将能量提高到至少5千瓦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and increasing the power up to at least five kilowatts...{\r}
+Dialogue: 0,0:29:11.04,0:29:12.24,Default,,0000,0000,0000,,{\blur3}甚至10千瓦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}maybe 10 kilowatts.{\r}
+Dialogue: 0,0:29:13.87,0:29:18.50,Default,,0000,0000,0000,,{\blur3}全力以赴或许在5到10年就可以做到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A focused effort could probably do this within five to ten years...{\r}
+Dialogue: 0,0:29:18.54,0:29:22.38,Default,,0000,0000,0000,,{\blur3}其实是可以做到的 只要下定决心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could actually be done if there was an intent to do so.{\r}
+Dialogue: 0,0:29:24.92,0:29:27.26,Default,,0000,0000,0000,,{\blur3}为什么就耽搁在一台激光器上呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And why stop at just one laser?{\r}
+Dialogue: 0,0:29:31.93,0:29:33.35,Default,,0000,0000,0000,,{\blur3}有朝一日 一队激光器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One day, a fleet of them...{\r}
+Dialogue: 0,0:29:33.39,0:29:35.89,Default,,0000,0000,0000,,{\blur3}将永久把守在地球周围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be permanently stationed around Earth...{\r}
+Dialogue: 0,0:29:35.94,0:29:39.56,Default,,0000,0000,0000,,{\blur3}充当抵御威胁我们的小行星的保护盾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to act as a defensive shield against asteroids that threaten us.{\r}
+Dialogue: 0,0:29:40.69,0:29:41.98,Default,,0000,0000,0000,,{\blur3}我们会规避风险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We would avoid the danger...{\r}
+Dialogue: 0,0:29:42.03,0:29:44.65,Default,,0000,0000,0000,,{\blur3}利用最后的紧急起飞来解决问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of having a last-minute scramble to solve the problem...{\r}
+Dialogue: 0,0:29:44.69,0:29:46.78,Default,,0000,0000,0000,,{\blur3}而不是发送核装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than having to send up nuclear devices...{\r}
+Dialogue: 0,0:29:46.82,0:29:50.32,Default,,0000,0000,0000,,{\blur3}核武器到太空去 试图炸毁小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nuclear weapons into space, trying to blow up the asteroid...{\r}
+Dialogue: 0,0:29:50.37,0:29:51.74,Default,,0000,0000,0000,,{\blur3}那大概是个坏主意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is probably a bad idea.{\r}
+Dialogue: 0,0:29:55.00,0:29:58.12,Default,,0000,0000,0000,,{\blur3}激光表现出小行星偏转器的潜能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lasers show potential as asteroid deflectors...{\r}
+Dialogue: 0,0:29:58.17,0:30:01.25,Default,,0000,0000,0000,,{\blur3}但是还需要很长的时间才能作为切实可行的选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it will be a long time before they're a viable option.{\r}
+Dialogue: 0,0:30:02.67,0:30:05.84,Default,,0000,0000,0000,,{\blur3}在此之前 还有另一项缓解的提案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Until then, there's another mitigation proposal...{\r}
+Dialogue: 0,0:30:05.88,0:30:08.51,Default,,0000,0000,0000,,{\blur3}值得认真关注{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that deserves serious attention.{\r}
+Dialogue: 0,0:30:08.55,0:30:11.39,Default,,0000,0000,0000,,{\blur3}那是两位前宇航员的发明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the brainchild of two former astronauts...{\r}
+Dialogue: 0,0:30:11.43,0:30:17.02,Default,,0000,0000,0000,,{\blur3}他们坚称这是阻止世界末日唯一可行的办法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who insist it's the only real way to stop Armageddon.{\r}
+Dialogue: 0,0:30:31.49,0:30:34.54,Default,,0000,0000,0000,,{\blur3}在所有阻止世界末日的主张里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Of all the proposals to stop Armageddon...{\r}
+Dialogue: 0,0:30:34.58,0:30:35.87,Default,,0000,0000,0000,,{\blur3}最有效的可能就是一个新玩艺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the most effective one...{\r}
+Dialogue: 0,0:30:35.91,0:30:39.12,Default,,0000,0000,0000,,{\blur3}叫做引力拖拉机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may be a contraption called a gravity tractor.{\r}
+Dialogue: 0,0:30:44.21,0:30:46.26,Default,,0000,0000,0000,,{\blur3}对于这么复杂的项目{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For such a complicated undertaking...{\r}
+Dialogue: 0,0:30:46.30,0:30:48.63,Default,,0000,0000,0000,,{\blur3}其运作建立在一个非常简单的原理上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it operates on a very simple principle.{\r}
+Dialogue: 0,0:30:51.55,0:30:53.55,Default,,0000,0000,0000,,{\blur3}我们知道太空中的一切东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know that everything out there in space...{\r}
+Dialogue: 0,0:30:53.60,0:30:55.43,Default,,0000,0000,0000,,{\blur3}都具有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has a gravitational pull...{\r}
+Dialogue: 0,0:30:55.47,0:30:58.93,Default,,0000,0000,0000,,{\blur3}因此小行星自身就具有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so asteroids themselves have a gravitational pull.{\r}
+Dialogue: 0,0:30:58.98,0:31:01.10,Default,,0000,0000,0000,,{\blur3}我们同样知道飞船与小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we also know that a spaceship...{\r}
+Dialogue: 0,0:31:01.15,0:31:04.27,Default,,0000,0000,0000,,{\blur3}相互之间有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}interacts gravitationally with the asteroid.{\r}
+Dialogue: 0,0:31:04.32,0:31:08.28,Default,,0000,0000,0000,,{\blur3}因此如果飞船靠小行星足够近的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if the spaceship were to come close enough to the asteroid...{\r}
+Dialogue: 0,0:31:08.32,0:31:12.66,Default,,0000,0000,0000,,{\blur3}就会慢慢地将小行星拖离它的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it could then begin to attract the asteroid slowly out of its course...{\r}
+Dialogue: 0,0:31:13.58,0:31:15.37,Default,,0000,0000,0000,,{\blur3}只要我们给予时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we can get it in time.{\r}
+Dialogue: 0,0:31:17.29,0:31:20.54,Default,,0000,0000,0000,,{\blur3}研发由B612基金组织{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Developed by the B612 Foundation...{\r}
+Dialogue: 0,0:31:20.58,0:31:22.21,Default,,0000,0000,0000,,{\blur3}其名字来自{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}named after the asteroid...{\r}
+Dialogue: 0,0:31:22.25,0:31:25.00,Default,,0000,0000,0000,,{\blur3}文学经典《小王子》里的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the literary classic "The Little Prince"...{\r}
+Dialogue: 0,0:31:25.04,0:31:27.80,Default,,0000,0000,0000,,{\blur3}引力拖拉机正日益受到欢迎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the gravity tractor is gaining popularity...{\r}
+Dialogue: 0,0:31:27.84,0:31:30.22,Default,,0000,0000,0000,,{\blur3}应归功于其主要倡导者的努力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}due to the efforts of its chief advocates...{\r}
+Dialogue: 0,0:31:30.26,0:31:35.80,Default,,0000,0000,0000,,{\blur3}两位前宇航员 卢杰和拉塞尔.施威卡特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}two former astronauts, Ed Lu and Rusty Schweickart.{\r}
+Dialogue: 0,0:31:35.85,0:31:40.10,Default,,0000,0000,0000,,{\blur3}引力拖拉机是个弱偏转的概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gravity tractor is a very weak deflection concept...{\r}
+Dialogue: 0,0:31:40.14,0:31:42.39,Default,,0000,0000,0000,,{\blur3}然而却是非常精准的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's very precise.{\r}
+Dialogue: 0,0:31:42.44,0:31:44.98,Default,,0000,0000,0000,,{\blur3}我们不建议使用它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so we don't recommend using it...{\r}
+Dialogue: 0,0:31:45.02,0:31:47.02,Default,,0000,0000,0000,,{\blur3}原因就在于我们所谓的主要偏转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for what we call the primary deflection...{\r}
+Dialogue: 0,0:31:49.32,0:31:52.78,Default,,0000,0000,0000,,{\blur3}也就是 让小行星错过地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is, to make the asteroid miss the Earth.{\r}
+Dialogue: 0,0:32:00.08,0:32:03.08,Default,,0000,0000,0000,,{\blur3}但是一旦你利用动能撞击这么做了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But once you've done that with a kinetic impact...{\r}
+Dialogue: 0,0:32:03.92,0:32:07.17,Default,,0000,0000,0000,,{\blur3}那是个非常不确定的调度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is a very imprecise maneuver...{\r}
+Dialogue: 0,0:32:07.21,0:32:09.71,Default,,0000,0000,0000,,{\blur3}那么你就可以用上引力拖拉机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then you come in with a gravitational tractor...{\r}
+Dialogue: 0,0:32:09.76,0:32:12.76,Default,,0000,0000,0000,,{\blur3}对你已经完成的主要偏转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you make a very precision adjustment...{\r}
+Dialogue: 0,0:32:12.80,0:32:15.39,Default,,0000,0000,0000,,{\blur3}进行非常精准的调整{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on what you've done with the primary deflection.{\r}
+Dialogue: 0,0:32:18.47,0:32:19.47,Default,,0000,0000,0000,,{\blur3}引力拖拉机是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gravity tractor's...{\r}
+Dialogue: 0,0:32:19.52,0:32:21.93,Default,,0000,0000,0000,,{\blur3}为数不多的小行星偏转手段之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of the very few asteroid deflection mechanisms...{\r}
+Dialogue: 0,0:32:21.98,0:32:24.06,Default,,0000,0000,0000,,{\blur3}不管怎样还是切实可行的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is in any way realistic.{\r}
+Dialogue: 0,0:32:24.10,0:32:26.36,Default,,0000,0000,0000,,{\blur3}唯一两个目前看来切实可行的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The only two that are probably realistic right now...{\r}
+Dialogue: 0,0:32:26.40,0:32:28.02,Default,,0000,0000,0000,,{\blur3}就是动能撞击机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are kinetic impactor...{\r}
+Dialogue: 0,0:32:28.07,0:32:31.07,Default,,0000,0000,0000,,{\blur3}就是基本上你用飞船撞击小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you just basically run into the asteroid with a spacecraft...{\r}
+Dialogue: 0,0:32:31.11,0:32:33.11,Default,,0000,0000,0000,,{\blur3}以及引力拖拉机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the gravity tractor.{\r}
+Dialogue: 0,0:32:33.15,0:32:34.28,Default,,0000,0000,0000,,{\blur3}除了那两个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Apart from those two...{\r}
+Dialogue: 0,0:32:34.32,0:32:36.11,Default,,0000,0000,0000,,{\blur3}其余的大部分差不多都是科幻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most of the rest of those are pretty much science fiction.{\r}
+Dialogue: 0,0:32:38.58,0:32:40.70,Default,,0000,0000,0000,,{\blur3}主要利用现代技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Using mostly existing technology...{\r}
+Dialogue: 0,0:32:40.75,0:32:44.71,Default,,0000,0000,0000,,{\blur3}动力为离子发动机和太阳能电池板的组合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and powered by a combination of ion engines and solar panels...{\r}
+Dialogue: 0,0:32:44.75,0:32:48.59,Default,,0000,0000,0000,,{\blur3}引力拖拉机自身的大小和重量相当于一辆高尔夫球车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the gravity tractor itself is about the size and weight of a golf cart.{\r}
+Dialogue: 0,0:32:49.84,0:32:52.88,Default,,0000,0000,0000,,{\blur3}按航天器标准并不很大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not very large by spacecraft standards...{\r}
+Dialogue: 0,0:32:52.92,0:32:55.68,Default,,0000,0000,0000,,{\blur3}但是按其支持者的说法 它还是够大了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's still big enough, according to its proponents...{\r}
+Dialogue: 0,0:32:55.72,0:32:58.47,Default,,0000,0000,0000,,{\blur3}足以在动能撞击后完成任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to finish the job after a kinetic impact.{\r}
+Dialogue: 0,0:33:03.02,0:33:06.81,Default,,0000,0000,0000,,{\blur3}这颗小行星围绕轴心旋转或翻滚 无论怎样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This asteroid is spinning around an axis or tumbling, whatever...{\r}
+Dialogue: 0,0:33:06.85,0:33:09.27,Default,,0000,0000,0000,,{\blur3}我都会用上引力拖拉机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and l come up with the gravity tractor...{\r}
+Dialogue: 0,0:33:09.32,0:33:11.27,Default,,0000,0000,0000,,{\blur3}我基本上就停泊在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I basically park here.{\r}
+Dialogue: 0,0:33:11.32,0:33:13.78,Default,,0000,0000,0000,,{\blur3}我想把它往那个方向拉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I want to pull it in that direction.{\r}
+Dialogue: 0,0:33:13.82,0:33:16.45,Default,,0000,0000,0000,,{\blur3}因此不管事实上它是在翻滚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So in spite of the fact that it's tumbling...{\r}
+Dialogue: 0,0:33:16.49,0:33:17.91,Default,,0000,0000,0000,,{\blur3}我都不会去碰到它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't ever touch it.{\r}
+Dialogue: 0,0:33:17.95,0:33:19.78,Default,,0000,0000,0000,,{\blur3}我只是在它的前面拉它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I just pull up in front of it...{\r}
+Dialogue: 0,0:33:19.83,0:33:21.95,Default,,0000,0000,0000,,{\blur3}只要那是我想拉的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if that's the direction I want to pull it...{\r}
+Dialogue: 0,0:33:22.00,0:33:24.25,Default,,0000,0000,0000,,{\blur3}我就呆在那里 虽然它在翻滚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and l just stay there while it's tumbling.{\r}
+Dialogue: 0,0:33:25.71,0:33:30.88,Default,,0000,0000,0000,,{\blur3}比方说 如果小行星本身的直径是300英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's say if the asteroid itself is 300 feet in diameter...{\r}
+Dialogue: 0,0:33:30.92,0:33:35.09,Default,,0000,0000,0000,,{\blur3}那么我们就会徘徊在距离小行星重心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then we would want to hover something like 250 feet...{\r}
+Dialogue: 0,0:33:35.13,0:33:38.05,Default,,0000,0000,0000,,{\blur3}约250英尺的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the center of gravity of that asteroid.{\r}
+Dialogue: 0,0:33:38.85,0:33:42.64,Default,,0000,0000,0000,,{\blur3}换句话说 就是在翻滚的小行星的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In other words, about 1 1/2 radiuses out...{\r}
+Dialogue: 0,0:33:42.68,0:33:44.81,Default,,0000,0000,0000,,{\blur3}1.5倍的半径处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from that tumbling asteroid.{\r}
+Dialogue: 0,0:33:46.39,0:33:49.94,Default,,0000,0000,0000,,{\blur3}我不会让小行星的重力将我拉过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't let the gravity of the asteroid pull me in.{\r}
+Dialogue: 0,0:33:51.15,0:33:54.82,Default,,0000,0000,0000,,{\blur3}我必须发动我的离子引擎推进器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have to fire my ion engine thrusters...{\r}
+Dialogue: 0,0:33:54.86,0:33:57.86,Default,,0000,0000,0000,,{\blur3}来保持距离 这样我就撞上它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}off to the sides so l don't blast it.{\r}
+Dialogue: 0,0:33:59.03,0:34:01.28,Default,,0000,0000,0000,,{\blur3}这样一来 我就呆在那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And by doing that, I stay right there...{\r}
+Dialogue: 0,0:34:01.33,0:34:06.04,Default,,0000,0000,0000,,{\blur3}一个星期 一个月 一年 不管多长时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for a week, a month, a year, whatever it takes.{\r}
+Dialogue: 0,0:34:06.08,0:34:09.08,Default,,0000,0000,0000,,{\blur3}离子发动机可以应付很长很长的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ion engines go for long, long periods of time.{\r}
+Dialogue: 0,0:34:11.63,0:34:14.50,Default,,0000,0000,0000,,{\blur3}好 因为我将无线电转发器装在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And now, because l have a radio transponder...{\r}
+Dialogue: 0,0:34:14.55,0:34:19.01,Default,,0000,0000,0000,,{\blur3}我的引力拖拉机上了 地球就可以非常精准地跟踪我{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in my gravity tractor, the Earth can track me very precisely...{\r}
+Dialogue: 0,0:34:19.05,0:34:23.35,Default,,0000,0000,0000,,{\blur3}我准确地掌握轨道的变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I know exactly the change in the orbit...{\r}
+Dialogue: 0,0:34:23.39,0:34:26.68,Default,,0000,0000,0000,,{\blur3}我已经和小行星融为一体了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that I've made to the asteroid itself.{\r}
+Dialogue: 0,0:34:28.69,0:34:30.81,Default,,0000,0000,0000,,{\blur3}你在重塑太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're reshaping the solar system...{\r}
+Dialogue: 0,0:34:30.86,0:34:33.02,Default,,0000,0000,0000,,{\blur3}无需任何碰触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without ever touching anything.{\r}
+Dialogue: 0,0:34:35.69,0:34:38.65,Default,,0000,0000,0000,,{\blur3}那种掌控能力 精准移动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That ability to make controlled, precise movements...{\r}
+Dialogue: 0,0:34:38.70,0:34:41.03,Default,,0000,0000,0000,,{\blur3}是引力拖拉机的主要优点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the gravity tractor's chief asset.{\r}
+Dialogue: 0,0:34:44.66,0:34:45.99,Default,,0000,0000,0000,,{\blur3}你需要做的就是确保{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you need to do is make sure that...{\r}
+Dialogue: 0,0:34:46.04,0:34:48.29,Default,,0000,0000,0000,,{\blur3}在偏转任何一颗小行星后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}after you've deflected any asteroid...{\r}
+Dialogue: 0,0:34:48.33,0:34:51.04,Default,,0000,0000,0000,,{\blur3}它不会回来 稍后再来撞击你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it doesn't come back and hit you at a later point.{\r}
+Dialogue: 0,0:34:51.08,0:34:53.79,Default,,0000,0000,0000,,{\blur3}引力拖拉机让你能做到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What a gravity tractor allows you to do...{\r}
+Dialogue: 0,0:34:53.84,0:34:56.80,Default,,0000,0000,0000,,{\blur3}精准地测量出它所要到的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to measure precisely exactly where it's going...{\r}
+Dialogue: 0,0:34:56.84,0:34:59.42,Default,,0000,0000,0000,,{\blur3}对其进行微小的纠偏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and to make tiny corrections to it...{\r}
+Dialogue: 0,0:34:59.47,0:35:01.34,Default,,0000,0000,0000,,{\blur3}这样你完全可以肯定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that you are very certain...{\r}
+Dialogue: 0,0:35:01.39,0:35:03.39,Default,,0000,0000,0000,,{\blur3}它将不会再回来撞上你了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it is not going to come back and hit you.{\r}
+Dialogue: 0,0:35:06.02,0:35:09.60,Default,,0000,0000,0000,,{\blur3}尽管有这个优势 但是引力拖拉机的主要缺点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Despite this advantage, the gravity tractor's major drawback...{\r}
+Dialogue: 0,0:35:09.64,0:35:11.85,Default,,0000,0000,0000,,{\blur3}就是其拉力很小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is its very small force...{\r}
+Dialogue: 0,0:35:11.90,0:35:15.90,Default,,0000,0000,0000,,{\blur3}或许太小了 无法让较大的小行星产生变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}maybe too small to make a difference on a really big asteroid.{\r}
+Dialogue: 0,0:35:17.74,0:35:20.03,Default,,0000,0000,0000,,{\blur3}引力拖拉机需要较长的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gravity tractor takes a long time...{\r}
+Dialogue: 0,0:35:20.07,0:35:22.53,Default,,0000,0000,0000,,{\blur3}对较小的小行星产生影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a small asteroid to be effective.{\r}
+Dialogue: 0,0:35:22.57,0:35:24.87,Default,,0000,0000,0000,,{\blur3}它或许必须要小于1公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would have to be much smaller than one kilometer...{\r}
+Dialogue: 0,0:35:24.91,0:35:27.95,Default,,0000,0000,0000,,{\blur3}或许是150米 300米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps 150 meters, 300 meters.{\r}
+Dialogue: 0,0:35:29.46,0:35:31.92,Default,,0000,0000,0000,,{\blur3}阿波菲斯乃至更小的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Something the size of Apophis or smaller.{\r}
+Dialogue: 0,0:35:34.42,0:35:37.55,Default,,0000,0000,0000,,{\blur3}如果我们讨论的是需要对付较大的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we're talking about a need for a larger asteroid...{\r}
+Dialogue: 0,0:35:37.59,0:35:40.34,Default,,0000,0000,0000,,{\blur3}以及我们没有太多的时间来对付它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we don't have as much time to devote to it...{\r}
+Dialogue: 0,0:35:40.38,0:35:44.76,Default,,0000,0000,0000,,{\blur3}那么引力拖拉机或许就不是可选的手段了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then gravity tractor is probably not the method of choice.{\r}
+Dialogue: 0,0:35:46.85,0:35:49.22,Default,,0000,0000,0000,,{\blur3}然而话又回到了期望时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it turns out that the expected time...{\r}
+Dialogue: 0,0:35:49.27,0:35:51.94,Default,,0000,0000,0000,,{\blur3}你发现可能会有小行星撞击与{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between when you find that an asteroid impact is possible...{\r}
+Dialogue: 0,0:35:51.98,0:35:56.23,Default,,0000,0000,0000,,{\blur3}多少年后的实际撞击之间的预计时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and when the actual impact is going to happen is many decades.{\r}
+Dialogue: 0,0:35:56.27,0:35:59.07,Default,,0000,0000,0000,,{\blur3}这样 大部分时间里 你有时间来使用这类东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, most of the time, you have time to use such a thing.{\r}
+Dialogue: 0,0:36:00.86,0:36:04.57,Default,,0000,0000,0000,,{\blur3}到我们遭遇那样大的物体打击时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By the time we get hit by something that big...{\r}
+Dialogue: 0,0:36:04.62,0:36:07.33,Default,,0000,0000,0000,,{\blur3}我们会用上的技术是我们现在无法想象的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're going to have technology we can't even imagine now...{\r}
+Dialogue: 0,0:36:07.37,0:36:09.79,Default,,0000,0000,0000,,{\blur3}因此会有别的什么东西 而不是引力拖拉机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so there'll be something else and not the gravity tractor.{\r}
+Dialogue: 0,0:36:09.83,0:36:13.37,Default,,0000,0000,0000,,{\blur3}不过要是我们现在就必须去做的话 是能够做到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if we had to do it now, we could do it.{\r}
+Dialogue: 0,0:36:13.42,0:36:16.67,Default,,0000,0000,0000,,{\blur3}问题是我们现在就可以保护地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The point is we can protect the Earth right now...{\r}
+Dialogue: 0,0:36:16.71,0:36:19.46,Default,,0000,0000,0000,,{\blur3}免遭小行星的撞击 只要我们尽力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from asteroid impacts if we do our work.{\r}
+Dialogue: 0,0:36:22.30,0:36:25.26,Default,,0000,0000,0000,,{\blur3}为了证明引力拖拉机的有效性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To demonstrate the gravity tractor's effectiveness...{\r}
+Dialogue: 0,0:36:25.30,0:36:29.01,Default,,0000,0000,0000,,{\blur3}B612基金组织瞄准了一项试验偏向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the B612 Foundation aims to perform a test deflection...{\r}
+Dialogue: 0,0:36:29.06,0:36:32.48,Default,,0000,0000,0000,,{\blur3}针对2015年的一颗非威胁小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a non-threatening asteroid by the year 2015.{\r}
+Dialogue: 0,0:36:36.15,0:36:38.27,Default,,0000,0000,0000,,{\blur3}那是非常重要的 因为我们一旦发现有小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's really important because if we find an asteroid...{\r}
+Dialogue: 0,0:36:38.32,0:36:40.69,Default,,0000,0000,0000,,{\blur3}非常接近于撞上地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's uncomfortably close to hitting the Earth...{\r}
+Dialogue: 0,0:36:40.74,0:36:42.36,Default,,0000,0000,0000,,{\blur3}你决定你必须去转移它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you decide that you have to deflect it...{\r}
+Dialogue: 0,0:36:42.40,0:36:44.95,Default,,0000,0000,0000,,{\blur3}那就不是你测试飞行的好时机了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's not a good time for your test flight.{\r}
+Dialogue: 0,0:36:44.99,0:36:46.53,Default,,0000,0000,0000,,{\blur3}你要事先做好测试飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You want the test flight to be done beforehand...{\r}
+Dialogue: 0,0:36:46.57,0:36:48.37,Default,,0000,0000,0000,,{\blur3}这样你就可以排除任何可能的错误{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so you worked out any possible bugs.{\r}
+Dialogue: 0,0:36:48.41,0:36:51.70,Default,,0000,0000,0000,,{\blur3}实实在在的技巧去说服航天局{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The real trick is convincing NASA...{\r}
+Dialogue: 0,0:36:51.75,0:36:54.29,Default,,0000,0000,0000,,{\blur3}它应当要演示这种能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it ought to demonstrate this capability...{\r}
+Dialogue: 0,0:36:54.33,0:36:56.25,Default,,0000,0000,0000,,{\blur3}然后才是我们最终不得不去使用它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before we end up having to use it.{\r}
+Dialogue: 0,0:36:56.29,0:36:58.21,Default,,0000,0000,0000,,{\blur3}那就是问题所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the problem.{\r}
+Dialogue: 0,0:36:58.25,0:37:00.67,Default,,0000,0000,0000,,{\blur3}你涉及的或许就是数以百万计的生命啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're dealing with potentially millions of lives.{\r}
+Dialogue: 0,0:37:00.71,0:37:03.05,Default,,0000,0000,0000,,{\blur3}演示简单 成本低廉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's simple and cheap to demonstrate it.{\r}
+Dialogue: 0,0:37:03.09,0:37:06.13,Default,,0000,0000,0000,,{\blur3}所以先要演示 才能知晓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So let's demonstrate it, and then we know.{\r}
+Dialogue: 0,0:37:09.35,0:37:13.68,Default,,0000,0000,0000,,{\blur3}这里来到了阻止世界末日的第三也是最后一步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This leads to the third and final step in stopping Armageddon.{\r}
+Dialogue: 0,0:37:13.73,0:37:16.81,Default,,0000,0000,0000,,{\blur3}谁来决定何时和如何去做{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Who decides when and what to do...{\r}
+Dialogue: 0,0:37:16.85,0:37:19.44,Default,,0000,0000,0000,,{\blur3}要是有小行星已经非我们莫属了?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if an asteroid has our name on it?{\r}
+Dialogue: 0,0:37:42.21,0:37:45.67,Default,,0000,0000,0000,,{\blur3}有三个基本的步骤来阻止世界末日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are three fundamental steps to stopping Armageddon.{\r}
+Dialogue: 0,0:37:48.72,0:37:51.85,Default,,0000,0000,0000,,{\blur3}甄别与缓解构成了前两个步骤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Detection and mitigation comprise the first two.{\r}
+Dialogue: 0,0:37:57.14,0:38:00.36,Default,,0000,0000,0000,,{\blur3}第三步或许是最具挑战的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The third and maybe most challenging one of all...{\r}
+Dialogue: 0,0:38:00.40,0:38:04.23,Default,,0000,0000,0000,,{\blur3}就是由谁来决定何时付之行动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is who makes the decision when to act.{\r}
+Dialogue: 0,0:38:07.82,0:38:09.86,Default,,0000,0000,0000,,{\blur3}现在 如果我们已经知道了将要发生的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right now, if we knew something were coming...{\r}
+Dialogue: 0,0:38:09.91,0:38:14.79,Default,,0000,0000,0000,,{\blur3}我想极有可能是我们会仓狂出逃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think it's likely that we would run around...{\r}
+Dialogue: 0,0:38:14.83,0:38:16.79,Default,,0000,0000,0000,,{\blur3}最后无所作为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and not do anything in time.{\r}
+Dialogue: 0,0:38:18.79,0:38:22.75,Default,,0000,0000,0000,,{\blur3}我认为重要的是基本上要有指南之类的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think it's important to have, basically, sort of a manual.{\r}
+Dialogue: 0,0:38:22.80,0:38:24.96,Default,,0000,0000,0000,,{\blur3}小行星来了 我们怎么办?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the asteroid comes, what do we do?{\r}
+Dialogue: 0,0:38:27.09,0:38:29.63,Default,,0000,0000,0000,,{\blur3}要回答这个问题迫切需要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Answering this question gains urgency...{\r}
+Dialogue: 0,0:38:29.68,0:38:32.55,Default,,0000,0000,0000,,{\blur3}更大更强的望远镜联网{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as bigger and better telescopes come online...{\r}
+Dialogue: 0,0:38:32.60,0:38:35.22,Default,,0000,0000,0000,,{\blur3}诸如Pan STARRS 那是缩写{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}such as Pan-STARRS, an acronym...{\r}
+Dialogue: 0,0:38:35.27,0:38:38.94,Default,,0000,0000,0000,,{\blur3}即全景巡天望远镜和快速反应系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for Panoramic Survey Telescope and Rapid Response System.{\r}
+Dialogue: 0,0:38:40.94,0:38:43.69,Default,,0000,0000,0000,,{\blur3}Pan STARRS是夏威夷大学的项目{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pan-STARRS is a University of Hawaii project...{\r}
+Dialogue: 0,0:38:43.73,0:38:47.36,Default,,0000,0000,0000,,{\blur3}有可能彻底改变近地物体的搜索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that may well revolutionize the search for near-Earth objects.{\r}
+Dialogue: 0,0:38:47.40,0:38:50.74,Default,,0000,0000,0000,,{\blur3}其概念是用大广角望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The idea is to have a very wide field telescope...{\r}
+Dialogue: 0,0:38:50.78,0:38:52.87,Default,,0000,0000,0000,,{\blur3}具有超大广角的视野{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a huge field of view...{\r}
+Dialogue: 0,0:38:52.91,0:38:56.75,Default,,0000,0000,0000,,{\blur3}这样他们就可以看得更深 也就是更深入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they can go deeper, that is, further out in space...{\r}
+Dialogue: 0,0:38:56.79,0:39:01.37,Default,,0000,0000,0000,,{\blur3}更快 更广泛地覆盖夜空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and do it faster and cover much more of the sky every night.{\r}
+Dialogue: 0,0:39:03.59,0:39:05.13,Default,,0000,0000,0000,,{\blur3}Pan STARRS之类的新程序{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}New programs like Pan-STARRS...{\r}
+Dialogue: 0,0:39:05.17,0:39:06.92,Default,,0000,0000,0000,,{\blur3}将会提高发现率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are going to increase the discovery rate.{\r}
+Dialogue: 0,0:39:06.96,0:39:10.09,Default,,0000,0000,0000,,{\blur3}因而一旦我们发现了这些物体中的绝大多数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so once we find the vast majority of these objects...{\r}
+Dialogue: 0,0:39:10.13,0:39:12.64,Default,,0000,0000,0000,,{\blur3}我们就可以在未来100年里轻松跟踪它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can easily track them a hundred years into the future...{\r}
+Dialogue: 0,0:39:12.68,0:39:15.31,Default,,0000,0000,0000,,{\blur3}观察它们中的任何一个是否会成为问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and see whether or not any of them are a problem.{\r}
+Dialogue: 0,0:39:24.98,0:39:28.19,Default,,0000,0000,0000,,{\blur3}一些专家预测 在未来的10到20年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some experts predict that within the next 10 to 20 years...{\r}
+Dialogue: 0,0:39:28.24,0:39:32.24,Default,,0000,0000,0000,,{\blur3}有多达百万个近地物体会被发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as many as a million near-Earth objects could be discovered.{\r}
+Dialogue: 0,0:39:34.08,0:39:37.58,Default,,0000,0000,0000,,{\blur3}那除了我们已经发现的5000多个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's in addition to the more than 5,000 we've already found.{\r}
+Dialogue: 0,0:39:39.91,0:39:42.29,Default,,0000,0000,0000,,{\blur3}即使是这样的指数增长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even with this exponential increase...{\r}
+Dialogue: 0,0:39:42.33,0:39:46.00,Default,,0000,0000,0000,,{\blur3}还是会有太空物体 或许是彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's still possible that a space object, perhaps a comet...{\r}
+Dialogue: 0,0:39:46.05,0:39:49.01,Default,,0000,0000,0000,,{\blur3}可能会漏网并打击我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could evade detection and hit us.{\r}
+Dialogue: 0,0:39:53.18,0:39:55.85,Default,,0000,0000,0000,,{\blur3}彗星确实会出其不意地冒出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comets can literally come out of the blue.{\r}
+Dialogue: 0,0:39:58.31,0:40:00.39,Default,,0000,0000,0000,,{\blur3}它们来自太阳系的外围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They come from the outer reaches of the solar system.{\r}
+Dialogue: 0,0:40:00.43,0:40:05.69,Default,,0000,0000,0000,,{\blur3}它们一旦出现 我们就有可能就只有几年功夫甚至还不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they come in, and we may only have a few years or less...{\r}
+Dialogue: 0,0:40:07.32,0:40:09.73,Default,,0000,0000,0000,,{\blur3}去着手某种偏转的努力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to mount some kind of a deflection effort.{\r}
+Dialogue: 0,0:40:10.69,0:40:14.61,Default,,0000,0000,0000,,{\blur3}因此我们不能确切知道有没有彗星直奔我们而来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we don't know for sure that there's no comet heading our way.{\r}
+Dialogue: 0,0:40:15.87,0:40:18.99,Default,,0000,0000,0000,,{\blur3}不过彗星不会频繁光顾地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But comets don't fly by the Earth very much...{\r}
+Dialogue: 0,0:40:19.04,0:40:20.66,Default,,0000,0000,0000,,{\blur3}因此我们非常自信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so we have a very good confidence...{\r}
+Dialogue: 0,0:40:20.70,0:40:25.88,Default,,0000,0000,0000,,{\blur3}就是地球的主要威胁来自小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the predominant Earth hazard is coming from asteroids.{\r}
+Dialogue: 0,0:40:28.05,0:40:30.42,Default,,0000,0000,0000,,{\blur3}有可能现在我们就会遭遇到小行星的打击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is possible right now that we could be hit...{\r}
+Dialogue: 0,0:40:30.46,0:40:32.80,Default,,0000,0000,0000,,{\blur3}而我们却毫无察觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by an asteroid that we're unaware of.{\r}
+Dialogue: 0,0:40:35.89,0:40:37.14,Default,,0000,0000,0000,,{\blur3}现在有大量的侦查在进行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are plenty of surveys going on right now...{\r}
+Dialogue: 0,0:40:37.18,0:40:38.18,Default,,0000,0000,0000,,{\blur3}但是他们被安排{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they're geared for finding...{\r}
+Dialogue: 0,0:40:38.22,0:40:40.18,Default,,0000,0000,0000,,{\blur3}搜寻1公里以及更大的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the one kilometer and larger asteroids.{\r}
+Dialogue: 0,0:40:40.22,0:40:42.64,Default,,0000,0000,0000,,{\blur3}因此还有下至约150米的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so there are objects down to about 150 meters...{\r}
+Dialogue: 0,0:40:42.69,0:40:44.23,Default,,0000,0000,0000,,{\blur3}是我们有为关心的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we're particularly interested in...{\r}
+Dialogue: 0,0:40:44.27,0:40:46.86,Default,,0000,0000,0000,,{\blur3}我们只发现了其中的百分之几{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we've only found a few percent of those...{\r}
+Dialogue: 0,0:40:46.90,0:40:49.23,Default,,0000,0000,0000,,{\blur3}因此未来需要有更多的审视{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so there needs to be much more surveying in the future...{\r}
+Dialogue: 0,0:40:49.28,0:40:51.99,Default,,0000,0000,0000,,{\blur3}去发现那些潜在的危险物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to find those potentially hazardous objects.{\r}
+Dialogue: 0,0:40:56.28,0:40:58.32,Default,,0000,0000,0000,,{\blur3}现在 尚无协定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right now, there are no protocols...{\r}
+Dialogue: 0,0:40:58.37,0:41:02.33,Default,,0000,0000,0000,,{\blur3}关于怎么做 何时做 以及谁来做决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about what to do, when to act, and who makes these decisions...{\r}
+Dialogue: 0,0:41:02.37,0:41:04.75,Default,,0000,0000,0000,,{\blur3}万一即将发生天地大碰撞时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the event of an imminent Earth impact.{\r}
+Dialogue: 0,0:41:05.88,0:41:08.21,Default,,0000,0000,0000,,{\blur3}那么谁拥有权力和能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So who has the authority and the capability...{\r}
+Dialogue: 0,0:41:08.25,0:41:09.63,Default,,0000,0000,0000,,{\blur3}来保卫地球呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to protect the Earth?{\r}
+Dialogue: 0,0:41:10.25,0:41:13.05,Default,,0000,0000,0000,,{\blur3}航天局目前的宗旨是发现它们 跟踪它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA's current charter is to find them, track them...{\r}
+Dialogue: 0,0:41:13.09,0:41:15.43,Default,,0000,0000,0000,,{\blur3}对它们进行物理描述{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and physically characterize them.{\r}
+Dialogue: 0,0:41:16.68,0:41:18.72,Default,,0000,0000,0000,,{\blur3}它们的成分是什么? 如何将它们归类?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What are they made of? How are they put together?{\r}
+Dialogue: 0,0:41:18.76,0:41:21.76,Default,,0000,0000,0000,,{\blur3}他们还没有纲领去缓解它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't yet have the charter to mitigate them.{\r}
+Dialogue: 0,0:41:23.43,0:41:25.56,Default,,0000,0000,0000,,{\blur3}你完全可以想象得出 小行星撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can well imagine that an asteroid impact...{\r}
+Dialogue: 0,0:41:25.60,0:41:27.27,Default,,0000,0000,0000,,{\blur3}将会是个国际问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be an international problem...{\r}
+Dialogue: 0,0:41:29.15,0:41:31.32,Default,,0000,0000,0000,,{\blur3}因此那将会要某种国际合作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it's going to take some international cooperation...{\r}
+Dialogue: 0,0:41:31.36,0:41:35.74,Default,,0000,0000,0000,,{\blur3}来决定谁做什么和何时去做{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to decide who does what and when.{\r}
+Dialogue: 0,0:41:36.86,0:41:40.07,Default,,0000,0000,0000,,{\blur3}国际决定将非常缓慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}International decisions are extremely slow.{\r}
+Dialogue: 0,0:41:40.12,0:41:41.74,Default,,0000,0000,0000,,{\blur3}我认为重要的是召集国际会议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think it's important that countries get together...{\r}
+Dialogue: 0,0:41:41.79,0:41:44.83,Default,,0000,0000,0000,,{\blur3}来讨论一个协定 就是你如何来做出这样的决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and talk about a protocol for how you would make such a decision.{\r}
+Dialogue: 0,0:41:46.62,0:41:49.63,Default,,0000,0000,0000,,{\blur3}如果他们开始讨价还价 争论不休{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if they begin their quibbling and arguing...{\r}
+Dialogue: 0,0:41:49.67,0:41:51.34,Default,,0000,0000,0000,,{\blur3}在他们发现它的当口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the moment they find it...{\r}
+Dialogue: 0,0:41:51.38,0:41:53.38,Default,,0000,0000,0000,,{\blur3}他们可能会一直讨价还价和争论下去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they may quibble and argue all of their time away...{\r}
+Dialogue: 0,0:41:53.42,0:41:54.63,Default,,0000,0000,0000,,{\blur3}直到不得不有所行动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before they have to do something.{\r}
+Dialogue: 0,0:41:56.09,0:41:58.01,Default,,0000,0000,0000,,{\blur3}好消息是这种想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The good news is this conceivably...{\r}
+Dialogue: 0,0:41:58.05,0:42:00.05,Default,,0000,0000,0000,,{\blur3}可以将全世界人民统一到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could unify the people of the world...{\r}
+Dialogue: 0,0:42:00.10,0:42:02.26,Default,,0000,0000,0000,,{\blur3}围绕影响我们所有人的某些东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}around something that affects all of us.{\r}
+Dialogue: 0,0:42:03.93,0:42:06.02,Default,,0000,0000,0000,,{\blur3}我们可以共同努力去解决它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We could all work together to solve it.{\r}
+Dialogue: 0,0:42:09.65,0:42:13.86,Default,,0000,0000,0000,,{\blur3}全球都处于危险之中 不光是哪一个国家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The whole globe is at risk, not just any one country...{\r}
+Dialogue: 0,0:42:13.90,0:42:15.94,Default,,0000,0000,0000,,{\blur3}不光是太空大国{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and not just space faring nations.{\r}
+Dialogue: 0,0:42:15.99,0:42:19.16,Default,,0000,0000,0000,,{\blur3}因此尽管太空大国{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So while the space faring nations may end up...{\r}
+Dialogue: 0,0:42:19.20,0:42:21.62,Default,,0000,0000,0000,,{\blur3}最终责无旁贷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the responsibility to do something...{\r}
+Dialogue: 0,0:42:21.66,0:42:22.95,Default,,0000,0000,0000,,{\blur3}那么谁又来为此买单呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who pays for it?{\r}
+Dialogue: 0,0:42:22.99,0:42:24.29,Default,,0000,0000,0000,,{\blur3}谁会说 你来!{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Who says, "Do it"?{\r}
+Dialogue: 0,0:42:24.33,0:42:25.66,Default,,0000,0000,0000,,{\blur3}谁来承担债务呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Who handles the liability?{\r}
+Dialogue: 0,0:42:26.41,0:42:28.08,Default,,0000,0000,0000,,{\blur3}我们与联合国一道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're working with the United Nations...{\r}
+Dialogue: 0,0:42:28.12,0:42:31.63,Default,,0000,0000,0000,,{\blur3}寄望他们作出迅速的决策{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to get them prepared to make rapid decisions.{\r}
+Dialogue: 0,0:42:35.84,0:42:37.97,Default,,0000,0000,0000,,{\blur3}空间探索者协会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Association of Space Explorers...{\r}
+Dialogue: 0,0:42:38.01,0:42:41.97,Default,,0000,0000,0000,,{\blur3}进入过太空的人的国际组织{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an international organization of people who've flown in space...{\r}
+Dialogue: 0,0:42:42.01,0:42:44.81,Default,,0000,0000,0000,,{\blur3}将会在2009年向联合国提交提议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will submit recommendations for Earth impact preparedness...{\r}
+Dialogue: 0,0:42:44.85,0:42:47.35,Default,,0000,0000,0000,,{\blur3}为地球撞击做准备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the United Nations in 2009.{\r}
+Dialogue: 0,0:42:51.02,0:42:52.40,Default,,0000,0000,0000,,{\blur3}这是第一步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a first step.{\r}
+Dialogue: 0,0:42:52.44,0:42:54.32,Default,,0000,0000,0000,,{\blur3}在此之前 让这些观点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Until then, let these views...{\r}
+Dialogue: 0,0:42:54.36,0:42:57.44,Default,,0000,0000,0000,,{\blur3}作为这个主题的最具权威的观点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}serve as the best informed perspectives on the subject.{\r}
+Dialogue: 0,0:43:01.24,0:43:03.20,Default,,0000,0000,0000,,{\blur3}我们在这方面需要考虑的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We need to think in terms of...{\r}
+Dialogue: 0,0:43:03.24,0:43:05.08,Default,,0000,0000,0000,,{\blur3}它关系到地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this is something that's important for Earth...{\r}
+Dialogue: 0,0:43:05.12,0:43:07.33,Default,,0000,0000,0000,,{\blur3}关系到孩子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's important for the children...{\r}
+Dialogue: 0,0:43:07.37,0:43:09.00,Default,,0000,0000,0000,,{\blur3}关系到我们的子孙后代{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's important for the people who come after us.{\r}
+Dialogue: 0,0:43:09.04,0:43:14.00,Default,,0000,0000,0000,,{\blur3}我们甘愿在此时就做好防范{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it's our willingness to prepare at this time...{\r}
+Dialogue: 0,0:43:14.04,0:43:15.50,Default,,0000,0000,0000,,{\blur3}给他们以工具{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and to give them the tools...{\r}
+Dialogue: 0,0:43:15.55,0:43:18.84,Default,,0000,0000,0000,,{\blur3}这样如果以后威胁降临{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that should the threat emerge later on...{\r}
+Dialogue: 0,0:43:18.88,0:43:20.68,Default,,0000,0000,0000,,{\blur3}就会有资源 有能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there will be the resources, the ability...{\r}
+Dialogue: 0,0:43:20.72,0:43:23.68,Default,,0000,0000,0000,,{\blur3}有知识去解决那个威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the knowledge to resolve that threat.{\r}
+Dialogue: 0,0:43:25.72,0:43:28.10,Default,,0000,0000,0000,,{\blur3}我们可能会有另一次通古斯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We may have another Tunguska...{\r}
+Dialogue: 0,0:43:28.14,0:43:31.85,Default,,0000,0000,0000,,{\blur3}一个能抹平整个都市的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an event that is capable of wiping out an entire city...{\r}
+Dialogue: 0,0:43:31.90,0:43:32.90,Default,,0000,0000,0000,,{\blur3}城市终结者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a city buster.{\r}
+Dialogue: 0,0:43:32.94,0:43:35.65,Default,,0000,0000,0000,,{\blur3}但是 在数以百万年计的范围里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, on a scale of millions of years...{\r}
+Dialogue: 0,0:43:35.69,0:43:37.19,Default,,0000,0000,0000,,{\blur3}或许是5000万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps 50 million years...{\r}
+Dialogue: 0,0:43:37.23,0:43:41.61,Default,,0000,0000,0000,,{\blur3}我们有生命灭绝事件的可能性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have the possibility of a life-extinguishing event.{\r}
+Dialogue: 0,0:43:44.07,0:43:47.37,Default,,0000,0000,0000,,{\blur3}明智之举就是现在就采取行动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's prudent to take efforts today...{\r}
+Dialogue: 0,0:43:47.41,0:43:51.33,Default,,0000,0000,0000,,{\blur3}因为谁都不知道 下一次撞击何时降临{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because no one knows when the next impact will come.{\r}
+Dialogue: 0,0:43:51.37,0:43:53.92,Default,,0000,0000,0000,,{\blur3}我们只知道它会降临{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All we know is it's coming.{\r}
+Dialogue: 0,0:43:57.13,0:43:59.38,Default,,0000,0000,0000,,{\blur3}奇怪的是我并不担心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Strangely enough, I am not concerned...{\r}
+Dialogue: 0,0:43:59.42,0:44:01.63,Default,,0000,0000,0000,,{\blur3}不久的将来可能会发生的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about a potential impact in the near future.{\r}
+Dialogue: 0,0:44:01.68,0:44:04.26,Default,,0000,0000,0000,,{\blur3}我知道概率 那是不可能的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I know the probabilities. It is unlikely.{\r}
+Dialogue: 0,0:44:06.31,0:44:09.56,Default,,0000,0000,0000,,{\blur3}但是同样不太可能的是 你坐上飞机 它会失事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's also unlikely that you will get on a plane and it will crash...{\r}
+Dialogue: 0,0:44:09.60,0:44:12.39,Default,,0000,0000,0000,,{\blur3}我们还是花大把的钱来保证飞机的安全{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we still spend lots of money making planes safe.{\r}
+Dialogue: 0,0:44:12.44,0:44:14.23,Default,,0000,0000,0000,,{\blur3}我们有各种方法来做到那一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have various ways of doing that.{\r}
+Dialogue: 0,0:44:14.27,0:44:16.81,Default,,0000,0000,0000,,{\blur3}对我来说 这几乎就是精算问题了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To me, this is almost an actuarial problem.{\r}
+Dialogue: 0,0:44:18.73,0:44:22.20,Default,,0000,0000,0000,,{\blur3}我们要确定威胁在哪里 如何去预防它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to determine what the threat is and prevent it.{\r}

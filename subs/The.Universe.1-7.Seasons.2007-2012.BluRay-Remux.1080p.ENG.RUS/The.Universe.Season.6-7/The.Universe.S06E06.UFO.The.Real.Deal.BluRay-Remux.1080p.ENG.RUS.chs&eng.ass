@@ -1,0 +1,757 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:12.38,0:01:15.95,Default,,0,0,0008,,{\blur3}宇宙:不明飞行物的真面目
+Dialogue: 0,0:02:31.79,0:02:36.04,Default,,0,0,0000,,{\an8\blur3}飞碟\N肯尼斯·阿诺德 飞碟到来
+Dialogue: 0,0:02:49.49,0:02:50.59,Default,,0,0,0008,,{\an8\blur3}飞碟
+Dialogue: 0,0:03:24.62,0:03:28.15,Default,,0,0,0008,,{\an8\blur3}澳大利亚空军在罗斯威尔地区牧场上空发现飞碟
+Dialogue: 0,0:03:28.79,0:03:31.84,Default,,0,0,0008,,{\an8\blur3}瑞米将军否认了罗斯威尔飞碟
+Dialogue: 0,0:03:42.92,0:03:45.29,Default,,0,0,0008,,{\an8\blur3}发现飞碟的农场主后悔自己说出了这个事情
+Dialogue: 0,0:17:48.28,0:17:56.47,Default,,0,0,0008,,{\an8\blur3}最大速度 每秒三万公里
+Dialogue: 0,0:17:56.47,0:18:01.31,Default,,0,0,0000,,{\an8\blur3}最大速度 每秒3万公里\N到达半人马座阿尔法星时长 45年
+Dialogue: 0,0:20:40.79,0:20:46.33,Default,,0,0,0008,,{\an8\blur3}最大速度 每秒1.5万公里
+Dialogue: 0,0:20:46.33,0:20:50.76,Default,,0,0,0000,,{\an8\blur3}最大速度 每秒1.5万公里\N到达半人马座阿尔法星时长 90年
+Dialogue: 0,0:23:59.85,0:24:06.37,Default,,0,0,0008,,{\an8\blur3}最大速度 每秒4.7万公里
+Dialogue: 0,0:24:06.37,0:24:09.03,Default,,0,0,0000,,{\an8\blur3}最大速度 每秒4.7万公里\N到达半人马座阿尔法星时长 约35年
+Dialogue: 0,0:26:06.88,0:26:29.68,Default,,0,0,0008,,{\an8\blur3}反物质是否存在 我们将如何观测
+Dialogue: 0,0:27:33.70,0:27:38.71,Default,,0,0,0008,,{\an8\blur3}最大速度 每秒28.5万公里
+Dialogue: 0,0:27:38.71,0:27:41.39,Default,,0,0,0000,,{\an8\blur3}最大速度 每秒28.5万公里\N到达半人马座阿尔法星时长 5年
+Dialogue: 0,0:29:36.28,0:29:37.26,Default,,0,0,0008,,{\an8\blur3}曲速引擎 广义相对论范围内的超速旅行
+Dialogue: 0,0:31:47.13,0:31:49.50,Default,,0,0,0008,,{\an8\blur3}最大速度 每秒至少29.9万公里
+Dialogue: 0,0:31:49.50,0:31:50.96,Default,,0,0,0000,,{\an8\blur3}最大速度 每秒至少29.9万公里\N到达半人马座阿尔法星时长 至多4.5年
+Dialogue: 0,0:37:37.37,0:37:45.20,Default,,0,0,0008,,{\an8\blur3}罗斯威尔 市区范围 高空3570
+Dialogue: 0,0:40:34.58,0:40:36.08,Default,,0,0,0008,,{\an8\blur3}人工智能实验室
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:20.44,0:00:24.04,Default,,0,0,0,,{\blur3}成千上万的人声称亲眼见过不明飞行物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thousands of witnesses have claimed to see UFOs.{\r}
+Dialogue: 0,0:00:24.52,0:00:28.13,Default,,0,0,0,,{\blur3}他们对此现象的描述是惊人的相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And their accounts are often strikingly similar.{\r}
+Dialogue: 0,0:00:28.45,0:00:31.30,Default,,0,0,0,,{\blur3}坠落的飞盘 加上尸体残骸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have a crashed saucer, but also some crashed bodies.{\r}
+Dialogue: 0,0:00:31.44,0:00:32.87,Default,,0,0,0,,{\blur3}还有政府介入的掩饰行为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have government cover-up.{\r}
+Dialogue: 0,0:00:33.55,0:00:37.61,Default,,0,0,0,,{\blur3}主流科学一致认为目前证据不足{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mainstream science says the evidence just isn't there.{\r}
+Dialogue: 0,0:00:38.95,0:00:43.66,Default,,0,0,0,,{\blur3}从不明飞行物到外星飞船是一个很大的跨越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a big jump between a UFO and an extraterrestrial spacecraft.{\r}
+Dialogue: 0,0:00:44.09,0:00:48.01,Default,,0,0,0,,{\blur3}但如果不明飞行物的确是外星飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if UFOs were really extraterrestrial craft,{\r}
+Dialogue: 0,0:00:48.11,0:00:52.44,Default,,0,0,0,,{\blur3}那其中又隐藏了何种令人匪夷所思的技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what kind of mind-bending technologies would we find under the hood?{\r}
+Dialogue: 0,0:00:53.13,0:00:55.62,Default,,0,0,0,,{\blur3}外星飞船一定要有特殊技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'd have to have some sort of technology that was capable{\r}
+Dialogue: 0,0:00:55.72,0:00:57.49,Default,,0,0,0,,{\blur3}才能抵消惯性作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of canceling the effects of inertia.{\r}
+Dialogue: 0,0:00:57.93,0:01:00.83,Default,,0,0,0,,{\blur3}不明飞行物神秘面纱后的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When it comes to Unidentified Flying Objects,{\r}
+Dialogue: 0,0:01:01.24,0:01:04.23,Default,,0,0,0,,{\blur3}真实面目究竟是什么呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what is the real deal?{\r}
+Dialogue: 0,0:01:21.29,0:01:22.42,Default,,0,0,0,,{\blur3}对于无数追随者来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For millions of believers,{\r}
+Dialogue: 0,0:01:22.78,0:01:26.69,Default,,0,0,0,,{\blur3}这一切始于1947年6月24日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it all began on June 24, 1947.{\r}
+Dialogue: 0,0:01:27.97,0:01:31.67,Default,,0,0,0,,{\blur3}商人飞行员肯尼斯·阿诺德当时正在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A businessman and pilot named Kenneth Arnold is flying solo{\r}
+Dialogue: 0,0:01:31.97,0:01:33.80,Default,,0,0,0,,{\blur3}华盛顿州的雷尼尔山附近独自飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}near Mount Rainier, Washington.{\r}
+Dialogue: 0,0:01:35.58,0:01:38.37,Default,,0,0,0,,{\blur3}突然 他看到九个飞行器组成一队{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Suddenly he sees a group of nine aircraft{\r}
+Dialogue: 0,0:01:38.62,0:01:40.69,Default,,0,0,0,,{\blur3}以惊人的速度飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}moving at incredible speeds.{\r}
+Dialogue: 0,0:01:42.23,0:01:43.68,Default,,0,0,0,,{\blur3}这些飞行器高度反光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They were highly reflective,{\r}
+Dialogue: 0,0:01:43.81,0:01:46.55,Default,,0,0,0,,{\blur3}并以超音速列队飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they were flying at supersonic speeds,{\r}
+Dialogue: 0,0:01:46.55,0:01:49.27,Default,,0,0,0,,{\blur3}它们还会突然改变航线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in formation, changing course abruptly.{\r}
+Dialogue: 0,0:01:49.69,0:01:51.77,Default,,0,0,0,,{\blur3}以当时的技术无法达到该速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speeds were unattainable at the time.{\r}
+Dialogue: 0,0:01:51.86,0:01:56.22,Default,,0,0,0,,{\blur3}那时喷气式飞机和超音速飞机还未问世{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was before the age of jets and certainly supersonic jets.{\r}
+Dialogue: 0,0:01:58.10,0:01:59.29,Default,,0,0,0,,{\blur3}身为训练有素的飞行员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Being a trained pilot,{\r}
+Dialogue: 0,0:01:59.37,0:02:01.67,Default,,0,0,0,,{\blur3}为了确认自己看到的是飞行器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he did several things to corroborate their existence{\r}
+Dialogue: 0,0:02:01.79,0:02:04.53,Default,,0,0,0,,{\blur3}而不是某种大气效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make sure he wasn't seeing some kind of atmospheric effect.{\r}
+Dialogue: 0,0:02:04.62,0:02:07.93,Default,,0,0,0,,{\blur3}他摆动自己的头 改变机身的角度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He changed his... his head angle. He changed the aircraft angle.{\r}
+Dialogue: 0,0:02:08.18,0:02:10.15,Default,,0,0,0,,{\blur3}他甚至调整了飞机位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He even positioned the aircraft such that{\r}
+Dialogue: 0,0:02:10.15,0:02:13.95,Default,,0,0,0,,{\blur3}让白雪作为这群飞行器的背景{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there was a light snow in the background behind the objects,{\r}
+Dialogue: 0,0:02:14.27,0:02:16.70,Default,,0,0,0,,{\blur3}而在白雪的映衬下 这群飞行器显得很暗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they appeared dark against a light surface.{\r}
+Dialogue: 0,0:02:17.35,0:02:21.44,Default,,0,0,0,,{\blur3}但就在阿诺德设法接近时 不明物体消失了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Before Arnold can maneuver closer, the objects are gone.{\r}
+Dialogue: 0,0:02:24.30,0:02:27.00,Default,,0,0,0,,{\blur3}这算得上是现代史无前例的发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was basically unprecedented in modern times.{\r}
+Dialogue: 0,0:02:27.10,0:02:28.77,Default,,0,0,0,,{\blur3}从未有人见过类似的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No one had seen anything like this.{\r}
+Dialogue: 0,0:02:30.39,0:02:34.31,Default,,0,0,0,,{\blur3}后来在他讲述事件时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the days that follow, newspaper reporters misquote Arnold,{\r}
+Dialogue: 0,0:02:34.62,0:02:37.40,Default,,0,0,0,,{\blur3}记者误引了阿诺德的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as he tries to make sense of the incident.{\r}
+Dialogue: 0,0:02:38.94,0:02:42.12,Default,,0,0,0,,{\blur3}当时他说它的飞行方式像碟子在水上漂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, he said it moved like saucers skipping on water.{\r}
+Dialogue: 0,0:02:42.32,0:02:44.27,Default,,0,0,0,,{\blur3}而记者把这个意思理解错了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, of course, the reporter kind of messed that up{\r}
+Dialogue: 0,0:02:44.59,0:02:47.37,Default,,0,0,0,,{\blur3}而报道说它们看起来像碟子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in reporting it and said that they looked like saucers.{\r}
+Dialogue: 0,0:02:48.17,0:02:50.98,Default,,0,0,0,,{\blur3}"飞碟"一词由此而生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The term "Flying saucer" is born.{\r}
+Dialogue: 0,0:02:51.09,0:02:55.84,Default,,0,0,0,,{\blur3}阿诺德的发现首开现代不明飞行物现象的先河{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And Arnold's encounter launches the modern UFO phenomenon.{\r}
+Dialogue: 0,0:02:57.71,0:03:01.32,Default,,0,0,0,,{\blur3}几周后 即在1947年的夏天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Weeks later, in the summer of 1947,{\r}
+Dialogue: 0,0:03:01.63,0:03:06.29,Default,,0,0,0,,{\blur3}在新墨西哥州的罗斯威尔附近发生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps the most famous incident involving an Unidentified Flying Object{\r}
+Dialogue: 0,0:03:06.30,0:03:09.32,Default,,0,0,0,,{\blur3}史上最著名的不明飞行物事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is reported near Roswell, New Mexico.{\r}
+Dialogue: 0,0:03:10.33,0:03:12.79,Default,,0,0,0,,{\blur3}罗斯威尔事件是典型的不明飞行物现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Roswell's become the poster child of the UFO phenomenon,{\r}
+Dialogue: 0,0:03:12.89,0:03:14.98,Default,,0,0,0,,{\blur3}因其具备所有必要因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it has all the necessary ingredients.{\r}
+Dialogue: 0,0:03:15.12,0:03:18.12,Default,,0,0,0,,{\blur3}坠落的飞碟 加上尸体残骸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have a crashed saucer, but also some crashed bodies.{\r}
+Dialogue: 0,0:03:18.24,0:03:20.97,Default,,0,0,0,,{\blur3}还有政府介入 他们绝对隐瞒了实情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have government cover-up. There was some sort of cover-up.{\r}
+Dialogue: 0,0:03:21.10,0:03:23.91,Default,,0,0,0,,{\blur3}当局发布的是虚假信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was misinformation given out by the authorities.{\r}
+Dialogue: 0,0:03:24.93,0:03:28.59,Default,,0,0,0,,{\blur3}消息最初是从空军那边传出的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The original account put out by the air force at the time was{\r}
+Dialogue: 0,0:03:28.71,0:03:31.92,Default,,0,0,0,,{\blur3}说这就是来自外太空的飞碟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that this was a flying saucer of alien origin.{\r}
+Dialogue: 0,0:03:32.05,0:03:36.69,Default,,0,0,0,,{\blur3}但没过多久 这个说法就被否认了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then later, very quickly, was denied, and the story then{\r}
+Dialogue: 0,0:03:36.82,0:03:39.52,Default,,0,0,0,,{\blur3}改称这是个坠毁的气象气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was that this was a weather balloon which had crashed and{\r}
+Dialogue: 0,0:03:39.62,0:03:41.24,Default,,0,0,0,,{\blur3}上面没有载人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there were no occupants on board{\r}
+Dialogue: 0,0:03:41.53,0:03:44.43,Default,,0,0,0,,{\blur3}说有外星人更是无稽之谈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that there was nothing extraterrestrial about it.{\r}
+Dialogue: 0,0:03:45.93,0:03:50.71,Default,,0,0,0,,{\blur3}其他目击者宣称看到了坠毁飞行器的残片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Other witnesses claimed to have seen actual pieces of a crashed spacecraft...{\r}
+Dialogue: 0,0:03:51.15,0:03:55.18,Default,,0,0,0,,{\blur3}报道称 这些材料超越了当时的科技水平{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Materials that are reportedly unknown to science.{\r}
+Dialogue: 0,0:03:57.08,0:04:00.01,Default,,0,0,0,,{\blur3}阿诺德的目击与罗斯威尔事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Both Arnold's sighting and the Roswell incident remain{\r}
+Dialogue: 0,0:04:00.14,0:04:04.69,Default,,0,0,0,,{\blur3}都未得到官方证实 二者本身也颇有争议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}officially unconfirmed and highly controversial.{\r}
+Dialogue: 0,0:04:06.20,0:04:10.07,Default,,0,0,0,,{\blur3}几乎每年都有许多关于不明物体的报道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just about every year, there are thousands of reported sightings{\r}
+Dialogue: 0,0:04:10.07,0:04:11.20,Default,,0,0,0,,{\blur3}它们多数出现在空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mostly in the sky,{\r}
+Dialogue: 0,0:04:11.24,0:04:15.48,Default,,0,0,0,,{\blur3}便被认为是外星飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of objects that they assume are extraterrestrial craft...{\r}
+Dialogue: 0,0:04:15.57,0:04:16.82,Default,,0,0,0,,{\blur3}即不明飞行物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So-called UFOs.{\r}
+Dialogue: 0,0:04:16.92,0:04:18.79,Default,,0,0,0,,{\blur3}这个"不明"很关键 因为它们从未被确认过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The "U" is important, of course. They're unidentified.{\r}
+Dialogue: 0,0:04:21.65,0:04:24.60,Default,,0,0,0,,{\blur3}我本人也曾看到一个从地平线飞起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I personally have seen a bright light start at the horizon{\r}
+Dialogue: 0,0:04:24.90,0:04:26.46,Default,,0,0,0,,{\blur3}进而直入云霄的亮点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and shoot off into the clouds.{\r}
+Dialogue: 0,0:04:26.56,0:04:29.06,Default,,0,0,0,,{\blur3}严格来说这就是个不明飞行物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, strictly speaking, that was a UFO.{\r}
+Dialogue: 0,0:04:29.47,0:04:34.70,Default,,0,0,0,,{\blur3}从不明飞行物到外星飞船是一个很大的跨越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a big jump between a UFO and an extraterrestrial spacecraft.{\r}
+Dialogue: 0,0:04:36.23,0:04:37.37,Default,,0,0,0,,{\blur3}科学家认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists argue that{\r}
+Dialogue: 0,0:04:37.59,0:04:41.44,Default,,0,0,0,,{\blur3}大部分观察到的不明飞行物要么来自地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most UFO sightings either have Earthly origins...{\r}
+Dialogue: 0,0:04:41.57,0:04:47.11,Default,,0,0,0,,{\blur3}例如人造卫星 气球或者飞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like satellites, ballons, and aircraft.{\r}
+Dialogue: 0,0:04:48.27,0:04:52.49,Default,,0,0,0,,{\blur3}要么来自宇宙 如陨石和彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or cosmic origins, such is meteors, comets,{\r}
+Dialogue: 0,0:04:53.11,0:04:56.59,Default,,0,0,0,,{\blur3}也可能是特别耀眼的 比如金星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or even the specially bright, Planet Venus{\r}
+Dialogue: 0,0:04:58.61,0:05:02.03,Default,,0,0,0,,{\blur3}但当我们无法解释不明飞行物现象时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when a UFO sighting has no known explanation,{\r}
+Dialogue: 0,0:05:02.34,0:05:05.70,Default,,0,0,0,,{\blur3}它会不会就是外星飞船呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could it be an extraterrestrial craft?{\r}
+Dialogue: 0,0:05:06.04,0:05:10.83,Default,,0,0,0,,{\blur3}既然如此 究竟何种技术才能够制造出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if so, what kind of technologies could possibly explain the behaviors{\r}
+Dialogue: 0,0:05:10.83,0:05:13.42,Default,,0,0,0,,{\blur3}这些目击者所描述的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that witnesses actually report?{\r}
+Dialogue: 0,0:05:14.60,0:05:16.82,Default,,0,0,0,,{\blur3}这些飞行器是如何制成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How would such craft be built?{\r}
+Dialogue: 0,0:05:16.93,0:05:19.75,Default,,0,0,0,,{\blur3}其间又需要攻克怎样的难题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what problems would they have to overcome?{\r}
+Dialogue: 0,0:05:21.38,0:05:23.72,Default,,0,0,0,,{\blur3}报道中所述多种不明飞行物的行为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A lot of the behavior of UFOs that people have reported{\r}
+Dialogue: 0,0:05:23.72,0:05:26.78,Default,,0,0,0,,{\blur3}都超出了我们目前物理学水平{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are things that are beyond our current level of physics...{\r}
+Dialogue: 0,0:05:26.78,0:05:30.64,Default,,0,0,0,,{\blur3}极快速率 极致加速度与急促转弯速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Extreme rates of speed or extreme acceleration, extreme turn rates,{\r}
+Dialogue: 0,0:05:31.10,0:05:33.00,Default,,0,0,0,,{\blur3}这些都是人类目前无法实现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}things that just we're... we're not capable of doing{\r}
+Dialogue: 0,0:05:33.00,0:05:37.17,Default,,0,0,0,,{\blur3}否则驾驶员甚至飞行器都要承受巨大损害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without extreme harm to a pilot or destroying a spacecraft.{\r}
+Dialogue: 0,0:05:39.11,0:05:42.37,Default,,0,0,0,,{\blur3}这些目击者描述了超快的加速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eyewitness accounts of super fast accelerations,{\r}
+Dialogue: 0,0:05:42.52,0:05:45.49,Default,,0,0,0,,{\blur3}闪电般的转向与急停{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lightning turns, and sudden stops{\r}
+Dialogue: 0,0:05:45.82,0:05:48.08,Default,,0,0,0,,{\blur3}这些似乎违反了已知的物理学定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seem to violate known laws of physics,{\r}
+Dialogue: 0,0:05:48.52,0:05:52.28,Default,,0,0,0,,{\blur3}但外星人是否已掌握毋须遵守规律的技术呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but could aliens find a way around these laws?{\r}
+Dialogue: 0,0:05:54.21,0:05:57.13,Default,,0,0,0,,{\blur3}需要强调的一条是惯性定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what we have to keep in mind here is the principle of inertia.{\r}
+Dialogue: 0,0:05:57.28,0:05:59.62,Default,,0,0,0,,{\blur3}由艾萨克·牛顿首先提出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That principle, stated first by Isaac Newton,{\r}
+Dialogue: 0,0:05:59.99,0:06:02.22,Default,,0,0,0,,{\blur3}即一个处于静止或运动的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}says that an object at rest or in motion{\r}
+Dialogue: 0,0:06:02.48,0:06:06.63,Default,,0,0,0,,{\blur3}只有受外力影响才会改变其初始状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tends to stay at rest or in motion unless acted on by an outside force.{\r}
+Dialogue: 0,0:06:07.41,0:06:10.51,Default,,0,0,0,,{\blur3}因此为了适应如此剧烈的惯性变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, to generate these kinds of crazy changes in inertia,{\r}
+Dialogue: 0,0:06:10.51,0:06:13.84,Default,,0,0,0,,{\blur3}就需要对这些物体施加极大的外力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you'd really have to act on that object with an immense amount of force.{\r}
+Dialogue: 0,0:06:15.46,0:06:18.00,Default,,0,0,0,,{\blur3}例如 一架战斗机飞行员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Following the same logic, a fighter pilot{\r}
+Dialogue: 0,0:06:18.33,0:06:19.85,Default,,0,0,0,,{\blur3}以近音速的速度飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}traveling near the speed of sound,{\r}
+Dialogue: 0,0:06:20.16,0:06:23.68,Default,,0,0,0,,{\blur3}并试图在该速度下 调转90度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}attempting to make a 90-degree turn at the same speed,{\r}
+Dialogue: 0,0:06:23.68,0:06:27.96,Default,,0,0,0,,{\blur3}将承受将近300G的力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would experience something close to 300 "G"S of force.{\r}
+Dialogue: 0,0:06:29.11,0:06:31.71,Default,,0,0,0,,{\blur3}飞行员穿着压力服时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most that a human pilot wearing a pressure suit{\r}
+Dialogue: 0,0:06:31.94,0:06:36.04,Default,,0,0,0,,{\blur3}最多能够承受约10G的力而不至晕厥{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can manage without blacking out is around ten "G"S.{\r}
+Dialogue: 0,0:06:38.64,0:06:41.60,Default,,0,0,0,,{\blur3}如果它的身体构架和人类有几分相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If his physiology were remotely similar to humans,{\r}
+Dialogue: 0,0:06:41.97,0:06:45.96,Default,,0,0,0,,{\blur3}进行300G力的转向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an extraelestial pilot undergoing a 300 "G"s maneuvering{\r}
+Dialogue: 0,0:06:46.32,0:06:48.71,Default,,0,0,0,,{\blur3}会立即导致死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would instantly perish.{\r}
+Dialogue: 0,0:06:50.25,0:06:52.92,Default,,0,0,0,,{\blur3}它的内脏会继续往前运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His internal organs would continue moving forward{\r}
+Dialogue: 0,0:06:53.43,0:06:55.86,Default,,0,0,0,,{\blur3}因撞击骨骼而碎裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and crush against the skeleton.{\r}
+Dialogue: 0,0:06:57.85,0:06:59.06,Default,,0,0,0,,{\blur3}如果它们跟人类相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If they were similar to us,{\r}
+Dialogue: 0,0:06:59.17,0:07:02.15,Default,,0,0,0,,{\blur3}就得知道如何处理液体喷撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they'd probably have to have a way of ejecting fluid...{\r}
+Dialogue: 0,0:07:02.43,0:07:04.09,Default,,0,0,0,,{\blur3}就是体内的液体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Internal fluid... Inside their bodies{\r}
+Dialogue: 0,0:07:04.09,0:07:05.20,Default,,0,0,0,,{\blur3}这样它们就能解决{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that they dealt with{\r}
+Dialogue: 0,0:07:05.48,0:07:07.55,Default,,0,0,0,,{\blur3}内脏在体内四处游动的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this problem of their organs floating around inside,{\r}
+Dialogue: 0,0:07:07.61,0:07:11.31,Default,,0,0,0,,{\blur3}如果能固定好内脏 加以适当的缓冲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and if they were strapped in properly and cushioned properly, uh,{\r}
+Dialogue: 0,0:07:11.66,0:07:15.87,Default,,0,0,0,,{\blur3}在加速或减速时 它们的内脏就不会受损{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}end up not having internal damage when they accelerated and decelerated.{\r}
+Dialogue: 0,0:07:16.81,0:07:20.36,Default,,0,0,0,,{\blur3}为有效抵消飞行器本身的惯性作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To effectively cancel the inertial effects on the craft itself,{\r}
+Dialogue: 0,0:07:20.79,0:07:22.78,Default,,0,0,0,,{\blur3}这些飞行员需要利用的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the pilots might switch on a technology{\r}
+Dialogue: 0,0:07:23.03,0:07:26.02,Default,,0,0,0,,{\blur3}是现代人类目前只能叹而观止的技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is beyond the reach of modern humans.{\r}
+Dialogue: 0,0:07:27.29,0:07:30.23,Default,,0,0,0,,{\blur3}为了不受这转弯所带来的300G的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, in order to cancel out the effects of a 300-g turn{\r}
+Dialogue: 0,0:07:30.30,0:07:32.26,Default,,0,0,0,,{\blur3}并且不会被这巨力所压碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and not be squished by that amount of force,{\r}
+Dialogue: 0,0:07:32.39,0:07:34.96,Default,,0,0,0,,{\blur3}你必须要有一种技术或装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you'd have to have some sort of technology or a device{\r}
+Dialogue: 0,0:07:35.27,0:07:37.84,Default,,0,0,0,,{\blur3}来抵消惯性作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was capable of canceling the effects of inertia.{\r}
+Dialogue: 0,0:07:39.01,0:07:41.83,Default,,0,0,0,,{\blur3}这个装置能够控制重力效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The device would have to manipulate the force of gravity,{\r}
+Dialogue: 0,0:07:42.27,0:07:44.33,Default,,0,0,0,,{\blur3}运用一种力场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using a type of force field{\r}
+Dialogue: 0,0:07:44.33,0:07:49.27,Default,,0,0,0,,{\blur3}抵消并控制整个宇宙的重力作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to counteract the gravitational forces that rule the entire universe.{\r}
+Dialogue: 0,0:07:50.78,0:07:52.80,Default,,0,0,0,,{\blur3}你可以根据需要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This device, you could turn on if you wanted to,{\r}
+Dialogue: 0,0:07:53.13,0:07:54.65,Default,,0,0,0,,{\blur3}启动或关闭该装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then turn it off if you wanted to,{\r}
+Dialogue: 0,0:07:54.65,0:07:57.22,Default,,0,0,0,,{\blur3}或者这个装置能够自动启用和关闭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or maybe it would come on and off automatically.{\r}
+Dialogue: 0,0:07:57.38,0:08:00.36,Default,,0,0,0,,{\blur3}这项技术远远超出人类的能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is high technology that's out of sight.{\r}
+Dialogue: 0,0:08:03.33,0:08:04.84,Default,,0,0,0,,{\blur3}如果科学解释不了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if science can't yet explain{\r}
+Dialogue: 0,0:08:05.16,0:08:08.93,Default,,0,0,0,,{\blur3}这些飞行器如何克服惯性这一关键问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how these craft could overcome the deadly problem of inertia,{\r}
+Dialogue: 0,0:08:09.12,0:08:11.86,Default,,0,0,0,,{\blur3}那飞行器的外形又是怎么一回事呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can it help explain their shapes...{\r}
+Dialogue: 0,0:08:12.47,0:08:17.98,Default,,0,0,0,,{\blur3}尤其是该如何解释这个最为出名的飞碟形状呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Particularly the most famous shape of all, the flying saucer?{\r}
+Dialogue: 0,0:08:21.46,0:08:25.79,Default,,0,0,0,,{\blur3}20世纪50年代末 美国空军测试了飞行车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the late 1950s, the U.S. Air force tested the Avrocar,{\r}
+Dialogue: 0,0:08:26.33,0:08:30.67,Default,,0,0,0,,{\blur3}但其设计不稳定 毫无空气动力优势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the design had poor stability and few aerodynamic advantages,{\r}
+Dialogue: 0,0:08:31.14,0:08:33.68,Default,,0,0,0,,{\blur3}正好证明碟状飞行器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}proving that high speeds are unattainable{\r}
+Dialogue: 0,0:08:33.68,0:08:37.01,Default,,0,0,0,,{\blur3}无法在地球大气层高速行进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for saucer craft in Earth's atmosphere.{\r}
+Dialogue: 0,0:08:38.94,0:08:43.47,Default,,0,0,0,,{\blur3}三角翼或者楔形 都比碟形设计更稳定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The delta wing, or wedge shape, is a far stronger candidate...{\r}
+Dialogue: 0,0:08:43.59,0:08:47.87,Default,,0,0,0,,{\blur3}这是现代军事飞行器设计者所熟知的事实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A fact that is well known by modern military aircraft designers.{\r}
+Dialogue: 0,0:08:49.00,0:08:52.97,Default,,0,0,0,,{\blur3}事实上 目击楔形不明飞行物的报道数目{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, the percentage of UFO sightings reporting a wedge-shaped craft{\r}
+Dialogue: 0,0:08:53.30,0:08:55.95,Default,,0,0,0,,{\blur3}在近几十年来呈逐年增长趋势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have increased in recent decades,{\r}
+Dialogue: 0,0:08:56.13,0:08:59.00,Default,,0,0,0,,{\blur3}后掠翼喷气机 甚至是像蝇翅设计的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a trend that mirrors the emergence of swept-wing jets{\r}
+Dialogue: 0,0:08:59.30,0:09:04.13,Default,,0,0,0,,{\blur3}B2隐形轰炸机则应运而生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even flying-wing designs like the B-2 stealth bomber.{\r}
+Dialogue: 0,0:09:05.05,0:09:07.81,Default,,0,0,0,,{\blur3}这些年来人们所报告的飞行器外形一直在改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The shapes that people have reported over the years have changed,{\r}
+Dialogue: 0,0:09:07.98,0:09:10.63,Default,,0,0,0,,{\blur3}最近报告的形状基本都是楔形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the most recent ones being more wedge-shaped.{\r}
+Dialogue: 0,0:09:10.77,0:09:13.01,Default,,0,0,0,,{\blur3}因此 人们的描述其实反映的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, really, people's accounts tend to reflect{\r}
+Dialogue: 0,0:09:13.01,0:09:15.35,Default,,0,0,0,,{\blur3}当时最先进的飞行器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the most advanced aircraft of the time.{\r}
+Dialogue: 0,0:09:16.40,0:09:17.77,Default,,0,0,0,,{\blur3}除了运行方式和外形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Beyond movement and shape,{\r}
+Dialogue: 0,0:09:18.15,0:09:20.96,Default,,0,0,0,,{\blur3}要解开不明飞行物之谜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}any attempt to explain the science of UFOs{\r}
+Dialogue: 0,0:09:21.22,0:09:23.40,Default,,0,0,0,,{\blur3}还牵涉到噪音问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has to deal with the noise factor,{\r}
+Dialogue: 0,0:09:24.01,0:09:26.61,Default,,0,0,0,,{\blur3}准确地说 是它完全无噪音现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or rather, the lack of noisy.{\r}
+Dialogue: 0,0:09:27.73,0:09:30.14,Default,,0,0,0,,{\blur3}关于不明飞行物的报告均称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}UFO reports consistently claim{\r}
+Dialogue: 0,0:09:30.28,0:09:33.60,Default,,0,0,0,,{\blur3}这些物体在移动过程中没有发出任何声音{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the objects moved without making any sound.{\r}
+Dialogue: 0,0:09:34.85,0:09:36.26,Default,,0,0,0,,{\blur3}几乎所有的目击报告中都提到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Almost all of these sightings,{\r}
+Dialogue: 0,0:09:36.26,0:09:39.16,Default,,0,0,0,,{\blur3}它没有半点噪音{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's a real rule... there's no noise,{\r}
+Dialogue: 0,0:09:39.16,0:09:40.55,Default,,0,0,0,,{\blur3}但按理说 在地球大气层中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which you would expect to hear from{\r}
+Dialogue: 0,0:09:40.67,0:09:42.64,Default,,0,0,0,,{\blur3}任何高速运动的飞行器都会产生噪音{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}any fast-moving craft in the Earth's atmosphere.{\r}
+Dialogue: 0,0:09:42.72,0:09:43.42,Default,,0,0,0,,{\blur3}人们能够听见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You would hear it.{\r}
+Dialogue: 0,0:09:44.78,0:09:48.03,Default,,0,0,0,,{\blur3}在实际情况中会产生音爆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What actually happens is that you get what's called a sonic boom,{\r}
+Dialogue: 0,0:09:48.32,0:09:50.70,Default,,0,0,0,,{\blur3}这是飞行器高速飞行时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's a special pressure wave that{\r}
+Dialogue: 0,0:09:51.04,0:09:55.07,Default,,0,0,0,,{\blur3}穿过大气所产生的特殊压力波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sweeps through the atmosphere along with the craft.{\r}
+Dialogue: 0,0:09:55.19,0:09:56.49,Default,,0,0,0,,{\blur3}当人在地面上所听到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you're on the ground,{\r}
+Dialogue: 0,0:09:56.49,0:10:01.48,Default,,0,0,0,,{\blur3}巨大音爆的产生是由于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that huge sonic boom is the result of that pressure difference{\r}
+Dialogue: 0,0:10:01.81,0:10:05.84,Default,,0,0,0,,{\blur3}飞行器在穿越大气时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between the front of the aircraft and the back of the aircraft{\r}
+Dialogue: 0,0:10:06.38,0:10:09.38,Default,,0,0,0,,{\blur3}其首尾压力不同所致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it pushes through the atmosphere.{\r}
+Dialogue: 0,0:10:11.54,0:10:15.68,Default,,0,0,0,,{\blur3}外星飞行器能够设法消除超音速飞行中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could an alien craft somehow cancel out the enormous pressure wave{\r}
+Dialogue: 0,0:10:15.92,0:10:18.58,Default,,0,0,0,,{\blur3}产生的巨大压力波吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that supersonic flight generates?{\r}
+Dialogue: 0,0:10:19.85,0:10:21.25,Default,,0,0,0,,{\blur3}答案也许就在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The answer could lie{\r}
+Dialogue: 0,0:10:21.45,0:10:27.39,Default,,0,0,0,,{\blur3}最新一代的数码消音耳机所采用的技术中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the technology used in the latest generation of digital noise-canceling headphones.{\r}
+Dialogue: 0,0:10:28.98,0:10:32.21,Default,,0,0,0,,{\blur3}消音技术确实存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there is such a thing as a sound-canceling technology,{\r}
+Dialogue: 0,0:10:32.31,0:10:35.59,Default,,0,0,0,,{\blur3}即选取想要消除的声音{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you take a particular sound that you're interested in canceling{\r}
+Dialogue: 0,0:10:35.86,0:10:39.07,Default,,0,0,0,,{\blur3}之后播放相反的声音 以达到抵消的效果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and kind of broadcast the negative of that sound to cancel it out.{\r}
+Dialogue: 0,0:10:39.33,0:10:42.14,Default,,0,0,0,,{\blur3}据我所知 现代技术还无法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, I'm not aware of any technology that's capable of{\r}
+Dialogue: 0,0:10:42.26,0:10:44.26,Default,,0,0,0,,{\blur3}抵消冲击波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}doing that with shock waves.{\r}
+Dialogue: 0,0:10:44.70,0:10:48.51,Default,,0,0,0,,{\blur3}要抵消音爆所带来的震耳欲聋的效果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Canceling out the ear-splitting, body-shaking effect of a sonic boom{\r}
+Dialogue: 0,0:10:48.86,0:10:52.50,Default,,0,0,0,,{\blur3}必然需要一些先进的工程技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would certainly require some advanced engineering skills.{\r}
+Dialogue: 0,0:10:53.52,0:10:57.34,Default,,0,0,0,,{\blur3}假设静音已解决 而隐形又该如何解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if there is silence, what about invisibility?{\r}
+Dialogue: 0,0:10:57.54,0:11:02.93,Default,,0,0,0,,{\blur3}一些报道称不明飞行物在天际凭空消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some reports claim that UFOs simply disappear into thin air.{\r}
+Dialogue: 0,0:11:03.49,0:11:07.13,Default,,0,0,0,,{\blur3}现阶段正在研究的一种人类技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One promising human technology currently being researched{\r}
+Dialogue: 0,0:11:07.45,0:11:10.01,Default,,0,0,0,,{\blur3}也许能够解释这一现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might explain such phenomenon.{\r}
+Dialogue: 0,0:11:10.71,0:11:16.16,Default,,0,0,0,,{\blur3}一种即将问世的技术也许可以改变物体的像{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is a technology on the horizon which might change things visually.{\r}
+Dialogue: 0,0:11:16.27,0:11:19.25,Default,,0,0,0,,{\blur3}那是一种光线扭曲技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that is a kind of light-bending technology.{\r}
+Dialogue: 0,0:11:19.41,0:11:21.85,Default,,0,0,0,,{\blur3}属于超材料的一种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As a class, they're called metamaterials.{\r}
+Dialogue: 0,0:11:21.96,0:11:23.29,Default,,0,0,0,,{\blur3}热门电影中有不少展示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you want to think about popular movies,{\r}
+Dialogue: 0,0:11:23.54,0:11:26.79,Default,,0,0,0,,{\blur3}例如哈利波特电影中的隐形斗篷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}think the invisibility cloak in the Harry Potter movies.{\r}
+Dialogue: 0,0:11:27.92,0:11:33.45,Default,,0,0,0,,{\blur3}超材料依靠聚合物基质以及金和铜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Metamaterials use combinations of polymer substrates, gold, and copper{\r}
+Dialogue: 0,0:11:33.82,0:11:39.03,Default,,0,0,0,,{\blur3}有效地扭曲物体周围的电磁波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to forcibly bend electromagnetic waves around an object.{\r}
+Dialogue: 0,0:11:40.25,0:11:43.31,Default,,0,0,0,,{\blur3}光线被引导绕过物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The light is guided around the object rather than being{\r}
+Dialogue: 0,0:11:43.42,0:11:46.46,Default,,0,0,0,,{\blur3}而非反射或折射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reflected or refracted.{\r}
+Dialogue: 0,0:11:47.42,0:11:50.46,Default,,0,0,0,,{\blur3}若天外来客无法到达地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But advanced materials, stealth capability,{\r}
+Dialogue: 0,0:11:50.47,0:11:54.63,Default,,0,0,0,,{\blur3}先进材料 隐形能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and mind-bending maneuverability would all come to nothing{\r}
+Dialogue: 0,0:11:54.63,0:11:59.28,Default,,0,0,0,,{\blur3}和超强的机动性都将是纸上谈兵{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if our visitors were unable to get to Earth in the first place.{\r}
+Dialogue: 0,0:12:00.30,0:12:02.65,Default,,0,0,0,,{\blur3}我认为其他文明成功来访的几率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'd say that the chances of another civilization making it{\r}
+Dialogue: 0,0:12:02.78,0:12:04.82,Default,,0,0,0,,{\blur3}是非常小的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}here to visit us are pretty miniscule.{\r}
+Dialogue: 0,0:12:04.92,0:12:06.27,Default,,0,0,0,,{\blur3}但如果它们真的做到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if they did make it,{\r}
+Dialogue: 0,0:12:06.39,0:12:09.41,Default,,0,0,0,,{\blur3}那意味着它们已经解决了诸多难题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would mean that they had solved a whole bunch of problems,{\r}
+Dialogue: 0,0:12:09.50,0:12:12.89,Default,,0,0,0,,{\blur3}包括我们还无法解答的材料科学问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including material-science problems that we don't have answers to.{\r}
+Dialogue: 0,0:12:13.04,0:12:14.96,Default,,0,0,0,,{\blur3}因此他们的技术将领先我们许多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So they'd have technology far beyond ours,{\r}
+Dialogue: 0,0:12:15.24,0:12:18.08,Default,,0,0,0,,{\blur3}甚至超越了我们想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps even beyond what we've dreamt of at this point.{\r}
+Dialogue: 0,0:12:21.12,0:12:24.38,Default,,0,0,0,,{\blur3}科学家推断出了一些独具匠心的技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But scientists can imagine several ingenious technologies{\r}
+Dialogue: 0,0:12:24.63,0:12:29.42,Default,,0,0,0,,{\blur3}可以完成这看似不可能完成的星际旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could bridge the seemingly unbridgeable distance between the stars,{\r}
+Dialogue: 0,0:12:29.67,0:12:34.47,Default,,0,0,0,,{\blur3}包括一种能量巨大的爆炸式推进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including one explosive propulsion source that's so apocalyptic,{\r}
+Dialogue: 0,0:12:34.79,0:12:38.21,Default,,0,0,0,,{\blur3}可能身在数光年外的我们也能观测到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we might see them coming light years away.{\r}
+Dialogue: 0,0:12:44.36,0:12:47.07,Default,,0,0,0,,{\blur3}数十年来 无数有关不明飞行物的报道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For decades, countless UFO reports have{\r}
+Dialogue: 0,0:12:47.18,0:12:51.00,Default,,0,0,0,,{\blur3}从世界各个城市和乡村传来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}surfaced from cities and countries around the globe.{\r}
+Dialogue: 0,0:12:52.22,0:12:57.38,Default,,0,0,0,,{\blur3}但并非所有事件都发生在地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But not all UFO sightings have been reported from the surface of planet Earth.{\r}
+Dialogue: 0,0:13:01.02,0:13:03.23,Default,,0,0,0,,{\blur3}2009年7月19日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On July 19, 2009,{\r}
+Dialogue: 0,0:13:04.16,0:13:07.58,Default,,0,0,0,,{\blur3}美国宇航局奋进号航天飞机上的视频监视员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}viewers of a NASA video feed from the space shuttle endeavor{\r}
+Dialogue: 0,0:13:07.91,0:13:10.02,Default,,0,0,0,,{\blur3}发现一碟状物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reported seeing a disc-shaped object{\r}
+Dialogue: 0,0:13:10.40,0:13:12.70,Default,,0,0,0,,{\blur3}徘徊于太空船的机械臂上方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hovering above the shuttle's mechanical arm.{\r}
+Dialogue: 0,0:13:12.70,0:13:15.11,Default,,0,0,0,,{\blur3}收到图像 只有9.65公里的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Roger that visual, it has only six miles...{\r}
+Dialogue: 0,0:13:15.27,0:13:18.91,Default,,0,0,0,,{\blur3}此类太空不明飞行物的目击事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space-based UFO sightings like this have purportedly happened{\r}
+Dialogue: 0,0:13:19.01,0:13:22.27,Default,,0,0,0,,{\blur3}在人类航天史上时有发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}throughout the history of manned spaceflight.{\r}
+Dialogue: 0,0:13:23.64,0:13:25.96,Default,,0,0,0,,{\blur3}无法断定的宇宙现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unspecified cosmic phenomenon,{\r}
+Dialogue: 0,0:13:26.49,0:13:29.08,Default,,0,0,0,,{\blur3}是否就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or could it suggest the possibility that{\r}
+Dialogue: 0,0:13:29.55,0:13:34.55,Default,,0,0,0,,{\blur3}大型星际战舰正在银河系中航行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}huge extraterrestrial starship are cruising the Milky Way galaxy?{\r}
+Dialogue: 0,0:13:36.69,0:13:40.15,Default,,0,0,0,,{\blur3}星际旅行 是科幻题材的主要内容{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space travel between the stars... It's a staple of science fiction, right?{\r}
+Dialogue: 0,0:13:40.24,0:13:41.44,Default,,0,0,0,,{\blur3}晚间电视节目上能见到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You see it every night on television.{\r}
+Dialogue: 0,0:13:41.54,0:13:42.77,Default,,0,0,0,,{\blur3}在电影情节中里也常出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You see it in the movies all the time.{\r}
+Dialogue: 0,0:13:42.88,0:13:45.47,Default,,0,0,0,,{\blur3}但我们真的能实现吗 有哪种物种做到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But could we really do it, or could any species really do it?{\r}
+Dialogue: 0,0:13:45.59,0:13:49.91,Default,,0,0,0,,{\blur3}星际距离非常遥远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, the distances between the stars are enormous... Really enormous.{\r}
+Dialogue: 0,0:13:53.54,0:13:55.81,Default,,0,0,0,,{\blur3}星际旅行并不违背物理学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Interstellar travel doesn't violate physics.{\r}
+Dialogue: 0,0:13:55.93,0:13:57.06,Default,,0,0,0,,{\blur3}我们并不能排除其发生的可能性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It isn't that you can rule it out,{\r}
+Dialogue: 0,0:13:57.06,0:13:59.75,Default,,0,0,0,,{\blur3}说 "它们绝对到不了这里"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and say "There's absolutely no way they can come here."{\r}
+Dialogue: 0,0:13:59.86,0:14:02.01,Default,,0,0,0,,{\blur3}只是它实现的可能性微乎其微{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just that it's very, very hard.{\r}
+Dialogue: 0,0:14:04.25,0:14:07.20,Default,,0,0,0,,{\blur3}以距地球最近的半人马座阿尔法星为例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just traveling from the Earth to Alpha Centauri,{\r}
+Dialogue: 0,0:14:07.31,0:14:10.89,Default,,0,0,0,,{\blur3}它与地球的间距有4.5光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our closest neighboring star at nearly 4 1/2 light years,{\r}
+Dialogue: 0,0:14:11.04,0:14:14.78,Default,,0,0,0,,{\blur3}超过人类现有最强力火箭的射程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is beyond the reach of our most powerful rockets.{\r}
+Dialogue: 0,0:14:17.59,0:14:20.61,Default,,0,0,0,,{\blur3}如果遥远星系的先进文明前来访问{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If an advanced civilization were to visit us from a distant star system,{\r}
+Dialogue: 0,0:14:20.90,0:14:24.08,Default,,0,0,0,,{\blur3}它们绝对不会使用化学燃料的火箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can pretty much rule out that they would use chemical rockets to get here.{\r}
+Dialogue: 0,0:14:24.29,0:14:27.65,Default,,0,0,0,,{\blur3}不管阿波罗 土星五号还是航天飞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Despite the impressive pillar of fire and smoke that we see{\r}
+Dialogue: 0,0:14:27.65,0:14:30.23,Default,,0,0,0,,{\blur3}发射时有着多么壮丽的火焰和烟雾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}during Apollo, Saturn V, or shuttle launches,{\r}
+Dialogue: 0,0:14:30.65,0:14:33.62,Default,,0,0,0,,{\blur3}化学火箭在太阳系中走不了多远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}chemical rockets don't get you very far in a solar system.{\r}
+Dialogue: 0,0:14:36.28,0:14:38.08,Default,,0,0,0,,{\blur3}作为现存航行最远的空间探测器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To give you some context for that distance,{\r}
+Dialogue: 0,0:14:38.43,0:14:40.75,Default,,0,0,0,,{\blur3}发射于1977年的旅行者一号的工作是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our furthest known space probe is Voyager 1,{\r}
+Dialogue: 0,0:14:41.19,0:14:42.91,Default,,0,0,0,,{\blur3}反馈星际间距的信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}launched in 1977.{\r}
+Dialogue: 0,0:14:43.05,0:14:44.87,Default,,0,0,0,,{\blur3}它以每小时6.1万公里的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's been flying for 34 years{\r}
+Dialogue: 0,0:14:44.87,0:14:46.99,Default,,0,0,0,,{\blur3}飞行了34年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at 38,000 miles per hour,{\r}
+Dialogue: 0,0:14:47.57,0:14:51.13,Default,,0,0,0,,{\blur3}而它现在才刚飞离太阳系没多久{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's only now starting to leave our Solar System.{\r}
+Dialogue: 0,0:14:52.51,0:14:54.51,Default,,0,0,0,,{\blur3}如果它的目的地是半人马座阿尔法星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If its destination were Alpha Centauri,{\r}
+Dialogue: 0,0:14:54.59,0:14:57.09,Default,,0,0,0,,{\blur3}则需要超过5.6万年的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would take over 56,000 years{\r}
+Dialogue: 0,0:14:57.09,0:14:59.63,Default,,0,0,0,,{\blur3}才能到达这最近的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to reach even the closest star system.{\r}
+Dialogue: 0,0:15:00.00,0:15:03.41,Default,,0,0,0,,{\blur3}如果星际旅行可以在人的一生中完成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To engage in interstellar missions on time frames of a human lifetime,{\r}
+Dialogue: 0,0:15:03.72,0:15:05.05,Default,,0,0,0,,{\blur3}时间约为50年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}around about 50 years,{\r}
+Dialogue: 0,0:15:05.05,0:15:05.57,Default,,0,0,0,,{\blur3}可以得出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can see that{\r}
+Dialogue: 0,0:15:05.62,0:15:10.31,Default,,0,0,0,,{\blur3}我们的航行速度至少要提高1,000倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we need to increase the speed that we can travel by at least a factor of 1,000.{\r}
+Dialogue: 0,0:15:11.02,0:15:12.40,Default,,0,0,0,,{\blur3}科学家已证实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists have determined{\r}
+Dialogue: 0,0:15:12.40,0:15:18.00,Default,,0,0,0,,{\blur3}光速达到了令人咂舌的每秒三十万公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the speed of light is a mind-blowing 186,000 miles per second.{\r}
+Dialogue: 0,0:15:18.17,0:15:20.22,Default,,0,0,0,,{\blur3}星际飞船若航行于星系之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A spacecraft traveling the star systems{\r}
+Dialogue: 0,0:15:20.61,0:15:23.57,Default,,0,0,0,,{\blur3}需要达到光速的相对比重{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have to reach a significant percentage of that speed{\r}
+Dialogue: 0,0:15:23.82,0:15:26.09,Default,,0,0,0,,{\blur3}才可能到达最近的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even to reach the nearest star.{\r}
+Dialogue: 0,0:15:27.97,0:15:30.14,Default,,0,0,0,,{\blur3}最大的难题就是重量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The biggest obstacle is weight.{\r}
+Dialogue: 0,0:15:30.55,0:15:33.30,Default,,0,0,0,,{\blur3}化学火箭负载量极大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A chemical rocket exacts a huge weight penalty,{\r}
+Dialogue: 0,0:15:33.67,0:15:37.96,Default,,0,0,0,,{\blur3}因为它要装载所有的能源供给{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because its entire fuel supply must be carried on board.{\r}
+Dialogue: 0,0:15:39.03,0:15:40.03,Default,,0,0,0,,{\blur3}经计算得出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can calculate that{\r}
+Dialogue: 0,0:15:40.03,0:15:42.19,Default,,0,0,0,,{\blur3}仅仅是达到光速6%的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even to reach 6% of the speed of light{\r}
+Dialogue: 0,0:15:42.30,0:15:43.85,Default,,0,0,0,,{\blur3}化学火箭所需燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using chemical rocket fuel,{\r}
+Dialogue: 0,0:15:44.26,0:15:47.68,Default,,0,0,0,,{\blur3}就得超过整个宇宙的质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would need more rocket fuel than exists mass in the universe.{\r}
+Dialogue: 0,0:15:47.82,0:15:49.39,Default,,0,0,0,,{\blur3}据此可知{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we really know that{\r}
+Dialogue: 0,0:15:49.39,0:15:53.77,Default,,0,0,0,,{\blur3}光靠化学火箭燃料无法完成星际旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's actually impossible to reach another star system using chemical rocket fuel.{\r}
+Dialogue: 0,0:15:54.72,0:15:57.96,Default,,0,0,0,,{\blur3}如果外星来访已然实现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If extraterrestrial visitations are even possible,{\r}
+Dialogue: 0,0:15:58.50,0:16:01.62,Default,,0,0,0,,{\blur3}它们一定解决了燃料问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}their spacecraft must solve this problem.{\r}
+Dialogue: 0,0:16:03.33,0:16:06.83,Default,,0,0,0,,{\blur3}2011年 美国宇航局的D型纳米帆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 2011, NASA's Nanosail-D{\r}
+Dialogue: 0,0:16:06.94,0:16:10.67,Default,,0,0,0,,{\blur3}成为第一艘环绕地球飞行的太阳帆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}became the first solar sail to orbit the Earth.{\r}
+Dialogue: 0,0:16:10.81,0:16:14.09,Default,,0,0,0,,{\blur3}这块9.29平方米的超薄帆利用太阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ultra-thin 100-square-foot sail uses sunlight,{\r}
+Dialogue: 0,0:16:14.43,0:16:18.19,Default,,0,0,0,,{\blur3}或是光子压力来作为推动力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or photon pressure, as a source of propulsion.{\r}
+Dialogue: 0,0:16:18.38,0:16:21.53,Default,,0,0,0,,{\blur3}火箭推动不可改变的局限性在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the immutable limitations of rocket propulsion{\r}
+Dialogue: 0,0:16:21.65,0:16:25.36,Default,,0,0,0,,{\blur3}就是需要随火箭体携带燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the fact that any rocket has to carry its fuel with it.{\r}
+Dialogue: 0,0:16:25.49,0:16:29.51,Default,,0,0,0,,{\blur3}太阳帆则能利用自然资源的优势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A solar sail can take advantage of the naturally occurring resources,{\r}
+Dialogue: 0,0:16:29.77,0:16:31.60,Default,,0,0,0,,{\blur3}即太阳发出的光量子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}namely photons emanating from the sun,{\r}
+Dialogue: 0,0:16:31.91,0:16:34.33,Default,,0,0,0,,{\blur3}从而转化为太阳帆的推动力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which can be used to propel that solar sail.{\r}
+Dialogue: 0,0:16:35.88,0:16:39.82,Default,,0,0,0,,{\blur3}同理 悬挂式滑翔机没有能源或引擎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Similarly, a hang glider can fly without any fuel or an engine{\r}
+Dialogue: 0,0:16:39.94,0:16:43.32,Default,,0,0,0,,{\blur3}仅仅利用我们身边的自然资源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just by taking an advantage of the natural resources we're surrounded by,{\r}
+Dialogue: 0,0:16:43.61,0:16:46.98,Default,,0,0,0,,{\blur3}遵循大气流通规律 亦能成行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}namely the atmosphere and the laws of aerodynamics.{\r}
+Dialogue: 0,0:16:58.98,0:17:03.14,Default,,0,0,0,,{\blur3}可载生物飞船要达到足够速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To achieve sufficient speeds to tow a spacecraft supporting life forms,{\r}
+Dialogue: 0,0:17:03.30,0:17:09.12,Default,,0,0,0,,{\blur3}需要直径达数百公里的巨型太阳帆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the sail would have to be huge, up to hundreds of miles in diameter.{\r}
+Dialogue: 0,0:17:11.12,0:17:13.21,Default,,0,0,0,,{\blur3}由于恒星产生的光子压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And because the photon pressure from a star{\r}
+Dialogue: 0,0:17:13.50,0:17:16.17,Default,,0,0,0,,{\blur3}会随着太阳帆航行渐远而减弱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would decrease the further the sail traveled,{\r}
+Dialogue: 0,0:17:16.74,0:17:21.85,Default,,0,0,0,,{\blur3}有人设想过用高聚激光束驱动太阳帆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some have envisioned a concentrated laser beam directing energy at the sail.{\r}
+Dialogue: 0,0:17:33.10,0:17:34.90,Default,,0,0,0,,{\blur3}但最终无法避免的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually and sadly,{\r}
+Dialogue: 0,0:17:35.28,0:17:38.49,Default,,0,0,0,,{\blur3}所有的滑翔机在一定时段后都会降落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this hang glider and all hang gliders at some point have to land,{\r}
+Dialogue: 0,0:17:38.97,0:17:42.10,Default,,0,0,0,,{\blur3}但使用高聚激光束的太阳帆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but a solar sail riding a beam of laser energy{\r}
+Dialogue: 0,0:17:42.34,0:17:45.02,Default,,0,0,0,,{\blur3}在理论上可以完成星际旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could conceivably travel to the stars.{\r}
+Dialogue: 0,0:17:46.10,0:17:47.80,Default,,0,0,0,,{\blur3}太阳帆能达到的最大速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The max speed of a solar sail...{\r}
+Dialogue: 0,0:17:48.28,0:17:50.86,Default,,0,0,0,,{\blur3}约为光速的10%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 10% the speed of light.{\r}
+Dialogue: 0,0:17:52.13,0:17:56.16,Default,,0,0,0,,{\blur3}靠激光光子能量从地球到半人马座阿尔法星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Travel from Earth to Alpha Centauri using laser-generated photons...{\r}
+Dialogue: 0,0:17:56.47,0:17:59.13,Default,,0,0,0,,{\blur3}大约需45年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 45 years.{\r}
+Dialogue: 0,0:18:02.18,0:18:04.67,Default,,0,0,0,,{\blur3}当前 美国宇航局及其他航天机构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Currently, NASA and other space agencies{\r}
+Dialogue: 0,0:18:05.02,0:18:08.05,Default,,0,0,0,,{\blur3}计划发射更多的太阳帆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have plans for launching more solar sails.{\r}
+Dialogue: 0,0:18:08.59,0:18:13.56,Default,,0,0,0,,{\blur3}但宇宙中还有其他更强大的动力源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there are other, more powerful sources of propulsion in the universe.{\r}
+Dialogue: 0,0:18:14.80,0:18:17.64,Default,,0,0,0,,{\blur3}十九世纪六十年代有人提出一种推进方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the 1960s, a method of propulsion was proposed{\r}
+Dialogue: 0,0:18:17.97,0:18:19.33,Default,,0,0,0,,{\blur3}即在飞船尾部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where a spacecraft would literally{\r}
+Dialogue: 0,0:18:19.65,0:18:22.05,Default,,0,0,0,,{\blur3}安置一系列爆炸物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}drop a series of explosive charges out the back,{\r}
+Dialogue: 0,0:18:22.46,0:18:26.00,Default,,0,0,0,,{\blur3}爆炸带来的能量将推动飞船前进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the force of the explosions would push the spacecraft forward.{\r}
+Dialogue: 0,0:18:26.63,0:18:28.78,Default,,0,0,0,,{\blur3}原型机被称作"核脉冲推进"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The prototype was called the "Orion Drive,"{\r}
+Dialogue: 0,0:18:29.11,0:18:32.56,Default,,0,0,0,,{\blur3}实际上人们进行了一系列常规炸药的试验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there were actually a series of experiments done with conventional charges{\r}
+Dialogue: 0,0:18:33.01,0:18:34.20,Default,,0,0,0,,{\blur3}以证明这是可行的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to show that it would work.{\r}
+Dialogue: 0,0:18:34.68,0:18:38.57,Default,,0,0,0,,{\blur3}然而"核脉冲推进"燃料使用的是核弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Orion Drive, however, was proposed to use nuclear charges.{\r}
+Dialogue: 0,0:18:40.30,0:18:42.91,Default,,0,0,0,,{\blur3}为模拟核脉冲形式的推进系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In order to simulate an Orion-style propulsion system,{\r}
+Dialogue: 0,0:18:43.02,0:18:44.91,Default,,0,0,0,,{\blur3}保罗和吉姆正在搭建示范装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Paul and Jim here are rigging up a demonstration{\r}
+Dialogue: 0,0:18:45.18,0:18:48.25,Default,,0,0,0,,{\blur3}他们将少量化学炸药装入罐中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where they're going to put a small chemical charge inside this barrel,{\r}
+Dialogue: 0,0:18:48.51,0:18:51.12,Default,,0,0,0,,{\blur3}将其炸到约15至18米的空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we're going to lift this off the ground 50, 60 feet in the air.{\r}
+Dialogue: 0,0:18:51.25,0:18:54.14,Default,,0,0,0,,{\blur3}我们将计算这次爆炸释放的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to actually calculate the energy released in this explosion{\r}
+Dialogue: 0,0:18:54.55,0:18:57.19,Default,,0,0,0,,{\blur3}并将其同实际的核脉冲飞船系统中的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and compare it to a nuclear charge you might find on an actual{\r}
+Dialogue: 0,0:18:57.57,0:18:59.71,Default,,0,0,0,,{\blur3}核爆能量进行比较{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Orion Spacecraft system.{\r}
+Dialogue: 0,0:19:02.36,0:19:05.81,Default,,0,0,0,,{\blur3}核脉冲飞船模拟器已准备就绪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our Orion spacecraft simulator is rigged and ready to go.{\r}
+Dialogue: 0,0:19:06.07,0:19:10.20,Default,,0,0,0,,{\blur3}我们将在内部燃火 使其在空中爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to light off the charges inside, blow the can up into the air,{\r}
+Dialogue: 0,0:19:10.48,0:19:12.49,Default,,0,0,0,,{\blur3}将其与核脉冲形式推进中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and compare that with the energy release from a{\r}
+Dialogue: 0,0:19:12.60,0:19:16.88,Default,,0,0,0,,{\blur3}核爆炸所产生的能量进行比较{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}typical nuclear explosion that would be used on an Orion-style drive.{\r}
+Dialogue: 0,0:19:24.99,0:19:26.34,Default,,0,0,0,,{\blur3}十九世纪五十年代后期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Orion Spacecraft,{\r}
+Dialogue: 0,0:19:26.35,0:19:29.82,Default,,0,0,0,,{\blur3}洛斯阿拉莫斯国家实验室所研制的核脉冲飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}studied at Los Alamos in the late 1950s,{\r}
+Dialogue: 0,0:19:30.19,0:19:34.00,Default,,0,0,0,,{\blur3}计划将核裂变作为推动力能源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}proposed nuclear fission as its propulsion source.{\r}
+Dialogue: 0,0:19:36.72,0:19:42.03,Default,,0,0,0,,{\blur3}裂变能量来自于原子核分解时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fission energy is produced when the nucleus of an atom splits into smaller parts,{\r}
+Dialogue: 0,0:19:42.03,0:19:44.65,Default,,0,0,0,,{\blur3}释放出中子与质子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}producing free neutrons and protons{\r}
+Dialogue: 0,0:19:44.65,0:19:48.00,Default,,0,0,0,,{\blur3}并产生大量的伽马射线能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and release tremendous γ ray energy.{\r}
+Dialogue: 0,0:19:59.45,0:20:02.36,Default,,0,0,0,,{\blur3}炸药使这个重达16公斤的罐子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The explosive charge in this 35-pound barrel{\r}
+Dialogue: 0,0:20:02.36,0:20:04.83,Default,,0,0,0,,{\blur3}冲到高空约18米处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lofted it about 60 feet in the air.{\r}
+Dialogue: 0,0:20:05.16,0:20:08.59,Default,,0,0,0,,{\blur3}而在广岛着陆的小型核弹能够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A small nuclear charge in the Hiroshima range would liberate{\r}
+Dialogue: 0,0:20:08.73,0:20:11.63,Default,,0,0,0,,{\blur3}释放出约2,700万倍的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 27 million times more energy.{\r}
+Dialogue: 0,0:20:11.80,0:20:14.37,Default,,0,0,0,,{\blur3}显而易见 这是保证星体间航行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Clearly, that's a practical propulsion drive for{\r}
+Dialogue: 0,0:20:14.50,0:20:17.97,Default,,0,0,0,,{\blur3}甚至星际航行的推进驱动力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}interplanetary or even interstellar travel.{\r}
+Dialogue: 0,0:20:18.62,0:20:23.70,Default,,0,0,0,,{\blur3}由于飞船尾部核脉冲推进需要大爆炸的冲击力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because of the huge explosions that an Orion Drive would require, on the back of the spacecraft,{\r}
+Dialogue: 0,0:20:23.71,0:20:28.48,Default,,0,0,0,,{\blur3}用以吸收爆炸冲击力的大块厚实金属板{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would have a huge, thick metal plate that would absorb the thrust of the explosion{\r}
+Dialogue: 0,0:20:28.48,0:20:31.42,Default,,0,0,0,,{\blur3}以及一系列的冲击波吸收器便是不可缺少的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a series of shock absorbers to keep the crews from{\r}
+Dialogue: 0,0:20:31.42,0:20:34.95,Default,,0,0,0,,{\blur3}它们将船员与爆炸后的余震隔离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}getting jolted each time the charges went off.{\r}
+Dialogue: 0,0:20:36.31,0:20:39.37,Default,,0,0,0,,{\blur3}核裂变能源飞船的最大速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The max speed of a nuclear-powered fission spacecraft...{\r}
+Dialogue: 0,0:20:40.15,0:20:42.68,Default,,0,0,0,,{\blur3}大约是光速的5%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 5% the speed of light.{\r}
+Dialogue: 0,0:20:43.86,0:20:46.11,Default,,0,0,0,,{\blur3}从地球到半人马座阿尔法星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Travel time from Earth to Alpha Centauri...{\r}
+Dialogue: 0,0:20:46.33,0:20:48.96,Default,,0,0,0,,{\blur3}大约需要90年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 90 years.{\r}
+Dialogue: 0,0:20:51.70,0:20:53.52,Default,,0,0,0,,{\blur3}若不是能量来源十分强大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Despite its powerful fuel source,{\r}
+Dialogue: 0,0:20:53.81,0:20:57.18,Default,,0,0,0,,{\blur3}裂变飞船比还太阳帆要慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the fission craft is actually slower than a solar sail.{\r}
+Dialogue: 0,0:20:58.52,0:21:00.02,Default,,0,0,0,,{\blur3}加快速度意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Boosting speed would mean{\r}
+Dialogue: 0,0:21:00.14,0:21:04.17,Default,,0,0,0,,{\blur3}它需要另种更剧烈的核反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}turning to another, more intense nuclear reaction.{\r}
+Dialogue: 0,0:21:05.73,0:21:07.75,Default,,0,0,0,,{\blur3}人们熟知核裂变技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fission technology is well known and understood.{\r}
+Dialogue: 0,0:21:07.88,0:21:10.75,Default,,0,0,0,,{\blur3}使用其制造能源已有几十年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we've been using it to generate power here on Earth for decades,{\r}
+Dialogue: 0,0:21:11.02,0:21:13.17,Default,,0,0,0,,{\blur3}但还存在另一种核技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there is another kind of nuclear technology,{\r}
+Dialogue: 0,0:21:13.17,0:21:15.04,Default,,0,0,0,,{\blur3}即核聚变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that is nuclear fusion.{\r}
+Dialogue: 0,0:21:19.89,0:21:22.22,Default,,0,0,0,,{\blur3}太阳的能量来自于核聚变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fusion is the power source of the Sun.{\r}
+Dialogue: 0,0:21:22.22,0:21:24.97,Default,,0,0,0,,{\blur3}太阳核心的温度非常高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the core of our Sun, the temperatures are so high,{\r}
+Dialogue: 0,0:21:25.52,0:21:28.83,Default,,0,0,0,,{\blur3}原子们的剧烈运动导致其互相撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}atoms are moving so fast that they slam into each other,{\r}
+Dialogue: 0,0:21:29.25,0:21:32.33,Default,,0,0,0,,{\blur3}产生新的元素并释放能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating new elements and liberating energy.{\r}
+Dialogue: 0,0:21:34.24,0:21:35.39,Default,,0,0,0,,{\blur3}与裂变相反{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The opposite of fission,{\r}
+Dialogue: 0,0:21:35.65,0:21:40.92,Default,,0,0,0,,{\blur3}当两个原子熔合成单个新超重原子时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}fusion energy is produced when two atomic nuclei fuse together{\r}
+Dialogue: 0,0:21:40.92,0:21:43.67,Default,,0,0,0,,{\blur3}就产生了聚变能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to form a single heavier nuclear.{\r}
+Dialogue: 0,0:21:44.12,0:21:48.11,Default,,0,0,0,,{\blur3}从而释放出巨大能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The result is a huge liberation of energy.{\r}
+Dialogue: 0,0:21:50.39,0:21:54.43,Default,,0,0,0,,{\blur3}十九世纪七十年代的"戴德拉斯工程"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A fusion-powered spacecraft was proposed in a 1970s study{\r}
+Dialogue: 0,0:21:54.81,0:21:57.53,Default,,0,0,0,,{\blur3}计划研究聚变能飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called "Project Daedelus."{\r}
+Dialogue: 0,0:21:57.67,0:22:00.67,Default,,0,0,0,,{\blur3}其任务是造访巴纳德星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's mission called for a trip to Barnard's star,{\r}
+Dialogue: 0,0:22:00.67,0:22:04.33,Default,,0,0,0,,{\blur3}距地球约5.9光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some 5.9 light years distant.{\r}
+Dialogue: 0,0:22:05.06,0:22:06.89,Default,,0,0,0,,{\blur3}与核弹不同的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead of nuclear bombs,{\r}
+Dialogue: 0,0:22:06.89,0:22:09.50,Default,,0,0,0,,{\blur3}核聚能太空船的推进力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the fusion-powered craft creates the propulsion{\r}
+Dialogue: 0,0:22:09.50,0:22:12.66,Default,,0,0,0,,{\blur3}源于一个反应箱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on board in a reaction chamber.{\r}
+Dialogue: 0,0:22:13.71,0:22:16.31,Default,,0,0,0,,{\blur3}戴德拉斯级太空船的燃料球芯块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The fuel pellets for the Daedelus class starship{\r}
+Dialogue: 0,0:22:16.31,0:22:20.50,Default,,0,0,0,,{\blur3}由氘-氦3的混合芯块组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}consisted of pellets composed of a deuterium-helium-3 mix.{\r}
+Dialogue: 0,0:22:20.50,0:22:24.61,Default,,0,0,0,,{\blur3}由相对论性电子束激发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These would have been ignited by what we call relativistic electron beams.{\r}
+Dialogue: 0,0:22:24.61,0:22:27.14,Default,,0,0,0,,{\blur3}这些含有极高能量的电子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are extremely high energy electrons{\r}
+Dialogue: 0,0:22:27.15,0:22:30.04,Default,,0,0,0,,{\blur3}击中氘-氦-3芯块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would have hit the deuterium-helium-3 pellets,{\r}
+Dialogue: 0,0:22:30.04,0:22:31.37,Default,,0,0,0,,{\blur3}致使它们融合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}caused them to fuse,{\r}
+Dialogue: 0,0:22:31.37,0:22:33.51,Default,,0,0,0,,{\blur3}并释放出大量能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a huge amount of energy would be released.{\r}
+Dialogue: 0,0:22:33.51,0:22:36.82,Default,,0,0,0,,{\blur3}戴德拉斯需要二百五十个这样的芯块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Daedelus design called for 250 of these pellets{\r}
+Dialogue: 0,0:22:36.83,0:22:40.58,Default,,0,0,0,,{\blur3}在超过两年的时段中不间断地释放能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to be released every second for over two years.{\r}
+Dialogue: 0,0:22:40.58,0:22:43.33,Default,,0,0,0,,{\blur3}太空船将重达五万五千吨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The spacecraft would have weighed 55,000 tons,{\r}
+Dialogue: 0,0:22:43.33,0:22:45.73,Default,,0,0,0,,{\blur3}其中绝大部分是燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most of which would have been fuel.{\r}
+Dialogue: 0,0:22:46.69,0:22:50.16,Default,,0,0,0,,{\blur3}这个重量对宇宙飞船来说未免太大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The weight penalty for such a spacecraft would be high{\r}
+Dialogue: 0,0:22:50.64,0:22:54.31,Default,,0,0,0,,{\blur3}但有一种先进技术能解决这个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but an advanced civilization could eliminate the problem{\r}
+Dialogue: 0,0:22:54.31,0:22:58.87,Default,,0,0,0,,{\blur3}即在星际旅行过程中开采氢燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by mining the hydrogen fuel during its interstellar journey.{\r}
+Dialogue: 0,0:23:00.27,0:23:02.65,Default,,0,0,0,,{\blur3}氘 或说重氢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Deuterium, or heavy hydrogen,{\r}
+Dialogue: 0,0:23:02.65,0:23:05.00,Default,,0,0,0,,{\blur3}在地球上储量丰富{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}exists in abundance on Earth,{\r}
+Dialogue: 0,0:23:05.01,0:23:06.72,Default,,0,0,0,,{\blur3}尤其是在海水中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}notably in seawater,{\r}
+Dialogue: 0,0:23:06.95,0:23:10.92,Default,,0,0,0,,{\blur3}但氦3则是更为罕见的同位素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but helium-3 is a much rarer isotope.{\r}
+Dialogue: 0,0:23:10.92,0:23:14.42,Default,,0,0,0,,{\blur3}它存在于太阳系的月球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our Solar System, it can be found on the Moon{\r}
+Dialogue: 0,0:23:14.67,0:23:19.63,Default,,0,0,0,,{\blur3}在木星和土星上的含量则极为丰富{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and in vast quantities on Jupiter and Saturn.{\r}
+Dialogue: 0,0:23:21.21,0:23:24.91,Default,,0,0,0,,{\blur3}科学家们提议在穿越物资匮乏的空间时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists have proposed using huge hydrogen scoops{\r}
+Dialogue: 0,0:23:24.92,0:23:29.55,Default,,0,0,0,,{\blur3}使用巨型集氢器来开采氦3{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to mine the helium-3 needed to cross the void of space.{\r}
+Dialogue: 0,0:23:31.08,0:23:32.19,Default,,0,0,0,,{\blur3}请试想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's conceivable{\r}
+Dialogue: 0,0:23:32.19,0:23:35.46,Default,,0,0,0,,{\blur3}如果你有一艘核聚能太空船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that if you had a craft that was powered by nuclear fusion,{\r}
+Dialogue: 0,0:23:35.46,0:23:37.49,Default,,0,0,0,,{\blur3}进入另一恒星系统时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you could go to another star system,{\r}
+Dialogue: 0,0:23:37.49,0:23:41.59,Default,,0,0,0,,{\blur3}可以利用那颗星球上的氢来补充燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then use the hydrogen available from that star to refuel.{\r}
+Dialogue: 0,0:23:42.74,0:23:46.57,Default,,0,0,0,,{\blur3}设备齐全的聚合能太空船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The self-contained fusion-powered spacecraft{\r}
+Dialogue: 0,0:23:46.57,0:23:48.83,Default,,0,0,0,,{\blur3}因而可以避免负载巨大的重量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could avoid a huge weight penalty{\r}
+Dialogue: 0,0:23:48.83,0:23:50.08,Default,,0,0,0,,{\blur3}并以一定速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and reach speeds{\r}
+Dialogue: 0,0:23:50.08,0:23:54.97,Default,,0,0,0,,{\blur3}在适当的时段内进行近恒星探测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could allow near-star exploration in a reasonable time frame.{\r}
+Dialogue: 0,0:23:56.17,0:23:59.63,Default,,0,0,0,,{\blur3}核聚能太空船的最大速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The max speed of a nuclear-powered fusion spacecraft...{\r}
+Dialogue: 0,0:24:00.21,0:24:03.55,Default,,0,0,0,,{\blur3}能达到光速的百分之十五{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}up to 15% of the speed of light.{\r}
+Dialogue: 0,0:24:03.83,0:24:06.41,Default,,0,0,0,,{\blur3}从地球到半人马座阿尔法星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Travel time from Earth to Alpha Centauri...{\r}
+Dialogue: 0,0:24:06.70,0:24:09.75,Default,,0,0,0,,{\blur3}约需三十五年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 35 years.{\r}
+Dialogue: 0,0:24:10.80,0:24:13.17,Default,,0,0,0,,{\blur3}核动力航天的巨额花费 所需物流支持{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The immense costs, the logistics,{\r}
+Dialogue: 0,0:24:13.17,0:24:16.66,Default,,0,0,0,,{\blur3}甚至国家政策在很久以前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even the politics of nuclear-powered spaceflight{\r}
+Dialogue: 0,0:24:16.66,0:24:21.40,Default,,0,0,0,,{\blur3}使得所有计划迟迟未能运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}long ago caused humanity to scrap any and all plans.{\r}
+Dialogue: 0,0:24:22.68,0:24:25.43,Default,,0,0,0,,{\blur3}但是一个足够先进的文明社会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But a sufficiently advanced society{\r}
+Dialogue: 0,0:24:25.43,0:24:27.34,Default,,0,0,0,,{\blur3}能够利用核动力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could trade nuclear propulsion{\r}
+Dialogue: 0,0:24:27.34,0:24:30.59,Default,,0,0,0,,{\blur3}达成那些看似不可能的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for what seems like an impossible paradox...{\r}
+Dialogue: 0,0:24:30.59,0:24:34.45,Default,,0,0,0,,{\blur3}以光速达到瞬间位移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Traveling at light speed without moving at all.{\r}
+Dialogue: 0,0:24:40.29,0:24:43.89,Default,,0,0,0,,{\blur3}UFO真能以高速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can UFOs actually achieve the immense speeds{\r}
+Dialogue: 0,0:24:43.89,0:24:46.45,Default,,0,0,0,,{\blur3}完成星际旅行吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}required for interstellar travel?{\r}
+Dialogue: 0,0:24:47.21,0:24:49.79,Default,,0,0,0,,{\blur3}答案也许就埋藏在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One potential answer may be buried{\r}
+Dialogue: 0,0:24:49.80,0:24:53.84,Default,,0,0,0,,{\blur3}美国核心地带的三十英尺之下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}30 feet beneath the ground in America's heartland...{\r}
+Dialogue: 0,0:24:54.03,0:24:56.48,Default,,0,0,0,,{\blur3}就在伊利诺斯州芝加哥郊外的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Fermilab Tevatron Collider{\r}
+Dialogue: 0,0:24:56.48,0:24:58.73,Default,,0,0,0,,{\blur3}费米实验室电子伏对撞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}outside Chicago, Illinois.{\r}
+Dialogue: 0,0:25:00.81,0:25:05.80,Default,,0,0,0,,{\blur3}稍慢于光速的质子和反质子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Racing just below the speed of light, particles of protons and antiproton{\r}
+Dialogue: 0,0:25:06.10,0:25:09.02,Default,,0,0,0,,{\blur3}分别由相反的方向发射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are launched in opposing directions.{\r}
+Dialogue: 0,0:25:09.03,0:25:12.32,Default,,0,0,0,,{\blur3}以高能对撞形式结合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They meet in a high energy collision.{\r}
+Dialogue: 0,0:25:14.95,0:25:17.34,Default,,0,0,0,,{\blur3}这种撞击产生的伽马射线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The impact produces gamma rays...{\r}
+Dialogue: 0,0:25:17.34,0:25:20.14,Default,,0,0,0,,{\blur3}是宇宙最强的能量源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the highest energy source known in the universe{\r}
+Dialogue: 0,0:25:20.14,0:25:24.71,Default,,0,0,0,,{\blur3}也是实现星际旅行的可能性关键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and potentially the key to interstellar travel.{\r}
+Dialogue: 0,0:25:25.18,0:25:29.64,Default,,0,0,0,,{\blur3}在地球上制造反物质的最佳方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The best way of making antimatter here on Earth{\r}
+Dialogue: 0,0:25:29.64,0:25:31.74,Default,,0,0,0,,{\blur3}就是采用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to employ probably{\r}
+Dialogue: 0,0:25:31.74,0:25:35.11,Default,,0,0,0,,{\blur3}爱因斯坦最为出名的方程式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the most famous equation that Einstein taught us,{\r}
+Dialogue: 0,0:25:35.11,0:25:37.07,Default,,0,0,0,,{\blur3}即质能方程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is E=mc2,{\r}
+Dialogue: 0,0:25:37.07,0:25:41.84,Default,,0,0,0,,{\blur3}说明一定的质量是可以产生能量的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which tells us that for a certain amount of matter, we can get energy.{\r}
+Dialogue: 0,0:25:42.29,0:25:45.58,Default,,0,0,0,,{\blur3}这个理论因其实际影响重大而意义非凡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a great idea because it's incredibly efficient.{\r}
+Dialogue: 0,0:25:45.88,0:25:50.80,Default,,0,0,0,,{\blur3}可以把粒子中所有的质量转化成能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You essentially take all of the mass in those particles and convert it into energy.{\r}
+Dialogue: 0,0:25:51.76,0:25:54.72,Default,,0,0,0,,{\blur3}但如果反物质必须由人为产生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how can antimatter exist in the universe{\r}
+Dialogue: 0,0:25:54.72,0:25:57.90,Default,,0,0,0,,{\blur3}它怎么会存在于宇宙中呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if it must be artificially manufactured?{\r}
+Dialogue: 0,0:25:58.48,0:26:03.06,Default,,0,0,0,,{\blur3}这是来自费城的史蒂芬·H{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the question that Stefan H. from Philadelphia{\r}
+Dialogue: 0,0:26:03.06,0:26:05.17,Default,,0,0,0,,{\blur3}向宇宙提出的质疑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}texted the Universe.{\r}
+Dialogue: 0,0:26:07.27,0:26:09.19,Default,,0,0,0,,{\blur3}史蒂芬 反物质是一定存在的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stefan, antimatter definitely exists,{\r}
+Dialogue: 0,0:26:09.19,0:26:11.35,Default,,0,0,0,,{\blur3}当它接触普通物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and when it meets up with normal matter,{\r}
+Dialogue: 0,0:26:11.35,0:26:14.60,Default,,0,0,0,,{\blur3}爆发出强大的电磁辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it explodes in a burst of electromagnetic radiation.{\r}
+Dialogue: 0,0:26:14.60,0:26:18.13,Default,,0,0,0,,{\blur3}我们可以在实验室制造少量反物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, we can make small bits of antimatter in laboratories,{\r}
+Dialogue: 0,0:26:18.13,0:26:21.76,Default,,0,0,0,,{\blur3}但也可以从太空中收集{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we can also collect antimatter from space.{\r}
+Dialogue: 0,0:26:21.76,0:26:24.55,Default,,0,0,0,,{\blur3}某些带电的宇宙光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some cosmic rays, which are charged,{\r}
+Dialogue: 0,0:26:24.55,0:26:27.34,Default,,0,0,0,,{\blur3}来自太空的高能粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}very energetic particles coming from space,{\r}
+Dialogue: 0,0:26:27.34,0:26:29.83,Default,,0,0,0,,{\blur3}的确是由反物质组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually consist of antimatter.{\r}
+Dialogue: 0,0:26:32.17,0:26:34.60,Default,,0,0,0,,{\blur3}目前 超级对撞机是唯一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Currently, the super-collider is the only{\r}
+Dialogue: 0,0:26:34.60,0:26:37.47,Default,,0,0,0,,{\blur3}在实际中生产反物质的方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}practical way to produce antimatter.{\r}
+Dialogue: 0,0:26:38.80,0:26:43.32,Default,,0,0,0,,{\blur3}而如今它的数量有限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And right now it's created in very small quantities.{\r}
+Dialogue: 0,0:26:43.35,0:26:44.66,Default,,0,0,0,,{\blur3}如果我们能找到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we could figure out a way{\r}
+Dialogue: 0,0:26:44.67,0:26:48.01,Default,,0,0,0,,{\blur3}生产和储存大量反物质的方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to both create and store enough antimatter,{\r}
+Dialogue: 0,0:26:48.01,0:26:50.21,Default,,0,0,0,,{\blur3}我们将拥有一种可储存的燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we would have a storable fuel which,{\r}
+Dialogue: 0,0:26:50.21,0:26:52.81,Default,,0,0,0,,{\blur3}当它和普通物质混合时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when mixed with ordinary matter,{\r}
+Dialogue: 0,0:26:52.81,0:26:54.64,Default,,0,0,0,,{\blur3}将释放出巨大能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would liberate a huge amount of energy{\r}
+Dialogue: 0,0:26:54.64,0:26:59.34,Default,,0,0,0,,{\blur3}比核裂变或是核聚合更有效{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at a rate way beyond what either fission or fusion can do.{\r}
+Dialogue: 0,0:27:01.48,0:27:04.17,Default,,0,0,0,,{\blur3}因为反物质是存在于世的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because we know antimatter exists{\r}
+Dialogue: 0,0:27:04.18,0:27:07.78,Default,,0,0,0,,{\blur3}我们可以生产并将其储存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we know antimatter can be created and stored,{\r}
+Dialogue: 0,0:27:07.78,0:27:11.67,Default,,0,0,0,,{\blur3}也许某种先进文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it is conceivable that an advanced civilization{\r}
+Dialogue: 0,0:27:11.67,0:27:14.93,Default,,0,0,0,,{\blur3}可以生产并利用反物质能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could create and harness the power of antimatter{\r}
+Dialogue: 0,0:27:14.93,0:27:18.53,Default,,0,0,0,,{\blur3}用其制造一枚反物质火箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in sufficient quantities to create an antimatter rocket.{\r}
+Dialogue: 0,0:27:20.17,0:27:24.58,Default,,0,0,0,,{\blur3}一艘反物质飞船可以达到不可思议的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An antimatter ship could achieve unbelievable velocities,{\r}
+Dialogue: 0,0:27:24.58,0:27:27.29,Default,,0,0,0,,{\blur3}仅次于光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cruising just below light speed,{\r}
+Dialogue: 0,0:27:27.29,0:27:31.63,Default,,0,0,0,,{\blur3}与穿过银河系的粒子束速度不相上下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nearly matching the speed of a star beam streaking across the galaxy.{\r}
+Dialogue: 0,0:27:33.38,0:27:36.03,Default,,0,0,0,,{\blur3}从地球到半人马座阿尔法星的行程时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Travel time from Earth to Alpha Centauri{\r}
+Dialogue: 0,0:27:36.03,0:27:38.10,Default,,0,0,0,,{\blur3}即通过4.5光年的路程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}4 1/2 light years distant...{\r}
+Dialogue: 0,0:27:38.71,0:27:40.05,Default,,0,0,0,,{\blur3}大约需要5年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 5 years.{\r}
+Dialogue: 0,0:27:42.39,0:27:43.68,Default,,0,0,0,,{\blur3}人类无法想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In human terms,{\r}
+Dialogue: 0,0:27:43.70,0:27:46.65,Default,,0,0,0,,{\blur3}生产足够的反物质微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the cost of creating enough antimatter particles{\r}
+Dialogue: 0,0:27:46.65,0:27:50.25,Default,,0,0,0,,{\blur3}来运作这样一艘星际飞船所需经费{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to power such a starship would be astronomical.{\r}
+Dialogue: 0,0:27:52.43,0:27:54.67,Default,,0,0,0,,{\blur3}也许外星人财力雄厚 足以承担{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It might be affordable in alien currency,{\r}
+Dialogue: 0,0:27:54.67,0:27:59.65,Default,,0,0,0,,{\blur3}但制造一艘反物质太空船所需代价太大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but an antimatter spacecraft like this comes at a high price.{\r}
+Dialogue: 0,0:28:00.65,0:28:04.65,Default,,0,0,0,,{\blur3}来自于反物质动力的伽马射线危害极大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gamma rays from antimatter propulsion are so dangerous,{\r}
+Dialogue: 0,0:28:04.65,0:28:09.13,Default,,0,0,0,,{\blur3}它们会摧毁飞船上所有生物细胞结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they could destroy the cell structure of any living beings aboard ship.{\r}
+Dialogue: 0,0:28:09.60,0:28:13.75,Default,,0,0,0,,{\blur3}星际飞船上必须有一个先进的防护装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This starship would have to include an advanced shielding mechanism{\r}
+Dialogue: 0,0:28:13.75,0:28:16.61,Default,,0,0,0,,{\blur3}以保障船员的生命安全{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to keep the crew alive.{\r}
+Dialogue: 0,0:28:17.29,0:28:19.74,Default,,0,0,0,,{\blur3}其行驶速度飞快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And at such high rates of speed,{\r}
+Dialogue: 0,0:28:19.74,0:28:23.47,Default,,0,0,0,,{\blur3}对宇宙有一定破坏作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are equally destructive threats in the universe.{\r}
+Dialogue: 0,0:28:25.82,0:28:27.51,Default,,0,0,0,,{\blur3}宇宙空间浩瀚无边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space is pretty empty,{\r}
+Dialogue: 0,0:28:27.51,0:28:29.65,Default,,0,0,0,,{\blur3}但如果以近光速行驶于其中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but if you were moving close to the speed of light,{\r}
+Dialogue: 0,0:28:29.65,0:28:32.30,Default,,0,0,0,,{\blur3}就需要一个极佳的防护系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you'd need an extremely effective shielding system{\r}
+Dialogue: 0,0:28:32.30,0:28:35.61,Default,,0,0,0,,{\blur3}免其遭受星际尘粒的破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would allow you to be protected from interstellar dust particles{\r}
+Dialogue: 0,0:28:35.61,0:28:39.33,Default,,0,0,0,,{\blur3}它们几乎可以摧毁一艘光速行驶的太空船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would all but annihilate a spacecraft traveling that fast.{\r}
+Dialogue: 0,0:28:41.54,0:28:44.28,Default,,0,0,0,,{\blur3}但是如果太空垃圾如此危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if space debris is so dangerous,{\r}
+Dialogue: 0,0:28:44.28,0:28:46.75,Default,,0,0,0,,{\blur3}何不避而远之呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}why not avoid it completely?{\r}
+Dialogue: 0,0:28:47.32,0:28:51.59,Default,,0,0,0,,{\blur3}解决方案和星际迷航粉丝的想法有些类似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The solution might be one familiar to Star Trek fans,{\r}
+Dialogue: 0,0:28:51.59,0:28:53.51,Default,,0,0,0,,{\blur3}即星际飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}namely a starship that{\r}
+Dialogue: 0,0:28:53.51,0:28:57.10,Default,,0,0,0,,{\blur3}以光速达成瞬间位移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could achieve light speed without even moving.{\r}
+Dialogue: 0,0:28:58.24,0:29:00.94,Default,,0,0,0,,{\blur3}实际上可以制造一种曲速泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In effect, one would create what is called a "Warp bubble"...{\r}
+Dialogue: 0,0:29:00.94,0:29:03.09,Default,,0,0,0,,{\blur3}这名字源于科幻小说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the name taken straight out of science fiction...{\r}
+Dialogue: 0,0:29:03.09,0:29:07.81,Default,,0,0,0,,{\blur3}就是当一艘太空船稳坐于这个扁平泡内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that would involve compressing a region of space-time in front of a spacecraft{\r}
+Dialogue: 0,0:29:07.82,0:29:11.82,Default,,0,0,0,,{\blur3}将太空船前某一范围内的时空压缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and expanding a region of space-time behind a spacecraft{\r}
+Dialogue: 0,0:29:11.82,0:29:16.82,Default,,0,0,0,,{\blur3}并扩大其后某范围内的时空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while the spacecraft itself sat stationary inside this flat bubble.{\r}
+Dialogue: 0,0:29:16.87,0:29:21.05,Default,,0,0,0,,{\blur3}如此就能有效地驾驭时空波浪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So one would effectively be riding a wave of space-time.{\r}
+Dialogue: 0,0:29:23.52,0:29:27.54,Default,,0,0,0,,{\blur3}曲速引擎就像一种纯粹理想化的实验状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A warp drive may seem like pure Sci-Fi fantasy...{\r}
+Dialogue: 0,0:29:28.21,0:29:32.12,Default,,0,0,0,,{\blur3}但在1994年 一位广受尊重的年轻物理学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in 1994, a well-respected young physicist{\r}
+Dialogue: 0,0:29:32.12,0:29:34.22,Default,,0,0,0,,{\blur3}米给尔·阿库别瑞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}named Miguel Alcubierre{\r}
+Dialogue: 0,0:29:34.22,0:29:36.88,Default,,0,0,0,,{\blur3}发表了一份重大提议概述{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}published a serious proposal outlining{\r}
+Dialogue: 0,0:29:36.89,0:29:40.21,Default,,0,0,0,,{\blur3}如何在受控的空间扭曲穿梭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how to travel in a controllable space warp.{\r}
+Dialogue: 0,0:29:44.56,0:29:49.07,Default,,0,0,0,,{\blur3}阿库别瑞的曲速引擎还存在许多难题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are huge obstacles to Alcubierre's warp-drive solution.{\r}
+Dialogue: 0,0:29:49.07,0:29:52.66,Default,,0,0,0,,{\blur3}最大的障碍便是"暗能量"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The biggest is called "Dark energy"...{\r}
+Dialogue: 0,0:29:54.00,0:29:57.22,Default,,0,0,0,,{\blur3}有三位科学家在2011年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A cosmic phenomenon recognized in 2011{\r}
+Dialogue: 0,0:29:57.22,0:30:00.17,Default,,0,0,0,,{\blur3}发现并证明了这一宇宙现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when three scientists were awarded the Nobel prize{\r}
+Dialogue: 0,0:30:00.17,0:30:02.51,Default,,0,0,0,,{\blur3}并因此获得诺贝尔奖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for proving its existence.{\r}
+Dialogue: 0,0:30:04.83,0:30:06.99,Default,,0,0,0,,{\blur3}关于暗能量现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The simplest explanation that's been proposed{\r}
+Dialogue: 0,0:30:06.99,0:30:09.56,Default,,0,0,0,,{\blur3}最简单的解释就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the phenomenon of dark energy is that{\r}
+Dialogue: 0,0:30:09.56,0:30:13.88,Default,,0,0,0,,{\blur3}空间自身的固有特性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's an intrinsic property of space itself{\r}
+Dialogue: 0,0:30:13.88,0:30:16.94,Default,,0,0,0,,{\blur3}令其趋向扩张膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that makes it want to expand.{\r}
+Dialogue: 0,0:30:16.94,0:30:21.62,Default,,0,0,0,,{\blur3}通过观察宇宙已逝去的时空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can actually see it by looking at receding parts of the universe{\r}
+Dialogue: 0,0:30:21.62,0:30:24.98,Default,,0,0,0,,{\blur3}以及额外的加速度便可知晓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and seeing that there's this extra acceleration component,{\r}
+Dialogue: 0,0:30:24.98,0:30:27.57,Default,,0,0,0,,{\blur3}但又不像太阳能或其他能源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it isn't a stored energy source{\r}
+Dialogue: 0,0:30:27.57,0:30:30.71,Default,,0,0,0,,{\blur3}它并非可储存能源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like solar energy or other kinds of energy.{\r}
+Dialogue: 0,0:30:32.05,0:30:33.91,Default,,0,0,0,,{\blur3}所以它也不是那么匪夷所思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so it's not inconceivable...{\r}
+Dialogue: 0,0:30:33.91,0:30:36.40,Default,,0,0,0,,{\blur3}宇宙某个角落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's not beyond the realms of possibility{\r}
+Dialogue: 0,0:30:36.40,0:30:38.18,Default,,0,0,0,,{\blur3}应该存在某种先进文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that some advanced civilization{\r}
+Dialogue: 0,0:30:38.18,0:30:40.87,Default,,0,0,0,,{\blur3}已然将暗能量技术谙熟于心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}existing somewhere in the universe has learned{\r}
+Dialogue: 0,0:30:40.87,0:30:45.57,Default,,0,0,0,,{\blur3}并利用其制造另种形式的动力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how to harness dark energy to create an exotic form of propulsion.{\r}
+Dialogue: 0,0:30:46.14,0:30:50.43,Default,,0,0,0,,{\blur3}但实际上 曲速引擎还存在另一个障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's another obstacle to a workable warp drive.{\r}
+Dialogue: 0,0:30:50.81,0:30:54.93,Default,,0,0,0,,{\blur3}利用扭曲将太空船往前推动的唯一办法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The only known way to pull a spacecraft forward within a warp{\r}
+Dialogue: 0,0:30:54.93,0:30:59.47,Default,,0,0,0,,{\blur3}需要利用黑洞的剧烈能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}requires harnessing the intense energy of a black hole.{\r}
+Dialogue: 0,0:31:00.91,0:31:03.38,Default,,0,0,0,,{\blur3}简单来说就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The sort of simple notion is somehow{\r}
+Dialogue: 0,0:31:03.38,0:31:06.14,Default,,0,0,0,,{\blur3}用某种方法制造一种高浓缩物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make a very concentrated bit of matter,{\r}
+Dialogue: 0,0:31:06.14,0:31:10.21,Default,,0,0,0,,{\blur3}极度浓缩至可以产生黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}extremely concentrated, on the level which would cause a black hole.{\r}
+Dialogue: 0,0:31:10.21,0:31:14.71,Default,,0,0,0,,{\blur3}如果能制造出一个小型黑洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you could generate a black hole on a small scale, so to speak,{\r}
+Dialogue: 0,0:31:14.71,0:31:17.03,Default,,0,0,0,,{\blur3}让它悬浮在飞船前方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you could dangle it in front of the ship{\r}
+Dialogue: 0,0:31:17.03,0:31:21.15,Default,,0,0,0,,{\blur3}利用它的空间扭曲拖动飞船缓缓前行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and use its space distortion to sort of drag the ship along.{\r}
+Dialogue: 0,0:31:21.57,0:31:24.62,Default,,0,0,0,,{\blur3}由曲速引擎推动的外星飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And exactly how fast could a warp drive tow{\r}
+Dialogue: 0,0:31:24.62,0:31:26.97,Default,,0,0,0,,{\blur3}到底有多快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an extraterrestrial spacecraft?{\r}
+Dialogue: 0,0:31:28.61,0:31:33.29,Default,,0,0,0,,{\blur3}阿库别瑞在文中明显提出了以下观点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The clear implication of Alcubierre's work was that it should be possible,{\r}
+Dialogue: 0,0:31:33.29,0:31:36.24,Default,,0,0,0,,{\blur3}如果你能设计出曲速引擎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you can make this design of a warp drive,{\r}
+Dialogue: 0,0:31:37.14,0:31:41.81,Default,,0,0,0,,{\blur3}其速度就能达到光速的任意倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to achieve speeds almost any multiple of the speed of light.{\r}
+Dialogue: 0,0:31:42.90,0:31:45.71,Default,,0,0,0,,{\blur3}一艘由空间扭曲驱动的光速飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Travel time from Earth to Alpha Centauri{\r}
+Dialogue: 0,0:31:45.71,0:31:48.88,Default,,0,0,0,,{\blur3}从地球到半人马座阿尔法星的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}aboard a light speed craft powered by a space warp...{\r}
+Dialogue: 0,0:31:49.50,0:31:51.16,Default,,0,0,0,,{\blur3}约四年半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 4 1/2 years...{\r}
+Dialogue: 0,0:31:51.74,0:31:56.49,Default,,0,0,0,,{\blur3}只要能保障船内人员安全 时间可以更短{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or less, as long as everyone on board doesn't incinerate.{\r}
+Dialogue: 0,0:31:58.22,0:32:02.27,Default,,0,0,0,,{\blur3}阿库别瑞的引擎存在一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One problem with the Alcubierre drive is within that warp bubble,{\r}
+Dialogue: 0,0:32:02.27,0:32:05.93,Default,,0,0,0,,{\blur3}曲速泡中的温度远比太阳内核要高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}temperatures would rise to far hotter than the core of our Sun.{\r}
+Dialogue: 0,0:32:05.95,0:32:07.19,Default,,0,0,0,,{\blur3}非常热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's hot.{\r}
+Dialogue: 0,0:32:09.80,0:32:15.28,Default,,0,0,0,,{\blur3}到达地球之前还有一个小问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just one more small problem to solve for the chance to reach planet Earth.{\r}
+Dialogue: 0,0:32:16.21,0:32:20.67,Default,,0,0,0,,{\blur3}如果一艘将要抵达地球大气层的外星飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what if such an alien spacecraft were to arrive in earth's atmosphere,{\r}
+Dialogue: 0,0:32:20.67,0:32:22.27,Default,,0,0,0,,{\blur3}在曲速泡中行驶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}riding in a warp bubble,{\r}
+Dialogue: 0,0:32:22.27,0:32:24.15,Default,,0,0,0,,{\blur3}被黑洞拖着呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}towed by a black hole?{\r}
+Dialogue: 0,0:32:24.15,0:32:27.50,Default,,0,0,0,,{\blur3}即使这并非拥有众多目击证人的首例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It might not be the first mass-witness UFO sighting,{\r}
+Dialogue: 0,0:32:27.51,0:32:31.11,Default,,0,0,0,,{\blur3}但一定会是最后一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it would certainly be the last.{\r}
+Dialogue: 0,0:32:35.81,0:32:38.62,Default,,0,0,0,,{\blur3}1997年3月13日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}March 13, 1997...{\r}
+Dialogue: 0,0:32:39.37,0:32:42.17,Default,,0,0,0,,{\blur3}成千上万人目睹了一次光学现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}thousands of people witness an optical phenomenon{\r}
+Dialogue: 0,0:32:42.17,0:32:45.28,Default,,0,0,0,,{\blur3}漂浮在亚利桑那州的上空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}drifting across the Arizona skies.{\r}
+Dialogue: 0,0:32:47.00,0:32:51.55,Default,,0,0,0,,{\blur3}有关几何形亮点的消息传得沸沸扬扬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Reports of a series of bright lights in geometric patterns are widespread,{\r}
+Dialogue: 0,0:32:51.85,0:32:54.40,Default,,0,0,0,,{\blur3}包括多人目睹一艘身长1.6公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including multiple sightings over Phoenix{\r}
+Dialogue: 0,0:32:54.76,0:32:57.82,Default,,0,0,0,,{\blur3}并伴有规律性灯光闪烁的太空船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of a craft up to a mile wide with lights{\r}
+Dialogue: 0,0:32:57.83,0:33:00.24,Default,,0,0,0,,{\blur3}出现在凤凰城上空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}winking on and off in sequence.{\r}
+Dialogue: 0,0:33:01.75,0:33:03.64,Default,,0,0,0,,{\blur3}重现当晚的景象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Reconstructing the events of that evening,{\r}
+Dialogue: 0,0:33:03.86,0:33:06.88,Default,,0,0,0,,{\blur3}那次凤凰城的闪烁灯光就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the lights of the phoenix lights were almost certainly{\r}
+Dialogue: 0,0:33:07.25,0:33:10.43,Default,,0,0,0,,{\blur3}空军战机A-10抛出的信号弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}flares dropped by an air force A-10 aircraft,{\r}
+Dialogue: 0,0:33:10.89,0:33:15.81,Default,,0,0,0,,{\blur3}加之人类会将其联想为一个实体外形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in conjunction with the human tendency to envision a solid shape connecting them.{\r}
+Dialogue: 0,0:33:17.02,0:33:19.74,Default,,0,0,0,,{\blur3}这才是凤凰城灯光事件的最好解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the best explanation for the Phoenix lights.{\r}
+Dialogue: 0,0:33:21.82,0:33:24.61,Default,,0,0,0,,{\blur3}对很多人来说 凤凰城灯光事件正是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For many, the Phoenix lights incident was{\r}
+Dialogue: 0,0:33:24.74,0:33:28.63,Default,,0,0,0,,{\blur3}巨型宇宙飞船曾造访此地的直接佐证{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}direct proof that a huge extraterrestrial craft had arrived.{\r}
+Dialogue: 0,0:33:29.50,0:33:32.38,Default,,0,0,0,,{\blur3}有人甚至将其称为母舰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some even called it a mother ship.{\r}
+Dialogue: 0,0:33:34.00,0:33:36.30,Default,,0,0,0,,{\blur3}母舰存在的目的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The purpose of an extraterrestrial mother ship{\r}
+Dialogue: 0,0:33:36.78,0:33:40.12,Default,,0,0,0,,{\blur3}是外星人造访理论的基础{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is fundamental to the theories of alien visitation.{\r}
+Dialogue: 0,0:33:41.15,0:33:45.80,Default,,0,0,0,,{\blur3}这是穿越星际空间中遥远距离的唯一方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the only way to bridge the vast distances of interstellar space.{\r}
+Dialogue: 0,0:33:47.83,0:33:49.11,Default,,0,0,0,,{\blur3}"母舰"这一说法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The term "Mother ship," I think,{\r}
+Dialogue: 0,0:33:49.11,0:33:54.29,Default,,0,0,0,,{\blur3}和"飞碟"这个词是在同一时期出现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}came into being around the same time that "Flying saucers" as a term came into being.{\r}
+Dialogue: 0,0:33:54.30,0:33:56.91,Default,,0,0,0,,{\blur3}大众普遍认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And I think the universal notion{\r}
+Dialogue: 0,0:33:56.91,0:34:01.46,Default,,0,0,0,,{\blur3}仅能容下一人的航空器无法完成星际旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was you couldn't make an interstellar trip in a person-sized craft.{\r}
+Dialogue: 0,0:34:01.60,0:34:03.01,Default,,0,0,0,,{\blur3}一定得是巨型飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have to have something really large.{\r}
+Dialogue: 0,0:34:04.50,0:34:09.13,Default,,0,0,0,,{\blur3}母舰就如地球上的航空母舰一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An apt earthly analogy of a mother ship is that of an aircraft carrier.{\r}
+Dialogue: 0,0:34:09.25,0:34:12.65,Default,,0,0,0,,{\blur3}航空母舰穿梭于大洋之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An aircraft carrier travels the vast distances across the oceans,{\r}
+Dialogue: 0,0:34:12.91,0:34:16.25,Default,,0,0,0,,{\blur3}其目的则是运载小型战机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but its purpose is to transport smaller aircraft which{\r}
+Dialogue: 0,0:34:16.35,0:34:19.50,Default,,0,0,0,,{\blur3}这样它们便可执行任务等等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can then go on and engage in whatever their missions may be.{\r}
+Dialogue: 0,0:34:20.51,0:34:25.14,Default,,0,0,0,,{\blur3}如果需要成百上千年才能抵达地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the journey to Earth is long, on the order of centuries or even millennia,{\r}
+Dialogue: 0,0:34:26.02,0:34:30.58,Default,,0,0,0,,{\blur3}母舰会比航空母舰有更多的功能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mother ship would be much more than just an aircraft carrier.{\r}
+Dialogue: 0,0:34:31.96,0:34:34.64,Default,,0,0,0,,{\blur3}这是一艘"方舟"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's the generational or "Ark ship,"{\r}
+Dialogue: 0,0:34:34.64,0:34:38.29,Default,,0,0,0,,{\blur3}它是一艘拥有独立生态系统的巨型飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Which is a very large spacecraft that is essentially an enclosed ecosystem,{\r}
+Dialogue: 0,0:34:38.74,0:34:43.84,Default,,0,0,0,,{\blur3}居民会在船舱内生老病死{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in which generations of inhabitants expect to be born, grow old, and die{\r}
+Dialogue: 0,0:34:43.84,0:34:48.55,Default,,0,0,0,,{\blur3}直至很长时间后抵达最终目的地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over the long period it takes the spacecraft to reach its ultimate destination.{\r}
+Dialogue: 0,0:34:49.73,0:34:52.83,Default,,0,0,0,,{\blur3}利用"假死"技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Perhaps with technology, such as suspended animation,{\r}
+Dialogue: 0,0:34:53.49,0:34:56.71,Default,,0,0,0,,{\blur3}外星乘客会进入睡眠状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}biological alien passengers could be put to sleep{\r}
+Dialogue: 0,0:34:57.13,0:35:00.07,Default,,0,0,0,,{\blur3}直到长途旅行结束时再苏醒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and revived after the vast journey.{\r}
+Dialogue: 0,0:35:02.07,0:35:04.18,Default,,0,0,0,,{\blur3}若要在这一航行中幸存下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Surviving such a journey would also mean{\r}
+Dialogue: 0,0:35:04.44,0:35:09.45,Default,,0,0,0,,{\blur3}就要能承受住推动飞船航行的破坏性能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}surviving the destructive energy powering the spacecraft itself.{\r}
+Dialogue: 0,0:35:11.65,0:35:13.47,Default,,0,0,0,,{\blur3}其中一种合理的设计{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One logical design solution,{\r}
+Dialogue: 0,0:35:13.69,0:35:15.45,Default,,0,0,0,,{\blur3}是雪茄形的母舰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a cigar-shaped mother ship,{\r}
+Dialogue: 0,0:35:15.69,0:35:19.69,Default,,0,0,0,,{\blur3}正是众多不明飞行物目击者声称所看到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is precisely what many UFO witnesses claim to have seen.{\r}
+Dialogue: 0,0:35:22.37,0:35:23.96,Default,,0,0,0,,{\blur3}对任何一种先进动力系统来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For any advanced propulsion system,{\r}
+Dialogue: 0,0:35:23.96,0:35:27.27,Default,,0,0,0,,{\blur3}都会尽可能让船员远离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would want to situate the crew as far away as possible{\r}
+Dialogue: 0,0:35:27.77,0:35:29.44,Default,,0,0,0,,{\blur3}引擎动力源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the engine source.{\r}
+Dialogue: 0,0:35:29.55,0:35:33.00,Default,,0,0,0,,{\blur3}所以飞船都是极细长的设计{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So one possible design would be a very long, thin design,{\r}
+Dialogue: 0,0:35:33.00,0:35:36.00,Default,,0,0,0,,{\blur3}引擎置于在飞船尾端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the engine located at one end of the spacecraft{\r}
+Dialogue: 0,0:35:36.04,0:35:39.14,Default,,0,0,0,,{\blur3}其间用某种框架将船员区尽可能地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then some kind of truss connecting the crew section{\r}
+Dialogue: 0,0:35:39.14,0:35:40.54,Default,,0,0,0,,{\blur3}与这种先进动力装置隔开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as far away as possible{\r}
+Dialogue: 0,0:35:40.54,0:35:43.74,Default,,0,0,0,,{\blur3}以避免高能中子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so as to avoid damage from high-energy neutrons,{\r}
+Dialogue: 0,0:35:43.94,0:35:47.07,Default,,0,0,0,,{\blur3}X射线以及伽玛射线对人体的损害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}x-rays, or gamma rays from the advanced propulsion system.{\r}
+Dialogue: 0,0:35:48.84,0:35:51.91,Default,,0,0,0,,{\blur3}倘若此种方舟曾抵达地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If such ark ships have in fact visited planet earth,{\r}
+Dialogue: 0,0:35:52.86,0:35:56.15,Default,,0,0,0,,{\blur3}它们所留下的痕迹则是无法磨灭的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the evidence would be overwhelming and undeniable.{\r}
+Dialogue: 0,0:35:58.23,0:36:01.89,Default,,0,0,0,,{\blur3}所有外星先进的推进技术有一个共同点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Something all these exotic and advanced propulsion technologies have in common{\r}
+Dialogue: 0,0:36:02.03,0:36:05.34,Default,,0,0,0,,{\blur3}即它们都能辐射出巨大能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that they all radiate prodigious amounts of energy,{\r}
+Dialogue: 0,0:36:05.42,0:36:07.13,Default,,0,0,0,,{\blur3}因此就算隔了几光年的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so we'd be able to see them,{\r}
+Dialogue: 0,0:36:07.43,0:36:08.86,Default,,0,0,0,,{\blur3}我们也能观测到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like beacons on a lighthouse,{\r}
+Dialogue: 0,0:36:08.86,0:36:11.17,Default,,0,0,0,,{\blur3}就像灯塔上的信号灯一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from sometimes light years away.{\r}
+Dialogue: 0,0:36:12.23,0:36:14.52,Default,,0,0,0,,{\blur3}X射线束 伽玛射线束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The concentrated emission of x-rays, gamma rays,{\r}
+Dialogue: 0,0:36:14.52,0:36:16.82,Default,,0,0,0,,{\blur3}甚至次原子微粒团都是可疑现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or subatomic particles would be suspicious,{\r}
+Dialogue: 0,0:36:17.01,0:36:20.47,Default,,0,0,0,,{\blur3}因为这些都不是地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'cause we don't see that in our environment locally{\r}
+Dialogue: 0,0:36:20.92,0:36:23.10,Default,,0,0,0,,{\blur3}所常见的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}under any normal circumstances.{\r}
+Dialogue: 0,0:36:24.19,0:36:26.11,Default,,0,0,0,,{\blur3}除去肉眼所能见到的迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Beyond the obvious visual evidence,{\r}
+Dialogue: 0,0:36:26.68,0:36:28.37,Default,,0,0,0,,{\blur3}一艘母舰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the physical effect of a mother ship{\r}
+Dialogue: 0,0:36:28.70,0:36:30.70,Default,,0,0,0,,{\blur3}靠近地球表面所产生的物理效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}approaching so close to the Earth's surface{\r}
+Dialogue: 0,0:36:31.21,0:36:34.50,Default,,0,0,0,,{\blur3}能导致一场大灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be a terrifying form of apocalypse.{\r}
+Dialogue: 0,0:36:37.37,0:36:38.76,Default,,0,0,0,,{\blur3}若出于某种原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If, for whatever reason,{\r}
+Dialogue: 0,0:36:38.76,0:36:43.41,Default,,0,0,0,,{\blur3}该外星文明没有关闭引擎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this extraterrestrial technology or civilization chose not to turn off their engines,{\r}
+Dialogue: 0,0:36:43.41,0:36:45.73,Default,,0,0,0,,{\blur3}地球生物则会经历一场浩劫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it could be catastrophic for life on Earth,{\r}
+Dialogue: 0,0:36:45.73,0:36:50.58,Default,,0,0,0,,{\blur3}受到高能中子 X射线以及伽玛射线的荼毒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as we would be bathed in high-energy neutrons, x-rays, and gamma rays.{\r}
+Dialogue: 0,0:36:51.81,0:36:54.40,Default,,0,0,0,,{\blur3}若是某种"曲速飞行"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it's something which is a version of a warp drive,{\r}
+Dialogue: 0,0:36:54.55,0:36:57.08,Default,,0,0,0,,{\blur3}那么就会产生空间畸变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then you're talking about space distortion, and{\r}
+Dialogue: 0,0:36:57.30,0:37:01.83,Default,,0,0,0,,{\blur3}就不能接近大质量的物体 包括星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you wouldn't want to be too close to any major mass, including the planet.{\r}
+Dialogue: 0,0:37:04.16,0:37:06.75,Default,,0,0,0,,{\blur3}这种劫难访问说认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Such catastrophic visitations assume that{\r}
+Dialogue: 0,0:37:06.75,0:37:11.89,Default,,0,0,0,,{\blur3}外星人甘愿舍身于外太空只为造访地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}aliens are willing to risk their own lives in interstellar space...{\r}
+Dialogue: 0,0:37:12.60,0:37:15.24,Default,,0,0,0,,{\blur3}但是或许还有更好的方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there might be a better way...{\r}
+Dialogue: 0,0:37:19.49,0:37:21.55,Default,,0,0,0,,{\blur3}他们可以待在自己的星球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They could stay at home...{\r}
+Dialogue: 0,0:37:22.60,0:37:27.60,Default,,0,0,0,,{\blur3}利用智能机器人来探索宇宙奥秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and explore the cosmos using a race of thinking machines.{\r}
+Dialogue: 0,0:37:33.84,0:37:37.02,Default,,0,0,0,,{\blur3}对于不明飞行物的众多狂热爱好者来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For many ardent believers in the UFO phenomenon,{\r}
+Dialogue: 0,0:37:37.14,0:37:40.67,Default,,0,0,0,,{\blur3}1947年夏 美国新墨西哥州罗斯威尔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Roswell, New Mexico, event in the summer of 1947{\r}
+Dialogue: 0,0:37:41.31,0:37:44.90,Default,,0,0,0,,{\blur3}是人类史上首次接触外星人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the defining alien encounter in human history.{\r}
+Dialogue: 0,0:37:46.96,0:37:51.30,Default,,0,0,0,,{\blur3}民间传闻中 有关这次坠毁事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In popular culture, the most lasting detail from the purported crash{\r}
+Dialogue: 0,0:37:51.61,0:37:56.96,Default,,0,0,0,,{\blur3}最持久不衰的是发现了外星尸体的消息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}came from the descriptions of extraterrestrial bodies found at the scene.{\r}
+Dialogue: 0,0:37:58.98,0:38:03.86,Default,,0,0,0,,{\blur3}随后几十年里 这种想象中的"灰种人"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the ensuing decades, this vision of alien beings, known as "The grays,"{\r}
+Dialogue: 0,0:38:04.66,0:38:07.81,Default,,0,0,0,,{\blur3}常出现在科幻小说中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Became the accepted standard in science fiction{\r}
+Dialogue: 0,0:38:08.51,0:38:10.95,Default,,0,0,0,,{\blur3}或是外星人事件报道里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and recurring alien-encounter reports.{\r}
+Dialogue: 0,0:38:13.32,0:38:15.39,Default,,0,0,0,,{\blur3}硕大的头部也许解释了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The oversized heads may explain{\r}
+Dialogue: 0,0:38:15.64,0:38:20.84,Default,,0,0,0,,{\blur3}我们所预料的外星人特征 即它们智商过人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an expected feature in alien biology... Greater intelligence.{\r}
+Dialogue: 0,0:38:20.97,0:38:24.46,Default,,0,0,0,,{\blur3}与人类相比 头骨越大脑容量越大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The larger skulls would contain larger, more advanced brains{\r}
+Dialogue: 0,0:38:24.83,0:38:25.95,Default,,0,0,0,,{\blur3}大脑更发达{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}compared to ours.{\r}
+Dialogue: 0,0:38:27.61,0:38:30.84,Default,,0,0,0,,{\blur3}在星际航行中要解决棘手问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mastering the profound challenges of interstellar travel{\r}
+Dialogue: 0,0:38:31.33,0:38:34.08,Default,,0,0,0,,{\blur3}固然需要更加智能的物种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would certainly require great intelligence,{\r}
+Dialogue: 0,0:38:34.08,0:38:39.41,Default,,0,0,0,,{\blur3}但它还需要超出有机生物系统的元素吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but might it require something that is beyond organic biology?{\r}
+Dialogue: 0,0:38:40.74,0:38:43.99,Default,,0,0,0,,{\blur3}科幻小说中包含的误重大误区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One area of science fiction where we might be making kind of a big mistake{\r}
+Dialogue: 0,0:38:44.15,0:38:49.19,Default,,0,0,0,,{\blur3}即我们将外星人臆想成某种生物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to assume that the aliens are biological, that they're living things.{\r}
+Dialogue: 0,0:38:50.36,0:38:55.41,Default,,0,0,0,,{\blur3}我认为 有很多种有机体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think that the possibilities for the kinds of organisms{\r}
+Dialogue: 0,0:38:55.47,0:38:58.94,Default,,0,0,0,,{\blur3}可以进行星际航行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which might travel between the stars are really wide open.{\r}
+Dialogue: 0,0:38:59.07,0:39:01.64,Default,,0,0,0,,{\blur3}可能在科幻小说中所提及的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And one possibility that has appeared on occasion in{\r}
+Dialogue: 0,0:39:01.75,0:39:04.49,Default,,0,0,0,,{\blur3}实际上是指智能机器人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}science fiction is machine intelligence.{\r}
+Dialogue: 0,0:39:05.58,0:39:09.22,Default,,0,0,0,,{\blur3}根据近期出现的方程 即摩尔定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to a recent earthly equation known as Moore's Law,{\r}
+Dialogue: 0,0:39:09.69,0:39:12.89,Default,,0,0,0,,{\blur3}单机芯片上的晶体管数量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the number of transistors on a single computer chip{\r}
+Dialogue: 0,0:39:13.05,0:39:15.06,Default,,0,0,0,,{\blur3}每18个月增加一倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}doubles every 18 months,{\r}
+Dialogue: 0,0:39:15.38,0:39:18.98,Default,,0,0,0,,{\blur3}意味着计算机处理速率也会快一倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}meaning computer processing speed doubles.{\r}
+Dialogue: 0,0:39:19.46,0:39:22.89,Default,,0,0,0,,{\blur3}这种趋势已持续了半个世纪以上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This trend has continued for more than half a century and{\r}
+Dialogue: 0,0:39:22.91,0:39:26.92,Default,,0,0,0,,{\blur3}至少要延至2020年以后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is expected to continue through 2020 or later.{\r}
+Dialogue: 0,0:39:28.58,0:39:31.38,Default,,0,0,0,,{\blur3}处理速率的爆炸式增长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The exponential explosion of processing speed{\r}
+Dialogue: 0,0:39:31.54,0:39:34.55,Default,,0,0,0,,{\blur3}为以"人工智能"为题材的科幻小说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is opening the door on a staple of science fiction{\r}
+Dialogue: 0,0:39:34.55,0:39:36.75,Default,,0,0,0,,{\blur3}开启了一道大门{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called "Artificial Intelligence."{\r}
+Dialogue: 0,0:39:39.09,0:39:42.23,Default,,0,0,0,,{\blur3}如果你发明了一台智能机器 一百年之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, if you invent a thinking machine, 100 years later,{\r}
+Dialogue: 0,0:39:42.58,0:39:44.69,Default,,0,0,0,,{\blur3}它不止是比你要聪明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that machine is not only smarter than you are,{\r}
+Dialogue: 0,0:39:44.72,0:39:46.78,Default,,0,0,0,,{\blur3}它还比此前任何人都要聪明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's smarter than all humans that have ever lived.{\r}
+Dialogue: 0,0:39:47.15,0:39:48.10,Default,,0,0,0,,{\blur3}这就是人工智能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's the difference{\r}
+Dialogue: 0,0:39:48.21,0:39:50.91,Default,,0,0,0,,{\blur3}与真正人的智力之间的差别{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between artificial intelligence and real intelligence.{\r}
+Dialogue: 0,0:39:51.14,0:39:54.18,Default,,0,0,0,,{\blur3}人工智能能够飞速进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Artificial intelligence can evolve enormously faster.{\r}
+Dialogue: 0,0:39:55.51,0:40:00.08,Default,,0,0,0,,{\blur3}但最令我们担心又期待的在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But I think the form of AI that we find most both menacing and promising{\r}
+Dialogue: 0,0:40:00.14,0:40:03.82,Default,,0,0,0,,{\blur3}人工智能既能够像人脑般运作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the kind of AI that could in fact do what our brains can do,{\r}
+Dialogue: 0,0:40:04.06,0:40:05.89,Default,,0,0,0,,{\blur3}又具备人类的思维{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can think the way we can think.{\r}
+Dialogue: 0,0:40:07.66,0:40:11.45,Default,,0,0,0,,{\blur3}在斯坦福大学的人工智能实验室中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At Stanford university's artificial intelligence laboratory,{\r}
+Dialogue: 0,0:40:11.78,0:40:16.06,Default,,0,0,0,,{\blur3}智能机器的发展趋势就是这种倾向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the future of truly intelligent machines is rapidly approaching.{\r}
+Dialogue: 0,0:40:17.91,0:40:20.12,Default,,0,0,0,,{\blur3}以下难点使得人工智能变得十分棘手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are a few things that make AI difficult.{\r}
+Dialogue: 0,0:40:20.23,0:40:24.03,Default,,0,0,0,,{\blur3}即我们不知如何去改进计算机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One is we don't really know yet how to make computers learn as{\r}
+Dialogue: 0,0:40:24.07,0:40:25.59,Default,,0,0,0,,{\blur3}让它的学习效率变得和人类一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}effectively as humans can.{\r}
+Dialogue: 0,0:40:25.97,0:40:29.14,Default,,0,0,0,,{\blur3}似乎现代计算机运行速度受限仅仅是因为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It seems that our computers today just aren't as fast as we{\r}
+Dialogue: 0,0:40:29.16,0:40:32.10,Default,,0,0,0,,{\blur3}人类不愿让它们模仿其认知过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would like them to get to simulate the learning processes{\r}
+Dialogue: 0,0:40:32.17,0:40:34.18,Default,,0,0,0,,{\blur3}进而取代人脑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that take place in the human brain.{\r}
+Dialogue: 0,0:40:37.26,0:40:40.23,Default,,0,0,0,,{\blur3}斯坦福的学生设计了一台击打型机器臂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To demonstrate early-stage artificial intelligence,{\r}
+Dialogue: 0,0:40:40.37,0:40:43.73,Default,,0,0,0,,{\blur3}来演示人工智能研究的初期成效{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stanford students designed a fighting robot...{\r}
+Dialogue: 0,0:40:44.14,0:40:47.23,Default,,0,0,0,,{\blur3}是一台在击打中学习的智能机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One that attempts to learn as it fights.{\r}
+Dialogue: 0,0:40:48.50,0:40:51.25,Default,,0,0,0,,{\blur3}它现在在做的是 自我防守{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, so what it's doing now... It's trying to defend itself,{\r}
+Dialogue: 0,0:40:51.36,0:40:53.25,Default,,0,0,0,,{\blur3}它会随着您的动作作出反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it's reacting to your motion.{\r}
+Dialogue: 0,0:40:53.72,0:40:56.30,Default,,0,0,0,,{\blur3}即这个机器人会根据您手中剑的走向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, depending on how you move your sword,{\r}
+Dialogue: 0,0:40:56.32,0:40:59.78,Default,,0,0,0,,{\blur3}对您的动作行为作出反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the robot will adapt to your motion and to your behavior.{\r}
+Dialogue: 0,0:41:00.71,0:41:04.05,Default,,0,0,0,,{\blur3}研发此类机器人对于真正人工智能的意义{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How important a step on the road to true artificial intelligence{\r}
+Dialogue: 0,0:41:04.48,0:41:06.72,Default,,0,0,0,,{\blur3}有多深远呢 托尔斯滕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are robots like this, Torsten?{\r}
+Dialogue: 0,0:41:06.97,0:41:11.19,Default,,0,0,0,,{\blur3}我们在这里运用的人工智能方案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So here we are using artificial-intelligence methods,{\r}
+Dialogue: 0,0:41:11.31,0:41:14.61,Default,,0,0,0,,{\blur3}比如认知方案 是让机器人适应其周围环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like learning methods, to adapt to the environment of the robot,{\r}
+Dialogue: 0,0:41:14.74,0:41:19.63,Default,,0,0,0,,{\blur3}但我们对机器人的真实想法无从了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we are still not at a stage where the robot is really thinking.{\r}
+Dialogue: 0,0:41:20.90,0:41:24.20,Default,,0,0,0,,{\blur3}现代计算机的智能依旧不及普通人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Today's computers are still far less intelligent than almost any human.{\r}
+Dialogue: 0,0:41:24.36,0:41:28.87,Default,,0,0,0,,{\blur3}但着眼于未来 我相信计算机最终{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in the future, I think computers could eventually{\r}
+Dialogue: 0,0:41:28.98,0:41:31.57,Default,,0,0,0,,{\blur3}能达到甚至超越人类智力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reach, and maybe even surpass, human intelligence.{\r}
+Dialogue: 0,0:41:31.96,0:41:35.62,Default,,0,0,0,,{\blur3}倘若真到了这一步 设想每人的钱包里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if that's the case, imagine that each of us has a computer{\r}
+Dialogue: 0,0:41:35.63,0:41:37.28,Default,,0,0,0,,{\blur3}都有台电脑 在手机或钱包里都可以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our wallet... a cell phone or wallet...{\r}
+Dialogue: 0,0:41:37.56,0:41:40.53,Default,,0,0,0,,{\blur3}智力能与爱因斯坦相抗衡 甚至超越他{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That was as smart as Einstein or even smarter.{\r}
+Dialogue: 0,0:41:40.67,0:41:42.00,Default,,0,0,0,,{\blur3}整个文明将会怎样变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How will civilization change,{\r}
+Dialogue: 0,0:41:42.03,0:41:43.85,Default,,0,0,0,,{\blur3}那时的人类又会做出怎样的创举呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what are the amazing things we could do then?{\r}
+Dialogue: 0,0:41:45.52,0:41:48.48,Default,,0,0,0,,{\blur3}这种击打型机器人引领世界尖端科技{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Advanced as it is on Earth, the fencing robot is{\r}
+Dialogue: 0,0:41:48.59,0:41:52.04,Default,,0,0,0,,{\blur3}它是能够适用于星际航空器中的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but a crude analogy for the type of machine intelligence that{\r}
+Dialogue: 0,0:41:52.14,0:41:54.70,Default,,0,0,0,,{\blur3}人工智能机的简单模拟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could pilot an interstellar spacecraft.{\r}
+Dialogue: 0,0:41:58.54,0:42:00.77,Default,,0,0,0,,{\blur3}智能机的革新将首次接触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The immense obstacles of space travel,{\r}
+Dialogue: 0,0:42:01.40,0:42:04.54,Default,,0,0,0,,{\blur3}星际航行中的大问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including the sheer time scale and cosmic hazards,{\r}
+Dialogue: 0,0:42:05.19,0:42:10.48,Default,,0,0,0,,{\blur3}包括时标偏离及宇宙无尽凶险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}build a strong case that a race of intelligent machines will make first contact.{\r}
+Dialogue: 0,0:42:12.56,0:42:14.85,Default,,0,0,0,,{\blur3}但话说回来 倘若真的存在星际航行一说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But honestly, if interstellar travel really takes place,{\r}
+Dialogue: 0,0:42:14.98,0:42:19.50,Default,,0,0,0,,{\blur3}送出非生物体才是明智之举{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it seems sort of reasonable to not send the biological beings.{\r}
+Dialogue: 0,0:42:19.70,0:42:21.95,Default,,0,0,0,,{\blur3}因为生物体的生命力有限 经不起这样的折腾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, they're fragile. They have finite lifetimes.{\r}
+Dialogue: 0,0:42:23.75,0:42:26.63,Default,,0,0,0,,{\blur3}在美国宇航局领先于人类探索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just as NASA sends robotic probes to explore the Solar{\r}
+Dialogue: 0,0:42:26.65,0:42:28.75,Default,,0,0,0,,{\blur3}将勘探机器人送去探测太阳系之际{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}System in advance of human explorers,{\r}
+Dialogue: 0,0:42:28.75,0:42:31.04,Default,,0,0,0,,{\blur3}兴许我们会通过外星来的勘探机器人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our first contact with an alien civilization{\r}
+Dialogue: 0,0:42:31.04,0:42:33.34,Default,,0,0,0,,{\blur3}与异星文明发生首次碰触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may be with its robotic probes.{\r}
+Dialogue: 0,0:42:34.39,0:42:37.21,Default,,0,0,0,,{\blur3}它究竟是生物体还是人工智能体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Biologic being or AI super being?{\r}
+Dialogue: 0,0:42:38.22,0:42:41.18,Default,,0,0,0,,{\blur3}我们的憧憬在与其首次接触前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our vision of an extraterrestrial will remain{\r}
+Dialogue: 0,0:42:41.31,0:42:44.77,Default,,0,0,0,,{\blur3}都属于纯粹的臆测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mere speculation until first contact is made.{\r}
+Dialogue: 0,0:42:46.53,0:42:48.20,Default,,0,0,0,,{\blur3}但我们要等多久呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how long will we wait?{\r}
+Dialogue: 0,0:42:48.89,0:42:50.86,Default,,0,0,0,,{\blur3}撇开缺失确凿证据不说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And despite a lack of hard evidence,{\r}
+Dialogue: 0,0:42:50.95,0:42:52.53,Default,,0,0,0,,{\blur3}异域智慧文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just how likely is the{\r}
+Dialogue: 0,0:42:52.53,0:42:55.48,Default,,0,0,0,,{\blur3}存在的可能性有多大呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}existence of another intelligent civilization?{\r}
+Dialogue: 0,0:42:57.95,0:42:59.71,Default,,0,0,0,,{\blur3}有人确信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some believe it is highly likely{\r}
+Dialogue: 0,0:42:59.71,0:43:02.20,Default,,0,0,0,,{\blur3}宇宙每个角落都有生物存在的迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the universe teems with life.{\r}
+Dialogue: 0,0:43:05.09,0:43:07.37,Default,,0,0,0,,{\blur3}银河星系存在了很长时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The galaxy has been around for a long time.{\r}
+Dialogue: 0,0:43:07.78,0:43:09.90,Default,,0,0,0,,{\blur3}太阳系虽是悠久{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Solar System's been around for quite a long time,{\r}
+Dialogue: 0,0:43:09.99,0:43:11.67,Default,,0,0,0,,{\blur3}但也不及它的历史久远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the galaxy much longer.{\r}
+Dialogue: 0,0:43:11.86,0:43:13.30,Default,,0,0,0,,{\blur3}银河系中的星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the stars in it...{\r}
+Dialogue: 0,0:43:13.40,0:43:17.07,Default,,0,0,0,,{\blur3}有许多比太阳和太阳系都要古老{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many of them are much older than the Sun and our Solar System.{\r}
+Dialogue: 0,0:43:17.19,0:43:19.75,Default,,0,0,0,,{\blur3}所以 如果存在异星文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the chances are, if civilizations are out there,{\r}
+Dialogue: 0,0:43:20.29,0:43:22.27,Default,,0,0,0,,{\blur3}它们应该比人类文明要源远流长得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they've been around for longer than we have.{\r}
+Dialogue: 0,0:43:22.48,0:43:24.82,Default,,0,0,0,,{\blur3}倘若真的存在 就说有十万年了吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If they exist, say, for 100,000 years,{\r}
+Dialogue: 0,0:43:24.82,0:43:26.75,Default,,0,0,0,,{\blur3}这种异域文明间的碰触几率就非常大了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the chances are pretty good, I think,{\r}
+Dialogue: 0,0:43:26.80,0:43:29.08,Default,,0,0,0,,{\blur3}它们应该掌握了 能在宇宙间交流的方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they will have learned to either communicate{\r}
+Dialogue: 0,0:43:29.14,0:43:31.58,Default,,0,0,0,,{\blur3}甚至是星际航行技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}across interstellar space or possibly travel.{\r}
+Dialogue: 0,0:43:33.66,0:43:35.83,Default,,0,0,0,,{\blur3}而在首次接触之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Until first contact occurs,{\r}
+Dialogue: 0,0:43:36.03,0:43:39.98,Default,,0,0,0,,{\blur3}人类只能继续仰望星空搜寻不明飞行物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}humanity will continue to scan the skies for UFOs.{\r}
+Dialogue: 0,0:43:41.02,0:43:44.42,Default,,0,0,0,,{\blur3}目前依然无从证明外星飞船的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}None have been proven to be extraterrestrial craft so far,{\r}
+Dialogue: 0,0:43:45.03,0:43:48.70,Default,,0,0,0,,{\blur3}但这并不是否认人类总有一天会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that does not rule out the possibility that humanity may{\r}
+Dialogue: 0,0:43:48.80,0:43:52.34,Default,,0,0,0,,{\blur3}发现智慧文明存在的痕迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one day discover evidence of an intelligent civilization,{\r}
+Dialogue: 0,0:43:53.05,0:43:55.26,Default,,0,0,0,,{\blur3}无论是远在天边，{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}either in the far from the heavens,{\r}
+Dialogue: 0,0:43:55.37,0:43:57.74,Default,,0,0,0,,{\blur3}还是近在眼前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or much closer to home.{\r}

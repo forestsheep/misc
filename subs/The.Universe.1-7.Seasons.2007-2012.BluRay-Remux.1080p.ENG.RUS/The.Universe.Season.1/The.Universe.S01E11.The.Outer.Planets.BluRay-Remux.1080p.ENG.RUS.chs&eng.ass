@@ -1,0 +1,797 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.54,0:00:05.18,*Default,NTP,0000,0000,0000,,玄黄端现 太极混沌如鸡蛋 随着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning There was darkness, And then
+Dialogue: 0,0:00:05.32,0:00:06.05,*Default,NTP,0000,0000,0000,,轰的一声 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}BANG!
+Dialogue: 0,0:00:06.08,0:00:11.72,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的时间 空间和物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Giving birth to an endless Expanding existence Of time, space, and matter.
+Dialogue: 0,0:00:11.75,0:00:14.15,*Default,NTP,0000,0000,0000,,现在所见超乎我们的想象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, see further Than we've ever imagined
+Dialogue: 0,0:00:14.19,0:00:16.12,*Default,NTP,0000,0000,0000,,超越了客观认知极限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Beyond the limits of our existence
+Dialogue: 0,0:00:16.16,0:00:20.96,*Default,NTP,0000,0000,0000,,那地方我们称之为"宇宙" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a place we call "The Universe."
+Dialogue: 0,0:00:22.00,0:00:24.73,*Default,NTP,0000,0000,0000,,在太阳系的偏远角落 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the distant corners Of our solar system
+Dialogue: 0,0:00:24.77,0:00:29.60,*Default,NTP,0000,0000,0000,,冰星体天王星和海王星都是动乱的世界 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ice giants, Uranus, and Neptune Are violent worlds.
+Dialogue: 0,0:00:29.64,0:00:31.64,*Default,NTP,0000,0000,0000,,烟雾缭绕的世界 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Blanketed with smoky hazes
+Dialogue: 0,0:00:31.67,0:00:34.77,*Default,NTP,0000,0000,0000,,这些外行星非常混乱 动荡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These outer planets Are frenzied, turbulent
+Dialogue: 0,0:00:34.81,0:00:37.21,*Default,NTP,0000,0000,0000,,不可预知 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And unpredictable.
+Dialogue: 0,0:00:37.75,0:00:41.61,*Default,NTP,0000,0000,0000,,在太阳系中海王星拥有最快的风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune claims the fastest winds In our solar system.
+Dialogue: 0,0:00:41.65,0:00:42.75,*Default,NTP,0000,0000,0000,,如同幻影 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like an apparition
+Dialogue: 0,0:00:42.78,0:00:47.79,*Default,NTP,0000,0000,0000,,它的巨大黑斑来无影去无踪 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its great dark spot Surfaces and vanishes Without warning.
+Dialogue: 0,0:00:49.02,0:00:50.89,*Default,NTP,0000,0000,0000,,天王星内部的卫星群 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus' inner swarm of moons
+Dialogue: 0,0:00:50.93,0:00:54.26,*Default,NTP,0000,0000,0000,,围绕天王星旋转时间不到一天 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dash around the planet In less than a day
+Dialogue: 0,0:00:54.29,0:00:57.77,*Default,NTP,0000,0000,0000,,撞击不可避免 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And collisions are unavoidable.
+Dialogue: 0,0:00:59.80,0:01:02.60,*Default,NTP,0000,0000,0000,,这些远空行星最具争议的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most controversial Of the far off planets
+Dialogue: 0,0:01:02.64,0:01:05.37,*Default,NTP,0000,0000,0000,,它们不再属于行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Isn't even a planet anymore.
+Dialogue: 0,0:01:05.41,0:01:08.78,*Default,NTP,0000,0000,0000,,为何冥王星不再属于行星了呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So why was Pluto demoted?
+Dialogue: 0,0:01:08.81,0:01:12.31,*Default,NTP,0000,0000,0000,,就是这个人在行星之列中抹去了冥王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The man who killed Pluto Makes his case
+Dialogue: 0,0:01:12.35,0:01:17.05,*Default,NTP,0000,0000,0000,,随我们一起来探索外行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we explore the outer planets.
+Dialogue: 0,0:01:18.00,0:01:23.00,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:23.00,0:01:28.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}历史频道·宇宙第一季第11集 外行星\N影片压制:暮云春树  字幕来源：射手网 调校：TIAN@CMCT 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:28.76,0:01:31.93,*Default,NTP,0000,0000,0000,,来会见这个抹杀冥王星的人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Meet the man who killed Pluto.
+Dialogue: 0,0:01:37.60,0:01:41.18,*Default,NTP,0000,0000,0000,,很久以来冥王星就拥有行星称号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto had it coming For a long time.
+Dialogue: 0,0:01:45.11,0:01:46.98,*Default,NTP,0000,0000,0000,,加州理工学院天文学家麦克·布朗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Caltech astronomer, Mike Brown
+Dialogue: 0,0:01:47.01,0:01:49.72,*Default,NTP,0000,0000,0000,,通过调动一连串事件 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Set in motion a chain of events That reduced
+Dialogue: 0,0:01:49.75,0:01:53.32,*Default,NTP,0000,0000,0000,,把我们太阳系中长久以来认可的行星数目\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The long established number Of planets in our solar system,
+Dialogue: 0,0:01:53.35,0:01:56.22,*Default,NTP,0000,0000,0000,,从9颗减少到8颗 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From nine to just eight.
+Dialogue: 0,0:01:56.26,0:01:58.99,*Default,NTP,0000,0000,0000,,但他对此并不感到后悔 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet, he feels no remorse.
+Dialogue: 0,0:01:58.99,0:02:01.68,*Default,NTP,0000,0000,0000,,九大行星中冥王星是唯一的一颗的冰球体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was no way That Pluto could survive the its status
+Dialogue: 0,0:02:01.71,0:02:04.43,*Default,NTP,0000,0000,0000,,所以它身份与其他很不一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the single Lonely ice ball
+Dialogue: 0,0:02:04.47,0:02:10.51,*Default,NTP,0000,0000,0000,,它会出列 一定会退出行星之列 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it was--It was gonna fall, And it certainly fell.
+Dialogue: 0,0:02:14.64,0:02:16.01,*Default,NTP,0000,0000,0000,,在我们的行星之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Among our planets,
+Dialogue: 0,0:02:16.04,0:02:19.65,*Default,NTP,0000,0000,0000,,冥王星一直都比较特别 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto was long considered To be a bit different,
+Dialogue: 0,0:02:19.68,0:02:21.48,*Default,NTP,0000,0000,0000,,比其他的行星小很多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Much smaller than the rest.
+Dialogue: 0,0:02:21.52,0:02:25.55,*Default,NTP,0000,0000,0000,,按自身大小比例算来 它却已有最大的卫星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It has the largest moon In proportion to its own size.
+Dialogue: 0,0:02:27.39,0:02:31.39,*Default,NTP,0000,0000,0000,,它的公转轨道也是最倾斜和最椭圆 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It also has the most inclined And eccentric orbit.
+Dialogue: 0,0:02:33.99,0:02:37.30,*Default,NTP,0000,0000,0000,,它的轨道形状有点像鸡蛋 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its orbit Is sort of shaped like an egg.
+Dialogue: 0,0:02:37.33,0:02:40.63,*Default,NTP,0000,0000,0000,,它的轨道有的地方靠太阳很近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto's orbit causes it to get Significantly closer to the sun
+Dialogue: 0,0:02:40.67,0:02:42.84,*Default,NTP,0000,0000,0000,,有的地方离太阳又很远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then further away From the sun.
+Dialogue: 0,0:02:43.44,0:02:45.57,*Default,NTP,0000,0000,0000,,浩瀚宇宙中的这个小星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This cosmic needle In a haystack
+Dialogue: 0,0:02:45.61,0:02:48.71,*Default,NTP,0000,0000,0000,,躲避天文学家的搜捕已有好几十年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eluded planet hunters For decades.
+Dialogue: 0,0:02:49.94,0:02:54.11,*Default,NTP,0000,0000,0000,,第八颗行星海王星发现于1846 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The eighth planet, Neptune, Had been discovered in 1846,
+Dialogue: 0,0:02:54.15,0:02:57.22,*Default,NTP,0000,0000,0000,,在19世纪末期 天文学家相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And astronomers at the turn Of the century were convinced
+Dialogue: 0,0:02:57.25,0:02:58.62,*Default,NTP,0000,0000,0000,,还有第九颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was a ninth planet
+Dialogue: 0,0:02:58.65,0:03:02.42,*Default,NTP,0000,0000,0000,,在太阳系的远处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the far reaches Of our solar system.
+Dialogue: 0,0:03:06.79,0:03:09.83,*Default,NTP,0000,0000,0000,,帕西瓦尔·罗威尔启动了搜寻冥王星计划 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The search for pluto Was started by Percival Lowell
+Dialogue: 0,0:03:09.86,0:03:12.07,*Default,NTP,0000,0000,0000,,在罗威尔天文台 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At Lowell Observatory.
+Dialogue: 0,0:03:12.10,0:03:13.80,*Default,NTP,0000,0000,0000,,他认为那里有个X行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He thought there was A planet x there
+Dialogue: 0,0:03:13.83,0:03:18.00,*Default,NTP,0000,0000,0000,,因为X行星扰乱了天王星和海王星的轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was perturbing the orbits Of Uranus and Neptune.
+Dialogue: 0,0:03:18.01,0:03:20.24,*Default,NTP,0000,0000,0000,,在找到X行星之前 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Before finding The elusive planet,
+Dialogue: 0,0:03:20.27,0:03:22.98,*Default,NTP,0000,0000,0000,,罗威尔就辞世了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lowell passed away.
+Dialogue: 0,0:03:23.01,0:03:26.45,*Default,NTP,0000,0000,0000,,但是天文台的研究助手克莱德·汤博\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the observatory's Research assistant, Clyde Tombaugh
+Dialogue: 0,0:03:26.48,0:03:28.72,*Default,NTP,0000,0000,0000,,继续了他的搜寻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Continued his quest.
+Dialogue: 0,0:03:29.75,0:03:32.82,*Default,NTP,0000,0000,0000,,在1930年他24岁那年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1930 at the age of 24,
+Dialogue: 0,0:03:32.85,0:03:35.62,*Default,NTP,0000,0000,0000,,汤博捕捉到一个星球的图像 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tombaugh captured an image Of an object
+Dialogue: 0,0:03:35.66,0:03:39.69,*Default,NTP,0000,0000,0000,,似乎验证了罗威尔的预言 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That seemed to validate Lowell's predictions.
+Dialogue: 0,0:03:39.73,0:03:42.06,*Default,NTP,0000,0000,0000,,他向全世界宣布了这个发现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The discovery Was announced to the world
+Dialogue: 0,0:03:42.10,0:03:46.97,*Default,NTP,0000,0000,0000,,这个星球被正式取名为"冥王星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the object Was given an official name-- "Pluto."
+Dialogue: 0,0:03:47.00,0:03:50.57,*Default,NTP,0000,0000,0000,,但它是不是X行星呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But was Pluto planet x?
+Dialogue: 0,0:03:50.60,0:03:54.07,*Default,NTP,0000,0000,0000,,一些科学家认为冥王星太小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists argued That Pluto was far too small
+Dialogue: 0,0:03:54.11,0:03:56.28,*Default,NTP,0000,0000,0000,,质量不够大 不能明显地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And didn't have enough mass To significantly
+Dialogue: 0,0:03:56.31,0:03:59.25,*Default,NTP,0000,0000,0000,,扰乱它附近行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perturb the orbits Of its neighboring gas giants,
+Dialogue: 0,0:03:59.28,0:04:01.95,*Default,NTP,0000,0000,0000,,天王星和海王星的轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus and Neptune.
+Dialogue: 0,0:04:01.98,0:04:03.65,*Default,NTP,0000,0000,0000,,后来天文学家意识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers have since realized
+Dialogue: 0,0:04:03.68,0:04:06.75,*Default,NTP,0000,0000,0000,,根本没有X行星存在 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That there is no such planet x.
+Dialogue: 0,0:04:06.79,0:04:07.72,*Default,NTP,0000,0000,0000,,X行星的预测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It had been predicted
+Dialogue: 0,0:04:07.75,0:04:11.79,*Default,NTP,0000,0000,0000,,错误的估计了海王星的质量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Using inaccurate estimates Of Neptune's mass.
+Dialogue: 0,0:04:14.23,0:04:16.63,*Default,NTP,0000,0000,0000,,即使冥王星不是X行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even though Pluto Wasn't planet x,
+Dialogue: 0,0:04:16.66,0:04:20.33,*Default,NTP,0000,0000,0000,,它是否有资格列为行星之列呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could it still be classified As a planet?
+Dialogue: 0,0:04:21.77,0:04:25.10,*Default,NTP,0000,0000,0000,,起初"行星"这个词只代表"天上运转的星体" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first term for planet Just meant "wanderer In the sky."
+Dialogue: 0,0:04:25.14,0:04:27.84,*Default,NTP,0000,0000,0000,,行星只是与恒星相对的运动的星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was the things that moved Relative to the stars.
+Dialogue: 0,0:04:27.87,0:04:29.51,*Default,NTP,0000,0000,0000,,所以对古希腊人来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, to the ancient greeks,
+Dialogue: 0,0:04:29.54,0:04:30.48,*Default,NTP,0000,0000,0000,,月亮是行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon was a planet,
+Dialogue: 0,0:04:30.51,0:04:31.61,*Default,NTP,0000,0000,0000,,太阳是行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun was a planet,
+Dialogue: 0,0:04:31.65,0:04:33.92,*Default,NTP,0000,0000,0000,,地球不是行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth was not.
+Dialogue: 0,0:04:35.85,0:04:37.88,*Default,NTP,0000,0000,0000,,当然现在我们知道地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course, When we realized that the Earth
+Dialogue: 0,0:04:37.92,0:04:40.35,*Default,NTP,0000,0000,0000,,实际是绕着太阳运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is actually going around the Sun
+Dialogue: 0,0:04:41.89,0:04:43.82,*Default,NTP,0000,0000,0000,,月亮绕着地球运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that the Moon Is going around the Earth,
+Dialogue: 0,0:04:43.86,0:04:46.03,*Default,NTP,0000,0000,0000,,行星的定义开始改变 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The definition of planet Changed again.
+Dialogue: 0,0:04:46.06,0:04:47.73,*Default,NTP,0000,0000,0000,,地球成了行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth became a planet.
+Dialogue: 0,0:04:47.76,0:04:49.40,*Default,NTP,0000,0000,0000,,而太阳和月亮就不算行星了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun and the Moon Were taken away
+Dialogue: 0,0:04:49.43,0:04:51.16,*Default,NTP,0000,0000,0000,,当时还有6颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there were Finally six.
+Dialogue: 0,0:04:51.20,0:04:54.03,*Default,NTP,0000,0000,0000,,后来发现了天王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And over time, Uranus was discovered.
+Dialogue: 0,0:04:54.07,0:04:55.57,*Default,NTP,0000,0000,0000,,发现了海王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune was discovered,
+Dialogue: 0,0:04:55.60,0:04:59.37,*Default,NTP,0000,0000,0000,,所以行星就有了7颗 8颗 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there were--there were seven, There were eight.
+Dialogue: 0,0:04:59.81,0:05:03.04,*Default,NTP,0000,0000,0000,,尽管冥王星后来被证明比月球要小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although it later proved To be smaller than our Moon,
+Dialogue: 0,0:05:03.08,0:05:06.65,*Default,NTP,0000,0000,0000,,但原以为冥王星与火星一般大小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto was originally thought To be as large as Mars.
+Dialogue: 0,0:05:07.18,0:05:09.95,*Default,NTP,0000,0000,0000,,于是汤博发现的冥王星被认定为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So tombaugh's discovery Was anointed
+Dialogue: 0,0:05:09.98,0:05:12.12,*Default,NTP,0000,0000,0000,,第九颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As planet number nine.
+Dialogue: 0,0:05:12.15,0:05:13.69,*Default,NTP,0000,0000,0000,,当时没有人仔细想过冥王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No one really thought Much else about it.
+Dialogue: 0,0:05:13.72,0:05:15.25,*Default,NTP,0000,0000,0000,,它是个陌生的物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a strange object.
+Dialogue: 0,0:05:15.26,0:05:16.66,*Default,NTP,0000,0000,0000,,它有点古怪孤僻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was sort Of this lonely oddball
+Dialogue: 0,0:05:16.69,0:05:18.96,*Default,NTP,0000,0000,0000,,位于太阳系的边缘地带 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the edge of the solar system,
+Dialogue: 0,0:05:18.99,0:05:22.70,*Default,NTP,0000,0000,0000,,没有其他的叫法 所以就把它叫做行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But nothing else to call it So it was called a planet.
+Dialogue: 0,0:05:28.30,0:05:31.14,*Default,NTP,0000,0000,0000,,由于它远离太阳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because of its great distance From the Sun,
+Dialogue: 0,0:05:31.17,0:05:35.24,*Default,NTP,0000,0000,0000,,冥王星的名字来自于罗马的冥府之神 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto takes its name From the roman god Of the underworld.
+Dialogue: 0,0:05:40.31,0:05:44.22,*Default,NTP,0000,0000,0000,,在最近处冥王星距离地球27亿英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At its closest, Pluto is 2.7 billion miles From Earth.
+Dialogue: 0,0:05:46.32,0:05:50.19,*Default,NTP,0000,0000,0000,,它的直径是1485英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its diameter is 1,485 miles,
+Dialogue: 0,0:05:50.22,0:05:52.83,*Default,NTP,0000,0000,0000,,美国全宽的一半 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Half the width Of the United States.
+Dialogue: 0,0:05:54.86,0:05:58.30,*Default,NTP,0000,0000,0000,,冥王星绕太阳一周需用248个地球年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It takes 248 earth years For Pluto to orbit the Sun.
+Dialogue: 0,0:06:00.13,0:06:02.30,*Default,NTP,0000,0000,0000,,冥王星上一天约等于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a day on the planet Is equivalent to about
+Dialogue: 0,0:06:02.34,0:06:05.37,*Default,NTP,0000,0000,0000,,6.5个地球日 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}6 1/2 earth days.
+Dialogue: 0,0:06:05.41,0:06:07.17,*Default,NTP,0000,0000,0000,,地球上重150磅的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A 150 pound earthling
+Dialogue: 0,0:06:07.21,0:06:10.61,*Default,NTP,0000,0000,0000,,在冥王星上只重10磅 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would weigh only 10 pounds On Pluto.
+Dialogue: 0,0:06:23.09,0:06:25.39,*Default,NTP,0000,0000,0000,,它是现代科技的象征 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a testament To modern technology
+Dialogue: 0,0:06:25.46,0:06:29.40,*Default,NTP,0000,0000,0000,,靠它我们可以知道冥王星表层的一切 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That we know anything at all About the surface of Pluto.
+Dialogue: 0,0:06:38.24,0:06:40.31,*Default,NTP,0000,0000,0000,,我们几乎看不见冥王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can hardly see this thing.
+Dialogue: 0,0:06:40.34,0:06:41.97,*Default,NTP,0000,0000,0000,,就算用哈勃望远镜也难以看到 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even with the Hubble Space Telescope,
+Dialogue: 0,0:06:42.01,0:06:44.04,*Default,NTP,0000,0000,0000,,我们也许能得到横向4像素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We get maybe Four pixels across,
+Dialogue: 0,0:06:44.08,0:06:46.05,*Default,NTP,0000,0000,0000,,总共也许才12像素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe 12 pixels total.
+Dialogue: 0,0:06:46.08,0:06:47.98,*Default,NTP,0000,0000,0000,,即便是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even with that,
+Dialogue: 0,0:06:48.01,0:06:51.58,*Default,NTP,0000,0000,0000,,我们也能看见冥王星的一部分 如煤一般黑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see that parts of pluto Are as dark as coal
+Dialogue: 0,0:06:51.62,0:06:54.49,*Default,NTP,0000,0000,0000,,而其他部分又如雪般明亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And parts of pluto Are as bright as snow.
+Dialogue: 0,0:06:57.32,0:06:58.46,*Default,NTP,0000,0000,0000,,尽管来自远方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even from a far,
+Dialogue: 0,0:06:58.49,0:07:01.43,*Default,NTP,0000,0000,0000,,科学家们也能估量冥王星的组成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists can measure The composition of the planet.
+Dialogue: 0,0:07:02.86,0:07:05.50,*Default,NTP,0000,0000,0000,,他们认为表面亮的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They believe That the bright areas Of the surface
+Dialogue: 0,0:07:05.53,0:07:08.64,*Default,NTP,0000,0000,0000,,由3种冰态物质组成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are made up of three types Of ice.
+Dialogue: 0,0:07:11.37,0:07:12.41,*Default,NTP,0000,0000,0000,,一种是一氧化碳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One is carbon monoxide,
+Dialogue: 0,0:07:12.51,0:07:15.41,*Default,NTP,0000,0000,0000,,一种是甲烷 跟天然气一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One is methane, Which is the same As natural gas.
+Dialogue: 0,0:07:15.94,0:07:17.71,*Default,NTP,0000,0000,0000,,然后还有一种是氮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then, the third is nitrogen,
+Dialogue: 0,0:07:17.74,0:07:21.08,*Default,NTP,0000,0000,0000,,与我们大气中呼吸到的氮是一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The same stuff That we have breathing here In our atmosphere.
+Dialogue: 0,0:07:23.22,0:07:26.09,*Default,NTP,0000,0000,0000,,黑暗区域可能是固态岩石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dark areas Are probably solid rock.
+Dialogue: 0,0:07:27.92,0:07:30.72,*Default,NTP,0000,0000,0000,,黑暗区域有很大可能是某种硅酸盐 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The darker areas Are almost certainly silicates Of some sort.
+Dialogue: 0,0:07:30.76,0:07:32.83,*Default,NTP,0000,0000,0000,,硅酸盐不像我们这里看到的岩石一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Silicates not unlike The rocks that we see here,
+Dialogue: 0,0:07:32.86,0:07:34.56,*Default,NTP,0000,0000,0000,,这意味着它们含有硅元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means There's silicon in them
+Dialogue: 0,0:07:34.60,0:07:36.40,*Default,NTP,0000,0000,0000,,还含有氧元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there's oxygen in them.
+Dialogue: 0,0:07:37.43,0:07:38.70,*Default,NTP,0000,0000,0000,,我们这在落基山脉上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're up here In Rocky Mountain
+Dialogue: 0,0:07:38.73,0:07:39.83,*Default,NTP,0000,0000,0000,,科罗拉多州的国家公园\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}National Park in Colorado.
+Dialogue: 0,0:07:39.87,0:07:40.93,*Default,NTP,0000,0000,0000,,附近有些雪 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's some snow around,
+Dialogue: 0,0:07:40.97,0:07:42.10,*Default,NTP,0000,0000,0000,,也有岩石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's some rocks around.
+Dialogue: 0,0:07:42.14,0:07:43.20,*Default,NTP,0000,0000,0000,,这景观相似于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is similar to what we see
+Dialogue: 0,0:07:43.25,0:07:45.84,*Default,NTP,0000,0000,0000,,冥王星上看到的景观 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we're gonna see On the surface of Pluto.
+Dialogue: 0,0:07:48.58,0:07:50.34,*Default,NTP,0000,0000,0000,,去冥王星的旅行者会发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A traveller to Pluto Would find
+Dialogue: 0,0:07:50.38,0:07:52.68,*Default,NTP,0000,0000,0000,,尽管表面冰雪覆盖 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That despite the snowy surface,
+Dialogue: 0,0:07:52.71,0:07:55.68,*Default,NTP,0000,0000,0000,,但还是很暗淡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is a very dim place.
+Dialogue: 0,0:07:55.72,0:07:58.12,*Default,NTP,0000,0000,0000,,它和太阳的距离比地球和太阳的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's about 30 or 40 times Further away from the Sun
+Dialogue: 0,0:07:58.15,0:07:59.59,*Default,NTP,0000,0000,0000,,要远30~40倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Than the Earth is.
+Dialogue: 0,0:07:59.62,0:08:01.82,*Default,NTP,0000,0000,0000,,这意味着照耀冥王星表面的阳光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This means that the-- The sunlight Hitting the surface of Pluto
+Dialogue: 0,0:08:01.86,0:08:04.96,*Default,NTP,0000,0000,0000,,比地球上的阳光要微弱1000倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is about 1,000 times Fainter than it is on the Earth.
+Dialogue: 0,0:08:05.99,0:08:07.46,*Default,NTP,0000,0000,0000,,它的明亮度相当于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's maybe About the same brightness
+Dialogue: 0,0:08:07.49,0:08:10.70,*Default,NTP,0000,0000,0000,,在深夜街上微弱的路灯下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As being outside Under a dim street light At night.
+Dialogue: 0,0:08:10.73,0:08:12.00,*Default,NTP,0000,0000,0000,,你也许还能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could probably, you know,
+Dialogue: 0,0:08:12.03,0:08:13.23,*Default,NTP,0000,0000,0000,,拿本书 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could take a book.
+Dialogue: 0,0:08:13.27,0:08:14.50,*Default,NTP,0000,0000,0000,,光亮也许还足以阅读 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could probably Read it there.
+Dialogue: 0,0:08:14.54,0:08:15.87,*Default,NTP,0000,0000,0000,,但不过拿个照明灯或是手电筒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Take a headlamp though, Take a flashlight.
+Dialogue: 0,0:08:15.90,0:08:18.14,*Default,NTP,0000,0000,0000,,看书效果会更好 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'd help out.
+Dialogue: 0,0:08:19.47,0:08:21.77,*Default,NTP,0000,0000,0000,,冥王星与太阳间的距离也使得它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its distance from the Sun Also makes Pluto
+Dialogue: 0,0:08:21.81,0:08:24.71,*Default,NTP,0000,0000,0000,,成为太阳系中最寒冷的地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the coldest places In the solar system
+Dialogue: 0,0:08:24.74,0:08:26.85,*Default,NTP,0000,0000,0000,,寒冷刺骨的平均温度达到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With a bone-chilling Average temperature
+Dialogue: 0,0:08:26.88,0:08:29.45,*Default,NTP,0000,0000,0000,,零下388华氏摄氏度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of minus 388 degrees fahrenheit.
+Dialogue: 0,0:08:31.29,0:08:34.39,*Default,NTP,0000,0000,0000,,由于它个头小密度小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And because of its small size And low density,
+Dialogue: 0,0:08:34.42,0:08:38.06,*Default,NTP,0000,0000,0000,,冥王星地表的重力比地球上要小很多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity on Pluto's surface Is far weaker than on Earth.
+Dialogue: 0,0:08:47.50,0:08:49.37,*Default,NTP,0000,0000,0000,,这样一来有的事在冥王星上做会更容易一些 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, some things are gonna be A little easier to do on Pluto.
+Dialogue: 0,0:08:49.40,0:08:50.34,*Default,NTP,0000,0000,0000,,如果你要去攀岩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're really into Rock climbing
+Dialogue: 0,0:08:50.37,0:08:52.37,*Default,NTP,0000,0000,0000,,在这里垂直攀岩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we're doing Some vertical climbing here,
+Dialogue: 0,0:08:52.41,0:08:54.64,*Default,NTP,0000,0000,0000,,是项刺激的运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And while it's always exciting,
+Dialogue: 0,0:08:54.68,0:08:58.38,*Default,NTP,0000,0000,0000,,但克服重力往往是项难题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But gravity Is always the challenge.
+Dialogue: 0,0:08:58.41,0:09:02.08,*Default,NTP,0000,0000,0000,,冥王星的重力约是地球的15分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto's gravity Is roughly 1/15th Of the Earth's.
+Dialogue: 0,0:09:03.32,0:09:04.75,*Default,NTP,0000,0000,0000,,这与站在地面不一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not like if you're Standing on the surface,
+Dialogue: 0,0:09:04.78,0:09:06.15,*Default,NTP,0000,0000,0000,,你会飘开 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would float away.
+Dialogue: 0,0:09:06.19,0:09:08.95,*Default,NTP,0000,0000,0000,,当你在冥王星上攀岩时 如果你脱离了岩壁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, if you fell off that face When you were climbing up Pluto
+Dialogue: 0,0:09:08.99,0:09:10.19,*Default,NTP,0000,0000,0000,,你仍然希望有绳索套着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'd still want to have Your rope there.
+Dialogue: 0,0:09:10.22,0:09:12.26,*Default,NTP,0000,0000,0000,,你仍然会加速下落到地表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'd still accelerate Down to the surface.
+Dialogue: 0,0:09:12.29,0:09:14.73,*Default,NTP,0000,0000,0000,,所以不要轻易放开绳索 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So don't leave the rope at home.
+Dialogue: 0,0:09:19.03,0:09:22.87,*Default,NTP,0000,0000,0000,,科学家希望能敲开冥王星表层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists Would love to chip away At the surface of Pluto
+Dialogue: 0,0:09:22.90,0:09:24.80,*Default,NTP,0000,0000,0000,,因为藏在它的岩石里的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because hidden within its rocks
+Dialogue: 0,0:09:24.84,0:09:28.71,*Default,NTP,0000,0000,0000,,太阳系历史中不为人知的一章 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is a whole missing chapter In the history Of our solar system.
+Dialogue: 0,0:09:29.74,0:09:30.74,*Default,NTP,0000,0000,0000,,冥王星是个伟大的星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto's-- Pluto is a great planet.
+Dialogue: 0,0:09:30.78,0:09:32.04,*Default,NTP,0000,0000,0000,,我是说我认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, it's--what i think
+Dialogue: 0,0:09:32.08,0:09:33.01,*Default,NTP,0000,0000,0000,,它的伟大在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is really great about it,
+Dialogue: 0,0:09:33.05,0:09:34.11,*Default,NTP,0000,0000,0000,,它就像是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's sort of the--
+Dialogue: 0,0:09:34.15,0:09:36.18,*Default,NTP,0000,0000,0000,,我们太阳系的终极时间机器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ultimate time machine In our solar system.
+Dialogue: 0,0:09:36.22,0:09:37.85,*Default,NTP,0000,0000,0000,,它向我们展示了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It really shows us what the--
+Dialogue: 0,0:09:37.88,0:09:39.49,*Default,NTP,0000,0000,0000,,45亿年前太阳系形成的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What the environment Of the solar system was like
+Dialogue: 0,0:09:39.52,0:09:41.35,*Default,NTP,0000,0000,0000,,太阳系的环境会是什么样子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Four-and-a-half billion Years ago when it was formed.
+Dialogue: 0,0:09:41.39,0:09:43.49,*Default,NTP,0000,0000,0000,,它的地表层比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The--the surface there-- It's much more ancient
+Dialogue: 0,0:09:43.52,0:09:47.73,*Default,NTP,0000,0000,0000,,太阳系中别的大多数地方都要古老得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Than you're gonna find Almost anywhere else In the solar system.
+Dialogue: 0,0:09:50.46,0:09:52.06,*Default,NTP,0000,0000,0000,,如果你寻找地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if you're looking For rock on the Earth,
+Dialogue: 0,0:09:52.10,0:09:55.30,*Default,NTP,0000,0000,0000,,那个时期的岩石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth has been around For that same time period,
+Dialogue: 0,0:09:55.30,0:09:56.57,*Default,NTP,0000,0000,0000,,约45亿年前的岩石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Four-and-a-half billion years Or so,
+Dialogue: 0,0:09:56.60,0:09:58.17,*Default,NTP,0000,0000,0000,,但你要在地球上寻找那么古老的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if you're looking for rock That's that old on Earth,
+Dialogue: 0,0:09:58.20,0:10:00.44,*Default,NTP,0000,0000,0000,,那你是找不到的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're not gonna find it.
+Dialogue: 0,0:10:00.47,0:10:00.97,*Default,NTP,0000,0000,0000,,那是因为地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's because the Earth
+Dialogue: 0,0:10:01.01,0:10:04.64,*Default,NTP,0000,0000,0000,,会不停的回收更新它的物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is sort of constantly Recycling its material.
+Dialogue: 0,0:10:04.68,0:10:05.84,*Default,NTP,0000,0000,0000,,随板块碰撞的进行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have plate tectonics going on
+Dialogue: 0,0:10:05.88,0:10:08.18,*Default,NTP,0000,0000,0000,,会把所有物质吸回地幔之中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That sucks all this material Back into the mantle.
+Dialogue: 0,0:10:08.21,0:10:10.79,*Default,NTP,0000,0000,0000,,随火山作用的进行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have volcanism going on
+Dialogue: 0,0:10:12.52,0:10:16.56,*Default,NTP,0000,0000,0000,,会喷放出新物质 改造地表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That pumps out new material And processes the surface,
+Dialogue: 0,0:10:16.59,0:10:18.36,*Default,NTP,0000,0000,0000,,所以与冥王星上的古老地表层相比 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's really A much younger surface On the Earth
+Dialogue: 0,0:10:18.41,0:10:22.10,*Default,NTP,0000,0000,0000,,地球的表层其实要年轻得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compared With the ancient surface That we're gonna see on Pluto.
+Dialogue: 0,0:10:25.53,0:10:26.62,*Default,NTP,0000,0000,0000,,我们正坐在这儿的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rocks that we're sitting on Here
+Dialogue: 0,0:10:26.66,0:10:29.90,*Default,NTP,0000,0000,0000,,曾经历过地球内部高压的塑造 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have been processed By the high pressures In the Earth
+Dialogue: 0,0:10:31.04,0:10:33.77,*Default,NTP,0000,0000,0000,,在冥王星上会更加原始一些 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Pluto, it's more primitive.
+Dialogue: 0,0:10:33.81,0:10:37.05,*Default,NTP,0000,0000,0000,,原始但并不质朴整洁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Primitive, But far from pristine.
+Dialogue: 0,0:10:39.48,0:10:43.19,*Default,NTP,0000,0000,0000,,冥王星似乎到处都是撞击坑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto is likely riddled With impact craters.
+Dialogue: 0,0:10:45.82,0:10:47.62,*Default,NTP,0000,0000,0000,,撞击坑是由小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Impact craters Are caused by asteroids
+Dialogue: 0,0:10:47.65,0:10:49.89,*Default,NTP,0000,0000,0000,,或是流星体撞击表面形成的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or meteoroids Impacting the surface.
+Dialogue: 0,0:10:49.92,0:10:52.26,*Default,NTP,0000,0000,0000,,这些基本上是太阳系的碎屑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are essentially pieces Of the solar system
+Dialogue: 0,0:10:52.29,0:10:54.63,*Default,NTP,0000,0000,0000,,不够形成行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That were never made Into planet.
+Dialogue: 0,0:10:55.36,0:10:56.43,*Default,NTP,0000,0000,0000,,冥王星的外表层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Outer surface of Pluto,
+Dialogue: 0,0:10:56.46,0:10:57.33,*Default,NTP,0000,0000,0000,,没有大气 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't have an atmosphere,
+Dialogue: 0,0:10:57.36,0:10:58.23,*Default,NTP,0000,0000,0000,,没有冰川 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't have glaciers,
+Dialogue: 0,0:10:58.26,0:10:59.06,*Default,NTP,0000,0000,0000,,没有风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't have wind,
+Dialogue: 0,0:10:59.10,0:10:59.77,*Default,NTP,0000,0000,0000,,没有雨 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't have rain,
+Dialogue: 0,0:10:59.80,0:11:01.10,*Default,NTP,0000,0000,0000,,没有腐蚀 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You don't have erosion,
+Dialogue: 0,0:11:01.13,0:11:03.57,*Default,NTP,0000,0000,0000,,在表层你能看到的主要特征 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the one dominant feature That you see on the surface
+Dialogue: 0,0:11:03.60,0:11:05.71,*Default,NTP,0000,0000,0000,,可能就是许多的撞击坑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is probably gonna be A lot of impact craters.
+Dialogue: 0,0:11:09.98,0:11:11.54,*Default,NTP,0000,0000,0000,,冥王星疮痍的表面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto's pockmarked surface
+Dialogue: 0,0:11:11.58,0:11:15.02,*Default,NTP,0000,0000,0000,,在它运转到近日点曾经历过变形 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Undergoes a transformation As it orbits near the Sun.
+Dialogue: 0,0:11:17.45,0:11:19.02,*Default,NTP,0000,0000,0000,,在异常的高温下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Under the additional heat,
+Dialogue: 0,0:11:19.05,0:11:20.94,*Default,NTP,0000,0000,0000,,一些凝固气体蒸发 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of the frozen gases Evaporate
+Dialogue: 0,0:11:20.99,0:11:24.09,*Default,NTP,0000,0000,0000,,形成一个暂时的大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to form A temporary atmosphere.
+Dialogue: 0,0:11:25.12,0:11:27.16,*Default,NTP,0000,0000,0000,,当冥王星远离太阳时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As Pluto recedes from the Sun,
+Dialogue: 0,0:11:27.19,0:11:29.09,*Default,NTP,0000,0000,0000,,气体再次冻结 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gases freeze again
+Dialogue: 0,0:11:29.13,0:11:32.37,*Default,NTP,0000,0000,0000,,落回冥王星地表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And fall back down To the surface.
+Dialogue: 0,0:11:40.74,0:11:42.64,*Default,NTP,0000,0000,0000,,75多年来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For more than 75 years,
+Dialogue: 0,0:11:42.68,0:11:44.51,*Default,NTP,0000,0000,0000,,这个遥远的结冰体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This far out icy object
+Dialogue: 0,0:11:44.54,0:11:47.81,*Default,NTP,0000,0000,0000,,一直被认定为第九颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Staked its claim As our ninth planet.
+Dialogue: 0,0:11:48.55,0:11:51.05,*Default,NTP,0000,0000,0000,,那么为什么这个冰雪星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So why is this little piece Of snowy rock
+Dialogue: 0,0:11:51.08,0:11:53.85,*Default,NTP,0000,0000,0000,,现在遭受到质疑了呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now causing such controversy?
+Dialogue: 0,0:11:55.29,0:11:57.92,*Default,NTP,0000,0000,0000,,为何冥王星被踢出了太阳系中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why was Pluto kicked Out of the solar system's
+Dialogue: 0,0:11:57.96,0:12:01.36,*Default,NTP,0000,0000,0000,,特有的行星之列呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most exclusive club?
+Dialogue: 0,0:12:07.53,0:12:09.63,*Default,NTP,0000,0000,0000,,这是加州理工学院的一间安静的办公室 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a quiet office At the Caltech campus
+Dialogue: 0,0:12:09.67,0:12:13.44,*Default,NTP,0000,0000,0000,,在加州的帕萨迪纳 就是在这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At Pasadena, California, And it was from here
+Dialogue: 0,0:12:13.77,0:12:16.74,*Default,NTP,0000,0000,0000,,冥王星被踢出行星之列 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That Pluto's demise As a planet began.
+Dialogue: 0,0:12:18.87,0:12:19.97,*Default,NTP,0000,0000,0000,,但天文学家麦克·布朗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But astronomer Mike Brown
+Dialogue: 0,0:12:20.00,0:12:23.24,*Default,NTP,0000,0000,0000,,本意不在剔除一颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Was never looking To destroy a planet.
+Dialogue: 0,0:12:25.47,0:12:29.44,*Default,NTP,0000,0000,0000,,配备有帕洛马天文台的48英寸望远镜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Equipped With Palomar Observatory's 48-inch telescope,
+Dialogue: 0,0:12:29.48,0:12:32.05,*Default,NTP,0000,0000,0000,,他在寻找太阳系的远端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He was seeking out Pluto-sized worlds
+Dialogue: 0,0:12:32.08,0:12:36.05,*Default,NTP,0000,0000,0000,,冥王星大小的星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the far reaches Of our solar system.
+Dialogue: 0,0:12:39.39,0:12:41.16,*Default,NTP,0000,0000,0000,,在2005年 他找到一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in 2005, he found one;
+Dialogue: 0,0:12:41.19,0:12:45.49,*Default,NTP,0000,0000,0000,,一个比冥王星还大并拥有自己卫星的星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An object bigger than Pluto With its own moon,
+Dialogue: 0,0:12:46.73,0:12:49.33,*Default,NTP,0000,0000,0000,,都围绕太阳运转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Both orbiting the sun.
+Dialogue: 0,0:12:50.37,0:12:53.57,*Default,NTP,0000,0000,0000,,当我第一次发现它时 它比冥王星还大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When i first found this thing That's bigger than Pluto,
+Dialogue: 0,0:12:53.60,0:12:55.27,*Default,NTP,0000,0000,0000,,我仔细检查\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I was looking through the images
+Dialogue: 0,0:12:55.30,0:12:57.91,*Default,NTP,0000,0000,0000,,望远镜事先拍下的照片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That the telescope had taken Just before
+Dialogue: 0,0:12:57.94,0:12:59.71,*Default,NTP,0000,0000,0000,,我在屏幕上发现了它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And i found it on the screen,
+Dialogue: 0,0:12:59.71,0:13:01.34,*Default,NTP,0000,0000,0000,,做了个粗略估计 意识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And did a very quick Calculation, realized
+Dialogue: 0,0:13:01.38,0:13:04.18,*Default,NTP,0000,0000,0000,,它比冥王星还要大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was bigger than Pluto,
+Dialogue: 0,0:13:04.21,0:13:05.71,*Default,NTP,0000,0000,0000,,接下来做的第一件事就是拿起电话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the very first thing i did Was picked up the phone
+Dialogue: 0,0:13:05.75,0:13:08.85,*Default,NTP,0000,0000,0000,,告诉我妻子我发现了一颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And called my wife and told her I just found a planet.
+Dialogue: 0,0:13:09.35,0:13:11.29,*Default,NTP,0000,0000,0000,,事实上冥王星曾当作行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Indeed, Pluto was a planet,
+Dialogue: 0,0:13:11.32,0:13:15.12,*Default,NTP,0000,0000,0000,,已超过70年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And for more than 70 years, It had been.
+Dialogue: 0,0:13:15.16,0:13:16.96,*Default,NTP,0000,0000,0000,,那么为什么布朗新发现的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then why wouldn't Brown's New world
+Dialogue: 0,0:13:16.99,0:13:19.93,*Default,NTP,0000,0000,0000,,也不属于行星？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Be considered a planet too?
+Dialogue: 0,0:13:21.66,0:13:22.86,*Default,NTP,0000,0000,0000,,我认为它是第十颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I thought It was the 10th planet.
+Dialogue: 0,0:13:22.90,0:13:25.43,*Default,NTP,0000,0000,0000,,很长一段时间我都这么认为 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I--for a long time, That's how i described it.
+Dialogue: 0,0:13:25.47,0:13:26.40,*Default,NTP,0000,0000,0000,,它是一颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a planet,
+Dialogue: 0,0:13:26.44,0:13:29.67,*Default,NTP,0000,0000,0000,,所以我确定我找了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so, i definitely felt Like i had found
+Dialogue: 0,0:13:29.71,0:13:31.61,*Default,NTP,0000,0000,0000,,第十颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The 10th planet.
+Dialogue: 0,0:13:33.34,0:13:35.58,*Default,NTP,0000,0000,0000,,它比冥王星大5% \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's five percent Bigger than Pluto.
+Dialogue: 0,0:13:35.61,0:13:37.21,*Default,NTP,0000,0000,0000,,它可能由同种物质构成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's probably made Out of the same materials,
+Dialogue: 0,0:13:37.25,0:13:37.68,*Default,NTP,0000,0000,0000,,在里面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the inside;
+Dialogue: 0,0:13:37.71,0:13:38.88,*Default,NTP,0000,0000,0000,,里面是岩石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rock on the inside,
+Dialogue: 0,0:13:38.91,0:13:40.35,*Default,NTP,0000,0000,0000,,外层是冰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ice on the outside,
+Dialogue: 0,0:13:40.38,0:13:43.65,*Default,NTP,0000,0000,0000,,最外面是薄薄的一层霜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a little thin layer of frost On the very outside
+Dialogue: 0,0:13:43.69,0:13:45.85,*Default,NTP,0000,0000,0000,,有时霜会喷发到大气层中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That sometimes puffs up Into an atmosphere
+Dialogue: 0,0:13:45.89,0:13:46.99,*Default,NTP,0000,0000,0000,,有时不会 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And sometimes doesn't.
+Dialogue: 0,0:13:47.02,0:13:49.36,*Default,NTP,0000,0000,0000,,这与冥王星类似 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Very similar to Pluto In that way.
+Dialogue: 0,0:13:49.59,0:13:54.43,*Default,NTP,0000,0000,0000,,它有一颗卫星 绕行一圈16~17天 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It has a moon That goes around it Once every 16, 17 days.
+Dialogue: 0,0:13:54.46,0:13:55.40,*Default,NTP,0000,0000,0000,,冥王星也有一颗卫星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto has a moon also,
+Dialogue: 0,0:13:55.43,0:13:56.36,*Default,NTP,0000,0000,0000,,所以它从很多方面看来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's--in many ways,
+Dialogue: 0,0:13:56.40,0:13:59.03,*Default,NTP,0000,0000,0000,,我认为它们几乎是双胞胎 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I like to think of it As almost as twins.
+Dialogue: 0,0:13:59.47,0:14:00.64,*Default,NTP,0000,0000,0000,,只是这个星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is just the twin
+Dialogue: 0,0:14:00.67,0:14:02.14,*Default,NTP,0000,0000,0000,,吃得多一点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That just ate a little bit more
+Dialogue: 0,0:14:02.17,0:14:05.21,*Default,NTP,0000,0000,0000,,在它婴儿时期长得大一点啊 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it was a baby, Got a little bigger.
+Dialogue: 0,0:14:06.84,0:14:09.51,*Default,NTP,0000,0000,0000,,布朗考虑把它命名为"西娜" (女战神) \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Brown considered Naming his object "Xena"
+Dialogue: 0,0:14:09.55,0:14:12.55,*Default,NTP,0000,0000,0000,,取名自电视中的战士公主 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After tv's warrior princess.
+Dialogue: 0,0:14:12.55,0:14:16.25,*Default,NTP,0000,0000,0000,,但最终名字定为"厄里斯" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But eventually, The name chosen was "Eris,"
+Dialogue: 0,0:14:16.45,0:14:19.05,*Default,NTP,0000,0000,0000,,取自希腊的不和女神 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After the greek goddess Of discord.
+Dialogue: 0,0:14:20.09,0:14:23.32,*Default,NTP,0000,0000,0000,,结果证明这个名字很恰当 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As it turned out, this name Was entirely appropriate.
+Dialogue: 0,0:14:23.36,0:14:27.27,*Default,NTP,0000,0000,0000,,这一发现在天文学界引起轩然大波 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The discovery Kicked off a firestorm In the astronomical community.
+Dialogue: 0,0:14:33.50,0:14:35.77,*Default,NTP,0000,0000,0000,,现在行星的准确定义\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, the very definition Of a planet
+Dialogue: 0,0:14:35.80,0:14:38.21,*Default,NTP,0000,0000,0000,,正处于激烈争论之中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Was being hotly debated.
+Dialogue: 0,0:14:38.94,0:14:42.01,*Default,NTP,0000,0000,0000,,厄里斯会正式成为我们的第十颗行星吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would Eris officially become Our 10th planet,
+Dialogue: 0,0:14:42.04,0:14:45.42,*Default,NTP,0000,0000,0000,,或者冥王星大小的星球会被重划分类？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or would Pluto-sized objects Be reevaluated as a whole?
+Dialogue: 0,0:14:49.69,0:14:51.25,*Default,NTP,0000,0000,0000,,争论进入最后阶段 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The argument Was brought to the table
+Dialogue: 0,0:14:51.29,0:14:52.55,*Default,NTP,0000,0000,0000,,2006年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the 2006
+Dialogue: 0,0:14:52.59,0:14:55.89,*Default,NTP,0000,0000,0000,,布拉格的国际天文学联盟会议 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}meeting Of the international Astronomical union in Prague.
+Dialogue: 0,0:14:57.03,0:14:58.26,*Default,NTP,0000,0000,0000,,一票通过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A vote was taken
+Dialogue: 0,0:14:58.29,0:15:02.23,*Default,NTP,0000,0000,0000,,对"行星"这个词第一次作了科学的定义 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the term "planet" Was defined scientifically For the first time.
+Dialogue: 0,0:15:05.87,0:15:09.64,*Default,NTP,0000,0000,0000,,那些支持决议6A的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Those who are in favor Of resolution 6a,
+Dialogue: 0,0:15:11.07,0:15:12.97,*Default,NTP,0000,0000,0000,,引入一种新的分类…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which introduces This new category
+Dialogue: 0,0:15:13.01,0:15:16.55,*Default,NTP,0000,0000,0000,,海王星外天体以冥王星为原型 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of trans-neptunian objects With Pluto as a prototype.
+Dialogue: 0,0:15:18.28,0:15:22.82,*Default,NTP,0000,0000,0000,,好处是我们可以把冥王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The recommendation Is that we consider Pluto
+Dialogue: 0,0:15:24.05,0:15:31.23,*Default,NTP,0000,0000,0000,,和其他类似的外海王星体归为特殊的一组 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And other similar Trans-neptunian objects To be in a special class.
+Dialogue: 0,0:15:33.23,0:15:34.80,*Default,NTP,0000,0000,0000,,我们不再考虑冥王星的身份归属问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We didn't reconsider Pluto's status
+Dialogue: 0,0:15:34.83,0:15:36.86,*Default,NTP,0000,0000,0000,,因为我们已听到太多相关的无聊讨论 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because we learned anything new About Pluto
+Dialogue: 0,0:15:36.90,0:15:39.13,*Default,NTP,0000,0000,0000,,这只会磨蚀掉你研究冥王星的兴趣 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That made it less interesting.
+Dialogue: 0,0:15:39.13,0:15:41.47,*Default,NTP,0000,0000,0000,,另一方面 科学家们说颁布这项决定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead, scientists say The issue was addressed
+Dialogue: 0,0:15:41.50,0:15:43.20,*Default,NTP,0000,0000,0000,,是因为他们了解到厄里斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because they learned about Eris
+Dialogue: 0,0:15:43.24,0:15:46.44,*Default,NTP,0000,0000,0000,,和其他库伯带的大星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And other large Kuiper belt objects.
+Dialogue: 0,0:15:46.48,0:15:49.41,*Default,NTP,0000,0000,0000,,库伯带有35亿英里宽 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The kuiper belt Is a 3.5 billion mile wide
+Dialogue: 0,0:15:49.45,0:15:52.78,*Default,NTP,0000,0000,0000,,位于太阳系外围冥王星附近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Region in the outer solar system Near Pluto.
+Dialogue: 0,0:15:53.82,0:15:57.22,*Default,NTP,0000,0000,0000,,它容纳了成百上千的结冰体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's home To hundreds of thousands Of icy objects,
+Dialogue: 0,0:15:58.25,0:16:01.39,*Default,NTP,0000,0000,0000,,第一个结冰体发现于1992年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first of which Was discovered in 1992.
+Dialogue: 0,0:16:10.87,0:16:13.20,*Default,NTP,0000,0000,0000,,历史上来说 我们认为太阳系外围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So historically, We thought Of the outer solar system
+Dialogue: 0,0:16:13.24,0:16:14.90,*Default,NTP,0000,0000,0000,,有天王星和海王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where you've got Uranus and neptune out there.
+Dialogue: 0,0:16:14.94,0:16:17.81,*Default,NTP,0000,0000,0000,,他们是巨大的气态行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're these big Gaseous planets, giant planets.
+Dialogue: 0,0:16:18.91,0:16:19.87,*Default,NTP,0000,0000,0000,,在他们之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then just beyond that,
+Dialogue: 0,0:16:19.91,0:16:21.29,*Default,NTP,0000,0000,0000,,我们发现了小小的冥王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You've got this little straggler Pluto
+Dialogue: 0,0:16:21.34,0:16:22.78,*Default,NTP,0000,0000,0000,,显得比较另类 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that doesn't really fit Into the picture.
+Dialogue: 0,0:16:22.81,0:16:25.18,*Default,NTP,0000,0000,0000,,现在当我们发现所有这些库伯带星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, now when we've found All these other Kuiper belt objects,
+Dialogue: 0,0:16:25.21,0:16:27.82,*Default,NTP,0000,0000,0000,,如我们所见冥王星也许真是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we're seeing Is that maybe Pluto Was really that,
+Dialogue: 0,0:16:27.85,0:16:31.14,*Default,NTP,0000,0000,0000,,库伯带众多星体中发现的第一颗 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just the first of these Many, many bodies Of the kuiper belt
+Dialogue: 0,0:16:31.19,0:16:34.32,*Default,NTP,0000,0000,0000,,这里有许多小个头的冰星体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are--This wide diversity Of icy--small icy bodies
+Dialogue: 0,0:16:34.36,0:16:36.83,*Default,NTP,0000,0000,0000,,位于这个太阳系外围 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the outer solar system.
+Dialogue: 0,0:16:43.06,0:16:46.40,*Default,NTP,0000,0000,0000,,国际天文学联合会投票结果定义了行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The result of the iau vote Stipulated that a planet
+Dialogue: 0,0:16:46.44,0:16:49.84,*Default,NTP,0000,0000,0000,,是一个围绕太阳运转的球体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is a spherical object That orbits the Sun
+Dialogue: 0,0:16:49.87,0:16:53.48,*Default,NTP,0000,0000,0000,,并在它的轨道上没有其它星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And clears out the neighborhood Around its orbital path.
+Dialogue: 0,0:16:55.61,0:16:59.78,*Default,NTP,0000,0000,0000,,自从发现冥王星附近充满了库伯带星体后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since the area around Pluto Is full of other Kuiper belt objects,
+Dialogue: 0,0:16:59.82,0:17:02.28,*Default,NTP,0000,0000,0000,,新的行星定义使得克莱德·汤博\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The new definition Would leave Clyde Tombaugh's
+Dialogue: 0,0:17:02.32,0:17:05.39,*Default,NTP,0000,0000,0000,,发现的冥王星不再属于行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Great icy discovery Out in the cold.
+Dialogue: 0,0:17:07.02,0:17:12.03,*Default,NTP,0000,0000,0000,,76年来 一直称作第九大行星的冥王星结束了行星的称号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto's 76-year reign As the ninth planet was over.
+Dialogue: 0,0:17:13.56,0:17:16.33,*Default,NTP,0000,0000,0000,,太阳系现在正式只由\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our solar system Would now officially consist
+Dialogue: 0,0:17:16.36,0:17:19.40,*Default,NTP,0000,0000,0000,,8颗行星组成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of only eight planets.
+Dialogue: 0,0:17:19.44,0:17:23.10,*Default,NTP,0000,0000,0000,,像冥王星和厄里斯这样的星球赋予了新的类别 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Objects like Pluto and Eris Were given The new classification,
+Dialogue: 0,0:17:23.14,0:17:25.51,*Default,NTP,0000,0000,0000,,"矮行星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"dwarf planets."
+Dialogue: 0,0:17:29.48,0:17:33.28,*Default,NTP,0000,0000,0000,,矮行星与行星的特征相同 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dwarf planets Possess the same characteristics As planets,
+Dialogue: 0,0:17:33.32,0:17:36.69,*Default,NTP,0000,0000,0000,,但没有畅通的运转轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But do not have A clear orbital path.
+Dialogue: 0,0:17:40.02,0:17:42.36,*Default,NTP,0000,0000,0000,,在新的定义下 谷神星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Under the new definition, Ceres,
+Dialogue: 0,0:17:42.39,0:17:47.30,*Default,NTP,0000,0000,0000,,这颗太阳系中最大的小行星也属于矮行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The largest asteroid In our solar system Is also a dwarf planet.
+Dialogue: 0,0:17:49.33,0:17:50.77,*Default,NTP,0000,0000,0000,,建立了新的术语\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have this new terminology
+Dialogue: 0,0:17:50.80,0:17:53.57,*Default,NTP,0000,0000,0000,,是因为太阳系外围的事物远超过了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because there's more things In the outer solar system
+Dialogue: 0,0:17:53.60,0:17:55.50,*Default,NTP,0000,0000,0000,,我们已知的范围 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Than we used to think.
+Dialogue: 0,0:17:55.74,0:17:58.01,*Default,NTP,0000,0000,0000,,就好像原先只看见一栋摩天大厦 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like all you can see Is one skyscraper,
+Dialogue: 0,0:17:58.04,0:17:59.21,*Default,NTP,0000,0000,0000,,突然之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And now all of a sudden,
+Dialogue: 0,0:17:59.24,0:18:02.18,*Default,NTP,0000,0000,0000,,在你面前涌现出整个城市的大厦 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have a whole city In front of you.
+Dialogue: 0,0:18:08.65,0:18:11.62,*Default,NTP,0000,0000,0000,,同样 我们的太阳系外围城市\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have a whole city Full of objects
+Dialogue: 0,0:18:11.65,0:18:13.96,*Default,NTP,0000,0000,0000,,也充满了许多的星体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the outer solar system now.
+Dialogue: 0,0:18:15.79,0:18:16.86,*Default,NTP,0000,0000,0000,,国际天文学联合会投票\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The iau vote
+Dialogue: 0,0:18:16.89,0:18:20.63,*Default,NTP,0000,0000,0000,,意在解决关于行星定义的争论 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Was meant to settle the debate On what constitutes a planet,
+Dialogue: 0,0:18:21.06,0:18:24.53,*Default,NTP,0000,0000,0000,,但许多科学家拒绝接受投票结果 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But many scientists Refuse to accept the outcome.
+Dialogue: 0,0:18:24.57,0:18:26.87,*Default,NTP,0000,0000,0000,,他们仍然希望把它叫做行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are astronomers Who want it To be a planet still
+Dialogue: 0,0:18:26.90,0:18:29.70,*Default,NTP,0000,0000,0000,,他们一直努力想要恢复它行星的叫法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they just keep On ripping those scabs Off whenever possible,
+Dialogue: 0,0:18:29.74,0:18:32.64,*Default,NTP,0000,0000,0000,,他们保持己见 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they want to keep it fresh.
+Dialogue: 0,0:18:33.34,0:18:35.88,*Default,NTP,0000,0000,0000,,我相信冥王星是一颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I believe Pluto is a planet.
+Dialogue: 0,0:18:35.91,0:18:37.98,*Default,NTP,0000,0000,0000,,我认为冥王星是不是一颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And i don't think the question Of whether or not
+Dialogue: 0,0:18:38.01,0:18:41.02,*Default,NTP,0000,0000,0000,,这个问题实际并不重要 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto is a planet Is really that important Fundamentally.
+Dialogue: 0,0:18:41.05,0:18:43.82,*Default,NTP,0000,0000,0000,,这不是一个学术问题 是个名字问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not a scientific question, It's a question of names.
+Dialogue: 0,0:18:43.85,0:18:45.32,*Default,NTP,0000,0000,0000,,但从某种程度上来说 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in a way, in an odd way,
+Dialogue: 0,0:18:45.32,0:18:50.59,*Default,NTP,0000,0000,0000,,这问题成了行星科学上常见的话题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's become one Of the highly visible subjects Of planetary science.
+Dialogue: 0,0:18:52.73,0:18:55.56,*Default,NTP,0000,0000,0000,,人们老是问冥王星是不是行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People always ask Whether pluto Is a planet or not.
+Dialogue: 0,0:18:55.60,0:18:57.93,*Default,NTP,0000,0000,0000,,并没有明确的划分界限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's not one Easy dividing line
+Dialogue: 0,0:18:57.97,0:19:00.84,*Default,NTP,0000,0000,0000,,没有界限划分在星球之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's not Where you move From being a planet over here
+Dialogue: 0,0:19:01.27,0:19:02.64,*Default,NTP,0000,0000,0000,,这里是行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To being a planet over here,
+Dialogue: 0,0:19:02.67,0:19:04.34,*Default,NTP,0000,0000,0000,,而这里不是行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To be not a planet over here.
+Dialogue: 0,0:19:04.37,0:19:08.11,*Default,NTP,0000,0000,0000,,就好像石头与卵石之间没有明确界限一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just like there's No dividing line Between a stone and a pebble.
+Dialogue: 0,0:19:08.14,0:19:09.61,*Default,NTP,0000,0000,0000,,更多的成了社会学问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's really more Of a sociological question.
+Dialogue: 0,0:19:09.65,0:19:11.28,*Default,NTP,0000,0000,0000,,成了单词定义的问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a question Of definitions of words
+Dialogue: 0,0:19:11.31,0:19:13.68,*Default,NTP,0000,0000,0000,,而非学术问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rather than a question Of science.
+Dialogue: 0,0:19:19.15,0:19:21.42,*Default,NTP,0000,0000,0000,,虽然它不再属于行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although no longer Officially a planet,
+Dialogue: 0,0:19:21.46,0:19:25.49,*Default,NTP,0000,0000,0000,,但科学家对冥王星的兴趣并未消退 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientific interest in Pluto Hasn't waned.
+Dialogue: 0,0:19:26.43,0:19:28.83,*Default,NTP,0000,0000,0000,,正在布拉格投票的当头 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even as the vote was being taken In Prague,
+Dialogue: 0,0:19:28.86,0:19:31.47,*Default,NTP,0000,0000,0000,,美国航天局一艘叫"新视野"的宇宙飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A nasa spacecraft Called "New Horizons"
+Dialogue: 0,0:19:31.50,0:19:35.51,*Default,NTP,0000,0000,0000,,准备起飞 前去探索这个遥远的世界 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Was already on its way To exploring To this far off world.
+Dialogue: 0,0:19:38.04,0:19:39.34,*Default,NTP,0000,0000,0000,,新视野号使者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The New Horizons mission
+Dialogue: 0,0:19:39.37,0:19:42.91,*Default,NTP,0000,0000,0000,,将是探索冥王星的第一艘飞船 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will be the first spacecraft Ever to visit Pluto.
+Dialogue: 0,0:19:43.85,0:19:45.88,*Default,NTP,0000,0000,0000,,前往冥王星 研究它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By going to Pluto, Studying Pluto,
+Dialogue: 0,0:19:45.91,0:19:49.68,*Default,NTP,0000,0000,0000,,不再是单单针对它的任务 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's no longer a mission To a singular object,
+Dialogue: 0,0:19:49.72,0:19:54.52,*Default,NTP,0000,0000,0000,,实际上是一项研究这一类星球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's actually a mission To one of a class of objects
+Dialogue: 0,0:19:54.66,0:19:56.66,*Default,NTP,0000,0000,0000,,其中一颗星球的任务 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That we'll get to learn about.
+Dialogue: 0,0:19:57.39,0:20:00.86,*Default,NTP,0000,0000,0000,,但新视野号需要达到星际速度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But New Horizons Needs to travel at warp speed
+Dialogue: 0,0:20:00.90,0:20:04.60,*Default,NTP,0000,0000,0000,,否则研究冥王星大气的宝贵机会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or a valuable Research opportunity To study Pluto's atmosphere
+Dialogue: 0,0:20:04.63,0:20:08.97,*Default,NTP,0000,0000,0000,,就会至少推迟在200年之后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will be lost For at least the next 200 years.
+Dialogue: 0,0:20:14.49,0:20:18.46,*Default,NTP,0000,0000,0000,,新视野号飞船飞向冥王星上预设的地点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The New Horizons spacecraft Is headed For a rendezvous with Pluto.
+Dialogue: 0,0:20:20.09,0:20:24.03,*Default,NTP,0000,0000,0000,,航天器分离成功完成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have confirmation Of spacecraft separation.
+Dialogue: 0,0:20:27.53,0:20:31.10,*Default,NTP,0000,0000,0000,,但科学家们试图提前完成任务 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But scientists Are trying to beat the clock
+Dialogue: 0,0:20:31.14,0:20:33.80,*Default,NTP,0000,0000,0000,,因为随着冥王星远离太阳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because as Pluto Recedes from the Sun,
+Dialogue: 0,0:20:33.84,0:20:37.61,*Default,NTP,0000,0000,0000,,它62年长的冬季来临 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its 62-year-long winter Is coming.
+Dialogue: 0,0:20:41.24,0:20:43.17,*Default,NTP,0000,0000,0000,,冥王星的冬季\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when winter comes to Pluto,
+Dialogue: 0,0:20:43.20,0:20:46.01,*Default,NTP,0000,0000,0000,,会使矮行星的大气冻结\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dwarf planet's atmosphere Will freeze
+Dialogue: 0,0:20:46.04,0:20:48.71,*Default,NTP,0000,0000,0000,,而落回地表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And fall to the ground.
+Dialogue: 0,0:20:51.11,0:20:52.85,*Default,NTP,0000,0000,0000,,若大气回落太多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it collapses too much,
+Dialogue: 0,0:20:52.88,0:20:54.65,*Default,NTP,0000,0000,0000,,获得的信息就会受限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It might just be A lot less interesting,
+Dialogue: 0,0:20:54.68,0:20:58.02,*Default,NTP,0000,0000,0000,,结果也不会令人满意 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You might not have As interesting chemistry.
+Dialogue: 0,0:20:58.12,0:21:00.49,*Default,NTP,0000,0000,0000,,我们希望知道它的温度 组成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we want to know What the temperature And the composition
+Dialogue: 0,0:21:00.92,0:21:03.99,*Default,NTP,0000,0000,0000,,结构和大气中的风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the structure and the winds On the atmosphere--
+Dialogue: 0,0:21:06.53,0:21:08.33,*Default,NTP,0000,0000,0000,,为及时赶到那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To get there in time,
+Dialogue: 0,0:21:08.36,0:21:11.00,*Default,NTP,0000,0000,0000,,新视野号高速穿行在太阳系中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New Horizons is blazing Through the solar system
+Dialogue: 0,0:21:11.03,0:21:14.30,*Default,NTP,0000,0000,0000,,每小时飞行45千英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At more than 45,000 miles An hour.
+Dialogue: 0,0:21:14.34,0:21:17.30,*Default,NTP,0000,0000,0000,,即是每秒12英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's 12 miles a second.
+Dialogue: 0,0:21:17.34,0:21:18.24,*Default,NTP,0000,0000,0000,,以那个速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At that speed,
+Dialogue: 0,0:21:18.27,0:21:22.58,*Default,NTP,0000,0000,0000,,从洛杉矶飞行到纽约只用3.5秒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A trip From Los Angeles to New York Would take about 3 1/2 minutes.
+Dialogue: 0,0:21:24.68,0:21:25.85,*Default,NTP,0000,0000,0000,,所以 它是地球上发射过的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this is The fastest spacecraft
+Dialogue: 0,0:21:25.88,0:21:27.78,*Default,NTP,0000,0000,0000,,最快的宇宙飞船 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was ever launched From the Earth.
+Dialogue: 0,0:21:27.82,0:21:28.85,*Default,NTP,0000,0000,0000,,实际上 它飞行了6小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, it took about six hours
+Dialogue: 0,0:21:28.88,0:21:30.62,*Default,NTP,0000,0000,0000,,就飞出了25万英里远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To get out To the quarter million miles
+Dialogue: 0,0:21:30.65,0:21:32.19,*Default,NTP,0000,0000,0000,,到达月球处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To make it out to the moon.
+Dialogue: 0,0:21:32.22,0:21:33.62,*Default,NTP,0000,0000,0000,,你可以比较一下 同样一段距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can compare that To the couple of days
+Dialogue: 0,0:21:33.66,0:21:37.49,*Default,NTP,0000,0000,0000,,阿波罗号飞船则飞了几天才到月球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That it took The Apollo astronauts To get out that same distance.
+Dialogue: 0,0:21:38.09,0:21:42.16,*Default,NTP,0000,0000,0000,,新视野号13个月后会经过木星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New Horizons Will pass by Jupiter In just 13 months.
+Dialogue: 0,0:21:42.20,0:21:44.96,*Default,NTP,0000,0000,0000,,但太阳系外围太大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the outer solar system Is so big
+Dialogue: 0,0:21:45.00,0:21:49.04,*Default,NTP,0000,0000,0000,,它将会再用8年时间才能到达冥王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That it's gonna take us Another eight years To get to Pluto.
+Dialogue: 0,0:21:49.57,0:21:51.97,*Default,NTP,0000,0000,0000,,尽管以这个史无前例的速度飞行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even with its Unprecedented speed,
+Dialogue: 0,0:21:52.01,0:21:56.68,*Default,NTP,0000,0000,0000,,新视野号也要到2015年7月才能到达冥王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New Horizons won't reach Pluto Until july of 2015.
+Dialogue: 0,0:21:57.78,0:21:58.91,*Default,NTP,0000,0000,0000,,冥王星是一个大谜团 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto is just a big mystery.
+Dialogue: 0,0:21:58.95,0:22:01.92,*Default,NTP,0000,0000,0000,,我很兴奋 因为这艘飞船已在去冥王星的路上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's exciting to me That there's a spacecraft On its way there
+Dialogue: 0,0:22:01.95,0:22:05.32,*Default,NTP,0000,0000,0000,,几年后 我们就会知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in few years we'll, You know,
+Dialogue: 0,0:22:05.35,0:22:07.69,*Default,NTP,0000,0000,0000,,这个我们所知几乎为零的世界 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This sort of blank slate Of a world
+Dialogue: 0,0:22:07.72,0:22:12.06,*Default,NTP,0000,0000,0000,,将会获得详尽的图片和数据 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will be richly filled in With pictures And detailed data.
+Dialogue: 0,0:22:14.09,0:22:16.83,*Default,NTP,0000,0000,0000,,离冥王星40亿英里远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About four billion miles From Pluto,
+Dialogue: 0,0:22:16.86,0:22:21.40,*Default,NTP,0000,0000,0000,,天王星就像一块迷人的蓝色大理石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus is a mesmerizing Blue marble.
+Dialogue: 0,0:22:22.54,0:22:24.24,*Default,NTP,0000,0000,0000,,它真的很漂亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's really Strikingly beautiful
+Dialogue: 0,0:22:24.27,0:22:25.77,*Default,NTP,0000,0000,0000,,与其它星球截然不同 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And different From the other planets.
+Dialogue: 0,0:22:25.81,0:22:31.28,*Default,NTP,0000,0000,0000,,它是一颗巨大的 蓝色的 灰蓝色的毛球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a giant, blue, Pale-blue, fuzzy ball
+Dialogue: 0,0:22:31.71,0:22:34.08,*Default,NTP,0000,0000,0000,,位于太空那里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sitting there in space Against the darkness of space.
+Dialogue: 0,0:22:34.11,0:22:37.25,*Default,NTP,0000,0000,0000,,它那显著的蓝色调\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's just That striking blue color
+Dialogue: 0,0:22:37.28,0:22:40.52,*Default,NTP,0000,0000,0000,,几乎均匀的纯蓝色 真是有点超现实 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the almost Pure featurelessness Of it; it seems unreal.
+Dialogue: 0,0:22:40.66,0:22:41.42,*Default,NTP,0000,0000,0000,,它看起来像是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It looks as though
+Dialogue: 0,0:22:41.46,0:22:44.83,*Default,NTP,0000,0000,0000,,做电影特效的人员做出来的一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was sort of created By some movie Special effects person
+Dialogue: 0,0:22:44.86,0:22:46.43,*Default,NTP,0000,0000,0000,,如何会有这么一颗行星 如此之大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cause how could you have A planet that large
+Dialogue: 0,0:22:46.46,0:22:50.53,*Default,NTP,0000,0000,0000,,如此完美 如此均匀的纯蓝？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that perfect And just this giant, Featureless blue?
+Dialogue: 0,0:22:53.47,0:22:56.84,*Default,NTP,0000,0000,0000,,天王星离地球16亿英里远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus is 1.6 billion miles From Earth.
+Dialogue: 0,0:22:58.27,0:23:01.54,*Default,NTP,0000,0000,0000,,直径将近32000英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It has a diameter Of nearly 32,000 miles--
+Dialogue: 0,0:23:01.58,0:23:04.18,*Default,NTP,0000,0000,0000,,是地球直径的4倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Four times Earth's diameter.
+Dialogue: 0,0:23:04.91,0:23:08.88,*Default,NTP,0000,0000,0000,,天王星公转一周需用84个地球年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It takes 84 Earth years For Uranus to orbit the Sun.
+Dialogue: 0,0:23:09.82,0:23:13.05,*Default,NTP,0000,0000,0000,,天王星上的一天有17个多小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One day on Uranus Is a little over 17 hours.
+Dialogue: 0,0:23:14.49,0:23:17.19,*Default,NTP,0000,0000,0000,,如果你在地球上重150磅 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you weigh 150 pounds On Earth,
+Dialogue: 0,0:23:17.22,0:23:21.16,*Default,NTP,0000,0000,0000,,在天王星上就只重133磅了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would weigh 133 pounds On Uranus.
+Dialogue: 0,0:23:23.00,0:23:25.27,*Default,NTP,0000,0000,0000,,名字取自希腊的天神 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Named after the greek god Of the sky,
+Dialogue: 0,0:23:25.30,0:23:30.20,*Default,NTP,0000,0000,0000,,太阳系中天王星的自转轴线是最倾斜的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus has the most Off-kilter axis of any planet In the solar system.
+Dialogue: 0,0:23:30.84,0:23:33.07,*Default,NTP,0000,0000,0000,,倾斜98度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At an angle of 98 degrees,
+Dialogue: 0,0:23:33.11,0:23:36.01,*Default,NTP,0000,0000,0000,,天王星实际上是单边公转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planet is actually spinning On its side.
+Dialogue: 0,0:23:36.81,0:23:39.71,*Default,NTP,0000,0000,0000,,也就是说每年一次交替地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What that means Is that at one time of the year,
+Dialogue: 0,0:23:39.75,0:23:42.15,*Default,NTP,0000,0000,0000,,一个半球面向太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only one hemisphere Is pointing towards the Sun;
+Dialogue: 0,0:23:42.18,0:23:44.65,*Default,NTP,0000,0000,0000,,另一面半球完全处于黑暗中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the other hemisphere Is complete darkness.
+Dialogue: 0,0:23:44.65,0:23:47.72,*Default,NTP,0000,0000,0000,,天王星公转时间是84年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The time for Uranus To orbit the Sun Is about 84 years,
+Dialogue: 0,0:23:47.76,0:23:50.62,*Default,NTP,0000,0000,0000,,意味着公转的一半时间 即40年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which means that For half of that time Of 40 years,
+Dialogue: 0,0:23:50.66,0:23:52.19,*Default,NTP,0000,0000,0000,,一个半球处于光照中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One hemisphere is in sunlight,
+Dialogue: 0,0:23:52.23,0:23:54.56,*Default,NTP,0000,0000,0000,,另一面半球处于黑暗中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the other hemisphere Is in dark.
+Dialogue: 0,0:23:55.90,0:23:59.87,*Default,NTP,0000,0000,0000,,就像地球上的北极圈 不同的是天王星是整个星球都这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like the arctic circle On Earth, except for It's the whole planet.
+Dialogue: 0,0:23:59.90,0:24:02.07,*Default,NTP,0000,0000,0000,,倾斜太大 某种意义上来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That tilt is so extreme that, In a sense,
+Dialogue: 0,0:24:02.10,0:24:05.37,*Default,NTP,0000,0000,0000,,以至整个北半球都是北极区 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The whole northern hemisphere Is the arctic
+Dialogue: 0,0:24:05.41,0:24:08.51,*Default,NTP,0000,0000,0000,,整个南半球都是南极区 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the whole Southern hemisphere Is the antarctic.
+Dialogue: 0,0:24:10.34,0:24:14.38,*Default,NTP,0000,0000,0000,,天王星上的甲烷使它呈现蓝绿色 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus owes its cool Bluish-green color to methane.
+Dialogue: 0,0:24:15.42,0:24:19.45,*Default,NTP,0000,0000,0000,,甲烷吸收太阳光中红色和橙色的光波 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The methane absorbs Red and orange wavelengths From sunlight
+Dialogue: 0,0:24:19.49,0:24:22.89,*Default,NTP,0000,0000,0000,,使它反射出蓝绿色 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But reflects blue and green.
+Dialogue: 0,0:24:25.03,0:24:27.39,*Default,NTP,0000,0000,0000,,柔软的外表是由于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And its soft appearance Is due to something
+Dialogue: 0,0:24:27.43,0:24:32.90,*Default,NTP,0000,0000,0000,,住在大城市的人们熟知的…烟雾 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's familiar to anyone Who lives in a big city--smog.
+Dialogue: 0,0:24:34.70,0:24:36.60,*Default,NTP,0000,0000,0000,,加州南部烟雾已习以为常 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In southern California, We're used to smog,
+Dialogue: 0,0:24:36.64,0:24:39.87,*Default,NTP,0000,0000,0000,,那是雾状物质产生的光化学反应 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which is Photochemically produced Haze material
+Dialogue: 0,0:24:39.91,0:24:43.08,*Default,NTP,0000,0000,0000,,使得大气中出现雾状外表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which gives a hazy appearance In the atmosphere.
+Dialogue: 0,0:24:45.18,0:24:48.58,*Default,NTP,0000,0000,0000,,这与四大气态行星中的大气是相似的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is similar To the atmospheres Of the four gas giants.
+Dialogue: 0,0:24:49.12,0:24:50.35,*Default,NTP,0000,0000,0000,,在外围行星中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the outer planets,
+Dialogue: 0,0:24:50.38,0:24:52.55,*Default,NTP,0000,0000,0000,,有甲烷 即天然气 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's methane, Which is natural gas.
+Dialogue: 0,0:24:52.59,0:24:56.02,*Default,NTP,0000,0000,0000,,阳光把它转换成复杂的粒子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sunlight converts it To complex particles as well,
+Dialogue: 0,0:24:56.06,0:24:57.19,*Default,NTP,0000,0000,0000,,粒子形成烟雾 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which forms a haze,
+Dialogue: 0,0:24:57.22,0:24:59.96,*Default,NTP,0000,0000,0000,,这也是为何这些行星看起来不那么轮廓尖锐 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which is the reason That planets don't have A very sharp
+Dialogue: 0,0:25:00.09,0:25:02.36,*Default,NTP,0000,0000,0000,,而是毛绒的轮廓 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But have a fuzzy look to them.
+Dialogue: 0,0:25:03.00,0:25:06.63,*Default,NTP,0000,0000,0000,,科学家推测天王星和它的邻居\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists speculate That Uranus And its celestial neighbor,
+Dialogue: 0,0:25:06.67,0:25:09.60,*Default,NTP,0000,0000,0000,,海王星 它们的形成是相同的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune, formed the same way.
+Dialogue: 0,0:25:10.54,0:25:13.01,*Default,NTP,0000,0000,0000,,当宇宙初期的气体和尘埃的原行星盘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the early Proto-planetary disc of gas
+Dialogue: 0,0:25:13.04,0:25:15.64,*Default,NTP,0000,0000,0000,,在太阳系中安顿下来后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And dust In our solar system settled,
+Dialogue: 0,0:25:15.68,0:25:18.78,*Default,NTP,0000,0000,0000,,木星和土星收敛了最多的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter and Saturn gathered up The most material
+Dialogue: 0,0:25:18.81,0:25:22.35,*Default,NTP,0000,0000,0000,,变成了最大的气态星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And became the largest Of the gas giants.
+Dialogue: 0,0:25:23.78,0:25:26.29,*Default,NTP,0000,0000,0000,,随着木星和土星的轨道扩大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As Jupiter And Saturn's orbits grew,
+Dialogue: 0,0:25:26.32,0:25:29.69,*Default,NTP,0000,0000,0000,,它们扰乱了整个行星系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They destabilized The planetary system as a whole.
+Dialogue: 0,0:25:30.83,0:25:33.79,*Default,NTP,0000,0000,0000,,动力相互作用使得天王星和海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dynamic interactions Pushed Uranus and Neptune
+Dialogue: 0,0:25:33.83,0:25:37.33,*Default,NTP,0000,0000,0000,,被加速推挤到太阳系的边缘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Outward to the edge Of the solar system At an accelerated rate
+Dialogue: 0,0:25:37.40,0:25:40.93,*Default,NTP,0000,0000,0000,,在边缘 它们吞食结冰体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where they feasted On icy objects.
+Dialogue: 0,0:25:40.97,0:25:43.00,*Default,NTP,0000,0000,0000,,天王星和海王星还含有初期的气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They have a lot Of that initial gas,
+Dialogue: 0,0:25:43.04,0:25:45.41,*Default,NTP,0000,0000,0000,,但它们也吸收许多冰态物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But they also gathered A lot of icy material
+Dialogue: 0,0:25:45.44,0:25:47.77,*Default,NTP,0000,0000,0000,,和一些岩状物质以促进形成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And some rocky material In their formation.
+Dialogue: 0,0:25:47.81,0:25:48.94,*Default,NTP,0000,0000,0000,,结果是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So consequently,
+Dialogue: 0,0:25:48.98,0:25:52.65,*Default,NTP,0000,0000,0000,,虽然它们拥有这些环绕的氢气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although they have this Surrounding envelope of hydrogen
+Dialogue: 0,0:25:52.68,0:25:56.68,*Default,NTP,0000,0000,0000,,和氦气 甲烷 氮气 及其他物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And helium gas and some methane, Some nitrogen, some other stuff,
+Dialogue: 0,0:25:56.92,0:26:00.62,*Default,NTP,0000,0000,0000,,它们内部也有许多冰态物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They also have A lot of icy material In the inside.
+Dialogue: 0,0:26:01.46,0:26:03.72,*Default,NTP,0000,0000,0000,,内部这些冰态物质使得\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These icy interiors Have led some
+Dialogue: 0,0:26:03.76,0:26:07.09,*Default,NTP,0000,0000,0000,,它们被叫做冰雪巨人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To call Uranus and Neptune The ice giants.
+Dialogue: 0,0:26:07.73,0:26:11.06,*Default,NTP,0000,0000,0000,,但它们并非固态冰的实心球体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's incorrect To imagine them As balls of solid ice
+Dialogue: 0,0:26:11.10,0:26:13.84,*Default,NTP,0000,0000,0000,,宇航员也并不能在上面行走 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That an astronaut Could walk across.
+Dialogue: 0,0:26:16.37,0:26:18.00,*Default,NTP,0000,0000,0000,,如果我们将一个宇航员或探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, if we dropped An astronaut or a probe
+Dialogue: 0,0:26:18.04,0:26:20.64,*Default,NTP,0000,0000,0000,,放置在天王星或海王星的中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Towards the center of Uranus Or Neptune,
+Dialogue: 0,0:26:20.68,0:26:21.34,*Default,NTP,0000,0000,0000,,首先\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, first of all,
+Dialogue: 0,0:26:21.38,0:26:22.91,*Default,NTP,0000,0000,0000,,他们会陷入困难之中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They'd be in a lot of trouble.
+Dialogue: 0,0:26:22.94,0:26:26.18,*Default,NTP,0000,0000,0000,,这里没有可以立足的固体表面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's really no solid surface That they could stand on.
+Dialogue: 0,0:26:28.62,0:26:31.92,*Default,NTP,0000,0000,0000,,在这些星球核心也许会有一小块岩石核 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There may be a small rocky core At the center of these planets,
+Dialogue: 0,0:26:31.95,0:26:34.39,*Default,NTP,0000,0000,0000,,但它们承受的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the pressure That they would be experiencing
+Dialogue: 0,0:26:34.42,0:26:35.62,*Default,NTP,0000,0000,0000,,来自头顶大气的压力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the atmosphere overhead
+Dialogue: 0,0:26:35.66,0:26:39.33,*Default,NTP,0000,0000,0000,,液态冰雪区的挤压力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this liquidy icy region Would crush them,
+Dialogue: 0,0:26:39.36,0:26:41.49,*Default,NTP,0000,0000,0000,,这些压力是我们地球上大气压力的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would be millions of times The pressure that we have
+Dialogue: 0,0:26:41.53,0:26:43.80,*Default,NTP,0000,0000,0000,,百万倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From our own atmosphere For example.
+Dialogue: 0,0:26:43.83,0:26:45.93,*Default,NTP,0000,0000,0000,,所以在他们抵达固体表面之前 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they would be flattened
+Dialogue: 0,0:26:45.97,0:26:48.37,*Default,NTP,0000,0000,0000,,他们就会被压扁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well before they ever reached The solid surface.
+Dialogue: 0,0:26:49.30,0:26:52.64,*Default,NTP,0000,0000,0000,,其他的气态星球气候恶劣 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the other gas giants Have wild weather patterns,
+Dialogue: 0,0:26:52.67,0:26:54.94,*Default,NTP,0000,0000,0000,,天王星似乎相对平静些 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus seems to be Relatively calm,
+Dialogue: 0,0:26:55.03,0:26:58.18,*Default,NTP,0000,0000,0000,,科学家们知道这是为什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and scientists Think they know why.
+Dialogue: 0,0:26:58.71,0:27:00.55,*Default,NTP,0000,0000,0000,,天王星在气态行星中很特别 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus is unique Among the gas giant planets
+Dialogue: 0,0:27:00.58,0:27:02.92,*Default,NTP,0000,0000,0000,,唯有天王星没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In that it is the only one That doesn't have
+Dialogue: 0,0:27:02.95,0:27:04.85,*Default,NTP,0000,0000,0000,,内部加热源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An internal heating source.
+Dialogue: 0,0:27:04.89,0:27:07.32,*Default,NTP,0000,0000,0000,,木星 土星和海王星都有加热源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter, Saturn, and Neptune All have heat coming
+Dialogue: 0,0:27:07.35,0:27:08.66,*Default,NTP,0000,0000,0000,,来自行星内部研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From deep within the planet,
+Dialogue: 0,0:27:08.69,0:27:10.46,*Default,NTP,0000,0000,0000,,加热源可促进循环 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that helps Drive the circulation
+Dialogue: 0,0:27:10.49,0:27:12.53,*Default,NTP,0000,0000,0000,,这也解释了我们在其他三颗行星上发现的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And explains why we see A lot of the banded structure
+Dialogue: 0,0:27:12.56,0:27:14.59,*Default,NTP,0000,0000,0000,,许多带状结构 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That we do On those other three planets.
+Dialogue: 0,0:27:14.66,0:27:17.50,*Default,NTP,0000,0000,0000,,而天王星没有这样的内部加热源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus doesn't have This internal heating source.
+Dialogue: 0,0:27:17.53,0:27:20.43,*Default,NTP,0000,0000,0000,,天王星的出名还有另一个原因 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus has another claim To fame, The way in which
+Dialogue: 0,0:27:20.47,0:27:24.70,*Default,NTP,0000,0000,0000,,天王星被天文学家威廉·赫谢耳发现于1781年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was discovered By astronomer William Herschel In 1781.
+Dialogue: 0,0:27:25.24,0:27:26.24,*Default,NTP,0000,0000,0000,,那时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the time,
+Dialogue: 0,0:27:26.31,0:27:27.47,*Default,NTP,0000,0000,0000,,已知的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The only known planets
+Dialogue: 0,0:27:27.51,0:27:31.18,*Default,NTP,0000,0000,0000,,只有在地球上用肉眼可见的六颗 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Were the six visible To the naked eye from Earth,
+Dialogue: 0,0:27:31.21,0:27:35.48,*Default,NTP,0000,0000,0000,,但赫谢耳首次通过望远镜观察到天王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Herschel first laid eyes On Uranus through a telescope.
+Dialogue: 0,0:27:35.52,0:27:37.68,*Default,NTP,0000,0000,0000,,赫谢耳是一名业余天文学者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Herschel Was an amateur astronomer,
+Dialogue: 0,0:27:37.72,0:27:40.12,*Default,NTP,0000,0000,0000,,专业的音乐家和配镜师 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Professional musician And an optician,
+Dialogue: 0,0:27:40.15,0:27:43.09,*Default,NTP,0000,0000,0000,,所以他有相关知识和能力造出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So he had the knowledge And ability to generate
+Dialogue: 0,0:27:43.12,0:27:46.53,*Default,NTP,0000,0000,0000,,那时世界上最好的望远镜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The best telescopes in the world At that time.
+Dialogue: 0,0:27:47.36,0:27:50.26,*Default,NTP,0000,0000,0000,,天王星的发现在人类历史上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The discovery of Uranus Was incredibly significant
+Dialogue: 0,0:27:50.30,0:27:52.33,*Default,NTP,0000,0000,0000,,至关重要 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the history of humanity
+Dialogue: 0,0:27:52.37,0:27:56.74,*Default,NTP,0000,0000,0000,,因为它是第一颗由望远镜发现的行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because it was the first planet Discovered by telescope,
+Dialogue: 0,0:27:56.77,0:28:00.44,*Default,NTP,0000,0000,0000,,第一颗古人未曾发现的行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first planet That the ancients Didn't know about.
+Dialogue: 0,0:28:00.47,0:28:04.01,*Default,NTP,0000,0000,0000,,1977年 美国航天局的库柏空中天文台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1977, Nasa's Kuiper Airborne observatory
+Dialogue: 0,0:28:04.05,0:28:06.31,*Default,NTP,0000,0000,0000,,有了另一震惊的发现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Made another exciting discovery
+Dialogue: 0,0:28:06.35,0:28:10.38,*Default,NTP,0000,0000,0000,,当天文学家将望远镜对准天王星时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When astronomers Aimed their telescope at Uranus.
+Dialogue: 0,0:28:11.32,0:28:14.79,*Default,NTP,0000,0000,0000,,他们本准备观察一件很平常的天文事件 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They were planning to watch A fairly common Astronomical event,
+Dialogue: 0,0:28:14.82,0:28:18.19,*Default,NTP,0000,0000,0000,,天王星经过一颗恒星前面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The passage of the planet In front of a star.
+Dialogue: 0,0:28:18.23,0:28:23.26,*Default,NTP,0000,0000,0000,,但当天王星挡住恒星时候 恒星发出的光开始闪烁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as Uranus closed in, The star suddenly winked.
+Dialogue: 0,0:28:23.50,0:28:28.17,*Default,NTP,0000,0000,0000,,实际上 它靠近恒星时光忽明忽暗地闪烁了5次 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, it seem to flicker On and off five times As it neared the planet
+Dialogue: 0,0:28:28.20,0:28:32.64,*Default,NTP,0000,0000,0000,,接着 天王星移到另一边时光又闪烁了若干次 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then several more times As it emerged on the other side.
+Dialogue: 0,0:28:34.88,0:28:38.48,*Default,NTP,0000,0000,0000,,这个奇怪现象的原因是什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What was the cause Of this strange phenomenon?
+Dialogue: 0,0:28:38.51,0:28:43.68,*Default,NTP,0000,0000,0000,,闪烁的恒星实际上是因为它位于行星的五道环后面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The flickering star Was actually passing Behind five planetary rings
+Dialogue: 0,0:28:43.72,0:28:47.49,*Default,NTP,0000,0000,0000,,这以前只在土星上见到过 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Features that had Only previously been seen On Saturn.
+Dialogue: 0,0:28:50.62,0:28:53.46,*Default,NTP,0000,0000,0000,,后来进行地面观察 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Subsequent observations From the ground
+Dialogue: 0,0:28:53.49,0:28:55.76,*Default,NTP,0000,0000,0000,,然后派出航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then the Voyager spacecraft,
+Dialogue: 0,0:28:55.80,0:28:59.63,*Default,NTP,0000,0000,0000,,确认行星环的存在 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Confirmed the rings' existence.
+Dialogue: 0,0:29:01.37,0:29:05.61,*Default,NTP,0000,0000,0000,,哈勃太空望远镜在2005年观察到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And observations made in 2005 From the Hubble Space Telescope
+Dialogue: 0,0:29:05.64,0:29:08.41,*Default,NTP,0000,0000,0000,,第二套行星环 距离行星几乎是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Found a second set of rings Orbiting almost twice
+Dialogue: 0,0:29:08.44,0:29:11.95,*Default,NTP,0000,0000,0000,,先前发现行星环的两倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As far away from the planet As the previously known rings.
+Dialogue: 0,0:29:15.18,0:29:17.75,*Default,NTP,0000,0000,0000,,不像土星厚而结冰的环 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike Saturn's Thick, icy rings,
+Dialogue: 0,0:29:17.79,0:29:20.12,*Default,NTP,0000,0000,0000,,天王星的环很暗淡很薄 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus' are dim and thin,
+Dialogue: 0,0:29:20.15,0:29:23.99,*Default,NTP,0000,0000,0000,,由暗黑的岩石尘埃构成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Comprised of dark rocky dust.
+Dialogue: 0,0:29:24.02,0:29:27.89,*Default,NTP,0000,0000,0000,,部分天王星的行星环 可能形成于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of uranus' dusty rings Were likely formed by the impact
+Dialogue: 0,0:29:27.93,0:29:31.90,*Default,NTP,0000,0000,0000,,流星碰撞 或是它27颗卫星之间的碰撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of a meteor or a comet With one of the planet's 27 moons.
+Dialogue: 0,0:29:33.43,0:29:35.00,*Default,NTP,0000,0000,0000,,它的内环可能就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The inner rings Could be the result
+Dialogue: 0,0:29:35.04,0:29:37.97,*Default,NTP,0000,0000,0000,,由天王星的卫星碰撞产生的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of collisions Between the moons themselves,
+Dialogue: 0,0:29:38.01,0:29:42.64,*Default,NTP,0000,0000,0000,,尤其是卫星13 处在行星拥挤的内环 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Especially the 13 that orbit In the planet's Kinetic inner swarm.
+Dialogue: 0,0:29:43.18,0:29:45.11,*Default,NTP,0000,0000,0000,,这儿有许多内环卫星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are a lot Of inner moons around Uranus,
+Dialogue: 0,0:29:45.15,0:29:47.71,*Default,NTP,0000,0000,0000,,这些卫星非常小 非常靠近天王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Moons that are very small And close to the planet.
+Dialogue: 0,0:29:47.75,0:29:52.05,*Default,NTP,0000,0000,0000,,它们都绕行速度都很快 绕行一圈大约一天 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They tend to have Very fast orbits On the order of maybe a day.
+Dialogue: 0,0:29:52.09,0:29:55.26,*Default,NTP,0000,0000,0000,,其他卫星绕行一圈要12小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Other moons zip around uranus In just 12 hours.
+Dialogue: 0,0:29:57.09,0:29:58.12,*Default,NTP,0000,0000,0000,,相比之下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By comparison,
+Dialogue: 0,0:29:58.16,0:30:01.13,*Default,NTP,0000,0000,0000,,我们月亮围绕天王星1/4大小的地球一周\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our moon circles a planet Four times as small,
+Dialogue: 0,0:30:01.16,0:30:04.46,*Default,NTP,0000,0000,0000,,要花上28天 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And takes 28 days to do it.
+Dialogue: 0,0:30:04.50,0:30:08.57,*Default,NTP,0000,0000,0000,,天王星高速绕行的卫星就像赛车 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With Uranus' moons Speeding around the planet Like race cars,
+Dialogue: 0,0:30:08.60,0:30:11.94,*Default,NTP,0000,0000,0000,,那么两颗卫星相撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's only a matter of time Before two of them end up
+Dialogue: 0,0:30:11.97,0:30:15.01,*Default,NTP,0000,0000,0000,,是迟早的事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In another cosmic collision.
+Dialogue: 0,0:30:24.80,0:30:29.17,*Default,NTP,0000,0000,0000,,一群旋转的卫星围绕着天王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Circling the planet Uranus Is a swirling system of moons.
+Dialogue: 0,0:30:30.50,0:30:32.51,*Default,NTP,0000,0000,0000,,最近十年来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even within the last decade,
+Dialogue: 0,0:30:32.54,0:30:37.28,*Default,NTP,0000,0000,0000,,发现它们无序的绕行 产生了实质变化 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Substantial changes Have been detected In their unruly orbits.
+Dialogue: 0,0:30:40.41,0:30:41.45,*Default,NTP,0000,0000,0000,,科学家相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe
+Dialogue: 0,0:30:41.48,0:30:46.09,*Default,NTP,0000,0000,0000,,两颗卫星轨迹相交是迟早的事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's only a matter of time Before two of them cross paths.
+Dialogue: 0,0:30:47.29,0:30:48.45,*Default,NTP,0000,0000,0000,,我们非常确定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can be very certain
+Dialogue: 0,0:30:48.49,0:30:50.99,*Default,NTP,0000,0000,0000,,在一百万年或几百万年之间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That in the period of a million Or a few million years
+Dialogue: 0,0:30:51.02,0:30:54.23,*Default,NTP,0000,0000,0000,,它们中的一些就会互撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That some of them Will collide with each other.
+Dialogue: 0,0:30:54.86,0:30:57.86,*Default,NTP,0000,0000,0000,,我认为丘比特天(卫二十七)和贝琳达(天卫十四)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm thinking particularly Of Cupid and Belinda,
+Dialogue: 0,0:30:57.90,0:30:59.17,*Default,NTP,0000,0000,0000,,这两颗小卫星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which are two small moons
+Dialogue: 0,0:30:59.20,0:31:02.70,*Default,NTP,0000,0000,0000,,绕行轨道与对方靠得很近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That happen to be orbiting Very close to each other.
+Dialogue: 0,0:31:03.20,0:31:05.94,*Default,NTP,0000,0000,0000,,轨道相距只有几百英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Travelling at just A few hundred miles apart,
+Dialogue: 0,0:31:05.97,0:31:09.54,*Default,NTP,0000,0000,0000,,科学家期待有一天这些卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists expect That at some point, these moons,
+Dialogue: 0,0:31:09.58,0:31:12.58,*Default,NTP,0000,0000,0000,,由于重力作用撞上对方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Due to gravitational forces That they impart Upon each other,
+Dialogue: 0,0:31:13.21,0:31:16.75,*Default,NTP,0000,0000,0000,,最终碰撞相互撕裂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will eventually collide And rip each other apart.
+Dialogue: 0,0:31:23.36,0:31:26.09,*Default,NTP,0000,0000,0000,,这将是这些卫星的末日 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will be a bad day For the moons,
+Dialogue: 0,0:31:26.13,0:31:29.70,*Default,NTP,0000,0000,0000,,但对天王星的行星环来说却是件好事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But a welcome event For the planet's ring system.
+Dialogue: 0,0:31:31.53,0:31:32.90,*Default,NTP,0000,0000,0000,,碰撞产生的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The debris that's released From that
+Dialogue: 0,0:31:32.93,0:31:37.00,*Default,NTP,0000,0000,0000,,可能会在天王星周围形成一圈新的环 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can potentially generate A new ring around uranus.
+Dialogue: 0,0:31:38.64,0:31:43.54,*Default,NTP,0000,0000,0000,,天王星与它的姐妹海王星 一同分享太阳系的外围世界 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Uranus shares The outer solar system With its sister planet Neptune
+Dialogue: 0,0:31:44.28,0:31:48.88,*Default,NTP,0000,0000,0000,,一颗发光的蓝宝石 离太阳30亿英里远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A gleaming sapphire, Some three billion miles away From the Sun.
+Dialogue: 0,0:31:50.42,0:31:52.05,*Default,NTP,0000,0000,0000,,由于冥王星的降级 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With the demotion of Pluto,
+Dialogue: 0,0:31:52.09,0:31:55.36,*Default,NTP,0000,0000,0000,,海王星现是我们靠最外的行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune is now Our outermost planet.
+Dialogue: 0,0:31:57.79,0:32:01.23,*Default,NTP,0000,0000,0000,,海王星名字取自罗马的海神 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune takes its name From the Roman god of the seas.
+Dialogue: 0,0:32:08.47,0:32:11.74,*Default,NTP,0000,0000,0000,,海王星离地球26.8亿英里远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune is 2.68 billion miles From Earth.
+Dialogue: 0,0:32:13.07,0:32:15.41,*Default,NTP,0000,0000,0000,,直径约30 000英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Measuring roughly 30,000 miles,
+Dialogue: 0,0:32:15.44,0:32:19.01,*Default,NTP,0000,0000,0000,,海王星直径是地球直径的4倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune's diameter is four times That of Earth's.
+Dialogue: 0,0:32:19.65,0:32:24.12,*Default,NTP,0000,0000,0000,,海王星上一年等于地球上的165年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A year on Neptune is equivalent To 165 Earth years,
+Dialogue: 0,0:32:24.95,0:32:28.06,*Default,NTP,0000,0000,0000,,一天有16.1小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a day lasts 16.1 hours.
+Dialogue: 0,0:32:29.39,0:32:32.06,*Default,NTP,0000,0000,0000,,如果你在地球上重150磅 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you weigh 150 pounds On Earth,
+Dialogue: 0,0:32:32.09,0:32:36.26,*Default,NTP,0000,0000,0000,,你在海王星上将超过169磅 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would tilt the scales At a 169 pounds on Neptune.
+Dialogue: 0,0:32:40.87,0:32:42.70,*Default,NTP,0000,0000,0000,,与所有外太行星一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like all the outer planets,
+Dialogue: 0,0:32:42.74,0:32:45.51,*Default,NTP,0000,0000,0000,,海王星自转比地球快得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune rotates Much faster than Earth,
+Dialogue: 0,0:32:45.74,0:32:48.51,*Default,NTP,0000,0000,0000,,这样的快速旋转产生了狂暴的风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this rapid spin Helps to create violent winds.
+Dialogue: 0,0:32:49.31,0:32:50.61,*Default,NTP,0000,0000,0000,,实际上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact,
+Dialogue: 0,0:32:50.64,0:32:54.41,*Default,NTP,0000,0000,0000,,在太阳系中 所有记载的行星上风速最快的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The highest winds Recorded on any planet In the solar system
+Dialogue: 0,0:32:54.97,0:32:56.02,*Default,NTP,0000,0000,0000,,要属海王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are on Neptune.
+Dialogue: 0,0:32:56.05,0:32:59.32,*Default,NTP,0000,0000,0000,,海王星的风有时每小时1千多英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have winds of sometimes Over 1,000 miles per hour
+Dialogue: 0,0:32:59.35,0:33:04.09,*Default,NTP,0000,0000,0000,,上层大气的风一般有750英里每小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And commonly, 750 miles per hour Raging in that upper atmosphere.
+Dialogue: 0,0:33:05.29,0:33:06.99,*Default,NTP,0000,0000,0000,,我们不清楚为什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we're not quite sure why,
+Dialogue: 0,0:33:07.03,0:33:10.00,*Default,NTP,0000,0000,0000,,至今还是个秘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there's a little bit Of mystery.
+Dialogue: 0,0:33:10.53,0:33:13.60,*Default,NTP,0000,0000,0000,,让科学家困惑的就是为什么海王星上的风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What puzzles scientists Is why Neptune's winds
+Dialogue: 0,0:33:13.63,0:33:18.00,*Default,NTP,0000,0000,0000,,比其他外太行星要强劲 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Blow even stronger than those On the other outer planets,
+Dialogue: 0,0:33:18.04,0:33:20.59,*Default,NTP,0000,0000,0000,,速度比木星的巨大红斑飓风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With speeds Two to three times faster
+Dialogue: 0,0:33:20.64,0:33:23.65,*Default,NTP,0000,0000,0000,,要快2~3倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Than in Jupiter's blustery Great red spot.
+Dialogue: 0,0:33:31.79,0:33:33.79,*Default,NTP,0000,0000,0000,,喷气推进实验研究人员麦克·密西拿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jpl researcher, Michael Mishna,
+Dialogue: 0,0:33:33.82,0:33:36.89,*Default,NTP,0000,0000,0000,,研究其他行星上影响气候的驱动力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Studies what drives weather On other planets.
+Dialogue: 0,0:33:37.42,0:33:41.09,*Default,NTP,0000,0000,0000,,海王星上神秘的强风激起了他的兴趣 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's intrigued by Neptune's Mysteriously strong winds.
+Dialogue: 0,0:33:42.03,0:33:44.16,*Default,NTP,0000,0000,0000,,如果我们把这些风车放到海王星上面去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we were to put One of these windmills Up on Neptune
+Dialogue: 0,0:33:44.20,0:33:46.17,*Default,NTP,0000,0000,0000,,所放的高度决定了风车的转动状态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Depending on the altitude That we put it,
+Dialogue: 0,0:33:46.20,0:33:48.57,*Default,NTP,0000,0000,0000,,我们要么看见与现在所见的类似的风车转动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We would either see motion Similar to what we see now.
+Dialogue: 0,0:33:48.60,0:33:50.70,*Default,NTP,0000,0000,0000,,要么把风车放到高处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or if we were to place it At the altitudes
+Dialogue: 0,0:33:50.74,0:33:53.24,*Default,NTP,0000,0000,0000,,那里的风速达到1000英里每小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In which the winds Are going 1,000 miles an hour,
+Dialogue: 0,0:33:53.27,0:33:55.54,*Default,NTP,0000,0000,0000,,我们实际上看不到风车这样的转动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We actually might not see Very much motion at all,
+Dialogue: 0,0:33:55.58,0:33:57.68,*Default,NTP,0000,0000,0000,,因为大气层太薄 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's because The atmosphere is so thin
+Dialogue: 0,0:33:57.71,0:34:01.65,*Default,NTP,0000,0000,0000,,从风中得不到足够的动力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That there's just not enough force From that wind
+Dialogue: 0,0:34:01.81,0:34:04.28,*Default,NTP,0000,0000,0000,,来转动涡轮的螺旋桨 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to actually turn The propellers of the turbine.
+Dialogue: 0,0:34:04.32,0:34:07.65,*Default,NTP,0000,0000,0000,,所以你可能一点也看不到风车转动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you might not actually see Any motion at all.
+Dialogue: 0,0:34:08.49,0:34:10.86,*Default,NTP,0000,0000,0000,,地球上 如果我们看一张气象图\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth we see high pressure And low pressure systems
+Dialogue: 0,0:34:10.89,0:34:13.29,*Default,NTP,0000,0000,0000,,可以看到高压区和低压区 这与外太行星上的气象图\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we look at weather maps And the same, to an extent,
+Dialogue: 0,0:34:13.33,0:34:16.16,*Default,NTP,0000,0000,0000,,在某种程度上是一样的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can be seen On the outer planets.
+Dialogue: 0,0:34:16.96,0:34:20.00,*Default,NTP,0000,0000,0000,,我们无法准确地鉴定这里的特高压区 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can't exactly identify A big h in this location
+Dialogue: 0,0:34:20.03,0:34:22.27,*Default,NTP,0000,0000,0000,,或是这里的特低压区 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or a big l in this location,
+Dialogue: 0,0:34:22.57,0:34:24.00,*Default,NTP,0000,0000,0000,,但我们可以鉴定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there are generally regions
+Dialogue: 0,0:34:24.04,0:34:26.77,*Default,NTP,0000,0000,0000,,哪些区更暖 气压更高些 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That are warmer And have higher pressure Than other areas,
+Dialogue: 0,0:34:26.81,0:34:28.88,*Default,NTP,0000,0000,0000,,哪些区更寒冷 气压更低些 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which are colder And may have lower pressure,
+Dialogue: 0,0:34:28.91,0:34:32.41,*Default,NTP,0000,0000,0000,,从高压区到低压区就会产生风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that generates The winds that blow From high to low.
+Dialogue: 0,0:34:33.95,0:34:36.25,*Default,NTP,0000,0000,0000,,形成风的关键因素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A key factor In the creation of wind
+Dialogue: 0,0:34:36.28,0:34:39.22,*Default,NTP,0000,0000,0000,,是加热空气的热能源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is an energy source To heat the air.
+Dialogue: 0,0:34:39.25,0:34:42.62,*Default,NTP,0000,0000,0000,,地球上 太阳提供了这一热能源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, The sun provides this energy.
+Dialogue: 0,0:34:43.86,0:34:45.53,*Default,NTP,0000,0000,0000,,但这颗刮风的海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the windswept planet Neptune
+Dialogue: 0,0:34:45.56,0:34:48.63,*Default,NTP,0000,0000,0000,,与太阳的距离比地球要远30倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is 30 times farther from the sun Than Earth,
+Dialogue: 0,0:34:49.56,0:34:53.37,*Default,NTP,0000,0000,0000,,得到的太阳能也只有地球的1/900 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it gets only about 1/900th As much solar energy.
+Dialogue: 0,0:34:54.10,0:34:58.34,*Default,NTP,0000,0000,0000,,这点能量显然不足以产生海王星上的狂风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's simply not enough To power Neptune's Colossal winds.
+Dialogue: 0,0:35:00.07,0:35:01.84,*Default,NTP,0000,0000,0000,,科学家认为海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe that neptune
+Dialogue: 0,0:35:01.88,0:35:05.68,*Default,NTP,0000,0000,0000,,从自己内部获得了另一部分能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gets its additional power From within.
+Dialogue: 0,0:35:09.95,0:35:13.25,*Default,NTP,0000,0000,0000,,航天器2号的数据测试显示 海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Measurements taken by Voyager II Showed that Neptune
+Dialogue: 0,0:35:13.29,0:35:17.76,*Default,NTP,0000,0000,0000,,从自己内部释放的能量是获得太阳能的两倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Radiates twice as much heat From its interior As it gets from the Sun
+Dialogue: 0,0:35:19.79,0:35:22.19,*Default,NTP,0000,0000,0000,,海王星的热能释放与热能吸收比例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The highest ratio Of heat outflow to inflow
+Dialogue: 0,0:35:22.23,0:35:25.00,*Default,NTP,0000,0000,0000,,是太阳系所有行星中最高的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of any planet In the solar system.
+Dialogue: 0,0:35:26.43,0:35:29.27,*Default,NTP,0000,0000,0000,,海王星的内热相对较多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune has A relatively large amount Of internal heating
+Dialogue: 0,0:35:29.30,0:35:33.17,*Default,NTP,0000,0000,0000,,它的内热来自于内部物质的放射性衰变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which is coming From radioactive decay Of materials inside
+Dialogue: 0,0:35:33.21,0:35:35.58,*Default,NTP,0000,0000,0000,,和发生的其他化学过程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And other chemical processes That are occurring
+Dialogue: 0,0:35:35.61,0:35:38.48,*Default,NTP,0000,0000,0000,,这些衰变和化学过程就释放了许多热量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that releases a lot of heat From the inside.
+Dialogue: 0,0:35:40.01,0:35:41.75,*Default,NTP,0000,0000,0000,,只是为什么海王星内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just why The interior of Neptune
+Dialogue: 0,0:35:41.78,0:35:44.75,*Default,NTP,0000,0000,0000,,能产生如此多的能量这还是个秘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Generates so much heat Remains a mystery.
+Dialogue: 0,0:35:45.79,0:35:47.02,*Default,NTP,0000,0000,0000,,有的人推测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's lead some to speculate
+Dialogue: 0,0:35:47.05,0:35:50.02,*Default,NTP,0000,0000,0000,,海王星仍然还处于成长状态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That the planet Is still in the process Of forming,
+Dialogue: 0,0:35:51.16,0:35:53.99,*Default,NTP,0000,0000,0000,,内陷的气体被重力压缩时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the in-falling gases Are releasing heat
+Dialogue: 0,0:35:54.03,0:35:56.90,*Default,NTP,0000,0000,0000,,就会释放出热能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As they are compacted By gravity.
+Dialogue: 0,0:36:01.37,0:36:03.87,*Default,NTP,0000,0000,0000,,内热源也能够解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This internal heat source Could also explain
+Dialogue: 0,0:36:03.90,0:36:06.94,*Default,NTP,0000,0000,0000,,海王星大气中气体的对流 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The convection of gases In Neptune's atmosphere
+Dialogue: 0,0:36:06.97,0:36:10.38,*Default,NTP,0000,0000,0000,,这些对流形成了迷人的云纹 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That leads To fascinating cloud patterns.
+Dialogue: 0,0:36:11.54,0:36:15.42,*Default,NTP,0000,0000,0000,,大气中有许多明亮白色的云层出现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are many bright, White clouds that appear In the atmosphere.
+Dialogue: 0,0:36:15.95,0:36:20.09,*Default,NTP,0000,0000,0000,,明暗不同的区域镶嵌在海王星表层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are different regions Of very bright and dark banding On the surface,
+Dialogue: 0,0:36:20.22,0:36:22.32,*Default,NTP,0000,0000,0000,,所以我们能够区分出不同的纬度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we'd be able to distinguish Different latitudes
+Dialogue: 0,0:36:22.36,0:36:24.99,*Default,NTP,0000,0000,0000,,依靠着云带的亮度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By the brightness of the bands.
+Dialogue: 0,0:36:29.43,0:36:31.43,*Default,NTP,0000,0000,0000,,科学家相信云带的样式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe That the banding patterns
+Dialogue: 0,0:36:31.46,0:36:35.27,*Default,NTP,0000,0000,0000,,与海王星云的成分有关 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Have something to do With Neptune's Cloud composition.
+Dialogue: 0,0:36:35.30,0:36:37.80,*Default,NTP,0000,0000,0000,,它们可能由甲烷组成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are probably Made of methane,
+Dialogue: 0,0:36:37.84,0:36:41.11,*Default,NTP,0000,0000,0000,,在行星表面行动得很快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they move very fast Around the planet as well.
+Dialogue: 0,0:36:41.94,0:36:45.95,*Default,NTP,0000,0000,0000,,海王星上风的移动不同于我们所知的任何事物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune's wind movement Is unlike anything We are accustomed to.
+Dialogue: 0,0:36:46.78,0:36:49.82,*Default,NTP,0000,0000,0000,,海王星上巨大的风暴系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are Giant storm systems,
+Dialogue: 0,0:36:49.85,0:36:54.56,*Default,NTP,0000,0000,0000,,使得地球上的风暴相形见拙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Storm systems That would dwarf anything That we see on Earth.
+Dialogue: 0,0:36:57.29,0:36:58.79,*Default,NTP,0000,0000,0000,,1989年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1989,
+Dialogue: 0,0:36:58.83,0:37:00.79,*Default,NTP,0000,0000,0000,,航天器2号拍下一张照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Voyager ii snapped a photograph
+Dialogue: 0,0:37:00.83,0:37:03.90,*Default,NTP,0000,0000,0000,,震惊了业界的科学家 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That shocked The mission's scientists.
+Dialogue: 0,0:37:03.93,0:37:06.20,*Default,NTP,0000,0000,0000,,海王星有一场巨大的风暴 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune had a huge storm,
+Dialogue: 0,0:37:06.23,0:37:10.54,*Default,NTP,0000,0000,0000,,在它南半球有一块巨大的黑斑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A great dark spot In its southern hemisphere.
+Dialogue: 0,0:37:10.57,0:37:12.84,*Default,NTP,0000,0000,0000,,延伸8000英里宽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stretching 8,000 miles wide,
+Dialogue: 0,0:37:12.87,0:37:16.08,*Default,NTP,0000,0000,0000,,大到足够能把我们地球放进黑斑中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Large enough for our Earth To fit in the center,
+Dialogue: 0,0:37:16.11,0:37:20.75,*Default,NTP,0000,0000,0000,,这风暴类似与木星上声名狼藉的大红斑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The storm resembled Jupiter's infamous Great red spot.
+Dialogue: 0,0:37:23.28,0:37:26.72,*Default,NTP,0000,0000,0000,,大红斑是一块巨大的反气旋 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The great red spot Is a huge anticyclone,
+Dialogue: 0,0:37:26.75,0:37:30.62,*Default,NTP,0000,0000,0000,,它由许多较小的风暴组成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which is fed By many smaller storms That keeps it alive, If you like.
+Dialogue: 0,0:37:31.46,0:37:34.19,*Default,NTP,0000,0000,0000,,否则它会驱散消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Otherwise it would dissipate And disappear.
+Dialogue: 0,0:37:34.83,0:37:36.20,*Default,NTP,0000,0000,0000,,以大黑斑看来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the case Of the great dark spot,
+Dialogue: 0,0:37:36.23,0:37:39.03,*Default,NTP,0000,0000,0000,,我们相信大气中会是相当的动乱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We believe It's more of an instability In the atmosphere,
+Dialogue: 0,0:37:39.07,0:37:44.87,*Default,NTP,0000,0000,0000,,风暴涌入高速的大气层中 使得大气来回翻滚 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which rocks back and forth Because of the flows In that very fast atmosphere.
+Dialogue: 0,0:37:47.81,0:37:50.91,*Default,NTP,0000,0000,0000,,恰在第一次发现大黑斑的5年后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just five years After the spot Was first discovered,
+Dialogue: 0,0:37:51.11,0:37:53.82,*Default,NTP,0000,0000,0000,,科学家们再次大吃一惊 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientist were in for another surprise
+Dialogue: 0,0:37:55.32,0:37:56.72,*Default,NTP,0000,0000,0000,,哈勃太空望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Hubble Space Telescope
+Dialogue: 0,0:37:56.75,0:37:59.75,*Default,NTP,0000,0000,0000,,对准海王星 发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Turned its eye toward Neptune Only to see
+Dialogue: 0,0:37:59.79,0:38:03.66,*Default,NTP,0000,0000,0000,,海王星上最大的风暴消失了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That the largest storm On the planet was gone.
+Dialogue: 0,0:38:11.48,0:38:15.08,*Default,NTP,0000,0000,0000,,海王星的大黑斑发生什么事了？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What happened To Neptune's great dark spot?
+Dialogue: 0,0:38:16.91,0:38:19.05,*Default,NTP,0000,0000,0000,,5年时间内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within a span of five years,
+Dialogue: 0,0:38:19.08,0:38:20.85,*Default,NTP,0000,0000,0000,,该行星上最大的风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The largest storm on the planet
+Dialogue: 0,0:38:20.89,0:38:24.46,*Default,NTP,0000,0000,0000,,从南半球就这么轻易的消失了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Simply vanished From the southern hemisphere.
+Dialogue: 0,0:38:26.99,0:38:30.96,*Default,NTP,0000,0000,0000,,但这并不意味着海王星上所有风暴都停止了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that didn't mean the end Of mega storms on Neptune.
+Dialogue: 0,0:38:32.00,0:38:35.06,*Default,NTP,0000,0000,0000,,天文学家使用哈勃太空望远镜观测到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers using the Hubble Space Telescope observed
+Dialogue: 0,0:38:35.10,0:38:38.04,*Default,NTP,0000,0000,0000,,一块新的大黑斑出现了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That a new great dark spot Had appeared.
+Dialogue: 0,0:38:39.27,0:38:42.67,*Default,NTP,0000,0000,0000,,但这次黑斑出现在行星的北半球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But this time, in the planet's Northern hemisphere.
+Dialogue: 0,0:38:43.67,0:38:46.21,*Default,NTP,0000,0000,0000,,似乎海王星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It seems that on Neptune,
+Dialogue: 0,0:38:46.24,0:38:48.65,*Default,NTP,0000,0000,0000,,风暴系统出现在大斑迹之处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The storm systems that manifest As these big spots,
+Dialogue: 0,0:38:48.68,0:38:50.75,*Default,NTP,0000,0000,0000,,利用望远镜或飞行器你可以看得到 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can see, With a spacecraft or telescope.
+Dialogue: 0,0:38:50.78,0:38:53.28,*Default,NTP,0000,0000,0000,,相比之下 它们有点来去匆忙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They sort of come and go On shorter time scales Than,
+Dialogue: 0,0:38:53.31,0:38:55.18,*Default,NTP,0000,0000,0000,,比如说木星上的大红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}say, The great red spot on Jupiter
+Dialogue: 0,0:38:55.22,0:38:58.12,*Default,NTP,0000,0000,0000,,已存在那里好几百年了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which has been there For hundreds of years.
+Dialogue: 0,0:38:58.82,0:39:01.59,*Default,NTP,0000,0000,0000,,这些风暴系统不仅短暂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not only are these Storm systems transient,
+Dialogue: 0,0:39:01.63,0:39:03.73,*Default,NTP,0000,0000,0000,,而且古怪 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are also eccentric.
+Dialogue: 0,0:39:06.36,0:39:09.13,*Default,NTP,0000,0000,0000,,科学家发现大黑斑的大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists observed That the size Of the great dark spot
+Dialogue: 0,0:39:09.17,0:39:11.53,*Default,NTP,0000,0000,0000,,振荡漂移了几千平方英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oscillated by several thousand Square miles
+Dialogue: 0,0:39:11.57,0:39:14.84,*Default,NTP,0000,0000,0000,,在仅仅8天之内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}within a span Of just eight days.
+Dialogue: 0,0:39:18.18,0:39:22.41,*Default,NTP,0000,0000,0000,,消失 再现 完全奇异的移动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The disappearance And reappearance And overall erratic movement
+Dialogue: 0,0:39:22.45,0:39:24.28,*Default,NTP,0000,0000,0000,,使得海王星的暴风系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Make Neptune's storm systems
+Dialogue: 0,0:39:24.31,0:39:28.12,*Default,NTP,0000,0000,0000,,成为太阳系中最难以预知的风暴之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of the most unpredictable In the solar system.
+Dialogue: 0,0:39:32.49,0:39:34.96,*Default,NTP,0000,0000,0000,,类似于其它外太行星邻居 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Similar to its Outer planet neighbors,
+Dialogue: 0,0:39:34.99,0:39:38.23,*Default,NTP,0000,0000,0000,,海王星也有复杂的卫星体系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune has A complex system of moons.
+Dialogue: 0,0:39:39.66,0:39:42.70,*Default,NTP,0000,0000,0000,,目前已发现13颗卫星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thirteen have been discovered So far.
+Dialogue: 0,0:39:48.54,0:39:49.87,*Default,NTP,0000,0000,0000,,海王星的一些卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of Neptune's moons
+Dialogue: 0,0:39:49.91,0:39:53.88,*Default,NTP,0000,0000,0000,,可能起源形成于太阳系的其他地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}May have originally formed Elsewhere in the solar system.
+Dialogue: 0,0:39:56.78,0:39:58.11,*Default,NTP,0000,0000,0000,,海王星捕获的这些卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune is probably Capturing these moons
+Dialogue: 0,0:39:58.15,0:40:00.18,*Default,NTP,0000,0000,0000,,可能来自于太阳系中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the vast amount of material That's actually
+Dialogue: 0,0:40:00.22,0:40:03.45,*Default,NTP,0000,0000,0000,,海王星和冥王星之外的大量物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In our solar system Beyond the orbit Of Neptune and Pluto.
+Dialogue: 0,0:40:03.49,0:40:06.56,*Default,NTP,0000,0000,0000,,外太空有许多冰星体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is a lot Of very icy bodies,
+Dialogue: 0,0:40:06.59,0:40:09.63,*Default,NTP,0000,0000,0000,,小行星体和其他岩类物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Small bodies, planetesimals And other rocky things
+Dialogue: 0,0:40:09.66,0:40:13.16,*Default,NTP,0000,0000,0000,,穿行于太阳系碎片之间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That pass through Our solar system And other debris.
+Dialogue: 0,0:40:14.20,0:40:15.03,*Default,NTP,0000,0000,0000,,偶尔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every so often,
+Dialogue: 0,0:40:15.07,0:40:17.67,*Default,NTP,0000,0000,0000,,一些碎片可能会互相撞击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of this debris Might collide with each other
+Dialogue: 0,0:40:17.70,0:40:20.94,*Default,NTP,0000,0000,0000,,这时碎片就可能被撞进太阳系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then they get pushed in Towards the solar system.
+Dialogue: 0,0:40:20.97,0:40:24.91,*Default,NTP,0000,0000,0000,,有的冰冻碎片最后形成了彗星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of these icy bodies End up as comets.
+Dialogue: 0,0:40:24.94,0:40:27.04,*Default,NTP,0000,0000,0000,,但如果碎片被撞向特定的方向 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if one is pushed In the right direction
+Dialogue: 0,0:40:27.08,0:40:28.75,*Default,NTP,0000,0000,0000,,被撞在特定的时刻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the right time,
+Dialogue: 0,0:40:28.78,0:40:32.35,*Default,NTP,0000,0000,0000,,那么这一碎片就有可能被行星的引力吸住 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can be captured by a planet's Gravitational pull,
+Dialogue: 0,0:40:32.38,0:40:35.15,*Default,NTP,0000,0000,0000,,变成一颗卫星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Becoming a moon.
+Dialogue: 0,0:40:37.89,0:40:40.16,*Default,NTP,0000,0000,0000,,海王星最大的卫星海卫一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune's largest moon, Triton,
+Dialogue: 0,0:40:40.19,0:40:43.29,*Default,NTP,0000,0000,0000,,大小与月亮相当 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is roughly the size Of Earth's moon.
+Dialogue: 0,0:40:43.93,0:40:48.87,*Default,NTP,0000,0000,0000,,它是太阳系中现已知的最冷的星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is the coldest object In our solar system, Ever observed by astronomers
+Dialogue: 0,0:40:48.90,0:40:52.27,*Default,NTP,0000,0000,0000,,甚至比冥王星还要冷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even more frigid than Pluto.
+Dialogue: 0,0:40:52.67,0:40:54.54,*Default,NTP,0000,0000,0000,,只有绝对零度以上40度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only 40 degrees Above absolute zero,
+Dialogue: 0,0:40:54.57,0:40:56.14,*Default,NTP,0000,0000,0000,,大约-390华氏度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About minus 390 degrees fahrenheit.
+Dialogue: 0,0:40:56.17,0:41:00.61,*Default,NTP,0000,0000,0000,,如此之冷以至于通常呈气态的氮气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So cold that the nitrogen Which would normally be In a gaseous form,
+Dialogue: 0,0:41:00.64,0:41:04.21,*Default,NTP,0000,0000,0000,,都成了冰态覆盖在极地区 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Forms an icy polar cap On this moon.
+Dialogue: 0,0:41:04.75,0:41:09.59,*Default,NTP,0000,0000,0000,,海卫一如此冷主要是因为它的表面反光性太好 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Triton is so cold Primarily because the surface Is so reflective.
+Dialogue: 0,0:41:09.62,0:41:12.97,*Default,NTP,0000,0000,0000,,照在它表面光约有70%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About 70 percent of the light That hits the surface of Triton
+Dialogue: 0,0:41:12.99,0:41:14.19,*Default,NTP,0000,0000,0000,,都反射了出去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is reflected back.
+Dialogue: 0,0:41:14.22,0:41:17.36,*Default,NTP,0000,0000,0000,,所以海卫一吸收不到太多的太阳能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And with that much light Not being absorbed By the planet,
+Dialogue: 0,0:41:17.39,0:41:19.70,*Default,NTP,0000,0000,0000,,变得非常非常的冷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It just gets very, very cold.
+Dialogue: 0,0:41:22.03,0:41:25.03,*Default,NTP,0000,0000,0000,,海卫一的组成成分与冥王星相似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Triton, it could well Be similar in composition To Pluto.
+Dialogue: 0,0:41:25.07,0:41:27.24,*Default,NTP,0000,0000,0000,,表面是冰雪覆盖 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see ices On the surface there.
+Dialogue: 0,0:41:27.27,0:41:28.04,*Default,NTP,0000,0000,0000,,在海卫一表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the fascinating things
+Dialogue: 0,0:41:28.07,0:41:30.57,*Default,NTP,0000,0000,0000,,有一件奇妙的景观 羽毛状的烟云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That we see on the surface Of triton are actually plumes,
+Dialogue: 0,0:41:30.61,0:41:33.01,*Default,NTP,0000,0000,0000,,火山上空的烟云 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Essentially volcanoes.
+Dialogue: 0,0:41:33.01,0:41:33.71,*Default,NTP,0000,0000,0000,,我们来看看这些火山 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we see these plumes,
+Dialogue: 0,0:41:33.74,0:41:36.01,*Default,NTP,0000,0000,0000,,当航天器经过海王星和海卫一的时候 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've actually seen them Coming out in real time
+Dialogue: 0,0:41:36.05,0:41:40.28,*Default,NTP,0000,0000,0000,,我们可以看到火山的实时喷发 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With the Voyager spacecraft When it went past Neptune and Triton.
+Dialogue: 0,0:41:40.28,0:41:42.12,*Default,NTP,0000,0000,0000,,不像地球上的火山 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike Earth's volcanoes,
+Dialogue: 0,0:41:42.15,0:41:43.92,*Default,NTP,0000,0000,0000,,海卫一喷泉似的火山爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Triton's geyser-like eruptions
+Dialogue: 0,0:41:43.95,0:41:49.56,*Default,NTP,0000,0000,0000,,喷出大量混合液 包含液氮 液态甲烷 氨水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Spew a mixture Of liquid nitrogen, methane, And ammonia.
+Dialogue: 0,0:41:51.39,0:41:53.80,*Default,NTP,0000,0000,0000,,并且喷出后的混合液\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And an upsurge instantly freezes
+Dialogue: 0,0:41:53.83,0:41:58.50,*Default,NTP,0000,0000,0000,,飞上5英里高的大气中马上就结冰了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As it rockets five miles high Into its thin atmosphere.
+Dialogue: 0,0:41:59.14,0:42:00.07,*Default,NTP,0000,0000,0000,,一旦到了空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once airborne,
+Dialogue: 0,0:42:00.10,0:42:03.98,*Default,NTP,0000,0000,0000,,在冰粒落下之前 冰粒将会被大气中的风带走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ice can be carried Along for miles by winds In the atmosphere
+Dialogue: 0,0:42:04.14,0:42:07.25,*Default,NTP,0000,0000,0000,,带走好几英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before snowing Back down onto the surface.
+Dialogue: 0,0:42:14.75,0:42:17.75,*Default,NTP,0000,0000,0000,,海卫一上的这些地质活动引发了科学家的思考 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Geological activity on triton Makes scientists wonder
+Dialogue: 0,0:42:17.79,0:42:22.79,*Default,NTP,0000,0000,0000,,在海卫一冰雪覆盖的地表之下 如果有水的存在呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there's water, Perhaps being heated Under Triton's Icy exterior
+Dialogue: 0,0:42:24.93,0:42:26.46,*Default,NTP,0000,0000,0000,,按照这一理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as the theory goes,
+Dialogue: 0,0:42:26.50,0:42:29.60,*Default,NTP,0000,0000,0000,,有水的地方就会有生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where there's water, Life could be present.
+Dialogue: 0,0:42:32.14,0:42:33.40,*Default,NTP,0000,0000,0000,,如果有水的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If that's the case,
+Dialogue: 0,0:42:33.44,0:42:35.84,*Default,NTP,0000,0000,0000,,海王星的最大的这颗卫星可能成为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune's largest moon Could be home to
+Dialogue: 0,0:42:35.87,0:42:39.64,*Default,NTP,0000,0000,0000,,空前的最大发现之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one Of the biggest discoveries Of all time.
+Dialogue: 0,0:42:49.15,0:42:51.42,*Default,NTP,0000,0000,0000,,但由于计划和时间关系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But due to planning And transit times,
+Dialogue: 0,0:42:51.45,0:42:53.82,*Default,NTP,0000,0000,0000,,在飞行器抵达天王星和海王星之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will be at least two decades
+Dialogue: 0,0:42:53.86,0:42:56.86,*Default,NTP,0000,0000,0000,,至少还要等20年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Before we approach Uranus or Neptune again.
+Dialogue: 0,0:42:58.30,0:43:00.96,*Default,NTP,0000,0000,0000,,我们有讨论 但目前还没有方案 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've had discussions But there are no current plans.
+Dialogue: 0,0:43:01.00,0:43:01.90,*Default,NTP,0000,0000,0000,,利用飞行器我们可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could, with Voyager,
+Dialogue: 0,0:43:01.93,0:43:03.77,*Default,NTP,0000,0000,0000,,进行粗略的观察 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, we just had a brief fly-by
+Dialogue: 0,0:43:03.80,0:43:06.47,*Default,NTP,0000,0000,0000,,获得许多的新发现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we managed to collect A lot of discovery.
+Dialogue: 0,0:43:06.70,0:43:07.74,*Default,NTP,0000,0000,0000,,但目前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in fact,
+Dialogue: 0,0:43:07.77,0:43:11.28,*Default,NTP,0000,0000,0000,,我们仍需回来继续追捕新发现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We need to get back To pursue those discoveries.
+Dialogue: 0,0:43:12.11,0:43:13.08,*Default,NTP,0000,0000,0000,,同时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the meantime
+Dialogue: 0,0:43:13.11,0:43:16.81,*Default,NTP,0000,0000,0000,,科学家聚焦在新视野号的发射上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists will be focused On New Horizons as it rockets
+Dialogue: 0,0:43:16.85,0:43:19.45,*Default,NTP,0000,0000,0000,,因为它会近距离接近冥王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even closer to Pluto.
+Dialogue: 0,0:43:20.38,0:43:24.29,*Default,NTP,0000,0000,0000,,飞行板上除了一系列科学仪器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On board, In addition to a cluster Of scientific instruments
+Dialogue: 0,0:43:24.32,0:43:29.16,*Default,NTP,0000,0000,0000,,还有个小罐头装着冥王星发现者的骨灰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is a small canister of ashes-- Those of Pluto's discoverer,
+Dialogue: 0,0:43:29.19,0:43:35.00,*Default,NTP,0000,0000,0000,,克莱德·汤博 死于1997年享年90岁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Clyde Tombaugh, who died in 1997 At the age of 90.
+Dialogue: 0,0:43:36.50,0:43:39.00,*Default,NTP,0000,0000,0000,,我一点也没有参与新视野号任务 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm not involved In the New Horizons mission At all.
+Dialogue: 0,0:43:39.04,0:43:39.94,*Default,NTP,0000,0000,0000,,但我可以告诉你我的想法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But i can tell you From my point of view,
+Dialogue: 0,0:43:39.97,0:43:41.74,*Default,NTP,0000,0000,0000,,对此任务我很兴奋 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm very excited about it.
+Dialogue: 0,0:43:41.77,0:43:44.04,*Default,NTP,0000,0000,0000,,我们不用再去费心猜解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We really don't have Any good ideas
+Dialogue: 0,0:43:44.07,0:43:46.98,*Default,NTP,0000,0000,0000,,冥王星表面真正有些什么特征 会是什么样子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of what the actual features On the surface of Pluto Are gonna be like.
+Dialogue: 0,0:43:47.01,0:43:48.85,*Default,NTP,0000,0000,0000,,这也是为什么这些小尺寸的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's why These small scale pictures
+Dialogue: 0,0:43:48.88,0:43:52.55,*Default,NTP,0000,0000,0000,,实际的特写近照会有如此重要 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Getting actual close-ups Is gonna be so important.
+Dialogue: 0,0:43:53.68,0:43:56.15,*Default,NTP,0000,0000,0000,,当航天探测器和望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As spacecraft probes And telescopes
+Dialogue: 0,0:43:56.19,0:43:59.59,*Default,NTP,0000,0000,0000,,被送往我们太阳系的边缘之处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are sent to the far reaches Of our celestial neighborhood,
+Dialogue: 0,0:43:59.62,0:44:04.13,*Default,NTP,0000,0000,0000,,我们对浩瀚宇宙的认识又迈进了一步 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We come one step closer To deciphering The expansive universe.
+Dialogue: 0,0:44:05.73,0:44:07.80,*Default,NTP,0000,0000,0000,,我们的科技和想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our technology And our imaginations
+Dialogue: 0,0:44:07.83,0:44:11.84,*Default,NTP,0000,0000,0000,,能够把这些遥远的外星世界拉近到我们的生活中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can help bring These far off alien worlds To life.
+Dialogue: 0,0:44:13.67,0:44:16.64,*Default,NTP,0000,0000,0000,,当我们敬畏而又好奇的观望 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we look at them with awe and wonder,
+Dialogue: 0,0:44:16.67,0:44:22.85,*Default,NTP,0000,0000,0000,,只能看到一个个深藏其中未解的谜团 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can only fathom What unexplored mysteries Lie deep within.
+Dialogue: 0,0:44:23.00,0:44:27.00,*Default,NTP,0000,0000,0000,,谢谢观赏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks For Viewing

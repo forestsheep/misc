@@ -1,0 +1,755 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:06.26,0:01:12.52,Default,,0000,0000,0008,,{\fn华文楷体\fs20\1c&HE0E0E0&\blur3}宇宙:平行宇宙{\r}
+Dialogue: 0,0:00:01.54,0:00:04.00,Default,,0000,0000,0000,,{\blur3}创世之初 冥冥之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness...{\r}
+Dialogue: 0,0:00:04.04,0:00:06.13,Default,,0000,0000,0000,,{\blur3}随着轰的一声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, bang...{\r}
+Dialogue: 0,0:00:06.17,0:00:09.34,Default,,0000,0000,0000,,{\blur3}诞生了无限膨胀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to an endless expanding existence...{\r}
+Dialogue: 0,0:00:09.38,0:00:11.92,Default,,0000,0000,0000,,{\blur3}时间 空间和物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:11.97,0:00:14.17,Default,,0000,0000,0000,,{\blur3}现在 所见超乎我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, see further than we've ever imagined...{\r}
+Dialogue: 0,0:00:14.22,0:00:16.30,Default,,0000,0000,0000,,{\blur3}超越了我们生存的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the limits of our existence...{\r}
+Dialogue: 0,0:00:16.34,0:00:19.01,Default,,0000,0000,0000,,{\blur3}这个空间我们称之为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a place we call "The Universe."{\r}
+Dialogue: 0,0:00:21.56,0:00:24.14,Default,,0000,0000,0000,,{\blur3}外头可能还存在着其它世界...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There may be other worlds out there...{\r}
+Dialogue: 0,0:00:24.19,0:00:26.98,Default,,0000,0000,0000,,{\blur3}宇宙萌生宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Universes budding off other universes.{\r}
+Dialogue: 0,0:00:28.73,0:00:30.57,Default,,0000,0000,0000,,{\blur3}那里拷贝不走样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ewhere there could be an exact copy...{\r}
+Dialogue: 0,0:00:30.61,0:00:34.53,Default,,0000,0000,0000,,{\blur3}同样是我们的太阳系 我们的地球 我们每一个人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our solar system, our Earth, and each one of us.{\r}
+Dialogue: 0,0:00:34.57,0:00:36.36,Default,,0000,0000,0000,,{\blur3}那里 一切都大致相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where everything's pretty much the same{\r}
+Dialogue: 0,0:00:36.41,0:00:38.37,Default,,0000,0000,0000,,{\blur3}或许只有少许不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or maybe only slightly different.{\r}
+Dialogue: 0,0:00:39.24,0:00:41.87,Default,,0000,0000,0000,,{\blur3}然而其它宇宙究竟在哪里呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But where are these other universes?{\r}
+Dialogue: 0,0:00:41.91,0:00:44.00,Default,,0000,0000,0000,,{\blur3}为何我们看不到它们呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why can't we see them?{\r}
+Dialogue: 0,0:00:44.04,0:00:45.83,Default,,0000,0000,0000,,{\blur3}因为我们身处不同的维度里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because we're in different dimensions.{\r}
+Dialogue: 0,0:00:45.87,0:00:47.58,Default,,0000,0000,0000,,{\blur3}这可是真的吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can this be true?{\r}
+Dialogue: 0,0:00:47.63,0:00:50.17,Default,,0000,0000,0000,,{\blur3}如果存在一定尺度和形状的额外的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If there are extra dimensions of a certain size and shape...{\r}
+Dialogue: 0,0:00:50.21,0:00:51.84,Default,,0000,0000,0000,,{\blur3}那么这个实验将会发现它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this experiment will find them.{\r}
+Dialogue: 0,0:00:51.88,0:00:54.92,Default,,0000,0000,0000,,{\blur3}问题不在于它们是否存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The question isn't whether they exist...{\r}
+Dialogue: 0,0:00:54.97,0:00:59.22,Default,,0000,0000,0000,,{\blur3}而在于它们是否存在一 二 三 四种不同的类型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but whether there's one, two, three, or four different kinds of them.{\r}
+Dialogue: 0,0:00:59.26,0:01:05.52,Default,,0000,0000,0000,,{\blur3}这种耸人听闻意味着宇宙淹没在浩瀚的平行宇宙之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This sensationally means the universe sits in a sea of parallel universes.{\r}
+Dialogue: 0,0:01:19.53,0:01:23.66,Default,,0000,0000,0000,,{\blur3}想象一下另外一个世界 整个宇宙间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine another world, a whole other universe...{\r}
+Dialogue: 0,0:01:23.70,0:01:28.12,Default,,0000,0000,0000,,{\blur3}其太阳系和行星完全和我们的一模一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a solar system and a planet exactly like ours.{\r}
+Dialogue: 0,0:01:29.17,0:01:34.00,Default,,0000,0000,0000,,{\blur3}在这个平行地球上 居住着你的精确复制品{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On this parallel Earth, there lives an exact copy of you.{\r}
+Dialogue: 0,0:01:35.05,0:01:37.88,Default,,0000,0000,0000,,{\blur3}你可以安享完全相同的人生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You could be leading exactly the same life...{\r}
+Dialogue: 0,0:01:37.93,0:01:39.72,Default,,0000,0000,0000,,{\blur3}但是是在另一个宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in another universe.{\r}
+Dialogue: 0,0:01:41.14,0:01:44.22,Default,,0000,0000,0000,,{\blur3}现在 想象一下完全独立的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, imagine an entirely separate universe...{\r}
+Dialogue: 0,0:01:44.27,0:01:47.39,Default,,0000,0000,0000,,{\blur3}你可以过上稍有不同的人生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you could be living a slightly different life...{\r}
+Dialogue: 0,0:01:47.44,0:01:50.60,Default,,0000,0000,0000,,{\blur3}就在你度过这辈子的同时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the same time as you live this life.{\r}
+Dialogue: 0,0:01:51.69,0:01:55.28,Default,,0000,0000,0000,,{\blur3}这可能看似荒诞 难以置信 不可能的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It may seem fantastic, incredible, and impossible...{\r}
+Dialogue: 0,0:01:55.32,0:01:57.32,Default,,0000,0000,0000,,{\blur3}但是外头有可能存在着许多其它的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but there could be many other universes out there.{\r}
+Dialogue: 0,0:01:59.70,0:02:02.07,Default,,0000,0000,0000,,{\blur3}现在有些世界顶尖的物理学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And now some of the world's leading physicists...{\r}
+Dialogue: 0,0:02:02.12,0:02:03.87,Default,,0000,0000,0000,,{\blur3}认为他们有证据来予以证明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}believe that they have evidence to prove it.{\r}
+Dialogue: 0,0:02:07.79,0:02:11.33,Default,,0000,0000,0000,,{\blur3}我们正经历一场存在震撼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are experiencing an existential shock.{\r}
+Dialogue: 0,0:02:11.38,0:02:13.59,Default,,0000,0000,0000,,{\blur3}我们的世界观已经被打破{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our worldview has been shattered...{\r}
+Dialogue: 0,0:02:13.63,0:02:18.72,Default,,0000,0000,0000,,{\blur3}随着对它的认识 对 可以存在平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the realization that, yes, there could be parallel universes.{\r}
+Dialogue: 0,0:02:21.05,0:02:23.72,Default,,0000,0000,0000,,{\blur3}我的意思是 这只是个搞脑筋的概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, it's just a mind-boggling idea...{\r}
+Dialogue: 0,0:02:23.76,0:02:25.06,Default,,0000,0000,0000,,{\blur3}有可能 基本上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there may be, essentially...{\r}
+Dialogue: 0,0:02:25.10,0:02:30.06,Default,,0000,0000,0000,,{\blur3}浩瀚的太空中有可能存在着我们的复制品{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}exact replicas of us out there in the vastness of space.{\r}
+Dialogue: 0,0:02:33.86,0:02:37.48,Default,,0000,0000,0000,,{\blur3}平行宇宙的概念是我们流行文化的一部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The idea of a parallel universe is part of our popular culture.{\r}
+Dialogue: 0,0:02:37.53,0:02:40.15,Default,,0000,0000,0000,,{\blur3}我们周围的人每天都在想它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}People all around us think of it every day...{\r}
+Dialogue: 0,0:02:40.20,0:02:43.16,Default,,0000,0000,0000,,{\blur3}但通常都是虚构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but usually in terms of fiction.{\r}
+Dialogue: 0,0:02:43.20,0:02:44.74,Default,,0000,0000,0000,,{\blur3}真正令人兴奋的事情之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the real exciting things...{\r}
+Dialogue: 0,0:02:44.78,0:02:46.70,Default,,0000,0000,0000,,{\blur3}就是如今的科学家正在试图观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that scientists today are trying to see...{\r}
+Dialogue: 0,0:02:46.74,0:02:49.54,Default,,0000,0000,0000,,{\blur3}平行宇宙是不是现实的物理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether parallel universes are a physical reality.{\r}
+Dialogue: 0,0:02:50.92,0:02:54.46,Default,,0000,0000,0000,,{\blur3}关于宇宙真是规模的惊人发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Amazing new discoveries about the true size of the universe...{\r}
+Dialogue: 0,0:02:54.50,0:02:57.34,Default,,0000,0000,0000,,{\blur3}似乎表明我们所见到的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seem to indicate that all that we see...{\r}
+Dialogue: 0,0:02:57.38,0:02:59.63,Default,,0000,0000,0000,,{\blur3}并非所有的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is not all that there is.{\r}
+Dialogue: 0,0:03:00.88,0:03:02.51,Default,,0000,0000,0000,,{\blur3}我们人类被认为是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We humans have assumed...{\r}
+Dialogue: 0,0:03:02.55,0:03:04.43,Default,,0000,0000,0000,,{\blur3}把头埋在沙堆里的鸵鸟...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like ostriches with our heads in the sand...{\r}
+Dialogue: 0,0:03:04.47,0:03:06.72,Default,,0000,0000,0000,,{\blur3}那只是因为我们无法看到某些东西 就以为它不存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}thatjust because we can't see something, it ain't there.{\r}
+Dialogue: 0,0:03:08.64,0:03:12.19,Default,,0000,0000,0000,,{\blur3}在我祖母还是小姑娘时 举个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When my grandma was a little girl, for instance...{\r}
+Dialogue: 0,0:03:12.23,0:03:14.40,Default,,0000,0000,0000,,{\blur3}他们还不知道还有其它的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they still didn't know that there were other galaxies.{\r}
+Dialogue: 0,0:03:17.28,0:03:19.15,Default,,0000,0000,0000,,{\blur3}现在我们知道了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now we know that there are...{\r}
+Dialogue: 0,0:03:19.19,0:03:21.24,Default,,0000,0000,0000,,{\blur3}外头有数以十亿计的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}billions and billions of other galaxies out there.{\r}
+Dialogue: 0,0:03:24.82,0:03:29.24,Default,,0000,0000,0000,,{\blur3}显然 存在有四类平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Remarkably, there may be four types of parallel universe out there.{\r}
+Dialogue: 0,0:03:30.29,0:03:34.83,Default,,0000,0000,0000,,{\blur3}一类可能完全等同于我们所在的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One kind could exist in the same exact space we're in...{\r}
+Dialogue: 0,0:03:34.88,0:03:38.59,Default,,0000,0000,0000,,{\blur3}不过它遥不可见 遥不可及{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it is so far away, we cannot see it or reach it.{\r}
+Dialogue: 0,0:03:40.59,0:03:43.76,Default,,0000,0000,0000,,{\blur3}在另一个脚本里 有多个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In another scenario, multiple other universes...{\r}
+Dialogue: 0,0:03:43.80,0:03:46.47,Default,,0000,0000,0000,,{\blur3}可能在巨大的宇宙肥皂泡里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be in giant cosmic soap bubbles...{\r}
+Dialogue: 0,0:03:46.51,0:03:49.60,Default,,0000,0000,0000,,{\blur3}漂泊在宇宙泡沫大海里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}adrift in a cosmic sea of giant bubbles.{\r}
+Dialogue: 0,0:03:51.77,0:03:55.44,Default,,0000,0000,0000,,{\blur3}革命性的发展已经改变了整个景观{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Revolutionary developments have changed the entire landscape.{\r}
+Dialogue: 0,0:03:56.36,0:04:00.44,Default,,0000,0000,0000,,{\blur3}来自外层空间的数据让我们对宇宙学有了新的审视{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Data from outer space have given us a new look at cosmology...{\r}
+Dialogue: 0,0:04:01.28,0:04:05.07,Default,,0000,0000,0000,,{\blur3}卫星数据表明可能存在着平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and satellite data indicates there could be parallel universes.{\r}
+Dialogue: 0,0:04:07.08,0:04:09.87,Default,,0000,0000,0000,,{\blur3}在还有一个脚本里 多重平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In yet another scenario, many parallel universes...{\r}
+Dialogue: 0,0:04:09.91,0:04:13.46,Default,,0000,0000,0000,,{\blur3}占用着我们宇宙一模一样的时空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}occupy the same space and time as our universe...{\r}
+Dialogue: 0,0:04:15.38,0:04:17.71,Default,,0000,0000,0000,,{\blur3}然而由于它们处于不同的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but because they are in different dimensions...{\r}
+Dialogue: 0,0:04:17.75,0:04:19.13,Default,,0000,0000,0000,,{\blur3}所以无法看见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they are invisible.{\r}
+Dialogue: 0,0:04:20.30,0:04:23.72,Default,,0000,0000,0000,,{\blur3}还有脚本 所有的物理定律通通不一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In yet another, all the laws of physics are different...{\r}
+Dialogue: 0,0:04:23.76,0:04:26.39,Default,,0000,0000,0000,,{\blur3}所以一切看上去就完全不同了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so everything looks completely different.{\r}
+Dialogue: 0,0:04:26.43,0:04:28.93,Default,,0000,0000,0000,,{\blur3}新的理论称为弦论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}New theories called string theories...{\r}
+Dialogue: 0,0:04:28.97,0:04:31.60,Default,,0000,0000,0000,,{\blur3}正给我们的世界以更高的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are giving us worlds of higher dimensions.{\r}
+Dialogue: 0,0:04:31.64,0:04:34.48,Default,,0000,0000,0000,,{\blur3}微观尺度上的量子物理学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Quantum physics at the microscopic scale...{\r}
+Dialogue: 0,0:04:34.52,0:04:38.90,Default,,0000,0000,0000,,{\blur3}同样向我们揭示了这样的事实 平行宇宙有可能存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is also revealing to us the fact there could be parallel universes.{\r}
+Dialogue: 0,0:04:40.69,0:04:44.57,Default,,0000,0000,0000,,{\blur3}为了简单起见 物理学家将平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To keep things simple, physicists have divided parallel universes...{\r}
+Dialogue: 0,0:04:44.61,0:04:47.70,Default,,0000,0000,0000,,{\blur3}分成不同的层次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into different levels.{\r}
+Dialogue: 0,0:04:47.74,0:04:50.33,Default,,0000,0000,0000,,{\blur3}来看看第一层次的平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Meet the level-one parallel universe.{\r}
+Dialogue: 0,0:04:51.45,0:04:55.08,Default,,0000,0000,0000,,{\blur3}按物理学家的说法 第一层次的平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to physicists, the level-one parallel universe...{\r}
+Dialogue: 0,0:04:55.12,0:04:58.42,Default,,0000,0000,0000,,{\blur3}只是我们宇宙的扩展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is just an extension of our own universe.{\r}
+Dialogue: 0,0:04:58.46,0:05:00.13,Default,,0000,0000,0000,,{\blur3}那种宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, that's the kind of universe...{\r}
+Dialogue: 0,0:05:00.17,0:05:02.55,Default,,0000,0000,0000,,{\blur3}其实就好象是我们空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is really sort of part of our space...{\r}
+Dialogue: 0,0:05:02.59,0:05:03.63,Default,,0000,0000,0000,,{\blur3}我们巨大空间的组成部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our giant space...{\r}
+Dialogue: 0,0:05:03.67,0:05:07.38,Default,,0000,0000,0000,,{\blur3}不过它太遥远了 我们无法看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's so far away that we can't see it.{\r}
+Dialogue: 0,0:05:11.14,0:05:14.39,Default,,0000,0000,0000,,{\blur3}第一层次的平行宇宙所基于的概念是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The level-one parallel universe is based on the idea...{\r}
+Dialogue: 0,0:05:14.43,0:05:17.02,Default,,0000,0000,0000,,{\blur3}宇宙在尺度上是无限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the universe is infinite in size.{\r}
+Dialogue: 0,0:05:18.60,0:05:22.07,Default,,0000,0000,0000,,{\blur3}要真是这样 就凭数学概率就可知{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If true, just by the sheer mathematical odds...{\r}
+Dialogue: 0,0:05:22.11,0:05:23.82,Default,,0000,0000,0000,,{\blur3}在无限的空间里必定存在着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there must be out there in endless space...{\r}
+Dialogue: 0,0:05:25.78,0:05:29.28,Default,,0000,0000,0000,,{\blur3}一个与我们一模一样的复制品 有太阳系 地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an exact copy of the solar system, the Earth...{\r}
+Dialogue: 0,0:05:29.32,0:05:30.82,Default,,0000,0000,0000,,{\blur3}以及地球上所有的人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and all the people on it.{\r}
+Dialogue: 0,0:05:33.95,0:05:35.33,Default,,0000,0000,0000,,{\blur3}如果你正在筹划远足{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you're planning a trip...{\r}
+Dialogue: 0,0:05:35.37,0:05:37.83,Default,,0000,0000,0000,,{\blur3}最近的第一层次平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the closest level-one parallel universe...{\r}
+Dialogue: 0,0:05:37.87,0:05:40.04,Default,,0000,0000,0000,,{\blur3}实在是远的难以置信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is really incredibly far away.{\r}
+Dialogue: 0,0:05:41.63,0:05:45.09,Default,,0000,0000,0000,,{\blur3}实话实说 你必须跑出googolplex码{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Crudely speaking, you have to go googolplex yards...{\r}
+Dialogue: 0,0:05:46.38,0:05:48.93,Default,,0000,0000,0000,,{\blur3}这里 1个googol表示1后面跟着100个0{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where a googol is one with a hundred zeroes after it...{\r}
+Dialogue: 0,0:05:48.97,0:05:52.64,Default,,0000,0000,0000,,{\blur3}而1个googolplex则是1后面跟着1个googol的0{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a googolplex is one with a googol zeroes.{\r}
+Dialogue: 0,0:05:52.68,0:05:56.64,Default,,0000,0000,0000,,{\blur3}因此这是个恐怖的漫漫长路 远超出我们的视野{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's an awfully long way, farther than we can see.{\r}
+Dialogue: 0,0:05:56.68,0:05:59.77,Default,,0000,0000,0000,,{\blur3}那些宇宙极其遥远 连光都到达不了我们这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those universes are so far away that light hasn't reached us.{\r}
+Dialogue: 0,0:06:02.23,0:06:05.73,Default,,0000,0000,0000,,{\blur3}然而我们的宇宙真的是无限的吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But is our universe really infinite?{\r}
+Dialogue: 0,0:06:05.78,0:06:10.45,Default,,0000,0000,0000,,{\blur3}一个新的理论叫做宇宙膨胀说表明就是这回事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A new theory called cosmic inflation suggests that it is.{\r}
+Dialogue: 0,0:06:10.49,0:06:13.70,Default,,0000,0000,0000,,{\blur3}我们认为它诞生于一个很小很小的结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think that it was born in a very, very small state...{\r}
+Dialogue: 0,0:06:13.74,0:06:15.87,Default,,0000,0000,0000,,{\blur3}然后有一种奇怪的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then there was a kind of a weird energy...{\r}
+Dialogue: 0,0:06:15.91,0:06:18.62,Default,,0000,0000,0000,,{\blur3}将其推开到一个极大的规模{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that pushed it apart by a tremendous amount.{\r}
+Dialogue: 0,0:06:18.66,0:06:20.17,Default,,0000,0000,0000,,{\blur3}它只管急速膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It just went whoosh.{\r}
+Dialogue: 0,0:06:22.21,0:06:24.42,Default,,0000,0000,0000,,{\blur3}膨胀解释了我们宇宙在诞生后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inflation accounts for how our universe...{\r}
+Dialogue: 0,0:06:24.46,0:06:27.59,Default,,0000,0000,0000,,{\blur3}突然急速长大的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}suddenly and massively grew after its inception.{\r}
+Dialogue: 0,0:06:28.93,0:06:33.30,Default,,0000,0000,0000,,{\blur3}我们现在对于空间变得如此之大的的最佳理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The best theory we have right now for what made space so big--{\r}
+Dialogue: 0,0:06:33.35,0:06:36.39,Default,,0000,0000,0000,,{\blur3}膨胀说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the theory of inflation--{\r}
+Dialogue: 0,0:06:36.43,0:06:40.06,Default,,0000,0000,0000,,{\blur3}称 事实上 空间不光巨大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}says, in fact, that space isn't just big or huge...{\r}
+Dialogue: 0,0:06:40.10,0:06:41.65,Default,,0000,0000,0000,,{\blur3}实际上还是无限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it's really infinite.{\r}
+Dialogue: 0,0:06:44.23,0:06:45.86,Default,,0000,0000,0000,,{\blur3}它膨胀无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It goes on forever...{\r}
+Dialogue: 0,0:06:47.65,0:06:50.74,Default,,0000,0000,0000,,{\blur3}这就意味着 不只有1 2 3个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which means that there aren't just one, two, three...{\r}
+Dialogue: 0,0:06:50.78,0:06:53.07,Default,,0000,0000,0000,,{\blur3}而是有无穷多个空域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but infinitely many other regions of space...{\r}
+Dialogue: 0,0:06:53.12,0:06:55.20,Default,,0000,0000,0000,,{\blur3}与我们的宇宙一般大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just as big as our universe.{\r}
+Dialogue: 0,0:06:57.83,0:07:01.08,Default,,0000,0000,0000,,{\blur3}即使是我们所了解的宇宙也是大得出乎意料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even the universe that we know is mind-blowingly big.{\r}
+Dialogue: 0,0:07:01.12,0:07:03.46,Default,,0000,0000,0000,,{\blur3}我们在这样的星际空间里翱翔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we fly around in intergalactic space like this...{\r}
+Dialogue: 0,0:07:03.50,0:07:08.21,Default,,0000,0000,0000,,{\blur3}你所看到的每一个小不点都可能包含了一个星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}every little blob you see here can contain a galaxy...{\r}
+Dialogue: 0,0:07:08.26,0:07:12.76,Default,,0000,0000,0000,,{\blur3}以此类推 可能存在着上万亿颗恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which, in turn, might contain hundreds of billions of stars...{\r}
+Dialogue: 0,0:07:12.80,0:07:15.26,Default,,0000,0000,0000,,{\blur3}以及围绕它们的太阳系 等等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with solar systems around them and so on.{\r}
+Dialogue: 0,0:07:16.89,0:07:22.48,Default,,0000,0000,0000,,{\blur3}所以存在着无数其它空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there's just this enormous number of other spaces out there...{\r}
+Dialogue: 0,0:07:23.40,0:07:24.40,Default,,0000,0000,0000,,{\blur3}我们无法看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we can't see.{\r}
+Dialogue: 0,0:07:25.82,0:07:28.61,Default,,0000,0000,0000,,{\blur3}还不止这些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there is more.{\r}
+Dialogue: 0,0:07:28.65,0:07:32.03,Default,,0000,0000,0000,,{\blur3}我们实际上认为存在数量庞大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We actually think that there's a gigantic number...{\r}
+Dialogue: 0,0:07:32.07,0:07:35.74,Default,,0000,0000,0000,,{\blur3}甚至数量无限的第一层次宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps even an infinite number of level-one universes.{\r}
+Dialogue: 0,0:07:37.08,0:07:39.16,Default,,0000,0000,0000,,{\blur3}这种激进思想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This radical idea is leading...{\r}
+Dialogue: 0,0:07:39.20,0:07:43.25,Default,,0000,0000,0000,,{\blur3}正导致宇宙的全新定义{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a completely new definition of the cosmos.{\r}
+Dialogue: 0,0:07:43.29,0:07:46.29,Default,,0000,0000,0000,,{\blur3}我们常说的宇宙(universe) 其中uni的意思是一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We used to say universe, "uni" meaning one--{\r}
+Dialogue: 0,0:07:46.34,0:07:48.04,Default,,0000,0000,0000,,{\blur3}一个世界的理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a one-world theory.{\r}
+Dialogue: 0,0:07:48.09,0:07:52.38,Default,,0000,0000,0000,,{\blur3}所有一切 我们所见的一切就是宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything there is, everything we can see is the universe.{\r}
+Dialogue: 0,0:07:52.43,0:07:57.51,Default,,0000,0000,0000,,{\blur3}现在 我们有了多重宇宙的概念 存在着无形的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, we have a multiverse idea where there are unseen worlds--{\r}
+Dialogue: 0,0:07:57.56,0:08:01.35,Default,,0000,0000,0000,,{\blur3}我们看不见 摸不着的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}worlds that we cannot see, worlds that we cannot touch.{\r}
+Dialogue: 0,0:08:03.31,0:08:08.73,Default,,0000,0000,0000,,{\blur3}如果这种想入非非的理论成立 那么后果是耸人听闻的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ifthis wild theory is correct, the consequences are sensational.{\r}
+Dialogue: 0,0:08:08.77,0:08:10.28,Default,,0000,0000,0000,,{\blur3}在这个无限宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Within this infinite universe...{\r}
+Dialogue: 0,0:08:10.32,0:08:13.03,Default,,0000,0000,0000,,{\blur3}你可能会看到有太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you might have other copies of the solar system...{\r}
+Dialogue: 0,0:08:13.07,0:08:14.07,Default,,0000,0000,0000,,{\blur3}地球的复制品{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of planet Earth.{\r}
+Dialogue: 0,0:08:15.28,0:08:17.78,Default,,0000,0000,0000,,{\blur3}这确实让人震惊不已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this is the real shocker.{\r}
+Dialogue: 0,0:08:17.83,0:08:19.83,Default,,0000,0000,0000,,{\blur3}于是在别的地方有着你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then there's a copy of me and you...{\r}
+Dialogue: 0,0:08:19.87,0:08:22.33,Default,,0000,0000,0000,,{\blur3}我以及所有人的复制品{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and everyone else out there somewhere.{\r}
+Dialogue: 0,0:08:24.08,0:08:25.58,Default,,0000,0000,0000,,{\blur3}这还不是全部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's not all.{\r}
+Dialogue: 0,0:08:25.63,0:08:29.71,Default,,0000,0000,0000,,{\blur3}有无限多的其它宇宙 其它地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are an infinite number of other universes and other Earths...{\r}
+Dialogue: 0,0:08:29.75,0:08:33.59,Default,,0000,0000,0000,,{\blur3}我们每个人的无限多的复制品{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and infinite copies of each one of us.{\r}
+Dialogue: 0,0:08:33.63,0:08:38.22,Default,,0000,0000,0000,,{\blur3}要真这样 于是每个生命的每一个 可能的结果必定够已经定局了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Iftrue, then every possible outcome for every life has to happen.{\r}
+Dialogue: 0,0:08:38.97,0:08:43.23,Default,,0000,0000,0000,,{\blur3}在某些宇宙中 也就是现在所谓的多重宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In some universes, in what some now call the multiverse...{\r}
+Dialogue: 0,0:08:43.27,0:08:45.89,Default,,0000,0000,0000,,{\blur3}一个完全掌管着同样的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one leads exactly the same life...{\r}
+Dialogue: 0,0:08:45.94,0:08:49.23,Default,,0000,0000,0000,,{\blur3}而在其它宇宙中 情况会稍有不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in others, things can be slightly different.{\r}
+Dialogue: 0,0:08:49.27,0:08:52.65,Default,,0000,0000,0000,,{\blur3}你不会收到让你烦恼不已的停车罚单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You didn't get that parking ticket that irked you so much...{\r}
+Dialogue: 0,0:08:54.53,0:08:57.41,Default,,0000,0000,0000,,{\blur3}或者 很不幸 你永远碰不到你的妻子了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or you, unfortunately, never met your wife.{\r}
+Dialogue: 0,0:09:00.54,0:09:04.08,Default,,0000,0000,0000,,{\blur3}一切都完全有可能实际发生在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Anything that is physically possible actually does occur...{\r}
+Dialogue: 0,0:09:04.12,0:09:06.37,Default,,0000,0000,0000,,{\blur3}其他一些平行宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in some other parallel universe.{\r}
+Dialogue: 0,0:09:10.96,0:09:15.47,Default,,0000,0000,0000,,{\blur3}这意味着在某个宇宙中 猫王还活着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It means that in one universe, Elvis Presley is still alive.{\r}
+Dialogue: 0,0:09:20.05,0:09:21.35,Default,,0000,0000,0000,,{\blur3}在另一个第一层次宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a different level-one universe...{\r}
+Dialogue: 0,0:09:21.39,0:09:25.02,Default,,0000,0000,0000,,{\blur3}小布什是个棒球大联盟专员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}George W. Bush is the baseball commissioner.{\r}
+Dialogue: 0,0:09:27.35,0:09:31.73,Default,,0000,0000,0000,,{\blur3}或许在某些宇宙中 我们根本就不存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or perhaps we don't exist at all in some of these universes.{\r}
+Dialogue: 0,0:09:31.77,0:09:33.90,Default,,0000,0000,0000,,{\blur3}结果令人震惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The implications are staggering.{\r}
+Dialogue: 0,0:09:33.94,0:09:35.44,Default,,0000,0000,0000,,{\blur3}如果宇宙是无限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if the universe is infinite...{\r}
+Dialogue: 0,0:09:35.49,0:09:38.15,Default,,0000,0000,0000,,{\blur3}所有这些第一层次的宇宙真的存在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there really are all these level-one universes...{\r}
+Dialogue: 0,0:09:38.20,0:09:40.16,Default,,0000,0000,0000,,{\blur3}无限多重宇宙中的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the infinite multiverse...{\r}
+Dialogue: 0,0:09:40.20,0:09:44.45,Default,,0000,0000,0000,,{\blur3}那么所有这些可能性确实会发生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all those other possibilities did somewhere happen.{\r}
+Dialogue: 0,0:09:47.00,0:09:50.08,Default,,0000,0000,0000,,{\blur3}学术上 有两个方法计算出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Technically, there are a couple of ways mathematically...{\r}
+Dialogue: 0,0:09:50.13,0:09:52.46,Default,,0000,0000,0000,,{\blur3}宇宙确实是无限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the universe to be truly infinite...{\r}
+Dialogue: 0,0:09:53.05,0:09:54.84,Default,,0000,0000,0000,,{\blur3}但是 基本上 它必须表现出是扁平的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but, essentially, it must be shown to be flat.{\r}
+Dialogue: 0,0:09:56.84,0:09:58.55,Default,,0000,0000,0000,,{\blur3}宇宙似乎是非常平的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe seems to be perfectly flat...{\r}
+Dialogue: 0,0:09:58.59,0:10:01.22,Default,,0000,0000,0000,,{\blur3}这意味着宇宙要么是平的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which means either the universe is flat...{\r}
+Dialogue: 0,0:10:01.26,0:10:04.64,Default,,0000,0000,0000,,{\blur3}要么是弯曲极其细微 我们难以觉察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or is curved so slightly that we can't see it.{\r}
+Dialogue: 0,0:10:06.48,0:10:10.65,Default,,0000,0000,0000,,{\blur3}要是这样 宇宙最终会自我折回{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this case, the universe would eventually curve back in on itself...{\r}
+Dialogue: 0,0:10:10.69,0:10:13.52,Default,,0000,0000,0000,,{\blur3}形成一个球形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and form a hypersphere.{\r}
+Dialogue: 0,0:10:13.57,0:10:16.57,Default,,0000,0000,0000,,{\blur3}于是它在尺度和体积上是有限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would then be finite in size and volume...{\r}
+Dialogue: 0,0:10:16.61,0:10:18.61,Default,,0000,0000,0000,,{\blur3}并不是扁平和无限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and not flat and infinite.{\r}
+Dialogue: 0,0:10:20.87,0:10:23.41,Default,,0000,0000,0000,,{\blur3}另一个角度来看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another way to look at this is that the universe...{\r}
+Dialogue: 0,0:10:23.45,0:10:26.75,Default,,0000,0000,0000,,{\blur3}宇宙有可能已经膨胀得非常快速 非常巨大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may have inflated so quickly and so enormously...{\r}
+Dialogue: 0,0:10:26.79,0:10:28.46,Default,,0000,0000,0000,,{\blur3}以至于看上去只是平平的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it only looks flat.{\r}
+Dialogue: 0,0:10:29.58,0:10:33.38,Default,,0000,0000,0000,,{\blur3}想想虫子在巨大的气球上爬行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Think of a bug walking on a gigantic balloon.{\r}
+Dialogue: 0,0:10:33.42,0:10:36.46,Default,,0000,0000,0000,,{\blur3}气球越大 看上去就越平{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The larger the balloon, the flatter things get.{\r}
+Dialogue: 0,0:10:36.51,0:10:38.80,Default,,0000,0000,0000,,{\blur3}虫子往四处爬行 说道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bug walks in any direction, and the bug says...{\r}
+Dialogue: 0,0:10:38.84,0:10:43.14,Default,,0000,0000,0000,,{\blur3}啊 宇宙在我看来完全是平的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Well, the universe seems perfectly flat to me."{\r}
+Dialogue: 0,0:10:43.18,0:10:44.30,Default,,0000,0000,0000,,{\blur3}但是从远处看去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But from a distance...{\r}
+Dialogue: 0,0:10:44.35,0:10:47.85,Default,,0000,0000,0000,,{\blur3}我们看到了虫子爬行在巨大的气球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we see that the bug is walking on a gigantic balloon.{\r}
+Dialogue: 0,0:10:53.48,0:10:55.52,Default,,0000,0000,0000,,{\blur3}不过现在有了一个了不起的新工具{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now an amazing new tool...{\r}
+Dialogue: 0,0:10:55.57,0:10:59.61,Default,,0000,0000,0000,,{\blur3}威尔金森微波各向异性探测器 (WMAP){\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Wilkinson Microwave Anisotropy Probe or WMAP...{\r}
+Dialogue: 0,0:10:59.65,0:11:01.32,Default,,0000,0000,0000,,{\blur3}正在改变一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is changing everything.{\r}
+Dialogue: 0,0:11:03.03,0:11:07.87,Default,,0000,0000,0000,,{\blur3}有人称 非凡的图像揭示了宇宙的真实形状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some say the remarkable images reveal the true shape of the universe.{\r}
+Dialogue: 0,0:11:09.16,0:11:12.54,Default,,0000,0000,0000,,{\blur3}我们现在看到的是宇宙的婴儿照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we have here are baby pictures of the universe...{\r}
+Dialogue: 0,0:11:12.58,0:11:16.25,Default,,0000,0000,0000,,{\blur3}拍自它40万岁时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what it looked like when it was only 400,000 years old.{\r}
+Dialogue: 0,0:11:16.30,0:11:18.80,Default,,0000,0000,0000,,{\blur3}我们回眸时间如此久远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're looking so far back in time...{\r}
+Dialogue: 0,0:11:18.84,0:11:21.38,Default,,0000,0000,0000,,{\blur3}星系都尚未形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the galaxies hadn't even formed yet.{\r}
+Dialogue: 0,0:11:21.43,0:11:26.05,Default,,0000,0000,0000,,{\blur3}我们只见死气腾腾 弥漫的气体 它随着时间推移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We just had this dead, diffuse gas which, gradually, over time...{\r}
+Dialogue: 0,0:11:26.10,0:11:30.06,Default,,0000,0000,0000,,{\blur3}逐渐堆聚成星系 恒星 行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}clumped into galaxies, stars, planets.{\r}
+Dialogue: 0,0:11:32.60,0:11:36.40,Default,,0000,0000,0000,,{\blur3}WMAP捕捉到的是宇宙最早的迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The WMAP is catching the very earliest signs of creation.{\r}
+Dialogue: 0,0:11:37.57,0:11:40.61,Default,,0000,0000,0000,,{\blur3}据称 其任务就是测量大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Officially, it is tasked with measuring radiation...{\r}
+Dialogue: 0,0:11:40.65,0:11:42.53,Default,,0000,0000,0000,,{\blur3}残留的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}left over from the Big Bang.{\r}
+Dialogue: 0,0:11:44.20,0:11:47.70,Default,,0000,0000,0000,,{\blur3}不过现在有些科学家设计了一个实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now some scientists have devised an experiment...{\r}
+Dialogue: 0,0:11:47.74,0:11:51.00,Default,,0000,0000,0000,,{\blur3}来估算宇宙的整体形状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to calculate the overall shape of the universe.{\r}
+Dialogue: 0,0:11:53.08,0:11:55.96,Default,,0000,0000,0000,,{\blur3}如果我将光射向空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ifl send light rays through space...{\r}
+Dialogue: 0,0:11:56.00,0:12:00.26,Default,,0000,0000,0000,,{\blur3}形成一个大三角 从我们这里发射出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and make a gigantic triangle, going from us here...{\r}
+Dialogue: 0,0:12:00.30,0:12:04.55,Default,,0000,0000,0000,,{\blur3}射向我们所看到的最边缘 然后返回{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out to the farthest edges of what we can see and then back...{\r}
+Dialogue: 0,0:12:04.59,0:12:05.76,Default,,0000,0000,0000,,{\blur3}它们的角度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the angles of those--{\r}
+Dialogue: 0,0:12:05.80,0:12:07.85,Default,,0000,0000,0000,,{\blur3}那个三角形加起来应该正好等于180度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that triangle should add up to exactly 180 degrees.{\r}
+Dialogue: 0,0:12:09.68,0:12:12.31,Default,,0000,0000,0000,,{\blur3}如果宇宙如气球那样弯曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ifthe universe is curved like a balloon...{\r}
+Dialogue: 0,0:12:12.35,0:12:15.02,Default,,0000,0000,0000,,{\blur3}大三角的角度加起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the angles of the giant triangle would add up...{\r}
+Dialogue: 0,0:12:15.06,0:12:17.15,Default,,0000,0000,0000,,{\blur3}就会大于180度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to more than 180 degrees.{\r}
+Dialogue: 0,0:12:18.27,0:12:21.57,Default,,0000,0000,0000,,{\blur3}为了发现宇宙是扁平的还是弯曲的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To find out if the universe is flat or curved...{\r}
+Dialogue: 0,0:12:21.61,0:12:24.61,Default,,0000,0000,0000,,{\blur3}他们将激光束射向太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they shot laser beams deep into space...{\r}
+Dialogue: 0,0:12:24.66,0:12:27.12,Default,,0000,0000,0000,,{\blur3}形成一个巨大的三角形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and made a giant light triangle.{\r}
+Dialogue: 0,0:12:28.28,0:12:31.91,Default,,0000,0000,0000,,{\blur3}我们现在可以说 测量有了结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now we can tell, and the measurement is in...{\r}
+Dialogue: 0,0:12:31.95,0:12:35.75,Default,,0000,0000,0000,,{\blur3}答案是 其工作出色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the answer is, it works beautifully.{\r}
+Dialogue: 0,0:12:35.79,0:12:39.21,Default,,0000,0000,0000,,{\blur3}角度加起来刚好180度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The angles add up to exactly 180 degrees.{\r}
+Dialogue: 0,0:12:39.25,0:12:41.30,Default,,0000,0000,0000,,{\blur3}宇宙是平的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe is flat.{\r}
+Dialogue: 0,0:12:42.38,0:12:47.14,Default,,0000,0000,0000,,{\blur3}WMAP似乎表明宇宙是平的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The WMAP seems to show that the universe is flat.{\r}
+Dialogue: 0,0:12:47.18,0:12:50.10,Default,,0000,0000,0000,,{\blur3}对某些人来说 不管怎样 评判依然{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For some, however, the jury is still out...{\r}
+Dialogue: 0,0:12:50.14,0:12:52.10,Default,,0000,0000,0000,,{\blur3}纠结于扁平宇宙的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the flat universe question.{\r}
+Dialogue: 0,0:12:52.14,0:12:54.18,Default,,0000,0000,0000,,{\blur3}我倾向于认为宇宙事实上是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I tend to think that the universe is, in fact...{\r}
+Dialogue: 0,0:12:54.23,0:12:58.65,Default,,0000,0000,0000,,{\blur3}某种肥皂泡 不过其弯曲非常细微 我们无法感觉到而已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a soap bubble of some sort, but it is bent so slightly that we can't see it.{\r}
+Dialogue: 0,0:13:00.69,0:13:03.11,Default,,0000,0000,0000,,{\blur3}有些专家称 还存在着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some experts say that there are other...{\r}
+Dialogue: 0,0:13:03.15,0:13:06.99,Default,,0000,0000,0000,,{\blur3}更加莫名其妙的平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even more mind-boggling kinds of parallel universes out there...{\r}
+Dialogue: 0,0:13:07.99,0:13:10.58,Default,,0000,0000,0000,,{\blur3}第二层次的平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a level-two type parallel universe...{\r}
+Dialogue: 0,0:13:10.62,0:13:14.95,Default,,0000,0000,0000,,{\blur3}是由漂浮在多维空间里的巨大的宇宙肥皂泡构成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}made up of giant, cosmic soap bubbles that float in hyperspace.{\r}
+Dialogue: 0,0:13:16.50,0:13:21.96,Default,,0000,0000,0000,,{\blur3}每个单独的泡沫里都有一个完整的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each independent bubble has within it an entire universe.{\r}
+Dialogue: 0,0:13:22.00,0:13:26.84,Default,,0000,0000,0000,,{\blur3}问题是 我们是否就处在一个巨大的宇宙泡里呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The question is, do we all really live in a giant cosmic bubble?{\r}
+Dialogue: 0,0:13:30.35,0:13:33.47,Default,,0000,0000,0000,,{\blur3}难道我们宇宙就处在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could our universe be just one mega bubble...{\r}
+Dialogue: 0,0:13:33.52,0:13:36.23,Default,,0000,0000,0000,,{\blur3}一大堆宇宙巨泡中的一个里吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a cosmic crowd of mega bubbles?{\r}
+Dialogue: 0,0:13:36.27,0:13:40.86,Default,,0000,0000,0000,,{\blur3}如果耸人听闻的第二层次平行宇宙的概念是对的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the sensational, level-two type parallel universe idea is right...{\r}
+Dialogue: 0,0:13:40.90,0:13:42.98,Default,,0000,0000,0000,,{\blur3}那么宇宙的真实属性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the true nature of the cosmos...{\r}
+Dialogue: 0,0:13:43.03,0:13:46.49,Default,,0000,0000,0000,,{\blur3}将更为惊人 超乎想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be even more astonishing than ever imagined.{\r}
+Dialogue: 0,0:13:50.03,0:13:53.95,Default,,0000,0000,0000,,{\blur3}惊人的想法就是在活生生的宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The amazing concept is that in the instance of creation...{\r}
+Dialogue: 0,0:13:53.99,0:13:58.33,Default,,0000,0000,0000,,{\blur3}我们的宇宙迅速 突然 大规模地膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our universe rapidly, suddenly, and massively inflated...{\r}
+Dialogue: 0,0:13:58.37,0:14:01.13,Default,,0000,0000,0000,,{\blur3}形成了一个巨大的宇宙肥皂泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating a giant cosmic soap bubble.{\r}
+Dialogue: 0,0:14:04.17,0:14:06.76,Default,,0000,0000,0000,,{\blur3}我们这独特的宇宙漂浮在汹涌的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our unique universe floats in a seething sea...{\r}
+Dialogue: 0,0:14:06.80,0:14:08.55,Default,,0000,0000,0000,,{\blur3}其它超级巨泡的大海里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of other super-bubbles...{\r}
+Dialogue: 0,0:14:11.18,0:14:12.64,Default,,0000,0000,0000,,{\blur3}泡泡会发生碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where bubbles can clash...{\r}
+Dialogue: 0,0:14:12.68,0:14:16.31,Default,,0000,0000,0000,,{\blur3}产下新生的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and spawn baby brother and sister universes.{\r}
+Dialogue: 0,0:14:20.06,0:14:22.77,Default,,0000,0000,0000,,{\blur3}一直这样进行下去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's happening all the time.{\r}
+Dialogue: 0,0:14:22.82,0:14:25.36,Default,,0000,0000,0000,,{\blur3}宇宙一直在膨胀 炸开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Universes are inflating, popping out...{\r}
+Dialogue: 0,0:14:25.40,0:14:29.03,Default,,0000,0000,0000,,{\blur3}于是这些巨大的宇宙爆发了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then blowing up to these huge sizes of universes.{\r}
+Dialogue: 0,0:14:29.82,0:14:32.66,Default,,0000,0000,0000,,{\blur3}这些第二层次的泡泡所在的介质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The medium these level-two bubbles are floating in...{\r}
+Dialogue: 0,0:14:32.70,0:14:37.41,Default,,0000,0000,0000,,{\blur3}有些人称之为体宇宙 而其他人则称之为多维空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is what some call the bulk and others call hyperspace.{\r}
+Dialogue: 0,0:14:38.58,0:14:40.04,Default,,0000,0000,0000,,{\blur3}在这个新模式里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this new paradigm...{\r}
+Dialogue: 0,0:14:40.08,0:14:44.34,Default,,0000,0000,0000,,{\blur3}肥皂泡可以形成 再形成 可以破裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}soap bubbles can form, re-form, they can split.{\r}
+Dialogue: 0,0:14:48.88,0:14:53.01,Default,,0000,0000,0000,,{\blur3}它是动态的: 宇宙可以无中生有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's dynamic: universes being created out of nothing...{\r}
+Dialogue: 0,0:14:53.05,0:14:55.93,Default,,0000,0000,0000,,{\blur3}宇宙可以萌生出别的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}universes budding off other universes.{\r}
+Dialogue: 0,0:14:59.52,0:15:04.73,Default,,0000,0000,0000,,{\blur3}总之 这些泡泡构成了第二层次平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Altogether, these bubbles form the level-two type parallel universe.{\r}
+Dialogue: 0,0:15:04.77,0:15:07.23,Default,,0000,0000,0000,,{\blur3}其中 存在着数量无限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And within it, there are an infinite number...{\r}
+Dialogue: 0,0:15:07.28,0:15:09.94,Default,,0000,0000,0000,,{\blur3}第一层次平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of level-one type parallel universes.{\r}
+Dialogue: 0,0:15:10.86,0:15:12.57,Default,,0000,0000,0000,,{\blur3}第一层次和第二层次平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The level-one and level-two universes...{\r}
+Dialogue: 0,0:15:12.62,0:15:14.45,Default,,0000,0000,0000,,{\blur3}都处在我们同一个空间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are all in our same one space.{\r}
+Dialogue: 0,0:15:14.49,0:15:16.45,Default,,0000,0000,0000,,{\blur3}只有一个空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's only one space.{\r}
+Dialogue: 0,0:15:16.49,0:15:17.74,Default,,0000,0000,0000,,{\blur3}这些不同的区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then there are these different regions...{\r}
+Dialogue: 0,0:15:17.79,0:15:20.46,Default,,0000,0000,0000,,{\blur3}我们管它们叫做第一层次和第二层次平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which we call level-one and level-two parallel universes.{\r}
+Dialogue: 0,0:15:23.13,0:15:26.00,Default,,0000,0000,0000,,{\blur3}穿越第二层次平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A fly-by through the level-two parallel universe...{\r}
+Dialogue: 0,0:15:26.05,0:15:28.76,Default,,0000,0000,0000,,{\blur3}某些人也会管它叫多元宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or what some also call the multiverse...{\r}
+Dialogue: 0,0:15:28.80,0:15:32.13,Default,,0000,0000,0000,,{\blur3}那将是一场可怕而壮观的体验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be a terrifying and spectacular experience.{\r}
+Dialogue: 0,0:15:33.26,0:15:38.26,Default,,0000,0000,0000,,{\blur3}多元宇宙中的宇宙 个个都是来也匆匆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A multiverse of universes, each one popping into existence...{\r}
+Dialogue: 0,0:15:38.31,0:15:42.48,Default,,0000,0000,0000,,{\blur3}去也匆匆 也许在彼此相撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}popping out of existence, perhaps colliding with each other.{\r}
+Dialogue: 0,0:15:42.52,0:15:46.36,Default,,0000,0000,0000,,{\blur3}走出灾难 迎来生机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Out of calamity comes existence.{\r}
+Dialogue: 0,0:15:46.40,0:15:49.44,Default,,0000,0000,0000,,{\blur3}我们所谓的第二层次多元宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we call the level-two multiverse...{\r}
+Dialogue: 0,0:15:49.49,0:15:52.57,Default,,0000,0000,0000,,{\blur3}其实最好将其看作是树或分形结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is really best thought of as a tree or a fractal structure...{\r}
+Dialogue: 0,0:15:52.61,0:15:55.78,Default,,0000,0000,0000,,{\blur3}你可以看到空域在疯长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you have a region of space expanding like crazy...{\r}
+Dialogue: 0,0:15:55.82,0:15:57.66,Default,,0000,0000,0000,,{\blur3}和其它空域交织在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and spiraling off other regions...{\r}
+Dialogue: 0,0:15:57.70,0:16:01.33,Default,,0000,0000,0000,,{\blur3}然后又膨胀 交织上其它的空域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which then expand, spiraling off other regions.{\r}
+Dialogue: 0,0:16:01.37,0:16:03.79,Default,,0000,0000,0000,,{\blur3}其它空域会依附它萌生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And other ones can bud off of that.{\r}
+Dialogue: 0,0:16:03.83,0:16:08.71,Default,,0000,0000,0000,,{\blur3}所以你可以看到这种杂乱 宇宙永恒的分形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you can get this chaotic, eternally branching set of universes...{\r}
+Dialogue: 0,0:16:08.75,0:16:11.38,Default,,0000,0000,0000,,{\blur3}依附它们的前辈而萌发出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}budding off from their predecessors.{\r}
+Dialogue: 0,0:16:12.72,0:16:16.39,Default,,0000,0000,0000,,{\blur3}这个多元宇宙里的宇宙无限组合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An infinite set of universes in this multiverse.{\r}
+Dialogue: 0,0:16:18.10,0:16:23.39,Default,,0000,0000,0000,,{\blur3}这个宏伟过程的专业术语叫做气泡成核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The big term for this monumental process is bubble nucleation.{\r}
+Dialogue: 0,0:16:23.44,0:16:26.94,Default,,0000,0000,0000,,{\blur3}气泡成核是极客创造的短语{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bubble nucleation is the geek-speech phrase...{\r}
+Dialogue: 0,0:16:26.98,0:16:32.15,Default,,0000,0000,0000,,{\blur3}其所形容的过程 就是你看到奇怪物质在膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the process where you have this inflating strange material...{\r}
+Dialogue: 0,0:16:32.19,0:16:34.07,Default,,0000,0000,0000,,{\blur3}然后有那么一块停止了膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then a little piece of it stops inflating...{\r}
+Dialogue: 0,0:16:36.28,0:16:40.70,Default,,0000,0000,0000,,{\blur3}引起其周围的泡沫状空域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and causes a bubble-shaped region expanding around it...{\r}
+Dialogue: 0,0:16:40.74,0:16:42.00,Default,,0000,0000,0000,,{\blur3}也停止了膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to also stop inflating...{\r}
+Dialogue: 0,0:16:42.04,0:16:47.79,Default,,0000,0000,0000,,{\blur3}于是你在这个泡泡里创造出了 一片优雅 宁静的空域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then you create in this bubble a nice, calm region of space...{\r}
+Dialogue: 0,0:16:47.84,0:16:53.17,Default,,0000,0000,0000,,{\blur3}你最终在那里形成了星系 恒星 行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you will eventually form galaxies, stars, planets...{\r}
+Dialogue: 0,0:16:53.22,0:16:54.63,Default,,0000,0000,0000,,{\blur3}乃至我们这样的人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even people like us.{\r}
+Dialogue: 0,0:16:56.22,0:16:58.01,Default,,0000,0000,0000,,{\blur3}所以我们都是泡泡的孩子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we are the children of the bubble.{\r}
+Dialogue: 0,0:16:59.97,0:17:02.02,Default,,0000,0000,0000,,{\blur3}人类有史以来第一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For the first time in human history...{\r}
+Dialogue: 0,0:17:02.06,0:17:03.85,Default,,0000,0000,0000,,{\blur3}泡泡的孩子正凝视着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}children of the bubble are peering out...{\r}
+Dialogue: 0,0:17:03.89,0:17:07.98,Default,,0000,0000,0000,,{\blur3}观察着平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and seeing on the horizon parallel universes.{\r}
+Dialogue: 0,0:17:08.02,0:17:11.61,Default,,0000,0000,0000,,{\blur3}物理学家坚持认为他们现在已经有望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Determined physicists believe they are now on the brink...{\r}
+Dialogue: 0,0:17:11.65,0:17:15.07,Default,,0000,0000,0000,,{\blur3}揭开宇宙终极之谜了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of uncovering the ultimate mysteries of the universe.{\r}
+Dialogue: 0,0:17:16.41,0:17:18.70,Default,,0000,0000,0000,,{\blur3}为何要寻找这些我们触摸不到的平行宇宙呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why look for these parallel universes that we can't touch?{\r}
+Dialogue: 0,0:17:21.04,0:17:23.87,Default,,0000,0000,0000,,{\blur3}因为它们掌握着秘密中的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because they hold the secret of secrets.{\r}
+Dialogue: 0,0:17:23.91,0:17:27.67,Default,,0000,0000,0000,,{\blur3}它们掌握着万物的起源之谜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They hold the secret of the origin of everything there is.{\r}
+Dialogue: 0,0:17:29.29,0:17:34.21,Default,,0000,0000,0000,,{\blur3}有史以来第一次 我们可以想象我们宇宙本身的出身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For the first time, we can imagine where our universe itseIfcame from.{\r}
+Dialogue: 0,0:17:36.97,0:17:39.72,Default,,0000,0000,0000,,{\blur3}也许我们的宇宙突然诞生于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Perhaps when our universe popped into existence...{\r}
+Dialogue: 0,0:17:39.76,0:17:42.10,Default,,0000,0000,0000,,{\blur3}与另一个平行宇宙的碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}colliding with another parallel universe...{\r}
+Dialogue: 0,0:17:42.14,0:17:44.39,Default,,0000,0000,0000,,{\blur3}也许是萌生于另一个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps budding from another universe...{\r}
+Dialogue: 0,0:17:44.43,0:17:48.60,Default,,0000,0000,0000,,{\blur3}这些就是现代研究的课题:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these are the stuff of modern research today:{\r}
+Dialogue: 0,0:17:48.65,0:17:50.73,Default,,0000,0000,0000,,{\blur3}前大爆炸物理学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pre-Big Bang physics.{\r}
+Dialogue: 0,0:17:50.77,0:17:52.15,Default,,0000,0000,0000,,{\blur3}创世之前的物理学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Physics before Genesis.{\r}
+Dialogue: 0,0:17:53.53,0:17:55.19,Default,,0000,0000,0000,,{\blur3}但是存在着一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there is a problem.{\r}
+Dialogue: 0,0:17:55.24,0:17:57.57,Default,,0000,0000,0000,,{\blur3}几十年来 科学家一直在探索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For decades, scientists have been searching...{\r}
+Dialogue: 0,0:17:57.61,0:18:00.70,Default,,0000,0000,0000,,{\blur3}一个整体的万有理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for one cohesive theory of everything...{\r}
+Dialogue: 0,0:18:00.74,0:18:04.24,Default,,0000,0000,0000,,{\blur3}一个结合起爱因斯坦的广义相对论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one to unite Einstein's theory of general relativity...{\r}
+Dialogue: 0,0:18:04.29,0:18:07.50,Default,,0000,0000,0000,,{\blur3}它解释了大尺度上的引力作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which explains how gravity works over large scales...{\r}
+Dialogue: 0,0:18:07.54,0:18:11.29,Default,,0000,0000,0000,,{\blur3}和量子物理学 最小物质的科学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with quantum physics, the science of the tiniest matter.{\r}
+Dialogue: 0,0:18:14.80,0:18:16.96,Default,,0000,0000,0000,,{\blur3}结合在一起 这两个伟大的理论来解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Together, these two great theories explain...{\r}
+Dialogue: 0,0:18:17.01,0:18:21.14,Default,,0000,0000,0000,,{\blur3}人类对于宇宙迄今所知的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}everything humanity knows so far about the cosmos.{\r}
+Dialogue: 0,0:18:22.68,0:18:25.14,Default,,0000,0000,0000,,{\blur3}但是犹如卡通片 猫和老鼠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But like a cartoon cat and mouse...{\r}
+Dialogue: 0,0:18:25.18,0:18:27.27,Default,,0000,0000,0000,,{\blur3}它们相互冲突{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are at war with one another.{\r}
+Dialogue: 0,0:18:28.94,0:18:30.94,Default,,0000,0000,0000,,{\blur3}这两个理论相互敌视{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These two theories hate each other.{\r}
+Dialogue: 0,0:18:32.27,0:18:36.53,Default,,0000,0000,0000,,{\blur3}它们完全不协调 不买账{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're completely inconsistent, incompatible.{\r}
+Dialogue: 0,0:18:38.11,0:18:41.82,Default,,0000,0000,0000,,{\blur3}无法了解如今的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No way to understand in today's world...{\r}
+Dialogue: 0,0:18:41.87,0:18:45.33,Default,,0000,0000,0000,,{\blur3}量子版的广义相对论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a quantum version of general relativity.{\r}
+Dialogue: 0,0:18:45.37,0:18:48.12,Default,,0000,0000,0000,,{\blur3}我们能否来一个强迫婚姻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How can we get a shotgun marriage...{\r}
+Dialogue: 0,0:18:48.16,0:18:50.41,Default,,0000,0000,0000,,{\blur3}把这两个互不喜欢的理论拉在一起呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between these two theories that don't like each other?{\r}
+Dialogue: 0,0:18:55.71,0:18:57.17,Default,,0000,0000,0000,,{\blur3}把它们拉在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bringing those together would give you...{\r}
+Dialogue: 0,0:18:57.21,0:18:58.63,Default,,0000,0000,0000,,{\blur3}会给你带来万有理论一定意义上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a theory of everything in the sense...{\r}
+Dialogue: 0,0:18:58.67,0:19:01.22,Default,,0000,0000,0000,,{\blur3}那些就是你所需要的配料 我想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that those are the ingredients you would need, I think...{\r}
+Dialogue: 0,0:19:01.26,0:19:02.47,Default,,0000,0000,0000,,{\blur3}以了解大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to understand the Big Bang...{\r}
+Dialogue: 0,0:19:02.51,0:19:04.47,Default,,0000,0000,0000,,{\blur3}以了解宇宙的起源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to understand the origin of the universe.{\r}
+Dialogue: 0,0:19:07.18,0:19:09.93,Default,,0000,0000,0000,,{\blur3}想当初 1980年代 科学家提出了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When, in the 1980s, scientists came up with...{\r}
+Dialogue: 0,0:19:09.98,0:19:13.77,Default,,0000,0000,0000,,{\blur3}一个悦耳动听的概念 弦论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a lyrical-sounding idea, string theory...{\r}
+Dialogue: 0,0:19:13.81,0:19:16.94,Default,,0000,0000,0000,,{\blur3}它承诺可以解决宇宙间所有的奥秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it promised to solve all the mysteries of the universe...{\r}
+Dialogue: 0,0:19:16.98,0:19:20.70,Default,,0000,0000,0000,,{\blur3}包括平行宇宙是否真的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including whether or not parallel universes are real.{\r}
+Dialogue: 0,0:19:21.66,0:19:26.16,Default,,0000,0000,0000,,{\blur3}其概念是所有的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The idea is that all particles are not solid points or dots...{\r}
+Dialogue: 0,0:19:26.20,0:19:27.58,Default,,0000,0000,0000,,{\blur3}并不是科学所说的一定的点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as science said they were.{\r}
+Dialogue: 0,0:19:28.70,0:19:31.37,Default,,0000,0000,0000,,{\blur3}相反 如果你靠近观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead, if you could see up close...{\r}
+Dialogue: 0,0:19:31.42,0:19:35.29,Default,,0000,0000,0000,,{\blur3}粒子事实上是细微的弦状的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}particles are, in fact, tiny string-like objects...{\r}
+Dialogue: 0,0:19:35.34,0:19:38.42,Default,,0000,0000,0000,,{\blur3}各自以不同的方式在振动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that individually vibrate in various ways.{\r}
+Dialogue: 0,0:19:40.05,0:19:45.14,Default,,0000,0000,0000,,{\blur3}弦论从振动的弦的概念出发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}String theory starts out by taking the idea of a string which vibrates...{\r}
+Dialogue: 0,0:19:45.18,0:19:47.85,Default,,0000,0000,0000,,{\blur3}产生出各种粒子 并由此产生物理学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving rise to different particles, and doing physics with that.{\r}
+Dialogue: 0,0:19:47.89,0:19:50.18,Default,,0000,0000,0000,,{\blur3}某种程度 它相当于音乐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's rather musical, in a way.{\r}
+Dialogue: 0,0:19:50.23,0:19:52.85,Default,,0000,0000,0000,,{\blur3}就像是乐队里的吉他和低音{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like using guitar and bass in a band...{\r}
+Dialogue: 0,0:19:52.90,0:19:55.94,Default,,0000,0000,0000,,{\blur3}通过弦的振动产生出各种音符{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to generate different notes from vibrations of strings.{\r}
+Dialogue: 0,0:19:56.90,0:20:00.32,Default,,0000,0000,0000,,{\blur3}随着科学家探讨弦论的深入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As scientists explored string theory more closely...{\r}
+Dialogue: 0,0:20:00.36,0:20:03.11,Default,,0000,0000,0000,,{\blur3}他们得到了惊人的发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they made a remarkable discovery.{\r}
+Dialogue: 0,0:20:03.16,0:20:04.74,Default,,0000,0000,0000,,{\blur3}我们发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We found that it wasn't just strings...{\r}
+Dialogue: 0,0:20:04.78,0:20:05.91,Default,,0000,0000,0000,,{\blur3}不只是弦牵涉到了物理学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that were involved in the physics...{\r}
+Dialogue: 0,0:20:05.95,0:20:08.78,Default,,0000,0000,0000,,{\blur3}而且还涉及了膜以及其它扩展的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but also membranes and other extended objects...{\r}
+Dialogue: 0,0:20:08.83,0:20:10.20,Default,,0000,0000,0000,,{\blur3}它们都是会振动的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which could vibrate.{\r}
+Dialogue: 0,0:20:10.25,0:20:12.37,Default,,0000,0000,0000,,{\blur3}这有点像扩大的乐队{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's rather like enlarging the band...{\r}
+Dialogue: 0,0:20:12.41,0:20:15.71,Default,,0000,0000,0000,,{\blur3}增加了鼓和其它乐器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to have drums and other instruments...{\r}
+Dialogue: 0,0:20:15.75,0:20:17.04,Default,,0000,0000,0000,,{\blur3}丰富了音色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which enrich the sound...{\r}
+Dialogue: 0,0:20:17.09,0:20:20.59,Default,,0000,0000,0000,,{\blur3}真正扩展了可以演奏的节目{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and really broaden the repertoire of things that could be played.{\r}
+Dialogue: 0,0:20:22.22,0:20:25.09,Default,,0000,0000,0000,,{\blur3}弦论现在已经演变成了M理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}String theory has now evolved into what is called...{\r}
+Dialogue: 0,0:20:25.14,0:20:27.80,Default,,0000,0000,0000,,{\blur3}即膜理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"M" or membrane theory.{\r}
+Dialogue: 0,0:20:29.89,0:20:34.39,Default,,0000,0000,0000,,{\blur3}所以我们现在我们已经意识到了 我们实际所见的粒子 宇宙本身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So now we realize that the particles we see in nature, the universe itself...{\r}
+Dialogue: 0,0:20:34.44,0:20:38.31,Default,,0000,0000,0000,,{\blur3}都是由振动的膜和振动的弦构成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}consists of vibrating membranes and vibrating strings.{\r}
+Dialogue: 0,0:20:40.98,0:20:43.61,Default,,0000,0000,0000,,{\blur3}M理论最高成就来自{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The crowning achievement of M-theory came...{\r}
+Dialogue: 0,0:20:43.65,0:20:47.78,Default,,0000,0000,0000,,{\blur3}当时科学家意识到为了搞明白一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when scientists realized that, to make sense of everything...{\r}
+Dialogue: 0,0:20:47.82,0:20:51.79,Default,,0000,0000,0000,,{\blur3}你就需要考虑宇宙存在着11个维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you need to think of the universe as existing in 11 dimensions.{\r}
+Dialogue: 0,0:20:53.96,0:20:55.58,Default,,0000,0000,0000,,{\blur3}如果你坐在山顶{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ifyou're sitting on a mountaintop...{\r}
+Dialogue: 0,0:20:55.62,0:20:59.63,Default,,0000,0000,0000,,{\blur3}看下去 你可以看到所有单独的小村落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you look down, you can see all the separate little villages...{\r}
+Dialogue: 0,0:20:59.67,0:21:01.84,Default,,0000,0000,0000,,{\blur3}它们根本不是整齐划一的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are not unified at all.{\r}
+Dialogue: 0,0:21:01.88,0:21:07.22,Default,,0000,0000,0000,,{\blur3}但是站在山顶 你看到的是一幅连贯整体的美丽景象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But from a mountaintop, you look at a coherent, whole, beautiful picture.{\r}
+Dialogue: 0,0:21:07.26,0:21:08.47,Default,,0000,0000,0000,,{\blur3}那就是M理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's M-theory.{\r}
+Dialogue: 0,0:21:10.81,0:21:13.47,Default,,0000,0000,0000,,{\blur3}M理论解释了宇宙活动中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}M-theory explains how the tiniest...{\r}
+Dialogue: 0,0:21:13.52,0:21:15.39,Default,,0000,0000,0000,,{\blur3}最小以及最大的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as well as the biggest things in the cosmos work.{\r}
+Dialogue: 0,0:21:18.98,0:21:24.32,Default,,0000,0000,0000,,{\blur3}它同时指出我们都处于一个巨大而充满活力的膜上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It also proposes that we all live on a giant and energetic membrane.{\r}
+Dialogue: 0,0:21:25.57,0:21:30.32,Default,,0000,0000,0000,,{\blur3}我们的宇宙被限定在这个无形的额外维度的墙内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our universe is tethered to this wall by invisible extra dimensions.{\r}
+Dialogue: 0,0:21:31.95,0:21:35.16,Default,,0000,0000,0000,,{\blur3}为了把事情搞得更加荒唐 M理论提出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To make matters crazier, M-theory proposes...{\r}
+Dialogue: 0,0:21:35.21,0:21:37.46,Default,,0000,0000,0000,,{\blur3}那六到七个我们日常{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that six or seven of these dimensions...{\r}
+Dialogue: 0,0:21:37.50,0:21:39.67,Default,,0000,0000,0000,,{\blur3}感觉不到的额外的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the extra ones we don't sense every day...{\r}
+Dialogue: 0,0:21:39.71,0:21:43.17,Default,,0000,0000,0000,,{\blur3}是极小的 就在你面前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are tiny and right in front of your nose.{\r}
+Dialogue: 0,0:21:44.55,0:21:48.26,Default,,0000,0000,0000,,{\blur3}在每个人所经过的所有点上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At every point of any one of these people walking by...{\r}
+Dialogue: 0,0:21:48.30,0:21:50.34,Default,,0000,0000,0000,,{\blur3}你会挑选一个点 在那个点上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you pick a point, at that point...{\r}
+Dialogue: 0,0:21:50.39,0:21:53.10,Default,,0000,0000,0000,,{\blur3}将存在着极其细微{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there will be an incredibly tiny, curled-up...{\r}
+Dialogue: 0,0:21:53.14,0:21:56.43,Default,,0000,0000,0000,,{\blur3}卷曲着六到七个维度 你只是没察觉而已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}either six or seven dimensions that you just don't perceive.{\r}
+Dialogue: 0,0:21:57.89,0:21:59.90,Default,,0000,0000,0000,,{\blur3}这些膜也彼此非常贴近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These membranes are also very close to each other.{\r}
+Dialogue: 0,0:22:02.02,0:22:07.36,Default,,0000,0000,0000,,{\blur3}你可以看到这些膜中的一个构成了一个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You could have one of these membranes being a universe.{\r}
+Dialogue: 0,0:22:07.40,0:22:09.36,Default,,0000,0000,0000,,{\blur3}然后 侧向移动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then, moving sideways...{\r}
+Dialogue: 0,0:22:09.41,0:22:12.66,Default,,0000,0000,0000,,{\blur3}你可以看到另一个膜 也是一个独立的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you have another membrane being a separate universe...{\r}
+Dialogue: 0,0:22:12.70,0:22:16.25,Default,,0000,0000,0000,,{\blur3}它们之间相隔只有1到2毫米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they may be just a millimeter or two away.{\r}
+Dialogue: 0,0:22:17.71,0:22:21.83,Default,,0000,0000,0000,,{\blur3}充满活力的物质巨墙并排漂浮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The giant walls of energetic matter float side by side...{\r}
+Dialogue: 0,0:22:21.88,0:22:25.76,Default,,0000,0000,0000,,{\blur3}就像体宇宙或多维空间里的巨大的床单{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like humongous sheets in the bulk or in hyperspace.{\r}
+Dialogue: 0,0:22:27.42,0:22:30.93,Default,,0000,0000,0000,,{\blur3}整个宇宙有可能依附在膜上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An entire universe may be attached to a brane...{\r}
+Dialogue: 0,0:22:30.97,0:22:34.35,Default,,0000,0000,0000,,{\blur3}或者是宇宙可以整个占据另一个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or a universe can occupy the whole of another one.{\r}
+Dialogue: 0,0:22:35.93,0:22:40.02,Default,,0000,0000,0000,,{\blur3}我们这个宇宙就坐落在这些巨大的膜的表皮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our own universe sits on the skin of one of these giant branes...{\r}
+Dialogue: 0,0:22:40.06,0:22:44.61,Default,,0000,0000,0000,,{\blur3}从而漂浮在茫茫宇宙空间大海之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that, in turn, is adrift in the cosmic sea of space.{\r}
+Dialogue: 0,0:22:44.65,0:22:48.49,Default,,0000,0000,0000,,{\blur3}它漂浮在一个更大的结构里 那叫做体宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it's floating around in a bigger structure called the bulk.{\r}
+Dialogue: 0,0:22:49.91,0:22:53.78,Default,,0000,0000,0000,,{\blur3}我们的三维宇宙就像是一个膜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our three-dimensional universe is like a membrane...{\r}
+Dialogue: 0,0:22:53.83,0:22:57.41,Default,,0000,0000,0000,,{\blur3}漂浮在这个更大的结构里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}floating around within this larger structure.{\r}
+Dialogue: 0,0:22:59.62,0:23:02.38,Default,,0000,0000,0000,,{\blur3}相信无形的额外的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Believing that invisible extra dimensions...{\r}
+Dialogue: 0,0:23:02.42,0:23:04.46,Default,,0000,0000,0000,,{\blur3}就像是脐带 将我们与巨大的膜所在的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that, like an umbilical cord, connect us...{\r}
+Dialogue: 0,0:23:04.50,0:23:08.67,Default,,0000,0000,0000,,{\blur3}多维宇宙或体宇宙联系在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a hyper or bulk space where giant membranes live...{\r}
+Dialogue: 0,0:23:08.72,0:23:11.01,Default,,0000,0000,0000,,{\blur3}是需要信仰的一个飞跃的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}demands a huge leap of faith.{\r}
+Dialogue: 0,0:23:13.39,0:23:15.81,Default,,0000,0000,0000,,{\blur3}我们所依附的这些膜又在哪里呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where are these membranes that we're stuck to?{\r}
+Dialogue: 0,0:23:16.60,0:23:20.60,Default,,0000,0000,0000,,{\blur3}为何我们看不到与我们关联的这些维度呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And why can't we see these extra dimensions that connect us?{\r}
+Dialogue: 0,0:23:21.48,0:23:25.82,Default,,0000,0000,0000,,{\blur3}我坐在这只皮艇 漂浮在海面上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm floating around here on this kayak on the surface of the ocean...{\r}
+Dialogue: 0,0:23:25.86,0:23:28.53,Default,,0000,0000,0000,,{\blur3}你可以将它视为一个二维的面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you can think of this as a two-dimensional surface.{\r}
+Dialogue: 0,0:23:31.15,0:23:33.57,Default,,0000,0000,0000,,{\blur3}但是在我下方 存在着完全不同的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But below me, there's a whole 'nother dimension.{\r}
+Dialogue: 0,0:23:33.62,0:23:36.99,Default,,0000,0000,0000,,{\blur3}下面的维度里 就是鱼儿居住的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's the down dimension where all the fish live.{\r}
+Dialogue: 0,0:23:37.04,0:23:39.04,Default,,0000,0000,0000,,{\blur3}你可以将其视为体宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can think of that as the bulk.{\r}
+Dialogue: 0,0:23:39.08,0:23:41.83,Default,,0000,0000,0000,,{\blur3}我漂浮在一个膜上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm on a membrane, floating around...{\r}
+Dialogue: 0,0:23:41.87,0:23:45.08,Default,,0000,0000,0000,,{\blur3}而体宇宙就是另一个维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the bulk is the other dimension.{\r}
+Dialogue: 0,0:23:45.13,0:23:47.59,Default,,0000,0000,0000,,{\blur3}水面之下的鱼相对我{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The fish down below the surface of the water...{\r}
+Dialogue: 0,0:23:47.63,0:23:49.88,Default,,0000,0000,0000,,{\blur3}是在另一个维度里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are in a different dimension than I am.{\r}
+Dialogue: 0,0:23:49.92,0:23:51.97,Default,,0000,0000,0000,,{\blur3}它们甚至不知道我在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't even know that I'm here...{\r}
+Dialogue: 0,0:23:52.01,0:23:54.76,Default,,0000,0000,0000,,{\blur3}除非我碰巧划桨击中它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}unless I happen to splash around and hit one on the head...{\r}
+Dialogue: 0,0:23:54.80,0:23:56.22,Default,,0000,0000,0000,,{\blur3}等等之类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or something like that.{\r}
+Dialogue: 0,0:23:56.26,0:24:00.39,Default,,0000,0000,0000,,{\blur3}因此它们有可能完全无视我的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So they might be completely oblivious to my existence...{\r}
+Dialogue: 0,0:24:00.43,0:24:02.77,Default,,0000,0000,0000,,{\blur3}我也可能完全无视它们的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I could be oblivious to their existence...{\r}
+Dialogue: 0,0:24:02.81,0:24:04.98,Default,,0000,0000,0000,,{\blur3}因为我们处于不同的维度里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because we're in different dimensions.{\r}
+Dialogue: 0,0:24:06.65,0:24:10.40,Default,,0000,0000,0000,,{\blur3}然而能否短暂思绪一下 把你送入一个额外的维度里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But can a fleeting thought send you into an extra dimension...{\r}
+Dialogue: 0,0:24:10.44,0:24:12.61,Default,,0000,0000,0000,,{\blur3}送入一个平行宇宙呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and on to a parallel universe?{\r}
+Dialogue: 0,0:24:16.91,0:24:20.79,Default,,0000,0000,0000,,{\blur3}根据最新的M理论 刹那间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to the latest M-theory, in less than an instant...{\r}
+Dialogue: 0,0:24:20.83,0:24:24.12,Default,,0000,0000,0000,,{\blur3}在不足兆兆分之一秒的时间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the first trillionth of a trillionth of a second...{\r}
+Dialogue: 0,0:24:24.17,0:24:29.09,Default,,0000,0000,0000,,{\blur3}前宇宙里的膜 就像是巨大的钹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}membranes in a pre-universe cosmos, like gigantic cosmic cymbals...{\r}
+Dialogue: 0,0:24:29.13,0:24:33.26,Default,,0000,0000,0000,,{\blur3}相互碰撞 产生了大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}smashed together and produced the Big Bang.{\r}
+Dialogue: 0,0:24:40.06,0:24:43.14,Default,,0000,0000,0000,,{\blur3}经过了近137亿年的光阴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Over almost 13.7 billion years...{\r}
+Dialogue: 0,0:24:43.19,0:24:46.65,Default,,0000,0000,0000,,{\blur3}一个巨大的不断膨胀的原始物质泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a huge expanding bubble of primordial matter...{\r}
+Dialogue: 0,0:24:46.69,0:24:50.15,Default,,0000,0000,0000,,{\blur3}演变成了我们现在多了解和热爱的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}evolved into the universe we now know and love.{\r}
+Dialogue: 0,0:24:53.28,0:24:57.66,Default,,0000,0000,0000,,{\blur3}膜的碰撞也能够产生平行宇宙吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can crashing membranes create parallel universes, too?{\r}
+Dialogue: 0,0:24:57.70,0:25:00.58,Default,,0000,0000,0000,,{\blur3}如果曾经发生过 那么就可能再次发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it happened once, it can happen again...{\r}
+Dialogue: 0,0:25:00.62,0:25:02.29,Default,,0000,0000,0000,,{\blur3}一而再 再而三{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and again and again.{\r}
+Dialogue: 0,0:25:07.13,0:25:09.63,Default,,0000,0000,0000,,{\blur3}因此有可能是个循环{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's possible that there's a continuous cycle...{\r}
+Dialogue: 0,0:25:09.67,0:25:13.05,Default,,0000,0000,0000,,{\blur3}膜相互碰撞产生宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of branes smashing together to produce universes...{\r}
+Dialogue: 0,0:25:13.09,0:25:14.47,Default,,0000,0000,0000,,{\blur3}永不停止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that it never stops.{\r}
+Dialogue: 0,0:25:22.89,0:25:27.98,Default,,0000,0000,0000,,{\blur3}要真是这样 第二层次平行宇宙就必定存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If this is true, level-two parallel universes must exist.{\r}
+Dialogue: 0,0:25:28.02,0:25:29.44,Default,,0000,0000,0000,,{\blur3}时间永续{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Time goes on forever...{\r}
+Dialogue: 0,0:25:29.48,0:25:32.36,Default,,0000,0000,0000,,{\blur3}宇宙灾难所带来的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's a continual process of birth of universes...{\r}
+Dialogue: 0,0:25:32.40,0:25:34.40,Default,,0000,0000,0000,,{\blur3}诞生过程也持续不断{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through cosmic catastrophes.{\r}
+Dialogue: 0,0:25:41.24,0:25:42.79,Default,,0000,0000,0000,,{\blur3}在第三层次里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the level-three type...{\r}
+Dialogue: 0,0:25:42.83,0:25:47.29,Default,,0000,0000,0000,,{\blur3}平行宇宙的诞生方式将更加怪异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is an even more fantastic way parallel universes can form.{\r}
+Dialogue: 0,0:25:49.33,0:25:51.04,Default,,0000,0000,0000,,{\blur3}来看一下它的运作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here's how it works.{\r}
+Dialogue: 0,0:25:51.09,0:25:54.26,Default,,0000,0000,0000,,{\blur3}在第一和第二层次里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In both the level-one and level-two kinds...{\r}
+Dialogue: 0,0:25:54.30,0:25:57.72,Default,,0000,0000,0000,,{\blur3}存在着独立的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are replica universes separated from us...{\r}
+Dialogue: 0,0:25:57.76,0:26:00.72,Default,,0000,0000,0000,,{\blur3}复制着我们此时此地的时空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the here and now by time and space...{\r}
+Dialogue: 0,0:26:02.47,0:26:04.89,Default,,0000,0000,0000,,{\blur3}但是在第三层次平行宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in the level-three parallel universe...{\r}
+Dialogue: 0,0:26:04.93,0:26:08.06,Default,,0000,0000,0000,,{\blur3}我们的复制品就在此时此地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these copies of us are right here, right now...{\r}
+Dialogue: 0,0:26:08.10,0:26:11.02,Default,,0000,0000,0000,,{\blur3}在我们同一个时空里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}living in the exact same space and time.{\r}
+Dialogue: 0,0:26:13.32,0:26:15.11,Default,,0000,0000,0000,,{\blur3}他们独立于我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are separated from us...{\r}
+Dialogue: 0,0:26:15.15,0:26:18.28,Default,,0000,0000,0000,,{\blur3}因为他们处在同一个空间的不同的维度里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they're in a different dimension of this same space.{\r}
+Dialogue: 0,0:26:19.91,0:26:22.41,Default,,0000,0000,0000,,{\blur3}来更集中一下我们的思想 他们的数量无限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And to bend our minds more, there are an infinite number of them.{\r}
+Dialogue: 0,0:26:26.12,0:26:29.42,Default,,0000,0000,0000,,{\blur3}如果属实 这个倍具争议的"多世界"概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If true, this controversial "many worlds" concept...{\r}
+Dialogue: 0,0:26:29.46,0:26:31.75,Default,,0000,0000,0000,,{\blur3}将意义重大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has monumental consequences.{\r}
+Dialogue: 0,0:26:32.42,0:26:34.25,Default,,0000,0000,0000,,{\blur3}平行宇宙并不存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Parallel universes don't exist.{\r}
+Dialogue: 0,0:26:34.30,0:26:35.59,Default,,0000,0000,0000,,{\blur3}对 他们是在胡说八道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Right. - They're nonsense.{\r}
+Dialogue: 0,0:26:35.63,0:26:38.47,Default,,0000,0000,0000,,{\blur3}它们是《阴阳魔界》里的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're something out of a "Twilight Zone" episode...{\r}
+Dialogue: 0,0:26:38.51,0:26:40.93,Default,,0000,0000,0000,,{\blur3}是糟糕的《星际迷航》的再现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a bad "Star Trek" rerun.{\r}
+Dialogue: 0,0:26:40.97,0:26:43.26,Default,,0000,0000,0000,,{\blur3}但是你忘了一件事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But you forget one thing.{\r}
+Dialogue: 0,0:26:43.31,0:26:45.97,Default,,0000,0000,0000,,{\blur3}一个小小的量子差异可以将我独立于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One small quantum difference could separate me...{\r}
+Dialogue: 0,0:26:46.02,0:26:48.35,Default,,0000,0000,0000,,{\blur3}一个完全不同的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from an entirely different universe...{\r}
+Dialogue: 0,0:26:48.39,0:26:50.77,Default,,0000,0000,0000,,{\blur3}在那里 有我的多重拷贝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where I have multiple copies of myself...{\r}
+Dialogue: 0,0:26:50.81,0:26:53.11,Default,,0000,0000,0000,,{\blur3}过着多重不同的人生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}leading multiple different lives.{\r}
+Dialogue: 0,0:26:53.15,0:26:54.82,Default,,0000,0000,0000,,{\blur3}着够惊人的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is shocking.{\r}
+Dialogue: 0,0:26:54.86,0:26:56.61,Default,,0000,0000,0000,,{\blur3}这甚至影响到了道德规范{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This even affects morals.{\r}
+Dialogue: 0,0:26:56.65,0:26:59.28,Default,,0000,0000,0000,,{\blur3}我的意思是 我为何要守法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, why should l obey the law...{\r}
+Dialogue: 0,0:26:59.32,0:27:01.95,Default,,0000,0000,0000,,{\blur3}一旦得知在某些宇宙中 我犯了罪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}knowing that in some universe, if I commit a crime...{\r}
+Dialogue: 0,0:27:01.99,0:27:03.32,Default,,0000,0000,0000,,{\blur3}我想逃脱处罚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm going to get away with it?{\r}
+Dialogue: 0,0:27:07.08,0:27:10.00,Default,,0000,0000,0000,,{\blur3}无耻的想法出自奇异的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The outrageous idea comes from the strange world...{\r}
+Dialogue: 0,0:27:10.04,0:27:11.54,Default,,0000,0000,0000,,{\blur3}量子力学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of quantum mechanics...{\r}
+Dialogue: 0,0:27:13.13,0:27:14.17,Default,,0000,0000,0000,,{\blur3}原子的科学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the science of the atom.{\r}
+Dialogue: 0,0:27:15.80,0:27:17.63,Default,,0000,0000,0000,,{\blur3}在奇异的原子世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the bizarre atomic world...{\r}
+Dialogue: 0,0:27:17.67,0:27:19.97,Default,,0000,0000,0000,,{\blur3}我们看到电子完全消失了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have electrons that literally disappear...{\r}
+Dialogue: 0,0:27:20.01,0:27:21.43,Default,,0000,0000,0000,,{\blur3}在其它地方重现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reappear someplace else.{\r}
+Dialogue: 0,0:27:22.22,0:27:25.30,Default,,0000,0000,0000,,{\blur3}电子可以同时在多个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Electrons that could be multiple places at the same time.{\r}
+Dialogue: 0,0:27:27.18,0:27:29.77,Default,,0000,0000,0000,,{\blur3}这种惊人的量子力学现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This staggering quantum mechanical phenomenon...{\r}
+Dialogue: 0,0:27:29.81,0:27:33.19,Default,,0000,0000,0000,,{\blur3}被载入了海森堡的测不准原理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is enshrined in the Heisenberg uncertainty principle.{\r}
+Dialogue: 0,0:27:34.52,0:27:38.48,Default,,0000,0000,0000,,{\blur3}听上去很荒谬 不仅是量子物理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As crazy as it sounds, not only does quantum physics...{\r}
+Dialogue: 0,0:27:38.53,0:27:42.20,Default,,0000,0000,0000,,{\blur3}告诉你 一个小小的粒子可以同时在两个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tell you that a little particle can be in two places at once...{\r}
+Dialogue: 0,0:27:42.24,0:27:44.87,Default,,0000,0000,0000,,{\blur3}而且海森堡的测不准原理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the so-called Heisenberg uncertainty principle...{\r}
+Dialogue: 0,0:27:44.91,0:27:46.83,Default,,0000,0000,0000,,{\blur3}还告诉你有时粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tells you that sometime the particle...{\r}
+Dialogue: 0,0:27:46.87,0:27:49.41,Default,,0000,0000,0000,,{\blur3}还必须同时在两个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even must be in two places at once.{\r}
+Dialogue: 0,0:27:52.17,0:27:54.75,Default,,0000,0000,0000,,{\blur3}用激光和玻璃苹果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With a laser light and a glass apple...{\r}
+Dialogue: 0,0:27:54.79,0:27:59.51,Default,,0000,0000,0000,,{\blur3}就可以让你看到光粒子即光子是如何做到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it can be seen how light particles, or photons, do this.{\r}
+Dialogue: 0,0:27:59.55,0:28:01.22,Default,,0000,0000,0000,,{\blur3}可以看到光子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This shows that photons...{\r}
+Dialogue: 0,0:28:01.26,0:28:04.09,Default,,0000,0000,0000,,{\blur3}我激光笔射出的小小的光粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the little particles of light coming out of my laser...{\r}
+Dialogue: 0,0:28:04.14,0:28:06.89,Default,,0000,0000,0000,,{\blur3}可以同时到达几个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can end up in several places at once.{\r}
+Dialogue: 0,0:28:08.35,0:28:10.68,Default,,0000,0000,0000,,{\blur3}由于我们是由小粒子构成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And since we are made of little particles...{\r}
+Dialogue: 0,0:28:10.73,0:28:12.85,Default,,0000,0000,0000,,{\blur3}这就意味着 要是它们能同时在几个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that means if they can be in several places at once...{\r}
+Dialogue: 0,0:28:12.89,0:28:14.19,Default,,0000,0000,0000,,{\blur3}那么我们也可以的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so can we.{\r}
+Dialogue: 0,0:28:17.57,0:28:21.32,Default,,0000,0000,0000,,{\blur3}换句话说 在你短暂思绪的片刻间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In other words, in the instant that you have a fleeting thought...{\r}
+Dialogue: 0,0:28:21.36,0:28:23.78,Default,,0000,0000,0000,,{\blur3}你整个身子飞跃进了另一个维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}your whole body makes a quantum leap...{\r}
+Dialogue: 0,0:28:23.82,0:28:27.66,Default,,0000,0000,0000,,{\blur3}飞跃进了平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into another dimension and into a parallel universe.{\r}
+Dialogue: 0,0:28:29.20,0:28:33.04,Default,,0000,0000,0000,,{\blur3}那意味着 如果我走在路上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what it means is that if I am walking down the pavement...{\r}
+Dialogue: 0,0:28:33.08,0:28:34.54,Default,,0000,0000,0000,,{\blur3}仓促做个决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and just make a snap decision...{\r}
+Dialogue: 0,0:28:34.58,0:28:36.92,Default,,0000,0000,0000,,{\blur3}究竟是往左还是往右走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as to whether I'm going to go left or right...{\r}
+Dialogue: 0,0:28:36.96,0:28:37.96,Default,,0000,0000,0000,,{\blur3}如果我的决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if my decision depends...{\r}
+Dialogue: 0,0:28:38.00,0:28:40.67,Default,,0000,0000,0000,,{\blur3}是依靠我大脑里的粒子来做的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on what some little particle in my brain was doing...{\r}
+Dialogue: 0,0:28:40.71,0:28:43.26,Default,,0000,0000,0000,,{\blur3}那么我最终的决定会是两个方向都去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then l will actually end up doing both...{\r}
+Dialogue: 0,0:28:44.68,0:28:46.30,Default,,0000,0000,0000,,{\blur3}我的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the life of mine--{\r}
+Dialogue: 0,0:28:46.34,0:28:48.97,Default,,0000,0000,0000,,{\blur3}它实际上分开进入了两个平行的现实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it effectively splits into two parallel realities.{\r}
+Dialogue: 0,0:28:54.60,0:28:57.19,Default,,0000,0000,0000,,{\blur3}在第三层次平行宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a level-three type parallel universe...{\r}
+Dialogue: 0,0:28:57.23,0:29:00.40,Default,,0000,0000,0000,,{\blur3}甚至猫都不止九条命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even a cat has many more than nine lives.{\r}
+Dialogue: 0,0:29:00.44,0:29:02.57,Default,,0000,0000,0000,,{\blur3}问题是 在某些世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The trouble is, in some of these worlds...{\r}
+Dialogue: 0,0:29:02.61,0:29:04.61,Default,,0000,0000,0000,,{\blur3}猫可能已经死去了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the cat could be dead.{\r}
+Dialogue: 0,0:29:04.65,0:29:08.12,Default,,0000,0000,0000,,{\blur3}同时 在其他平行宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And at the same time, in other parallel universes...{\r}
+Dialogue: 0,0:29:08.16,0:29:10.58,Default,,0000,0000,0000,,{\blur3}同样的猫可以活得活蹦乱跳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the same cat can be alive and kicking.{\r}
+Dialogue: 0,0:29:12.58,0:29:14.16,Default,,0000,0000,0000,,{\blur3}怎么回事?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how?{\r}
+Dialogue: 0,0:29:14.21,0:29:17.75,Default,,0000,0000,0000,,{\blur3}你怎么可以有死猫与活猫同时存在?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How can you have a dead cat and a live cat simultaneously?{\r}
+Dialogue: 0,0:29:17.79,0:29:20.29,Default,,0000,0000,0000,,{\blur3}因为宇宙分成了两半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because the universe splits in half.{\r}
+Dialogue: 0,0:29:20.34,0:29:22.59,Default,,0000,0000,0000,,{\blur3}在一个宇宙里 我们看到了死猫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In one universe, we have a dead cat.{\r}
+Dialogue: 0,0:29:22.63,0:29:24.67,Default,,0000,0000,0000,,{\blur3}而在另一个宇宙里 我们看到了活猫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the other universe, we have a live cat.{\r}
+Dialogue: 0,0:29:24.72,0:29:26.22,Default,,0000,0000,0000,,{\blur3}适应它吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Get used to it.{\r}
+Dialogue: 0,0:29:33.14,0:29:34.93,Default,,0000,0000,0000,,{\blur3}更惊人的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is even more shocking...{\r}
+Dialogue: 0,0:29:34.98,0:29:37.44,Default,,0000,0000,0000,,{\blur3}在这许多世界中的某些里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that in some of these many worlds...{\r}
+Dialogue: 0,0:29:37.48,0:29:41.69,Default,,0000,0000,0000,,{\blur3}一个细微的量子差异被认为可以改变整个世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a tiny quantum difference in thought can change the whole world.{\r}
+Dialogue: 0,0:29:46.99,0:29:50.62,Default,,0000,0000,0000,,{\blur3}这就像蝴蝶扇动翅膀 可以产生飓风一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like the butterfly that flaps its wing and makes the hurricane.{\r}
+Dialogue: 0,0:29:50.66,0:29:53.83,Default,,0000,0000,0000,,{\blur3}细小的微观事件可以改变历史的进程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tiny microscopic events would change the course of history.{\r}
+Dialogue: 0,0:29:56.41,0:29:58.83,Default,,0000,0000,0000,,{\blur3}因此 每一个历史事件实际上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So every historical event actually happened...{\r}
+Dialogue: 0,0:29:58.88,0:30:01.21,Default,,0000,0000,0000,,{\blur3}就是尽一切可能发生在这个不断分叉的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in every possible way in some branch...{\r}
+Dialogue: 0,0:30:01.25,0:30:03.84,Default,,0000,0000,0000,,{\blur3}多重宇宙的某些分支上的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of this ever-splitting, many-worlds universe.{\r}
+Dialogue: 0,0:30:05.10,0:30:07.90,Default,,0000,0000,0000,,{\blur3}在其中一个宇宙里 希特勒的纳粹党赢得了二次世界大战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In one,the Nazis Won World War II{\r}
+Dialogue: 0,0:30:08.10,0:30:10.10,Default,,0000,0000,0000,,{\blur3}如果是那样 我在这里讲的就是德语{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In which case,I'm now speaking German{\r}
+Dialogue: 0,0:30:11.10,0:30:13.10,Default,,0000,0000,0000,,{\blur3}而且在我后面将会有一个纳粹党的标志{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's a Swastika behind me.{\r}
+Dialogue: 0,0:30:14.10,0:30:16.10,Default,,0000,0000,0000,,{\blur3}而在另一个世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In another world{\r}
+Dialogue: 0,0:30:18.10,0:30:19.80,Default,,0000,0000,0000,,{\blur3}没有发生那样可怕的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}none of the horror ever happened{\r}
+Dialogue: 0,0:30:20.10,0:30:22.90,Default,,0000,0000,0000,,{\blur3}在宇宙中 也没有第二次世界大战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In one universe,there's no World war II{\r}
+Dialogue: 0,0:30:23.10,0:30:26.50,Default,,0000,0000,0000,,{\blur3}而且 也不会有五千万人无辜的死掉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and 50 or so million people didn't have to die.{\r}
+Dialogue: 0,0:30:28.24,0:30:32.12,Default,,0000,0000,0000,,{\blur3}宛如转个不停的骰子 各种数字皆有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like the endless rolls of the dice, all possible numbers...{\r}
+Dialogue: 0,0:30:32.16,0:30:35.08,Default,,0000,0000,0000,,{\blur3}各种宇宙皆有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and all possible kinds of universes and outcomes...{\r}
+Dialogue: 0,0:30:35.12,0:30:38.87,Default,,0000,0000,0000,,{\blur3}最终的结果会出现在这多重世界中的一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will eventually turn up and occur in one of these many worlds.{\r}
+Dialogue: 0,0:30:40.46,0:30:43.34,Default,,0000,0000,0000,,{\blur3}事实上 我们所有的愿望也都会在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, all our wishes, too, can come true...{\r}
+Dialogue: 0,0:30:43.38,0:30:45.50,Default,,0000,0000,0000,,{\blur3}平行宇宙中成真{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a parallel universe.{\r}
+Dialogue: 0,0:30:45.55,0:30:47.63,Default,,0000,0000,0000,,{\blur3}假如多重世界的概念是正确的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the many worlds idea is right...{\r}
+Dialogue: 0,0:30:47.67,0:30:49.22,Default,,0000,0000,0000,,{\blur3}就会在宇宙的一个分支上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then there's a branch of the universe...{\r}
+Dialogue: 0,0:30:49.26,0:30:52.34,Default,,0000,0000,0000,,{\blur3}芝加哥小熊队夺得了去年职棒锦标赛的冠军{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in which the Chicago Cubs won the World Series last year.{\r}
+Dialogue: 0,0:30:52.39,0:30:55.35,Default,,0000,0000,0000,,{\blur3}你可以想象美国还是英国的殖民地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can imagine that the USA was still a colony...{\r}
+Dialogue: 0,0:30:55.39,0:30:57.35,Default,,0000,0000,0000,,{\blur3}举个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the British, for example.{\r}
+Dialogue: 0,0:30:57.39,0:31:02.86,Default,,0000,0000,0000,,{\blur3}甚至行不通的都可能发生在某些平行宇宙中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even the impossible is probable in some parallel universe.{\r}
+Dialogue: 0,0:31:02.90,0:31:05.69,Default,,0000,0000,0000,,{\blur3}甚至会有来到我们世界的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There could even be creatures coming into our world...{\r}
+Dialogue: 0,0:31:05.73,0:31:08.57,Default,,0000,0000,0000,,{\blur3}是来自这些神秘的额外维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from these mysterious extra dimensions.{\r}
+Dialogue: 0,0:31:13.16,0:31:15.20,Default,,0000,0000,0000,,{\blur3}听起来有点搞脑筋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As mind-boggling as it sounds...{\r}
+Dialogue: 0,0:31:15.24,0:31:18.79,Default,,0000,0000,0000,,{\blur3}只要说起惊人的平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when it comes to the amazing world of parallel universes...{\r}
+Dialogue: 0,0:31:18.83,0:31:22.37,Default,,0000,0000,0000,,{\blur3}任何事情都可能发生 已经发生 或将发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}anything that can happen has happened or will happen...{\r}
+Dialogue: 0,0:31:22.42,0:31:24.29,Default,,0000,0000,0000,,{\blur3}在其它的宇宙间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in some other universe...{\r}
+Dialogue: 0,0:31:24.34,0:31:27.46,Default,,0000,0000,0000,,{\blur3}其它的维度里 其它的时空里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in some other dimension, space, and time.{\r}
+Dialogue: 0,0:31:31.43,0:31:34.39,Default,,0000,0000,0000,,{\blur3}量子差异可以改写历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Quantum differences can rewrite history...{\r}
+Dialogue: 0,0:31:34.43,0:31:36.72,Default,,0000,0000,0000,,{\blur3}创造多重宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating multiple universes...{\r}
+Dialogue: 0,0:31:36.76,0:31:39.06,Default,,0000,0000,0000,,{\blur3}每个都有着不同的疯狂结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}each with wildly different outcomes...{\r}
+Dialogue: 0,0:31:39.10,0:31:41.35,Default,,0000,0000,0000,,{\blur3}在那里 一切皆有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where anything and everything is possible.{\r}
+Dialogue: 0,0:31:42.65,0:31:44.65,Default,,0000,0000,0000,,{\blur3}有些战争就从来没发生过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some wars never happened.{\r}
+Dialogue: 0,0:31:46.48,0:31:48.61,Default,,0000,0000,0000,,{\blur3}其它 我们就永远想象不出了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Others we never imagined did.{\r}
+Dialogue: 0,0:31:51.61,0:31:54.87,Default,,0000,0000,0000,,{\blur3}细微的变化意味着与彗星失之交臂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A slight change means a comet missed...{\r}
+Dialogue: 0,0:31:54.91,0:31:59.91,Default,,0000,0000,0000,,{\blur3}恐龙依然横行在地球上的某些地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even dinosaurs still roam some Earth somewhere.{\r}
+Dialogue: 0,0:31:59.95,0:32:03.42,Default,,0000,0000,0000,,{\blur3}所有这些怪异的平行宇宙无一例外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All and every one of these fantastic parallel universes...{\r}
+Dialogue: 0,0:32:03.46,0:32:05.25,Default,,0000,0000,0000,,{\blur3}都占据着同一个空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}occupy the same space...{\r}
+Dialogue: 0,0:32:05.29,0:32:09.46,Default,,0000,0000,0000,,{\blur3}但是各自都处于不同的维度中 所以我们是看不见的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but are in a different dimension, and so invisible to us.{\r}
+Dialogue: 0,0:32:16.93,0:32:19.31,Default,,0000,0000,0000,,{\blur3}在你安静地看电视时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even as you peacefully watch TV...{\r}
+Dialogue: 0,0:32:19.35,0:32:23.48,Default,,0000,0000,0000,,{\blur3}整个其它看不见的世界有可能在你周围为所欲为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whole other invisible worlds could be raging all around you.{\r}
+Dialogue: 0,0:32:23.52,0:32:26.61,Default,,0000,0000,0000,,{\blur3}这些平行宇宙就在你的客厅里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These parallel universes are in your living room.{\r}
+Dialogue: 0,0:32:26.65,0:32:30.40,Default,,0000,0000,0000,,{\blur3}也就是说 在你的客厅里 有恐龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This means that in your living room, there are dinosaurs.{\r}
+Dialogue: 0,0:32:30.44,0:32:31.78,Default,,0000,0000,0000,,{\blur3}你听不见它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can't hear them.{\r}
+Dialogue: 0,0:32:31.82,0:32:33.11,Default,,0000,0000,0000,,{\blur3}你看不见恐龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can't see the dinosaurs...{\r}
+Dialogue: 0,0:32:33.15,0:32:35.41,Default,,0000,0000,0000,,{\blur3}在你的客厅里横冲直撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are rampaging throughout your living room...{\r}
+Dialogue: 0,0:32:35.45,0:32:36.45,Default,,0000,0000,0000,,{\blur3}但是它们就在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they're there.{\r}
+Dialogue: 0,0:32:41.83,0:32:45.21,Default,,0000,0000,0000,,{\blur3}将每个人创造出N多版本的量子法则{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The quantum principle that creates many versions of each person...{\r}
+Dialogue: 0,0:32:45.25,0:32:47.79,Default,,0000,0000,0000,,{\blur3}同样也可以创造出全部宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can also create entire universes.{\r}
+Dialogue: 0,0:32:50.17,0:32:54.63,Default,,0000,0000,0000,,{\blur3}宇宙 一定程度上 实际上比电子还要小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe, at one point, was actually smaller than an electron.{\r}
+Dialogue: 0,0:32:54.68,0:32:58.10,Default,,0000,0000,0000,,{\blur3}如果真是这样 如果电子确如描述的那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that's true and if electrons are described...{\r}
+Dialogue: 0,0:32:58.14,0:33:01.97,Default,,0000,0000,0000,,{\blur3}以平行状态同时处于许多地方的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by being many places at the same time in parallel states...{\r}
+Dialogue: 0,0:33:02.02,0:33:06.06,Default,,0000,0000,0000,,{\blur3}这就意味着宇宙也同样以平行状态存在着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this means that the universe also exists in parallel states.{\r}
+Dialogue: 0,0:33:06.10,0:33:10.32,Default,,0000,0000,0000,,{\blur3}你不可避免地遇到平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You inevitably get parallel universes.{\r}
+Dialogue: 0,0:33:10.36,0:33:11.53,Default,,0000,0000,0000,,{\blur3}这是别无选择的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no choice.{\r}
+Dialogue: 0,0:33:13.57,0:33:14.99,Default,,0000,0000,0000,,{\blur3}然而这还不是全部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that's not all.{\r}
+Dialogue: 0,0:33:16.99,0:33:19.99,Default,,0000,0000,0000,,{\blur3}科学家最近再次震惊了世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists recently have shocked the world again...{\r}
+Dialogue: 0,0:33:20.03,0:33:24.08,Default,,0000,0000,0000,,{\blur3}声称可能存在着不止一种平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and claimed that there could be one more kind of parallel universe.{\r}
+Dialogue: 0,0:33:26.67,0:33:28.96,Default,,0000,0000,0000,,{\blur3}这第四类平行宇宙的产生原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These level-four type are created...{\r}
+Dialogue: 0,0:33:29.00,0:33:33.13,Default,,0000,0000,0000,,{\blur3}既有量子起伏 也有膜之间的碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}either by quantum fluctuations or by branes clashing.{\r}
+Dialogue: 0,0:33:34.38,0:33:36.88,Default,,0000,0000,0000,,{\blur3}其产生是全然不同的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What is created is radically different.{\r}
+Dialogue: 0,0:33:37.93,0:33:42.51,Default,,0000,0000,0000,,{\blur3}在这类平行宇宙中 所有的规则通通不管用了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this type of parallel universe, all the rules are out the window.{\r}
+Dialogue: 0,0:33:42.56,0:33:44.31,Default,,0000,0000,0000,,{\blur3}它有可能 事实上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could be, in fact...{\r}
+Dialogue: 0,0:33:44.35,0:33:47.64,Default,,0000,0000,0000,,{\blur3}数学与物理实际所描述的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the mathematics and physics describing reality...{\r}
+Dialogue: 0,0:33:47.69,0:33:50.90,Default,,0000,0000,0000,,{\blur3}不同于我们宇宙中的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}differs from what we're used to in our universe.{\r}
+Dialogue: 0,0:33:52.32,0:33:57.11,Default,,0000,0000,0000,,{\blur3}如果物理定律在第四层次平行宇宙中完全不同的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the laws of physics are different in a level-four parallel universe...{\r}
+Dialogue: 0,0:33:57.16,0:34:00.24,Default,,0000,0000,0000,,{\blur3}空间可能就存在于气体和粒子中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}space could just consist of gas and particles.{\r}
+Dialogue: 0,0:34:01.28,0:34:04.70,Default,,0000,0000,0000,,{\blur3}星系 恒星 行星就不会形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Galaxies, stars, and planets would not have formed...{\r}
+Dialogue: 0,0:34:04.75,0:34:07.75,Default,,0000,0000,0000,,{\blur3}我们所知的生命也不会存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and life as we know it would not exist.{\r}
+Dialogue: 0,0:34:11.84,0:34:14.34,Default,,0000,0000,0000,,{\blur3}为了证明各种平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To show that any type of parallel universe...{\r}
+Dialogue: 0,0:34:14.38,0:34:18.88,Default,,0000,0000,0000,,{\blur3}层次一 二 三 四的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}level one, two, three or four, truly exists...{\r}
+Dialogue: 0,0:34:18.93,0:34:21.09,Default,,0000,0000,0000,,{\blur3}专家们必须找到证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}experts must find the evidence.{\r}
+Dialogue: 0,0:34:23.26,0:34:25.89,Default,,0000,0000,0000,,{\blur3}无论其很大 很小还是不可见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Be they big, tiny or invisible...{\r}
+Dialogue: 0,0:34:25.93,0:34:28.39,Default,,0000,0000,0000,,{\blur3}科学家必须找到额外维度的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists must find physical indications...{\r}
+Dialogue: 0,0:34:28.44,0:34:29.69,Default,,0000,0000,0000,,{\blur3}物理迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the extra dimensions...{\r}
+Dialogue: 0,0:34:29.73,0:34:32.86,Default,,0000,0000,0000,,{\blur3}并被认为是将我们和其它世界联系在一起的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that supposedly connect us to these other worlds.{\r}
+Dialogue: 0,0:34:37.82,0:34:41.87,Default,,0000,0000,0000,,{\blur3}为此 伊利诺斯费米实验室的科学家如今{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To do it, today physicists at Fermilab in lllinois...{\r}
+Dialogue: 0,0:34:41.91,0:34:45.12,Default,,0000,0000,0000,,{\blur3}正在进行特别的实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are conducting extraordinary experiments...{\r}
+Dialogue: 0,0:34:45.16,0:34:47.33,Default,,0000,0000,0000,,{\blur3}希望证明各种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hoping to prove that any kind...{\r}
+Dialogue: 0,0:34:47.37,0:34:51.75,Default,,0000,0000,0000,,{\blur3}甚至最荒诞的平行宇宙真的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even the wildest type of parallel universe, is really out there.{\r}
+Dialogue: 0,0:34:53.46,0:34:56.59,Default,,0000,0000,0000,,{\blur3}有史以来第一次 实实在在的引人注目的实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For the first time ever, real and remarkable experiments...{\r}
+Dialogue: 0,0:34:56.63,0:35:00.93,Default,,0000,0000,0000,,{\blur3}正发生在费米实验室之类的粒子加速器里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are taking place at particle colliders like the Tevatron at Fermilab.{\r}
+Dialogue: 0,0:35:01.68,0:35:04.26,Default,,0000,0000,0000,,{\blur3}眼下 这台粒子加速器正在寻找{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right now, this detector is looking for evidence...{\r}
+Dialogue: 0,0:35:04.31,0:35:05.64,Default,,0000,0000,0000,,{\blur3}额外维度的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of extra dimensions.{\r}
+Dialogue: 0,0:35:05.68,0:35:08.23,Default,,0000,0000,0000,,{\blur3}如果额外维度具有一定的尺度和形状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ifthere are extra dimensions of a certain size and shape...{\r}
+Dialogue: 0,0:35:08.27,0:35:09.81,Default,,0000,0000,0000,,{\blur3}那么这个实验就会发现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this experiment will find them.{\r}
+Dialogue: 0,0:35:11.81,0:35:14.77,Default,,0000,0000,0000,,{\blur3}他们揭示额外维度的最佳机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Their best chance of exposing extra dimensions...{\r}
+Dialogue: 0,0:35:14.82,0:35:17.94,Default,,0000,0000,0000,,{\blur3}来自将微粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comes from smashing microscopic particles together...{\r}
+Dialogue: 0,0:35:17.99,0:35:19.32,Default,,0000,0000,0000,,{\blur3}以超高速相碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at super speeds.{\r}
+Dialogue: 0,0:35:23.20,0:35:25.95,Default,,0000,0000,0000,,{\blur3}证据就是引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The smoking gun in the hunt is gravity.{\r}
+Dialogue: 0,0:35:29.33,0:35:31.16,Default,,0000,0000,0000,,{\blur3}它已被证明是独特的弱力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has been found to be a uniquely weak force...{\r}
+Dialogue: 0,0:35:33.63,0:35:38.63,Default,,0000,0000,0000,,{\blur3}因此费米实验室的物理学家们正在寻找携带引力的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so the Fermilab physicists are looking for the particle that carries gravity.{\r}
+Dialogue: 0,0:35:38.67,0:35:40.55,Default,,0000,0000,0000,,{\blur3}它就是所谓的引力子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is called a graviton.{\r}
+Dialogue: 0,0:35:43.55,0:35:45.55,Default,,0000,0000,0000,,{\blur3}它是携带引力的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the particle that carries gravity...{\r}
+Dialogue: 0,0:35:45.60,0:35:48.97,Default,,0000,0000,0000,,{\blur3}我们认为它掌握了空间的所有的额外维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which we think knows about all of the extra dimensions of space.{\r}
+Dialogue: 0,0:35:49.02,0:35:50.31,Default,,0000,0000,0000,,{\blur3}所以我们认为引力子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we think the gravitons...{\r}
+Dialogue: 0,0:35:50.35,0:35:51.98,Default,,0000,0000,0000,,{\blur3}如果你可以用高能量来产生它们的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you can produce them in high energies...{\r}
+Dialogue: 0,0:35:52.02,0:35:54.77,Default,,0000,0000,0000,,{\blur3}那么实际上它们也应该会消失在额外维度中的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}should actually move off into the extra dimensions.{\r}
+Dialogue: 0,0:35:57.15,0:35:59.99,Default,,0000,0000,0000,,{\blur3}但是发现引力子 或至少发现其踪迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But finding a graviton, or at least a sign of one...{\r}
+Dialogue: 0,0:36:00.03,0:36:01.90,Default,,0000,0000,0000,,{\blur3}是个巨大的挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a huge challenge.{\r}
+Dialogue: 0,0:36:01.95,0:36:05.70,Default,,0000,0000,0000,,{\blur3}它棘手而复杂 因为你是在寻找没有的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's tricky and complicated because you're looking for nothing.{\r}
+Dialogue: 0,0:36:05.74,0:36:07.66,Default,,0000,0000,0000,,{\blur3}你是在寻找已经消失了的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're looking for something that has disappeared.{\r}
+Dialogue: 0,0:36:07.70,0:36:09.45,Default,,0000,0000,0000,,{\blur3}现在的速度是多少?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What's the rate now?{\r}
+Dialogue: 0,0:36:09.50,0:36:12.66,Default,,0000,0000,0000,,{\blur3}你要找到一个奇异的粒子是异常罕见的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very, very rare that you make a really exotic particle.{\r}
+Dialogue: 0,0:36:12.71,0:36:15.50,Default,,0000,0000,0000,,{\blur3}因此我们确实必须碰撞数十亿次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we literally have to collide them billions of times...{\r}
+Dialogue: 0,0:36:15.54,0:36:17.67,Default,,0000,0000,0000,,{\blur3}以发现非常罕见的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in order to find the very rare event...{\r}
+Dialogue: 0,0:36:17.71,0:36:19.13,Default,,0000,0000,0000,,{\blur3}你才可能看到粒子之类的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you make something like a particle...{\r}
+Dialogue: 0,0:36:19.17,0:36:21.51,Default,,0000,0000,0000,,{\blur3}消失在额外维度中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that disappears into extra dimensions.{\r}
+Dialogue: 0,0:36:21.55,0:36:26.18,Default,,0000,0000,0000,,{\blur3}正负质子对撞机发射质子和反质子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Tevatron collider shoots miniscule protons and antiprotons...{\r}
+Dialogue: 0,0:36:26.22,0:36:29.47,Default,,0000,0000,0000,,{\blur3}惊人的速度几乎达到了光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at terrific speeds just short of the speed of light...{\r}
+Dialogue: 0,0:36:29.52,0:36:34.06,Default,,0000,0000,0000,,{\blur3}运行在4英里长 钢铁包裹的超导环里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}around a four-mile-long, super-enforced, steel-encased ring.{\r}
+Dialogue: 0,0:36:36.73,0:36:39.90,Default,,0000,0000,0000,,{\blur3}为了敏感的实验设备不受地表噪音的干扰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To protect the sensitive experiments from surface noise...{\r}
+Dialogue: 0,0:36:39.94,0:36:41.40,Default,,0000,0000,0000,,{\blur3}同时为了安全起见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and for safety reasons...{\r}
+Dialogue: 0,0:36:41.44,0:36:44.36,Default,,0000,0000,0000,,{\blur3}碰撞环被安置于地下深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the collision ring lies deep underground.{\r}
+Dialogue: 0,0:36:44.41,0:36:48.87,Default,,0000,0000,0000,,{\blur3}我们将高能质子束沿着大环的一个方向运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We take beams of high-energy protons going one way around a big ring...{\r}
+Dialogue: 0,0:36:48.91,0:36:53.21,Default,,0000,0000,0000,,{\blur3}将高能反质子束沿着环的另一个方向运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a beam of high-energy antiprotons going the other way around the ring...{\r}
+Dialogue: 0,0:36:53.25,0:36:55.71,Default,,0000,0000,0000,,{\blur3}然后 在圆环的两个地方 将两者对撞在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, at two places in the ring, we smash them together.{\r}
+Dialogue: 0,0:36:58.92,0:37:01.34,Default,,0000,0000,0000,,{\blur3}强烈的对撞会湮灭粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The mighty collision annihilates the particles...{\r}
+Dialogue: 0,0:37:01.38,0:37:04.38,Default,,0000,0000,0000,,{\blur3}产生剧烈的能量球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and produces an intense ball of pure energy...{\r}
+Dialogue: 0,0:37:06.43,0:37:08.89,Default,,0000,0000,0000,,{\blur3}其想法就是 我们也许会产生新的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The idea being that perhaps we can make new particles...{\r}
+Dialogue: 0,0:37:08.93,0:37:10.64,Default,,0000,0000,0000,,{\blur3}消失在额外维度中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that disappear into the extra dimensions.{\r}
+Dialogue: 0,0:37:13.60,0:37:16.27,Default,,0000,0000,0000,,{\blur3}假如什么事都没有 科学家如何知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ifnothing happens, how will the scientists know...{\r}
+Dialogue: 0,0:37:16.31,0:37:19.44,Default,,0000,0000,0000,,{\blur3}引力子已经消失在了额外的维度中了呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that a graviton has moved off into an extra dimension?{\r}
+Dialogue: 0,0:37:21.61,0:37:23.53,Default,,0000,0000,0000,,{\blur3}你所说的方法就是通过重建一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The way that you tell that is by reconstructing...{\r}
+Dialogue: 0,0:37:23.57,0:37:25.95,Default,,0000,0000,0000,,{\blur3}除了这个乱七八糟的对撞产生的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}everything else that happened in this messy collision...{\r}
+Dialogue: 0,0:37:25.99,0:37:27.57,Default,,0000,0000,0000,,{\blur3}于是就会说 噢 有一些能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then saying, "Oops, there's some energy...{\r}
+Dialogue: 0,0:37:27.62,0:37:29.45,Default,,0000,0000,0000,,{\blur3}和动能消失了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"and momentum that's missing here."{\r}
+Dialogue: 0,0:37:29.49,0:37:31.45,Default,,0000,0000,0000,,{\blur3}我们称此为缺失能量搜寻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we call this a missing energy search.{\r}
+Dialogue: 0,0:37:33.33,0:37:36.25,Default,,0000,0000,0000,,{\blur3}这可能用上几年 数十亿次的对撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could take years and billions of collisions...{\r}
+Dialogue: 0,0:37:36.29,0:37:40.34,Default,,0000,0000,0000,,{\blur3}才会得到历史性的发现 找到更高的维度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before history happens and higher dimensions are found.{\r}
+Dialogue: 0,0:37:40.38,0:37:42.55,Default,,0000,0000,0000,,{\blur3}如果额外维度真的存在 那就意味着宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If extra dimensions are there, it means the universe...{\r}
+Dialogue: 0,0:37:42.59,0:37:45.05,Default,,0000,0000,0000,,{\blur3}是一个出奇的大 出奇陌生的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a much bigger and much stranger place...{\r}
+Dialogue: 0,0:37:45.09,0:37:46.34,Default,,0000,0000,0000,,{\blur3}远超出我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than we have ever imagined.{\r}
+Dialogue: 0,0:37:48.26,0:37:51.97,Default,,0000,0000,0000,,{\blur3}不过要真是这样 那就无可厚非地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if it does happen, it would be proof positive...{\r}
+Dialogue: 0,0:37:52.01,0:37:54.06,Default,,0000,0000,0000,,{\blur3}证明了平行宇宙的存在了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that parallel worlds exist.{\r}
+Dialogue: 0,0:37:57.56,0:38:00.65,Default,,0000,0000,0000,,{\blur3}接下来的问题将是我们如何去那里呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The question then will be, how do we get there?{\r}
+Dialogue: 0,0:38:07.15,0:38:10.45,Default,,0000,0000,0000,,{\blur3}面对遥远未来的灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Faced with extinction in the far-flung future...{\r}
+Dialogue: 0,0:38:10.49,0:38:14.41,Default,,0000,0000,0000,,{\blur3}人类能否打开平行宇宙的大门呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can humankind open a portal to a parallel universe?{\r}
+Dialogue: 0,0:38:20.21,0:38:23.46,Default,,0000,0000,0000,,{\blur3}平行宇宙不只是一个疯狂的概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Parallel universes are not just a crazy idea...{\r}
+Dialogue: 0,0:38:23.50,0:38:26.84,Default,,0000,0000,0000,,{\blur3}物理学家将科学与幻想结合的梦想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dreamed up by physicists to marry science with fiction.{\r}
+Dialogue: 0,0:38:27.68,0:38:29.55,Default,,0000,0000,0000,,{\blur3}如果最终证明其存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If finally proven to exist...{\r}
+Dialogue: 0,0:38:31.64,0:38:33.81,Default,,0000,0000,0000,,{\blur3}它们在遥远的未来就具有重要的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they could have an important practical purpose...{\r}
+Dialogue: 0,0:38:33.85,0:38:35.35,Default,,0000,0000,0000,,{\blur3}实际用途{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the far-off future.{\r}
+Dialogue: 0,0:38:37.77,0:38:41.86,Default,,0000,0000,0000,,{\blur3}找到通往另一个世界的通道可以有朝一日拯救人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Finding a tunnel to another world could one day save humanity.{\r}
+Dialogue: 0,0:38:43.69,0:38:45.28,Default,,0000,0000,0000,,{\blur3}数十亿年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Billions of years from now...{\r}
+Dialogue: 0,0:38:45.32,0:38:48.28,Default,,0000,0000,0000,,{\blur3}我们地球必将一命呜呼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our Earth will meet its inevitable demise.{\r}
+Dialogue: 0,0:38:49.61,0:38:55.62,Default,,0000,0000,0000,,{\blur3}专家们称 它不是死于大崩塌就是死于大冻结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Experts say that it will all end either in a big crunch or big freeze.{\r}
+Dialogue: 0,0:38:57.91,0:39:00.62,Default,,0000,0000,0000,,{\blur3}要是其它宇宙被证明存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If other universes are shown to exist...{\r}
+Dialogue: 0,0:39:00.67,0:39:03.96,Default,,0000,0000,0000,,{\blur3}有人称它们可以作为某种宇宙救生艇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some say they could serve as a kind of cosmic lifeboat.{\r}
+Dialogue: 0,0:39:04.92,0:39:06.50,Default,,0000,0000,0000,,{\blur3}对于未来的人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For a future generation...{\r}
+Dialogue: 0,0:39:06.55,0:39:09.05,Default,,0000,0000,0000,,{\blur3}通往另一个世界的通道或关卡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a passage or gateway to another world...{\r}
+Dialogue: 0,0:39:10.01,0:39:12.55,Default,,0000,0000,0000,,{\blur3}可能就是他们生存的唯一希望所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be their only hope for survival.{\r}
+Dialogue: 0,0:39:13.85,0:39:17.22,Default,,0000,0000,0000,,{\blur3}问题是 我们能否找到通往那里的通道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The question is, can we find a way to get there?{\r}
+Dialogue: 0,0:39:18.35,0:39:22.06,Default,,0000,0000,0000,,{\blur3}一个理论上从我们宇宙前往另一个宇宙的绝妙方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One cool way of theoretically going from our universe to another one...{\r}
+Dialogue: 0,0:39:22.10,0:39:25.32,Default,,0000,0000,0000,,{\blur3}就是通过所谓的虫洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to go through what's called a wormhole...{\r}
+Dialogue: 0,0:39:25.36,0:39:28.36,Default,,0000,0000,0000,,{\blur3}连接两个宇宙之桥{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a bridge connecting two universes...{\r}
+Dialogue: 0,0:39:30.28,0:39:32.74,Default,,0000,0000,0000,,{\blur3}就好像坐上火车或地铁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}kind of like getting on a train or a subway.{\r}
+Dialogue: 0,0:39:33.82,0:39:35.41,Default,,0000,0000,0000,,{\blur3}犹如城市里的地铁系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like a subway system in a city...{\r}
+Dialogue: 0,0:39:38.41,0:39:40.41,Default,,0000,0000,0000,,{\blur3}经过隧道去另一个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}going through this tunnel to a different place.{\r}
+Dialogue: 0,0:39:41.46,0:39:43.17,Default,,0000,0000,0000,,{\blur3}想象有两张纸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Think of two sheets of paper...{\r}
+Dialogue: 0,0:39:43.21,0:39:45.92,Default,,0000,0000,0000,,{\blur3}相互平行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are stacked parallel to each other...{\r}
+Dialogue: 0,0:39:45.96,0:39:49.46,Default,,0000,0000,0000,,{\blur3}然后想象有一个通道 一条捷径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but then think of a gateway, a shortcut...{\r}
+Dialogue: 0,0:39:49.51,0:39:52.59,Default,,0000,0000,0000,,{\blur3}一个门户连接着这两个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a portal connecting these two universes.{\r}
+Dialogue: 0,0:39:54.05,0:39:58.39,Default,,0000,0000,0000,,{\blur3}这个极端的想法早在1935年就提出了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This extreme idea was first proposed back in 1935...{\r}
+Dialogue: 0,0:39:58.43,0:40:03.02,Default,,0000,0000,0000,,{\blur3}是无与伦比的爱因斯坦和他的学生罗森提出的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by the inimitable Albert Einstein and his student, Nathan Rosen.{\r}
+Dialogue: 0,0:40:04.15,0:40:07.77,Default,,0000,0000,0000,,{\blur3}连接两个黑洞的咽喉 理论上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A "throat" with two conjoined black holes, theoretically...{\r}
+Dialogue: 0,0:40:07.82,0:40:11.32,Default,,0000,0000,0000,,{\blur3}可以允许某些人 和地铁上的乘客一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allows someone, like a passenger on a subway train...{\r}
+Dialogue: 0,0:40:11.36,0:40:14.07,Default,,0000,0000,0000,,{\blur3}快速前往另一个时空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to quickly travel to another space and time.{\r}
+Dialogue: 0,0:40:18.62,0:40:23.42,Default,,0000,0000,0000,,{\blur3}这可能有效 前提是宇宙真的是无限多元宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This could work if the universe is really an infinite multiverse.{\r}
+Dialogue: 0,0:40:23.46,0:40:25.79,Default,,0000,0000,0000,,{\blur3}当然 这在理论上是可能的捷径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Certainly, it's a theoretical possibility...{\r}
+Dialogue: 0,0:40:25.84,0:40:28.21,Default,,0000,0000,0000,,{\blur3}可以这么说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a sort of shortcut, if you like.{\r}
+Dialogue: 0,0:40:28.25,0:40:31.84,Default,,0000,0000,0000,,{\blur3}它承认宇宙间的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it allows the possibility of traveling...{\r}
+Dialogue: 0,0:40:31.88,0:40:34.76,Default,,0000,0000,0000,,{\blur3}远距离穿行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between distant parts of the universe...{\r}
+Dialogue: 0,0:40:34.80,0:40:36.64,Default,,0000,0000,0000,,{\blur3}乃至不同宇宙间穿行的可能性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or perhaps between different universes.{\r}
+Dialogue: 0,0:40:39.52,0:40:43.44,Default,,0000,0000,0000,,{\blur3}企图穿越虫洞存在各种各样的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are all sorts of problems with trying to traverse a wormhole.{\r}
+Dialogue: 0,0:40:43.48,0:40:46.52,Default,,0000,0000,0000,,{\blur3}不过首当其冲的挑战貌似无法逾越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But one challenge above all seems insurmountable.{\r}
+Dialogue: 0,0:40:47.61,0:40:51.32,Default,,0000,0000,0000,,{\blur3}当年爱因斯坦将虫洞引进他的方程式时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When Einstein introduced the wormhole into his equations...{\r}
+Dialogue: 0,0:40:51.36,0:40:52.49,Default,,0000,0000,0000,,{\blur3}他不认为有人能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he didn't think that anyone...{\r}
+Dialogue: 0,0:40:52.53,0:40:55.03,Default,,0000,0000,0000,,{\blur3}穿越这些东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could ever walk through one of these things...{\r}
+Dialogue: 0,0:40:55.07,0:40:58.95,Default,,0000,0000,0000,,{\blur3}因为 说到底 你会命丧这个过程的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because, after all, you die in the process.{\r}
+Dialogue: 0,0:41:03.46,0:41:06.88,Default,,0000,0000,0000,,{\blur3}虽然听上去不可思议 专家们还是认为可以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Impossible as it may sound, experts think there may be...{\r}
+Dialogue: 0,0:41:06.92,0:41:09.25,Default,,0000,0000,0000,,{\blur3}存在穿越虫洞的通道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a way to travel through a wormhole...{\r}
+Dialogue: 0,0:41:11.01,0:41:12.92,Default,,0000,0000,0000,,{\blur3}让人身临其境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and live to tell about it.{\r}
+Dialogue: 0,0:41:14.38,0:41:16.80,Default,,0000,0000,0000,,{\blur3}原则上 你完全可以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In principle, you can go right through...{\r}
+Dialogue: 0,0:41:16.84,0:41:18.89,Default,,0000,0000,0000,,{\blur3}前往另一个平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to another parallel universe.{\r}
+Dialogue: 0,0:41:18.93,0:41:20.31,Default,,0000,0000,0000,,{\blur3}如果你再次穿越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you go through again...{\r}
+Dialogue: 0,0:41:20.35,0:41:23.10,Default,,0000,0000,0000,,{\blur3}你就会抵达又一个平行宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you wind up on yet another parallel universe.{\r}
+Dialogue: 0,0:41:23.14,0:41:25.56,Default,,0000,0000,0000,,{\blur3}要是你一而再 再而三地穿越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if you go again and again and again...{\r}
+Dialogue: 0,0:41:25.60,0:41:28.19,Default,,0000,0000,0000,,{\blur3}你会在平行宇宙中倒来倒去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you wind up on repeated parallel universes.{\r}
+Dialogue: 0,0:41:30.02,0:41:33.07,Default,,0000,0000,0000,,{\blur3}这好像是进入了电梯 按下了上行键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like going into an elevator and hitting the "up" button.{\r}
+Dialogue: 0,0:41:35.28,0:41:38.28,Default,,0000,0000,0000,,{\blur3}每个楼面就像是一个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each floor looks like a universe.{\r}
+Dialogue: 0,0:41:39.28,0:41:43.45,Default,,0000,0000,0000,,{\blur3}再次 不管怎样 有一个重大障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once again, however, there is a major drawback.{\r}
+Dialogue: 0,0:41:43.50,0:41:46.66,Default,,0000,0000,0000,,{\blur3}一个问题就是你并不知道自己会到什么地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One problem is you don't know where you're going to wind up.{\r}
+Dialogue: 0,0:41:47.46,0:41:49.54,Default,,0000,0000,0000,,{\blur3}你可能会达到一个恒星的中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll wind up in a middle of a star...{\r}
+Dialogue: 0,0:41:49.59,0:41:51.54,Default,,0000,0000,0000,,{\blur3}有可能抵达一个行星的中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}wind up in the middle of a planet.{\r}
+Dialogue: 0,0:41:52.71,0:41:56.01,Default,,0000,0000,0000,,{\blur3}有可能最终证明 对于个人来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It may ultimately prove impossible for individuals...{\r}
+Dialogue: 0,0:41:56.05,0:41:59.51,Default,,0000,0000,0000,,{\blur3}穿越通往平行宇宙的门户是不可能的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to pass through a portal to a parallel universe...{\r}
+Dialogue: 0,0:41:59.55,0:42:03.01,Default,,0000,0000,0000,,{\blur3}但是有可能成为拯救人类的另一个渠道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but there may be another way to save humankind.{\r}
+Dialogue: 0,0:42:04.77,0:42:08.44,Default,,0000,0000,0000,,{\blur3}如果通道非常小 比如 只有原子那么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the gateway is very small, like, for example, atomic in size...{\r}
+Dialogue: 0,0:42:08.48,0:42:12.98,Default,,0000,0000,0000,,{\blur3}也许我们要做的就是送出种子 纳米机器人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps what we should do is send a seed, a nanobot...{\r}
+Dialogue: 0,0:42:13.03,0:42:15.69,Default,,0000,0000,0000,,{\blur3}微机器人 穿越通道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a microscopic robot through the gateway...{\r}
+Dialogue: 0,0:42:15.74,0:42:19.11,Default,,0000,0000,0000,,{\blur3}携带DNA 携带所有的信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}containing the DNA, containing all the information...{\r}
+Dialogue: 0,0:42:19.16,0:42:23.12,Default,,0000,0000,0000,,{\blur3}那是在宇宙的另一头创造新生命所必不可少的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}necessary to create a new civilization on the other side of the universe.{\r}
+Dialogue: 0,0:42:24.50,0:42:26.20,Default,,0000,0000,0000,,{\blur3}我们究竟要关注什么?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where do we see that in nature?{\r}
+Dialogue: 0,0:42:26.25,0:42:27.87,Default,,0000,0000,0000,,{\blur3}想想树木{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Think of a tree.{\r}
+Dialogue: 0,0:42:27.92,0:42:29.75,Default,,0000,0000,0000,,{\blur3}树木会产生种子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A tree creates a seed.{\r}
+Dialogue: 0,0:42:29.79,0:42:34.21,Default,,0000,0000,0000,,{\blur3}种子包含了DNA 到处播撒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The seed contains the DNA that it shoots out in all directions...{\r}
+Dialogue: 0,0:42:34.26,0:42:36.59,Default,,0000,0000,0000,,{\blur3}尽可能生出新的树木{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}capable of creating a new tree.{\r}
+Dialogue: 0,0:42:40.72,0:42:43.97,Default,,0000,0000,0000,,{\blur3}想法就是假如一个发达的文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The idea is that if an advanced civilization...{\r}
+Dialogue: 0,0:42:44.01,0:42:47.93,Default,,0000,0000,0000,,{\blur3}在将来能够收集足够强大的激光束的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the future could assemble enough high-energy laser beams...{\r}
+Dialogue: 0,0:42:47.98,0:42:52.98,Default,,0000,0000,0000,,{\blur3}理论上 他们也能够在时空结构上烧出一个窟窿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they could, in theory, burn a hole in the fabric of space-time.{\r}
+Dialogue: 0,0:42:56.99,0:42:58.40,Default,,0000,0000,0000,,{\blur3}那是非常困难的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very difficult.{\r}
+Dialogue: 0,0:42:58.45,0:43:01.95,Default,,0000,0000,0000,,{\blur3}但是我们物理学家计算出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But we physicists have calculated that if you concentrate...{\r}
+Dialogue: 0,0:43:01.99,0:43:05.41,Default,,0000,0000,0000,,{\blur3}只要你将巨大的能量集中到一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}enormous energy at a single point...{\r}
+Dialogue: 0,0:43:05.45,0:43:08.00,Default,,0000,0000,0000,,{\blur3}达到所谓的普朗克能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to attain something called the Planck energy...{\r}
+Dialogue: 0,0:43:08.04,0:43:09.58,Default,,0000,0000,0000,,{\blur3}终极能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the ultimate energy...{\r}
+Dialogue: 0,0:43:09.62,0:43:12.29,Default,,0000,0000,0000,,{\blur3}时空本身将会变得不稳定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}space and time itseIfbecome unstable.{\r}
+Dialogue: 0,0:43:12.33,0:43:15.04,Default,,0000,0000,0000,,{\blur3}小泡泡开始形成小泡泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Little bubbles begin to form...{\r}
+Dialogue: 0,0:43:15.09,0:43:17.76,Default,,0000,0000,0000,,{\blur3}那或许就是通往{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}little bubbles that are perhaps portals...{\r}
+Dialogue: 0,0:43:17.80,0:43:20.13,Default,,0000,0000,0000,,{\blur3}另一个宇宙的门户{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gateways to another universe.{\r}
+Dialogue: 0,0:43:21.97,0:43:25.64,Default,,0000,0000,0000,,{\blur3}这样 微型宇宙舱或微机器人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this way, a microscopic pod or nanobot...{\r}
+Dialogue: 0,0:43:25.68,0:43:29.93,Default,,0000,0000,0000,,{\blur3}携带着人类的DNA 我们这个世界的宇宙密码{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}containing humanity's DNA and the cosmic code of our world...{\r}
+Dialogue: 0,0:43:29.98,0:43:33.35,Default,,0000,0000,0000,,{\blur3}就可被输送到一个平行宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be transported to a parallel universe.{\r}
+Dialogue: 0,0:43:34.57,0:43:35.82,Default,,0000,0000,0000,,{\blur3}面对灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Faced with extinction...{\r}
+Dialogue: 0,0:43:35.86,0:43:39.40,Default,,0000,0000,0000,,{\blur3}这可能是人类最后的希望所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this could be humanity's last great hope.{\r}
+Dialogue: 0,0:43:39.45,0:43:42.32,Default,,0000,0000,0000,,{\blur3}如果我们无法做到 那就意味着宇宙的终结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ifwe can't do it, it means the death of the universe.{\r}
+Dialogue: 0,0:43:45.70,0:43:48.75,Default,,0000,0000,0000,,{\blur3}但是如果这个伟大的壮举得以实现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if this incredible feat is achieved...{\r}
+Dialogue: 0,0:43:48.79,0:43:52.29,Default,,0000,0000,0000,,{\blur3}我们整个宇宙将得以复活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our entire universe would be resurrected...{\r}
+Dialogue: 0,0:43:52.33,0:43:56.34,Default,,0000,0000,0000,,{\blur3}就像凤凰涅磐 绝处逢生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, like a phoenix, rise from the ashes.{\r}
+Dialogue: 0,0:43:57.88,0:44:00.55,Default,,0000,0000,0000,,{\blur3}换句话说 你是在扮演上帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In other words, you are playing God.{\r}
+Dialogue: 0,0:44:02.34,0:44:03.80,Default,,0000,0000,0000,,{\blur3}这个奇妙的想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This fantastic idea...{\r}
+Dialogue: 0,0:44:03.84,0:44:06.80,Default,,0000,0000,0000,,{\blur3}就像是宇宙iPod的重播键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like the replay button on the universal iPod...{\r}
+Dialogue: 0,0:44:06.85,0:44:10.31,Default,,0000,0000,0000,,{\blur3}可以将人类历史的宇宙协奏曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could reset the cosmic concerto of human history...{\r}
+Dialogue: 0,0:44:10.35,0:44:12.81,Default,,0000,0000,0000,,{\blur3}回到起点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}back to the beginning.{\r}
+Dialogue: 0,0:44:12.85,0:44:16.27,Default,,0000,0000,0000,,{\blur3}至少有些物种几乎肯定会存活下去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At least some kinds almost certainly exist.{\r}
+Dialogue: 0,0:44:16.32,0:44:18.52,Default,,0000,0000,0000,,{\blur3}或许其它物种也会存活下去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe the other kinds exist as well.{\r}
+Dialogue: 0,0:44:18.57,0:44:19.86,Default,,0000,0000,0000,,{\blur3}我们只是不知道而已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We just don't know.{\r}
+Dialogue: 0,0:44:21.32,0:44:27.46,Default,,0000,0000,0000,,{\blur3}只有到那时 也许 我们知道有平行的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Only then, perhaps, will we be certain that there are parallel universes.{\r}

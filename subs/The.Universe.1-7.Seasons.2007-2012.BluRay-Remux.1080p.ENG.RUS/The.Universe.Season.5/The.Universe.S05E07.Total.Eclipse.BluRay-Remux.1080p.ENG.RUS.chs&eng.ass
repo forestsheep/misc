@@ -1,0 +1,743 @@
+[Script Info]
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,18,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+
+
+
+Dialogue: 0,0:01:10.20,0:01:14.20,Default,,0000,0000,0001,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:14.25,0:01:17.60,Default,,0000,0000,0008,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制&调校:无影  字幕来源:人人影视  招募Q号:76846146{\r}
+Dialogue: 0,0:01:17.60,0:01:20.47,*Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(149,111)\c&FBF7ED&\fn方正大黑简体\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宇
+Dialogue: 0,0:01:17.60,0:01:20.47,*Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(228,111)\c&FBF7ED&\fn方正大黑简体\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宙
+Dialogue: 0,0:01:17.60,0:01:20.47,*Default,NTP,0000,0000,0000,,{\fe134}{\fad(300,300)\pos(192,207)\c&FBF7ED&\3c&HFFFFFF&\fn方正大黑简体\fs24\shad0\bord2\be1}{\t(0,3500,0.5,\c&B59475&,\fscx110,\fscy110)}日 全 食
+Dialogue: 0,0:01:17.60,0:01:20.27,*Default,NTP,0000,0000,0000,,{\1c&HFF00FF&\b1}第5季　第7集
+Dialogue: 0,0:00:00.03,0:00:02.89,*Default,NTP,0000,0000,0000,,最初  宇宙是一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness,
+Dialogue: 0,0:00:03.18,0:00:04.46,*Default,NTP,0000,0000,0000,,紧接着一声巨响  混沌初开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then, bang...
+Dialogue: 0,0:00:05.32,0:00:06.58,*Default,NTP,0000,0000,0000,,时间  空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to an endless
+Dialogue: 0,0:00:06.63,0:00:09.63,*Default,NTP,0000,0000,0000,,开始不断膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}expanding existence of time, space and matter.
+Dialogue: 0,0:00:10.45,0:00:13.97,*Default,NTP,0000,0000,0000,,每天  我们都在解密这神秘莫测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:14.16,0:00:17.05,*Default,NTP,0000,0000,0000,,令人疯狂的极端之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets of a place
+Dialogue: 0,0:00:17.06,0:00:19.97,*Default,NTP,0000,0000,0000,,宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we call the universe.
+Dialogue: 0,0:00:21.74,0:00:23.15,*Default,NTP,0000,0000,0000,,日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A total eclipse.
+Dialogue: 0,0:00:23.92,0:00:26.39,*Default,NTP,0000,0000,0000,,一瞬间  光辉万丈的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The brilliant sun suddenly obliterated
+Dialogue: 0,0:00:27.02,0:00:28.68,*Default,NTP,0000,0000,0000,,消失在月亮的暗面中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the black disk of the Moon.
+Dialogue: 0,0:00:29.64,0:00:33.42,*Default,NTP,0000,0000,0000,,就像一颗眼珠正俯视着你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can see this eyeball looking down at you.
+Dialogue: 0,0:00:34.04,0:00:36.31,*Default,NTP,0000,0000,0000,,日食既令人叹为观止  又让人惊心动魄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Both breathtaking and frightening,
+Dialogue: 0,0:00:36.54,0:00:39.48,*Default,NTP,0000,0000,0000,,它预示着2012年的太阳大风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eclipses warn us of powerful solar storms
+Dialogue: 0,0:00:39.68,0:00:44.74,*Default,NTP,0000,0000,0000,,可能使地球大混乱的古老预言成为现实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that may fulfill an ancient prophecy of chaos on Earth in 2012.
+Dialogue: 0,0:00:45.58,0:00:47.00,*Default,NTP,0000,0000,0000,,人类会陷入极度恐慌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People would freak out.
+Dialogue: 0,0:00:47.15,0:00:49.13,*Default,NTP,0000,0000,0000,,无法制冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We wouldn't have refrigeration.
+Dialogue: 0,0:00:49.20,0:00:50.20,*Default,NTP,0000,0000,0000,,也不再有照明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We wouldn't have lights.
+Dialogue: 0,0:00:51.53,0:00:55.42,*Default,NTP,0000,0000,0000,,遥远恒星的日食现象揭示了新行星的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eclipses of distant stars are now revealing new planets,
+Dialogue: 0,0:00:55.61,0:00:57.35,*Default,NTP,0000,0000,0000,,其中甚至有类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even other Earths.
+Dialogue: 0,0:00:57.88,0:00:59.69,*Default,NTP,0000,0000,0000,,有些行星出其不意地出现在我们视野中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of them just popped right out at us.
+Dialogue: 0,0:00:59.97,0:01:02.48,*Default,NTP,0000,0000,0000,,探寻的范围包括整个宇宙空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The search covers the entire universe,
+Dialogue: 0,0:01:02.94,0:01:04.91,*Default,NTP,0000,0000,0000,,却发端于地球表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it begins here on Earth,
+Dialogue: 0,0:01:05.09,0:01:09.56,*Default,NTP,0000,0000,0000,,此时太阳正隐没在日全食中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the Sun hides its face in total eclipse.
+Dialogue: 0,0:01:29.41,0:01:32.78,*Default,NTP,0000,0000,0000,,这个天空中的奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a spectacle in the sky
+Dialogue: 0,0:01:32.85,0:01:38.56,*Default,NTP,0000,0000,0000,,数千年来  人类为之着迷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that has enthralled human beings for thousands of years.
+Dialogue: 0,0:01:39.22,0:01:40.55,*Default,NTP,0000,0000,0000,,开始了  开始了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here it comes. Here it comes.
+Dialogue: 0,0:01:40.59,0:01:41.66,*Default,NTP,0000,0000,0000,,开始了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here it comes.
+Dialogue: 0,0:01:41.76,0:01:45.03,*Default,NTP,0000,0000,0000,,开始了  看那黑影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here it comes. The shadow.
+Dialogue: 0,0:01:45.13,0:01:47.13,*Default,NTP,0000,0000,0000,,日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A total eclipse of the Sun.
+Dialogue: 0,0:01:55.20,0:01:59.10,*Default,NTP,0000,0000,0000,,有幸看见的人将对此永生难忘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Few people who see one will ever forget it.
+Dialogue: 0,0:02:05.75,0:02:07.27,*Default,NTP,0000,0000,0000,,亲眼目睹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Personally witnessing
+Dialogue: 0,0:02:08.75,0:02:11.39,*Default,NTP,0000,0000,0000,,日全食的亲身体验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a total solar eclipse in the flesh
+Dialogue: 0,0:02:10.25,0:02:13.09,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:02:11.45,0:02:13.85,*Default,NTP,0000,0000,0000,,是一次神奇而令人敬畏的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is an amazing, awe-inspiring,
+Dialogue: 0,0:02:13.96,0:02:16.18,*Default,NTP,0000,0000,0000,,又极为感动的经历\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tremendously moving experience.
+Dialogue: 0,0:02:17.13,0:02:19.73,*Default,NTP,0000,0000,0000,,从没有其他经历给我这样的感受\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I've never experienced anything quite like it.
+Dialogue: 0,0:02:23.63,0:02:25.73,*Default,NTP,0000,0000,0000,,有些人  如天文学家格伦·施奈德\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some, Like astronomer Glenn Schneider,
+Dialogue: 0,0:02:25.83,0:02:27.94,*Default,NTP,0000,0000,0000,,是一小群不分时间地点在全球奔波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are part of a sub-culture of globe-hopping
+Dialogue: 0,0:02:28.00,0:02:34.33,*Default,NTP,0000,0000,0000,,追逐日食现象的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eclipse chasers who will go anywhere, anytime to see an eclipse.
+Dialogue: 0,0:02:36.11,0:02:40.55,*Default,NTP,0000,0000,0000,,日食很吸引人  因为当天色变暗时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It grips you, because the sky has gone dark,
+Dialogue: 0,0:02:41.12,0:02:44.86,*Default,NTP,0000,0000,0000,,并不像午夜那么黑  而像是浓重的日暮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not as dark as midnight, but like a very deep twilight.
+Dialogue: 0,0:02:46.49,0:02:50.66,*Default,NTP,0000,0000,0000,,就像一颗眼珠正俯视着你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you can see this eyeball looking down at you.
+Dialogue: 0,0:02:48.99,0:02:51.86,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格伦·施奈德\N亚利桑那大学
+Dialogue: 0,0:02:50.76,0:02:56.43,*Default,NTP,0000,0000,0000,,太阳表面的黑影正是月球的轮廓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The black disk where the Sun was is the silhouette of the Moon.
+Dialogue: 0,0:02:58.03,0:03:00.57,*Default,NTP,0000,0000,0000,,令人难以置信的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an experience that you can't believe
+Dialogue: 0,0:03:00.67,0:03:03.38,*Default,NTP,0000,0000,0000,,整个过程仅持续一两分钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was only a minute or two minutes.
+Dialogue: 0,0:03:03.84,0:03:08.51,*Default,NTP,0000,0000,0000,,恍如漫长一生  实则短短一瞬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It seems to have lasted a lifetime and also just an instant.
+Dialogue: 0,0:03:15.38,0:03:20.92,*Default,NTP,0000,0000,0000,,这个令人振奋的现象是太空探索的起点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This compelling event is a launching pad for cosmic exploration,
+Dialogue: 0,0:03:23.66,0:03:28.75,*Default,NTP,0000,0000,0000,,藉此将解开一系列长久困惑着人类的奥秘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}solving a string of mysteries that have puzzled mankind for ages.
+Dialogue: 0,0:03:29.20,0:03:32.93,*Default,NTP,0000,0000,0000,,是什么让太阳在毫无征兆的情况下消失呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What makes the Sun disappear without warning?
+Dialogue: 0,0:03:33.00,0:03:34.54,*Default,NTP,0000,0000,0000,,这种现象何时发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When does it happen?
+Dialogue: 0,0:03:34.57,0:03:36.10,*Default,NTP,0000,0000,0000,,我们如何预测它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How can we predict it?
+Dialogue: 0,0:03:36.20,0:03:39.31,*Default,NTP,0000,0000,0000,,人类能否自己制造日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Can we make it happen ourselves?
+Dialogue: 0,0:03:39.37,0:03:42.01,*Default,NTP,0000,0000,0000,,这些问题一旦得到解答  我们会发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once understood, we find that each eclipse
+Dialogue: 0,0:03:42.08,0:03:45.11,*Default,NTP,0000,0000,0000,,每次日食都提供了关于宇宙的全新信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reveals something new about the universe.
+Dialogue: 0,0:03:45.21,0:03:49.65,*Default,NTP,0000,0000,0000,,如今我们在寻找远恒星的最新日食现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even now, we're finding our newest eclipses around distant stars,
+Dialogue: 0,0:03:49.75,0:03:52.39,*Default,NTP,0000,0000,0000,,并发现太阳系外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}revealing extra-solar planets,
+Dialogue: 0,0:03:52.49,0:03:55.66,*Default,NTP,0000,0000,0000,,其中可能有类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some, perhaps twins to the Earth,
+Dialogue: 0,0:03:55.72,0:03:57.86,*Default,NTP,0000,0000,0000,,拥有孕育生命的可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the potential for life.
+Dialogue: 0,0:04:03.37,0:04:07.63,*Default,NTP,0000,0000,0000,,故事记载始于地球上的日食之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The story begins with the mystery of our own eclipses,
+Dialogue: 0,0:04:07.74,0:04:10.94,*Default,NTP,0000,0000,0000,,即光天化日之下  太阳突然间消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a sun suddenly vanishing in broad daylight.
+Dialogue: 0,0:04:12.91,0:04:16.01,*Default,NTP,0000,0000,0000,,早在有历史记载之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Visible since before recorded history,
+Dialogue: 0,0:04:16.11,0:04:20.40,*Default,NTP,0000,0000,0000,,我们的祖先对日食充满了好奇与恐惧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ancients regarded eclipses with wonder and fear.
+Dialogue: 0,0:04:22.82,0:04:25.09,*Default,NTP,0000,0000,0000,,古人没有客观地意识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ancient people didn't understand physically
+Dialogue: 0,0:04:25.15,0:04:28.52,*Default,NTP,0000,0000,0000,,日食是怎样一种现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what was going on during a solar eclipse.
+Dialogue: 0,0:04:28.56,0:04:33.36,*Default,NTP,0000,0000,0000,,他们看见的是太阳上逐渐变大的缺口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They would see a progressively bigger bite being taken out of the Sun,
+Dialogue: 0,0:04:33.43,0:04:37.00,*Default,NTP,0000,0000,0000,,似乎天神或毒龙吞咬着太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as though some gods or dragons were eating the Sun,
+Dialogue: 0,0:04:37.10,0:04:39.53,*Default,NTP,0000,0000,0000,,向人类表达他们的愤怒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mad at those people.
+Dialogue: 0,0:04:39.57,0:04:42.10,*Default,NTP,0000,0000,0000,,因此人们击打锅碗瓢盆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the people would beat pots and pans
+Dialogue: 0,0:04:42.17,0:04:44.91,*Default,NTP,0000,0000,0000,,大声喊叫甚至以处女祭祀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and yell and scream and sacrifice virgins
+Dialogue: 0,0:04:45.01,0:04:47.11,*Default,NTP,0000,0000,0000,,以诸如此类的行为来平息神怒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and all sorts of things to appease the gods
+Dialogue: 0,0:04:47.18,0:04:49.18,*Default,NTP,0000,0000,0000,,或吓跑毒龙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and scare the dragons away.
+Dialogue: 0,0:04:50.65,0:04:51.66,*Default,NTP,0000,0000,0000,,结果呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you know what?
+Dialogue: 0,0:04:52.18,0:04:53.68,*Default,NTP,0000,0000,0000,,每次都奏效了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It worked every time.
+Dialogue: 0,0:04:58.72,0:05:00.09,*Default,NTP,0000,0000,0000,,数千年来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Through thousands of years,
+Dialogue: 0,0:05:00.19,0:05:04.73,*Default,NTP,0000,0000,0000,,通过对天空中日月轨迹的耐心观测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}patiently watching the movements of the Sun and the Moon in the sky,
+Dialogue: 0,0:05:04.79,0:05:07.56,*Default,NTP,0000,0000,0000,,古代的天文学家们终于明白\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ancient astronomers realized eclipses happen
+Dialogue: 0,0:05:07.63,0:05:10.71,*Default,NTP,0000,0000,0000,,当月球运转到太阳正前方时日食便发生了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the Moon passed directly in front of the Sun.
+Dialogue: 0,0:05:16.00,0:05:19.58,*Default,NTP,0000,0000,0000,,最后学者们通过对日食规律的长期研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In time, scholars studied the patterns of eclipses
+Dialogue: 0,0:05:19.58,0:05:21.47,*Default,NTP,0000,0000,0000,,已能预测其发生的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}long enough to predict them.
+Dialogue: 0,0:05:28.15,0:05:32.95,*Default,NTP,0000,0000,0000,,早在22个世纪前 古巴比伦人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Babylonians discovered what's called the Saros cycle
+Dialogue: 0,0:05:32.95,0:05:35.36,*Default,NTP,0000,0000,0000,,就发现了沙罗周期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more than 22 centuries ago.
+Dialogue: 0,0:05:36.16,0:05:39.83,*Default,NTP,0000,0000,0000,,沙罗周期就是日食周期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Saros cycle is a cycle of eclipses
+Dialogue: 0,0:05:39.83,0:05:42.56,*Default,NTP,0000,0000,0000,,这个周期每223个月循环一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that repeat every 223 months,
+Dialogue: 0,0:05:42.60,0:05:44.50,*Default,NTP,0000,0000,0000,,也就是18年一轮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}roughly every 18 years,
+Dialogue: 0,0:05:44.60,0:05:47.25,*Default,NTP,0000,0000,0000,,每个周期之间都非常相似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they're very similar to one another.
+Dialogue: 0,0:05:48.47,0:05:51.33,*Default,NTP,0000,0000,0000,,古希腊人了解到了古巴比伦人的这一发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Greeks were aware of the Babylonian discovery,
+Dialogue: 0,0:05:53.51,0:05:57.12,*Default,NTP,0000,0000,0000,,这一点从安提凯希拉装置上就能看出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we've learned from the remarkable antikythera mechanism,
+Dialogue: 0,0:05:58.95,0:06:04.38,*Default,NTP,0000,0000,0000,,它出自1901年地中海海底的沉船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an ancient device found on a shipwreck under the Mediterranean sea in 1901.
+Dialogue: 0,0:06:06.69,0:06:09.29,*Default,NTP,0000,0000,0000,,安提凯希拉装置一开始被认为是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The antikythera mechanism was first thought to be
+Dialogue: 0,0:06:09.32,0:06:12.70,*Default,NTP,0000,0000,0000,,某种时间计或天体计时器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some sort of a clock and then some sort of celestial timer.
+Dialogue: 0,0:06:13.50,0:06:16.76,*Default,NTP,0000,0000,0000,,这个极为复杂的装置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a very complex mechanism
+Dialogue: 0,0:06:16.87,0:06:20.40,*Default,NTP,0000,0000,0000,,由许多齿轮  叠层和平面构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with many gears and layers and planes.
+Dialogue: 0,0:06:22.14,0:06:24.21,*Default,NTP,0000,0000,0000,,自其发现以来  考古学家们对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Archaeologists have been intrigued
+Dialogue: 0,0:06:24.21,0:06:27.92,*Default,NTP,0000,0000,0000,,安提凯希拉装置充满兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the antikythera mechanism ever since it was found.
+Dialogue: 0,0:06:31.15,0:06:33.65,*Default,NTP,0000,0000,0000,,几十年前  他们终于发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Decades ago, they understood
+Dialogue: 0,0:06:33.68,0:06:35.28,*Default,NTP,0000,0000,0000,,这个机械模拟计算器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was a mechanical computer
+Dialogue: 0,0:06:35.32,0:06:38.05,*Default,NTP,0000,0000,0000,,用于测算行星的运动轨迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for calculating movements of the planets,
+Dialogue: 0,0:06:38.12,0:06:41.82,*Default,NTP,0000,0000,0000,,月相以及其他天象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}phases of the Moon and other astronomical phenomena.
+Dialogue: 0,0:06:43.09,0:06:45.58,*Default,NTP,0000,0000,0000,,但最近的发现令他们瞠目结舌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the latest discovery astounded them.
+Dialogue: 0,0:06:46.59,0:06:51.42,*Default,NTP,0000,0000,0000,,2008年  他们通过三维X光术及电脑断层扫描\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2008, using 3-D X-rays and CT scans,
+Dialogue: 0,0:06:51.42,0:06:55.11,*Default,NTP,0000,0000,0000,,发现这个装置里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they found that the Babylonian Saros cycle
+Dialogue: 0,0:06:55.11,0:06:58.51,*Default,NTP,0000,0000,0000,,包含了古巴比伦的沙罗周期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was built into the device.
+Dialogue: 0,0:07:00.07,0:07:05.58,*Default,NTP,0000,0000,0000,,该装置的两块底板上刻有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In two of the back plates of the mechanism was inscribed
+Dialogue: 0,0:07:05.61,0:07:11.05,*Default,NTP,0000,0000,0000,,一个有着分区的螺旋形标志\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a spiral-like figure that had divisions,
+Dialogue: 0,0:07:11.09,0:07:12.52,*Default,NTP,0000,0000,0000,,把它们放在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that when you added them up,
+Dialogue: 0,0:07:12.59,0:07:16.84,*Default,NTP,0000,0000,0000,,对应的就是沙罗周期的月份\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}corresponded to the months in a Saros cycle.
+Dialogue: 0,0:07:17.63,0:07:21.70,*Default,NTP,0000,0000,0000,,把沙罗周期包含到该装置里的唯一原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The only reason to have the Saros built into the mechanism
+Dialogue: 0,0:07:21.70,0:07:24.82,*Default,NTP,0000,0000,0000,,就是该装置也应用于预测日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was if it was an eclipse predictor as well.
+Dialogue: 0,0:07:28.67,0:07:32.22,*Default,NTP,0000,0000,0000,,平均每16个月就可以在地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A total eclipse of the Sun can be seen somewhere on Earth
+Dialogue: 0,0:07:32.22,0:07:35.01,*Default,NTP,0000,0000,0000,,某个位置看到一次全日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an average of once every 16 months.
+Dialogue: 0,0:07:37.08,0:07:42.04,*Default,NTP,0000,0000,0000,,如今  预测日食已是精确的科学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today, predicting them is a very exact science.
+Dialogue: 0,0:07:45.12,0:07:47.05,*Default,NTP,0000,0000,0000,,美国本土下一次可见的日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The next total solar eclipse to be visible
+Dialogue: 0,0:07:47.16,0:07:52.25,*Default,NTP,0000,0000,0000,,将发生在2017年8月21日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the United States will be on August 21, 2017.
+Dialogue: 0,0:07:54.43,0:07:56.43,*Default,NTP,0000,0000,0000,,但是如今的天文学家能够提供的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But modern astronomers can do much better
+Dialogue: 0,0:07:56.50,0:07:58.96,*Default,NTP,0000,0000,0000,,已不仅仅是日食的日期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than supplying the date for an eclipse.
+Dialogue: 0,0:08:00.07,0:08:02.40,*Default,NTP,0000,0000,0000,,一张日食地图显示出了人们在2017年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An eclipse map shows the exact path
+Dialogue: 0,0:08:02.44,0:08:06.96,*Default,NTP,0000,0000,0000,,能够看到的日全食的精确轨迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}along which people can see the 2017 total eclipse.
+Dialogue: 0,0:08:09.34,0:08:11.48,*Default,NTP,0000,0000,0000,,时间精确到秒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the timing is down to the second.
+Dialogue: 0,0:08:12.48,0:08:14.49,*Default,NTP,0000,0000,0000,,日全食阴影将于上午\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will reach totality
+Dialogue: 0,0:08:14.49,0:08:18.52,*Default,NTP,0000,0000,0000,,10点17分18秒抵达俄勒冈州塞勒姆市\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at 10:17 plus 18 seconds A.M. In Salem, Oregon;
+Dialogue: 0,0:08:18.62,0:08:23.06,*Default,NTP,0000,0000,0000,,下午1点15分55秒抵达密苏里州圣路易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and 1:15:55 P.M. in St. Louis, Missouri;
+Dialogue: 0,0:08:23.16,0:08:27.87,*Default,NTP,0000,0000,0000,,然后于2点41分55秒到达南卡罗莱纳的哥伦比亚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and 2:41:55 in Columbia, South Carolina.
+Dialogue: 0,0:08:28.16,0:08:31.85,*Default,NTP,0000,0000,0000,,这条轨迹将用时一小时31分1.6秒横跨美国\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will cross the country in 1 hour, 31 minutes and 1.6 seconds
+Dialogue: 0,0:08:31.85,0:08:36.92,*Default,NTP,0000,0000,0000,,平均宽度66公里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}along a path averaging 66 miles wide.
+Dialogue: 0,0:08:37.87,0:08:39.77,*Default,NTP,0000,0000,0000,,有这么精准的时间测定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With information so exact,
+Dialogue: 0,0:08:39.84,0:08:43.22,*Default,NTP,0000,0000,0000,,任何想看日食的人都可以如愿以偿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}anyone who wants to see it will be able to.
+Dialogue: 0,0:08:45.85,0:08:49.32,*Default,NTP,0000,0000,0000,,届时全美国的人们都有机会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People will have an opportunity to get to the path of totality
+Dialogue: 0,0:08:49.42,0:08:52.12,*Default,NTP,0000,0000,0000,,来到这条日全食的路线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from all over the United States.
+Dialogue: 0,0:08:52.15,0:08:55.65,*Default,NTP,0000,0000,0000,,每个人都值得一试\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's an opportunity that everybody should really try to take
+Dialogue: 0,0:08:55.66,0:08:58.34,*Default,NTP,0000,0000,0000,,因为这样的机会稀少而且是百年难求\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they're few and far between.
+Dialogue: 0,0:08:58.69,0:09:00.13,*Default,NTP,0000,0000,0000,,来了  开始了  瞧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here it comes. Here it comes. Here it comes.
+Dialogue: 0,0:09:00.16,0:09:02.76,*Default,NTP,0000,0000,0000,,除了壮观华丽的视觉景象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Apart from the spectacular visible picture,
+Dialogue: 0,0:09:02.86,0:09:05.75,*Default,NTP,0000,0000,0000,,被遮挡的太阳还将带给观赏者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the blocked sun also gives viewers
+Dialogue: 0,0:09:05.75,0:09:07.75,*Default,NTP,0000,0000,0000,,真实冰彻的感官体验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the chills in a literal sense.
+Dialogue: 0,0:09:08.07,0:09:10.57,*Default,NTP,0000,0000,0000,,在日全食期间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During a total solar eclipse,
+Dialogue: 0,0:09:10.67,0:09:14.05,*Default,NTP,0000,0000,0000,,温度会直降35度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the temperature can drop as much as 35 degrees.
+Dialogue: 0,0:09:15.11,0:09:19.74,*Default,NTP,0000,0000,0000,,这与外太空的低温  自然没有可比性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That, of course, is nothing compared to the temperatures in outer space,
+Dialogue: 0,0:09:19.75,0:09:21.64,*Default,NTP,0000,0000,0000,,在那里  这种遮挡无处不在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where all the action is taking place.
+Dialogue: 0,0:09:22.58,0:09:25.46,*Default,NTP,0000,0000,0000,,宇宙到底有多冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How cold can the universe get?
+Dialogue: 0,0:09:26.49,0:09:28.32,*Default,NTP,0000,0000,0000,,这也是来自科罗拉多州博尔德市的的卡罗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what Carlo of Boulder, Colorado,
+Dialogue: 0,0:09:28.39,0:09:30.58,*Default,NTP,0000,0000,0000,,想要"问问宇宙"的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wanted to "ask the universe",
+Dialogue: 0,0:09:30.58,0:09:33.56,*Default,NTP,0000,0000,0000,,所以他给我们发了电子邮件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so he e-mailed us.
+Dialogue: 0,0:09:33.56,0:09:36.50,*Default,NTP,0000,0000,0000,,宇宙目前的温度是多少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What is the current temperature of the universe,
+Dialogue: 0,0:09:36.56,0:09:38.74,*Default,NTP,0000,0000,0000,,为什么那么冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and why is it so cold?
+Dialogue: 0,0:09:39.13,0:09:40.57,*Default,NTP,0000,0000,0000,,卡罗  这问题可真冷啊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Carlo, that's a really cool question,
+Dialogue: 0,0:09:40.60,0:09:42.67,*Default,NTP,0000,0000,0000,,容我调侃一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you'll pardon my pun.
+Dialogue: 0,0:09:42.74,0:09:44.50,*Default,NTP,0000,0000,0000,,因为离太阳很近  我们的感觉是温暖的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here near the Sun, we feel warm,
+Dialogue: 0,0:09:44.57,0:09:45.81,*Default,NTP,0000,0000,0000,,但是在外太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in outer space,
+Dialogue: 0,0:09:45.87,0:09:47.04,*Default,NTP,0000,0000,0000,,宇宙的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the temperature of the universe
+Dialogue: 0,0:09:47.10,0:09:50.04,*Default,NTP,0000,0000,0000,,只有绝对三度[绝对零度的相对三度]\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is only three degrees above absolute zero.
+Dialogue: 0,0:09:50.14,0:09:51.88,*Default,NTP,0000,0000,0000,,真的是非常的冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's really cold.
+Dialogue: 0,0:09:51.95,0:09:53.48,*Default,NTP,0000,0000,0000,,之所以这么冷  可以这样来理解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's that cold because the universe
+Dialogue: 0,0:09:53.58,0:09:55.85,*Default,NTP,0000,0000,0000,,将宇宙理解为一团扩展开来的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can be thought of as an expanding gas,
+Dialogue: 0,0:09:55.92,0:10:01.27,*Default,NTP,0000,0000,0000,,而这团气体已经扩展冷却了140亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's been expanding and cooling for 14 billion years.
+Dialogue: 0,0:10:06.13,0:10:09.03,*Default,NTP,0000,0000,0000,,日全食之所以难得一见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The reason total eclipses are few and far between
+Dialogue: 0,0:10:09.13,0:10:13.10,*Default,NTP,0000,0000,0000,,是由于天体之间的相互作用非常微妙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the result of a delicate astronomical interplay.
+Dialogue: 0,0:10:13.13,0:10:14.10,*Default,NTP,0000,0000,0000,,之所以形成日全食  是因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It depends on a moon
+Dialogue: 0,0:10:14.14,0:10:18.41,*Default,NTP,0000,0000,0000,,月亮与地球的距离大约为24万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's an average of about 240,000 miles away
+Dialogue: 0,0:10:18.51,0:10:22.14,*Default,NTP,0000,0000,0000,,而且月亮的直径约为地球的1/4\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and one-quarter the diameter of the Earth.
+Dialogue: 0,0:10:22.14,0:10:23.94,*Default,NTP,0000,0000,0000,,我来演示一下产生日食的难度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To demonstrate just how difficult it is
+Dialogue: 0,0:10:24.05,0:10:27.65,*Default,NTP,0000,0000,0000,,要把两个天体排在一条线上才行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to get two objects to align just right to create an eclipse,
+Dialogue: 0,0:10:25.25,0:10:28.35,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}霍莉·吉尔伯特\N美国宇航局戈达德太空飞行中心
+Dialogue: 0,0:10:27.75,0:10:30.12,*Default,NTP,0000,0000,0000,,这个乒乓球代表地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm gonna use this ping-pong ball representing the Earth
+Dialogue: 0,0:10:30.18,0:10:33.39,*Default,NTP,0000,0000,0000,,这个非常小的弹珠代表月亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this very small marble representing the Moon.
+Dialogue: 0,0:10:33.45,0:10:36.29,*Default,NTP,0000,0000,0000,,这弹珠这么小以至于我不得不用镊子夹住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is so small that I have to hold it in tweezers
+Dialogue: 0,0:10:36.29,0:10:37.79,*Default,NTP,0000,0000,0000,,才能让你们看清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for you to be able to see.
+Dialogue: 0,0:10:38.19,0:10:39.76,*Default,NTP,0000,0000,0000,,那么  假设地球和月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, the Earth and the Moon
+Dialogue: 0,0:10:39.83,0:10:43.13,*Default,NTP,0000,0000,0000,,在太空中的距离大概是这么远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are located about this far apart in space,
+Dialogue: 0,0:10:43.20,0:10:44.73,*Default,NTP,0000,0000,0000,,这就使得它们很难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it makes it very difficult for them
+Dialogue: 0,0:10:44.77,0:10:47.77,*Default,NTP,0000,0000,0000,,恰好与太阳排成一条直线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to align just right with the Sun
+Dialogue: 0,0:10:47.84,0:10:49.90,*Default,NTP,0000,0000,0000,,以造成日食现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to create an eclipse as I'm going to demonstrate.
+Dialogue: 0,0:10:50.51,0:10:53.57,*Default,NTP,0000,0000,0000,,若要刚好排在恰当的直线上以产生日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very difficult to get these to align just right
+Dialogue: 0,0:10:53.67,0:10:55.24,*Default,NTP,0000,0000,0000,,非常困难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for an eclipse to occur.
+Dialogue: 0,0:10:57.11,0:10:59.38,*Default,NTP,0000,0000,0000,,然而一旦成功了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But once I do,
+Dialogue: 0,0:10:59.48,0:11:01.98,*Default,NTP,0000,0000,0000,,就能看到乒乓球上有个模糊的阴影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can see a fuzzy shadow on this ping-pong ball
+Dialogue: 0,0:11:02.82,0:11:05.09,*Default,NTP,0000,0000,0000,,这和从太空中拍摄的美丽的日食图\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that looks very much like the beautiful photographs
+Dialogue: 0,0:11:05.19,0:11:07.56,*Default,NTP,0000,0000,0000,,非常相似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of solar eclipses from space.
+Dialogue: 0,0:11:15.73,0:11:19.93,*Default,NTP,0000,0000,0000,,这一块巨大而模糊的阴影被称为半影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The large, fuzzy part of the shadow is called the penumbra.
+Dialogue: 0,0:11:20.03,0:11:22.77,*Default,NTP,0000,0000,0000,,日食期间  如果你所处的是半影部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're standing in the penumbra during an eclipse,
+Dialogue: 0,0:11:22.84,0:11:24.77,*Default,NTP,0000,0000,0000,,那么看到的太阳并不是被完全遮挡的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Sun is not completely covered,
+Dialogue: 0,0:11:24.84,0:11:27.69,*Default,NTP,0000,0000,0000,,而是日偏食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you see a partial eclipse.
+Dialogue: 0,0:11:29.18,0:11:33.58,*Default,NTP,0000,0000,0000,,中间的一小块黑影被称作本影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The small, dark, central part of the shadow is called the umbra.
+Dialogue: 0,0:11:33.65,0:11:35.48,*Default,NTP,0000,0000,0000,,如果你所处的是本影部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're standing in it,
+Dialogue: 0,0:11:35.55,0:11:37.48,*Default,NTP,0000,0000,0000,,那么太阳就被完全遮挡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Sun is completely covered,
+Dialogue: 0,0:11:37.59,0:11:39.75,*Default,NTP,0000,0000,0000,,你看到的就是日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you see the total eclipse.
+Dialogue: 0,0:11:41.02,0:11:43.62,*Default,NTP,0000,0000,0000,,由于月球的公转运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because of the Moon's motion in its orbit,
+Dialogue: 0,0:11:43.66,0:11:46.13,*Default,NTP,0000,0000,0000,,本影在地球上移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the umbra moves across the Earth,
+Dialogue: 0,0:11:46.19,0:11:49.99,*Default,NTP,0000,0000,0000,,形成清晰的轨迹线  即全食带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tracing a clear line called the path of totality,
+Dialogue: 0,0:11:50.57,0:11:54.28,*Default,NTP,0000,0000,0000,,只有在这个区域内才能看到真正的日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the only place where a true total eclipse is visible.
+Dialogue: 0,0:11:55.17,0:11:58.84,*Default,NTP,0000,0000,0000,,本影的宽度往往不到100公里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The width of the umbra is typically under 100 miles.
+Dialogue: 0,0:11:58.94,0:12:01.04,*Default,NTP,0000,0000,0000,,因此你必须精确地选择观影位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you really have to position yourself carefully
+Dialogue: 0,0:12:01.18,0:12:03.94,*Default,NTP,0000,0000,0000,,这样才能看到日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in order to see a totally eclipsed Sun.
+Dialogue: 0,0:12:04.01,0:12:07.65,*Default,NTP,0000,0000,0000,,看到97%或者98%的日偏食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And seeing a 97 or a 98% eclipse
+Dialogue: 0,0:12:07.65,0:12:11.08,*Default,NTP,0000,0000,0000,,与看到100%日全食的效果不可同日而语\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is nowhere near seeing a 100% eclipsed sun.
+Dialogue: 0,0:12:11.19,0:12:13.16,*Default,NTP,0000,0000,0000,,你必须准确地呆在全食带以内才行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You've got to be in the path of totality.
+Dialogue: 0,0:12:17.19,0:12:19.36,*Default,NTP,0000,0000,0000,,除了日月形成的日食现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is much more to the eclipse phenomenon
+Dialogue: 0,0:12:19.39,0:12:21.99,*Default,NTP,0000,0000,0000,,宇宙中还有很多的此类现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than just the Sun and the Moon.
+Dialogue: 0,0:12:22.40,0:12:25.37,*Default,NTP,0000,0000,0000,,星体的这种互动遍布全宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The story reaches across the universe,
+Dialogue: 0,0:12:25.40,0:12:28.55,*Default,NTP,0000,0000,0000,,因为蚀的确无处不在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because eclipses do happen everywhere.
+Dialogue: 0,0:12:29.20,0:12:34.11,*Default,NTP,0000,0000,0000,,当有星体运行到地球和另外一颗星体之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An eclipse occurs whenever one object passes between us
+Dialogue: 0,0:12:34.21,0:12:36.82,*Default,NTP,0000,0000,0000,,切断了后者的光源  就形成了星蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and another object, cutting off its light.
+Dialogue: 0,0:12:41.18,0:12:43.75,*Default,NTP,0000,0000,0000,,实际上  所有其他有卫星的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Virtually all other planets with moons
+Dialogue: 0,0:12:43.92,0:12:46.32,*Default,NTP,0000,0000,0000,,也会有蚀现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will also have solar eclipses,
+Dialogue: 0,0:12:47.19,0:12:50.51,*Default,NTP,0000,0000,0000,,不管它们是从属于太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether they occur here in our own solar system
+Dialogue: 0,0:12:51.19,0:12:55.30,*Default,NTP,0000,0000,0000,,还是运行在茫茫宇宙的其他恒星系中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or around other stars across the entire expanse of space.
+Dialogue: 0,0:12:56.83,0:12:59.73,*Default,NTP,0000,0000,0000,,但是这一瑰丽的宇宙现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what can this eye candy of the cosmos
+Dialogue: 0,0:12:59.83,0:13:01.92,*Default,NTP,0000,0000,0000,,能教给我们什么呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}teach us about the universe?
+Dialogue: 0,0:13:03.10,0:13:05.57,*Default,NTP,0000,0000,0000,,仅凭一个简单的日食  如何能够证明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How is it possible that a simple eclipse on the Earth
+Dialogue: 0,0:13:05.57,0:13:09.81,*Default,NTP,0000,0000,0000,,阿尔伯特·爱因斯坦关于时空扭曲的怪异理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can prove that the bizarre distortions of space and time
+Dialogue: 0,0:13:09.91,0:13:14.83,*Default,NTP,0000,0000,0000,,本质上是正确的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}predicted by Albert Einstein are essentially correct?
+Dialogue: 0,0:13:23.50,0:13:25.40,*Default,NTP,0000,0000,0000,,我们对日全食的探索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our search for total eclipses
+Dialogue: 0,0:13:25.47,0:13:28.54,*Default,NTP,0000,0000,0000,,基于地面上的观测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}begins with what we witness from the Earth.
+Dialogue: 0,0:13:30.74,0:13:35.07,*Default,NTP,0000,0000,0000,,而在太空中  人造卫星却利用日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In space, satellites use eclipses of our Sun
+Dialogue: 0,0:13:35.14,0:13:39.73,*Default,NTP,0000,0000,0000,,来监测类似于2012年太阳风暴这样的灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to watch for disasters like the fabled solar storms of 2012.
+Dialogue: 0,0:13:43.25,0:13:45.17,*Default,NTP,0000,0000,0000,,然而  在遥不可及的太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But farther out in the cosmos,
+Dialogue: 0,0:13:45.52,0:13:49.34,*Default,NTP,0000,0000,0000,,人类的探索已经揭示  蚀现象无处不在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our explorations reveal that there are eclipses everywhere,
+Dialogue: 0,0:13:51.16,0:13:54.88,*Default,NTP,0000,0000,0000,,其中许多是解开更多的宇宙秘密的钥匙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}many of them keys to unlocking secrets of the universe.
+Dialogue: 0,0:13:57.53,0:13:58.97,*Default,NTP,0000,0000,0000,,在太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the solar system,
+Dialogue: 0,0:14:00.33,0:14:02.22,*Default,NTP,0000,0000,0000,,唯一没有蚀现象的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the only planets without eclipses
+Dialogue: 0,0:14:03.54,0:14:07.88,*Default,NTP,0000,0000,0000,,是水星和金星  因为它们没有卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are Mercury and Venus because they have no moons.
+Dialogue: 0,0:14:10.51,0:14:13.45,*Default,NTP,0000,0000,0000,,目前  太阳系中已知的运行卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Currently, there's about 170 known moons
+Dialogue: 0,0:14:13.51,0:14:15.86,*Default,NTP,0000,0000,0000,,有170颗左右\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbiting planets in our solar system.
+Dialogue: 0,0:14:16.52,0:14:18.51,*Default,NTP,0000,0000,0000,,但如今  其数目持续增长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, that number keeps on growing.
+Dialogue: 0,0:14:18.89,0:14:22.89,*Default,NTP,0000,0000,0000,,已知土星和木星各有至少60颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Saturn and Jupiter each have at least 60 known moons.
+Dialogue: 0,0:14:22.89,0:14:25.86,*Default,NTP,0000,0000,0000,,但是随着我们的数据愈发精确\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as we get better and better data,
+Dialogue: 0,0:14:24.36,0:14:27.86,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:14:25.89,0:14:28.60,*Default,NTP,0000,0000,0000,,更多的小型卫星逐渐被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}additional small moons are being found.
+Dialogue: 0,0:14:28.63,0:14:30.62,*Default,NTP,0000,0000,0000,,因此我认为太阳系中有着成百上千的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So I think there are hundreds of moons in the solar system.
+Dialogue: 0,0:14:33.13,0:14:33.90,*Default,NTP,0000,0000,0000,,大多数情况下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In most cases,
+Dialogue: 0,0:14:33.97,0:14:37.16,*Default,NTP,0000,0000,0000,,这些卫星太小而无法完全遮挡太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the moons are too small to block the full disk of the Sun.
+Dialogue: 0,0:14:39.34,0:14:40.63,*Default,NTP,0000,0000,0000,,火星就是一个很好的例子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars is a good example.
+Dialogue: 0,0:14:42.24,0:14:45.09,*Default,NTP,0000,0000,0000,,根据火星漫游者机器人拍摄的表面照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Taken from the surface by the Opportunity Rover,
+Dialogue: 0,0:14:45.98,0:14:47.58,*Default,NTP,0000,0000,0000,,这些来自美国宇航局的照片展现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these NASA photos show the
+Dialogue: 0,0:14:47.58,0:14:50.64,*Default,NTP,0000,0000,0000,,火星的卫星火卫一从太阳前面穿过时的情景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Martian moon Phobos as it moves across the Sun.
+Dialogue: 0,0:14:54.29,0:14:58.19,*Default,NTP,0000,0000,0000,,这表明  我们在地球上看到的日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns out that the eclipses we see here on Earth
+Dialogue: 0,0:14:58.29,0:15:00.34,*Default,NTP,0000,0000,0000,,是与众不同的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are like no others.
+Dialogue: 0,0:15:03.83,0:15:07.08,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}亚当·弗兰克\N罗切斯特大学
+Dialogue: 0,0:15:01.83,0:15:04.46,*Default,NTP,0000,0000,0000,,要理解地球上发生的蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In order to get the kind of eclipse that we have here on Earth,
+Dialogue: 0,0:15:04.53,0:15:06.10,*Default,NTP,0000,0000,0000,,尤其是日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where it's a total eclipse,
+Dialogue: 0,0:15:06.17,0:15:08.67,*Default,NTP,0000,0000,0000,,月球和太阳的位置会刚好吻合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the Moon just fits over the Sun
+Dialogue: 0,0:15:09.10,0:15:10.47,*Default,NTP,0000,0000,0000,,因此你还能够看到日冕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that you can see the corona,
+Dialogue: 0,0:15:10.54,0:15:11.74,*Default,NTP,0000,0000,0000,,这太神奇了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How dramatic that is,
+Dialogue: 0,0:15:11.81,0:15:16.18,*Default,NTP,0000,0000,0000,,必须是一条大小距离都非常精准的直线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}requires a remarkable alignment of size and distance.
+Dialogue: 0,0:15:19.01,0:15:22.48,*Default,NTP,0000,0000,0000,,这是发生在宇宙中的一种巧合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It amounts to a coincidence of cosmic proportions.
+Dialogue: 0,0:15:25.55,0:15:28.96,*Default,NTP,0000,0000,0000,,太阳是月球大小的四百倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun is about 400 times bigger than the Moon.
+Dialogue: 0,0:15:29.82,0:15:31.86,*Default,NTP,0000,0000,0000,,然而  太阳离地球的距离恰好是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the Sun also happens to be
+Dialogue: 0,0:15:31.86,0:15:35.06,*Default,NTP,0000,0000,0000,,月球距地球距离的四百倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 400 times farther away from the Earth than the Moon.
+Dialogue: 0,0:15:36.16,0:15:39.43,*Default,NTP,0000,0000,0000,,那就意味着太阳和月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What that means is that both the Sun and the Moon appear
+Dialogue: 0,0:15:39.47,0:15:42.65,*Default,NTP,0000,0000,0000,,在天空中仿佛是大小相等的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be almost exactly the same size in the sky.
+Dialogue: 0,0:15:44.34,0:15:48.15,*Default,NTP,0000,0000,0000,,它们在空中的大小决定了日食的产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their sizes in the sky are crucial for eclipses.
+Dialogue: 0,0:15:52.35,0:15:54.81,*Default,NTP,0000,0000,0000,,假设这个球代表太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Suppose this ball represents the Sun
+Dialogue: 0,0:15:54.88,0:15:57.23,*Default,NTP,0000,0000,0000,,这个小红球代表月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the small red ball represents the Moon.
+Dialogue: 0,0:15:57.82,0:15:59.92,*Default,NTP,0000,0000,0000,,要想形成日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To get a total solar eclipse,
+Dialogue: 0,0:15:59.99,0:16:01.42,*Default,NTP,0000,0000,0000,,它们彼此之间以及地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they have to be perfectly lined up
+Dialogue: 0,0:16:01.46,0:16:03.09,*Default,NTP,0000,0000,0000,,必须完美地排成一条直线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with each other and with the Earth.
+Dialogue: 0,0:16:03.99,0:16:04.99,*Default,NTP,0000,0000,0000,,现在  如果这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, in this case,
+Dialogue: 0,0:16:05.03,0:16:07.05,*Default,NTP,0000,0000,0000,,由于月球距离地球非常的远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon is too far from the Earth,
+Dialogue: 0,0:16:07.53,0:16:10.63,*Default,NTP,0000,0000,0000,,而显得体积太小  无法完全覆盖住太阳表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it looks too small to fully cover the Sun's disk.
+Dialogue: 0,0:16:11.00,0:16:14.17,*Default,NTP,0000,0000,0000,,但是当我使月球逐渐靠近地球之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but as I bring the Moon closer to the Earth,
+Dialogue: 0,0:16:14.27,0:16:16.08,*Default,NTP,0000,0000,0000,,月球看起来就越来越大了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon looks bigger and bigger.
+Dialogue: 0,0:16:17.17,0:16:18.27,*Default,NTP,0000,0000,0000,,最终\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, eventually,
+Dialogue: 0,0:16:18.34,0:16:20.34,*Default,NTP,0000,0000,0000,,当月球距离地球足够近的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon is close enough to the Earth
+Dialogue: 0,0:16:20.44,0:16:22.65,*Default,NTP,0000,0000,0000,,它也就能够将太阳表面完美的覆盖住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it perfectly covers the Sun's disk.
+Dialogue: 0,0:16:23.54,0:16:26.14,*Default,NTP,0000,0000,0000,,这就是一次完整的日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's a perfect total solar eclipse.
+Dialogue: 0,0:16:29.55,0:16:32.45,*Default,NTP,0000,0000,0000,,这万众瞩目的日月地一条线的发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What are the chances that this remarkable alignment
+Dialogue: 0,0:16:32.52,0:16:35.99,*Default,NTP,0000,0000,0000,,刚好被另一个行星上的智慧生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would happen on a planet at just the time in its history
+Dialogue: 0,0:16:36.06,0:16:39.06,*Default,NTP,0000,0000,0000,,看到并感到好奇而想一探究竟的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when an intelligent species has evolved to witness
+Dialogue: 0,0:16:39.09,0:16:41.07,*Default,NTP,0000,0000,0000,,发生几率是多少呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and wonder about the results?
+Dialogue: 0,0:16:43.40,0:16:45.23,*Default,NTP,0000,0000,0000,,探究是否在银河系中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's interesting to speculate
+Dialogue: 0,0:16:45.33,0:16:47.83,*Default,NTP,0000,0000,0000,,是否还另有其他智慧生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether any other intelligent beings
+Dialogue: 0,0:16:47.87,0:16:51.24,*Default,NTP,0000,0000,0000,,也同样经历着这美妙精彩的日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in our milky way galaxy experience
+Dialogue: 0,0:16:51.31,0:16:54.03,*Default,NTP,0000,0000,0000,,这是一件非常有趣的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}such beautiful, perfect, total solar eclipses.
+Dialogue: 0,0:16:54.51,0:16:57.31,*Default,NTP,0000,0000,0000,,我们或许是宇宙中唯一的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's really quite possible that we may be the only
+Dialogue: 0,0:16:57.31,0:17:01.41,*Default,NTP,0000,0000,0000,,能够欣赏到此类天体排成一条直线的景观的智慧生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}intelligent species in the entire universe that has this kind of alignment,
+Dialogue: 0,0:17:01.48,0:17:03.56,*Default,NTP,0000,0000,0000,,因为这真的太独特了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it is so specific.
+Dialogue: 0,0:17:06.75,0:17:09.65,*Default,NTP,0000,0000,0000,,古代的人们曾经一度很畏惧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And while ancient humans once dreaded
+Dialogue: 0,0:17:09.65,0:17:11.09,*Default,NTP,0000,0000,0000,,会把太阳隐藏起来的日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}solar eclipses for hiding the Sun.
+Dialogue: 0,0:17:12.33,0:17:14.33,*Default,NTP,0000,0000,0000,,另一类的蚀现象回答了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another kind of eclipse helped to answer
+Dialogue: 0,0:17:14.40,0:17:16.58,*Default,NTP,0000,0000,0000,,一个最基本的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what was once a fundamental question:
+Dialogue: 0,0:17:17.23,0:17:20.87,*Default,NTP,0000,0000,0000,,地球到底是平的还是圆的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is the Earth flat, or is it round?
+Dialogue: 0,0:17:22.50,0:17:24.94,*Default,NTP,0000,0000,0000,,当地球和月亮在天空中的角色互换之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The puzzle was solved when the Earth and Moon
+Dialogue: 0,0:17:25.04,0:17:27.39,*Default,NTP,0000,0000,0000,,这个谜随即迎刃而解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}went into a celestial role reversal.
+Dialogue: 0,0:17:27.94,0:17:30.41,*Default,NTP,0000,0000,0000,,那就是月食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The result was a lunar eclipse.
+Dialogue: 0,0:17:31.75,0:17:35.82,*Default,NTP,0000,0000,0000,,当眼看着地球的影子经过月球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By watching the shadow of the Earth pass across the Moon,
+Dialogue: 0,0:17:35.85,0:17:38.11,*Default,NTP,0000,0000,0000,,古人们可以真实的看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ancients were able to actually see that
+Dialogue: 0,0:17:38.11,0:17:39.69,*Default,NTP,0000,0000,0000,,影子是呈曲线状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the shadow was curved.
+Dialogue: 0,0:17:39.75,0:17:40.82,*Default,NTP,0000,0000,0000,,因此他们能够推断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Therefore, they were able to infer that
+Dialogue: 0,0:17:40.85,0:17:42.19,*Default,NTP,0000,0000,0000,,既然影子是曲线的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since the shadow was curved,
+Dialogue: 0,0:17:42.22,0:17:44.47,*Default,NTP,0000,0000,0000,,那么地球也应当是球形的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth itself must also be spherical.
+Dialogue: 0,0:17:45.46,0:17:48.38,*Default,NTP,0000,0000,0000,,当地球的部分影子穿过月球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The curvature is prominent when only part of
+Dialogue: 0,0:17:48.38,0:17:50.33,*Default,NTP,0000,0000,0000,,影子的弯曲程度格外地明显\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth's shadow passes across the Moon.
+Dialogue: 0,0:17:51.47,0:17:54.30,*Default,NTP,0000,0000,0000,,当月球完全被地球的影子遮住时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when the Moon is entirely shadowed by the Earth,
+Dialogue: 0,0:17:54.40,0:17:56.47,*Default,NTP,0000,0000,0000,,也就发生了月全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the lunar eclipse is total.
+Dialogue: 0,0:17:57.77,0:17:59.71,*Default,NTP,0000,0000,0000,,月全食就发生在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A total lunar eclipse occurs
+Dialogue: 0,0:17:59.71,0:18:04.25,*Default,NTP,0000,0000,0000,,月球移动到地球的影子当中之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the Moon passes within the shadow cast by the Earth.
+Dialogue: 0,0:18:05.05,0:18:08.21,*Default,NTP,0000,0000,0000,,月球整个被地球的影子所遮挡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the Moon is completely in the shadow of the Earth.
+Dialogue: 0,0:18:08.28,0:18:10.58,*Default,NTP,0000,0000,0000,,每个人从地球的背光面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everyone from the dark side of the Earth
+Dialogue: 0,0:18:10.59,0:18:13.72,*Default,NTP,0000,0000,0000,,都可以看到月全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can see the totally eclipsed Moon.
+Dialogue: 0,0:18:13.75,0:18:17.39,*Default,NTP,0000,0000,0000,,也就是说  很大一部分人都能看到月食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means a vast population can see a lunar eclipse,
+Dialogue: 0,0:18:17.49,0:18:21.43,*Default,NTP,0000,0000,0000,,但是只有很少一部分人可以看到日全食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whereas only a small number of people can see a total solar eclipse.
+Dialogue: 0,0:18:24.00,0:18:26.30,*Default,NTP,0000,0000,0000,,月食能够帮助科学家们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lunar eclipses also helped scientists
+Dialogue: 0,0:18:26.37,0:18:28.04,*Default,NTP,0000,0000,0000,,探究光的散射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}learn about the scattering of light.
+Dialogue: 0,0:18:29.47,0:18:31.37,*Default,NTP,0000,0000,0000,,在月全食时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a total lunar eclipse,
+Dialogue: 0,0:18:31.41,0:18:33.23,*Default,NTP,0000,0000,0000,,月球变成了橘红色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon turns red-orange.
+Dialogue: 0,0:18:33.74,0:18:35.81,*Default,NTP,0000,0000,0000,,月球确实是在地球的影子当中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is in the Earth's shadow.
+Dialogue: 0,0:18:35.84,0:18:40.38,*Default,NTP,0000,0000,0000,,但是一些由太阳散发出来的光线穿过了大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But some light from the Sun scatters through the atmosphere.
+Dialogue: 0,0:18:40.48,0:18:43.95,*Default,NTP,0000,0000,0000,,光线在大气层中穿透了很大一段距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The light, passing through a great distance of atmosphere,
+Dialogue: 0,0:18:44.02,0:18:49.09,*Default,NTP,0000,0000,0000,,因此就像太阳位于地平线时一样也变红了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}turns red just as it does on Earth when the Sun is on the horizon.
+Dialogue: 0,0:18:49.99,0:18:53.77,*Default,NTP,0000,0000,0000,,光线透过厚实的大气层   \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The light travels through its greatest thickness of atmosphere
+Dialogue: 0,0:18:53.77,0:18:56.98,*Default,NTP,0000,0000,0000,,形成了日出日落时的红霞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and creates a red sunrise or sunset.
+Dialogue: 0,0:19:01.94,0:19:03.44,*Default,NTP,0000,0000,0000,,事实上  每一种蚀现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, every kind of eclipse
+Dialogue: 0,0:19:03.47,0:19:06.89,*Default,NTP,0000,0000,0000,,都让我们学习到了关于宇宙的科学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has much to teach us about the science of the universe.
+Dialogue: 0,0:19:09.01,0:19:10.95,*Default,NTP,0000,0000,0000,,在二十世纪早期  \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the early 20th century,
+Dialogue: 0,0:19:10.95,0:19:15.92,*Default,NTP,0000,0000,0000,,美国总统柯立芝在白宫见证的一次日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one solar eclipse, witnessed at the White House by President Coolidge,
+Dialogue: 0,0:19:15.98,0:19:19.41,*Default,NTP,0000,0000,0000,,首次证实了一个预言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gave us the first confirmation of a prediction
+Dialogue: 0,0:19:19.41,0:19:23.45,*Default,NTP,0000,0000,0000,,预言来自一位年轻科学家阿尔伯特·爱因斯坦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}made by a young scientist named Albert Einstein.
+Dialogue: 0,0:19:24.79,0:19:28.43,*Default,NTP,0000,0000,0000,,1919年  宇航员阿瑟·艾丁顿  \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1919, the astronomer Arthur Eddington
+Dialogue: 0,0:19:28.50,0:19:31.96,*Default,NTP,0000,0000,0000,,去到了日全食的观测地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}went to the location of a total solar eclipse
+Dialogue: 0,0:19:32.00,0:19:36.38,*Default,NTP,0000,0000,0000,,以验证爱因斯坦广义相对论的预言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to test a prediction of Einstein's general theory of relativity.
+Dialogue: 0,0:19:38.44,0:19:42.24,*Default,NTP,0000,0000,0000,,1915年  爱因斯坦发表了他的预言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1915, Einstein published his prediction
+Dialogue: 0,0:19:42.34,0:19:45.61,*Default,NTP,0000,0000,0000,,引力可以导致空间发生弯曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that gravity causes space to curve,
+Dialogue: 0,0:19:45.71,0:19:47.63,*Default,NTP,0000,0000,0000,,并且那些由星星发出的光线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the light from stars would
+Dialogue: 0,0:19:47.63,0:19:49.37,*Default,NTP,0000,0000,0000,,也会随着空间的弯曲而弯曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}bend following that curve.
+Dialogue: 0,0:19:50.88,0:19:54.75,*Default,NTP,0000,0000,0000,,所以  当空中的一颗星星靠近太阳时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if there were a star close to the Sun in the sky,
+Dialogue: 0,0:19:54.82,0:19:57.73,*Default,NTP,0000,0000,0000,,它的光线会由于受到太阳的引力而弯曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its light would be bent by the Sun's gravity.
+Dialogue: 0,0:20:00.63,0:20:03.75,*Default,NTP,0000,0000,0000,,唯一能够检验爱因斯坦预言的方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The only way to test Einstein's prediction
+Dialogue: 0,0:20:03.75,0:20:06.57,*Default,NTP,0000,0000,0000,,就是等到日食  当太阳变暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was during an eclipse, when the Sun was darkened
+Dialogue: 0,0:20:06.57,0:20:09.10,*Default,NTP,0000,0000,0000,,并且周围的星星都看不到的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the nearby stars were visible.
+Dialogue: 0,0:20:10.00,0:20:12.10,*Default,NTP,0000,0000,0000,,艾丁顿深知  一颗应当会被太阳挡住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eddington knew the accurate position of a star
+Dialogue: 0,0:20:12.17,0:20:15.07,*Default,NTP,0000,0000,0000,,的星星所在的具体位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that should have been blocked by the Sun.
+Dialogue: 0,0:20:15.11,0:20:18.38,*Default,NTP,0000,0000,0000,,但是如果太阳的引力弯曲了星星的光线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if the Sun's gravity bent the star's light,
+Dialogue: 0,0:20:18.45,0:20:19.90,*Default,NTP,0000,0000,0000,,就如爱因斯坦所说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as Einstein said,
+Dialogue: 0,0:20:19.91,0:20:23.81,*Default,NTP,0000,0000,0000,,看起来这颗星星将会出现在另一个位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be seen as if it were in a different position altogether.
+Dialogue: 0,0:20:25.29,0:20:28.25,*Default,NTP,0000,0000,0000,,艾丁顿测量出并且目睹了这一现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eddington measured that, he saw that,
+Dialogue: 0,0:20:28.25,0:20:31.05,*Default,NTP,0000,0000,0000,,从而首次证实了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thus confirming, for the first time,
+Dialogue: 0,0:20:31.05,0:20:33.90,*Default,NTP,0000,0000,0000,,爱因斯坦的广义相对论所作出的预言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a prediction of Einstein's general theory of relativity.
+Dialogue: 0,0:20:36.36,0:20:40.33,*Default,NTP,0000,0000,0000,,但是日全食对于科学探索的最大贡献是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the greatest scientific benefit of total solar eclipses
+Dialogue: 0,0:20:40.37,0:20:43.50,*Default,NTP,0000,0000,0000,,日全食让我们看到了日冕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the view they give us of the Sun's corona,
+Dialogue: 0,0:20:44.37,0:20:47.40,*Default,NTP,0000,0000,0000,,它原本是无法看到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is otherwise invisible to us.
+Dialogue: 0,0:20:55.38,0:20:58.86,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格伦·施奈德\N亚利桑那大学
+Dialogue: 0,0:20:49.81,0:20:53.35,*Default,NTP,0000,0000,0000,,如果没有日全食的发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the occurrence of total solar eclipses,
+Dialogue: 0,0:20:53.41,0:20:55.11,*Default,NTP,0000,0000,0000,,我们甚至可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's really questionable today
+Dialogue: 0,0:20:55.11,0:21:00.38,*Default,NTP,0000,0000,0000,,连太阳外围有一层日冕都不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether we would actually even know that the Sun had a corona,
+Dialogue: 0,0:21:00.48,0:21:04.69,*Default,NTP,0000,0000,0000,,那是一层在外围的炙热稀薄的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an outer, hot, tenuous atmosphere.
+Dialogue: 0,0:21:06.16,0:21:08.16,*Default,NTP,0000,0000,0000,,太阳表面的亮度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The solar disk is a million times brighter
+Dialogue: 0,0:21:08.23,0:21:10.36,*Default,NTP,0000,0000,0000,,是周围日冕的一百万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the surrounding corona.
+Dialogue: 0,0:21:10.43,0:21:13.27,*Default,NTP,0000,0000,0000,,如果不将太阳表面遮挡住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so if you don't block that out,
+Dialogue: 0,0:21:13.33,0:21:15.15,*Default,NTP,0000,0000,0000,,你根本看不到日冕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can't visibly see the corona.
+Dialogue: 0,0:21:16.87,0:21:19.64,*Default,NTP,0000,0000,0000,,对于我们而言  观测到日冕之所以重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For us to be able to observe the corona is important
+Dialogue: 0,0:21:19.71,0:21:21.34,*Default,NTP,0000,0000,0000,,是因为否则我们就不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because otherwise we wouldn't know
+Dialogue: 0,0:21:21.44,0:21:25.34,*Default,NTP,0000,0000,0000,,太阳大气的这一层向外绵延至太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that this layer of the solar atmosphere extends out into space.
+Dialogue: 0,0:21:23.24,0:21:27.01,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}霍莉·吉尔伯特\N美国宇航局戈达德太空飞行中心
+Dialogue: 0,0:21:25.45,0:21:28.15,*Default,NTP,0000,0000,0000,,事实上  我们在地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And, in fact, we're embedded, here on Earth,
+Dialogue: 0,0:21:28.18,0:21:31.57,*Default,NTP,0000,0000,0000,,是被太阳向外延伸的大气层日冕所包围的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the solar atmosphere in the extended solar corona.
+Dialogue: 0,0:21:34.05,0:21:38.03,*Default,NTP,0000,0000,0000,,在望远镜发明后的三百多年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For more than three centuries after the invention of the telescope,
+Dialogue: 0,0:21:38.36,0:21:42.17,*Default,NTP,0000,0000,0000,,天文学家跑遍全世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers rushed to far flung locations all over the world
+Dialogue: 0,0:21:42.70,0:21:46.00,*Default,NTP,0000,0000,0000,,只是为了花几分钟观察研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just to spend a few minutes observing, studying
+Dialogue: 0,0:21:46.07,0:21:48.69,*Default,NTP,0000,0000,0000,,和分析神秘的日冕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and analyzing the mysterious corona.
+Dialogue: 0,0:21:50.40,0:21:53.91,*Default,NTP,0000,0000,0000,,这种状态持续到科学技术的飞跃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it stayed that way until the technological leap
+Dialogue: 0,0:21:55.08,0:21:58.76,*Default,NTP,0000,0000,0000,,可以实现人造日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that gave mankind the power to make its own eclipses.
+Dialogue: 0,0:21:59.41,0:22:03.83,*Default,NTP,0000,0000,0000,,这些人造日食揭示了一些完全出乎意料的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These artificial eclipses revealed something totally unexpected:
+Dialogue: 0,0:22:04.72,0:22:07.49,*Default,NTP,0000,0000,0000,,被证明是太阳系最剧烈的爆炸的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eruptions in space that turned out
+Dialogue: 0,0:22:07.52,0:22:10.86,*Default,NTP,0000,0000,0000,,日冕喷发活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be the greatest explosions in the solar system.
+Dialogue: 0,0:22:16.40,0:22:19.67,*Default,NTP,0000,0000,0000,,形形色色的日食被证明是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eclipses of every kind have proven to be keys
+Dialogue: 0,0:22:19.73,0:22:23.67,*Default,NTP,0000,0000,0000,,解开宇宙中各种秘密的钥匙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to unlocking many of the secrets scattered across the universe.
+Dialogue: 0,0:22:27.37,0:22:31.34,*Default,NTP,0000,0000,0000,,日食让我们发现遥远星系的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eclipses reveal planets circling distant stars,
+Dialogue: 0,0:22:31.38,0:22:36.35,*Default,NTP,0000,0000,0000,,以及太阳风暴对地球的破坏力超乎我们想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and solar storms posing dangers to Earth, worse than we can imagine.
+Dialogue: 0,0:22:37.12,0:22:40.62,*Default,NTP,0000,0000,0000,,太阳的威胁隐藏在日冕中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun's threats are hidden in the corona,
+Dialogue: 0,0:22:40.65,0:22:43.68,*Default,NTP,0000,0000,0000,,地球上只有在日全食时才能观察到它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which appears on Earth only during a total eclipse.
+Dialogue: 0,0:22:45.99,0:22:49.73,*Default,NTP,0000,0000,0000,,它平均十六个月才发生一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It happens only once every 16 months on average,
+Dialogue: 0,0:22:49.80,0:22:53.10,*Default,NTP,0000,0000,0000,,而且地球上只有有限的地方能观察到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at places scattered across the entire globe,
+Dialogue: 0,0:22:53.17,0:22:56.77,*Default,NTP,0000,0000,0000,,远不足以让我们发现这种致命的危险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not nearly enough for monitoring such a deadly hazard.
+Dialogue: 0,0:22:59.64,0:23:02.91,*Default,NTP,0000,0000,0000,,然而在太空中  卫星为我们传送\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Out in space, though, satellites send us
+Dialogue: 0,0:23:03.01,0:23:04.90,*Default,NTP,0000,0000,0000,,最细微的太阳活动图片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}up to the minute pictures of the Sun.
+Dialogue: 0,0:23:07.45,0:23:13.24,*Default,NTP,0000,0000,0000,,壮观的太空探测器给我们展示了光芒四射的日冕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Spectacular space probes show the solar corona in all its glory,
+Dialogue: 0,0:23:14.36,0:23:17.09,*Default,NTP,0000,0000,0000,,再也不用去等待日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and never ever have to wait for an eclipse.
+Dialogue: 0,0:23:20.19,0:23:22.63,*Default,NTP,0000,0000,0000,,秘密就在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their secret is a piece of technology
+Dialogue: 0,0:23:22.73,0:23:25.27,*Default,NTP,0000,0000,0000,,人造日食的科技\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that creates a manmade eclipse.
+Dialogue: 0,0:23:28.91,0:23:32.22,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格伦·施奈德\N亚利桑那大学
+Dialogue: 0,0:23:28.43,0:23:30.20,*Default,NTP,0000,0000,0000,,比如说我们想看看太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's say I wanna look at the Sun,
+Dialogue: 0,0:23:30.27,0:23:32.27,*Default,NTP,0000,0000,0000,,它就在我旁边这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is right next to me here.
+Dialogue: 0,0:23:32.37,0:23:35.27,*Default,NTP,0000,0000,0000,,太阳真的很明亮  它在空中放射无数的光芒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun is really bright and it scatters lots of light in the sky,
+Dialogue: 0,0:23:35.38,0:23:37.89,*Default,NTP,0000,0000,0000,,如此多以至于我无法看清它的轮廓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so much so that I can't see what's around it.
+Dialogue: 0,0:23:38.38,0:23:42.98,*Default,NTP,0000,0000,0000,,但如果我用一个仪器  例如眼镜店用的遮光器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if I use a device like an occluder that an optician might use,
+Dialogue: 0,0:23:43.02,0:23:45.99,*Default,NTP,0000,0000,0000,,我能用它来遮挡阳光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can use it to block the Sunlight,
+Dialogue: 0,0:23:46.02,0:23:49.06,*Default,NTP,0000,0000,0000,,消除炫目的光从而观察太阳周围是什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}kill the glare and see what's around the Sun.
+Dialogue: 0,0:23:49.16,0:23:50.72,*Default,NTP,0000,0000,0000,,此方法也可以用于观察恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can do the same thing with stars.
+Dialogue: 0,0:23:50.82,0:23:54.99,*Default,NTP,0000,0000,0000,,这种仪器我们统称为日冕仪 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a device like that that we can put together is called a coronagraph.
+Dialogue: 0,0:23:55.06,0:23:57.10,*Default,NTP,0000,0000,0000,,用于研究太阳的日冕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We use it for studying the Sun's corona,
+Dialogue: 0,0:23:57.20,0:23:59.61,*Default,NTP,0000,0000,0000,,以及恒星的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we use it for studying the environments of stars.
+Dialogue: 0,0:24:01.37,0:24:04.92,*Default,NTP,0000,0000,0000,,发明于1939年的日冕仪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Coronagraphs, invented in 1939,
+Dialogue: 0,0:24:05.37,0:24:07.60,*Default,NTP,0000,0000,0000,,起初用于地球上的望远镜上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were first applied to telescopes on Earth.
+Dialogue: 0,0:24:08.38,0:24:11.01,*Default,NTP,0000,0000,0000,,它们在海拔最高处时效果最好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They worked best at the highest altitudes
+Dialogue: 0,0:24:11.08,0:24:14.80,*Default,NTP,0000,0000,0000,,那里大气对阳光的削弱作用最小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where scattering of sunlight by the atmosphere is minimized.
+Dialogue: 0,0:24:16.88,0:24:20.52,*Default,NTP,0000,0000,0000,,但日冕仪在太空中发挥的作用最大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But coronagraphs do their heaviest lifting in space.
+Dialogue: 0,0:24:22.36,0:24:24.94,*Default,NTP,0000,0000,0000,,配备日冕仪的航天器主要是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two of the major missions carrying coronagraphs are
+Dialogue: 0,0:24:24.95,0:24:29.72,*Default,NTP,0000,0000,0000,,太阳风层探测器和日地关系天文台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the SOHO and STEREO spacecraft.
+Dialogue: 0,0:24:24.95,0:24:29.72,*Default,NTP,0000,0000,0000,,{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&000000&}{\an8}SOHO:Solar and Heliospheric Observatory\NSTEREO:Solar Terrestrial Relations Observatory
+Dialogue: 0,0:24:30.83,0:24:33.95,*Default,NTP,0000,0000,0000,,它们拍摄延伸到很远处的日冕活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They photograph the corona out to great distances
+Dialogue: 0,0:24:34.70,0:24:36.03,*Default,NTP,0000,0000,0000,,并且能拍下一些现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and pick up other phenomena
+Dialogue: 0,0:24:36.03,0:24:41.28,*Default,NTP,0000,0000,0000,,如果没有人造日食就不可能发觉这些现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that, without these artificial eclipses, would be totally unseen.
+Dialogue: 0,0:24:45.14,0:24:47.35,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:24:43.34,0:24:45.28,*Default,NTP,0000,0000,0000,,卫星获得的太阳影像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Movies of the Sun obtained by satellites
+Dialogue: 0,0:24:45.35,0:24:47.18,*Default,NTP,0000,0000,0000,,真的很吸引人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are really fascinating to watch
+Dialogue: 0,0:24:47.25,0:24:48.98,*Default,NTP,0000,0000,0000,,因为你能看到日冕结构中的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because you can see all sorts of changes
+Dialogue: 0,0:24:49.08,0:24:51.72,*Default,NTP,0000,0000,0000,,各种变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the structure of the corona,
+Dialogue: 0,0:24:51.79,0:24:54.41,*Default,NTP,0000,0000,0000,,日珥和耀斑等等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and prominences and flares and things like that.
+Dialogue: 0,0:24:55.89,0:24:59.59,*Default,NTP,0000,0000,0000,,你还能看到被称作掠过太阳的彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you can also see what's called sun-grazing comets...
+Dialogue: 0,0:24:59.63,0:25:04.10,*Default,NTP,0000,0000,0000,,彗星飞过来差点撞到太阳  然而呼啸而过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Comets that come in and nearly hit the Sun, but go whizzing past.
+Dialogue: 0,0:25:04.16,0:25:05.13,*Default,NTP,0000,0000,0000,,它们太靠近太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're too close to the Sun
+Dialogue: 0,0:25:05.13,0:25:08.37,*Default,NTP,0000,0000,0000,,所以在黑夜或者白天都无法看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be visible during the nighttime or the daytime,
+Dialogue: 0,0:25:08.44,0:25:10.80,*Default,NTP,0000,0000,0000,,但在遮住太阳后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but with the Sun's disc blocked out,
+Dialogue: 0,0:25:10.90,0:25:11.89,*Default,NTP,0000,0000,0000,,你就能看到它们了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can actually see them.
+Dialogue: 0,0:25:19.28,0:25:23.95,*Default,NTP,0000,0000,0000,,1971年  美国宇航局的一颗装备了日冕仪的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1971, a NASA satellite, equipped with a coronagraph,
+Dialogue: 0,0:25:23.98,0:25:27.38,*Default,NTP,0000,0000,0000,,拍下了这些完全未知的图像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}snapped these shots of something completely unknown.
+Dialogue: 0,0:25:28.99,0:25:32.73,*Default,NTP,0000,0000,0000,,这些粒状的图像揭示了闻所未闻的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The grainy pictures revealed an explosion in the corona
+Dialogue: 0,0:25:32.79,0:25:35.05,*Default,NTP,0000,0000,0000,,日冕中的一次爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no one had ever seen before.
+Dialogue: 0,0:25:36.96,0:25:41.02,*Default,NTP,0000,0000,0000,,1971年  一台在卫星上的日冕仪发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1971, it was discovered with a coronagraph on a satellite
+Dialogue: 0,0:25:41.02,0:25:43.77,*Default,NTP,0000,0000,0000,,太阳有时候会出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the Sun sometimes undergoes
+Dialogue: 0,0:25:43.80,0:25:46.27,*Default,NTP,0000,0000,0000,,一种叫做日冕物质抛射的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what's called Coronal Mass Ejections,
+Dialogue: 0,0:25:46.34,0:25:49.24,*Default,NTP,0000,0000,0000,,爆炸威力无比强大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}incredibly powerful explosions,
+Dialogue: 0,0:25:49.31,0:25:53.31,*Default,NTP,0000,0000,0000,,如同引爆了数十亿颗核弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like billions of nuclear bombs going off,
+Dialogue: 0,0:25:53.35,0:25:57.76,*Default,NTP,0000,0000,0000,,从太阳中喷发出高速的带电粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that eject high-speed charged particles from the Sun.
+Dialogue: 0,0:26:00.05,0:26:02.79,*Default,NTP,0000,0000,0000,,太阳粒子以高速向地球飞来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The solar particles speed toward the Earth,
+Dialogue: 0,0:26:02.86,0:26:05.32,*Default,NTP,0000,0000,0000,,形成了美丽的极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where they cause the beautiful auroras,
+Dialogue: 0,0:26:05.36,0:26:07.54,*Default,NTP,0000,0000,0000,,它们通常出现在两极附近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}usually seen near the poles.
+Dialogue: 0,0:26:09.16,0:26:12.70,*Default,NTP,0000,0000,0000,,但它们也能严重破坏卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But they can also seriously damage satellites,
+Dialogue: 0,0:26:12.80,0:26:15.75,*Default,NTP,0000,0000,0000,,通信系统以及电力系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}communications and power grids.
+Dialogue: 0,0:26:19.34,0:26:24.24,*Default,NTP,0000,0000,0000,,日冕物质抛射也称CMES  发生在日冕层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Coronal Mass Ejections or CMES happen in the corona,
+Dialogue: 0,0:26:24.34,0:26:26.88,*Default,NTP,0000,0000,0000,,经常和发生在太阳表面的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and are often linked to solar flares,
+Dialogue: 0,0:26:26.98,0:26:28.66,*Default,NTP,0000,0000,0000,,太阳耀斑联系在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which happen on the Sun's surface.
+Dialogue: 0,0:26:29.98,0:26:32.25,*Default,NTP,0000,0000,0000,,这些是目前太阳系中已知的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are currently the most powerful explosions
+Dialogue: 0,0:26:32.35,0:26:34.62,*Default,NTP,0000,0000,0000,,最强大的爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}known in the solar system,
+Dialogue: 0,0:26:34.69,0:26:38.29,*Default,NTP,0000,0000,0000,,接近十亿颗氢弹爆炸的威力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}approaching the power of a billion hydrogen bombs.
+Dialogue: 0,0:26:43.45,0:26:47.12,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}霍莉·吉尔伯特\N美国宇航局戈达德太空飞行中心
+Dialogue: 0,0:26:42.56,0:26:45.60,*Default,NTP,0000,0000,0000,,日冕物质抛射涉及如此多的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Coronal mass ejections involve so much mass
+Dialogue: 0,0:26:45.70,0:26:48.84,*Default,NTP,0000,0000,0000,,从太阳发出如此强大的电磁能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and magnetic energy moving away from the Sun.
+Dialogue: 0,0:26:49.70,0:26:52.27,*Default,NTP,0000,0000,0000,,以至于它们的宽度几乎达到太阳的一半\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can be as wide as almost half of the Sun.
+Dialogue: 0,0:26:53.34,0:26:55.61,*Default,NTP,0000,0000,0000,,它就像是个巨大的含有各种物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's like a large bubble of material
+Dialogue: 0,0:26:55.68,0:26:57.98,*Default,NTP,0000,0000,0000,,和电磁能的气泡  从太阳中发出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and magnetic field moving away from the Sun
+Dialogue: 0,0:26:58.05,0:27:00.13,*Default,NTP,0000,0000,0000,,时速达到四百万多英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at over four million miles an hour.
+Dialogue: 0,0:27:03.24,0:27:06.01,*Default,NTP,0000,0000,0000,,太阳抛射出的物质量是巨大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The amount of solar material ejected is huge.
+Dialogue: 0,0:27:09.39,0:27:11.26,*Default,NTP,0000,0000,0000,,一次日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During a CME,
+Dialogue: 0,0:27:11.33,0:27:15.29,*Default,NTP,0000,0000,0000,,相当于20万艘二战时期战舰的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mass equivalent to 200,000 world war II battleships
+Dialogue: 0,0:27:15.33,0:27:17.96,*Default,NTP,0000,0000,0000,,被抛到太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is thrown out into space...
+Dialogue: 0,0:27:18.03,0:27:21.12,*Default,NTP,0000,0000,0000,,即2200亿磅的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}220 billion pounds of matter.
+Dialogue: 0,0:27:29.34,0:27:32.47,*Default,NTP,0000,0000,0000,,2003年10月  \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}October 2003,
+Dialogue: 0,0:27:35.07,0:27:38.72,*Default,NTP,0000,0000,0000,,日冕层发生了一系列强大的日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a powerful series of CMES erupts in the solar corona.
+Dialogue: 0,0:27:41.15,0:27:44.96,*Default,NTP,0000,0000,0000,,它是近期最强烈的喷发之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the most intense in recent memory.
+Dialogue: 0,0:27:45.06,0:27:48.05,*Default,NTP,0000,0000,0000,,产生的极光远至南部的佛罗里达\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It generates auroras seen as far South as Florida.
+Dialogue: 0,0:27:49.76,0:27:53.20,*Default,NTP,0000,0000,0000,,引起了至少一次全球电力故障\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It causes at least one power blackout on Earth
+Dialogue: 0,0:27:53.23,0:27:56.36,*Default,NTP,0000,0000,0000,,并影响了美国宇航局超过一半的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and affects more than half of NASA's space missions.
+Dialogue: 0,0:27:58.41,0:28:02.31,*Default,NTP,0000,0000,0000,,太阳风层探测器暂时失灵\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Soho solar satellite is briefly disabled
+Dialogue: 0,0:28:02.41,0:28:05.59,*Default,NTP,0000,0000,0000,,但生动地记录下了此次事件的画面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but records dramatic pictures of the event.
+Dialogue: 0,0:28:07.41,0:28:10.15,*Default,NTP,0000,0000,0000,,在卫星图像中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the satellite images,
+Dialogue: 0,0:28:10.22,0:28:13.22,*Default,NTP,0000,0000,0000,,你能看到高能粒子击中探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can see the energetic particles hitting the detector,
+Dialogue: 0,0:28:13.32,0:28:15.29,*Default,NTP,0000,0000,0000,,看起来像是一连串的雪花片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it looks like there's a bunch of snow.
+Dialogue: 0,0:28:16.32,0:28:21.33,*Default,NTP,0000,0000,0000,,所以我们能看到粒子影响了卫星本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we can actually see the particles impacting the satellite itself.
+Dialogue: 0,0:28:26.57,0:28:30.56,*Default,NTP,0000,0000,0000,,但也许这些太阳风暴的危险超过我们的想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there may be more danger in these solar storms than we suspect.
+Dialogue: 0,0:28:30.94,0:28:33.80,*Default,NTP,0000,0000,0000,,我们不知道这些大抛射多久发生一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't yet know how often the big ones happen.
+Dialogue: 0,0:28:35.18,0:28:38.91,*Default,NTP,0000,0000,0000,,但最近的研究告诉我们最糟糕的情形是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the latest research tells us the worst case scenario
+Dialogue: 0,0:28:39.01,0:28:42.25,*Default,NTP,0000,0000,0000,,一阵太阳风暴猛烈冲击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could smash the Earth with a solar wind,
+Dialogue: 0,0:28:42.28,0:28:45.30,*Default,NTP,0000,0000,0000,,能造成数百万人死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whose effects could kill millions.
+Dialogue: 0,0:28:51.16,0:28:53.93,*Default,NTP,0000,0000,0000,,在宇宙中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Across the depths of the cosmos,
+Dialogue: 0,0:28:54.03,0:28:58.50,*Default,NTP,0000,0000,0000,,每当卫星或行星运转经过恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whenever moons or planets cross paths with stars,
+Dialogue: 0,0:28:58.61,0:29:00.51,*Default,NTP,0000,0000,0000,,就会发生壮观的蚀现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the result is an often revealing
+Dialogue: 0,0:29:00.61,0:29:04.12,*Default,NTP,0000,0000,0000,,发人深省  有时甚至令人敬畏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sometimes awe-inspiring spectacle of an eclipse.
+Dialogue: 0,0:29:07.65,0:29:11.75,*Default,NTP,0000,0000,0000,,在地球上  人造日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here on Earth, manmade artificial eclipses
+Dialogue: 0,0:29:11.85,0:29:15.45,*Default,NTP,0000,0000,0000,,已经发现了太阳风暴无与伦比的破坏力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have uncovered solar storms of incomparable violence.
+Dialogue: 0,0:29:21.56,0:29:25.46,*Default,NTP,0000,0000,0000,,观测日冕物质抛射至关重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is critical that we watch for coronal mass ejections,
+Dialogue: 0,0:29:25.57,0:29:29.20,*Default,NTP,0000,0000,0000,,使用日冕仪遮住太阳表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}massive solar outbursts discovered using coronagraphs
+Dialogue: 0,0:29:29.30,0:29:30.99,*Default,NTP,0000,0000,0000,,从而可以发现日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}blocking out the disk of the Sun.
+Dialogue: 0,0:29:37.01,0:29:38.11,*Default,NTP,0000,0000,0000,,当太阳黑子周期达到高峰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The greatest danger comes
+Dialogue: 0,0:29:38.21,0:29:42.55,*Default,NTP,0000,0000,0000,,最大的危机来临了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the solar sunspot cycle is at its maximum,
+Dialogue: 0,0:29:42.58,0:29:44.40,*Default,NTP,0000,0000,0000,,大概每11年为一个周期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}roughly every 11 years.
+Dialogue: 0,0:29:46.62,0:29:49.76,*Default,NTP,0000,0000,0000,,在太阳活动的高峰期间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the maximum of solar activities,
+Dialogue: 0,0:29:49.82,0:29:54.09,*Default,NTP,0000,0000,0000,,也许每天都会有两三次大的日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there might be two or three coronal mass ejections per day,
+Dialogue: 0,0:29:50.28,0:29:54.12,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:29:54.13,0:29:55.89,*Default,NTP,0000,0000,0000,,然而在低潮期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whereas during a minimum in the cycle,
+Dialogue: 0,0:29:55.93,0:29:57.56,*Default,NTP,0000,0000,0000,,也许每周只有一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there might be only one per week.
+Dialogue: 0,0:29:58.69,0:30:04.51,*Default,NTP,0000,0000,0000,,{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&}{\pos(120,235)}太阳低潮期
+Dialogue: 0,0:29:58.69,0:30:04.51,*Default,NTP,0000,0000,0000,,{\fn方正黑体简体\fs18\b1\bord1\shad1\3c&H2F2F2F&} {\pos(270,235)}太阳高峰期
+Dialogue: 0,0:30:00.47,0:30:04.32,*Default,NTP,0000,0000,0000,,科学家们在留心观察下一次太阳高峰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists are on the lookout for the next solar maximum,
+Dialogue: 0,0:30:05.38,0:30:08.47,*Default,NTP,0000,0000,0000,,有些人认为那会是在2012年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which some believe would come in 2012.
+Dialogue: 0,0:30:10.58,0:30:14.60,*Default,NTP,0000,0000,0000,,正好是玛雅历结束的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that happens to be the year the Mayan calendar comes to an end,
+Dialogue: 0,0:30:16.85,0:30:19.46,*Default,NTP,0000,0000,0000,,这件事引起了普遍的推测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which has given rise to widespread speculation
+Dialogue: 0,0:30:20.55,0:30:22.74,*Default,NTP,0000,0000,0000,,认为那年会有一场全球性的大灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about a global disaster in that year.
+Dialogue: 0,0:30:25.02,0:30:27.39,*Default,NTP,0000,0000,0000,,实际上  现在认为即将到来的太阳高峰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, it's now believed the coming solar maximum
+Dialogue: 0,0:30:27.46,0:30:31.68,*Default,NTP,0000,0000,0000,,将是自1928年以来最弱的一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be the weakest since 1928
+Dialogue: 0,0:30:31.68,0:30:34.42,*Default,NTP,0000,0000,0000,,2012年后才会到来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and won't be reached until after 2012.
+Dialogue: 0,0:30:35.44,0:30:38.86,*Default,NTP,0000,0000,0000,,尽管现在的科学还无法精确预期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although precise dating is beyond the realm of today's science.
+Dialogue: 0,0:30:41.34,0:30:44.34,*Default,NTP,0000,0000,0000,,现在预测下个太阳高峰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is now predicted that the next solar maximum
+Dialogue: 0,0:30:44.38,0:30:48.35,*Default,NTP,0000,0000,0000,,将大约会在2014年初达到顶峰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will peak in probably early 2014.
+Dialogue: 0,0:30:46.61,0:30:50.96,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}霍莉·吉尔伯特\N美国宇航局戈达德太空飞行中心
+Dialogue: 0,0:30:48.45,0:30:51.02,*Default,NTP,0000,0000,0000,,一些人认为还要早些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some people predict it will happen before that.
+Dialogue: 0,0:30:51.08,0:30:52.92,*Default,NTP,0000,0000,0000,,但是它是一种不断变化的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's a sort of a moving target
+Dialogue: 0,0:30:53.05,0:30:57.15,*Default,NTP,0000,0000,0000,,因为我们并不完全理解太阳周期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we don't fully understand the solar cycle itself.
+Dialogue: 0,0:31:00.36,0:31:04.16,*Default,NTP,0000,0000,0000,,科学家们很早就怀疑会有一次超级日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists have long suspected that a super CME,
+Dialogue: 0,0:31:04.26,0:31:07.28,*Default,NTP,0000,0000,0000,,当它发生的时候就会是一场大灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it does happen, could be disastrous.
+Dialogue: 0,0:31:14.07,0:31:19.01,*Default,NTP,0000,0000,0000,,最近的一次朝向地球的大抛射是在1859年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The last such event to target the Earth happened in 1859,
+Dialogue: 0,0:31:19.08,0:31:21.61,*Default,NTP,0000,0000,0000,,令电报通讯中断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}disrupting telegraph service
+Dialogue: 0,0:31:21.71,0:31:24.97,*Default,NTP,0000,0000,0000,,形成的极光在赤道也能看见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and creating auroras visible down to the equator.
+Dialogue: 0,0:31:27.72,0:31:30.53,*Default,NTP,0000,0000,0000,,今天  这样的事件意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An event like that today would mean
+Dialogue: 0,0:31:30.53,0:31:32.93,*Default,NTP,0000,0000,0000,,我们从未经历过的大范围的供电中断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}power outages on a scale we've never experienced.
+Dialogue: 0,0:31:34.46,0:31:38.26,*Default,NTP,0000,0000,0000,,美国电力网的大部分将中断三个月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Much of the U.S. Power Grid could be down for three months
+Dialogue: 0,0:31:38.36,0:31:40.13,*Default,NTP,0000,0000,0000,,也许更久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and perhaps much longer.
+Dialogue: 0,0:31:42.50,0:31:46.07,*Default,NTP,0000,0000,0000,,如果我们断电三个月甚至更久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we lost electricity for three months or more,
+Dialogue: 0,0:31:46.14,0:31:48.26,*Default,NTP,0000,0000,0000,,其后果  尤其是对于我们这样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the effects, especially on a country like ours
+Dialogue: 0,0:31:48.58,0:31:52.14,*Default,NTP,0000,0000,0000,,如此依赖电力的国家  将会是灭顶之灾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that depends on electricity so much, would be devastating.
+Dialogue: 0,0:31:52.25,0:31:53.81,*Default,NTP,0000,0000,0000,,你只能想象可能会是什么样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can only imagine what it would be like.
+Dialogue: 0,0:31:53.91,0:31:56.08,*Default,NTP,0000,0000,0000,,人们会崩溃的  真的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People would freak out, really.
+Dialogue: 0,0:31:56.15,0:31:57.88,*Default,NTP,0000,0000,0000,,我是说  我们将没有制冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, we wouldn't have refrigeration.
+Dialogue: 0,0:31:57.98,0:31:59.60,*Default,NTP,0000,0000,0000,,没有照明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We wouldn't have lights.
+Dialogue: 0,0:32:01.99,0:32:05.62,*Default,NTP,0000,0000,0000,,如果没有太阳能卫星造成的人造日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the artificial eclipses in our solar satellites,
+Dialogue: 0,0:32:05.73,0:32:09.00,*Default,NTP,0000,0000,0000,,我们可能连有这样的危险存在都不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we would have no idea that such a threat even existed.
+Dialogue: 0,0:32:10.33,0:32:12.30,*Default,NTP,0000,0000,0000,,根据最近的估计\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}According to recent estimates,
+Dialogue: 0,0:32:10.70,0:32:13.32,*Default,NTP,0000,0000,0000,,{\pos(150,70)}{\fs16}无油供应
+Dialogue: 0,0:32:12.40,0:32:15.32,*Default,NTP,0000,0000,0000,,完全恢复需要四到十年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}full recovery could take 4 to 10 years.
+Dialogue: 0,0:32:16.10,0:32:18.30,*Default,NTP,0000,0000,0000,,数百万人将会死于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Millions of people could die due to
+Dialogue: 0,0:32:18.41,0:32:21.87,*Default,NTP,0000,0000,0000,,食物  净水和药物短缺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shortages of food, clean water and pharmaceuticals.
+Dialogue: 0,0:32:22.41,0:32:27.31,*Default,NTP,0000,0000,0000,,相关损失大概会达到1到2万亿美元\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Projected damage may be as much as $1 to $2 trillion,
+Dialogue: 0,0:32:27.41,0:32:29.97,*Default,NTP,0000,0000,0000,,相当于20场卡特里娜飓风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comparable to 20 Hurricane Katrinas.
+Dialogue: 0,0:32:31.42,0:32:36.02,*Default,NTP,0000,0000,0000,,一次超级日冕物质抛射在150年前攻击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A super CME struck the Earth 150 years ago,
+Dialogue: 0,0:32:36.12,0:32:39.62,*Default,NTP,0000,0000,0000,,但是科学家们对下一次爆发的时间意见不一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but scientists disagree on when the next one could come.
+Dialogue: 0,0:32:41.46,0:32:44.20,*Default,NTP,0000,0000,0000,,在我们有生之年发生的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The likelihood of that happening in our lifetime
+Dialogue: 0,0:32:44.30,0:32:47.03,*Default,NTP,0000,0000,0000,,并不让人愉快  但是我们只是不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is probably not that good, but we just don't know.
+Dialogue: 0,0:32:47.13,0:32:48.92,*Default,NTP,0000,0000,0000,,我们没有足够的资料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't have enough data.
+Dialogue: 0,0:32:50.14,0:32:52.67,*Default,NTP,0000,0000,0000,,威力最强大的日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most powerful coronal mass ejections
+Dialogue: 0,0:32:52.77,0:32:56.21,*Default,NTP,0000,0000,0000,,能造成全球范围的灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could cause widespread damage over all of Earth
+Dialogue: 0,0:32:56.31,0:32:59.65,*Default,NTP,0000,0000,0000,,也许大约一千年才发生一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}probably occur only about once every millennium or so.
+Dialogue: 0,0:33:00.65,0:33:02.85,*Default,NTP,0000,0000,0000,,然而  千年难遇的巨大灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nevertheless, having a huge calamity
+Dialogue: 0,0:33:02.95,0:33:06.78,*Default,NTP,0000,0000,0000,,真是个大事件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every few thousand years is really a big deal.
+Dialogue: 0,0:33:10.46,0:33:13.66,*Default,NTP,0000,0000,0000,,我们最好的保护措施也许是人造日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our best protection may be in the artificial eclipses
+Dialogue: 0,0:33:13.73,0:33:17.25,*Default,NTP,0000,0000,0000,,在宇宙飞船上监控日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}aboard spacecraft monitoring the Sun for CMES.
+Dialogue: 0,0:33:19.20,0:33:22.30,*Default,NTP,0000,0000,0000,,如果改进后的警报系统投入使用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If improved warning systems are put into place,
+Dialogue: 0,0:33:22.37,0:33:25.45,*Default,NTP,0000,0000,0000,,我们也许有足够的时间切断电网\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we may have enough time to shut down the electric grid
+Dialogue: 0,0:33:25.45,0:33:27.27,*Default,NTP,0000,0000,0000,,以免它起火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to prevent it from burning out,
+Dialogue: 0,0:33:28.10,0:33:32.36,*Default,NTP,0000,0000,0000,,避开致命的子弹  否则就直接向我们来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dodging the deadly bullet otherwise aimed straight for us.
+Dialogue: 0,0:33:40.29,0:33:42.16,*Default,NTP,0000,0000,0000,,日冕物质抛射也许是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A coronal mass ejection may be
+Dialogue: 0,0:33:42.16,0:33:45.90,*Default,NTP,0000,0000,0000,,日食科学发现的最壮观的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most spectacular phenomenon uncovered by eclipse science.
+Dialogue: 0,0:33:46.49,0:33:49.12,*Default,NTP,0000,0000,0000,,但是宇宙充满了各种其他蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the universe is full of other eclipses,
+Dialogue: 0,0:33:51.66,0:33:55.16,*Default,NTP,0000,0000,0000,,每一种都教给我们一些关于宇宙的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}each one teaching us something else about the cosmos.
+Dialogue: 0,0:33:58.74,0:34:02.04,*Default,NTP,0000,0000,0000,,甚至一次不比月球更远的短途空间旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even a short hop into space, no farther than the Moon,
+Dialogue: 0,0:34:02.68,0:34:04.74,*Default,NTP,0000,0000,0000,,就能改变局面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}turns the tables on us,
+Dialogue: 0,0:34:04.74,0:34:09.16,*Default,NTP,0000,0000,0000,,让地球成为造成日食的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the Earth becomes the celestial body to eclipse the Sun.
+Dialogue: 0,0:34:11.02,0:34:13.22,*Default,NTP,0000,0000,0000,,想想阿波罗12号图像是多么重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think about how important that Apollo 12 image was,
+Dialogue: 0,0:34:13.22,0:34:17.00,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}亚当·弗兰克\N罗切斯特大学
+Dialogue: 0,0:34:13.35,0:34:15.65,*Default,NTP,0000,0000,0000,,如果他们把相机对着地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Were they turned the camera back towards the Earth
+Dialogue: 0,0:34:15.72,0:34:18.36,*Default,NTP,0000,0000,0000,,你会看到地球造成的日食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you could see the Earth eclipsing the Sun.
+Dialogue: 0,0:34:18.39,0:34:22.36,*Default,NTP,0000,0000,0000,,阿波罗号发回的图像对人类来说是里程碑式的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Those images from Apollo were really epic-making for humanity.
+Dialogue: 0,0:34:22.40,0:34:24.36,*Default,NTP,0000,0000,0000,,它让我们第一次真正意识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It gave us our first real sense
+Dialogue: 0,0:34:24.40,0:34:28.69,*Default,NTP,0000,0000,0000,,地球就是一个漂浮在太空的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the Earth as being an object floating in space.
+Dialogue: 0,0:34:30.37,0:34:32.10,*Default,NTP,0000,0000,0000,,更远点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Farther out,
+Dialogue: 0,0:34:33.70,0:34:37.04,*Default,NTP,0000,0000,0000,,卡西尼空间探测器在土星上看太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Cassini space probe looks at Saturn,
+Dialogue: 0,0:34:37.04,0:34:38.84,*Default,NTP,0000,0000,0000,,几乎是黑色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}virtually black
+Dialogue: 0,0:34:38.91,0:34:42.28,*Default,NTP,0000,0000,0000,,被背光式的环围绕着  或者说封闭着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}surrounded by backlit rings as it blocks out the disk of the Sun
+Dialogue: 0,0:34:42.38,0:34:45.32,*Default,NTP,0000,0000,0000,,距离太阳将近十亿英里远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nearly a billion miles away.
+Dialogue: 0,0:34:48.99,0:34:52.19,*Default,NTP,0000,0000,0000,,与我们的月亮造成的日食完全不同的景象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A very different view of our own moon eclipsing the Sun
+Dialogue: 0,0:34:52.19,0:34:54.91,*Default,NTP,0000,0000,0000,,来自于Stereo-b宇宙飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes from the Stereo-b spacecraft.
+Dialogue: 0,0:34:56.40,0:34:59.30,*Default,NTP,0000,0000,0000,,从空间深处看来  月亮似乎小很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From deep space, the Moon appears much smaller,
+Dialogue: 0,0:34:59.43,0:35:03.14,*Default,NTP,0000,0000,0000,,它越过太阳的表面  称为凌日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it crosses the Sun's disk in what's called a transit.
+Dialogue: 0,0:35:03.90,0:35:06.84,*Default,NTP,0000,0000,0000,,这种日食也许是回答我们问题的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This kind of eclipse may be pivotal in answering our questions
+Dialogue: 0,0:35:06.91,0:35:10.31,*Default,NTP,0000,0000,0000,,关于宇宙中还有什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about who else may be out there in the universe.
+Dialogue: 0,0:35:12.65,0:35:14.55,*Default,NTP,0000,0000,0000,,凌日之所以如此重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What makes transit so important
+Dialogue: 0,0:35:14.55,0:35:15.81,*Default,NTP,0000,0000,0000,,是因为  它是我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is it's one of our ways
+Dialogue: 0,0:35:15.92,0:35:18.92,*Default,NTP,0000,0000,0000,,真正发现太阳系外的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of actually discovering what are called extra-solar planets,
+Dialogue: 0,0:35:18.99,0:35:20.80,*Default,NTP,0000,0000,0000,,围绕其他恒星旋转的行星的方式之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planets orbiting other stars.
+Dialogue: 0,0:35:23.79,0:35:25.99,*Default,NTP,0000,0000,0000,,这种诱人的可能性由于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The tantalizing possibility is tempered
+Dialogue: 0,0:35:26.09,0:35:29.00,*Default,NTP,0000,0000,0000,,实行起来过于困难而令人气馁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the daunting problem of actually making it work.
+Dialogue: 0,0:35:29.93,0:35:32.73,*Default,NTP,0000,0000,0000,,发现一颗从恒星前面穿过的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Finding a planet transiting in front of its star
+Dialogue: 0,0:35:32.80,0:35:36.65,*Default,NTP,0000,0000,0000,,就像看见一只跳蚤穿过车前灯一样稀罕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is like seeing a flea crawling across an auto's headlight.
+Dialogue: 0,0:35:39.47,0:35:42.17,*Default,NTP,0000,0000,0000,,但是科学发展日新月异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But science is rising to the challenge
+Dialogue: 0,0:35:42.27,0:35:45.49,*Default,NTP,0000,0000,0000,,新的太空望远镜在观察微小的蚀现象方面有所改善\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and new space telescopes trained on the tiny eclipses
+Dialogue: 0,0:35:45.55,0:35:50.61,*Default,NTP,0000,0000,0000,,为发现围绕远距离恒星的行星提供了条件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that uncover planets around distant stars are about to strike gold.
+Dialogue: 0,0:35:51.82,0:35:53.62,*Default,NTP,0000,0000,0000,,几个世纪的疑惑之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After centuries of wondering,
+Dialogue: 0,0:35:53.65,0:35:57.56,*Default,NTP,0000,0000,0000,,在宇宙深处发现第二个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the discovery of another Earth in the depths of space
+Dialogue: 0,0:35:57.66,0:36:00.06,*Default,NTP,0000,0000,0000,,突然变得触手可及\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is suddenly within reach.
+Dialogue: 0,0:36:04.31,0:36:06.51,*Default,NTP,0000,0000,0000,,如果对于蚀的研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the search for eclipses
+Dialogue: 0,0:36:06.58,0:36:09.93,*Default,NTP,0000,0000,0000,,是从地球上最壮观的日食开始的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}starts with the most spectacular examples here on Earth,
+Dialogue: 0,0:36:11.15,0:36:15.04,*Default,NTP,0000,0000,0000,,将我们的观察转向太空  发现了其他的蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}turning our view out into space reveals other eclipses,
+Dialogue: 0,0:36:15.79,0:36:20.77,*Default,NTP,0000,0000,0000,,不仅在太阳系内  而且更远得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not only in the solar system but far beyond,
+Dialogue: 0,0:36:21.86,0:36:25.78,*Default,NTP,0000,0000,0000,,它们有助于解决天文学的研究热点之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where they're key to one of astronomy's hottest pursuits,
+Dialogue: 0,0:36:26.14,0:36:28.82,*Default,NTP,0000,0000,0000,,即追踪太阳系外的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the hunt for extra-solar planets.
+Dialogue: 0,0:36:30.36,0:36:33.34,*Default,NTP,0000,0000,0000,,就是现在  一种非常重要的蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a very important kind of eclipse right now
+Dialogue: 0,0:36:33.40,0:36:37.21,*Default,NTP,0000,0000,0000,,就是当一颗太阳系外  围绕另一颗恒星的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the eclipse that occurs when an extra-solar planet,
+Dialogue: 0,0:36:35.47,0:36:39.51,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格雷格·拉芙琳\N加利福尼亚大学  圣克鲁兹
+Dialogue: 0,0:36:37.24,0:36:41.86,*Default,NTP,0000,0000,0000,,从恒星前面经过  这时候发生的蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a planet orbiting another star passes in front of the parent star.
+Dialogue: 0,0:36:42.58,0:36:46.08,*Default,NTP,0000,0000,0000,,这需要非常灵敏的望远镜才能探测到如此微小的亮度变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It takes a very sensitive telescope to detect that slight dimming.
+Dialogue: 0,0:36:51.69,0:36:54.06,*Default,NTP,0000,0000,0000,,现在最著名的望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most famous telescope project right now
+Dialogue: 0,0:36:54.19,0:36:55.76,*Default,NTP,0000,0000,0000,,就是开普勒天文望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the Kepler space telescope
+Dialogue: 0,0:36:55.86,0:37:01.76,*Default,NTP,0000,0000,0000,,它正在太空中观察着超过十万颗像太阳一样的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is out there in space looking at over 100,000 sun-like stars
+Dialogue: 0,0:37:01.87,0:37:03.77,*Default,NTP,0000,0000,0000,,而且已经观察了好多年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and watching over a period of years
+Dialogue: 0,0:37:03.87,0:37:06.30,*Default,NTP,0000,0000,0000,,等待真正的像地球一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the transits of actually Earth-like,
+Dialogue: 0,0:37:06.40,0:37:09.13,*Default,NTP,0000,0000,0000,,并且像地球一样大小的行星从那些恒星前面经过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth-sized planets going in front of those stars.
+Dialogue: 0,0:37:13.44,0:37:15.95,*Default,NTP,0000,0000,0000,,如果我们能够找到围绕其他恒星的行星就太好了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'd be great if we could find planets orbiting other stars
+Dialogue: 0,0:37:15.98,0:37:18.61,*Default,NTP,0000,0000,0000,,只需要一架望远镜观测太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by simply pointing a telescope up into the sky
+Dialogue: 0,0:37:18.72,0:37:20.04,*Default,NTP,0000,0000,0000,,然后拍张图片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and taking a picture of one.
+Dialogue: 0,0:37:20.88,0:37:21.93,*Default,NTP,0000,0000,0000,,但是真的很难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that's really tough.
+Dialogue: 0,0:37:22.52,0:37:24.25,*Default,NTP,0000,0000,0000,,引起困难的原因之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the reasons that that's really tough
+Dialogue: 0,0:37:22.52,0:37:26.50,*Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}娜塔莉·巴塔哈\N圣何塞州立大学
+Dialogue: 0,0:37:24.51,0:37:26.32,*Default,NTP,0000,0000,0000,,因为这些恒星比绕着它转的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is because the stars are about 10 million
+Dialogue: 0,0:37:26.32,0:37:29.60,*Default,NTP,0000,0000,0000,,要亮一千万至一百亿倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to 10 billion times brighter than the planets that orbit them.
+Dialogue: 0,0:37:30.43,0:37:32.97,*Default,NTP,0000,0000,0000,,我用这台探照灯就能简单地演示出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can demonstrate that really easily with this searchlight.
+Dialogue: 0,0:37:33.43,0:37:34.87,*Default,NTP,0000,0000,0000,,当我把灯打开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When I turn it on,
+Dialogue: 0,0:37:36.27,0:37:39.44,*Default,NTP,0000,0000,0000,,你会发现我完全消失在了耀眼的灯光中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you see that I become completely lost in the glare of this light,
+Dialogue: 0,0:37:39.50,0:37:42.41,*Default,NTP,0000,0000,0000,,就如同行星消失在它围绕的恒星所发出的光芒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just as a planet is lost in the glare of the star that it orbits.
+Dialogue: 0,0:37:46.88,0:37:49.51,*Default,NTP,0000,0000,0000,,开普勒的任务是测量恒星的亮度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler's job is to measure the brightnesses of stars,
+Dialogue: 0,0:37:49.61,0:37:52.62,*Default,NTP,0000,0000,0000,,就像我们用测光表测量这台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like we can do with this light meter and our simulated star,
+Dialogue: 0,0:37:52.68,0:37:53.58,*Default,NTP,0000,0000,0000,,模拟恒星的探照灯一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the searchlight.
+Dialogue: 0,0:37:54.89,0:37:57.35,*Default,NTP,0000,0000,0000,,这便是蚀现象在任务中扮演的角色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is how eclipses figure into the mission.
+Dialogue: 0,0:37:58.12,0:38:00.69,*Default,NTP,0000,0000,0000,,当物体从探照灯前经过  产生了蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The light meter's needle dips when something passes
+Dialogue: 0,0:38:00.79,0:38:03.71,*Default,NTP,0000,0000,0000,,测光表的指针便会偏转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in front of the searchlight, creating an eclipse.
+Dialogue: 0,0:38:06.16,0:38:08.13,*Default,NTP,0000,0000,0000,,这与开普勒的工作原理如出一辙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler does the same thing,
+Dialogue: 0,0:38:08.20,0:38:09.28,*Default,NTP,0000,0000,0000,,但它要敏感得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but is so sensitive
+Dialogue: 0,0:38:09.28,0:38:12.69,*Default,NTP,0000,0000,0000,,它能侦测到百万分之二十的亮度变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it can detect a dip of 20 parts per million.
+Dialogue: 0,0:38:14.54,0:38:16.27,*Default,NTP,0000,0000,0000,,开普勒能够侦测到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler is capable of detecting
+Dialogue: 0,0:38:16.31,0:38:20.11,*Default,NTP,0000,0000,0000,,适居带内围绕类日恒星运行的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an Earth-sized planet around a Sun-like star
+Dialogue: 0,0:38:20.18,0:38:21.38,*Default,NTP,0000,0000,0000,,与地球大小相近的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the habitable zone.
+Dialogue: 0,0:38:21.48,0:38:23.48,*Default,NTP,0000,0000,0000,,也就是一个真正的类日地系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So a real Earth-Sun analog,
+Dialogue: 0,0:38:23.58,0:38:24.85,*Default,NTP,0000,0000,0000,,这是开普勒能力所及的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's what Kepler is capable of doing.
+Dialogue: 0,0:38:24.92,0:38:28.10,*Default,NTP,0000,0000,0000,,这也是它能精确完成的第一个任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's the first mission that's capable of doing exactly that.
+Dialogue: 0,0:38:30.85,0:38:33.82,*Default,NTP,0000,0000,0000,,开普勒瞄准了银河系中的一片区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler is trained on an area of the galaxy containing
+Dialogue: 0,0:38:33.86,0:38:36.35,*Default,NTP,0000,0000,0000,,那里大约有15万颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 150,000 stars.
+Dialogue: 0,0:38:38.63,0:38:40.91,*Default,NTP,0000,0000,0000,,它不间断地监视着每颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it monitors every one of them constantly,
+Dialogue: 0,0:38:41.01,0:38:45.01,*Default,NTP,0000,0000,0000,,每隔30分钟测量一次每颗恒星的亮度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}measuring each star's brightness every 30 minutes,
+Dialogue: 0,0:38:45.90,0:38:48.74,*Default,NTP,0000,0000,0000,,希望能侦测到由围绕其中一些恒星运行的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hoping to detect those minute eclipses
+Dialogue: 0,0:38:48.84,0:38:50.86,*Default,NTP,0000,0000,0000,,引起的蚀现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}caused by planets around some of them.
+Dialogue: 0,0:38:52.91,0:38:55.84,*Default,NTP,0000,0000,0000,,只有一小部分的行星  能出现在适当的位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just a small fraction of them will be in the right position
+Dialogue: 0,0:38:55.91,0:38:58.53,*Default,NTP,0000,0000,0000,,使我们看见行星凌日现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for us to see their planetary transits.
+Dialogue: 0,0:39:00.65,0:39:03.55,*Default,NTP,0000,0000,0000,,在天空中大部分恒星的行星系统中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the stars in the sky that have planetary systems
+Dialogue: 0,0:39:03.65,0:39:05.15,*Default,NTP,0000,0000,0000,,都不会出现凌日现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}don't undergo transits.
+Dialogue: 0,0:39:05.56,0:39:08.82,*Default,NTP,0000,0000,0000,,只有当我们十分幸运地碰到这样一种情形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's only if we have a lucky chance alignment
+Dialogue: 0,0:39:08.93,0:39:11.56,*Default,NTP,0000,0000,0000,,就是行星的轨道平面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the orbital plane of the planet
+Dialogue: 0,0:39:11.66,0:39:13.76,*Default,NTP,0000,0000,0000,,与我们的视线平齐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is along our line of sight
+Dialogue: 0,0:39:13.83,0:39:16.83,*Default,NTP,0000,0000,0000,,或处在地球视线可见范围内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or contains our line of sight to the Earth
+Dialogue: 0,0:39:16.93,0:39:21.20,*Default,NTP,0000,0000,0000,,才能看到行星运行到恒星前时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we can actually see when the planet goes in front of the star
+Dialogue: 0,0:39:21.27,0:39:23.57,*Default,NTP,0000,0000,0000,,遮蔽了恒星的部分光芒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and dims out some of the star's light.
+Dialogue: 0,0:39:25.64,0:39:28.64,*Default,NTP,0000,0000,0000,,这遥远的光影组合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The very distant combination of light and shadow
+Dialogue: 0,0:39:28.75,0:39:32.38,*Default,NTP,0000,0000,0000,,为每次凌日交织出一条的光变指示曲线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}produces for each transit a telltale light curve
+Dialogue: 0,0:39:32.45,0:39:34.55,*Default,NTP,0000,0000,0000,,它显示了行星从恒星前穿过时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}showing the dip in brightness
+Dialogue: 0,0:39:34.58,0:39:36.67,*Default,NTP,0000,0000,0000,,亮度的减弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the planet crosses in front of its sun.
+Dialogue: 0,0:39:38.39,0:39:41.77,*Default,NTP,0000,0000,0000,,仅仅工作了几个月后  开普勒就有了发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler produced results after only a few months on the job.
+Dialogue: 0,0:39:43.39,0:39:46.06,*Default,NTP,0000,0000,0000,,我们观察了第一批光变曲线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We looked at our very first light curves.
+Dialogue: 0,0:39:46.66,0:39:48.73,*Default,NTP,0000,0000,0000,,很快便发现了凌日现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could see transits immediately.
+Dialogue: 0,0:39:48.80,0:39:50.67,*Default,NTP,0000,0000,0000,,某些行星就这么突然从我们面前冒了出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, some of them just popped right out at us.
+Dialogue: 0,0:39:51.80,0:39:54.12,*Default,NTP,0000,0000,0000,,航天器的表现堪称完美\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The spacecraft was performing flawlessly.
+Dialogue: 0,0:39:54.57,0:39:55.76,*Default,NTP,0000,0000,0000,,传回的数据相当惊艳    \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The data was beautiful.
+Dialogue: 0,0:39:56.45,0:39:57.52,*Default,NTP,0000,0000,0000,,我们一直想达到一个精准的层面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right out of the gate,
+Dialogue: 0,0:39:57.57,0:39:58.74,*Default,NTP,0000,0000,0000,,以实现我们最初的期望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we were reaching the precision levels
+Dialogue: 0,0:39:58.84,0:40:01.29,*Default,NTP,0000,0000,0000,,现在我们离它只有一步之遥了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}very close to what we expected at the beginning.
+Dialogue: 0,0:40:04.71,0:40:06.82,*Default,NTP,0000,0000,0000,,2010年1月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In January 2010,
+Dialogue: 0,0:40:06.92,0:40:08.42,*Default,NTP,0000,0000,0000,,开普勒团队宣布  \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Kepler team announced
+Dialogue: 0,0:40:08.43,0:40:11.03,*Default,NTP,0000,0000,0000,,发现了5颗符合任务要求的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the discovery of the mission's first five planets.
+Dialogue: 0,0:40:13.23,0:40:15.24,*Default,NTP,0000,0000,0000,,四颗像木星一样巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}four are gas giants like Jupiter,
+Dialogue: 0,0:40:16.26,0:40:18.22,*Default,NTP,0000,0000,0000,,第五颗  与海王星一般大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the fifth, the size of Neptune.
+Dialogue: 0,0:40:20.56,0:40:22.57,*Default,NTP,0000,0000,0000,,开普勒在第一周的搜寻中  \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler saw their transits many times
+Dialogue: 0,0:40:22.57,0:40:24.20,*Default,NTP,0000,0000,0000,,就多次侦测到它们的凌日现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in its first weeks of searching.
+Dialogue: 0,0:40:25.47,0:40:28.80,*Default,NTP,0000,0000,0000,,这意味着  它们的公转周期只有几天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It means they orbit their stars in a matter of days,
+Dialogue: 0,0:40:28.91,0:40:31.32,*Default,NTP,0000,0000,0000,,每次都会使它们的恒星形成蚀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eclipsing their stars each time.
+Dialogue: 0,0:40:33.48,0:40:35.81,*Default,NTP,0000,0000,0000,,这些行星很接近它们的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These things are closer to their parent star,
+Dialogue: 0,0:40:35.91,0:40:37.81,*Default,NTP,0000,0000,0000,,大概比水星到太阳的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 10 times closer to their parent star
+Dialogue: 0,0:40:37.91,0:40:39.62,*Default,NTP,0000,0000,0000,,还要近10倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than Mercury is to our Sun.
+Dialogue: 0,0:40:40.92,0:40:42.98,*Default,NTP,0000,0000,0000,,而且水星是离太阳最近的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And Mercury is the closest planet to our Sun.
+Dialogue: 0,0:40:45.92,0:40:47.62,*Default,NTP,0000,0000,0000,,但开普勒最终的目标之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But one of Kepler's ultimate goals
+Dialogue: 0,0:40:47.72,0:40:52.19,*Default,NTP,0000,0000,0000,,是寻找围绕类日恒星旋转的类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is to find Earth-like planets around Sun-like stars,
+Dialogue: 0,0:40:52.26,0:40:54.63,*Default,NTP,0000,0000,0000,,这需要更长时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that takes longer,
+Dialogue: 0,0:40:54.70,0:40:58.68,*Default,NTP,0000,0000,0000,,因为它们的公转周期会与地球类似...即一年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since they will orbit on time scales like our own... once a year.
+Dialogue: 0,0:41:00.17,0:41:03.61,*Default,NTP,0000,0000,0000,,一颗围绕类日恒星旋转的类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An Earth-like planet around a Sun-like star
+Dialogue: 0,0:41:03.64,0:41:08.44,*Default,NTP,0000,0000,0000,,将会减弱恒星亮度的万分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is going to produce a dimming of one part per 10,000.
+Dialogue: 0,0:41:08.55,0:41:10.81,*Default,NTP,0000,0000,0000,,这信号相当微弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's a very tiny signal.
+Dialogue: 0,0:41:10.88,0:41:12.82,*Default,NTP,0000,0000,0000,,如果这发生在适居带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it's in the habitable zone,
+Dialogue: 0,0:41:12.92,0:41:16.65,*Default,NTP,0000,0000,0000,,这种凌日信号将持续12小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that signal, the transit is going to last 12 hours
+Dialogue: 0,0:41:16.79,0:41:19.09,*Default,NTP,0000,0000,0000,,一年出现一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and would repeat once every year,
+Dialogue: 0,0:41:19.19,0:41:20.83,*Default,NTP,0000,0000,0000,,而不是三天一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not once every three days.
+Dialogue: 0,0:41:21.46,0:41:22.79,*Default,NTP,0000,0000,0000,,因此你必须一直盯着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you have to stare.
+Dialogue: 0,0:41:22.83,0:41:24.53,*Default,NTP,0000,0000,0000,,持之以恒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have to have stability.
+Dialogue: 0,0:41:24.63,0:41:27.76,*Default,NTP,0000,0000,0000,,你要观测一整年才能等到一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You stare for a whole year and you wait for an event that happens
+Dialogue: 0,0:41:27.80,0:41:30.78,*Default,NTP,0000,0000,0000,,它只持续12个小时  而且相当微小  \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and lasts 12 hours and is very, very tiny,
+Dialogue: 0,0:41:30.78,0:41:32.47,*Default,NTP,0000,0000,0000,,只有万分之一的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&} one part per 10,000.
+Dialogue: 0,0:41:34.77,0:41:37.31,*Default,NTP,0000,0000,0000,,当开普勒观测到合适的光变曲线时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When Kepler spots the right kind of light curve,
+Dialogue: 0,0:41:37.34,0:41:40.07,*Default,NTP,0000,0000,0000,,地面上的大型望远镜也不甘落后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}large telescopes on the ground follow up.
+Dialogue: 0,0:41:41.24,0:41:42.61,*Default,NTP,0000,0000,0000,,它们进行其他测量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They take additional measurements
+Dialogue: 0,0:41:42.68,0:41:45.32,*Default,NTP,0000,0000,0000,,以确保这些蚀现象是由行星引起的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be sure the eclipses are caused by planets.
+Dialogue: 0,0:41:45.95,0:41:48.24,*Default,NTP,0000,0000,0000,,这意味着要排查大量数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It means weeding through a lot of data.
+Dialogue: 0,0:41:50.85,0:41:57.48,*Default,NTP,0000,0000,0000,,截至2010年6月  我们有将近700颗备选行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As of June 2010, we had approximately 700 planet candidates.
+Dialogue: 0,0:42:00.86,0:42:02.70,*Default,NTP,0000,0000,0000,,地面望远镜进行的确认工作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The confirmation work now being done
+Dialogue: 0,0:42:02.77,0:42:06.67,*Default,NTP,0000,0000,0000,,痛苦而又漫长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by ground telescopes is painfully slow
+Dialogue: 0,0:42:06.70,0:42:09.48,*Default,NTP,0000,0000,0000,,而且还将持续几个月甚至几年的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and will continue for months and years to come.
+Dialogue: 0,0:42:10.77,0:42:12.47,*Default,NTP,0000,0000,0000,,随着侦测不断地进行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the process continues,
+Dialogue: 0,0:42:12.51,0:42:14.41,*Default,NTP,0000,0000,0000,,开普勒发现的行星数目\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler's planet list is expected
+Dialogue: 0,0:42:14.51,0:42:18.25,*Default,NTP,0000,0000,0000,,将很快增长至数十上百个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to grow to dozens soon and later hundreds.
+Dialogue: 0,0:42:20.22,0:42:23.22,*Default,NTP,0000,0000,0000,,要验证开普勒的成功率多半靠猜测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Measuring Kepler's success rate is guesswork.
+Dialogue: 0,0:42:23.32,0:42:26.69,*Default,NTP,0000,0000,0000,,但可能有多达50%的备选星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as many as 50% or more of its candidates may turn out
+Dialogue: 0,0:42:26.79,0:42:29.00,*Default,NTP,0000,0000,0000,,都是真正的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be actual planets.
+Dialogue: 0,0:42:32.83,0:42:37.13,*Default,NTP,0000,0000,0000,,在长达六年的时间里  开普勒将一直搜寻细微蚀现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler will search for tiny eclipses for as long as six years,
+Dialogue: 0,0:42:37.23,0:42:40.57,*Default,NTP,0000,0000,0000,,它积累的银河系中的行星资料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}accumulating a census of planets in our galaxy more complete
+Dialogue: 0,0:42:40.67,0:42:42.61,*Default,NTP,0000,0000,0000,,比此前汇编的任何资料都完整\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than any compiled so far.
+Dialogue: 0,0:42:45.78,0:42:47.18,*Default,NTP,0000,0000,0000,,开普勒会使我们明确\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler is going to determine
+Dialogue: 0,0:42:47.18,0:42:49.75,*Default,NTP,0000,0000,0000,,类地行星是普遍存在还是稀少罕见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if Earth-like planets are common or rare,
+Dialogue: 0,0:42:49.85,0:42:53.12,*Default,NTP,0000,0000,0000,,不管答案如何  都会很有意思\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the answer either way is going to be very interesting.
+Dialogue: 0,0:42:53.92,0:42:55.55,*Default,NTP,0000,0000,0000,,如果它们十分罕见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it turns out that they're rare,
+Dialogue: 0,0:42:55.65,0:43:00.51,*Default,NTP,0000,0000,0000,,那说明我们在银河系中是多么与众不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that speaks to how special we are in the galaxy.
+Dialogue: 0,0:43:01.66,0:43:03.56,*Default,NTP,0000,0000,0000,,但是我们有理由相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, we have reason to believe
+Dialogue: 0,0:43:03.63,0:43:05.06,*Default,NTP,0000,0000,0000,,它们并不是银河系中的稀客\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they're going to be frequent.
+Dialogue: 0,0:43:05.16,0:43:07.20,*Default,NTP,0000,0000,0000,,我们都有点盲目乐观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think we're all kind of closet optimists
+Dialogue: 0,0:43:07.26,0:43:09.26,*Default,NTP,0000,0000,0000,,认为它们将会十分普遍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they're going to be very common.
+Dialogue: 0,0:43:09.83,0:43:11.17,*Default,NTP,0000,0000,0000,,不过我们不清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we don't know.
+Dialogue: 0,0:43:11.20,0:43:12.93,*Default,NTP,0000,0000,0000,,我们还没有答案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't have the answer yet.
+Dialogue: 0,0:43:15.64,0:43:21.61,*Default,NTP,0000,0000,0000,,在探寻围绕其它恒星运行的类地行星的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this, the discovery of Earth-like planets around others stars,
+Dialogue: 0,0:43:21.71,0:43:26.55,*Default,NTP,0000,0000,0000,,蚀现象将成为实现这一切的关键工具\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eclipses will be the tools making it possible,
+Dialogue: 0,0:43:26.55,0:43:27.92,*Default,NTP,0000,0000,0000,,这与那些见证日食的追寻者寻求的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}far removed from the sensory thrill
+Dialogue: 0,0:43:27.98,0:43:31.57,*Default,NTP,0000,0000,0000,,感官刺激有天壤之别\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the chasers seek in witnessing the Moon block out our Sun.
+Dialogue: 0,0:43:34.22,0:43:36.69,*Default,NTP,0000,0000,0000,,外太空的蚀现象也许将指引我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eclipses in deep space may lead us
+Dialogue: 0,0:43:36.76,0:43:40.23,*Default,NTP,0000,0000,0000,,获取我们世界  乃至整个宇宙的终极知识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the ultimate knowledge of our place in the cosmos.
+Dialogue: 0,0:43:42.13,0:43:46.25,*Default,NTP,0000,0000,0000,,用挡住宇宙中最耀眼天体的光芒的办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By blocking out the light from some of the most luminous objects in creation,
+Dialogue: 0,0:43:47.21,0:43:51.09,*Default,NTP,0000,0000,0000,,就像是发出一声振聋发聩的呐喊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it is as if we are screaming out the deafening noise
+Dialogue: 0,0:43:53.41,0:43:54.76,*Default,NTP,0000,0000,0000,,现在  人们听到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and are now hearing
+Dialogue: 0,0:43:54.76,0:43:59.61,*Default,NTP,0000,0000,0000,,只是宇宙那隐秘并充满揭示意义的窃窃私语\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only the secret and revealing whispers of the universe.

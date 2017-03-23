@@ -1,0 +1,660 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.67,0:00:08.14,*Default,NTP,0000,0000,0000,,地球 太阳系里唯一有生命的行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth, the only life sustaining planet in our solar system.
+Dialogue: 0,0:00:10.96,0:00:16.26,*Default,NTP,0000,0000,0000,,然而 纵贯我们世界的整个历史都是行星的出气桶 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet throughout its history our world has been a planetary punching bag.
+Dialogue: 0,0:00:17.21,0:00:19.63,*Default,NTP,0000,0000,0000,,任何东西穿越地球的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Anything that crosses the orbit of Earth
+Dialogue: 0,0:00:20.09,0:00:22.07,*Default,NTP,0000,0000,0000,,都会在一天内轰击地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could one day slam into the Earth.
+Dialogue: 0,0:00:24.87,0:00:29.32,*Default,NTP,0000,0000,0000,,在这非常的时刻 天体重物漫游在宇宙间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At this very moment, violent celestial heavyweights roam the Universe
+Dialogue: 0,0:00:29.48,0:00:32.11,*Default,NTP,0000,0000,0000,,给予地球毁灭性打击的威胁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and threaten to deal the Earth a knockout blow.
+Dialogue: 0,0:00:33.45,0:00:37.07,*Default,NTP,0000,0000,0000,,力量就象全世界的武器在同一时间爆炸一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The power would be like setting off the whole world's armament at one time,
+Dialogue: 0,0:00:37.74,0:00:40.85,*Default,NTP,0000,0000,0000,,全世界会面临下一个广岛 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and would be like standing next to Hiroshima all over the world.
+Dialogue: 0,0:00:41.21,0:00:43.81,*Default,NTP,0000,0000,0000,,我们的一切都将粉碎 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everything in us will get ripped apart
+Dialogue: 0,0:00:44.37,0:00:47.05,*Default,NTP,0000,0000,0000,,你的身躯将会飞进遥远的空间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and all of your body would fly off to infinity.
+Dialogue: 0,0:00:49.62,0:00:51.94,*Default,NTP,0000,0000,0000,,然而一些科学家和前宇航员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But some scientists and former astronauts
+Dialogue: 0,0:00:52.04,0:00:54.50,*Default,NTP,0000,0000,0000,,没有留下来战斗的愿意 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are not willing to go down without a fight.
+Dialogue: 0,0:00:55.24,0:00:58.37,*Default,NTP,0000,0000,0000,,他们在引发世界末日善恶决战之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're racing to track down these cosmic killers
+Dialogue: 0,0:00:58.49,0:01:01.23,*Default,NTP,0000,0000,0000,,竞相搜索这些宇宙杀手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before they trigger Armageddon.
+Dialogue: 0,0:01:03.00,0:01:08.00,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:09.00,0:01:14.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}历史频道·宇宙第一季第3集 地球末日\N影片压制:暮云春树  字幕来源：射手网 调校：TIAN@CMCT 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:21.71,0:01:25.60,*Default,NTP,0000,0000,0000,,地球 象颗太阳系里闪烁的蓝宝石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth, shimmers like a sapphire jewel in our solar system.
+Dialogue: 0,0:01:29.72,0:01:31.28,*Default,NTP,0000,0000,0000,,我们每天四处奔波 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We go about our days,
+Dialogue: 0,0:01:32.82,0:01:36.37,*Default,NTP,0000,0000,0000,,没有意识到 在遥远的太空里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unaware that, in the far reaches of space,
+Dialogue: 0,0:01:38.42,0:01:40.67,*Default,NTP,0000,0000,0000,,麻烦会挡住我们的路 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}trouble could be headed our way.
+Dialogue: 0,0:01:57.27,0:01:59.60,*Default,NTP,0000,0000,0000,,太阳系很大程度象个游乐园 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our solar system is a lot like an amusement park.
+Dialogue: 0,0:02:00.12,0:02:03.68,*Default,NTP,0000,0000,0000,,地球和大多数的行星按照预定的轨道围绕太阳运行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth and most of the other objects carve predictable paths around the Sun.
+Dialogue: 0,0:02:04.53,0:02:06.49,*Default,NTP,0000,0000,0000,,通常 一切风平浪静 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Normally everything is calm and smooth,
+Dialogue: 0,0:02:08.11,0:02:10.30,*Default,NTP,0000,0000,0000,,但有时会混乱激烈 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but at times things get chaotic and violent.
+Dialogue: 0,0:02:16.39,0:02:20.34,*Default,NTP,0000,0000,0000,,地球会被太空石块撞击 被致命的太空气象攻击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth can be slammed by space rocks, zapped by deadly space weather,
+Dialogue: 0,0:02:20.56,0:02:22.44,*Default,NTP,0000,0000,0000,,被宇宙物体的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}jolted, jostled and threatened
+Dialogue: 0,0:02:22.54,0:02:25.21,*Default,NTP,0000,0000,0000,,摇动 挤压和威胁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the object's energy and forces of the cosmic.
+Dialogue: 0,0:02:27.66,0:02:30.10,*Default,NTP,0000,0000,0000,,地球骑在宇宙兴奋的马背上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth is on a cosmic thrill ride,
+Dialogue: 0,0:02:30.59,0:02:33.00,*Default,NTP,0000,0000,0000,,经常笼罩在极端危险之中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one that often involves extreme danger.
+Dialogue: 0,0:02:34.60,0:02:37.23,*Default,NTP,0000,0000,0000,,当我们按照预定的轨道快速移动的时候 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you're moving fast in on a pre-determined path,
+Dialogue: 0,0:02:37.44,0:02:40.06,*Default,NTP,0000,0000,0000,,希望没有东西横过 是因为你无法做什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you hope nothing crosses, because there's nothing you can do.
+Dialogue: 0,0:02:42.80,0:02:45.74,*Default,NTP,0000,0000,0000,,尼加拉瓜边界沿着右下方…\NNicaraguan border is right down along…
+Dialogue: 0,0:02:45.97,0:02:49.20,*Default,NTP,0000,0000,0000,,前宇航员拉塞尔·施威卡特掌握着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Former astronaut Rusty Schweickart knows first hand
+Dialogue: 0,0:02:49.33,0:02:51.88,*Default,NTP,0000,0000,0000,,天上的物体会造成什么的第一手情况 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how dangerous celestial objects can be.
+Dialogue: 0,0:02:53.27,0:02:58.48,*Default,NTP,0000,0000,0000,,1969年他操纵过阿波罗9号的登月舱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1969 he piloted the lunar module during the Apollo 9 mission.
+Dialogue: 0,0:02:59.84,0:03:03.46,*Default,NTP,0000,0000,0000,,现在施威卡特准备更多的宇宙航行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now Schweickart is ready for more than a cruise to the cosmos.
+Dialogue: 0,0:03:03.89,0:03:07.74,*Default,NTP,0000,0000,0000,,他发出过一颗特别的小行星的威胁的警报 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's sounding alarms about the dangers of one particular asteroid,
+Dialogue: 0,0:03:07.84,0:03:09.24,*Default,NTP,0000,0000,0000,,小行星名叫阿波菲斯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}named Apophis,
+Dialogue: 0,0:03:09.65,0:03:12.64,*Default,NTP,0000,0000,0000,,在2004年太靠近地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which got too close for comfort in 2004.
+Dialogue: 0,0:03:14.14,0:03:16.36,*Default,NTP,0000,0000,0000,,他立即引起了每个人的关注 因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He had immediately got everybody's attention, because
+Dialogue: 0,0:03:16.46,0:03:18.63,*Default,NTP,0000,0000,0000,,遭到碰撞的可能性非常的高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the probability of impact was quite high.
+Dialogue: 0,0:03:18.73,0:03:21.92,*Default,NTP,0000,0000,0000,,事实上比任何一次撞击概率更高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact it was higher than any impact probability
+Dialogue: 0,0:03:22.02,0:03:24.25,*Default,NTP,0000,0000,0000,,比那时以前碰到过的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we had ever seen up until that time.
+Dialogue: 0,0:03:26.99,0:03:31.03,*Default,NTP,0000,0000,0000,,施威卡特有一个以前现实生活中的例子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And Schweickart has a terrifying real life example of just how damaging
+Dialogue: 0,0:03:31.17,0:03:34.95,*Default,NTP,0000,0000,0000,,就是一颗小行星造成的破坏 那要比阿波菲斯小得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an impact from an asteroid, even smaller than Apophis, could be.
+Dialogue: 0,0:03:40.27,0:03:44.10,*Default,NTP,0000,0000,0000,,那是在1908年6月30日上午7:15 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}June 30th 1908, 7:15 AM.
+Dialogue: 0,0:03:52.78,0:03:55.33,*Default,NTP,0000,0000,0000,,一个物体 有半个足球场那么大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An object, half the size of a football field,
+Dialogue: 0,0:03:55.44,0:03:59.29,*Default,NTP,0000,0000,0000,,从空中以每小时34000英里砸下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}plunged down from space at around 34,000 miles per hour.
+Dialogue: 0,0:03:59.39,0:04:02.13,*Default,NTP,0000,0000,0000,,它的后面拖着一股火焰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And produced a stream of fiery gas behind it.
+Dialogue: 0,0:04:03.06,0:04:06.19,*Default,NTP,0000,0000,0000,,几分钟里 火球进入了我们的大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within minutes, the fireball entered our atmosphere,
+Dialogue: 0,0:04:06.41,0:04:10.44,*Default,NTP,0000,0000,0000,,在西伯利亚通古斯加森林爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and violently exploded about Siberia's Tunguska forest.
+Dialogue: 0,0:04:15.98,0:04:20.32,*Default,NTP,0000,0000,0000,,成为现代人类历史中地球上最大的爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It became the largest explosion on Earth in modern human history.
+Dialogue: 0,0:04:21.47,0:04:24.88,*Default,NTP,0000,0000,0000,,爆炸形成冲击波 在大半个罗得岛的范围内 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The blast parted waves, which torched 8 million trees
+Dialogue: 0,0:04:24.98,0:04:27.33,*Default,NTP,0000,0000,0000,,点燃了800万棵树木 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in an area over half the size of Rhode Island.
+Dialogue: 0,0:04:29.32,0:04:32.65,*Default,NTP,0000,0000,0000,,幸运的是在那次爆炸中没有一人死亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately no one died as a direct result of the explosion,
+Dialogue: 0,0:04:32.87,0:04:35.14,*Default,NTP,0000,0000,0000,,这是因为那是一个人烟稀少的地区 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it was in a thinly populated area.
+Dialogue: 0,0:04:37.42,0:04:40.24,*Default,NTP,0000,0000,0000,,如果那个小行星晚几个小时撞击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If that asteroid hit just a few hours later,
+Dialogue: 0,0:04:41.01,0:04:43.85,*Default,NTP,0000,0000,0000,,就不会是西伯利亚 就会是整个欧洲 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would not have hit Siberia, it would have hit over Europe.
+Dialogue: 0,0:04:44.53,0:04:48.16,*Default,NTP,0000,0000,0000,,如果那次在欧洲任何一个主要城市上空爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if that had exploded midair over any of the major cities of Europe,
+Dialogue: 0,0:04:48.60,0:04:50.29,*Default,NTP,0000,0000,0000,,将会有一百万人死于灾难 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a million people would died like that.
+Dialogue: 0,0:04:53.56,0:04:55.08,*Default,NTP,0000,0000,0000,,在最近的一百年里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For the last hundred years,
+Dialogue: 0,0:04:55.18,0:04:58.35,*Default,NTP,0000,0000,0000,,通古斯加爆炸笼罩在争论之中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Tunguska explosion has been shrouded in controversy.
+Dialogue: 0,0:04:59.95,0:05:03.41,*Default,NTP,0000,0000,0000,,今天许多科学家同意是一颗小行星引起了爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today many scientists agree an asteroid cause the blast.
+Dialogue: 0,0:05:05.44,0:05:08.59,*Default,NTP,0000,0000,0000,,难以置信的是它没有撞击地面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Incredibly, it never even impacted the ground.
+Dialogue: 0,0:05:09.38,0:05:13.51,*Default,NTP,0000,0000,0000,,准确地说 是在西伯利亚冰封的大地上空5英里的地方爆炸的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rather, it exploded five miles above Siberia's frozen ground.
+Dialogue: 0,0:05:15.52,0:05:19.42,*Default,NTP,0000,0000,0000,,石质小行星在我们大气层是无法幸免的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A small stony asteroid can't survive the plaster of ours atmosphere.
+Dialogue: 0,0:05:19.80,0:05:21.64,*Default,NTP,0000,0000,0000,,当它进入大气层的下层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it smacks into the lower atmosphere,
+Dialogue: 0,0:05:21.74,0:05:23.37,*Default,NTP,0000,0000,0000,,每小时50000英里的速度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}doing about 50,000 miles an hour,
+Dialogue: 0,0:05:23.47,0:05:25.47,*Default,NTP,0000,0000,0000,,就象鸡蛋砸在混凝土上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's like an egg smashing on the concrete.
+Dialogue: 0,0:05:32.49,0:05:37.89,*Default,NTP,0000,0000,0000,,西伯利亚上空的爆炸释放的能量相当于15兆吨TNT \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The blast over Siberia released energy equivalent to 15 megatons of TNT,
+Dialogue: 0,0:05:38.26,0:05:40.94,*Default,NTP,0000,0000,0000,,比广岛原子弹大1000倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a thousand times greater than Hiroshima.
+Dialogue: 0,0:05:41.13,0:05:44.87,*Default,NTP,0000,0000,0000,,如果这发生在一个大城市 将会摧毁它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If this were to happen over a large city, it would annihilate it.
+Dialogue: 0,0:05:54.66,0:05:59.37,*Default,NTP,0000,0000,0000,,科学家把这些入侵者称为近地天体 NEOs \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists called these trespassers, Near Earth Objects, or NEOs.
+Dialogue: 0,0:06:01.84,0:06:03.49,*Default,NTP,0000,0000,0000,,它们是小行星和慧星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're asteroids and comets,
+Dialogue: 0,0:06:04.22,0:06:07.14,*Default,NTP,0000,0000,0000,,都是行星形成时的残留物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which are leftovers from the formation of the planets.
+Dialogue: 0,0:06:08.24,0:06:11.09,*Default,NTP,0000,0000,0000,,慧星在柯伊伯带的奥尔特云里移动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Comets move in the Oort Cloud in the Kuiper Belt,
+Dialogue: 0,0:06:11.25,0:06:13.12,*Default,NTP,0000,0000,0000,,超过海王星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is beyond the planet Neptune.
+Dialogue: 0,0:06:14.67,0:06:18.01,*Default,NTP,0000,0000,0000,,小行星在木星和火星之间游荡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Asteroids travel in a bend between Jupiter and Mars.
+Dialogue: 0,0:06:18.70,0:06:21.90,*Default,NTP,0000,0000,0000,,但它们的轨道十分随意 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But their orbital trip isn't always routine.
+Dialogue: 0,0:06:22.74,0:06:25.95,*Default,NTP,0000,0000,0000,,大多数的小行星的轨道靠近火星和木星之间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the asteroids orbit in a neat belt between Mars and Jupiter,
+Dialogue: 0,0:06:26.16,0:06:27.67,*Default,NTP,0000,0000,0000,,我们不担心那些 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we don't worry much about those.
+Dialogue: 0,0:06:27.77,0:06:30.12,*Default,NTP,0000,0000,0000,,但有一个跑出来 所有的物质和能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when one gets away, and all that mass and energy
+Dialogue: 0,0:06:30.22,0:06:33.04,*Default,NTP,0000,0000,0000,,就会朝向地球 那时天文学家就会感到忧虑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is headed towards Earth, that's when the astronomers start to worry.
+Dialogue: 0,0:06:37.17,0:06:40.70,*Default,NTP,0000,0000,0000,,经常会有宇宙残留物脱离其轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Often times these cosmic remnants get bumped out of her orbit,
+Dialogue: 0,0:06:41.31,0:06:43.92,*Default,NTP,0000,0000,0000,,跑入与地球相碰的路径 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and head on a collision course with Earth.
+Dialogue: 0,0:06:44.85,0:06:49.20,*Default,NTP,0000,0000,0000,,我们地球厚厚的大气层会蒸发其中的大部分 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our planet's thick atmosphere vaporizes the vast majority of it.
+Dialogue: 0,0:06:52.23,0:06:55.14,*Default,NTP,0000,0000,0000,,然而较大的物体会通过大气层造成撞击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But a larger object can knock through our atmosphere
+Dialogue: 0,0:06:55.24,0:06:57.48,*Default,NTP,0000,0000,0000,,甚至会撞击地面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and actually impact the ground.
+Dialogue: 0,0:07:01.16,0:07:02.80,*Default,NTP,0000,0000,0000,,如果你想回到宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you want to turn to the cosmos
+Dialogue: 0,0:07:02.90,0:07:04.96,*Default,NTP,0000,0000,0000,,看一下会给我们带来死亡的影响 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and look at the forces that would have us dead,
+Dialogue: 0,0:07:05.93,0:07:09.43,*Default,NTP,0000,0000,0000,,小行星攻击是真的坏东西 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}asteroids striking are real and they're bad.
+Dialogue: 0,0:07:10.54,0:07:12.75,*Default,NTP,0000,0000,0000,,它以前发生过 将来还会发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's happened before, it will happen again.
+Dialogue: 0,0:07:15.09,0:07:17.09,*Default,NTP,0000,0000,0000,,6500万年前 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}65 million years ago,
+Dialogue: 0,0:07:19.52,0:07:22.29,*Default,NTP,0000,0000,0000,,一颗小城市规模的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an asteroid the size of a small city
+Dialogue: 0,0:07:22.75,0:07:25.13,*Default,NTP,0000,0000,0000,,从空中落下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}plummeted down from the sky.
+Dialogue: 0,0:07:28.87,0:07:30.97,*Default,NTP,0000,0000,0000,,在犹卡坦半岛爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It exploded in the Yucatan peninsula
+Dialogue: 0,0:07:31.07,0:07:34.27,*Default,NTP,0000,0000,0000,,现在的齐克夏拉伯的墨西哥村庄 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}near the present day Mexican village of Chicxulub,
+Dialogue: 0,0:07:34.44,0:07:38.44,*Default,NTP,0000,0000,0000,,当量为一兆兆吨TNT \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the force of one hundred million megatons of TNT.
+Dialogue: 0,0:07:40.23,0:07:42.85,*Default,NTP,0000,0000,0000,,这里是地球…投下…\NHere's the Earth… cast…
+Dialogue: 0,0:07:43.14,0:07:46.45,*Default,NTP,0000,0000,0000,,数十亿吨地壳进入大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}billions of tons of Earth's crust into the atmosphere,
+Dialogue: 0,0:07:48.08,0:07:50.70,*Default,NTP,0000,0000,0000,,覆盖了地球 遮蔽了阳光 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cloaking Earth, blocking out sunlight,
+Dialogue: 0,0:07:50.80,0:07:52.57,*Default,NTP,0000,0000,0000,,淘汰了事物链的根基 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}knocking out the base of the food chain
+Dialogue: 0,0:07:52.67,0:07:55.84,*Default,NTP,0000,0000,0000,,发出的冲击波拦腰折断生命之树 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sending a wave of extinction across the tree of life.
+Dialogue: 0,0:07:57.69,0:07:59.85,*Default,NTP,0000,0000,0000,,这被认为是一次极度的撞击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is believed the ferocious impact
+Dialogue: 0,0:07:59.95,0:08:03.59,*Default,NTP,0000,0000,0000,,抛出的质量消灭了恐龙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}contributed to the mass extinction of the dinosaurs.
+Dialogue: 0,0:08:05.04,0:08:07.93,*Default,NTP,0000,0000,0000,,我们认为小行星是件坏事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can think of asteroids as being bad things,
+Dialogue: 0,0:08:08.34,0:08:11.61,*Default,NTP,0000,0000,0000,,但是如果不是小行星 就不会有我们的今天 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but if it were not for an asteroid we wouldn't be here today.
+Dialogue: 0,0:08:12.25,0:08:14.66,*Default,NTP,0000,0000,0000,,我们哺乳动物的祖先靠着双脚奔跑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our mammal ancestors were running on their foot,
+Dialogue: 0,0:08:14.76,0:08:17.63,*Default,NTP,0000,0000,0000,,试图避免成为暴龙的盘中餐 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}trying to avoid being hors d'oeuvres for T-rex.
+Dialogue: 0,0:08:19.59,0:08:21.55,*Default,NTP,0000,0000,0000,,暴龙出局了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}T-rex gets taken out.
+Dialogue: 0,0:08:21.97,0:08:26.79,*Default,NTP,0000,0000,0000,,这打开了一个生态环境 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well this opened up an ecological niche,
+Dialogue: 0,0:08:27.40,0:08:29.69,*Default,NTP,0000,0000,0000,,让哺乳动物的祖先得到进化成为 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that allowed our mammal ancestors to evolve
+Dialogue: 0,0:08:29.79,0:08:32.84,*Default,NTP,0000,0000,0000,,这是更重要的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to something more ambitious than a rout
+Dialogue: 0,0:08:33.42,0:08:37.99,*Default,NTP,0000,0000,0000,,灵长类 人类是灵长类之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and outcomes the primates and among the primates we have people.
+Dialogue: 0,0:08:39.53,0:08:42.39,*Default,NTP,0000,0000,0000,,宇宙陨石很有点讽刺性 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But ironically the very kind of cosmic boulder
+Dialogue: 0,0:08:42.49,0:08:44.96,*Default,NTP,0000,0000,0000,,为人类生存铺平了道路 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that paved the way for humans to exist,
+Dialogue: 0,0:08:45.23,0:08:48.20,*Default,NTP,0000,0000,0000,,可能有一天也把我们从地球上抹去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may one day wipe us off the planet.
+Dialogue: 0,0:08:55.96,0:09:00.89,*Default,NTP,0000,0000,0000,,1998年 国会敦促美国国家航空航天局探测所有的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1998 Congress urged NASA to detect all the Near Earth Objects
+Dialogue: 0,0:09:00.99,0:09:03.32,*Default,NTP,0000,0000,0000,,直径在半英里以上的近地天体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over a half mile in diameter or more.
+Dialogue: 0,0:09:05.22,0:09:07.44,*Default,NTP,0000,0000,0000,,他们的发现令人不安 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what they found was unsettling.
+Dialogue: 0,0:09:08.28,0:09:11.67,*Default,NTP,0000,0000,0000,,有超过850个近地天体在我们附近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over 850 NEOs in our vicinity.
+Dialogue: 0,0:09:13.54,0:09:15.49,*Default,NTP,0000,0000,0000,,这些小行星是太阳系里靠我们最近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These asteroids are our closest
+Dialogue: 0,0:09:15.59,0:09:18.59,*Default,NTP,0000,0000,0000,,和最危险的邻居 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and most dangerous neighbors in the solar system.
+Dialogue: 0,0:09:24.56,0:09:29.28,*Default,NTP,0000,0000,0000,,唐纳德·姚曼斯带领着美国国家航空航天局的喷气推进实验室里的近地天体项目组 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Donald Yeomans heads the NEO program at NASA's Jet Propulsion Laboratory.
+Dialogue: 0,0:09:29.51,0:09:31.31,*Default,NTP,0000,0000,0000,,他和他的宇宙赏金猎人们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He and his cosmic bounty hunters
+Dialogue: 0,0:09:31.41,0:09:34.89,*Default,NTP,0000,0000,0000,,搜索着埋伏在太阳系里的潜在杀手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}search for potential killers lurking in our solar system,
+Dialogue: 0,0:09:35.01,0:09:37.75,*Default,NTP,0000,0000,0000,,把它们列入通缉目录里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and put them on their most wanted list.
+Dialogue: 0,0:09:37.89,0:09:42.37,*Default,NTP,0000,0000,0000,,发现这些近地天体有点象跟踪飓风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Finding these Near Earth Objects is somewhat liken to tracking hurricanes.
+Dialogue: 0,0:09:42.74,0:09:46.03,*Default,NTP,0000,0000,0000,,随着日复一日的追踪 会得到其轨道的较好的概念 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As you track it, day after day, you get a better idea of its orbit,
+Dialogue: 0,0:09:46.13,0:09:49.57,*Default,NTP,0000,0000,0000,,就能预报其会到哪里 有多大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you can predict where it's going, you have a better idea how large it is
+Dialogue: 0,0:09:49.67,0:09:53.09,*Default,NTP,0000,0000,0000,,以及假如它撞击地球 会以什么样的速度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, if it should hit the Earth, with what sort of velocity.
+Dialogue: 0,0:09:54.67,0:09:57.12,*Default,NTP,0000,0000,0000,,靠着望远技术 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By using telescopic technologies
+Dialogue: 0,0:09:57.37,0:10:03.13,*Default,NTP,0000,0000,0000,,美国国家航空航天局的防卫监测已经探测到90%以上的疑似有害的近地天体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Spaceguard Survey has detected over 90% of all NEOs deemed harmful.
+Dialogue: 0,0:10:04.91,0:10:07.91,*Default,NTP,0000,0000,0000,,这些令人恐惧的天体会撞击地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These frightening objects could strike the Earth with the energy
+Dialogue: 0,0:10:08.01,0:10:11.25,*Default,NTP,0000,0000,0000,,其能量超过地球上现有的核武器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}greater than all the nuclear weapons on our planet today.
+Dialogue: 0,0:10:13.40,0:10:16.62,*Default,NTP,0000,0000,0000,,这样的撞击会引发毁灭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such an impact could trigger mass extinction.
+Dialogue: 0,0:10:17.52,0:10:18.81,*Default,NTP,0000,0000,0000,,我们无法预料数百 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We wouldn't expect one to hit about,
+Dialogue: 0,0:10:18.82,0:10:21.21,*Default,NTP,0000,0000,0000,,数千或者数百万年里会发生一次 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every several hundred,  thousand or millions of years,
+Dialogue: 0,0:10:21.69,0:10:26.96,*Default,NTP,0000,0000,0000,,但一旦发生 就会消灭不同的人种 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but if one did it, it could wipe out  different fraction of the population.
+Dialogue: 0,0:10:27.01,0:10:30.82,*Default,NTP,0000,0000,0000,,所以是个概率很低但后果严重的事件 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there are very low probability events but high consequence events.
+Dialogue: 0,0:10:32.11,0:10:35.67,*Default,NTP,0000,0000,0000,,如果撞击地球就是全球性的事情 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If they hit the Earth they would have global effects.
+Dialogue: 0,0:10:35.94,0:10:40.74,*Default,NTP,0000,0000,0000,,真的发生沉重的打击不仅会抹去大陆 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They not only would you wipe out a continent with really heavy shockwaves,
+Dialogue: 0,0:10:40.84,0:10:43.88,*Default,NTP,0000,0000,0000,,还会把陆地抛进大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the ejected would be thrown up in the air
+Dialogue: 0,0:10:43.98,0:10:46.03,*Default,NTP,0000,0000,0000,,然后掉下来覆盖地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and come down all around the planet,
+Dialogue: 0,0:10:46.24,0:10:50.46,*Default,NTP,0000,0000,0000,,大气层温度会达到大约1000度…\Nthe atmosphere itself would get to a thousand degrees or so…
+Dialogue: 0,0:10:50.57,0:10:53.69,*Default,NTP,0000,0000,0000,,所有地面上的植被\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And all the vegetation all over the world where that happens
+Dialogue: 0,0:10:53.79,0:10:56.15,*Default,NTP,0000,0000,0000,,会瞬间燃烧 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would flash into flames.
+Dialogue: 0,0:10:57.43,0:11:00.87,*Default,NTP,0000,0000,0000,,较小的物体也会引发灾难 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cataclysms could also occur with smaller objects,
+Dialogue: 0,0:11:03.14,0:11:08.40,*Default,NTP,0000,0000,0000,,所以国会要求美国国家航空航天局定位所有直径500英尺的近地天体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so Congress now asks NASA to locate all NEOs 500 feet in diameter,
+Dialogue: 0,0:11:08.71,0:11:11.15,*Default,NTP,0000,0000,0000,,象罗马大剧场那么宽 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as wide as the roman Colosseum.
+Dialogue: 0,0:11:11.48,0:11:17.08,*Default,NTP,0000,0000,0000,,大的天体会消灭首都甚至小的州 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An object that big could decimate a metropolitan area or even a small state.
+Dialogue: 0,0:11:18.82,0:11:23.21,*Default,NTP,0000,0000,0000,,科学家最担忧的不是已经发现的小行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what worries scientists most is not the asteroids they've discovered,
+Dialogue: 0,0:11:23.65,0:11:26.28,*Default,NTP,0000,0000,0000,,而是还没有被发现的那些 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the ones they have not yet found.
+Dialogue: 0,0:11:26.98,0:11:29.52,*Default,NTP,0000,0000,0000,,那个 在给定的时间里还有大约2000个天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, at the given time there's about 2000 objects
+Dialogue: 0,0:11:29.62,0:11:32.82,*Default,NTP,0000,0000,0000,,我们还无法排除其对地球的影响 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for which we can't yet rule out an Earth impact.
+Dialogue: 0,0:11:39.71,0:11:44.45,*Default,NTP,0000,0000,0000,,前宇航员施威卡特更进一步地看到了近地天体的威胁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Former astronaut Schweickart has taken the threat of NEOs one step further.
+Dialogue: 0,0:11:45.13,0:11:46.69,*Default,NTP,0000,0000,0000,,他来到国会前 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's up here before Congress
+Dialogue: 0,0:11:46.79,0:11:49.87,*Default,NTP,0000,0000,0000,,要求政府委派专员负责\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to request a special government agency be responsible
+Dialogue: 0,0:11:49.97,0:11:52.87,*Default,NTP,0000,0000,0000,,保护公众 对付太空石块 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for protecting the public from space rocks.
+Dialogue: 0,0:11:54.42,0:11:57.74,*Default,NTP,0000,0000,0000,,现在我们已经具备技术终止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today we have the technology to stop
+Dialogue: 0,0:11:58.78,0:12:04.03,*Default,NTP,0000,0000,0000,,近地天体在今后撞击地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Near Earth Objects from impacting the Earth for the rest of history.
+Dialogue: 0,0:12:04.13,0:12:06.84,*Default,NTP,0000,0000,0000,,我的意思是 我们现在能够\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, we can literally now
+Dialogue: 0,0:12:07.31,0:12:10.75,*Default,NTP,0000,0000,0000,,开始逐步局部地改造太阳系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}begin to reshape the local solar system,
+Dialogue: 0,0:12:11.00,0:12:13.88,*Default,NTP,0000,0000,0000,,这样我们的生存机会就会得到提高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that our survival is enhanced.
+Dialogue: 0,0:12:14.49,0:12:18.06,*Default,NTP,0000,0000,0000,,问题是:我们会是或我们会步恐龙的后尘吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The question is: will we or will we go the way of the dinosaurs?
+Dialogue: 0,0:12:26.63,0:12:30.86,*Default,NTP,0000,0000,0000,,但是施威卡特没有等待美国国家航空航天局或国会解决问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Schweickart isn't waiting for NASA or Congress to solve the problem.
+Dialogue: 0,0:12:32.25,0:12:37.41,*Default,NTP,0000,0000,0000,,他有自己的方案 在下一个小行星撞击时解救地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He has his own plans to save the planet from the next asteroid impact.
+Dialogue: 0,0:12:45.92,0:12:50.88,*Default,NTP,0000,0000,0000,,难以相信地球已经幸存了45亿年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hard to believe the Earth has survived over 4.5 billion years,
+Dialogue: 0,0:12:51.10,0:12:55.01,*Default,NTP,0000,0000,0000,,自从在地球幼年是发生过一次撞击后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because since its infancy the planet has taken a beating.
+Dialogue: 0,0:12:59.99,0:13:03.72,*Default,NTP,0000,0000,0000,,象个拳击师 地球处在小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like a boxer, our world is under constant assault
+Dialogue: 0,0:13:03.82,0:13:07.06,*Default,NTP,0000,0000,0000,,闯入地球轨道持续的打击下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from asteroids that enter our orbit each year,
+Dialogue: 0,0:13:07.92,0:13:11.41,*Default,NTP,0000,0000,0000,,在将来 地球也会遭遇打击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in the future Earth could be knocked out.
+Dialogue: 0,0:13:14.02,0:13:17.09,*Default,NTP,0000,0000,0000,,前阿波罗9号宇航员拉塞尔·施威卡特\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Former Apollo 9 astronaut, Rusty Schweickart refuses
+Dialogue: 0,0:13:17.19,0:13:19.01,*Default,NTP,0000,0000,0000,,拒绝小行星的威胁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be bullied by asteroids,
+Dialogue: 0,0:13:19.53,0:13:23.67,*Default,NTP,0000,0000,0000,,现在他准备为地球对抗有害的小行星进行辩护 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and now he's ready to defend Earth against these harmful rocks.
+Dialogue: 0,0:13:24.95,0:13:27.70,*Default,NTP,0000,0000,0000,,我们发现这些近地天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've discovered that there are these Near Earth Objects
+Dialogue: 0,0:13:27.80,0:13:29.60,*Default,NTP,0000,0000,0000,,时刻都在飞近我们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}flying by us all the time,
+Dialogue: 0,0:13:29.74,0:13:34.87,*Default,NTP,0000,0000,0000,,我们已经有了越来越多的能力来改造\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we've got more and more capability to modify our environment to
+Dialogue: 0,0:13:34.97,0:13:36.74,*Default,NTP,0000,0000,0000,,我们的生存环境 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}enhance our survival.
+Dialogue: 0,0:13:37.77,0:13:43.42,*Default,NTP,0000,0000,0000,,施威卡特特别关注编号为2004MN4的小行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Schweickart is particularly concerned about an asteroid named 2004MN4,
+Dialogue: 0,0:13:43.70,0:13:45.94,*Default,NTP,0000,0000,0000,,更熟悉的名字叫阿波菲斯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}better known as Apophis.
+Dialogue: 0,0:13:46.90,0:13:51.55,*Default,NTP,0000,0000,0000,,这是一个长着痘痘的石头 有近750英尺的直径 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This pockmarked rock, approximately 750 feet in diameter,
+Dialogue: 0,0:13:51.65,0:13:54.25,*Default,NTP,0000,0000,0000,,在2004年掠过地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}swept near Earth in 2004.
+Dialogue: 0,0:13:54.92,0:13:58.71,*Default,NTP,0000,0000,0000,,现在预计会再次危险地经过地球附近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now it's scheduled to pass dangerously close to our planet again,
+Dialogue: 0,0:13:58.81,0:14:02.45,*Default,NTP,0000,0000,0000,,会在2029年4月13日 星期五 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on Friday, the 13th in April 2029.
+Dialogue: 0,0:14:03.75,0:14:05.32,*Default,NTP,0000,0000,0000,,因此在2029年…So in 2029…\NSo in 2029…
+Dialogue: 0,0:14:05.82,0:14:08.62,*Default,NTP,0000,0000,0000,,阿波菲斯将会靠近我们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Apophis will come closer to us
+Dialogue: 0,0:14:08.76,0:14:11.77,*Default,NTP,0000,0000,0000,,比地球的同步轨道卫星更近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than our roam communication satellites orbiting the Earth.
+Dialogue: 0,0:14:11.90,0:14:16.60,*Default,NTP,0000,0000,0000,,它是如此的接近 适当的地方的人们将会肉眼看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will be so close that people who are in the right place will be able to see
+Dialogue: 0,0:14:16.70,0:14:19.52,*Default,NTP,0000,0000,0000,,阿波菲斯来到地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Apophis go by the Earth with your naked eye.
+Dialogue: 0,0:14:19.77,0:14:21.54,*Default,NTP,0000,0000,0000,,你甚至可以闭上你的双眼 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You won't even have to have binocular,
+Dialogue: 0,0:14:21.64,0:14:24.65,*Default,NTP,0000,0000,0000,,想象那个小行星将会多么的近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's how close that asteroid is gonna come.
+Dialogue: 0,0:14:25.82,0:14:31.24,*Default,NTP,0000,0000,0000,,在2029年 阿波菲斯有99%的机会错开地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Apophis has an over 99% chance of missing the Earth in 2029,
+Dialogue: 0,0:14:31.54,0:14:37.49,*Default,NTP,0000,0000,0000,,但是如果阿波菲斯在离地球精确的距离 18893英里的地方经过 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but if Apophis passes the Earth at a distance of exactly 18,893 miles,
+Dialogue: 0,0:14:37.87,0:14:40.90,*Default,NTP,0000,0000,0000,,可能会通过一个引力眼 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it may pass through a gravitational keyhole,
+Dialogue: 0,0:14:41.15,0:14:44.20,*Default,NTP,0000,0000,0000,,这是一个太空的狭窄区域 有半英里宽 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a narrow region in space, a half mile wide.
+Dialogue: 0,0:14:44.43,0:14:47.82,*Default,NTP,0000,0000,0000,,如果这发生 地球的引力会干扰阿波菲斯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If this happens, the Earth's gravity could upset Apophis,
+Dialogue: 0,0:14:47.92,0:14:49.63,*Default,NTP,0000,0000,0000,,改变它的轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and change its trajectory.
+Dialogue: 0,0:14:49.81,0:14:53.57,*Default,NTP,0000,0000,0000,,会引起它返回 在7年后撞击地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could cause it to return, and hit Earth seven years later,
+Dialogue: 0,0:14:53.67,0:14:56.76,*Default,NTP,0000,0000,0000,,在2036年4月13日 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on April 13th, 2036.
+Dialogue: 0,0:14:57.66,0:15:01.92,*Default,NTP,0000,0000,0000,,地球引力的作用 会征服它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gravitational effect of the Earth, would cause it to bend,
+Dialogue: 0,0:15:02.02,0:15:08.51,*Default,NTP,0000,0000,0000,,造成阿波菲斯的轨道扩大到正好在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cause the Apophis' orbit to enlarge to precisely the size, which
+Dialogue: 0,0:15:08.66,0:15:12.54,*Default,NTP,0000,0000,0000,,7年后回到并撞击地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seven years later it will come around and hit the Earth.
+Dialogue: 0,0:15:16.63,0:15:20.43,*Default,NTP,0000,0000,0000,,现在 阿波菲斯有1:45的机会 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the present time, Apophis has 1 in 45.000 chance
+Dialogue: 0,0:15:20.53,0:15:23.73,*Default,NTP,0000,0000,0000,,在2036年给地球致命的一击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of delivering a deadly blow in 2036.
+Dialogue: 0,0:15:25.34,0:15:28.55,*Default,NTP,0000,0000,0000,,然而甚至这些机会都是科学家的打赌 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even these odds have scientists placing bets.
+Dialogue: 0,0:15:30.15,0:15:34.85,*Default,NTP,0000,0000,0000,,这是一件已经知道可能是45分之一的机会的事情 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's one thing to know that there is maybe 1 chance on 45.000,
+Dialogue: 0,0:15:34.95,0:15:37.46,*Default,NTP,0000,0000,0000,,将会撞击地球 但是你不会愿意去知晓 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it's gonna hit the Earth, but what you'd like to know is
+Dialogue: 0,0:15:37.56,0:15:40.38,*Default,NTP,0000,0000,0000,,如果是百分之一 十分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if there is one chance in a hundred, if there is one chance in ten,
+Dialogue: 0,0:15:40.48,0:15:44.34,*Default,NTP,0000,0000,0000,,如果就是百分之百将会撞击地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if there is a probability one that it's gonna hit the Earth.
+Dialogue: 0,0:15:52.68,0:15:55.21,*Default,NTP,0000,0000,0000,,施威卡特认为我们必须关注阿波菲斯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Schweickart believes we must regard Apophis
+Dialogue: 0,0:15:55.31,0:15:57.63,*Default,NTP,0000,0000,0000,,就象对待其它自然灾害一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we would any natural disaster.
+Dialogue: 0,0:15:58.57,0:16:02.12,*Default,NTP,0000,0000,0000,,他甚至绘制了阿波菲斯可能撞击的地图 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's even mapped out where Apophis might strike.
+Dialogue: 0,0:16:03.23,0:16:05.98,*Default,NTP,0000,0000,0000,,你有撞击的数据 撞击的时间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have the date of the impact, the time of the impact,
+Dialogue: 0,0:16:06.08,0:16:09.19,*Default,NTP,0000,0000,0000,,轨道的倾角 你就可以绘制地图了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the orbital inclination, and you can make a map.
+Dialogue: 0,0:16:10.01,0:16:15.33,*Default,NTP,0000,0000,0000,,那张地图表明 这就是我称之为的"冒险小路" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what that map shows, is what I have called a "path of risk".
+Dialogue: 0,0:16:15.57,0:16:17.77,*Default,NTP,0000,0000,0000,,它将给出越过地球的所有路经 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It goes all the way across the planet,
+Dialogue: 0,0:16:18.47,0:16:22.13,*Default,NTP,0000,0000,0000,,我看到这 看到碰撞的高机会 我说…\Nand I look at this and I see a high probability of impact and I say…
+Dialogue: 0,0:16:22.23,0:16:25.86,*Default,NTP,0000,0000,0000,,哇 你看 会撞击哪里？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wow! You know, where might it hit?
+Dialogue: 0,0:16:30.65,0:16:32.30,*Default,NTP,0000,0000,0000,,按照施威卡特的说法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}According to Schweickart,
+Dialogue: 0,0:16:32.41,0:16:36.24,*Default,NTP,0000,0000,0000,,阿波菲斯撞击点会沿着"冒险小路" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Apophis could impact any point along this "path of risk".
+Dialogue: 0,0:16:36.82,0:16:39.23,*Default,NTP,0000,0000,0000,,开始在西西泊利亚 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It begins in Western Siberia,
+Dialogue: 0,0:16:39.57,0:16:43.17,*Default,NTP,0000,0000,0000,,削过太平洋降下 在加利福尼亚附近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cuts across and down the Pacific Ocean, near California,
+Dialogue: 0,0:16:43.56,0:16:48.36,*Default,NTP,0000,0000,0000,,接着它横穿美国中部 结束在西非 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then it traverses Central America and finishes in Western Africa.
+Dialogue: 0,0:16:49.58,0:16:53.70,*Default,NTP,0000,0000,0000,,施威卡特提出了一个阿波菲斯可能击中之地的令人恐惧的假设 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Schweickart proposes a chilling scenario of where Apophis might strike.
+Dialogue: 0,0:16:55.21,0:16:59.00,*Default,NTP,0000,0000,0000,,小行星会在太平洋尽头的加利福尼亚海滩登陆 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The asteroid could land in the Pacific Ocean off the coast of California,
+Dialogue: 0,0:16:59.20,0:17:03.18,*Default,NTP,0000,0000,0000,,能量超过一百万兆吨TNT \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a force of over one million megatons of TNT.
+Dialogue: 0,0:17:03.76,0:17:05.20,*Default,NTP,0000,0000,0000,,这样一个撞击会在水里造成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such an impact would create
+Dialogue: 0,0:17:05.30,0:17:09.09,*Default,NTP,0000,0000,0000,,5英里宽 9000英尺深的弹坑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a 5 mile wide, 9,000 foot deep crater in the water,
+Dialogue: 0,0:17:09.27,0:17:11.59,*Default,NTP,0000,0000,0000,,会引起海啸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which would unleash tsunamis,
+Dialogue: 0,0:17:12.76,0:17:16.13,*Default,NTP,0000,0000,0000,,50英尺高的海浪将拍打海岸线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with reckless 50 foot waves would pound the coast line,
+Dialogue: 0,0:17:16.23,0:17:18.93,*Default,NTP,0000,0000,0000,,造成不计其数的人员死亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}resulting in unimaginable human loss.
+Dialogue: 0,0:17:22.20,0:17:25.39,*Default,NTP,0000,0000,0000,,一颗1000英尺直径的小行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An asteroid a thousand feet in diameter,
+Dialogue: 0,0:17:26.84,0:17:30.80,*Default,NTP,0000,0000,0000,,撞击海洋不是件好事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}having it hitting the ocean is not a good deal.
+Dialogue: 0,0:17:31.08,0:17:36.20,*Default,NTP,0000,0000,0000,,上千亿美元的损失 事情就是这样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hundreds of billions of dollars of damage. For something like that.
+Dialogue: 0,0:17:39.25,0:17:41.62,*Default,NTP,0000,0000,0000,,科学家目前做的事是靠技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists are presently working on technologies
+Dialogue: 0,0:17:41.72,0:17:44.38,*Default,NTP,0000,0000,0000,,对这样的宇宙打击提前行动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to pre-empt such a cosmic strike.
+Dialogue: 0,0:17:46.58,0:17:49.81,*Default,NTP,0000,0000,0000,,一个想法是介入炸毁小行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One idea involves blowing up an asteroid.
+Dialogue: 0,0:17:52.50,0:17:55.19,*Default,NTP,0000,0000,0000,,然而感到会把问题搞得复杂化 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But some feel this could compound the problem,
+Dialogue: 0,0:17:55.42,0:18:00.58,*Default,NTP,0000,0000,0000,,小行星碎成几大块替代它在地球的前面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sending several chunks of the asteroid in our direction instead of just one.
+Dialogue: 0,0:18:01.69,0:18:04.18,*Default,NTP,0000,0000,0000,,因此施威卡特的新主意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Consequently, Schweickart's new mission
+Dialogue: 0,0:18:04.32,0:18:08.52,*Default,NTP,0000,0000,0000,,是改变小行星可能撞击地球的轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is to change the orbit of asteroids that could impact Earth.
+Dialogue: 0,0:18:09.94,0:18:12.11,*Default,NTP,0000,0000,0000,,你想要做的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What you wanna do is basically
+Dialogue: 0,0:18:12.21,0:18:15.91,*Default,NTP,0000,0000,0000,,非常非常细微地改变小行星的基本轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}change the asteroid's orbit very, very slightly.
+Dialogue: 0,0:18:17.00,0:18:21.44,*Default,NTP,0000,0000,0000,,把它的速度由每小时一万英里改变为一英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Change its velocity by a ten thousand of a mile per hour,
+Dialogue: 0,0:18:21.84,0:18:24.75,*Default,NTP,0000,0000,0000,,这样它将与地球擦肩而过 不会撞击地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that it will miss the Earth instead of hitting it.
+Dialogue: 0,0:18:28.36,0:18:30.61,*Default,NTP,0000,0000,0000,,拉塞尔的同僚已经构思了太空船的概念设计 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rusty's colleagues have drafted a conceptual design
+Dialogue: 0,0:18:30.71,0:18:35.36,*Default,NTP,0000,0000,0000,,用来偏转小行星 独特的阿波菲斯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a spacecraft that could deflect asteroids. Particularly Apophis.
+Dialogue: 0,0:18:35.86,0:18:38.85,*Default,NTP,0000,0000,0000,,它将把小行星拖离地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One would tow armful asteroids away from Earth.
+Dialogue: 0,0:18:39.03,0:18:41.86,*Default,NTP,0000,0000,0000,,不是象牛崽表演套牛那样套住小行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But instead of lassoing the rock like a bull at a Rodeo,
+Dialogue: 0,0:18:42.06,0:18:46.28,*Default,NTP,0000,0000,0000,,而是盘旋在小行星前面 用地球引力作为拖绳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the tractor will hover in front of it, and use gravity as a tow line.
+Dialogue: 0,0:18:47.27,0:18:50.86,*Default,NTP,0000,0000,0000,,如果你停在小行星前面足够长的时间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you park in front of an asteroid for a long enough period of time,
+Dialogue: 0,0:18:50.98,0:18:53.81,*Default,NTP,0000,0000,0000,,充分地靠近它 但不接触它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you stay close enough to it, but not touching it,
+Dialogue: 0,0:18:54.10,0:18:59.22,*Default,NTP,0000,0000,0000,,你就会增加它的速度 否则 如果你在它的背后停留 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you're going to increase its velocity, or, if you park behind it,
+Dialogue: 0,0:18:59.44,0:19:03.08,*Default,NTP,0000,0000,0000,,当它往前跑的时候 就会很细微地让它慢下来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while it's moving along, you're going to slow it down very slightly.
+Dialogue: 0,0:19:03.18,0:19:07.17,*Default,NTP,0000,0000,0000,,我们可以改变一颗小行星的轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can change the orbit of an asteroid,
+Dialogue: 0,0:19:07.37,0:19:10.08,*Default,NTP,0000,0000,0000,,只要我们有足够的时间提前掌握它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if we know about it far enough ahead of time.
+Dialogue: 0,0:19:12.38,0:19:15.69,*Default,NTP,0000,0000,0000,,尽管太空探测器已经在过去登陆过小行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although a space probe has landed on an asteroid in the past,
+Dialogue: 0,0:19:17.18,0:19:21.83,*Default,NTP,0000,0000,0000,,最具挑战性的想法是发射载人飞船 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most challenging idea is launching a manned mission.
+Dialogue: 0,0:19:28.07,0:19:31.89,*Default,NTP,0000,0000,0000,,宇航员在登陆过的小行星上装上无线电传送器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once landing on the rock, astronauts could mount a radio transponder,
+Dialogue: 0,0:19:32.05,0:19:33.57,*Default,NTP,0000,0000,0000,,来跟踪它的行踪 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to track its whereabouts.
+Dialogue: 0,0:19:34.30,0:19:37.97,*Default,NTP,0000,0000,0000,,你可以使用机器人前往小行星 进行登陆 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could just use a robotic mission to go to an asteroid, and land,
+Dialogue: 0,0:19:38.18,0:19:41.97,*Default,NTP,0000,0000,0000,,取得样本后返回 这并不困难 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}grab a sample and bring it back. That's not that difficult.
+Dialogue: 0,0:19:42.35,0:19:44.73,*Default,NTP,0000,0000,0000,,而载人任务的好处是宇航员可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What you gain by a man mission is they can
+Dialogue: 0,0:19:44.91,0:19:49.86,*Default,NTP,0000,0000,0000,,对小行星表面感兴趣的地方作出反应 他们可以去这儿 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}react to interesting areas on the asteroid's surface. They could go here,
+Dialogue: 0,0:19:49.99,0:19:55.10,*Default,NTP,0000,0000,0000,,那儿 那儿 他们不必依靠远程导航 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there, there. And they wouldn't have to rely on remote navigation.
+Dialogue: 0,0:19:58.40,0:19:59.78,*Default,NTP,0000,0000,0000,,尼加拉瓜边境…\NNicaraguan border…
+Dialogue: 0,0:19:59.88,0:20:04.89,*Default,NTP,0000,0000,0000,,施威卡特强调我们应该对小行星阿波菲斯保持高度警惕 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Schweickart insists we should remain on high alert regarding asteroid Apophis.
+Dialogue: 0,0:20:05.63,0:20:08.39,*Default,NTP,0000,0000,0000,,他的想法已经让大家听到了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And his cause hasn't gone unheard.
+Dialogue: 0,0:20:10.06,0:20:13.11,*Default,NTP,0000,0000,0000,,目前联合国计划草拟一个条约 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now the United Nations plans to draft a treaty,
+Dialogue: 0,0:20:13.41,0:20:15.53,*Default,NTP,0000,0000,0000,,其中将包括由谁来负责\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which will include who will be responsible
+Dialogue: 0,0:20:15.63,0:20:18.31,*Default,NTP,0000,0000,0000,,偏转小行星杀手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for deflecting killer asteroids.
+Dialogue: 0,0:20:19.60,0:20:24.30,*Default,NTP,0000,0000,0000,,如果我们是如此地不负责任的话 那将真的是个犯罪 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That will be a real crime if we are so irresponsible,
+Dialogue: 0,0:20:24.47,0:20:28.64,*Default,NTP,0000,0000,0000,,即已经知道将要发生 而我们依然不作出反应 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}knowing that this is gonna happen, that we continue to do nothing about it.
+Dialogue: 0,0:20:36.08,0:20:40.71,*Default,NTP,0000,0000,0000,,不过小行星和彗星不是唯一的来自太空深处的威胁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But asteroids and comets are not the only deep space threats.
+Dialogue: 0,0:20:44.64,0:20:49.40,*Default,NTP,0000,0000,0000,,地球经历了上升以及…地球经历了下降 \NEarth has had its ups and… Earth has had its downs.
+Dialogue: 0,0:20:50.62,0:20:55.08,*Default,NTP,0000,0000,0000,,你永远不会知道围绕着下一个困境的是什么 会有多糟糕 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You never know what's gonna be around the next corner, and a lot of it is bad.
+Dialogue: 0,0:20:58.96,0:21:02.21,*Default,NTP,0000,0000,0000,,星系的远处 银河的入侵者在活动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In far of galaxies, galactic invaders are at work.
+Dialogue: 0,0:21:02.70,0:21:05.92,*Default,NTP,0000,0000,0000,,渴望结束地球的生命 因为我们知道这一点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Itching to end life on the planet, as we know it.
+Dialogue: 0,0:21:07.34,0:21:11.90,*Default,NTP,0000,0000,0000,,每天三次奇异的闪光搏动横跨我们的天空 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Three times daily a strange flash pulsates across our sky.
+Dialogue: 0,0:21:12.54,0:21:17.17,*Default,NTP,0000,0000,0000,,比世界上所有的核武器总和强上数百倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hundreds of times more powerful than the world's total nuclear armament.
+Dialogue: 0,0:21:17.29,0:21:19.27,*Default,NTP,0000,0000,0000,,然而那不是人造的:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's not man-made:
+Dialogue: 0,0:21:19.89,0:21:22.38,*Default,NTP,0000,0000,0000,,而当它足够靠近地球发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if one happens close enough to Earth,
+Dialogue: 0,0:21:23.17,0:21:25.98,*Default,NTP,0000,0000,0000,,就会结束地球的生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could end life on our planet.
+Dialogue: 0,0:21:36.57,0:21:40.50,*Default,NTP,0000,0000,0000,,大多数人没有觉察到太空中潜在的危险 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most earthlings are unaware of the potential hazards in space.
+Dialogue: 0,0:21:40.60,0:21:43.41,*Default,NTP,0000,0000,0000,,但是目录很长而且在不断增长 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the list is long and growing.
+Dialogue: 0,0:21:44.48,0:21:46.13,*Default,NTP,0000,0000,0000,,想象一下这个 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine this.
+Dialogue: 0,0:21:47.08,0:21:52.31,*Default,NTP,0000,0000,0000,,在我们的星系--银河系里 一颗巨大的恒星爆发 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within our own galaxy, the Milky Way, a massive star explodes,
+Dialogue: 0,0:21:55.28,0:21:59.19,*Default,NTP,0000,0000,0000,,抛出大量的致命能量冲击波来到我们的星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sending a lethal burst of energy rocketing into our planet.
+Dialogue: 0,0:22:02.09,0:22:04.13,*Default,NTP,0000,0000,0000,,这是伽玛射线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is a gamma ray burst,
+Dialogue: 0,0:22:04.63,0:22:08.77,*Default,NTP,0000,0000,0000,,撼动宇宙最大的爆炸 源自宇宙大爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the biggest explosion to rock the Universe, since the Big Bang.
+Dialogue: 0,0:22:12.00,0:22:14.04,*Default,NTP,0000,0000,0000,,在城市和乡村\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the cities and countryside below
+Dialogue: 0,0:22:14.15,0:22:16.71,*Default,NTP,0000,0000,0000,,对会发生什么没有任何警告 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's no warning of what's about to happen.
+Dialogue: 0,0:22:20.60,0:22:22.84,*Default,NTP,0000,0000,0000,,接着 发生了撞击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then, it strikes.
+Dialogue: 0,0:22:24.77,0:22:28.42,*Default,NTP,0000,0000,0000,,相当于站在广岛一英里远的地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be equivalent to standing one mile away from Hiroshima,
+Dialogue: 0,0:22:28.52,0:22:30.33,*Default,NTP,0000,0000,0000,,地球上任何一个地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}any place on the Earth.
+Dialogue: 0,0:22:33.38,0:22:36.30,*Default,NTP,0000,0000,0000,,不断冲击的射线烧烤着大气层的上部 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The pumped radiation cooks the upper atmosphere.
+Dialogue: 0,0:22:39.22,0:22:41.41,*Default,NTP,0000,0000,0000,,臭氧层被烧烤 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our ozone layer roasts.
+Dialogue: 0,0:22:41.71,0:22:45.91,*Default,NTP,0000,0000,0000,,在大气层里 人们被高于致命剂量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Across the atmosphere human beings burns to death from radiation
+Dialogue: 0,0:22:46.01,0:22:48.43,*Default,NTP,0000,0000,0000,,100倍的射线灼烧致死 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a hundred times the fatal dose.
+Dialogue: 0,0:22:50.70,0:22:54.82,*Default,NTP,0000,0000,0000,,臭氧层的消失引起全球气温升高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The disappearing ozone layer causes increase temperatures around the world,
+Dialogue: 0,0:22:54.92,0:22:57.96,*Default,NTP,0000,0000,0000,,引发龙卷风 海啸和飓风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}triggering cyclones, tsunamis and hurricanes.
+Dialogue: 0,0:22:59.63,0:23:03.84,*Default,NTP,0000,0000,0000,,陆地上和海洋里的大部分生命被烧死 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most life on the surfaces of land and water incinerates.
+Dialogue: 0,0:23:06.51,0:23:08.74,*Default,NTP,0000,0000,0000,,这有点象科幻小说 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This may seem like science fiction,
+Dialogue: 0,0:23:08.94,0:23:11.98,*Default,NTP,0000,0000,0000,,然而有可能发生 如果来自100光年外的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it could happen, if a gamma ray burst hit Earth
+Dialogue: 0,0:23:12.08,0:23:14.41,*Default,NTP,0000,0000,0000,,伽玛射线爆发打击地球的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from 100 light years away.
+Dialogue: 0,0:23:16.39,0:23:19.76,*Default,NTP,0000,0000,0000,,伽玛射线爆发是宇宙中最明亮的爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gamma ray bursts are the brightest explosions in the Universe.
+Dialogue: 0,0:23:19.86,0:23:21.47,*Default,NTP,0000,0000,0000,,因为是如此的遥远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because they are so far away
+Dialogue: 0,0:23:21.57,0:23:23.83,*Default,NTP,0000,0000,0000,,还依然如此的耀眼 因此必然是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they are still so brilliant they must involve
+Dialogue: 0,0:23:23.93,0:23:25.80,*Default,NTP,0000,0000,0000,,蕴藏着巨大的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an enormous amount of power.
+Dialogue: 0,0:23:25.90,0:23:27.74,*Default,NTP,0000,0000,0000,,能量相当于太阳在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As much energy as the Sun will emit
+Dialogue: 0,0:23:27.84,0:23:30.26,*Default,NTP,0000,0000,0000,,整整十亿年里喷发的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in its entire ten billion year life time.
+Dialogue: 0,0:23:37.76,0:23:38.93,*Default,NTP,0000,0000,0000,,作为一名年轻的研究者 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a young student,
+Dialogue: 0,0:23:39.03,0:23:43.11,*Default,NTP,0000,0000,0000,,斯坦·伍丝尔利总是喜欢象玩方块炸弹游戏一样做实验 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stan Woosley always like the experiments that go "boom".
+Dialogue: 0,0:23:43.31,0:23:45.52,*Default,NTP,0000,0000,0000,,现在 这个天体物理学家的工作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, the work of this astrophysicist
+Dialogue: 0,0:23:45.62,0:23:47.56,*Default,NTP,0000,0000,0000,,就跟小孩子玩游戏差不多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is more than child's play.
+Dialogue: 0,0:23:47.76,0:23:49.58,*Default,NTP,0000,0000,0000,,他的星系探测之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He's one of the galactic detectives
+Dialogue: 0,0:23:49.68,0:23:51.59,*Default,NTP,0000,0000,0000,,是试图揭示伽玛射线爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}trying to uncover the mysteries
+Dialogue: 0,0:23:51.69,0:23:53.73,*Default,NTP,0000,0000,0000,,背后的秘密 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}behind gamma ray bursts.
+Dialogue: 0,0:23:54.13,0:23:56.35,*Default,NTP,0000,0000,0000,,我们知道宇宙中遍布着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know there're many planets and many stars
+Dialogue: 0,0:23:56.45,0:23:58.58,*Default,NTP,0000,0000,0000,,许多行星和恒星 所以就有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}throughout the cosmos, so there may have been
+Dialogue: 0,0:23:58.68,0:24:02.42,*Default,NTP,0000,0000,0000,,有数不清的文明被伽玛射线爆发摧毁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}countless civilizations that were destroyed by gamma ray burst.
+Dialogue: 0,0:24:04.35,0:24:06.22,*Default,NTP,0000,0000,0000,,这些奇特的射线波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These peculiar beam of radiation
+Dialogue: 0,0:24:06.32,0:24:08.56,*Default,NTP,0000,0000,0000,,是在1960年被发现的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were first spotted in the 1960s.
+Dialogue: 0,0:24:09.56,0:24:13.06,*Default,NTP,0000,0000,0000,,起先大多数科学家认为伽玛射线爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At first most astronomers believe these gamma ray bursts
+Dialogue: 0,0:24:13.16,0:24:16.43,*Default,NTP,0000,0000,0000,,必定是存在于我们的星系 银河系里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}must exist in our own galaxy, the Milky Way,
+Dialogue: 0,0:24:16.63,0:24:18.41,*Default,NTP,0000,0000,0000,,这是因为它们是如此的明亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they're so bright.
+Dialogue: 0,0:24:19.50,0:24:22.45,*Default,NTP,0000,0000,0000,,对此有个说法 如果它们发生在银河系以外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are reason for that, one was if they're outside the galaxy
+Dialogue: 0,0:24:22.55,0:24:24.83,*Default,NTP,0000,0000,0000,,那么其能量几乎令人难以置信 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the energy was almost unbelievable.
+Dialogue: 0,0:24:29.85,0:24:30.97,*Default,NTP,0000,0000,0000,,但在当时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But at the time,
+Dialogue: 0,0:24:31.07,0:24:32.99,*Default,NTP,0000,0000,0000,,即使是最强大的望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even the most powerful telescopes
+Dialogue: 0,0:24:33.09,0:24:35.57,*Default,NTP,0000,0000,0000,,都无法确定它们的位置和距离 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}couldn't determine their location and distance
+Dialogue: 0,0:24:35.77,0:24:36.79,*Default,NTP,0000,0000,0000,,这是因为爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the burst
+Dialogue: 0,0:24:36.89,0:24:38.67,*Default,NTP,0000,0000,0000,,只维持了短短的几秒钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lasted for a few seconds
+Dialogue: 0,0:24:38.77,0:24:40.18,*Default,NTP,0000,0000,0000,,就消失了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then disappeared.
+Dialogue: 0,0:24:41.88,0:24:43.72,*Default,NTP,0000,0000,0000,,然而接着天文学家想知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But then astronomers wondered
+Dialogue: 0,0:24:43.82,0:24:45.73,*Default,NTP,0000,0000,0000,,它们的余辉是什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what about their afterglow?
+Dialogue: 0,0:24:46.99,0:24:50.76,*Default,NTP,0000,0000,0000,,典型的宇宙爆发会留下一些发光的残余物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cosmic explosions typically leave behind some luminous residue
+Dialogue: 0,0:24:50.86,0:24:54.27,*Default,NTP,0000,0000,0000,,会持续数天或数周 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that sometimes lasts for days or weeks.
+Dialogue: 0,0:24:56.27,0:24:57.99,*Default,NTP,0000,0000,0000,,在90年代后期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the late 1990s
+Dialogue: 0,0:24:58.09,0:25:00.18,*Default,NTP,0000,0000,0000,,装有改进的光学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}satellites used upgraded optics
+Dialogue: 0,0:25:00.28,0:25:01.64,*Default,NTP,0000,0000,0000,,和X射线探测器的人造卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and x-ray detectors
+Dialogue: 0,0:25:01.74,0:25:05.05,*Default,NTP,0000,0000,0000,,终于捕获到了伽玛射线爆发的余辉 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to finally capture a gamma ray bursts afterglow.
+Dialogue: 0,0:25:06.76,0:25:11.26,*Default,NTP,0000,0000,0000,,它变得清晰了 伽玛射线爆发实际上是…宇宙学的 \NIt became clear that gamma ray burst actually were… cosmological,
+Dialogue: 0,0:25:11.36,0:25:13.66,*Default,NTP,0000,0000,0000,,是来自银河系外遥远的地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming from very far outside of our galaxy,
+Dialogue: 0,0:25:13.76,0:25:17.19,*Default,NTP,0000,0000,0000,,来自数百万和数十亿光年以外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from millions and billions of light years away.
+Dialogue: 0,0:25:17.49,0:25:20.71,*Default,NTP,0000,0000,0000,,那意味着其能量必定是大的无法估量的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that meant their energy had to truly be astronomical.
+Dialogue: 0,0:25:24.63,0:25:26.63,*Default,NTP,0000,0000,0000,,你知道这伽玛射线爆发是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You get some idea of how incredibly bright
+Dialogue: 0,0:25:26.73,0:25:28.13,*Default,NTP,0000,0000,0000,,多么地难以置信的明亮…\Na gamma ray burst is…
+Dialogue: 0,0:25:28.24,0:25:31.04,*Default,NTP,0000,0000,0000,,我们可以用这个相对暗淡的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could represent the brightness of our Sun
+Dialogue: 0,0:25:31.14,0:25:33.90,*Default,NTP,0000,0000,0000,,发光二极管来代表太阳的亮度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by this relatively dim led
+Dialogue: 0,0:25:34.00,0:25:36.61,*Default,NTP,0000,0000,0000,,同时我们可以用在我身后的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we can represent the brightness of the gamma ray burst
+Dialogue: 0,0:25:36.71,0:25:38.77,*Default,NTP,0000,0000,0000,,非常非常强烈的探照灯来代表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the very very intense searchlight
+Dialogue: 0,0:25:38.87,0:25:40.51,*Default,NTP,0000,0000,0000,,伽玛射线爆发的亮度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's behind me,
+Dialogue: 0,0:25:40.61,0:25:42.14,*Default,NTP,0000,0000,0000,,亮得无法相信 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then incredibly bright.
+Dialogue: 0,0:25:43.49,0:25:45.01,*Default,NTP,0000,0000,0000,,这个对比令人遗憾 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unfortunately with this comparison,
+Dialogue: 0,0:25:45.11,0:25:47.35,*Default,NTP,0000,0000,0000,,探照灯的光度几乎还不足以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the searchlight is not nearly bright enough
+Dialogue: 0,0:25:47.45,0:25:49.16,*Default,NTP,0000,0000,0000,,充分代表伽玛射线爆发 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to represent fully the gamma ray burst
+Dialogue: 0,0:25:49.27,0:25:52.69,*Default,NTP,0000,0000,0000,,事实上我们需要1000亿个这样的探照灯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and in fact we'd need a hundred billion such searchlights
+Dialogue: 0,0:25:52.79,0:25:54.29,*Default,NTP,0000,0000,0000,,才够得上进行对比 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to have an adequate comparison.
+Dialogue: 0,0:25:55.61,0:25:57.29,*Default,NTP,0000,0000,0000,,伽玛射线爆发相当于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gamma ray burst is equivalent
+Dialogue: 0,0:25:57.39,0:26:00.62,*Default,NTP,0000,0000,0000,,100万兆个太阳的亮度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the brightness of a million trillion suns.
+Dialogue: 0,0:26:02.45,0:26:05.36,*Default,NTP,0000,0000,0000,,这个巨大的爆发会杀死地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This massive burst could decimate Earth.
+Dialogue: 0,0:26:06.42,0:26:08.12,*Default,NTP,0000,0000,0000,,那么是什么引起爆发的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what causes them?
+Dialogue: 0,0:26:09.34,0:26:12.62,*Default,NTP,0000,0000,0000,,我们已经完全相信普通的伽玛射线爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We are quite convinced that the common gamma ray burst
+Dialogue: 0,0:26:12.72,0:26:14.91,*Default,NTP,0000,0000,0000,,来自巨大恒星的死亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes from the death of a massive star,
+Dialogue: 0,0:26:15.51,0:26:17.87,*Default,NTP,0000,0000,0000,,它们至少有太阳的十倍大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at least ten times the mass of the Sun.
+Dialogue: 0,0:26:18.73,0:26:20.63,*Default,NTP,0000,0000,0000,,这样的恒星一般来说相当罕见 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And such stars are quite rare by the way.
+Dialogue: 0,0:26:23.31,0:26:25.93,*Default,NTP,0000,0000,0000,,伍丝尔利开创性地建立了个模型\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Woosley masterminded a ground-breaking model
+Dialogue: 0,0:26:26.03,0:26:28.64,*Default,NTP,0000,0000,0000,,来表现伽玛射线爆发是如何产生的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of how gamma ray bursts may be created.
+Dialogue: 0,0:26:30.89,0:26:33.48,*Default,NTP,0000,0000,0000,,当非常巨大的恒星死亡时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When an extremely massive star dies
+Dialogue: 0,0:26:33.58,0:26:35.98,*Default,NTP,0000,0000,0000,,会崩塌进一个黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it collapses into a black hole.
+Dialogue: 0,0:26:39.53,0:26:42.81,*Default,NTP,0000,0000,0000,,黑洞产生时 崩塌的物质被压缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are created when a collection of matter collapses
+Dialogue: 0,0:26:42.91,0:26:44.73,*Default,NTP,0000,0000,0000,,成非常高的密度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to such a high density that
+Dialogue: 0,0:26:44.83,0:26:46.87,*Default,NTP,0000,0000,0000,,连光都无法逃脱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}light itself cannot escape.
+Dialogue: 0,0:26:49.34,0:26:52.00,*Default,NTP,0000,0000,0000,,然而伍丝尔利指出有些恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Woosley proposes that some of the star
+Dialogue: 0,0:26:52.11,0:26:55.04,*Default,NTP,0000,0000,0000,,会抵抗被吸入黑洞中央 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}resists getting sucked into the center of the black hole.
+Dialogue: 0,0:26:55.53,0:26:59.65,*Default,NTP,0000,0000,0000,,结果是一个高速旋转的物质圆盘围绕着黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As result, a high speed spinning disk of matter forms around it.
+Dialogue: 0,0:27:00.62,0:27:04.98,*Default,NTP,0000,0000,0000,,片刻之间 等离子射流从旋转的两极喷出 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within seconds, jets of plasma shoot out from its rotational poles.
+Dialogue: 0,0:27:06.06,0:27:09.89,*Default,NTP,0000,0000,0000,,这些能量束释放危险的伽玛射线进入太空 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These beams of energy unleash dangerous gamma rays into space.
+Dialogue: 0,0:27:13.09,0:27:15.05,*Default,NTP,0000,0000,0000,,因此如果你能想象试着把\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if you can imagine just trying to squeeze
+Dialogue: 0,0:27:15.15,0:27:19.65,*Default,NTP,0000,0000,0000,,一个水果或一些物体压缩进非常小的空间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a fruit or some kind of sphere of some object into a very small space
+Dialogue: 0,0:27:20.61,0:27:23.29,*Default,NTP,0000,0000,0000,,物体将会喷出 在这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}things are gonna squirt out and in this case
+Dialogue: 0,0:27:23.60,0:27:25.65,*Default,NTP,0000,0000,0000,,压缩是非常迅速的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the squeezing is done very rapidly
+Dialogue: 0,0:27:25.75,0:27:27.69,*Default,NTP,0000,0000,0000,,而且你讨论的是巨大的物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you're talking about a huge amount of mass.
+Dialogue: 0,0:27:29.09,0:27:32.03,*Default,NTP,0000,0000,0000,,在同一时间发生的是伽玛射线爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the same time the gamma ray bursts are ejected
+Dialogue: 0,0:27:32.13,0:27:34.29,*Default,NTP,0000,0000,0000,,和压扁的恒星爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the collapsing star explodes
+Dialogue: 0,0:27:34.99,0:27:37.70,*Default,NTP,0000,0000,0000,,或成为超新星 走到极端 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or goes supernova to the extreme.
+Dialogue: 0,0:27:40.22,0:27:43.19,*Default,NTP,0000,0000,0000,,原因之一是 伽玛射线爆发的简直难以置信的亮度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the reasons gamma rays bursts are so incredibly bright
+Dialogue: 0,0:27:43.29,0:27:45.50,*Default,NTP,0000,0000,0000,,携带着巨大的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that they take an enormous amount of power,
+Dialogue: 0,0:27:45.92,0:27:49.47,*Default,NTP,0000,0000,0000,,接着集中那些能量进入非常小的空间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then they focus that power into a very small portion of the sky.
+Dialogue: 0,0:27:50.29,0:27:52.89,*Default,NTP,0000,0000,0000,,每300个伽玛射线爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For every 300 gamma ray bursts that go off
+Dialogue: 0,0:27:53.12,0:27:55.10,*Default,NTP,0000,0000,0000,,仅有一个指向我们这个方向 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only one is pointed in our direction,
+Dialogue: 0,0:27:55.42,0:27:57.96,*Default,NTP,0000,0000,0000,,所以我们只能看到300分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so we only see 1 of those 300.
+Dialogue: 0,0:28:01.17,0:28:03.56,*Default,NTP,0000,0000,0000,,即使伽玛射线爆发 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even if a gamma ray burst would have occurred
+Dialogue: 0,0:28:03.66,0:28:06.39,*Default,NTP,0000,0000,0000,,不是在100光年就是1000光年以外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not 100 but 1000 light years away,
+Dialogue: 0,0:28:06.82,0:28:09.99,*Default,NTP,0000,0000,0000,,地球仍然面对着毁灭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth could still face apocalyptic destruction.
+Dialogue: 0,0:28:10.89,0:28:14.62,*Default,NTP,0000,0000,0000,,如果伽玛射线爆发距离地球不足100光年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a gamma ray burst happens within 100 light years off the Earth,
+Dialogue: 0,0:28:14.82,0:28:18.41,*Default,NTP,0000,0000,0000,,亮度就达到太阳的500倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then it would be approximately 500 times brighter than the Sun
+Dialogue: 0,0:28:18.51,0:28:19.84,*Default,NTP,0000,0000,0000,,置身于伽玛射线里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and made in gamma rays.
+Dialogue: 0,0:28:19.97,0:28:22.14,*Default,NTP,0000,0000,0000,,释放到地球大气层上部的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The energy delivered to the Earth's upper atmosphere
+Dialogue: 0,0:28:22.24,0:28:25.22,*Default,NTP,0000,0000,0000,,将达到10万兆吨的核爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be like a 100,000 megatons of nuclear explosions.
+Dialogue: 0,0:28:26.85,0:28:28.72,*Default,NTP,0000,0000,0000,,臭氧层将被消耗尽 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ozone would be depleted,
+Dialogue: 0,0:28:29.25,0:28:32.67,*Default,NTP,0000,0000,0000,,就会有酸雨 就会有闪电 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'd have acid rain but we'd also have flash burns,
+Dialogue: 0,0:28:32.77,0:28:37.13,*Default,NTP,0000,0000,0000,,烧毁植被 或许就类似核气象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}incineration of vegetation, perhaps something resembling nuclear weather.
+Dialogue: 0,0:28:37.74,0:28:42.04,*Default,NTP,0000,0000,0000,,所以有可能是许多物种的全球性毁灭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there could be a global extinction of many species.
+Dialogue: 0,0:28:45.29,0:28:48.53,*Default,NTP,0000,0000,0000,,现在地球这么远的地方成为特殊的空间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now the far side of the Earth would be a special place to be,
+Dialogue: 0,0:28:48.68,0:28:50.66,*Default,NTP,0000,0000,0000,,这是因为伽玛射线没来到地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because gamma rays don't go through the Earth
+Dialogue: 0,0:28:50.76,0:28:53.33,*Default,NTP,0000,0000,0000,,而如果你在其他地方 就不会有闪暴 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if you're on the other side you wouldn't get flash-burned.
+Dialogue: 0,0:28:53.68,0:28:55.90,*Default,NTP,0000,0000,0000,,然而臭氧层耗尽以及\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the effect of depleting the ozone
+Dialogue: 0,0:28:56.00,0:28:57.91,*Default,NTP,0000,0000,0000,,大气层成分的改变 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and changing the composition of the atmosphere
+Dialogue: 0,0:28:58.01,0:29:02.24,*Default,NTP,0000,0000,0000,,结果将最终变成其它地方 结局是无法预料的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would eventually come to the other side. And there the effects are unknown.
+Dialogue: 0,0:29:06.00,0:29:08.47,*Default,NTP,0000,0000,0000,,统计这个可怕的推论 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Statistically this ghastly scenario
+Dialogue: 0,0:29:08.61,0:29:12.50,*Default,NTP,0000,0000,0000,,在地球的整个生命里会有1%的概率发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has 1% chance of happening once in the Earth's entire lifetime.
+Dialogue: 0,0:29:13.92,0:29:15.74,*Default,NTP,0000,0000,0000,,然而这个概率也是不可靠的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even these odds aren't reassuring
+Dialogue: 0,0:29:15.85,0:29:18.47,*Default,NTP,0000,0000,0000,,如果你正好在哪个非常时刻居住在地球上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you're living on the planet at that very moment.
+Dialogue: 0,0:29:21.01,0:29:23.07,*Default,NTP,0000,0000,0000,,如果你被光束逮住…\NIf you're caught in the beam…
+Dialogue: 0,0:29:23.81,0:29:25.23,*Default,NTP,0000,0000,0000,,那就是你糟糕的日子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's a bad day for you.
+Dialogue: 0,0:29:25.33,0:29:29.46,*Default,NTP,0000,0000,0000,,如果星系里有一个发生并且光束朝着你的方向 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If one of this happens in your galaxy and that beam is coming your way,
+Dialogue: 0,0:29:29.94,0:29:31.31,*Default,NTP,0000,0000,0000,,躲进洞穴里吧 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}go hide in a cave.
+Dialogue: 0,0:29:32.45,0:29:35.08,*Default,NTP,0000,0000,0000,,因为这是一个能量非常高的辐射 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because this is very high energy radiation.
+Dialogue: 0,0:29:35.29,0:29:38.72,*Default,NTP,0000,0000,0000,,它是一种能分解分子的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the kind of energy that would decompose your molecules,
+Dialogue: 0,0:29:39.02,0:29:42.58,*Default,NTP,0000,0000,0000,,而你帐号不想  在其产生时在它周围 \Nand you just don't wanna be… be around when it's happening.
+Dialogue: 0,0:29:43.71,0:29:45.77,*Default,NTP,0000,0000,0000,,现在还没有防卫的措施 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There currently are no defense measures
+Dialogue: 0,0:29:45.87,0:29:49.62,*Default,NTP,0000,0000,0000,,当在地球附近发生时 来保护我们避免伽玛射线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to shield us from gamma ray bursts if they happen close to Earth.
+Dialogue: 0,0:29:49.75,0:29:54.26,*Default,NTP,0000,0000,0000,,光的速度是:每秒186000英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They travel at the speed of light: 186,000 miles per second.
+Dialogue: 0,0:29:55.27,0:29:59.38,*Default,NTP,0000,0000,0000,,在我们觉察到的时候 它们已经抵达了我们的地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By the time we detected them, they would have already struck our planet.
+Dialogue: 0,0:30:00.29,0:30:02.15,*Default,NTP,0000,0000,0000,,伽玛射线将会对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gamma rays bursts could pose a hazard
+Dialogue: 0,0:30:02.25,0:30:04.19,*Default,NTP,0000,0000,0000,,地球或来到他们出生地的任何生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the Earth or to anything living that
+Dialogue: 0,0:30:04.29,0:30:06.29,*Default,NTP,0000,0000,0000,,构成威胁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}came within their born site.
+Dialogue: 0,0:30:07.05,0:30:09.55,*Default,NTP,0000,0000,0000,,但是就象我们看到的那样 它们非常罕见 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as we've seen they're very infrequent
+Dialogue: 0,0:30:09.65,0:30:11.58,*Default,NTP,0000,0000,0000,,天空里和地球上还有其它情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and there are other things in the heavens
+Dialogue: 0,0:30:11.68,0:30:14.46,*Default,NTP,0000,0000,0000,,要危险的多得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and on the Earth that are much more dangerous.
+Dialogue: 0,0:30:17.07,0:30:20.72,*Default,NTP,0000,0000,0000,,在宇宙的某些地方照例会有灾难发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cataclysms routinely erupt in some corner of the Universe.
+Dialogue: 0,0:30:21.79,0:30:25.32,*Default,NTP,0000,0000,0000,,有一天 某些情况会扼杀地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And one day something will snuff out Earth.
+Dialogue: 0,0:30:30.94,0:30:32.82,*Default,NTP,0000,0000,0000,,围绕太阳运转的大部分时间是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the time our ride around the Sun is
+Dialogue: 0,0:30:32.92,0:30:34.99,*Default,NTP,0000,0000,0000,,平安无事的 就象这个摩天轮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gentle and uneventful like this Ferris wheel.
+Dialogue: 0,0:30:36.12,0:30:37.75,*Default,NTP,0000,0000,0000,,只要没什么挡住道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as long as nothing gets in our way.
+Dialogue: 0,0:30:37.85,0:30:39.80,*Default,NTP,0000,0000,0000,,我们就能象这个摩天轮一样运行数百万年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can go on like this for millions of years.
+Dialogue: 0,0:30:39.90,0:30:43.04,*Default,NTP,0000,0000,0000,,但是我们知道那个轮子迟早会濒临结束 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But sooner or later we know that this smooth ride will come to an end.
+Dialogue: 0,0:30:43.14,0:30:44.85,*Default,NTP,0000,0000,0000,,我们只是不知道何时发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We just don't know when.
+Dialogue: 0,0:30:48.88,0:30:51.78,*Default,NTP,0000,0000,0000,,可惜我们这个星球最终会死亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sadly our planet ultimate demise
+Dialogue: 0,0:30:52.11,0:30:56.32,*Default,NTP,0000,0000,0000,,大概会来自提供我们生命的非常事态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will probably come from the very thing that provides us life.
+Dialogue: 0,0:31:07.00,0:31:11.36,*Default,NTP,0000,0000,0000,,地球是太阳的第三颗行星 维持着舒适的生活条件 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth maintains a cozy lifestyle being third rock from the Sun.
+Dialogue: 0,0:31:13.89,0:31:17.46,*Default,NTP,0000,0000,0000,,在40多亿年里 太阳作为支持者 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For over 4 billion years the Sun has been an ally,
+Dialogue: 0,0:31:17.74,0:31:19.79,*Default,NTP,0000,0000,0000,,温暖和喂养着我们的地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}warming and feeding our planet.
+Dialogue: 0,0:31:21.10,0:31:24.92,*Default,NTP,0000,0000,0000,,然而有时太阳会成为我们的敌人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in time our solar heater will become our enemy.
+Dialogue: 0,0:31:28.58,0:31:31.55,*Default,NTP,0000,0000,0000,,太阳和地球相互之间形成了独特的关系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun and the Earth have a unique relationship to each other.
+Dialogue: 0,0:31:32.67,0:31:37.98,*Default,NTP,0000,0000,0000,,地球具有特别的温度 特别的大小 有生命存在 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth has a particular temperature, a particular size, it has life on it
+Dialogue: 0,0:31:38.40,0:31:41.46,*Default,NTP,0000,0000,0000,,有海洋 所有这些都依赖太阳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and oceans. And those things depend on the Sun.
+Dialogue: 0,0:31:43.47,0:31:46.68,*Default,NTP,0000,0000,0000,,太阳是地球存在生命的根源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun is at the root of the existence of life on the Earth
+Dialogue: 0,0:31:47.11,0:31:50.44,*Default,NTP,0000,0000,0000,,然而太阳也将是地球灭亡的根源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Sun will be at the root of its demise as well.
+Dialogue: 0,0:31:54.81,0:31:58.07,*Default,NTP,0000,0000,0000,,地球联系着太阳将来的功能失调 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth relationship with the Sun will become dysfunctional
+Dialogue: 0,0:31:58.17,0:32:00.95,*Default,NTP,0000,0000,0000,,那时 我们的太阳母亲的温度会升高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when our solar mother really turns up the heat.
+Dialogue: 0,0:32:03.93,0:32:07.21,*Default,NTP,0000,0000,0000,,太阳会变得越来越热 是因为她由燃烧氢转为烧氦 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun gets hotter because it's burning hydrogen into helium.
+Dialogue: 0,0:32:07.74,0:32:10.43,*Default,NTP,0000,0000,0000,,四个氢原子成为一个氦原子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Four hydrogen atoms become one helium atom.
+Dialogue: 0,0:32:11.18,0:32:12.76,*Default,NTP,0000,0000,0000,,那就意味着燃料质子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means there're fuel particles
+Dialogue: 0,0:32:12.86,0:32:14.80,*Default,NTP,0000,0000,0000,,在太阳里面跳舞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dancing around inside the Sun.
+Dialogue: 0,0:32:14.90,0:32:18.28,*Default,NTP,0000,0000,0000,,这个过程意味着太阳已经把自己\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that process basically means that the Sun has to get
+Dialogue: 0,0:32:18.62,0:32:20.59,*Default,NTP,0000,0000,0000,,变得更热和更亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hotter and brighter to hold itself up.
+Dialogue: 0,0:32:22.72,0:32:28.42,*Default,NTP,0000,0000,0000,,随着太阳核变得更热 它的个头将变得更大 外面的颜色变红 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Sun's core gets hotter its outer part will swell in size and turn red.
+Dialogue: 0,0:32:30.14,0:32:34.75,*Default,NTP,0000,0000,0000,,假如有堆篝火 放上木头点燃它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you have a bonfire, you have all this wood there you built it up,
+Dialogue: 0,0:32:34.91,0:32:38.07,*Default,NTP,0000,0000,0000,,某些情况下没有足够的木头去燃烧 那个东西倒塌 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and at some point enough logs get burnt and that thing collapses
+Dialogue: 0,0:32:38.17,0:32:41.38,*Default,NTP,0000,0000,0000,,会有巨大的火花爆发 产生巨大的光亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you get this huge burst of sparks and it gets much brighter.
+Dialogue: 0,0:32:41.48,0:32:43.91,*Default,NTP,0000,0000,0000,,某种意义来说 这就象太阳现在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a sense it's like that because the Sun is
+Dialogue: 0,0:32:44.01,0:32:46.05,*Default,NTP,0000,0000,0000,,燃烧氢变为氦的过程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}right now burning hydrogen into helium
+Dialogue: 0,0:32:46.15,0:32:48.87,*Default,NTP,0000,0000,0000,,而氦就象那个灰烬 如果你喜欢…\Nand the helium is the ash of that, if you like…
+Dialogue: 0,0:32:49.37,0:32:53.34,*Default,NTP,0000,0000,0000,,紧接着太阳充分崩塌 灰烬重新燃烧 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then as the Sun collapses enough the ash relights
+Dialogue: 0,0:32:53.73,0:32:55.93,*Default,NTP,0000,0000,0000,,氦燃烧成碳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the helium burns into carbon.
+Dialogue: 0,0:32:56.03,0:32:58.41,*Default,NTP,0000,0000,0000,,那是物体真正得到高温的时候 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's when things get really hot.
+Dialogue: 0,0:32:59.50,0:33:03.14,*Default,NTP,0000,0000,0000,,那时太阳将变成红巨星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At this point Sun will expand into a red giant,
+Dialogue: 0,0:33:03.33,0:33:06.16,*Default,NTP,0000,0000,0000,,把地球上的所有生命烧成灰烬 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and incinerate most complex life on Earth.
+Dialogue: 0,0:33:07.82,0:33:12.22,*Default,NTP,0000,0000,0000,,太阳变成红巨星时 体积膨胀30倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Sun becomes a red giant it will grow to 30 times its size
+Dialogue: 0,0:33:12.32,0:33:16.45,*Default,NTP,0000,0000,0000,,所以太阳的表面将到达水星的轨道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so the surface of the Sun will actually be out beyond the orbit of Mercury.
+Dialogue: 0,0:33:16.88,0:33:21.09,*Default,NTP,0000,0000,0000,,太阳的亮度将增长1000倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The luminosity of the Sun will grow up by like 1000 times.
+Dialogue: 0,0:33:21.70,0:33:23.53,*Default,NTP,0000,0000,0000,,将使地球变得很热 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's gonna make the Earth so hot that
+Dialogue: 0,0:33:23.65,0:33:27.71,*Default,NTP,0000,0000,0000,,地球的外壳 岩石 泥土…都将融化 \Nthe outer crust, the rocks, the soil part of the Earth… will melt.
+Dialogue: 0,0:33:30.06,0:33:33.10,*Default,NTP,0000,0000,0000,,整个地球将变为火球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The whole planet would be a glowing ball of lava.
+Dialogue: 0,0:33:37.24,0:33:40.18,*Default,NTP,0000,0000,0000,,太阳将煎熬着内部的行星  \NThe Sun will fry the inner planets and…
+Dialogue: 0,0:33:40.42,0:33:43.75,*Default,NTP,0000,0000,0000,,尽管太阳会变得更红和更冷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even though the Sun will become red and cooler,
+Dialogue: 0,0:33:44.19,0:33:45.80,*Default,NTP,0000,0000,0000,,地球会变得更热 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth will become much hotter.
+Dialogue: 0,0:33:46.10,0:33:49.49,*Default,NTP,0000,0000,0000,,只是留下地球一堆燃烧的灰烬 就象个炭架 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just leave the Earth a burnt cinder, like a charcoal bricket.
+Dialogue: 0,0:33:50.67,0:33:52.71,*Default,NTP,0000,0000,0000,,所以对地球上的生命来说是件坏事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that would be bad for life on Earth.
+Dialogue: 0,0:33:54.16,0:33:56.58,*Default,NTP,0000,0000,0000,,地球的命运据称还没有结束 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the Earth's alleged fate isn't over.
+Dialogue: 0,0:33:57.13,0:34:00.32,*Default,NTP,0000,0000,0000,,因为红巨星太阳在压缩成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a red giant the Sun will fluctuate in size
+Dialogue: 0,0:34:00.46,0:34:03.06,*Default,NTP,0000,0000,0000,,白矮星之前体积将会变化 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before collapsing into a white dwarf.
+Dialogue: 0,0:34:04.77,0:34:08.17,*Default,NTP,0000,0000,0000,,巨大的太阳会突然变为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun, that was huge, suddenly becomes
+Dialogue: 0,0:34:08.53,0:34:11.55,*Default,NTP,0000,0000,0000,,体积非常小 密度非常大的太阳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a Sun that's very small and extremely dense,
+Dialogue: 0,0:34:11.66,0:34:13.00,*Default,NTP,0000,0000,0000,,其体积只有地球大小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only about the size of the Earth,
+Dialogue: 0,0:34:13.10,0:34:15.85,*Default,NTP,0000,0000,0000,,占据在太阳系的中央 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sitting down there at the center of our solar system,
+Dialogue: 0,0:34:16.02,0:34:18.37,*Default,NTP,0000,0000,0000,,较之过去非常地微弱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}very much fainter than it used to be.
+Dialogue: 0,0:34:18.69,0:34:21.84,*Default,NTP,0000,0000,0000,,一切开始冷却 那个星球不再\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And everything cools off and then that object is no longer
+Dialogue: 0,0:34:22.08,0:34:25.45,*Default,NTP,0000,0000,0000,,产生任何能量 所以它也同样变冷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}generating energy either, so it begins to cool as well.
+Dialogue: 0,0:34:25.62,0:34:29.53,*Default,NTP,0000,0000,0000,,太阳系最后的结局是冰冷的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The final fate of the solar system will be to cool off and freeze.
+Dialogue: 0,0:34:32.61,0:34:35.44,*Default,NTP,0000,0000,0000,,人类或许会在另外一个行星上重新布局 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Humans will probably relocate to another planet
+Dialogue: 0,0:34:35.54,0:34:39.10,*Default,NTP,0000,0000,0000,,或者在太阳将地球变成雪球前已经灭种 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or become extinct before the Sun turns Earth into a snowball.
+Dialogue: 0,0:34:40.99,0:34:44.71,*Default,NTP,0000,0000,0000,,不管怎样 太阳会很快烘干我们的地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However the Sun may dry up our world much sooner
+Dialogue: 0,0:34:46.39,0:34:49.24,*Default,NTP,0000,0000,0000,,如果太阳没在变为红巨星的时候惩罚我们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Sun doesn't get us at the time of the red giant phase,
+Dialogue: 0,0:34:49.48,0:34:51.66,*Default,NTP,0000,0000,0000,,那它就可能更早地惩罚我们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it may well get us earlier by
+Dialogue: 0,0:34:51.82,0:34:56.62,*Default,NTP,0000,0000,0000,,就在刚变得足够明亮的时候造成海洋蒸发 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just becoming bright enough to cause the oceans to evaporate.
+Dialogue: 0,0:34:57.53,0:35:00.10,*Default,NTP,0000,0000,0000,,水是我们生命的基本要素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Water is an essential component for our life
+Dialogue: 0,0:35:00.20,0:35:04.59,*Default,NTP,0000,0000,0000,,所以一旦地球失去所有的水 那时毫无疑问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so if Earth actually loses all its water then that's another reason why
+Dialogue: 0,0:35:04.69,0:35:07.89,*Default,NTP,0000,0000,0000,,生命将从地球上消失 那也是太阳的过错 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}life might disappear from the Earth, and it would again be the Sun's fault.
+Dialogue: 0,0:35:10.51,0:35:13.79,*Default,NTP,0000,0000,0000,,可能会有一些方法为地球争取到死刑的缓期执行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There may be ways for Earth to win a stay of execution.
+Dialogue: 0,0:35:17.09,0:35:20.66,*Default,NTP,0000,0000,0000,,太阳膨胀时也会开始丢失质量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Sun is swelling it also begins to lose mass,
+Dialogue: 0,0:35:20.76,0:35:23.37,*Default,NTP,0000,0000,0000,,会比现在丢失的快的多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much more rapidly than it's losing it now.
+Dialogue: 0,0:35:23.48,0:35:25.90,*Default,NTP,0000,0000,0000,,当然如果太阳质量变得越来越小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And of course if it's getting less massive
+Dialogue: 0,0:35:26.00,0:35:27.59,*Default,NTP,0000,0000,0000,,对地球的控制也会越来越小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it has less of a hold on the Earth.
+Dialogue: 0,0:35:27.87,0:35:31.27,*Default,NTP,0000,0000,0000,,地球会离太阳更远 轨道更大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth will move further out, into a larger orbit.
+Dialogue: 0,0:35:31.99,0:35:36.67,*Default,NTP,0000,0000,0000,,所以这是太阳和其热量增长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so it's kind of a race between the growing Sun and the growing heat
+Dialogue: 0,0:35:36.83,0:35:39.06,*Default,NTP,0000,0000,0000,,与地球实际运行之间的竞赛 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the Sun and the Earth, actually moving,
+Dialogue: 0,0:35:39.16,0:35:42.14,*Default,NTP,0000,0000,0000,,你知道 与火堆相差一点距离 热量就相差许多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you know, a little bit away from that fire that's getting too hot.
+Dialogue: 0,0:35:49.78,0:35:52.40,*Default,NTP,0000,0000,0000,,如果我们地球以某种方式避免了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If our planet somehow manages to avoid getting
+Dialogue: 0,0:35:52.50,0:35:54.51,*Default,NTP,0000,0000,0000,,太阳的煎熬和冰冻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fried or frozen by the Sun,
+Dialogue: 0,0:35:55.51,0:35:58.16,*Default,NTP,0000,0000,0000,,将来也日益荒凉 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its future remains increasingly bleak.
+Dialogue: 0,0:36:05.89,0:36:08.01,*Default,NTP,0000,0000,0000,,这个地方充满了冒险 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This place is full of adventure.
+Dialogue: 0,0:36:08.35,0:36:10.64,*Default,NTP,0000,0000,0000,,游戏将你的胃吊到你的喉咙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rides that put your stomach up in your throat,
+Dialogue: 0,0:36:10.74,0:36:12.94,*Default,NTP,0000,0000,0000,,物体的碰撞 充满恐慌…\Nthings that collide, scary stuff…
+Dialogue: 0,0:36:13.21,0:36:16.53,*Default,NTP,0000,0000,0000,,很大程度就象围绕太阳运行的行星地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a lot like riding around the Sun on planet Earth.
+Dialogue: 0,0:36:16.63,0:36:19.83,*Default,NTP,0000,0000,0000,,然而当地球遭到打击或物体开始分解时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when Earth gets smacked or when things start come apart,
+Dialogue: 0,0:36:19.93,0:36:21.94,*Default,NTP,0000,0000,0000,,运行实际已经停止 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ride could really be over.
+Dialogue: 0,0:36:27.78,0:36:29.96,*Default,NTP,0000,0000,0000,,我不知道那是否意味着宇宙的末日 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't know that means for the Universe to end,
+Dialogue: 0,0:36:30.30,0:36:34.19,*Default,NTP,0000,0000,0000,,因为我喜欢时间 我生活在时间里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because I like time, I live in it.
+Dialogue: 0,0:36:34.74,0:36:36.72,*Default,NTP,0000,0000,0000,,所以想象时间的终结是困难的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's hard to imagine time ending.
+Dialogue: 0,0:36:40.61,0:36:44.11,*Default,NTP,0000,0000,0000,,今天科学家沉思着我们不可避免的命运 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today scientists contemplate our inevitable fate.
+Dialogue: 0,0:36:47.37,0:36:51.07,*Default,NTP,0000,0000,0000,,在遥远的将来 地球和整个宇宙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the distant future, the Earth and the entire Universe,
+Dialogue: 0,0:36:51.37,0:36:54.65,*Default,NTP,0000,0000,0000,,可能面对最后的宇宙妖魔 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may face the ultimate cosmic monster.
+Dialogue: 0,0:37:03.65,0:37:08.35,*Default,NTP,0000,0000,0000,,没有人怀疑地球最致命的敌人就潜伏在星球之中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No one suspects that Earth's most lethal enemy lurks amongst the stars.
+Dialogue: 0,0:37:12.25,0:37:14.55,*Default,NTP,0000,0000,0000,,然而在将来 没有预先的警告 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in the future, and without prior warning
+Dialogue: 0,0:37:15.05,0:37:19.35,*Default,NTP,0000,0000,0000,,宇宙冷酷的收割机将释放最终的决战 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a cosmic grim reaper will unleash the ultimate Armageddon.
+Dialogue: 0,0:37:24.85,0:37:27.85,*Default,NTP,0000,0000,0000,,黑暗的魔鬼将拆散整个宇宙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dark villain will stretch apart the Universe.
+Dialogue: 0,0:37:28.15,0:37:30.83,*Default,NTP,0000,0000,0000,,星系将四分五裂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Galaxies themselves will split apart.
+Dialogue: 0,0:37:31.33,0:37:34.03,*Default,NTP,0000,0000,0000,,恒星和行星将打得粉碎 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars and planets will tear to shreds.
+Dialogue: 0,0:37:36.53,0:37:40.21,*Default,NTP,0000,0000,0000,,终极大灾难事件被称为"大撕裂" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ultimate apocalyptic event is being called "The Big Rip".
+Dialogue: 0,0:37:42.21,0:37:44.21,*Default,NTP,0000,0000,0000,,而且一旦开始就不会停止 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when it begins it won't stop
+Dialogue: 0,0:37:44.71,0:37:48.71,*Default,NTP,0000,0000,0000,,直到宇宙里的原子和原子核都变成了碎片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until every atom and nuclei in the Universe aren't minced meat.
+Dialogue: 0,0:37:55.51,0:37:58.11,*Default,NTP,0000,0000,0000,,"大撕裂" 实际上是宇宙的末日 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"The Big Rip", it really is the end of the Universe.
+Dialogue: 0,0:37:58.91,0:38:02.35,*Default,NTP,0000,0000,0000,,不喜欢我们是聚会上的最后一个 不知是怎么回事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not like we're the last ones at the party, wondering what's going on
+Dialogue: 0,0:38:02.45,0:38:04.45,*Default,NTP,0000,0000,0000,,除非我们能够做些什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we can go do something else.
+Dialogue: 0,0:38:04.55,0:38:06.75,*Default,NTP,0000,0000,0000,,真的很喜欢你关掉所有的灯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's really like you've turned off all the lights.
+Dialogue: 0,0:38:07.25,0:38:08.85,*Default,NTP,0000,0000,0000,,此时宇宙刚好终结 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the Universe just ends.
+Dialogue: 0,0:38:13.95,0:38:17.84,*Default,NTP,0000,0000,0000,,创新的物理学家罗伯特·考德威尔和马克·卡米科维斯基\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Innovator physicists Robert Caldwell and Marc Kamionkowski
+Dialogue: 0,0:38:17.94,0:38:20.44,*Default,NTP,0000,0000,0000,,提出一个"大撕裂"的概念 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}proposed a notion of "The Big Rip".
+Dialogue: 0,0:38:20.94,0:38:24.24,*Default,NTP,0000,0000,0000,,一个宇宙最终命运的严酷假设 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A grim hypothesis about the final fate of the Universe.
+Dialogue: 0,0:38:25.54,0:38:28.38,*Default,NTP,0000,0000,0000,,我们过去认为的宇宙 正在扩展 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We use to think that the Universe, which is currently expanding,
+Dialogue: 0,0:38:28.48,0:38:30.28,*Default,NTP,0000,0000,0000,,能扩展到最大点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can reach a point of maximum expansion.
+Dialogue: 0,0:38:31.78,0:38:33.88,*Default,NTP,0000,0000,0000,,"大撕裂"主张膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"The Big Rip" is the idea that the expansion
+Dialogue: 0,0:38:34.58,0:38:37.18,*Default,NTP,0000,0000,0000,,不仅仅只是扩展和加速 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will not only continue and accelerate,
+Dialogue: 0,0:38:37.48,0:38:39.88,*Default,NTP,0000,0000,0000,,而且撕裂也同样在发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but rip everything apart as it does so.
+Dialogue: 0,0:38:41.58,0:38:45.73,*Default,NTP,0000,0000,0000,,考德威尔和卡米科维斯基计算出宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Caldwell and Kamionkowski calculated that the Universe is expanding
+Dialogue: 0,0:38:45.83,0:38:47.83,*Default,NTP,0000,0000,0000,,以惊人的越来越快的速度膨胀 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at an alarming and increasing pace.
+Dialogue: 0,0:38:48.43,0:38:51.73,*Default,NTP,0000,0000,0000,,这些物体象吸尘器那样吸取周围的物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there something is sucking everything outward like a vacuum.
+Dialogue: 0,0:38:54.13,0:38:56.13,*Default,NTP,0000,0000,0000,,就象星系刑警队那样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Acting like a galactic vice squad,
+Dialogue: 0,0:38:56.63,0:38:59.63,*Default,NTP,0000,0000,0000,,这些年轻的科学家搜索着宇宙杀手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these young scientists hunt for the cosmic killer.
+Dialogue: 0,0:39:02.43,0:39:05.50,*Default,NTP,0000,0000,0000,,他们认为一种叫做暗能量的神秘现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They believe a mysterious phenomenon called dark energy
+Dialogue: 0,0:39:05.60,0:39:07.60,*Default,NTP,0000,0000,0000,,可能是犯人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be the culprit.
+Dialogue: 0,0:39:08.90,0:39:10.83,*Default,NTP,0000,0000,0000,,盘算着暗能量是 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Figuring out what dark energy is,
+Dialogue: 0,0:39:10.93,0:39:14.53,*Default,NTP,0000,0000,0000,,可能是宇宙学家现在排在第一号的对象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is probably the number one goal of cosmologists today.
+Dialogue: 0,0:39:15.50,0:39:18.60,*Default,NTP,0000,0000,0000,,暗能量是"暗的" 所以你无法看到它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dark energy is "dark" so you can't see it.
+Dialogue: 0,0:39:19.43,0:39:21.46,*Default,NTP,0000,0000,0000,,我们能够感觉到它 通过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can feel what it is, we feel that through
+Dialogue: 0,0:39:21.56,0:39:25.76,*Default,NTP,0000,0000,0000,,它在宇宙间对引力的作用感觉到它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its effects on the gravitational  behavior of the Universe.
+Dialogue: 0,0:39:26.86,0:39:29.55,*Default,NTP,0000,0000,0000,,这个房间里可能有暗能量 在椅子下…\NThere could be some dark energy in this room, under the chair…
+Dialogue: 0,0:39:30.35,0:39:32.25,*Default,NTP,0000,0000,0000,,只有真正在大的宇宙尺度下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's only when you look at its properties
+Dialogue: 0,0:39:32.36,0:39:35.24,*Default,NTP,0000,0000,0000,,才能看到它的性质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on really big cosmological length scales,
+Dialogue: 0,0:39:35.36,0:39:37.80,*Default,NTP,0000,0000,0000,,数十亿光年的跨度 你开始看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}billions of light-years across, that you start to see
+Dialogue: 0,0:39:37.90,0:39:41.08,*Default,NTP,0000,0000,0000,,聚集的暗能量的影响 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the accumulated effects of the dark energy.
+Dialogue: 0,0:39:41.50,0:39:44.90,*Default,NTP,0000,0000,0000,,它造成物体相互推开 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It causes things to be pushed farther away from each other
+Dialogue: 0,0:39:45.10,0:39:48.10,*Default,NTP,0000,0000,0000,,引起宇宙的膨胀 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and contributes to the expansion of the Universe.
+Dialogue: 0,0:39:48.71,0:39:49.90,*Default,NTP,0000,0000,0000,,并且加快步伐 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it quicken in pace.
+Dialogue: 0,0:39:53.91,0:39:57.21,*Default,NTP,0000,0000,0000,,爱德温·哈勃 后来以他的名字命名哈勃望远镜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Edwin Hubble, whom the Hubble telescope is named after,
+Dialogue: 0,0:39:57.41,0:40:01.11,*Default,NTP,0000,0000,0000,,早在1920年第一个发现宇宙在膨胀 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}first discovered the Universe is expanding back in the 1920s.
+Dialogue: 0,0:40:02.41,0:40:04.11,*Default,NTP,0000,0000,0000,,然而直到1998年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it wasn't until the 1998
+Dialogue: 0,0:40:04.71,0:40:07.81,*Default,NTP,0000,0000,0000,,当时一支精锐科学家团队衡量这种扩张\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when a crack team of scientists measured that this expansion
+Dialogue: 0,0:40:07.91,0:40:10.01,*Default,NTP,0000,0000,0000,,象失控的火车 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is moving like a runaway train.
+Dialogue: 0,0:40:12.61,0:40:16.61,*Default,NTP,0000,0000,0000,,恰当的比喻是宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A nice analogy is to imagine that the Universe
+Dialogue: 0,0:40:17.11,0:40:19.97,*Default,NTP,0000,0000,0000,,在三维空间里象一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are three-dimensional spaces like the surface of a
+Dialogue: 0,0:40:20.07,0:40:21.71,*Default,NTP,0000,0000,0000,,我正在吹起的橡皮球的表面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rubber balloon that I'm blowing up.
+Dialogue: 0,0:40:23.51,0:40:25.93,*Default,NTP,0000,0000,0000,,好啦 我将要作个示范 吹起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ok, I'm gonna blow the balloon as a demonstration
+Dialogue: 0,0:40:26.03,0:40:28.03,*Default,NTP,0000,0000,0000,,影响宇宙膨胀的气球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the effects of the expansion of the Universe.
+Dialogue: 0,0:40:31.43,0:40:34.12,*Default,NTP,0000,0000,0000,,这个气球变得更大 是星系膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here's the balloon gets bigger that's the depiction of the
+Dialogue: 0,0:40:34.23,0:40:35.93,*Default,NTP,0000,0000,0000,,的描述 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}expansion of galaxies.
+Dialogue: 0,0:40:37.69,0:40:40.89,*Default,NTP,0000,0000,0000,,第一个星系 另一个…\NFirst galaxy, another one…
+Dialogue: 0,0:40:43.89,0:40:45.89,*Default,NTP,0000,0000,0000,,-这些是星系…-好了 \N- These are galaxies… - Okay.
+Dialogue: 0,0:40:46.29,0:40:48.49,*Default,NTP,0000,0000,0000,,-一个在上面 -好 那是我们的家乡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}- One over there. - Okay. That's our home.
+Dialogue: 0,0:40:48.69,0:40:52.19,*Default,NTP,0000,0000,0000,,当宇宙膨胀时 每一个其它的星系都远离我们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Universe expands every other galaxy gets farther away from us.
+Dialogue: 0,0:40:56.89,0:41:01.40,*Default,NTP,0000,0000,0000,,一般的膨胀 各个星系保持着相同的排列 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In ordinary expansion each galaxy stays the same size.
+Dialogue: 0,0:41:01.50,0:41:03.50,*Default,NTP,0000,0000,0000,,但是如果有超级加速膨胀 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if you have super accelerated expansion,
+Dialogue: 0,0:41:03.60,0:41:06.01,*Default,NTP,0000,0000,0000,,这时单个星系会自己膨胀 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the galaxies themselves can each expand.
+Dialogue: 0,0:41:06.11,0:41:07.81,*Default,NTP,0000,0000,0000,,这个发生在这里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which is a sort of what happen here.
+Dialogue: 0,0:41:08.31,0:41:11.31,*Default,NTP,0000,0000,0000,,如果你足够快的吹起它 来描述"大撕裂" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If I could blow it up fast enough to depict "The Big Rip" then
+Dialogue: 0,0:41:11.59,0:41:13.29,*Default,NTP,0000,0000,0000,,那么气球将爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the balloon would explode.
+Dialogue: 0,0:41:13.39,0:41:15.79,*Default,NTP,0000,0000,0000,,-那个象时空 不可能会…-拿起它 \N- That's like space-time not being able to… - Take it.
+Dialogue: 0,0:41:15.89,0:41:17.49,*Default,NTP,0000,0000,0000,,并即将结束 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And coming to an end.
+Dialogue: 0,0:41:17.79,0:41:19.99,*Default,NTP,0000,0000,0000,,我们将听到气球砰的一声 一个洞在气球上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sound we'll just pop a hole in the balloon.
+Dialogue: 0,0:41:21.99,0:41:23.16,*Default,NTP,0000,0000,0000,,那就是"大撕裂" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's "The Big Rip".
+Dialogue: 0,0:41:26.10,0:41:28.36,*Default,NTP,0000,0000,0000,,按照考德威尔和卡米科维斯基的说法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}According to Caldwell and Kamionkowski,
+Dialogue: 0,0:41:28.46,0:41:31.76,*Default,NTP,0000,0000,0000,,宇宙不存在"大撕裂"的洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Universe has no hope of surviving "The Big Rip".
+Dialogue: 0,0:41:34.16,0:41:37.86,*Default,NTP,0000,0000,0000,,他们甚至进行了这个世界末日的倒计时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They've even come up with a countdown to this apocalyptic event.
+Dialogue: 0,0:41:38.86,0:41:40.77,*Default,NTP,0000,0000,0000,,"大撕裂" 开始卷起袖子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"The Big Rip", kind of rolls up its sleeves
+Dialogue: 0,0:41:40.87,0:41:43.87,*Default,NTP,0000,0000,0000,,逐步层层剥离宇宙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and progressively takes apart the Universe layer by layer.
+Dialogue: 0,0:41:44.07,0:41:45.71,*Default,NTP,0000,0000,0000,,运作从外往里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Working from the outside in,
+Dialogue: 0,0:41:45.81,0:41:48.81,*Default,NTP,0000,0000,0000,,从较大规模到较小规模 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}going from the larger scales to the smaller scales.
+Dialogue: 0,0:41:49.71,0:41:52.71,*Default,NTP,0000,0000,0000,,十亿年撕裂星系团 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A billion years to pull apart clusters of galaxies,
+Dialogue: 0,0:41:53.01,0:41:57.01,*Default,NTP,0000,0000,0000,,然后数亿年撕裂星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then hundreds of millions of years to pull apart galaxies themselves.
+Dialogue: 0,0:41:57.51,0:42:00.43,*Default,NTP,0000,0000,0000,,接着 下至太阳系这样的规模 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then, down to the size of the solar system,
+Dialogue: 0,0:42:00.53,0:42:02.53,*Default,NTP,0000,0000,0000,,我们说有数十万年就够 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we're talking hundred of thousands of years.
+Dialogue: 0,0:42:03.05,0:42:06.75,*Default,NTP,0000,0000,0000,,然后撕裂地球会用…\NAnd then to tear apart the Earth itself will take…
+Dialogue: 0,0:42:07.10,0:42:08.30,*Default,NTP,0000,0000,0000,,不到一个小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}less than an hour.
+Dialogue: 0,0:42:10.00,0:42:12.80,*Default,NTP,0000,0000,0000,,关于看起来象什么是个奇怪的想法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's kind of interesting to think about what that would look like.
+Dialogue: 0,0:42:13.80,0:42:16.20,*Default,NTP,0000,0000,0000,,如果在得到保护的太空舱里看着事情的发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If I'm in my protective capsule watching things happen,
+Dialogue: 0,0:42:16.90,0:42:21.59,*Default,NTP,0000,0000,0000,,将会看到朝着我们来的黑暗吞没地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I would see the swallow of darkness that starts coming towards us.
+Dialogue: 0,0:42:21.79,0:42:24.79,*Default,NTP,0000,0000,0000,,在那一点上 不会很久观察到任何星星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I would no longer, at that point, be able to see any stars.
+Dialogue: 0,0:42:25.79,0:42:28.29,*Default,NTP,0000,0000,0000,,地球被一层一层地剥离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth layer by layer would be peeled off
+Dialogue: 0,0:42:28.79,0:42:30.79,*Default,NTP,0000,0000,0000,,并被抛出 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and ejected away.
+Dialogue: 0,0:42:34.49,0:42:38.29,*Default,NTP,0000,0000,0000,,我们的一切 组成我们的分子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everything in us, the molecules that hold us together,
+Dialogue: 0,0:42:38.59,0:42:40.59,*Default,NTP,0000,0000,0000,,将被撕开 以及…\Nwould get ripped apart and…
+Dialogue: 0,0:42:40.99,0:42:43.39,*Default,NTP,0000,0000,0000,,组成你身体的每一个原子都将会…\Nevery atom that makes up your body would get…
+Dialogue: 0,0:42:43.49,0:42:46.19,*Default,NTP,0000,0000,0000,,将会…将会飞入太空 \Nwould get… would fly off to infinity.
+Dialogue: 0,0:42:46.99,0:42:48.49,*Default,NTP,0000,0000,0000,,在一个非常短暂的时间里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a very short period of time.
+Dialogue: 0,0:42:52.19,0:42:55.79,*Default,NTP,0000,0000,0000,,幸好人类无须失眠度过"大撕裂" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately mankind doesn't need to lose sleep over "The Big Rip".
+Dialogue: 0,0:42:56.29,0:42:59.60,*Default,NTP,0000,0000,0000,,考德威尔和卡米科维斯基估计从现在算起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Caldwell and Kamionkowski estimate that it will climax
+Dialogue: 0,0:42:59.70,0:43:01.69,*Default,NTP,0000,0000,0000,,500亿年进入顶峰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fifty billion years from now,
+Dialogue: 0,0:43:01.99,0:43:05.17,*Default,NTP,0000,0000,0000,,那时宇宙年龄将超过它现在年龄的三倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the Universe is over three times its current age.
+Dialogue: 0,0:43:06.87,0:43:08.95,*Default,NTP,0000,0000,0000,,试图推测真的对我们是个玩笑吗 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's really fun for us is to try to figure out
+Dialogue: 0,0:43:09.05,0:43:11.27,*Default,NTP,0000,0000,0000,,实际上无论会发生什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether this is actually what's going to happen,
+Dialogue: 0,0:43:12.37,0:43:15.16,*Default,NTP,0000,0000,0000,,科学家虚构的情节描述了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to paint a science fiction scenario
+Dialogue: 0,0:43:16.47,0:43:19.17,*Default,NTP,0000,0000,0000,,将会发生什么和我们会发生什么 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of what might happen and to think what might happen to us.
+Dialogue: 0,0:43:26.17,0:43:28.17,*Default,NTP,0000,0000,0000,,太空深处的威胁是真的吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Deep space threats are real?
+Dialogue: 0,0:43:28.87,0:43:31.26,*Default,NTP,0000,0000,0000,,太阳会在明天伤害我们吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sun could harm us tomorrow?
+Dialogue: 0,0:43:31.76,0:43:33.76,*Default,NTP,0000,0000,0000,,一切都发生在遥远的将来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Others in the far future.
+Dialogue: 0,0:43:35.26,0:43:36.76,*Default,NTP,0000,0000,0000,,然而一件事是确定的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But one thing is certain.
+Dialogue: 0,0:43:37.36,0:43:40.36,*Default,NTP,0000,0000,0000,,有东西会终结地球以及可能整个宇宙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Something will terminate Earth and probably the entire Universe.
+Dialogue: 0,0:43:40.70,0:43:42.40,*Default,NTP,0000,0000,0000,,永远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once and for all.
+Dialogue: 0,0:43:43.22,0:43:45.22,*Default,NTP,0000,0000,0000,,这只是时间的问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's only a matter of time.
+Dialogue: 0,0:43:47.12,0:43:48.92,*Default,NTP,0000,0000,0000,,有时想想 还是有帮助的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's useful to sometimes think about,
+Dialogue: 0,0:43:49.52,0:43:52.22,*Default,NTP,0000,0000,0000,,地球上的生命是多么的脆弱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how fragile our life is here on Earth.
+Dialogue: 0,0:43:52.72,0:43:56.12,*Default,NTP,0000,0000,0000,,也许我们不会永远在这里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That maybe we're not gonna be here for eternity.
+Dialogue: 0,0:43:59.22,0:44:00.52,*Default,NTP,0000,0000,0000,,也许会有希望 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe there's a hope.
+Dialogue: 0,0:44:00.92,0:44:03.22,*Default,NTP,0000,0000,0000,,但是…他们看起来…\NBut… they way it looks…
+Dialogue: 0,0:44:03.62,0:44:05.62,*Default,NTP,0000,0000,0000,,宇宙刚好结束 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Universe just ends.
+Dialogue: 0,0:44:05.82,0:44:07.72,*Default,NTP,0000,0000,0000,,就是这样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's it.
+Dialogue: 0,0:44:08.82,0:44:13.82,*Default,NTP,0000,0000,0000,,谢谢观赏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks For Viewing

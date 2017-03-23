@@ -1,0 +1,708 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.80,0:00:06.42,*Default,NTP,0000,0000,0000,,玄黄端现 太极混沌如鸡蛋 随着轰的一声 \NIn the beginning, there was darkness. And then… BANG!
+Dialogue: 0,0:00:06.46,0:00:11.67,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的时间 空间和物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Giving birth to an endless expanding existence of time, space and matter.
+Dialogue: 0,0:00:12.12,0:00:16.76,*Default,NTP,0000,0000,0000,,现在所见超乎我们的想象 超越了客观认知极限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, see further than we've ever imagined beyond the limits of our existence,
+Dialogue: 0,0:00:16.80,0:00:19.58,*Default,NTP,0000,0000,0000,,那地方我们称之为"宇宙" \Nin a place we call… THE UNIVERSE.
+Dialogue: 0,0:00:22.16,0:00:24.50,*Default,NTP,0000,0000,0000,,宇宙中只有我们吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are we alone in the Universe?
+Dialogue: 0,0:00:25.01,0:00:28.27,*Default,NTP,0000,0000,0000,,只有我们在观看奇妙的行星吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are we the only ones who look up at the stars and wonder,
+Dialogue: 0,0:00:28.70,0:00:30.61,*Default,NTP,0000,0000,0000,,"还有外族存在吗？"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Is anybody out there?"
+Dialogue: 0,0:00:31.35,0:00:34.79,*Default,NTP,0000,0000,0000,,今天科学家用不同的方法来确定答案 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today, scientists quest for the answer in different ways.
+Dialogue: 0,0:00:35.47,0:00:38.44,*Default,NTP,0000,0000,0000,,有的利用大型的无线电设备 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some with massive radio telescopes,
+Dialogue: 0,0:00:38.87,0:00:42.18,*Default,NTP,0000,0000,0000,,有的利用外层空间探测器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some with interplanetarian, interstellar probes.
+Dialogue: 0,0:00:43.48,0:00:47.64,*Default,NTP,0000,0000,0000,,如果我们发现了外层空间的生命 那会是何种景象？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we find extraterrestrial life, what will it look like?
+Dialogue: 0,0:00:47.86,0:00:49.28,*Default,NTP,0000,0000,0000,,柔软糊状的组织？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Soft and squishy?
+Dialogue: 0,0:00:50.62,0:00:52.87,*Default,NTP,0000,0000,0000,,或者我们最初接触的外星人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or will the first aliens we contact
+Dialogue: 0,0:00:52.91,0:00:55.51,*Default,NTP,0000,0000,0000,,不过是自我复制机体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}simple be self-replicating machines,
+Dialogue: 0,0:00:56.49,0:01:00.73,*Default,NTP,0000,0000,0000,,它们的生物形体已经消亡数百万年？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}their biological creators having died off millions of years ago?
+Dialogue: 0,0:01:02.75,0:01:06.34,*Default,NTP,0000,0000,0000,,世界上最高级别的科学家在寻找答案 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of the top scientists in the world probe for answers
+Dialogue: 0,0:01:06.38,0:01:08.97,*Default,NTP,0000,0000,0000,,寻找外星人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the search for E.T.
+Dialogue: 0,0:01:10.00,0:01:15.00,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:17.00,0:01:22.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}历史频道·宇宙第一季第13集 寻找外星人\N影片压制:暮云春树  字幕来源：射手网 调校：TIAN@CMCT 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:22.79,0:01:26.17,*Default,NTP,0000,0000,0000,,这个问题让无数人夜不能寐 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is the question that has kept many people awake at night
+Dialogue: 0,0:01:26.43,0:01:28.38,*Default,NTP,0000,0000,0000,,他们盯着星星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}staring at the stars,
+Dialogue: 0,0:01:28.43,0:01:30.40,*Default,NTP,0000,0000,0000,,思考着各种可能性 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pondering the possibilities.
+Dialogue: 0,0:01:31.82,0:01:34.87,*Default,NTP,0000,0000,0000,,在一个星系里有数十亿颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a galaxy filled with a billion stars,
+Dialogue: 0,0:01:35.06,0:01:38.96,*Default,NTP,0000,0000,0000,,在宇宙中有数千亿个星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a Universe filled with a hundred billion galaxies,
+Dialogue: 0,0:01:39.18,0:01:41.28,*Default,NTP,0000,0000,0000,,还有别的生命存在吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are we alone?
+Dialogue: 0,0:01:43.83,0:01:48.12,*Default,NTP,0000,0000,0000,,广袤无垠的宇宙让人无法琢磨 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The incredible vastness of the Universe is difficult to comprehend.
+Dialogue: 0,0:01:48.99,0:01:50.97,*Default,NTP,0000,0000,0000,,但是我们也有思路考虑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But here is a way to consider it.
+Dialogue: 0,0:01:55.11,0:01:58.77,*Default,NTP,0000,0000,0000,,如果把太阳的大小浓缩成一个大理石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were to shrink the Sun down to the size of a marble,
+Dialogue: 0,0:01:58.81,0:02:01.43,*Default,NTP,0000,0000,0000,,把它放在曼哈顿的街上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and put it on a sidewalk in downtown Manhattan,
+Dialogue: 0,0:02:02.25,0:02:06.36,*Default,NTP,0000,0000,0000,,地球距离它只有四英尺远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth would be a pinprick about 4 feet away,
+Dialogue: 0,0:02:07.02,0:02:09.93,*Default,NTP,0000,0000,0000,,火星距离它的位置在两英尺之外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars would be 2 feet beyond that.
+Dialogue: 0,0:02:11.63,0:02:13.10,*Default,NTP,0000,0000,0000,,有望发现智能生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The nearest other star,
+Dialogue: 0,0:02:13.14,0:02:15.91,*Default,NTP,0000,0000,0000,,离我们最近的星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where we might hope to find intelligent life,
+Dialogue: 0,0:02:15.95,0:02:17.17,*Default,NTP,0000,0000,0000,,半人马座阿尔法星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha Centauri,
+Dialogue: 0,0:02:17.47,0:02:20.35,*Default,NTP,0000,0000,0000,,不会超过10英尺到100英尺之间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would not be 10 or 100 feet away,
+Dialogue: 0,0:02:20.85,0:02:22.99,*Default,NTP,0000,0000,0000,,也就是在华盛顿特区附近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be in Washington DC.
+Dialogue: 0,0:02:23.38,0:02:25.74,*Default,NTP,0000,0000,0000,,230英里的距离 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}230 miles distant.
+Dialogue: 0,0:02:28.99,0:02:33.20,*Default,NTP,0000,0000,0000,,第二颗有生命体的星球可能就离我们有7000英里之遥 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And another star might be as much as 7,000 miles away,
+Dialogue: 0,0:02:33.55,0:02:35.16,*Default,NTP,0000,0000,0000,,远在里约热内卢 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in Rio de Janeiro.
+Dialogue: 0,0:02:38.65,0:02:41.00,*Default,NTP,0000,0000,0000,,但是旅行家如果真的有机会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if we ever did chance upon voyagers
+Dialogue: 0,0:02:41.04,0:02:43.53,*Default,NTP,0000,0000,0000,,到这些遥远的星球上探索 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from these distant points in the Cosmos,
+Dialogue: 0,0:02:44.15,0:02:45.92,*Default,NTP,0000,0000,0000,,那到底会是何种景象？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what would they look like?
+Dialogue: 0,0:02:46.19,0:02:48.48,*Default,NTP,0000,0000,0000,,是和地球一样吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would they be basically the same as us?
+Dialogue: 0,0:02:49.46,0:02:51.54,*Default,NTP,0000,0000,0000,,还是有着本质不同？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would they be fundamentally different?
+Dialogue: 0,0:02:52.97,0:02:56.44,*Default,NTP,0000,0000,0000,,很有可能 非常不同寻常 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could they be perhaps so strange and unusual
+Dialogue: 0,0:02:56.48,0:02:59.41,*Default,NTP,0000,0000,0000,,以至于和我们梦想抑或梦魇的景象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they're unlike anything we ever dreamed
+Dialogue: 0,0:02:59.45,0:03:01.76,*Default,NTP,0000,0000,0000,,截然不同？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or dreaded could exist?
+Dialogue: 0,0:03:04.01,0:03:06.99,*Default,NTP,0000,0000,0000,,很多人相信探寻外星生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many believe the quest for extraterrestrial life
+Dialogue: 0,0:03:07.03,0:03:11.28,*Default,NTP,0000,0000,0000,,一定先得对我们地表的生命进行严谨的审视 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}must really begin within a tense scrutiny of our terrestrial life,
+Dialogue: 0,0:03:11.32,0:03:13.53,*Default,NTP,0000,0000,0000,,以地球的生命为参考 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}life on Earth, might have begun.
+Dialogue: 0,0:03:16.19,0:03:18.42,*Default,NTP,0000,0000,0000,,在50年代早期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in the early 1950s,
+Dialogue: 0,0:03:18.66,0:03:21.26,*Default,NTP,0000,0000,0000,,芝加哥大学的两位化学家 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}two chemists at the University of Chicago
+Dialogue: 0,0:03:21.68,0:03:26.18,*Default,NTP,0000,0000,0000,,戏剧性地超前理解生命体的基本化学反应 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}advanced understanding of life's basic chemistry dramatically.
+Dialogue: 0,0:03:27.89,0:03:30.55,*Default,NTP,0000,0000,0000,,诺贝尔奖得主化学家 哈罗德·尤里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nobel laureate chemist, Harold Urey,
+Dialogue: 0,0:03:30.59,0:03:33.05,*Default,NTP,0000,0000,0000,,还有他的学生斯坦利·L·米勒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and graduate student, Stanley L. Miller,
+Dialogue: 0,0:03:33.12,0:03:36.13,*Default,NTP,0000,0000,0000,,炮制一批地球早期的"原生汤" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}concocted a batch of primordial soup.
+Dialogue: 0,0:03:37.87,0:03:40.48,*Default,NTP,0000,0000,0000,,他们注入了甲烷 氨气 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They injected methane, ammonia,
+Dialogue: 0,0:03:40.52,0:03:45.57,*Default,NTP,0000,0000,0000,,氢气 还有液态水 将它们混合在一个圆底烧瓶中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hydrogen and water, into a closed system of glass bulbs and tubes.
+Dialogue: 0,0:03:46.28,0:03:50.27,*Default,NTP,0000,0000,0000,,这些化学物质用来模拟地球早期环境 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These chemicals are thought to have been commonplace on early Earth.
+Dialogue: 0,0:03:51.51,0:03:55.14,*Default,NTP,0000,0000,0000,,如果你把这些东西放入一个容器中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you put all of these things into a container,
+Dialogue: 0,0:03:55.22,0:03:58.33,*Default,NTP,0000,0000,0000,,提供某种形式的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and supply some form of energy to do
+Dialogue: 0,0:03:58.77,0:04:00.20,*Default,NTP,0000,0000,0000,,就会产生化学反应 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some kind of reactions,
+Dialogue: 0,0:04:00.38,0:04:03.15,*Default,NTP,0000,0000,0000,,他们做了什么？ 产生了什么化学反应？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what do they make? What kind of reactions go on?
+Dialogue: 0,0:04:04.15,0:04:08.14,*Default,NTP,0000,0000,0000,,米勒和尤里对混合物通电 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Miller and Urey energized the mix with electrical sparks
+Dialogue: 0,0:04:08.26,0:04:10.08,*Default,NTP,0000,0000,0000,,模拟地球闪电 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to simulate lightning.
+Dialogue: 0,0:04:13.40,0:04:16.60,*Default,NTP,0000,0000,0000,,实验结果… 一通电 \NThe results were… well, electrifying.
+Dialogue: 0,0:04:19.28,0:04:22.93,*Default,NTP,0000,0000,0000,,他们实验室的墙上产生褐色污泥 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They got a brown sludge on the walls of their chamber.
+Dialogue: 0,0:04:23.30,0:04:25.79,*Default,NTP,0000,0000,0000,,当他们分析褐色污泥时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when they started analysing that brown sludge
+Dialogue: 0,0:04:25.86,0:04:28.56,*Default,NTP,0000,0000,0000,,发现里面有很多有机物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there were lots of organic materials in it
+Dialogue: 0,0:04:28.62,0:04:30.70,*Default,NTP,0000,0000,0000,,甚至还有氨基酸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and some of them were amino acids.
+Dialogue: 0,0:04:30.90,0:04:34.52,*Default,NTP,0000,0000,0000,,有些有机分子是蛋白质的基本成分 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some of the precursors, the building blocks for proteins.
+Dialogue: 0,0:04:36.67,0:04:40.49,*Default,NTP,0000,0000,0000,,蛋白质当然也是生命的基石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Proteins, of course, are in turn the building blocks for life.
+Dialogue: 0,0:04:41.22,0:04:43.81,*Default,NTP,0000,0000,0000,,米勒和尤里的试验说明了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Miller-Urey experiment had demonstrated
+Dialogue: 0,0:04:43.81,0:04:46.17,*Default,NTP,0000,0000,0000,,这些活体有机物分子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the precursors of living organisms
+Dialogue: 0,0:04:46.47,0:04:50.02,*Default,NTP,0000,0000,0000,,可能是源于化学反应生成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could have gotten their start from a chemical reaction.
+Dialogue: 0,0:04:51.52,0:04:54.26,*Default,NTP,0000,0000,0000,,而这种化学反应在地球很容易发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And such reactions aren't limited to Earth.
+Dialogue: 0,0:04:55.13,0:04:58.22,*Default,NTP,0000,0000,0000,,甲烷 氨气 氢气 液态水 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Methane, ammonia, hydrogen and water
+Dialogue: 0,0:04:58.26,0:05:02.01,*Default,NTP,0000,0000,0000,,在我们太阳系的星球上是非常富裕的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are plentiful on other cosmic bodies within our own Solar System,
+Dialogue: 0,0:05:02.86,0:05:06.74,*Default,NTP,0000,0000,0000,,许多科学家相信这在整个宇宙可谓得天独厚 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, many scientists believe, throughout the Universe.
+Dialogue: 0,0:05:08.79,0:05:11.21,*Default,NTP,0000,0000,0000,,著名天文学家卡尔·赛根\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Indeed, noted astronomer Carl Sagan,
+Dialogue: 0,0:05:11.25,0:05:13.14,*Default,NTP,0000,0000,0000,,一谈起米勒-尤里实验 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}speaking of the Miller-Urey test,
+Dialogue: 0,0:05:13.18,0:05:16.86,*Default,NTP,0000,0000,0000,,称之为最有说服力的实验 能使科学家们相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stated that no other single experiment had done more
+Dialogue: 0,0:05:16.90,0:05:21.46,*Default,NTP,0000,0000,0000,,整个宇宙有条件创造大量的生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to convince scientists that life is likely abundant in the Cosmos.
+Dialogue: 0,0:05:23.85,0:05:26.17,*Default,NTP,0000,0000,0000,,但基于水是关键中的关键 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the presence of water was key.
+Dialogue: 0,0:05:26.62,0:05:30.26,*Default,NTP,0000,0000,0000,,如此复杂的化学反应 不可能离开水这种媒介发生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such a chemical reaction could not have taken place without it.
+Dialogue: 0,0:05:31.04,0:05:33.24,*Default,NTP,0000,0000,0000,,水很容易将物质溶解在内 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Water is very good at dissolving materials,
+Dialogue: 0,0:05:33.24,0:05:35.08,*Default,NTP,0000,0000,0000,,是最好的溶剂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much better than many other liquids.
+Dialogue: 0,0:05:35.15,0:05:37.87,*Default,NTP,0000,0000,0000,,由于水能溶解各种养分 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so you can dissolve all sorts of nutrients
+Dialogue: 0,0:05:37.92,0:05:41.50,*Default,NTP,0000,0000,0000,,和化学物再加上催化剂的作用 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and chemical products, things that can act as catalysts,
+Dialogue: 0,0:05:41.54,0:05:44.43,*Default,NTP,0000,0000,0000,,这些化学反应就能产生生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}things that go through the chemical reactions of life.
+Dialogue: 0,0:05:44.49,0:05:48.65,*Default,NTP,0000,0000,0000,,所以水是储藏这些化学物的极佳液体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So water is an excellent liquid for storing all those chemicals.
+Dialogue: 0,0:05:50.44,0:05:53.37,*Default,NTP,0000,0000,0000,,在地球上只要哪里有水 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, where liquid water exists,
+Dialogue: 0,0:05:53.41,0:05:55.72,*Default,NTP,0000,0000,0000,,不管环境极端恶劣 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no matter how extreme the environment,
+Dialogue: 0,0:05:55.76,0:05:59.18,*Default,NTP,0000,0000,0000,,生命总会以各种形式存活 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some form of life also resides.
+Dialogue: 0,0:06:00.47,0:06:03.40,*Default,NTP,0000,0000,0000,,深海就有各式各样的生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It resides at ocean depths so great,
+Dialogue: 0,0:06:03.46,0:06:05.64,*Default,NTP,0000,0000,0000,,即便那里没有阳光照射 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sunlight cannot reach them.
+Dialogue: 0,0:06:06.21,0:06:10.83,*Default,NTP,0000,0000,0000,,生命存活于地表下面数英里潮湿的岩石裂缝中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It resides in damp, rocky crevices miles beneath the Earth's surface.
+Dialogue: 0,0:06:12.30,0:06:14.91,*Default,NTP,0000,0000,0000,,甚至存在于拥有极高含盐量的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it even resides in the extreme salinity
+Dialogue: 0,0:06:14.95,0:06:16.95,*Default,NTP,0000,0000,0000,,古老的加利福尼亚湖水中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of an ancient Californian lake,
+Dialogue: 0,0:06:17.35,0:06:20.41,*Default,NTP,0000,0000,0000,,那里含盐量超过10% \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a salt content of above 10%.
+Dialogue: 0,0:06:21.02,0:06:24.20,*Default,NTP,0000,0000,0000,,那比海水的含盐量还高三倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's three times the percent of salt in the ocean.
+Dialogue: 0,0:06:26.16,0:06:29.02,*Default,NTP,0000,0000,0000,,但地球上的生命同样还需要碳元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But life on Earth also needs carbon,
+Dialogue: 0,0:06:29.09,0:06:33.77,*Default,NTP,0000,0000,0000,,而碳实际上就是米勒-尤里实验最重要的产物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which was in fact the primary substance generated by the Miller-Urey experiment.
+Dialogue: 0,0:06:35.17,0:06:37.16,*Default,NTP,0000,0000,0000,,我们所知的各种生命体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All life forms as we know them,
+Dialogue: 0,0:06:37.20,0:06:41.01,*Default,NTP,0000,0000,0000,,是由大量的碳分子化合物所组成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}consist, in large part, of carbon molecules.
+Dialogue: 0,0:06:41.55,0:06:45.41,*Default,NTP,0000,0000,0000,,生命体必须要有能力制造长链碳分子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life needs some sort of ability to create long molecules
+Dialogue: 0,0:06:45.45,0:06:46.78,*Default,NTP,0000,0000,0000,,以记录生物信息 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can store information.
+Dialogue: 0,0:06:47.53,0:06:50.93,*Default,NTP,0000,0000,0000,,碳原子能惊人地组织长链分子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Carbon is amazing at building long molecules.
+Dialogue: 0,0:06:51.14,0:06:53.10,*Default,NTP,0000,0000,0000,,比如说 DNA分子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, for example, the DNA molecule
+Dialogue: 0,0:06:53.17,0:06:56.30,*Default,NTP,0000,0000,0000,,有数十亿个碱基对的长度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is sort of a billion base pairs long.
+Dialogue: 0,0:06:56.36,0:06:59.95,*Default,NTP,0000,0000,0000,,如果你把细胞中的某个DNA分子展开成原子排列 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you stretched out a single DNA molecule from one of your cells,
+Dialogue: 0,0:06:59.95,0:07:01.29,*Default,NTP,0000,0000,0000,,那将有1码长 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be a yard long.
+Dialogue: 0,0:07:01.44,0:07:03.29,*Default,NTP,0000,0000,0000,,而这只是你细胞中的万亿分之一的DNA \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From a single one of your trillion of cells.
+Dialogue: 0,0:07:03.45,0:07:07.87,*Default,NTP,0000,0000,0000,,所以生命体必须通过某种方法记录如此巨量的生物信息 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you need something that can store the absolute huge amount of information
+Dialogue: 0,0:07:07.94,0:07:13.10,*Default,NTP,0000,0000,0000,,这样就有了各式各样的生物 比如狮子 人类 树木 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it takes to build a creature like a lion, or a human or a tree.
+Dialogue: 0,0:07:14.68,0:07:19.02,*Default,NTP,0000,0000,0000,,但对于银河系内的其他星球或是银河系之外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if life has taken hold elsewhere in our galaxy, or beyond,
+Dialogue: 0,0:07:19.40,0:07:22.88,*Default,NTP,0000,0000,0000,,上述推论还适用吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would these conditions necessarily hold true?
+Dialogue: 0,0:07:23.50,0:07:27.66,*Default,NTP,0000,0000,0000,,外星生命体是否也基于水和碳？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would extraterrestrial life be water and carbon based?
+Dialogue: 0,0:07:28.45,0:07:34.79,*Default,NTP,0000,0000,0000,,只有DNA才能形成智能生命？ 外星人看上去是否和我们一样？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would DNA shape intelligent life, and would the aliens look anythink like us?
+Dialogue: 0,0:07:35.47,0:07:37.18,*Default,NTP,0000,0000,0000,,也许他们和我们有一点点像 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe they would look a little bit like us,
+Dialogue: 0,0:07:37.22,0:07:39.62,*Default,NTP,0000,0000,0000,,但这得非常非常巧合 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but that would be very, very coincidental.
+Dialogue: 0,0:07:39.66,0:07:42.78,*Default,NTP,0000,0000,0000,,比方说一只跑到灌木丛后面的地松鼠 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, I just saw a ground squirrel running behind a bush over here,
+Dialogue: 0,0:07:42.82,0:07:45.17,*Default,NTP,0000,0000,0000,,它和我们居住在同一个星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and he inhabits the same planet I do,
+Dialogue: 0,0:07:45.17,0:07:48.10,*Default,NTP,0000,0000,0000,,可能它70%的DNA和人类相同 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}probably 70% of his DNA is the same as mine.
+Dialogue: 0,0:07:48.14,0:07:51.32,*Default,NTP,0000,0000,0000,,但它一点也不像我 那么外星人怎会长的像人类？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He doesn't look like me. So why would the aliens look like me?
+Dialogue: 0,0:07:51.36,0:07:52.73,*Default,NTP,0000,0000,0000,,他们很可能不像人类 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They probably wouldn't.
+Dialogue: 0,0:07:54.18,0:07:57.58,*Default,NTP,0000,0000,0000,,有一位科学家花了大量时间思考这个问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A scientist who has spent time pondering such questions,
+Dialogue: 0,0:07:57.62,0:08:00.28,*Default,NTP,0000,0000,0000,,并渲染外星人可能的长相 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and rendering speculative alien forms,
+Dialogue: 0,0:08:00.32,0:08:05.07,*Default,NTP,0000,0000,0000,,他就是罗伯特·赫特博士来自加州科技大学 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is Dr. Robert Hurt, at the California Institute of Technology.
+Dialogue: 0,0:08:06.02,0:08:08.54,*Default,NTP,0000,0000,0000,,科特主攻可视化科学 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hurt is a visualization scientist,
+Dialogue: 0,0:08:08.58,0:08:12.50,*Default,NTP,0000,0000,0000,,他利用史皮哲太空望远镜反馈的数据 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}who uses data returned by the Spitzer space telescope
+Dialogue: 0,0:08:12.57,0:08:17.30,*Default,NTP,0000,0000,0000,,渲染太空深处物体和演变的景象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to render images of deep space objects and processes.
+Dialogue: 0,0:08:17.52,0:08:23.03,*Default,NTP,0000,0000,0000,,为了找到最佳的可视方法来解释复杂高端的科技概念 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To try to find the best visual ways of explaining complex technical concepts
+Dialogue: 0,0:08:23.07,0:08:24.55,*Default,NTP,0000,0000,0000,,只有通过图像 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but through imagery.
+Dialogue: 0,0:08:24.60,0:08:28.36,*Default,NTP,0000,0000,0000,,这些图像是围绕着行星各种形式的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planets that have been studied around other stars,
+Dialogue: 0,0:08:28.36,0:08:30.95,*Default,NTP,0000,0000,0000,,星体和星云的形成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ways that stars and nebulae form,
+Dialogue: 0,0:08:31.11,0:08:34.39,*Default,NTP,0000,0000,0000,,正在遥远的宇宙深处的星系里进行中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}processes going on galaxies in the distant Universe.
+Dialogue: 0,0:08:34.46,0:08:36.47,*Default,NTP,0000,0000,0000,,遥远到宇宙大爆炸的边缘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the way out to the edge of the Big Bang.
+Dialogue: 0,0:08:39.74,0:08:42.57,*Default,NTP,0000,0000,0000,,在这个课题里 赫特博士决定利用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But for this programme, Dr. Hurt has agreed to use
+Dialogue: 0,0:08:42.61,0:08:47.24,*Default,NTP,0000,0000,0000,,已知的科学数据随机勾画出外星人的样子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}known scientific data to render a speculative alien life form.
+Dialogue: 0,0:08:49.17,0:08:52.78,*Default,NTP,0000,0000,0000,,他选择了木星来进行外星人刻画 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For his alien world, he's chosen Jupiter.
+Dialogue: 0,0:08:53.45,0:08:58.67,*Default,NTP,0000,0000,0000,,挑战很大 因为木星是一个巨大的气态星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A real challenge, since Jupiter is essentially a giant gas ball.
+Dialogue: 0,0:08:59.85,0:09:03.69,*Default,NTP,0000,0000,0000,,在那里我们没有立足之地 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here we have a place where there is no land to speak of,
+Dialogue: 0,0:09:03.73,0:09:06.92,*Default,NTP,0000,0000,0000,,这里的大气主要是氢还有氦 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the atmosphere is made primarily of hydrogen and helium gas,
+Dialogue: 0,0:09:06.96,0:09:09.30,*Default,NTP,0000,0000,0000,,虽然大气里也富有有机物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}though it's rich with organic compounds.
+Dialogue: 0,0:09:10.19,0:09:13.64,*Default,NTP,0000,0000,0000,,越深入大气层温度越暖 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as you go deeper into the atmosphere, it gets warmer
+Dialogue: 0,0:09:13.74,0:09:15.96,*Default,NTP,0000,0000,0000,,气压也远远增强 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and much higher pressures.
+Dialogue: 0,0:09:17.58,0:09:21.46,*Default,NTP,0000,0000,0000,,就当是一种空想实验 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, as a kind of thought experiment almost, we supposed ,
+Dialogue: 0,0:09:21.52,0:09:25.10,*Default,NTP,0000,0000,0000,,你能想象生活在那种环境里情况会怎么样？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what would you imagine living in an environment like that?
+Dialogue: 0,0:09:26.82,0:09:29.49,*Default,NTP,0000,0000,0000,,参考目前已知的唯一生物模型 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Referencing the only known model for life,
+Dialogue: 0,0:09:29.53,0:09:31.64,*Default,NTP,0000,0000,0000,,地球上的有机体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}living organisms on Earth,
+Dialogue: 0,0:09:31.68,0:09:35.77,*Default,NTP,0000,0000,0000,,赫特首先自问"地球上的生命必需物质是什么"？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hurt began by asking, "What does life on Earth need?"
+Dialogue: 0,0:09:35.81,0:09:39.84,*Default,NTP,0000,0000,0000,,你需要能量源 你需要化学物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You need a source of energy, you need the chemicals
+Dialogue: 0,0:09:39.88,0:09:43.62,*Default,NTP,0000,0000,0000,,生物依靠这些成长 这些原料是生命的基础 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that life on Earth needs to build, the materials that's constructed from.
+Dialogue: 0,0:09:49.36,0:09:54.21,*Default,NTP,0000,0000,0000,,木星上最重要的能量源就是微弱的阳光 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Jupiter, a primary source of energy is faint radiation from the Sun,
+Dialogue: 0,0:09:54.26,0:09:57.30,*Default,NTP,0000,0000,0000,,照耀在木星大气层的顶层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}striking the top of the planet's atmosphere.
+Dialogue: 0,0:10:01.08,0:10:05.54,*Default,NTP,0000,0000,0000,,目前已知的唯一一种作为生命基础原料的来源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the only known source of chemicals for use as building blocks for life
+Dialogue: 0,0:10:05.62,0:10:10.37,*Default,NTP,0000,0000,0000,,就是木星云毯上空旋转的有机化合物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are the organic compounds swirling at the Jovian cloud blanket.
+Dialogue: 0,0:10:12.90,0:10:15.05,*Default,NTP,0000,0000,0000,,要勾画出可能的生命形式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In considering a potential life form
+Dialogue: 0,0:10:15.09,0:10:18.04,*Default,NTP,0000,0000,0000,,就要考虑到长期环境的影响 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could take advantage of both long-term,
+Dialogue: 0,0:10:18.08,0:10:24.32,*Default,NTP,0000,0000,0000,,赫特博士想起来一条由卡尔萨根首次于70年代提出的理论:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dr. Hurt remembered an idea originally postulated by Carl Sagan in the 1970s:
+Dialogue: 0,0:10:24.80,0:10:28.30,*Default,NTP,0000,0000,0000,,"生命气球体"概念 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the notion of a sort of living gas balloon.
+Dialogue: 0,0:10:29.03,0:10:33.79,*Default,NTP,0000,0000,0000,,这种生物可以在木星大气层高处长期生存 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such a creature could remain aloft in the Jupiter's atmosphere indefinitely.
+Dialogue: 0,0:10:34.20,0:10:35.90,*Default,NTP,0000,0000,0000,,当然对木星而言也有一个问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course, there's a problem in Jupiter,
+Dialogue: 0,0:10:35.94,0:10:39.64,*Default,NTP,0000,0000,0000,,木星大气层的主要组成部分 是我们已知的最轻气体:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that Jupiter's atmosphere is already made of the lightest gas we know of:
+Dialogue: 0,0:10:39.65,0:10:40.65,*Default,NTP,0000,0000,0000,,氢 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hydrogen.
+Dialogue: 0,0:10:40.70,0:10:44.90,*Default,NTP,0000,0000,0000,,所以你不能给气球冲比氢气还轻的气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, you can't really make a lighter- than-hydrogen balloon.
+Dialogue: 0,0:10:46.16,0:10:49.32,*Default,NTP,0000,0000,0000,,如果你想利用气球浮游在木星大气层上空的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if you want a balloon to be able to float in Jupiter's atmosphere,
+Dialogue: 0,0:10:49.36,0:10:51.81,*Default,NTP,0000,0000,0000,,所以你必须给气球内气体加热 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it actually has to be a hot air balloon.
+Dialogue: 0,0:10:53.49,0:10:56.56,*Default,NTP,0000,0000,0000,,赫特发明了一种外星有机体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hurt has invented an extraterrestrial organism
+Dialogue: 0,0:10:56.56,0:10:59.11,*Default,NTP,0000,0000,0000,,与其说是动物还不如说是植物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is really more plant than animal.
+Dialogue: 0,0:10:59.65,0:11:04.30,*Default,NTP,0000,0000,0000,,气球状的植物膨胀 以热空气提供浮力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A balloon-like plant inflated and kept buoyant by hot air.
+Dialogue: 0,0:11:05.39,0:11:08.49,*Default,NTP,0000,0000,0000,,如果你想要靠自身产生热量的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's going to be really expensive in terms of biology
+Dialogue: 0,0:11:08.49,0:11:10.32,*Default,NTP,0000,0000,0000,,那将耗费大量的生物能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to generate that heat yourself,
+Dialogue: 0,0:11:10.41,0:11:15.36,*Default,NTP,0000,0000,0000,,所以设想一下一个生物体表皮非常黑而且非常薄 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so, instead, if we imagine a creature that has a very dark skin, very thin,
+Dialogue: 0,0:11:15.40,0:11:18.91,*Default,NTP,0000,0000,0000,,这样能利用太阳辐射在内部产生热量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that allows solar radiation to heat the gasses inside,
+Dialogue: 0,0:11:18.95,0:11:21.20,*Default,NTP,0000,0000,0000,,这样的话就能制造悬浮装置 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you might be able to create something that will levitate,
+Dialogue: 0,0:11:21.23,0:11:23.38,*Default,NTP,0000,0000,0000,,至少白天能悬浮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at least during the daylight hours,
+Dialogue: 0,0:11:23.45,0:11:26.07,*Default,NTP,0000,0000,0000,,只要其吸收太阳能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just by absorbing solar radiation.
+Dialogue: 0,0:11:27.45,0:11:30.01,*Default,NTP,0000,0000,0000,,夜晚植物就失去了热源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At night, the plant would lose its heat source,
+Dialogue: 0,0:11:30.05,0:11:34.39,*Default,NTP,0000,0000,0000,,但赫特博士在生物设计方面允许这种瑕疵 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but Dr. Hurt has allowed for this problem in the creature's design.
+Dialogue: 0,0:11:34.62,0:11:38.14,*Default,NTP,0000,0000,0000,,它还能自己成形像是降落伞那样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It also has a shape that is well adapted to act kind of like a parachute
+Dialogue: 0,0:11:38.18,0:11:41.96,*Default,NTP,0000,0000,0000,,当其不足以加热自身气体像气球那样漂浮时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can ride thermals when it's not able to heat its own gasses
+Dialogue: 0,0:11:42.00,0:11:43.58,*Default,NTP,0000,0000,0000,,能驾驭热能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and float like a balloon.
+Dialogue: 0,0:11:43.73,0:11:47.30,*Default,NTP,0000,0000,0000,,所以在夜晚 它可能下沉到大气层低处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, in the night time, it might sink down lower into the atmosphere
+Dialogue: 0,0:11:47.34,0:11:51.25,*Default,NTP,0000,0000,0000,,但是一旦其吸收热能 还会再次上升 简直就像滑翔机 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but, by finding thermals, it could ride this up, like a glider almost.
+Dialogue: 0,0:11:52.57,0:11:56.90,*Default,NTP,0000,0000,0000,,在低纬度的生存时光实际上对这种生物极为有利 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Time spent at lower altitudes would actually be beneficial for the creature.
+Dialogue: 0,0:11:56.94,0:12:00.23,*Default,NTP,0000,0000,0000,,那里养料颇丰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's here that its food is most plentiful.
+Dialogue: 0,0:12:00.69,0:12:04.63,*Default,NTP,0000,0000,0000,,我在植物底部设计了一种"悬空根" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I've given it a kind of air-root system that hangs at the bottom.
+Dialogue: 0,0:12:04.70,0:12:07.31,*Default,NTP,0000,0000,0000,,当它下降到大气层低处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it sinks into the lower parts of the atmosphere,
+Dialogue: 0,0:12:07.35,0:12:11.23,*Default,NTP,0000,0000,0000,,屏幕就会显示并列出木星大气层中我们已知的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it can screen out, and pull up some of those organic compounds we know exist
+Dialogue: 0,0:12:11.27,0:12:13.17,*Default,NTP,0000,0000,0000,,有机化合物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the atmosphere of Jupiter.
+Dialogue: 0,0:12:16.43,0:12:19.58,*Default,NTP,0000,0000,0000,,当然赫特博士创造的木星气球植物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course, Dr. Hurt's creation of the Jovian-balloon plant,
+Dialogue: 0,0:12:19.62,0:12:23.50,*Default,NTP,0000,0000,0000,,纯属虚构 不过是自娱自乐罢了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}represents nothing more than an entertaining exercise in extreme,
+Dialogue: 0,0:12:23.54,0:12:26.03,*Default,NTP,0000,0000,0000,,虽然有满足科学基础和概率论 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}though science-based, speculation.
+Dialogue: 0,0:12:28.75,0:12:32.82,*Default,NTP,0000,0000,0000,,但是我们太阳系内未知星体上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the possibility that some form of life might actually now exist
+Dialogue: 0,0:12:32.86,0:12:35.51,*Default,NTP,0000,0000,0000,,存在某种生命形式的可能性 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on other cosmic bodies in our Solar System,
+Dialogue: 0,0:12:35.55,0:12:40.17,*Default,NTP,0000,0000,0000,,对此许多太空生物学家和地质学家相当肯定 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is very real to many astro-biologists and geologists.
+Dialogue: 0,0:12:41.32,0:12:44.99,*Default,NTP,0000,0000,0000,,比如说木星的邻居 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And one such body is right next-door to Jupiter,
+Dialogue: 0,0:12:45.06,0:12:48.90,*Default,NTP,0000,0000,0000,,冰雪覆盖的木星卫星欧罗巴(木卫二) \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ice-covered Jovian moon, Europa.
+Dialogue: 0,0:12:53.54,0:12:56.66,*Default,NTP,0000,0000,0000,,木卫二距离地球37亿英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}370 million miles from Earth,
+Dialogue: 0,0:12:57.05,0:12:59.95,*Default,NTP,0000,0000,0000,,围绕着气体巨星--木星旋转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbitting the giant gas planet Jupiter,
+Dialogue: 0,0:13:00.23,0:13:05.24,*Default,NTP,0000,0000,0000,,是太阳系中外星生命最有可能栖息的港湾 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the most likely harbour for extraterrestrial life in our Solar System,
+Dialogue: 0,0:13:05.34,0:13:06.67,*Default,NTP,0000,0000,0000,,木卫二 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Europa.
+Dialogue: 0,0:13:07.32,0:13:11.21,*Default,NTP,0000,0000,0000,,这个冰封的球体和月球差不多大小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an ice-covered ball, about the size of our Moon,
+Dialogue: 0,0:13:11.25,0:13:14.05,*Default,NTP,0000,0000,0000,,大致是地球体积的四分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 1/4 the size of Earth.
+Dialogue: 0,0:13:14.71,0:13:17.15,*Default,NTP,0000,0000,0000,,科学家们相信木卫二表面的冰层之下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe the ice on Europa
+Dialogue: 0,0:13:17.20,0:13:20.55,*Default,NTP,0000,0000,0000,,整个星球都是液态水的海洋 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is covering a global ocean of liquid water.
+Dialogue: 0,0:13:21.87,0:13:27.34,*Default,NTP,0000,0000,0000,,铁证之一就是木卫二是电磁能的导体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A convincing indicator is that Europa is a conductor of electromagnetic energy.
+Dialogue: 0,0:13:27.86,0:13:31.44,*Default,NTP,0000,0000,0000,,它能感应木星的电磁场 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It conducts the magnetic field generated by Jupiter.
+Dialogue: 0,0:13:32.40,0:13:35.81,*Default,NTP,0000,0000,0000,,这种传导是一种标志 至少我们认为如此 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This conduction is the signature, or we think it's the signature,
+Dialogue: 0,0:13:35.85,0:13:39.01,*Default,NTP,0000,0000,0000,,说明了木卫二被盐水海洋覆盖 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of salty water inside Europa.
+Dialogue: 0,0:13:40.63,0:13:43.08,*Default,NTP,0000,0000,0000,,科学家们认为木卫二覆盖水层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's believed that the water layer on Europa
+Dialogue: 0,0:13:43.15,0:13:46.93,*Default,NTP,0000,0000,0000,,其厚度达到100多英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might be as much as 100 miles thick.
+Dialogue: 0,0:13:47.88,0:13:50.97,*Default,NTP,0000,0000,0000,,别忘了木卫二体积和我们的月球差不多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, remember Europa is similar in size to the Earth's Moon,
+Dialogue: 0,0:13:51.01,0:13:54.19,*Default,NTP,0000,0000,0000,,那意味着 虽然木卫二是个小个子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that means that, even though it's a smaller body,
+Dialogue: 0,0:13:54.25,0:13:57.21,*Default,NTP,0000,0000,0000,,但其拥有的水量比整个地球所有海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it actually has twice the amount of liquid water
+Dialogue: 0,0:13:57.25,0:14:00.68,*Default,NTP,0000,0000,0000,,水量总和的两倍还多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of all of the oceans on Earth put together.
+Dialogue: 0,0:14:01.17,0:14:05.29,*Default,NTP,0000,0000,0000,,当然 液态水使得地球有条件创造生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And, of course, liquid water is what makes life possible on Earth.
+Dialogue: 0,0:14:05.65,0:14:10.38,*Default,NTP,0000,0000,0000,,所以 科学家以此为参考探寻外星生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, scientists who make it their business to quest for extraterrestrial life,
+Dialogue: 0,0:14:10.42,0:14:14.13,*Default,NTP,0000,0000,0000,,并聚焦在木卫二的研究上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are keenly focused on the study of Europa.
+Dialogue: 0,0:14:17.10,0:14:19.10,*Default,NTP,0000,0000,0000,,但是液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how could liquid water,
+Dialogue: 0,0:14:19.14,0:14:22.54,*Default,NTP,0000,0000,0000,,在华氏零下32度就能结冰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which freezes at temperatures below 32,
+Dialogue: 0,0:14:23.63,0:14:28.57,*Default,NTP,0000,0000,0000,,如何能够在比地球到太阳距离还远5倍之遥处不结冰？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exist on a moon five times as far away from the Sun as the Earth?
+Dialogue: 0,0:14:30.30,0:14:34.05,*Default,NTP,0000,0000,0000,,木卫二绕木星的轨道是椭圆形的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Europa orbits Jupiter in an eliptical pattern.
+Dialogue: 0,0:14:34.15,0:14:38.70,*Default,NTP,0000,0000,0000,,时而接近木星 时而远离木星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sometimes it's close to Jupiter, and sometimes is farther away.
+Dialogue: 0,0:14:39.14,0:14:42.68,*Default,NTP,0000,0000,0000,,接近木星时 被木星引力拉扯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it's close to Jupiter it's stretched by Jupiter's gravity,
+Dialogue: 0,0:14:42.88,0:14:44.98,*Default,NTP,0000,0000,0000,,我们称之为潮汐效应 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's an effect that we call tides,
+Dialogue: 0,0:14:45.02,0:14:48.25,*Default,NTP,0000,0000,0000,,远离木星时 拉扯的程度就小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and when it gets further away it's stretched less.
+Dialogue: 0,0:14:48.36,0:14:51.72,*Default,NTP,0000,0000,0000,,这意味着木卫二的星体时刻在运动着 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it means that the body of Europa is continually worked.
+Dialogue: 0,0:14:53.84,0:14:57.50,*Default,NTP,0000,0000,0000,,拉扯造成的摩擦在星球内部产生热量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Friction caused by this stretching generates heat,
+Dialogue: 0,0:14:57.88,0:15:01.86,*Default,NTP,0000,0000,0000,,就好比反复擦橡皮时产生热量一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just as a rubber ball heats up when it's squeezed repeatedly.
+Dialogue: 0,0:15:03.64,0:15:08.52,*Default,NTP,0000,0000,0000,,放大到行星规模 我们称之为潮汐加热的过程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the planetary scale, this process is called tidal heating,
+Dialogue: 0,0:15:08.62,0:15:12.16,*Default,NTP,0000,0000,0000,,能够产生足够的热量 使得\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it creates enough heat, possibly, to keep H2O
+Dialogue: 0,0:15:12.27,0:15:16.30,*Default,NTP,0000,0000,0000,,木卫二地表下数英里的水保持液态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}miles below the surface of Europa, in liquid form.
+Dialogue: 0,0:15:17.23,0:15:19.35,*Default,NTP,0000,0000,0000,,这种拉扯效应 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It also appears that this stretching
+Dialogue: 0,0:15:19.39,0:15:22.82,*Default,NTP,0000,0000,0000,,同样使得木星卫星的表面冰层碎裂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}causes fractures in the Jovian moon's icy crust.
+Dialogue: 0,0:15:23.42,0:15:26.09,*Default,NTP,0000,0000,0000,,试想一下如果你想要改变一个鸡蛋的形状 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine if you were trying to change the shape of an egg,
+Dialogue: 0,0:15:27.41,0:15:30.40,*Default,NTP,0000,0000,0000,,蛋壳会怎样？ 蛋壳肯定会破裂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what would happen to the shell? The shell would crack.
+Dialogue: 0,0:15:31.39,0:15:33.82,*Default,NTP,0000,0000,0000,,当我们观察木卫二的表面时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when we look at the surface of Europa,
+Dialogue: 0,0:15:33.92,0:15:36.31,*Default,NTP,0000,0000,0000,,到处都发现线条 这些线条明显地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we see lines all over the place, which are almost certainly,
+Dialogue: 0,0:15:36.41,0:15:38.84,*Default,NTP,0000,0000,0000,,标记着冰层碎裂之处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}marking the locations of cracks.
+Dialogue: 0,0:15:41.05,0:15:45.08,*Default,NTP,0000,0000,0000,,这些裂缝频繁闭合 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The cracks appear to open and close frequently.
+Dialogue: 0,0:15:46.07,0:15:48.02,*Default,NTP,0000,0000,0000,,这些裂缝潜在的作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the potential for these cracks
+Dialogue: 0,0:15:48.07,0:15:51.10,*Default,NTP,0000,0000,0000,,就是使得地下水和地表水相作用 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to allow sub-surface water to interact with the surface,
+Dialogue: 0,0:15:51.38,0:15:56.25,*Default,NTP,0000,0000,0000,,强烈地暗示着木卫二上极有可能存在生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has important implications for the possibility of life on Europa.
+Dialogue: 0,0:15:57.32,0:15:59.99,*Default,NTP,0000,0000,0000,,海洋水冲进这些裂缝里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Water from the ocean is gonna rush up into the crack,
+Dialogue: 0,0:16:00.09,0:16:03.59,*Default,NTP,0000,0000,0000,,而当其冲出裂缝时 就会结冰… 慢慢开始结冰 \Nand when it rushes up it's gonna freeze… start to freeze.
+Dialogue: 0,0:16:03.70,0:16:06.29,*Default,NTP,0000,0000,0000,,几小时后当裂缝闭合时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A few hours later, when the crack closes,
+Dialogue: 0,0:16:06.39,0:16:09.33,*Default,NTP,0000,0000,0000,,内部水就会被挤出表面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's gonna squeeze that slush up to the surface.
+Dialogue: 0,0:16:09.43,0:16:12.52,*Default,NTP,0000,0000,0000,,所以木卫二表面到处可见这种线条 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So wherever we see these lines on Europa,
+Dialogue: 0,0:16:12.62,0:16:17.02,*Default,NTP,0000,0000,0000,,其实就是双脊 每条裂缝两边各一座脊 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are double ridges, one ridge lining along each side of the crack.
+Dialogue: 0,0:16:19.93,0:16:23.91,*Default,NTP,0000,0000,0000,,大多数水毫无疑问隐藏在这些裂缝下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the water, no doubt, sloshes back down out of the crack
+Dialogue: 0,0:16:24.52,0:16:26.56,*Default,NTP,0000,0000,0000,,形成地下海洋 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the ocean below.
+Dialogue: 0,0:16:26.86,0:16:30.56,*Default,NTP,0000,0000,0000,,地下海洋携带着某些生命必需物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's likely to carry with it some of the building blocks for life
+Dialogue: 0,0:16:30.66,0:16:33.15,*Default,NTP,0000,0000,0000,,而这些物质就来自地表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that have seeped down from the surface.
+Dialogue: 0,0:16:35.54,0:16:38.92,*Default,NTP,0000,0000,0000,,木卫二冰层的顶部含有氧气 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The top of Europa's ice layer holds oxygen.
+Dialogue: 0,0:16:39.29,0:16:42.05,*Default,NTP,0000,0000,0000,,氧气是从冰川水分解而来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's been separated from the H2O in the ice
+Dialogue: 0,0:16:42.15,0:16:45.76,*Default,NTP,0000,0000,0000,,始作俑者就是木星磁场的带电粒子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by charged particles in Jupiter's magnetic field.
+Dialogue: 0,0:16:47.40,0:16:52.54,*Default,NTP,0000,0000,0000,,还有木卫二表面极有可能含有有机物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In addition, the surface of Europa likely has organic compounds
+Dialogue: 0,0:16:52.59,0:16:55.50,*Default,NTP,0000,0000,0000,,有机物来自外来彗星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that come down from comets and bits of comets,
+Dialogue: 0,0:16:55.61,0:16:59.36,*Default,NTP,0000,0000,0000,,这样地表就又含有另一种生命必需原料 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so again, the surface has another ingredient that's important for life.
+Dialogue: 0,0:17:02.78,0:17:06.20,*Default,NTP,0000,0000,0000,,亚利桑那大学的理查德·金伯格博士 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dr. Richard Grinberg, of the University of Arizona,
+Dialogue: 0,0:17:06.30,0:17:09.44,*Default,NTP,0000,0000,0000,,用图片描绘了潜在生命形式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has graphically depicted how potential lifeforms
+Dialogue: 0,0:17:09.54,0:17:12.95,*Default,NTP,0000,0000,0000,,如何利用木卫二冰层裂缝创造的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might take advantage of the ecosystem created by a crack
+Dialogue: 0,0:17:13.05,0:17:15.29,*Default,NTP,0000,0000,0000,,生态系统存活下来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in Europa's icy crust.
+Dialogue: 0,0:17:17.33,0:17:20.08,*Default,NTP,0000,0000,0000,,虽然再往外几英尺 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although the outer few inches
+Dialogue: 0,0:17:20.18,0:17:24.26,*Default,NTP,0000,0000,0000,,由于辐射的关系 没有适宜生存的环境 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would not be a good place for life to live because of radiation,
+Dialogue: 0,0:17:24.73,0:17:26.87,*Default,NTP,0000,0000,0000,,但你只要往里仅仅几英尺 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}once you go down just a few feet,
+Dialogue: 0,0:17:27.07,0:17:29.37,*Default,NTP,0000,0000,0000,,生命就能免受辐射侵袭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}life would be safe from radiation and also
+Dialogue: 0,0:17:29.41,0:17:32.22,*Default,NTP,0000,0000,0000,,还能吸收阳光 进行光合作用 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would get enough sunlight for photosynthesis.
+Dialogue: 0,0:17:32.54,0:17:35.78,*Default,NTP,0000,0000,0000,,假如那里有能够进行光合作用的高级有机物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, you could have an organism at that level that photosynthesizes
+Dialogue: 0,0:17:35.89,0:17:38.18,*Default,NTP,0000,0000,0000,,就能和海洋互动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would be connected to the ocean
+Dialogue: 0,0:17:38.28,0:17:41.22,*Default,NTP,0000,0000,0000,,只要通过每天的潮起潮落 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by this tidal water that rushes up and down every day.
+Dialogue: 0,0:17:44.19,0:17:48.12,*Default,NTP,0000,0000,0000,,木卫二的自转周期远远长于地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A day on Europa is much longer than a day on Earth,
+Dialogue: 0,0:17:48.31,0:17:51.58,*Default,NTP,0000,0000,0000,,大约是地球自转周期的3.5倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 3.5 times the length of an Earth day.
+Dialogue: 0,0:17:52.76,0:17:56.50,*Default,NTP,0000,0000,0000,,能动型有机物就有时间到裂缝处探险 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Time for mobile organisms to venture into the fissure.
+Dialogue: 0,0:17:57.55,0:18:01.70,*Default,NTP,0000,0000,0000,,你能想象其他有机物依附在裂缝壁表面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could imagine other organisms that grasp on to the walls of these cracks
+Dialogue: 0,0:18:01.80,0:18:07.94,*Default,NTP,0000,0000,0000,,沐浴着每天流过他们身边的水流 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and just exploit the flow of ocean water coming past them every day.
+Dialogue: 0,0:18:11.13,0:18:13.74,*Default,NTP,0000,0000,0000,,伞状或水母状生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even molusc-like or jellyfish-like creatures
+Dialogue: 0,0:18:13.80,0:18:16.28,*Default,NTP,0000,0000,0000,,利用裂缝水流上升 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might rise with the water into the cracks
+Dialogue: 0,0:18:16.38,0:18:19.57,*Default,NTP,0000,0000,0000,,以吸收地表处的养分 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to take in fresh nutrients from the surface.
+Dialogue: 0,0:18:22.95,0:18:27.36,*Default,NTP,0000,0000,0000,,木卫二被冰层覆盖的海洋 吸收能量和养料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life in Europa's ice-covered oceans may also draw energy and nutrients
+Dialogue: 0,0:18:27.40,0:18:30.26,*Default,NTP,0000,0000,0000,,的来源不仅仅是冰层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a place other than the icy surface.
+Dialogue: 0,0:18:33.65,0:18:36.96,*Default,NTP,0000,0000,0000,,木卫二核心的剩余热量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's possible that residual heat at Europa's core
+Dialogue: 0,0:18:37.06,0:18:40.53,*Default,NTP,0000,0000,0000,,能够产生深海热液喷口 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has resulted in deep-see hydrothermal vents.
+Dialogue: 0,0:18:42.65,0:18:46.99,*Default,NTP,0000,0000,0000,,在地球上 这些喷口处居住着各种奇异生物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, such vents host multiple forms of exotic life.
+Dialogue: 0,0:18:47.89,0:18:50.73,*Default,NTP,0000,0000,0000,,喷出的水十分滚烫 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What happens is that reducing water that's very hot
+Dialogue: 0,0:18:50.78,0:18:54.03,*Default,NTP,0000,0000,0000,,还有大量重金属也随地下水纷至沓来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and has lots of heavy metals, comes out through the ground water
+Dialogue: 0,0:18:54.07,0:18:57.53,*Default,NTP,0000,0000,0000,,好比海洋给自己输液而生命所依赖的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and is injected into the ocean itself, and there's a huge gradient
+Dialogue: 0,0:18:57.61,0:19:01.06,*Default,NTP,0000,0000,0000,,化学物质的含量也有着明显梯度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the chemical composition that life can feed off of.
+Dialogue: 0,0:19:01.82,0:19:04.10,*Default,NTP,0000,0000,0000,,这种化学能的来源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This chemical source of energy allows huge
+Dialogue: 0,0:19:04.14,0:19:08.15,*Default,NTP,0000,0000,0000,,使得大量的细菌和微生物能够存活下来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}populations of bacteriae and other very small lifeforms to exist,
+Dialogue: 0,0:19:08.19,0:19:11.13,*Default,NTP,0000,0000,0000,,还有一整套生态环境以此为食物链的基础 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and there's a whole ecosystem, a whole food chain on top of that,
+Dialogue: 0,0:19:11.23,0:19:15.78,*Default,NTP,0000,0000,0000,,使得鱼 各种虫子在此繁荣昌盛 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leading up to fish, and various worms that thrive at those locations.
+Dialogue: 0,0:19:18.51,0:19:22.47,*Default,NTP,0000,0000,0000,,近年来有人提出往木卫二发射探测器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In recent years, talk has arisen of sending a lander to Europa
+Dialogue: 0,0:19:22.57,0:19:26.10,*Default,NTP,0000,0000,0000,,穿透冰层探寻生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could penetrate the ice and probe for life.
+Dialogue: 0,0:19:28.03,0:19:30.53,*Default,NTP,0000,0000,0000,,但木卫二专家理查德深信 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Europa expert Richard Grinberg believes
+Dialogue: 0,0:19:30.58,0:19:35.10,*Default,NTP,0000,0000,0000,,探测器不穿透冰层 就能够探寻生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that a lander might uncover signs of life without penetrating the ice.
+Dialogue: 0,0:19:36.10,0:19:39.32,*Default,NTP,0000,0000,0000,,假如我们派航天飞船到木卫二探寻生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we send a spacecraft to Europa to look for life,
+Dialogue: 0,0:19:39.38,0:19:42.73,*Default,NTP,0000,0000,0000,,可能很轻易就能发现生命 简单的超乎想象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it might be pretty easy to find it, easier than people have realized.
+Dialogue: 0,0:19:43.29,0:19:46.77,*Default,NTP,0000,0000,0000,,大多数计划只是盘算着我们如何能穿透…\NMost planning has considered how do we get through these…
+Dialogue: 0,0:19:46.82,0:19:49.82,*Default,NTP,0000,0000,0000,,数英里厚的冰层 到达海洋 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these miles of ice to get down to the ocean.
+Dialogue: 0,0:19:50.38,0:19:52.90,*Default,NTP,0000,0000,0000,,要么是钻孔 要么是融冰 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How do you drill through, or melt your way through.
+Dialogue: 0,0:19:53.00,0:19:56.70,*Default,NTP,0000,0000,0000,,其实没必要 如果你能着陆 在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It may not be necessary. If you can land in a place
+Dialogue: 0,0:19:56.91,0:20:01.54,*Default,NTP,0000,0000,0000,,地下海洋的排水口和排冰口 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where liquid or ice has come up from the ocean recently,
+Dialogue: 0,0:20:01.61,0:20:04.34,*Default,NTP,0000,0000,0000,,你就能从这些冰块里找到生命信息 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you might find signs of organisms in that ice.
+Dialogue: 0,0:20:04.45,0:20:07.20,*Default,NTP,0000,0000,0000,,如果你地方挑的好 那里地质活动频繁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or if you land really smart and find an active place,
+Dialogue: 0,0:20:07.31,0:20:11.99,*Default,NTP,0000,0000,0000,,甚至能够采样到相当新鲜的海洋水 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you might actually be able to sample real fresh, oceanic water.
+Dialogue: 0,0:20:13.65,0:20:18.18,*Default,NTP,0000,0000,0000,,而困难之处就是我们自己破坏了实验环境 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The risk in that case, some feel, would be contaminating the icy moon.
+Dialogue: 0,0:20:19.13,0:20:21.12,*Default,NTP,0000,0000,0000,,如果我们自己携带微生物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we had micro-organisms
+Dialogue: 0,0:20:21.17,0:20:24.51,*Default,NTP,0000,0000,0000,,我们自己在飞船上沾上的微生物就会落到木卫二地表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that stowed away on a spacecraft that landed on the surface of Europa,
+Dialogue: 0,0:20:24.59,0:20:28.72,*Default,NTP,0000,0000,0000,,这些微生物又会流动到木卫二的液态水中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and those micro-organisms found their way into the liquid water of Europa,
+Dialogue: 0,0:20:28.86,0:20:31.75,*Default,NTP,0000,0000,0000,,结果我们在木卫二发现的生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we might later discover life on Europa
+Dialogue: 0,0:20:31.80,0:20:33.96,*Default,NTP,0000,0000,0000,,其实是我们自己带过去的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was life that we had sent there.
+Dialogue: 0,0:20:36.84,0:20:39.18,*Default,NTP,0000,0000,0000,,但是太阳系的某处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But elsewhere in our Solar System,
+Dialogue: 0,0:20:39.61,0:20:41.53,*Default,NTP,0000,0000,0000,,在另一颗遥远的卫星上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on another distant moon,
+Dialogue: 0,0:20:42.24,0:20:44.90,*Default,NTP,0000,0000,0000,,我们不必担心地球携带物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}earthly contamination isn't a danger.
+Dialogue: 0,0:20:46.87,0:20:50.34,*Default,NTP,0000,0000,0000,,因为那里的生命极端异样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life here would simply be too exotic.
+Dialogue: 0,0:20:53.68,0:20:57.68,*Default,NTP,0000,0000,0000,,自2004年 NASA(美国航空航天局)的卡西尼惠更斯探测器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since 2004, a NASA probe dubbed Cassini-Huygens
+Dialogue: 0,0:20:57.68,0:21:00.37,*Default,NTP,0000,0000,0000,,绕着土星旋转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has orbited Saturn,
+Dialogue: 0,0:21:00.74,0:21:05.26,*Default,NTP,0000,0000,0000,,多次经过土星最大的卫星 土卫六 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}making multiple flybyes at Saturn's largest moon, Titan.
+Dialogue: 0,0:21:06.56,0:21:09.37,*Default,NTP,0000,0000,0000,,土卫六体型巨大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Titan is an enormous planetary body,
+Dialogue: 0,0:21:09.57,0:21:12.70,*Default,NTP,0000,0000,0000,,是太阳系第二大卫星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the second largest moon in the Solar System.
+Dialogue: 0,0:21:12.80,0:21:15.55,*Default,NTP,0000,0000,0000,,比我们的月球大50% \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}50% larger than the Earth's Moon.
+Dialogue: 0,0:21:16.75,0:21:21.38,*Default,NTP,0000,0000,0000,,要不是土星的引力巨大 土卫六说不定还是一颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it wasn't in orbit around Saturn, Titan would be a planet in its own right.
+Dialogue: 0,0:21:23.43,0:21:27.28,*Default,NTP,0000,0000,0000,,但最令人印象深刻的是 许多科学家相信土卫六 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But most impressive of all, Titan, many scientists believe,
+Dialogue: 0,0:21:27.34,0:21:29.77,*Default,NTP,0000,0000,0000,,现在或者未来某个时刻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could now, or at some point in the future,
+Dialogue: 0,0:21:29.87,0:21:32.07,*Default,NTP,0000,0000,0000,,会是生命栖息之处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}be an abode for life.
+Dialogue: 0,0:21:33.34,0:21:36.47,*Default,NTP,0000,0000,0000,,土卫六的地质环境极其类似地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The geology is very much like Earth's.
+Dialogue: 0,0:21:36.67,0:21:39.19,*Default,NTP,0000,0000,0000,,地球上的各种地质运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the processes that we have on Earth,
+Dialogue: 0,0:21:39.39,0:21:42.28,*Default,NTP,0000,0000,0000,,风 侵蚀 湖泊 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wind, erosion, lakes,
+Dialogue: 0,0:21:42.85,0:21:45.53,*Default,NTP,0000,0000,0000,,火山喷发 山脉崛起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}vulcanism, mountain building,
+Dialogue: 0,0:21:45.79,0:21:47.21,*Default,NTP,0000,0000,0000,,撞击坑等等…\Nimpact craters…
+Dialogue: 0,0:21:47.51,0:21:53.10,*Default,NTP,0000,0000,0000,,我们都能在土卫六发现 土卫六的地质运动可谓丰富 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we find them all on Titan, so Titan is very rich in terms of geology.
+Dialogue: 0,0:21:55.30,0:21:58.49,*Default,NTP,0000,0000,0000,,但是它离太阳的距离远至8亿4千英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But at 840 million miles from the Sun,
+Dialogue: 0,0:21:58.86,0:22:02.87,*Default,NTP,0000,0000,0000,,九倍于地球 土卫六被牢牢地冰封 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nine times farther than Earth, Titan is beyond freezing.
+Dialogue: 0,0:22:04.72,0:22:10.20,*Default,NTP,0000,0000,0000,,其地表的极端温度甚至达到华氏零下300度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The mean temperature on its surface is almost -300.
+Dialogue: 0,0:22:11.58,0:22:15.16,*Default,NTP,0000,0000,0000,,冷到土卫六的地表水全部被冰封 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is so cold, and water on the surface of Titan is frozen
+Dialogue: 0,0:22:15.25,0:22:18.62,*Default,NTP,0000,0000,0000,,如此极端状况下 土卫六就是个岩石星球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to such an extreme state, it behaves like rock.
+Dialogue: 0,0:22:20.85,0:22:26.08,*Default,NTP,0000,0000,0000,,惠更斯探测器拍下的模糊照片 里面的岩石其实就是水 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rocks in this blurry photo taken by the Huygens lander, are in fact water.
+Dialogue: 0,0:22:29.13,0:22:32.89,*Default,NTP,0000,0000,0000,,如此的冷以至于地球上呈气态的碳氢化合物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is so cold that hydrocarbons, that are gasses on Earth
+Dialogue: 0,0:22:32.98,0:22:34.77,*Default,NTP,0000,0000,0000,,比如甲烷和乙烷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}such as methane and ethane,
+Dialogue: 0,0:22:35.12,0:22:38.05,*Default,NTP,0000,0000,0000,,在土卫六表面呈液态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are in a liquid state on the surface of Titan.
+Dialogue: 0,0:22:38.14,0:22:41.00,*Default,NTP,0000,0000,0000,,卡西尼探测器飞过时正好拍下照片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Cassini flybyes have spotted them.
+Dialogue: 0,0:22:42.59,0:22:46.31,*Default,NTP,0000,0000,0000,,我们能在其地表发现许多类似有机物的物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're seeing a lot of what looks like organic materials on the surface,
+Dialogue: 0,0:22:46.49,0:22:50.28,*Default,NTP,0000,0000,0000,,我们也能看见许多巨大液体块 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we're seeing large bodies of liquid.
+Dialogue: 0,0:22:50.69,0:22:53.29,*Default,NTP,0000,0000,0000,,但这不是液态水而是液态甲烷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's not liquid water, it's liquid methane,
+Dialogue: 0,0:22:53.38,0:22:56.00,*Default,NTP,0000,0000,0000,,可能还混合着一些乙烷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with possibly some ethane dissolved in it.
+Dialogue: 0,0:22:56.06,0:23:00.42,*Default,NTP,0000,0000,0000,,这些甲烷湖面积可以和大湖和小海洋相提并论 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are huge lakes on the size of great lakes or small seas.
+Dialogue: 0,0:23:04.00,0:23:07.14,*Default,NTP,0000,0000,0000,,外星生物学家甚至开始异想天开 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astrobiologists are beginning to entertain the notion
+Dialogue: 0,0:23:07.23,0:23:10.84,*Default,NTP,0000,0000,0000,,说有机物能在这种湖泊里生存 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that organisms could have developed in those lakes.
+Dialogue: 0,0:23:12.08,0:23:14.80,*Default,NTP,0000,0000,0000,,那种生命可谓极其异样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life could be very, very exotic.
+Dialogue: 0,0:23:14.89,0:23:19.71,*Default,NTP,0000,0000,0000,,我们思考过液态水中的生命形式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have been thinking of life in terms of water and liquid water.
+Dialogue: 0,0:23:20.30,0:23:23.50,*Default,NTP,0000,0000,0000,,但是液态碳氢化合物中的生命形式又会怎么样呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, could there be life in liquid hydrocarbons?
+Dialogue: 0,0:23:24.02,0:23:25.23,*Default,NTP,0000,0000,0000,,也许\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perhaps.
+Dialogue: 0,0:23:27.73,0:23:31.09,*Default,NTP,0000,0000,0000,,地球上的生命能存活于某些极端环境 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life on Earth exists in some very difficult places,
+Dialogue: 0,0:23:31.60,0:23:34.33,*Default,NTP,0000,0000,0000,,你不敢想象那里竟会有生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you wouldn't expect to find life.
+Dialogue: 0,0:23:35.10,0:23:38.63,*Default,NTP,0000,0000,0000,,我们称这些有机物为嗜极生物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we call these organisms extremophiles,
+Dialogue: 0,0:23:39.20,0:23:42.00,*Default,NTP,0000,0000,0000,,那是因为他们存活于某些极端环境下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's because they can live under extreme conditions.
+Dialogue: 0,0:23:44.12,0:23:48.36,*Default,NTP,0000,0000,0000,,比如说这里的莫诺湖 与世隔绝的湖 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, here, on Mono Lake, very alcaline lake.
+Dialogue: 0,0:23:48.70,0:23:53.20,*Default,NTP,0000,0000,0000,,然而嗜极生物竟在这里被发现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And yet, extremophiles have been found living here.
+Dialogue: 0,0:23:56.99,0:23:59.38,*Default,NTP,0000,0000,0000,,另一种可能性就是在土卫六历史的早期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another possibility is that life formed
+Dialogue: 0,0:23:59.43,0:24:01.67,*Default,NTP,0000,0000,0000,,生命更容易诞生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much earlier in Titan's history,
+Dialogue: 0,0:24:01.76,0:24:06.02,*Default,NTP,0000,0000,0000,,土卫六诞生时的巨大热量被保存着 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when a great deal of heat from the initial formation of the moon remained.
+Dialogue: 0,0:24:07.55,0:24:10.96,*Default,NTP,0000,0000,0000,,那时候土卫六的状况和原始地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At that time, conditions on Titan would've been very similar
+Dialogue: 0,0:24:11.05,0:24:13.39,*Default,NTP,0000,0000,0000,,十分类似 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to those on primordial Earth.
+Dialogue: 0,0:24:14.30,0:24:15.60,*Default,NTP,0000,0000,0000,,有大量的液态水 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was a lot of water there,
+Dialogue: 0,0:24:15.60,0:24:17.83,*Default,NTP,0000,0000,0000,,大量的氮 还有其他等等 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there was a lot of nitrogen, a lot of other things.
+Dialogue: 0,0:24:18.23,0:24:21.24,*Default,NTP,0000,0000,0000,,一旦你有了液态水 氮 碳…\NSo you've got warm water, nitrogen, carbon…
+Dialogue: 0,0:24:22.35,0:24:24.88,*Default,NTP,0000,0000,0000,,我们就联想到一系列化学反应 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we think some of these chemical processes
+Dialogue: 0,0:24:24.94,0:24:28.84,*Default,NTP,0000,0000,0000,,当初在地球上进行着 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that went on on Earth to start generating
+Dialogue: 0,0:24:28.93,0:24:32.85,*Default,NTP,0000,0000,0000,,产生了后来的生物 准生物原料 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the biological, pre-biological materials that later on would be
+Dialogue: 0,0:24:32.98,0:24:34.98,*Default,NTP,0000,0000,0000,,最终进化为生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}incorporated into life,
+Dialogue: 0,0:24:35.09,0:24:37.52,*Default,NTP,0000,0000,0000,,土卫六可能亦是如此 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that may have started on Titan also,
+Dialogue: 0,0:24:37.70,0:24:40.99,*Default,NTP,0000,0000,0000,,因为当时它在温暖的环境下 有着同样的化学原料 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the same kind of chemicals present in a warm environment.
+Dialogue: 0,0:24:43.33,0:24:47.12,*Default,NTP,0000,0000,0000,,假设土卫六的核心现在还是热的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some think it's possible that if Titan's core is still warm,
+Dialogue: 0,0:24:47.37,0:24:50.57,*Default,NTP,0000,0000,0000,,至少微生物能够在土卫六的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}microbial life at least might still be present
+Dialogue: 0,0:24:50.66,0:24:52.95,*Default,NTP,0000,0000,0000,,地下深处存活 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}deep below the moon's surface.
+Dialogue: 0,0:24:55.26,0:24:59.03,*Default,NTP,0000,0000,0000,,潮湿的岩石裂隙里还会存在活体有机物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Living organisms have been found surviving in damp rock crevices
+Dialogue: 0,0:24:59.12,0:25:01.97,*Default,NTP,0000,0000,0000,,就在地球地下2-3英里深处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}2 and 3 miles below the surface of the Earth.
+Dialogue: 0,0:25:04.45,0:25:09.09,*Default,NTP,0000,0000,0000,,如果你深入到土卫六地下 我说的"深入到"是指\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you go deep down into Titan, and when I say "deep down" I'm talking about
+Dialogue: 0,0:25:09.18,0:25:13.29,*Default,NTP,0000,0000,0000,,地下50公里或100公里 甚至地下200公里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}50 Km or 100 Km, maybe even a couple of hundred kilometers,
+Dialogue: 0,0:25:13.60,0:25:17.12,*Default,NTP,0000,0000,0000,,就像地球那样越往深处越热 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like Earth, as you go downward, it gets warmer.
+Dialogue: 0,0:25:17.52,0:25:21.22,*Default,NTP,0000,0000,0000,,貌似土卫六的水中还含有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it looks like probably at Titan there are materials
+Dialogue: 0,0:25:21.31,0:25:25.44,*Default,NTP,0000,0000,0000,,其他物质 比如氨能够当做抗冻剂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mixed in with the water, such as ammonia, that can act as anti-freeze,
+Dialogue: 0,0:25:25.69,0:25:28.61,*Default,NTP,0000,0000,0000,,我们知道液态水是各种化学反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we know this liquid water is a wonderful medium
+Dialogue: 0,0:25:28.70,0:25:32.91,*Default,NTP,0000,0000,0000,,的极佳媒介 有些化学反应甚至能产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for all kinds of chemical reactions, including the reactions that generate
+Dialogue: 0,0:25:33.40,0:25:36.43,*Default,NTP,0000,0000,0000,,氨基酸 还有其他准生物化学产物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}amino acids and other prebiotic chemicals.
+Dialogue: 0,0:25:38.94,0:25:43.40,*Default,NTP,0000,0000,0000,,虽然现在近距离观测土卫六受到限制 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At present, though, close observation of Titan's surface is limited.
+Dialogue: 0,0:25:43.49,0:25:48.11,*Default,NTP,0000,0000,0000,,土卫六隐蔽在致密的氮气 甲烷构成的大气层下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The moon is cloaked in a dense atmosphere of nitrogen and methane.
+Dialogue: 0,0:25:50.84,0:25:54.22,*Default,NTP,0000,0000,0000,,卡西尼探测器装备有红外成像装置 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Cassini probe is equipped with an infrared imager,
+Dialogue: 0,0:25:54.80,0:25:56.76,*Default,NTP,0000,0000,0000,,但是可见光波长下拍摄的照片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but photos shot in a visible wavelength
+Dialogue: 0,0:25:56.85,0:25:59.73,*Default,NTP,0000,0000,0000,,对实验分析更为有用 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are often much more useful to analysts.
+Dialogue: 0,0:26:01.12,0:26:05.41,*Default,NTP,0000,0000,0000,,你必须通过某种手段避开这个不透明大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have to, somehow, get around this opaque atmosphere
+Dialogue: 0,0:26:05.59,0:26:07.98,*Default,NTP,0000,0000,0000,,它妨碍了你观察土卫六表面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's obscuring your view of the surface.
+Dialogue: 0,0:26:08.07,0:26:10.74,*Default,NTP,0000,0000,0000,,但若要仔细观察土卫六表面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But to really see what's going on on the surface,
+Dialogue: 0,0:26:10.83,0:26:14.37,*Default,NTP,0000,0000,0000,,特别是实实在在弄清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and notably to get a really firm idea of what
+Dialogue: 0,0:26:14.51,0:26:18.46,*Default,NTP,0000,0000,0000,,土卫六表面万物的组成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the composition of all these different things that we see on the surface,
+Dialogue: 0,0:26:18.74,0:26:22.51,*Default,NTP,0000,0000,0000,,看样子我们只有亲自下去近距离观察 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it turns out we're going to have to go down there close to do that.
+Dialogue: 0,0:26:23.96,0:26:27.26,*Default,NTP,0000,0000,0000,,惠更斯探测器曾经降落到木卫六地表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Huygens lander has touched down on the moon
+Dialogue: 0,0:26:27.35,0:26:29.04,*Default,NTP,0000,0000,0000,,并反馈了图像 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sent back images.
+Dialogue: 0,0:26:29.85,0:26:31.93,*Default,NTP,0000,0000,0000,,但那个探测器不能移动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the lander is not mobile.
+Dialogue: 0,0:26:33.61,0:26:35.93,*Default,NTP,0000,0000,0000,,当你降落到某个行星时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you land on a planet,
+Dialogue: 0,0:26:36.36,0:26:40.23,*Default,NTP,0000,0000,0000,,的确就科学方面而言是一大进步 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of course, that brings tremendous advance in terms of science.
+Dialogue: 0,0:26:40.32,0:26:42.40,*Default,NTP,0000,0000,0000,,但这只是冰山一角 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's only one spot.
+Dialogue: 0,0:26:42.89,0:26:45.55,*Default,NTP,0000,0000,0000,,比如说 假如你正好降落在沙哈拉沙漠 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, how much of the Earth would you know
+Dialogue: 0,0:26:45.64,0:26:48.72,*Default,NTP,0000,0000,0000,,你能对地球真正了解多少？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you landed on the Sahara Desert, for example?
+Dialogue: 0,0:26:49.13,0:26:52.40,*Default,NTP,0000,0000,0000,,你无法看见我们这里的任何生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You wouldn't see the kind of life that we see here.
+Dialogue: 0,0:26:54.98,0:26:59.17,*Default,NTP,0000,0000,0000,,想要探索土卫六广袤的地表 一种可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One possibility for exploring vast expanses of the Titan's surface
+Dialogue: 0,0:26:59.50,0:27:03.70,*Default,NTP,0000,0000,0000,,就是利用飞行物 类似地球上的热气球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be to use a craft that works much like a hot-air balloon on Earth.
+Dialogue: 0,0:27:05.61,0:27:09.41,*Default,NTP,0000,0000,0000,,NASA(美国航空航天局)的喷气推进实验室研制出了一种气球飞行物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Jet Propulsion Laboratory is developing a balloon craft
+Dialogue: 0,0:27:09.59,0:27:12.38,*Default,NTP,0000,0000,0000,,既能用于土卫六的地表成像 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would carry both imaging gear and equipment
+Dialogue: 0,0:27:12.47,0:27:14.74,*Default,NTP,0000,0000,0000,,又能用于研究大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for studying the Titan atmosphere.
+Dialogue: 0,0:27:16.22,0:27:17.93,*Default,NTP,0000,0000,0000,,工程师认为气球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Engineers considera a balloon
+Dialogue: 0,0:27:18.02,0:27:21.10,*Default,NTP,0000,0000,0000,,是执行该任务最稳妥的平台 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most stable platform for such a mission.
+Dialogue: 0,0:27:21.81,0:27:27.15,*Default,NTP,0000,0000,0000,,如果气球在几小时内失去电子操控 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a balloon looses its electronic control for several hours,
+Dialogue: 0,0:27:27.81,0:27:30.51,*Default,NTP,0000,0000,0000,,没关系 你的显示屏上照样有信息 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no big deal, you can have something on board
+Dialogue: 0,0:27:30.60,0:27:33.15,*Default,NTP,0000,0000,0000,,感觉就像你对气球说 "好的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that senses that and tells the balloon, "Ok.
+Dialogue: 0,0:27:33.49,0:27:37.08,*Default,NTP,0000,0000,0000,,凭你自己的上升-下降直觉 飞到一个安全的高度就好 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Close your ascent-descent valve and just go to a safe altitude,
+Dialogue: 0,0:27:37.17,0:27:39.68,*Default,NTP,0000,0000,0000,,原地待命 直到收到进一步指示" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sit there until you get further instructions."
+Dialogue: 0,0:27:41.54,0:27:45.29,*Default,NTP,0000,0000,0000,,虽然对我们太阳系的遥远卫星进行的复杂任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But while complex missions to far-off moons within our Solar System
+Dialogue: 0,0:27:45.51,0:27:49.25,*Default,NTP,0000,0000,0000,,振奋人心 而且通常有科学远见 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are exhilarating, and often return great scientific insight,
+Dialogue: 0,0:27:49.96,0:27:54.37,*Default,NTP,0000,0000,0000,,但想要发现更高级的外星生命形式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the promise of discovering more than primordial extraterrestrial life,
+Dialogue: 0,0:27:54.38,0:27:55.62,*Default,NTP,0000,0000,0000,,可能性微乎其微 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is slim at best.
+Dialogue: 0,0:27:56.92,0:28:00.31,*Default,NTP,0000,0000,0000,,要想找到智能 有科技能力的生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The hope of finding intelligent, technology-producing life
+Dialogue: 0,0:28:00.40,0:28:03.65,*Default,NTP,0000,0000,0000,,我们就要把眼光放到太阳系外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seems greatest when we look beyond our Solar System
+Dialogue: 0,0:28:03.90,0:28:05.83,*Default,NTP,0000,0000,0000,,看看邻居恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to neighbouring stars.
+Dialogue: 0,0:28:06.50,0:28:09.05,*Default,NTP,0000,0000,0000,,我们有生之年可能永远接触不到这种生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While we may never encounter such lives
+Dialogue: 0,0:28:09.40,0:28:11.95,*Default,NTP,0000,0000,0000,,但对大多数宇宙学家而言 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for most scientists who study the Universe
+Dialogue: 0,0:28:12.37,0:28:16.15,*Default,NTP,0000,0000,0000,,他们深信宇宙某处肯定还有高级生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the notion that it exists somewhere makes perfect sense.
+Dialogue: 0,0:28:18.34,0:28:22.36,*Default,NTP,0000,0000,0000,,生命趋向于进化 趋向于完美 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life tends to evolve, to become more successful
+Dialogue: 0,0:28:22.42,0:28:24.88,*Default,NTP,0000,0000,0000,,有机物要完美 必要的一方面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and one of the things that makes organisms successful,
+Dialogue: 0,0:28:24.97,0:28:27.70,*Default,NTP,0000,0000,0000,,似乎就地球而言就是智能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it seems, on Earth, is to become intelligent.
+Dialogue: 0,0:28:28.00,0:28:30.74,*Default,NTP,0000,0000,0000,,对我来说 其他星球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, it seems quite plausible to me that there are
+Dialogue: 0,0:28:31.01,0:28:34.69,*Default,NTP,0000,0000,0000,,也存在某种智能生物的看法似是而非 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creatures that have some sort of intelligence on other planets.
+Dialogue: 0,0:28:35.68,0:28:40.35,*Default,NTP,0000,0000,0000,,假如那些星球在我们太阳系形成前数十亿年前就诞生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If one of those starts out a billion years before our Solar System started out
+Dialogue: 0,0:28:40.59,0:28:43.99,*Default,NTP,0000,0000,0000,,比我们多花数十亿年进化文明 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it takes that one a billion years longer to get to that point,
+Dialogue: 0,0:28:44.10,0:28:46.16,*Default,NTP,0000,0000,0000,,他们此刻技术发达 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}well, they're at the right time right now.
+Dialogue: 0,0:28:47.65,0:28:51.08,*Default,NTP,0000,0000,0000,,现在全球遍布射电望远镜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And at radiotelescope installations across the globe,
+Dialogue: 0,0:28:51.15,0:28:53.94,*Default,NTP,0000,0000,0000,,我们地球人在聆听他们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we earthlings are listening for them.
+Dialogue: 0,0:28:55.37,0:28:59.66,*Default,NTP,0000,0000,0000,,淘气的孩子们？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Howdy doody boys and girls?
+Dialogue: 0,0:29:00.26,0:29:03.98,*Default,NTP,0000,0000,0000,,我们数十年来发出的信号了无音讯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have been sending signals into the void for decades.
+Dialogue: 0,0:29:05.47,0:29:09.49,*Default,NTP,0000,0000,0000,,我们地球上的每个广播电台 每个收音电台 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every broadcast on this planet, every FM radiowave,
+Dialogue: 0,0:29:09.61,0:29:11.67,*Default,NTP,0000,0000,0000,,每个电视信号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every television transmission
+Dialogue: 0,0:29:11.78,0:29:15.44,*Default,NTP,0000,0000,0000,,传到了广袤无垠的宇宙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}goes out into the infinite for all of eternity.
+Dialogue: 0,0:29:16.50,0:29:18.56,*Default,NTP,0000,0000,0000,,有什么人在倾听吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could anybody out there be listening?
+Dialogue: 0,0:29:19.45,0:29:23.80,*Default,NTP,0000,0000,0000,,如果有的话信号要传多远？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And how long would it take our radio signals to cover the distance?
+Dialogue: 0,0:29:27.29,0:29:29.39,*Default,NTP,0000,0000,0000,,再回想一下前面那个类比 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's consider once again the analogy
+Dialogue: 0,0:29:29.43,0:29:33.29,*Default,NTP,0000,0000,0000,,太阳是曼哈顿街上的一个大理石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where our Sun is a marble on a sidewalk in downtown Manhattan,
+Dialogue: 0,0:29:34.97,0:29:37.42,*Default,NTP,0000,0000,0000,,半人马座阿尔法星 离我们最近的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alpha Centauri, the closest other star,
+Dialogue: 0,0:29:37.42,0:29:40.37,*Default,NTP,0000,0000,0000,,也就是在华盛顿特区附近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a marble on a sidewalk in Washington DC,
+Dialogue: 0,0:29:42.08,0:29:45.61,*Default,NTP,0000,0000,0000,,第二远的恒星远在里约热内卢 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a more distant star is a marble in Rio de Janeiro.
+Dialogue: 0,0:29:48.30,0:29:51.73,*Default,NTP,0000,0000,0000,,从地球--曼哈顿街道的大理石 发射的火箭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A rocket launching from Earth, the marble in Manhattan,
+Dialogue: 0,0:29:52.42,0:29:58.06,*Default,NTP,0000,0000,0000,,要花7万5千年才能到达半人马座阿尔法星--华盛顿特区的大理石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would take 75,000 years to reach Alpha Centauri, the marble in DC.
+Dialogue: 0,0:29:59.79,0:30:04.51,*Default,NTP,0000,0000,0000,,火箭要花200万年才能到达里约热内卢的大理石 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That same rocket would take 2 million years to reach the marble in Rio.
+Dialogue: 0,0:30:04.73,0:30:07.59,*Default,NTP,0000,0000,0000,,100光年远的那颗恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A star 100 light years away.
+Dialogue: 0,0:30:10.03,0:30:13.40,*Default,NTP,0000,0000,0000,,幸运的是无线电波比火箭快得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately, radio signals are much faster than rockets.
+Dialogue: 0,0:30:13.72,0:30:15.70,*Default,NTP,0000,0000,0000,,以光速前进着 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They travel at the speed of light.
+Dialogue: 0,0:30:18.44,0:30:21.50,*Default,NTP,0000,0000,0000,,所以不用花7万5千年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, rather than taking 75,000 years,
+Dialogue: 0,0:30:21.72,0:30:25.47,*Default,NTP,0000,0000,0000,,曼哈顿的信号要到达华盛顿特区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a signal travelling from the marble in Manhattan to the the one in DC,
+Dialogue: 0,0:30:25.86,0:30:27.98,*Default,NTP,0000,0000,0000,,只需花4.5年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would only take 4.5 years.
+Dialogue: 0,0:30:29.06,0:30:32.52,*Default,NTP,0000,0000,0000,,曼哈顿的信号要到里约热内卢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A signal travelling from the marble in Manhattan to the one in Rio,
+Dialogue: 0,0:30:32.72,0:30:35.35,*Default,NTP,0000,0000,0000,,可能要花个100年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would take 100 years to make the journey.
+Dialogue: 0,0:30:38.23,0:30:42.12,*Default,NTP,0000,0000,0000,,地球早期的无线电差不多就是100年前发明的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of our earliest transmissions might now be getting close.
+Dialogue: 0,0:30:45.66,0:30:47.34,*Default,NTP,0000,0000,0000,,但是反馈呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what about the reverse?
+Dialogue: 0,0:30:48.34,0:30:52.39,*Default,NTP,0000,0000,0000,,外星文明是否会向地球回复信号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could intelligent alien civilizations be sending pings toward Earth,
+Dialogue: 0,0:30:53.23,0:30:55.18,*Default,NTP,0000,0000,0000,,看看故人依旧在？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to see if anyone is at home?
+Dialogue: 0,0:30:58.03,0:30:59.85,*Default,NTP,0000,0000,0000,,地球上的科学家还在倾听 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists on Earth are listening,
+Dialogue: 0,0:31:00.89,0:31:05.62,*Default,NTP,0000,0000,0000,,利用专为研究宇宙深处现象 比如恒星爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using technology originally developed for studying distant cosmic phenomena,
+Dialogue: 0,0:31:06.21,0:31:07.94,*Default,NTP,0000,0000,0000,,的科技 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like exploding stars.
+Dialogue: 0,0:31:12.05,0:31:15.15,*Default,NTP,0000,0000,0000,,许多宇宙现象能产生电波 通过研究电波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many phenomena produce radiowaves and by studying them,
+Dialogue: 0,0:31:15.25,0:31:18.65,*Default,NTP,0000,0000,0000,,我们就能了解到宇宙发生了什么及其原理 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we can also learn something about what's out there and how it works.
+Dialogue: 0,0:31:18.94,0:31:23.13,*Default,NTP,0000,0000,0000,,利用无线电天线研究宇宙的想法可以追溯到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, using radio-antennas to study the Universe is an idea that goes back to
+Dialogue: 0,0:31:23.19,0:31:24.64,*Default,NTP,0000,0000,0000,,二次世界大战之前 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before the Second World War.
+Dialogue: 0,0:31:26.49,0:31:30.70,*Default,NTP,0000,0000,0000,,如今我们用的巨大无线电天线叫做射电望远镜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The huge radio antennas used today, called radio telescopes,
+Dialogue: 0,0:31:30.85,0:31:33.83,*Default,NTP,0000,0000,0000,,相当发达灵敏度极高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are so advanced and so incredibly sensitive,
+Dialogue: 0,0:31:34.12,0:31:37.59,*Default,NTP,0000,0000,0000,,能够感应到跳蚤跳动的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they can easily detect the energy of a flee hopping.
+Dialogue: 0,0:31:38.85,0:31:41.25,*Default,NTP,0000,0000,0000,,简直就像大镜子 懂吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're just big reflectors, right?
+Dialogue: 0,0:31:43.14,0:31:44.64,*Default,NTP,0000,0000,0000,,无线电波传来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the radiowaves that are coming down
+Dialogue: 0,0:31:44.64,0:31:47.53,*Default,NTP,0000,0000,0000,,降落到全球世界各地 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and falling on the ground all around us on the whole Earth, after all,
+Dialogue: 0,0:31:47.80,0:31:50.48,*Default,NTP,0000,0000,0000,,有些无线电波正好落到这些天线上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some of those radiowaves will fall on these antennas.
+Dialogue: 0,0:31:50.70,0:31:52.54,*Default,NTP,0000,0000,0000,,这样他们就从那面大镜子反射 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they bounce off that big mirror,
+Dialogue: 0,0:31:52.80,0:31:55.85,*Default,NTP,0000,0000,0000,,然后聚焦到一个非常灵敏的放大器上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then they get focused to a very sensitive amplifier,
+Dialogue: 0,0:31:56.06,0:31:57.85,*Default,NTP,0000,0000,0000,,然后信号就通过电缆传输 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then the signals are sent via cables
+Dialogue: 0,0:31:57.85,0:32:00.18,*Default,NTP,0000,0000,0000,,最终到达附近的一个控制室 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}back into a control room that's right nearby here,
+Dialogue: 0,0:32:00.22,0:32:05.16,*Default,NTP,0000,0000,0000,,在那里有极为灵敏的接收器分析传来的信号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where they have sensitive receivers to analyse the radioenergy that's coming in.
+Dialogue: 0,0:32:07.45,0:32:10.07,*Default,NTP,0000,0000,0000,,赛斯博士是一名资深天文学家 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dr. Seth Shostak is a senior astronomer
+Dialogue: 0,0:32:10.07,0:32:13.56,*Default,NTP,0000,0000,0000,,在加利福尼亚 芒廷维尤的SETI研究所工作 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at the SETI Institute in Mountain View, California.
+Dialogue: 0,0:32:14.79,0:32:19.65,*Default,NTP,0000,0000,0000,,SETI是"搜寻地外文明计划"的简写 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}SETI is an acronym that stands for Search for ExtraTerrestrial Intelligence.
+Dialogue: 0,0:32:21.30,0:32:24.68,*Default,NTP,0000,0000,0000,,SETI组织也使用射电望远镜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The SETI organisation also uses radio telescopes,
+Dialogue: 0,0:32:25.64,0:32:28.50,*Default,NTP,0000,0000,0000,,但不是用来研究宇宙的自然现象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but not for studying natural cosmic phenomena.
+Dialogue: 0,0:32:30.38,0:32:33.35,*Default,NTP,0000,0000,0000,,这种技术同样可以用来探寻信号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The very same technology can also be used to look for signals
+Dialogue: 0,0:32:33.39,0:32:36.58,*Default,NTP,0000,0000,0000,,不是自然现象造成的信号 而是外星人发出的信号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are made not by nature, but by, perhaps, ET.
+Dialogue: 0,0:32:37.80,0:32:40.32,*Default,NTP,0000,0000,0000,,但如何能分辨两者之间的区别？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And how might one know the difference?
+Dialogue: 0,0:32:40.63,0:32:43.90,*Default,NTP,0000,0000,0000,,我们探寻的信号名为"窄带信号"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The kind of signal that we're looking for is what's called a narrow-band signal.
+Dialogue: 0,0:32:43.94,0:32:47.88,*Default,NTP,0000,0000,0000,,也就是说是电台拨号的那种信号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That is to say, it's just a signal that's at one spot on the radio dial,
+Dialogue: 0,0:32:47.92,0:32:51.46,*Default,NTP,0000,0000,0000,,频率固定 这说明了该信号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's at one frequency. That's the indication that the signal
+Dialogue: 0,0:32:51.50,0:32:54.23,*Default,NTP,0000,0000,0000,,是由某人传送出去的而非自然现象造成的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is made by a transmitter, not made by nature.
+Dialogue: 0,0:32:55.86,0:32:59.39,*Default,NTP,0000,0000,0000,,当然电脑承担着监听任务 而非科学家亲自出马 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course, computers do the listening, not scientists.
+Dialogue: 0,0:33:00.14,0:33:02.65,*Default,NTP,0000,0000,0000,,我们细分各种接收器以达到全程监听 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have specialized receivers to do all the listening,
+Dialogue: 0,0:33:02.69,0:33:04.93,*Default,NTP,0000,0000,0000,,而电脑则监控着这些接收器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the computers are monitoring the receivers.
+Dialogue: 0,0:33:05.35,0:33:07.87,*Default,NTP,0000,0000,0000,,所以说我们的接收器同时是监控者 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, typically, we'll have receivers that monitor,
+Dialogue: 0,0:33:07.91,0:33:10.33,*Default,NTP,0000,0000,0000,,1亿个频道 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}say, 100 million channels at once,
+Dialogue: 0,0:33:10.62,0:33:14.53,*Default,NTP,0000,0000,0000,,假如电脑认为某个信号是由外星人发出的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so, if the computers see a signal that looks like it might be extraterrestrial,
+Dialogue: 0,0:33:14.87,0:33:17.14,*Default,NTP,0000,0000,0000,,而非当地机场雷达的信号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as opposed to a radar at the local airport,
+Dialogue: 0,0:33:17.14,0:33:19.56,*Default,NTP,0000,0000,0000,,或者是远程通信卫星什么的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or telecommunications satellites or something like that,
+Dialogue: 0,0:33:19.91,0:33:21.98,*Default,NTP,0000,0000,0000,,那么电脑会追踪这个信号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the computer will follow up on that signal
+Dialogue: 0,0:33:22.02,0:33:24.65,*Default,NTP,0000,0000,0000,,要是一开始看上去就像   "哇 这可是个惊人发现" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if it's beginning to look like, "Yeah, this might be the big one,"
+Dialogue: 0,0:33:24.74,0:33:26.77,*Default,NTP,0000,0000,0000,,那么电脑就会通知我们 吸引我们的注意 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then it will call us up and draw it to our attention.
+Dialogue: 0,0:33:26.81,0:33:29.23,*Default,NTP,0000,0000,0000,,所以我们不必呆坐在这里无所事事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we don't have to sit there and be bored all the time.
+Dialogue: 0,0:33:30.88,0:33:33.44,*Default,NTP,0000,0000,0000,,至今为止还没有侦查到外来信号 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To date, no such signal has been detected.
+Dialogue: 0,0:33:35.44,0:33:38.13,*Default,NTP,0000,0000,0000,,但SETI研究所依旧持之以恒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the SETI Institute presses on faithfully.
+Dialogue: 0,0:33:40.08,0:33:43.44,*Default,NTP,0000,0000,0000,,因为在许多著名天文学家脑子里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rightly so, in the minds of many prominent astronomers.
+Dialogue: 0,0:33:44.23,0:33:48.07,*Default,NTP,0000,0000,0000,,缺乏证据并不意味着证据不存在 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Absence of evidence is not evidence of absence.
+Dialogue: 0,0:33:48.77,0:33:51.95,*Default,NTP,0000,0000,0000,,所以我们不能妄下判断 "哦  SETI到目前为止一事无成" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we can't say, "Oh, SETI hasn't found anything so far",
+Dialogue: 0,0:33:52.13,0:33:56.07,*Default,NTP,0000,0000,0000,,"那么 显然宇宙没有其他智能化文明"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"so, obviously there are no other intelligent civilizations out there."
+Dialogue: 0,0:33:56.82,0:34:00.64,*Default,NTP,0000,0000,0000,,我们不能妄下判断 我支持SETI继续探寻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No, we can't say that. And I support their continuing to look.
+Dialogue: 0,0:34:01.72,0:34:04.31,*Default,NTP,0000,0000,0000,,银河系就有数以千亿计的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are hundreds of billions of stars in our galaxy,
+Dialogue: 0,0:34:04.45,0:34:06.60,*Default,NTP,0000,0000,0000,,而宇宙又有数以千亿计的星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and hundreds of billions of galxies in the Universe.
+Dialogue: 0,0:34:06.91,0:34:09.83,*Default,NTP,0000,0000,0000,,听听这惊人的数量 我就不相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just by sheer weight of numbers, I would be surprised if there's not
+Dialogue: 0,0:34:10.01,0:34:12.53,*Default,NTP,0000,0000,0000,,宇宙其他地方没有智能生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}intelligent life somewhere else in the Universe.
+Dialogue: 0,0:34:13.73,0:34:17.81,*Default,NTP,0000,0000,0000,,面对海量的可能性 SETI的天文学家如何确定 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With so many possibilities, how do SETI astronomers determine
+Dialogue: 0,0:34:17.85,0:34:21.34,*Default,NTP,0000,0000,0000,,射电望远镜该从哪里着手呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exactly where to focus their telescopes and efforts?
+Dialogue: 0,0:34:21.80,0:34:24.62,*Default,NTP,0000,0000,0000,,你选择的星球系统最好有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You want to pick star systems that have a good chance
+Dialogue: 0,0:34:24.67,0:34:27.11,*Default,NTP,0000,0000,0000,,包含行星 比如太阳系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of maybe having a planet something like this one,
+Dialogue: 0,0:34:27.39,0:34:29.96,*Default,NTP,0000,0000,0000,,那样的话智能生命就大有可能存在 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that there's a greater chance of having intelligent life,
+Dialogue: 0,0:34:30.00,0:34:33.80,*Default,NTP,0000,0000,0000,,但我们并不清楚那些恒星系统里的行星究竟如何 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we don't really know very much about what kind of planets these stars have.
+Dialogue: 0,0:34:34.00,0:34:37.71,*Default,NTP,0000,0000,0000,,所以我们列了一个大单子 记录了数以百万的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, we just have long lists, literally millions of stars,
+Dialogue: 0,0:34:37.86,0:34:40.48,*Default,NTP,0000,0000,0000,,他们相对离地球接近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}relatively nearby our cosmic backyard,
+Dialogue: 0,0:34:40.63,0:34:42.15,*Default,NTP,0000,0000,0000,,我们就研究他们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we just work our way through them.
+Dialogue: 0,0:34:43.99,0:34:47.46,*Default,NTP,0000,0000,0000,,要是有一天某台SETI射电望远镜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what would happen if one day a SETI radiotelescope
+Dialogue: 0,0:34:47.56,0:34:52.10,*Default,NTP,0000,0000,0000,,发现了可能是外星人传来的信号会怎样呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}picked up a signal that looked like it could be an alien transmission?
+Dialogue: 0,0:34:53.58,0:34:55.77,*Default,NTP,0000,0000,0000,,如果你发现这个信号 你肯定要做一件事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One thing you would certainly do if you picked up a signal,
+Dialogue: 0,0:34:55.99,0:34:59.46,*Default,NTP,0000,0000,0000,,就是说 "看 要是没有人收到同样的信号 我才不相信" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is say, "Look, I'm not gonna believe it till somebody else can see it as well."
+Dialogue: 0,0:34:59.58,0:35:02.98,*Default,NTP,0000,0000,0000,,有可能是电脑的软硬件出错害你白开心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because there could be bugs in the software or hardware that are fooling you.
+Dialogue: 0,0:35:03.41,0:35:06.52,*Default,NTP,0000,0000,0000,,所以当你认为"信号是真的"时 你要做一件事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, what you would do is at the point where you thought "this looks real",
+Dialogue: 0,0:35:06.83,0:35:09.56,*Default,NTP,0000,0000,0000,,就是通知其他观测站的同行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would call up somebody at another radio observatory
+Dialogue: 0,0:35:09.60,0:35:12.18,*Default,NTP,0000,0000,0000,,他们也有类似的天线 告诉他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where they also have antennas just like these, and tell them,
+Dialogue: 0,0:35:12.22,0:35:16.47,*Default,NTP,0000,0000,0000,,"朝着天空那个方向接收 无线电波频率多少 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Look. Look at that part of the sky, over this range of radio frequencies,
+Dialogue: 0,0:35:16.51,0:35:19.24,*Default,NTP,0000,0000,0000,,哪个波段你就明白了" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this part of the dial, and see if you find anything."
+Dialogue: 0,0:35:19.28,0:35:22.22,*Default,NTP,0000,0000,0000,,如果得到其他2到3名观测者确认的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if it were confirmed by two, or maybe three observatories,
+Dialogue: 0,0:35:22.27,0:35:25.71,*Default,NTP,0000,0000,0000,,那么我认为你该大摇大摆召开新闻发布会了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think at that point you could safely go and have your press conference.
+Dialogue: 0,0:35:29.84,0:35:34.13,*Default,NTP,0000,0000,0000,,但是如果我们和外星人的首次接触不是通过无线电？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, what if our first contact with ET isn't through radio signals?
+Dialogue: 0,0:35:35.19,0:35:38.48,*Default,NTP,0000,0000,0000,,如果我们察觉不到外星人到来的形式？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What if ET arrives in a form we don't recognize?
+Dialogue: 0,0:35:39.93,0:35:42.69,*Default,NTP,0000,0000,0000,,首名外星代表可能通过机械\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first alien delegation could reach Earth
+Dialogue: 0,0:35:42.73,0:35:44.46,*Default,NTP,0000,0000,0000,,来到地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the form of machines
+Dialogue: 0,0:35:45.25,0:35:49.77,*Default,NTP,0000,0000,0000,,个子太小 人类难以用肉眼察觉 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so tiny, human beings cannot detect them with the naked eye.
+Dialogue: 0,0:35:50.85,0:35:52.13,*Default,NTP,0000,0000,0000,,前进 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Step forward.
+Dialogue: 0,0:35:53.84,0:35:55.09,*Default,NTP,0000,0000,0000,,你会说英语 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You speak English!
+Dialogue: 0,0:35:55.72,0:35:57.24,*Default,NTP,0000,0000,0000,,我们什么语言都懂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We speak every language.
+Dialogue: 0,0:35:59.48,0:36:01.89,*Default,NTP,0000,0000,0000,,从上世纪50年代算起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since the 1950s at least,
+Dialogue: 0,0:36:02.00,0:36:06.27,*Default,NTP,0000,0000,0000,,科幻电影一直在描绘着外星人可能的形式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}science-fiction films have consistently depicted potential alien beings
+Dialogue: 0,0:36:06.31,0:36:08.32,*Default,NTP,0000,0000,0000,,对比人类 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as human-like.
+Dialogue: 0,0:36:08.39,0:36:10.75,*Default,NTP,0000,0000,0000,,- 霍莫·赛宾斯呢？ - 他睡了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}- Homo Sapiens? - Sleeps.
+Dialogue: 0,0:36:11.91,0:36:16.36,*Default,NTP,0000,0000,0000,,近十年来一种外星人的形式被广为流传 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One particular alien form has been widely popularized in recent decades.
+Dialogue: 0,0:36:17.74,0:36:20.68,*Default,NTP,0000,0000,0000,,UFO狂热爱好者 深信美国军方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}UFO enthusiasts believe the US military
+Dialogue: 0,0:36:20.73,0:36:26.10,*Default,NTP,0000,0000,0000,,从上世纪50年代起回收了UFO坠毁后里面的外星人尸体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}recovered bodies from crashed alien spacecrafts in the 1950s.
+Dialogue: 0,0:36:29.54,0:36:34.27,*Default,NTP,0000,0000,0000,,所谓的外星人其实是孱弱的微型人类 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These alleged extraterrestrials are essentially frail miniature humans
+Dialogue: 0,0:36:34.33,0:36:36.38,*Default,NTP,0000,0000,0000,,脑袋发达 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with oversized heads.
+Dialogue: 0,0:36:38.74,0:36:42.28,*Default,NTP,0000,0000,0000,,灰色的小个子 通常眼睛很大 平时不怎么笑…\NLittle grey guys, usually have big eyes. They don't smile a lot…
+Dialogue: 0,0:36:42.33,0:36:44.88,*Default,NTP,0000,0000,0000,,但是身体总是柔软糊状的有机物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But they're always sort of soft, squishy organic things,
+Dialogue: 0,0:36:44.92,0:36:48.52,*Default,NTP,0000,0000,0000,,也许他们没有DNA 但他们是生物 活生生的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe they don't have DNA, but they're biology. They're alive.
+Dialogue: 0,0:36:50.26,0:36:54.85,*Default,NTP,0000,0000,0000,,人类很容易理解和接受这种解剖模式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an easy anatomical form for human beings to comprehend and accept.
+Dialogue: 0,0:36:56.45,0:36:59.50,*Default,NTP,0000,0000,0000,,外星人真的就长这样？ 可能 我是说这种猜测太简单 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is that what ET would really be like? Maybe, I mean, it's a good guess.
+Dialogue: 0,0:36:59.53,0:37:00.62,*Default,NTP,0000,0000,0000,,和人类基本一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what we're like.
+Dialogue: 0,0:37:00.68,0:37:05.44,*Default,NTP,0000,0000,0000,,但另一方面 我认为再过100年人类也不可能制造出智能机器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But on the other hand, I think within 100 years we may invent thinking machines.
+Dialogue: 0,0:37:05.53,0:37:07.76,*Default,NTP,0000,0000,0000,,要是我们能够做到或者将来能做到 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if we can do that, if we ever do that,
+Dialogue: 0,0:37:07.76,0:37:10.61,*Default,NTP,0000,0000,0000,,那么外星人很久以前可能就做到了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe the aliens might have done that a long time ago.
+Dialogue: 0,0:37:12.00,0:37:14.42,*Default,NTP,0000,0000,0000,,要记住宇宙的年龄远远大于地球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Keep in mind that the Universe is a lot older than the Earth is so,
+Dialogue: 0,0:37:14.47,0:37:16.79,*Default,NTP,0000,0000,0000,,外星人有足够时间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they've had plenty of time.
+Dialogue: 0,0:37:17.17,0:37:18.65,*Default,NTP,0000,0000,0000,,你好 凯斯米？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hello Kismet?
+Dialogue: 0,0:37:19.80,0:37:21.01,*Default,NTP,0000,0000,0000,,你要和我谈话？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You wanna talk to me?
+Dialogue: 0,0:37:21.86,0:37:25.89,*Default,NTP,0000,0000,0000,,尽管智能机器听上去遥不可及 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the notion of thinking machines might sound far-fetched,
+Dialogue: 0,0:37:28.04,0:37:32.73,*Default,NTP,0000,0000,0000,,某些预言家认为这种机器就在我们身边 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some futurists believe such machines are just around the corner.
+Dialogue: 0,0:37:37.10,0:37:40.98,*Default,NTP,0000,0000,0000,,我们不断缩小集成电路内晶体管的大小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're shrinking the size of transistors on an integrated circuit
+Dialogue: 0,0:37:41.06,0:37:43.39,*Default,NTP,0000,0000,0000,,这样每2年芯片里的晶体管数量就翻一番 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so every two years we can put twice as many on a chip
+Dialogue: 0,0:37:43.46,0:37:45.67,*Default,NTP,0000,0000,0000,,因为体积变小 运行速度也就越快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they run faster 'cause they're smaller.
+Dialogue: 0,0:37:45.83,0:37:48.77,*Default,NTP,0000,0000,0000,,这种趋势一直保持了近十年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this has been true now for decades.
+Dialogue: 0,0:37:49.08,0:37:53.31,*Default,NTP,0000,0000,0000,,现在我口袋里的掌上电脑比起60年代麻省理工\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can carry in my pocket today a computer that's thousands of times more powerful
+Dialogue: 0,0:37:53.38,0:37:57.49,*Default,NTP,0000,0000,0000,,千余名学生和教授共享的那台电脑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the computer that all of us thousands of students and professors
+Dialogue: 0,0:37:57.56,0:38:00.81,*Default,NTP,0000,0000,0000,,强1000倍还有余 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shared when I came to MIT in the 1960s.
+Dialogue: 0,0:38:03.02,0:38:07.03,*Default,NTP,0000,0000,0000,,雷·科兹威深信电脑的运行速度和能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ray Kurzweil is convinced that the power and speed of computers
+Dialogue: 0,0:38:07.07,0:38:10.62,*Default,NTP,0000,0000,0000,,不久就会超越人类的大脑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will shortly surpass that of the human brain.
+Dialogue: 0,0:38:11.88,0:38:15.06,*Default,NTP,0000,0000,0000,,如果你有台电脑 想要模拟整个人类大脑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you take the most conservative estimate of the amount of computation
+Dialogue: 0,0:38:15.10,0:38:18.36,*Default,NTP,0000,0000,0000,,最保守的估计 那么其所需的运行速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}required to simulate the entire human brain,
+Dialogue: 0,0:38:18.66,0:38:20.74,*Default,NTP,0000,0000,0000,,大约是每秒10的16次方次运算 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is 10 at the 16th calculations per second,
+Dialogue: 0,0:38:20.74,0:38:22.85,*Default,NTP,0000,0000,0000,,还有的估计低于这个标准 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there other estimates that are lower than that,
+Dialogue: 0,0:38:22.90,0:38:25.53,*Default,NTP,0000,0000,0000,,做最保守的估计 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}take the most conservatively high estimate,
+Dialogue: 0,0:38:25.57,0:38:28.29,*Default,NTP,0000,0000,0000,,到2020年这台电脑大约要花1000美元才能买到 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'll have that for 1,000 dollars by 2020.
+Dialogue: 0,0:38:28.70,0:38:31.43,*Default,NTP,0000,0000,0000,,2030年1美元就能买到了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll have it for $1 by 2030.
+Dialogue: 0,0:38:33.04,0:38:36.16,*Default,NTP,0000,0000,0000,,再过没几年 我们就能拥有真正的超级计算机 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll have that in a supercomputer actually within a few years.
+Dialogue: 0,0:38:37.99,0:38:40.52,*Default,NTP,0000,0000,0000,,科兹威预言不久的将来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kurzweil predicts that in the near future
+Dialogue: 0,0:38:40.60,0:38:44.60,*Default,NTP,0000,0000,0000,,小型的超级电脑将会被集成到人体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tiny supercomputers will be integrated into the human body
+Dialogue: 0,0:38:44.66,0:38:47.37,*Default,NTP,0000,0000,0000,,以弥补人类的某些缺陷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to bolster some of its weaknesses.
+Dialogue: 0,0:38:49.06,0:38:50.27,*Default,NTP,0000,0000,0000,,我们已经开发了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've already started.
+Dialogue: 0,0:38:50.32,0:38:52.09,*Default,NTP,0000,0000,0000,,现在有些人脑袋里就集成了电脑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's people walking around that have computers in their brains
+Dialogue: 0,0:38:52.13,0:38:55.25,*Default,NTP,0000,0000,0000,,代替人脑的某一部分 比如说帕金森患者 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that replaced a portion of their brain, like Parkinsons patients,
+Dialogue: 0,0:38:55.56,0:38:59.17,*Default,NTP,0000,0000,0000,,现在这些装置还能下载软件 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and already these devices can download new software,
+Dialogue: 0,0:38:59.21,0:39:02.45,*Default,NTP,0000,0000,0000,,这样病人大脑内的计算机就能从外界…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so you can download new software to the computer in your brain
+Dialogue: 0,0:39:02.61,0:39:05.65,*Default,NTP,0000,0000,0000,,更新程序 这就是当今科技 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from outside the patient. This is today.
+Dialogue: 0,0:39:07.22,0:39:09.02,*Default,NTP,0000,0000,0000,,而且科技永不止步 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It doesn't stop there.
+Dialogue: 0,0:39:09.19,0:39:11.33,*Default,NTP,0000,0000,0000,,随着技术的发展 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As technology marches forward,
+Dialogue: 0,0:39:11.33,0:39:15.31,*Default,NTP,0000,0000,0000,,微型计算机驱动机也叫纳米机器人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}microscopic computer-driven machines called nanobots,
+Dialogue: 0,0:39:15.35,0:39:18.97,*Default,NTP,0000,0000,0000,,将有能力执行人体内各种大量的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be capable of performing a wide variety of maintenance tasks
+Dialogue: 0,0:39:19.01,0:39:21.26,*Default,NTP,0000,0000,0000,,维护工作 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}within the human body.
+Dialogue: 0,0:39:22.47,0:39:25.67,*Default,NTP,0000,0000,0000,,我们很快就能通过血管输送纳米机器人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We are soon be able to send these devices through the blood stream,
+Dialogue: 0,0:39:25.76,0:39:29.70,*Default,NTP,0000,0000,0000,,我们的血液系统内将有数十亿个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we'll have billions of these bloodcell-sized computers
+Dialogue: 0,0:39:29.75,0:39:32.98,*Default,NTP,0000,0000,0000,,血细胞大小的计算机 以保障我们的健康 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and little robots inside our bloodstream. They'll keep us healthy,
+Dialogue: 0,0:39:33.04,0:39:35.80,*Default,NTP,0000,0000,0000,,而且它们能和我们的神经元互相作用 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they'll be interacting with the biological neurones.
+Dialogue: 0,0:39:35.86,0:39:39.65,*Default,NTP,0000,0000,0000,,所以到2030年 普通的男女\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So by 2030, the common man and woman
+Dialogue: 0,0:39:39.71,0:39:42.74,*Default,NTP,0000,0000,0000,,将会是一半生物 一半非生物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be part biological and part non-biological.
+Dialogue: 0,0:39:44.65,0:39:47.36,*Default,NTP,0000,0000,0000,,但科兹威最激进的预言 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But perhaps Kurzweil's most radical prediction
+Dialogue: 0,0:39:47.40,0:39:50.21,*Default,NTP,0000,0000,0000,,就是人类最终能把生物特性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that computers will ultimately allow human beings
+Dialogue: 0,0:39:50.25,0:39:52.52,*Default,NTP,0000,0000,0000,,遗传给电脑 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to transcend their biology,
+Dialogue: 0,0:39:52.71,0:39:55.29,*Default,NTP,0000,0000,0000,,共享一个躯体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shed their bodies altogether.
+Dialogue: 0,0:39:55.99,0:39:59.78,*Default,NTP,0000,0000,0000,,电脑会扫描人脑的神经功能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Computers will scan the neurological functions of a person's brain
+Dialogue: 0,0:39:59.83,0:40:03.59,*Default,NTP,0000,0000,0000,,并上传知识 经验 以及性格\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and upload the individual's knowledge, experience and personality
+Dialogue: 0,0:40:03.63,0:40:05.88,*Default,NTP,0000,0000,0000,,到某个存储装置 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to a storage device.
+Dialogue: 0,0:40:08.51,0:40:10.79,*Default,NTP,0000,0000,0000,,到时候你到我的脑子里看看 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'd have to, in real time, go inside my brain,
+Dialogue: 0,0:40:10.83,0:40:15.36,*Default,NTP,0000,0000,0000,,血液里有纳米机器人 血细胞大小的扫描器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}probably with nanobots, bloodcell- sized scanners inside the blood stream,
+Dialogue: 0,0:40:15.67,0:40:17.93,*Default,NTP,0000,0000,0000,,数以十亿计的往我脑子里钻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and send billions of them into my brain,
+Dialogue: 0,0:40:17.98,0:40:21.33,*Default,NTP,0000,0000,0000,,通过毛细血管它们能扫描所有不同的神经元 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through the capillaries, and they would scan all the different neurones
+Dialogue: 0,0:40:21.42,0:40:24.80,*Default,NTP,0000,0000,0000,,收集我的一切生物信息 所有的神经递质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and gather every detail about me, all the neurotransmitters,
+Dialogue: 0,0:40:24.85,0:40:27.65,*Default,NTP,0000,0000,0000,,离子浓度 以及跨神经元的连接 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and ion concentrations, and inter-neuronal connections,
+Dialogue: 0,0:40:27.73,0:40:30.82,*Default,NTP,0000,0000,0000,,我特有的细节 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every detail that makes me, me.
+Dialogue: 0,0:40:30.89,0:40:33.63,*Default,NTP,0000,0000,0000,,这种梦想会成真 但要花很长时间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I think that would be feasible, that'll take longer,
+Dialogue: 0,0:40:33.67,0:40:37.90,*Default,NTP,0000,0000,0000,,也许40年以后甚至更长 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe that's 40 years from now, or more,
+Dialogue: 0,0:40:38.08,0:40:40.59,*Default,NTP,0000,0000,0000,,总有一天我们能够捕获\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we'll get to a point where you could actually capture
+Dialogue: 0,0:40:40.64,0:40:46.16,*Default,NTP,0000,0000,0000,,人体全部的信息并重塑人体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every detail about a person and then recreate that personality.
+Dialogue: 0,0:40:50.47,0:40:53.66,*Default,NTP,0000,0000,0000,,这种想法的确惊人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The implications are, of course, staggering.
+Dialogue: 0,0:40:53.72,0:40:57.92,*Default,NTP,0000,0000,0000,,首当其冲你就有可能永生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chief among them, is the possibility of immortality.
+Dialogue: 0,0:40:59.84,0:41:01.12,*Default,NTP,0000,0000,0000,,你能备份你的档案 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can backup your files.
+Dialogue: 0,0:41:01.12,0:41:03.80,*Default,NTP,0000,0000,0000,,硬件坏了但你的档案还在 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the hardware dies it's not the end of your files,
+Dialogue: 0,0:41:03.84,0:41:06.13,*Default,NTP,0000,0000,0000,,你只要把档案复制到一个新机器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you just copy them over to a new machine.
+Dialogue: 0,0:41:06.21,0:41:08.71,*Default,NTP,0000,0000,0000,,你机体的一切信息都会被保存 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The whole personality of your machine can be preserved,
+Dialogue: 0,0:41:08.76,0:41:10.83,*Default,NTP,0000,0000,0000,,你只要复制就可以了…\Nyou can make another copy of it…
+Dialogue: 0,0:41:12.43,0:41:16.64,*Default,NTP,0000,0000,0000,,而机体也能智慧到自我复制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the machines themselves will be intelligent enough to self-replicate,
+Dialogue: 0,0:41:16.68,0:41:19.35,*Default,NTP,0000,0000,0000,,并稳固地改进设计 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and steadily improve their design.
+Dialogue: 0,0:41:20.77,0:41:24.37,*Default,NTP,0000,0000,0000,,电脑里就有自我复制的例子 比如说软件病毒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see self-replication in computers, for example, the software virus.
+Dialogue: 0,0:41:24.46,0:41:26.31,*Default,NTP,0000,0000,0000,,虽然实在但不是发生在人体上的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's an entity, it's not physical,
+Dialogue: 0,0:41:26.35,0:41:29.76,*Default,NTP,0000,0000,0000,,虽说只是虚拟的软件 但能够自我复制 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's just a piece of software but it's actually able to copy itself.
+Dialogue: 0,0:41:29.93,0:41:32.48,*Default,NTP,0000,0000,0000,,要是有一天某人放出什么软件病毒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, someone can put out one software virus,
+Dialogue: 0,0:41:32.55,0:41:35.51,*Default,NTP,0000,0000,0000,,疯狂自我复制横扫因特网 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's busy copying itself, and moving through the Internet,
+Dialogue: 0,0:41:35.60,0:41:40.73,*Default,NTP,0000,0000,0000,,很快就传染给数十亿台电脑 这就是自我复制 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and pretty soon it can be on a billion computers, so that's self-replication.
+Dialogue: 0,0:41:42.85,0:41:46.66,*Default,NTP,0000,0000,0000,,当然智能机器不仅会寿终正寝 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And, of course, intelligent machines that are both immortal
+Dialogue: 0,0:41:46.71,0:41:50.47,*Default,NTP,0000,0000,0000,,而且对辐射和外界危害更加脆弱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and much less vulnerable to radiation and other hazards of space,
+Dialogue: 0,0:41:50.51,0:41:54.70,*Default,NTP,0000,0000,0000,,但是最终会度过漫漫的星际航行 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could possibly survive long-term interstellar voyages.
+Dialogue: 0,0:41:57.75,0:42:01.94,*Default,NTP,0000,0000,0000,,这就是雷·科兹威和其他一些预言家据理力争的看法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an argument that leads Ray Kurzweil and other futurists to believe
+Dialogue: 0,0:42:01.98,0:42:04.76,*Default,NTP,0000,0000,0000,,我们首次遇到的外星人极有可能是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that our first alien encounter will more likely be
+Dialogue: 0,0:42:04.80,0:42:09.48,*Default,NTP,0000,0000,0000,,智能机器 而非生物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with intelligent machines than biological creatures.
+Dialogue: 0,0:42:10.88,0:42:14.08,*Default,NTP,0000,0000,0000,,智慧到能够航行到地球的外来文明 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Any civilization intelligent enough to make the trip here
+Dialogue: 0,0:42:14.12,0:42:16.16,*Default,NTP,0000,0000,0000,,不会派来笨重 糊状的生物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're not gonna send big, squishy creatures,
+Dialogue: 0,0:42:16.21,0:42:18.66,*Default,NTP,0000,0000,0000,,他们会派小型的纳米机器人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're gonna send little nanobots,
+Dialogue: 0,0:42:18.72,0:42:21.89,*Default,NTP,0000,0000,0000,,非生物系统 他们会这样做 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}non biological systems, and that's what we're gonna do.
+Dialogue: 0,0:42:23.58,0:42:27.10,*Default,NTP,0000,0000,0000,,不管智能与否 生物与否 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Intelligent or not, biological or not,
+Dialogue: 0,0:42:27.18,0:42:30.66,*Default,NTP,0000,0000,0000,,外星生命的各种形式的发现 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the discovery of any form of extraterrestrial life
+Dialogue: 0,0:42:30.76,0:42:34.94,*Default,NTP,0000,0000,0000,,将会是人类文明史上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would arguably be the most profound scientific revelation
+Dialogue: 0,0:42:34.98,0:42:37.79,*Default,NTP,0000,0000,0000,,最深刻的科学启示 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the history of human civilization.
+Dialogue: 0,0:42:39.15,0:42:42.99,*Default,NTP,0000,0000,0000,,有些人甚至认为其会对人类互动有着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some would even argue it could have a profoundly positive influence
+Dialogue: 0,0:42:43.03,0:42:44.77,*Default,NTP,0000,0000,0000,,深刻积极的影响 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on human interaction.
+Dialogue: 0,0:42:45.82,0:42:50.86,*Default,NTP,0000,0000,0000,,我认为这真的会改变我们人类的看法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To me, I would think that this would really change our perspective as a people.
+Dialogue: 0,0:42:50.91,0:42:54.67,*Default,NTP,0000,0000,0000,,我是说要是没有外星生命 只是认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, if nothing else, just to give us the perspective
+Dialogue: 0,0:42:54.73,0:42:57.85,*Default,NTP,0000,0000,0000,,我们是宇宙上的物种之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we are one species on one world in the Universe
+Dialogue: 0,0:42:57.85,0:43:00.38,*Default,NTP,0000,0000,0000,,但是得天独厚 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in which we are unique for what we are.
+Dialogue: 0,0:43:01.03,0:43:03.41,*Default,NTP,0000,0000,0000,,如果这还不提供给我们杠杆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if this doesn't provide leverage for us
+Dialogue: 0,0:43:03.42,0:43:05.85,*Default,NTP,0000,0000,0000,,来摆脱某些愚蠢的差异 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to get past some of the foolish differences,
+Dialogue: 0,0:43:05.92,0:43:07.35,*Default,NTP,0000,0000,0000,,我不知道还有什么能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't know what will.
+Dialogue: 0,0:43:07.37,0:43:09.36,*Default,NTP,0000,0000,0000,,我觉得智能机器化会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think, ultimately, it might be one of the best things
+Dialogue: 0,0:43:09.40,0:43:11.40,*Default,NTP,0000,0000,0000,,为人类造福万代 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could happen for us.
+Dialogue: 0,0:43:13.46,0:43:17.46,*Default,NTP,0000,0000,0000,,甚至和外星人接触的可能性 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's even the possibility that contact with an alien civilization
+Dialogue: 0,0:43:17.50,0:43:21.15,*Default,NTP,0000,0000,0000,,也不会像某些人预测的那样在大街造成恐慌 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wouldn't cause panic in the streets, as some might predict.
+Dialogue: 0,0:43:21.53,0:43:25.23,*Default,NTP,0000,0000,0000,,到时候 我们的控制台就会发动入侵 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the proper moment the invasion will be launched from our platform.
+Dialogue: 0,0:43:25.29,0:43:27.90,*Default,NTP,0000,0000,0000,,- 我要离开这  - 原地别动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}- I'm getting out of here! - Stay where you are!
+Dialogue: 0,0:43:29.65,0:43:33.58,*Default,NTP,0000,0000,0000,,我认为人类已经准备好了与外星人接触 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think humans are ready to meet aliens
+Dialogue: 0,0:43:33.64,0:43:36.29,*Default,NTP,0000,0000,0000,,甚至准备得万无一失 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much more than they're given credit for.
+Dialogue: 0,0:43:36.36,0:43:40.11,*Default,NTP,0000,0000,0000,,我觉得人类对这种事很变通很开放 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think we're a lot more flexible and open to these things,
+Dialogue: 0,0:43:40.18,0:43:43.15,*Default,NTP,0000,0000,0000,,我们会在慌乱中崩溃 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the idea that we'll tear ourselves apart in panic
+Dialogue: 0,0:43:43.19,0:43:44.71,*Default,NTP,0000,0000,0000,,社会会动荡的想法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that society would colapse,
+Dialogue: 0,0:43:44.75,0:43:47.36,*Default,NTP,0000,0000,0000,,也太看不起人类的承受力了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think that actually sells us way short.
+Dialogue: 0,0:43:49.43,0:43:52.24,*Default,NTP,0000,0000,0000,,但是我们永远不会找到答案吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, what if we never find the answer?
+Dialogue: 0,0:43:53.04,0:43:56.69,*Default,NTP,0000,0000,0000,,要是我们从没收到外星人的消息？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What if we never hear any alien signals?
+Dialogue: 0,0:43:56.75,0:44:00.25,*Default,NTP,0000,0000,0000,,要是不会遇到人类以外的智能物种？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Never meet an intelligent species outside of our own?
+Dialogue: 0,0:44:00.86,0:44:06.49,*Default,NTP,0000,0000,0000,,此时无声胜有声…\NSilence, in its own way, would be an equally profound response…
+Dialogue: 0,0:44:07.43,0:44:10.14,*Default,NTP,0000,0000,0000,,生命在宇宙中是一朵奇葩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It tells us that life is unique,
+Dialogue: 0,0:44:10.24,0:44:13.22,*Default,NTP,0000,0000,0000,,智能生命更是珍贵无比 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that intelligent life is precious.
+Dialogue: 0,0:44:13.26,0:44:16.99,*Default,NTP,0000,0000,0000,,应该不惜一切代价保护和珍惜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It should be treasured and protected at all costs.
+Dialogue: 0,0:44:17.88,0:44:20.46,*Default,NTP,0000,0000,0000,,我们在宇宙中真的孤单？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are we truly alone?
+Dialogue: 0,0:44:20.52,0:44:26.32,*Default,NTP,0000,0000,0000,,这恐怕是宇宙间最难回答的…问题 \NIt is perhaps the greatest question that we can ask…of the Universe.
+Dialogue: 0,0:44:27.47,0:44:32.47,*Default,NTP,0000,0000,0000,,谢谢观赏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks For Viewing

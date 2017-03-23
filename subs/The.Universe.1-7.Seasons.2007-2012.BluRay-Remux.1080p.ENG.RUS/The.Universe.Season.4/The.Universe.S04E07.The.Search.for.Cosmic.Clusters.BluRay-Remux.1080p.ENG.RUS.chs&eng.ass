@@ -1,0 +1,760 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.58,0:00:03.87,*Default,NTP,0000,0000,0000,,创世之初 冥冥之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness
+Dialogue: 0,0:00:03.92,0:00:06.00,*Default,NTP,0000,0000,0000,,随着一声爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang--
+Dialogue: 0,0:00:06.04,0:00:08.54,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.59,0:00:11.26,*Default,NTP,0000,0000,0000,,时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space, and matter.
+Dialogue: 0,0:00:11.30,0:00:14.80,*Default,NTP,0000,0000,0000,,每一天 新的发现都在揭秘这个诡异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:14.84,0:00:20.10,*Default,NTP,0000,0000,0000,,震撼 神秘莫测的地方 - 我们所谓的《宇宙》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets of a place we call "The Universe."
+Dialogue: 0,0:00:22.77,0:00:27.52,*Default,NTP,0000,0000,0000,,环抱在银河系气体尘埃的旋臂中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Among the swirling gas and dust in the arms of the Milky Way,
+Dialogue: 0,0:00:27.56,0:00:32.86,*Default,NTP,0000,0000,0000,,繁星闪现 并不孤单 而是成群结队\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stars flash into existence, not alone, but in clusters,
+Dialogue: 0,0:00:32.90,0:00:36.28,*Default,NTP,0000,0000,0000,,靠引力结合在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}held together by the force of gravity.
+Dialogue: 0,0:00:36.32,0:00:38.53,*Default,NTP,0000,0000,0000,,引力就像是宇宙中的雕塑家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity is like the sculptor of the universe.
+Dialogue: 0,0:00:38.58,0:00:43.70,*Default,NTP,0000,0000,0000,,现在来一次星系中的星团大巡游\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now take a grand tour of the galaxy's star clusters,
+Dialogue: 0,0:00:43.75,0:00:46.17,*Default,NTP,0000,0000,0000,,太空宝藏图\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the treasure maps of space,
+Dialogue: 0,0:00:46.21,0:00:52.09,*Default,NTP,0000,0000,0000,,掌握着银河系里4000亿颗太阳奥秘的关键线索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}holding critical clues to the mysteries of the Milky Way's 400 billion suns.
+Dialogue: 0,0:00:52.13,0:00:54.80,*Default,NTP,0000,0000,0000,,星团确实让我们掌握了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Star clusters really allowed us to get a handle
+Dialogue: 0,0:00:54.84,0:00:57.68,*Default,NTP,0000,0000,0000,,恒星是如何度过一生的 以及它们的生死情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on how stars go through their lives, how they live and die.
+Dialogue: 0,0:00:58.80,0:01:04.27,*Default,NTP,0000,0000,0000,,那是暴戾混乱的世界 我们搜寻宇宙星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a violent, chaotic existence, where our search for cosmic clusters
+Dialogue: 0,0:01:04.31,0:01:09.61,*Default,NTP,0000,0000,0000,,可能最终揭示一个永恒暗无天日的宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may end up revealing a universe in darkness for eternity.
+Dialogue: 0,0:01:10.00,0:01:13.75,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:14.25,0:01:17.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:暮云春树  字幕来源：HDC字幕组 调校：晴天 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:17.31,0:01:23.61,*Default,NTP,0000,0000,0000,,历史频道 - 宇宙 第4季第7集 搜寻宇宙星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The History Channel - The Universe s04e07 The Search For Cosmic Clusters
+Dialogue: 0,0:01:24.37,0:01:30.04,*Default,NTP,0000,0000,0000,,在地球的夜晚 有上千颗恒星是肉眼可见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About a thousand stars are visible to the naked eye during a dark night on planet Earth.
+Dialogue: 0,0:01:31.46,0:01:34.05,*Default,NTP,0000,0000,0000,,星光闪烁给我们留下了深刻印象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the glistening display may impress us,
+Dialogue: 0,0:01:35.30,0:01:39.68,*Default,NTP,0000,0000,0000,,但是星系中到处是令我们吃惊的景象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are places in the galaxy where the view would blow us away.
+Dialogue: 0,0:01:44.35,0:01:50.65,*Default,NTP,0000,0000,0000,,试想一下处在百万颗恒星组成的大星团边缘的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine the Sun on the edge of a giant cluster made up of a million other suns,
+Dialogue: 0,0:01:50.69,0:01:53.73,*Default,NTP,0000,0000,0000,,撑满了天空 从地平线到地平线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}filling the heavens horizon to horizon.
+Dialogue: 0,0:01:54.86,0:01:56.99,*Default,NTP,0000,0000,0000,,星际密度实在是高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The stellar density is really high.
+Dialogue: 0,0:01:57.03,0:01:58.65,*Default,NTP,0000,0000,0000,,恒星间的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The distances between stars
+Dialogue: 0,0:01:58.70,0:02:01.95,*Default,NTP,0000,0000,0000,,可能就是百分之几光年的样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can be just a few hundredths of a light-year, something like that.
+Dialogue: 0,0:02:03.41,0:02:05.54,*Default,NTP,0000,0000,0000,,星系间华丽的星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The galaxy's magnificent clusters
+Dialogue: 0,0:02:05.58,0:02:08.62,*Default,NTP,0000,0000,0000,,远不止外表的美丽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are more than just beautiful to look at.
+Dialogue: 0,0:02:08.67,0:02:10.50,*Default,NTP,0000,0000,0000,,你可能还未意识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You may not realize it,
+Dialogue: 0,0:02:10.54,0:02:14.50,*Default,NTP,0000,0000,0000,,但是它们掌握着恒星诞生的秘密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they hold the very secrets to the way stars are created
+Dialogue: 0,0:02:14.55,0:02:16.92,*Default,NTP,0000,0000,0000,,以及它们是如何毁于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and how they're destroyed in 
+Dialogue: 0,0:02:16.92,0:02:20.88,*Default,NTP,0000,0000,0000,,产生生命关键元素的超新星爆发的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}massive supernova explosions that generate the very elements of life.
+Dialogue: 0,0:02:23.60,0:02:26.68,*Default,NTP,0000,0000,0000,,我们开始搜索宇宙星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our search for cosmic clusters begins
+Dialogue: 0,0:02:26.72,0:02:28.85,*Default,NTP,0000,0000,0000,,并不是通过望远镜的目镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not through the eyepiece of a telescope,
+Dialogue: 0,0:02:28.89,0:02:32.98,*Default,NTP,0000,0000,0000,,而是在星际飞船的座舱里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in the cockpit of an interstellar spacecraft.
+Dialogue: 0,0:02:33.02,0:02:35.69,*Default,NTP,0000,0000,0000,,我们的任务是 穿行星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our mission: to traverse the galaxy
+Dialogue: 0,0:02:35.73,0:02:38.65,*Default,NTP,0000,0000,0000,,查明星团为何如此珍贵\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and find out why clusters are so valuable,
+Dialogue: 0,0:02:39.45,0:02:43.91,*Default,NTP,0000,0000,0000,,它们为什么是解开恒星奥秘的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}why they are keys to unlocking the mysteries of the stars.
+Dialogue: 0,0:02:44.91,0:02:50.75,*Default,NTP,0000,0000,0000,,我们的第一站 昴星团 所有星团中最著名的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our first stop, the Pleiades, the most famous star cluster of all,
+Dialogue: 0,0:02:50.79,0:02:53.92,*Default,NTP,0000,0000,0000,,距离地球440光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}440 light-years from Earth.
+Dialogue: 0,0:02:53.96,0:02:58.13,*Default,NTP,0000,0000,0000,,自古以来广为人知 它包括了上千颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Known since antiquity, it contains a thousand stars,
+Dialogue: 0,0:02:58.17,0:03:01.59,*Default,NTP,0000,0000,0000,,尽管只有少数能在地球上看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}though only a handful can be seen from Earth.
+Dialogue: 0,0:03:01.63,0:03:04.30,*Default,NTP,0000,0000,0000,,昴星团就是所谓的七姐妹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Pleiades are the so-called Seven Sisters,
+Dialogue: 0,0:03:04.35,0:03:09.14,*Default,NTP,0000,0000,0000,,明亮 在秋天的星空里很容易辨认出的星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a bright, easily noticeable grouping of stars in the winter skies.
+Dialogue: 0,0:03:09.18,0:03:13.19,*Default,NTP,0000,0000,0000,,原来只有六颗星星显而易见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, it turns out only six of the stars are easily visible.
+Dialogue: 0,0:03:13.23,0:03:15.73,*Default,NTP,0000,0000,0000,,你可以看到六颗 眼尖者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can see six, and really sharp-eyed people
+Dialogue: 0,0:03:15.77,0:03:18.57,*Default,NTP,0000,0000,0000,,可以看到8颗 9颗 甚至10颗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can see eight or nine or ten.
+Dialogue: 0,0:03:18.61,0:03:23.49,*Default,NTP,0000,0000,0000,,我遇到的人难得有可以准确看到7颗星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rarely have I met anyone who can see precisely seven stars.
+Dialogue: 0,0:03:23.53,0:03:26.07,*Default,NTP,0000,0000,0000,,也许在古代 有一颗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So maybe in antiquity, there was a star
+Dialogue: 0,0:03:26.12,0:03:28.20,*Default,NTP,0000,0000,0000,,亮度远远超过它现在的亮度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was considerably brighter than it is now,
+Dialogue: 0,0:03:28.24,0:03:29.58,*Default,NTP,0000,0000,0000,,但是打那时起它已经消失了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it has faded since then,
+Dialogue: 0,0:03:29.62,0:03:32.62,*Default,NTP,0000,0000,0000,,因此现在只有六颗星显而易见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so now there are only six easily visible stars.
+Dialogue: 0,0:03:32.67,0:03:35.08,*Default,NTP,0000,0000,0000,,昂星团里有数百颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are actually hundreds of stars in the Pleiades,
+Dialogue: 0,0:03:35.13,0:03:36.79,*Default,NTP,0000,0000,0000,,或许有上千颗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps up to a thousand.
+Dialogue: 0,0:03:37.96,0:03:40.59,*Default,NTP,0000,0000,0000,,我们围绕着昂星团搜索线索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We circle the Pleiades in search of clues
+Dialogue: 0,0:03:40.63,0:03:43.80,*Default,NTP,0000,0000,0000,,可以揭示宇宙的秘密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can reveal the secrets of the universe,
+Dialogue: 0,0:03:43.84,0:03:46.85,*Default,NTP,0000,0000,0000,,因为星团里掌握着了解恒星如何诞生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because clusters hold the key to understanding
+Dialogue: 0,0:03:46.89,0:03:54.06,*Default,NTP,0000,0000,0000,,它们的生死情况以及创世之谜的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how stars are born, how they live and die, the secrets of creation.
+Dialogue: 0,0:03:54.10,0:03:57.69,*Default,NTP,0000,0000,0000,,和所有的星团一样 我们看到昂星团里的群星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like all clusters, we see that the stars in the Pleiades
+Dialogue: 0,0:03:57.73,0:03:59.40,*Default,NTP,0000,0000,0000,,相互挨得很近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are so close to each other,
+Dialogue: 0,0:03:59.44,0:04:02.49,*Default,NTP,0000,0000,0000,,它们与地球的距离大差不离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they are all virtually the same distance from Earth.
+Dialogue: 0,0:04:04.28,0:04:05.82,*Default,NTP,0000,0000,0000,,当然啦 星团里的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course, the stars in a cluster
+Dialogue: 0,0:04:05.87,0:04:09.16,*Default,NTP,0000,0000,0000,,与我们的距离并不是完全相同的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are not all exactly at the same distance from us,
+Dialogue: 0,0:04:09.20,0:04:12.96,*Default,NTP,0000,0000,0000,,但是它们非常遥远 距离上的细微差别\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they're so far away that the slight differences in distance
+Dialogue: 0,0:04:13.00,0:04:14.29,*Default,NTP,0000,0000,0000,,确实很小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are really pretty small.
+Dialogue: 0,0:04:14.33,0:04:15.75,*Default,NTP,0000,0000,0000,,那是无关紧要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're inconsequential.
+Dialogue: 0,0:04:15.79,0:04:19.67,*Default,NTP,0000,0000,0000,,恰当的比喻就是在从高空飞艇上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A nice analogy is viewing a stadium full of people
+Dialogue: 0,0:04:19.71,0:04:22.01,*Default,NTP,0000,0000,0000,,观察坐满观众的体育场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a blimp high above.
+Dialogue: 0,0:04:22.05,0:04:23.59,*Default,NTP,0000,0000,0000,,从飞艇上远眺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the perspective of the blimp,
+Dialogue: 0,0:04:23.63,0:04:27.30,*Default,NTP,0000,0000,0000,,大部分人都处在相同的距离上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most of the people are at about the same distance.
+Dialogue: 0,0:04:27.35,0:04:29.60,*Default,NTP,0000,0000,0000,,我们对群星所了解的大部分情况 - \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of what we know about stars--
+Dialogue: 0,0:04:29.64,0:04:32.35,*Default,NTP,0000,0000,0000,,个头 重量 年龄 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}their size, weight, and age--
+Dialogue: 0,0:04:32.39,0:04:35.39,*Default,NTP,0000,0000,0000,,都来自对它们内在亮度的计算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes from figuring out their inherent brightness.
+Dialogue: 0,0:04:36.56,0:04:39.11,*Default,NTP,0000,0000,0000,,但是你不知道恒星的距离的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But you can't judge a star's true brightness
+Dialogue: 0,0:04:39.15,0:04:42.07,*Default,NTP,0000,0000,0000,,是无法判断其真实亮度的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without knowing how far away it is.
+Dialogue: 0,0:04:42.11,0:04:44.11,*Default,NTP,0000,0000,0000,,那里就是星团出现的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's where the cluster comes in.
+Dialogue: 0,0:04:45.36,0:04:47.45,*Default,NTP,0000,0000,0000,,事实上 星团里所有的星星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fact that all stars in a star cluster
+Dialogue: 0,0:04:47.49,0:04:50.49,*Default,NTP,0000,0000,0000,,与我们的距离基本相同是非常重要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are basically the same distance from us is very important.
+Dialogue: 0,0:04:50.54,0:04:53.08,*Default,NTP,0000,0000,0000,,它给了我们一个恒星的样本 我们实际上可以看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It gives us a sample of stars where we can actually see
+Dialogue: 0,0:04:53.12,0:04:55.91,*Default,NTP,0000,0000,0000,,那些恒星真正的内在亮度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what the intrinsic real brightness of these stars are.
+Dialogue: 0,0:04:55.96,0:04:58.92,*Default,NTP,0000,0000,0000,,除非我们知道这些恒星都处在同一个位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unless we know these stars are all at the same location,
+Dialogue: 0,0:04:58.96,0:05:01.88,*Default,NTP,0000,0000,0000,,否则我们就不知道我们是否看到的亮星较远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we don't know whether we're looking at a bright star that's far away
+Dialogue: 0,0:05:01.92,0:05:04.67,*Default,NTP,0000,0000,0000,,而较暗的星则离我们较近 是没有办法明白的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a dimmer star that's close to us. There's no way to tell.
+Dialogue: 0,0:05:04.72,0:05:08.05,*Default,NTP,0000,0000,0000,,但是在星团里 都在一起 你就可以看个明白\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in a cluster, all together, you can see that.
+Dialogue: 0,0:05:09.01,0:05:11.68,*Default,NTP,0000,0000,0000,,适合天上群星的规则\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The same rules that apply to stars in the sky
+Dialogue: 0,0:05:11.72,0:05:14.31,*Default,NTP,0000,0000,0000,,同样也适合于道路上的汽车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}also apply to cars on the road.
+Dialogue: 0,0:05:16.56,0:05:19.73,*Default,NTP,0000,0000,0000,,我们这里有两辆汽车 同一个牌子 同一个型号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we have here are two cars-- same make, same model--
+Dialogue: 0,0:05:19.77,0:05:23.03,*Default,NTP,0000,0000,0000,,所以我们知道两辆车的前灯是一模一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so we know the headlights on each car are exactly alike
+Dialogue: 0,0:05:23.07,0:05:24.57,*Default,NTP,0000,0000,0000,,亮度也是一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and equally bright.
+Dialogue: 0,0:05:24.61,0:05:26.40,*Default,NTP,0000,0000,0000,,从我现在所处的位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From where I'm standing here,
+Dialogue: 0,0:05:26.45,0:05:28.36,*Default,NTP,0000,0000,0000,,一辆车的前灯看上去与另外一辆并无两样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one car's headlights look just like the other.
+Dialogue: 0,0:05:28.41,0:05:29.41,*Default,NTP,0000,0000,0000,,那是合乎情理的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That makes sense.
+Dialogue: 0,0:05:29.45,0:05:33.54,*Default,NTP,0000,0000,0000,,现在让我们让这些车子来模拟一下宇宙中的恒星 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But now let's make these cars act like stars in the universe--
+Dialogue: 0,0:05:33.58,0:05:35.91,*Default,NTP,0000,0000,0000,,同样的恒星 但处在不同的距离上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}same stars, but at different distances.
+Dialogue: 0,0:05:38.04,0:05:39.92,*Default,NTP,0000,0000,0000,,好 艾米 倒车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Okay, Amy, back it up.
+Dialogue: 0,0:05:46.30,0:05:47.88,*Default,NTP,0000,0000,0000,,现在来看看这些前灯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look at these headlights now.
+Dialogue: 0,0:05:47.93,0:05:50.84,*Default,NTP,0000,0000,0000,,那边的灯要比这里的灯暗很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ones over there are much dimmer than the ones here,
+Dialogue: 0,0:05:50.89,0:05:52.64,*Default,NTP,0000,0000,0000,,虽然我们知道它们是一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even though we know they're the same.
+Dialogue: 0,0:05:52.68,0:05:54.47,*Default,NTP,0000,0000,0000,,这就是平方反比定律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the inverse square law.
+Dialogue: 0,0:05:54.52,0:05:56.68,*Default,NTP,0000,0000,0000,,如果汽车的距离增加一倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If that car is twice as far away,
+Dialogue: 0,0:05:56.73,0:05:58.39,*Default,NTP,0000,0000,0000,,那么前灯的亮度就会暗上四倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the headlights are four times dimmer.
+Dialogue: 0,0:05:58.44,0:06:01.98,*Default,NTP,0000,0000,0000,,如果距离远四倍 前灯就会暗上16倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it's four times farther away, the headlights are 16 times dimmer,
+Dialogue: 0,0:06:02.02,0:06:04.98,*Default,NTP,0000,0000,0000,,以此类推 随你走多远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so on as far as you care to go.
+Dialogue: 0,0:06:06.15,0:06:10.45,*Default,NTP,0000,0000,0000,,不过有时灯光会看上去比实际的更暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But sometimes a light that appears to be dimmer actually is.
+Dialogue: 0,0:06:15.04,0:06:16.58,*Default,NTP,0000,0000,0000,,这手电筒和前灯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This flashlight and the headlights
+Dialogue: 0,0:06:16.62,0:06:18.75,*Default,NTP,0000,0000,0000,,就像是星团里的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are just like stars in a star cluster.
+Dialogue: 0,0:06:18.79,0:06:21.17,*Default,NTP,0000,0000,0000,,手电筒靠近前灯 看上去较暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The flashlight next to the headlight looks dimmer,
+Dialogue: 0,0:06:21.21,0:06:24.25,*Default,NTP,0000,0000,0000,,那是因为它较暗 而不是因为它较远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's because it is dimmer, not because it's farther away.
+Dialogue: 0,0:06:24.30,0:06:26.92,*Default,NTP,0000,0000,0000,,星团里亮星旁边的暗星看上去较暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A dim star next to a bright star in a cluster looks dimmer
+Dialogue: 0,0:06:26.96,0:06:31.59,*Default,NTP,0000,0000,0000,,那是因为该星本身较暗 而不是因为它较远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the star itself is dimmer, not because it's farther away.
+Dialogue: 0,0:06:31.64,0:06:37.02,*Default,NTP,0000,0000,0000,,我们靠近看的话 昂星团里交杂着亮星和暗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Up close, we see the Pleiades has a mix of bright stars and dim stars,
+Dialogue: 0,0:06:37.06,0:06:40.69,*Default,NTP,0000,0000,0000,,星团里有各种各样的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's this very variety of different stars in a cluster,
+Dialogue: 0,0:06:40.73,0:06:42.81,*Default,NTP,0000,0000,0000,,都处在相同的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all in the same place,
+Dialogue: 0,0:06:42.86,0:06:45.48,*Default,NTP,0000,0000,0000,,这就解决了恒星演化的难题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that solves the puzzle of stellar evolution.
+Dialogue: 0,0:06:46.86,0:06:49.15,*Default,NTP,0000,0000,0000,,星团确实让我们掌握了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Star clusters really allowed us to get a handle
+Dialogue: 0,0:06:49.20,0:06:51.78,*Default,NTP,0000,0000,0000,,恒星是如何度过一生的 以及它们的生死情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on how stars go through their lives, how they live and die.
+Dialogue: 0,0:06:51.82,0:06:52.99,*Default,NTP,0000,0000,0000,,这样来考虑它 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think of it this way--
+Dialogue: 0,0:06:53.03,0:06:56.12,*Default,NTP,0000,0000,0000,,如果有外星人想了解人类的生死情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if an alien wanted to learn how humans live and die,
+Dialogue: 0,0:06:56.16,0:06:58.33,*Default,NTP,0000,0000,0000,,但是他们只能观察我们30秒 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they could only watch us for 30 seconds--
+Dialogue: 0,0:06:58.37,0:07:02.00,*Default,NTP,0000,0000,0000,,他们飞经地球拍到了数百万人的照片 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they flew by Earth and they took pictures of millions of humans--
+Dialogue: 0,0:07:02.04,0:07:05.21,*Default,NTP,0000,0000,0000,,虽然他们并没有观察到某一个人的生与死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even though they couldn't watch a single human live and die,
+Dialogue: 0,0:07:05.25,0:07:08.17,*Default,NTP,0000,0000,0000,,作为群体 他们就可以拼凑出我们的故事了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as a group, they could piece together our story.
+Dialogue: 0,0:07:08.21,0:07:10.13,*Default,NTP,0000,0000,0000,,他们看到了一些婴儿 看到了老人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They looked at some babies, they looked at older people.
+Dialogue: 0,0:07:10.17,0:07:12.18,*Default,NTP,0000,0000,0000,,星团就是那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A star cluster is just that.
+Dialogue: 0,0:07:12.22,0:07:14.55,*Default,NTP,0000,0000,0000,,这是一张同时快照\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a single snapshot in time.
+Dialogue: 0,0:07:14.60,0:07:17.64,*Default,NTP,0000,0000,0000,,然而群星都处在生命的不同阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there are stars at every different part of their lives,
+Dialogue: 0,0:07:17.68,0:07:19.52,*Default,NTP,0000,0000,0000,,那就是天文学家所需的工具\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that was the tool astronomers needed
+Dialogue: 0,0:07:19.56,0:07:22.44,*Default,NTP,0000,0000,0000,,来拼凑出恒星一生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to piece together what a stellar lifetime is like.
+Dialogue: 0,0:07:23.52,0:07:25.94,*Default,NTP,0000,0000,0000,,我们知道最大最亮的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know that the biggest, brightest stars
+Dialogue: 0,0:07:25.98,0:07:28.98,*Default,NTP,0000,0000,0000,,是最危险的 所以我们要保持距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are the most dangerous, so we keep our distance.
+Dialogue: 0,0:07:29.61,0:07:33.32,*Default,NTP,0000,0000,0000,,这些都是宇宙间生活艰辛 英年早逝的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are the live-hard, die-young stars of the universe,
+Dialogue: 0,0:07:33.91,0:07:39.45,*Default,NTP,0000,0000,0000,,它们膨胀到巨大的个头 随后变成了超新星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those that expand to giant size before going supernova.
+Dialogue: 0,0:07:40.79,0:07:42.71,*Default,NTP,0000,0000,0000,,威胁潜伏在星团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dangers lurk even in clusters
+Dialogue: 0,0:07:42.75,0:07:46.00,*Default,NTP,0000,0000,0000,,具有诱人的名字 如珠宝盒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with appealing names, like the Jewel Box.
+Dialogue: 0,0:07:46.04,0:07:50.51,*Default,NTP,0000,0000,0000,,我们行程的下一站要去的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the next stop on our journey is a place in the sky
+Dialogue: 0,0:07:50.55,0:07:54.13,*Default,NTP,0000,0000,0000,,是北半球人非常熟悉的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}very familiar to people in the northern hemisphere.
+Dialogue: 0,0:07:54.18,0:07:56.47,*Default,NTP,0000,0000,0000,,我们距离地球80光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We are 80 light-years from Earth,
+Dialogue: 0,0:07:56.51,0:07:59.26,*Default,NTP,0000,0000,0000,,来到了离我们最近的星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}approaching the closest cluster to our planet,
+Dialogue: 0,0:07:59.31,0:08:01.85,*Default,NTP,0000,0000,0000,,大熊座移动星群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Ursa Major Moving Group.
+Dialogue: 0,0:08:01.89,0:08:03.85,*Default,NTP,0000,0000,0000,,我们带着我们的飞船四处转悠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we bring our starship around,
+Dialogue: 0,0:08:03.90,0:08:06.73,*Default,NTP,0000,0000,0000,,我们看到大熊座中间的的五颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we see five of the central stars in Ursa Major
+Dialogue: 0,0:08:06.77,0:08:10.15,*Default,NTP,0000,0000,0000,,构成了我们所谓的北斗七星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}form what we know as the Big Dipper.
+Dialogue: 0,0:08:11.86,0:08:15.36,*Default,NTP,0000,0000,0000,,人们注意到它们实际上是一起在天上移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People noticed that they actually move across the sky together.
+Dialogue: 0,0:08:15.41,0:08:18.62,*Default,NTP,0000,0000,0000,,大多数星座里的群星 虽然它们看上去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With most constellations, the stars, even though they look
+Dialogue: 0,0:08:18.66,0:08:20.12,*Default,NTP,0000,0000,0000,,像是属于同一个星座\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like they're part of the same constellation,
+Dialogue: 0,0:08:20.16,0:08:22.70,*Default,NTP,0000,0000,0000,,但是它们其实是风马牛不相干的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're actually completely unrelated to each other.
+Dialogue: 0,0:08:22.75,0:08:24.96,*Default,NTP,0000,0000,0000,,它们相互之间毫无引力关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They have nothing to do with each other gravitationally.
+Dialogue: 0,0:08:25.00,0:08:28.25,*Default,NTP,0000,0000,0000,,然而大熊座移动星群里的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, the stars in the Ursa Major Moving Group
+Dialogue: 0,0:08:28.29,0:08:32.88,*Default,NTP,0000,0000,0000,,实际上是同时形成的 属于同一个移动星群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually formed at the same time and are part of the same moving group.
+Dialogue: 0,0:08:32.92,0:08:35.63,*Default,NTP,0000,0000,0000,,随着时间的推移 运动会改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In time, the movement will change the appearance
+Dialogue: 0,0:08:35.68,0:08:37.93,*Default,NTP,0000,0000,0000,,群星熟悉的模样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the familiar pattern of stars.
+Dialogue: 0,0:08:40.77,0:08:45.14,*Default,NTP,0000,0000,0000,,我们拜访大熊座去探索另一个星团问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're visiting Ursa Major to explore another cluster question:
+Dialogue: 0,0:08:45.19,0:08:48.27,*Default,NTP,0000,0000,0000,,为什么有些星团会比其它的更加分散？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}why are some more spread out than others?
+Dialogue: 0,0:08:50.15,0:08:53.32,*Default,NTP,0000,0000,0000,,不规则的形状 疏散的外貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Irregular in shape and scattered in appearance,
+Dialogue: 0,0:08:53.36,0:08:56.36,*Default,NTP,0000,0000,0000,,它们被称为疏散星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're called open clusters.
+Dialogue: 0,0:08:56.41,0:09:02.66,*Default,NTP,0000,0000,0000,,疏散星团是相对松散的恒星集群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An open star cluster is a relatively loosely bound aggregation of stars.
+Dialogue: 0,0:09:02.70,0:09:06.08,*Default,NTP,0000,0000,0000,,它们形成于螺旋星系的旋臂里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They form in the spiral arms of a spiral galaxy
+Dialogue: 0,0:09:06.12,0:09:08.79,*Default,NTP,0000,0000,0000,,于是它们渐行渐远 散开了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then they gradually move away, and then they disperse.
+Dialogue: 0,0:09:09.63,0:09:13.80,*Default,NTP,0000,0000,0000,,科学家认为几乎所有的恒星都诞生于星团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe virtually all stars are born in clusters,
+Dialogue: 0,0:09:13.84,0:09:15.59,*Default,NTP,0000,0000,0000,,但是随着时间的推移\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but as time goes on,
+Dialogue: 0,0:09:15.63,0:09:18.72,*Default,NTP,0000,0000,0000,,疏散星团中的恒星在其它路过的恒星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the stars in open clusters get scattered apart
+Dialogue: 0,0:09:18.76,0:09:21.18,*Default,NTP,0000,0000,0000,,引力作用下拆散了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the gravity of other passing stars.
+Dialogue: 0,0:09:21.22,0:09:24.31,*Default,NTP,0000,0000,0000,,那意味着大部分星团是年轻的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means most clusters are young
+Dialogue: 0,0:09:24.35,0:09:28.60,*Default,NTP,0000,0000,0000,,因为 要不然 其中的恒星早已不在星团里了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because, otherwise, their stars would no longer be in clusters.
+Dialogue: 0,0:09:30.15,0:09:34.11,*Default,NTP,0000,0000,0000,,星团就像是我手里的这团五彩纸屑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A star cluster is kind of like this pile of confetti on my hand.
+Dialogue: 0,0:09:34.15,0:09:38.32,*Default,NTP,0000,0000,0000,,引力逐渐将群星拉开 把星团分开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity gradually pulls the stars away and disperses the cluster.
+Dialogue: 0,0:09:38.36,0:09:42.37,*Default,NTP,0000,0000,0000,,好 我可以吹这团五彩纸屑 将纸团吹散\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, I can blow on this pile of confetti and disperse the pile.
+Dialogue: 0,0:09:42.41,0:09:43.45,*Default,NTP,0000,0000,0000,,这就来吹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let's do it.
+Dialogue: 0,0:09:46.83,0:09:50.42,*Default,NTP,0000,0000,0000,,现在如果这里是个星团而不是五彩纸屑团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now if this were a star cluster instead of a pile of confetti,
+Dialogue: 0,0:09:50.46,0:09:54.63,*Default,NTP,0000,0000,0000,,那么引力就是逐渐将恒星拉开的原动力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then gravity would be the agent that gradually pulls the stars away,
+Dialogue: 0,0:09:54.67,0:09:59.18,*Default,NTP,0000,0000,0000,,随着时间的推移逐渐拆散星团直到一点点 如果有东西留下的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dispersing the cluster over time until there is little, if anything, left.
+Dialogue: 0,0:10:01.72,0:10:05.35,*Default,NTP,0000,0000,0000,,作为探险家 这些年轻的星团对我们非常重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As explorers, these young clusters are important to us.
+Dialogue: 0,0:10:06.14,0:10:10.40,*Default,NTP,0000,0000,0000,,由于有好多恒星在一个地方 就好象我们可以开展一项民意调查\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With a lot of stars in one place, it's as if we can take a poll
+Dialogue: 0,0:10:10.44,0:10:15.61,*Default,NTP,0000,0000,0000,,搞明白星系里的各种恒星有多普遍或稀有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and figure out how common or rare different kinds of stars are in the galaxy.
+Dialogue: 0,0:10:15.65,0:10:21.11,*Default,NTP,0000,0000,0000,,在大部分星团里 我们一下子就看到有一些很大很亮的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In most clusters, we see quickly that there are a few very big, bright stars,
+Dialogue: 0,0:10:21.16,0:10:25.24,*Default,NTP,0000,0000,0000,,或许还有大量的像我们的太阳那样的普通恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe a larger number of ordinary stars like our Sun,
+Dialogue: 0,0:10:25.29,0:10:30.21,*Default,NTP,0000,0000,0000,,很多很多昏暗的小恒星 挤在一起几乎难以分辨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and lots and lots of small, dim stars, barely visible in the crowd.
+Dialogue: 0,0:10:31.46,0:10:34.34,*Default,NTP,0000,0000,0000,,那么它们有多拥挤呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how crowded are they really?
+Dialogue: 0,0:10:34.38,0:10:38.01,*Default,NTP,0000,0000,0000,,星团里的恒星都相距几十亿英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars in clusters are many billions of miles apart.
+Dialogue: 0,0:10:39.38,0:10:43.55,*Default,NTP,0000,0000,0000,,但是我们一旦将它们的距离输入我们飞船上的计算机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when we add up their distances in our starship computer,
+Dialogue: 0,0:10:43.60,0:10:47.60,*Default,NTP,0000,0000,0000,,我们发现它们靠在一起超过了我们过去的认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we find they're much closer together than we're used to at home.
+Dialogue: 0,0:10:49.56,0:10:52.10,*Default,NTP,0000,0000,0000,,太阳所在的街区里 恒星密度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The density of stars in the Sun's neighborhood
+Dialogue: 0,0:10:52.15,0:10:55.82,*Default,NTP,0000,0000,0000,,差不多是每50立方光年里一颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is little more than one star for every 50 cubic light-years.
+Dialogue: 0,0:10:57.90,0:10:59.82,*Default,NTP,0000,0000,0000,,在典型的疏散星团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a typical open cluster,
+Dialogue: 0,0:10:59.86,0:11:02.86,*Default,NTP,0000,0000,0000,,同样的空间里会有500颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there would be 500 stars in the same space.
+Dialogue: 0,0:11:04.78,0:11:06.83,*Default,NTP,0000,0000,0000,,我们曾经在一个疏散星团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We were once in an open cluster,
+Dialogue: 0,0:11:06.87,0:11:09.66,*Default,NTP,0000,0000,0000,,但是我们已经围绕着星系N多圈了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we've been around the galaxy so many times now
+Dialogue: 0,0:11:09.71,0:11:11.04,*Default,NTP,0000,0000,0000,,现在我们的姐妹恒星都可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that our sister stars may be
+Dialogue: 0,0:11:11.08,0:11:13.04,*Default,NTP,0000,0000,0000,,到了银河系的另外一面了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the way on the other side of the Milky Way.
+Dialogue: 0,0:11:14.21,0:11:18.13,*Default,NTP,0000,0000,0000,,当年太阳作为星团的一部分会是何种模样呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What would it have been like for the Sun when it was part of a cluster?
+Dialogue: 0,0:11:19.92,0:11:22.18,*Default,NTP,0000,0000,0000,,为了找到答案 我们提出了一个飞行计划\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To find out, we file a flight plan
+Dialogue: 0,0:11:22.22,0:11:26.10,*Default,NTP,0000,0000,0000,,寻找有恒星现在正在星团里形成的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for a place where stars are forming in a cluster right now.
+Dialogue: 0,0:11:28.43,0:11:33.56,*Default,NTP,0000,0000,0000,,我们前行1500光年 从地球前往猎户座星云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're headed 1,500 light-years from Earth to the Orion Nebula,
+Dialogue: 0,0:11:33.60,0:11:37.40,*Default,NTP,0000,0000,0000,,那里看上去好像猎户的宝剑里有一颗模糊的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which looks like a fuzzy star in Orion's sword.
+Dialogue: 0,0:11:37.44,0:11:41.65,*Default,NTP,0000,0000,0000,,凑近一看 居然是一个壮观的星光秀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Up close, though, it's a spectacular light show.
+Dialogue: 0,0:11:41.70,0:11:46.12,*Default,NTP,0000,0000,0000,,猎户座星云是著名的星际托儿所之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Orion Nebula is one of the great stellar nurseries that we know of.
+Dialogue: 0,0:11:46.16,0:11:48.28,*Default,NTP,0000,0000,0000,,现在正在形成恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's forming stars right now,
+Dialogue: 0,0:11:48.33,0:11:50.87,*Default,NTP,0000,0000,0000,,如果你飞经猎户座星云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if you were to fly through the Orion Nebula,
+Dialogue: 0,0:11:50.91,0:11:53.25,*Default,NTP,0000,0000,0000,,你会看到一大堆恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would see a whole bunch of stars.
+Dialogue: 0,0:11:53.29,0:11:57.34,*Default,NTP,0000,0000,0000,,然而靠近中央 有四颗特别明亮的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But near the middle, there are four particularly bright stars.
+Dialogue: 0,0:11:57.38,0:12:00.76,*Default,NTP,0000,0000,0000,,它们构成的形状叫做猎户座四边形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They form a configuration called the Trapezium,
+Dialogue: 0,0:12:00.80,0:12:03.09,*Default,NTP,0000,0000,0000,,如果你飞经这些恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if you were to fly past these stars,
+Dialogue: 0,0:12:03.13,0:12:06.51,*Default,NTP,0000,0000,0000,,你会看到这四颗新形成的明亮的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would see these four newly formed brilliant stars
+Dialogue: 0,0:12:06.55,0:12:09.01,*Default,NTP,0000,0000,0000,,以及一大堆小家伙漂浮在四周\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a whole bunch of little guys all floating around.
+Dialogue: 0,0:12:09.06,0:12:11.06,*Default,NTP,0000,0000,0000,,那是一个美妙的旅程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be a wonderful journey.
+Dialogue: 0,0:12:12.31,0:12:14.98,*Default,NTP,0000,0000,0000,,我们朝四边形恒星而去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We head toward the Trapezium stars,
+Dialogue: 0,0:12:15.02,0:12:19.82,*Default,NTP,0000,0000,0000,,星团里四颗最亮的星是最忙碌的恒星形成实验室\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the four brightest in a cluster that's a hectic laboratory of star formation.
+Dialogue: 0,0:12:20.99,0:12:26.53,*Default,NTP,0000,0000,0000,,成千上万颗恒星已经形成或正在形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thousands of other stars have formed or are in the process of forming,
+Dialogue: 0,0:12:26.57,0:12:30.70,*Default,NTP,0000,0000,0000,,但是随之而来的是 科学家认为星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but as it's happening, scientists believe the cluster is imposing
+Dialogue: 0,0:12:30.75,0:12:34.71,*Default,NTP,0000,0000,0000,,正对整个循环施加着某种生育控制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a kind of birth control on the whole cycle.
+Dialogue: 0,0:12:34.75,0:12:38.25,*Default,NTP,0000,0000,0000,,只有约10%的云量会形成恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only about 10% of the mass of a cloud which will form stars
+Dialogue: 0,0:12:38.29,0:12:39.79,*Default,NTP,0000,0000,0000,,实际成为恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually become stars.
+Dialogue: 0,0:12:39.84,0:12:43.13,*Default,NTP,0000,0000,0000,,那么为什么星云中就这么一点物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So why is it that so little of the matter in a cloud
+Dialogue: 0,0:12:43.17,0:12:45.05,*Default,NTP,0000,0000,0000,,真正变成恒星呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually turns into stars?
+Dialogue: 0,0:12:45.09,0:12:48.55,*Default,NTP,0000,0000,0000,,我们现在已经开始相信可能存在着一个反馈过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we've come to believe now is that there may be a feedback process.
+Dialogue: 0,0:12:48.60,0:12:52.14,*Default,NTP,0000,0000,0000,,所以你一旦形成了恒星 它们就会反过来对星云有所作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So once you form stars, they feed back on the cloud,
+Dialogue: 0,0:12:52.18,0:12:54.68,*Default,NTP,0000,0000,0000,,就像调节器一样 实际上限制了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}acting like a thermostat and actually limiting
+Dialogue: 0,0:12:54.73,0:12:56.94,*Default,NTP,0000,0000,0000,,可形成的恒星的形成量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the amount of star formation that can form.
+Dialogue: 0,0:12:56.98,0:13:00.98,*Default,NTP,0000,0000,0000,,在四边形星团里 你看到那四颗大质量恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the Trapezium Cluster, you've got those 4 massive stars
+Dialogue: 0,0:13:01.03,0:13:04.07,*Default,NTP,0000,0000,0000,,正大量产生着紫外线辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are producing enormous amount of ultraviolet radiation,
+Dialogue: 0,0:13:04.11,0:13:07.99,*Default,NTP,0000,0000,0000,,以及恒星风射入周围的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as well as winds that stream into the surrounding area.
+Dialogue: 0,0:13:08.03,0:13:11.74,*Default,NTP,0000,0000,0000,,它们会影响到那些想形成恒星的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they will affect the gas that wants to form stars.
+Dialogue: 0,0:13:11.79,0:13:14.12,*Default,NTP,0000,0000,0000,,因此即使你再有1000颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So even though you have another thousand stars
+Dialogue: 0,0:13:14.16,0:13:15.87,*Default,NTP,0000,0000,0000,,在四边形周围形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}forming around the Trapezium,
+Dialogue: 0,0:13:15.92,0:13:19.33,*Default,NTP,0000,0000,0000,,那个区域里的恒星形成率也经受着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the star-formation rate in that area is being affected
+Dialogue: 0,0:13:19.38,0:13:22.63,*Default,NTP,0000,0000,0000,,那些大质量恒星的紫外线以及恒星风的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the ultraviolet radiation and the winds from those massive stars.
+Dialogue: 0,0:13:24.38,0:13:27.97,*Default,NTP,0000,0000,0000,,如果星云是宇宙恒星托儿所的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If nebulas are the stellar nurseries of the cosmos,
+Dialogue: 0,0:13:28.01,0:13:31.01,*Default,NTP,0000,0000,0000,,那么星团就是它们的小学了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then clusters are their grade schools,
+Dialogue: 0,0:13:31.06,0:13:36.02,*Default,NTP,0000,0000,0000,,在那里 群星呆在一起直至终身或星系将它们驱散\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where stars stay together until life and the galaxy drives them apart.
+Dialogue: 0,0:13:36.85,0:13:39.94,*Default,NTP,0000,0000,0000,,然而很显然 并非所有的星团都是一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's clear, not all clusters are alike.
+Dialogue: 0,0:13:39.98,0:13:41.52,*Default,NTP,0000,0000,0000,,我们现在由于所遇到的星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're due now to encounter clusters
+Dialogue: 0,0:13:42.57,0:13:47.40,*Default,NTP,0000,0000,0000,,构成了整个星系里最极端的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that make up some of the most extreme environments in the entire galaxy,
+Dialogue: 0,0:13:47.45,0:13:51.07,*Default,NTP,0000,0000,0000,,其中恒星非常庞大 它们正处在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where stars are so massive, they are on the verge
+Dialogue: 0,0:13:51.12,0:13:54.20,*Default,NTP,0000,0000,0000,,自我爆发让人遗忘的边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of blasting themselves into oblivion.
+Dialogue: 0,0:13:57.75,0:13:59.83,*Default,NTP,0000,0000,0000,,说起星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it comes to star clusters,
+Dialogue: 0,0:13:59.88,0:14:02.79,*Default,NTP,0000,0000,0000,,多数人想知道的一个关键问题是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the first things most people want to know is,
+Dialogue: 0,0:14:02.84,0:14:04.30,*Default,NTP,0000,0000,0000,,谁为最大？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what's the biggest?
+Dialogue: 0,0:14:05.59,0:14:07.88,*Default,NTP,0000,0000,0000,,哪些尤为突出？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Which ones really stand out?
+Dialogue: 0,0:14:08.93,0:14:11.89,*Default,NTP,0000,0000,0000,,这与观察大城市并无差异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's no different than looking at a big city.
+Dialogue: 0,0:14:11.93,0:14:15.39,*Default,NTP,0000,0000,0000,,你想知道其中最高的建筑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You want to know about its tallest buildings,
+Dialogue: 0,0:14:15.43,0:14:17.27,*Default,NTP,0000,0000,0000,,最鲜明的地标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its most distinctive landmarks.
+Dialogue: 0,0:14:18.44,0:14:22.40,*Default,NTP,0000,0000,0000,,如果有星团中的帝国大厦的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there's an Empire State Building of star clusters,
+Dialogue: 0,0:14:22.44,0:14:26.32,*Default,NTP,0000,0000,0000,,我们就不得不走上1万光年去寻找它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'd have to travel 10,000 light-years to find it.
+Dialogue: 0,0:14:26.36,0:14:28.99,*Default,NTP,0000,0000,0000,,它叫做韦斯特伦德1(Westerlund 1)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's called Westerlund 1,
+Dialogue: 0,0:14:29.03,0:14:34.83,*Default,NTP,0000,0000,0000,,一个总质量是我们太阳10万倍的超级星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a supercluster with a total mass 100,000 times our Sun.
+Dialogue: 0,0:14:34.87,0:14:37.75,*Default,NTP,0000,0000,0000,,韦斯特伦德1目前保持着最大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Westerlund 1 right now holds the world's record
+Dialogue: 0,0:14:37.79,0:14:40.92,*Default,NTP,0000,0000,0000,,已知年轻星团的世界纪录\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the biggest known young cluster.
+Dialogue: 0,0:14:40.96,0:14:44.29,*Default,NTP,0000,0000,0000,,它拥有约10万颗恒星 其怪异之处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It has about 100,000 stars, and what's really odd
+Dialogue: 0,0:14:44.34,0:14:46.75,*Default,NTP,0000,0000,0000,,就是很长时期里 我们居然不知道它有那么庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is for a long time we didn't even know it was that massive.
+Dialogue: 0,0:14:46.80,0:14:50.47,*Default,NTP,0000,0000,0000,,天文学家知道韦斯特伦德1有好长时间了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers have known about Westerlund 1 for a long time,
+Dialogue: 0,0:14:50.80,0:14:53.30,*Default,NTP,0000,0000,0000,,然而只是在5年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but only about five years ago,
+Dialogue: 0,0:14:53.35,0:14:57.47,*Default,NTP,0000,0000,0000,,我们才真正第一次大致了解到这个星团里所有的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}did we first get a glimpse of all the stars in the cluster,
+Dialogue: 0,0:14:57.52,0:15:00.81,*Default,NTP,0000,0000,0000,,因为当时我们有了红外探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because that's when we had infrared detectors
+Dialogue: 0,0:15:00.85,0:15:03.15,*Default,NTP,0000,0000,0000,,能够透过地球与\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could peer through 
+Dialogue: 0,0:15:03.15,0:15:07.11,*Default,NTP,0000,0000,0000,,该星团之间的星系里的尘埃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the dust in the galaxy that's situated between the Earth and the cluster.
+Dialogue: 0,0:15:07.15,0:15:10.15,*Default,NTP,0000,0000,0000,,红外天文学上的最新进展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Recent advances in infrared astronomy
+Dialogue: 0,0:15:10.20,0:15:13.91,*Default,NTP,0000,0000,0000,,揭示了一个只有6光年宽的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}revealed a space only six light-years across,
+Dialogue: 0,0:15:13.95,0:15:16.49,*Default,NTP,0000,0000,0000,,充满了众多恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}packed with a thick population of stars.
+Dialogue: 0,0:15:16.54,0:15:19.79,*Default,NTP,0000,0000,0000,,最大最亮的是银河怪物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The biggest and brightest are galactic freaks,
+Dialogue: 0,0:15:19.83,0:15:23.63,*Default,NTP,0000,0000,0000,,超巨星有一系列的大小和颜色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}supergiant stars in a range of sizes and colors,
+Dialogue: 0,0:15:23.67,0:15:26.84,*Default,NTP,0000,0000,0000,,从蓝色到红色甚至黄色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from blue to red and even yellow.
+Dialogue: 0,0:15:27.96,0:15:29.42,*Default,NTP,0000,0000,0000,,蓝色超巨星阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The blue supergiant phase
+Dialogue: 0,0:15:29.47,0:15:31.22,*Default,NTP,0000,0000,0000,,以及黄色 红色的超巨星阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the yellow and red supergiant phase
+Dialogue: 0,0:15:31.26,0:15:35.39,*Default,NTP,0000,0000,0000,,代表了大质量恒星生命里的各个阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}represent phases during the lifetime of a massive star.
+Dialogue: 0,0:15:35.43,0:15:38.10,*Default,NTP,0000,0000,0000,,它们始于蓝色 然后变成红色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They start blue, they become red.
+Dialogue: 0,0:15:38.14,0:15:40.22,*Default,NTP,0000,0000,0000,,在某种情况下 它们来回折腾于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In some cases they go back and forth
+Dialogue: 0,0:15:40.27,0:15:42.81,*Default,NTP,0000,0000,0000,,蓝红之间 因为其外层升起后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between blue and red as the outer layers are lifted
+Dialogue: 0,0:15:42.85,0:15:45.31,*Default,NTP,0000,0000,0000,,我们看到了深处温度较高的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we see deeper to the hotter material.
+Dialogue: 0,0:15:45.36,0:15:48.36,*Default,NTP,0000,0000,0000,,介于红蓝阶段之间 它们是黄色的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In between the red and the blue phases, they're yellow.
+Dialogue: 0,0:15:48.40,0:15:50.74,*Default,NTP,0000,0000,0000,,因此我们称其为黄巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so we call them yellow supergiants.
+Dialogue: 0,0:15:52.86,0:15:57.03,*Default,NTP,0000,0000,0000,,太阳 之所以通常被称为普通恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun, which so often is called an ordinary star,
+Dialogue: 0,0:15:57.08,0:16:01.58,*Default,NTP,0000,0000,0000,,是因为相对各种颜色的超巨星是很小的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is tiny when compared to supergiants of any color.
+Dialogue: 0,0:16:01.62,0:16:02.71,*Default,NTP,0000,0000,0000,,假设我们的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Suppose our Sun,
+Dialogue: 0,0:16:02.75,0:16:06.00,*Default,NTP,0000,0000,0000,,它超过地球直径100倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is over a hundred times the diameter of the Earth,
+Dialogue: 0,0:16:06.04,0:16:10.13,*Default,NTP,0000,0000,0000,,缩小到这个黄色针头那么大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were scaled down to the size of this little yellow pinhead here,
+Dialogue: 0,0:16:10.17,0:16:12.17,*Default,NTP,0000,0000,0000,,直径小于1/8英寸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}less than 1/8 inch in diameter.
+Dialogue: 0,0:16:12.22,0:16:15.13,*Default,NTP,0000,0000,0000,,那么我们真的大大缩小了太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we're really scaling down the Sun a lot.
+Dialogue: 0,0:16:15.18,0:16:18.85,*Default,NTP,0000,0000,0000,,如果那样 最大的恒星 红巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In that case, the largest stars, the red supergiants,
+Dialogue: 0,0:16:18.89,0:16:22.70,*Default,NTP,0000,0000,0000,,就会是我身后的望远镜穹顶那般大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be about the size of this telescope dome behind me.
+Dialogue: 0,0:16:22.77,0:16:25.19,*Default,NTP,0000,0000,0000,,它们相对太阳非常大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're huge compared with the Sun,
+Dialogue: 0,0:16:25.23,0:16:29.23,*Default,NTP,0000,0000,0000,,然而太阳本身相对地球就已经够大的了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and yet the Sun itself is already huge compared with the Earth.
+Dialogue: 0,0:16:30.99,0:16:34.70,*Default,NTP,0000,0000,0000,,超巨星 不管是蓝 黄 还是红\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Supergiant stars, whether blue, yellow, or red,
+Dialogue: 0,0:16:34.74,0:16:38.62,*Default,NTP,0000,0000,0000,,统称为变体巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are collectively called evolved massive stars.
+Dialogue: 0,0:16:38.66,0:16:41.95,*Default,NTP,0000,0000,0000,,这意味着它们耗尽了它们的核氢燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means they've burnt out their nuclear hydrogen fuel
+Dialogue: 0,0:16:42.00,0:16:47.50,*Default,NTP,0000,0000,0000,,正在变成巨星 有可能最终会成为超新星爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and are transforming into giants that may eventually explode as supernovas.
+Dialogue: 0,0:16:51.67,0:16:56.88,*Default,NTP,0000,0000,0000,,超新星非常明亮 很远处都不难看到它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Supernovas are so bright, it's easy to see them from great distances.
+Dialogue: 0,0:16:56.93,0:17:00.01,*Default,NTP,0000,0000,0000,,然而 来自宾州的大卫有个问题问《宇宙》节目 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But David Y. from Wing, Pennsylvania, wants to 
+Dialogue: 0,0:17:00.93,0:17:06.01,*Default,NTP,0000,0000,0000,,超新星是否会扭曲时空到足以让我们注意到变化呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ask "The Universe" if supernova can cause space and time to warp enough to make us notice to change?
+Dialogue: 0,0:17:08.44,0:17:11.02,*Default,NTP,0000,0000,0000,,大卫 我们当然希望超新星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}David, we sure hope that a supernova
+Dialogue: 0,0:17:11.07,0:17:13.23,*Default,NTP,0000,0000,0000,,会引起足够大的干扰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will create a big enough disturbance,
+Dialogue: 0,0:17:13.28,0:17:16.57,*Default,NTP,0000,0000,0000,,扭曲时空 显而易见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a warping in space and time, to be noticeable,
+Dialogue: 0,0:17:16.61,0:17:18.24,*Default,NTP,0000,0000,0000,,不过它不会轻易显现的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it won't be easily noticeable.
+Dialogue: 0,0:17:18.28,0:17:20.41,*Default,NTP,0000,0000,0000,,你不会被搅乎到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You won't be jostled around.
+Dialogue: 0,0:17:20.45,0:17:23.24,*Default,NTP,0000,0000,0000,,不过我们希望当前和未来一代的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we hope that the current and future generation
+Dialogue: 0,0:17:23.29,0:17:28.25,*Default,NTP,0000,0000,0000,,引力波探测器会探测到时空结构中的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of gravitational wave detectors will detect these slight ripples
+Dialogue: 0,0:17:28.29,0:17:30.67,*Default,NTP,0000,0000,0000,,这些细微的涟漪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the fabric of space and time.
+Dialogue: 0,0:17:30.71,0:17:34.21,*Default,NTP,0000,0000,0000,,那是新的尚未探测的天体物理学的窗口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's the new unexplored window of astrophysics,
+Dialogue: 0,0:17:34.26,0:17:35.72,*Default,NTP,0000,0000,0000,,引力波天文学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gravitational wave astronomy.
+Dialogue: 0,0:17:37.97,0:17:41.51,*Default,NTP,0000,0000,0000,,我们的太阳也将演化成红巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our own Sun will evolve into a red giant.
+Dialogue: 0,0:17:41.56,0:17:44.85,*Default,NTP,0000,0000,0000,,它将膨胀到足以吞没地球的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will expand enough to engulf Earth's orbit,
+Dialogue: 0,0:17:44.89,0:17:48.85,*Default,NTP,0000,0000,0000,,但是它不会像超巨星那样的规模到达木星的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it won't reach the size of Jupiter's orbit like supergiants,
+Dialogue: 0,0:17:48.90,0:17:51.40,*Default,NTP,0000,0000,0000,,它不会以超新星爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it won't explode in a supernova.
+Dialogue: 0,0:17:52.98,0:17:59.24,*Default,NTP,0000,0000,0000,,星团里具有超巨星给了我们该星团年龄的线索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Having supergiants in a cluster gives us clues to the cluster's age.
+Dialogue: 0,0:17:59.28,0:18:01.62,*Default,NTP,0000,0000,0000,,现在那些庞大的巨星意义非凡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, those incredibly massive stars are important
+Dialogue: 0,0:18:01.66,0:18:03.62,*Default,NTP,0000,0000,0000,,因为它们的寿命很短\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they have very short lives.
+Dialogue: 0,0:18:03.66,0:18:06.75,*Default,NTP,0000,0000,0000,,它们只能活约500到600万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They only live for maybe 5 or 6 million years.
+Dialogue: 0,0:18:06.79,0:18:10.37,*Default,NTP,0000,0000,0000,,如果你看到恒星 经过演化的巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if you see a star, a massive star that's evolved,
+Dialogue: 0,0:18:10.42,0:18:11.67,*Default,NTP,0000,0000,0000,,那已经接近其生命的结束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's near the end of its life,
+Dialogue: 0,0:18:11.71,0:18:16.13,*Default,NTP,0000,0000,0000,,你要知道星团不可能活过500到600万岁的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you know that the cluster can't be more than 5 or 6 million years old
+Dialogue: 0,0:18:16.17,0:18:20.18,*Default,NTP,0000,0000,0000,,因为到了那时 巨星都已经炸毁了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}'cause if it were, that massive star would already have blown up.
+Dialogue: 0,0:18:21.35,0:18:23.47,*Default,NTP,0000,0000,0000,,至今为止 天文学家发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To date, astronomers have discovered
+Dialogue: 0,0:18:23.51,0:18:28.06,*Default,NTP,0000,0000,0000,,只有少数这样的超大规模星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only a handful of these extremely massive clusters,
+Dialogue: 0,0:18:28.10,0:18:29.98,*Default,NTP,0000,0000,0000,,如韦斯特伦德1\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and like Westerlund 1,
+Dialogue: 0,0:18:30.02,0:18:34.40,*Default,NTP,0000,0000,0000,,它们都几乎不为人知 直到最近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all of them were virtually unknown until very recently.
+Dialogue: 0,0:18:34.44,0:18:36.36,*Default,NTP,0000,0000,0000,,就来看看我们有多无知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just to express how ignorant we are,
+Dialogue: 0,0:18:36.40,0:18:38.95,*Default,NTP,0000,0000,0000,,就是在10年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}realize that only 10 years ago,
+Dialogue: 0,0:18:38.99,0:18:41.49,*Default,NTP,0000,0000,0000,,我们对这些大规模星团一无所知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we didn't know about any of these massive clusters.
+Dialogue: 0,0:18:41.53,0:18:45.03,*Default,NTP,0000,0000,0000,,我们在10年前所知的所有年轻的星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every young cluster we knew about more than 10 years ago,
+Dialogue: 0,0:18:45.08,0:18:47.87,*Default,NTP,0000,0000,0000,,都不足一万颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all had less than 10,000 stars.
+Dialogue: 0,0:18:47.91,0:18:51.17,*Default,NTP,0000,0000,0000,,我们知道有数以千计的其他各类小星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know of thousands of those kinds of smaller clusters.
+Dialogue: 0,0:18:51.21,0:18:54.38,*Default,NTP,0000,0000,0000,,现在 我们只知道有十来个大星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now, we only know of a dozen of the massive clusters.
+Dialogue: 0,0:18:54.42,0:18:58.17,*Default,NTP,0000,0000,0000,,因为我们的星系里充满了尘埃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because our galaxy is so filled with dust,
+Dialogue: 0,0:18:58.22,0:19:02.01,*Default,NTP,0000,0000,0000,,所以迄今所发现的大多数星团都存在于一个区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most star clusters discovered so far exist in an area
+Dialogue: 0,0:19:02.05,0:19:05.01,*Default,NTP,0000,0000,0000,,围绕着我们银河系的一个特定的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}surrounding our particular place in the Milky Way.
+Dialogue: 0,0:19:05.97,0:19:09.98,*Default,NTP,0000,0000,0000,,我们几乎无法看到银河系的中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can see barely as far as the center of the galaxy.
+Dialogue: 0,0:19:10.98,0:19:13.44,*Default,NTP,0000,0000,0000,,不过随着技术的提高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as technology improves,
+Dialogue: 0,0:19:13.48,0:19:16.02,*Default,NTP,0000,0000,0000,,我们的视野深入得越来越远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our view will extend further and further
+Dialogue: 0,0:19:16.07,0:19:19.15,*Default,NTP,0000,0000,0000,,进入了更远的旋臂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into the more distant spiral arms.
+Dialogue: 0,0:19:19.19,0:19:23.57,*Default,NTP,0000,0000,0000,,韦斯特伦德1将不会长期是已知最大的年轻星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Westerlund 1 won't be the most massive young cluster known for a long time.
+Dialogue: 0,0:19:23.62,0:19:27.08,*Default,NTP,0000,0000,0000,,我们一直不断地发现其它的这类星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're still discovering these other clusters all the time.
+Dialogue: 0,0:19:27.12,0:19:30.83,*Default,NTP,0000,0000,0000,,少数超级星团就在星系中心附近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A few superclusters are near the galactic core
+Dialogue: 0,0:19:30.87,0:19:34.54,*Default,NTP,0000,0000,0000,,银河系巨大的黑洞的引力潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the gravitational tides of the Milky Way's giant black hole
+Dialogue: 0,0:19:34.59,0:19:38.46,*Default,NTP,0000,0000,0000,,会在短短的几百万年里将它们撕碎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may rip them apart in just a few million years.
+Dialogue: 0,0:19:38.51,0:19:41.09,*Default,NTP,0000,0000,0000,,不过现在 其中巨大的亮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For now though, their massive bright stars
+Dialogue: 0,0:19:41.13,0:19:43.30,*Default,NTP,0000,0000,0000,,正被紧锣密鼓地研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are being studied intensely.
+Dialogue: 0,0:19:45.01,0:19:47.64,*Default,NTP,0000,0000,0000,,我们的下一站是五胞胎星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our next stop is the Quintuplet Cluster,
+Dialogue: 0,0:19:47.68,0:19:51.06,*Default,NTP,0000,0000,0000,,一个巨大的400万岁的星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a massive 4-million-year-old cluster
+Dialogue: 0,0:19:51.10,0:19:55.10,*Default,NTP,0000,0000,0000,,因盘踞在其中心的五颗超级巨星而得名\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}named for five supergiants dominating its center.
+Dialogue: 0,0:19:55.15,0:19:57.86,*Default,NTP,0000,0000,0000,,它也是手枪星的老巢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is also home to the Pistol Star,
+Dialogue: 0,0:19:57.90,0:20:01.11,*Default,NTP,0000,0000,0000,,它是整个星系里最亮的恒星之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the brightest stars in the entire galaxy.
+Dialogue: 0,0:20:02.61,0:20:05.62,*Default,NTP,0000,0000,0000,,星团有五颗神秘的超级巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The cluster has five mysterious supergiants
+Dialogue: 0,0:20:05.66,0:20:08.83,*Default,NTP,0000,0000,0000,,其神秘之处在于笼罩在红色的尘埃云里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whose secrets are shrouded by red dust clouds.
+Dialogue: 0,0:20:09.87,0:20:14.54,*Default,NTP,0000,0000,0000,,2006年 困惑的科学家试图仔细观察它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2006, puzzled scientists tried to get a closer look at them
+Dialogue: 0,0:20:14.58,0:20:17.25,*Default,NTP,0000,0000,0000,,用上了夏威夷的凯克望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using the Keck Telescope in Hawaii.
+Dialogue: 0,0:20:17.29,0:20:20.30,*Default,NTP,0000,0000,0000,,他们发现的东西让人吃惊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What they found was startling.
+Dialogue: 0,0:20:20.34,0:20:23.97,*Default,NTP,0000,0000,0000,,其中的两颗星周围有怪异的螺旋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two of the stars are surrounded by bizarre spirals,
+Dialogue: 0,0:20:24.01,0:20:27.22,*Default,NTP,0000,0000,0000,,这意味着超级巨星并不孤单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which means the supergiants are not alone.
+Dialogue: 0,0:20:28.10,0:20:32.60,*Default,NTP,0000,0000,0000,,在五胞胎星团里 有几颗大质量恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the Quintuplet star cluster, there are several massive stars
+Dialogue: 0,0:20:32.64,0:20:35.44,*Default,NTP,0000,0000,0000,,实际上是双星系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are, in fact, in binary systems,
+Dialogue: 0,0:20:35.48,0:20:39.90,*Default,NTP,0000,0000,0000,,它们正温柔地将自己的外壳吹走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they're in the process of gently blowing away their outer envelopes,
+Dialogue: 0,0:20:39.94,0:20:43.57,*Default,NTP,0000,0000,0000,,那些外壳不断碰撞 形成了螺旋形状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and those envelopes are colliding and forming the spiral pattern.
+Dialogue: 0,0:20:43.61,0:20:48.12,*Default,NTP,0000,0000,0000,,在同一个地方发现有几个这样的东西非常罕见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very unusual to find several of these things in the same place.
+Dialogue: 0,0:20:48.16,0:20:49.99,*Default,NTP,0000,0000,0000,,这样的恒星十分罕见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such stars are very rare.
+Dialogue: 0,0:20:50.04,0:20:52.37,*Default,NTP,0000,0000,0000,,你看我们星系的其他地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you look elsewhere in our galaxy,
+Dialogue: 0,0:20:52.41,0:20:55.04,*Default,NTP,0000,0000,0000,,会发现每一个都是零星分布一段时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'll find one every once in a while here and there,
+Dialogue: 0,0:20:55.08,0:20:59.00,*Default,NTP,0000,0000,0000,,不会有几个集中在一个地方的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but not several of them in one concentrated location.
+Dialogue: 0,0:21:01.51,0:21:03.80,*Default,NTP,0000,0000,0000,,这不仅关乎这之前的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's only a matter of time before these
+Dialogue: 0,0:21:03.84,0:21:07.18,*Default,NTP,0000,0000,0000,,而且上百颗其它大质量恒星中的任何一颗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and any of a hundred other super massive stars
+Dialogue: 0,0:21:07.22,0:21:10.60,*Default,NTP,0000,0000,0000,,以超新星爆发点亮了星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}light up the cluster with supernova explosions,
+Dialogue: 0,0:21:12.22,0:21:16.35,*Default,NTP,0000,0000,0000,,吹走了它们自己的行星 用致命的辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}blowing away their own planets and wiping out any civilizations
+Dialogue: 0,0:21:16.40,0:21:19.77,*Default,NTP,0000,0000,0000,,抹去了邻近世界里的所有文明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on neighboring worlds with deadly radiation.
+Dialogue: 0,0:21:20.69,0:21:23.36,*Default,NTP,0000,0000,0000,,类似的威胁潜伏在另一个星团里面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Similar dangers lurk inside another cluster
+Dialogue: 0,0:21:23.40,0:21:25.49,*Default,NTP,0000,0000,0000,,它靠近星系的中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}close to the galactic center.
+Dialogue: 0,0:21:25.53,0:21:30.70,*Default,NTP,0000,0000,0000,,它就是圆拱星团 距离地球2 5万光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's called the Arches Cluster, 25,000 light-years from Earth
+Dialogue: 0,0:21:30.74,0:21:34.66,*Default,NTP,0000,0000,0000,,距离银河系的中心就100光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and just 100 light-years from the Milky Way's core.
+Dialogue: 0,0:21:34.71,0:21:39.58,*Default,NTP,0000,0000,0000,,圆拱星团是银河系里发现的首个年轻大星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Arches Cluster was the first young massive cluster discovered in the galaxy.
+Dialogue: 0,0:21:39.63,0:21:42.63,*Default,NTP,0000,0000,0000,,它是星系中最致密的年轻星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is the densest young cluster in the galaxy.
+Dialogue: 0,0:21:42.67,0:21:46.47,*Default,NTP,0000,0000,0000,,我们太阳所在的街区相对圆拱星团来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our own Sun's neighborhood is practically empty
+Dialogue: 0,0:21:46.51,0:21:49.34,*Default,NTP,0000,0000,0000,,几乎是空无一物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compared to the Arches Cluster.
+Dialogue: 0,0:21:49.39,0:21:52.35,*Default,NTP,0000,0000,0000,,在太阳周围的50立方光年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the 50 cubic light-years around the Sun,
+Dialogue: 0,0:21:52.39,0:21:56.06,*Default,NTP,0000,0000,0000,,唯一的邻居就是半人马座阿尔法星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the only neighbor is the Alpha Centauri system.
+Dialogue: 0,0:21:56.10,0:22:00.19,*Default,NTP,0000,0000,0000,,如果我们是在圆拱星团里 恒星就拥挤在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we were in the Arches Cluster, the stars are so tightly packed,
+Dialogue: 0,0:22:00.23,0:22:04.36,*Default,NTP,0000,0000,0000,,同样的空间里就会包含100多万颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this same space would contain more than a million stars,
+Dialogue: 0,0:22:04.40,0:22:08.40,*Default,NTP,0000,0000,0000,,照亮每一颗行星的天空 不分昼夜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lighting up the sky of any planet, both in night and day.
+Dialogue: 0,0:22:09.32,0:22:12.78,*Default,NTP,0000,0000,0000,,如果我们居住的行星所围绕的恒星是在圆拱星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we lived on a planet surrounding a star in the Arches Cluster
+Dialogue: 0,0:22:12.83,0:22:15.20,*Default,NTP,0000,0000,0000,,或类似稠密的星团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a cluster that's similarly dense,
+Dialogue: 0,0:22:15.25,0:22:17.96,*Default,NTP,0000,0000,0000,,我们就会在夜空里看到成千上万颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'd see thousands of stars in the night sky.
+Dialogue: 0,0:22:18.00,0:22:20.25,*Default,NTP,0000,0000,0000,,事实上 其中的一些恒星将非常明亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, some of those stars would be so bright
+Dialogue: 0,0:22:20.29,0:22:23.84,*Default,NTP,0000,0000,0000,,它们各个都要比满月亮很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they would individually be much brighter than the full Moon.
+Dialogue: 0,0:22:23.88,0:22:25.84,*Default,NTP,0000,0000,0000,,夜空将非常明亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The night sky would be very bright.
+Dialogue: 0,0:22:25.88,0:22:30.34,*Default,NTP,0000,0000,0000,,将相当于白天办公室里的光照水平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be comparable to the light level in an office during the day.
+Dialogue: 0,0:22:31.85,0:22:36.10,*Default,NTP,0000,0000,0000,,圆拱星团是我们星系的重要里程碑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Arches Cluster is a major landmark in our galaxy
+Dialogue: 0,0:22:36.14,0:22:38.31,*Default,NTP,0000,0000,0000,,因为它被科学家用来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it was used by scientists
+Dialogue: 0,0:22:38.35,0:22:42.27,*Default,NTP,0000,0000,0000,,了解恒星可以变得多大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to figure out just how big a star can get.
+Dialogue: 0,0:22:49.24,0:22:53.53,*Default,NTP,0000,0000,0000,,我们的搜索宇宙星团之旅已经将我们带到了圆拱星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our search for cosmic clusters has taken us to the Arches,
+Dialogue: 0,0:22:53.58,0:22:57.37,*Default,NTP,0000,0000,0000,,我们星系中最重要的星团之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the most important clusters in our galaxy.
+Dialogue: 0,0:22:57.41,0:23:02.58,*Default,NTP,0000,0000,0000,,就是在这里 科学家发现了恒星可以变得有多大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's here that scientists discovered just how massive a star can get.
+Dialogue: 0,0:23:05.13,0:23:07.17,*Default,NTP,0000,0000,0000,,那似乎是一个简单的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That seems like a simple question,
+Dialogue: 0,0:23:07.21,0:23:10.34,*Default,NTP,0000,0000,0000,,但我们直到几年前还不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we didn't know up until a few years ago
+Dialogue: 0,0:23:10.38,0:23:13.01,*Default,NTP,0000,0000,0000,,恒星实际上可以变得有多大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how massive a star could actually be.
+Dialogue: 0,0:23:13.05,0:23:15.35,*Default,NTP,0000,0000,0000,,圆拱星团拥有科学家回答这个问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Arches had everything scientists needed
+Dialogue: 0,0:23:15.39,0:23:16.89,*Default,NTP,0000,0000,0000,,所需要的一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to answer this question.
+Dialogue: 0,0:23:18.06,0:23:20.06,*Default,NTP,0000,0000,0000,,首先 在这么大的星团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First, in such a big cluster,
+Dialogue: 0,0:23:20.10,0:23:22.77,*Default,NTP,0000,0000,0000,,肯定存在着许多大质量恒星供研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there were surely many massive stars to study.
+Dialogue: 0,0:23:23.48,0:23:26.73,*Default,NTP,0000,0000,0000,,其次 大约250万岁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Second, at roughly 2 1/2 million years old,
+Dialogue: 0,0:23:26.78,0:23:28.44,*Default,NTP,0000,0000,0000,,星团非常年轻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the cluster was young enough
+Dialogue: 0,0:23:28.49,0:23:31.15,*Default,NTP,0000,0000,0000,,其大质量恒星尚未爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that its massive stars wouldn't have exploded yet.
+Dialogue: 0,0:23:31.95,0:23:35.45,*Default,NTP,0000,0000,0000,,因此星团中最大的恒星有可能对于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the biggest star in the cluster would probably be a good guide
+Dialogue: 0,0:23:35.49,0:23:38.83,*Default,NTP,0000,0000,0000,,更广泛的宇宙间获得大质量恒星是一个很好的导向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for how massive stars could get in the wider universe.
+Dialogue: 0,0:23:40.79,0:23:42.83,*Default,NTP,0000,0000,0000,,我们在圆拱星团里所看到的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we saw in the Arches
+Dialogue: 0,0:23:42.87,0:23:45.79,*Default,NTP,0000,0000,0000,,集中了N多低质量的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a collection of many, many low-mass stars,
+Dialogue: 0,0:23:45.84,0:23:49.21,*Default,NTP,0000,0000,0000,,为数不多的 或许就是数百颗中等规模的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not so many, maybe hundreds of medium-size stars,
+Dialogue: 0,0:23:49.26,0:23:51.86,*Default,NTP,0000,0000,0000,,以及十来颗质量是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then a dozen or so very massive stars with 
+Dialogue: 0,0:23:51.86,0:23:55.76,*Default,NTP,0000,0000,0000,,太阳130倍的大质量恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}130 times the mass of the Sun in them.
+Dialogue: 0,0:23:55.80,0:23:57.51,*Default,NTP,0000,0000,0000,,除此之外 什么都没有了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Beyond that, we saw nothing.
+Dialogue: 0,0:23:57.56,0:23:59.14,*Default,NTP,0000,0000,0000,,就像是跌下了悬崖一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was like falling off a cliff.
+Dialogue: 0,0:23:59.18,0:24:04.98,*Default,NTP,0000,0000,0000,,如果有质量超过130个太阳的恒星可以形成并存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If stars more massive than about 130 solar masses can form and live,
+Dialogue: 0,0:24:05.02,0:24:07.48,*Default,NTP,0000,0000,0000,,那么它们会一直呆在圆拱星团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then they would have been there in the Arches,
+Dialogue: 0,0:24:07.52,0:24:11.15,*Default,NTP,0000,0000,0000,,因此很明显 大自然已安排了恒星质量的最大极限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so apparently nature has placed a limit on the maximum mass of a star.
+Dialogue: 0,0:24:11.19,0:24:15.70,*Default,NTP,0000,0000,0000,,它可能介于130到150个太阳质量之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's probably somewhere between 130 and 150 solar masses.
+Dialogue: 0,0:24:16.95,0:24:20.45,*Default,NTP,0000,0000,0000,,随着我们远离年轻的圆拱星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we travel away from the very young Arches Cluster,
+Dialogue: 0,0:24:20.50,0:24:24.83,*Default,NTP,0000,0000,0000,,我们安排了对星系完全不同的部分的行程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we chart a course for a very different part of the galaxy.
+Dialogue: 0,0:24:24.88,0:24:27.33,*Default,NTP,0000,0000,0000,,呆在银河系僻静的郊外的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Out in the Milky Way's quiet suburbs
+Dialogue: 0,0:24:27.38,0:24:31.05,*Default,NTP,0000,0000,0000,,是年长的公民 球状星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are its senior citizens, the globular clusters.
+Dialogue: 0,0:24:32.22,0:24:34.05,*Default,NTP,0000,0000,0000,,球状星团听上去很美妙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A globular cluster sounds so wonderful.
+Dialogue: 0,0:24:34.09,0:24:35.80,*Default,NTP,0000,0000,0000,,它是我最中意的世界之一 球状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's one of my favorite words, a glob,
+Dialogue: 0,0:24:35.84,0:24:37.26,*Default,NTP,0000,0000,0000,,确实是那回事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's exactly what it is,
+Dialogue: 0,0:24:37.30,0:24:41.56,*Default,NTP,0000,0000,0000,,往往有上百万颗恒星挤在一个大星团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}often up to a million stars in a tight, large cluster.
+Dialogue: 0,0:24:41.60,0:24:43.14,*Default,NTP,0000,0000,0000,,那些东西确实很神秘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These things are really mysterious
+Dialogue: 0,0:24:43.19,0:24:44.73,*Default,NTP,0000,0000,0000,,因为它们看上去都很老了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they seem to be very old,
+Dialogue: 0,0:24:44.77,0:24:46.94,*Default,NTP,0000,0000,0000,,一些星系里最古老的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some of the oldest stars in the galaxy.
+Dialogue: 0,0:24:46.98,0:24:49.02,*Default,NTP,0000,0000,0000,,事实上 有些恒星非常古老\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact some of the stars are so old,
+Dialogue: 0,0:24:49.07,0:24:51.32,*Default,NTP,0000,0000,0000,,几乎与宇宙本身一样的年纪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're practically as old as the universe itself.
+Dialogue: 0,0:24:53.28,0:24:55.36,*Default,NTP,0000,0000,0000,,虽然它们看上去很漂亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Though they are visually stunning,
+Dialogue: 0,0:24:55.41,0:24:59.41,*Default,NTP,0000,0000,0000,,但是令人兴奋的是球状星团的年纪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's the age of the globular clusters that makes them so exciting.
+Dialogue: 0,0:25:01.16,0:25:04.71,*Default,NTP,0000,0000,0000,,由于它们几乎与宇宙本身一样古老\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since they are nearly as old as the universe itself,
+Dialogue: 0,0:25:04.75,0:25:07.63,*Default,NTP,0000,0000,0000,,所以它们就涉及了星系年龄的问题了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they raise the question of the galaxy's age.
+Dialogue: 0,0:25:09.75,0:25:13.34,*Default,NTP,0000,0000,0000,,银河系是否也和宇宙一般古老呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is the Milky Way as ancient as the universe itself?
+Dialogue: 0,0:25:14.97,0:25:16.59,*Default,NTP,0000,0000,0000,,我们已很好地证明了宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have good evidence that the universe
+Dialogue: 0,0:25:16.64,0:25:20.22,*Default,NTP,0000,0000,0000,,约137亿岁了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is about 13.7 billion years old.
+Dialogue: 0,0:25:20.26,0:25:24.77,*Default,NTP,0000,0000,0000,,鉴于最老的球状星团约130亿岁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Given that the oldest globular clusters are about 13 billion years old,
+Dialogue: 0,0:25:24.81,0:25:29.31,*Default,NTP,0000,0000,0000,,这就意味着它们形成于大爆炸后的最早的10亿年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this means that they formed within the first billion years after the Big Bang.
+Dialogue: 0,0:25:29.36,0:25:33.36,*Default,NTP,0000,0000,0000,,这基本上标志着我们星系的诞生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This essentially marks the birth of our galaxy,
+Dialogue: 0,0:25:33.40,0:25:35.53,*Default,NTP,0000,0000,0000,,我们认为其它星系也是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we think other galaxies as well,
+Dialogue: 0,0:25:35.57,0:25:38.57,*Default,NTP,0000,0000,0000,,在许多案例里 形成于宇宙诞生后的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in many cases, were formed within the first billion years
+Dialogue: 0,0:25:38.62,0:25:40.62,*Default,NTP,0000,0000,0000,,最早的10亿年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}after the birth of the universe.
+Dialogue: 0,0:25:42.54,0:25:46.66,*Default,NTP,0000,0000,0000,,科学家不知道球状星团是如何形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists don't know how globular clusters form.
+Dialogue: 0,0:25:46.71,0:25:49.96,*Default,NTP,0000,0000,0000,,它是当今天文学的一大谜团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's one of today's enduring mysteries of astronomy.
+Dialogue: 0,0:25:50.96,0:25:53.75,*Default,NTP,0000,0000,0000,,因为它们在其它星系里也有所发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because they are found in other galaxies too,
+Dialogue: 0,0:25:53.80,0:25:57.55,*Default,NTP,0000,0000,0000,,因此它有可能牵涉到星系本身的形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it may have something to do with galaxy formation itself.
+Dialogue: 0,0:25:58.89,0:26:03.43,*Default,NTP,0000,0000,0000,,因为我们看到球状星团里个别恒星非常古老\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because we see that individual stars in globular clusters are very old,
+Dialogue: 0,0:26:03.47,0:26:06.93,*Default,NTP,0000,0000,0000,,某种案例里已记录到有130亿岁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in some cases being dated to 13 billion years old,
+Dialogue: 0,0:26:06.98,0:26:08.94,*Default,NTP,0000,0000,0000,,我们知道球状星团有这么老了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we know that the globulars are that old,
+Dialogue: 0,0:26:08.98,0:26:10.77,*Default,NTP,0000,0000,0000,,我们知道它们的形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we know that they were formed
+Dialogue: 0,0:26:10.81,0:26:13.27,*Default,NTP,0000,0000,0000,,就在星系的形成时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}right at the time when the galaxy was forming.
+Dialogue: 0,0:26:13.32,0:26:15.86,*Default,NTP,0000,0000,0000,,目前尚不清楚究竟是系统形成在先\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's still unclear whether the system formed first
+Dialogue: 0,0:26:15.90,0:26:19.61,*Default,NTP,0000,0000,0000,,然后是星系在残留的分子云里凝聚而成的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then the galaxy condensed out of the remaining molecular cloud,
+Dialogue: 0,0:26:19.66,0:26:22.70,*Default,NTP,0000,0000,0000,,还是它们凝聚 塌缩 同时形成的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or if they condensed and collapsed and formed at the same time.
+Dialogue: 0,0:26:24.33,0:26:26.00,*Default,NTP,0000,0000,0000,,寻找球状星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Finding globular clusters
+Dialogue: 0,0:26:26.04,0:26:29.04,*Default,NTP,0000,0000,0000,,把我们带出了混沌的星系盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}takes us outside the chaotic disk of the galaxy,
+Dialogue: 0,0:26:29.08,0:26:31.54,*Default,NTP,0000,0000,0000,,那里是大部分恒星的住所\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where most of the stars reside,
+Dialogue: 0,0:26:31.59,0:26:34.67,*Default,NTP,0000,0000,0000,,来到的地方叫做星系晕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and to a place called the galactic halo.
+Dialogue: 0,0:26:35.96,0:26:37.97,*Default,NTP,0000,0000,0000,,我们银河系的晕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The halo of our Milky Way Galaxy
+Dialogue: 0,0:26:38.01,0:26:44.35,*Default,NTP,0000,0000,0000,,是周围恒星的广袤近乎球状的分布地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a vast, roughly spherically shaped distribution of stars that's around,
+Dialogue: 0,0:26:44.39,0:26:48.14,*Default,NTP,0000,0000,0000,,它笼罩着我们的螺旋星系盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it envelops the disk of our spiral galaxy.
+Dialogue: 0,0:26:48.18,0:26:50.56,*Default,NTP,0000,0000,0000,,是球状星团的居住地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's where the globular clusters live.
+Dialogue: 0,0:26:52.77,0:26:56.82,*Default,NTP,0000,0000,0000,,目前已知有约160个球状星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are about 160 globular clusters now known,
+Dialogue: 0,0:26:56.86,0:27:00.49,*Default,NTP,0000,0000,0000,,但是相信曾经有过更多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's believed there were once many more of them.
+Dialogue: 0,0:27:00.53,0:27:04.99,*Default,NTP,0000,0000,0000,,它们出现在晕里 超出了星系盘的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their presence in the halo, outside the influence of the galactic disk,
+Dialogue: 0,0:27:05.04,0:27:08.33,*Default,NTP,0000,0000,0000,,可能由此它们保持了球状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may figure into the way they keep their spherical form.
+Dialogue: 0,0:27:09.50,0:27:14.25,*Default,NTP,0000,0000,0000,,有可能所有的球状星团都是在早就消散的星盘附近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It may be that any globulars near the disk dissipated long ago.
+Dialogue: 0,0:27:16.34,0:27:19.05,*Default,NTP,0000,0000,0000,,但是至少有一个星团置身晕的外面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's at least one cluster out in the halo
+Dialogue: 0,0:27:19.09,0:27:21.80,*Default,NTP,0000,0000,0000,,处在被撕裂的险境之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's in danger of being ripped apart,
+Dialogue: 0,0:27:21.84,0:27:26.76,*Default,NTP,0000,0000,0000,,星团已经丢失了它最早形成时的八成的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a cluster that has lost 80% of the stars it had when it was first formed.
+Dialogue: 0,0:27:27.89,0:27:32.10,*Default,NTP,0000,0000,0000,,我们安排行程去球状星团M12\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We set our course for globular cluster M12
+Dialogue: 0,0:27:32.15,0:27:34.98,*Default,NTP,0000,0000,0000,,近距离观察破坏的情景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to get an up-close view of the devastation.
+Dialogue: 0,0:27:35.02,0:27:38.44,*Default,NTP,0000,0000,0000,,M12 并不是运行在我们星系的外面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}M12, instead of orbiting outside of our galaxy
+Dialogue: 0,0:27:38.49,0:27:40.69,*Default,NTP,0000,0000,0000,,或穿行在外边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or going through the outer edges,
+Dialogue: 0,0:27:40.74,0:27:43.82,*Default,NTP,0000,0000,0000,,而是实际上是穿行在我们星系的中心附近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually passed close to the center of our galaxy.
+Dialogue: 0,0:27:43.87,0:27:48.95,*Default,NTP,0000,0000,0000,,这样一来 与银河系内部的其它恒星的引力互动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when it did that, the gravitational interaction with all the other stars inside the Milky Way
+Dialogue: 0,0:27:49.00,0:27:54.71,*Default,NTP,0000,0000,0000,,强烈到足以将星团里的一些低质量的恒星拉走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was strong enough to pull off some of the low-mass stars inside the cluster.
+Dialogue: 0,0:27:54.75,0:27:58.88,*Default,NTP,0000,0000,0000,,因此情况就是M12在每一次经过我们星系时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what's happening is that M12 is slowly losing its lowest-mass stars
+Dialogue: 0,0:27:58.92,0:28:01.80,*Default,NTP,0000,0000,0000,,慢慢丢失其低质量恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with every successive passage through our galaxy,
+Dialogue: 0,0:28:01.84,0:28:04.01,*Default,NTP,0000,0000,0000,,最终将不会有任何东西留下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventually there's not going to be anything left
+Dialogue: 0,0:28:04.05,0:28:06.60,*Default,NTP,0000,0000,0000,,因为它将被银河系给完全吞噬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it will have been completely devoured by the Milky Way.
+Dialogue: 0,0:28:07.76,0:28:12.94,*Default,NTP,0000,0000,0000,,眼下 大多数星团仍然非常拥挤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For now, most globular clusters remain very crowded,
+Dialogue: 0,0:28:12.98,0:28:17.86,*Default,NTP,0000,0000,0000,,密度是我们所在星系街坊的6万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}60,000 times as dense in stars as our own galactic neighborhood.
+Dialogue: 0,0:28:19.69,0:28:21.74,*Default,NTP,0000,0000,0000,,然而因为星团都很年长了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But because the clusters are old,
+Dialogue: 0,0:28:21.78,0:28:26.66,*Default,NTP,0000,0000,0000,,因此所有的大质量恒星早已精疲力尽了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}any massive bright stars they once had have long since burned out.
+Dialogue: 0,0:28:27.74,0:28:30.66,*Default,NTP,0000,0000,0000,,球状星团里非常拥挤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The globular cluster sky would be crowded,
+Dialogue: 0,0:28:30.70,0:28:33.21,*Default,NTP,0000,0000,0000,,但是其光辉将奄奄一息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but its glow would remain subtle.
+Dialogue: 0,0:28:34.29,0:28:37.67,*Default,NTP,0000,0000,0000,,如果我们在球状星团的一颗恒星的行星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we were on a planet around a star in a globular cluster,
+Dialogue: 0,0:28:37.71,0:28:40.45,*Default,NTP,0000,0000,0000,,会看到有成千上万颗恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we would see thousands of stars, 
+Dialogue: 0,0:28:40.45,0:28:44.21,*Default,NTP,0000,0000,0000,,但是夜间的平均亮度就相当于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the average illumination at night would be comparable to 
+Dialogue: 0,0:28:44.21,0:28:47.97,*Default,NTP,0000,0000,0000,,你在有几根蜡烛的房间里的亮度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the illumination you'd experience in a room with some candles lit up.
+Dialogue: 0,0:28:49.18,0:28:53.77,*Default,NTP,0000,0000,0000,,运行在晕的外面 球状星团对于星系而言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Orbiting out in the halo, globular clusters are to the galaxy
+Dialogue: 0,0:28:53.81,0:28:56.81,*Default,NTP,0000,0000,0000,,某种程度就像是卫星围绕着行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}something like moons are to a planet.
+Dialogue: 0,0:28:56.86,0:29:00.86,*Default,NTP,0000,0000,0000,,其它星系外围的球状星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Globular clusters on the outskirts of other galaxies
+Dialogue: 0,0:29:00.90,0:29:04.24,*Default,NTP,0000,0000,0000,,表明了这是许多星系的共同之处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}show that this is something many galaxies have in common.
+Dialogue: 0,0:29:09.08,0:29:13.50,*Default,NTP,0000,0000,0000,,现在我们的太空之旅带我们远离我们的星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now our route through space takes us far outside our own galaxy,
+Dialogue: 0,0:29:15.04,0:29:17.54,*Default,NTP,0000,0000,0000,,6000万光年之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}60 million light-years away,
+Dialogue: 0,0:29:17.58,0:29:21.55,*Default,NTP,0000,0000,0000,,去一个巨大的椭圆星系 - M87\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to a massive elliptical galaxy called M87
+Dialogue: 0,0:29:21.59,0:29:24.76,*Default,NTP,0000,0000,0000,,看上去本身就像是球状星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that looks something like a globular cluster itself.
+Dialogue: 0,0:29:26.59,0:29:30.64,*Default,NTP,0000,0000,0000,,哈勃太空望远镜的这张照片中的多数模糊点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the fuzzy dots in this photo from the Hubble Space Telescope
+Dialogue: 0,0:29:30.68,0:29:34.64,*Default,NTP,0000,0000,0000,,就是围绕着M87的球状星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are globular clusters orbiting M87.
+Dialogue: 0,0:29:34.68,0:29:38.31,*Default,NTP,0000,0000,0000,,大星系里有15000个星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The giant galaxy has 15,000 of them.
+Dialogue: 0,0:29:40.77,0:29:45.74,*Default,NTP,0000,0000,0000,,不过M87代表了积聚现象的高位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But M87 represents the upper end of the clustering phenomenon.
+Dialogue: 0,0:29:45.78,0:29:49.11,*Default,NTP,0000,0000,0000,,位居星团核心的 不是恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It sits at the core of a cluster, not of stars,
+Dialogue: 0,0:29:50.24,0:29:54.08,*Default,NTP,0000,0000,0000,,而是星系 我们的飞船现在所到之处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but of galaxies where our starship now travels
+Dialogue: 0,0:29:54.12,0:29:58.00,*Default,NTP,0000,0000,0000,,见证了巨大星系的暴戾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to witness the violence of giant star systems
+Dialogue: 0,0:29:58.04,0:30:01.96,*Default,NTP,0000,0000,0000,,正在以时速上百万英里碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}colliding at speeds of a million miles an hour.
+Dialogue: 0,0:30:09.55,0:30:12.55,*Default,NTP,0000,0000,0000,,匆匆一览星团整个看到的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All it takes is a few quick looks at star clusters
+Dialogue: 0,0:30:12.60,0:30:17.31,*Default,NTP,0000,0000,0000,,引力在把群星结合在一起的作用有多明显\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to see how obvious gravity's effect is in holding stars together.
+Dialogue: 0,0:30:18.69,0:30:21.52,*Default,NTP,0000,0000,0000,,引力就像是宇宙间的雕塑家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity is like the sculptor of the universe.
+Dialogue: 0,0:30:21.56,0:30:24.73,*Default,NTP,0000,0000,0000,,它影响了周围的大片区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It influences large regions around it.
+Dialogue: 0,0:30:24.78,0:30:28.15,*Default,NTP,0000,0000,0000,,因此它可以导致星系簇拥在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it can cause galaxies to cluster together
+Dialogue: 0,0:30:28.20,0:30:32.24,*Default,NTP,0000,0000,0000,,就像群星簇拥在一起一样 不过那是在大N多倍的规模上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like stars cluster together, but on a much, much bigger scale,
+Dialogue: 0,0:30:32.28,0:30:34.87,*Default,NTP,0000,0000,0000,,在数百万光年的规模上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on scales of millions of light-years.
+Dialogue: 0,0:30:34.91,0:30:35.95,*Default,NTP,0000,0000,0000,,真是难以置信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's fantastic.
+Dialogue: 0,0:30:37.04,0:30:41.58,*Default,NTP,0000,0000,0000,,那个过程就开始在我们的天文后院\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a process that begins right in our own astronomical backyard,
+Dialogue: 0,0:30:41.63,0:30:45.71,*Default,NTP,0000,0000,0000,,就是我们的飞船行将飞出银河系的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where our spaceship prepares to fly outside the galaxy.
+Dialogue: 0,0:30:46.88,0:30:50.72,*Default,NTP,0000,0000,0000,,银河系可谓很大了 不过相对典型的螺旋星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Milky Way is a largish but relatively typical spiral galaxy,
+Dialogue: 0,0:30:50.76,0:30:53.39,*Default,NTP,0000,0000,0000,,我们位于一个不大的星系群里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we're located in a small galaxy group,
+Dialogue: 0,0:30:53.43,0:30:55.51,*Default,NTP,0000,0000,0000,,这对置于宇宙中的材料来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is a very typical kind of environment
+Dialogue: 0,0:30:55.56,0:30:57.77,*Default,NTP,0000,0000,0000,,是一种非常典型的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for material to be located in in the universe.
+Dialogue: 0,0:30:57.81,0:31:02.06,*Default,NTP,0000,0000,0000,,只有5%的星系座落在富星系团里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only about 5% of galaxies are located in rich clusters,
+Dialogue: 0,0:31:02.11,0:31:05.61,*Default,NTP,0000,0000,0000,,但是其中超过一半都位于小星系群里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but more than half of them are located in small groups of galaxies.
+Dialogue: 0,0:31:05.65,0:31:09.95,*Default,NTP,0000,0000,0000,,我们银河系所在的星系团叫做本星系群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our galaxy's home cluster is called the Local Group.
+Dialogue: 0,0:31:09.99,0:31:15.58,*Default,NTP,0000,0000,0000,,跨越300万光年的行程带我们越过了它的两个大成员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A trip across 3 million light-years takes us past its two big members,
+Dialogue: 0,0:31:15.62,0:31:21.16,*Default,NTP,0000,0000,0000,,银河系和M31 - 仙女座星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Milky Way and M31, the Andromeda Galaxy.
+Dialogue: 0,0:31:21.21,0:31:24.08,*Default,NTP,0000,0000,0000,,三角座星系是次大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Triangulum Galaxy is the next largest,
+Dialogue: 0,0:31:24.13,0:31:27.71,*Default,NTP,0000,0000,0000,,几十个矮星系在其中穿越\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a few dozen dwarf galaxies circulate among them.
+Dialogue: 0,0:31:29.80,0:31:33.14,*Default,NTP,0000,0000,0000,,单个星系群里的星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The galaxies within an individual cluster
+Dialogue: 0,0:31:33.18,0:31:36.05,*Default,NTP,0000,0000,0000,,往往会随着时间的推移逐步合并在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tend to gradually merge with time,
+Dialogue: 0,0:31:36.10,0:31:40.18,*Default,NTP,0000,0000,0000,,因此在接下来的40 50 60亿年里 我们的银河系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so in the next 4, 5, 6 billion years, our Milky Way Galaxy
+Dialogue: 0,0:31:40.23,0:31:43.15,*Default,NTP,0000,0000,0000,,将会与仙女座星系合并在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is going to merge with the Andromeda Galaxy.
+Dialogue: 0,0:31:45.65,0:31:49.69,*Default,NTP,0000,0000,0000,,现在 如果我们在地球轨道上看整个宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now, if we view the whole universe from Earth orbit,
+Dialogue: 0,0:31:49.74,0:31:51.82,*Default,NTP,0000,0000,0000,,我们的银屏上就是这个样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our view screen looks like this.
+Dialogue: 0,0:31:53.20,0:31:58.58,*Default,NTP,0000,0000,0000,,我们的星系水平居中 从中向两头延展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our own galaxy's plane dominates, stretching across the center.
+Dialogue: 0,0:31:58.62,0:32:01.37,*Default,NTP,0000,0000,0000,,但是一旦我们与仙女座星系合并后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when we merge with Andromeda, 
+Dialogue: 0,0:32:01.37,0:32:03.62,*Default,NTP,0000,0000,0000,,天空看上去将会有巨大的改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the sky will look vastly changed.
+Dialogue: 0,0:32:05.63,0:32:06.96,*Default,NTP,0000,0000,0000,,一个非常壮观的事件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A very spectacular event,
+Dialogue: 0,0:32:07.00,0:32:08.96,*Default,NTP,0000,0000,0000,,有可能会导致一个椭圆星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's likely to result in an elliptical galaxy
+Dialogue: 0,0:32:09.01,0:32:13.22,*Default,NTP,0000,0000,0000,,看上去就完全不同于这两个螺旋星系中的任何一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which looks very, very different than either of the two component spirals.
+Dialogue: 0,0:32:13.26,0:32:16.26,*Default,NTP,0000,0000,0000,,仙女座会掠过几回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Andromeda will fly by several times
+Dialogue: 0,0:32:16.30,0:32:20.31,*Default,NTP,0000,0000,0000,,与银河系一道跳起引力舞蹈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it and the Milky Way do a gravitational dance.
+Dialogue: 0,0:32:20.35,0:32:24.14,*Default,NTP,0000,0000,0000,,合并将破坏它们优雅的碟状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The merger will destroy their elegant disk shapes.
+Dialogue: 0,0:32:24.19,0:32:29.11,*Default,NTP,0000,0000,0000,,最后 它们将定型为一个巨大的球状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the end, they'll settle into a giant rounded blob,
+Dialogue: 0,0:32:29.15,0:32:33.11,*Default,NTP,0000,0000,0000,,宇宙间椭圆星系的典型形状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the typical form of elliptical galaxies across the universe.
+Dialogue: 0,0:32:37.37,0:32:42.45,*Default,NTP,0000,0000,0000,,本星系群相比宇宙中的大星系团来说是很小的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Local Group is tiny compared to the big galaxy clusters across the universe.
+Dialogue: 0,0:32:43.71,0:32:47.38,*Default,NTP,0000,0000,0000,,最近的大星系团是我们行程的下一站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The nearest big cluster is the next stop on our voyage.
+Dialogue: 0,0:32:48.38,0:32:51.84,*Default,NTP,0000,0000,0000,,我们的本星系群6000万光年外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Local Group is about 60 million light-years away
+Dialogue: 0,0:32:51.88,0:32:56.05,*Default,NTP,0000,0000,0000,,是一个大N多倍的星系团 - 室女座星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a much bigger cluster, the Virgo cluster of galaxies,
+Dialogue: 0,0:32:56.09,0:32:59.22,*Default,NTP,0000,0000,0000,,包含有成千上万个星系 不只是几十个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}consisting of thousands of galaxies, not just a few dozen.
+Dialogue: 0,0:32:59.26,0:33:01.52,*Default,NTP,0000,0000,0000,,我们本星系群和室女座星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And our Local Group and the Virgo Cluster
+Dialogue: 0,0:33:01.56,0:33:03.02,*Default,NTP,0000,0000,0000,,以及一群其他星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a bunch of other clusters
+Dialogue: 0,0:33:03.06,0:33:07.65,*Default,NTP,0000,0000,0000,,构成了一个更大的结构 叫做本超星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are part of an even bigger structure called the Local Supercluster.
+Dialogue: 0,0:33:09.98,0:33:12.48,*Default,NTP,0000,0000,0000,,这些星系团都是狂暴之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such clusters are violent places
+Dialogue: 0,0:33:12.53,0:33:15.40,*Default,NTP,0000,0000,0000,,星系的移动速度惊人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with galaxies moving at incredible speed.
+Dialogue: 0,0:33:17.16,0:33:20.12,*Default,NTP,0000,0000,0000,,我们说道的速度是每秒数百公里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're talking about speeds of hundreds of kilometers per second,
+Dialogue: 0,0:33:20.16,0:33:21.99,*Default,NTP,0000,0000,0000,,换句话说就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or another way of saying that would be
+Dialogue: 0,0:33:22.04,0:33:24.87,*Default,NTP,0000,0000,0000,,时速接近百万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}something in the vicinity of a million miles an hour.
+Dialogue: 0,0:33:24.91,0:33:27.17,*Default,NTP,0000,0000,0000,,我们的行程进入了这些巨大星系团的高速王国\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We take our trip into the high-velocity realm of these giant clusters
+Dialogue: 0,0:33:29.21,0:33:32.38,*Default,NTP,0000,0000,0000,,来解决星系的一个谜团 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to solve a mystery about galaxies--
+Dialogue: 0,0:33:34.09,0:33:38.72,*Default,NTP,0000,0000,0000,,为何有些有恒星在星团里形成 而有些则没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}why some have stars forming in clusters and others don't.
+Dialogue: 0,0:33:38.76,0:33:41.60,*Default,NTP,0000,0000,0000,,答案就存在于星系的气体里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The answer is found in galactic gas.
+Dialogue: 0,0:33:43.47,0:33:48.31,*Default,NTP,0000,0000,0000,,星系或有气体丰富的 或有气体匮乏的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Galaxies are sometimes gas-rich and sometimes gas-poor.
+Dialogue: 0,0:33:48.35,0:33:51.77,*Default,NTP,0000,0000,0000,,气体丰富的往往形成恒星相当积极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gas-rich galaxies tend to be forming stars fairly actively,
+Dialogue: 0,0:33:51.82,0:33:53.86,*Default,NTP,0000,0000,0000,,而气体匮乏的则不行了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the gas-poor ones don't.
+Dialogue: 0,0:33:53.90,0:33:56.78,*Default,NTP,0000,0000,0000,,原来星系团里的活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It turns out that the action in galaxy clusters
+Dialogue: 0,0:33:56.82,0:34:01.16,*Default,NTP,0000,0000,0000,,就像是战场 那里的百万英里的时速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is something like a war zone, where the million-mile-an-hour speeds
+Dialogue: 0,0:34:01.20,0:34:06.50,*Default,NTP,0000,0000,0000,,将任何气体丰富的星系置于被扼杀的险境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}put any gas-rich galaxy in danger of being strangled.
+Dialogue: 0,0:34:06.54,0:34:11.25,*Default,NTP,0000,0000,0000,,星系的扼杀发生就在星系还不属于星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Galaxy strangulation occurs when a galaxy that's not part of a cluster
+Dialogue: 0,0:34:11.29,0:34:13.21,*Default,NTP,0000,0000,0000,,靠近星系团时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes close to a cluster,
+Dialogue: 0,0:34:13.25,0:34:16.76,*Default,NTP,0000,0000,0000,,引力的拉扯 星系团的潮汐拉力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the gravitational pull, the tidal pull of that cluster,
+Dialogue: 0,0:34:16.80,0:34:21.18,*Default,NTP,0000,0000,0000,,会拿走或吸掉新来的星系里的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can remove or suck gas out of that incoming galaxy.
+Dialogue: 0,0:34:21.22,0:34:23.72,*Default,NTP,0000,0000,0000,,那就使得星系气体匮乏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That leaves the galaxy deficient in gas,
+Dialogue: 0,0:34:23.77,0:34:26.60,*Default,NTP,0000,0000,0000,,因而就无法形成更多的新恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so it's unable to form many new stars.
+Dialogue: 0,0:34:26.64,0:34:28.06,*Default,NTP,0000,0000,0000,,它遭到了扼杀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It gets strangled.
+Dialogue: 0,0:34:29.65,0:34:33.11,*Default,NTP,0000,0000,0000,,一旦星系走到星系团的深处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And once a galaxy travels deep inside the cluster,
+Dialogue: 0,0:34:33.15,0:34:37.07,*Default,NTP,0000,0000,0000,,它所面临的麻烦叫做撞击压力剥离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it faces trouble from what's called ram pressure stripping
+Dialogue: 0,0:34:37.11,0:34:41.11,*Default,NTP,0000,0000,0000,,此时它快速通过漂浮在星系团空间里的薄薄的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it speeds through the thin gas floating in the cluster space.
+Dialogue: 0,0:34:41.99,0:34:43.83,*Default,NTP,0000,0000,0000,,急速穿过那气体时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When zooming through that gas,
+Dialogue: 0,0:34:43.87,0:34:47.04,*Default,NTP,0000,0000,0000,,气体的压力实际上会将气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the pressure of the gas can actually strip gas
+Dialogue: 0,0:34:47.08,0:34:51.46,*Default,NTP,0000,0000,0000,,从星系本身剥离 使其相对缺乏气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}away from the galaxy itself, leaving it relatively gas-free
+Dialogue: 0,0:34:51.50,0:34:55.34,*Default,NTP,0000,0000,0000,,无法形成较多的新的星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and unable to form many new star clusters.
+Dialogue: 0,0:34:57.17,0:35:00.76,*Default,NTP,0000,0000,0000,,如果我们飞过星团 寻找星际气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we flew through the cluster, looking for the intergalactic gas,
+Dialogue: 0,0:35:00.80,0:35:02.80,*Default,NTP,0000,0000,0000,,会一无所获的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we wouldn't see it.
+Dialogue: 0,0:35:02.85,0:35:08.48,*Default,NTP,0000,0000,0000,,它实在是非常稀薄 我们会认为完全是真空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is so very thin that on Earth, we'd consider it a perfect vacuum.
+Dialogue: 0,0:35:08.52,0:35:11.48,*Default,NTP,0000,0000,0000,,但要是我们打开飞船上的X射线探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if we turn on our spaceship's x-ray detectors,
+Dialogue: 0,0:35:11.52,0:35:14.82,*Default,NTP,0000,0000,0000,,就会显示出大量可怕的光辉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would show up as a massive eerie glow.
+Dialogue: 0,0:35:17.86,0:35:20.24,*Default,NTP,0000,0000,0000,,我们在可见光里看到的星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The galaxies that we see in visible light,
+Dialogue: 0,0:35:20.28,0:35:21.86,*Default,NTP,0000,0000,0000,,如果我们用普通望远镜看的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if we look with an ordinary telescope,
+Dialogue: 0,0:35:21.91,0:35:24.78,*Default,NTP,0000,0000,0000,,并不是星系团里唯一的成分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}aren't the only component of galaxy clusters.
+Dialogue: 0,0:35:24.83,0:35:27.49,*Default,NTP,0000,0000,0000,,事实上 它们甚至都不是主要的成分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Indeed, they're not even really the dominant component.
+Dialogue: 0,0:35:27.54,0:35:30.54,*Default,NTP,0000,0000,0000,,主要成分是高温的稀薄的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dominant component is a hot, thin gas.
+Dialogue: 0,0:35:31.71,0:35:33.83,*Default,NTP,0000,0000,0000,,气体的冲击加热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the gas was heated by shocks
+Dialogue: 0,0:35:33.88,0:35:36.42,*Default,NTP,0000,0000,0000,,来自星团的形成过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}during the formation process of the clusters
+Dialogue: 0,0:35:36.46,0:35:39.84,*Default,NTP,0000,0000,0000,,现在温度极高 发出了X射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and is now so hot that it glows in x-rays.
+Dialogue: 0,0:35:39.88,0:35:42.84,*Default,NTP,0000,0000,0000,,这是完全看不见 不同于普通光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this is completely invisible to normal light.
+Dialogue: 0,0:35:46.06,0:35:48.93,*Default,NTP,0000,0000,0000,,热气体对星团施加的引力影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The hot gas exerts more gravitational influence
+Dialogue: 0,0:35:48.98,0:35:52.56,*Default,NTP,0000,0000,0000,,大大超过看得见的星系本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the cluster than the visible galaxies themselves.
+Dialogue: 0,0:35:55.52,0:35:57.48,*Default,NTP,0000,0000,0000,,其势不可挡的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its overwhelming gravity
+Dialogue: 0,0:35:57.53,0:36:00.74,*Default,NTP,0000,0000,0000,,有助于将星团里的星系拉在一起形成一个共同的中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}helps draw cluster galaxies to a common center,
+Dialogue: 0,0:36:01.90,0:36:04.20,*Default,NTP,0000,0000,0000,,我们观察星系团时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and when we look at galaxy clusters,
+Dialogue: 0,0:36:04.24,0:36:07.78,*Default,NTP,0000,0000,0000,,看到了我们自己未来的预展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we see a preview of our own future.
+Dialogue: 0,0:36:07.83,0:36:12.50,*Default,NTP,0000,0000,0000,,星系团的中心往往是一个巨大的椭圆星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the cluster's center is often a giant elliptical galaxy,
+Dialogue: 0,0:36:12.54,0:36:15.88,*Default,NTP,0000,0000,0000,,是无数引力驱动的合并的结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the result of countless gravity-driven mergers,
+Dialogue: 0,0:36:15.92,0:36:19.59,*Default,NTP,0000,0000,0000,,比如银河系与仙女座的合并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like the one that will join the Milky Way with Andromeda.
+Dialogue: 0,0:36:21.22,0:36:24.22,*Default,NTP,0000,0000,0000,,那是星系团的普遍趋势\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's a common trend for clusters of galaxies.
+Dialogue: 0,0:36:24.26,0:36:26.76,*Default,NTP,0000,0000,0000,,其中的星系不断合并在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The galaxies within them are merging together,
+Dialogue: 0,0:36:26.80,0:36:31.22,*Default,NTP,0000,0000,0000,,形成少量 最后是一个超星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}forming a few, and finally one supergalaxy.
+Dialogue: 0,0:36:33.81,0:36:39.11,*Default,NTP,0000,0000,0000,,宇宙是不是注定要充斥孤单的超星系团呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is the universe destined to be filled with isolated supergalaxies?
+Dialogue: 0,0:36:39.15,0:36:42.07,*Default,NTP,0000,0000,0000,,引力会不会继续无休止地拉扯呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Will gravity continue its unending pull?
+Dialogue: 0,0:36:43.95,0:36:45.41,*Default,NTP,0000,0000,0000,,为了找到答案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To find the answers,
+Dialogue: 0,0:36:45.45,0:36:49.28,*Default,NTP,0000,0000,0000,,我们请出超级计算机来作为时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we enlist supercomputers as time machines,
+Dialogue: 0,0:36:49.33,0:36:51.29,*Default,NTP,0000,0000,0000,,把我们带入未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}taking us into the future.
+Dialogue: 0,0:36:52.08,0:36:53.83,*Default,NTP,0000,0000,0000,,它们所预测的情景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The scenario they predict
+Dialogue: 0,0:36:53.87,0:36:58.21,*Default,NTP,0000,0000,0000,,其严酷可能远远超出所有人的怀疑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be far more grim than anyone ever suspected.
+Dialogue: 0,0:37:03.76,0:37:07.55,*Default,NTP,0000,0000,0000,,世界上最大的望远镜和卫星观察站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The world's greatest telescopes and satellite observatories
+Dialogue: 0,0:37:07.60,0:37:11.60,*Default,NTP,0000,0000,0000,,日复一日地提供着精彩的宇宙星团照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}routinely serve up awesome pictures of cosmic clusters.
+Dialogue: 0,0:37:13.52,0:37:17.23,*Default,NTP,0000,0000,0000,,但是基本上这些都只是一次性快照\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But essentially these are only snapshots in time.
+Dialogue: 0,0:37:17.27,0:37:20.07,*Default,NTP,0000,0000,0000,,为了真实地观察宇宙的演化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To truly watch the universe as it evolves,
+Dialogue: 0,0:37:20.11,0:37:22.23,*Default,NTP,0000,0000,0000,,我们就需要有时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we need a time machine.
+Dialogue: 0,0:37:23.19,0:37:26.70,*Default,NTP,0000,0000,0000,,人类生命相对宇宙的时间尺度来说如白马过隙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Human lives are short compared with cosmic time scales,
+Dialogue: 0,0:37:26.74,0:37:31.70,*Default,NTP,0000,0000,0000,,但是我们能够有效地观察到星系及星系团是如何演化的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we can watch effectively how galaxies and galaxy clusters evolve
+Dialogue: 0,0:37:31.74,0:37:34.70,*Default,NTP,0000,0000,0000,,依靠强大的计算机来模拟它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by simulating them on powerful computers.
+Dialogue: 0,0:37:37.58,0:37:40.88,*Default,NTP,0000,0000,0000,,超级计算机把我们的星际飞船变成了时间机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The supercomputer turns our starship into a time machine
+Dialogue: 0,0:37:40.92,0:37:43.05,*Default,NTP,0000,0000,0000,,用于我们的下一段任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the next leg of our mission,
+Dialogue: 0,0:37:43.09,0:37:45.59,*Default,NTP,0000,0000,0000,,去了解宇宙的演化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to find out how the universe evolved
+Dialogue: 0,0:37:45.63,0:37:48.64,*Default,NTP,0000,0000,0000,,以及它最终的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and where it's going to end up.
+Dialogue: 0,0:37:48.68,0:37:52.64,*Default,NTP,0000,0000,0000,,这种模拟演示了星系团是如何形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This simulation shows how a galaxy cluster may form.
+Dialogue: 0,0:37:52.68,0:37:55.98,*Default,NTP,0000,0000,0000,,123亿年的星际演化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}12.3 billion years of stellar evolution
+Dialogue: 0,0:37:56.02,0:37:58.48,*Default,NTP,0000,0000,0000,,浓缩成了不到一分钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is condensed into less than a minute.
+Dialogue: 0,0:38:00.15,0:38:04.48,*Default,NTP,0000,0000,0000,,这样的超级计算机的可视化是重要的手段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Supercomputer visualizations like these are important tools
+Dialogue: 0,0:38:04.53,0:38:08.32,*Default,NTP,0000,0000,0000,,帮助我们大家了解宇宙的运作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to help all of us understand the workings of the universe
+Dialogue: 0,0:38:08.36,0:38:11.16,*Default,NTP,0000,0000,0000,,以及未来会将我们带向何处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and where the future will take us.
+Dialogue: 0,0:38:11.20,0:38:13.58,*Default,NTP,0000,0000,0000,,我们如何实际模拟出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The simulations where we can actually play
+Dialogue: 0,0:38:13.62,0:38:16.20,*Default,NTP,0000,0000,0000,,星系团在数十亿年里的演化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how a galaxy cluster evolves over billions of years
+Dialogue: 0,0:38:16.25,0:38:18.16,*Default,NTP,0000,0000,0000,,一直都是我的心病\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}always leave me breathless.
+Dialogue: 0,0:38:18.21,0:38:20.17,*Default,NTP,0000,0000,0000,,看到宇宙时间表演在这些美丽优雅的模拟中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's amazing to watch cosmological time
+Dialogue: 0,0:38:20.21,0:38:23.75,*Default,NTP,0000,0000,0000,,让人叹为观止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}play in these beautiful, elegant simulations.
+Dialogue: 0,0:38:25.38,0:38:27.84,*Default,NTP,0000,0000,0000,,这就是超级计算机的运作情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here's how the supercomputers do it.
+Dialogue: 0,0:38:27.88,0:38:29.34,*Default,NTP,0000,0000,0000,,它们开始于某种东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They start with something
+Dialogue: 0,0:38:29.39,0:38:32.51,*Default,NTP,0000,0000,0000,,科学家将其称之为N体问题(N-body problem)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that scientists call the N-body problem.
+Dialogue: 0,0:38:32.56,0:38:35.27,*Default,NTP,0000,0000,0000,,N表示天体的数量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"N" stands for number of bodies.
+Dialogue: 0,0:38:35.31,0:38:39.06,*Default,NTP,0000,0000,0000,,天体就是行星 恒星 或星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The bodies are planets, stars, or galaxies,
+Dialogue: 0,0:38:39.10,0:38:42.77,*Default,NTP,0000,0000,0000,,问题是通过一些简单的计算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the problem is to do some simple math
+Dialogue: 0,0:38:42.82,0:38:46.19,*Default,NTP,0000,0000,0000,,来计算出牛顿的基本引力定律是如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to figure out how Isaac Newton's basic laws of gravity
+Dialogue: 0,0:38:46.24,0:38:49.86,*Default,NTP,0000,0000,0000,,让行星或恒星在太空中运动的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}make the planets or stars move in space.
+Dialogue: 0,0:38:51.24,0:38:54.58,*Default,NTP,0000,0000,0000,,这种模拟是极其强有力的手段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such simulations are remarkably powerful ways
+Dialogue: 0,0:38:54.62,0:38:58.96,*Default,NTP,0000,0000,0000,,来研究复杂系统 如星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to study how complex systems like clusters of galaxies
+Dialogue: 0,0:38:59.00,0:39:01.12,*Default,NTP,0000,0000,0000,,及星系是如何与时俱进的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and galaxies evolve with time.
+Dialogue: 0,0:39:04.00,0:39:08.21,*Default,NTP,0000,0000,0000,,彼得 图本 - 马里兰大学的模拟专家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Peter Teuben, a simulation specialist at the University of Maryland,
+Dialogue: 0,0:39:08.26,0:39:10.26,*Default,NTP,0000,0000,0000,,将引力公式编程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}programs the gravity formulas
+Dialogue: 0,0:39:10.30,0:39:13.14,*Default,NTP,0000,0000,0000,,到了一台叫做沉思的计算机里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into a supercomputer named Deepthought.
+Dialogue: 0,0:39:15.68,0:39:16.97,*Default,NTP,0000,0000,0000,,很容易 比如\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's easy, for instance,
+Dialogue: 0,0:39:17.02,0:39:20.02,*Default,NTP,0000,0000,0000,,要计算出行星围绕恒星的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to figure the orbit of a planet around a star.
+Dialogue: 0,0:39:20.06,0:39:22.60,*Default,NTP,0000,0000,0000,,这叫做二体问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's called a two-body problem.
+Dialogue: 0,0:39:22.65,0:39:24.90,*Default,NTP,0000,0000,0000,,大学数学系学生立刻就可以解决\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A college math student can do it in a snap.
+Dialogue: 0,0:39:24.94,0:39:31.03,*Default,NTP,0000,0000,0000,,不过想想你要计算星团里一大堆恒星的运动呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But suppose you have to work out the motions of a swarm of stars in a star cluster.
+Dialogue: 0,0:39:31.86,0:39:34.49,*Default,NTP,0000,0000,0000,,N体问题有点像杂耍表演\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The N-body problem is a little bit like a juggling act.
+Dialogue: 0,0:39:34.53,0:39:38.24,*Default,NTP,0000,0000,0000,,如果你碰上二体问题 我们这里有一个球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you have a two-body problem, here we have one ball 
+Dialogue: 0,0:39:38.29,0:39:41.54,*Default,NTP,0000,0000,0000,,我玩一个球相对比较容易 但是我不是杂耍家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can do one ball relatively easy, but I'm not a juggler.
+Dialogue: 0,0:39:41.58,0:39:44.00,*Default,NTP,0000,0000,0000,,我不知道我能不能玩两个球 哎呀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't know if I can do two balls. Oops.
+Dialogue: 0,0:39:44.04,0:39:46.63,*Default,NTP,0000,0000,0000,,啊 显然 我玩不了两个球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, clearly, I cannot do two balls.
+Dialogue: 0,0:39:48.17,0:39:51.38,*Default,NTP,0000,0000,0000,,需要大量的尝试和大脑的演绎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it takes a lot of effort and interpretation by the brain
+Dialogue: 0,0:39:51.43,0:39:53.76,*Default,NTP,0000,0000,0000,,如何来正确地杂耍这两个球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how to correctly juggle two balls.
+Dialogue: 0,0:39:55.14,0:39:58.35,*Default,NTP,0000,0000,0000,,现在来设想我们要来玩三个球或四个球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now imagine that we have to do three balls or four balls.
+Dialogue: 0,0:39:58.39,0:39:59.56,*Default,NTP,0000,0000,0000,,我可来不了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I cannot do that.
+Dialogue: 0,0:39:59.64,0:40:00.64,*Default,NTP,0000,0000,0000,,有人能做到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are people who can do that.
+Dialogue: 0,0:40:00.68,0:40:03.81,*Default,NTP,0000,0000,0000,,不过复杂性会止于某个点上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the complexity ends at some point.
+Dialogue: 0,0:40:03.85,0:40:05.98,*Default,NTP,0000,0000,0000,,没人能玩到20个球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nobody can do 20 balls.
+Dialogue: 0,0:40:07.69,0:40:11.44,*Default,NTP,0000,0000,0000,,出人意料的是 问题背后的数学却是相当简单的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Surprisingly, the math behind the problem is fairly easy,
+Dialogue: 0,0:40:11.49,0:40:14.57,*Default,NTP,0000,0000,0000,,但是你需要超级计算机的原因就在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the reason you need a supercomputer
+Dialogue: 0,0:40:14.62,0:40:17.45,*Default,NTP,0000,0000,0000,,只有它能够做到这么多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that there's just so much of it to do.
+Dialogue: 0,0:40:17.49,0:40:19.45,*Default,NTP,0000,0000,0000,,这纯粹是枯燥的工作 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's pure grunt work 
+Dialogue: 0,0:40:19.50,0:40:21.91,*Default,NTP,0000,0000,0000,,好 伙计们 写上你的位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All right, guys, write your positions.
+Dialogue: 0,0:40:21.96,0:40:24.12,*Default,NTP,0000,0000,0000,,来看图本学生的论证\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As Teuben's students demonstrate,
+Dialogue: 0,0:40:24.17,0:40:28.09,*Default,NTP,0000,0000,0000,,试图不用计算机来解决12颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when trying to do it for 12 stars without a computer.
+Dialogue: 0,0:40:28.13,0:40:30.51,*Default,NTP,0000,0000,0000,,第一颗在6-4\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Number 1 is at 6-4.
+Dialogue: 0,0:40:30.55,0:40:33.51,*Default,NTP,0000,0000,0000,,第二 在3-4\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}- Number 2. - 2 is at 3-4.
+Dialogue: 0,0:40:33.55,0:40:35.93,*Default,NTP,0000,0000,0000,,第三 在2-4\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}- Number 3. - 3 is at 2-4.
+Dialogue: 0,0:40:35.97,0:40:37.72,*Default,NTP,0000,0000,0000,,在这样的计算中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In calculations like these,
+Dialogue: 0,0:40:37.76,0:40:41.72,*Default,NTP,0000,0000,0000,,每颗星的初始位置在图标上都有了坐标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}each star's starting position gets coordinates on a chart.
+Dialogue: 0,0:40:41.77,0:40:43.52,*Default,NTP,0000,0000,0000,,第八在4-4\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Number 8 is at 4-4.
+Dialogue: 0,0:40:44.73,0:40:47.15,*Default,NTP,0000,0000,0000,,每颗星同时有了自己的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each star also gets its own speed,
+Dialogue: 0,0:40:47.19,0:40:49.52,*Default,NTP,0000,0000,0000,,剩下的事就取决于同学们了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the rest is up to the students.
+Dialogue: 0,0:40:50.78,0:40:53.70,*Default,NTP,0000,0000,0000,,利用牛顿定律 他们要计算出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Using Newton's laws, they have to figure out
+Dialogue: 0,0:40:53.74,0:40:56.99,*Default,NTP,0000,0000,0000,,每颗星的引力是如何与其它每颗星的作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how each star's gravity acts on each one of the others
+Dialogue: 0,0:40:57.03,0:41:01.79,*Default,NTP,0000,0000,0000,,来确定每颗星在下一个时间点的具体位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to determine where each star's position will be at the next point in time.
+Dialogue: 0,0:41:01.83,0:41:02.83,*Default,NTP,0000,0000,0000,,第一颗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Number 1.
+Dialogue: 0,0:41:04.87,0:41:09.00,*Default,NTP,0000,0000,0000,,这些同学将需要不间断工作300年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These students would need to work for 300 years nonstop
+Dialogue: 0,0:41:09.04,0:41:12.71,*Default,NTP,0000,0000,0000,,来完成超级计算机一秒钟所做的工作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to do what a supercomputer can do in one second.
+Dialogue: 0,0:41:16.72,0:41:20.01,*Default,NTP,0000,0000,0000,,星系团的计算将猛增到数以百万计\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Calculations for galaxy clusters ramp up to millions,
+Dialogue: 0,0:41:20.06,0:41:23.06,*Default,NTP,0000,0000,0000,,甚至数十亿个N体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even billions of "N" bodies.
+Dialogue: 0,0:41:23.10,0:41:26.35,*Default,NTP,0000,0000,0000,,但是幸运的是 超级计算机越来越能够满足\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But fortunately, supercomputers are increasingly available
+Dialogue: 0,0:41:26.40,0:41:34.32,*Default,NTP,0000,0000,0000,,天文学家模拟宇宙的过去 现在和将来的渴望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to astronomers eager to simulate the past, present, and future of the universe.
+Dialogue: 0,0:41:34.36,0:41:35.99,*Default,NTP,0000,0000,0000,,目前最先进的超级计算机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The current state-of-the-art supercomputers
+Dialogue: 0,0:41:36.03,0:41:38.03,*Default,NTP,0000,0000,0000,,实际上都是现成的计算机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are actually off-the-shelf computers
+Dialogue: 0,0:41:38.07,0:41:40.41,*Default,NTP,0000,0000,0000,,你我家用的台式计算机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you and I use at home, desktop computers.
+Dialogue: 0,0:41:40.45,0:41:42.66,*Default,NTP,0000,0000,0000,,唯一的事情就是我们将它们组合在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The only thing is we put them all together.
+Dialogue: 0,0:41:42.70,0:41:45.00,*Default,NTP,0000,0000,0000,,它们不难建起 并不昂贵\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're easy to build, they're cheap to build,
+Dialogue: 0,0:41:45.04,0:41:46.37,*Default,NTP,0000,0000,0000,,因此可以用上好多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so there's many available.
+Dialogue: 0,0:41:51.59,0:41:54.42,*Default,NTP,0000,0000,0000,,最复杂的趋势模拟之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Among the most complex of the current simulations
+Dialogue: 0,0:41:54.47,0:41:56.80,*Default,NTP,0000,0000,0000,,是欧洲的千年运算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the Millennium Run in Europe,
+Dialogue: 0,0:41:56.84,0:42:01.18,*Default,NTP,0000,0000,0000,,100亿个星系的运算 靠一台超级计算机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where 10 billion galaxies were manipulated in a supercomputer,
+Dialogue: 0,0:42:01.22,0:42:09.23,*Default,NTP,0000,0000,0000,,连续运算20天 用了34 3万处理器时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}running continuously for 28 days, utilizing 343,000 processor-hours.
+Dialogue: 0,0:42:09.27,0:42:12.40,*Default,NTP,0000,0000,0000,,其中一项成果是引人注目的3D飞行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One result is a remarkable 3-D fly-through
+Dialogue: 0,0:42:12.44,0:42:15.86,*Default,NTP,0000,0000,0000,,跨越240光年的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}across 2.4 billion light-years of space,
+Dialogue: 0,0:42:15.90,0:42:18.49,*Default,NTP,0000,0000,0000,,演示了数亿个星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}showing hundreds of millions of galaxies
+Dialogue: 0,0:42:18.53,0:42:22.87,*Default,NTP,0000,0000,0000,,沿着无数股暗物质团聚成星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}clumped together in clusters along vast strands of dark matter.
+Dialogue: 0,0:42:26.91,0:42:30.92,*Default,NTP,0000,0000,0000,,利用超级计算机 科学家不仅能研究过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Using supercomputers, scientists not only study the past,
+Dialogue: 0,0:42:30.96,0:42:34.75,*Default,NTP,0000,0000,0000,,而且还能预测宇宙的未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they can predict the future of the universe.
+Dialogue: 0,0:42:34.80,0:42:36.09,*Default,NTP,0000,0000,0000,,我认为真是酷毙了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think it's amazingly cool that 
+Dialogue: 0,0:42:36.13,0:42:40.13,*Default,NTP,0000,0000,0000,,我们实际上能够用上我们所知的宇宙当今的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we can actually take what we know about the present-day conditions in the universe
+Dialogue: 0,0:42:40.18,0:42:42.47,*Default,NTP,0000,0000,0000,,我们基本上能够利用这些计算机模拟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we can basically use these computer simulations
+Dialogue: 0,0:42:42.51,0:42:44.26,*Default,NTP,0000,0000,0000,,来演示时间的推进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to play time forward.
+Dialogue: 0,0:42:44.31,0:42:48.27,*Default,NTP,0000,0000,0000,,我们能够利用这个来推断最终发生在我们身上的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can use this to extrapolate what's going to happen to us in the end.
+Dialogue: 0,0:42:49.85,0:42:54.86,*Default,NTP,0000,0000,0000,,这个模拟开始于大爆炸留下的量子泡沫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This simulation starts with the quantum foam left over from the Big Bang
+Dialogue: 0,0:42:54.90,0:42:57.94,*Default,NTP,0000,0000,0000,,让我们穿梭130亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and flies us through 13 billion years
+Dialogue: 0,0:42:57.99,0:43:02.28,*Default,NTP,0000,0000,0000,,伴随它沿着网状的脉络和空隙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it all condenses into the galaxy clusters and superclusters
+Dialogue: 0,0:43:02.32,0:43:04.83,*Default,NTP,0000,0000,0000,,整个凝结成星系团和超星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}along the network of filaments and voids
+Dialogue: 0,0:43:04.87,0:43:06.87,*Default,NTP,0000,0000,0000,,就像那些我们今天所能发现的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like those we can detect today.
+Dialogue: 0,0:43:08.96,0:43:12.08,*Default,NTP,0000,0000,0000,,这就是宇宙团聚现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the cosmic clustering phenomenon
+Dialogue: 0,0:43:12.13,0:43:15.75,*Default,NTP,0000,0000,0000,,有引力驱动到最大极限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}driven by gravity to its greatest extreme.
+Dialogue: 0,0:43:15.80,0:43:21.34,*Default,NTP,0000,0000,0000,,但是引力的牵引被神秘的暗能量给抵消了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But gravity's pull is counterbalanced by the mysterious dark energy
+Dialogue: 0,0:43:21.39,0:43:25.22,*Default,NTP,0000,0000,0000,,它正在把宇宙间的星系团驱散\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is driving the galaxy clusters of the universe apart.
+Dialogue: 0,0:43:26.47,0:43:29.39,*Default,NTP,0000,0000,0000,,约10年前 天文学家发现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About a decade ago, astronomers discovered
+Dialogue: 0,0:43:29.44,0:43:31.77,*Default,NTP,0000,0000,0000,,宇宙不光在膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the universe is not just expanding.
+Dialogue: 0,0:43:31.81,0:43:35.06,*Default,NTP,0000,0000,0000,,事实上 膨胀正愈演愈快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, its expansion is accelerating with time.
+Dialogue: 0,0:43:37.03,0:43:41.82,*Default,NTP,0000,0000,0000,,引力将星系团结合在一块只是在局部层面上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity will keep galaxy clusters together only on a local level.
+Dialogue: 0,0:43:41.86,0:43:46.99,*Default,NTP,0000,0000,0000,,我们的本星系群将会合并为一个超星系团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our local galaxy group will coalesce into one supergalaxy,
+Dialogue: 0,0:43:47.04,0:43:51.50,*Default,NTP,0000,0000,0000,,但是宇宙间其他所有的星系将会快速远离我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but all other galaxies in the universe will race away from us.
+Dialogue: 0,0:43:51.54,0:43:53.67,*Default,NTP,0000,0000,0000,,从今1000亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A hundred billion years from now,
+Dialogue: 0,0:43:53.71,0:43:58.42,*Default,NTP,0000,0000,0000,,这个宇宙角落将暗无天日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this corner of space will be left virtually in the dark.
+Dialogue: 0,0:44:00.22,0:44:03.47,*Default,NTP,0000,0000,0000,,我们周围的遥远星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As soon as the distant galaxies around us
+Dialogue: 0,0:44:03.51,0:44:07.14,*Default,NTP,0000,0000,0000,,将渐行渐远 达到光速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will expand away and reach the speed of light,
+Dialogue: 0,0:44:07.18,0:44:12.31,*Default,NTP,0000,0000,0000,,甚至它们发出的光线一点都永远无法到达我们这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even light from them will never be able to reach us anymore,
+Dialogue: 0,0:44:12.35,0:44:14.35,*Default,NTP,0000,0000,0000,,因此这些星系将扩展成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so these galaxies will expand
+Dialogue: 0,0:44:14.40,0:44:18.69,*Default,NTP,0000,0000,0000,,茫茫空域 并从视野中消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into vast regions of space and disappear from view.
+Dialogue: 0,0:44:18.73,0:44:25.28,*Default,NTP,0000,0000,0000,,我们的星系将成为黑夜中的孤岛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our galaxy will be an island embedded in darkness.
+Dialogue: 0,0:44:27.79,0:44:32.79,*Default,NTP,0000,0000,0000,,气体云将继续在附近形成星团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Clouds of gas will continue to form into star clusters nearby,
+Dialogue: 0,0:44:32.83,0:44:36.08,*Default,NTP,0000,0000,0000,,但是未来的天文学家将在我们星系的边界外的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but astronomers of the future will see nothing in the sky
+Dialogue: 0,0:44:36.13,0:44:38.75,*Default,NTP,0000,0000,0000,,天空中看不到任何东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beyond the borders of our own galaxy.
+Dialogue: 0,0:44:39.25,0:44:43.05,*Default,NTP,0000,0000,0000,,除非今天的宇宙学家的工作得以保存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unless the work of today's cosmologists is preserved,
+Dialogue: 0,0:44:43.09,0:44:45.39,*Default,NTP,0000,0000,0000,,否则将没有任何线索去告诉他们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there will be no clues to tell them
+Dialogue: 0,0:44:45.43,0:44:49.93,*Default,NTP,0000,0000,0000,,曾经有过一次大爆炸 有过宇宙膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there was once a Big Bang and a cosmic expansion,
+Dialogue: 0,0:44:49.97,0:44:53.06,*Default,NTP,0000,0000,0000,,将没有什么能让他们知道广阔天地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nothing to let them know of the vast existence
+Dialogue: 0,0:44:53.10,0:44:58.65,*Default,NTP,0000,0000,0000,,远不止这个空间 就是我们今天所谓的 - 宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beyond the place we know today as The Universe.

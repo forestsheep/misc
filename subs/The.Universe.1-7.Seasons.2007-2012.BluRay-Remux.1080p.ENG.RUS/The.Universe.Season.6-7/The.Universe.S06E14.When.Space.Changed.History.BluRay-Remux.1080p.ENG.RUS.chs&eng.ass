@@ -1,0 +1,749 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:16.98,0:01:20.37,Default,,0000,0000,0008,,{\blur3}宇宙:太空改变历史{\r}
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:20.64,0:00:22.93,Default,,0000,0000,0000,,{\blur3}彗星撞击海洋导致了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Did a comet slamming into the ocean{\r}
+Dialogue: 0,0:00:23.51,0:00:25.26,Default,,0000,0000,0000,,{\blur3}圣经所说的大洪水？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cause the biblical flood?{\r}
+Dialogue: 0,0:00:25.56,0:00:29.26,Default,,0000,0000,0000,,{\blur3}海啸引发的波浪至少有50米高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The tsunami wave itself was at least 50 meters high.{\r}
+Dialogue: 0,0:00:30.04,0:00:32.39,Default,,0000,0000,0000,,{\blur3}一个太空火球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Did a fiery messenger from space{\r}
+Dialogue: 0,0:00:32.40,0:00:34.56,Default,,0000,0000,0000,,{\blur3}逆转了基督教的命运？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reverse the fate of Christianity?{\r}
+Dialogue: 0,0:00:34.98,0:00:37.17,Default,,0000,0000,0000,,{\blur3}一颗时速70 000英里的流星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Suddenly, at 70,000 miles per hour,{\r}
+Dialogue: 0,0:00:37.20,0:00:38.96,Default,,0000,0000,0000,,{\blur3}突如其来地撞向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this meteor comes crashing to Earth.{\r}
+Dialogue: 0,0:00:39.61,0:00:41.70,Default,,0000,0000,0000,,{\blur3}天空中的火球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Did a fireball in the sky{\r}
+Dialogue: 0,0:00:41.94,0:00:44.41,Default,,0000,0000,0000,,{\blur3}彻底摧毁了最早的北美居民？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}wipe out the first North Americans?{\r}
+Dialogue: 0,0:00:44.73,0:00:48.19,Default,,0000,0000,0000,,{\blur3}太空确实是一次次地改变了历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space literally has changed history time and time again.{\r}
+Dialogue: 0,0:00:48.49,0:00:51.79,Default,,0000,0000,0000,,{\blur3}一个独立的科研小组正在展开研究 .{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A maverick group of scientists is on a quest...{\r}
+Dialogue: 0,0:00:51.81,0:00:53.88,Default,,0000,0000,0000,,{\blur3}超巨型彗星的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Very large comet impacts{\r}
+Dialogue: 0,0:00:53.88,0:00:56.49,Default,,0000,0000,0000,,{\blur3}改变了人类文明的发展方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could have changed the course of human civilization.{\r}
+Dialogue: 0,0:00:58.09,0:01:00.92,Default,,0000,0000,0000,,{\blur3}反主流科学的研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A quest to defy mainstream science{\r}
+Dialogue: 0,0:01:00.94,0:01:02.86,Default,,0000,0000,0000,,{\blur3}证明了人类历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and prove that human history{\r}
+Dialogue: 0,0:01:02.88,0:01:06.12,Default,,0000,0000,0000,,{\blur3}因为从天而降的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was rocked with catastrophic moments,{\r}
+Dialogue: 0,0:01:06.37,0:01:09.79,Default,,0000,0000,0000,,{\blur3}而被改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when space changed history.{\r}
+Dialogue: 0,0:01:23.11,0:01:26.65,Default,,0000,0000,0000,,{\blur3}40天40夜的滂沱大雨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}40 days and 40 nights of torrential rains.{\r}
+Dialogue: 0,0:01:28.62,0:01:32.58,Default,,0000,0000,0000,,{\blur3}圣经的大洪水故事和吉尔伽美什史诗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Bible's great flood and the Epic of Gilgamesh{\r}
+Dialogue: 0,0:01:32.59,0:01:35.29,Default,,0000,0000,0000,,{\blur3}都描述到一个广为人知的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are widespread myths that depict an event{\r}
+Dialogue: 0,0:01:35.30,0:01:38.59,Default,,0000,0000,0000,,{\blur3}人类遭到彻底灭绝的神话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that wiped humanity off the face of the Earth.{\r}
+Dialogue: 0,0:01:40.65,0:01:42.63,Default,,0000,0000,0000,,{\blur3}这只是一个神话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But was it simply a myth,{\r}
+Dialogue: 0,0:01:42.79,0:01:44.63,Default,,0000,0000,0000,,{\blur3}还是确有其事？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or did it really happen?{\r}
+Dialogue: 0,0:01:45.31,0:01:49.95,Default,,0000,0000,0000,,{\blur3}假如真是如此 科学家又如何去解释它呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if so, how can science explain such a catastrophe?{\r}
+Dialogue: 0,0:01:55.47,0:01:58.77,Default,,0000,0000,0000,,{\blur3}没有任何理由能说明 超巨型彗星撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no reason that very large comet impacts{\r}
+Dialogue: 0,0:01:59.01,0:02:01.95,Default,,0000,0000,0000,,{\blur3}在过去的15 000年间不会出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could not have occurred during the last 15,000 years.{\r}
+Dialogue: 0,0:02:03.40,0:02:04.76,Default,,0000,0000,0000,,{\blur3}它应当发生过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there could have been, even,{\r}
+Dialogue: 0,0:02:04.78,0:02:07.16,Default,,0000,0000,0000,,{\blur3}甚至还引发了全球性的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a globally catastrophic event{\r}
+Dialogue: 0,0:02:07.17,0:02:10.24,Default,,0000,0000,0000,,{\blur3}改变了人类的发展进程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could have changed the course of human civilization.{\r}
+Dialogue: 0,0:02:13.30,0:02:14.91,Default,,0000,0000,0000,,{\blur3}考古学家布鲁斯.马赛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Archeologist Bruce Masse{\r}
+Dialogue: 0,0:02:14.94,0:02:18.12,Default,,0000,0000,0000,,{\blur3}参加了由特立独行的科学家所组成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a member of a small group of maverick scientists{\r}
+Dialogue: 0,0:02:19.01,0:02:22.08,Default,,0000,0000,0000,,{\blur3}"全新世撞击工作组"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called the Holocene Impact Working Group.{\r}
+Dialogue: 0,0:02:22.84,0:02:25.37,Default,,0000,0000,0000,,{\blur3}"全新世"是地质术语 用于表示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's named for the Holocene Epoch,{\r}
+Dialogue: 0,0:02:25.37,0:02:28.52,Default,,0000,0000,0000,,{\blur3}从10 000年前开始的地质时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which began 10,000 years ago.{\r}
+Dialogue: 0,0:02:29.12,0:02:31.92,Default,,0000,0000,0000,,{\blur3}马赛的组织让天文学领域躁动不已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His group has roiled the world of astronomy{\r}
+Dialogue: 0,0:02:32.13,0:02:34.40,Default,,0000,0000,0000,,{\blur3}因为它宣称灾难性的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by claiming that catastrophic impacts{\r}
+Dialogue: 0,0:02:34.59,0:02:37.49,Default,,0000,0000,0000,,{\blur3}远比人们想象的要频繁得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have occurred much more often than supposed{\r}
+Dialogue: 0,0:02:37.90,0:02:41.42,Default,,0000,0000,0000,,{\blur3}并因此改变了人类的历史进程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and have actually changed the course of human history.{\r}
+Dialogue: 0,0:02:49.91,0:02:52.88,Default,,0000,0000,0000,,{\blur3}大洪水就是例证{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Case in point: the great flood.{\r}
+Dialogue: 0,0:02:54.42,0:02:56.74,Default,,0000,0000,0000,,{\blur3}圣经的诺亚方舟故事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The biblical story of Noah's ark{\r}
+Dialogue: 0,0:02:57.02,0:03:02.38,Default,,0000,0000,0000,,{\blur3}只是全世界众多的古神话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is simply one version of an ancient story that's found in dozens of myths and legends{\r}
+Dialogue: 0,0:03:02.40,0:03:03.95,Default,,0000,0000,0000,,{\blur3}其中的一个版本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}across the globe.{\r}
+Dialogue: 0,0:03:05.84,0:03:07.80,Default,,0000,0000,0000,,{\blur3}我曾经潜心去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What I decided to do is to take a look{\r}
+Dialogue: 0,0:03:07.83,0:03:12.52,Default,,0000,0000,0000,,{\blur3}研究世界各地的洪水神话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at this worldwide distribution of flood myths, take a sample of those myths,{\r}
+Dialogue: 0,0:03:12.87,0:03:17.60,Default,,0000,0000,0000,,{\blur3}并收集了175个地方的相关传说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the sample I selected was 175 locations from across the world.{\r}
+Dialogue: 0,0:03:19.60,0:03:21.18,Default,,0000,0000,0000,,{\blur3}这些洪水神话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of these flood myths{\r}
+Dialogue: 0,0:03:21.20,0:03:23.86,Default,,0000,0000,0000,,{\blur3}绝大多数惊人地相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}contain striking similarities,{\r}
+Dialogue: 0,0:03:24.21,0:03:25.95,Default,,0000,0000,0000,,{\blur3}都有描述到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including the common legend{\r}
+Dialogue: 0,0:03:26.06,0:03:28.19,Default,,0000,0000,0000,,{\blur3}洪水发生之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that just before the flood began,{\r}
+Dialogue: 0,0:03:30.12,0:03:33.53,Default,,0000,0000,0000,,{\blur3}一个拖着大尾巴的天外之物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a celestial creature with impressive tails,{\r}
+Dialogue: 0,0:03:33.88,0:03:35.71,Default,,0000,0000,0000,,{\blur3}横过天空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}raced across the sky.{\r}
+Dialogue: 0,0:03:37.63,0:03:41.31,Default,,0000,0000,0000,,{\blur3}他们没有科学的彗星知识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since they didn't have a science to understand what comets were all about,{\r}
+Dialogue: 0,0:03:41.69,0:03:44.17,Default,,0000,0000,0000,,{\blur3}就理所当然地去解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they would try to come up with a natural solution.{\r}
+Dialogue: 0,0:03:44.56,0:03:48.23,Default,,0000,0000,0000,,{\blur3}因此 彗星有可能被当成了蛇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So therefore, a comet might be a snake.{\r}
+Dialogue: 0,0:03:51.01,0:03:53.10,Default,,0000,0000,0000,,{\blur3}众所周知 彗星有尾巴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comets are known to have tails.{\r}
+Dialogue: 0,0:03:53.38,0:03:56.31,Default,,0000,0000,0000,,{\blur3}它带来了另外两个作用:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The visible effect of two byproducts:{\r}
+Dialogue: 0,0:03:56.94,0:03:59.18,Default,,0000,0000,0000,,{\blur3}尘埃反射阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dust reflecting sunlight{\r}
+Dialogue: 0,0:03:59.74,0:04:01.82,Default,,0000,0000,0000,,{\blur3}并产生电离气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and glowing ionized gases{\r}
+Dialogue: 0,0:04:01.85,0:04:05.31,Default,,0000,0000,0000,,{\blur3}气体在后面咆哮着 如同喷气式飞机的凝结尾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}roaring off the back like jet contrails.{\r}
+Dialogue: 0,0:04:06.34,0:04:07.41,Default,,0000,0000,0000,,{\blur3}有趣的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Interestingly enough,{\r}
+Dialogue: 0,0:04:07.44,0:04:09.59,Default,,0000,0000,0000,,{\blur3}你能看到所谓的"逆向彗尾"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can actually have what's called an anti-tail,{\r}
+Dialogue: 0,0:04:09.60,0:04:12.17,Default,,0000,0000,0000,,{\blur3}从我们的角度看 彗尾就好象是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where, from our point of view, it looks like the tail of the comets{\r}
+Dialogue: 0,0:04:12.19,0:04:14.91,Default,,0000,0000,0000,,{\blur3}朝着两个完全不同的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are actually pointing in two totally different directions.{\r}
+Dialogue: 0,0:04:15.32,0:04:18.08,Default,,0000,0000,0000,,{\blur3}太阳散发的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So as solar radiation streams off of our sun,{\r}
+Dialogue: 0,0:04:18.09,0:04:21.67,Default,,0000,0000,0000,,{\blur3}把物质从彗星里蒸发出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it tends to make the material that's evaporating off of the comet{\r}
+Dialogue: 0,0:04:21.70,0:04:23.87,Default,,0000,0000,0000,,{\blur3}朝太阳方向伸展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}appear to recede away from the Sun.{\r}
+Dialogue: 0,0:04:25.48,0:04:28.00,Default,,0000,0000,0000,,{\blur3}在地球上的某些地方会观察到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As seen from certain spots on the Earth,{\r}
+Dialogue: 0,0:04:28.10,0:04:30.80,Default,,0000,0000,0000,,{\blur3}尘埃尾巴有时会弯成弧形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the dust tail can sometimes curve around{\r}
+Dialogue: 0,0:04:30.86,0:04:34.14,Default,,0000,0000,0000,,{\blur3}因此它似乎是反向的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that it appears to point in the opposite direction.{\r}
+Dialogue: 0,0:04:36.19,0:04:38.55,Default,,0000,0000,0000,,{\blur3}所以 地球上的观察者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So observers on Earth{\r}
+Dialogue: 0,0:04:39.38,0:04:40.94,Default,,0000,0000,0000,,{\blur3}会见到一个物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would see an object{\r}
+Dialogue: 0,0:04:40.96,0:04:44.52,Default,,0000,0000,0000,,{\blur3}它看起来好象是头戴饰物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in which it looked like there was a head with a headdress{\r}
+Dialogue: 0,0:04:44.97,0:04:47.22,Default,,0000,0000,0000,,{\blur3}或者是头上有角{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or a horn coming out of its head.{\r}
+Dialogue: 0,0:04:47.94,0:04:51.15,Default,,0000,0000,0000,,{\blur3}在北美和南美的神话中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In North American mythology, South American mythology,{\r}
+Dialogue: 0,0:04:51.23,0:04:53.89,Default,,0000,0000,0000,,{\blur3}它是一条头上长角的蛇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's a serpent with a horn on it's head.{\r}
+Dialogue: 0,0:04:54.16,0:04:57.85,Default,,0000,0000,0000,,{\blur3}在印度 它是一条头上有巨角的鱼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In Hindu, it's a fish with a giant horn on it's head.{\r}
+Dialogue: 0,0:05:00.38,0:05:02.96,Default,,0000,0000,0000,,{\blur3}在大多数神话中 随之而来的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In most myths, the creature's arrival{\r}
+Dialogue: 0,0:05:03.28,0:05:05.84,Default,,0000,0000,0000,,{\blur3}一场几乎彻底毁灭世界的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was followed by a watery disaster{\r}
+Dialogue: 0,0:05:06.17,0:05:08.13,Default,,0000,0000,0000,,{\blur3}洪水灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that almost destroyed the world.{\r}
+Dialogue: 0,0:05:10.03,0:05:13.18,Default,,0000,0000,0000,,{\blur3}仔细审视这个神话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you look at other aspects of this mythology,{\r}
+Dialogue: 0,0:05:13.45,0:05:17.37,Default,,0000,0000,0000,,{\blur3}你会发现 它讲述的是黑暗 飓风级的强风{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's talking about, then, darkness, hurricane-force winds.{\r}
+Dialogue: 0,0:05:17.40,0:05:19.56,Default,,0000,0000,0000,,{\blur3}还有滂沱大雨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's talking about torrential rainfall.{\r}
+Dialogue: 0,0:05:19.67,0:05:20.99,Default,,0000,0000,0000,,{\blur3}以及海啸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Talking about tsunamis.{\r}
+Dialogue: 0,0:05:22.92,0:05:25.60,Default,,0000,0000,0000,,{\blur3}现在 如果把所有信息叠加在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, if you add all of that information together...{\r}
+Dialogue: 0,0:05:29.35,0:05:31.24,Default,,0000,0000,0000,,{\blur3}这就说明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are the properties that you would get{\r}
+Dialogue: 0,0:05:31.28,0:05:34.91,Default,,0000,0000,0000,,{\blur3}彗星曾深度撞击海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from a deep water ocean impact of a comet.{\r}
+Dialogue: 0,0:05:42.06,0:05:44.25,Default,,0000,0000,0000,,{\blur3}如果一颗彗星曾撞击海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If a comet were to strike in the open ocean,{\r}
+Dialogue: 0,0:05:44.67,0:05:47.46,Default,,0000,0000,0000,,{\blur3}巨大的能量会转移到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would really get a massive amount of energy{\r}
+Dialogue: 0,0:05:47.47,0:05:50.06,Default,,0000,0000,0000,,{\blur3}撞击地点的海水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}delivered into that part of the ocean that it hit.{\r}
+Dialogue: 0,0:05:52.61,0:05:53.72,Default,,0000,0000,0000,,{\blur3}巨量的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The amount of water{\r}
+Dialogue: 0,0:05:53.72,0:05:56.86,Default,,0000,0000,0000,,{\blur3}会注入到大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}injected into the atmosphere would be colossal.{\r}
+Dialogue: 0,0:06:03.48,0:06:06.18,Default,,0000,0000,0000,,{\blur3}在铁匠铺的锻造车间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're here visiting a forge in a blacksmith shop{\r}
+Dialogue: 0,0:06:06.45,0:06:08.75,Default,,0000,0000,0000,,{\blur3}我们将演示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to show what would happen when a comet comes in{\r}
+Dialogue: 0,0:06:08.77,0:06:11.52,Default,,0000,0000,0000,,{\blur3}彗星以高速撞击海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at high speeds and impacts the ocean,{\r}
+Dialogue: 0,0:06:11.77,0:06:14.38,Default,,0000,0000,0000,,{\blur3}传递全部动能到水里的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}delivering all that kinetic energy into the water.{\r}
+Dialogue: 0,0:06:16.21,0:06:19.09,Default,,0000,0000,0000,,{\blur3}锻造车间通常{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A typical forge can heat carbon steel{\r}
+Dialogue: 0,0:06:19.10,0:06:23.00,Default,,0000,0000,0000,,{\blur3}把碳钢加热到大约华氏2 200度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to approximately 2,200 degrees Fahrenheit.{\r}
+Dialogue: 0,0:06:23.53,0:06:25.88,Default,,0000,0000,0000,,{\blur3}但彗星超高速袭击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But a hypervelocity comet strike{\r}
+Dialogue: 0,0:06:26.06,0:06:30.32,Default,,0000,0000,0000,,{\blur3}所产生的是10 000度以上的冲击温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will produce shock temperatures well over 10,000 degrees,{\r}
+Dialogue: 0,0:06:30.70,0:06:32.93,Default,,0000,0000,0000,,{\blur3}比太阳表面更热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hotter than the surface of the Sun.{\r}
+Dialogue: 0,0:06:34.49,0:06:36.26,Default,,0000,0000,0000,,{\blur3}太空来的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A comet coming in from outer space{\r}
+Dialogue: 0,0:06:36.29,0:06:39.40,Default,,0000,0000,0000,,{\blur3}会携带着巨大的动能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be carrying with it an immense amount of kinetic energy{\r}
+Dialogue: 0,0:06:39.41,0:06:41.89,Default,,0000,0000,0000,,{\blur3}因为它是以极端速度移动的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it's moving at such an extreme velocity.{\r}
+Dialogue: 0,0:06:44.53,0:06:46.17,Default,,0000,0000,0000,,{\blur3}当它撞击海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When that impacts the ocean,{\r}
+Dialogue: 0,0:06:47.14,0:06:49.61,Default,,0000,0000,0000,,{\blur3}能量使水蒸发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that energy is capable of vaporizing{\r}
+Dialogue: 0,0:06:49.61,0:06:52.53,Default,,0000,0000,0000,,{\blur3}涉及面积达数百平方公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}up to hundreds of square kilometers of water,{\r}
+Dialogue: 0,0:06:52.88,0:06:56.06,Default,,0000,0000,0000,,{\blur3}因而大量水蒸汽进入到外层大气中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sending plumes of steam up into the outer atmosphere.{\r}
+Dialogue: 0,0:07:00.50,0:07:03.91,Default,,0000,0000,0000,,{\blur3}高空大气通常只有大约0.5%的水汽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Normally, in the upper atmosphere, there's only about a half a percent of water vapor.{\r}
+Dialogue: 0,0:07:05.42,0:07:09.29,Default,,0000,0000,0000,,{\blur3}现在却注入了总量惊人的新水汽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you get this injection of this large amount of new water vapor.{\r}
+Dialogue: 0,0:07:10.59,0:07:14.81,Default,,0000,0000,0000,,{\blur3}随着被注入大气层的巨量的水倾泻下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the massive infusion of water into the atmosphere rains down,{\r}
+Dialogue: 0,0:07:16.79,0:07:20.40,Default,,0000,0000,0000,,{\blur3}地球就会下起长达数周或数月的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a global deluge could drown the Earth{\r}
+Dialogue: 0,0:07:20.77,0:07:22.77,Default,,0000,0000,0000,,{\blur3}全球性暴雨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for weeks or months.{\r}
+Dialogue: 0,0:07:28.13,0:07:29.98,Default,,0000,0000,0000,,{\blur3}布鲁斯.马赛认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bruce Masse believed he had found{\r}
+Dialogue: 0,0:07:29.99,0:07:33.21,Default,,0000,0000,0000,,{\blur3}自己发现了世界大洪水的可能原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a possible source of the worldwide flood myth...{\r}
+Dialogue: 0,0:07:35.09,0:07:37.31,Default,,0000,0000,0000,,{\blur3}超级彗星的侵袭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A massive comet strike.{\r}
+Dialogue: 0,0:07:43.52,0:07:45.86,Default,,0000,0000,0000,,{\blur3}但他缺少物理证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But he lacked the physical evidence.{\r}
+Dialogue: 0,0:07:50.08,0:07:53.38,Default,,0000,0000,0000,,{\blur3}哥伦比亚大学地质学家达拉丝.艾博特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Columbia University geologist Dallas Abbott{\r}
+Dialogue: 0,0:07:54.42,0:07:57.61,Default,,0000,0000,0000,,{\blur3}调查着可能的宇宙弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}investigates potential cosmic craters.{\r}
+Dialogue: 0,0:07:58.52,0:08:00.14,Default,,0000,0000,0000,,{\blur3}布鲁斯.马赛收集了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bruce Masse had compiled{\r}
+Dialogue: 0,0:08:00.17,0:08:03.80,Default,,0000,0000,0000,,{\blur3}一套口述资料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a set of oral histories of catastrophic events{\r}
+Dialogue: 0,0:08:03.88,0:08:06.18,Default,,0000,0000,0000,,{\blur3}听起来象是宇宙撞击引发的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that sounded like they were some sort of cosmic impact,{\r}
+Dialogue: 0,0:08:06.19,0:08:07.68,Default,,0000,0000,0000,,{\blur3}而且他发现它们的中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he found that the center of them{\r}
+Dialogue: 0,0:08:07.69,0:08:08.90,Default,,0000,0000,0000,,{\blur3}在印度洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was around the Indian Ocean.{\r}
+Dialogue: 0,0:08:11.27,0:08:13.15,Default,,0000,0000,0000,,{\blur3}通过实际探测水深{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Using bathymetry readings,{\r}
+Dialogue: 0,0:08:13.21,0:08:17.20,Default,,0000,0000,0000,,{\blur3}以及用卫星对洋底深度的变化进行测量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or satellite measurements of depth variations in the ocean floor,{\r}
+Dialogue: 0,0:08:18.03,0:08:21.45,Default,,0000,0000,0000,,{\blur3}艾博特精确定位了可能的撞击区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Abbott was able to pinpoint a potential impact zone.{\r}
+Dialogue: 0,0:08:22.91,0:08:24.91,Default,,0000,0000,0000,,{\blur3}她把它命名为"伯克尔弹坑"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She named it Burkle crater,{\r}
+Dialogue: 0,0:08:25.01,0:08:27.89,Default,,0000,0000,0000,,{\blur3}以此向同校的一位同事致敬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in honor of a colleague at Columbia University.{\r}
+Dialogue: 0,0:08:29.45,0:08:31.60,Default,,0000,0000,0000,,{\blur3}巨大的伯克尔弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Burkle is a massive depression{\r}
+Dialogue: 0,0:08:31.61,0:08:33.59,Default,,0000,0000,0000,,{\blur3}位于离马达加斯加海岸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}located nearly 1,000 miles{\r}
+Dialogue: 0,0:08:33.62,0:08:35.80,Default,,0000,0000,0000,,{\blur3}大约1 000英里的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}off the coast of Madagascar...{\r}
+Dialogue: 0,0:08:37.91,0:08:40.39,Default,,0000,0000,0000,,{\blur3}它的直径约为18英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 18 miles in diameter,{\r}
+Dialogue: 0,0:08:40.66,0:08:45.18,Default,,0000,0000,0000,,{\blur3}深约13 000英尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Burkle Crater lies at a depth of approximately 13,000 feet,{\r}
+Dialogue: 0,0:08:46.07,0:08:50.55,Default,,0000,0000,0000,,{\blur3}难于开展大规模的研究 而且费用会很昂贵{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}making an extensive study difficult and expensive.{\r}
+Dialogue: 0,0:08:51.32,0:08:53.04,Default,,0000,0000,0000,,{\blur3}这样巨大的弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But a crater this big{\r}
+Dialogue: 0,0:08:53.07,0:08:57.07,Default,,0000,0000,0000,,{\blur3}必然会产生超级彗星撞击的另一个影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would produce another logical fingerprint of a massive comet impact:{\r}
+Dialogue: 0,0:08:58.19,0:09:00.03,Default,,0000,0000,0000,,{\blur3}超级海啸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a mega-tsunami.{\r}
+Dialogue: 0,0:09:03.34,0:09:06.43,Default,,0000,0000,0000,,{\blur3}彗星撞击海洋比撞击结实的地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A comet hitting the ocean would actually be more damaging{\r}
+Dialogue: 0,0:09:06.45,0:09:08.54,Default,,0000,0000,0000,,{\blur3}所产生的危害更大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than a comet hitting solid ground.{\r}
+Dialogue: 0,0:09:08.70,0:09:11.58,Default,,0000,0000,0000,,{\blur3}因为它会掀起排山倒海的海啸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's because it would send up a gigantic tsunami{\r}
+Dialogue: 0,0:09:12.10,0:09:15.49,Default,,0000,0000,0000,,{\blur3}猛烈撞击海岸周围的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would slam into the coast all around it.{\r}
+Dialogue: 0,0:09:18.05,0:09:21.14,Default,,0000,0000,0000,,{\blur3}当超级海啸攻击海岸线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When massive tsunamis strike shorelines,{\r}
+Dialogue: 0,0:09:21.84,0:09:24.73,Default,,0000,0000,0000,,{\blur3}其迹象会保留数个世纪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the evidence can persist for centuries.{\r}
+Dialogue: 0,0:09:29.37,0:09:33.45,Default,,0000,0000,0000,,{\blur3}艾博特把注意力转移到马达加斯加的海岸线上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Abbott turned her attention to the shoreline of Madagascar.{\r}
+Dialogue: 0,0:09:35.12,0:09:38.33,Default,,0000,0000,0000,,{\blur3}在那段时间 我在马达加斯加一无所获{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the time, I couldn't get data on Madagascar.{\r}
+Dialogue: 0,0:09:39.03,0:09:40.92,Default,,0000,0000,0000,,{\blur3}但随着谷歌地球的面世{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the minute Google Earth came out,{\r}
+Dialogue: 0,0:09:40.93,0:09:43.12,Default,,0000,0000,0000,,{\blur3}我立即前往马达加斯加考察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I went and I looked at Madagascar.{\r}
+Dialogue: 0,0:09:43.24,0:09:46.72,Default,,0000,0000,0000,,{\blur3}那里的海啸印记相当明显{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the tsunami deposits there were phenomenal.{\r}
+Dialogue: 0,0:09:48.08,0:09:49.96,Default,,0000,0000,0000,,{\blur3}我很直接地发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I immediately found these huge chevrons,{\r}
+Dialogue: 0,0:09:49.97,0:09:53.45,Default,,0000,0000,0000,,{\blur3}这些或许是世上最大的波浪印记{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which I think are probably the biggest chevrons on the planet.{\r}
+Dialogue: 0,0:09:55.27,0:09:57.67,Default,,0000,0000,0000,,{\blur3}波浪印记是对称的沙丘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Chevrons are symmetrical sand dunes{\r}
+Dialogue: 0,0:09:57.68,0:10:00.68,Default,,0000,0000,0000,,{\blur3}分布在世界各地的海岸线上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}found along coastlines around the world.{\r}
+Dialogue: 0,0:10:01.44,0:10:04.13,Default,,0000,0000,0000,,{\blur3}有人认为它们是在巨大的波浪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some believe they form when massive waves{\r}
+Dialogue: 0,0:10:04.14,0:10:07.07,Default,,0000,0000,0000,,{\blur3}猛烈撞击海岸 然后退去时形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}slam into the coast and then recede.{\r}
+Dialogue: 0,0:10:08.00,0:10:09.47,Default,,0000,0000,0000,,{\blur3}其独特的V字形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Their distinctive V shape{\r}
+Dialogue: 0,0:10:09.48,0:10:12.32,Default,,0000,0000,0000,,{\blur3}指明了波浪的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may even serve as a directional marker.{\r}
+Dialogue: 0,0:10:13.34,0:10:14.67,Default,,0000,0000,0000,,{\blur3}后向角是一个V字{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The back azimuth is a V.{\r}
+Dialogue: 0,0:10:14.68,0:10:17.00,Default,,0000,0000,0000,,{\blur3}这里是内陆 V字指向内陆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this is inland. V points inland.{\r}
+Dialogue: 0,0:10:17.32,0:10:19.19,Default,,0000,0000,0000,,{\blur3}V字的后向角{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The back azimuth of the V,{\r}
+Dialogue: 0,0:10:19.22,0:10:20.91,Default,,0000,0000,0000,,{\blur3}告诉你原因在哪里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that tells you where the source is.{\r}
+Dialogue: 0,0:10:22.52,0:10:25.69,Default,,0000,0000,0000,,{\blur3}艾博特声称原因就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Abbott claims that source is Burkle crater,{\r}
+Dialogue: 0,0:10:26.14,0:10:28.99,Default,,0000,0000,0000,,{\blur3}离海岸数百英里的伯克尔弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}located hundreds of miles offshore.{\r}
+Dialogue: 0,0:10:30.45,0:10:32.20,Default,,0000,0000,0000,,{\blur3}但其它人质疑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But others doubt that tsunamis{\r}
+Dialogue: 0,0:10:32.21,0:10:34.98,Default,,0000,0000,0000,,{\blur3}海啸与波浪印记的关系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have anything to do with chevron formation.{\r}
+Dialogue: 0,0:10:37.63,0:10:39.84,Default,,0000,0000,0000,,{\blur3}许多地质学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The geologists that actually go to the sites{\r}
+Dialogue: 0,0:10:39.84,0:10:42.17,Default,,0000,0000,0000,,{\blur3}前来实地调查 仔细地考察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and do fieldwork and have looked at these,{\r}
+Dialogue: 0,0:10:42.19,0:10:44.67,Default,,0000,0000,0000,,{\blur3}他们认为这些与海啸无关{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they don't associate those with tsunami.{\r}
+Dialogue: 0,0:10:44.89,0:10:47.70,Default,,0000,0000,0000,,{\blur3}只是与扬尘有关{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They associate those with windblown dust.{\r}
+Dialogue: 0,0:10:48.01,0:10:49.76,Default,,0000,0000,0000,,{\blur3}因此我怀疑这些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so I'm skeptical that these things{\r}
+Dialogue: 0,0:10:49.77,0:10:52.08,Default,,0000,0000,0000,,{\blur3}与海啸的波浪是否有关联{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have anything to do with tsunami waves.{\r}
+Dialogue: 0,0:10:57.56,0:11:00.68,Default,,0000,0000,0000,,{\blur3}但当达拉丝.艾博特来到马达加斯加{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when Dallas Abbott traveled to Madagascar,{\r}
+Dialogue: 0,0:11:00.86,0:11:05.18,Default,,0000,0000,0000,,{\blur3}她在沙丘内找到了惊人的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}she found surprising evidence trapped inside the dunes.{\r}
+Dialogue: 0,0:11:06.49,0:11:10.36,Default,,0000,0000,0000,,{\blur3}我们发现海啸沉淀超过200米高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We found tsunami deposits over 200 meters high.{\r}
+Dialogue: 0,0:11:10.82,0:11:13.04,Default,,0000,0000,0000,,{\blur3}在这个大土坡的顶上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when we got to the top of this big hill,{\r}
+Dialogue: 0,0:11:13.06,0:11:16.61,Default,,0000,0000,0000,,{\blur3}我们在沉积物中发现海产品的化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we found marine fossils in the sediment.{\r}
+Dialogue: 0,0:11:17.53,0:11:19.80,Default,,0000,0000,0000,,{\blur3}在所有我们寻找过的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we found it in all of the locations{\r}
+Dialogue: 0,0:11:19.91,0:11:21.23,Default,,0000,0000,0000,,{\blur3}都能发现它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where we looked.{\r}
+Dialogue: 0,0:11:21.99,0:11:24.46,Default,,0000,0000,0000,,{\blur3}飓风只能带来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hurricanes bring in marine microfossils.{\r}
+Dialogue: 0,0:11:24.67,0:11:26.05,Default,,0000,0000,0000,,{\blur3}在水面生活的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But they only bring the kind{\r}
+Dialogue: 0,0:11:26.06,0:11:28.67,Default,,0000,0000,0000,,{\blur3}海产品的微化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that live in the top of the water column,{\r}
+Dialogue: 0,0:11:29.17,0:11:31.26,Default,,0000,0000,0000,,{\blur3}但在海底生活的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whereas the kind of marine microfossils{\r}
+Dialogue: 0,0:11:31.27,0:11:32.90,Default,,0000,0000,0000,,{\blur3}海产品的微化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that live on the ocean bottom,{\r}
+Dialogue: 0,0:11:33.06,0:11:36.14,Default,,0000,0000,0000,,{\blur3}不会因飓风之类的原因而移动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they don't get transported by things like hurricanes.{\r}
+Dialogue: 0,0:11:36.56,0:11:39.82,Default,,0000,0000,0000,,{\blur3}马达加斯加的化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, the Madagascar fossils are dominated{\r}
+Dialogue: 0,0:11:39.94,0:11:41.75,Default,,0000,0000,0000,,{\blur3}由海底的海产品所形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by the ones that live on the bottom.{\r}
+Dialogue: 0,0:11:42.32,0:11:46.27,Default,,0000,0000,0000,,{\blur3}因此 它们毫无疑问地不是风刮来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so they absolutely can't be just windblown fossils.{\r}
+Dialogue: 0,0:11:51.02,0:11:52.96,Default,,0000,0000,0000,,{\blur3}对全新世小组的成员来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For members of the Holocene group,{\r}
+Dialogue: 0,0:11:53.42,0:11:56.15,Default,,0000,0000,0000,,{\blur3}波浪印记和微化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the chevrons and the microfossil evidence{\r}
+Dialogue: 0,0:11:56.16,0:11:58.07,Default,,0000,0000,0000,,{\blur3}就是确凿的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the smoking gun.{\r}
+Dialogue: 0,0:11:59.23,0:12:01.04,Default,,0000,0000,0000,,{\blur3}把它们与世界各地的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When connected to the flood myths{\r}
+Dialogue: 0,0:12:01.05,0:12:03.58,Default,,0000,0000,0000,,{\blur3}大洪水古神话联系起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of ancient societies around the world,{\r}
+Dialogue: 0,0:12:04.39,0:12:07.34,Default,,0000,0000,0000,,{\blur3}呈现出来的是一幅扣人心弦的景象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they help paint a compelling picture.{\r}
+Dialogue: 0,0:12:08.69,0:12:11.01,Default,,0000,0000,0000,,{\blur3}"洪水-彗星"假说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the flood-comet hypothesis{\r}
+Dialogue: 0,0:12:11.46,0:12:14.78,Default,,0000,0000,0000,,{\blur3}与许多天文学家固有的信念相抵触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}contradicts the firm beliefs of many astronomers.{\r}
+Dialogue: 0,0:12:18.51,0:12:22.65,Default,,0000,0000,0000,,{\blur3}宇宙撞击天文学家们 比如马克·博斯劳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cosmic impact astronomers like Mark Boslough{\r}
+Dialogue: 0,0:12:22.94,0:12:25.11,Default,,0000,0000,0000,,{\blur3}就认为灾难性的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}believe that catastrophic impacts{\r}
+Dialogue: 0,0:12:25.11,0:12:27.57,Default,,0000,0000,0000,,{\blur3}在过去的15 000年间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}during the last 15,000 years{\r}
+Dialogue: 0,0:12:28.00,0:12:30.21,Default,,0000,0000,0000,,{\blur3}根本没有发生过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}simply never happened.{\r}
+Dialogue: 0,0:12:31.02,0:12:33.93,Default,,0000,0000,0000,,{\blur3}声称在全新世期间 在人类历史上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Anybody who would claim that there have been{\r}
+Dialogue: 0,0:12:33.96,0:12:37.94,Default,,0000,0000,0000,,{\blur3}发生过大规模破坏环境的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}environmentally damaging impacts during the Holocene,{\r}
+Dialogue: 0,0:12:37.96,0:12:39.80,Default,,0000,0000,0000,,{\blur3}的那些人有强烈的责任{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}during the era of humans,{\r}
+Dialogue: 0,0:12:39.82,0:12:41.08,Default,,0000,0000,0000,,{\blur3}来进行举证{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has a very high burden of proof{\r}
+Dialogue: 0,0:12:41.09,0:12:42.95,Default,,0000,0000,0000,,{\blur3}因为这样的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the probability that such a thing{\r}
+Dialogue: 0,0:12:42.97,0:12:45.40,Default,,0000,0000,0000,,{\blur3}哪怕只发生一次 可能性也很小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even once would have happened is very small.{\r}
+Dialogue: 0,0:12:47.73,0:12:50.53,Default,,0000,0000,0000,,{\blur3}我的回答是 特别的主张{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The response has been that extraordinary claims{\r}
+Dialogue: 0,0:12:50.55,0:12:52.44,Default,,0000,0000,0000,,{\blur3}需要有特别的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}require extraordinary evidence,{\r}
+Dialogue: 0,0:12:52.95,0:12:56.72,Default,,0000,0000,0000,,{\blur3}没有人会相信那是一个撞击坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because nobody believes that an impact crater is confirmed{\r}
+Dialogue: 0,0:12:56.84,0:12:58.64,Default,,0000,0000,0000,,{\blur3}除非你在那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until you actually go to the crater{\r}
+Dialogue: 0,0:12:58.65,0:13:01.68,Default,,0000,0000,0000,,{\blur3}能找到撞击熔体的样本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you've got samples of the impact melt body.{\r}
+Dialogue: 0,0:13:02.28,0:13:04.23,Default,,0000,0000,0000,,{\blur3}我们现在还没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We still, at the moment,{\r}
+Dialogue: 0,0:13:04.57,0:13:07.13,Default,,0000,0000,0000,,{\blur3}获得证明伯克尔弹坑的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}don't have the evidence to prove Burkle Crater.{\r}
+Dialogue: 0,0:13:08.32,0:13:09.48,Default,,0000,0000,0000,,{\blur3}与此同时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the meantime,{\r}
+Dialogue: 0,0:13:09.63,0:13:11.62,Default,,0000,0000,0000,,{\blur3}全新世撞击工作组认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Holocene Impact Working Group{\r}
+Dialogue: 0,0:13:11.64,0:13:15.60,Default,,0000,0000,0000,,{\blur3}它已经找到了年代更近的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}believes it has found evidence of a far more recent impact.{\r}
+Dialogue: 0,0:13:16.71,0:13:18.24,Default,,0000,0000,0000,,{\blur3}这个证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The evidence, they say,{\r}
+Dialogue: 0,0:13:18.25,0:13:21.12,Default,,0000,0000,0000,,{\blur3}就埋在格陵兰岛的雪层下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lies buried in the ice sheets of Greenland.{\r}
+Dialogue: 0,0:13:21.92,0:13:24.94,Default,,0000,0000,0000,,{\blur3}这个证据表明 是一颗彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, they say it points to a comet{\r}
+Dialogue: 0,0:13:25.34,0:13:28.54,Default,,0000,0000,0000,,{\blur3}把欧洲推进了野蛮黑暗的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that helped push Europe into the barbarism{\r}
+Dialogue: 0,0:13:28.56,0:13:30.43,Default,,0000,0000,0000,,{\blur3}中世纪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Dark Ages.{\r}
+Dialogue: 0,0:13:38.82,0:13:41.17,Default,,0000,0000,0000,,{\blur3}在改变地球历史的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the search for extraterrestrial impacts{\r}
+Dialogue: 0,0:13:41.19,0:13:42.91,Default,,0000,0000,0000,,{\blur3}外星撞击的探索上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have changed history,{\r}
+Dialogue: 0,0:13:44.61,0:13:47.06,Default,,0000,0000,0000,,{\blur3}雄辩代替不了事实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}certain facts are not in dispute.{\r}
+Dialogue: 0,0:13:49.42,0:13:52.82,Default,,0000,0000,0000,,{\blur3}在公元535年的某个时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sometime in the year 535 A.D.,{\r}
+Dialogue: 0,0:13:53.56,0:13:56.56,Default,,0000,0000,0000,,{\blur3}某些物体有如灰色的面纱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something descended like a gray veil{\r}
+Dialogue: 0,0:13:57.44,0:13:59.25,Default,,0000,0000,0000,,{\blur3}笼罩着整个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over planet Earth.{\r}
+Dialogue: 0,0:14:02.48,0:14:05.25,Default,,0000,0000,0000,,{\blur3}它让地球进入了近2 000年以来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It created the most severe cooling period{\r}
+Dialogue: 0,0:14:05.26,0:14:07.66,Default,,0000,0000,0000,,{\blur3}最寒冷的时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the last 2,000 years{\r}
+Dialogue: 0,0:14:10.02,0:14:14.71,Default,,0000,0000,0000,,{\blur3}使人类陷入了前所未有的危机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and plunged humanity into an unprecedented crisis.{\r}
+Dialogue: 0,0:14:16.73,0:14:18.22,Default,,0000,0000,0000,,{\blur3}在那期间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During that time period,{\r}
+Dialogue: 0,0:14:18.29,0:14:20.48,Default,,0000,0000,0000,,{\blur3}非常非常多的灰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a very, very large quantity of ash{\r}
+Dialogue: 0,0:14:20.73,0:14:23.02,Default,,0000,0000,0000,,{\blur3}严严实实地掩盖着地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}completely enshrouds the Earth.{\r}
+Dialogue: 0,0:14:23.11,0:14:26.52,Default,,0000,0000,0000,,{\blur3}它阻止了阳光的照射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It cuts sunlight off from crops that are growing on the ground.{\r}
+Dialogue: 0,0:14:26.61,0:14:29.40,Default,,0000,0000,0000,,{\blur3}耕地里的庄稼纷纷死去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It kills off crops that are under cultivation.{\r}
+Dialogue: 0,0:14:29.68,0:14:32.89,Default,,0000,0000,0000,,{\blur3}它导致了饥荒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It leads to famine because it interrupts{\r}
+Dialogue: 0,0:14:32.92,0:14:35.32,Default,,0000,0000,0000,,{\blur3}当时人类社会的粮食生产{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the ability to produce food for the civilizations{\r}
+Dialogue: 0,0:14:35.33,0:14:37.08,Default,,0000,0000,0000,,{\blur3}无法得到保障{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that were present on the planet at the time.{\r}
+Dialogue: 0,0:14:38.00,0:14:42.97,Default,,0000,0000,0000,,{\blur3}据历史记载 那是在公元536年初{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know from historical data that starting early in 536 A.D.,{\r}
+Dialogue: 0,0:14:43.57,0:14:45.29,Default,,0000,0000,0000,,{\blur3}太阳变得非常昏暗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Sun became very dim.{\r}
+Dialogue: 0,0:14:45.58,0:14:49.59,Default,,0000,0000,0000,,{\blur3}在美索不达米亚 太阳持续18个月昏暗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in Mesopotamia, the sun was dim for 18 months.{\r}
+Dialogue: 0,0:14:49.79,0:14:51.63,Default,,0000,0000,0000,,{\blur3}在那个时期里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they said that during that time period,{\r}
+Dialogue: 0,0:14:51.64,0:14:54.54,Default,,0000,0000,0000,,{\blur3}太阳每天只出现4个小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Sun came out for about four hours a day.{\r}
+Dialogue: 0,0:14:55.40,0:14:58.31,Default,,0000,0000,0000,,{\blur3}没有太阳的岁月 它的烙印{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The signature of this year without the Sun{\r}
+Dialogue: 0,0:14:59.14,0:15:01.46,Default,,0000,0000,0000,,{\blur3}在今天还可以看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}remains to the present day.{\r}
+Dialogue: 0,0:15:06.27,0:15:10.55,Default,,0000,0000,0000,,{\blur3}爱尔兰和加利福尼亚的树木年轮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Tree ring data from Ireland and California{\r}
+Dialogue: 0,0:15:11.02,0:15:15.47,Default,,0000,0000,0000,,{\blur3}清楚地显示着那段全球严寒时期的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}shows the unmistakable signs of dramatic global cooling.{\r}
+Dialogue: 0,0:15:17.35,0:15:19.66,Default,,0000,0000,0000,,{\blur3}树木年轮清楚表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The tree ring evidence clearly illustrates{\r}
+Dialogue: 0,0:15:19.67,0:15:21.95,Default,,0000,0000,0000,,{\blur3}在六世纪有一段时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there was a period in the sixth century{\r}
+Dialogue: 0,0:15:22.21,0:15:24.57,Default,,0000,0000,0000,,{\blur3}原本营养可让树木强壮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where nutrients that make a tree robust,{\r}
+Dialogue: 0,0:15:24.69,0:15:25.90,Default,,0000,0000,0000,,{\blur3}茁壮成长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that make it grow quickly,{\r}
+Dialogue: 0,0:15:25.93,0:15:29.41,Default,,0000,0000,0000,,{\blur3}但此时却逐渐变少到非常低的水平{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}those nutrients dwindled down to a very, very low level.{\r}
+Dialogue: 0,0:15:29.61,0:15:32.26,Default,,0000,0000,0000,,{\blur3}因此树轮极其紧密地靠在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so the tree rings are extremely close together.{\r}
+Dialogue: 0,0:15:36.14,0:15:37.82,Default,,0000,0000,0000,,{\blur3}公认的理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The accepted theory{\r}
+Dialogue: 0,0:15:38.34,0:15:41.20,Default,,0000,0000,0000,,{\blur3}把原因归咎于一次巨大的火山爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}blames a massive volcanic eruption{\r}
+Dialogue: 0,0:15:42.58,0:15:44.74,Default,,0000,0000,0000,,{\blur3}引发全球性的烟灰云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a global ash cloud.{\r}
+Dialogue: 0,0:15:49.41,0:15:51.61,Default,,0000,0000,0000,,{\blur3}但撞击研究者达拉丝.艾博特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But impact researcher Dallas Abbott{\r}
+Dialogue: 0,0:15:51.64,0:15:53.48,Default,,0000,0000,0000,,{\blur3}基于波浪印记{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has proposed another culprit,{\r}
+Dialogue: 0,0:15:54.75,0:15:57.43,Default,,0000,0000,0000,,{\blur3}V形沙丘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beginning with evidence based on chevrons,{\r}
+Dialogue: 0,0:15:58.03,0:15:59.95,Default,,0000,0000,0000,,{\blur3}这些超级海啸的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the V-shaped sand dunes{\r}
+Dialogue: 0,0:16:00.13,0:16:04.32,Default,,0000,0000,0000,,{\blur3}指出凶手另有其人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that some believe are evidence for a mega-tsunami.{\r}
+Dialogue: 0,0:16:06.54,0:16:08.38,Default,,0000,0000,0000,,{\blur3}有一组波浪印记{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One set of chevrons{\r}
+Dialogue: 0,0:16:08.99,0:16:12.55,Default,,0000,0000,0000,,{\blur3}位于澳大利亚的卡奔塔利亚湾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is located in Australia's Gulf of Carpentaria.{\r}
+Dialogue: 0,0:16:14.34,0:16:16.33,Default,,0000,0000,0000,,{\blur3}我查看了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I looked in satellite altimetry{\r}
+Dialogue: 0,0:16:16.47,0:16:18.18,Default,,0000,0000,0000,,{\blur3}该处的卫星图{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for something in that part of the gulf,{\r}
+Dialogue: 0,0:16:18.18,0:16:21.72,Default,,0000,0000,0000,,{\blur3}上面的波浪印记指向一个很小的区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the chevrons were pointing to a very, very small area.{\r}
+Dialogue: 0,0:16:22.34,0:16:27.74,Default,,0000,0000,0000,,{\blur3}我立即发现海底的这两个圆坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And immediately, I found these two round holes in the bottom of the gulf.{\r}
+Dialogue: 0,0:16:29.82,0:16:30.94,Default,,0000,0000,0000,,{\blur3}经过测量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The craters measured{\r}
+Dialogue: 0,0:16:30.96,0:16:34.63,Default,,0000,0000,0000,,{\blur3}弹坑的直径分别为7英里和11英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}7 and 11 miles in diameter, respectively.{\r}
+Dialogue: 0,0:16:36.43,0:16:38.71,Default,,0000,0000,0000,,{\blur3}对沉积物的详细研究表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A detailed study of sediments{\r}
+Dialogue: 0,0:16:39.09,0:16:42.06,Default,,0000,0000,0000,,{\blur3}其与外星侵袭有关{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pointed to an extraterrestrial invader.{\r}
+Dialogue: 0,0:16:46.62,0:16:48.26,Default,,0000,0000,0000,,{\blur3}这一个深海矿样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a deep sea core sample,{\r}
+Dialogue: 0,0:16:48.29,0:16:50.70,Default,,0000,0000,0000,,{\blur3}与卡奔塔利亚湾的相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like the ones we studied in the Gulf of Carpentaria.{\r}
+Dialogue: 0,0:16:50.83,0:16:53.67,Default,,0000,0000,0000,,{\blur3}在我们筛选卡奔塔利亚湾的样品时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when we sieved the Gulf of Carpentaria samples,{\r}
+Dialogue: 0,0:16:53.73,0:16:55.77,Default,,0000,0000,0000,,{\blur3}我们发现少量的岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we found little bits of rock,{\r}
+Dialogue: 0,0:16:56.09,0:16:57.89,Default,,0000,0000,0000,,{\blur3}少量的玻璃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we found little bits of glass,{\r}
+Dialogue: 0,0:16:58.02,0:17:00.38,Default,,0000,0000,0000,,{\blur3}以及一些惊人的矿物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we also found some shock minerals.{\r}
+Dialogue: 0,0:17:00.66,0:17:04.24,Default,,0000,0000,0000,,{\blur3}并伴有许多的撞击迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And together, these are indications of an impact.{\r}
+Dialogue: 0,0:17:06.05,0:17:09.82,Default,,0000,0000,0000,,{\blur3}它们说明了事件大约发生在1 500年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they suggested the event was about 1,500 years ago.{\r}
+Dialogue: 0,0:17:10.77,0:17:14.70,Default,,0000,0000,0000,,{\blur3}所以我认为事件是在公元536年发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And I knew about this climate event in 536 A.D.{\r}
+Dialogue: 0,0:17:16.95,0:17:18.60,Default,,0000,0000,0000,,{\blur3}我心想 "如果从冰芯里"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And I thought, "Well, it would be really nice{\r}
+Dialogue: 0,0:17:18.62,0:17:20.96,Default,,0000,0000,0000,,{\blur3}"能找到一些东西 那就太好了"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to look at an ice core to see if we can see something."{\r}
+Dialogue: 0,0:17:24.24,0:17:29.15,Default,,0000,0000,0000,,{\blur3}冰芯是冷藏地球气候数据的"档案柜"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An ice core is planet Earth's frozen filing cabinet of climate data,{\r}
+Dialogue: 0,0:17:29.92,0:17:33.77,Default,,0000,0000,0000,,{\blur3}蕴藏着数世纪的空气微粒和藻类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}trapping centuries' worth of airborne particles and algae.{\r}
+Dialogue: 0,0:17:36.45,0:17:38.56,Default,,0000,0000,0000,,{\blur3}在远离卡奔塔利亚湾的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We found samples from Greenland,{\r}
+Dialogue: 0,0:17:39.44,0:17:42.27,Default,,0000,0000,0000,,{\blur3}格陵兰岛上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is about as far away as you can get on the planet{\r}
+Dialogue: 0,0:17:42.28,0:17:44.90,Default,,0000,0000,0000,,{\blur3}我们收集了许多样本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from that site in the Gulf of Carpentaria.{\r}
+Dialogue: 0,0:17:46.48,0:17:49.55,Default,,0000,0000,0000,,{\blur3}冰芯提供了惊人的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ice cores yielded startling evidence,{\r}
+Dialogue: 0,0:17:50.56,0:17:55.51,Default,,0000,0000,0000,,{\blur3}包括和卡奔塔利亚湾一模一样的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including magnetized melted rock called spherules{\r}
+Dialogue: 0,0:17:55.91,0:17:59.26,Default,,0000,0000,0000,,{\blur3}磁性熔岩球体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that matched those retrieved in the Gulf of Carpentaria,{\r}
+Dialogue: 0,0:18:00.59,0:18:05.54,Default,,0000,0000,0000,,{\blur3}两种在高能撞击中形成的玻璃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}two types of glass that appear to have formed in a high-energy impact,{\r}
+Dialogue: 0,0:18:06.96,0:18:08.99,Default,,0000,0000,0000,,{\blur3}以及一种不应该出现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a misplaced diatom,{\r}
+Dialogue: 0,0:18:09.12,0:18:13.17,Default,,0000,0000,0000,,{\blur3}只存于热带地区的硅藻海微化石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a marine microfossil that exists only in the tropics.{\r}
+Dialogue: 0,0:18:15.23,0:18:18.70,Default,,0000,0000,0000,,{\blur3}生长在热带到亚热带的硅藻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So why should you be getting diatoms{\r}
+Dialogue: 0,0:18:18.89,0:18:22.32,Default,,0000,0000,0000,,{\blur3}为什么在格陵兰岛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that originated in the tropics to subtropics{\r}
+Dialogue: 0,0:18:22.42,0:18:24.05,Default,,0000,0000,0000,,{\blur3}各处都能发现？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all the way to Greenland?{\r}
+Dialogue: 0,0:18:24.44,0:18:27.47,Default,,0000,0000,0000,,{\blur3}没有人能够给出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nobody has ever found diatoms in Greenland{\r}
+Dialogue: 0,0:18:27.77,0:18:30.34,Default,,0000,0000,0000,,{\blur3}个中原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that came from the tropics to subtropics.{\r}
+Dialogue: 0,0:18:32.99,0:18:34.82,Default,,0000,0000,0000,,{\blur3}这些显微镜下的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The microscopic evidence{\r}
+Dialogue: 0,0:18:35.30,0:18:37.60,Default,,0000,0000,0000,,{\blur3}指向了外星的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pointed to a celestial impact.{\r}
+Dialogue: 0,0:18:43.42,0:18:45.96,Default,,0000,0000,0000,,{\blur3}情况就是 一场大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What happens is, you get a huge explosion,{\r}
+Dialogue: 0,0:18:46.33,0:18:48.82,Default,,0000,0000,0000,,{\blur3}把这些物质被抛进大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then this material goes up into the air{\r}
+Dialogue: 0,0:18:48.83,0:18:52.03,Default,,0000,0000,0000,,{\blur3}飘到数百甚至数千公里之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and travels for hundreds or even thousands of kilometers.{\r}
+Dialogue: 0,0:18:52.87,0:18:55.04,Default,,0000,0000,0000,,{\blur3}最后沉降下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then it as you know, settles out.{\r}
+Dialogue: 0,0:18:57.84,0:18:59.34,Default,,0000,0000,0000,,{\blur3}对宇宙撞击来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For a cosmic impactor{\r}
+Dialogue: 0,0:18:59.35,0:19:01.98,Default,,0000,0000,0000,,{\blur3}要产生相似于公元535年的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to create a global atmospheric effect{\r}
+Dialogue: 0,0:19:02.85,0:19:06.13,Default,,0000,0000,0000,,{\blur3}那一次全球性大气影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like the one suspected in 535 A.D.,{\r}
+Dialogue: 0,0:19:07.52,0:19:10.05,Default,,0000,0000,0000,,{\blur3}撞击物必须有足够的质量和速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it must have enough mass and velocity{\r}
+Dialogue: 0,0:19:10.28,0:19:12.89,Default,,0000,0000,0000,,{\blur3}才能产生巨大的爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to create an epic explosion.{\r}
+Dialogue: 0,0:19:14.45,0:19:17.25,Default,,0000,0000,0000,,{\blur3}高速和低速撞击 它们的区别在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The difference between a high-velocity and a low-velocity impact{\r}
+Dialogue: 0,0:19:17.28,0:19:20.49,Default,,0000,0000,0000,,{\blur3}低速撞击不产生爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is, a low velocity impact does not create an explosion.{\r}
+Dialogue: 0,0:19:20.67,0:19:22.45,Default,,0000,0000,0000,,{\blur3}它会产生一个弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can make a crater,{\r}
+Dialogue: 0,0:19:23.10,0:19:25.05,Default,,0000,0000,0000,,{\blur3}但不是爆裂弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's not an explosion crater.{\r}
+Dialogue: 0,0:19:29.82,0:19:31.57,Default,,0000,0000,0000,,{\blur3}我们现在要模拟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we're doing here is setting up{\r}
+Dialogue: 0,0:19:31.59,0:19:34.87,Default,,0000,0000,0000,,{\blur3}超高速撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to do a simulation of a hypervelocity impact{\r}
+Dialogue: 0,0:19:35.00,0:19:36.75,Default,,0000,0000,0000,,{\blur3}形成弹坑的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the formation of a crater.{\r}
+Dialogue: 0,0:19:36.87,0:19:39.87,Default,,0000,0000,0000,,{\blur3}我们用硝酸铵混合燃油{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we're using ammonium nitrate mixed with fuel oil,{\r}
+Dialogue: 0,0:19:39.95,0:19:41.42,Default,,0000,0000,0000,,{\blur3}当点燃它时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so when we set it off,{\r}
+Dialogue: 0,0:19:41.63,0:19:44.18,Default,,0000,0000,0000,,{\blur3}它会爆炸并产生一个大坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's gonna explode and make a huge crater.{\r}
+Dialogue: 0,0:19:52.14,0:19:56.13,Default,,0000,0000,0000,,{\blur3}巨大的爆炸使得大量碎屑纷纷扬扬地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a massive explosion that creates a big plume of debris{\r}
+Dialogue: 0,0:19:56.16,0:19:58.97,Default,,0000,0000,0000,,{\blur3}散落到了周围几英里的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that gets scattered for many, many miles around.{\r}
+Dialogue: 0,0:19:58.98,0:20:02.41,Default,,0000,0000,0000,,{\blur3}如果这是最极端的撞击 将是全球性的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And for the biggest impacts, it's a global phenomenon.{\r}
+Dialogue: 0,0:20:03.16,0:20:06.39,Default,,0000,0000,0000,,{\blur3}假如这个弹坑是撞击形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If this crater had been actually formed by an impact,{\r}
+Dialogue: 0,0:20:06.66,0:20:08.57,Default,,0000,0000,0000,,{\blur3}它会是爆裂性的弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would be an explosion crater,{\r}
+Dialogue: 0,0:20:08.63,0:20:10.49,Default,,0000,0000,0000,,{\blur3}因为来自天空的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the object coming from the sky{\r}
+Dialogue: 0,0:20:10.50,0:20:13.64,Default,,0000,0000,0000,,{\blur3}速度极快 动能极高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is going so fast with so much kinetic energy{\r}
+Dialogue: 0,0:20:13.77,0:20:15.75,Default,,0000,0000,0000,,{\blur3}它会穿入地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it penetrates below the surface{\r}
+Dialogue: 0,0:20:15.98,0:20:19.25,Default,,0000,0000,0000,,{\blur3}然后变热 汽化和爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and heats up, vaporizes, and explodes.{\r}
+Dialogue: 0,0:20:22.70,0:20:26.59,Default,,0000,0000,0000,,{\blur3}发生在澳大利亚浅水区的高速撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A high-velocity strike in the shallow waters off Australia{\r}
+Dialogue: 0,0:20:26.93,0:20:28.71,Default,,0000,0000,0000,,{\blur3}其爆炸威力之大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could have produced an explosion{\r}
+Dialogue: 0,0:20:28.81,0:20:32.55,Default,,0000,0000,0000,,{\blur3}足以将沉淀物和微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}large enough to launch sediments and particulates{\r}
+Dialogue: 0,0:20:32.56,0:20:34.27,Default,,0000,0000,0000,,{\blur3}抛入大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}high into the atmosphere.{\r}
+Dialogue: 0,0:20:36.17,0:20:39.21,Default,,0000,0000,0000,,{\blur3}抛起的高度非常高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can imagine that that'll get kicked up really high{\r}
+Dialogue: 0,0:20:39.24,0:20:41.54,Default,,0000,0000,0000,,{\blur3}大量的颗粒物质上升到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that you'll have a lot of particulate matter{\r}
+Dialogue: 0,0:20:41.56,0:20:42.90,Default,,0000,0000,0000,,{\blur3}高层大气里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}up in the high atmosphere,{\r}
+Dialogue: 0,0:20:42.90,0:20:44.86,Default,,0000,0000,0000,,{\blur3}可谓是遮天蔽日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where it can block out a lot of the sun.{\r}
+Dialogue: 0,0:20:47.45,0:20:50.88,Default,,0000,0000,0000,,{\blur3}公元535年的惨剧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The disastrous events of 535 A.D.{\r}
+Dialogue: 0,0:20:51.50,0:20:54.16,Default,,0000,0000,0000,,{\blur3}看起来象是撞击惹的祸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seem to fit the signature of an impact{\r}
+Dialogue: 0,0:20:54.46,0:20:56.75,Default,,0000,0000,0000,,{\blur3}造成太阳昏暗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}followed by a dimming of the sun.{\r}
+Dialogue: 0,0:20:58.71,0:21:00.22,Default,,0000,0000,0000,,{\blur3}但在论证{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But finding the proof{\r}
+Dialogue: 0,0:21:00.24,0:21:02.71,Default,,0000,0000,0000,,{\blur3}一切皆因宇宙撞击而起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it all started with a cosmic impact{\r}
+Dialogue: 0,0:21:02.74,0:21:04.34,Default,,0000,0000,0000,,{\blur3}这一观点的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is more difficult,{\r}
+Dialogue: 0,0:21:05.47,0:21:09.27,Default,,0000,0000,0000,,{\blur3}有一个问题成了主要的拦路虎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially when one glaring question remains.{\r}
+Dialogue: 0,0:21:10.06,0:21:12.22,Default,,0000,0000,0000,,{\blur3}巨大的太空岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What massive space rock{\r}
+Dialogue: 0,0:21:12.46,0:21:14.68,Default,,0000,0000,0000,,{\blur3}能产生并排在一起的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could produce two craters{\r}
+Dialogue: 0,0:21:14.70,0:21:16.47,Default,,0000,0000,0000,,{\blur3}两个弹坑吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}side by side?{\r}
+Dialogue: 0,0:21:20.50,0:21:24.25,Default,,0000,0000,0000,,{\blur3}他们被主流的天文学术界视为另类分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are considered heretics in the mainstream world of astronomy.{\r}
+Dialogue: 0,0:21:25.20,0:21:29.00,Default,,0000,0000,0000,,{\blur3}但全新世撞击工作组的科学家们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the scientists belonging to the Holocene Impact Working Group{\r}
+Dialogue: 0,0:21:29.37,0:21:30.88,Default,,0000,0000,0000,,{\blur3}仍在不屈不挠地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are determined to prove{\r}
+Dialogue: 0,0:21:30.90,0:21:34.00,Default,,0000,0000,0000,,{\blur3}去证明太空改变过人类历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that space has changed human history.{\r}
+Dialogue: 0,0:21:38.49,0:21:43.17,Default,,0000,0000,0000,,{\blur3}公元535年也许会发生这样的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One such event may have happened in the year 535 A.D.,{\r}
+Dialogue: 0,0:21:43.64,0:21:45.63,Default,,0000,0000,0000,,{\blur3}太阳骤然昏暗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when a sudden darkening of the sun{\r}
+Dialogue: 0,0:21:45.72,0:21:47.67,Default,,0000,0000,0000,,{\blur3}庄稼失收{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}caused crops to fail,{\r}
+Dialogue: 0,0:21:47.84,0:21:49.93,Default,,0000,0000,0000,,{\blur3}全球陷入饥荒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}leading to worldwide famine.{\r}
+Dialogue: 0,0:21:51.63,0:21:55.63,Default,,0000,0000,0000,,{\blur3}树轮数据证明了惨剧曾经上演{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientific tree ring data proves the catastrophe happened.{\r}
+Dialogue: 0,0:21:56.40,0:22:00.39,Default,,0000,0000,0000,,{\blur3}但科学家尚未找出幕后黑手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But science has yet to determine what actually caused it.{\r}
+Dialogue: 0,0:22:02.09,0:22:06.43,Default,,0000,0000,0000,,{\blur3}在2008年 宇宙撞击研究者达拉丝.艾博特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 2008, cosmic impact researcher Dallas Abbott{\r}
+Dialogue: 0,0:22:06.97,0:22:10.86,Default,,0000,0000,0000,,{\blur3}发现了澳大利亚卡奔塔利亚湾的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}discovered what appeared to be two huge craters{\r}
+Dialogue: 0,0:22:10.92,0:22:13.33,Default,,0000,0000,0000,,{\blur3}两个巨大弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in Australia 's Gulf of Carpentaria.{\r}
+Dialogue: 0,0:22:14.79,0:22:17.89,Default,,0000,0000,0000,,{\blur3}她认为这是彗星造成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She believes they were put there by a comet.{\r}
+Dialogue: 0,0:22:18.90,0:22:22.92,Default,,0000,0000,0000,,{\blur3}主流观点认为撞击非常罕见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, the mainstream idea is that impacts are very rare{\r}
+Dialogue: 0,0:22:23.08,0:22:27.25,Default,,0000,0000,0000,,{\blur3}而且大多数的撞击是小行星引发的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that most of the impacts that happen are asteroidal.{\r}
+Dialogue: 0,0:22:27.85,0:22:30.21,Default,,0000,0000,0000,,{\blur3}但我们收集的资料认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the data that we're finding suggest{\r}
+Dialogue: 0,0:22:30.22,0:22:32.01,Default,,0000,0000,0000,,{\blur3}这是彗星撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the impactors that hit were cometary{\r}
+Dialogue: 0,0:22:32.04,0:22:33.47,Default,,0000,0000,0000,,{\blur3}不是行星撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than asteroids.{\r}
+Dialogue: 0,0:22:36.22,0:22:40.18,Default,,0000,0000,0000,,{\blur3}由岩石 气体 尘埃和冰构成的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Composed of rock, gases, dust, and ice,{\r}
+Dialogue: 0,0:22:40.60,0:22:42.76,Default,,0000,0000,0000,,{\blur3}在突然遭遇到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comets are known to break apart{\r}
+Dialogue: 0,0:22:42.92,0:22:44.98,Default,,0000,0000,0000,,{\blur3}地球这样的大物体时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when they encounter the gravitational pull{\r}
+Dialogue: 0,0:22:44.98,0:22:47.58,Default,,0000,0000,0000,,{\blur3}会由于万有引力而支离破碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of large objects like planets.{\r}
+Dialogue: 0,0:22:49.51,0:22:53.63,Default,,0000,0000,0000,,{\blur3}1992年7月 哈勃太空望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In July of 1992, the Hubble Space Telescope{\r}
+Dialogue: 0,0:22:53.64,0:22:56.45,Default,,0000,0000,0000,,{\blur3}刚好拍摄到这样的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}recorded exactly this scenario.{\r}
+Dialogue: 0,0:22:59.35,0:23:03.00,Default,,0000,0000,0000,,{\blur3}苏梅克-列维九号彗星经过木星的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As comet Shoemaker-Levy 9 hurtled past Jupiter,{\r}
+Dialogue: 0,0:23:03.26,0:23:05.95,Default,,0000,0000,0000,,{\blur3}木星强大的万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the planet's immense gravitational pull{\r}
+Dialogue: 0,0:23:05.96,0:23:07.83,Default,,0000,0000,0000,,{\blur3}把彗星撕碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tore the comet apart.{\r}
+Dialogue: 0,0:23:10.32,0:23:11.82,Default,,0000,0000,0000,,{\blur3}苏梅克-列维九号彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comet Shoemaker-Levy 9{\r}
+Dialogue: 0,0:23:11.83,0:23:14.00,Default,,0000,0000,0000,,{\blur3}破裂成好几块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}broke up into several dozen fragments,{\r}
+Dialogue: 0,0:23:14.61,0:23:17.65,Default,,0000,0000,0000,,{\blur3}其爆炸威力相当于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the most massive of which created an explosion{\r}
+Dialogue: 0,0:23:17.67,0:23:22.03,Default,,0000,0000,0000,,{\blur3}6百万兆吨TNT炸药{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}equivalent to 6 million megatons of TNT.{\r}
+Dialogue: 0,0:23:22.58,0:23:25.29,Default,,0000,0000,0000,,{\blur3}而现在地球上威力最大的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, the biggest bomb ever made on Earth{\r}
+Dialogue: 0,0:23:25.44,0:23:27.58,Default,,0000,0000,0000,,{\blur3}苏联"沙皇"核弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the Tsar Bomba by the Soviet Union,{\r}
+Dialogue: 0,0:23:27.61,0:23:29.44,Default,,0000,0000,0000,,{\blur3}其当量才50兆吨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which was 50 megatons.{\r}
+Dialogue: 0,0:23:29.96,0:23:32.35,Default,,0000,0000,0000,,{\blur3}苏梅克-列维九号的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A single impact from Shoemaker-Levy 9{\r}
+Dialogue: 0,0:23:32.36,0:23:35.14,Default,,0000,0000,0000,,{\blur3}威力比"沙皇"大100 000多倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was 100,000 times more powerful.{\r}
+Dialogue: 0,0:23:39.13,0:23:41.78,Default,,0000,0000,0000,,{\blur3}一颗苏梅克-列维九号这样的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could a Shoemaker-Levy 9 type breakup{\r}
+Dialogue: 0,0:23:41.79,0:23:45.33,Default,,0000,0000,0000,,{\blur3}能在卡奔塔利亚湾产生孪生的弹坑吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have created the dual craters in the gulf of Carpentaria?{\r}
+Dialogue: 0,0:23:50.67,0:23:55.92,Default,,0000,0000,0000,,{\blur3}彗的双重撞击似有其事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The hypothesized dual impacts appear to fit the comet profile.{\r}
+Dialogue: 0,0:23:57.32,0:24:00.39,Default,,0000,0000,0000,,{\blur3}但主流的科学家不认可{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's not a fit with mainstream science.{\r}
+Dialogue: 0,0:24:03.83,0:24:06.14,Default,,0000,0000,0000,,{\blur3}彗星撞击相当罕见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A comet impact itself is very rare{\r}
+Dialogue: 0,0:24:06.15,0:24:08.98,Default,,0000,0000,0000,,{\blur3}每100万年到10亿年才发生一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}once every 100 million to billion years.{\r}
+Dialogue: 0,0:24:09.21,0:24:13.23,Default,,0000,0000,0000,,{\blur3}彗星群更为罕见 甚至可以说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A comet cluster would be much more rare, even, than that,{\r}
+Dialogue: 0,0:24:13.24,0:24:14.98,Default,,0000,0000,0000,,{\blur3}罕见得你不能期望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so rare that you wouldn't expect it to happen{\r}
+Dialogue: 0,0:24:14.99,0:24:16.45,Default,,0000,0000,0000,,{\blur3}在地球上会发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the age of the Earth.{\r}
+Dialogue: 0,0:24:18.91,0:24:20.90,Default,,0000,0000,0000,,{\blur3}在卡奔塔利亚湾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The search for positive verification{\r}
+Dialogue: 0,0:24:20.91,0:24:23.91,Default,,0000,0000,0000,,{\blur3}是否发生撞击的问题上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of an impact in the Gulf of Carpentaria{\r}
+Dialogue: 0,0:24:24.18,0:24:27.53,Default,,0000,0000,0000,,{\blur3}科学家一直争论不休{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}continues to generate scientific controversy.{\r}
+Dialogue: 0,0:24:31.86,0:24:35.46,Default,,0000,0000,0000,,{\blur3}但在撞击假说里 最具争议的问题却是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But no impact hypothesis is more controversial{\r}
+Dialogue: 0,0:24:35.99,0:24:39.64,Default,,0000,0000,0000,,{\blur3}到底是什么让著名的北美洲文明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the question of what wiped a famed North American culture{\r}
+Dialogue: 0,0:24:40.03,0:24:41.96,Default,,0000,0000,0000,,{\blur3}从地球上彻底消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the pages of history.{\r}
+Dialogue: 0,0:24:42.93,0:24:47.00,Default,,0000,0000,0000,,{\blur3}在欧洲殖民者据为已有的1000年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Millennia before European colonists claimed it as their own,{\r}
+Dialogue: 0,0:24:47.30,0:24:50.82,Default,,0000,0000,0000,,{\blur3}已经有移民居住在北美洲的克洛维斯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another group of immigrants dominated North America-{\r}
+Dialogue: 0,0:24:51.78,0:24:55.11,Default,,0000,0000,0000,,{\blur3}直到某些人或某些事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is, until someone or something{\r}
+Dialogue: 0,0:24:55.36,0:24:57.75,Default,,0000,0000,0000,,{\blur3}让他们永远消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}wiped out the Clovis people.{\r}
+Dialogue: 0,0:24:59.69,0:25:02.21,Default,,0000,0000,0000,,{\blur3}克洛维斯人是居住在北美洲的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Clovis were an ancient Paleo-Indian people{\r}
+Dialogue: 0,0:25:02.23,0:25:04.57,Default,,0000,0000,0000,,{\blur3}史前古印第安人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that lived in North America.{\r}
+Dialogue: 0,0:25:04.92,0:25:07.71,Default,,0000,0000,0000,,{\blur3}有人认为他们是第一批北美洲居民{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some people believe that they were the first people to live in North America{\r}
+Dialogue: 0,0:25:07.73,0:25:10.41,Default,,0000,0000,0000,,{\blur3}他们越过白令陆桥而来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that they came across the Bering Land Bridge{\r}
+Dialogue: 0,0:25:10.47,0:25:15.10,Default,,0000,0000,0000,,{\blur3}从美洲北部向南扩散{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and radiated down into the Americas from the north, moving south.{\r}
+Dialogue: 0,0:25:17.36,0:25:19.39,Default,,0000,0000,0000,,{\blur3}考古文物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Archaeological evidence,{\r}
+Dialogue: 0,0:25:19.42,0:25:21.87,Default,,0000,0000,0000,,{\blur3}其中包括他们著名的矛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including their famed spear points,{\r}
+Dialogue: 0,0:25:22.87,0:25:27.25,Default,,0000,0000,0000,,{\blur3}揭示出克洛维斯人在上个大冰河时期的兴盛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reveals the Clovis people thrived during the last great ice age{\r}
+Dialogue: 0,0:25:27.37,0:25:29.32,Default,,0000,0000,0000,,{\blur3}他们能够捕猎大型动物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by hunting the megafauna,{\r}
+Dialogue: 0,0:25:29.43,0:25:32.47,Default,,0000,0000,0000,,{\blur3}包括猛玛象和乳齿象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including huge mammoths and mastodons.{\r}
+Dialogue: 0,0:25:33.90,0:25:37.75,Default,,0000,0000,0000,,{\blur3}在某一刻 美洲的大型动物种群{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was a moment where the population of the megafauna{\r}
+Dialogue: 0,0:25:37.78,0:25:39.81,Default,,0000,0000,0000,,{\blur3}突然变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the Americas changed.{\r}
+Dialogue: 0,0:25:40.01,0:25:42.53,Default,,0000,0000,0000,,{\blur3}大型动物忽然间灭绝了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The megafauna suddenly began to disappear.{\r}
+Dialogue: 0,0:25:43.68,0:25:45.12,Default,,0000,0000,0000,,{\blur3}与此同时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as they went down,{\r}
+Dialogue: 0,0:25:45.15,0:25:47.00,Default,,0000,0000,0000,,{\blur3}克洛维斯人也消失了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they brought the Clovis down with them.{\r}
+Dialogue: 0,0:25:49.97,0:25:53.23,Default,,0000,0000,0000,,{\blur3}大约13 000年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Approximately 13,000 years ago,{\r}
+Dialogue: 0,0:25:54.00,0:25:55.44,Default,,0000,0000,0000,,{\blur3}发生了一些事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something happened.{\r}
+Dialogue: 0,0:25:55.64,0:25:57.92,Default,,0000,0000,0000,,{\blur3}这些事情改变了环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Something changed the environment.{\r}
+Dialogue: 0,0:25:58.08,0:26:01.38,Default,,0000,0000,0000,,{\blur3}而且改变得很迅速 也很彻底{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It changed it rapidly and profoundly.{\r}
+Dialogue: 0,0:26:01.76,0:26:03.00,Default,,0000,0000,0000,,{\blur3}整个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And all of a sudden,{\r}
+Dialogue: 0,0:26:03.01,0:26:07.48,Default,,0000,0000,0000,,{\blur3}突然间进入了小冰河时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the planet was thrown back into a little ice age.{\r}
+Dialogue: 0,0:26:07.66,0:26:11.53,Default,,0000,0000,0000,,{\blur3}此次气候变化 被称为"新仙女木事件"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A climatic event we call the Younger Dryas.{\r}
+Dialogue: 0,0:26:13.36,0:26:15.32,Default,,0000,0000,0000,,{\blur3}在冰川消融和气温回升{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After many thousands of years{\r}
+Dialogue: 0,0:26:15.33,0:26:18.34,Default,,0000,0000,0000,,{\blur3}持续数千年之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of retreating glaciers and warming temperatures,{\r}
+Dialogue: 0,0:26:19.04,0:26:22.47,Default,,0000,0000,0000,,{\blur3}新仙女木期逆转了变暖的趋势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Younger Dryas period reversed the warming trend{\r}
+Dialogue: 0,0:26:22.79,0:26:25.83,Default,,0000,0000,0000,,{\blur3}对人类和动物造成了极大的伤害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and wreaked havoc on man and beast.{\r}
+Dialogue: 0,0:26:28.33,0:26:30.28,Default,,0000,0000,0000,,{\blur3}科学家们激烈争论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But scientists argue fiercely{\r}
+Dialogue: 0,0:26:30.29,0:26:33.34,Default,,0000,0000,0000,,{\blur3}这次180度大转弯的个中原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over the reasons for this climactic U-turn,{\r}
+Dialogue: 0,0:26:34.08,0:26:36.25,Default,,0000,0000,0000,,{\blur3}争论得特别激烈的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially one hypothesis{\r}
+Dialogue: 0,0:26:36.27,0:26:39.64,Default,,0000,0000,0000,,{\blur3}把责任全部归咎于外太空的假说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that places the blame squarely on outer space.{\r}
+Dialogue: 0,0:26:42.82,0:26:44.01,Default,,0000,0000,0000,,{\blur3}克洛维斯猎人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Clovis hunters{\r}
+Dialogue: 0,0:26:44.02,0:26:46.58,Default,,0000,0000,0000,,{\blur3}已经适应了新的居住环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were having to adapt to new conditions.{\r}
+Dialogue: 0,0:26:47.76,0:26:51.81,Default,,0000,0000,0000,,{\blur3}彗星在劳伦泰冰原上空爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And one of those changes could have been a comet impact{\r}
+Dialogue: 0,0:26:51.81,0:26:53.66,Default,,0000,0000,0000,,{\blur3}改变了他们的命运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over the Laurentide ice sheet.{\r}
+Dialogue: 0,0:26:57.32,0:26:58.94,Default,,0000,0000,0000,,{\blur3}"克洛维斯-彗星"假说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Clovis comet{\r}
+Dialogue: 0,0:26:59.22,0:27:02.79,Default,,0000,0000,0000,,{\blur3}可能是全新世撞击工作组{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is perhaps the most controversial impact hypothesis{\r}
+Dialogue: 0,0:27:03.65,0:27:06.59,Default,,0000,0000,0000,,{\blur3}最具争议的假说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}championed by the Holocene Impact Working Group.{\r}
+Dialogue: 0,0:27:07.90,0:27:09.77,Default,,0000,0000,0000,,{\blur3}它声称彗星侵袭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It claims that a comet strike{\r}
+Dialogue: 0,0:27:09.80,0:27:11.86,Default,,0000,0000,0000,,{\blur3}北美洲冰原{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the North American ice sheet{\r}
+Dialogue: 0,0:27:12.04,0:27:15.69,Default,,0000,0000,0000,,{\blur3}使得巨量的内陆湖水涌入海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allowed large freshwater lakes to drain into the ocean,{\r}
+Dialogue: 0,0:27:16.40,0:27:18.32,Default,,0000,0000,0000,,{\blur3}使洋流变更{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}altering the ocean currents{\r}
+Dialogue: 0,0:27:18.67,0:27:21.90,Default,,0000,0000,0000,,{\blur3}并引发了寒冷的新仙女木期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and triggering the Younger Dryas cooling period.{\r}
+Dialogue: 0,0:27:26.86,0:27:28.22,Default,,0000,0000,0000,,{\blur3}肯.坦可斯里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ken Tankersley,{\r}
+Dialogue: 0,0:27:28.43,0:27:31.43,Default,,0000,0000,0000,,{\blur3}是辛辛那提大学的人类学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a University of Cincinnati anthropologist,{\r}
+Dialogue: 0,0:27:31.84,0:27:35.89,Default,,0000,0000,0000,,{\blur3}曾在俄亥俄州西北部发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}uncovered cosmic impact evidence in Sheriden Cave{\r}
+Dialogue: 0,0:27:36.14,0:27:37.97,Default,,0000,0000,0000,,{\blur3}谢里登洞穴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in northwest Ohio.{\r}
+Dialogue: 0,0:27:39.12,0:27:43.86,Default,,0000,0000,0000,,{\blur3}我们在这里发现了被称为黑团的层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The layer which we found here is known as the black mat.{\r}
+Dialogue: 0,0:27:43.98,0:27:46.70,Default,,0000,0000,0000,,{\blur3}该层含有丰富的碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a very carbon-rich layer,{\r}
+Dialogue: 0,0:27:46.93,0:27:50.97,Default,,0000,0000,0000,,{\blur3}那是剧烈燃烧形成的产物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which, in this case, is the result of intense burning.{\r}
+Dialogue: 0,0:27:51.05,0:27:55.03,Default,,0000,0000,0000,,{\blur3}它是由木炭和大约70种灰烬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's composed of wood charcoal and the burned remains{\r}
+Dialogue: 0,0:27:55.04,0:27:57.66,Default,,0000,0000,0000,,{\blur3}所组成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of approximately 70 species.{\r}
+Dialogue: 0,0:27:58.25,0:28:01.66,Default,,0000,0000,0000,,{\blur3}需要熊熊的大火 剧烈的燃烧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It takes an intense fire, an intense burning,{\r}
+Dialogue: 0,0:28:01.75,0:28:03.87,Default,,0000,0000,0000,,{\blur3}甚至爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}almost an explosion, if you will,{\r}
+Dialogue: 0,0:28:04.00,0:28:06.47,Default,,0000,0000,0000,,{\blur3}才能得到这种类型的碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to produce this type of carbon event.{\r}
+Dialogue: 0,0:28:07.57,0:28:10.65,Default,,0000,0000,0000,,{\blur3}在该层中 还包含有流星碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The layer also contained meteor fragments.{\r}
+Dialogue: 0,0:28:11.70,0:28:13.30,Default,,0000,0000,0000,,{\blur3}对超级彗星撞击来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But more importantly,{\r}
+Dialogue: 0,0:28:13.31,0:28:18.52,Default,,0000,0000,0000,,{\blur3}这似乎是不容质疑的有力证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seemingly indisputable evidence for a larger cosmic impact.{\r}
+Dialogue: 0,0:28:20.61,0:28:23.37,Default,,0000,0000,0000,,{\blur3}我们在其中找到了冲击钻石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have what's called impact diamonds.{\r}
+Dialogue: 0,0:28:24.25,0:28:26.87,Default,,0000,0000,0000,,{\blur3}冲击钻石 也叫坠落钻石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Impact diamonds, or shatter diamonds,{\r}
+Dialogue: 0,0:28:27.02,0:28:29.88,Default,,0000,0000,0000,,{\blur3}是某种爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}occur when some type of explosion{\r}
+Dialogue: 0,0:28:29.91,0:28:33.94,Default,,0000,0000,0000,,{\blur3}或者是突然的迅猛撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or sudden impact occurs with your surface,{\r}
+Dialogue: 0,0:28:34.43,0:28:39.29,Default,,0000,0000,0000,,{\blur3}压缩碳物质而产生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}compressing carbon material to create these impact diamonds.{\r}
+Dialogue: 0,0:28:40.18,0:28:41.96,Default,,0000,0000,0000,,{\blur3}因为尺寸微小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Also called nanodiamonds{\r}
+Dialogue: 0,0:28:41.97,0:28:44.33,Default,,0000,0000,0000,,{\blur3}它们还被称为纳米钻石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because of their miniscule size,{\r}
+Dialogue: 0,0:28:44.56,0:28:48.48,Default,,0000,0000,0000,,{\blur3}是公认的宇宙撞击的强力证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they are recognized as powerful evidence for cosmic impact.{\r}
+Dialogue: 0,0:28:49.80,0:28:53.09,Default,,0000,0000,0000,,{\blur3}但它们的发现引起了众多的疑问{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But their discovery raises many more questions.{\r}
+Dialogue: 0,0:28:54.90,0:28:57.01,Default,,0000,0000,0000,,{\blur3}在北美洲发现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The supposed presence of nanodiamonds{\r}
+Dialogue: 0,0:28:57.02,0:28:59.24,Default,,0000,0000,0000,,{\blur3}纳米钻石并不是新仙女木撞击的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in certain locations of North America isn't compelling evidence{\r}
+Dialogue: 0,0:29:00.90,0:29:03.58,Default,,0000,0000,0000,,{\blur3}能令人信服的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the Younger Dryas impact hypothesis,{\r}
+Dialogue: 0,0:29:03.61,0:29:06.26,Default,,0000,0000,0000,,{\blur3}因为在许多时候 确认不了这些就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because in some cases, it's not even clear{\r}
+Dialogue: 0,0:29:06.27,0:29:08.23,Default,,0000,0000,0000,,{\blur3}真正的纳米钻石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that those are genuine nanodiamonds.{\r}
+Dialogue: 0,0:29:08.34,0:29:10.70,Default,,0000,0000,0000,,{\blur3}它们可能是仿似纳米钻石的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They may be graphite or graphene compounds{\r}
+Dialogue: 0,0:29:10.70,0:29:13.11,Default,,0000,0000,0000,,{\blur3}石墨或石墨烯复合物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that kind of masquerade as nanodiamonds.{\r}
+Dialogue: 0,0:29:15.96,0:29:17.97,Default,,0000,0000,0000,,{\blur3}"克洛维斯-彗星"的主张{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The proposed Clovis comet{\r}
+Dialogue: 0,0:29:18.20,0:29:22.70,Default,,0000,0000,0000,,{\blur3}还似乎漏了一个物理上的大证据:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also appears to be missing one physically huge piece of evidence:{\r}
+Dialogue: 0,0:29:23.80,0:29:25.52,Default,,0000,0000,0000,,{\blur3}撞击弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an impact crater.{\r}
+Dialogue: 0,0:29:27.11,0:29:31.06,Default,,0000,0000,0000,,{\blur3}迄今为止 还没有能说明问题的弹坑被发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To date, no telltale crater has been found.{\r}
+Dialogue: 0,0:29:35.77,0:29:38.81,Default,,0000,0000,0000,,{\blur3}但太空岩石在撞击地球时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But space rocks don't have to impact the Earth{\r}
+Dialogue: 0,0:29:38.92,0:29:40.61,Default,,0000,0000,0000,,{\blur3}不一定会引发大灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to ignite a catastrophe.{\r}
+Dialogue: 0,0:29:42.34,0:29:46.39,Default,,0000,0000,0000,,{\blur3}因为这几乎无异于触发了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know because one very nearly touched off{\r}
+Dialogue: 0,0:29:46.44,0:29:48.76,Default,,0000,0000,0000,,{\blur3}一场核战争{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a thermonuclear war.{\r}
+Dialogue: 0,0:29:55.30,0:29:57.78,Default,,0000,0000,0000,,{\blur3}纵然遭到普遍的怀疑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the face of widespread skepticism,{\r}
+Dialogue: 0,0:29:58.69,0:30:01.81,Default,,0000,0000,0000,,{\blur3}撞击研究小组还是坚信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a small group of impact researchers claim{\r}
+Dialogue: 0,0:30:02.19,0:30:05.29,Default,,0000,0000,0000,,{\blur3}最近的宇宙大灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that very recent cosmic catastrophes{\r}
+Dialogue: 0,0:30:06.01,0:30:08.19,Default,,0000,0000,0000,,{\blur3}改变了人类历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have changed human history.{\r}
+Dialogue: 0,0:30:12.38,0:30:15.56,Default,,0000,0000,0000,,{\blur3}在13 000年前的北美洲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}13,000 years ago in North America,{\r}
+Dialogue: 0,0:30:15.76,0:30:18.95,Default,,0000,0000,0000,,{\blur3}某些事情突然把克洛维斯文化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something suddenly sent the Clovis culture{\r}
+Dialogue: 0,0:30:19.13,0:30:21.19,Default,,0000,0000,0000,,{\blur3}置于万劫不复的境地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into a tailspin.{\r}
+Dialogue: 0,0:30:22.04,0:30:25.34,Default,,0000,0000,0000,,{\blur3}一些科学家相信彗星是罪魁祸首{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some scientists believe that a comet was to blame.{\r}
+Dialogue: 0,0:30:27.80,0:30:31.88,Default,,0000,0000,0000,,{\blur3}但迄今为止 没有相应的撞击坑能得到确认{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But to date, no impact crater has been identified.{\r}
+Dialogue: 0,0:30:33.27,0:30:36.80,Default,,0000,0000,0000,,{\blur3}事实上 相当多的天外之物永远到达不了地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But some cosmic projectiles never reach the Earth.{\r}
+Dialogue: 0,0:30:37.78,0:30:40.72,Default,,0000,0000,0000,,{\blur3}因为它们会在堕落的过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yet they can still rain down destruction{\r}
+Dialogue: 0,0:30:41.60,0:30:43.98,Default,,0000,0000,0000,,{\blur3}发生空中爆炸而灰飞烟灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the form of an air burst.{\r}
+Dialogue: 0,0:30:45.22,0:30:49.08,Default,,0000,0000,0000,,{\blur3}空中爆炸是流星和彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An air burst is when a meteoroid or a comet{\r}
+Dialogue: 0,0:30:49.20,0:30:51.55,Default,,0000,0000,0000,,{\blur3}在抵达地球之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}explodes in the atmosphere{\r}
+Dialogue: 0,0:30:51.56,0:30:53.48,Default,,0000,0000,0000,,{\blur3}在大气层中爆炸的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before reaching the Earth's surface.{\r}
+Dialogue: 0,0:30:53.74,0:30:56.01,Default,,0000,0000,0000,,{\blur3}所以不会产生弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it doesn't produce a visible crater.{\r}
+Dialogue: 0,0:30:57.01,0:30:58.72,Default,,0000,0000,0000,,{\blur3}1908年的通古斯事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A truly excellent example of what is thought to have been an air burst{\r}
+Dialogue: 0,0:31:01.23,0:31:04.81,Default,,0000,0000,0000,,{\blur3}就是空中爆炸的经典例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the Tunguska event over Siberia in 1908.{\r}
+Dialogue: 0,0:31:05.58,0:31:08.98,Default,,0000,0000,0000,,{\blur3}它把2 000平方公里的森林夷为平地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It leveled 2,000 square kilometers of forest.{\r}
+Dialogue: 0,0:31:10.56,0:31:12.74,Default,,0000,0000,0000,,{\blur3}但是没有撞击坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's no impact crater.{\r}
+Dialogue: 0,0:31:15.31,0:31:19.28,Default,,0000,0000,0000,,{\blur3}当彗星或小行星撞击地球的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When a comet or an asteroid hits the Earth's atmosphere,{\r}
+Dialogue: 0,0:31:19.46,0:31:23.57,Default,,0000,0000,0000,,{\blur3}就会产生一种很近似于船浪的冲击波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it actually creates a wave very much like the wave in front of a boat.{\r}
+Dialogue: 0,0:31:23.59,0:31:25.81,Default,,0000,0000,0000,,{\blur3}它使空气震荡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that shockwave, the shocked air,{\r}
+Dialogue: 0,0:31:25.95,0:31:28.58,Default,,0000,0000,0000,,{\blur3}产生超高的温度并扩散{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gets to super-high temperatures, and it radiates.{\r}
+Dialogue: 0,0:31:28.60,0:31:31.09,Default,,0000,0000,0000,,{\blur3}空气散发出光和红外辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It radiates light and infrared radiation.{\r}
+Dialogue: 0,0:31:31.09,0:31:33.00,Default,,0000,0000,0000,,{\blur3}然后加热彗星或者行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then that heats up the comet or asteroid{\r}
+Dialogue: 0,0:31:33.01,0:31:34.73,Default,,0000,0000,0000,,{\blur3}使之汽化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and causes it to vaporize.{\r}
+Dialogue: 0,0:31:38.58,0:31:41.30,Default,,0000,0000,0000,,{\blur3}即使是小如通古斯事件中的流星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even a smaller Tunguska-sized meteor,{\r}
+Dialogue: 0,0:31:41.39,0:31:44.19,Default,,0000,0000,0000,,{\blur3}其直径只有大约200英尺或更大一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}around 200 or more feet in diameter,{\r}
+Dialogue: 0,0:31:44.33,0:31:47.87,Default,,0000,0000,0000,,{\blur3}但它空中爆炸的威力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can produce an air burst with 1,000 times more energy{\r}
+Dialogue: 0,0:31:47.88,0:31:51.21,Default,,0000,0000,0000,,{\blur3}比投在广岛的原子弹还大1 000倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the atomic bomb dropped on Hiroshima.{\r}
+Dialogue: 0,0:31:54.71,0:31:58.83,Default,,0000,0000,0000,,{\blur3}在通古斯撞击的13 000年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some 13,000 years before the Tunguska impact,{\r}
+Dialogue: 0,0:31:59.28,0:32:00.40,Default,,0000,0000,0000,,{\blur3}克洛维斯的彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Clovis comet{\r}
+Dialogue: 0,0:32:00.41,0:32:02.87,Default,,0000,0000,0000,,{\blur3}是会产生类似的空中爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could have delivered a similar air burst.{\r}
+Dialogue: 0,0:32:06.46,0:32:08.28,Default,,0000,0000,0000,,{\blur3}但漫长的岁月{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the North American landscape{\r}
+Dialogue: 0,0:32:08.30,0:32:11.73,Default,,0000,0000,0000,,{\blur3}会把北美大地上的所有痕迹全部抹掉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have long ago swallowed all traces.{\r}
+Dialogue: 0,0:32:14.06,0:32:16.58,Default,,0000,0000,0000,,{\blur3}无论那是彗星撞击地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whether it was a ground-impacting comet,{\r}
+Dialogue: 0,0:32:17.46,0:32:18.92,Default,,0000,0000,0000,,{\blur3}空中爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an air burst,{\r}
+Dialogue: 0,0:32:19.60,0:32:20.98,Default,,0000,0000,0000,,{\blur3}或者都不是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or neither one,{\r}
+Dialogue: 0,0:32:22.07,0:32:23.62,Default,,0000,0000,0000,,{\blur3}该气候事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this climatic event{\r}
+Dialogue: 0,0:32:23.63,0:32:26.17,Default,,0000,0000,0000,,{\blur3}以及它对克洛维斯文化的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and its effect on the Clovis culture{\r}
+Dialogue: 0,0:32:26.37,0:32:29.01,Default,,0000,0000,0000,,{\blur3}给后人留下了一个热议的话题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}remain a hotly debated topic.{\r}
+Dialogue: 0,0:32:30.16,0:32:32.66,Default,,0000,0000,0000,,{\blur3}但解开这个谜团非常重要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But solving the mystery is crucial,{\r}
+Dialogue: 0,0:32:33.02,0:32:35.69,Default,,0000,0000,0000,,{\blur3}因为在今天也会几乎没有预警地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since the same thing could happen today{\r}
+Dialogue: 0,0:32:36.31,0:32:37.99,Default,,0000,0000,0000,,{\blur3}发生同样的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with little warning.{\r}
+Dialogue: 0,0:32:43.42,0:32:46.29,Default,,0000,0000,0000,,{\blur3}现在 假设象通古斯事件一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, an impact like the Tunguska event,{\r}
+Dialogue: 0,0:32:46.44,0:32:48.38,Default,,0000,0000,0000,,{\blur3}在当今纽约的上空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a 10-megaton air burst,{\r}
+Dialogue: 0,0:32:48.38,0:32:51.32,Default,,0000,0000,0000,,{\blur3}10兆吨当量的空中爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}say at 5,000 meters over New York City,{\r}
+Dialogue: 0,0:32:51.35,0:32:53.44,Default,,0000,0000,0000,,{\blur3}在5 000米处的地方发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if that were to happen today,{\r}
+Dialogue: 0,0:32:53.59,0:32:57.26,Default,,0000,0000,0000,,{\blur3}就会导致将近2百万人死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would lead to the deaths of almost 2 million people,{\r}
+Dialogue: 0,0:32:57.42,0:32:59.84,Default,,0000,0000,0000,,{\blur3}另外有数百万人受伤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another several million people injured,{\r}
+Dialogue: 0,0:33:00.27,0:33:03.07,Default,,0000,0000,0000,,{\blur3}经济损失将高达数万亿元{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a couple of trillion dollars of damage.{\r}
+Dialogue: 0,0:33:03.34,0:33:06.18,Default,,0000,0000,0000,,{\blur3}所以 即使是小型的空中爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So even air bursts, small events,{\r}
+Dialogue: 0,0:33:06.30,0:33:08.52,Default,,0000,0000,0000,,{\blur3}也极具毁灭性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are something that are very destructive.{\r}
+Dialogue: 0,0:33:10.96,0:33:14.19,Default,,0000,0000,0000,,{\blur3}在2002年爆炸的一颗小流星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, they are so potentially destructive{\r}
+Dialogue: 0,0:33:14.42,0:33:18.14,Default,,0000,0000,0000,,{\blur3}就充分说明了它们潜在的毁灭性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that when a very small meteor exploded in 2002,{\r}
+Dialogue: 0,0:33:19.02,0:33:22.70,Default,,0000,0000,0000,,{\blur3}它会引发一场核战争{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it could have sparked a thermonuclear war.{\r}
+Dialogue: 0,0:33:24.94,0:33:27.02,Default,,0000,0000,0000,,{\blur3}在2002年6月 发生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In June of 2002,{\r}
+Dialogue: 0,0:33:27.44,0:33:31.48,Default,,0000,0000,0000,,{\blur3}一个可能会严重改变地球历史的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an event occurred that could have changed history on Earth in a major way.{\r}
+Dialogue: 0,0:33:32.81,0:33:34.42,Default,,0000,0000,0000,,{\blur3}一个相当小的流星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A rather small meteoroid,{\r}
+Dialogue: 0,0:33:34.42,0:33:36.26,Default,,0000,0000,0000,,{\blur3}直径可能只有数米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}maybe a couple of meters in diameter{\r}
+Dialogue: 0,0:33:36.26,0:33:38.09,Default,,0000,0000,0000,,{\blur3}撞进地球大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}smashed into Earth's atmosphere,{\r}
+Dialogue: 0,0:33:38.12,0:33:41.09,Default,,0000,0000,0000,,{\blur3}在那里发生空中爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating an air burst, an explosion up there.{\r}
+Dialogue: 0,0:33:42.21,0:33:44.55,Default,,0000,0000,0000,,{\blur3}在地中海东部上空的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this was an enormous explosion{\r}
+Dialogue: 0,0:33:44.63,0:33:47.95,Default,,0000,0000,0000,,{\blur3}这一次猛烈爆炸被卫星观察到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over the Eastern Mediterranean, and it was observed by satellite.{\r}
+Dialogue: 0,0:33:48.49,0:33:51.01,Default,,0000,0000,0000,,{\blur3}从上空观测到这一现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was unusual to be over,{\r}
+Dialogue: 0,0:33:51.02,0:33:53.11,Default,,0000,0000,0000,,{\blur3}相当罕见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you know, a relatively populated area.{\r}
+Dialogue: 0,0:33:55.09,0:33:56.89,Default,,0000,0000,0000,,{\blur3}空中爆炸发生时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the time of the air burst,{\r}
+Dialogue: 0,0:33:57.00,0:34:00.57,Default,,0000,0000,0000,,{\blur3}巴基斯坦和印度 这两个核武国家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pakistan and India, two nuclear-armed countries,{\r}
+Dialogue: 0,0:34:00.75,0:34:03.95,Default,,0000,0000,0000,,{\blur3}正因有争议的克什米尔地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were embroiled in a hostile military standoff{\r}
+Dialogue: 0,0:34:04.18,0:34:06.71,Default,,0000,0000,0000,,{\blur3}发生军事纠纷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over the disputed Kashmir region.{\r}
+Dialogue: 0,0:34:07.18,0:34:11.30,Default,,0000,0000,0000,,{\blur3}两国的核战争处于一触即发的状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The world held its breath as the two nuclear powers{\r}
+Dialogue: 0,0:34:11.31,0:34:14.25,Default,,0000,0000,0000,,{\blur3}让整个世界为之担心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}teetered on the hair-trigger brink of war.{\r}
+Dialogue: 0,0:34:15.78,0:34:19.27,Default,,0000,0000,0000,,{\blur3}发生在巴印两国上空的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So had this impact occurred just a few hours earlier,{\r}
+Dialogue: 0,0:34:19.63,0:34:21.31,Default,,0000,0000,0000,,{\blur3}这次撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was at about the right latitude{\r}
+Dialogue: 0,0:34:21.34,0:34:23.73,Default,,0000,0000,0000,,{\blur3}好在早了几个小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to have been over Pakistan or India.{\r}
+Dialogue: 0,0:34:24.09,0:34:26.56,Default,,0000,0000,0000,,{\blur3}它会误导两者之中的一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This could have been mistakenby either country{\r}
+Dialogue: 0,0:34:26.56,0:34:29.16,Default,,0000,0000,0000,,{\blur3}以为受到对方的攻击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as a launch against them.{\r}
+Dialogue: 0,0:34:29.95,0:34:32.48,Default,,0000,0000,0000,,{\blur3}然后他们可能会按下核按钮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they then might have pushed the nuclear button,{\r}
+Dialogue: 0,0:34:32.61,0:34:34.11,Default,,0000,0000,0000,,{\blur3}导致全面的战争{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}launching an all-out war.{\r}
+Dialogue: 0,0:34:34.21,0:34:37.50,Default,,0000,0000,0000,,{\blur3}撞击会导致误会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A mistake, basically, caused by an impact.{\r}
+Dialogue: 0,0:34:38.78,0:34:41.53,Default,,0000,0000,0000,,{\blur3}在地中海东部事件中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now known as the East Mediterranean Event,{\r}
+Dialogue: 0,0:34:41.82,0:34:44.54,Default,,0000,0000,0000,,{\blur3}科学界确信这次爆炸说明了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the blast convinced the scientific community{\r}
+Dialogue: 0,0:34:45.09,0:34:48.14,Default,,0000,0000,0000,,{\blur3}在核大战剑拔弩张的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that predicting cosmic intruders is critical{\r}
+Dialogue: 0,0:34:48.49,0:34:51.03,Default,,0000,0000,0000,,{\blur3}天外来客可能会挑起事端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when nuclear armageddon is at stake.{\r}
+Dialogue: 0,0:34:54.42,0:34:57.25,Default,,0000,0000,0000,,{\blur3}大多数撞击地球大气层的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The vast majority of objects that hit{\r}
+Dialogue: 0,0:34:57.28,0:34:59.41,Default,,0000,0000,0000,,{\blur3}会突如其来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth's atmosphere are unexpected.{\r}
+Dialogue: 0,0:35:01.32,0:35:02.66,Default,,0000,0000,0000,,{\blur3}大的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The big asteroids,{\r}
+Dialogue: 0,0:35:02.68,0:35:05.64,Default,,0000,0000,0000,,{\blur3}能够引起全球灾难的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the ones that could create a global catastrophe,{\r}
+Dialogue: 0,0:35:05.64,0:35:07.88,Default,,0000,0000,0000,,{\blur3}我们已经差不多全都发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've discovered almost all of those.{\r}
+Dialogue: 0,0:35:07.99,0:35:10.10,Default,,0000,0000,0000,,{\blur3}加以编号并跟踪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're catalogued. They're tracked.{\r}
+Dialogue: 0,0:35:10.42,0:35:12.66,Default,,0000,0000,0000,,{\blur3}因此 我们不必担心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so, we don't expect one of those{\r}
+Dialogue: 0,0:35:12.68,0:35:15.14,Default,,0000,0000,0000,,{\blur3}其中的哪一个会毫无征兆地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to come out from nowhere and hit the Earth{\r}
+Dialogue: 0,0:35:15.17,0:35:16.75,Default,,0000,0000,0000,,{\blur3}袭击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because we can see them.{\r}
+Dialogue: 0,0:35:17.63,0:35:20.77,Default,,0000,0000,0000,,{\blur3}但小的会让我们防不胜防{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the small ones that can catch us by surprise.{\r}
+Dialogue: 0,0:35:22.84,0:35:24.96,Default,,0000,0000,0000,,{\blur3}如果其中一颗太空巨石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But how much notice can we expect{\r}
+Dialogue: 0,0:35:25.00,0:35:27.27,Default,,0000,0000,0000,,{\blur3}向着地球奔来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if one of these massive space rocks{\r}
+Dialogue: 0,0:35:27.28,0:35:30.03,Default,,0000,0000,0000,,{\blur3}能得到多大的关注呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}moves onto a collision course with the Earth?{\r}
+Dialogue: 0,0:35:32.36,0:35:36.56,Default,,0000,0000,0000,,{\blur3}这是内布拉斯加州林肯的玛丽.H{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the question that Mary H. from Lincoln, Nebraska, wanted{\r}
+Dialogue: 0,0:35:37.68,0:35:39.59,Default,,0000,0000,0000,,{\blur3}想知道的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to ask The Universe.{\r}
+Dialogue: 0,0:35:40.36,0:35:42.13,Default,,0000,0000,0000,,{\blur3}玛丽 这问题很有意思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mary, that's an interesting question.{\r}
+Dialogue: 0,0:35:42.36,0:35:45.13,Default,,0000,0000,0000,,{\blur3}对将要到达的彗星和小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'd like to know about incoming comets and asteroids{\r}
+Dialogue: 0,0:35:45.14,0:35:48.45,Default,,0000,0000,0000,,{\blur3}我们要尽早知道 设法让它们转向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as far in advance as possible in order to deflect them.{\r}
+Dialogue: 0,0:35:48.75,0:35:50.64,Default,,0000,0000,0000,,{\blur3}目前 小行星可能会在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, asteroids might be found{\r}
+Dialogue: 0,0:35:50.64,0:35:53.64,Default,,0000,0000,0000,,{\blur3}撞击地球前的几十或几百年被发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tens or even hundreds of years before they hit earth,{\r}
+Dialogue: 0,0:35:53.72,0:35:56.02,Default,,0000,0000,0000,,{\blur3}能有时间让我们从容布置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allowing plenty of time to do something about them.{\r}
+Dialogue: 0,0:35:56.42,0:35:58.63,Default,,0000,0000,0000,,{\blur3}彗星的到来却没有什么预兆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comets might come in with very little warning,{\r}
+Dialogue: 0,0:35:58.74,0:36:01.74,Default,,0000,0000,0000,,{\blur3}我们至多有数月或一两年的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only a few months or a year or two at best.{\r}
+Dialogue: 0,0:36:03.15,0:36:05.36,Default,,0000,0000,0000,,{\blur3}我们可能来不及让它们转向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We might not be able to deflect them.{\r}
+Dialogue: 0,0:36:10.22,0:36:11.49,Default,,0000,0000,0000,,{\blur3}毫无疑问{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is no dispute{\r}
+Dialogue: 0,0:36:11.52,0:36:13.95,Default,,0000,0000,0000,,{\blur3}彗星和其它宇宙来客{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that comets and other cosmic projectiles{\r}
+Dialogue: 0,0:36:13.96,0:36:16.82,Default,,0000,0000,0000,,{\blur3}有可能会导致灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have the potential to cause catastrophes.{\r}
+Dialogue: 0,0:36:18.83,0:36:22.68,Default,,0000,0000,0000,,{\blur3}但在现代天文学开始揭开它们的神秘之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But before modern astronomy began to demystify them,{\r}
+Dialogue: 0,0:36:23.30,0:36:25.79,Default,,0000,0000,0000,,{\blur3}单从彗星或陨星来看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mere sighting of a comet or meteorite{\r}
+Dialogue: 0,0:36:25.85,0:36:29.08,Default,,0000,0000,0000,,{\blur3}它们是有可能改变过人类历史的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}had the potential to change human history.{\r}
+Dialogue: 0,0:36:32.68,0:36:35.32,Default,,0000,0000,0000,,{\blur3}公元312年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The year is 312 A.D.{\r}
+Dialogue: 0,0:36:36.15,0:36:40.20,Default,,0000,0000,0000,,{\blur3}辉煌的罗马帝国正处在痛苦的内战中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The mighty Roman empire is embroiled in a bitter civil war.{\r}
+Dialogue: 0,0:36:41.39,0:36:44.67,Default,,0000,0000,0000,,{\blur3}在战场上 康斯坦丁皇帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Marching into battle, the emperor Constantine{\r}
+Dialogue: 0,0:36:44.82,0:36:49.00,Default,,0000,0000,0000,,{\blur3}将与对手马克森提的军队相遇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is about to meet the armies of his archrival, Maxentius.{\r}
+Dialogue: 0,0:36:49.92,0:36:53.87,Default,,0000,0000,0000,,{\blur3}帝国的政治命运此时危如累卵{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The political fate of the empire is at stake.{\r}
+Dialogue: 0,0:36:56.26,0:36:59.28,Default,,0000,0000,0000,,{\blur3}康斯坦丁是赫赫有名的罗马皇帝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Constantine was a Roman emperor famous for a number of things,{\r}
+Dialogue: 0,0:36:59.42,0:37:02.79,Default,,0000,0000,0000,,{\blur3}并不想去皈依基督教{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not the least of which is his conversion to Christianity.{\r}
+Dialogue: 0,0:37:03.93,0:37:05.83,Default,,0000,0000,0000,,{\blur3}但他在第四世纪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Constantine's adoption of the Christian religion{\r}
+Dialogue: 0,0:37:05.85,0:37:08.24,Default,,0000,0000,0000,,{\blur3}对基督教实施的怀柔政策{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the fourth century is instrumental{\r}
+Dialogue: 0,0:37:08.47,0:37:11.68,Default,,0000,0000,0000,,{\blur3}让他的声望骤增{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the sudden popularity and the spread of that religion{\r}
+Dialogue: 0,0:37:11.81,0:37:14.79,Default,,0000,0000,0000,,{\blur3}也让罗马帝国忽然间转变成基督教国家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by suddenly converting the Roman empire to a Christian empire.{\r}
+Dialogue: 0,0:37:16.32,0:37:20.17,Default,,0000,0000,0000,,{\blur3}许多人认为康斯坦丁的重大转变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many believe Constantine's fateful conversion{\r}
+Dialogue: 0,0:37:20.58,0:37:24.39,Default,,0000,0000,0000,,{\blur3}发生在他看见血十字横过太阳的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}occurs when he sees a fiery cross above the Sun.{\r}
+Dialogue: 0,0:37:26.11,0:37:29.17,Default,,0000,0000,0000,,{\blur3}他认为这是基督教上帝的神迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Interpreting this as a sign from the Christian god,{\r}
+Dialogue: 0,0:37:29.96,0:37:33.65,Default,,0000,0000,0000,,{\blur3}于是命令军队在盔甲上画上十字{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he commands his troops to paint crosses on their shields.{\r}
+Dialogue: 0,0:37:36.00,0:37:39.40,Default,,0000,0000,0000,,{\blur3}康斯坦丁的军队获得了胜利{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Constantine's troops emerge victorious.{\r}
+Dialogue: 0,0:37:40.93,0:37:44.57,Default,,0000,0000,0000,,{\blur3}不久之后 他颁布《米兰敕令》{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Soon after, the emperor signs the Edict of Milan,{\r}
+Dialogue: 0,0:37:44.74,0:37:49.78,Default,,0000,0000,0000,,{\blur3}为基督教永远摆脱异教的形象 奠定了坚实基础{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}setting the stage for the ultimate triumph of Christianity over paganism.{\r}
+Dialogue: 0,0:37:55.32,0:37:58.15,Default,,0000,0000,0000,,{\blur3}但有些人认为康斯坦丁的所见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But some believe Constantine's vision{\r}
+Dialogue: 0,0:37:58.90,0:38:01.64,Default,,0000,0000,0000,,{\blur3}可以从天文学上去解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has an astronomical explanation.{\r}
+Dialogue: 0,0:38:03.28,0:38:05.69,Default,,0000,0000,0000,,{\blur3}现在看来 他所见到的景象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's believed now that what he personally observed{\r}
+Dialogue: 0,0:38:05.71,0:38:08.14,Default,,0000,0000,0000,,{\blur3}其实就是流星侵袭地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was a meteoric impact against the Earth.{\r}
+Dialogue: 0,0:38:08.16,0:38:11.22,Default,,0000,0000,0000,,{\blur3}他在大白天突然看到有一颗流星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That he's looking skyward in broad daylight,{\r}
+Dialogue: 0,0:38:11.24,0:38:15.83,Default,,0000,0000,0000,,{\blur3}正以70 000英里的时速侵袭地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and suddenly at 70,000 miles per hour, this meteor comes crashing to Earth.{\r}
+Dialogue: 0,0:38:16.39,0:38:18.87,Default,,0000,0000,0000,,{\blur3}他幻想着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His vision in seeing that is{\r}
+Dialogue: 0,0:38:18.89,0:38:22.17,Default,,0000,0000,0000,,{\blur3}这是神灵的兆示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he interprets it as being a divine signal.{\r}
+Dialogue: 0,0:38:27.36,0:38:29.37,Default,,0000,0000,0000,,{\blur3}有一个强有力的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is one powerful clue{\r}
+Dialogue: 0,0:38:29.40,0:38:32.44,Default,,0000,0000,0000,,{\blur3}能够帮助确认这次的宇宙事件:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could help validate this cosmic event:{\r}
+Dialogue: 0,0:38:33.46,0:38:34.87,Default,,0000,0000,0000,,{\blur3}弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a crater.{\r}
+Dialogue: 0,0:38:35.54,0:38:38.89,Default,,0000,0000,0000,,{\blur3}一个地质小组在意大利中部山区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And a team of geologists may have found it{\r}
+Dialogue: 0,0:38:39.35,0:38:41.75,Default,,0000,0000,0000,,{\blur3}发现了它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the hills of central Italy.{\r}
+Dialogue: 0,0:38:49.03,0:38:50.51,Default,,0000,0000,0000,,{\blur3}宇宙撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Have cosmic impacts{\r}
+Dialogue: 0,0:38:50.53,0:38:53.05,Default,,0000,0000,0000,,{\blur3}曾经扭转了人类历史的发展方向吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}altered the course of human history?{\r}
+Dialogue: 0,0:38:53.91,0:38:56.75,Default,,0000,0000,0000,,{\blur3}这个问题在全球的天文学界 甚至是宗教界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a question that provokes the world of astronomy{\r}
+Dialogue: 0,0:38:57.24,0:38:59.28,Default,,0000,0000,0000,,{\blur3}掀起了轩然大波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even the world of religion.{\r}
+Dialogue: 0,0:39:04.55,0:39:07.11,Default,,0000,0000,0000,,{\blur3}公元312年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the year 312 A.D.,{\r}
+Dialogue: 0,0:39:07.64,0:39:09.42,Default,,0000,0000,0000,,{\blur3}康斯坦丁的命运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the fate of Christianity{\r}
+Dialogue: 0,0:39:09.43,0:39:12.60,Default,,0000,0000,0000,,{\blur3}也许曾被宇宙事件所左右{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may have been decided by cosmic intervention.{\r}
+Dialogue: 0,0:39:15.54,0:39:17.78,Default,,0000,0000,0000,,{\blur3}在决战前夕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just before a decisive battle,{\r}
+Dialogue: 0,0:39:18.01,0:39:22.55,Default,,0000,0000,0000,,{\blur3}罗马皇帝康斯坦丁亲眼目睹了一次奇观{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Roman emperor Constantine experiences a vision.{\r}
+Dialogue: 0,0:39:23.83,0:39:26.51,Default,,0000,0000,0000,,{\blur3}他思索着天空里的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He remembers seeing something in the sky,{\r}
+Dialogue: 0,0:39:26.54,0:39:29.62,Default,,0000,0000,0000,,{\blur3}并把它解释为神灵给予的兆示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he interprets this as being a sign from god,{\r}
+Dialogue: 0,0:39:29.72,0:39:31.90,Default,,0000,0000,0000,,{\blur3}基督教上帝给予的兆示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a sign from the one true Christian god.{\r}
+Dialogue: 0,0:39:34.39,0:39:36.50,Default,,0000,0000,0000,,{\blur3}这次有重大意义的景象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some believe this fateful vision{\r}
+Dialogue: 0,0:39:36.53,0:39:38.05,Default,,0000,0000,0000,,{\blur3}有人认为是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was a fiery meteor{\r}
+Dialogue: 0,0:39:38.40,0:39:41.12,Default,,0000,0000,0000,,{\blur3}一颗冲向地球的火球般的流星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a collision course with the Earth.{\r}
+Dialogue: 0,0:39:42.14,0:39:45.23,Default,,0000,0000,0000,,{\blur3}你的所见 取决于你离得有多远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you would see, of course, would depend on how far away you are.{\r}
+Dialogue: 0,0:39:45.33,0:39:48.37,Default,,0000,0000,0000,,{\blur3}你会看到一颗非常明亮的流星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You would see an extremely bright meteor{\r}
+Dialogue: 0,0:39:48.39,0:39:50.78,Default,,0000,0000,0000,,{\blur3}在白天的天空中划过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}coming through the sky, and you'd see it even in the daytime.{\r}
+Dialogue: 0,0:39:50.80,0:39:54.26,Default,,0000,0000,0000,,{\blur3}炫目的它可能和太阳一样明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would be blinding, perhaps as bright as the Sun.{\r}
+Dialogue: 0,0:39:54.33,0:39:58.15,Default,,0000,0000,0000,,{\blur3}然后它会撞击地面 而你会看到一次大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then it would hit the ground, and you would see a big explosion.{\r}
+Dialogue: 0,0:40:05.18,0:40:07.79,Default,,0000,0000,0000,,{\blur3}按照一个瑞典地质小组的说法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to a Swedish geology team,{\r}
+Dialogue: 0,0:40:08.71,0:40:12.24,Default,,0000,0000,0000,,{\blur3}康斯坦丁见到流星很可能真有其事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Constantine's meteor might very well be real.{\r}
+Dialogue: 0,0:40:12.46,0:40:14.95,Default,,0000,0000,0000,,{\blur3}有一个弹坑作为证明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there's a crater to prove it.{\r}
+Dialogue: 0,0:40:15.28,0:40:20.29,Default,,0000,0000,0000,,{\blur3}在1999年 该小组在意大利中部的高原地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 1999, the team discovered a mysterious body of water{\r}
+Dialogue: 0,0:40:20.90,0:40:23.08,Default,,0000,0000,0000,,{\blur3}发现了一个神秘的水坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the highlands of central Italy.{\r}
+Dialogue: 0,0:40:25.82,0:40:30.09,Default,,0000,0000,0000,,{\blur3}他们声称这个小湖和周围的20个凹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They claim the small lake and some 20 nearby craters{\r}
+Dialogue: 0,0:40:30.33,0:40:34.30,Default,,0000,0000,0000,,{\blur3}是流星撞击的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the results of meteorite fragments.{\r}
+Dialogue: 0,0:40:36.47,0:40:39.13,Default,,0000,0000,0000,,{\blur3}但这个证据远不足以让人信服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the evidence is far from conclusive.{\r}
+Dialogue: 0,0:40:40.69,0:40:44.36,Default,,0000,0000,0000,,{\blur3}有人认为这些凹坑是古代人的贮水池{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some think the craters are ancient manmade reservoirs.{\r}
+Dialogue: 0,0:40:46.34,0:40:50.32,Default,,0000,0000,0000,,{\blur3}还有人怀疑它们只是二战时期的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Others suspect they only date back to World War II.{\r}
+Dialogue: 0,0:40:57.84,0:41:00.47,Default,,0000,0000,0000,,{\blur3}某些凹坑的迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's ordinance from some of the craters{\r}
+Dialogue: 0,0:41:01.05,0:41:03.55,Default,,0000,0000,0000,,{\blur3}说明了它们实际上是炸弹坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that suggests that they are actually bomb craters.{\r}
+Dialogue: 0,0:41:07.36,0:41:09.47,Default,,0000,0000,0000,,{\blur3}问题是 这里曾经是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The problem is, it's in a place{\r}
+Dialogue: 0,0:41:09.48,0:41:12.19,Default,,0000,0000,0000,,{\blur3}人口密集的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where there have been a lot of people.{\r}
+Dialogue: 0,0:41:12.77,0:41:16.14,Default,,0000,0000,0000,,{\blur3}它也许是一个贮水坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it was perhaps used as a watering hole.{\r}
+Dialogue: 0,0:41:16.40,0:41:18.92,Default,,0000,0000,0000,,{\blur3}它是人类活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's been so overprinted by human activity,{\r}
+Dialogue: 0,0:41:18.93,0:41:21.11,Default,,0000,0000,0000,,{\blur3}留下的遗迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I don't know if that one will ever be resolved.{\r}
+Dialogue: 0,0:41:21.62,0:41:23.46,Default,,0000,0000,0000,,{\blur3}它只是一个凹坑而已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it certainly could be a crater.{\r}
+Dialogue: 0,0:41:25.47,0:41:29.80,Default,,0000,0000,0000,,{\blur3}斯兰特弹坑撞击假说里 有许多经不起推敲的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the weakest parts of the Sirente crater impact hypothesis{\r}
+Dialogue: 0,0:41:29.82,0:41:32.85,Default,,0000,0000,0000,,{\blur3}其中之一是根本没有发现撞击矿物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that the shocked minerals simply have not been found.{\r}
+Dialogue: 0,0:41:32.95,0:41:36.68,Default,,0000,0000,0000,,{\blur3}没有明显证据能说明曾发生过突然的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no clear evidence that there was a whammo type impact there.{\r}
+Dialogue: 0,0:41:38.41,0:41:40.47,Default,,0000,0000,0000,,{\blur3}无论是不是宇宙撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cosmic impact or not,{\r}
+Dialogue: 0,0:41:40.66,0:41:42.62,Default,,0000,0000,0000,,{\blur3}康斯坦丁见到奇观{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Constantine's vision is considered{\r}
+Dialogue: 0,0:41:42.65,0:41:46.12,Default,,0000,0000,0000,,{\blur3}被公认是人类历史上最关键的事件之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of the most pivotal events in human history.{\r}
+Dialogue: 0,0:41:48.07,0:41:50.23,Default,,0000,0000,0000,,{\blur3}没有这个事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had it not been for this event,{\r}
+Dialogue: 0,0:41:50.25,0:41:53.52,Default,,0000,0000,0000,,{\blur3}基督教能成为在欧洲占统治地位的宗教{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would Christianity have become the dominant religion of Europe{\r}
+Dialogue: 0,0:41:53.54,0:41:55.30,Default,,0000,0000,0000,,{\blur3}然后扩展到美洲吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then spread to the Americas?{\r}
+Dialogue: 0,0:41:55.73,0:41:56.82,Default,,0000,0000,0000,,{\blur3}这很难说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's hard to say.{\r}
+Dialogue: 0,0:41:56.83,0:42:01.02,Default,,0000,0000,0000,,{\blur3}但显而易见的是 这次事件对促使康斯坦丁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's easy to say that this one event was pivotal{\r}
+Dialogue: 0,0:42:01.05,0:42:03.59,Default,,0000,0000,0000,,{\blur3}广泛支持基督教{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in forcing Constantine{\r}
+Dialogue: 0,0:42:03.82,0:42:06.61,Default,,0000,0000,0000,,{\blur3}起到关键性的作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to fully embrace the Christian religion.{\r}
+Dialogue: 0,0:42:12.68,0:42:14.43,Default,,0000,0000,0000,,{\blur3}我们居住的星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We live on a planet{\r}
+Dialogue: 0,0:42:14.57,0:42:17.30,Default,,0000,0000,0000,,{\blur3}是宇宙长期作用的产物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ceaselessly shaped by the cosmos{\r}
+Dialogue: 0,0:42:17.37,0:42:21.23,Default,,0000,0000,0000,,{\blur3}偶尔受到侵入者的攻击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and occasionally by invaders raining down fire.{\r}
+Dialogue: 0,0:42:22.58,0:42:25.77,Default,,0000,0000,0000,,{\blur3}太空力量对人类历史的改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The power of space to alter human history{\r}
+Dialogue: 0,0:42:26.12,0:42:27.88,Default,,0000,0000,0000,,{\blur3}存在着争议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}remains controversial.{\r}
+Dialogue: 0,0:42:28.93,0:42:32.83,Default,,0000,0000,0000,,{\blur3}也存在着这样的问题:它多久会发生？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the question remains: how often does it happen?{\r}
+Dialogue: 0,0:42:34.05,0:42:36.90,Default,,0000,0000,0000,,{\blur3}对全新世撞击工作组的成员来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For members of the Holocene Impact Working Group,{\r}
+Dialogue: 0,0:42:37.40,0:42:39.70,Default,,0000,0000,0000,,{\blur3}答案就是:比主流科学公认的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the answer is: far more frequently{\r}
+Dialogue: 0,0:42:39.73,0:42:42.51,Default,,0000,0000,0000,,{\blur3}更为频繁得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than mainstream science currently accepts.{\r}
+Dialogue: 0,0:42:44.65,0:42:48.26,Default,,0000,0000,0000,,{\blur3}在最近的10 000至15 000年间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So impacts over the course of human civilization{\r}
+Dialogue: 0,0:42:48.48,0:42:50.63,Default,,0000,0000,0000,,{\blur3}在对人类文明的影响方面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the last 10,000 to 15,000 years,{\r}
+Dialogue: 0,0:42:51.25,0:42:53.65,Default,,0000,0000,0000,,{\blur3}我们毫不犹豫地相信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's no question in our minds,{\r}
+Dialogue: 0,0:42:53.86,0:42:55.26,Default,,0000,0000,0000,,{\blur3}撞击在人类的进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have played an important role{\r}
+Dialogue: 0,0:42:55.28,0:42:57.66,Default,,0000,0000,0000,,{\blur3}和人类文明的演变中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the development of human evolution{\r}
+Dialogue: 0,0:42:57.69,0:43:00.51,Default,,0000,0000,0000,,{\blur3}扮演着一个重要的角色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the evolution of human civilization.{\r}
+Dialogue: 0,0:43:03.56,0:43:06.62,Default,,0000,0000,0000,,{\blur3}但其它人对此强烈反对{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But others hotly disagree.{\r}
+Dialogue: 0,0:43:08.38,0:43:12.45,Default,,0000,0000,0000,,{\blur3}外星物体没有足够的可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There just aren't enough potential impactors out there{\r}
+Dialogue: 0,0:43:12.73,0:43:14.12,Default,,0000,0000,0000,,{\blur3}曾撞击过地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to have hit the Earth.{\r}
+Dialogue: 0,0:43:14.34,0:43:17.58,Default,,0000,0000,0000,,{\blur3}其发生的概率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the kind of rates that they're suggesting-{\r}
+Dialogue: 0,0:43:18.14,0:43:21.17,Default,,0000,0000,0000,,{\blur3}直径数公里的物体撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}kilometer-sized objects hitting the Earth{\r}
+Dialogue: 0,0:43:21.24,0:43:22.49,Default,,0000,0000,0000,,{\blur3}每几千年就会发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}every few thousand years{\r}
+Dialogue: 0,0:43:22.52,0:43:24.36,Default,,0000,0000,0000,,{\blur3}即是说 如果万一有物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, if there were enough objects{\r}
+Dialogue: 0,0:43:24.39,0:43:25.91,Default,,0000,0000,0000,,{\blur3}要撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to hit the Earth at that rate,{\r}
+Dialogue: 0,0:43:26.85,0:43:28.20,Default,,0000,0000,0000,,{\blur3}我们只是擦肩而过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we'd be getting near-misses.{\r}
+Dialogue: 0,0:43:28.21,0:43:29.51,Default,,0000,0000,0000,,{\blur3}每年都有一两次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'd be getting objects that size{\r}
+Dialogue: 0,0:43:29.52,0:43:31.20,Default,,0000,0000,0000,,{\blur3}我们以为物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}coming between the Earth and the Moon,{\r}
+Dialogue: 0,0:43:31.25,0:43:33.19,Default,,0000,0000,0000,,{\blur3}要在地球和月球之间穿过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you know, one or two of those a year.{\r}
+Dialogue: 0,0:43:33.42,0:43:35.26,Default,,0000,0000,0000,,{\blur3}但我们从未见过其发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we've never seen anything like that.{\r}
+Dialogue: 0,0:43:35.98,0:43:37.67,Default,,0000,0000,0000,,{\blur3}所以 这种概率不存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The rate just isn't there.{\r}
+Dialogue: 0,0:43:39.98,0:43:42.70,Default,,0000,0000,0000,,{\blur3}激烈的争论会一直继续{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The debate will continue to rage,{\r}
+Dialogue: 0,0:43:43.32,0:43:47.18,Default,,0000,0000,0000,,{\blur3}可能会持续到人类文明的末日来临之际{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps until the very end of human civilization.{\r}
+Dialogue: 0,0:43:48.87,0:43:52.15,Default,,0000,0000,0000,,{\blur3}届时 宇宙对人类历史改变的结束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But will that end be a gradual demise{\r}
+Dialogue: 0,0:43:53.30,0:43:56.08,Default,,0000,0000,0000,,{\blur3}会是逐渐消亡的形式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or a sudden violent demonstration{\r}
+Dialogue: 0,0:43:56.34,0:43:59.60,Default,,0000,0000,0000,,{\blur3}还是突然的轰轰烈烈的方式？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of how space can change history?{\r}

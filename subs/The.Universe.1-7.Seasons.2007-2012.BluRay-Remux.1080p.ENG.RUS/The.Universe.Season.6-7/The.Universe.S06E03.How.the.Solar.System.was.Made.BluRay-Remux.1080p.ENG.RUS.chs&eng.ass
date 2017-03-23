@@ -1,0 +1,779 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:16.18,0:01:19.65,Default,,0,0,0008,,{\blur3}宇宙:太阳系的形成
+Dialogue: 0,0:00:47.88,0:00:50.40,Default,,0,0,0008,,{\an8\blur3}开普勒候选系统 952
+Dialogue: 0,0:02:17.21,0:02:25.85,Default,,0,0,0008,,{\an8\blur3}0至7亿年
+Dialogue: 0,0:03:05.66,0:03:14.12,Default,,0,0,0008,,{\an8\blur3}零点
+Dialogue: 0,0:05:34.76,0:05:42.02,Default,,0,0,0008,,{\an8\blur3}5万年
+Dialogue: 0,0:07:35.29,0:07:42.48,Default,,0,0,0008,,{\an8\blur3}十万年
+Dialogue: 0,0:09:13.27,0:09:20.55,Default,,0,0,0008,,{\an8\blur3}一百万年
+Dialogue: 0,0:09:37.50,0:09:43.11,Default,,0,0,0008,,{\an8\blur3}岩石带
+Dialogue: 0,0:09:46.71,0:09:51.38,Default,,0,0,0008,,{\an8\blur3}冰雪带
+Dialogue: 0,0:12:54.59,0:13:01.75,Default,,0,0,0008,,{\an8\blur3}两百万年
+Dialogue: 0,0:13:41.92,0:13:47.41,Default,,0,0,0008,,{\an8\blur3}岩石带
+Dialogue: 0,0:13:51.09,0:13:55.57,Default,,0,0,0008,,{\an8\blur3}冰雪带
+Dialogue: 0,0:15:09.71,0:15:11.77,Default,,0,0,0008,,{\an8\blur3}询问宇宙
+Dialogue: 0,0:15:12.65,0:15:19.14,Default,,0,0,0008,,{\an8\blur3}为什么靠近太阳的行星要比远离太阳的大行星小
+Dialogue: 0,0:15:44.99,0:15:46.13,Default,,0,0,0008,,{\an8\blur3}询问宇宙
+Dialogue: 0,0:15:48.62,0:15:57.04,Default,,0,0,0008,,{\an8\blur3}三百万年
+Dialogue: 0,0:19:12.57,0:19:20.89,Default,,0,0,0008,,{\an8\blur3}一千万年
+Dialogue: 0,0:28:40.45,0:28:48.27,Default,,0,0,0008,,{\an8\blur3}七千五百万年
+Dialogue: 0,0:29:47.30,0:29:55.35,Default,,0,0,0008,,{\an8\blur3}八千万年
+Dialogue: 0,0:31:09.42,0:31:17.81,Default,,0,0,0008,,{\an8\blur3}五亿年
+Dialogue: 0,0:34:44.41,0:34:45.41,Default,,0,0,0008,,{\an8\blur3}七亿年
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:21.13,0:00:22.84,Default,,0,0,0,,{\blur3}太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Solar System.{\r}
+Dialogue: 0,0:00:23.86,0:00:28.27,Default,,0,0,0,,{\blur3}它是如何在星际混乱的湮没中形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How did it emerge from the oblivion of interstellar chaos?{\r}
+Dialogue: 0,0:00:28.93,0:00:31.54,Default,,0,0,0,,{\blur3}我们是由气体和灰尘组成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are made of gas and dust.{\r}
+Dialogue: 0,0:00:32.08,0:00:37.21,Default,,0,0,0,,{\blur3}今日太阳和行星中藏有它们的身世奇迷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Today the sun and planets hold fascinating clues to their origins{\r}
+Dialogue: 0,0:00:37.21,0:00:41.31,Default,,0,0,0,,{\blur3}它们起源于一团极其微小而不可见的颗粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a haze of particles so small, they're virtually invisible.{\r}
+Dialogue: 0,0:00:41.37,0:00:43.80,Default,,0,0,0,,{\blur3}我们过去的证据 就在我们周围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The evidence of our past is all around us.{\r}
+Dialogue: 0,0:00:43.99,0:00:47.28,Default,,0,0,0,,{\blur3}然而 创造出太阳系的巨大力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But are the titanic forces that created our Solar System{\r}
+Dialogue: 0,0:00:47.28,0:00:49.63,Default,,0,0,0,,{\blur3}在整个宇宙中是常见的吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}common throughout the universe?{\r}
+Dialogue: 0,0:00:51.45,0:00:53.36,Default,,0,0,0,,{\blur3}还是我们是特殊的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or are we unique?{\r}
+Dialogue: 0,0:00:53.36,0:00:57.53,Default,,0,0,0,,{\blur3}我们的太阳系似乎是很特殊的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our Solar System seems to be one of the oddballs.{\r}
+Dialogue: 0,0:00:58.57,0:01:02.90,Default,,0,0,0,,{\blur3}宇宙也许有无数方式来创造恒星和行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe may have countless strategies for crafting stars and planets,{\r}
+Dialogue: 0,0:01:03.26,0:01:08.59,Default,,0,0,0,,{\blur3}但是仅有一法能够决定太阳系的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but only one could determine how the Solar System was made.{\r}
+Dialogue: 0,0:01:24.56,0:01:29.76,Default,,0,0,0,,{\blur3}太阳系约在46亿年前开始形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It begins at a point in time nearly 4.6 billion years ago.{\r}
+Dialogue: 0,0:01:32.28,0:01:35.82,Default,,0,0,0,,{\blur3}一大团气体云诡异地在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A giant cloud of gas and dust floats eerily{\r}
+Dialogue: 0,0:01:35.82,0:01:38.33,Default,,0,0,0,,{\blur3}银河偏远的旁支漂浮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through a remote arm of the Milky Way,{\r}
+Dialogue: 0,0:01:39.10,0:01:42.87,Default,,0,0,0,,{\blur3}其温度为零下四百余度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}chilled to more than 400 degrees below zero.{\r}
+Dialogue: 0,0:01:44.58,0:01:46.23,Default,,0,0,0,,{\blur3}当它独自在那儿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When it's sitting there all alone{\r}
+Dialogue: 0,0:01:46.23,0:01:48.85,Default,,0,0,0,,{\blur3}这团分子云中 没什么会发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nothing much is happening in a molecular cloud.{\r}
+Dialogue: 0,0:01:48.85,0:01:50.18,Default,,0,0,0,,{\blur3}它的温度很低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The temperatures are very low.{\r}
+Dialogue: 0,0:01:50.18,0:01:52.67,Default,,0,0,0,,{\blur3}那些粒子移动得非常缓慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The particles are moving around very, very slowly.{\r}
+Dialogue: 0,0:01:52.82,0:01:54.07,Default,,0,0,0,,{\blur3}几乎就是静止不动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just sitting there.{\r}
+Dialogue: 0,0:01:54.34,0:01:57.58,Default,,0,0,0,,{\blur3}但若附近有一颗超新星 即爆炸的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if you have a nearby supernova, an exploding star,{\r}
+Dialogue: 0,0:01:57.58,0:02:00.57,Default,,0,0,0,,{\blur3}它就会释放冲击波穿过这团分子云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it can send a shockwave through this molecular cloud...{\r}
+Dialogue: 0,0:02:03.46,0:02:05.99,Default,,0,0,0,,{\blur3}从而触发了引力坍缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}triggering its gravitational collapse.{\r}
+Dialogue: 0,0:02:07.06,0:02:10.12,Default,,0,0,0,,{\blur3}这种坍缩是长期过程中的第一步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That collapse is the first step in a long process{\r}
+Dialogue: 0,0:02:10.39,0:02:14.97,Default,,0,0,0,,{\blur3}这个过程促使了现在太阳系的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that brings the place we now call the Solar System into existence.{\r}
+Dialogue: 0,0:02:18.45,0:02:24.50,Default,,0,0,0,,{\blur3}现在我们要跟随其最初7亿年的时间线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our mission now will be to follow a timeline of the first 700 million years,{\r}
+Dialogue: 0,0:02:25.52,0:02:29.35,Default,,0,0,0,,{\blur3}在这段时间内 太阳系形成并趋于稳定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the epoch in which the Solar System formed and stabilized.{\r}
+Dialogue: 0,0:02:30.65,0:02:35.10,Default,,0,0,0,,{\blur3}我们先来看看如今的太阳和其行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We start by looking at the Sun and its planets as they are today.{\r}
+Dialogue: 0,0:02:36.90,0:02:39.38,Default,,0,0,0,,{\blur3}我们过去的证据 就在我们周围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The evidence of our past is all around us.{\r}
+Dialogue: 0,0:02:39.38,0:02:41.40,Default,,0,0,0,,{\blur3}在内太阳系的四颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The four planets in the inner part of the Solar System{\r}
+Dialogue: 0,0:02:41.68,0:02:42.67,Default,,0,0,0,,{\blur3}由岩石和金属组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are made of rock and metal,{\r}
+Dialogue: 0,0:02:43.10,0:02:44.99,Default,,0,0,0,,{\blur3}而外太阳系的四颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the four planets in the outter part of the Solar System{\r}
+Dialogue: 0,0:02:45.43,0:02:47.01,Default,,0,0,0,,{\blur3}则是巨大的气体星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are these giant balls of gas.{\r}
+Dialogue: 0,0:02:47.19,0:02:49.04,Default,,0,0,0,,{\blur3}很明显 太阳系的形成经历很多不同的过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So clearly, different processes were at play,{\r}
+Dialogue: 0,0:02:49.46,0:02:51.95,Default,,0,0,0,,{\blur3}这也表明了我们是如何走到这一步的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that tells us something about how we got here.{\r}
+Dialogue: 0,0:02:55.43,0:03:00.95,Default,,0,0,0,,{\blur3}我们所知情形和现在科学家相信发生的无异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We learn the story as scientists presently believe it happened,{\r}
+Dialogue: 0,0:03:00.95,0:03:03.72,Default,,0,0,0,,{\blur3}它发生于太阳系诞生的伊始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from time zero, the very beginning of our Solar System.{\r}
+Dialogue: 0,0:03:06.28,0:03:09.87,Default,,0,0,0,,{\blur3}超新星爆炸不仅给这巨大的气体云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The supernova explosion not only seeds the giant gas cloud{\r}
+Dialogue: 0,0:03:10.16,0:03:13.20,Default,,0,0,0,,{\blur3}带来了铁和铀这类重元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with heavy elements like iron and uranium,{\r}
+Dialogue: 0,0:03:13.41,0:03:17.55,Default,,0,0,0,,{\blur3}爆炸带来的震动将这团云推向了未来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the jolt of the explosion gives the cloud a push into the future,{\r}
+Dialogue: 0,0:03:17.99,0:03:22.66,Default,,0,0,0,,{\blur3}波前锋将云团的气体压缩成一种临界物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as wave fronts compress the cloud's gases into a critical mass.{\r}
+Dialogue: 0,0:03:23.88,0:03:26.33,Default,,0,0,0,,{\blur3}在引力作用下 这一团物质开始坍缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That mass begins to collapse under the force of gravity,{\r}
+Dialogue: 0,0:03:26.65,0:03:30.96,Default,,0,0,0,,{\blur3}该过程无法停止 急速并且不可逆转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then it's unstoppable. It's rapid, it's irreversible.{\r}
+Dialogue: 0,0:03:32.28,0:03:35.16,Default,,0,0,0,,{\blur3}就像过山车达到轨道顶端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like a roller coaster reaching the top of its track{\r}
+Dialogue: 0,0:03:35.63,0:03:38.14,Default,,0,0,0,,{\blur3}然后急速冲下另一边一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and speeding down the other side.{\r}
+Dialogue: 0,0:03:41.98,0:03:45.62,Default,,0,0,0,,{\blur3}这个注定要成为太阳系的坍缩云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The collapsing cloud destined to become our solar System{\r}
+Dialogue: 0,0:03:45.98,0:03:49.25,Default,,0,0,0,,{\blur3}成为了一座混沌运动的主题公园{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}becomes a virtual theme park of chaotic motion.{\r}
+Dialogue: 0,0:03:52.45,0:03:56.21,Default,,0,0,0,,{\blur3}像北仙乐园这样的游乐园很适合让人们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An amusement park like North Fairy Farm is a great place to people to come{\r}
+Dialogue: 0,0:03:56.58,0:04:01.37,Default,,0,0,0,,{\blur3}体验那种早期太阳系形成时的运动现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and experience a kind of a motion that happens in the early solar system.{\r}
+Dialogue: 0,0:04:01.37,0:04:05.74,Default,,0,0,0,,{\blur3}有引力 碰撞 动力 推力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's gravity. There's collisions, momentum, forces.{\r}
+Dialogue: 0,0:04:06.52,0:04:09.26,Default,,0,0,0,,{\blur3}在早期太阳系里发生的所有作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of those interactions that took place in the early Solar system{\r}
+Dialogue: 0,0:04:09.73,0:04:12.71,Default,,0,0,0,,{\blur3}都能在这里的不同游乐项目中体现出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be found here on all the different kinds of rides.{\r}
+Dialogue: 0,0:04:14.26,0:04:18.93,Default,,0,0,0,,{\blur3}在迅速坍缩的云团中 相互作用更为激烈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those interactions intensify in the rapidly collapsing cloud,{\r}
+Dialogue: 0,0:04:19.43,0:04:23.18,Default,,0,0,0,,{\blur3}气体和灰尘密集形成致密区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where gas and dust contracts into dense pockets.{\r}
+Dialogue: 0,0:04:23.86,0:04:26.75,Default,,0,0,0,,{\blur3}每一片区域都是恒星的温床{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each will become the nursery of a star.{\r}
+Dialogue: 0,0:04:27.65,0:04:30.79,Default,,0,0,0,,{\blur3}当巨大的分子云被触发并且开始坍缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the giant molecular cloud was triggered and started to collapse,{\r}
+Dialogue: 0,0:04:31.24,0:04:34.18,Default,,0,0,0,,{\blur3}很多原恒星和很多太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a lot of other protostars and a lot of other solar systems{\r}
+Dialogue: 0,0:04:34.49,0:04:35.93,Default,,0,0,0,,{\blur3}也都同时诞生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were formed at the same time.{\r}
+Dialogue: 0,0:04:36.14,0:04:39.06,Default,,0,0,0,,{\blur3}所以太阳的周围其实有许多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So our Sun actually has a lot of brother and sister stars{\r}
+Dialogue: 0,0:04:39.35,0:04:41.77,Default,,0,0,0,,{\blur3}兄弟姐妹恒星 他们也在那时诞生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that formed right around the same time as the Sun.{\r}
+Dialogue: 0,0:04:44.46,0:04:47.32,Default,,0,0,0,,{\blur3}太阳系形成的第一阶段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first stages of our Solar System's creation{\r}
+Dialogue: 0,0:04:47.32,0:04:48.91,Default,,0,0,0,,{\blur3}并不特殊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are hardly unique.{\r}
+Dialogue: 0,0:04:49.41,0:04:53.57,Default,,0,0,0,,{\blur3}如今我们看到同样的事情发生在猎户座星云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Today we witness the same thing happening in the Orion constellation,{\r}
+Dialogue: 0,0:04:54.61,0:04:59.48,Default,,0,0,0,,{\blur3}一团巨大的分子云 延展数百光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where a giant molecular cloud stretches hundreds of light years across.{\r}
+Dialogue: 0,0:05:00.57,0:05:05.38,Default,,0,0,0,,{\blur3}其中 坍缩区域正在孕育年轻的星球群{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In some places, collapsing pockets are now forming clusters of young stars,{\r}
+Dialogue: 0,0:05:05.80,0:05:08.56,Default,,0,0,0,,{\blur3}它们照亮了周围的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which light up the surrounding gas.{\r}
+Dialogue: 0,0:05:12.53,0:05:15.08,Default,,0,0,0,,{\blur3}游乐场中的环形运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The circus of motions in the amusement park{\r}
+Dialogue: 0,0:05:15.55,0:05:18.33,Default,,0,0,0,,{\blur3}巧妙地模拟了构成太阳系的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}aptly parallels the movements of space matter{\r}
+Dialogue: 0,0:05:18.33,0:05:21.24,Default,,0,0,0,,{\blur3}太空物质的运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that comes together to make the Solar System.{\r}
+Dialogue: 0,0:05:23.41,0:05:26.09,Default,,0,0,0,,{\blur3}这些运动中最基本的是圆周运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most basic of these motions is circular,{\r}
+Dialogue: 0,0:05:28.15,0:05:30.47,Default,,0,0,0,,{\blur3}就像天空旋转木马{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a celestial carousel.{\r}
+Dialogue: 0,0:05:30.86,0:05:33.58,Default,,0,0,0,,{\blur3}当前太阳系云团坍缩时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the pre-solar cloud collapses,{\r}
+Dialogue: 0,0:05:34.43,0:05:36.99,Default,,0,0,0,,{\blur3}我们开始注意到它的旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we begin to notice its rotation,{\r}
+Dialogue: 0,0:05:37.62,0:05:40.75,Default,,0,0,0,,{\blur3}这个旋转其实从一开始就存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a spin that's actually been there from the beginning.{\r}
+Dialogue: 0,0:05:41.57,0:05:43.40,Default,,0,0,0,,{\blur3}整个星系都在旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The entire galaxy rotates.{\r}
+Dialogue: 0,0:05:43.40,0:05:45.06,Default,,0,0,0,,{\blur3}星系中的所有物质都在旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything in the galaxy rotates.{\r}
+Dialogue: 0,0:05:45.06,0:05:47.98,Default,,0,0,0,,{\blur3}每种物质相对于其它物质都在旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything is rotating with respect to everything else.{\r}
+Dialogue: 0,0:05:47.98,0:05:52.59,Default,,0,0,0,,{\blur3}所以旋转是恒星坍缩物理学的重要部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so rotation is part and parcel to the physics of... of stellar collapse.{\r}
+Dialogue: 0,0:05:54.80,0:05:58.45,Default,,0,0,0,,{\blur3}接下来发生的 就如同旋转的冰上选手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What happens next resembles a spinning ice skater.{\r}
+Dialogue: 0,0:05:59.11,0:06:02.68,Default,,0,0,0,,{\blur3}当她收起胳膊 便旋转得更快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When she draws in her arms, she spins faster.{\r}
+Dialogue: 0,0:06:03.52,0:06:06.05,Default,,0,0,0,,{\blur3}当引力将云团中的气体聚集{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As gravity draws in the cloud's gas,{\r}
+Dialogue: 0,0:06:06.05,0:06:08.52,Default,,0,0,0,,{\blur3}云团不仅仅旋转得更快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the cloud not only spins faster...{\r}
+Dialogue: 0,0:06:08.77,0:06:11.90,Default,,0,0,0,,{\blur3}不可避免的 它形成了碟形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It inevitably flattens into a disc.{\r}
+Dialogue: 0,0:06:16.26,0:06:19.39,Default,,0,0,0,,{\blur3}我们在地球上也能看到类似的过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can see a similar process at work on Earth.{\r}
+Dialogue: 0,0:06:19.40,0:06:23.27,Default,,0,0,0,,{\blur3}在加州的乔·卡里亚蒂玻璃吹制工作室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In places like Joe Cariati's glass blowing workshop in California,{\r}
+Dialogue: 0,0:06:24.50,0:06:27.65,Default,,0,0,0,,{\blur3}天文学家劳拉·丹利正在观察吹制过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where astronomer Laura Danly is observing the action.{\r}
+Dialogue: 0,0:06:29.04,0:06:33.30,Default,,0,0,0,,{\blur3}乔先取出一团红热的液态玻璃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Joe begins with a round blob of red-hot molten glass.{\r}
+Dialogue: 0,0:06:34.18,0:06:37.74,Default,,0,0,0,,{\blur3}其实我们就是拿出一个圆形实体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We basically just are taking a solid mass that was round{\r}
+Dialogue: 0,0:06:38.01,0:06:39.01,Default,,0,0,0,,{\blur3}然后旋转它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and spinning it.{\r}
+Dialogue: 0,0:06:40.01,0:06:43.41,Default,,0,0,0,,{\blur3}它变得扁平是因为液体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It flattens because it's much easier for the fluid,{\r}
+Dialogue: 0,0:06:43.67,0:06:44.77,Default,,0,0,0,,{\blur3}也就是液态玻璃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the fluid of this liquid glass,{\r}
+Dialogue: 0,0:06:45.18,0:06:48.92,Default,,0,0,0,,{\blur3}更容易围绕着旋转轴坍缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to collapse in the same axes along the axes of spinning{\r}
+Dialogue: 0,0:06:49.36,0:06:51.09,Default,,0,0,0,,{\blur3}而不是抗拒旋转和角动量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than try to fight the spin{\r}
+Dialogue: 0,0:06:51.45,0:06:54.32,Default,,0,0,0,,{\blur3}向中心聚集{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or fight the angular momentum and move closer.{\r}
+Dialogue: 0,0:06:54.68,0:06:58.03,Default,,0,0,0,,{\blur3}正如我们的太阳系 若行星在此形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And just like in our Solar System, if there were planets forming in there,{\r}
+Dialogue: 0,0:06:58.28,0:06:59.85,Default,,0,0,0,,{\blur3}它们会在同一个平面上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they'd all be in the same plane.{\r}
+Dialogue: 0,0:07:00.30,0:07:02.27,Default,,0,0,0,,{\blur3}这就像是我们的太阳系原行星盘一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just like the disc of our Solar System.{\r}
+Dialogue: 0,0:07:04.51,0:07:06.78,Default,,0,0,0,,{\blur3}现在 它看起来是个椭圆 而非圆形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, it looks kind of elliptical. It's not circular.{\r}
+Dialogue: 0,0:07:06.78,0:07:08.98,Default,,0,0,0,,{\blur3}我们认为太阳系的圆形的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think of our own Solar System as being circular.{\r}
+Dialogue: 0,0:07:08.98,0:07:13.38,Default,,0,0,0,,{\blur3}但是我记得你告诉过我 原因是一边偏重{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But I think you told me it had to do with there being more mass on one side.{\r}
+Dialogue: 0,0:07:13.38,0:07:16.23,Default,,0,0,0,,{\blur3}所以这也许有点像双子星的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So maybe it's kind of like an analog of a binary star forming,{\r}
+Dialogue: 0,0:07:16.23,0:07:19.34,Default,,0,0,0,,{\blur3}也就是 质量大一点的一边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you've got maybe extra mass on one side that's{\r}
+Dialogue: 0,0:07:19.34,0:07:22.66,Default,,0,0,0,,{\blur3}会形成恒星或褐矮星 又或者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also going to form into a star or a brown dwarf or maybe a...{\r}
+Dialogue: 0,0:07:22.66,0:07:25.28,Default,,0,0,0,,{\blur3}一颗非常重的 类似木星的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just a very massive Jupiter-like planet.{\r}
+Dialogue: 0,0:07:26.14,0:07:27.89,Default,,0,0,0,,{\blur3}真想摸摸它 但估计是个坏主意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's so tempting to touch it, but I imagine it's a bad idea.{\r}
+Dialogue: 0,0:07:27.89,0:07:30.74,Default,,0,0,0,,{\blur3}不 我们不能碰它 真的不能碰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, no, we can't do that. Yeah. We can't do that.{\r}
+Dialogue: 0,0:07:35.34,0:07:38.25,Default,,0,0,0,,{\blur3}时间到十万年时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}100 thousand years after it began,{\r}
+Dialogue: 0,0:07:38.25,0:07:42.48,Default,,0,0,0,,{\blur3}将要变为太阳系的云气彻底塌缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the cloud that would become our Solar System is almost entirely collapsed{\r}
+Dialogue: 0,0:07:42.93,0:07:47.22,Default,,0,0,0,,{\blur3}云气中心被逐渐形成的原恒星照亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and its center is glowing with the radiance of an emerging protostar.{\r}
+Dialogue: 0,0:07:48.82,0:07:51.49,Default,,0,0,0,,{\blur3}原恒星是恒星最原始的状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A protostar is the very early state as of becoming a star,{\r}
+Dialogue: 0,0:07:51.49,0:07:54.02,Default,,0,0,0,,{\blur3}那时恒星仍在塌缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when the star is still collapsing down{\r}
+Dialogue: 0,0:07:54.28,0:07:56.18,Default,,0,0,0,,{\blur3}辐射到周围的能量正来自于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the energy that is radiating out{\r}
+Dialogue: 0,0:07:56.47,0:07:58.54,Default,,0,0,0,,{\blur3}那种引力坍缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is coming from that gravitational collapse.{\r}
+Dialogue: 0,0:07:59.04,0:08:00.97,Default,,0,0,0,,{\blur3}恒星仍将升温 因为其体积在缩小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's still getting hotter because it's getting smaller.{\r}
+Dialogue: 0,0:08:00.97,0:08:02.90,Default,,0,0,0,,{\blur3}恒星的形成过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not doing the nuclear reactions{\r}
+Dialogue: 0,0:08:03.18,0:08:07.12,Default,,0,0,0,,{\blur3}其核心阶段与核反应过程是不同的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a star will be doing when it's in its main phase of being a star.{\r}
+Dialogue: 0,0:08:09.57,0:08:13.45,Default,,0,0,0,,{\blur3}出现的原恒星开始吞噬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The emerging protostar begins gobbling up the disc of gas and dust{\r}
+Dialogue: 0,0:08:13.83,0:08:16.16,Default,,0,0,0,,{\blur3}组成太阳星云的气体和灰尘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that makes up what's called the solar nebula.{\r}
+Dialogue: 0,0:08:17.89,0:08:19.78,Default,,0,0,0,,{\blur3}大部分云气都变成了太阳的一部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So much of it will end up in the Sun,{\r}
+Dialogue: 0,0:08:19.78,0:08:22.54,Default,,0,0,0,,{\blur3}余下给行星 月球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then what's left over for the planets, moons,{\r}
+Dialogue: 0,0:08:22.55,0:08:27.02,Default,,0,0,0,,{\blur3}星子 甚至我们身体的部分 非常少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}asteroids, and even our own bodies is so meager,{\r}
+Dialogue: 0,0:08:27.02,0:08:28.76,Default,,0,0,0,,{\blur3}就像宇宙的施舍一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's almost a cosmic afterthought.{\r}
+Dialogue: 0,0:08:33.91,0:08:35.50,Default,,0,0,0,,{\blur3}我们住在一颗行星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We happen to live on a planet,{\r}
+Dialogue: 0,0:08:35.82,0:08:39.64,Default,,0,0,0,,{\blur3}所以行星的组成成分对我们很重要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so the stuff that went into making the planet is very important to us.{\r}
+Dialogue: 0,0:08:39.83,0:08:42.38,Default,,0,0,0,,{\blur3}但这仅仅是整体的一小部分而已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it was just a tiny part of the whole mix.{\r}
+Dialogue: 0,0:08:42.86,0:08:46.38,Default,,0,0,0,,{\blur3}这个停车场很好地说明了这一部分有多渺小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This parking lot is a good way of showing how tiny.{\r}
+Dialogue: 0,0:08:46.94,0:08:48.88,Default,,0,0,0,,{\blur3}在如今的太阳系中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you look at the Solar System today,{\r}
+Dialogue: 0,0:08:49.06,0:08:52.64,Default,,0,0,0,,{\blur3}太阳占了总质量的99.85%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the sun is 99.85% of the total mass.{\r}
+Dialogue: 0,0:08:53.13,0:08:56.52,Default,,0,0,0,,{\blur3}在停车场里的500辆车之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So compared with the 500 cars in this parking lot,{\r}
+Dialogue: 0,0:08:56.52,0:08:58.94,Default,,0,0,0,,{\blur3}我的车就和所有剩给{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}my car is just about all that's left over{\r}
+Dialogue: 0,0:08:59.28,0:09:02.61,Default,,0,0,0,,{\blur3}行星 星子 和月球的成分一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for all the planets, asteroids, and moons.{\r}
+Dialogue: 0,0:09:03.52,0:09:06.31,Default,,0,0,0,,{\blur3}至于分给地球的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as for the earth itself, well,{\r}
+Dialogue: 0,0:09:06.31,0:09:09.66,Default,,0,0,0,,{\blur3}就和这个备胎分量一样 仅此而已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that might be comparable to this spare tire, nothing bigger.{\r}
+Dialogue: 0,0:09:13.30,0:09:15.81,Default,,0,0,0,,{\blur3}一百万年之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At 1 million years after time zero{\r}
+Dialogue: 0,0:09:16.40,0:09:18.33,Default,,0,0,0,,{\blur3}太阳系对行星建构材料的分类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Solar System's method for sorting out{\r}
+Dialogue: 0,0:09:18.56,0:09:21.31,Default,,0,0,0,,{\blur3}已经很明确了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}its planet building material is clear,{\r}
+Dialogue: 0,0:09:21.50,0:09:25.29,Default,,0,0,0,,{\blur3}根据温度 它们分布在原行星盘的不同区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they're separated by the different temperatures in the disc.{\r}
+Dialogue: 0,0:09:26.87,0:09:28.63,Default,,0,0,0,,{\blur3}靠近原太阳的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Close to the protosun,{\r}
+Dialogue: 0,0:09:29.08,0:09:33.26,Default,,0,0,0,,{\blur3}两千度的高温 蒸发了所有物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}temperatures above 2,000 degrees vaporize everything.{\r}
+Dialogue: 0,0:09:34.33,0:09:38.14,Default,,0,0,0,,{\blur3}然而 在约八百万公里处 是岩石带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But about 5 million miles out lies the rock line,{\r}
+Dialogue: 0,0:09:38.70,0:09:42.71,Default,,0,0,0,,{\blur3}这里足够冷 让金属和矿物质固化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where it's cool enough for metals and minerals to turn solid.{\r}
+Dialogue: 0,0:09:43.89,0:09:47.00,Default,,0,0,0,,{\blur3}更远的区域是冰雪带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Much farther out lies the snow line,{\r}
+Dialogue: 0,0:09:47.07,0:09:51.27,Default,,0,0,0,,{\blur3}这儿最冷可达零下三百七十五度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where it's as much as 375 degrees below 0,{\r}
+Dialogue: 0,0:09:52.01,0:09:56.54,Default,,0,0,0,,{\blur3}冷到能让水 甲烷和氨冷冻成冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cold enough for water, methane, and ammonia to freeze into ices.{\r}
+Dialogue: 0,0:09:59.97,0:10:02.92,Default,,0,0,0,,{\blur3}早期的太阳系 和做棉花糖相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The early Solar System is a little bit like making cotton candy.{\r}
+Dialogue: 0,0:10:02.92,0:10:04.58,Default,,0,0,0,,{\blur3}为了演示如何做棉花糖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And to show us how cotton candy is made,{\r}
+Dialogue: 0,0:10:04.85,0:10:08.03,Default,,0,0,0,,{\blur3}我们请凯西·吴 来为我们做美味糖果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have Kathy Woo here to make us a delicious treat.{\r}
+Dialogue: 0,0:10:08.77,0:10:10.45,Default,,0,0,0,,{\blur3}首先 我们拿出砂糖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First we take the sugar crystals,{\r}
+Dialogue: 0,0:10:11.05,0:10:13.41,Default,,0,0,0,,{\blur3}然后将它倒入加热器中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we pour that into the heating element.{\r}
+Dialogue: 0,0:10:13.41,0:10:16.21,Default,,0,0,0,,{\blur3}在这里 加热器处于中间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The heating element in this case is here in the center.{\r}
+Dialogue: 0,0:10:16.21,0:10:18.66,Default,,0,0,0,,{\blur3}在太阳系中 当然 也就是非常热的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the case of the Solar System, of course, it's that very hot{\r}
+Dialogue: 0,0:10:18.66,0:10:22.17,Default,,0,0,0,,{\blur3}太阳 它居中 融化一切靠近它的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sun in the middle that is melting things that are too close to it.{\r}
+Dialogue: 0,0:10:24.00,0:10:27.17,Default,,0,0,0,,{\blur3}发热的太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as that, uh, that hot Sun heats up,{\r}
+Dialogue: 0,0:10:27.49,0:10:29.76,Default,,0,0,0,,{\blur3}它开始融化它周围的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it starts to melt the stuff that's close to it.{\r}
+Dialogue: 0,0:10:29.76,0:10:30.92,Default,,0,0,0,,{\blur3}出来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whoa, there it comes.{\r}
+Dialogue: 0,0:10:30.92,0:10:34.54,Default,,0,0,0,,{\blur3}你可以看见 周围飞舞的是太阳星云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is now the solar nebula you can see flying around here.{\r}
+Dialogue: 0,0:10:34.95,0:10:36.93,Default,,0,0,0,,{\blur3}在里面 你其实看不到任何东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the inside, you actually don't see anything.{\r}
+Dialogue: 0,0:10:36.93,0:10:38.46,Default,,0,0,0,,{\blur3}东西都在里面融化了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The inside, it's all molten.{\r}
+Dialogue: 0,0:10:38.66,0:10:41.24,Default,,0,0,0,,{\blur3}而在较冷的外围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as it gets to the cooler outside,{\r}
+Dialogue: 0,0:10:41.52,0:10:44.59,Default,,0,0,0,,{\blur3}太阳星云开始凝结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the solar nebula starts to condense.{\r}
+Dialogue: 0,0:10:44.71,0:10:48.72,Default,,0,0,0,,{\blur3}你能看到 它开始在温度较低的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you can see it starting to solidify all over the outside{\r}
+Dialogue: 0,0:10:48.72,0:10:50.60,Default,,0,0,0,,{\blur3}太阳系外围固化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Solar System, where it's cold.{\r}
+Dialogue: 0,0:10:50.61,0:10:53.06,Default,,0,0,0,,{\blur3}你可以看到内部的都是气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You get a line of gaseous stuff on the inside{\r}
+Dialogue: 0,0:10:53.22,0:10:55.90,Default,,0,0,0,,{\blur3}外围的都是固体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the solid stuff on the outside.{\r}
+Dialogue: 0,0:10:56.20,0:11:00.92,Default,,0,0,0,,{\blur3}这与早期的原行星非常相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is also a very good analogy for what those early protoplanets are like.{\r}
+Dialogue: 0,0:11:01.06,0:11:04.51,Default,,0,0,0,,{\blur3}它们开始互相粘结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They start to accrete by all sticking together,{\r}
+Dialogue: 0,0:11:04.52,0:11:06.73,Default,,0,0,0,,{\blur3}非常像这些棉花糖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}very much like this cotton candy does,{\r}
+Dialogue: 0,0:11:06.73,0:11:09.16,Default,,0,0,0,,{\blur3}这些东西变得越来越大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and make larger and larger things{\r}
+Dialogue: 0,0:11:09.32,0:11:13.14,Default,,0,0,0,,{\blur3}仅仅来自于这些小颗粒晶体 也就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}coming from these tiny little pieces of...of crystal that are{\r}
+Dialogue: 0,0:11:13.14,0:11:15.36,Default,,0,0,0,,{\blur3}棉花糖中的糖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the sugar that's in the cotton candy.{\r}
+Dialogue: 0,0:11:16.36,0:11:17.74,Default,,0,0,0,,{\blur3}- 谢谢 - 不客气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Thank you. - You're welcome.{\r}
+Dialogue: 0,0:11:17.74,0:11:19.45,Default,,0,0,0,,{\blur3}太阳系真好吃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Solar System is delicious.{\r}
+Dialogue: 0,0:11:21.66,0:11:25.47,Default,,0,0,0,,{\blur3}粘结在一起的微粒 现阶段还很微小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The particles sticking together are microscopic at this point,{\r}
+Dialogue: 0,0:11:25.80,0:11:28.56,Default,,0,0,0,,{\blur3}远远小于融化的砂糖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}far smaller than the melting sugar crystals.{\r}
+Dialogue: 0,0:11:29.21,0:11:33.45,Default,,0,0,0,,{\blur3}棉花糖展示了太阳系中的颗粒如何粘结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as cotton candy illustrates how these solids accrete in the solar System,{\r}
+Dialogue: 0,0:11:33.99,0:11:37.82,Default,,0,0,0,,{\blur3}另一个游乐场项目表明了它们如何增大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another amusement park attraction shows what makes them grow.{\r}
+Dialogue: 0,0:11:39.33,0:11:42.64,Default,,0,0,0,,{\blur3}碰碰车如果不碰撞的话 就不好玩了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bumper cars wouldn't be much fun without collisions.{\r}
+Dialogue: 0,0:11:43.49,0:11:46.32,Default,,0,0,0,,{\blur3}在太阳系中 没有碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in the Solar System, without collisions,{\r}
+Dialogue: 0,0:11:46.32,0:11:49.18,Default,,0,0,0,,{\blur3}就没有成长和积累{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there would be no growth, no accretion.{\r}
+Dialogue: 0,0:11:51.18,0:11:54.18,Default,,0,0,0,,{\blur3}早期太阳系中发生的积累碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The accretion collisions that were happening in the early solar System{\r}
+Dialogue: 0,0:11:54.62,0:11:59.00,Default,,0,0,0,,{\blur3}碰撞使物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are of the kind that allow objects to stick together{\r}
+Dialogue: 0,0:11:59.37,0:12:03.21,Default,,0,0,0,,{\blur3}通过摩擦过程而得到粘结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through various kinds of essentially friction-type processes,{\r}
+Dialogue: 0,0:12:03.21,0:12:05.87,Default,,0,0,0,,{\blur3}这些东西因为力学作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you have things getting stuck together{\r}
+Dialogue: 0,0:12:05.88,0:12:08.54,Default,,0,0,0,,{\blur3}而结合在了一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just due to mechanical interaction.{\r}
+Dialogue: 0,0:12:11.85,0:12:13.48,Default,,0,0,0,,{\blur3}在内太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the inner Solar System,{\r}
+Dialogue: 0,0:12:13.48,0:12:15.28,Default,,0,0,0,,{\blur3}这是个耗时的过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the process is time-consuming,{\r}
+Dialogue: 0,0:12:15.75,0:12:18.80,Default,,0,0,0,,{\blur3}因为微小的宇宙尘粒形成缓慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as tiny cosmic dust balls form slowly,{\r}
+Dialogue: 0,0:12:18.80,0:12:21.42,Default,,0,0,0,,{\blur3}只能在围绕早期太阳的公转中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stuck together only by random collisions{\r}
+Dialogue: 0,0:12:21.71,0:12:23.62,Default,,0,0,0,,{\blur3}通过随机碰撞得到粘结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in their orbits around the early Sun.{\r}
+Dialogue: 0,0:12:24.88,0:12:29.30,Default,,0,0,0,,{\blur3}但在外太阳系 情况便大为不同了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in the outer Solar System, the story is dramatically different.{\r}
+Dialogue: 0,0:12:29.30,0:12:33.19,Default,,0,0,0,,{\blur3}巨大的星球就在弹指一挥间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The giant planets are about to burst into existence{\r}
+Dialogue: 0,0:12:33.20,0:12:35.55,Default,,0,0,0,,{\blur3}突然地出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a cosmic blink of an eye.{\r}
+Dialogue: 0,0:12:46.19,0:12:48.55,Default,,0,0,0,,{\blur3}从气体和灰尘构成的云团开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Beginning as a cloud of gas and dust,{\r}
+Dialogue: 0,0:12:48.55,0:12:52.82,Default,,0,0,0,,{\blur3}太阳系的形成需耗时七亿年之久{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the making of our Solar System will take 700 million years.{\r}
+Dialogue: 0,0:12:54.07,0:12:56.94,Default,,0,0,0,,{\blur3}现在 诞生两百万年之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, just 2 million years after its birth,{\r}
+Dialogue: 0,0:12:56.94,0:13:01.01,Default,,0,0,0,,{\blur3}这个年轻的系统开始创造一个行星家族{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the young system takes its first steps in creating a family of planets,{\r}
+Dialogue: 0,0:13:01.01,0:13:05.68,Default,,0,0,0,,{\blur3}这个家族有朝一日会诞出木星 土星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that one day will be as diverse as Jupiter, Saturn...{\r}
+Dialogue: 0,0:13:07.19,0:13:08.94,Default,,0,0,0,,{\blur3}和地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the Earth.{\r}
+Dialogue: 0,0:13:19.65,0:13:21.93,Default,,0,0,0,,{\blur3}目前 它们还只是一堆堆的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For now though, they're just chunks of matter{\r}
+Dialogue: 0,0:13:22.24,0:13:26.91,Default,,0,0,0,,{\blur3}仍在混乱的太阳星云中坐着过山车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}continuing their rollercoaster ride in the turbulence of the solar nebula.{\r}
+Dialogue: 0,0:13:34.39,0:13:38.11,Default,,0,0,0,,{\blur3}主要由氢气组成的旋转大原行星盘里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The thick rotating disc made mostly of hydrogen gas,{\r}
+Dialogue: 0,0:13:38.40,0:13:40.36,Default,,0,0,0,,{\blur3}固体点缀其中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is embedded with solids.{\r}
+Dialogue: 0,0:13:41.33,0:13:44.76,Default,,0,0,0,,{\blur3}内部区域充满了小石块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The inner zone is filled with small chunks of rock,{\r}
+Dialogue: 0,0:13:44.76,0:13:47.75,Default,,0,0,0,,{\blur3}但外围则是冰雪带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but outside the boundary known as the snow line,{\r}
+Dialogue: 0,0:13:48.29,0:13:52.18,Default,,0,0,0,,{\blur3}这儿也有冻结的甲烷 氨和水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are also ices of methane, ammonia, and water{\r}
+Dialogue: 0,0:13:52.67,0:13:56.77,Default,,0,0,0,,{\blur3}它们主宰了原行星盘外圈 这是有原因的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which dominate the outer disc, and for good reason.{\r}
+Dialogue: 0,0:13:57.79,0:14:00.83,Default,,0,0,0,,{\blur3}它们都是不同形态的氢化物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're all hydrogen compounds of one form or another.{\r}
+Dialogue: 0,0:14:00.83,0:14:04.34,Default,,0,0,0,,{\blur3}在那时的太阳系中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And hydrogen is the most abundant element{\r}
+Dialogue: 0,0:14:04.35,0:14:07.27,Default,,0,0,0,,{\blur3}氢是最主要的元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the region of the Solar System at that point.{\r}
+Dialogue: 0,0:14:07.69,0:14:10.32,Default,,0,0,0,,{\blur3}大量的氢和其它元素结合 比如{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That abundant hydrogen is combining with elements such as{\r}
+Dialogue: 0,0:14:10.32,0:14:13.91,Default,,0,0,0,,{\blur3}和氧气合成水 和碳合成甲烷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}oxygen to form the water, or carbon to form the methane,{\r}
+Dialogue: 0,0:14:13.91,0:14:18.14,Default,,0,0,0,,{\blur3}或者和氮合成氨 从而有了这些合成物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or nitrogen to form the ammonia, and giving us those compounds,{\r}
+Dialogue: 0,0:14:18.14,0:14:19.65,Default,,0,0,0,,{\blur3}它们随后凝结成冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which are then freezing out.{\r}
+Dialogue: 0,0:14:25.42,0:14:28.15,Default,,0,0,0,,{\blur3}在扰动中不断的碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Continual collisions amid the turbulence...{\r}
+Dialogue: 0,0:14:30.42,0:14:32.56,Default,,0,0,0,,{\blur3}使微小的灰尘的冰粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}make tiny specks of dust and ice{\r}
+Dialogue: 0,0:14:32.56,0:14:35.86,Default,,0,0,0,,{\blur3}由于摩擦产生静电荷而结合在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stick together through friction and static electricity{\r}
+Dialogue: 0,0:14:36.19,0:14:39.23,Default,,0,0,0,,{\blur3}直至它们大到重力可以对它们产生影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until they're large enough for gravity to take over.{\r}
+Dialogue: 0,0:14:40.24,0:14:43.40,Default,,0,0,0,,{\blur3}最终它们形成星子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually, they become planetesimals.{\r}
+Dialogue: 0,0:14:45.96,0:14:49.02,Default,,0,0,0,,{\blur3}星子是太阳系形成的原始基础{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Planetesimals were the original building box of our Solar System.{\r}
+Dialogue: 0,0:14:49.24,0:14:50.44,Default,,0,0,0,,{\blur3}它们出奇的小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're incredibly small,{\r}
+Dialogue: 0,0:14:50.45,0:14:52.99,Default,,0,0,0,,{\blur3}直径大约在800到1600米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only about half a mile to a mile across,{\r}
+Dialogue: 0,0:14:52.99,0:14:55.28,Default,,0,0,0,,{\blur3}但在早期的太阳系中有无数的星子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but there was countless numbers in the early Solar System,{\r}
+Dialogue: 0,0:14:55.28,0:14:56.85,Default,,0,0,0,,{\blur3}它们到处都是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was simply littered with them.{\r}
+Dialogue: 0,0:14:57.93,0:14:59.77,Default,,0,0,0,,{\blur3}这些直径800米的星子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These half-mile planetesimals{\r}
+Dialogue: 0,0:15:00.17,0:15:05.84,Default,,0,0,0,,{\blur3}最终将形成大行星 但却大小不一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will eventually form full-scale planets, but of distinctly different sizes.{\r}
+Dialogue: 0,0:15:05.85,0:15:08.90,Default,,0,0,0,,{\blur3}这就是来自加州圣马特奥市的瑞安·陈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what Ryan Chan of San Mateo, California{\r}
+Dialogue: 0,0:15:08.90,0:15:12.43,Default,,0,0,0,,{\blur3}想要对宇宙提出的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}wanted to ask the universe by writing...{\r}
+Dialogue: 0,0:15:20.56,0:15:23.57,Default,,0,0,0,,{\blur3}瑞安 内太阳系的行星要比外围的小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ryan, the inner planets are smaller than the outter planets{\r}
+Dialogue: 0,0:15:23.57,0:15:26.77,Default,,0,0,0,,{\blur3}因为内行星的组成原料不够充足{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the inner planets didn't have much material from which to be made.{\r}
+Dialogue: 0,0:15:27.19,0:15:29.90,Default,,0,0,0,,{\blur3}只有金属 石头什么的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just metals, and rocks and things like that.{\r}
+Dialogue: 0,0:15:30.16,0:15:33.36,Default,,0,0,0,,{\blur3}但是外围的行星在形成一个类地的核心后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But outter planets, after forming an earthlike core,{\r}
+Dialogue: 0,0:15:33.36,0:15:38.26,Default,,0,0,0,,{\blur3}可以吸收冰态的水 甲烷和二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were able to attract ices of water, amonium, methane and carbon dioxide{\r}
+Dialogue: 0,0:15:38.26,0:15:39.34,Default,,0,0,0,,{\blur3}这使它们变得更大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that made them get bigger,{\r}
+Dialogue: 0,0:15:39.83,0:15:44.83,Default,,0,0,0,,{\blur3}同时它们的引力吸引气体从而越来越大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then their gravitationally attracted gases, becoming much, much bigger.{\r}
+Dialogue: 0,0:15:49.60,0:15:51.63,Default,,0,0,0,,{\blur3}诞生起点后的三百万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}3 million years after time zero,{\r}
+Dialogue: 0,0:15:51.93,0:15:54.40,Default,,0,0,0,,{\blur3}星子合并为 更大的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planetesimals are merging into bigger objects{\r}
+Dialogue: 0,0:15:54.75,0:15:58.75,Default,,0,0,0,,{\blur3}我们称之为行星胚胎或者原行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called planet embryos or protoplanets.{\r}
+Dialogue: 0,0:16:00.06,0:16:02.45,Default,,0,0,0,,{\blur3}原行星是由星子形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Protoplanets are built up of planetesimals,{\r}
+Dialogue: 0,0:16:02.45,0:16:04.87,Default,,0,0,0,,{\blur3}因此它们更大 和月亮差不多大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they're larger, about the size of our Moon.{\r}
+Dialogue: 0,0:16:06.21,0:16:09.88,Default,,0,0,0,,{\blur3}在冰雪带之外 处处皆冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just beyond the snow line, where ice is most abundant,{\r}
+Dialogue: 0,0:16:09.88,0:16:13.24,Default,,0,0,0,,{\blur3}随着大量原行星的碰撞和融合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the teeming mob of protoplanets collide and fuse{\r}
+Dialogue: 0,0:16:13.24,0:16:15.55,Default,,0,0,0,,{\blur3}行星迅速形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a frenzy of planet-building.{\r}
+Dialogue: 0,0:16:16.95,0:16:18.54,Default,,0,0,0,,{\blur3}只用了三百万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Within just 3 million years,{\r}
+Dialogue: 0,0:16:18.82,0:16:21.68,Default,,0,0,0,,{\blur3}这些碰撞便形成一颗冰冻的早期行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these collisions give birth to a frozen young planet{\r}
+Dialogue: 0,0:16:22.35,0:16:25.60,Default,,0,0,0,,{\blur3}而它注定成为太阳系中的巨头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}destined to become the monster of the Solar System...{\r}
+Dialogue: 0,0:16:25.60,0:16:27.80,Default,,0,0,0,,{\blur3}它就是早期的木星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The infant Jupiter.{\r}
+Dialogue: 0,0:16:28.18,0:16:30.29,Default,,0,0,0,,{\blur3}在它成为巨大的行星之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Before it became a giant planet,{\r}
+Dialogue: 0,0:16:30.29,0:16:32.13,Default,,0,0,0,,{\blur3}木星就好像是一颗巨型地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter was like a sort of super Earth.{\r}
+Dialogue: 0,0:16:32.13,0:16:34.46,Default,,0,0,0,,{\blur3}质量是地球的十到十五倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe 10 or 15 Earth masses.{\r}
+Dialogue: 0,0:16:35.74,0:16:39.83,Default,,0,0,0,,{\blur3}早期的木星由岩石和冰组成 并且不断增大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The early Jupiter is made of rock and ice and continues to grow.{\r}
+Dialogue: 0,0:16:40.32,0:16:41.75,Default,,0,0,0,,{\blur3}在一个关键时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At a crucial moment,{\r}
+Dialogue: 0,0:16:41.92,0:16:45.60,Default,,0,0,0,,{\blur3}最后一颗原行星撞到了木星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one last protoplanet slams into its surface.{\r}
+Dialogue: 0,0:16:52.98,0:16:55.16,Default,,0,0,0,,{\blur3}对于太阳系的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's another roller coaster like tipping point{\r}
+Dialogue: 0,0:16:55.46,0:16:57.77,Default,,0,0,0,,{\blur3}这又是一次转折性的时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the making of the Solar System.{\r}
+Dialogue: 0,0:17:04.49,0:17:07.00,Default,,0,0,0,,{\blur3}增加的质量使木星突破临界点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The added mass sends Jupiter over the edge{\r}
+Dialogue: 0,0:17:07.37,0:17:10.53,Default,,0,0,0,,{\blur3}变成一个引力强大的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to become a gravitational bully.{\r}
+Dialogue: 0,0:17:11.14,0:17:13.21,Default,,0,0,0,,{\blur3}当它达到一个临界质量后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After it reached a certain critical mass,{\r}
+Dialogue: 0,0:17:13.56,0:17:17.58,Default,,0,0,0,,{\blur3}木星的引力可以快速的吸引原料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter's gravity was able to very quickly draw in material,{\r}
+Dialogue: 0,0:17:17.87,0:17:22.01,Default,,0,0,0,,{\blur3}类似失控效应 它迅速变大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sort of a runaway effect that made it very large very fast.{\r}
+Dialogue: 0,0:17:23.14,0:17:25.86,Default,,0,0,0,,{\blur3}就像一台宇宙吸尘器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like a cosmic vacuum cleaner,{\r}
+Dialogue: 0,0:17:25.86,0:17:28.94,Default,,0,0,0,,{\blur3}木星吸引了在它运行轨道上的所有气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter sweeps up virtually all the gas in its orbital path,{\r}
+Dialogue: 0,0:17:28.94,0:17:34.32,Default,,0,0,0,,{\blur3}增至现在体积的90% 这只用了十万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}growing to 90% of its present size in just 100,000 years.{\r}
+Dialogue: 0,0:17:36.69,0:17:39.91,Default,,0,0,0,,{\blur3}土星 海王星和天王星在木星之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Saturn, Neptune, and Uranus in turn follow Jupiter{\r}
+Dialogue: 0,0:17:39.91,0:17:43.98,Default,,0,0,0,,{\blur3}吞噬了足够的气体 变身为气体巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in devouring enough gas to become gas giants.{\r}
+Dialogue: 0,0:17:45.25,0:17:47.99,Default,,0,0,0,,{\blur3}这种一颗或多颗行星的吞噬行为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The dramatic sweep of one or more planets{\r}
+Dialogue: 0,0:17:47.99,0:17:50.48,Default,,0,0,0,,{\blur3}为恒星盘清理出了一条轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}clearing a lane through a disc around a star{\r}
+Dialogue: 0,0:17:50.49,0:17:53.06,Default,,0,0,0,,{\blur3}这种现象在宇宙中十分常见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is thought to be common in the universe,{\r}
+Dialogue: 0,0:17:53.43,0:17:57.15,Default,,0,0,0,,{\blur3}最近一次观测发现证实了此现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a fact borne out in recent telescope discoveries.{\r}
+Dialogue: 0,0:17:58.65,0:18:02.27,Default,,0,0,0,,{\blur3}该过程在其他太阳系形成中也曾出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We see this process happening in other solar systems being formed as well.{\r}
+Dialogue: 0,0:18:02.50,0:18:06.21,Default,,0,0,0,,{\blur3}最终我们可以捕捉其他恒星周围的原行星盘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're finally at the point where we can image other discs around stars{\r}
+Dialogue: 0,0:18:06.22,0:18:08.27,Default,,0,0,0,,{\blur3}以及环绕它们的大行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the gaps that are being created by the large planets{\r}
+Dialogue: 0,0:18:08.61,0:18:09.74,Default,,0,0,0,,{\blur3}所清理出的缺口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are orbiting them.{\r}
+Dialogue: 0,0:18:12.00,0:18:17.82,Default,,0,0,0,,{\blur3}11年初 天文学家用夏威夷的斯巴鲁望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In early 2011, astronomers using the Subaru telescope in Hawaii{\r}
+Dialogue: 0,0:18:17.82,0:18:22.57,Default,,0,0,0,,{\blur3}拍到了一张距地球450光年的恒星照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}released a photograph of a star 450 light years from earth.{\r}
+Dialogue: 0,0:18:23.93,0:18:26.06,Default,,0,0,0,,{\blur3}先进的光学掩模使他们可以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An advanced optical mask allowed them{\r}
+Dialogue: 0,0:18:26.39,0:18:29.68,Default,,0,0,0,,{\blur3}屏蔽掉恒星本身的光芒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to block out the light of the star itself,{\r}
+Dialogue: 0,0:18:29.68,0:18:32.60,Default,,0,0,0,,{\blur3}显示出原行星盘首个直接图像{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}revealing the first direct image of a disc with zones{\r}
+Dialogue: 0,0:18:32.93,0:18:35.27,Default,,0,0,0,,{\blur3}以及行星清理出的区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cleared out by orbiting planets.{\r}
+Dialogue: 0,0:18:37.03,0:18:40.62,Default,,0,0,0,,{\blur3}那是一张惊人的高分辨率照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's a really amazing high-resolution image{\r}
+Dialogue: 0,0:18:40.62,0:18:42.98,Default,,0,0,0,,{\blur3}从它可已看出由气体和灰尘形成的原行星盘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that shows a disc of gas and dust around a star,{\r}
+Dialogue: 0,0:18:43.38,0:18:47.75,Default,,0,0,0,,{\blur3}以及内层已被一颗或多颗行星吸附{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the inner parts have been carved out by one or more planets{\r}
+Dialogue: 0,0:18:47.91,0:18:49.38,Default,,0,0,0,,{\blur3}作为原料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have accreted material{\r}
+Dialogue: 0,0:18:49.49,0:18:52.28,Default,,0,0,0,,{\blur3}同时将其它原料驱走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and also flung other material away.{\r}
+Dialogue: 0,0:18:55.05,0:18:57.43,Default,,0,0,0,,{\blur3}经过三百万年时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}3 million years along the timeline,{\r}
+Dialogue: 0,0:18:57.65,0:19:00.94,Default,,0,0,0,,{\blur3}木星和土星已经成为太阳系的巨头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter and Saturn are now the titans of the Solar System.{\r}
+Dialogue: 0,0:19:02.43,0:19:06.34,Default,,0,0,0,,{\blur3}这两个巨头最终包含了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The two giant planets will eventually contain 92%{\r}
+Dialogue: 0,0:19:06.57,0:19:10.29,Default,,0,0,0,,{\blur3}整个星系92%的非太阳质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of all the non-solar mass in the entire system.{\r}
+Dialogue: 0,0:19:13.33,0:19:15.18,Default,,0,0,0,,{\blur3}在它形成的一千万年内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}10 million years into its life,{\r}
+Dialogue: 0,0:19:15.18,0:19:18.73,Default,,0,0,0,,{\blur3}年轻的太阳系几乎没有气体了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the young Solar System is virtually out of gas.{\r}
+Dialogue: 0,0:19:19.61,0:19:23.19,Default,,0,0,0,,{\blur3}而正是是氢气和氦气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this case the gas is the hydrogen and helium{\r}
+Dialogue: 0,0:19:23.19,0:19:26.27,Default,,0,0,0,,{\blur3}造就了木星和土星的快速成长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that fueled Jupiter and Saturn's swift growth.{\r}
+Dialogue: 0,0:19:26.86,0:19:29.25,Default,,0,0,0,,{\blur3}恒星形成过程中会释放超级太阳风{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The forming star had this huge solar wind that was{\r}
+Dialogue: 0,0:19:29.25,0:19:31.71,Default,,0,0,0,,{\blur3}将原料吹离太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}clearing material out of the Solar System.{\r}
+Dialogue: 0,0:19:31.71,0:19:33.42,Default,,0,0,0,,{\blur3}木星和土星十分幸运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter and Saturn were fortunate enough{\r}
+Dialogue: 0,0:19:33.42,0:19:35.74,Default,,0,0,0,,{\blur3}它们吞噬了轨道上吹散的大部分原料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to pick up most of this material in their orbits,{\r}
+Dialogue: 0,0:19:35.75,0:19:37.37,Default,,0,0,0,,{\blur3}所以他们特别大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is why they're so large.{\r}
+Dialogue: 0,0:19:37.37,0:19:39.68,Default,,0,0,0,,{\blur3}天王星和海王星则不那么走运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Uranus and Neptune were a bit later to the game{\r}
+Dialogue: 0,0:19:39.84,0:19:41.88,Default,,0,0,0,,{\blur3}他们没能得到那么多原料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and were unable to pick up as much material,{\r}
+Dialogue: 0,0:19:41.88,0:19:43.99,Default,,0,0,0,,{\blur3}所以他们要比木星和土星小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is why they're smaller than Jupiter and Saturn.{\r}
+Dialogue: 0,0:19:44.77,0:19:47.90,Default,,0,0,0,,{\blur3}在灰尘和气体被吹走的这段时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During the time before the dust and gas were blown away,{\r}
+Dialogue: 0,0:19:48.14,0:19:52.61,Default,,0,0,0,,{\blur3}正在形成的太阳系在宇宙中深藏不露{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the forming Solar System was largely hidden from the rest of the universe.{\r}
+Dialogue: 0,0:19:53.75,0:19:56.69,Default,,0,0,0,,{\blur3}尽管灰尘和气体形成了行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even as dust and gas were forming planets,{\r}
+Dialogue: 0,0:19:56.69,0:19:58.58,Default,,0,0,0,,{\blur3}但原行星盘还是足够厚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the disc remained thick enough{\r}
+Dialogue: 0,0:19:58.58,0:20:01.64,Default,,0,0,0,,{\blur3}能阻档来自太阳系中心的元太阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to block light from the protosun at the center.{\r}
+Dialogue: 0,0:20:02.76,0:20:06.39,Default,,0,0,0,,{\blur3}在数倍日地距离的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At a distance of several Earth distances from the Sun{\r}
+Dialogue: 0,0:20:06.39,0:20:08.27,Default,,0,0,0,,{\blur3}假如你向太阳看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for example, looking towards the Sun{\r}
+Dialogue: 0,0:20:08.46,0:20:10.15,Default,,0,0,0,,{\blur3}在太阳系早期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the early phases of the Solar System,{\r}
+Dialogue: 0,0:20:10.15,0:20:11.64,Default,,0,0,0,,{\blur3}我们看不见太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we wouldn't be able to see the Sun.{\r}
+Dialogue: 0,0:20:11.64,0:20:13.52,Default,,0,0,0,,{\blur3}根本没有可见光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We wouldn't be able to see the visible light.{\r}
+Dialogue: 0,0:20:16.55,0:20:18.96,Default,,0,0,0,,{\blur3}那么早期的太阳系在遥远的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What would the early Solar System have looked like{\r}
+Dialogue: 0,0:20:18.96,0:20:23.19,Default,,0,0,0,,{\blur3}外星人的眼中是什么样的呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to alien astronomers gazing at us from even greater distances?{\r}
+Dialogue: 0,0:20:24.92,0:20:29.63,Default,,0,0,0,,{\blur3}哈勃望远镜为我们拍下了几张距离地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Hubble space telescope shows us with photos of protoplanetary discs{\r}
+Dialogue: 0,0:20:29.63,0:20:34.57,Default,,0,0,0,,{\blur3}1350光年之遥的恒星原行星盘的照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a star-forming region 1,350 light years from Earth.{\r}
+Dialogue: 0,0:20:36.50,0:20:39.32,Default,,0,0,0,,{\blur3}相对于我们的视线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can see them at a variety of angles, tilts{\r}
+Dialogue: 0,0:20:39.60,0:20:41.82,Default,,0,0,0,,{\blur3}我们能从许多角度看到它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}relative to our line of sight.{\r}
+Dialogue: 0,0:20:41.82,0:20:43.59,Default,,0,0,0,,{\blur3}比如 若它是正面朝我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For example, if they are face-on,{\r}
+Dialogue: 0,0:20:43.75,0:20:46.33,Default,,0,0,0,,{\blur3}我们可以看到被星盘包围的一个中央恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can see a central star surrounded by a disc.{\r}
+Dialogue: 0,0:20:46.59,0:20:49.26,Default,,0,0,0,,{\blur3}但是当我们从侧面看时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when we look at these objects edge-on,{\r}
+Dialogue: 0,0:20:49.73,0:20:54.05,Default,,0,0,0,,{\blur3}气体和灰尘就会阻挡我们看恒星的视线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the gas and dust that is between our line of sight{\r}
+Dialogue: 0,0:20:54.34,0:20:57.32,Default,,0,0,0,,{\blur3}使我们无法看到它的光芒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the central star blocks the light of the star.{\r}
+Dialogue: 0,0:20:58.94,0:21:02.67,Default,,0,0,0,,{\blur3}但现在 自太阳系开始形成一千万年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now, 10 million years after the Solar System began to form,{\r}
+Dialogue: 0,0:21:03.13,0:21:05.61,Default,,0,0,0,,{\blur3}气体和灰尘几乎散尽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the dust and gas virtually gone,{\r}
+Dialogue: 0,0:21:05.79,0:21:09.36,Default,,0,0,0,,{\blur3}准太阳的光芒照耀着宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the sun-to-be shines brilliantly through space.{\r}
+Dialogue: 0,0:21:12.26,0:21:15.87,Default,,0,0,0,,{\blur3}这时它还未真正经历恒星的形成过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has yet to go through the process of becoming a true star,{\r}
+Dialogue: 0,0:21:16.04,0:21:19.45,Default,,0,0,0,,{\blur3}它在现代人的眼中还很陌生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and at this point, it would seem strange to modern eyes.{\r}
+Dialogue: 0,0:21:21.21,0:21:23.05,Default,,0,0,0,,{\blur3}光谱与现在有很大区别{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The spectrum of light was very different.{\r}
+Dialogue: 0,0:21:23.05,0:21:26.15,Default,,0,0,0,,{\blur3}它释放出巨大的能量 和现在一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it was putting out a lot of energy, just as it does today,{\r}
+Dialogue: 0,0:21:26.54,0:21:29.09,Default,,0,0,0,,{\blur3}但是在它的光谱中红色光谱更多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it was actually much redder in its spectrum.{\r}
+Dialogue: 0,0:21:29.09,0:21:33.01,Default,,0,0,0,,{\blur3}因此早期的太阳系和今天相比{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that early Solar System would have been a very different color{\r}
+Dialogue: 0,0:21:33.22,0:21:35.21,Default,,0,0,0,,{\blur3}颜色大为不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from what we see today.{\r}
+Dialogue: 0,0:21:36.19,0:21:38.84,Default,,0,0,0,,{\blur3}原恒星是橘黄色的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The protostar, orange-yellow in appearance,{\r}
+Dialogue: 0,0:21:38.84,0:21:40.74,Default,,0,0,0,,{\blur3}温度极高 活动剧烈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a seething cauldron.{\r}
+Dialogue: 0,0:21:43.96,0:21:45.04,Default,,0,0,0,,{\blur3}在一些星系中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In some systems,{\r}
+Dialogue: 0,0:21:45.39,0:21:49.19,Default,,0,0,0,,{\blur3}收缩云的中心只是闪烁着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the cores of contracting clouds never glow with anything more{\r}
+Dialogue: 0,0:21:49.19,0:21:52.05,Default,,0,0,0,,{\blur3}棕矮星微弱的光芒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the dim light of dull brown dwarfs.{\r}
+Dialogue: 0,0:21:53.45,0:21:56.45,Default,,0,0,0,,{\blur3}我们早期的太阳现在面临一个关键时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our early Sun now nears a critical point.{\r}
+Dialogue: 0,0:21:56.45,0:21:59.28,Default,,0,0,0,,{\blur3}其炽热的内部是否会消散瓦解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Will its internal furnace sputter and fail,{\r}
+Dialogue: 0,0:21:59.28,0:22:01.75,Default,,0,0,0,,{\blur3}还是会冲破核障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or will it breach the nuclear threshold{\r}
+Dialogue: 0,0:22:01.75,0:22:06.16,Default,,0,0,0,,{\blur3}在广袤的星系中以真正的恒星之光闪耀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and shine across the galaxy with all the brilliance of a true star?{\r}
+Dialogue: 0,0:22:14.09,0:22:16.21,Default,,0,0,0,,{\blur3}现在是太阳系形成过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are now at the most critical point{\r}
+Dialogue: 0,0:22:16.21,0:22:17.89,Default,,0,0,0,,{\blur3}至关重要的时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the making of our Solar System.{\r}
+Dialogue: 0,0:22:19.05,0:22:21.05,Default,,0,0,0,,{\blur3}太阳诞生五千万年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At 50 million years old,{\r}
+Dialogue: 0,0:22:21.06,0:22:23.41,Default,,0,0,0,,{\blur3}原太阳及其周围的行星年龄{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the protosun and its forming planets{\r}
+Dialogue: 0,0:22:23.54,0:22:25.92,Default,,0,0,0,,{\blur3}连现在的百分之一都不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are barely 1% of their present age.{\r}
+Dialogue: 0,0:22:28.05,0:22:28.87,Default,,0,0,0,,{\blur3}在诸多系统中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In many systems,{\r}
+Dialogue: 0,0:22:29.18,0:22:32.39,Default,,0,0,0,,{\blur3}中央星没有有足够的质量使其全面燃烧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the central star doesn't have enough mass to fully ignite.{\r}
+Dialogue: 0,0:22:33.87,0:22:36.57,Default,,0,0,0,,{\blur3}但是太阳却可以打破这一命运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But our Sun is about to overcome that fate.{\r}
+Dialogue: 0,0:22:37.73,0:22:40.57,Default,,0,0,0,,{\blur3}它已到达热量和压力的临界点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has reached the critical threshold of heat and pressure{\r}
+Dialogue: 0,0:22:41.38,0:22:43.72,Default,,0,0,0,,{\blur3}因此其中心可以进行核聚变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where nuclear fusion can begin in its core.{\r}
+Dialogue: 0,0:22:47.97,0:22:52.44,Default,,0,0,0,,{\blur3}借助与氢弹爆炸的同类能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Using the same awesome energy that powers the hydrogen bomb,{\r}
+Dialogue: 0,0:22:52.44,0:22:57.11,Default,,0,0,0,,{\blur3}太阳浴火而生 成为新生的完整恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our Sun bursts into life as a fully-formed newborn star.{\r}
+Dialogue: 0,0:23:00.06,0:23:03.79,Default,,0,0,0,,{\blur3}从太阳系开始形成起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In about 50 million years into the life of the Solar System's,{\r}
+Dialogue: 0,0:23:03.94,0:23:05.77,Default,,0,0,0,,{\blur3}的五千万年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since it first began forming,{\r}
+Dialogue: 0,0:23:06.07,0:23:07.66,Default,,0,0,0,,{\blur3}太阳进入了一个不同形成阶段{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Sun goes into a different phase,{\r}
+Dialogue: 0,0:23:07.91,0:23:10.43,Default,,0,0,0,,{\blur3}不断燃烧氢气 进行核聚变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}burning hydrogen, actually doing nuclear fusion.{\r}
+Dialogue: 0,0:23:10.66,0:23:12.36,Default,,0,0,0,,{\blur3}那时太阳演变成了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At that point the sun becomes{\r}
+Dialogue: 0,0:23:12.46,0:23:14.95,Default,,0,0,0,,{\blur3}我们现在所认为的完全意义上的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what we think of as now a fully-fledged star.{\r}
+Dialogue: 0,0:23:17.32,0:23:20.35,Default,,0,0,0,,{\blur3}太阳会随着核聚变不断向前发展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nuclear fusion will carry the Sun into the distant future.{\r}
+Dialogue: 0,0:23:21.71,0:23:22.86,Default,,0,0,0,,{\blur3}它会燃烧足够长的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It will burn long enough{\r}
+Dialogue: 0,0:23:23.02,0:23:24.87,Default,,0,0,0,,{\blur3}以支撑地球上生命的进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to support the evolution of life on Earth,{\r}
+Dialogue: 0,0:23:24.98,0:23:29.05,Default,,0,0,0,,{\blur3}并将持续发光一百亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}shining unceasingly for about 10 billion years.{\r}
+Dialogue: 0,0:23:32.46,0:23:34.62,Default,,0,0,0,,{\blur3}与新生的太阳所不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unlike the newly nuclear Sun,{\r}
+Dialogue: 0,0:23:35.16,0:23:38.01,Default,,0,0,0,,{\blur3}太阳系其他行星还未成形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the rest of the Solar System is far from mature.{\r}
+Dialogue: 0,0:23:39.74,0:23:44.58,Default,,0,0,0,,{\blur3}四千万年前 冰雪带外冰冻的气体巨行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}40 million years earlier, the frozen gas giants outside the snow line{\r}
+Dialogue: 0,0:23:44.61,0:23:48.18,Default,,0,0,0,,{\blur3}停止生长 达到其冰冻稳定期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ceased to grow and achieved an icy stability.{\r}
+Dialogue: 0,0:23:50.48,0:23:52.42,Default,,0,0,0,,{\blur3}但在炽热的内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in the hot inner solar system,{\r}
+Dialogue: 0,0:23:52.92,0:23:55.45,Default,,0,0,0,,{\blur3}那里气体稀少 但充满岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where gas is rare but rocks abound,{\r}
+Dialogue: 0,0:23:55.95,0:23:57.75,Default,,0,0,0,,{\blur3}依旧混乱不堪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}chaos still reigns.{\r}
+Dialogue: 0,0:24:00.19,0:24:02.44,Default,,0,0,0,,{\blur3}当太阳成为真正意义上的恒星时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By the time that the Sun has become a full-fledges star{\r}
+Dialogue: 0,0:24:02.56,0:24:04.46,Default,,0,0,0,,{\blur3}太阳系内部的其他行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the planets in the inner part of the Solar System{\r}
+Dialogue: 0,0:24:04.54,0:24:05.79,Default,,0,0,0,,{\blur3}还处于形成过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are still trying to grow,{\r}
+Dialogue: 0,0:24:05.89,0:24:08.50,Default,,0,0,0,,{\blur3}有些小型原行星聚齐在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are small little protoplanets that are building together,{\r}
+Dialogue: 0,0:24:08.56,0:24:11.12,Default,,0,0,0,,{\blur3}相互碰撞 逐渐变大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}colliding, getting larger and larger,{\r}
+Dialogue: 0,0:24:11.28,0:24:13.43,Default,,0,0,0,,{\blur3}最终形成太阳系中的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}eventually to become those four big planets{\r}
+Dialogue: 0,0:24:13.50,0:24:15.06,Default,,0,0,0,,{\blur3}四大行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we have in the inner Solar System.{\r}
+Dialogue: 0,0:24:16.32,0:24:20.25,Default,,0,0,0,,{\blur3}在木星轨道内的一片狭小区域中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But just inside the orbit of Jupiter lies a narrow region{\r}
+Dialogue: 0,0:24:20.46,0:24:22.88,Default,,0,0,0,,{\blur3}星子数量繁多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where the smaller planetesimals rule{\r}
+Dialogue: 0,0:24:23.06,0:24:25.10,Default,,0,0,0,,{\blur3}而原行星则极其稀少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and protoplanets are rare.{\r}
+Dialogue: 0,0:24:26.96,0:24:31.31,Default,,0,0,0,,{\blur3}这便是星子带 木星对其进行干扰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is the asteroid belt, where Jupiter stirs things up{\r}
+Dialogue: 0,0:24:31.42,0:24:33.26,Default,,0,0,0,,{\blur3}阻止了行星的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to prevent any planets from forming.{\r}
+Dialogue: 0,0:24:35.94,0:24:38.68,Default,,0,0,0,,{\blur3}木星是最大的行星 它产生的重力影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter is the largest planet so its gravitational influence{\r}
+Dialogue: 0,0:24:38.75,0:24:40.48,Default,,0,0,0,,{\blur3}是太阳系中最大的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the greatest in the Solar System.{\r}
+Dialogue: 0,0:24:40.56,0:24:42.33,Default,,0,0,0,,{\blur3}在太阳系形成初期的一个时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was a point in the early Solar System{\r}
+Dialogue: 0,0:24:42.41,0:24:44.87,Default,,0,0,0,,{\blur3}木星穿过了现在称为星子带的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where Jupiter was passing through what's now the asteroid belt,{\r}
+Dialogue: 0,0:24:45.02,0:24:47.66,Default,,0,0,0,,{\blur3}加快了那里星子的运行速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pumping up the velocities of the planetesimals there,{\r}
+Dialogue: 0,0:24:47.84,0:24:49.80,Default,,0,0,0,,{\blur3}使它们相互间发生了毁灭性的碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}causing them to collide in a destructive manner.{\r}
+Dialogue: 0,0:24:50.05,0:24:50.69,Default,,0,0,0,,{\blur3}然后它们就瓦解了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They blew apart.{\r}
+Dialogue: 0,0:24:53.00,0:24:55.36,Default,,0,0,0,,{\blur3}我们试着模拟星子带中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're gonna try to get a feel for what a destructive collision{\r}
+Dialogue: 0,0:24:55.44,0:24:56.69,Default,,0,0,0,,{\blur3}所发生的毁灭性碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is like in the asteroid belt.{\r}
+Dialogue: 0,0:24:56.73,0:24:58.76,Default,,0,0,0,,{\blur3}但不能用真正的石头 因为它们太硬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But we can't use real rocks because they're too hard{\r}
+Dialogue: 0,0:24:58.82,0:25:00.95,Default,,0,0,0,,{\blur3}而且我们能提供的速度很小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the velocities available to us are too slow,{\r}
+Dialogue: 0,0:25:01.03,0:25:01.57,Default,,0,0,0,,{\blur3}所以我们要做的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so what we're going to do{\r}
+Dialogue: 0,0:25:01.62,0:25:03.96,Default,,0,0,0,,{\blur3}使用这些特制的轻质石头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is use these special lightweight rocks,{\r}
+Dialogue: 0,0:25:03.99,0:25:06.64,Default,,0,0,0,,{\blur3}这些是由特效师瑞安·强森制作的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which were made for us by Ryan Johnson, a special effects artist.{\r}
+Dialogue: 0,0:25:07.73,0:25:08.59,Default,,0,0,0,,{\blur3}瑞安 你能介绍一下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ryan, can you tell us about{\r}
+Dialogue: 0,0:25:08.64,0:25:10.63,Default,,0,0,0,,{\blur3}这些特制的星子模型吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these special lightweight simulated asteroids?{\r}
+Dialogue: 0,0:25:10.71,0:25:11.56,Default,,0,0,0,,{\blur3}没问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sure.{\r}
+Dialogue: 0,0:25:11.69,0:25:13.63,Default,,0,0,0,,{\blur3}我们使用的这些模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So these props that we've developed here{\r}
+Dialogue: 0,0:25:13.81,0:25:17.14,Default,,0,0,0,,{\blur3}是类似泡沫塑料的东西 在电影中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are a foamed plaster-type material that we use to{\r}
+Dialogue: 0,0:25:17.23,0:25:20.38,Default,,0,0,0,,{\blur3}用来充当真正的石头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}simulate real rocks in movies and films and things like that.{\r}
+Dialogue: 0,0:25:20.46,0:25:23.35,Default,,0,0,0,,{\blur3}当我们想要打碎一些坚硬的东西时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whenever we want something to break that looks like it's hard,{\r}
+Dialogue: 0,0:25:23.36,0:25:26.17,Default,,0,0,0,,{\blur3}这种东西很容易就能碎掉 能变得粉碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this stuff breaks really easy, and it crumbles.{\r}
+Dialogue: 0,0:25:26.22,0:25:29.59,Default,,0,0,0,,{\blur3}所以我们要用这种材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what we've done is we've taken this same material,{\r}
+Dialogue: 0,0:25:29.76,0:25:32.56,Default,,0,0,0,,{\blur3}制造一个更大的模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we've developed a much larger one{\r}
+Dialogue: 0,0:25:32.70,0:25:35.00,Default,,0,0,0,,{\blur3}来模拟星子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're gonna use to simulate an asteroid.{\r}
+Dialogue: 0,0:25:35.05,0:25:36.57,Default,,0,0,0,,{\blur3}这里有两个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we've got two of these,{\r}
+Dialogue: 0,0:25:36.74,0:25:39.33,Default,,0,0,0,,{\blur3}我们要把他们狠狠地杂碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we'll smash 'em together really hard,{\r}
+Dialogue: 0,0:25:39.38,0:25:41.19,Default,,0,0,0,,{\blur3}希望能模拟出星子碰撞的效果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that'll hopefully simulate the collision of an asteroid.{\r}
+Dialogue: 0,0:25:41.26,0:25:42.55,Default,,0,0,0,,{\blur3}你觉得我们应该用多大速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what sort of speed do you think we need{\r}
+Dialogue: 0,0:25:42.72,0:25:44.16,Default,,0,0,0,,{\blur3}才能让它们撞碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to smash them together so they'll break?{\r}
+Dialogue: 0,0:25:44.19,0:25:46.42,Default,,0,0,0,,{\blur3}只需要其中一个从适合的高度落下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We just need to drop one on top of another{\r}
+Dialogue: 0,0:25:46.43,0:25:50.40,Default,,0,0,0,,{\blur3}砸向另一个 这么高就行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from a reasonable height, and, uh... Something like that.{\r}
+Dialogue: 0,0:25:51.25,0:25:52.60,Default,,0,0,0,,{\blur3}好吧 来试试{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, let's try it.{\r}
+Dialogue: 0,0:25:59.38,0:26:01.00,Default,,0,0,0,,{\blur3}把线锤放下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Looks, drop the cone{\r}
+Dialogue: 0,0:26:01.30,0:26:03.85,Default,,0,0,0,,{\blur3}降落高度有5.5米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The distance of the drop is about 18 feet,{\r}
+Dialogue: 0,0:26:05.32,0:26:07.17,Default,,0,0,0,,{\blur3}可以使降落星子模型的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which will give the falling asteroid a speed{\r}
+Dialogue: 0,0:26:07.27,0:26:08.88,Default,,0,0,0,,{\blur3}达到每小时60公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of 37 miles per hour.{\r}
+Dialogue: 0,0:26:09.12,0:26:09.87,Default,,0,0,0,,{\blur3}再向下一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Little bit more.{\r}
+Dialogue: 0,0:26:10.40,0:26:11.89,Default,,0,0,0,,{\blur3}很好 很好 就在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Perfect. Perfect, right there.{\r}
+Dialogue: 0,0:26:21.74,0:26:23.07,Default,,0,0,0,,{\blur3}好了 瑞安 我准备好了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, Ryan, I'm ready for the drop.{\r}
+Dialogue: 0,0:26:23.19,0:26:24.57,Default,,0,0,0,,{\blur3}好的 风有些大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, it's pretty windy,{\r}
+Dialogue: 0,0:26:24.66,0:26:25.94,Default,,0,0,0,,{\blur3}我们看看效果如何{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we'll see how we do.{\r}
+Dialogue: 0,0:26:33.88,0:26:36.17,Default,,0,0,0,,{\blur3}很好 非常棒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All right! That is excellent.{\r}
+Dialogue: 0,0:26:47.40,0:26:50.31,Default,,0,0,0,,{\blur3}- 我觉得很成功 - 谢谢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- I would say that's a success. - Oh, thanks.{\r}
+Dialogue: 0,0:26:50.44,0:26:52.33,Default,,0,0,0,,{\blur3}- 很不错 - 是啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Yeah, that looks good. - Yep.{\r}
+Dialogue: 0,0:26:52.39,0:26:54.45,Default,,0,0,0,,{\blur3}真奇妙 它们都分散开了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's amazing, how much it's, like, really spread out.{\r}
+Dialogue: 0,0:26:54.52,0:26:57.17,Default,,0,0,0,,{\blur3}没错 在星子带 这些碎块会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right, so in the asteroid belt, all these pieces would{\r}
+Dialogue: 0,0:26:57.18,0:27:00.17,Default,,0,0,0,,{\blur3}因引力作用重新聚合 形成瓦砾堆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gravitate back together and form a rubble pile,{\r}
+Dialogue: 0,0:27:00.27,0:27:01.87,Default,,0,0,0,,{\blur3}就是现在所说的星子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what we would call an asteroid today.{\r}
+Dialogue: 0,0:27:01.94,0:27:04.05,Default,,0,0,0,,{\blur3}如果它们一直向一处聚集{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if they're starting to come together all the time,{\r}
+Dialogue: 0,0:27:04.18,0:27:06.70,Default,,0,0,0,,{\blur3}是不是就同行星形成过程一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}isn't that the same process that actually forms a planet?{\r}
+Dialogue: 0,0:27:06.76,0:27:08.29,Default,,0,0,0,,{\blur3}那为什么行星不是这样形成的呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why wouldn't the planet form in that case?{\r}
+Dialogue: 0,0:27:08.35,0:27:09.19,Default,,0,0,0,,{\blur3}不是的 在那时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, no, because then{\r}
+Dialogue: 0,0:27:09.23,0:27:11.35,Default,,0,0,0,,{\blur3}这些星子一次又一次地遭到撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this thing gets hit again and again and again.{\r}
+Dialogue: 0,0:27:11.47,0:27:14.79,Default,,0,0,0,,{\blur3}受此影响 它们会保持碎裂的状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So these things keep getting pulverized by impacts,{\r}
+Dialogue: 0,0:27:14.82,0:27:17.40,Default,,0,0,0,,{\blur3}只剩下一些小型的独立的瓦砾堆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you're just left with little individual rubble piles,{\r}
+Dialogue: 0,0:27:17.45,0:27:18.38,Default,,0,0,0,,{\blur3}而不是完整的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than a complete planet.{\r}
+Dialogue: 0,0:27:18.47,0:27:21.35,Default,,0,0,0,,{\blur3}那这有没有模拟出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Does this reasonably replicate{\r}
+Dialogue: 0,0:27:21.42,0:27:24.52,Default,,0,0,0,,{\blur3}你所认为的星子碰撞的样子呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what you think possibly an asteroid collision would be?{\r}
+Dialogue: 0,0:27:24.59,0:27:26.29,Default,,0,0,0,,{\blur3}这个模拟效果很成功 事实上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a pretty good analogy, in fact,{\r}
+Dialogue: 0,0:27:26.37,0:27:28.02,Default,,0,0,0,,{\blur3}碰撞会产生大碎块 也会有细小粉末{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because you get large pieces, you get dust.{\r}
+Dialogue: 0,0:27:28.05,0:27:30.23,Default,,0,0,0,,{\blur3}所以我们认为的星子基本上是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so what we think are asteroids are basically rubble piles{\r}
+Dialogue: 0,0:27:30.28,0:27:32.39,Default,,0,0,0,,{\blur3}由大的碎块聚集而成的瓦砾堆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}composed of these large pieces put together,{\r}
+Dialogue: 0,0:27:32.56,0:27:34.20,Default,,0,0,0,,{\blur3}并覆盖在粉尘之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}covered then in dust.{\r}
+Dialogue: 0,0:27:34.31,0:27:36.76,Default,,0,0,0,,{\blur3}所以我觉得你做的很不错{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, uh, and so yeah, I think you did a good job.{\r}
+Dialogue: 0,0:27:36.87,0:27:39.78,Default,,0,0,0,,{\blur3}这就像是星子刚诞生的样子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This looks like a... Like a... The beginnings of an asteroid.{\r}
+Dialogue: 0,0:27:41.05,0:27:43.23,Default,,0,0,0,,{\blur3}- 太好了 真高兴成功了 - 没错{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Great. Well, I'm glad it worked. - Right.{\r}
+Dialogue: 0,0:27:47.31,0:27:49.69,Default,,0,0,0,,{\blur3}在现在的太阳系中并不是只有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The asteroid belt isn't the only region{\r}
+Dialogue: 0,0:27:49.76,0:27:52.13,Default,,0,0,0,,{\blur3}星子带中无法形成真正的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the emerging Solar System where planets fail to form.{\r}
+Dialogue: 0,0:27:53.51,0:27:55.58,Default,,0,0,0,,{\blur3}在太阳系的外缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the outer fringes of the Solar System,{\r}
+Dialogue: 0,0:27:55.74,0:28:00.67,Default,,0,0,0,,{\blur3}另一个小型物体构成的环带正静静运行着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another ring of small objects orbits in frozen silence...{\r}
+Dialogue: 0,0:28:00.67,0:28:01.61,Default,,0,0,0,,{\blur3}柯伊伯带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Kuiper belt.{\r}
+Dialogue: 0,0:28:03.13,0:28:06.56,Default,,0,0,0,,{\blur3}柯伊伯带位于海王星轨道之上和之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Kuiper belt is a region at and beyond the orbit of Neptune{\r}
+Dialogue: 0,0:28:06.65,0:28:09.86,Default,,0,0,0,,{\blur3}由岩石和冰体组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that has a whole bunch of rocky and icy objects.{\r}
+Dialogue: 0,0:28:09.92,0:28:11.41,Default,,0,0,0,,{\blur3}各物体之间相隔很远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pretty far away from one another.{\r}
+Dialogue: 0,0:28:11.45,0:28:14.35,Default,,0,0,0,,{\blur3}它们永远无法聚集而成一个行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, they were never able to coalesce to form a planet{\r}
+Dialogue: 0,0:28:14.41,0:28:16.86,Default,,0,0,0,,{\blur3}因为它们彼此间距离太远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because there's just not enough of them close enough together.{\r}
+Dialogue: 0,0:28:18.82,0:28:21.45,Default,,0,0,0,,{\blur3}太阳系诞生后的五千万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}50 million years after the Solar System was born,{\r}
+Dialogue: 0,0:28:21.74,0:28:25.66,Default,,0,0,0,,{\blur3}柯伊伯带和星子带中的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}both the Kuiper and the asteroid belts have 100 times{\r}
+Dialogue: 0,0:28:25.81,0:28:28.09,Default,,0,0,0,,{\blur3}是它们现在所含物体的一百多倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more objects in them than they do today.{\r}
+Dialogue: 0,0:28:28.75,0:28:32.56,Default,,0,0,0,,{\blur3}对于包括地球在内的岩石内行星的最终演化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These objects will play a monumentally destructive but vital role{\r}
+Dialogue: 0,0:28:33.02,0:28:37.95,Default,,0,0,0,,{\blur3}这些物体扮演着极具破坏性却又至关重要的角色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the final evolution of the rocky inner planets, including the Earth.{\r}
+Dialogue: 0,0:28:41.80,0:28:44.46,Default,,0,0,0,,{\blur3}内行星的形成时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The inner planets take as much as 10 times longer{\r}
+Dialogue: 0,0:28:44.57,0:28:47.70,Default,,0,0,0,,{\blur3}比冰雪带外的巨行星长十倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to form than the giant planets outside the snow line.{\r}
+Dialogue: 0,0:28:48.84,0:28:53.33,Default,,0,0,0,,{\blur3}七千五百万年后 这个过程接近完成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After 75 million years, the process is near completion.{\r}
+Dialogue: 0,0:28:54.78,0:28:57.79,Default,,0,0,0,,{\blur3}距离年轻的太阳约1.5亿公里处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 93 million miles from the young Sun,{\r}
+Dialogue: 0,0:28:57.79,0:29:02.52,Default,,0,0,0,,{\blur3}原始地球已达行星大小并处于较稳定轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the proto-Earth has reached planet size in a relatively stable orbit.{\r}
+Dialogue: 0,0:29:03.53,0:29:05.63,Default,,0,0,0,,{\blur3}但是它有个伴行者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it has a cosmic stalker.{\r}
+Dialogue: 0,0:29:07.03,0:29:11.99,Default,,0,0,0,,{\blur3}确切来说认为早期的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's actually believed that the Earth was, in its early phase,{\r}
+Dialogue: 0,0:29:12.08,0:29:18.28,Default,,0,0,0,,{\blur3}有另一颗原行星相伴 名为忒伊亚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}accompanied by another planet, a protoplanet called Theia,{\r}
+Dialogue: 0,0:29:18.28,0:29:20.81,Default,,0,0,0,,{\blur3}的确跟地球的轨道相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which was actually in a similar orbit to Earth,{\r}
+Dialogue: 0,0:29:21.06,0:29:23.99,Default,,0,0,0,,{\blur3}大致遵循同一路径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}essentially following roughly the same path.{\r}
+Dialogue: 0,0:29:25.43,0:29:28.67,Default,,0,0,0,,{\blur3}这对姐妹星以危险的双生形式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For millions of years, the sister planets{\r}
+Dialogue: 0,0:29:28.78,0:29:31.43,Default,,0,0,0,,{\blur3}围绕太阳互相追逐了几百万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}chase each other around the Sun in a dangerous duet.{\r}
+Dialogue: 0,0:29:32.65,0:29:33.97,Default,,0,0,0,,{\blur3}但是即将来到的碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But a clash is coming{\r}
+Dialogue: 0,0:29:34.08,0:29:37.65,Default,,0,0,0,,{\blur3}将对地球的命运产生巨大的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will have immense consequences for the fate of the Earth.{\r}
+Dialogue: 0,0:29:43.51,0:29:47.43,Default,,0,0,0,,{\blur3}八千万年前巨大气云的塌缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The making of our Solar System has gone on for 80 million years,{\r}
+Dialogue: 0,0:29:47.58,0:29:51.63,Default,,0,0,0,,{\blur3}我们太阳系才得以形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since the collapse of the giant gas cloud that started the process.{\r}
+Dialogue: 0,0:29:51.72,0:29:54.38,Default,,0,0,0,,{\blur3}内行星已经基本成型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The inner planets have largely taken shape,{\r}
+Dialogue: 0,0:29:55.43,0:29:59.74,Default,,0,0,0,,{\blur3}但是即将孕育生命的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but now the Earth, which will one day harbor life,{\r}
+Dialogue: 0,0:29:59.82,0:30:02.98,Default,,0,0,0,,{\blur3}现正面临夭折和巨变的危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}faces the potential of an early and cataclysmic death.{\r}
+Dialogue: 0,0:30:04.71,0:30:06.14,Default,,0,0,0,,{\blur3}数百万年来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For millions of years,{\r}
+Dialogue: 0,0:30:06.15,0:30:08.95,Default,,0,0,0,,{\blur3}原行星忒伊亚一直伴地球左右{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth has been followed by the protoplanet Theia.{\r}
+Dialogue: 0,0:30:10.30,0:30:13.21,Default,,0,0,0,,{\blur3}两颗星球基本在同一轨道运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The two bodies travel in essentially the same orbit,{\r}
+Dialogue: 0,0:30:13.45,0:30:16.51,Default,,0,0,0,,{\blur3}渐行渐近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gradually coming closer and closer.{\r}
+Dialogue: 0,0:30:18.50,0:30:22.75,Default,,0,0,0,,{\blur3}现在 地球和忒伊亚碰撞一触即发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, for Earth and Theia, it's crunch time.{\r}
+Dialogue: 0,0:30:29.22,0:30:32.12,Default,,0,0,0,,{\blur3}地球忒伊亚的碰撞在太阳系形成早期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Earth-Theia collision early in the history{\r}
+Dialogue: 0,0:30:32.20,0:30:34.89,Default,,0,0,0,,{\blur3}一定是件惊人的大事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Solar System must have been a spectacular event.{\r}
+Dialogue: 0,0:30:35.35,0:30:39.73,Default,,0,0,0,,{\blur3}一个火星大小的物体撞入地球侧面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A Mars-sized object came in and hit Earth side{\r}
+Dialogue: 0,0:30:39.87,0:30:44.51,Default,,0,0,0,,{\blur3}二者的部分地壳和地幔飞溅入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}splattering part of the crust and mantle of both objects into space,{\r}
+Dialogue: 0,0:30:44.76,0:30:48.29,Default,,0,0,0,,{\blur3}形成了一个碎片环 月球从此形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forming a ring of debris from which the moon then formed.{\r}
+Dialogue: 0,0:30:50.19,0:30:51.55,Default,,0,0,0,,{\blur3}地球在大灾变中幸存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Having survived the cataclysm{\r}
+Dialogue: 0,0:30:51.55,0:30:53.11,Default,,0,0,0,,{\blur3}并得到了一个月球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and gained a moon,{\r}
+Dialogue: 0,0:30:53.12,0:30:55.93,Default,,0,0,0,,{\blur3}作为内太阳系最稳定的行星之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth settles in as one of the stable planets{\r}
+Dialogue: 0,0:30:55.93,0:30:57.79,Default,,0,0,0,,{\blur3}地球得以安顿下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the inner Solar System.{\r}
+Dialogue: 0,0:30:59.49,0:31:03.40,Default,,0,0,0,,{\blur3}现在我们再来看看气态巨星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The drama now moves back to the gas giants,{\r}
+Dialogue: 0,0:31:03.46,0:31:06.71,Default,,0,0,0,,{\blur3}它那变换的轨道令太阳系有崩离的危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whose shifting orbits threaten to tear the Solar System apart.{\r}
+Dialogue: 0,0:31:10.14,0:31:12.29,Default,,0,0,0,,{\blur3}五亿年时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At 500 million years old,{\r}
+Dialogue: 0,0:31:12.47,0:31:15.00,Default,,0,0,0,,{\blur3}太阳系的所有行星都形成了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all of the Solar System's planets have been formed.{\r}
+Dialogue: 0,0:31:15.60,0:31:18.48,Default,,0,0,0,,{\blur3}但是在行星盘中围绕着碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But surrounded by debris in the planetary disc,{\r}
+Dialogue: 0,0:31:18.69,0:31:20.13,Default,,0,0,0,,{\blur3}它们也在活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they are on the move.{\r}
+Dialogue: 0,0:31:21.03,0:31:24.50,Default,,0,0,0,,{\blur3}随着原行星盘中密度纹的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As waves of density formed in the disc{\r}
+Dialogue: 0,0:31:24.92,0:31:30.31,Default,,0,0,0,,{\blur3}行星们几乎就在行星盘的实体纹中冲浪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the planets were almost surfing on the waves of material in the disc itself.{\r}
+Dialogue: 0,0:31:30.54,0:31:32.71,Default,,0,0,0,,{\blur3}从行星们形成的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're really shuffling the deck completely{\r}
+Dialogue: 0,0:31:32.71,0:31:37.72,Default,,0,0,0,,{\blur3}到你最终见到它们的位置大相近庭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from where planets are formed to where we finally see them.{\r}
+Dialogue: 0,0:31:39.13,0:31:42.54,Default,,0,0,0,,{\blur3}早期的太阳系 最远的三颗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the early Solar System, the three outermost planets,{\r}
+Dialogue: 0,0:31:42.63,0:31:46.48,Default,,0,0,0,,{\blur3}整体比它们今天离太阳近得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as a group, are closer to the Sun than they are today.{\r}
+Dialogue: 0,0:31:47.06,0:31:51.24,Default,,0,0,0,,{\blur3}海王星的原始轨道位于天王星内侧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And Neptune's original orbit is inside that of Uranus,{\r}
+Dialogue: 0,0:31:51.33,0:31:53.16,Default,,0,0,0,,{\blur3}与它们当前的位置相反{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the reverse of their current position.{\r}
+Dialogue: 0,0:31:54.47,0:31:58.69,Default,,0,0,0,,{\blur3}另外 星子带和库伯带包含的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In addition, the asteroid and kuiper belts each{\r}
+Dialogue: 0,0:31:58.74,0:32:00.94,Default,,0,0,0,,{\blur3}比它们今天要多一百倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have 100 times more material than they do today.{\r}
+Dialogue: 0,0:32:02.68,0:32:06.56,Default,,0,0,0,,{\blur3}这两个小区域不断地被巨行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The small bodies of both belts are constantly flung around{\r}
+Dialogue: 0,0:32:06.57,0:32:09.61,Default,,0,0,0,,{\blur3}及其强烈的引力甩动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by the giant planets and their intense gravity.{\r}
+Dialogue: 0,0:32:10.18,0:32:14.27,Default,,0,0,0,,{\blur3}大行星虽然巨大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As massive as they are, the big planets react{\r}
+Dialogue: 0,0:32:14.35,0:32:16.89,Default,,0,0,0,,{\blur3}但每次作用于某个星子时仍有反作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}every time they toss a planetesimal somewhere else.{\r}
+Dialogue: 0,0:32:17.17,0:32:20.99,Default,,0,0,0,,{\blur3}反作用也许很小 但叠加起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The reactions may be small, but they add up to{\r}
+Dialogue: 0,0:32:21.07,0:32:24.25,Default,,0,0,0,,{\blur3}使巨行星的轨道定期转移到新的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}make the orbits of the giant planets migrate to new positions.{\r}
+Dialogue: 0,0:32:25.50,0:32:28.53,Default,,0,0,0,,{\blur3}早期 外行星倾向于环绕而行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Early on, the outer planets tended to move around quite a bit.{\r}
+Dialogue: 0,0:32:28.85,0:32:30.10,Default,,0,0,0,,{\blur3}它们移动了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They migrated.{\r}
+Dialogue: 0,0:32:30.10,0:32:32.37,Default,,0,0,0,,{\blur3}现在 土星 天王星和海王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, Saturn, Uranus, and Neptune{\r}
+Dialogue: 0,0:32:32.37,0:32:35.70,Default,,0,0,0,,{\blur3}将星子送往太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sent planetesimals in toward the Sun.{\r}
+Dialogue: 0,0:32:36.03,0:32:38.65,Default,,0,0,0,,{\blur3}那意味着它们不得不慢慢向外移动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means they had to generally move outwards,{\r}
+Dialogue: 0,0:32:38.65,0:32:43.05,Default,,0,0,0,,{\blur3}而木星将星子远远地向外抛出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whereas Jupiter flung planetesimals out to very great distances,{\r}
+Dialogue: 0,0:32:43.05,0:32:45.09,Default,,0,0,0,,{\blur3}甚至抛出太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even ejected them from the Solar System,{\r}
+Dialogue: 0,0:32:45.16,0:32:48.38,Default,,0,0,0,,{\blur3}那意味着木星不得不往里面移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that means that Jupiter had to move in.{\r}
+Dialogue: 0,0:32:49.90,0:32:52.18,Default,,0,0,0,,{\blur3}什么决定了位置的变换{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What determines these in and out movements?{\r}
+Dialogue: 0,0:32:52.24,0:32:57.20,Default,,0,0,0,,{\blur3}基于物理能量守恒定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They result from a law of physics that says energy is never lost.{\r}
+Dialogue: 0,0:32:58.19,0:33:01.96,Default,,0,0,0,,{\blur3}当一颗行星弹出一颗星子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When a planet ejects a planetesimal,{\r}
+Dialogue: 0,0:33:02.05,0:33:03.44,Default,,0,0,0,,{\blur3}行星本身就往里移动一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the planet itself has to move in a little bit,{\r}
+Dialogue: 0,0:33:03.53,0:33:05.34,Default,,0,0,0,,{\blur3}那就是简单的能量交换{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's simple conservation of energy.{\r}
+Dialogue: 0,0:33:05.42,0:33:08.19,Default,,0,0,0,,{\blur3}它给了星子大量的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's giving a lot of energy to the planetesimal,{\r}
+Dialogue: 0,0:33:08.19,0:33:09.80,Default,,0,0,0,,{\blur3}将它倾倒出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dumping it way out there.{\r}
+Dialogue: 0,0:33:09.89,0:33:12.46,Default,,0,0,0,,{\blur3}那就是说 行星必须向内移动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means it, the planet, has to move in.{\r}
+Dialogue: 0,0:33:12.53,0:33:13.86,Default,,0,0,0,,{\blur3}它失去了能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It loses energy.{\r}
+Dialogue: 0,0:33:13.98,0:33:16.42,Default,,0,0,0,,{\blur3}如果一个轨道运行的物体失去能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If an orbiting object loses energy,{\r}
+Dialogue: 0,0:33:16.42,0:33:17.95,Default,,0,0,0,,{\blur3}它的移动速度就会下降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's not moving as quickly.{\r}
+Dialogue: 0,0:33:18.02,0:33:20.54,Default,,0,0,0,,{\blur3}就是说它降入近一点的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means it drops to a lower orbit.{\r}
+Dialogue: 0,0:33:25.91,0:33:29.40,Default,,0,0,0,,{\blur3}这个游乐园再现了这种力的作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The amusement park again illustrates the forces at work...{\r}
+Dialogue: 0,0:33:29.53,0:33:32.56,Default,,0,0,0,,{\blur3}这就是弹弓作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in this case, the slingshot effect.{\r}
+Dialogue: 0,0:33:34.58,0:33:39.50,Default,,0,0,0,,{\blur3}它是大行星用以推动小物体的一种引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a gravitational boost that large planets can give small objects.{\r}
+Dialogue: 0,0:33:39.82,0:33:42.91,Default,,0,0,0,,{\blur3}在二十世纪七十年代 科学家们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the 1970s, scientists exploited it{\r}
+Dialogue: 0,0:33:42.91,0:33:45.34,Default,,0,0,0,,{\blur3}将引力开发应用于旅行者号太空船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to accelerate the Voyager spacecraft{\r}
+Dialogue: 0,0:33:45.34,0:33:49.73,Default,,0,0,0,,{\blur3}使其行能走于太阳系外的行星间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it swung from planet to planet in the outer Solar System.{\r}
+Dialogue: 0,0:33:51.64,0:33:53.28,Default,,0,0,0,,{\blur3}在地球上 我们可以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here on Earth we can think of{\r}
+Dialogue: 0,0:33:53.28,0:33:56.65,Default,,0,0,0,,{\blur3}将处于边缘的过山车看作弹弓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the slingshot as a roller coaster over the edge.{\r}
+Dialogue: 0,0:33:57.53,0:34:00.43,Default,,0,0,0,,{\blur3}我们在这里控制的穿梭过山车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The boomerang roller coaster ride that we have here{\r}
+Dialogue: 0,0:34:00.43,0:34:04.71,Default,,0,0,0,,{\blur3}很好地例证了弹弓效应的力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a nice example of the forces that are involved in the slingshot effect.{\r}
+Dialogue: 0,0:34:04.77,0:34:10.48,Default,,0,0,0,,{\blur3}在地球上 地球引力是作用力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gravity here makes this work here on Earth, using Earth's gravity.{\r}
+Dialogue: 0,0:34:11.86,0:34:15.96,Default,,0,0,0,,{\blur3}重力把车沿着斜坡拉下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It pulls down on the cart and it pulls down the slope,{\r}
+Dialogue: 0,0:34:16.03,0:34:19.89,Default,,0,0,0,,{\blur3}然后车又回到斜坡上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then the cart goes back up the slope{\r}
+Dialogue: 0,0:34:19.95,0:34:22.12,Default,,0,0,0,,{\blur3}在沿坡而下的过程中获得了能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}due to the momentum it gained from coming down the slope.{\r}
+Dialogue: 0,0:34:24.59,0:34:26.53,Default,,0,0,0,,{\blur3}如果我们把木星加入这个系统会怎么样呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What if we were to add Jupiter to the system?{\r}
+Dialogue: 0,0:34:26.85,0:34:30.91,Default,,0,0,0,,{\blur3}现在 木星的引力一直在把目标往里拉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, Jupiter's gravity will still pull the object in,{\r}
+Dialogue: 0,0:34:30.95,0:34:33.77,Default,,0,0,0,,{\blur3}但木星使它围绕自己旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but Jupiter swings it around the planet,{\r}
+Dialogue: 0,0:34:33.77,0:34:35.51,Default,,0,0,0,,{\blur3}它围着木星转了一圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it goes around Jupiter.{\r}
+Dialogue: 0,0:34:35.56,0:34:38.91,Default,,0,0,0,,{\blur3}木星的动作给了它一个额外的反冲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the motion of Jupiter gives it an extra kick{\r}
+Dialogue: 0,0:34:38.98,0:34:42.60,Default,,0,0,0,,{\blur3}所以它得到了比初始更多的动力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that it gets more momentum than it came in with{\r}
+Dialogue: 0,0:34:42.66,0:34:44.41,Default,,0,0,0,,{\blur3}弹回到斜坡上 冲入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and gets shooting back up the slope and out into space.{\r}
+Dialogue: 0,0:34:49.42,0:34:53.00,Default,,0,0,0,,{\blur3}超过五亿年间 数百万小引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Millions of small gravitational tugs have made subtle changes{\r}
+Dialogue: 0,0:34:53.01,0:34:56.68,Default,,0,0,0,,{\blur3}使行星轨道产生了微妙的变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the planetary orbits for more than half a billion years.{\r}
+Dialogue: 0,0:34:57.96,0:34:59.93,Default,,0,0,0,,{\blur3}地球和其他年轻的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth and the other young planets{\r}
+Dialogue: 0,0:34:59.98,0:35:03.31,Default,,0,0,0,,{\blur3}能够处于有利于产生早期生命的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may settle into conditions conducive to early life.{\r}
+Dialogue: 0,0:35:04.29,0:35:07.52,Default,,0,0,0,,{\blur3}要是这样 当气态巨星木星和土星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If so, it's about to be wiped out as the gas giants,{\r}
+Dialogue: 0,0:35:07.53,0:35:12.10,Default,,0,0,0,,{\blur3}达到惊人的共振临界点 它就将毁灭了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter and Saturn, reach a remarkable tipping point called a resonance.{\r}
+Dialogue: 0,0:35:13.67,0:35:16.27,Default,,0,0,0,,{\blur3}一旦木星和土星达到共振是很惨烈的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As soon as Jupiter and saturn hit the resonance it was catastrophic.{\r}
+Dialogue: 0,0:35:16.33,0:35:20.29,Default,,0,0,0,,{\blur3}整个太阳系将在一百万年内被崩离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The entire Solar System flew apart in just a million years,{\r}
+Dialogue: 0,0:35:20.35,0:35:22.92,Default,,0,0,0,,{\blur3}相对于太阳系的年纪 这是很短的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is a tiny amount of time, compared to the age of the Solar System.{\r}
+Dialogue: 0,0:35:24.18,0:35:27.29,Default,,0,0,0,,{\blur3}共振意味着土星每绕太阳一周{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The resonance means that every time Saturn orbits the Sun once,{\r}
+Dialogue: 0,0:35:27.37,0:35:31.08,Default,,0,0,0,,{\blur3}木星就会绕两周{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter will go around twice.{\r}
+Dialogue: 0,0:35:31.73,0:35:35.35,Default,,0,0,0,,{\blur3}结果是在太阳系的同一位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The result, Jupiter and Saturn come very close to each other{\r}
+Dialogue: 0,0:35:35.43,0:35:37.68,Default,,0,0,0,,{\blur3}木星和土星有规律地越靠越近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the same part of the Solar System on a regular,{\r}
+Dialogue: 0,0:35:37.68,0:35:41.41,Default,,0,0,0,,{\blur3}在不断进行的基础上产生巨大的引力泵{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ongoing basis, creating an immense gravity pump.{\r}
+Dialogue: 0,0:35:42.33,0:35:44.35,Default,,0,0,0,,{\blur3}就像给一个小孩荡秋千{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like pumping a kid on a swing.{\r}
+Dialogue: 0,0:35:44.43,0:35:48.50,Default,,0,0,0,,{\blur3}如果小孩荡秋千时 你推的时候恰到好处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you hit the kid on the swing at just the right time,{\r}
+Dialogue: 0,0:35:48.58,0:35:51.90,Default,,0,0,0,,{\blur3}你就可以让它越荡越高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can get the motion to go higher and higher and higher.{\r}
+Dialogue: 0,0:35:53.71,0:35:57.86,Default,,0,0,0,,{\blur3}最巨大的影响 是对两颗最远的巨行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most dramatic effect is on the two outermost giant planets.{\r}
+Dialogue: 0,0:35:59.66,0:36:02.17,Default,,0,0,0,,{\blur3}所有行星都围绕太阳系旋转的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As all of the planets were orbiting around the Solar System,{\r}
+Dialogue: 0,0:36:02.17,0:36:04.35,Default,,0,0,0,,{\blur3}彼此引力相互作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}having gravitational interactions with each other,{\r}
+Dialogue: 0,0:36:04.42,0:36:07.11,Default,,0,0,0,,{\blur3}发生的最惊人事件之一 是天王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of the most amazing things that happened is that Uranus and{\r}
+Dialogue: 0,0:36:07.19,0:36:09.10,Default,,0,0,0,,{\blur3}与海王星对调了位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neptune actually switched places.{\r}
+Dialogue: 0,0:36:09.18,0:36:11.18,Default,,0,0,0,,{\blur3}这就是为什么现在海王星在天王星的外侧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So now Neptune is farther away than Uranus.{\r}
+Dialogue: 0,0:36:12.97,0:36:14.74,Default,,0,0,0,,{\blur3}这种共振现象会引发灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The resonance is a cataclysm{\r}
+Dialogue: 0,0:36:14.74,0:36:16.95,Default,,0,0,0,,{\blur3}而这灾难的影响会以迅雷不及掩耳之势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whose effects sweep through the system{\r}
+Dialogue: 0,0:36:16.95,0:36:20.05,Default,,0,0,0,,{\blur3}波及整个太阳系 它不仅会使行星换位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at astounding speed, not only shifting orbits,{\r}
+Dialogue: 0,0:36:20.13,0:36:23.65,Default,,0,0,0,,{\blur3}而且还会驱赶走太阳系中的大部分小星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but clearing out most of the system's small objects.{\r}
+Dialogue: 0,0:36:24.90,0:36:27.40,Default,,0,0,0,,{\blur3}单单是木星自身强大的吸引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter alone is quite a gravitational bully{\r}
+Dialogue: 0,0:36:27.40,0:36:29.96,Default,,0,0,0,,{\blur3}就足以慢慢削减星子带中星体的数量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and gradually depleted the asteroid belt.{\r}
+Dialogue: 0,0:36:30.70,0:36:32.67,Default,,0,0,0,,{\blur3}而木星与土星共同造就的共振现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the Jupiter-Saturn resonance{\r}
+Dialogue: 0,0:36:32.67,0:36:37.51,Default,,0,0,0,,{\blur3}则造成了星子带与库伯带中的星体急剧减少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}caused a catastrophic depletion of both the asteroid belt and the Kuiper belt.{\r}
+Dialogue: 0,0:36:40.38,0:36:43.48,Default,,0,0,0,,{\blur3}星子带与库伯带中99%的星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}99% of the bodies in the asteroid and kuiper belts{\r}
+Dialogue: 0,0:36:43.77,0:36:44.50,Default,,0,0,0,,{\blur3}都被驱逐出了太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are cleared.{\r}
+Dialogue: 0,0:36:45.64,0:36:47.80,Default,,0,0,0,,{\blur3}但尽管这绝大多数星体都被驱逐出去了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While most of them are thrown out of the system,{\r}
+Dialogue: 0,0:36:48.54,0:36:50.42,Default,,0,0,0,,{\blur3}有一小部分星体却冲向了木星的轨道内侧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some of them plunge inward.{\r}
+Dialogue: 0,0:36:51.27,0:36:53.00,Default,,0,0,0,,{\blur3}由于太阳引力的吸引{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Drawn by the gravity of the Sun,{\r}
+Dialogue: 0,0:36:53.29,0:36:56.55,Default,,0,0,0,,{\blur3}它们穿越宇宙 直冲向内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they rip through space toward the inner Solar System.{\r}
+Dialogue: 0,0:36:56.65,0:37:02.02,Default,,0,0,0,,{\blur3}内太阳系中的行星 如何才能逃脱劫难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How will the inner planets, including the Earth, escape the onslaught?{\r}
+Dialogue: 0,0:37:11.13,0:37:14.44,Default,,0,0,0,,{\blur3}一团巨大的星云开始其塌缩过程之后7亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The making of our Solar System reaches a violent climax{\r}
+Dialogue: 0,0:37:14.80,0:37:20.95,Default,,0,0,0,,{\blur3}太阳系的诞生历程达到了其壮丽的高潮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}700 million years after the presolar cloud first began to collapse.{\r}
+Dialogue: 0,0:37:20.95,0:37:23.33,Default,,0,0,0,,{\blur3}而地球则处于火线之上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And Earth is in the firing line.{\r}
+Dialogue: 0,0:37:29.38,0:37:32.12,Default,,0,0,0,,{\blur3}木星与土星引发的引力错乱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gravitational chaos of Jupiter and Saturn{\r}
+Dialogue: 0,0:37:33.03,0:37:36.40,Default,,0,0,0,,{\blur3}使得小星体不断撞击类地行星及其卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is battering the inner Solar System's planets and moons{\r}
+Dialogue: 0,0:37:36.41,0:37:40.84,Default,,0,0,0,,{\blur3}现在我们称其为"后期重轰炸期"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in an event now known as the late heavy bombardment.{\r}
+Dialogue: 0,0:37:43.45,0:37:45.47,Default,,0,0,0,,{\blur3}许多外太阳系的星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A lot of the material in the outter Solar System,{\r}
+Dialogue: 0,0:37:45.73,0:37:48.66,Default,,0,0,0,,{\blur3}这些彗星都飞入内太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these comets fell into the inner Solar System{\r}
+Dialogue: 0,0:37:49.07,0:37:51.85,Default,,0,0,0,,{\blur3}并与类地行星及其卫星发生碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where they collided with the inner planets and the moon,{\r}
+Dialogue: 0,0:37:51.85,0:37:53.18,Default,,0,0,0,,{\blur3}我们今天见到的陨石坑就是这样形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating the craters that we see today.{\r}
+Dialogue: 0,0:37:59.48,0:38:00.74,Default,,0,0,0,,{\blur3}一些研究人员认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some researchers believe{\r}
+Dialogue: 0,0:38:00.82,0:38:03.75,Default,,0,0,0,,{\blur3}频繁的撞击使地球一次又一次地生灵涂炭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}collisions may have repeatedly sterilized the Earth,{\r}
+Dialogue: 0,0:38:03.82,0:38:07.33,Default,,0,0,0,,{\blur3}如果有生命产生 则因此毁灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that if life had formed, it was wiped out...{\r}
+Dialogue: 0,0:38:10.41,0:38:11.65,Default,,0,0,0,,{\blur3}而不得不又从零开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And had to start anew.{\r}
+Dialogue: 0,0:38:14.29,0:38:16.54,Default,,0,0,0,,{\blur3}但这从天而降 砸向地球的星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the impact of objects from space,{\r}
+Dialogue: 0,0:38:18.07,0:38:19.68,Default,,0,0,0,,{\blur3}以及随之而来的一番天崩地裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}along with their violence,{\r}
+Dialogue: 0,0:38:21.47,0:38:23.29,Default,,0,0,0,,{\blur3}也可能为地球带来福祉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may have also brought a benefit.{\r}
+Dialogue: 0,0:38:26.75,0:38:28.96,Default,,0,0,0,,{\blur3}地球若非被那些来自外太阳系的星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Earth might not have all the water it does today{\r}
+Dialogue: 0,0:38:28.96,0:38:30.37,Default,,0,0,0,,{\blur3}狂轰滥炸一番{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}had it not been bombarded by{\r}
+Dialogue: 0,0:38:30.37,0:38:32.01,Default,,0,0,0,,{\blur3}今天的地球上就不会有这么多的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}material from the outer Solar System.{\r}
+Dialogue: 0,0:38:32.50,0:38:33.37,Default,,0,0,0,,{\blur3}一些科学家推测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some have speculated{\r}
+Dialogue: 0,0:38:33.37,0:38:35.17,Default,,0,0,0,,{\blur3}今天我们地球上的很多水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that much of the water we have on Earth{\r}
+Dialogue: 0,0:38:35.17,0:38:36.87,Default,,0,0,0,,{\blur3}其实都是"后期重轰炸期"时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is actually a result of impacts{\r}
+Dialogue: 0,0:38:36.96,0:38:38.66,Default,,0,0,0,,{\blur3}对地球狂轰滥炸的那些星体带来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the late heavy bombardment period.{\r}
+Dialogue: 0,0:38:46.24,0:38:49.98,Default,,0,0,0,,{\blur3}在距离太阳系的诞生46亿年的今天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Today, 4.6 billion years after the Solar System's birth,{\r}
+Dialogue: 0,0:38:52.06,0:38:55.94,Default,,0,0,0,,{\blur3}但巨型星子撞击地球的隐患依然存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the ongoing if remote danger of a massive asteroid strike{\r}
+Dialogue: 0,0:38:56.12,0:38:57.93,Default,,0,0,0,,{\blur3}而这意味着 我们尚不能高枕无忧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}means the story is not over.{\r}
+Dialogue: 0,0:38:59.62,0:39:00.64,Default,,0,0,0,,{\blur3}我们更应该关注的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}More important, though,{\r}
+Dialogue: 0,0:39:00.64,0:39:03.08,Default,,0,0,0,,{\blur3}那上百颗坠落在地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the hundreds of tiny asteroids{\r}
+Dialogue: 0,0:39:03.08,0:39:04.97,Default,,0,0,0,,{\blur3}成为陨石的微型星子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hitting the planet as meteorites.{\r}
+Dialogue: 0,0:39:05.90,0:39:07.90,Default,,0,0,0,,{\blur3}通过对这些陨石的分析研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Studying them tells us{\r}
+Dialogue: 0,0:39:07.91,0:39:09.40,Default,,0,0,0,,{\blur3}我们便可以了解到太阳系的形成过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if the making of the Solar System{\r}
+Dialogue: 0,0:39:09.47,0:39:12.37,Default,,0,0,0,,{\blur3}是否正如我们想象的那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}really happened when and how we think it did.{\r}
+Dialogue: 0,0:39:13.87,0:39:16.00,Default,,0,0,0,,{\blur3}这块石头是从艾伦德陨星采下的样本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm holding a sample of the Allende meteorite.{\r}
+Dialogue: 0,0:39:16.07,0:39:18.18,Default,,0,0,0,,{\blur3}艾伦德陨星是一块于1969年陨落在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Allende meteorite is a fragment of rock{\r}
+Dialogue: 0,0:39:18.26,0:39:21.38,Default,,0,0,0,,{\blur3}墨西哥艾伦德村附近的岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that fell in Mexico near the village of Allende in 1969.{\r}
+Dialogue: 0,0:39:21.99,0:39:23.68,Default,,0,0,0,,{\blur3}这块陨石的组成部分包括了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the components of the meteorite{\r}
+Dialogue: 0,0:39:23.69,0:39:26.04,Default,,0,0,0,,{\blur3}这些富含钙元素与铝元素的杂质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are these calcium-aluminum-rich inclusions,{\r}
+Dialogue: 0,0:39:26.10,0:39:28.08,Default,,0,0,0,,{\blur3}就是这些在其表面的白色物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these white objects that you can see on the surface.{\r}
+Dialogue: 0,0:39:28.60,0:39:31.14,Default,,0,0,0,,{\blur3}我们通过放射性同位素测试得知{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are the oldest known materials in the Solar System,{\r}
+Dialogue: 0,0:39:31.24,0:39:35.22,Default,,0,0,0,,{\blur3}它们是太阳系中已知的最古老物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we know this by age dating with radiogenic isotopes.{\r}
+Dialogue: 0,0:39:38.15,0:39:39.99,Default,,0,0,0,,{\blur3}在加州大学洛杉矶分校的高科技试验室里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In his high-tech lab at UCLA,{\r}
+Dialogue: 0,0:39:40.93,0:39:43.31,Default,,0,0,0,,{\blur3}天体化学家艾德·杨和他的同事们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cosmochemist Ed Young and his colleagues{\r}
+Dialogue: 0,0:39:43.76,0:39:47.16,Default,,0,0,0,,{\blur3}在对古老陨石的小样本进行仔细的化验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}carefully examine tiny samples of ancient meteorites.{\r}
+Dialogue: 0,0:39:47.98,0:39:50.11,Default,,0,0,0,,{\blur3}样本中部有一块很大的白色杂质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a big white fragment in the middle{\r}
+Dialogue: 0,0:39:50.11,0:39:51.41,Default,,0,0,0,,{\blur3}我们需要把它切割出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which we want to cut out.{\r}
+Dialogue: 0,0:39:54.75,0:39:57.75,Default,,0,0,0,,{\blur3}用试验室中精密的激光仪器对准这块杂质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The lab's precision lasers aim at the fragments,{\r}
+Dialogue: 0,0:39:57.84,0:40:01.23,Default,,0,0,0,,{\blur3}在陨石上烧灼出一个个头发那么细的小孔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}blasting out holes no wider than a human hair.{\r}
+Dialogue: 0,0:40:03.01,0:40:06.28,Default,,0,0,0,,{\blur3}研究人员仔细地分析测量其中的放射性元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sophisticated analysis measures radioactive elements,{\r}
+Dialogue: 0,0:40:06.28,0:40:08.87,Default,,0,0,0,,{\blur3}这些放射性元素可以告诉我们其年代{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which serve as atomic clocks.{\r}
+Dialogue: 0,0:40:11.22,0:40:14.80,Default,,0,0,0,,{\blur3}2011年初 在亚利桑那州立大学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In early 2011, cosmochemists in a similar lab{\r}
+Dialogue: 0,0:40:14.80,0:40:16.32,Default,,0,0,0,,{\blur3}一个类似的试验室 那里的天体化学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at Arizona State University{\r}
+Dialogue: 0,0:40:16.32,0:40:19.02,Default,,0,0,0,,{\blur3}精确地测定出一块在北非发现的陨石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dated part of a north African meteorite{\r}
+Dialogue: 0,0:40:19.02,0:40:23.86,Default,,0,0,0,,{\blur3}产自四十亿六千八百二十万年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to an incredibly accurate 4.5682 billion years old,{\r}
+Dialogue: 0,0:40:24.76,0:40:27.43,Default,,0,0,0,,{\blur3}迄今已来是在地球上发现的最古老的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the oldest material ever found on earth,{\r}
+Dialogue: 0,0:40:28.03,0:40:30.09,Default,,0,0,0,,{\blur3}甚至比地球自己的年龄还要大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}older than the planet itself.{\r}
+Dialogue: 0,0:40:33.77,0:40:35.26,Default,,0,0,0,,{\blur3}2011年8月{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In August 2011,{\r}
+Dialogue: 0,0:40:35.26,0:40:37.08,Default,,0,0,0,,{\blur3}"黎明号"探测器到达了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Dawn spacecraft arrived{\r}
+Dialogue: 0,0:40:37.08,0:40:40.80,Default,,0,0,0,,{\blur3}星子带 大多数陨石都来自于此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the asteroid belt, source of most meteorites.{\r}
+Dialogue: 0,0:40:41.82,0:40:43.41,Default,,0,0,0,,{\blur3}探测器接近了第二大星子 灶神星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Close-up pictures of Vesta,{\r}
+Dialogue: 0,0:40:43.41,0:40:45.44,Default,,0,0,0,,{\blur3}并拍下了特写镜头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the second largest asteroid,{\r}
+Dialogue: 0,0:40:45.44,0:40:46.64,Default,,0,0,0,,{\blur3}从此 人们对太阳系诞生史的研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}open a new epoch{\r}
+Dialogue: 0,0:40:46.64,0:40:49.01,Default,,0,0,0,,{\blur3}翻开了新的一页{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in telling the Solar System's story.{\r}
+Dialogue: 0,0:40:49.69,0:40:50.92,Default,,0,0,0,,{\blur3}"黎明号"执行的任务十分令人兴奋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the exciting things about the Dawn Mission{\r}
+Dialogue: 0,0:40:50.92,0:40:53.83,Default,,0,0,0,,{\blur3}因为这是我们第一次得以目睹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that we're gonna get our first glimpse into something{\r}
+Dialogue: 0,0:40:53.95,0:40:56.73,Default,,0,0,0,,{\blur3}这个恰恰与太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was essentially a mini-planet that was formed{\r}
+Dialogue: 0,0:40:56.73,0:40:58.81,Default,,0,0,0,,{\blur3}同时诞生的星子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}right at the beginning of the Solar System.{\r}
+Dialogue: 0,0:41:01.13,0:41:04.11,Default,,0,0,0,,{\blur3}自其于太阳系初期诞生以来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since its birth early in the Solar System's history,{\r}
+Dialogue: 0,0:41:05.89,0:41:08.08,Default,,0,0,0,,{\blur3}灶神星就没怎么经历过风吹雨打{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vesta has been undisturbed by weather{\r}
+Dialogue: 0,0:41:08.28,0:41:10.02,Default,,0,0,0,,{\blur3}也未受到什么地质作用力的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or many of the geologic forces{\r}
+Dialogue: 0,0:41:10.16,0:41:12.00,Default,,0,0,0,,{\blur3}不像其他行星饱受风雨和地壳运动的摧残{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have changed the planets over time.{\r}
+Dialogue: 0,0:41:13.62,0:41:15.74,Default,,0,0,0,,{\blur3}与其他的大行星一样 灶神星也有火山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just like some of the larger planets, it has volcanoes.{\r}
+Dialogue: 0,0:41:15.81,0:41:16.64,Default,,0,0,0,,{\blur3}它也有内核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has a core.{\r}
+Dialogue: 0,0:41:16.70,0:41:18.12,Default,,0,0,0,,{\blur3}但与其他的大行星不同的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But unlike these larger planets,{\r}
+Dialogue: 0,0:41:18.12,0:41:19.92,Default,,0,0,0,,{\blur3}在过去的四十五亿年中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not much else has happened to it{\r}
+Dialogue: 0,0:41:19.97,0:41:21.33,Default,,0,0,0,,{\blur3}它的表面并没怎么受到其他外力的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the past four and half billion years.{\r}
+Dialogue: 0,0:41:21.38,0:41:23.94,Default,,0,0,0,,{\blur3}借助对灶神星勘测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we essentially get a window back into{\r}
+Dialogue: 0,0:41:23.94,0:41:26.25,Default,,0,0,0,,{\blur3}我们得以研究太阳系刚刚诞生时的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that very earliest history of the Solar System.{\r}
+Dialogue: 0,0:41:27.68,0:41:29.37,Default,,0,0,0,,{\blur3}"黎明号"将围绕灶神星运转一年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dawn will orbit Vesta for a year{\r}
+Dialogue: 0,0:41:29.37,0:41:31.51,Default,,0,0,0,,{\blur3}随后它将前往最大的星子 谷神星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before going on to spend another year{\r}
+Dialogue: 0,0:41:32.02,0:41:34.98,Default,,0,0,0,,{\blur3}并围绕它运转一年的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}orbiting the largest asteroid, Ceres.{\r}
+Dialogue: 0,0:41:40.93,0:41:42.93,Default,,0,0,0,,{\blur3}与此同时 航空航天局的"朱诺"探测器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Meanwhile, NASA's Juno probe{\r}
+Dialogue: 0,0:41:42.93,0:41:45.13,Default,,0,0,0,,{\blur3}也将开始其前往木星的旅程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has just begun its voyage to Jupiter,{\r}
+Dialogue: 0,0:41:46.28,0:41:48.02,Default,,0,0,0,,{\blur3}它造访这颗巨行星的任务是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where it will visit the giant planet{\r}
+Dialogue: 0,0:41:48.02,0:41:50.98,Default,,0,0,0,,{\blur3}探测出它到底有没有固态的内核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to determine if it really does have a solid core{\r}
+Dialogue: 0,0:41:51.47,0:41:52.92,Default,,0,0,0,,{\blur3}如果有 那个内核是否像科学家想象的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and formed early and quickly,{\r}
+Dialogue: 0,0:41:52.93,0:41:55.18,Default,,0,0,0,,{\blur3}是在木星诞生初期迅速形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as scientists now believe.{\r}
+Dialogue: 0,0:41:57.65,0:41:59.61,Default,,0,0,0,,{\blur3}而更加值得我们留意的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even more crucial are other stars{\r}
+Dialogue: 0,0:41:59.61,0:42:01.10,Default,,0,0,0,,{\blur3}是那些同样拥有自己太阳系的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with their own solar systems,{\r}
+Dialogue: 0,0:42:01.10,0:42:04.31,Default,,0,0,0,,{\blur3}其形成过程有助于我们了解自己的太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whose formation sheds essential light on our own.{\r}
+Dialogue: 0,0:42:05.90,0:42:07.33,Default,,0,0,0,,{\blur3}我们之所以要了解太阳系的形成过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The most important reason for understanding{\r}
+Dialogue: 0,0:42:07.33,0:42:08.48,Default,,0,0,0,,{\blur3}其中最重要的原因就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how the Solar System was made{\r}
+Dialogue: 0,0:42:08.48,0:42:10.01,Default,,0,0,0,,{\blur3}我们想知道太阳系的存在是否寻常{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was to find out whether or not we're normal.{\r}
+Dialogue: 0,0:42:10.07,0:42:12.33,Default,,0,0,0,,{\blur3}当你用人们现在造出的天文望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you look out and look at other solar systems{\r}
+Dialogue: 0,0:42:12.33,0:42:14.22,Default,,0,0,0,,{\blur3}向太空眺望 寻找其他太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}being made with our telescopes today,{\r}
+Dialogue: 0,0:42:14.22,0:42:16.21,Default,,0,0,0,,{\blur3}比如但你放眼猎户座星云或是其他地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for example in Orion and other places,{\r}
+Dialogue: 0,0:42:16.21,0:42:18.16,Default,,0,0,0,,{\blur3}你的心中可能会有这样的疑问{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we want to answer the question,{\r}
+Dialogue: 0,0:42:18.24,0:42:20.08,Default,,0,0,0,,{\blur3}"太阳系的存在究竟有多普遍"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"How normal is this solar system?"{\r}
+Dialogue: 0,0:42:24.56,0:42:27.29,Default,,0,0,0,,{\blur3}于2009年开始执行的开普勒任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Launched in 2009, the Kepler mission{\r}
+Dialogue: 0,0:42:27.29,0:42:29.78,Default,,0,0,0,,{\blur3}现在正如火如荼地进行着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is now running full-blast{\r}
+Dialogue: 0,0:42:29.78,0:42:30.85,Default,,0,0,0,,{\blur3}到目前为止 它已甄别出了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and has identified{\r}
+Dialogue: 0,0:42:30.85,0:42:34.11,Default,,0,0,0,,{\blur3}1200个可能围绕其他恒星公转的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}1,200 possible planets around other stars.{\r}
+Dialogue: 0,0:42:37.08,0:42:39.55,Default,,0,0,0,,{\blur3}一些行星系统中会出现木星那么大的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some systems have Jupiter-sized planets{\r}
+Dialogue: 0,0:42:39.55,0:42:42.29,Default,,0,0,0,,{\blur3}它们靠近系中的恒星运转或是偏向运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}close to their suns or in lopsided orbits.{\r}
+Dialogue: 0,0:42:44.59,0:42:46.20,Default,,0,0,0,,{\blur3}还有一些行星系统中只有小号的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Others have only small planets{\r}
+Dialogue: 0,0:42:46.27,0:42:49.00,Default,,0,0,0,,{\blur3}它们紧密聚集在那颗恒星能照射到的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}crowded closely in the hot zone of their stars.{\r}
+Dialogue: 0,0:42:53.48,0:42:54.81,Default,,0,0,0,,{\blur3}然而 我们的太阳系却与众不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our Solar System, however,{\r}
+Dialogue: 0,0:42:55.99,0:42:58.60,Default,,0,0,0,,{\blur3}太阳系中的行星轨道都接近圆形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has its planets in near-circular orbits,{\r}
+Dialogue: 0,0:42:59.95,0:43:01.51,Default,,0,0,0,,{\blur3}一环一环稳定地排列着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}spread out in a stable arrangement{\r}
+Dialogue: 0,0:43:01.51,0:43:04.02,Default,,0,0,0,,{\blur3}这看上去简直是过于完美了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that seems almost too perfect.{\r}
+Dialogue: 0,0:43:04.97,0:43:06.96,Default,,0,0,0,,{\blur3}在过去十年中 当我们不断发现那些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the great surprises of the last decade{\r}
+Dialogue: 0,0:43:06.96,0:43:09.97,Default,,0,0,0,,{\blur3}太阳系外行星系统时 最令人吃惊的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as we started to discover other planetary systems{\r}
+Dialogue: 0,0:43:10.87,0:43:15.34,Default,,0,0,0,,{\blur3}我们的太阳系似乎是个怪胎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was the fact that our Solar system seems to be one of the odd balls.{\r}
+Dialogue: 0,0:43:15.98,0:43:18.55,Default,,0,0,0,,{\blur3}这主要是因为太阳系太规律了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mostly because our own Solar System is so regular.{\r}
+Dialogue: 0,0:43:20.76,0:43:22.62,Default,,0,0,0,,{\blur3}太阳系的形成过程是否与{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is the Solar System made by processes{\r}
+Dialogue: 0,0:43:22.62,0:43:24.70,Default,,0,0,0,,{\blur3}今日其他行星系统形成相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we can observe going on today,{\r}
+Dialogue: 0,0:43:25.67,0:43:26.96,Default,,0,0,0,,{\blur3}又或者 我们的太阳是独一无二的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or are we somehow special?{\r}
+Dialogue: 0,0:43:28.05,0:43:29.03,Default,,0,0,0,,{\blur3}这又引出了另一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This goes to the point of{\r}
+Dialogue: 0,0:43:29.03,0:43:30.89,Default,,0,0,0,,{\blur3}即地球上的生命是否是独一无二的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether or not life is special.{\r}
+Dialogue: 0,0:43:35.24,0:43:36.75,Default,,0,0,0,,{\blur3}这恐怕是所有问题中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that question is perhaps{\r}
+Dialogue: 0,0:43:36.75,0:43:38.33,Default,,0,0,0,,{\blur3}最重要的一个了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the most important one of all{\r}
+Dialogue: 0,0:43:39.48,0:43:42.65,Default,,0,0,0,,{\blur3}因为对太阳及其行星的生命历程的探寻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the life story of the sun and its planets{\r}
+Dialogue: 0,0:43:42.65,0:43:46.57,Default,,0,0,0,,{\blur3}归根结底是探寻生命本身的历程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}essentially becomes the lifestory of life itself.{\r}
+Dialogue: 0,0:43:46.63,0:43:50.66,Default,,0,0,0,,{\blur3}地球上的人类以及地球本身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Humanity on Earth, and our ultimate place.{\r}
+Dialogue: 0,0:43:50.86,0:43:55.36,Default,,0,0,0,,{\blur3}在茫茫宇宙中 是否只此一例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alone or among many in the universe.{\r}

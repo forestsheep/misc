@@ -1,0 +1,699 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.66,0:00:03.83,*Default,NTP,0000,0000,0000,,创世之初 冥冥之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning there was darkness,
+Dialogue: 0,0:00:03.87,0:00:06.00,*Default,NTP,0000,0000,0000,,随着一声爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang--
+Dialogue: 0,0:00:06.04,0:00:08.63,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.67,0:00:11.13,*Default,NTP,0000,0000,0000,,时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space and matter.
+Dialogue: 0,0:00:11.17,0:00:14.76,*Default,NTP,0000,0000,0000,,每一天 新的发现都在揭秘这个诡异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:14.80,0:00:17.18,*Default,NTP,0000,0000,0000,,震撼 神秘莫测的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:17.22,0:00:20.01,*Default,NTP,0000,0000,0000,,地方 - 我们所谓的《宇宙》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call "The Universe."
+Dialogue: 0,0:00:21.77,0:00:24.48,*Default,NTP,0000,0000,0000,,在《星球大战》的宇宙间 死星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the "Star Wars" universe, the Death Star
+Dialogue: 0,0:00:24.52,0:00:27.86,*Default,NTP,0000,0000,0000,,是终极大规模杀伤性武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the ultimate weapon of mass destruction,
+Dialogue: 0,0:00:27.90,0:00:31.15,*Default,NTP,0000,0000,0000,,能够消灭整个行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}able to annihilate entire planets.
+Dialogue: 0,0:00:31.19,0:00:32.94,*Default,NTP,0000,0000,0000,,在实际的宇宙间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the actual universe,
+Dialogue: 0,0:00:32.99,0:00:37.16,*Default,NTP,0000,0000,0000,,空中充满了活生生的死亡之星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the sky is filled with real-life death stars.
+Dialogue: 0,0:00:37.20,0:00:39.99,*Default,NTP,0000,0000,0000,,它们可以视为定时炸弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can be thought of as sort of a time bomb.
+Dialogue: 0,0:00:40.04,0:00:43.25,*Default,NTP,0000,0000,0000,,有些是靠近我们星球的威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some are dangerously close to our planet.
+Dialogue: 0,0:00:43.29,0:00:48.46,*Default,NTP,0000,0000,0000,,一旦辐射抵达我们这里 地球上的生命将可能遭遇严重的打击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's life might take a bad hit when that radiation reaches us.
+Dialogue: 0,0:00:48.50,0:00:52.55,*Default,NTP,0000,0000,0000,,那就是地球撞上了它的枪口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And one has the Earth in its crosshairs.
+Dialogue: 0,0:00:52.59,0:00:53.67,*Default,NTP,0000,0000,0000,,它让人震惊不已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was almost a shock.
+Dialogue: 0,0:00:53.72,0:00:55.22,*Default,NTP,0000,0000,0000,,我第一次看到时简直不敢相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I didn't believe it when I first saw it.
+Dialogue: 0,0:00:56.30,0:00:58.18,*Default,NTP,0000,0000,0000,,它们就是死亡之星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are the death stars,
+Dialogue: 0,0:00:58.22,0:01:01.89,*Default,NTP,0000,0000,0000,,它们把宇宙变成了异常险恶的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they make the universe a very dangerous place.
+Dialogue: 0,0:01:02.00,0:01:04.75,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:05.25,0:01:08.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:暮云春树  字幕来源：HDC字幕组 调校：晴天 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:08.22,0:01:13.89,*Default,NTP,0000,0000,0000,,历史频道 - 宇宙 第4季第1集 死星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The History Channel - The Universe s04e01 Death Stars
+Dialogue: 0,0:01:15.24,0:01:18.70,*Default,NTP,0000,0000,0000,,距离地球数千光年之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thousands of light-years from the Earth,
+Dialogue: 0,0:01:18.74,0:01:23.54,*Default,NTP,0000,0000,0000,,一颗超大质量恒星正在启动自我毁灭的按钮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a supermassive star is preparing to hit the self-destruct button.
+Dialogue: 0,0:01:25.75,0:01:28.96,*Default,NTP,0000,0000,0000,,宇宙间每天都有恒星爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars explode every day in the universe,
+Dialogue: 0,0:01:29.00,0:01:31.25,*Default,NTP,0000,0000,0000,,不过这一个与众不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but this one is different.
+Dialogue: 0,0:01:32.92,0:01:36.22,*Default,NTP,0000,0000,0000,,它蛰伏在人马座 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It lurks in the constellation Sagittarius,
+Dialogue: 0,0:01:36.26,0:01:39.97,*Default,NTP,0000,0000,0000,,黄道十二星座里的神话射手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mythological archer of the celestial zodiac.
+Dialogue: 0,0:01:42.56,0:01:46.89,*Default,NTP,0000,0000,0000,,此星叫做WR 104\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The star is called WR 104,
+Dialogue: 0,0:01:46.94,0:01:50.15,*Default,NTP,0000,0000,0000,,其破坏力可能针对我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and its destructive force could be targeting us
+Dialogue: 0,0:01:51.61,0:01:54.57,*Default,NTP,0000,0000,0000,,正瞄准着我们这颗脆弱的蓝色星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and taking aim at our fragile blue planet
+Dialogue: 0,0:01:54.61,0:02:00.07,*Default,NTP,0000,0000,0000,,其致命的辐射将点燃我们的臭氧保护层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with enough deadly radiation to ignite our protective ozone layer.
+Dialogue: 0,0:02:01.32,0:02:04.58,*Default,NTP,0000,0000,0000,,这将激起剧烈的气候变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This would incite drastic climate change,
+Dialogue: 0,0:02:04.62,0:02:07.79,*Default,NTP,0000,0000,0000,,造成许多动植物种的灭绝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cause the extinction of many plant and animal species,
+Dialogue: 0,0:02:08.83,0:02:12.17,*Default,NTP,0000,0000,0000,,甚至人类的消亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and potentially the demise of mankind.
+Dialogue: 0,0:02:15.63,0:02:21.55,*Default,NTP,0000,0000,0000,,WR 104只是宇宙间数以百万计的大死亡之星中的一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}WR 104 is just one of millions of massive death stars in the universe.
+Dialogue: 0,0:02:22.55,0:02:26.64,*Default,NTP,0000,0000,0000,,这些凶险的天体是暮年巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These savage celestial bodies are aging giants,
+Dialogue: 0,0:02:26.68,0:02:30.64,*Default,NTP,0000,0000,0000,,正安排着自我爆发以进入星际来世\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}preparing to blast themselves into a stellar afterlife.
+Dialogue: 0,0:02:32.40,0:02:34.40,*Default,NTP,0000,0000,0000,,此时 星体的表层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At that point, the outer layers of the star
+Dialogue: 0,0:02:34.44,0:02:36.94,*Default,NTP,0000,0000,0000,,已无任何东西留下来支撑它们抵抗重力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have nothing left to support them against gravity.
+Dialogue: 0,0:02:36.99,0:02:38.99,*Default,NTP,0000,0000,0000,,这样它们突然向内塌落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they suddenly fall inwards.
+Dialogue: 0,0:02:41.95,0:02:48.29,*Default,NTP,0000,0000,0000,,它们最后一口气可以引发已知宇宙间最大的爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their last breath can ignite the biggest explosion in the known universe,
+Dialogue: 0,0:02:48.33,0:02:50.91,*Default,NTP,0000,0000,0000,,伽玛射线爆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a gamma ray burst,
+Dialogue: 0,0:02:50.96,0:02:54.79,*Default,NTP,0000,0000,0000,,爆发远超过我们的太阳整个100亿年生命中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a blast far exceeding the energy output of our own Sun
+Dialogue: 0,0:02:54.84,0:02:57.55,*Default,NTP,0000,0000,0000,,所输出的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over its entire 10-billion-year life.
+Dialogue: 0,0:02:59.22,0:03:04.55,*Default,NTP,0000,0000,0000,,要是其击中地球 我们所知的生命将不复存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If one were to target the Earth, life as we know it could cease to exist.
+Dialogue: 0,0:03:06.14,0:03:09.56,*Default,NTP,0000,0000,0000,,这就是WR 104可能发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is what could happen with WR 104,
+Dialogue: 0,0:03:09.60,0:03:12.98,*Default,NTP,0000,0000,0000,,正使其成为现实生活的死星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}making it a real-life death star.
+Dialogue: 0,0:03:16.27,0:03:18.32,*Default,NTP,0000,0000,0000,,在影片《星球大战》中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the film "Star Wars,"
+Dialogue: 0,0:03:18.36,0:03:21.86,*Default,NTP,0000,0000,0000,,死星是邪恶势力的终极武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Death Star is the dark side's ultimate weapon.
+Dialogue: 0,0:03:23.20,0:03:26.16,*Default,NTP,0000,0000,0000,,掠夺星纯属科幻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The predatory star is pure science fiction,
+Dialogue: 0,0:03:27.54,0:03:30.16,*Default,NTP,0000,0000,0000,,但是现实中要更为恐怖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the reality is much scarier.
+Dialogue: 0,0:03:31.71,0:03:35.04,*Default,NTP,0000,0000,0000,,现实生活中的死星是恒星爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A death star in real life is a star that blows up
+Dialogue: 0,0:03:35.08,0:03:39.17,*Default,NTP,0000,0000,0000,,以致命的辐射冲击附近所有的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and blasts any nearby planets with deadly radiation.
+Dialogue: 0,0:03:41.17,0:03:42.80,*Default,NTP,0000,0000,0000,,你知道 那就是真正的死星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, that's a real death star.
+Dialogue: 0,0:03:46.55,0:03:51.27,*Default,NTP,0000,0000,0000,,WR 104是所谓的沃尔夫-拉叶星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}WR 104 is what's known as a Wolf-Rayet star.
+Dialogue: 0,0:03:51.31,0:03:54.19,*Default,NTP,0000,0000,0000,,它们是宇宙间最大的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are the largest stars in the universe,
+Dialogue: 0,0:03:54.23,0:03:58.52,*Default,NTP,0000,0000,0000,,比我们太阳大30倍的巨兽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hulking beasts 30 times bigger than our own Sun,
+Dialogue: 0,0:03:58.57,0:04:01.74,*Default,NTP,0000,0000,0000,,个个都在倒数计时至世界末日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}each of them counting down to Armageddon.
+Dialogue: 0,0:04:05.70,0:04:11.75,*Default,NTP,0000,0000,0000,,法国天文学家查尔斯 沃尔夫和乔治 拉叶在1867年发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Discovered by French astronomers Charles Wolf and Georges Rayet in 1867,
+Dialogue: 0,0:04:11.79,0:04:15.58,*Default,NTP,0000,0000,0000,,沃尔夫-拉叶星是宇宙中的歹徒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wolf-Rayet stars are the outlaws of the universe.
+Dialogue: 0,0:04:17.21,0:04:18.46,*Default,NTP,0000,0000,0000,,恒星的生存有其信条 - \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars live by the credo,
+Dialogue: 0,0:04:18.50,0:04:22.01,*Default,NTP,0000,0000,0000,,生命短暂者 英年早逝 留下漂亮的躯壳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Live fast, die young, leave a good-looking corpse."
+Dialogue: 0,0:04:22.05,0:04:26.09,*Default,NTP,0000,0000,0000,,它们越大 生命就越短\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the bigger they are, the faster they live,
+Dialogue: 0,0:04:26.14,0:04:29.47,*Default,NTP,0000,0000,0000,,生命越短 死亡就越暴戾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the faster they live, the more violent their end.
+Dialogue: 0,0:04:33.14,0:04:35.77,*Default,NTP,0000,0000,0000,,它们通过极快地燃烧自己的核燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They burn through their nuclear fuel extremely quickly
+Dialogue: 0,0:04:35.81,0:04:38.06,*Default,NTP,0000,0000,0000,,耗尽自己所有的一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and exhaust everything that they have,
+Dialogue: 0,0:04:38.11,0:04:40.40,*Default,NTP,0000,0000,0000,,因此它们生命不会很长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so consequently they don't live very long,
+Dialogue: 0,0:04:40.44,0:04:42.61,*Default,NTP,0000,0000,0000,,至多也就几千万年而已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe a few tens of millions of years at most.
+Dialogue: 0,0:04:44.32,0:04:46.57,*Default,NTP,0000,0000,0000,,它们很容易找到 因为它们是星际王国中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they're easy to find, because they're the real T. rexes
+Dialogue: 0,0:04:46.61,0:04:47.91,*Default,NTP,0000,0000,0000,,真正的霸王龙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the stellar kingdom.
+Dialogue: 0,0:04:47.95,0:04:49.20,*Default,NTP,0000,0000,0000,,它们强大无比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're immensely powerful.
+Dialogue: 0,0:04:52.45,0:04:56.92,*Default,NTP,0000,0000,0000,,在2000年 澳洲天文学家彼得 塔特希尔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the year 2000, Australian astronomer Peter Tuthill
+Dialogue: 0,0:04:56.96,0:05:02.80,*Default,NTP,0000,0000,0000,,开始研究沃尔夫-拉叶星104 距离地球约8000光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}began studying Wolf-Rayet 104, some 8,000 light-years from Earth.
+Dialogue: 0,0:05:05.17,0:05:08.84,*Default,NTP,0000,0000,0000,,这颗巨星的凶险与众不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This giant was ominously different from the others.
+Dialogue: 0,0:05:10.43,0:05:15.52,*Default,NTP,0000,0000,0000,,塔特希尔的团队立马就注意到了其周围巨大的尘埃云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tuthill's team immediately noticed an immense dust cloud around it,
+Dialogue: 0,0:05:15.56,0:05:19.06,*Default,NTP,0000,0000,0000,,比我们整个太阳系大了20倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}20 times larger than our entire solar system.
+Dialogue: 0,0:05:20.27,0:05:22.32,*Default,NTP,0000,0000,0000,,我们知道沃尔夫-拉叶星104周围存在着尘埃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We knew there was dust around WoIf-Rayet 104,
+Dialogue: 0,0:05:22.36,0:05:24.03,*Default,NTP,0000,0000,0000,,让人大惑不解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that was a puzzle,
+Dialogue: 0,0:05:24.07,0:05:27.53,*Default,NTP,0000,0000,0000,,因为那就好象是发现了地狱里的雪花一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's a bit like finding a snowflake in hell.
+Dialogue: 0,0:05:29.74,0:05:30.82,*Default,NTP,0000,0000,0000,,那是个谜团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There was a mystery there,
+Dialogue: 0,0:05:30.87,0:05:32.24,*Default,NTP,0000,0000,0000,,我们试图解决这个谜团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we wanted to try and solve that mystery.
+Dialogue: 0,0:05:35.37,0:05:39.29,*Default,NTP,0000,0000,0000,,在过去的六年中 塔特希尔利用夏威夷的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over the course of six years, Tuthill used an infrared camera
+Dialogue: 0,0:05:39.33,0:05:41.63,*Default,NTP,0000,0000,0000,,凯克天文台的红外摄像机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at the Keck Observatory in Hawaii
+Dialogue: 0,0:05:41.67,0:05:45.84,*Default,NTP,0000,0000,0000,,通过多重曝光创建了一个复合图像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to create a composited image from multiple exposures.
+Dialogue: 0,0:05:47.76,0:05:51.22,*Default,NTP,0000,0000,0000,,它产生了惊人的延时排列\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It yielded an amazing time-lapse sequence.
+Dialogue: 0,0:05:51.26,0:05:56.10,*Default,NTP,0000,0000,0000,,104星正在形成一个怪异的螺旋尘埃柱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}104 was producing an exotic spiraling plume of dust.
+Dialogue: 0,0:05:58.69,0:05:59.69,*Default,NTP,0000,0000,0000,,它让人震惊不已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was almost a shock.
+Dialogue: 0,0:05:59.73,0:06:00.81,*Default,NTP,0000,0000,0000,,我第一次看到时简直不敢相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I didn't believe it when I first saw it.
+Dialogue: 0,0:06:00.86,0:06:03.02,*Default,NTP,0000,0000,0000,,我想 恒星看上去不会是螺旋的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I thought, stars don't look like spirals.
+Dialogue: 0,0:06:03.07,0:06:04.82,*Default,NTP,0000,0000,0000,,我看过的书中从未有过螺旋的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no spiral I've ever seen in a book.
+Dialogue: 0,0:06:04.86,0:06:06.23,*Default,NTP,0000,0000,0000,,我们于是手忙脚乱起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We then had a mad scramble.
+Dialogue: 0,0:06:06.28,0:06:07.82,*Default,NTP,0000,0000,0000,,我们必须努力了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We had to try and understand
+Dialogue: 0,0:06:07.86,0:06:10.70,*Default,NTP,0000,0000,0000,,恒星怎么会产生这个漂亮的尾巴的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how a star can produce this elegant tail.
+Dialogue: 0,0:06:12.95,0:06:16.37,*Default,NTP,0000,0000,0000,,塔特希尔发现这个怪异的尘埃螺旋的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tuthill discovered that the key to this strange dust spiral
+Dialogue: 0,0:06:16.41,0:06:20.62,*Default,NTP,0000,0000,0000,,就在于事实上WR 104不是孤立的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was the fact that WR 104 wasn't alone.
+Dialogue: 0,0:06:20.67,0:06:23.29,*Default,NTP,0000,0000,0000,,它与一颗较小的恒星一起被锁定在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's locked in orbit with a smaller star
+Dialogue: 0,0:06:23.34,0:06:25.84,*Default,NTP,0000,0000,0000,,所谓的双星系的轨道上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in what's known as a binary system.
+Dialogue: 0,0:06:27.30,0:06:32.51,*Default,NTP,0000,0000,0000,,双星喷射出的大量的带电粒子叫做星风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Both stars eject masses of charged particles called stellar winds.
+Dialogue: 0,0:06:32.55,0:06:35.14,*Default,NTP,0000,0000,0000,,这些风在宇宙中并不罕见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These winds aren't uncommon in the universe.
+Dialogue: 0,0:06:35.97,0:06:40.69,*Default,NTP,0000,0000,0000,,我们太阳产生的太阳风吹过了外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our own Sun creates a solar wind that extends beyond the outer planets.
+Dialogue: 0,0:06:40.73,0:06:44.31,*Default,NTP,0000,0000,0000,,所不同的是 双星系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The difference is that, in a binary system,
+Dialogue: 0,0:06:44.36,0:06:46.82,*Default,NTP,0000,0000,0000,,星风来自两颗恒星的碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when winds from the two stars collide,
+Dialogue: 0,0:06:46.86,0:06:50.74,*Default,NTP,0000,0000,0000,,气体压缩了 烟尘就产生了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gases are compressed, and dust and soot are created.
+Dialogue: 0,0:06:51.91,0:06:55.91,*Default,NTP,0000,0000,0000,,但是究竟是什么引起这种尘埃形成了这样奇特的螺旋的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what causes this dust to form into such an exotic spiral?
+Dialogue: 0,0:07:00.71,0:07:03.71,*Default,NTP,0000,0000,0000,,草坪洒水器倒是个不错的比喻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it turns out that a lawn sprinkler makes a great analogy
+Dialogue: 0,0:07:03.75,0:07:08.17,*Default,NTP,0000,0000,0000,,来阐述发生在这些碰撞风的双星系里的物理学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to illustrate the physics that's occurring in these colliding-wind binary systems.
+Dialogue: 0,0:07:08.76,0:07:09.92,*Default,NTP,0000,0000,0000,,我们改造了这个洒水器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've modified this sprinkler
+Dialogue: 0,0:07:09.97,0:07:12.09,*Default,NTP,0000,0000,0000,,使其龙头只能射出一股水流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that it only shoots one jet out of the spigot.
+Dialogue: 0,0:07:13.09,0:07:17.06,*Default,NTP,0000,0000,0000,,单股水流代表源源不断的尘埃粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The single water jet represents the constant flow of dust particles
+Dialogue: 0,0:07:17.10,0:07:19.98,*Default,NTP,0000,0000,0000,,由碰撞星风产生出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}being created by the colliding stellar winds.
+Dialogue: 0,0:07:21.94,0:07:25.06,*Default,NTP,0000,0000,0000,,但是因为WR 104星系里的两颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But because the two stars in WR 104's system
+Dialogue: 0,0:07:25.11,0:07:27.77,*Default,NTP,0000,0000,0000,,运行在相互缠绕的轨道上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are in constant orbit around each other,
+Dialogue: 0,0:07:27.82,0:07:31.03,*Default,NTP,0000,0000,0000,,对尘埃流附加了圆周运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it adds a circular motion to the stream of dust.
+Dialogue: 0,0:07:32.78,0:07:36.37,*Default,NTP,0000,0000,0000,,你的第一直觉就是水流在进行圆周运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Your first intuition is that the water is moving in a circular motion.
+Dialogue: 0,0:07:36.41,0:07:38.41,*Default,NTP,0000,0000,0000,,但事实上 草坪洒水器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in actual fact, the lawn sprinkler
+Dialogue: 0,0:07:38.45,0:07:41.54,*Default,NTP,0000,0000,0000,,其实射出的是一条直线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is really shooting a jet in a straight line.
+Dialogue: 0,0:07:41.58,0:07:42.58,*Default,NTP,0000,0000,0000,,水滴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The water droplets,
+Dialogue: 0,0:07:42.62,0:07:45.33,*Default,NTP,0000,0000,0000,,即使它们是从洒水器里直线射出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even though they're moving in a straight line away from the spigot,
+Dialogue: 0,0:07:45.38,0:07:47.25,*Default,NTP,0000,0000,0000,,它们也产生了一个弧线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they create an arc,
+Dialogue: 0,0:07:47.30,0:07:50.13,*Default,NTP,0000,0000,0000,,弧线缠绕在了旋转的螺旋里了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that arc wrapped into a spiral with the rotation.
+Dialogue: 0,0:07:52.13,0:07:54.76,*Default,NTP,0000,0000,0000,,螺旋甚至产生了更多的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The spiral spawned even more questions.
+Dialogue: 0,0:07:54.80,0:07:56.26,*Default,NTP,0000,0000,0000,,最头痛的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most troubling--
+Dialogue: 0,0:07:56.30,0:08:01.31,*Default,NTP,0000,0000,0000,,WR 104究竟会成为何种死星呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exactly what kind of death star could WR 104 become?
+Dialogue: 0,0:08:02.98,0:08:05.69,*Default,NTP,0000,0000,0000,,沃尔夫-拉叶星可以被视为是定时炸弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wolf-Rayet stars can be thought of as sort of a time bomb,
+Dialogue: 0,0:08:05.73,0:08:08.98,*Default,NTP,0000,0000,0000,,因为它们个头庞大 所以它们无法生存很久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they're so massive that they can't live for very long,
+Dialogue: 0,0:08:09.03,0:08:11.44,*Default,NTP,0000,0000,0000,,一旦它们燃尽它们所有的核燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and once they've burned up all of their nuclear fuel,
+Dialogue: 0,0:08:11.49,0:08:16.53,*Default,NTP,0000,0000,0000,,就无任何东西留下以支持星体抵抗重力无情的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's nothing left to support the star against the relentless pull of gravity.
+Dialogue: 0,0:08:16.57,0:08:19.20,*Default,NTP,0000,0000,0000,,到那时 星核塌缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And at that point the core of the star collapses,
+Dialogue: 0,0:08:20.24,0:08:23.33,*Default,NTP,0000,0000,0000,,表层随之塌落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the outer layers fall in on top of it
+Dialogue: 0,0:08:23.37,0:08:25.71,*Default,NTP,0000,0000,0000,,在巨大的爆炸中向外弹出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and bounce outward in a tremendous explosion.
+Dialogue: 0,0:08:27.84,0:08:32.34,*Default,NTP,0000,0000,0000,,这个爆炸就是超新星 巨大的辐射爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The explosion is a supernova, an immense burst of radiation
+Dialogue: 0,0:08:32.38,0:08:35.59,*Default,NTP,0000,0000,0000,,短暂照亮整个星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that briefly outshines an entire galaxy.
+Dialogue: 0,0:08:39.43,0:08:43.81,*Default,NTP,0000,0000,0000,,沃尔夫-拉叶星104肯定会成为超新星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wolf-Rayet 104 will definitely go supernova
+Dialogue: 0,0:08:43.85,0:08:47.06,*Default,NTP,0000,0000,0000,,在未来的几十万年里的某个时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sometime in the next few hundred thousand years.
+Dialogue: 0,0:08:50.53,0:08:52.86,*Default,NTP,0000,0000,0000,,相距8000光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At 8,000 light-years away,
+Dialogue: 0,0:08:52.90,0:08:55.90,*Default,NTP,0000,0000,0000,,爆炸本身不会对地球构成威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the explosion itself poses no threat to the Earth.
+Dialogue: 0,0:08:57.74,0:09:00.08,*Default,NTP,0000,0000,0000,,但是不排除该超新星会引发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's a chance the supernova will trigger
+Dialogue: 0,0:09:00.12,0:09:02.58,*Default,NTP,0000,0000,0000,,宇宙间最狂暴的事件 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most violent event in the universe,
+Dialogue: 0,0:09:03.29,0:09:04.75,*Default,NTP,0000,0000,0000,,伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a gamma ray burst.
+Dialogue: 0,0:09:09.88,0:09:13.21,*Default,NTP,0000,0000,0000,,这些大质量死星中比例不大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a small percentage of these massive death stars,
+Dialogue: 0,0:09:13.26,0:09:15.26,*Default,NTP,0000,0000,0000,,伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a gamma ray burst is triggered
+Dialogue: 0,0:09:15.30,0:09:20.85,*Default,NTP,0000,0000,0000,,是垂死之星挤压转变成黑洞所引发的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the crushing transformation of a dying star into a black hole.
+Dialogue: 0,0:09:20.89,0:09:25.85,*Default,NTP,0000,0000,0000,,在恒星塌缩的过程中 它会产生一个巨大的电场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a star collapses, it produces a massive electric field.
+Dialogue: 0,0:09:25.89,0:09:29.02,*Default,NTP,0000,0000,0000,,瞬间 电场产生的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in an instant, the energy from this electric field
+Dialogue: 0,0:09:29.06,0:09:32.57,*Default,NTP,0000,0000,0000,,转换成了物质和反物质粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is turned into matter and antimatter particles,
+Dialogue: 0,0:09:32.61,0:09:34.32,*Default,NTP,0000,0000,0000,,于是由于相互之间的碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which then collide with each other
+Dialogue: 0,0:09:34.36,0:09:36.82,*Default,NTP,0000,0000,0000,,产生了巨大的能量脉冲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and produce a huge pulse of energy.
+Dialogue: 0,0:09:38.91,0:09:43.08,*Default,NTP,0000,0000,0000,,它们是电磁频谱中最强大的能量束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are the most powerful energy beams in the electromagnetic spectrum,
+Dialogue: 0,0:09:43.12,0:09:48.67,*Default,NTP,0000,0000,0000,,杀伤力胜过微波 红外能 甚至X射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more lethal than microwaves, infrared energy, and even X-rays.
+Dialogue: 0,0:09:53.09,0:09:55.71,*Default,NTP,0000,0000,0000,,人类已经学会利用致命的伽玛射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Humans have learned to harness deadly gamma rays
+Dialogue: 0,0:09:55.76,0:09:59.88,*Default,NTP,0000,0000,0000,,派上有益的用途 诸如食品辐照\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for useful purposes, such as food irradiation.
+Dialogue: 0,0:09:59.93,0:10:01.51,*Default,NTP,0000,0000,0000,,通过利用伽玛射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By using gamma rays,
+Dialogue: 0,0:10:01.55,0:10:06.02,*Default,NTP,0000,0000,0000,,食品加工可以消除微生物 细菌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}food processors can eliminate microorganisms, bacteria,
+Dialogue: 0,0:10:06.06,0:10:09.14,*Default,NTP,0000,0000,0000,,病毒以及虫类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}viruses, and insects.
+Dialogue: 0,0:10:09.19,0:10:11.44,*Default,NTP,0000,0000,0000,,但是伽玛射线的施加量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the amount of gamma radiation applied
+Dialogue: 0,0:10:11.48,0:10:18.74,*Default,NTP,0000,0000,0000,,是星际伽玛射线暴所释放能量的极微小的一丁点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is an extremely tiny fraction of the energy released in a stellar gamma ray burst.
+Dialogue: 0,0:10:20.95,0:10:23.16,*Default,NTP,0000,0000,0000,,伽玛射线暴所产生的巨大辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gamma ray bursts produce so much radiation
+Dialogue: 0,0:10:23.20,0:10:26.75,*Default,NTP,0000,0000,0000,,相当于要是我们在地球上创造一个伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that if we were to create a gamma ray burst on Earth,
+Dialogue: 0,0:10:26.79,0:10:31.25,*Default,NTP,0000,0000,0000,,就会像是无数核弹同时引爆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be like a huge number of nuclear bombs going off.
+Dialogue: 0,0:10:31.29,0:10:33.59,*Default,NTP,0000,0000,0000,,会摧毁地球上的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be devastating for life on Earth.
+Dialogue: 0,0:10:38.30,0:10:39.76,*Default,NTP,0000,0000,0000,,对于人类来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For the human race,
+Dialogue: 0,0:10:39.80,0:10:43.05,*Default,NTP,0000,0000,0000,,有关伽玛射线暴最关键的信息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most critical piece of information about gamma ray bursts
+Dialogue: 0,0:10:43.10,0:10:44.76,*Default,NTP,0000,0000,0000,,就是它射击的方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the direction of fire.
+Dialogue: 0,0:10:46.27,0:10:47.97,*Default,NTP,0000,0000,0000,,在塌缩的那一刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the moment of collapse,
+Dialogue: 0,0:10:48.02,0:10:51.44,*Default,NTP,0000,0000,0000,,恒星变成致密 扁平的圆盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the star becomes a dense, flattened disk,
+Dialogue: 0,0:10:51.48,0:10:53.23,*Default,NTP,0000,0000,0000,,旋转轴的两极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the rotational axis poles
+Dialogue: 0,0:10:53.27,0:10:56.27,*Default,NTP,0000,0000,0000,,是其密集星际物质释放的唯一出路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are its only openings free of dense star matter.
+Dialogue: 0,0:10:58.65,0:11:04.24,*Default,NTP,0000,0000,0000,,你会看到沿着两极的两个对应的排泄区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You get two relatively evacuated regions along the poles.
+Dialogue: 0,0:11:04.28,0:11:08.91,*Default,NTP,0000,0000,0000,,物质可以沿着那两个方向喷出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's along those directions that material can be ejected,
+Dialogue: 0,0:11:08.95,0:11:12.62,*Default,NTP,0000,0000,0000,,因为遇到的阻力相对较小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it encounters relatively little resistance.
+Dialogue: 0,0:11:13.38,0:11:16.13,*Default,NTP,0000,0000,0000,,这个酸奶瓶提供了一个很好的比喻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this container of yogurt provides a nice analogy
+Dialogue: 0,0:11:16.17,0:11:18.63,*Default,NTP,0000,0000,0000,,来说明伽玛射线暴里所发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for what happens in a gamma ray burst.
+Dialogue: 0,0:11:18.67,0:11:21.80,*Default,NTP,0000,0000,0000,,我将投下这只酸奶瓶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm going to drop the container of yogurt,
+Dialogue: 0,0:11:21.84,0:11:25.05,*Default,NTP,0000,0000,0000,,因为瓶子有侧边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and because of the sides of the container,
+Dialogue: 0,0:11:25.10,0:11:29.93,*Default,NTP,0000,0000,0000,,酸奶是不能够沿着这些方向出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}yogurt is not going to be able to go out along those directions.
+Dialogue: 0,0:11:29.98,0:11:32.23,*Default,NTP,0000,0000,0000,,但是瓶子的顶部是敞开的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the top of the container is open,
+Dialogue: 0,0:11:32.27,0:11:35.73,*Default,NTP,0000,0000,0000,,因此酸奶会沿着顶部喷出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so yogurt is going to squirt out along the top.
+Dialogue: 0,0:11:37.27,0:11:38.32,*Default,NTP,0000,0000,0000,,来看看发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Watch what happens.
+Dialogue: 0,0:11:40.53,0:11:43.03,*Default,NTP,0000,0000,0000,,酸奶基本上是直接往上喷出来的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the yogurt went squirting basically straight up.
+Dialogue: 0,0:11:44.53,0:11:46.15,*Default,NTP,0000,0000,0000,,它不能从旁边出来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It couldn't go out the sides, 
+Dialogue: 0,0:11:46.15,0:11:48.33,*Default,NTP,0000,0000,0000,,因为被奶瓶的侧边给挡住了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it was blocked by the sides of the yogurt container.
+Dialogue: 0,0:11:52.46,0:11:55.88,*Default,NTP,0000,0000,0000,,这就是对伽玛射线暴里所发生情况的很好的比喻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's a nice analogy for what happens in a gamma ray burst.
+Dialogue: 0,0:11:58.21,0:12:00.00,*Default,NTP,0000,0000,0000,,人类最为关切的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The greatest concern for humans
+Dialogue: 0,0:12:00.05,0:12:04.09,*Default,NTP,0000,0000,0000,,伽玛射线暴所对准的方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the direction that the gamma ray burst is firing.
+Dialogue: 0,0:12:04.14,0:12:08.14,*Default,NTP,0000,0000,0000,,如果塌缩恒星的轴指向我们的方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the axis of the collapsing star is pointing in our direction,
+Dialogue: 0,0:12:09.72,0:12:11.81,*Default,NTP,0000,0000,0000,,我们就会陷入严重的险境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we could be in serious trouble.
+Dialogue: 0,0:12:13.64,0:12:16.56,*Default,NTP,0000,0000,0000,,彼得 塔特希尔小组在研究WR104的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When Peter Tuthill's team studied the plane of orbit
+Dialogue: 0,0:12:16.61,0:12:21.74,*Default,NTP,0000,0000,0000,,尘埃柱的轨道平面时 得到了惊人的认识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of WR 104's dust plume, they came to a shocking realization.
+Dialogue: 0,0:12:22.99,0:12:26.53,*Default,NTP,0000,0000,0000,,这个螺旋解开这大量秘密的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This spiral was the key that unlocked a lot of these secrets.
+Dialogue: 0,0:12:26.57,0:12:29.03,*Default,NTP,0000,0000,0000,,事情开始变得有点吓人的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And where things start to get a little scary
+Dialogue: 0,0:12:29.08,0:12:32.91,*Default,NTP,0000,0000,0000,,就在于这个星系 乍看之下 几乎是正面迎对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that this system, at first blush, appears to be almost face-on.
+Dialogue: 0,0:12:34.62,0:12:37.63,*Default,NTP,0000,0000,0000,,我们正对着轴心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're looking right down the axis at the heart.
+Dialogue: 0,0:12:39.42,0:12:41.50,*Default,NTP,0000,0000,0000,,它看上去就像是一只盘子 餐盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like looking at a plate, a dinner plate.
+Dialogue: 0,0:12:41.55,0:12:44.72,*Default,NTP,0000,0000,0000,,如果你拿起那个平面 把它跟视线有点倾斜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you take that plane, and you tilt it to the line of sight,
+Dialogue: 0,0:12:44.76,0:12:46.01,*Default,NTP,0000,0000,0000,,看上去就是倾斜的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it looks inclined.
+Dialogue: 0,0:12:46.05,0:12:48.09,*Default,NTP,0000,0000,0000,,你就再也看不到一个圆圆的餐盘了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You're no longer looking at a circular dinner plate.
+Dialogue: 0,0:12:49.51,0:12:54.43,*Default,NTP,0000,0000,0000,,进一步研究表明尘埃柱的旋转轴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Further examination suggests the rotational axis of the dust plume
+Dialogue: 0,0:12:54.48,0:12:59.81,*Default,NTP,0000,0000,0000,,似乎与沃尔夫-拉叶星本身的旋转轴相吻合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}appears to match the rotational axis of the Wolf-Rayet star itself,
+Dialogue: 0,0:12:59.86,0:13:04.57,*Default,NTP,0000,0000,0000,,这意味着地球直接就在枪口上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}meaning the Earth is staring directly down the barrel of a gun.
+Dialogue: 0,0:13:07.07,0:13:12.91,*Default,NTP,0000,0000,0000,,也就是说 要是这颗恒星爆发成为伽玛射线暴时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means that if this star becomes a gamma ray burst when it blows up,
+Dialogue: 0,0:13:12.95,0:13:15.54,*Default,NTP,0000,0000,0000,,两股射流之一会朝我们而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the two jets will be pointing toward us.
+Dialogue: 0,0:13:18.96,0:13:22.34,*Default,NTP,0000,0000,0000,,沃尔夫-拉叶星104漂亮的螺旋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The beautiful spiral of Wolf-Rayet 104
+Dialogue: 0,0:13:23.30,0:13:26.63,*Default,NTP,0000,0000,0000,,突然成了厄运的使者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is suddenly a messenger of doom.
+Dialogue: 0,0:13:31.60,0:13:34.22,*Default,NTP,0000,0000,0000,,距离地球约8000光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some 8,000 light-years from Earth,
+Dialogue: 0,0:13:34.27,0:13:37.73,*Default,NTP,0000,0000,0000,,两颗恒星被锁定在一个引力舞蹈中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}two stars are locked in a gravitational dance,
+Dialogue: 0,0:13:39.23,0:13:44.78,*Default,NTP,0000,0000,0000,,其星风在优美的螺旋中喷射出巨大的尘埃云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}their stellar winds ejecting a vast cloud of dust in a graceful spiral.
+Dialogue: 0,0:13:44.82,0:13:48.20,*Default,NTP,0000,0000,0000,,但是这对星际伙伴远不止光有一条漂亮的尾巴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there's more to this star couple than just a beautiful tail.
+Dialogue: 0,0:13:50.91,0:13:54.37,*Default,NTP,0000,0000,0000,,两者中较大者 沃尔夫-拉叶104星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The larger of the two, Wolf-Rayet 104,
+Dialogue: 0,0:13:54.41,0:13:58.87,*Default,NTP,0000,0000,0000,,是一颗大死星 濒临爆发成为一颗超新星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a massive death star on the verge of exploding as a supernova.
+Dialogue: 0,0:14:00.00,0:14:01.33,*Default,NTP,0000,0000,0000,,那基本可以肯定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That much is certain.
+Dialogue: 0,0:14:02.21,0:14:03.80,*Default,NTP,0000,0000,0000,,真正的奥秘在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The real mystery is,
+Dialogue: 0,0:14:03.84,0:14:07.84,*Default,NTP,0000,0000,0000,,它是否会释放出伽玛射线暴(GRB)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will it also unleash a gamma ray burst, or GRB,
+Dialogue: 0,0:14:07.88,0:14:10.89,*Default,NTP,0000,0000,0000,,宇宙间最强的能量爆发呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most powerful burst of energy in the universe?
+Dialogue: 0,0:14:13.60,0:14:16.93,*Default,NTP,0000,0000,0000,,问题在于事关整个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The question is an important one for all on Earth,
+Dialogue: 0,0:14:16.98,0:14:22.81,*Default,NTP,0000,0000,0000,,尤其要考虑该星轴可能正指向我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}especially considering the star's axis may be pointing directly at us.
+Dialogue: 0,0:14:22.86,0:14:24.82,*Default,NTP,0000,0000,0000,,那意味着一旦它爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That means that when it blows up,
+Dialogue: 0,0:14:24.86,0:14:28.24,*Default,NTP,0000,0000,0000,,如果它成为一个伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if it becomes a gamma ray burst,
+Dialogue: 0,0:14:28.28,0:14:30.82,*Default,NTP,0000,0000,0000,,射流就会直接射向我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the jet could be pointing straight at us.
+Dialogue: 0,0:14:39.71,0:14:46.05,*Default,NTP,0000,0000,0000,,WR104在人马座里倒数计时至毁灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}WR 104 is counting down to destruction in the constellation Sagittarius.
+Dialogue: 0,0:14:49.43,0:14:53.43,*Default,NTP,0000,0000,0000,,由罗马占星家在2000多年前命名\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Named by Roman astrologers over 2,000 years ago,
+Dialogue: 0,0:14:53.47,0:14:56.39,*Default,NTP,0000,0000,0000,,人马座是拉丁语里的射手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sagittarius is Latin for The Archer.
+Dialogue: 0,0:14:59.73,0:15:00.81,*Default,NTP,0000,0000,0000,,你必定会问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you have to ask,
+Dialogue: 0,0:15:00.85,0:15:02.23,*Default,NTP,0000,0000,0000,,古人或许了解了什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe were the ancients onto something?
+Dialogue: 0,0:15:02.27,0:15:05.40,*Default,NTP,0000,0000,0000,,射手瞄准我们是否与什么有关？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is there something to do with The Archer aiming at us?
+Dialogue: 0,0:15:09.24,0:15:13.36,*Default,NTP,0000,0000,0000,,WR 104可以看作是一支箭指向我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}WR 104 can be thought of as an arrow pointing our way,
+Dialogue: 0,0:15:13.41,0:15:15.99,*Default,NTP,0000,0000,0000,,如果它确实爆发成为伽玛射线暴的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if indeed it blows up as a gamma ray burst.
+Dialogue: 0,0:15:19.08,0:15:21.87,*Default,NTP,0000,0000,0000,,现在的天文学家已几乎没有争议\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is little dispute among today's astronomers
+Dialogue: 0,0:15:21.92,0:15:24.88,*Default,NTP,0000,0000,0000,,伽玛射线暴发出的集束射流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that a tightly focused beam from a gamma ray burst
+Dialogue: 0,0:15:24.92,0:15:27.38,*Default,NTP,0000,0000,0000,,会在太空中穿行遥远的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will travel vast distances in space.
+Dialogue: 0,0:15:29.59,0:15:33.22,*Default,NTP,0000,0000,0000,,事实上 在2009年4月23日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, on April 23, 2009,
+Dialogue: 0,0:15:33.26,0:15:37.10,*Default,NTP,0000,0000,0000,,环绕地球的斯威夫特多波长观测站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Swift multiwavelength observatory orbiting the Earth
+Dialogue: 0,0:15:37.14,0:15:42.89,*Default,NTP,0000,0000,0000,,记录到一个距离地球130亿光年的伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}recorded a GRB that occurred 13 billion light-years away from Earth,
+Dialogue: 0,0:15:42.94,0:15:45.61,*Default,NTP,0000,0000,0000,,几乎就在可见宇宙的边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}near the very edge of the visible universe.
+Dialogue: 0,0:15:49.28,0:15:55.37,*Default,NTP,0000,0000,0000,,爆发就发生在大爆炸后6 5亿年前后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The blast occurred only about 630 million years after the Big Bang.
+Dialogue: 0,0:15:55.41,0:15:58.41,*Default,NTP,0000,0000,0000,,这意味着爆发恒星所发出的伽玛射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This means that gamma rays from the exploding star
+Dialogue: 0,0:15:58.45,0:16:01.83,*Default,NTP,0000,0000,0000,,以光速穿行了130亿光年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}traveled at the speed of light for 13 billion years
+Dialogue: 0,0:16:01.87,0:16:04.67,*Default,NTP,0000,0000,0000,,才让我们看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before they were visible to us,
+Dialogue: 0,0:16:04.71,0:16:06.54,*Default,NTP,0000,0000,0000,,使这个伽玛射线暴成为了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}making this gamma ray burst
+Dialogue: 0,0:16:06.59,0:16:09.96,*Default,NTP,0000,0000,0000,,已知宇宙间最古老的星际物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the oldest stellar object in the known universe.
+Dialogue: 0,0:16:10.80,0:16:13.63,*Default,NTP,0000,0000,0000,,我们知道没有恒星或星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know of no star or galaxy
+Dialogue: 0,0:16:13.68,0:16:16.26,*Default,NTP,0000,0000,0000,,有比这个伽玛射线暴更加遥远的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's farther away than this gamma ray burst.
+Dialogue: 0,0:16:16.30,0:16:19.68,*Default,NTP,0000,0000,0000,,这是所见过的最遥远 最孤立的天体了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the single most distant, discrete object ever seen.
+Dialogue: 0,0:16:22.89,0:16:24.94,*Default,NTP,0000,0000,0000,,仅仅8000光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At only 8,000 light-years,
+Dialogue: 0,0:16:24.98,0:16:29.94,*Default,NTP,0000,0000,0000,,沃尔夫-拉叶星104的伽玛射线暴可能是灾难性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a GRB blast from Wolf-Rayet 104 could be catastrophic.
+Dialogue: 0,0:16:31.57,0:16:34.90,*Default,NTP,0000,0000,0000,,沃尔夫-拉叶星104爆发时 我们所看到的闪光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The flash that we would see if Wolf-Rayet 104 went off
+Dialogue: 0,0:16:34.95,0:16:36.99,*Default,NTP,0000,0000,0000,,会比太阳亮N多倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be much brighter than the Sun,
+Dialogue: 0,0:16:37.03,0:16:39.74,*Default,NTP,0000,0000,0000,,尤其是伽玛射线能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}especially at gamma ray energies.
+Dialogue: 0,0:16:41.37,0:16:45.83,*Default,NTP,0000,0000,0000,,单个伽玛射线暴可以轻而易举超过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A single gamma ray burst can easily exceed
+Dialogue: 0,0:16:45.87,0:16:50.75,*Default,NTP,0000,0000,0000,,数百万个星系所发出的总的光量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the total light output of millions of galaxies.
+Dialogue: 0,0:16:52.01,0:16:55.93,*Default,NTP,0000,0000,0000,,那些星系中每一个都含有上千亿颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And each of those galaxies contains a hundred billion stars.
+Dialogue: 0,0:17:00.01,0:17:02.68,*Default,NTP,0000,0000,0000,,这种死亡之星是滴答作响的定时炸弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This death star is a ticking time bomb.
+Dialogue: 0,0:17:03.93,0:17:07.15,*Default,NTP,0000,0000,0000,,科学家知道它无疑会成为超新星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists know for sure it will go supernova.
+Dialogue: 0,0:17:09.02,0:17:11.23,*Default,NTP,0000,0000,0000,,但是问题就在于它有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But questions remain about its potential
+Dialogue: 0,0:17:11.28,0:17:15.15,*Default,NTP,0000,0000,0000,,释放的伽玛射线暴直接对准地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to unleash a gamma ray burst in the direction of Earth.
+Dialogue: 0,0:17:16.78,0:17:19.20,*Default,NTP,0000,0000,0000,,首先我们需要进行确认\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's the first point we need to establish.
+Dialogue: 0,0:17:19.24,0:17:20.99,*Default,NTP,0000,0000,0000,,如果它会产生伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it does produce a gamma ray burst,
+Dialogue: 0,0:17:21.04,0:17:23.66,*Default,NTP,0000,0000,0000,,伽玛射线暴是否就指向我们呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that gamma ray burst pointing towards us?
+Dialogue: 0,0:17:25.50,0:17:27.50,*Default,NTP,0000,0000,0000,,该星的旋转轴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The spiraling axis of the star
+Dialogue: 0,0:17:27.54,0:17:30.63,*Default,NTP,0000,0000,0000,,似乎对着地球的方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}appears to be aimed in the direction of Earth.
+Dialogue: 0,0:17:30.67,0:17:33.00,*Default,NTP,0000,0000,0000,,但是经过了数千光年的穿行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But with thousands of light-years to travel,
+Dialogue: 0,0:17:33.05,0:17:36.38,*Default,NTP,0000,0000,0000,,伽玛射线暴的射流会真的击中目标吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would the GRB beam actually hit the target?
+Dialogue: 0,0:17:37.59,0:17:40.18,*Default,NTP,0000,0000,0000,,射手之箭真是那回事吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Would The Archer's aim be true?
+Dialogue: 0,0:17:41.22,0:17:43.85,*Default,NTP,0000,0000,0000,,我们知道它大致指向我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know it's pointing roughly toward us,
+Dialogue: 0,0:17:43.89,0:17:46.60,*Default,NTP,0000,0000,0000,,但是它可指得够远的了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it could be pointing sufficiently away
+Dialogue: 0,0:17:46.64,0:17:49.60,*Default,NTP,0000,0000,0000,,就是伽玛射线暴发出的辐射束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the beam of radiation from the gamma ray burst,
+Dialogue: 0,0:17:49.65,0:17:51.36,*Default,NTP,0000,0000,0000,,没准它变成伽玛射线暴后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if it turns into a gamma ray burst,
+Dialogue: 0,0:17:51.40,0:17:52.73,*Default,NTP,0000,0000,0000,,实际上会和我们擦肩而过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will actually miss us.
+Dialogue: 0,0:17:56.90,0:18:01.91,*Default,NTP,0000,0000,0000,,不过 要是该星对准了 一个强大的能量爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, if the star is aligned, one powerful burst of energy
+Dialogue: 0,0:18:04.20,0:18:09.83,*Default,NTP,0000,0000,0000,,可以将地球的臭氧层变成放射线的炼狱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could turn the Earth's ozone layer into a radioactive inferno.
+Dialogue: 0,0:18:11.92,0:18:16.55,*Default,NTP,0000,0000,0000,,即使是数千光年外的伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even a gamma ray burst that's thousands of light-years away
+Dialogue: 0,0:18:16.59,0:18:21.30,*Default,NTP,0000,0000,0000,,也会将臭氧层消耗到现有水平的一半\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could deplete the ozone layer to roughly half of its current level.
+Dialogue: 0,0:18:21.35,0:18:23.76,*Default,NTP,0000,0000,0000,,此时 不会杀死所有的物种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, that won't kill all of the species,
+Dialogue: 0,0:18:23.81,0:18:27.68,*Default,NTP,0000,0000,0000,,但是却会导致我们所谓的大灭绝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it could lead to what we call a mass extinction,
+Dialogue: 0,0:18:27.73,0:18:32.61,*Default,NTP,0000,0000,0000,,整个生物物种中有相当部分会突然死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where a good fraction of all living species die rather suddenly.
+Dialogue: 0,0:18:36.86,0:18:40.82,*Default,NTP,0000,0000,0000,,因此亟待解决的问题是 WR104的死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the burning question is, will the death of WR 104
+Dialogue: 0,0:18:40.86,0:18:42.87,*Default,NTP,0000,0000,0000,,是否真的会引发伽玛射线暴呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}really trigger a gamma ray burst?
+Dialogue: 0,0:18:44.54,0:18:46.91,*Default,NTP,0000,0000,0000,,科学家浑然不知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists just don't know.
+Dialogue: 0,0:18:50.67,0:18:55.42,*Default,NTP,0000,0000,0000,,恒星引发致命的伽玛射线暴的必要条件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The mandatory requirement for a star to produce a lethal gamma ray burst
+Dialogue: 0,0:18:55.46,0:18:57.80,*Default,NTP,0000,0000,0000,,是高速旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is high-horsepower rotation.
+Dialogue: 0,0:18:59.17,0:19:01.80,*Default,NTP,0000,0000,0000,,所有的恒星都围绕着自己的轴旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All stars rotate on their axes.
+Dialogue: 0,0:19:01.84,0:19:05.22,*Default,NTP,0000,0000,0000,,有些大质量恒星可以飞快地旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some massive stars can spin very fast.
+Dialogue: 0,0:19:07.47,0:19:10.85,*Default,NTP,0000,0000,0000,,因此旋转的恒星 转动能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the rotating star, the rotational energy,
+Dialogue: 0,0:19:10.89,0:19:15.02,*Default,NTP,0000,0000,0000,,就是引发伽玛射线暴的一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is part of what produces the gamma ray burst.
+Dialogue: 0,0:19:15.07,0:19:16.65,*Default,NTP,0000,0000,0000,,如果你可以安装上制动器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you could put the brakes on,
+Dialogue: 0,0:19:16.69,0:19:19.11,*Default,NTP,0000,0000,0000,,如果你可以在其到达那个阶段前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you could take that rapidly spinning star
+Dialogue: 0,0:19:19.15,0:19:22.95,*Default,NTP,0000,0000,0000,,将那颗飞速旋转恒星的速度降下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and slow it down before it gets to that stage,
+Dialogue: 0,0:19:22.99,0:19:24.32,*Default,NTP,0000,0000,0000,,你就拆除那颗炸弹了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you've defused that bomb.
+Dialogue: 0,0:19:29.20,0:19:33.54,*Default,NTP,0000,0000,0000,,基于越来越多的科学证据 似乎宇宙本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Based on mounting scientific evidence, it appears the universe itself
+Dialogue: 0,0:19:33.58,0:19:36.96,*Default,NTP,0000,0000,0000,,也在对其恒星加上另一套制动器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is applying another set of brakes to its stars.
+Dialogue: 0,0:19:37.00,0:19:39.01,*Default,NTP,0000,0000,0000,,就是所谓的金属度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's called metallicity.
+Dialogue: 0,0:19:40.97,0:19:44.55,*Default,NTP,0000,0000,0000,,恒星的主要成分是氢和氦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars are primarily made of hydrogen and helium,
+Dialogue: 0,0:19:44.60,0:19:50.64,*Default,NTP,0000,0000,0000,,但是更重 更复杂的元素诞生于每一次星体爆炸中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but heavier, more complex elements are created every time a star explodes,
+Dialogue: 0,0:19:50.68,0:19:54.31,*Default,NTP,0000,0000,0000,,元素有碳 氮 氧之类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}elements like carbon, nitrogen, and oxygen,
+Dialogue: 0,0:19:54.35,0:19:58.94,*Default,NTP,0000,0000,0000,,会变成下一代恒星的原材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that then become the raw materials for the next generation of stars.
+Dialogue: 0,0:20:00.36,0:20:03.99,*Default,NTP,0000,0000,0000,,因此现在诞生的恒星有较多的重元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So a star born today has more heavy elements,
+Dialogue: 0,0:20:04.03,0:20:06.49,*Default,NTP,0000,0000,0000,,也就是所谓的高金属度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}also known as a higher metallicity,
+Dialogue: 0,0:20:06.53,0:20:10.41,*Default,NTP,0000,0000,0000,,要高于宇宙历史上早期诞生的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than a star born earlier in the history of the universe.
+Dialogue: 0,0:20:11.08,0:20:15.25,*Default,NTP,0000,0000,0000,,一旦大质量恒星含有大量的重元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a massive star has a lot of heavy elements in it,
+Dialogue: 0,0:20:15.29,0:20:20.50,*Default,NTP,0000,0000,0000,,往往会通过星风失去自身大量的质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it tends to lose a lot of its mass through winds.
+Dialogue: 0,0:20:20.55,0:20:26.18,*Default,NTP,0000,0000,0000,,如果它失去自身大量的质量 也会降慢自己的旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if it loses a lot of its mass, it also loses a lot of its rotation,
+Dialogue: 0,0:20:26.22,0:20:30.64,*Default,NTP,0000,0000,0000,,最终会慢到难以形成伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it ends up rotating too slowly to form a GRB.
+Dialogue: 0,0:20:33.56,0:20:38.52,*Default,NTP,0000,0000,0000,,因此说不定沃尔夫-拉叶星现在所发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So something is happening to the Wolf-Rayet stars today
+Dialogue: 0,0:20:38.57,0:20:40.57,*Default,NTP,0000,0000,0000,,就是走向那步 在拆除所有的炸弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's going up there and defusing all the bombs.
+Dialogue: 0,0:20:40.61,0:20:44.36,*Default,NTP,0000,0000,0000,,因而它们还会爆发成超新星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they're still blowing up as supernovae,
+Dialogue: 0,0:20:44.40,0:20:46.53,*Default,NTP,0000,0000,0000,,但是其中极个别的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but far, far fewer of them
+Dialogue: 0,0:20:46.57,0:20:50.28,*Default,NTP,0000,0000,0000,,会把超新星推向下一步 成为伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are taking that supernova to the next step as a gamma ray burst.
+Dialogue: 0,0:20:53.83,0:20:57.38,*Default,NTP,0000,0000,0000,,这些制动器会把WR104放慢到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could these brakes slow WR 104 enough
+Dialogue: 0,0:20:57.42,0:21:00.34,*Default,NTP,0000,0000,0000,,使其对地球没有危害吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to render it harmless to the Earth?
+Dialogue: 0,0:21:00.38,0:21:02.51,*Default,NTP,0000,0000,0000,,许多天文学家对此深信不疑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many astronomers believe so.
+Dialogue: 0,0:21:03.55,0:21:06.01,*Default,NTP,0000,0000,0000,,但要是他们错了呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what if they're wrong?
+Dialogue: 0,0:21:06.05,0:21:11.81,*Default,NTP,0000,0000,0000,,相距8000光年 地球真的是在危险区了吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At 8,000 light-years away, is Earth really in the danger zone?
+Dialogue: 0,0:21:15.81,0:21:20.11,*Default,NTP,0000,0000,0000,,一旦叫做WR104的死亡之星最终爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the death star called WR 104 finally explodes,
+Dialogue: 0,0:21:21.19,0:21:26.95,*Default,NTP,0000,0000,0000,,可能会引发致命的伽玛射线暴 直接对准地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it has the potential to unleash a deadly gamma ray burst directly at Earth.
+Dialogue: 0,0:21:28.53,0:21:33.04,*Default,NTP,0000,0000,0000,,据信该星距离我们约8000光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's believed the star is roughly 8,000 light-years away from us.
+Dialogue: 0,0:21:33.08,0:21:35.41,*Default,NTP,0000,0000,0000,,这是否近得足以让伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is this close enough for a gamma ray burst
+Dialogue: 0,0:21:35.46,0:21:37.75,*Default,NTP,0000,0000,0000,,危及我们的星球呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to do damage to our planet?
+Dialogue: 0,0:21:37.79,0:21:43.13,*Default,NTP,0000,0000,0000,,介于5000到8000光年之间 那是个危险区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Being 5,000 to 8,000 light-years away, it's in the danger zone.
+Dialogue: 0,0:21:43.17,0:21:48.88,*Default,NTP,0000,0000,0000,,地球生命会在辐射抵达我们时 遭遇沉重打击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's life might take a bad hit when that radiation reaches us.
+Dialogue: 0,0:21:50.14,0:21:53.31,*Default,NTP,0000,0000,0000,,如果距离远上两到三倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lf it was another two or three times further away,
+Dialogue: 0,0:21:53.35,0:21:55.27,*Default,NTP,0000,0000,0000,,我们可能就没事了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'd probably be okay.
+Dialogue: 0,0:21:55.31,0:21:56.73,*Default,NTP,0000,0000,0000,,如果它近上两到三倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if it was two or three times closer,
+Dialogue: 0,0:21:56.77,0:21:58.44,*Default,NTP,0000,0000,0000,,我们真的就两腿发抖了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'd really be shaking in our boots.
+Dialogue: 0,0:21:58.48,0:22:00.69,*Default,NTP,0000,0000,0000,,不过要就在其范围的边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's just at the edge of its range
+Dialogue: 0,0:22:00.73,0:22:04.07,*Default,NTP,0000,0000,0000,,如人们所料 你知道 它可能会有所动作的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where one would expect, well, you know, it might do something,
+Dialogue: 0,0:22:04.11,0:22:08.11,*Default,NTP,0000,0000,0000,,但是也可能不会将我们所有人都烤至长眠不醒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's probably not going to roast us all in our sleep.
+Dialogue: 0,0:22:08.99,0:22:12.62,*Default,NTP,0000,0000,0000,,或许是每10亿年左右一回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So perhaps once every billion years or so,
+Dialogue: 0,0:22:12.66,0:22:16.41,*Default,NTP,0000,0000,0000,,伽玛射线暴相当靠近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's a gamma ray burst that's sufficiently cIose
+Dialogue: 0,0:22:16.46,0:22:20.12,*Default,NTP,0000,0000,0000,,和相当瞄准我们 那是我们需要提防的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sufficiently well-pointing toward us that we need to worry.
+Dialogue: 0,0:22:21.96,0:22:25.88,*Default,NTP,0000,0000,0000,,各种规模的死星生存在宇宙间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Death stars of all sizes populate the universe.
+Dialogue: 0,0:22:25.92,0:22:29.59,*Default,NTP,0000,0000,0000,,但是恒星并非唯一表现出如此暴力的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But stars are not the only entities capable of such violence.
+Dialogue: 0,0:22:32.85,0:22:38.60,*Default,NTP,0000,0000,0000,,宇宙还有3C321之类的死亡星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The universe is also home to death galaxies like 3C321,
+Dialogue: 0,0:22:38.64,0:22:41.73,*Default,NTP,0000,0000,0000,,也叫做死星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}also known as the Death Star Galaxy.
+Dialogue: 0,0:22:42.86,0:22:47.69,*Default,NTP,0000,0000,0000,,3C321是个星系 其中央有一个巨大的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}3C321 is a galaxy with a giant black hole in the middle,
+Dialogue: 0,0:22:47.74,0:22:49.99,*Default,NTP,0000,0000,0000,,其质量是我们太阳的数百万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}millions of times the mass of our Sun.
+Dialogue: 0,0:22:52.53,0:22:54.99,*Default,NTP,0000,0000,0000,,就在黑洞边缘的外围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just outside the black hole's edge,
+Dialogue: 0,0:22:55.04,0:22:58.95,*Default,NTP,0000,0000,0000,,混乱的磁场和引力的扰动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the chaotic churning of magnetic fields and gravitational pull
+Dialogue: 0,0:22:59.00,0:23:01.87,*Default,NTP,0000,0000,0000,,引发了高能粒子喷射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has ignited a high-energy particle jet.
+Dialogue: 0,0:23:02.88,0:23:05.04,*Default,NTP,0000,0000,0000,,这些喷射并不罕见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These jets are not uncommon,
+Dialogue: 0,0:23:05.09,0:23:08.76,*Default,NTP,0000,0000,0000,,但是这一个正在鞭挞它的近邻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but this one is delivering a beating to its nearest neighbor.
+Dialogue: 0,0:23:09.80,0:23:13.01,*Default,NTP,0000,0000,0000,,3C321的情况非常有趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The case of 3C321 is very interesting,
+Dialogue: 0,0:23:13.05,0:23:16.01,*Default,NTP,0000,0000,0000,,因为其影响到的另一个星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because there happens to be another galaxy
+Dialogue: 0,0:23:16.06,0:23:18.68,*Default,NTP,0000,0000,0000,,相距有2万光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}20,000 light-years away.
+Dialogue: 0,0:23:18.73,0:23:21.81,*Default,NTP,0000,0000,0000,,那个星系里的恒星正遭受\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The stars in that galaxy are being blasted
+Dialogue: 0,0:23:21.85,0:23:25.52,*Default,NTP,0000,0000,0000,,来自这些射流中的高能粒子和辐射的轰击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the energetic particles and radiation from one of these jets.
+Dialogue: 0,0:23:27.07,0:23:31.45,*Default,NTP,0000,0000,0000,,X射线天文学家丹 埃文斯一直在跟踪死星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}X-ray astronomer Dan Evans has been tracking the Death Star Galaxy
+Dialogue: 0,0:23:31.49,0:23:32.95,*Default,NTP,0000,0000,0000,,及其暴力行为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and its violent behavior
+Dialogue: 0,0:23:32.99,0:23:36.91,*Default,NTP,0000,0000,0000,,他的观察点是位于波士顿郊外的钱德拉X射线卫星控制中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the Chandra X-ray Satellite Control Center outside Boston.
+Dialogue: 0,0:23:38.75,0:23:41.83,*Default,NTP,0000,0000,0000,,我们看到了黑洞所干的种种怪事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we see black holes do kind of strange things.
+Dialogue: 0,0:23:41.87,0:23:45.54,*Default,NTP,0000,0000,0000,,但是只有很小一部分会喷射出这些强烈的射流 粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But only a very small fraction emit these powerful jets, particles,
+Dialogue: 0,0:23:45.59,0:23:47.42,*Default,NTP,0000,0000,0000,,甚至有极个别的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a fraction even smaller,
+Dialogue: 0,0:23:47.46,0:23:50.51,*Default,NTP,0000,0000,0000,,如星系3C321 死星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}such as the 3C321 galaxy, the Death Star Galaxy,
+Dialogue: 0,0:23:50.55,0:23:52.55,*Default,NTP,0000,0000,0000,,会猛击其伙伴星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}smack into other companion galaxies.
+Dialogue: 0,0:23:52.59,0:23:53.76,*Default,NTP,0000,0000,0000,,那是相当罕见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that's incredibly rare.
+Dialogue: 0,0:23:55.76,0:23:58.56,*Default,NTP,0000,0000,0000,,该伙伴星系隔着星际大街\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The companion galaxy is across the galactic street,
+Dialogue: 0,0:23:58.60,0:24:01.10,*Default,NTP,0000,0000,0000,,相距2万光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}20,000 light-years distant.
+Dialogue: 0,0:24:03.69,0:24:05.27,*Default,NTP,0000,0000,0000,,强劲的能量射束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The massive energy beam,
+Dialogue: 0,0:24:05.31,0:24:08.90,*Default,NTP,0000,0000,0000,,甚至超过了死星发出的伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even larger than a gamma ray burst from a dying star,
+Dialogue: 0,0:24:08.94,0:24:13.57,*Default,NTP,0000,0000,0000,,发射永不停歇 貌似其能量供应永无止境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is firing nonstop with a seemingly limitless energy supply.
+Dialogue: 0,0:24:22.62,0:24:25.42,*Default,NTP,0000,0000,0000,,我们现在所看到的就是对死星系3C321\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what we're looking at here is the best terrestrial analogy
+Dialogue: 0,0:24:25.46,0:24:28.21,*Default,NTP,0000,0000,0000,,最现实的比喻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the Death Star Galaxy, 3C321.
+Dialogue: 0,0:24:28.25,0:24:30.42,*Default,NTP,0000,0000,0000,,射流冲出黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A jet is racing out of the black hole,
+Dialogue: 0,0:24:30.46,0:24:32.63,*Default,NTP,0000,0000,0000,,接近光速 它实际上 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}close to the speed of light, and it's actually--
+Dialogue: 0,0:24:32.67,0:24:35.76,*Default,NTP,0000,0000,0000,,通常它会喷到百万光年以外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Normally it would propagate up to about a million light-years away,
+Dialogue: 0,0:24:35.80,0:24:38.22,*Default,NTP,0000,0000,0000,,但是在3C321的特殊案例里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in the special case of 3C321,
+Dialogue: 0,0:24:38.26,0:24:41.72,*Default,NTP,0000,0000,0000,,射流猛击伙伴星系那一边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that jet is slamming into the side of a companion galaxy,
+Dialogue: 0,0:24:41.77,0:24:43.85,*Default,NTP,0000,0000,0000,,在这情况下 它就变得撕裂了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and in doing so, it's becoming disrupted
+Dialogue: 0,0:24:43.89,0:24:45.48,*Default,NTP,0000,0000,0000,,扭曲了 弯曲了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and distorted and bent away.
+Dialogue: 0,0:24:45.52,0:24:49.02,*Default,NTP,0000,0000,0000,,这给那颗伙伴星系施加了种种暴行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's wreaking all sorts of havoc to that companion galaxy.
+Dialogue: 0,0:24:50.19,0:24:52.74,*Default,NTP,0000,0000,0000,,就像建筑物偏转了水柱一般\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Much like the building is deflecting the water jet,
+Dialogue: 0,0:24:52.78,0:24:55.95,*Default,NTP,0000,0000,0000,,受害星系里的行星和恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the planets and stars in the victimized galaxy
+Dialogue: 0,0:24:55.99,0:24:58.78,*Default,NTP,0000,0000,0000,,偏转了大部分攻击的粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are deflecting most of the attacking particles.
+Dialogue: 0,0:25:00.83,0:25:05.37,*Default,NTP,0000,0000,0000,,这条射流实际上是巨大的能量粒子束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this jet is actually a massive beam of energy and particles.
+Dialogue: 0,0:25:05.42,0:25:06.96,*Default,NTP,0000,0000,0000,,这些粒子处于超高温状态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And these particles have been superheated
+Dialogue: 0,0:25:07.00,0:25:09.46,*Default,NTP,0000,0000,0000,,形成了等离子体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}such that they form a plasma.
+Dialogue: 0,0:25:09.50,0:25:13.59,*Default,NTP,0000,0000,0000,,等离子体是超高温的带电粒子和离子的混合体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Plasma is a mix of super-hot charged electrons and ions
+Dialogue: 0,0:25:13.63,0:25:17.93,*Default,NTP,0000,0000,0000,,黑洞巨大的磁场将其注入射流中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}funneled into the jet by the black hole's immense magnetic field.
+Dialogue: 0,0:25:17.97,0:25:20.14,*Default,NTP,0000,0000,0000,,因此冲出黑洞的射流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So jets that race out of black holes
+Dialogue: 0,0:25:20.18,0:25:22.10,*Default,NTP,0000,0000,0000,,实际上是极具能量的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are actually incredibly energetic,
+Dialogue: 0,0:25:22.14,0:25:24.14,*Default,NTP,0000,0000,0000,,事实上 它们可以加速粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, in fact, they can accelerate particles
+Dialogue: 0,0:25:24.18,0:25:26.56,*Default,NTP,0000,0000,0000,,直到发出光 甚至伽玛射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}such that they emit light, maybe even up to gamma rays.
+Dialogue: 0,0:25:26.60,0:25:28.94,*Default,NTP,0000,0000,0000,,这些射线强劲得惊人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These rays are incredibly powerful.
+Dialogue: 0,0:25:30.19,0:25:32.94,*Default,NTP,0000,0000,0000,,并且相当持久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And very long-lasting.
+Dialogue: 0,0:25:32.98,0:25:36.65,*Default,NTP,0000,0000,0000,,有估计认为死星系喷发的能量束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some estimates say the energy jet from the Death Star Galaxy
+Dialogue: 0,0:25:36.70,0:25:39.99,*Default,NTP,0000,0000,0000,,已经持续了近200万年了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been firing for nearly two million years.
+Dialogue: 0,0:25:41.37,0:25:46.91,*Default,NTP,0000,0000,0000,,为了获得燃料 3C321简直生吞了整个星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For its fuel, 3C321 simply devoured an entire galaxy.
+Dialogue: 0,0:25:49.08,0:25:50.50,*Default,NTP,0000,0000,0000,,它获得了大量的燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's got a lot of fuel.
+Dialogue: 0,0:25:50.54,0:25:51.88,*Default,NTP,0000,0000,0000,,我们认为现在所发生的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we actually think is happening here
+Dialogue: 0,0:25:51.92,0:25:54.84,*Default,NTP,0000,0000,0000,,就是先前曾有过兼并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that there's been a previous merger,
+Dialogue: 0,0:25:54.88,0:25:57.88,*Default,NTP,0000,0000,0000,,因而另一个星系已经坠入了主星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so another galaxy has fallen into the main galaxy.
+Dialogue: 0,0:25:57.93,0:25:59.51,*Default,NTP,0000,0000,0000,,我们来看这条漂亮的尘埃带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We see this beautiful dust lane,
+Dialogue: 0,0:25:59.55,0:26:02.43,*Default,NTP,0000,0000,0000,,那意味了那个星系已被撕碎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which implies that the galaxy's been shredded already.
+Dialogue: 0,0:26:02.47,0:26:06.23,*Default,NTP,0000,0000,0000,,结果撕扯行为将物质赶进了黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so that act of shredding drives mass down onto the black hole.
+Dialogue: 0,0:26:07.89,0:26:12.36,*Default,NTP,0000,0000,0000,,在耗尽另一个星系所提供的等离子粒子后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After consuming another galaxy's provision of plasma particles,
+Dialogue: 0,0:26:12.40,0:26:16.74,*Default,NTP,0000,0000,0000,,死星系得设法将粒子激发成射流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Death Star Galaxy has to somehow energize the particles into a jet.
+Dialogue: 0,0:26:18.07,0:26:20.74,*Default,NTP,0000,0000,0000,,黑洞具有强大的磁场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes have powerful magnetic fields
+Dialogue: 0,0:26:20.78,0:26:22.87,*Default,NTP,0000,0000,0000,,和超高速的旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and superfast spin rates,
+Dialogue: 0,0:26:22.91,0:26:26.54,*Default,NTP,0000,0000,0000,,两者结合怎么都得引发粒子射流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a combination that somehow ignites the particle jet.
+Dialogue: 0,0:26:27.96,0:26:31.71,*Default,NTP,0000,0000,0000,,科学家认为射流往一个方向发射的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists believe the reason the jets fire in one direction
+Dialogue: 0,0:26:31.75,0:26:35.63,*Default,NTP,0000,0000,0000,,必定与所有的粒子气体围绕着黑洞运转有关\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has to do with all the dust and gas circling the black hole.
+Dialogue: 0,0:26:37.13,0:26:40.72,*Default,NTP,0000,0000,0000,,在3C321这样的活跃星系的案例里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the case of an active galaxy like 3C321,
+Dialogue: 0,0:26:40.76,0:26:43.22,*Default,NTP,0000,0000,0000,,其中心有一个超大质量黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which has a supermassive black hole in the center,
+Dialogue: 0,0:26:43.26,0:26:47.68,*Default,NTP,0000,0000,0000,,你通常会看到一个面包圈 或环状 物质团团围住它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'll often have a doughnut, or torus, of material surrounding it.
+Dialogue: 0,0:26:47.73,0:26:53.31,*Default,NTP,0000,0000,0000,,在此情况下 黑洞附近的高能粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In that case, highly energetic particles near the black hole
+Dialogue: 0,0:26:53.36,0:26:57.36,*Default,NTP,0000,0000,0000,,是无法从通过面包圈的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can't emerge from that region through the doughnut
+Dialogue: 0,0:26:57.40,0:26:59.07,*Default,NTP,0000,0000,0000,,沿着星系的平面喷出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}along the plane of the galaxy.
+Dialogue: 0,0:26:59.11,0:27:02.41,*Default,NTP,0000,0000,0000,,它们只能顺着这个轴喷出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can only emerge along this axis,
+Dialogue: 0,0:27:02.45,0:27:05.78,*Default,NTP,0000,0000,0000,,那里相对较少阻挡的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where there's relatively little obstructing material.
+Dialogue: 0,0:27:07.79,0:27:10.66,*Default,NTP,0000,0000,0000,,不行的是其伙伴星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unfortunately for the companion galaxy,
+Dialogue: 0,0:27:10.71,0:27:13.79,*Default,NTP,0000,0000,0000,,就眼睁睁地笔直地掉入了面包圈的洞里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's staring straight down the doughnut hole,
+Dialogue: 0,0:27:13.84,0:27:15.75,*Default,NTP,0000,0000,0000,,射流的影响区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the jet's zone of impact
+Dialogue: 0,0:27:15.80,0:27:19.47,*Default,NTP,0000,0000,0000,,宛如宇宙霰弹枪的爆炸扩散区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is like the widely scattered blast of a cosmic shotgun.
+Dialogue: 0,0:27:21.30,0:27:25.76,*Default,NTP,0000,0000,0000,,这种高速粒子辐射射流打击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The problem with this jet of high-speed particles and radiation
+Dialogue: 0,0:27:25.81,0:27:29.35,*Default,NTP,0000,0000,0000,,2万光年外的效星系所带来的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hitting the little galaxy 20,000 light-years away
+Dialogue: 0,0:27:29.39,0:27:32.31,*Default,NTP,0000,0000,0000,,是射流宽到足以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that the jet is wide enough
+Dialogue: 0,0:27:32.35,0:27:35.94,*Default,NTP,0000,0000,0000,,覆盖该星系里大量的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to encompass a large number of stars in this galaxy.
+Dialogue: 0,0:27:37.36,0:27:41.49,*Default,NTP,0000,0000,0000,,所以该星系里的围绕任何恒星的任何行星上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So any creatures living on any planets
+Dialogue: 0,0:27:41.53,0:27:46.03,*Default,NTP,0000,0000,0000,,任何生物现在都险境重重了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbiting any stars in that galaxy are in serious trouble right now.
+Dialogue: 0,0:27:48.66,0:27:50.87,*Default,NTP,0000,0000,0000,,要是我们的银河系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What if it were our own Milky Way
+Dialogue: 0,0:27:50.91,0:27:53.25,*Default,NTP,0000,0000,0000,,现在正遭死星系打击 又当如何呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}being blasted by the Death Star Galaxy?
+Dialogue: 0,0:27:55.34,0:27:57.42,*Default,NTP,0000,0000,0000,,把地球置于射流的路径上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Put Earth in the path of the jet,
+Dialogue: 0,0:27:58.84,0:28:03.76,*Default,NTP,0000,0000,0000,,对臭氧层的影响将会是严重和致命的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the effect on the ozone layer would be enormous and deadly.
+Dialogue: 0,0:28:04.80,0:28:07.47,*Default,NTP,0000,0000,0000,,3C321发出的射流里的伽玛射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gamma rays from the jet in 3C321
+Dialogue: 0,0:28:07.51,0:28:10.27,*Default,NTP,0000,0000,0000,,把氮转换成氮氧化物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}convert nitrogen gas into nitrous oxides.
+Dialogue: 0,0:28:10.31,0:28:11.83,*Default,NTP,0000,0000,0000,,就是那些氮氧化物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's those nitrous oxides 
+Dialogue: 0,0:28:11.83,0:28:13.94,*Default,NTP,0000,0000,0000,,充当了破坏臭氧的催化剂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that actually act as a catalyst in the destruction of ozone.
+Dialogue: 0,0:28:16.02,0:28:18.15,*Default,NTP,0000,0000,0000,,经过数周 数月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So within a matter of weeks to months,
+Dialogue: 0,0:28:18.19,0:28:20.44,*Default,NTP,0000,0000,0000,,乃至一年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe up to a year,
+Dialogue: 0,0:28:20.49,0:28:22.95,*Default,NTP,0000,0000,0000,,臭氧层就会被完全毁掉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ozone layer will be completely obliterated.
+Dialogue: 0,0:28:24.11,0:28:25.70,*Default,NTP,0000,0000,0000,,那是个危险的后果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's a nasty consequence.
+Dialogue: 0,0:28:27.70,0:28:30.83,*Default,NTP,0000,0000,0000,,但是和宇宙间所看到的许多现象一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But like many phenomena observed in the universe,
+Dialogue: 0,0:28:30.87,0:28:37.42,*Default,NTP,0000,0000,0000,,存在着一个循环的悖论 - 有死才有生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is a recurring paradox-- from death comes life.
+Dialogue: 0,0:28:37.46,0:28:43.17,*Default,NTP,0000,0000,0000,,3C321不仅在破坏 而且还在创造\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}3C321 not only destroys, it also creates.
+Dialogue: 0,0:28:43.22,0:28:45.51,*Default,NTP,0000,0000,0000,,我对3C321最感兴趣的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's one of my favorite things about 3C321
+Dialogue: 0,0:28:45.55,0:28:47.18,*Default,NTP,0000,0000,0000,,就是它清楚地证明了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is it demonstrates really clearly
+Dialogue: 0,0:28:47.22,0:28:50.14,*Default,NTP,0000,0000,0000,,黑洞不只是吞噬着宇宙间的一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that black holes don't just gobble everything up in the universe.
+Dialogue: 0,0:28:50.18,0:28:52.60,*Default,NTP,0000,0000,0000,,它们不全是毁灭的使者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're not all complete harbingers of destruction.
+Dialogue: 0,0:28:52.64,0:28:55.52,*Default,NTP,0000,0000,0000,,从3C321射出的射流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The jet that is coming out in 3C321
+Dialogue: 0,0:28:55.56,0:28:57.52,*Default,NTP,0000,0000,0000,,击打着伙伴星系的这一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is hammering into the side of the companion galaxy,
+Dialogue: 0,0:28:57.56,0:28:59.44,*Default,NTP,0000,0000,0000,,当然啦 那是破坏的力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, yes, of course, that's a destructive force,
+Dialogue: 0,0:28:59.48,0:29:01.16,*Default,NTP,0000,0000,0000,,但是最终的遗产\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the ultimate legacy 
+Dialogue: 0,0:29:01.16,0:29:04.53,*Default,NTP,0000,0000,0000,,其实是在互动中被压缩的气体云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually is that the gas clouds that get compressed during this interaction
+Dialogue: 0,0:29:04.57,0:29:07.53,*Default,NTP,0000,0000,0000,,实际上可以形成恒星 恒星又可以形成行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can actually form stars, and the stars can form planets,
+Dialogue: 0,0:29:07.57,0:29:09.32,*Default,NTP,0000,0000,0000,,而行星就有可能形成生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the planets may even form life.
+Dialogue: 0,0:29:09.37,0:29:12.91,*Default,NTP,0000,0000,0000,,所以这种生死不息的美丽循环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there's this beautiful cycle of birth and rebirth and destruction
+Dialogue: 0,0:29:12.95,0:29:15.83,*Default,NTP,0000,0000,0000,,就是宇宙和黑洞的代名词\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's synonymous with the universe and black holes.
+Dialogue: 0,0:29:17.13,0:29:18.71,*Default,NTP,0000,0000,0000,,未来有朝一日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One day in the future,
+Dialogue: 0,0:29:18.75,0:29:21.88,*Default,NTP,0000,0000,0000,,我们所处的银河系也可能与\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our own Milky Way could form its own merger
+Dialogue: 0,0:29:21.92,0:29:27.59,*Default,NTP,0000,0000,0000,,邻近的仙女座星系合并成自己的联合体产生新的死星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the nearby Andromeda Galaxy and create a new Death Star Galaxy,
+Dialogue: 0,0:29:27.64,0:29:31.76,*Default,NTP,0000,0000,0000,,其暴行一定会给地球带来厄运\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a violent act that would certainly spell doom for the Earth.
+Dialogue: 0,0:29:33.43,0:29:37.90,*Default,NTP,0000,0000,0000,,这样的事件很可能发生在未来的几十亿年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Such an event would likely occur many billions of years in the future.
+Dialogue: 0,0:29:40.32,0:29:42.07,*Default,NTP,0000,0000,0000,,不过还有其它星际威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there are other stellar threats
+Dialogue: 0,0:29:42.11,0:29:44.44,*Default,NTP,0000,0000,0000,,正以高速闯入我们的星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}streaking through our galaxy at high speed.
+Dialogue: 0,0:29:45.32,0:29:50.45,*Default,NTP,0000,0000,0000,,它们是超高速恒星 来势汹汹 势不可挡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are hypervelocity stars, and nothing can stop them.
+Dialogue: 0,0:29:54.87,0:29:56.25,*Default,NTP,0000,0000,0000,,在人类眼里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To the human eye,
+Dialogue: 0,0:29:56.29,0:30:00.08,*Default,NTP,0000,0000,0000,,群星在苍穹描绘出一幅宁静的画面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stars paint a tranquil picture in the heavens above.
+Dialogue: 0,0:30:00.13,0:30:02.00,*Default,NTP,0000,0000,0000,,但是凑近一看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But take an up-close look.
+Dialogue: 0,0:30:03.09,0:30:07.59,*Default,NTP,0000,0000,0000,,其中有些是濒临毁灭的死星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A select few are death stars on the verge of extinction,
+Dialogue: 0,0:30:07.63,0:30:11.43,*Default,NTP,0000,0000,0000,,这些宇宙巨兽唯恐天下不乱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and these cosmic beasts are anything but peaceful.
+Dialogue: 0,0:30:12.89,0:30:15.56,*Default,NTP,0000,0000,0000,,恒星最终会烧尽其核心所有的氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eventually a star will burn through all the hydrogen in its core
+Dialogue: 0,0:30:15.60,0:30:16.98,*Default,NTP,0000,0000,0000,,全部转变成氦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and convert it all to helium.
+Dialogue: 0,0:30:17.02,0:30:19.81,*Default,NTP,0000,0000,0000,,一旦到那地步 它就必须质量大到足以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once it does that, it has to be massive enough
+Dialogue: 0,0:30:19.85,0:30:21.69,*Default,NTP,0000,0000,0000,,能够点燃氦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be able to ignite the helium
+Dialogue: 0,0:30:21.73,0:30:23.57,*Default,NTP,0000,0000,0000,,并将氦转换成重元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and convert helium into heavier elements
+Dialogue: 0,0:30:23.61,0:30:25.53,*Default,NTP,0000,0000,0000,,如碳 氧 氮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like carbon, oxygen and nitrogen.
+Dialogue: 0,0:30:26.61,0:30:29.28,*Default,NTP,0000,0000,0000,,这会释放出巨大的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this releases an enormous amount of energy.
+Dialogue: 0,0:30:30.82,0:30:33.08,*Default,NTP,0000,0000,0000,,这个过程也就是氢弹内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This process is the same release of energy
+Dialogue: 0,0:30:33.12,0:30:35.45,*Default,NTP,0000,0000,0000,,所发生的能量释放\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that goes on inside a hydrogen bomb.
+Dialogue: 0,0:30:41.13,0:30:43.29,*Default,NTP,0000,0000,0000,,尽管它们极其暴戾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Though they are incredibly violent,
+Dialogue: 0,0:30:43.34,0:30:46.13,*Default,NTP,0000,0000,0000,,但是其中多数星会有朝一日耗尽燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most of these stars will one day burn up
+Dialogue: 0,0:30:46.17,0:30:48.47,*Default,NTP,0000,0000,0000,,悄无声息进入后半生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and slip quietly into the afterlife
+Dialogue: 0,0:30:48.51,0:30:52.51,*Default,NTP,0000,0000,0000,,成为星际僵尸 即所谓的白矮星 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as stellar corpses called white dwarf stars--
+Dialogue: 0,0:30:52.55,0:30:55.31,*Default,NTP,0000,0000,0000,,电子和原子构成的小球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}smallish balls of electrons and nuclei,
+Dialogue: 0,0:30:55.35,0:30:58.27,*Default,NTP,0000,0000,0000,,注定不再会熊熊燃烧了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}destined to never again burn brightly.
+Dialogue: 0,0:30:59.02,0:31:01.94,*Default,NTP,0000,0000,0000,,但有些是超大质量恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But some are supermassive stars,
+Dialogue: 0,0:31:01.98,0:31:06.98,*Default,NTP,0000,0000,0000,,精力充沛的它们会终结于惊天动地的超新星爆发中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so energetic they end in a fantastic supernova explosion,
+Dialogue: 0,0:31:08.44,0:31:11.82,*Default,NTP,0000,0000,0000,,有时甚至会产生最大的爆炸 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and sometimes even produce the largest of all blasts,
+Dialogue: 0,0:31:11.87,0:31:13.70,*Default,NTP,0000,0000,0000,,伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the gamma ray burst.
+Dialogue: 0,0:31:16.70,0:31:22.58,*Default,NTP,0000,0000,0000,,不过对于一些大质量死星来说 终结意味着新的开端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But for a few massive death stars, the end is a new beginning.
+Dialogue: 0,0:31:22.63,0:31:25.84,*Default,NTP,0000,0000,0000,,来看看中子星的第二次生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Consider the second life of a neutron star.
+Dialogue: 0,0:31:29.13,0:31:32.43,*Default,NTP,0000,0000,0000,,大质量恒星爆发成为超新星时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a massive star explodes in a supernova,
+Dialogue: 0,0:31:32.47,0:31:36.14,*Default,NTP,0000,0000,0000,,其星核有时会塌缩成一个黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its core sometimes collapses to form a black hole.
+Dialogue: 0,0:31:37.56,0:31:39.47,*Default,NTP,0000,0000,0000,,但是更多的情形是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But much more frequently,
+Dialogue: 0,0:31:39.52,0:31:43.52,*Default,NTP,0000,0000,0000,,如果其核心的质量不够 不能形成黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if the core isn't massive enough to create the black hole,
+Dialogue: 0,0:31:43.56,0:31:46.36,*Default,NTP,0000,0000,0000,,所形成的东西几乎一样怪异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it forms something almost as weird,
+Dialogue: 0,0:31:46.40,0:31:50.99,*Default,NTP,0000,0000,0000,,中子星 个头不大但密度难以置信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a neutron star, a small but incredibly dense body.
+Dialogue: 0,0:31:52.82,0:31:55.45,*Default,NTP,0000,0000,0000,,它实际上具有大量的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It actually has a huge amount of material
+Dialogue: 0,0:31:55.49,0:31:57.53,*Default,NTP,0000,0000,0000,,被压缩进了一个极小的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compressed into a very small space.
+Dialogue: 0,0:31:57.58,0:32:00.75,*Default,NTP,0000,0000,0000,,打个比方 你将我们整个太阳的质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you have, for example, the mass of our entire Sun
+Dialogue: 0,0:32:00.79,0:32:05.33,*Default,NTP,0000,0000,0000,,挤进只有几十英里的空间里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}squeezed into a space maybe only a couple tens of miles across.
+Dialogue: 0,0:32:07.09,0:32:08.75,*Default,NTP,0000,0000,0000,,重力极强\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gravity is so strong
+Dialogue: 0,0:32:08.80,0:32:12.01,*Default,NTP,0000,0000,0000,,以至于恒星的原子里的质子和电子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the protons and electrons inside the atoms of the star
+Dialogue: 0,0:32:12.05,0:32:15.64,*Default,NTP,0000,0000,0000,,实际上被挤在一起形成了中子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are actually pushed together to form neutrons.
+Dialogue: 0,0:32:15.68,0:32:19.06,*Default,NTP,0000,0000,0000,,中子星可以稳定存续数十亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a neutron star can remain stable for billions of years.
+Dialogue: 0,0:32:20.68,0:32:22.56,*Default,NTP,0000,0000,0000,,中子星本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neutron stars by themselves
+Dialogue: 0,0:32:22.60,0:32:25.56,*Default,NTP,0000,0000,0000,,不会对宇宙邻居构成威胁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pose no danger to their celestial neighbors,
+Dialogue: 0,0:32:25.61,0:32:28.11,*Default,NTP,0000,0000,0000,,除非它们能找到搭档\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unless they can find a partner.
+Dialogue: 0,0:32:29.57,0:32:32.36,*Default,NTP,0000,0000,0000,,你还能看到恒星的死亡场景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can also get another death scenario for stars
+Dialogue: 0,0:32:32.40,0:32:37.74,*Default,NTP,0000,0000,0000,,两颗中子星之间好像有共同自杀的协定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where there's a sort of mutual suicide pact between two neutron stars.
+Dialogue: 0,0:32:39.29,0:32:42.66,*Default,NTP,0000,0000,0000,,它们叫做共轨中子星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are called co-orbiting neutron stars,
+Dialogue: 0,0:32:42.71,0:32:45.50,*Default,NTP,0000,0000,0000,,其现象开始时 两颗中子星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a phenomenon initiated when two neutron stars
+Dialogue: 0,0:32:45.54,0:32:48.50,*Default,NTP,0000,0000,0000,,产生了一种亲密但注定一死的关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}begin an intimate, but doomed relationship.
+Dialogue: 0,0:32:50.09,0:32:52.88,*Default,NTP,0000,0000,0000,,它们的轨道在数十亿年后会收窄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their orbit narrows over millions of years
+Dialogue: 0,0:32:52.92,0:32:56.26,*Default,NTP,0000,0000,0000,,直至它们最终相碰 化为一道闪光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until they finally meet in a flash of light.
+Dialogue: 0,0:32:57.64,0:33:02.77,*Default,NTP,0000,0000,0000,,在此过程中 它们会产生一个剧烈的爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in so doing, they can generate a violent explosion,
+Dialogue: 0,0:33:02.81,0:33:04.77,*Default,NTP,0000,0000,0000,,某种意义上的第二次生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a second life in a sense.
+Dialogue: 0,0:33:06.69,0:33:08.52,*Default,NTP,0000,0000,0000,,所以存在有两种不同的伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there's two different types of gamma ray bursts.
+Dialogue: 0,0:33:08.56,0:33:09.98,*Default,NTP,0000,0000,0000,,有短时间爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's short bursts,
+Dialogue: 0,0:33:10.02,0:33:12.78,*Default,NTP,0000,0000,0000,,其持续时间不足2秒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which have durations of less than two seconds,
+Dialogue: 0,0:33:12.82,0:33:15.03,*Default,NTP,0000,0000,0000,,我们认为短时间爆发产生于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we think that short bursts are produced
+Dialogue: 0,0:33:15.07,0:33:17.66,*Default,NTP,0000,0000,0000,,中子星的合并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by merging neutron stars.
+Dialogue: 0,0:33:19.49,0:33:22.62,*Default,NTP,0000,0000,0000,,短时间爆发不同于大质量恒星塌缩所产生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The short bursts are different than the longer GRBs
+Dialogue: 0,0:33:22.66,0:33:25.00,*Default,NTP,0000,0000,0000,,时间较长的伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}produced by collapsing massive stars.
+Dialogue: 0,0:33:27.46,0:33:31.29,*Default,NTP,0000,0000,0000,,两颗碰撞的中子星所发出的伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gamma ray burst emitted by two colliding neutron stars
+Dialogue: 0,0:33:31.34,0:33:35.88,*Default,NTP,0000,0000,0000,,虽然时间短 但很强烈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be short, but it's powerful,
+Dialogue: 0,0:33:35.93,0:33:38.18,*Default,NTP,0000,0000,0000,,等于太阳毕生发出的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}equal to the energy released by the Sun
+Dialogue: 0,0:33:38.22,0:33:42.26,*Default,NTP,0000,0000,0000,,在2秒不到的时间里释放出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over its entire lifetime in less than two seconds.
+Dialogue: 0,0:33:44.48,0:33:45.81,*Default,NTP,0000,0000,0000,,我们的担忧何在？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The worry for us?
+Dialogue: 0,0:33:45.85,0:33:48.85,*Default,NTP,0000,0000,0000,,至少有两打成双共轨的中子星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At least two dozen pairs of orbiting neutron stars
+Dialogue: 0,0:33:48.90,0:33:51.02,*Default,NTP,0000,0000,0000,,存在于银河系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exist in the Milky Way.
+Dialogue: 0,0:33:52.48,0:33:55.86,*Default,NTP,0000,0000,0000,,很近的伽玛射线暴 首要的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A very nearby gamma ray burst, first and foremost,
+Dialogue: 0,0:33:55.90,0:33:58.41,*Default,NTP,0000,0000,0000,,会剥去大部分臭氧层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would get rid of much of the ozone layer.
+Dialogue: 0,0:33:59.53,0:34:01.87,*Default,NTP,0000,0000,0000,,那会给地球造成灾难性的后果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That could have disastrous effects on Earth.
+Dialogue: 0,0:34:07.12,0:34:10.58,*Default,NTP,0000,0000,0000,,有估计认为 暴虐的中子星合并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some estimates hold that a violent neutron star merger
+Dialogue: 0,0:34:10.63,0:34:16.80,*Default,NTP,0000,0000,0000,,每一亿年会有一次发生在距太阳3000光年的范围内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}occurs within about 3,000 light-years of the Sun every 100 million years.
+Dialogue: 0,0:34:16.84,0:34:20.55,*Default,NTP,0000,0000,0000,,这大概相当于地球化石记录所记载的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's about the same interval as the mass extinction events
+Dialogue: 0,0:34:20.60,0:34:23.10,*Default,NTP,0000,0000,0000,,大规模灭绝事件的间隔时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}recorded in the Earth's fossil record.
+Dialogue: 0,0:34:24.22,0:34:26.73,*Default,NTP,0000,0000,0000,,那是巧合 还是我们应该担心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is it coincidence, or should we worry
+Dialogue: 0,0:34:26.77,0:34:29.27,*Default,NTP,0000,0000,0000,,两颗垂死的恒星最后的探戈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the last tango of two dying stars
+Dialogue: 0,0:34:29.31,0:34:31.90,*Default,NTP,0000,0000,0000,,有可能最终因为致命的伽玛射线轰击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might eventually blast the Earth's ozone layer
+Dialogue: 0,0:34:31.94,0:34:35.07,*Default,NTP,0000,0000,0000,,地球的臭氧层 进而改变地球呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with deadly gamma rays and alter the planet?
+Dialogue: 0,0:34:36.07,0:34:38.40,*Default,NTP,0000,0000,0000,,科学家无从回答\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists don't know the answer.
+Dialogue: 0,0:34:42.41,0:34:44.62,*Default,NTP,0000,0000,0000,,风险或许就如同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The chances are probably about the same
+Dialogue: 0,0:34:44.66,0:34:48.21,*Default,NTP,0000,0000,0000,,一颗速逃星冒失地闯入地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as a runaway star plowing headlong into the Earth.
+Dialogue: 0,0:34:49.75,0:34:51.04,*Default,NTP,0000,0000,0000,,可能性极小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a remote possibility,
+Dialogue: 0,0:34:52.96,0:34:54.96,*Default,NTP,0000,0000,0000,,但不能掉以轻心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but fearsome to contemplate.
+Dialogue: 0,0:34:57.30,0:35:00.72,*Default,NTP,0000,0000,0000,,你实际上有可能看到群星簇拥\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can actually have the possibility that a collection of stars
+Dialogue: 0,0:35:00.76,0:35:03.35,*Default,NTP,0000,0000,0000,,或许都积聚在同一个街区里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that perhaps were all together in the same neighborhood,
+Dialogue: 0,0:35:03.39,0:35:04.89,*Default,NTP,0000,0000,0000,,彼此互动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}interacting with each other,
+Dialogue: 0,0:35:04.93,0:35:09.31,*Default,NTP,0000,0000,0000,,有时会弹射出一颗恒星 离家游荡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sometimes ejects a star, just to wander off on its own.
+Dialogue: 0,0:35:11.77,0:35:13.23,*Default,NTP,0000,0000,0000,,据我们所知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As far as we know,
+Dialogue: 0,0:35:13.27,0:35:16.07,*Default,NTP,0000,0000,0000,,尚无游星奔我们而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are no wandering stars headed our way.
+Dialogue: 0,0:35:16.11,0:35:19.95,*Default,NTP,0000,0000,0000,,但要是发生那样的事情 将会是相当有趣的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if that were to happen, it could be quite interesting.
+Dialogue: 0,0:35:22.62,0:35:25.41,*Default,NTP,0000,0000,0000,,可以看到的场景是围绕太阳的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One scenario could see the Earth's orbit around the Sun
+Dialogue: 0,0:35:25.45,0:35:29.79,*Default,NTP,0000,0000,0000,,将会受到游星引力的骚扰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}disrupted by the gravitational pull of the wandering star.
+Dialogue: 0,0:35:31.12,0:35:35.04,*Default,NTP,0000,0000,0000,,一个戏剧性的后果就是这样一颗游星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One dramatic possibility is that such a wandering star
+Dialogue: 0,0:35:35.09,0:35:38.13,*Default,NTP,0000,0000,0000,,会将地球踹出整个太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}simply kicks the Earth entirely out of the solar system,
+Dialogue: 0,0:35:38.17,0:35:41.22,*Default,NTP,0000,0000,0000,,使得我们到处流浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so we're now wandering around
+Dialogue: 0,0:35:41.26,0:35:43.59,*Default,NTP,0000,0000,0000,,失去了能量的来源 - 太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}without a source of energy, the Sun.
+Dialogue: 0,0:35:44.97,0:35:47.01,*Default,NTP,0000,0000,0000,,无人知道结局如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No one really knows what would happen.
+Dialogue: 0,0:35:47.06,0:35:48.64,*Default,NTP,0000,0000,0000,,这取决于接近的角度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It really depends upon the angle of approach,
+Dialogue: 0,0:35:48.68,0:35:50.60,*Default,NTP,0000,0000,0000,,该星的质量 等等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mass of the star, et cetera.
+Dialogue: 0,0:35:52.69,0:35:56.65,*Default,NTP,0000,0000,0000,,游星的速度可达到每秒60英里 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wandering stars can travel at up to 60 miles per second--
+Dialogue: 0,0:35:56.69,0:35:58.44,*Default,NTP,0000,0000,0000,,很快 但还是未达到快得足以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fast, but still not fast enough
+Dialogue: 0,0:35:58.48,0:36:01.57,*Default,NTP,0000,0000,0000,,摆脱银河系的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to escape the Milky Way's gravitational pull.
+Dialogue: 0,0:36:05.49,0:36:08.58,*Default,NTP,0000,0000,0000,,但是有一些涡轮增压型\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there are some supercharged turbo models
+Dialogue: 0,0:36:08.62,0:36:13.37,*Default,NTP,0000,0000,0000,,实际上可以挣脱逃逸 飞进宇宙间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could actually break free and rocket out into the universe.
+Dialogue: 0,0:36:14.75,0:36:17.92,*Default,NTP,0000,0000,0000,,它们叫做超高速星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These are called hypervelocity stars.
+Dialogue: 0,0:36:19.30,0:36:21.63,*Default,NTP,0000,0000,0000,,超高速星是太阳一类的普通恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hypervelocity stars are normal stars like the Sun,
+Dialogue: 0,0:36:21.67,0:36:23.76,*Default,NTP,0000,0000,0000,,除了它们跑出星系的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}except that they're moving out of the galaxy
+Dialogue: 0,0:36:23.80,0:36:25.47,*Default,NTP,0000,0000,0000,,大大超过时速百万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at well over a million miles an hour.
+Dialogue: 0,0:36:26.51,0:36:28.43,*Default,NTP,0000,0000,0000,,那已经超越了银河系的逃逸速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's beyond the escape velocity of the Milky Way.
+Dialogue: 0,0:36:31.14,0:36:35.31,*Default,NTP,0000,0000,0000,,需要有速度才能让一对普通的共轨恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The need for speed begins with a normal pair of co-orbiting stars
+Dialogue: 0,0:36:35.35,0:36:39.23,*Default,NTP,0000,0000,0000,,十分靠近黑洞的边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that get too close to the edge of a black hole.
+Dialogue: 0,0:36:40.69,0:36:43.70,*Default,NTP,0000,0000,0000,,就像发生故障的阿波罗13号指令舱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just as the disabled Apollo 13 command module
+Dialogue: 0,0:36:43.74,0:36:47.74,*Default,NTP,0000,0000,0000,,通过机动接近月球的轨道来提升速度一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}got a boost to velocity by maneuvering close to the Moon's orbit,
+Dialogue: 0,0:36:48.70,0:36:53.91,*Default,NTP,0000,0000,0000,,超高速星从黑洞获得巨大的引力反冲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the hypervelocity star gets a huge gravitational kick from the black hole,
+Dialogue: 0,0:36:53.96,0:36:56.71,*Default,NTP,0000,0000,0000,,割断与其双胞胎伙伴的关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}severing the bond with its binary partner.
+Dialogue: 0,0:36:58.50,0:36:59.67,*Default,NTP,0000,0000,0000,,最靠近黑洞的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The star closest to the black hole
+Dialogue: 0,0:36:59.71,0:37:01.34,*Default,NTP,0000,0000,0000,,会陷入围绕黑洞的贴身轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is captured into a very tight orbit
+Dialogue: 0,0:37:01.38,0:37:03.97,*Default,NTP,0000,0000,0000,,这样它就无能为力了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}around the black hole, and so it loses this energy.
+Dialogue: 0,0:37:04.01,0:37:05.38,*Default,NTP,0000,0000,0000,,另一颗恒星就获得了能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The other star gains that energy,
+Dialogue: 0,0:37:05.43,0:37:08.22,*Default,NTP,0000,0000,0000,,结果就以这种极大的速度被弹射出来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and is ejected with this very large velocity as a result.
+Dialogue: 0,0:37:11.52,0:37:16.02,*Default,NTP,0000,0000,0000,,超高速星的射出很像是弹弓效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ejection of a hypervelocity star is much like a slingshot effect.
+Dialogue: 0,0:37:17.06,0:37:20.32,*Default,NTP,0000,0000,0000,,瞬间双星的轨道被打破\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the instant the binary star's orbit is broken,
+Dialogue: 0,0:37:20.36,0:37:25.74,*Default,NTP,0000,0000,0000,,超高速星以极大的力道被射入浩瀚的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the hypervelocity star is launched with incredibIe force into the void of space.
+Dialogue: 0,0:37:28.24,0:37:30.20,*Default,NTP,0000,0000,0000,,它们一经被逐出银河系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They've been voted out of the Milky Way,
+Dialogue: 0,0:37:30.24,0:37:33.62,*Default,NTP,0000,0000,0000,,就注定漂泊在无边无际的太空之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they're destined to drift into the empty depths of intergalactic space.
+Dialogue: 0,0:37:34.62,0:37:38.50,*Default,NTP,0000,0000,0000,,这些恒星影响到地球是非常不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very unlikely that these stars will ever affect the Earth.
+Dialogue: 0,0:37:39.71,0:37:43.09,*Default,NTP,0000,0000,0000,,幸运的是 这些超高速星的老死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately, the eventual death of these speedy stars
+Dialogue: 0,0:37:43.13,0:37:45.80,*Default,NTP,0000,0000,0000,,会发生在离太阳很远很远的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will occur far away from our solar system.
+Dialogue: 0,0:37:48.68,0:37:52.56,*Default,NTP,0000,0000,0000,,那些在我们街区里的死星才是我们需要警惕的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the death stars on our own block we need to keep an eye on.
+Dialogue: 0,0:37:53.77,0:37:56.85,*Default,NTP,0000,0000,0000,,在宇宙时间里 它们的引信已经点绕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In cosmic time, their fuses are lit,
+Dialogue: 0,0:37:56.89,0:38:01.02,*Default,NTP,0000,0000,0000,,我们首当其冲它们的湮灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we have a front-row seat to their annihilation.
+Dialogue: 0,0:38:10.12,0:38:12.33,*Default,NTP,0000,0000,0000,,在宇宙偏远的角落里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In remote corners of the universe,
+Dialogue: 0,0:38:12.37,0:38:15.87,*Default,NTP,0000,0000,0000,,无数恒星正在死囚牢房里等待着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}countless stars are biding their time on death row,
+Dialogue: 0,0:38:15.91,0:38:18.96,*Default,NTP,0000,0000,0000,,被处以壮丽暴虐的极刑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sentenced to spectacular, violent endings.
+Dialogue: 0,0:38:22.96,0:38:25.42,*Default,NTP,0000,0000,0000,,离家不远处 有几十颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Closer to home, there are a few dozen stars
+Dialogue: 0,0:38:25.46,0:38:28.09,*Default,NTP,0000,0000,0000,,就在距地球20光年的范围内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}within 20 light-years of the Earth.
+Dialogue: 0,0:38:28.13,0:38:31.09,*Default,NTP,0000,0000,0000,,其中有些正在准备后事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a few of these are preparing for death.
+Dialogue: 0,0:38:32.47,0:38:37.73,*Default,NTP,0000,0000,0000,,我认为我们对普通超新星的威胁是安全的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think we're safe from the dangers of a normal supernova.
+Dialogue: 0,0:38:37.77,0:38:41.77,*Default,NTP,0000,0000,0000,,对于伽玛射线暴的情况 我们不敢打包票\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the case of a gamma ray burst, we're not so sure.
+Dialogue: 0,0:38:44.15,0:38:46.99,*Default,NTP,0000,0000,0000,,其中有在船底座伊塔星系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One is in the stellar system Eta Carinae,
+Dialogue: 0,0:38:47.03,0:38:50.45,*Default,NTP,0000,0000,0000,,一颗超新星比我们太阳大100倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a supermassive star about 100 times bigger
+Dialogue: 0,0:38:50.49,0:38:53.41,*Default,NTP,0000,0000,0000,,亮100万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a million times more luminous than the Sun.
+Dialogue: 0,0:38:54.66,0:38:57.79,*Default,NTP,0000,0000,0000,,1843年 积聚的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1843, a buildup of pressure
+Dialogue: 0,0:38:57.83,0:39:01.46,*Default,NTP,0000,0000,0000,,点燃的巨大的光喷发 在地球上都能看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ignited a gigantic eruption of light seen from Earth.
+Dialogue: 0,0:39:02.67,0:39:04.13,*Default,NTP,0000,0000,0000,,但是该星存活了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the star survived
+Dialogue: 0,0:39:04.17,0:39:07.96,*Default,NTP,0000,0000,0000,,形成了尘埃云 叫做星云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and formed a dust cloud called a nebula.
+Dialogue: 0,0:39:08.01,0:39:10.80,*Default,NTP,0000,0000,0000,,就在8000光年以外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At a distance of just 8,000 light-years,
+Dialogue: 0,0:39:10.84,0:39:14.22,*Default,NTP,0000,0000,0000,,我们首当其冲它的毁灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we'll have a front-row seat to its annihilation.
+Dialogue: 0,0:39:15.47,0:39:17.47,*Default,NTP,0000,0000,0000,,我们认为它会变成黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We think it's going to turn into a black hole
+Dialogue: 0,0:39:17.52,0:39:20.44,*Default,NTP,0000,0000,0000,,就在现在到未来的100万年里的某个时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sometime between now and the next million years,
+Dialogue: 0,0:39:20.48,0:39:23.48,*Default,NTP,0000,0000,0000,,随着它的塌缩 它有足够的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and as it collapses, it has enough matter
+Dialogue: 0,0:39:23.52,0:39:27.44,*Default,NTP,0000,0000,0000,,它可以产生强烈的伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it can produce a powerful gamma ray burst.
+Dialogue: 0,0:39:29.45,0:39:32.32,*Default,NTP,0000,0000,0000,,不像沃尔夫-拉叶星104\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike the star Wolf-Rayet 104,
+Dialogue: 0,0:39:32.37,0:39:35.99,*Default,NTP,0000,0000,0000,,船底座伊塔星并没有把我们纳入它的准星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eta Carinae doesn't have us in its crosshairs.
+Dialogue: 0,0:39:36.04,0:39:38.50,*Default,NTP,0000,0000,0000,,我们知道船底座伊塔的旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know that the rotation of Eta Carinae
+Dialogue: 0,0:39:38.54,0:39:40.16,*Default,NTP,0000,0000,0000,,并没有正对地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is not pointed towards Earth.
+Dialogue: 0,0:39:42.04,0:39:44.75,*Default,NTP,0000,0000,0000,,所以我们很幸运 伽玛射线柱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So lucky for us, the pulse of the gamma ray
+Dialogue: 0,0:39:44.79,0:39:48.55,*Default,NTP,0000,0000,0000,,并不会直接影响到地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is not going to be directly impacting Earth.
+Dialogue: 0,0:39:50.93,0:39:52.22,*Default,NTP,0000,0000,0000,,如果那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it happens,
+Dialogue: 0,0:39:53.22,0:39:59.22,*Default,NTP,0000,0000,0000,,爆发有可能会是人类所见证到的最亮的超新星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the explosion will likely be the brightest supernova ever witnessed by mankind 
+Dialogue: 0,0:40:01.27,0:40:04.81,*Default,NTP,0000,0000,0000,,除非冠军旁落另一颗死星竞争者 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unless the title goes to another death star contender
+Dialogue: 0,0:40:04.86,0:40:07.19,*Default,NTP,0000,0000,0000,,就是更加靠近地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's even closer to Earth--
+Dialogue: 0,0:40:07.23,0:40:09.36,*Default,NTP,0000,0000,0000,,参宿四\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Betelgeuse.
+Dialogue: 0,0:40:09.40,0:40:13.91,*Default,NTP,0000,0000,0000,,位于500光年外的猎户座里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Located in the Orion constellation about 500 light-years away,
+Dialogue: 0,0:40:14.74,0:40:18.87,*Default,NTP,0000,0000,0000,,参宿四正快速耗尽其最后的核燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Betelgeuse is quickly burning through the last of its nuclear fuel.
+Dialogue: 0,0:40:20.25,0:40:24.67,*Default,NTP,0000,0000,0000,,参宿四是颗很大的恒星 其质量是太阳的20倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Betelgeuse is a very massive star, about 20 times the mass of the Sun.
+Dialogue: 0,0:40:24.71,0:40:27.88,*Default,NTP,0000,0000,0000,,会在50万年里爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's within half a million years of exploding.
+Dialogue: 0,0:40:27.92,0:40:30.17,*Default,NTP,0000,0000,0000,,人们关注到参宿四\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People have been noticing that Betelgeuse
+Dialogue: 0,0:40:30.21,0:40:33.38,*Default,NTP,0000,0000,0000,,在过去的数十年里变化很大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been changing a lot over the last decades.
+Dialogue: 0,0:40:33.43,0:40:37.80,*Default,NTP,0000,0000,0000,,它实际上大幅收缩 约有15%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's actually shrunk considerably, about 15%.
+Dialogue: 0,0:40:37.85,0:40:39.85,*Default,NTP,0000,0000,0000,,意味着什么 无人知晓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What that means, no one is sure,
+Dialogue: 0,0:40:39.89,0:40:41.77,*Default,NTP,0000,0000,0000,,但是大家都不敢掉以轻心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but everyone's keeping an eye on it.
+Dialogue: 0,0:40:43.56,0:40:47.81,*Default,NTP,0000,0000,0000,,有些科学家认为参宿四可能会释放出伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists believe Betelgeuse could unleash a gamma ray burst.
+Dialogue: 0,0:40:47.86,0:40:51.23,*Default,NTP,0000,0000,0000,,地球人对此无庸担忧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People on Earth have little to fear if it does.
+Dialogue: 0,0:40:51.28,0:40:56.11,*Default,NTP,0000,0000,0000,,和船底座伊塔星一样 其星轴指向安全地远离地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like Eta Carinae, the star's axis points safely away from Earth.
+Dialogue: 0,0:40:57.45,0:41:00.49,*Default,NTP,0000,0000,0000,,不仅如此 而且参宿四还可能具有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not only that, but Betelgeuse may also have
+Dialogue: 0,0:41:00.54,0:41:02.45,*Default,NTP,0000,0000,0000,,内置的爆炸屏障\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a built-in blast shield.
+Dialogue: 0,0:41:04.12,0:41:06.71,*Default,NTP,0000,0000,0000,,其爆发会相对平常\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its explosion will be relatively normal.
+Dialogue: 0,0:41:06.75,0:41:08.88,*Default,NTP,0000,0000,0000,,它不会是伽玛射线暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It won't be a gamma ray burst,
+Dialogue: 0,0:41:08.92,0:41:11.92,*Default,NTP,0000,0000,0000,,因为参宿四存在着厚厚的氢气外壳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because there's this thick hydrogen envelope in Betelgeuse,
+Dialogue: 0,0:41:11.96,0:41:13.30,*Default,NTP,0000,0000,0000,,氢气外壳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that hydrogen envelope
+Dialogue: 0,0:41:13.34,0:41:18.93,*Default,NTP,0000,0000,0000,,可能会阻挡住喷射中的粒子辐射流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will probably prevent the jet of particles and radiation from emerging.
+Dialogue: 0,0:41:18.97,0:41:24.77,*Default,NTP,0000,0000,0000,,辐射流里会有大量的物质送出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's too much material through which the jet of radiation would have to pass.
+Dialogue: 0,0:41:25.64,0:41:29.73,*Default,NTP,0000,0000,0000,,参宿四会短时间内强烈发光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Betelgeuse will shine intensely for a brief moment,
+Dialogue: 0,0:41:29.77,0:41:35.32,*Default,NTP,0000,0000,0000,,但是比不上我们最近的恒星 - 太阳的最后时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it won't compare to the final moments of our nearest star, the Sun.
+Dialogue: 0,0:41:37.99,0:41:40.91,*Default,NTP,0000,0000,0000,,我们太阳这样的普通恒星 健康长寿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Average stars like our Sun have nice, long life spans,
+Dialogue: 0,0:41:40.95,0:41:42.12,*Default,NTP,0000,0000,0000,,我们幸运的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fortunately for us,
+Dialogue: 0,0:41:42.16,0:41:45.41,*Default,NTP,0000,0000,0000,,我们的太阳才度过了它百亿年寿命的一半\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and our Sun is about halfway through its 10-billion-year lifetime.
+Dialogue: 0,0:41:45.46,0:41:47.62,*Default,NTP,0000,0000,0000,,它才45亿岁左右\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's about 4 1/2 billion years old.
+Dialogue: 0,0:41:47.67,0:41:49.17,*Default,NTP,0000,0000,0000,,步入中年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That makes it middle-aged.
+Dialogue: 0,0:41:50.38,0:41:54.63,*Default,NTP,0000,0000,0000,,科学家估计太阳还能活50亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists estimate that the Sun will live another 5 billion years,
+Dialogue: 0,0:41:55.67,0:41:59.68,*Default,NTP,0000,0000,0000,,但是我们的问题会更早产生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but our problems could begin much sooner.
+Dialogue: 0,0:41:59.72,0:42:03.97,*Default,NTP,0000,0000,0000,,我们的太阳在逐步变得明亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our own Sun is very gradually getting brighter,
+Dialogue: 0,0:42:04.02,0:42:05.10,*Default,NTP,0000,0000,0000,,变得更加强劲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}getting more powerful.
+Dialogue: 0,0:42:06.94,0:42:10.65,*Default,NTP,0000,0000,0000,,在50亿年 肯定是100亿年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And within a half a billion, certainly a billion years,
+Dialogue: 0,0:42:10.69,0:42:12.07,*Default,NTP,0000,0000,0000,,地球将会变得非常的热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth will become so hot
+Dialogue: 0,0:42:12.11,0:42:14.90,*Default,NTP,0000,0000,0000,,海洋将会蒸发殆尽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the oceans will have evaporated away.
+Dialogue: 0,0:42:14.94,0:42:18.15,*Default,NTP,0000,0000,0000,,因此我们是不会有四五十亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we don't quite have 4 or 5 billion years
+Dialogue: 0,0:42:18.20,0:42:20.49,*Default,NTP,0000,0000,0000,,来操心这个问题了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to worry about this problem.
+Dialogue: 0,0:42:20.53,0:42:25.12,*Default,NTP,0000,0000,0000,,我们必须要对此操心的时间尺度就几亿年的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have to worry about it on time scales of hundreds of millions of years.
+Dialogue: 0,0:42:26.50,0:42:30.58,*Default,NTP,0000,0000,0000,,在太阳让地球聊无生机的几十亿年后 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Billions of years after the Sun renders the Earth devoid of life,
+Dialogue: 0,0:42:30.63,0:42:34.30,*Default,NTP,0000,0000,0000,,就会进入最后阶段 所谓的红巨星时代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will enter a final phase, known as a red giant.
+Dialogue: 0,0:42:35.80,0:42:38.17,*Default,NTP,0000,0000,0000,,它不可能爆发成为超新星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can't explode and produce a supernova,
+Dialogue: 0,0:42:38.22,0:42:40.26,*Default,NTP,0000,0000,0000,,因为它个头不够\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's not massive enough.
+Dialogue: 0,0:42:43.56,0:42:46.64,*Default,NTP,0000,0000,0000,,但是大多数科学家都赞同最后的篇章\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But most scientists agree on the final chapter.
+Dialogue: 0,0:42:46.68,0:42:50.48,*Default,NTP,0000,0000,0000,,作为红巨星 其密度会减小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a red giant, its density will decrease,
+Dialogue: 0,0:42:50.52,0:42:56.11,*Default,NTP,0000,0000,0000,,太阳会向外膨胀 吞噬它的近邻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Sun will balloon outward, devouring its nearest neighbors.
+Dialogue: 0,0:42:57.28,0:42:59.86,*Default,NTP,0000,0000,0000,,在此阶段 红巨星阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At this stage, the red giant stage,
+Dialogue: 0,0:42:59.91,0:43:02.82,*Default,NTP,0000,0000,0000,,太阳会膨胀 吞噬水星 金星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Sun will probably expand and engulf Mercury, Venus,
+Dialogue: 0,0:43:02.87,0:43:05.37,*Default,NTP,0000,0000,0000,,或许还有地球本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and maybe even Earth itself.
+Dialogue: 0,0:43:07.04,0:43:09.08,*Default,NTP,0000,0000,0000,,因此 那几乎是地球的末日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that would pretty much be the end of Earth.
+Dialogue: 0,0:43:13.38,0:43:17.09,*Default,NTP,0000,0000,0000,,在宇宙间所有的死星威胁中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of all the dangerous death stars in the universe,
+Dialogue: 0,0:43:17.13,0:43:22.64,*Default,NTP,0000,0000,0000,,最有可能摧毁地球的就是我们的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the one most likely to destroy the Earth is our own Sun.
+Dialogue: 0,0:43:25.76,0:43:28.18,*Default,NTP,0000,0000,0000,,虽然这标志着我们星球的终结\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While it marks our planet's ultimate end,
+Dialogue: 0,0:43:28.23,0:43:31.23,*Default,NTP,0000,0000,0000,,但它只不过是宇宙循环的一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's merely a part of the cycle of creation.
+Dialogue: 0,0:43:32.69,0:43:37.44,*Default,NTP,0000,0000,0000,,死星杀生 但是它们也是生命的起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Death stars take life, but they are also the origin of life.
+Dialogue: 0,0:43:39.15,0:43:40.86,*Default,NTP,0000,0000,0000,,我们体内的重元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The heavy elements in our bodies
+Dialogue: 0,0:43:40.90,0:43:45.91,*Default,NTP,0000,0000,0000,,毫不夸张地说是产生于前几代的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}quite literally were generated by previous generations of stars
+Dialogue: 0,0:43:45.95,0:43:50.58,*Default,NTP,0000,0000,0000,,是自星际爆发中射入宇宙的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and ejected into the cosmos by stellar explosions.
+Dialogue: 0,0:43:50.62,0:43:56.09,*Default,NTP,0000,0000,0000,,因此如果不是发生了某些恒星在其生命结束时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we would not be here if it were not for the fact that some stars
+Dialogue: 0,0:43:56.13,0:43:59.71,*Default,NTP,0000,0000,0000,,剧烈的爆发的话 我们就不会在这里了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}explode violently at the end of their lives.
+Dialogue: 0,0:43:59.76,0:44:01.34,*Default,NTP,0000,0000,0000,,正如卡尔 萨根说过的那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As Carl Sagan used to say,
+Dialogue: 0,0:44:01.38,0:44:05.43,*Default,NTP,0000,0000,0000,,我们是星际物质组成的 我们是星尘组成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"We are made of star stuff, we are made of stardust."
+Dialogue: 0,0:44:07.14,0:44:10.60,*Default,NTP,0000,0000,0000,,随着爆发的不断进行 产生出重元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the explosions continue, the resulting heavy elements
+Dialogue: 0,0:44:10.64,0:44:14.94,*Default,NTP,0000,0000,0000,,或许有朝一日再次播下生命的基础\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may one day re-seed the very foundations of life,
+Dialogue: 0,0:44:14.98,0:44:16.90,*Default,NTP,0000,0000,0000,,远离银河\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}far from the Milky Way,
+Dialogue: 0,0:44:18.23,0:44:23.03,*Default,NTP,0000,0000,0000,,在宇宙新的一角的一颗新的蓝色星球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on a new blue planet

@@ -1,0 +1,849 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:20.53,0:01:27.16,Default,,0000,0000,0008,,{\fn华文楷体\fs20\1c&HE0E0E0&\blur3}宇宙:光速{\r}
+Dialogue: 0,0:00:01.62,0:00:04.08,Default,,0000,0000,0000,,{\blur3}创世之初 冥冥之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness...{\r}
+Dialogue: 0,0:00:04.12,0:00:06.21,Default,,0000,0000,0000,,{\blur3}随着轰的一声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, bang...{\r}
+Dialogue: 0,0:00:06.25,0:00:09.42,Default,,0000,0000,0000,,{\blur3}诞生了无限膨胀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to an endless expanding existence...{\r}
+Dialogue: 0,0:00:09.46,0:00:12.01,Default,,0000,0000,0000,,{\blur3}时间 空间和物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:12.05,0:00:14.72,Default,,0000,0000,0000,,{\blur3}现在 所见超乎我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, see further than we've ever imagined...{\r}
+Dialogue: 0,0:00:14.76,0:00:16.68,Default,,0000,0000,0000,,{\blur3}超越了我们生存的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the limits of our existence...{\r}
+Dialogue: 0,0:00:16.72,0:00:19.10,Default,,0000,0000,0000,,{\blur3}这个空间我们称之为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a place we call "The Universe."{\r}
+Dialogue: 0,0:00:22.64,0:00:24.27,Default,,0000,0000,0000,,{\blur3}穿梭太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Streaking through space...{\r}
+Dialogue: 0,0:00:24.31,0:00:27.31,Default,,0000,0000,0000,,{\blur3}光是宇宙间最快的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}light is the fastest thing in the universe.{\r}
+Dialogue: 0,0:00:27.36,0:00:31.48,Default,,0000,0000,0000,,{\blur3}它可以在一秒钟内绕地球7圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could circle the Earth seven times in one second.{\r}
+Dialogue: 0,0:00:31.53,0:00:34.86,Default,,0000,0000,0000,,{\blur3}正是它从遥远的地方来到我们这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As it reaches us across vast distances...{\r}
+Dialogue: 0,0:00:34.90,0:00:38.91,Default,,0000,0000,0000,,{\blur3}揭示了宇宙的历史{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it reveals the history of the cosmos.{\r}
+Dialogue: 0,0:00:38.95,0:00:42.16,Default,,0000,0000,0000,,{\blur3}我们可以回眸过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're able to look back in time.{\r}
+Dialogue: 0,0:00:42.20,0:00:46.21,Default,,0000,0000,0000,,{\blur3}光的传播是每秒钟18.6万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light travels at 186,000 miles per second.{\r}
+Dialogue: 0,0:00:46.25,0:00:48.71,Default,,0000,0000,0000,,{\blur3}其速度是极限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its speed is an ultimate barrier.{\r}
+Dialogue: 0,0:00:48.75,0:00:51.13,Default,,0000,0000,0000,,{\blur3}任何东西都无法逾越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nothing can go faster.{\r}
+Dialogue: 0,0:00:51.17,0:00:53.80,Default,,0000,0000,0000,,{\blur3}我们从来没有打破过这个速度极限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have never ever broken the speed limit.{\r}
+Dialogue: 0,0:00:53.84,0:00:56.13,Default,,0000,0000,0000,,{\blur3}然而这是最终的答案吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But is the answer final?{\r}
+Dialogue: 0,0:00:56.18,0:00:59.22,Default,,0000,0000,0000,,{\blur3}飞船的速度能超过光速吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Will spaceships ever speed faster than light?{\r}
+Dialogue: 0,0:00:59.26,0:01:00.89,Default,,0000,0000,0000,,{\blur3}值得一试吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is it even worth trying?{\r}
+Dialogue: 0,0:01:00.93,0:01:03.68,Default,,0000,0000,0000,,{\blur3}未经努力就放弃 本身就是放弃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To give up without trying is just giving up.{\r}
+Dialogue: 0,0:01:04.35,0:01:06.85,Default,,0000,0000,0000,,{\blur3}它触摸不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can neither be touched nor felt.{\r}
+Dialogue: 0,0:01:06.90,0:01:10.15,Default,,0000,0000,0000,,{\blur3}它是巨大影响的抽象量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is an abstract quantity of immense impact...{\r}
+Dialogue: 0,0:01:10.19,0:01:13.65,Default,,0000,0000,0000,,{\blur3}是所有物体最核心的运动速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the rate of motion at the very heart of all existence.{\r}
+Dialogue: 0,0:01:13.69,0:01:16.49,Default,,0000,0000,0000,,{\blur3}宇宙的根本基石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The fundamental lynchpin of the universe...{\r}
+Dialogue: 0,0:01:16.53,0:01:19.16,Default,,0000,0000,0000,,{\blur3}我们将其称为《光速》{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we call light speed.{\r}
+Dialogue: 0,0:01:44.18,0:01:47.02,Default,,0000,0000,0000,,{\blur3}在地球上 速度广受欢迎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On planet Earth, where speed is in demand...{\r}
+Dialogue: 0,0:01:47.06,0:01:49.98,Default,,0000,0000,0000,,{\blur3}最快的人 最快的车 最快的技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the fastest people, vehicles, and technologies...{\r}
+Dialogue: 0,0:01:50.02,0:01:54.07,Default,,0000,0000,0000,,{\blur3}仿佛在光速为王的宇宙中爬行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seem to crawl in a cosmos where light speed is king.{\r}
+Dialogue: 0,0:01:58.07,0:02:01.66,Default,,0000,0000,0000,,{\blur3}光速不仅仅是老大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}More than king, the speed of light is the cornerstone...{\r}
+Dialogue: 0,0:02:01.70,0:02:04.45,Default,,0000,0000,0000,,{\blur3}而且还是构建宇宙的基石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on which the universe is built.{\r}
+Dialogue: 0,0:02:04.49,0:02:06.08,Default,,0000,0000,0000,,{\blur3}物理学上有句名言{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a famous saying in physics...{\r}
+Dialogue: 0,0:02:06.12,0:02:09.96,Default,,0000,0000,0000,,{\blur3}那就是光速不光是好想法 而且还是定律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is that the speed of light is not just a good idea, it's the law.{\r}
+Dialogue: 0,0:02:12.59,0:02:16.05,Default,,0000,0000,0000,,{\blur3}光速是宇宙间最重要的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light is one of the most important speed limits...{\r}
+Dialogue: 0,0:02:16.09,0:02:17.84,Default,,0000,0000,0000,,{\blur3}速度极限之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the entire universe.{\r}
+Dialogue: 0,0:02:20.72,0:02:24.93,Default,,0000,0000,0000,,{\blur3}光速 每秒18.6万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light, 186,000 miles per second...{\r}
+Dialogue: 0,0:02:24.97,0:02:26.81,Default,,0000,0000,0000,,{\blur3}简直难以置信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is just incredible.{\r}
+Dialogue: 0,0:02:26.85,0:02:29.23,Default,,0000,0000,0000,,{\blur3}我的意思是 如果光绕着地球转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, if light traveled in a circle around the Earth...{\r}
+Dialogue: 0,0:02:29.27,0:02:33.61,Default,,0000,0000,0000,,{\blur3}每秒钟可以转上7圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it could circle the Earth seven times in one second.{\r}
+Dialogue: 0,0:02:33.65,0:02:35.82,Default,,0000,0000,0000,,{\blur3}那是个惊人的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's an incredible speed.{\r}
+Dialogue: 0,0:02:37.61,0:02:40.74,Default,,0000,0000,0000,,{\blur3}这惊人的速度是我们碰到光现象时的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That incredible speed is the first thing we encounter...{\r}
+Dialogue: 0,0:02:40.78,0:02:43.49,Default,,0000,0000,0000,,{\blur3}立马反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when confronting the phenomenon of light.{\r}
+Dialogue: 0,0:02:43.53,0:02:46.79,Default,,0000,0000,0000,,{\blur3}说它快是极大的轻描淡写{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To say it is fast is a colossal understatement.{\r}
+Dialogue: 0,0:02:48.20,0:02:50.04,Default,,0000,0000,0000,,{\blur3}令我惊诧的是 在我手机通话时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's amazing to me that when I talk on my cell phone...{\r}
+Dialogue: 0,0:02:50.08,0:02:52.00,Default,,0000,0000,0000,,{\blur3}显然可以跨境与人交流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can talk to somebody clear across the country...{\r}
+Dialogue: 0,0:02:52.04,0:02:54.17,Default,,0000,0000,0000,,{\blur3}不会感觉有任何时间滞后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I'm not really aware of any time lag...{\r}
+Dialogue: 0,0:02:54.21,0:02:56.92,Default,,0000,0000,0000,,{\blur3}信号从我的手机到信号塔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that signal is going from my phone to a tower...{\r}
+Dialogue: 0,0:02:56.96,0:03:00.59,Default,,0000,0000,0000,,{\blur3}传到卫星 再返回 似乎就在刹那间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}up to a satellite, back down, and it seems instantaneous.{\r}
+Dialogue: 0,0:03:00.63,0:03:02.30,Default,,0000,0000,0000,,{\blur3}因此我们确实想当然{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we really take for granted...{\r}
+Dialogue: 0,0:03:02.34,0:03:04.64,Default,,0000,0000,0000,,{\blur3}认为光速对我们来说几乎是无限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the speed of light could practically be infinite to us.{\r}
+Dialogue: 0,0:03:07.81,0:03:10.77,Default,,0000,0000,0000,,{\blur3}南加州大学的物理教授克利福德.约翰逊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Physics professor Clifford Johnson of USC...{\r}
+Dialogue: 0,0:03:10.81,0:03:11.85,Default,,0000,0000,0000,,{\blur3}是一位狂热的自行车运动员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is an avid bike rider.{\r}
+Dialogue: 0,0:03:13.02,0:03:15.77,Default,,0000,0000,0000,,{\blur3}围绕着赛道 他思量着努力走完{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Circling a track, he considers trying to cover...{\r}
+Dialogue: 0,0:03:15.82,0:03:19.99,Default,,0000,0000,0000,,{\blur3}同样的18.6万英里 那是光在一秒钟里走过的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the same 186,000 miles that light does in one second.{\r}
+Dialogue: 0,0:03:21.95,0:03:26.62,Default,,0000,0000,0000,,{\blur3}他会发现 不管怎样 他的工作很适合自己{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He'll find, however, that his work will be cut out for him.{\r}
+Dialogue: 0,0:03:26.66,0:03:29.62,Default,,0000,0000,0000,,{\blur3}光在一秒钟里走过的路程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To travel the distance that light moves in just one second...{\r}
+Dialogue: 0,0:03:29.66,0:03:32.66,Default,,0000,0000,0000,,{\blur3}我骑车需要22个月{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would take me 22 months on a bike...{\r}
+Dialogue: 0,0:03:32.71,0:03:36.92,Default,,0000,0000,0000,,{\blur3}每小时骑上12英里 日夜骑行才行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}moving at 12 miles an hour, cycling 24 hours a day.{\r}
+Dialogue: 0,0:03:39.76,0:03:43.30,Default,,0000,0000,0000,,{\blur3}然而光速 相对生命的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the speed of light, in relation to the speed of life...{\r}
+Dialogue: 0,0:03:43.34,0:03:47.80,Default,,0000,0000,0000,,{\blur3}让我们的世界就按照我们预期的方式运作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}makes our world work in just the way we've come to expect.{\r}
+Dialogue: 0,0:03:47.85,0:03:50.64,Default,,0000,0000,0000,,{\blur3}光速如此之快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the beneficial effects for humanity...{\r}
+Dialogue: 0,0:03:50.68,0:03:53.19,Default,,0000,0000,0000,,{\blur3}给人类带来的一个有益结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of having the speed of light be as fast as it is...{\r}
+Dialogue: 0,0:03:53.23,0:03:54.60,Default,,0000,0000,0000,,{\blur3}就是所见即所得{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that what you see is what you get.{\r}
+Dialogue: 0,0:03:57.11,0:04:01.49,Default,,0000,0000,0000,,{\blur3}光速让日常体验几乎是瞬时而得{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light speed makes everyday experience virtually instantaneous.{\r}
+Dialogue: 0,0:04:01.53,0:04:04.78,Default,,0000,0000,0000,,{\blur3}电灯一打开 你立马看到光明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the light bulb goes on, you see it right away.{\r}
+Dialogue: 0,0:04:04.82,0:04:08.20,Default,,0000,0000,0000,,{\blur3}你周围发生的任何情况立马就注意到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Anything that happens around you registers immediately.{\r}
+Dialogue: 0,0:04:09.79,0:04:12.70,Default,,0000,0000,0000,,{\blur3}若干经验清晰地表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And certain experiences make it crystal clear...{\r}
+Dialogue: 0,0:04:12.75,0:04:17.46,Default,,0000,0000,0000,,{\blur3}光的传播要快于任何东西 包括声音{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that light travels faster than anything else, including sound.{\r}
+Dialogue: 0,0:04:17.50,0:04:21.17,Default,,0000,0000,0000,,{\blur3}有关光传播速度之快的一个有趣的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One interesting consequence of the great speed...{\r}
+Dialogue: 0,0:04:21.21,0:04:25.51,Default,,0000,0000,0000,,{\blur3}就是你看到闪电{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with which light travels is that you see a flash of lightning...{\r}
+Dialogue: 0,0:04:25.55,0:04:27.64,Default,,0000,0000,0000,,{\blur3}基本上是即时的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}essentially instantaneously...{\r}
+Dialogue: 0,0:04:27.68,0:04:32.10,Default,,0000,0000,0000,,{\blur3}而听到雷声则要稍迟一些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but you hear the thunder only later on.{\r}
+Dialogue: 0,0:04:34.89,0:04:36.52,Default,,0000,0000,0000,,{\blur3}不过光速也有自己的局限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But light speed has its limits...{\r}
+Dialogue: 0,0:04:36.56,0:04:40.44,Default,,0000,0000,0000,,{\blur3}一旦处于宇宙这样大的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when stacked up to a place as large as the universe.{\r}
+Dialogue: 0,0:04:40.48,0:04:41.69,Default,,0000,0000,0000,,{\blur3}我们认为光速在人类的尺度上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think that the speed of light...{\r}
+Dialogue: 0,0:04:41.73,0:04:45.53,Default,,0000,0000,0000,,{\blur3}是难以想象的快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is unimaginably fast on a human scale.{\r}
+Dialogue: 0,0:04:45.57,0:04:49.66,Default,,0000,0000,0000,,{\blur3}但是 在天文上 它其实有点慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, in astronomical terms, it's actually kind of pokey.{\r}
+Dialogue: 0,0:04:53.83,0:04:58.75,Default,,0000,0000,0000,,{\blur3}因此讽刺的是 当年阿波罗飞船进入太空后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so it's ironic that when the Apollo spacecraft blasted into space...{\r}
+Dialogue: 0,0:04:58.79,0:05:02.71,Default,,0000,0000,0000,,{\blur3}速度达到了惊人的2.5万英里/小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}traveling at what seemed an amazing 25,000 miles per hour...{\r}
+Dialogue: 0,0:05:04.01,0:05:06.68,Default,,0000,0000,0000,,{\blur3}在与23.6万英里外的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the speed of light proved frustratingly slow...{\r}
+Dialogue: 0,0:05:06.72,0:05:08.68,Default,,0000,0000,0000,,{\blur3}月球上的宇航员交流时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when it came time to talk to astronauts...{\r}
+Dialogue: 0,0:05:08.72,0:05:12.01,Default,,0000,0000,0000,,{\blur3}光速被证明慢的让人沮丧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}236,000 miles away on the lunar surface.{\r}
+Dialogue: 0,0:05:14.27,0:05:16.27,Default,,0000,0000,0000,,{\blur3}宇航员登上月球后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So when the astronauts were on the Moon...{\r}
+Dialogue: 0,0:05:16.31,0:05:17.94,Default,,0000,0000,0000,,{\blur3}人们问尼尔.阿姆斯特朗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and people asked Neil Armstrong...{\r}
+Dialogue: 0,0:05:17.98,0:05:20.15,Default,,0000,0000,0000,,{\blur3}嘿 尼尔 上面像什么?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Hey, Neil, what's it like up there?"{\r}
+Dialogue: 0,0:05:20.19,0:05:23.53,Default,,0000,0000,0000,,{\blur3}一问一答之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Several seconds went by between the question...{\r}
+Dialogue: 0,0:05:23.57,0:05:25.94,Default,,0000,0000,0000,,{\blur3}间隔了几秒钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and Neil Armstrong's answer.{\r}
+Dialogue: 0,0:05:25.99,0:05:28.36,Default,,0000,0000,0000,,{\blur3}尼尔 这里是休斯顿 通讯检查 完毕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Neil, this is Houston. Radio check, over.{\r}
+Dialogue: 0,0:05:30.58,0:05:32.91,Default,,0000,0000,0000,,{\blur3}明白 收到 休斯顿 声音清晰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Aye, roger, Houston, loud and clear.{\r}
+Dialogue: 0,0:05:32.95,0:05:34.49,Default,,0000,0000,0000,,{\blur3}- 收到 - 清晰 休斯顿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- Roger out. - Loud and clear, Houston.{\r}
+Dialogue: 0,0:05:37.50,0:05:38.96,Default,,0000,0000,0000,,{\blur3}收到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Roger, Buzz.{\r}
+Dialogue: 0,0:05:39.00,0:05:40.42,Default,,0000,0000,0000,,{\blur3}那几秒钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And those several seconds...{\r}
+Dialogue: 0,0:05:40.46,0:05:42.42,Default,,0000,0000,0000,,{\blur3}并不是因为他在思考答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were not because he was thinking about the answer...{\r}
+Dialogue: 0,0:05:42.46,0:05:46.26,Default,,0000,0000,0000,,{\blur3}而是因为需要1.3秒钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but rather because it took 1.3 seconds...{\r}
+Dialogue: 0,0:05:46.30,0:05:48.09,Default,,0000,0000,0000,,{\blur3}信号才能以光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the signal traveling at the speed of light...{\r}
+Dialogue: 0,0:05:48.13,0:05:50.80,Default,,0000,0000,0000,,{\blur3}从控制中心传送到尼尔那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to reach Neil from Mission Control...{\r}
+Dialogue: 0,0:05:50.85,0:05:53.81,Default,,0000,0000,0000,,{\blur3}他同样需要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and another 1.3 seconds for his reply...{\r}
+Dialogue: 0,0:05:53.85,0:05:55.64,Default,,0000,0000,0000,,{\blur3}1.3秒钟发回电波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using radio waves to come back...{\r}
+Dialogue: 0,0:05:55.68,0:05:58.89,Default,,0000,0000,0000,,{\blur3}那2.6秒钟与思考毫不相干{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's 2.6 seconds without even thinking.{\r}
+Dialogue: 0,0:05:58.94,0:05:59.94,Default,,0000,0000,0000,,{\blur3}好{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay.{\r}
+Dialogue: 0,0:06:03.44,0:06:07.78,Default,,0000,0000,0000,,{\blur3}光从地球传送到月球的1.3秒钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The 1.3 seconds it takes light to travel from the Earth to the Moon...{\r}
+Dialogue: 0,0:06:07.82,0:06:10.99,Default,,0000,0000,0000,,{\blur3}相对其它天体来说根本算不上什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is pocket change compared to other celestial bodies.{\r}
+Dialogue: 0,0:06:13.16,0:06:15.20,Default,,0000,0000,0000,,{\blur3}比如 来自太阳的阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light from the Sun, for instance...{\r}
+Dialogue: 0,0:06:15.24,0:06:18.75,Default,,0000,0000,0000,,{\blur3}需要8分多点时间才能到达地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}takes more than eight minutes to get to the Earth.{\r}
+Dialogue: 0,0:06:18.79,0:06:21.58,Default,,0000,0000,0000,,{\blur3}假如此时太阳消失了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf the Sun were to disappear right now...{\r}
+Dialogue: 0,0:06:21.63,0:06:23.59,Default,,0000,0000,0000,,{\blur3}假如太阳突然销声匿迹了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if the Sun were to suddenly vanish...{\r}
+Dialogue: 0,0:06:23.63,0:06:25.25,Default,,0000,0000,0000,,{\blur3}就需要8分钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would take eight minutes...{\r}
+Dialogue: 0,0:06:25.30,0:06:28.09,Default,,0000,0000,0000,,{\blur3}才能让我们感到冲击波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before we would even feel the shockwave...{\r}
+Dialogue: 0,0:06:28.13,0:06:29.80,Default,,0000,0000,0000,,{\blur3}看到太阳消失后的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and see the effects of a disappearing sun.{\r}
+Dialogue: 0,0:06:32.97,0:06:34.30,Default,,0000,0000,0000,,{\blur3}光速的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The limits of light speed...{\r}
+Dialogue: 0,0:06:34.35,0:06:37.39,Default,,0000,0000,0000,,{\blur3}同样也给地球与遥远飞船之间的沟通{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also make communicating with Earth's far-flung spacecraft...{\r}
+Dialogue: 0,0:06:37.43,0:06:39.27,Default,,0000,0000,0000,,{\blur3}带来特别的挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a special challenge.{\r}
+Dialogue: 0,0:06:40.35,0:06:44.06,Default,,0000,0000,0000,,{\blur3}需要44分钟让信号来回传送给{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It takes up to 44 minutes for signals to travel back and forth...{\r}
+Dialogue: 0,0:06:44.11,0:06:47.03,Default,,0000,0000,0000,,{\blur3}火星探测器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the probes exploring Mars...{\r}
+Dialogue: 0,0:06:47.07,0:06:50.65,Default,,0000,0000,0000,,{\blur3}3个多小时 到卡西尼土星探测器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more than three hours to Cassini at Saturn...{\r}
+Dialogue: 0,0:06:50.70,0:06:55.66,Default,,0000,0000,0000,,{\blur3}超过29小时 到旅行者1号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and over 29 hours to Voyager 1, the most distant of all...{\r}
+Dialogue: 0,0:06:55.70,0:06:57.87,Default,,0000,0000,0000,,{\blur3}那是现在所到达的太阳系最远的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}now heading out of the solar system.{\r}
+Dialogue: 0,0:06:59.87,0:07:04.63,Default,,0000,0000,0000,,{\blur3}不过这些距离在宇宙尺度上是微不足道的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Still, these distances are trivial on a cosmic scale.{\r}
+Dialogue: 0,0:07:04.67,0:07:07.59,Default,,0000,0000,0000,,{\blur3}我们几乎可以理解地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can almost understand the 10 billion miles...{\r}
+Dialogue: 0,0:07:07.63,0:07:09.63,Default,,0000,0000,0000,,{\blur3}与旅行者号之间的100亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}separating Earth from Voyager...{\r}
+Dialogue: 0,0:07:12.14,0:07:13.47,Default,,0000,0000,0000,,{\blur3}但是接下去呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but what's next?{\r}
+Dialogue: 0,0:07:15.01,0:07:19.47,Default,,0000,0000,0000,,{\blur3}最近的恒星是颗红矮星 叫做比邻星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The nearest star is a red dwarf named Proxima Centauri...{\r}
+Dialogue: 0,0:07:19.52,0:07:22.27,Default,,0000,0000,0000,,{\blur3}在近25万亿英里外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nearly 25 trillion miles away.{\r}
+Dialogue: 0,0:07:22.31,0:07:27.19,Default,,0000,0000,0000,,{\blur3}25后面有12个0{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's 25 followed by 12 zeroes.{\r}
+Dialogue: 0,0:07:27.23,0:07:30.36,Default,,0000,0000,0000,,{\blur3}我通常被问及一个问题 你作为天文学家 怎么能够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I am often asked a question, "How can you, as an astronomer...{\r}
+Dialogue: 0,0:07:30.40,0:07:32.32,Default,,0000,0000,0000,,{\blur3}真正理解这些庞大的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"really comprehend these vast distances...{\r}
+Dialogue: 0,0:07:32.36,0:07:33.57,Default,,0000,0000,0000,,{\blur3}这些庞大的数字?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}" these huge numbers?"{\r}
+Dialogue: 0,0:07:33.61,0:07:35.78,Default,,0000,0000,0000,,{\blur3}答案是 我不能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the answer is, l can't.{\r}
+Dialogue: 0,0:07:35.83,0:07:39.04,Default,,0000,0000,0000,,{\blur3}人的大脑真的折腾不起这么大的数字{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The human brain really doesn't wrap itself around numbers that big.{\r}
+Dialogue: 0,0:07:39.08,0:07:41.08,Default,,0000,0000,0000,,{\blur3}偶尔 我会写出N多个0{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Occasionally, I actually write out...{\r}
+Dialogue: 0,0:07:41.12,0:07:44.71,Default,,0000,0000,0000,,{\blur3}来表示从这里到某个星系的里程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how many zeroes there are in kilometers from here to a galaxy...{\r}
+Dialogue: 0,0:07:44.75,0:07:47.54,Default,,0000,0000,0000,,{\blur3}只是为了看看那个数字有多大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just to see how huge that number is.{\r}
+Dialogue: 0,0:07:48.05,0:07:50.17,Default,,0000,0000,0000,,{\blur3}不过现实中 当然啦 作为天文学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in reality, of course, as astronomers...{\r}
+Dialogue: 0,0:07:50.21,0:07:51.97,Default,,0000,0000,0000,,{\blur3}我们会花上一整天来写0{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we would be spending all day writing zeroes...{\r}
+Dialogue: 0,0:07:52.01,0:07:54.01,Default,,0000,0000,0000,,{\blur3}除非找到更好的单位来使用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}unless we came up with a better unit to use...{\r}
+Dialogue: 0,0:07:54.05,0:07:55.68,Default,,0000,0000,0000,,{\blur3}那就是光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's what a light-year is.{\r}
+Dialogue: 0,0:07:55.72,0:07:57.89,Default,,0000,0000,0000,,{\blur3}一光年约等于6万亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A light-year is approximately 6 trillion miles.{\r}
+Dialogue: 0,0:07:57.93,0:08:00.97,Default,,0000,0000,0000,,{\blur3}就是光走上一年的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the distance that light travels in one year.{\r}
+Dialogue: 0,0:08:01.02,0:08:03.73,Default,,0000,0000,0000,,{\blur3}用光年来描述距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Using light-years to describe distances...{\r}
+Dialogue: 0,0:08:03.77,0:08:07.02,Default,,0000,0000,0000,,{\blur3}打开了光速特性的另一个尺度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}opens up another dimension of light speed's character.{\r}
+Dialogue: 0,0:08:07.06,0:08:10.48,Default,,0000,0000,0000,,{\blur3}来看看 天狼星 天上最亮的恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Think of it. Sirius, the brightest star in the sky...{\r}
+Dialogue: 0,0:08:10.53,0:08:13.07,Default,,0000,0000,0000,,{\blur3}在8.6光年外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is 8.6 light-years away.{\r}
+Dialogue: 0,0:08:13.11,0:08:15.74,Default,,0000,0000,0000,,{\blur3}那就意味着我们所见到的 不是它今天的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means we see it, not as it is today...{\r}
+Dialogue: 0,0:08:15.78,0:08:18.95,Default,,0000,0000,0000,,{\blur3}而是它8.6年前的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but as it was 8.6 years ago.{\r}
+Dialogue: 0,0:08:23.33,0:08:25.33,Default,,0000,0000,0000,,{\blur3}我们看到的明亮的织女星是25年前的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We see the bright star Vega as it was 25 years ago...{\r}
+Dialogue: 0,0:08:28.29,0:08:34.59,Default,,0000,0000,0000,,{\blur3}红巨星参宿四的模样是500年前的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the red super giant Betelgeuse as it was 500 years ago.{\r}
+Dialogue: 0,0:08:34.63,0:08:36.84,Default,,0000,0000,0000,,{\blur3}它是大自然的精美礼物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a wonderful gift of nature...{\r}
+Dialogue: 0,0:08:36.89,0:08:41.89,Default,,0000,0000,0000,,{\blur3}因为它传播需要时间 所以我们就能够回眸过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that because it takes time to travel, we're able to look back in time.{\r}
+Dialogue: 0,0:08:41.93,0:08:45.77,Default,,0000,0000,0000,,{\blur3}我们看得越远 回眸的时间也就越早{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The further out we look in distance, the further back in time we look.{\r}
+Dialogue: 0,0:08:45.81,0:08:48.90,Default,,0000,0000,0000,,{\blur3}我们将无法知道我们宇宙的历史是怎么回事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We would have no idea what our cosmic history was...{\r}
+Dialogue: 0,0:08:48.94,0:08:51.94,Default,,0000,0000,0000,,{\blur3}如果光速稍纵即逝的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if the speed of light traveled instantaneously.{\r}
+Dialogue: 0,0:08:54.28,0:08:55.57,Default,,0000,0000,0000,,{\blur3}劳拉.丹妮是著名的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Laura Danly is curator...{\r}
+Dialogue: 0,0:08:55.61,0:08:59.70,Default,,0000,0000,0000,,{\blur3}洛杉矶格里菲斯天文台台长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the historic Griffith Observatory in Los Angeles.{\r}
+Dialogue: 0,0:08:59.74,0:09:02.37,Default,,0000,0000,0000,,{\blur3}由于光能够将我们带到过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With light's ability to take us into the past...{\r}
+Dialogue: 0,0:09:02.41,0:09:03.95,Default,,0000,0000,0000,,{\blur3}她汇集了一叠照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}she's assembled a stack of photos...{\r}
+Dialogue: 0,0:09:04.00,0:09:07.79,Default,,0000,0000,0000,,{\blur3}讲述光速的宇宙快照故事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that tell light speed's story of the universe in snapshots...{\r}
+Dialogue: 0,0:09:07.83,0:09:10.04,Default,,0000,0000,0000,,{\blur3}把时间倒回其地点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}looking back in time to its beginning...{\r}
+Dialogue: 0,0:09:10.09,0:09:12.05,Default,,0000,0000,0000,,{\blur3}距今130多亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more than 13 billion years ago to the present day.{\r}
+Dialogue: 0,0:09:15.80,0:09:17.76,Default,,0000,0000,0000,,{\blur3}我汇总成一本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm putting together a scrapbook...{\r}
+Dialogue: 0,0:09:17.80,0:09:20.68,Default,,0000,0000,0000,,{\blur3}我们星系家族史的剪贴本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the history of our family of galaxies...{\r}
+Dialogue: 0,0:09:20.72,0:09:25.52,Default,,0000,0000,0000,,{\blur3}我挑选出我们所有能用望远镜看到的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I chose all the galaxies that we can see with our telescopes...{\r}
+Dialogue: 0,0:09:25.56,0:09:28.44,Default,,0000,0000,0000,,{\blur3}也就是我们望远镜所能看到的最早的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as far back as we can see with our telescopes.{\r}
+Dialogue: 0,0:09:29.69,0:09:33.07,Default,,0000,0000,0000,,{\blur3}剪贴本里每一幅照片 显示了宇宙中的方方面面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Each photo in this album, then, shows something in the universe...{\r}
+Dialogue: 0,0:09:33.11,0:09:37.32,Default,,0000,0000,0000,,{\blur3}倒转的时光相当于以光年计的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a look-back time equivalent to its distance in light-years.{\r}
+Dialogue: 0,0:09:39.99,0:09:43.70,Default,,0000,0000,0000,,{\blur3}著名的蟹状星云 6500年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The famous Crab Nebula, 6,500 years ago...{\r}
+Dialogue: 0,0:09:46.37,0:09:49.42,Default,,0000,0000,0000,,{\blur3}银河核心 银河系的中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Galactic Core, center of the Milky Way...{\r}
+Dialogue: 0,0:09:49.46,0:09:51.50,Default,,0000,0000,0000,,{\blur3}2.6万年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}26,000 years ago...{\r}
+Dialogue: 0,0:09:53.88,0:09:57.17,Default,,0000,0000,0000,,{\blur3}仙女座星系 我们的邻居{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the Andromeda galaxy, our next-door neighbor...{\r}
+Dialogue: 0,0:09:57.22,0:09:59.51,Default,,0000,0000,0000,,{\blur3}250万年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}2.5 million years ago...{\r}
+Dialogue: 0,0:10:00.60,0:10:03.22,Default,,0000,0000,0000,,{\blur3}但是在宇宙尺度上恍若昨日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but practically yesterday on a cosmic scale.{\r}
+Dialogue: 0,0:10:08.10,0:10:09.69,Default,,0000,0000,0000,,{\blur3}我喜欢这个星团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I love this cluster.{\r}
+Dialogue: 0,0:10:11.52,0:10:13.94,Default,,0000,0000,0000,,{\blur3}将近90%的时光倒流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For almost 90 percent of the look-back time...{\r}
+Dialogue: 0,0:10:13.98,0:10:16.69,Default,,0000,0000,0000,,{\blur3}剪贴本里充满了普通的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the album is filled with common galaxies.{\r}
+Dialogue: 0,0:10:16.74,0:10:20.57,Default,,0000,0000,0000,,{\blur3}普通 没错 但是千奇百怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Common, yes, but intriguingly diverse.{\r}
+Dialogue: 0,0:10:21.74,0:10:22.87,Default,,0000,0000,0000,,{\blur3}这两个正发生碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And these two are colliding.{\r}
+Dialogue: 0,0:10:22.91,0:10:23.91,Default,,0000,0000,0000,,{\blur3}你看到其中一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can see one going...{\r}
+Dialogue: 0,0:10:23.95,0:10:25.74,Default,,0000,0000,0000,,{\blur3}正在穿越另外一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what appears to be right through the other...{\r}
+Dialogue: 0,0:10:25.79,0:10:30.29,Default,,0000,0000,0000,,{\blur3}星系的演变方式有好多个版本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's a lot of drama in the way galaxies evolve...{\r}
+Dialogue: 0,0:10:30.33,0:10:33.04,Default,,0000,0000,0000,,{\blur3}这里它们是相互交织在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the way they interact with one another.{\r}
+Dialogue: 0,0:10:33.09,0:10:34.50,Default,,0000,0000,0000,,{\blur3}这个应该是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this one would be...{\r}
+Dialogue: 0,0:10:34.55,0:10:37.67,Default,,0000,0000,0000,,{\blur3}只是约5亿光年外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oh, well, it's only about 500 million light-years away.{\r}
+Dialogue: 0,0:10:39.26,0:10:41.64,Default,,0000,0000,0000,,{\blur3}随着丹妮将一幅幅照片放入剪贴本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As Danly places each shot in the album...{\r}
+Dialogue: 0,0:10:41.68,0:10:44.22,Default,,0000,0000,0000,,{\blur3}一幅更大的照片开始显现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a bigger picture begins to emerge.{\r}
+Dialogue: 0,0:10:44.26,0:10:46.89,Default,,0000,0000,0000,,{\blur3}成熟的星系俨然成了主角{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Adult galaxies have been the main characters...{\r}
+Dialogue: 0,0:10:46.93,0:10:50.73,Default,,0000,0000,0000,,{\blur3}它们在过去120亿年里千变万化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}evolving in all their variety for the past 12 billion years.{\r}
+Dialogue: 0,0:10:53.44,0:10:56.36,Default,,0000,0000,0000,,{\blur3}但是宇宙也有其童年的照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the cosmos also has its childhood photos...{\r}
+Dialogue: 0,0:10:56.40,0:10:59.53,Default,,0000,0000,0000,,{\blur3}表现出星系在宇宙幼年时的模样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}showing galaxies when the universe was a mere toddler.{\r}
+Dialogue: 0,0:11:01.70,0:11:03.74,Default,,0000,0000,0000,,{\blur3}这些其实是非常有趣的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are actually very interesting galaxies...{\r}
+Dialogue: 0,0:11:03.78,0:11:06.99,Default,,0000,0000,0000,,{\blur3}距离约110亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at about 11 billion light-years away.{\r}
+Dialogue: 0,0:11:07.04,0:11:10.00,Default,,0000,0000,0000,,{\blur3}这些紧凑的星系...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These compact galaxies are--{\r}
+Dialogue: 0,0:11:10.04,0:11:14.25,Default,,0000,0000,0000,,{\blur3}相当于两岁 或两岁半的小孩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Represent what might be a 2 or 2 1/2-year-old child...{\r}
+Dialogue: 0,0:11:14.29,0:11:16.00,Default,,0000,0000,0000,,{\blur3}要知道 还在蹒跚学步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you know, just really learning how to walk.{\r}
+Dialogue: 0,0:11:19.13,0:11:22.93,Default,,0000,0000,0000,,{\blur3}不过这些星系都有着自己的弟妹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even these galaxies have their younger brothers and sisters.{\r}
+Dialogue: 0,0:11:22.97,0:11:26.05,Default,,0000,0000,0000,,{\blur3}这个美轮美奂的照片显示出一个引力透镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This spectacular shot shows a gravity lens...{\r}
+Dialogue: 0,0:11:26.10,0:11:30.14,Default,,0000,0000,0000,,{\blur3}一个22亿光年外的星系团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a cluster of galaxies 2.2 billion light-years away...{\r}
+Dialogue: 0,0:11:30.18,0:11:34.85,Default,,0000,0000,0000,,{\blur3}弯曲了光线 让我们看到了更加遥远的时空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that bends light, allowing us to see much further in space and time.{\r}
+Dialogue: 0,0:11:34.90,0:11:36.90,Default,,0000,0000,0000,,{\blur3}透镜揭示了有一个星点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The lens reveals a tiny speck...{\r}
+Dialogue: 0,0:11:36.94,0:11:40.44,Default,,0000,0000,0000,,{\blur3}被确定为我们所能见到的最早的星系之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}identified as one of the earliest galaxies we can see...{\r}
+Dialogue: 0,0:11:40.49,0:11:44.07,Default,,0000,0000,0000,,{\blur3}它约在130亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it was 13 billion light-years ago...{\r}
+Dialogue: 0,0:11:44.12,0:11:46.74,Default,,0000,0000,0000,,{\blur3}当时成长的宇宙正处在婴儿期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}still an infant in the evolving universe.{\r}
+Dialogue: 0,0:11:51.58,0:11:53.42,Default,,0000,0000,0000,,{\blur3}婴儿期的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Galaxies, when they were babies...{\r}
+Dialogue: 0,0:11:53.46,0:11:56.38,Default,,0000,0000,0000,,{\blur3}确实还没有太多的可分辨的特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}really don't have a lot of distinguishable features.{\r}
+Dialogue: 0,0:11:56.42,0:11:57.63,Default,,0000,0000,0000,,{\blur3}它们好像是模糊的斑点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're kind of blobs.{\r}
+Dialogue: 0,0:11:57.67,0:11:59.34,Default,,0000,0000,0000,,{\blur3}它们实际上还没有复杂的结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't really have a lot of structure.{\r}
+Dialogue: 0,0:12:01.80,0:12:04.30,Default,,0000,0000,0000,,{\blur3}宇宙 总体上 在其生命之初{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe, as a whole, was something of a blob...{\r}
+Dialogue: 0,0:12:04.34,0:12:06.72,Default,,0000,0000,0000,,{\blur3}也就是一个斑点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the beginning of its life, too.{\r}
+Dialogue: 0,0:12:07.39,0:12:11.18,Default,,0000,0000,0000,,{\blur3}我们所看到的那个时代就是史上第一道光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we see of that time are the first light waves in history...{\r}
+Dialogue: 0,0:12:11.23,0:12:12.93,Default,,0000,0000,0000,,{\blur3}现在才到达我们这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reaching us only now...{\r}
+Dialogue: 0,0:12:12.98,0:12:17.31,Default,,0000,0000,0000,,{\blur3}在它们闪射后经过了137亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}13.7 billion years after they flashed into existence.{\r}
+Dialogue: 0,0:12:17.36,0:12:20.78,Default,,0000,0000,0000,,{\blur3}我们从大爆炸余辉的照片里看到了它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We see them in the picture of an afterglow from the Big Bang...{\r}
+Dialogue: 0,0:12:23.78,0:12:24.82,Default,,0000,0000,0000,,{\blur3}它们现在被称为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they are known today...{\r}
+Dialogue: 0,0:12:24.86,0:12:28.20,Default,,0000,0000,0000,,{\blur3}宇宙微波背景辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the cosmic microwave background radiation.{\r}
+Dialogue: 0,0:12:28.24,0:12:30.24,Default,,0000,0000,0000,,{\blur3}宇宙微波背景辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The cosmic microwave background radiation...{\r}
+Dialogue: 0,0:12:30.29,0:12:32.83,Default,,0000,0000,0000,,{\blur3}是我们能看到的最遥远的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the most distant thing we can see.{\r}
+Dialogue: 0,0:12:32.87,0:12:37.46,Default,,0000,0000,0000,,{\blur3}它在一定意义上是新生儿的出生照{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is, in a sense, the picture of the baby upon delivery.{\r}
+Dialogue: 0,0:12:37.50,0:12:40.04,Default,,0000,0000,0000,,{\blur3}航天局的全天空照片显示出一抹光晕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA's All-Sky Picture reveals a glow...{\r}
+Dialogue: 0,0:12:40.09,0:12:41.71,Default,,0000,0000,0000,,{\blur3}我们看到它到处都是一样的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is uniform everywhere we can see...{\r}
+Dialogue: 0,0:12:43.30,0:12:47.43,Default,,0000,0000,0000,,{\blur3}此时的宇宙就是宇宙诞生后的那一刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe as it was in a cosmic moment after its birth.{\r}
+Dialogue: 0,0:12:49.26,0:12:50.89,Default,,0000,0000,0000,,{\blur3}然而到了这里 我们的视野嘎然止步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But here, our view comes to a sudden halt.{\r}
+Dialogue: 0,0:12:53.68,0:12:56.48,Default,,0000,0000,0000,,{\blur3}我们能看到的宇宙是有限的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we can see of the universe is limited...{\r}
+Dialogue: 0,0:12:56.52,0:12:59.11,Default,,0000,0000,0000,,{\blur3}并不是因为我们的设备的大小或能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not by the size or power of our instruments...{\r}
+Dialogue: 0,0:12:59.15,0:13:01.94,Default,,0000,0000,0000,,{\blur3}而是受制于光速本身的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but by the barrier of light speed itself.{\r}
+Dialogue: 0,0:13:04.90,0:13:07.45,Default,,0000,0000,0000,,{\blur3}宇宙间最快的东西怎么会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How can the fastest thing in the universe...{\r}
+Dialogue: 0,0:13:07.49,0:13:10.70,Default,,0000,0000,0000,,{\blur3}让我们在无限的宇宙中变成了睁眼瞎的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}make us blind to the infinity of space?{\r}
+Dialogue: 0,0:13:18.50,0:13:22.05,Default,,0000,0000,0000,,{\blur3}掌握了光速是每年6万亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Knowing that light speed is 6 trillion miles per year...{\r}
+Dialogue: 0,0:13:22.09,0:13:25.05,Default,,0000,0000,0000,,{\blur3}让我们用上了光年 便捷的速记方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gives us the light-year, a convenient shorthand...{\r}
+Dialogue: 0,0:13:25.09,0:13:27.22,Default,,0000,0000,0000,,{\blur3}来讨论宇宙中的巨大距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for talking about the huge distances in the universe.{\r}
+Dialogue: 0,0:13:29.93,0:13:31.93,Default,,0000,0000,0000,,{\blur3}不过同样重要的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's just as important to understand...{\r}
+Dialogue: 0,0:13:31.97,0:13:34.72,Default,,0000,0000,0000,,{\blur3}光速每年6万亿英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that light speed at 6 trillion miles per year...{\r}
+Dialogue: 0,0:13:34.77,0:13:36.77,Default,,0000,0000,0000,,{\blur3}是一个铁定的常数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is an ironclad constant.{\r}
+Dialogue: 0,0:13:39.61,0:13:41.69,Default,,0000,0000,0000,,{\blur3}光速非常恒定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light is so constant...{\r}
+Dialogue: 0,0:13:41.73,0:13:44.73,Default,,0000,0000,0000,,{\blur3}宇宙实际上改变了一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the universe actually changes everything...{\r}
+Dialogue: 0,0:13:44.78,0:13:47.61,Default,,0000,0000,0000,,{\blur3}而你从没见到过光有其它的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that you never see it going any other speed.{\r}
+Dialogue: 0,0:13:47.66,0:13:50.74,Default,,0000,0000,0000,,{\blur3}因此光速确实是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the speed of light really is the measuring stick...{\r}
+Dialogue: 0,0:13:50.78,0:13:51.83,Default,,0000,0000,0000,,{\blur3}整个宇宙的标尺{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the entire universe.{\r}
+Dialogue: 0,0:13:52.99,0:13:55.08,Default,,0000,0000,0000,,{\blur3}事实上 恒定的光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, the constancy of light speed...{\r}
+Dialogue: 0,0:13:55.12,0:13:57.87,Default,,0000,0000,0000,,{\blur3}变成了测量浩瀚空间距离的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}results in an amazing tool for measuring distance...{\r}
+Dialogue: 0,0:13:57.92,0:13:58.96,Default,,0000,0000,0000,,{\blur3}绝妙工具{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the vastness of space.{\r}
+Dialogue: 0,0:14:01.46,0:14:03.96,Default,,0000,0000,0000,,{\blur3}这个工具叫做红移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The tool is called red shift.{\r}
+Dialogue: 0,0:14:04.00,0:14:08.13,Default,,0000,0000,0000,,{\blur3}它发生在星系之间以固定速度移动时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It happens as light between galaxies travels at a fixed speed.{\r}
+Dialogue: 0,0:14:08.18,0:14:10.97,Default,,0000,0000,0000,,{\blur3}在星系之间的空间膨胀过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the space between the galaxies expands...{\r}
+Dialogue: 0,0:14:11.01,0:14:13.93,Default,,0000,0000,0000,,{\blur3}光会被拉长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the light racing between them gets stretched...{\r}
+Dialogue: 0,0:14:13.97,0:14:15.93,Default,,0000,0000,0000,,{\blur3}转变成红色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}turning red in color.{\r}
+Dialogue: 0,0:14:15.98,0:14:18.64,Default,,0000,0000,0000,,{\blur3}光从一个星系到另一个星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As light goes from one galaxy to another...{\r}
+Dialogue: 0,0:14:18.69,0:14:21.52,Default,,0000,0000,0000,,{\blur3}比如 从遥远的星系到我们星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from a distant galaxy to our own, for example...{\r}
+Dialogue: 0,0:14:21.56,0:14:26.61,Default,,0000,0000,0000,,{\blur3}光会跟着拉长的空间而拉长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that light gets stretched along with the stretching of space...{\r}
+Dialogue: 0,0:14:26.65,0:14:29.78,Default,,0000,0000,0000,,{\blur3}这从本质上造成了波长短的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that causes intrinsically short-wavelength light...{\r}
+Dialogue: 0,0:14:29.82,0:14:30.86,Default,,0000,0000,0000,,{\blur3}比如蓝光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like blue light...{\r}
+Dialogue: 0,0:14:31.41,0:14:35.33,Default,,0000,0000,0000,,{\blur3}逐步变成波长较长的光 即红光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to gradually become long-wavelength or redder light.{\r}
+Dialogue: 0,0:14:35.37,0:14:39.75,Default,,0000,0000,0000,,{\blur3}那其实就是我们在星系光谱里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That fundamentally is the cause of the red shift that we see...{\r}
+Dialogue: 0,0:14:39.79,0:14:41.67,Default,,0000,0000,0000,,{\blur3}看到红移的原因所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the spectra of galaxies.{\r}
+Dialogue: 0,0:14:43.17,0:14:46.96,Default,,0000,0000,0000,,{\blur3}红移又是如何变成测量距离的手段的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How does the red shift turn into a way to measure distance?{\r}
+Dialogue: 0,0:14:47.01,0:14:51.13,Default,,0000,0000,0000,,{\blur3}那全是因为在1926年的一项惊人发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's all because of an astonishing discovery made in 1926...{\r}
+Dialogue: 0,0:14:51.18,0:14:54.35,Default,,0000,0000,0000,,{\blur3}地点是洛杉矶郊外的威尔逊山天文台{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the Mount Wilson Observatory outside Los Angeles.{\r}
+Dialogue: 0,0:14:56.64,0:14:58.64,Default,,0000,0000,0000,,{\blur3}登上威尔逊山对我来说一直都非常激动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Being up here on Mount Wilson is always a thrill for me...{\r}
+Dialogue: 0,0:14:58.68,0:15:00.73,Default,,0000,0000,0000,,{\blur3}因为就是在这个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it was actually right here at this location...{\r}
+Dialogue: 0,0:15:00.77,0:15:03.48,Default,,0000,0000,0000,,{\blur3}我们对宇宙的看法整个改变了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that our view of the universe entirely changed.{\r}
+Dialogue: 0,0:15:03.52,0:15:06.65,Default,,0000,0000,0000,,{\blur3}就是在这里 埃德温.哈勃发现了宇宙正在膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was here that Edwin Hubble found out the universe is expanding...{\r}
+Dialogue: 0,0:15:06.69,0:15:08.28,Default,,0000,0000,0000,,{\blur3}那是件多不可思议的事情啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that was an amazing thing.{\r}
+Dialogue: 0,0:15:08.32,0:15:09.36,Default,,0000,0000,0000,,{\blur3}出乎他的预料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He wasn't expecting it.{\r}
+Dialogue: 0,0:15:09.40,0:15:12.07,Default,,0000,0000,0000,,{\blur3}谁都没有想到这种情形 从而改变了一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nobody thought that was the case, and it changed everything.{\r}
+Dialogue: 0,0:15:13.07,0:15:15.16,Default,,0000,0000,0000,,{\blur3}到处都能看到红移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Seeing red shifts everywhere...{\r}
+Dialogue: 0,0:15:15.20,0:15:17.91,Default,,0000,0000,0000,,{\blur3}哈勃发现宇宙中所有的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hubble found that all of the universe's galaxies...{\r}
+Dialogue: 0,0:15:17.95,0:15:19.87,Default,,0000,0000,0000,,{\blur3}正彼此拉开距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were moving away from each other...{\r}
+Dialogue: 0,0:15:19.91,0:15:23.92,Default,,0000,0000,0000,,{\blur3}我们现在知道了是空间本身的膨胀所造成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which we now know is caused by the expansion of space itself.{\r}
+Dialogue: 0,0:15:25.17,0:15:26.46,Default,,0000,0000,0000,,{\blur3}从地球看去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As seen from the Earth...{\r}
+Dialogue: 0,0:15:26.50,0:15:29.21,Default,,0000,0000,0000,,{\blur3}星系看上去并未离开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a galaxy doesn't look like it's moving away...{\r}
+Dialogue: 0,0:15:29.26,0:15:32.84,Default,,0000,0000,0000,,{\blur3}但是我们之所以知道 是因为光的红移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we know that it is because its light is red-shifted.{\r}
+Dialogue: 0,0:15:34.64,0:15:38.43,Default,,0000,0000,0000,,{\blur3}星系远离的速度不快 会稍许有一点红移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A galaxy moving away at low speed has a slight red shift.{\r}
+Dialogue: 0,0:15:38.47,0:15:42.02,Default,,0000,0000,0000,,{\blur3}星系远离越快 红移就越厉害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A galaxy moving faster has a larger red shift.{\r}
+Dialogue: 0,0:15:42.06,0:15:44.90,Default,,0000,0000,0000,,{\blur3}然而哈勃发现那些移动较快的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Hubble found that those faster-moving galaxies...{\r}
+Dialogue: 0,0:15:44.94,0:15:47.48,Default,,0000,0000,0000,,{\blur3}同时也是较远的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are also farther away.{\r}
+Dialogue: 0,0:15:47.52,0:15:49.78,Default,,0000,0000,0000,,{\blur3}这就意味着 红移越大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That meant the greater the red shift...{\r}
+Dialogue: 0,0:15:49.82,0:15:50.94,Default,,0000,0000,0000,,{\blur3}星系就越远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the more distant the galaxy.{\r}
+Dialogue: 0,0:15:54.74,0:15:57.08,Default,,0000,0000,0000,,{\blur3}通过观察空间膨胀的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By seeing how fast space is expanding...{\r}
+Dialogue: 0,0:15:57.12,0:15:59.29,Default,,0000,0000,0000,,{\blur3}往后推算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and working the math backwards...{\r}
+Dialogue: 0,0:15:59.33,0:16:01.87,Default,,0000,0000,0000,,{\blur3}宇宙学家已经能够估计出宇宙的年龄{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cosmologists have been able to estimate the age of the universe.{\r}
+Dialogue: 0,0:16:05.08,0:16:06.71,Default,,0000,0000,0000,,{\blur3}将它与光速结合起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Combine that with light speed...{\r}
+Dialogue: 0,0:16:06.75,0:16:09.21,Default,,0000,0000,0000,,{\blur3}你就碰到了一个重大的脑筋急转弯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you have a major brain twister.{\r}
+Dialogue: 0,0:16:09.25,0:16:11.05,Default,,0000,0000,0000,,{\blur3}宇宙就是这样一个巨大的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe is such a huge place...{\r}
+Dialogue: 0,0:16:11.09,0:16:13.76,Default,,0000,0000,0000,,{\blur3}光的旅行时间对我们来说已经非常的重要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the light travel time really becomes important to us.{\r}
+Dialogue: 0,0:16:13.80,0:16:17.26,Default,,0000,0000,0000,,{\blur3}我们认为宇宙始于约135亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We believe the universe began about 13 1/2 billion years ago.{\r}
+Dialogue: 0,0:16:17.30,0:16:20.06,Default,,0000,0000,0000,,{\blur3}这就意味着我们任何方向所能见到最远的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means the farthest in any direction we can look...{\r}
+Dialogue: 0,0:16:20.10,0:16:22.60,Default,,0000,0000,0000,,{\blur3}就是135亿光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is 13 1/2 billion light-years.{\r}
+Dialogue: 0,0:16:22.64,0:16:25.60,Default,,0000,0000,0000,,{\blur3}不会有光的旅行时间大于这个的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There hasn't been enough time for light to travel more than that.{\r}
+Dialogue: 0,0:16:26.77,0:16:28.82,Default,,0000,0000,0000,,{\blur3}它叫做我们的光视界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's called our light horizon...{\r}
+Dialogue: 0,0:16:28.86,0:16:33.03,Default,,0000,0000,0000,,{\blur3}一个往所有方向都是135亿光年的球形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a sphere 13 1/2 billion light-years in all directions...{\r}
+Dialogue: 0,0:16:33.07,0:16:35.15,Default,,0000,0000,0000,,{\blur3}其中包括了我们所见到的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}containing everything we can see.{\r}
+Dialogue: 0,0:16:36.45,0:16:38.78,Default,,0000,0000,0000,,{\blur3}但是那就是脑筋急转弯所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that's where the brain twister comes in.{\r}
+Dialogue: 0,0:16:38.83,0:16:40.91,Default,,0000,0000,0000,,{\blur3}那是不是空间的尽头呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Does space end there?{\r}
+Dialogue: 0,0:16:42.66,0:16:45.46,Default,,0000,0000,0000,,{\blur3}我们没理由认为 我们所能见到的范围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have no reason to believe that the distance we can see...{\r}
+Dialogue: 0,0:16:45.50,0:16:47.79,Default,,0000,0000,0000,,{\blur3}就是宇宙的整个大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the entire size of the universe.{\r}
+Dialogue: 0,0:16:47.84,0:16:49.88,Default,,0000,0000,0000,,{\blur3}事实上 它有可能要比这大得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, it might be much bigger than that.{\r}
+Dialogue: 0,0:16:49.92,0:16:51.25,Default,,0000,0000,0000,,{\blur3}那只是指 光旅行时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just that, with light travel time...{\r}
+Dialogue: 0,0:16:51.30,0:16:53.63,Default,,0000,0000,0000,,{\blur3}是我们所能见到的整个范围 那就是我们的视界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's all we can see. That's our horizon.{\r}
+Dialogue: 0,0:16:54.76,0:16:57.09,Default,,0000,0000,0000,,{\blur3}细细想想这个谜题吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, consider this conundrum.{\r}
+Dialogue: 0,0:16:57.14,0:17:00.26,Default,,0000,0000,0000,,{\blur3}位于我们视界边缘的一个星系里的天文学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers in a galaxy at one edge of our horizon...{\r}
+Dialogue: 0,0:17:00.31,0:17:02.93,Default,,0000,0000,0000,,{\blur3}是不可能看到我们视界另一头的任何星系的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can't possibly see any galaxies on the other edge of our horizon...{\r}
+Dialogue: 0,0:17:06.15,0:17:07.65,Default,,0000,0000,0000,,{\blur3}但是他们可以看到另一个方向的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they can see galaxies...{\r}
+Dialogue: 0,0:17:07.69,0:17:11.61,Default,,0000,0000,0000,,{\blur3}135亿光年里的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}13 1/2 billion light-years in the other direction...{\r}
+Dialogue: 0,0:17:11.65,0:17:14.82,Default,,0000,0000,0000,,{\blur3}而在他们自己视界边缘的天文学家就有可能了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so can astronomers at the edge of their horizon...{\r}
+Dialogue: 0,0:17:14.86,0:17:17.99,Default,,0000,0000,0000,,{\blur3}如此以往 或许就是无限远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and on and on, perhaps to infinity.{\r}
+Dialogue: 0,0:17:19.95,0:17:25.62,Default,,0000,0000,0000,,{\blur3}至于地球上的天文学家 光速将他们困住了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As for astronomers on Earth, light speed has them trapped.{\r}
+Dialogue: 0,0:17:25.66,0:17:28.92,Default,,0000,0000,0000,,{\blur3}如果我们要问我们光视界之外的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf we ask what is happening beyond our light horizon...{\r}
+Dialogue: 0,0:17:28.96,0:17:30.08,Default,,0000,0000,0000,,{\blur3}我们就不得不面对这样的事实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have to face the fact...{\r}
+Dialogue: 0,0:17:30.13,0:17:32.17,Default,,0000,0000,0000,,{\blur3}就是光速确实是个障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the speed of light really is a barrier.{\r}
+Dialogue: 0,0:17:32.21,0:17:35.01,Default,,0000,0000,0000,,{\blur3}我们从未见到过我们视界之外的任何东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've never seen anything beyond our light horizon.{\r}
+Dialogue: 0,0:17:35.84,0:17:37.43,Default,,0000,0000,0000,,{\blur3}我们会沉湎于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can we take comfort in the fact...{\r}
+Dialogue: 0,0:17:37.47,0:17:39.30,Default,,0000,0000,0000,,{\blur3}这张壮观的照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that there is so much to see inside our horizon{\r}
+Dialogue: 0,0:17:42.01,0:17:47.81,Default,,0000,0000,0000,,{\blur3}就是哈勃太空望远镜的超深空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This breathtaking shot is the Hubble Space Telescope's Ultra Deep Field.{\r}
+Dialogue: 0,0:17:47.85,0:17:51.11,Default,,0000,0000,0000,,{\blur3}这是一个比满月小100倍的空域的大尺度详细照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a massively detailed photo of an area of the sky...{\r}
+Dialogue: 0,0:17:51.15,0:17:54.28,Default,,0000,0000,0000,,{\blur3}空域的大尺度详细照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a hundred times smaller than the full Moon...{\r}
+Dialogue: 0,0:17:54.32,0:17:57.20,Default,,0000,0000,0000,,{\blur3}然而却包含了1万个星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}yet containing 10,000 galaxies...{\r}
+Dialogue: 0,0:17:57.24,0:18:01.53,Default,,0000,0000,0000,,{\blur3}其中一些光线朝我们传播已经有130亿年了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some whose light has been speeding toward us for 13 billion years.{\r}
+Dialogue: 0,0:18:05.29,0:18:08.21,Default,,0000,0000,0000,,{\blur3}其背后是宇宙背景辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Beyond that is the cosmic background radiation...{\r}
+Dialogue: 0,0:18:08.25,0:18:12.00,Default,,0000,0000,0000,,{\blur3}距离大爆炸只有40万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from just 400,000 years after the Big Bang.{\r}
+Dialogue: 0,0:18:12.04,0:18:13.88,Default,,0000,0000,0000,,{\blur3}在航天局的颜色编码照片里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In NASA's color-coded picture...{\r}
+Dialogue: 0,0:18:13.92,0:18:16.21,Default,,0000,0000,0000,,{\blur3}辐射的光辉是纯蓝色的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the radiation's glow is pure green...{\r}
+Dialogue: 0,0:18:16.26,0:18:19.80,Default,,0000,0000,0000,,{\blur3}反映出物质分布十分均匀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}representing a distribution of matter so uniform...{\r}
+Dialogue: 0,0:18:19.84,0:18:23.72,Default,,0000,0000,0000,,{\blur3}其温差不超过五万分之一度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}its temperature varies no more than 1/50,000th of a degree.{\r}
+Dialogue: 0,0:18:25.35,0:18:27.02,Default,,0000,0000,0000,,{\blur3}人类从未碰到过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nothing in human experience...{\r}
+Dialogue: 0,0:18:27.06,0:18:30.27,Default,,0000,0000,0000,,{\blur3}这种整齐划一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is even close to this kind of uniformity.{\r}
+Dialogue: 0,0:18:30.31,0:18:31.65,Default,,0000,0000,0000,,{\blur3}事实上 天文学家认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, astronomers believe...{\r}
+Dialogue: 0,0:18:31.69,0:18:34.82,Default,,0000,0000,0000,,{\blur3}宇宙实际上应该存在着很大的差异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe should really be very different.{\r}
+Dialogue: 0,0:18:34.86,0:18:38.03,Default,,0000,0000,0000,,{\blur3}公正地说 宇宙应该是疏密不一的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By rights, the universe should be lumpy.{\r}
+Dialogue: 0,0:18:38.07,0:18:41.53,Default,,0000,0000,0000,,{\blur3}要是你往这个方向看 往那个方向看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you look in this direction and you look in that direction...{\r}
+Dialogue: 0,0:18:41.57,0:18:45.74,Default,,0000,0000,0000,,{\blur3}你应该会看到两个全然不同的物质密度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you should see two entirely different concentrations of matter...{\r}
+Dialogue: 0,0:18:45.79,0:18:47.25,Default,,0000,0000,0000,,{\blur3}不同的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}different temperatures...{\r}
+Dialogue: 0,0:18:47.29,0:18:49.75,Default,,0000,0000,0000,,{\blur3}然而它却是非常均匀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's extremely uniform.{\r}
+Dialogue: 0,0:18:49.79,0:18:50.92,Default,,0000,0000,0000,,{\blur3}因此 我们碰到了一个难题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Therefore, we have a puzzle.{\r}
+Dialogue: 0,0:18:52.92,0:18:54.21,Default,,0000,0000,0000,,{\blur3}难题的根源就在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The puzzle has its roots...{\r}
+Dialogue: 0,0:18:54.25,0:18:55.84,Default,,0000,0000,0000,,{\blur3}宇宙诞生的大爆炸那一刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the universe's birth in the Big Bang.{\r}
+Dialogue: 0,0:18:58.09,0:19:00.55,Default,,0000,0000,0000,,{\blur3}要是所有的从一开始就相互分开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If everything flew apart from the beginning...{\r}
+Dialogue: 0,0:19:00.59,0:19:01.72,Default,,0000,0000,0000,,{\blur3}那为何它不应该是整齐划一的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}why shouldn't it be uniform?{\r}
+Dialogue: 0,0:19:04.97,0:19:07.31,Default,,0000,0000,0000,,{\blur3}我们现在知道了没哪一种爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No kind of explosion that we know about...{\r}
+Dialogue: 0,0:19:07.35,0:19:09.48,Default,,0000,0000,0000,,{\blur3}会导致这种均匀性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}leads to that kind of uniformity.{\r}
+Dialogue: 0,0:19:09.52,0:19:11.89,Default,,0000,0000,0000,,{\blur3}你来想象一个普通的爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you imagine an ordinary explosion--{\r}
+Dialogue: 0,0:19:11.94,0:19:14.40,Default,,0000,0000,0000,,{\blur3}原子弹 TNT炸药{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an atomic bomb, a piece of TNT--{\r}
+Dialogue: 0,0:19:14.44,0:19:15.94,Default,,0000,0000,0000,,{\blur3}不会是完全均匀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's not really uniform at all.{\r}
+Dialogue: 0,0:19:15.98,0:19:17.78,Default,,0000,0000,0000,,{\blur3}弹片会飞向那边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a piece of shrapnel going off there...{\r}
+Dialogue: 0,0:19:17.82,0:19:21.95,Default,,0000,0000,0000,,{\blur3}纸片会飞向那边 铁片会飞向那边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}piece of paper going off there, an extra piece of iron going off there.{\r}
+Dialogue: 0,0:19:21.99,0:19:23.61,Default,,0000,0000,0000,,{\blur3}确实是非常不均匀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's really very non-uniform.{\r}
+Dialogue: 0,0:19:25.08,0:19:28.41,Default,,0000,0000,0000,,{\blur3}因此科学家认为宇宙背景辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So scientists believe the cosmic background radiation...{\r}
+Dialogue: 0,0:19:28.45,0:19:31.08,Default,,0000,0000,0000,,{\blur3}就是不应该如此均匀的绿色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just shouldn't be as smooth a green as it is.{\r}
+Dialogue: 0,0:19:31.12,0:19:32.92,Default,,0000,0000,0000,,{\blur3}我们可以在普通油漆店里找到答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can find out why in an ordinary paint store.{\r}
+Dialogue: 0,0:19:35.25,0:19:36.67,Default,,0000,0000,0000,,{\blur3}我们来把宇宙看作是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's consider a universe...{\r}
+Dialogue: 0,0:19:36.71,0:19:38.71,Default,,0000,0000,0000,,{\blur3}各种颜色的油漆罐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that consists of different colored cans of paint.{\r}
+Dialogue: 0,0:19:40.13,0:19:41.97,Default,,0000,0000,0000,,{\blur3}在我们的假想油漆宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our hypothetical paint universe...{\r}
+Dialogue: 0,0:19:42.01,0:19:44.76,Default,,0000,0000,0000,,{\blur3}我们拿出一罐黄色的油漆和一罐蓝色的油漆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have a can of yellow paint and a can of blue paint...{\r}
+Dialogue: 0,0:19:44.80,0:19:47.76,Default,,0000,0000,0000,,{\blur3}在这个宇宙大爆炸的瞬间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and at the instant of the Big Bang in this universe...{\r}
+Dialogue: 0,0:19:47.81,0:19:50.14,Default,,0000,0000,0000,,{\blur3}这两罐油漆开始拉开距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the two cans of paint start expanding apart from each other.{\r}
+Dialogue: 0,0:19:53.35,0:19:57.11,Default,,0000,0000,0000,,{\blur3}在我们的假想油漆宇宙里 一边呈现出黄色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our hypothetical paint universe, one side of it would look yellow...{\r}
+Dialogue: 0,0:19:57.15,0:19:59.65,Default,,0000,0000,0000,,{\blur3}而另一边呈现出蓝色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the other side would look blue.{\r}
+Dialogue: 0,0:19:59.69,0:20:02.28,Default,,0000,0000,0000,,{\blur3}但是正如我们所知 宇宙呈现绿色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But as we've learned, the cosmos looks green...{\r}
+Dialogue: 0,0:20:02.32,0:20:04.99,Default,,0000,0000,0000,,{\blur3}不管是油漆宇宙还是真正的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whether it's the paint universe or the real thing.{\r}
+Dialogue: 0,0:20:06.07,0:20:08.62,Default,,0000,0000,0000,,{\blur3}这两种颜色的油漆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The two colors of paint represent the different particles...{\r}
+Dialogue: 0,0:20:08.66,0:20:10.87,Default,,0000,0000,0000,,{\blur3}代表了初生宇宙的各种粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the infant universe.{\r}
+Dialogue: 0,0:20:10.91,0:20:12.79,Default,,0000,0000,0000,,{\blur3}要最后形成清一色的绿色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To end up a uniform green...{\r}
+Dialogue: 0,0:20:12.83,0:20:15.00,Default,,0000,0000,0000,,{\blur3}如宇宙背景辐射那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like the cosmic background radiation...{\r}
+Dialogue: 0,0:20:15.04,0:20:16.83,Default,,0000,0000,0000,,{\blur3}它们必须要接触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they had to be touching.{\r}
+Dialogue: 0,0:20:16.88,0:20:20.42,Default,,0000,0000,0000,,{\blur3}但是当科学家首次计算出大爆炸的速度后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when scientists first calculated the speed of the Big Bang...{\r}
+Dialogue: 0,0:20:20.46,0:20:22.72,Default,,0000,0000,0000,,{\blur3}他们得出了结论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they concluded that it blew everything apart...{\r}
+Dialogue: 0,0:20:22.76,0:20:24.84,Default,,0000,0000,0000,,{\blur3}爆炸的速度要快于光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}faster than the speed of light...{\r}
+Dialogue: 0,0:20:24.89,0:20:27.43,Default,,0000,0000,0000,,{\blur3}也就是蓝黄分离飞快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}meaning blue and yellow were too far apart...{\r}
+Dialogue: 0,0:20:27.47,0:20:29.89,Default,,0000,0000,0000,,{\blur3}甚至在创世的瞬间 都不会发生任何混合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even at the instant of creation, for any mixing to take place.{\r}
+Dialogue: 0,0:20:32.48,0:20:34.39,Default,,0000,0000,0000,,{\blur3}看到绿得如此一致的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Seeing a universe that's so uniformly green...{\r}
+Dialogue: 0,0:20:34.44,0:20:35.98,Default,,0000,0000,0000,,{\blur3}真是异常的怪异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be very strange.{\r}
+Dialogue: 0,0:20:36.02,0:20:38.40,Default,,0000,0000,0000,,{\blur3}就好像拿上一罐黄色的油漆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would be like taking our can of yellow paint...{\r}
+Dialogue: 0,0:20:38.44,0:20:41.23,Default,,0000,0000,0000,,{\blur3}倒出来 就已经是绿色的了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pouring it out, and having it be green.{\r}
+Dialogue: 0,0:20:41.40,0:20:43.69,Default,,0000,0000,0000,,{\blur3}然后拿上一罐蓝色的油漆 倒出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then taking a can of blue paint, pouring it out...{\r}
+Dialogue: 0,0:20:43.74,0:20:45.82,Default,,0000,0000,0000,,{\blur3}同样变成了绿色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and having it be green as well.{\r}
+Dialogue: 0,0:20:45.86,0:20:46.86,Default,,0000,0000,0000,,{\blur3}那是不可能的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's impossible.{\r}
+Dialogue: 0,0:20:48.03,0:20:50.24,Default,,0000,0000,0000,,{\blur3}这个视界问题的解决可以通过一个理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This horizon problem can be solved...{\r}
+Dialogue: 0,0:20:50.29,0:20:52.75,Default,,0000,0000,0000,,{\blur3}也就是我所从事的所谓的暴涨理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by a theory that I've worked on called inflation...{\r}
+Dialogue: 0,0:20:53.71,0:20:54.91,Default,,0000,0000,0000,,{\blur3}那是大爆炸的扭曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is a twist on the Big Bang.{\r}
+Dialogue: 0,0:20:57.38,0:21:00.25,Default,,0000,0000,0000,,{\blur3}暴涨是现在广为接受的变异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inflation is now the widely accepted variation...{\r}
+Dialogue: 0,0:21:00.30,0:21:01.84,Default,,0000,0000,0000,,{\blur3}它让大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that makes the Big Bang work...{\r}
+Dialogue: 0,0:21:01.88,0:21:03.76,Default,,0000,0000,0000,,{\blur3}不受光速的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without the limit imposed by the speed of light.{\r}
+Dialogue: 0,0:21:06.13,0:21:08.59,Default,,0000,0000,0000,,{\blur3}另一个可能发生的情况就是我们的油漆宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another way this could've happened is that our paint universe...{\r}
+Dialogue: 0,0:21:08.64,0:21:11.43,Default,,0000,0000,0000,,{\blur3}有可能被炸开就这么远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might have expanded only this far.{\r}
+Dialogue: 0,0:21:13.60,0:21:16.39,Default,,0000,0000,0000,,{\blur3}两罐油漆已有足够的时间来混合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The two cans of paint have enough time to mix...{\r}
+Dialogue: 0,0:21:16.44,0:21:18.23,Default,,0000,0000,0000,,{\blur3}变成了均匀的绿色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and become uniformly green...{\r}
+Dialogue: 0,0:21:18.27,0:21:20.77,Default,,0000,0000,0000,,{\blur3}然后宇宙才经历一个突然的爆发期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before the universe undergoes a sudden period of expansion...{\r}
+Dialogue: 0,0:21:21.86,0:21:23.57,Default,,0000,0000,0000,,{\blur3}表现得快于光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that occurs faster than the speed of light.{\r}
+Dialogue: 0,0:21:26.82,0:21:28.91,Default,,0000,0000,0000,,{\blur3}这就将绿油漆扩散到整个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This would spread green paint all over the universe.{\r}
+Dialogue: 0,0:21:31.99,0:21:33.45,Default,,0000,0000,0000,,{\blur3}如果这个理论是正确的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If this theory is right...{\r}
+Dialogue: 0,0:21:33.50,0:21:37.29,Default,,0000,0000,0000,,{\blur3}暴涨期其实就是我们所见到的那个大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the period of inflation is really "the" Big Bang that we observe.{\r}
+Dialogue: 0,0:21:37.33,0:21:39.04,Default,,0000,0000,0000,,{\blur3}而其它爆炸 发生在那之前的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The other bang, that happened before that...{\r}
+Dialogue: 0,0:21:39.08,0:21:41.38,Default,,0000,0000,0000,,{\blur3}其实就是小爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}becomes really a Little Bang.{\r}
+Dialogue: 0,0:21:41.42,0:21:43.09,Default,,0000,0000,0000,,{\blur3}那只是真正的大爆炸的前兆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just a precursor to the real Big Bang.{\r}
+Dialogue: 0,0:21:45.30,0:21:49.43,Default,,0000,0000,0000,,{\blur3}即使到了现在 宇宙在高速膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even today, the universe is expanding at high velocity...{\r}
+Dialogue: 0,0:21:49.47,0:21:52.68,Default,,0000,0000,0000,,{\blur3}星系之间分离速度很快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}galaxies speeding away from each other so fast...{\r}
+Dialogue: 0,0:21:52.72,0:21:54.39,Default,,0000,0000,0000,,{\blur3}它们似乎无视光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they seem to violate light speed...{\r}
+Dialogue: 0,0:21:54.43,0:21:56.23,Default,,0000,0000,0000,,{\blur3}这个终极速度限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the ultimate speed limit.{\r}
+Dialogue: 0,0:21:58.56,0:22:01.06,Default,,0000,0000,0000,,{\blur3}大于光速的空间膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The faster-than-light expansion of space...{\r}
+Dialogue: 0,0:22:01.11,0:22:04.44,Default,,0000,0000,0000,,{\blur3}甚至还安排了另一个极限 即我们从地球观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sets yet another limit on what we can see from Earth...{\r}
+Dialogue: 0,0:22:04.48,0:22:08.95,Default,,0000,0000,0000,,{\blur3}宇宙中的星系不断快速远离我们而去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where the galaxies of the universe continue to rush away from us.{\r}
+Dialogue: 0,0:22:08.99,0:22:11.62,Default,,0000,0000,0000,,{\blur3}相对离我们较近的星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The galaxies that are relatively near to us...{\r}
+Dialogue: 0,0:22:11.66,0:22:13.24,Default,,0000,0000,0000,,{\blur3}你不难看到它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}those that you can see easily...{\r}
+Dialogue: 0,0:22:13.29,0:22:15.04,Default,,0000,0000,0000,,{\blur3}离开的很快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are moving away pretty fast...{\r}
+Dialogue: 0,0:22:15.08,0:22:18.54,Default,,0000,0000,0000,,{\blur3}事实上 较远的星系离开得更快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, indeed, the more distant ones are moving away faster.{\r}
+Dialogue: 0,0:22:18.58,0:22:21.88,Default,,0000,0000,0000,,{\blur3}然而那些真正很远的星系 事实上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the ones that are really far away, in fact...{\r}
+Dialogue: 0,0:22:21.92,0:22:24.59,Default,,0000,0000,0000,,{\blur3}远离的速度超过了光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are moving away faster than the speed of light.{\r}
+Dialogue: 0,0:22:24.63,0:22:27.47,Default,,0000,0000,0000,,{\blur3}于是有些星系是你永远见不到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then there are the galaxies that you will never see...{\r}
+Dialogue: 0,0:22:27.51,0:22:30.38,Default,,0000,0000,0000,,{\blur3}因为它们一开始就非常遥远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they started out so far away...{\r}
+Dialogue: 0,0:22:30.43,0:22:33.10,Default,,0000,0000,0000,,{\blur3}它们发出的光永远到不了你这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the light from them will never reach you...{\r}
+Dialogue: 0,0:22:33.14,0:22:35.60,Default,,0000,0000,0000,,{\blur3}因为空间的膨胀超过了光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the space is expanding faster than the speed of light.{\r}
+Dialogue: 0,0:22:38.14,0:22:41.94,Default,,0000,0000,0000,,{\blur3}空间本身就违背了规律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space itself then is the exception to the rule.{\r}
+Dialogue: 0,0:22:41.98,0:22:43.73,Default,,0000,0000,0000,,{\blur3}其膨胀速度可以超过光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can expand faster than the speed of light.{\r}
+Dialogue: 0,0:22:47.11,0:22:48.90,Default,,0000,0000,0000,,{\blur3}但是其中的一切依然会受到爱因斯坦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But everything inside it remains bound...{\r}
+Dialogue: 0,0:22:48.95,0:22:52.49,Default,,0000,0000,0000,,{\blur3}及其相对论的约束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by Albert Einstein and his theory of relativity.{\r}
+Dialogue: 0,0:22:52.53,0:22:55.33,Default,,0000,0000,0000,,{\blur3}爱因斯坦是片警{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Albert Einstein is the cop on the block.{\r}
+Dialogue: 0,0:22:55.37,0:22:58.16,Default,,0000,0000,0000,,{\blur3}你无法突破光的障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You cannot break the light barrier.{\r}
+Dialogue: 0,0:22:58.21,0:23:00.62,Default,,0000,0000,0000,,{\blur3}我们物理学家可以将粒子加速到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We physicists can accelerate particles...{\r}
+Dialogue: 0,0:23:00.67,0:23:04.29,Default,,0000,0000,0000,,{\blur3}光速的99.9999%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to 99.9999 percent the speed of light...{\r}
+Dialogue: 0,0:23:04.34,0:23:07.71,Default,,0000,0000,0000,,{\blur3}但是从来没有 也永远不可能突破光速限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we have never, ever broken the speed limit.{\r}
+Dialogue: 0,0:23:09.01,0:23:10.63,Default,,0000,0000,0000,,{\blur3}然而我们无需突破限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But we don't need to break the limit...{\r}
+Dialogue: 0,0:23:10.68,0:23:13.80,Default,,0000,0000,0000,,{\blur3}来体验奇异的光速领域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to experience the strange province of light speed.{\r}
+Dialogue: 0,0:23:15.64,0:23:19.48,Default,,0000,0000,0000,,{\blur3}如果宇宙弯曲和拉伸周围的光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the universe bends and stretches around the speed of light...{\r}
+Dialogue: 0,0:23:19.52,0:23:21.98,Default,,0000,0000,0000,,{\blur3}那么一旦我们开启加速器 开始碰撞时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what happens when we hit the accelerator...{\r}
+Dialogue: 0,0:23:22.02,0:23:23.85,Default,,0000,0000,0000,,{\blur3}会有何后果呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and start to get close?{\r}
+Dialogue: 0,0:23:30.03,0:23:34.49,Default,,0000,0000,0000,,{\blur3}对我们多数人来说 光似乎很单纯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For most of us, light seems simple and uncomplicated...{\r}
+Dialogue: 0,0:23:34.53,0:23:36.41,Default,,0000,0000,0000,,{\blur3}品质自然 通过它我们来观察宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a quality of nature by which we see the universe.{\r}
+Dialogue: 0,0:23:39.29,0:23:41.33,Default,,0000,0000,0000,,{\blur3}但是 在科学审视下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Under the scrutiny of science, however...{\r}
+Dialogue: 0,0:23:41.37,0:23:43.92,Default,,0000,0000,0000,,{\blur3}它变得很怪异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it becomes strange and bizarre.{\r}
+Dialogue: 0,0:23:45.09,0:23:47.84,Default,,0000,0000,0000,,{\blur3}光是非常平常的东西 我们每天都要接触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light is such a common thing in our everyday experience...{\r}
+Dialogue: 0,0:23:47.88,0:23:50.42,Default,,0000,0000,0000,,{\blur3}但是我们对它确实了解甚少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and yet we have very little understanding of it really.{\r}
+Dialogue: 0,0:23:50.47,0:23:51.59,Default,,0000,0000,0000,,{\blur3}它非常古怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very weird.{\r}
+Dialogue: 0,0:23:51.63,0:23:52.80,Default,,0000,0000,0000,,{\blur3}光速是整个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light is something...{\r}
+Dialogue: 0,0:23:52.84,0:23:56.14,Default,,0000,0000,0000,,{\blur3}弯曲周围顺理成章的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the entire universe bends around to accommodate.{\r}
+Dialogue: 0,0:23:57.68,0:23:58.81,Default,,0000,0000,0000,,{\blur3}我们可以来了解一下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can begin to understand...{\r}
+Dialogue: 0,0:23:58.85,0:24:01.93,Default,,0000,0000,0000,,{\blur3}为何宇宙本身会弯曲周围的光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}why the universe bends itself around light speed...{\r}
+Dialogue: 0,0:24:01.98,0:24:05.40,Default,,0000,0000,0000,,{\blur3}和赛车场上的物理学家克利福德.约翰逊一道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by joining physicist Clifford Johnson at a bicycle track...{\r}
+Dialogue: 0,0:24:07.27,0:24:09.48,Default,,0000,0000,0000,,{\blur3}来看看网球与光束的一场竞赛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where a tennis ball will compete against a beam of light.{\r}
+Dialogue: 0,0:24:11.95,0:24:15.87,Default,,0000,0000,0000,,{\blur3}如果我扔出一个普通物体 如这个网球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If I throw an ordinary object like a tennis ball...{\r}
+Dialogue: 0,0:24:15.91,0:24:20.95,Default,,0000,0000,0000,,{\blur3}只要给它特定的速度 它就会跑出一定的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can throw it at a given speed, it will go a certain distance.{\r}
+Dialogue: 0,0:24:21.00,0:24:22.46,Default,,0000,0000,0000,,{\blur3}这就是网球的轨迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is the path of the tennis ball...{\r}
+Dialogue: 0,0:24:22.50,0:24:24.37,Default,,0000,0000,0000,,{\blur3}约翰逊将它扔出时 站着没动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as Johnson throws it while he's standing still.{\r}
+Dialogue: 0,0:24:26.67,0:24:28.29,Default,,0000,0000,0000,,{\blur3}它半道掉在了赛道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It lands roughly halfway down the track.{\r}
+Dialogue: 0,0:24:31.05,0:24:33.13,Default,,0000,0000,0000,,{\blur3}接着 他将再次扔球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Next, he'll throw the ball again...{\r}
+Dialogue: 0,0:24:33.18,0:24:35.26,Default,,0000,0000,0000,,{\blur3}不过这回是骑车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but this time from a moving bike...{\r}
+Dialogue: 0,0:24:35.30,0:24:36.76,Default,,0000,0000,0000,,{\blur3}结果有所不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with different results.{\r}
+Dialogue: 0,0:24:38.81,0:24:41.77,Default,,0000,0000,0000,,{\blur3}如果我以同样的速度扔这个网球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If I throw the tennis ball at that same speed...{\r}
+Dialogue: 0,0:24:41.81,0:24:44.48,Default,,0000,0000,0000,,{\blur3}由于骑着车子 它将跑得更快些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while riding the bike, it'll go faster...{\r}
+Dialogue: 0,0:24:44.52,0:24:45.73,Default,,0000,0000,0000,,{\blur3}因为网球的速度加上车子的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it's the speed of the tennis ball...{\r}
+Dialogue: 0,0:24:45.77,0:24:49.65,Default,,0000,0000,0000,,{\blur3}所以它会跑得更远些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}plus the speed of the bike, and so it'll go further.{\r}
+Dialogue: 0,0:24:49.69,0:24:51.78,Default,,0000,0000,0000,,{\blur3}比较这两投 差异是明显的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Compare the two tosses, and the difference is clear.{\r}
+Dialogue: 0,0:24:54.03,0:24:56.61,Default,,0000,0000,0000,,{\blur3}在骑车扔球时 球会跑得越来越快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ball goes faster and farther when thrown from the moving bike.{\r}
+Dialogue: 0,0:24:58.78,0:24:59.83,Default,,0000,0000,0000,,{\blur3}其意义非凡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It makes perfect sense.{\r}
+Dialogue: 0,0:25:01.75,0:25:04.41,Default,,0000,0000,0000,,{\blur3}然而现在我们用光来做同样的试验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now we put light to the same test...{\r}
+Dialogue: 0,0:25:04.46,0:25:06.54,Default,,0000,0000,0000,,{\blur3}利用自行车前灯来替代网球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using the bike's headlight instead of a tennis ball.{\r}
+Dialogue: 0,0:25:09.25,0:25:10.79,Default,,0000,0000,0000,,{\blur3}如果我站着不动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If I'm standing stationary...{\r}
+Dialogue: 0,0:25:10.84,0:25:13.17,Default,,0000,0000,0000,,{\blur3}打开车前灯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I switch on the headlight of the bike...{\r}
+Dialogue: 0,0:25:13.22,0:25:15.59,Default,,0000,0000,0000,,{\blur3}车前灯发出光束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that beam of light that comes out of the headlight...{\r}
+Dialogue: 0,0:25:15.63,0:25:17.43,Default,,0000,0000,0000,,{\blur3}看到的光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comes out at the speed of light...{\r}
+Dialogue: 0,0:25:17.47,0:25:19.80,Default,,0000,0000,0000,,{\blur3}不会是其他速度 而是光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}no other speed but the speed of light.{\r}
+Dialogue: 0,0:25:21.10,0:25:23.43,Default,,0000,0000,0000,,{\blur3}假设光束足够慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Suppose the beam was slow enough...{\r}
+Dialogue: 0,0:25:23.48,0:25:26.44,Default,,0000,0000,0000,,{\blur3}让我们能看到它在赛道上移动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for us to actually see its motion down the track.{\r}
+Dialogue: 0,0:25:26.48,0:25:28.31,Default,,0000,0000,0000,,{\blur3}我们在瞬间之后做上一个标记{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We mark its position just a brief moment later.{\r}
+Dialogue: 0,0:25:30.07,0:25:32.40,Default,,0000,0000,0000,,{\blur3}接着 约翰逊打开骑行中的车前灯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Next, Johnson switches on the headlight at riding speed...{\r}
+Dialogue: 0,0:25:33.78,0:25:34.90,Default,,0000,0000,0000,,{\blur3}结果出乎意料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the unexpected happens.{\r}
+Dialogue: 0,0:25:36.11,0:25:37.95,Default,,0000,0000,0000,,{\blur3}在同样的瞬间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In that same moment of time...{\r}
+Dialogue: 0,0:25:37.99,0:25:42.37,Default,,0000,0000,0000,,{\blur3}光传播出去的距离和刚才的完全相同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the light travels exactly the same distance as before.{\r}
+Dialogue: 0,0:25:42.41,0:25:43.91,Default,,0000,0000,0000,,{\blur3}不同于网球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unlike for the tennis ball...{\r}
+Dialogue: 0,0:25:43.95,0:25:47.29,Default,,0000,0000,0000,,{\blur3}你不能将车速加上光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you don't add the speed of the bike...to the speed of the light.{\r}
+Dialogue: 0,0:25:47.33,0:25:50.96,Default,,0000,0000,0000,,{\blur3}光速还是光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light remains the speed of light.{\r}
+Dialogue: 0,0:25:51.00,0:25:53.25,Default,,0000,0000,0000,,{\blur3}两束光走过的距离相等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The two light beams travel the same distance...{\r}
+Dialogue: 0,0:25:53.30,0:25:55.38,Default,,0000,0000,0000,,{\blur3}因为光速是恒定的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because light speed is constant...{\r}
+Dialogue: 0,0:25:55.42,0:25:58.13,Default,,0000,0000,0000,,{\blur3}与光源的运动无关{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and independent of the source's motion.{\r}
+Dialogue: 0,0:25:58.18,0:26:02.51,Default,,0000,0000,0000,,{\blur3}它可以违背直觉 但却是不争的事实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It may fly against intuition, but it is a fact of nature.{\r}
+Dialogue: 0,0:26:04.22,0:26:06.27,Default,,0000,0000,0000,,{\blur3}宇宙间的每一道光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every beam of light in the universe...{\r}
+Dialogue: 0,0:26:06.31,0:26:08.94,Default,,0000,0000,0000,,{\blur3}都以同样的速度穿行于太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}travels at the same speed in empty space...{\r}
+Dialogue: 0,0:26:08.98,0:26:12.19,Default,,0000,0000,0000,,{\blur3}从不管发出光的恒星 彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}no matter how fast the star or comet or galaxy...{\r}
+Dialogue: 0,0:26:12.23,0:26:14.02,Default,,0000,0000,0000,,{\blur3}星系有多快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that emits it is moving.{\r}
+Dialogue: 0,0:26:16.90,0:26:20.91,Default,,0000,0000,0000,,{\blur3}在科学家于19世纪末发现这个事实后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After scientists discovered this fact at the end of the 19th century...{\r}
+Dialogue: 0,0:26:20.95,0:26:23.99,Default,,0000,0000,0000,,{\blur3}爱因斯坦为我们进行了数学演算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Albert Einstein did the math for the rest of us...{\r}
+Dialogue: 0,0:26:24.04,0:26:27.00,Default,,0000,0000,0000,,{\blur3}形成了他的狭义相对论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and developed his special theory of relativity...{\r}
+Dialogue: 0,0:26:27.04,0:26:28.66,Default,,0000,0000,0000,,{\blur3}光速恒定是其核心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with constant light speed as its center.{\r}
+Dialogue: 0,0:26:31.63,0:26:34.34,Default,,0000,0000,0000,,{\blur3}了解光速给我们打开了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Understanding the speed of light gave us a window...{\r}
+Dialogue: 0,0:26:34.38,0:26:37.38,Default,,0000,0000,0000,,{\blur3}了解时空性质的窗口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into understanding the nature of space and time...{\r}
+Dialogue: 0,0:26:37.42,0:26:39.26,Default,,0000,0000,0000,,{\blur3}我们现在对它已有所了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as we understand it now.{\r}
+Dialogue: 0,0:26:39.30,0:26:41.59,Default,,0000,0000,0000,,{\blur3}我们并非生活在一成不变的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We do not live in a rigid world...{\r}
+Dialogue: 0,0:26:41.64,0:26:45.85,Default,,0000,0000,0000,,{\blur3}那里时间固定 时钟滴答永恒不变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where meter sticks and a clock ticking at regular intervals.{\r}
+Dialogue: 0,0:26:45.89,0:26:51.27,Default,,0000,0000,0000,,{\blur3}我们是生活在弯曲 弹性的爱因斯坦的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We live in a flexible, stretchy Einstein's world...{\r}
+Dialogue: 0,0:26:51.31,0:26:54.52,Default,,0000,0000,0000,,{\blur3}时空的相对论世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a relativistic world of space and time.{\r}
+Dialogue: 0,0:26:55.57,0:26:57.19,Default,,0000,0000,0000,,{\blur3}按一般的经验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In common experience...{\r}
+Dialogue: 0,0:26:57.24,0:27:00.03,Default,,0000,0000,0000,,{\blur3}宇宙在我们看来并没什么弹性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe doesn't seem very stretchy to us...{\r}
+Dialogue: 0,0:27:00.07,0:27:04.49,Default,,0000,0000,0000,,{\blur3}因为相对光速 我们的活动非常的缓慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because compared to light speed, we are moving very slowly.{\r}
+Dialogue: 0,0:27:04.53,0:27:07.87,Default,,0000,0000,0000,,{\blur3}但是一旦我们调高速度 情况就会开始变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when we crank up the velocity, things begin to change.{\r}
+Dialogue: 0,0:27:09.91,0:27:12.92,Default,,0000,0000,0000,,{\blur3}随着你越来越接近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As you get closer and closer to the speed of light...{\r}
+Dialogue: 0,0:27:12.96,0:27:16.63,Default,,0000,0000,0000,,{\blur3}千奇百怪的扭曲就会应运而生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all sorts of strange and marvelous distortions take place.{\r}
+Dialogue: 0,0:27:17.84,0:27:20.26,Default,,0000,0000,0000,,{\blur3}我们说宇宙本身就会弯曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we say that the universe kind of bends itself...{\r}
+Dialogue: 0,0:27:20.30,0:27:22.30,Default,,0000,0000,0000,,{\blur3}而光速是永恒不变的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that the speed of light is always constant...{\r}
+Dialogue: 0,0:27:22.34,0:27:24.72,Default,,0000,0000,0000,,{\blur3}这实在是多么惊人的事实啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's amazing how literally that's really true.{\r}
+Dialogue: 0,0:27:25.31,0:27:27.72,Default,,0000,0000,0000,,{\blur3}随着你越来越接近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As you move closer and closer to the speed of light...{\r}
+Dialogue: 0,0:27:27.77,0:27:29.89,Default,,0000,0000,0000,,{\blur3}你的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}your time appears to slow down...{\r}
+Dialogue: 0,0:27:29.93,0:27:32.56,Default,,0000,0000,0000,,{\blur3}在旁观者看来是在走慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to an observer that's just sort of watching you go by.{\r}
+Dialogue: 0,0:27:32.60,0:27:33.60,Default,,0000,0000,0000,,{\blur3}真令人震惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's amazing.{\r}
+Dialogue: 0,0:27:34.40,0:27:36.98,Default,,0000,0000,0000,,{\blur3}当克利福德.约翰逊在赛道上骑行时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When Clifford Johnson bikes around the track...{\r}
+Dialogue: 0,0:27:37.03,0:27:39.99,Default,,0000,0000,0000,,{\blur3}必须要比他目前的时速12英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he needs to be going about 56 million times faster...{\r}
+Dialogue: 0,0:27:40.03,0:27:42.11,Default,,0000,0000,0000,,{\blur3}快上5600万倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than his current 12 miles per hour...{\r}
+Dialogue: 0,0:27:42.16,0:27:43.66,Default,,0000,0000,0000,,{\blur3}才能够接近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to get close to light speed.{\r}
+Dialogue: 0,0:27:45.66,0:27:47.74,Default,,0000,0000,0000,,{\blur3}但愿他能达到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But suppose he could.{\r}
+Dialogue: 0,0:27:47.79,0:27:49.95,Default,,0000,0000,0000,,{\blur3}想象一下我骑车速度接近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine I were riding my bike close to the speed of light.{\r}
+Dialogue: 0,0:27:50.00,0:27:51.91,Default,,0000,0000,0000,,{\blur3}且不管其可能与否{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Never mind whether that's possible or not.{\r}
+Dialogue: 0,0:27:51.96,0:27:53.75,Default,,0000,0000,0000,,{\blur3}权当真的有这回事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just imagine that this was happening.{\r}
+Dialogue: 0,0:27:53.79,0:27:55.38,Default,,0000,0000,0000,,{\blur3}我的时钟会走慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My clock's running slow...{\r}
+Dialogue: 0,0:27:55.42,0:27:58.17,Default,,0000,0000,0000,,{\blur3}相对场边拍摄我的摄影师{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}compared to the cameraman on the ground who's filming me.{\r}
+Dialogue: 0,0:27:58.21,0:28:00.34,Default,,0000,0000,0000,,{\blur3}假如我跑上一会儿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf l do that for a while...{\r}
+Dialogue: 0,0:28:00.38,0:28:02.13,Default,,0000,0000,0000,,{\blur3}我的年龄增长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm going to age much more slowly...{\r}
+Dialogue: 0,0:28:02.18,0:28:04.64,Default,,0000,0000,0000,,{\blur3}要慢于场边的摄影师{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the cameraman who's on the ground.{\r}
+Dialogue: 0,0:28:04.68,0:28:07.10,Default,,0000,0000,0000,,{\blur3}因此当我下车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So that when I come back from the trip...{\r}
+Dialogue: 0,0:28:07.14,0:28:09.10,Default,,0000,0000,0000,,{\blur3}回头和摄影师交流时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and come back and talk to the cameraman...{\r}
+Dialogue: 0,0:28:09.14,0:28:12.48,Default,,0000,0000,0000,,{\blur3}他实际上要比我离开他时老了很多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he's actually much older than when l left him.{\r}
+Dialogue: 0,0:28:12.52,0:28:14.40,Default,,0000,0000,0000,,{\blur3}如果这听起来像是魔法而不是科学的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If this sounds like magic instead of science...{\r}
+Dialogue: 0,0:28:16.61,0:28:20.65,Default,,0000,0000,0000,,{\blur3}这里有一个证明 是我们多数人每天都会碰到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is proof in something that many of us experience every day.{\r}
+Dialogue: 0,0:28:21.19,0:28:24.78,Default,,0000,0000,0000,,{\blur3}爱因斯坦狭义相对论的一个很好的例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A great example of Einstein's special theory of relativity...{\r}
+Dialogue: 0,0:28:24.82,0:28:26.45,Default,,0000,0000,0000,,{\blur3}就是事实上 有时钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the fact that clocks...{\r}
+Dialogue: 0,0:28:26.49,0:28:29.58,Default,,0000,0000,0000,,{\blur3}相对运行得比你 比你的生物钟慢一些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are moving relative to you run more slowly...{\r}
+Dialogue: 0,0:28:29.62,0:28:33.79,Default,,0000,0000,0000,,{\blur3}那就是静止的 GPS系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than your own clock, which is at rest, is the GPS system.{\r}
+Dialogue: 0,0:28:34.58,0:28:36.25,Default,,0000,0000,0000,,{\blur3}全球定位系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Global Positioning System...{\r}
+Dialogue: 0,0:28:36.29,0:28:39.04,Default,,0000,0000,0000,,{\blur3}让我们开车不会迷路{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lets us drive our cars without getting lost.{\r}
+Dialogue: 0,0:28:39.75,0:28:40.75,Default,,0000,0000,0000,,{\blur3}右转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Turn right.{\r}
+Dialogue: 0,0:28:43.01,0:28:46.47,Default,,0000,0000,0000,,{\blur3}GPS来自一个24颗卫星的网络{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}GPS begins with a network of 24 satellites...{\r}
+Dialogue: 0,0:28:46.51,0:28:50.64,Default,,0000,0000,0000,,{\blur3}它们运行在地球上方1.25万英里的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}orbiting the Earth 12,500 miles above the surface.{\r}
+Dialogue: 0,0:28:52.02,0:28:54.35,Default,,0000,0000,0000,,{\blur3}随时随地 你车上的装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At any one time, the device in your car...{\r}
+Dialogue: 0,0:28:54.39,0:28:58.15,Default,,0000,0000,0000,,{\blur3}至少接收到4颗卫星发出的信号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}receives signals from at least four satellites...{\r}
+Dialogue: 0,0:28:58.19,0:29:00.36,Default,,0000,0000,0000,,{\blur3}通过比较它们的光速穿行时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and compares their light speed travel times...{\r}
+Dialogue: 0,0:29:00.40,0:29:02.36,Default,,0000,0000,0000,,{\blur3}来计算出地面上的实际位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to calculate an accurate location on the ground.{\r}
+Dialogue: 0,0:29:04.65,0:29:07.91,Default,,0000,0000,0000,,{\blur3}前方500英尺 右拐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Drive 500 feet, then turn right.{\r}
+Dialogue: 0,0:29:07.95,0:29:11.41,Default,,0000,0000,0000,,{\blur3}整个事情依赖超精准的时钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The whole thing depends on super accurate clocks.{\r}
+Dialogue: 0,0:29:11.45,0:29:13.91,Default,,0000,0000,0000,,{\blur3}工程师在设计该系统时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when the engineers designed the system...{\r}
+Dialogue: 0,0:29:13.96,0:29:16.00,Default,,0000,0000,0000,,{\blur3}知道卫星的运行速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they knew the satellites would be orbiting...{\r}
+Dialogue: 0,0:29:16.04,0:29:18.96,Default,,0000,0000,0000,,{\blur3}将会达到时速7000英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at nearly 7,000 miles an hour.{\r}
+Dialogue: 0,0:29:19.00,0:29:21.46,Default,,0000,0000,0000,,{\blur3}这个速度足以放慢它们的时钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed is enough to slow down their clocks...{\r}
+Dialogue: 0,0:29:21.50,0:29:24.09,Default,,0000,0000,0000,,{\blur3}不足一秒钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by a tiny fraction of a second.{\r}
+Dialogue: 0,0:29:24.13,0:29:26.84,Default,,0000,0000,0000,,{\blur3}工程师在系统中考虑了所有的相对论时间差异因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The engineers have factored all the relativistic time differences...{\r}
+Dialogue: 0,0:29:26.89,0:29:31.72,Default,,0000,0000,0000,,{\blur3}使其精度叹为观止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the system, which gives it impressive precision.{\r}
+Dialogue: 0,0:29:31.77,0:29:36.02,Default,,0000,0000,0000,,{\blur3}如果卫星上的时钟走时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the clocks in the satellites are running at a different rate...{\r}
+Dialogue: 0,0:29:36.06,0:29:37.69,Default,,0000,0000,0000,,{\blur3}与地球上的时钟不一致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the clocks down here on Earth...{\r}
+Dialogue: 0,0:29:37.73,0:29:40.11,Default,,0000,0000,0000,,{\blur3}你就不会考虑用它了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you don't take that into account...{\r}
+Dialogue: 0,0:29:40.15,0:29:43.44,Default,,0000,0000,0000,,{\blur3}你就会接收到你的爱车的错误位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you will get the wrong answer for where your car is.{\r}
+Dialogue: 0,0:29:44.53,0:29:49.74,Default,,0000,0000,0000,,{\blur3}前方一英里 目的地往左拐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Drive .1 mile to destination on left.{\r}
+Dialogue: 0,0:29:49.78,0:29:52.53,Default,,0000,0000,0000,,{\blur3}时间的扭曲只是接近光速旅行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The distortion of time is only one of the strange results...{\r}
+Dialogue: 0,0:29:52.58,0:29:54.20,Default,,0000,0000,0000,,{\blur3}所产生的怪异结果之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of traveling close to the speed of light.{\r}
+Dialogue: 0,0:29:56.37,0:29:57.37,Default,,0000,0000,0000,,{\blur3}在赛道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the bike track...{\r}
+Dialogue: 0,0:29:57.42,0:30:00.17,Default,,0000,0000,0000,,{\blur3}克利福德.约翰逊积蓄在挑战极限{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Clifford Johnson continues to push the envelope...{\r}
+Dialogue: 0,0:30:00.21,0:30:04.67,Default,,0000,0000,0000,,{\blur3}此时空间开始对他和他的自行车施展魔法了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as space begins doing odd things to him and his bicycle.{\r}
+Dialogue: 0,0:30:07.01,0:30:10.72,Default,,0000,0000,0000,,{\blur3}再次来想象我骑在车上 速度接近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine I'm on my bike again, going close to the speed of light.{\r}
+Dialogue: 0,0:30:10.76,0:30:14.68,Default,,0000,0000,0000,,{\blur3}旁观者实际上会看到 举个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An observer looking at me would actually see, for example...{\r}
+Dialogue: 0,0:30:14.72,0:30:18.69,Default,,0000,0000,0000,,{\blur3}我的车子的长度 沿着我的运动方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the length of my bike in the direction of motion I'm moving...{\r}
+Dialogue: 0,0:30:18.73,0:30:20.06,Default,,0000,0000,0000,,{\blur3}正在缩短{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is getting shrunk.{\r}
+Dialogue: 0,0:30:20.10,0:30:22.61,Default,,0000,0000,0000,,{\blur3}实际上 车子正变得越来越短{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Actually, the bike is getting shorter.{\r}
+Dialogue: 0,0:30:22.65,0:30:25.40,Default,,0000,0000,0000,,{\blur3}这种效果叫做长度收缩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The effect is called length contraction...{\r}
+Dialogue: 0,0:30:25.44,0:30:27.36,Default,,0000,0000,0000,,{\blur3}结合时间膨胀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and together with time dilation...{\r}
+Dialogue: 0,0:30:27.40,0:30:29.66,Default,,0000,0000,0000,,{\blur3}这就是静止的旁观者所看到的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it is seen by a stationary observer...{\r}
+Dialogue: 0,0:30:29.70,0:30:31.95,Default,,0000,0000,0000,,{\blur3}发生在看到有人以接近光速旅行时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while looking at someone traveling close to light speed.{\r}
+Dialogue: 0,0:30:35.79,0:30:37.83,Default,,0000,0000,0000,,{\blur3}不过约翰逊教授确实有机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But Professor Johnson does get his own chance...{\r}
+Dialogue: 0,0:30:37.87,0:30:40.00,Default,,0000,0000,0000,,{\blur3}一睹光速所带来的奇怪结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to witness light speed's weird effects.{\r}
+Dialogue: 0,0:30:41.38,0:30:44.55,Default,,0000,0000,0000,,{\blur3}由于他的速度接近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As his velocity closes in on light speed...{\r}
+Dialogue: 0,0:30:44.59,0:30:48.26,Default,,0000,0000,0000,,{\blur3}他看到的世界发生了巨大的改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}his view of the world changes drastically.{\r}
+Dialogue: 0,0:30:48.30,0:30:49.59,Default,,0000,0000,0000,,{\blur3}我接近光速前行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What I'm seeing as I move close...{\r}
+Dialogue: 0,0:30:49.63,0:30:51.84,Default,,0000,0000,0000,,{\blur3}所看到的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the speed of light straight ahead...{\r}
+Dialogue: 0,0:30:51.89,0:30:54.10,Default,,0000,0000,0000,,{\blur3}我面前的模样相对日常生活里的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that the shapes in front of me...{\r}
+Dialogue: 0,0:30:54.14,0:30:57.31,Default,,0000,0000,0000,,{\blur3}正变得异常的扭曲变形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are getting quite distorted as compared to everyday life.{\r}
+Dialogue: 0,0:30:57.35,0:31:01.77,Default,,0000,0000,0000,,{\blur3}一切都被扭曲成有点像管道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everything is being twisted into a sort of tunnel shape...{\r}
+Dialogue: 0,0:31:01.81,0:31:06.28,Default,,0000,0000,0000,,{\blur3}颜色也被扭曲成五颜六色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the colors are getting distorted in various ways.{\r}
+Dialogue: 0,0:31:06.32,0:31:09.57,Default,,0000,0000,0000,,{\blur3}颜色的改变来自多普勒效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The color changes come from the Doppler effect...{\r}
+Dialogue: 0,0:31:09.61,0:31:10.61,Default,,0000,0000,0000,,{\blur3}形状的扭曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the shape distortions...{\r}
+Dialogue: 0,0:31:10.66,0:31:13.49,Default,,0000,0000,0000,,{\blur3}来自所谓的象差现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from a phenomenon known as aberration.{\r}
+Dialogue: 0,0:31:14.99,0:31:17.87,Default,,0000,0000,0000,,{\blur3}扭曲有点类似于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The distortion is somewhat similar to what you would see...{\r}
+Dialogue: 0,0:31:17.91,0:31:20.96,Default,,0000,0000,0000,,{\blur3}你在暴雨中开车所见到的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you were driving through a rainstorm.{\r}
+Dialogue: 0,0:31:21.92,0:31:23.46,Default,,0000,0000,0000,,{\blur3}假如你静止不动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you were stationary...{\r}
+Dialogue: 0,0:31:23.50,0:31:26.42,Default,,0000,0000,0000,,{\blur3}你就会看到雨滴笔直降下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would just see the rain coming straight down...{\r}
+Dialogue: 0,0:31:26.46,0:31:28.26,Default,,0000,0000,0000,,{\blur3}是你从窗户看出去的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you looked out of the side of the window.{\r}
+Dialogue: 0,0:31:28.30,0:31:30.76,Default,,0000,0000,0000,,{\blur3}但是 要是你在雨中穿行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whereas, if you were moving through the storm...{\r}
+Dialogue: 0,0:31:30.80,0:31:34.43,Default,,0000,0000,0000,,{\blur3}你就会看到雨滴似乎斜着打向你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would see that the rain appears to be slanting towards you...{\r}
+Dialogue: 0,0:31:34.47,0:31:35.80,Default,,0000,0000,0000,,{\blur3}那是由于你运动的缘故{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as a result of your motion.{\r}
+Dialogue: 0,0:31:35.85,0:31:38.97,Default,,0000,0000,0000,,{\blur3}那是你由于你所看到的扭曲的缘故{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's at the basis of that warping effect that you get...{\r}
+Dialogue: 0,0:31:39.02,0:31:42.23,Default,,0000,0000,0000,,{\blur3}此时你接近光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as you're moving near the speed of light...{\r}
+Dialogue: 0,0:31:42.27,0:31:43.52,Default,,0000,0000,0000,,{\blur3}奔向你面前的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}towards objects in front of you.{\r}
+Dialogue: 0,0:31:46.86,0:31:49.82,Default,,0000,0000,0000,,{\blur3}事实上 我们不必{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In reality, we don't have to travel near the speed of light...{\r}
+Dialogue: 0,0:31:49.86,0:31:51.36,Default,,0000,0000,0000,,{\blur3}以接近光速运动来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to experience the distortions...{\r}
+Dialogue: 0,0:31:51.40,0:31:53.03,Default,,0000,0000,0000,,{\blur3}体验穿行时空所造成的扭曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}caused by motion through time and space.{\r}
+Dialogue: 0,0:31:55.87,0:31:59.04,Default,,0000,0000,0000,,{\blur3}它们每时每刻都在与我们为伴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are with us every minute of the day.{\r}
+Dialogue: 0,0:31:59.08,0:32:01.16,Default,,0000,0000,0000,,{\blur3}极限光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of the distortions that happen...{\r}
+Dialogue: 0,0:32:01.21,0:32:03.25,Default,,0000,0000,0000,,{\blur3}所产生的所有变形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as a result of a finite speed of light...{\r}
+Dialogue: 0,0:32:03.29,0:32:05.08,Default,,0000,0000,0000,,{\blur3}还是会体现在日常中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}still happen on an everyday basis...{\r}
+Dialogue: 0,0:32:05.13,0:32:06.67,Default,,0000,0000,0000,,{\blur3}甚至我们的日常生活中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even in our everyday life...{\r}
+Dialogue: 0,0:32:06.71,0:32:10.84,Default,,0000,0000,0000,,{\blur3}但是这种影响微乎其微 我们难以觉察而已{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the effects are so tiny that we can't perceive them.{\r}
+Dialogue: 0,0:32:10.88,0:32:13.01,Default,,0000,0000,0000,,{\blur3}不过 光速在低速世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Still, light speed has its other quirks...{\r}
+Dialogue: 0,0:32:13.05,0:32:14.84,Default,,0000,0000,0000,,{\blur3}也有其怪癖之处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the slow-moving world...{\r}
+Dialogue: 0,0:32:14.89,0:32:16.05,Default,,0000,0000,0000,,{\blur3}我们感觉良好的怪癖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}quirks we perceive very well.{\r}
+Dialogue: 0,0:32:18.51,0:32:20.60,Default,,0000,0000,0000,,{\blur3}光速可以是个常数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light may be a constant...{\r}
+Dialogue: 0,0:32:20.64,0:32:23.02,Default,,0000,0000,0000,,{\blur3}但只是在真空中如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but only in the vacuum of space.{\r}
+Dialogue: 0,0:32:23.98,0:32:26.69,Default,,0000,0000,0000,,{\blur3}当光穿过玻璃或液体之类的物体时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When light moves through things like glass or fluids...{\r}
+Dialogue: 0,0:32:26.73,0:32:28.69,Default,,0000,0000,0000,,{\blur3}会明显减速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it slows down appreciably.{\r}
+Dialogue: 0,0:32:28.73,0:32:30.78,Default,,0000,0000,0000,,{\blur3}要不这样 望远镜之类的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf it didn't, things like telescopes...{\r}
+Dialogue: 0,0:32:30.82,0:32:33.36,Default,,0000,0000,0000,,{\blur3}人眼要看清是简直不可能的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and human vision would be impossible.{\r}
+Dialogue: 0,0:32:34.70,0:32:38.03,Default,,0000,0000,0000,,{\blur3}但要是光速很低 乃至光速为零时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what would happen if light slowed down much more...{\r}
+Dialogue: 0,0:32:38.08,0:32:39.28,Default,,0000,0000,0000,,{\blur3}又当如何呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if the speed of light were zero?{\r}
+Dialogue: 0,0:32:47.46,0:32:51.67,Default,,0000,0000,0000,,{\blur3}光速 每秒18.6万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light speed is 186,000 miles per second.{\r}
+Dialogue: 0,0:32:51.71,0:32:56.34,Default,,0000,0000,0000,,{\blur3}它是宇宙的常数 但可望不可及{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is a universal constant, but a constant with a catch.{\r}
+Dialogue: 0,0:32:56.39,0:33:00.22,Default,,0000,0000,0000,,{\blur3}这个速度只有在真空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It travels at that speed only in a vacuum.{\r}
+Dialogue: 0,0:33:00.26,0:33:01.43,Default,,0000,0000,0000,,{\blur3}光会改变其速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light changes its speed...{\r}
+Dialogue: 0,0:33:01.47,0:33:03.56,Default,,0000,0000,0000,,{\blur3}一旦穿越不同的介质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when it travels through different media.{\r}
+Dialogue: 0,0:33:03.60,0:33:05.77,Default,,0000,0000,0000,,{\blur3}它穿越水时 速度很慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It travels more slowly through water.{\r}
+Dialogue: 0,0:33:05.81,0:33:08.36,Default,,0000,0000,0000,,{\blur3}那就是为什么你在水下可以看到折射和弯曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's why you see refraction and bending...{\r}
+Dialogue: 0,0:33:08.40,0:33:11.98,Default,,0000,0000,0000,,{\blur3}以及波光粼粼的原因所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and rippling of light when you're underwater.{\r}
+Dialogue: 0,0:33:12.03,0:33:13.74,Default,,0000,0000,0000,,{\blur3}我们知道它的结局会截然不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Life as we know it would be very different...{\r}
+Dialogue: 0,0:33:13.78,0:33:17.49,Default,,0000,0000,0000,,{\blur3}假如光在穿越不同的介质时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if light didn't propagate at different speeds...{\r}
+Dialogue: 0,0:33:17.53,0:33:19.03,Default,,0000,0000,0000,,{\blur3}传播的速度不一样的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through different materials.{\r}
+Dialogue: 0,0:33:19.08,0:33:20.99,Default,,0000,0000,0000,,{\blur3}比如 我们就会看不到它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For example, we wouldn't be able to see.{\r}
+Dialogue: 0,0:33:21.04,0:33:22.95,Default,,0000,0000,0000,,{\blur3}同样 我们的眼睛就无法工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our eyes wouldn't work the same way.{\r}
+Dialogue: 0,0:33:24.04,0:33:27.08,Default,,0000,0000,0000,,{\blur3}在某个宇宙中 光以同样的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a universe where light moved at the same speed...{\r}
+Dialogue: 0,0:33:27.13,0:33:28.58,Default,,0000,0000,0000,,{\blur3}穿越所有的介质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through all materials...{\r}
+Dialogue: 0,0:33:28.63,0:33:31.13,Default,,0000,0000,0000,,{\blur3}我们就会对周围的世界很少知晓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we would know little of the world around us...{\r}
+Dialogue: 0,0:33:31.17,0:33:33.96,Default,,0000,0000,0000,,{\blur3}就只能看到模糊的斑点 非明则暗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seeing only vague blobs of dark and light.{\r}
+Dialogue: 0,0:33:35.55,0:33:38.97,Default,,0000,0000,0000,,{\blur3}那是因为我们眼睛依靠生物透镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's because our eyes depend on biological lenses...{\r}
+Dialogue: 0,0:33:39.01,0:33:40.22,Default,,0000,0000,0000,,{\blur3}将图像聚焦到我们的视网膜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to focus images on our retinas.{\r}
+Dialogue: 0,0:33:42.43,0:33:44.77,Default,,0000,0000,0000,,{\blur3}犹如玻璃镜头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just like lenses made of glass...{\r}
+Dialogue: 0,0:33:44.81,0:33:47.23,Default,,0000,0000,0000,,{\blur3}其原理在于光线穿透时会减缓速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they work because light slows down as it passes through them.{\r}
+Dialogue: 0,0:33:49.11,0:33:50.19,Default,,0000,0000,0000,,{\blur3}那又是何故呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now why is that?{\r}
+Dialogue: 0,0:33:50.23,0:33:53.19,Default,,0000,0000,0000,,{\blur3}因为光会被玻璃的原子所吸收{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because light is absorbed by the atoms of glass...{\r}
+Dialogue: 0,0:33:53.23,0:33:57.24,Default,,0000,0000,0000,,{\blur3}稍后会再次发射出来 因此存在着一个延迟因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then they re-radiate it later, so there's a delay factor.{\r}
+Dialogue: 0,0:33:57.28,0:33:59.41,Default,,0000,0000,0000,,{\blur3}光轰击原子 原子震荡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light hits an atom, the atom vibrates...{\r}
+Dialogue: 0,0:33:59.45,0:34:01.95,Default,,0000,0000,0000,,{\blur3}然后将光打包发送出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then sends a light package off.{\r}
+Dialogue: 0,0:34:01.99,0:34:03.91,Default,,0000,0000,0000,,{\blur3}所以存在着延迟因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there's a delay factor.{\r}
+Dialogue: 0,0:34:03.95,0:34:06.83,Default,,0000,0000,0000,,{\blur3}延迟因素也会造成光的弯曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The delay factor also causes light to bend...{\r}
+Dialogue: 0,0:34:06.87,0:34:08.33,Default,,0000,0000,0000,,{\blur3}只要它轰击被做成透镜的玻璃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when it hits glass shaped into a lens.{\r}
+Dialogue: 0,0:34:10.42,0:34:12.38,Default,,0000,0000,0000,,{\blur3}只要弯曲到适当的程度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bent in just the right way...{\r}
+Dialogue: 0,0:34:12.42,0:34:16.47,Default,,0000,0000,0000,,{\blur3}光就会被聚焦 聚集和放大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}light can be focused, collected, and magnified.{\r}
+Dialogue: 0,0:34:16.51,0:34:18.63,Default,,0000,0000,0000,,{\blur3}对于天文学家研究宇宙来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For astronomers studying the universe...{\r}
+Dialogue: 0,0:34:18.68,0:34:20.89,Default,,0000,0000,0000,,{\blur3}没有什么比这更重要的了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nothing could be more important.{\r}
+Dialogue: 0,0:34:22.31,0:34:25.31,Default,,0000,0000,0000,,{\blur3}多亏了光在穿透玻璃时速度减缓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Thank goodness light slows down when it goes through glass...{\r}
+Dialogue: 0,0:34:25.35,0:34:27.81,Default,,0000,0000,0000,,{\blur3}在于我们要使用望远镜的缘故{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because that's the reason why we have telescopes.{\r}
+Dialogue: 0,0:34:27.85,0:34:29.64,Default,,0000,0000,0000,,{\blur3}我们使用望远镜的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The reason why we have telescopes...{\r}
+Dialogue: 0,0:34:29.69,0:34:31.81,Default,,0000,0000,0000,,{\blur3}就在于光穿越玻璃时会弯曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is because light bends going through glass...{\r}
+Dialogue: 0,0:34:31.86,0:34:36.65,Default,,0000,0000,0000,,{\blur3}我们可以将大量的光集中到一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we can concentrate large amounts of light to a single point...{\r}
+Dialogue: 0,0:34:36.69,0:34:38.20,Default,,0000,0000,0000,,{\blur3}这样就能够让我们一睹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then that gives us the ability...{\r}
+Dialogue: 0,0:34:38.24,0:34:41.62,Default,,0000,0000,0000,,{\blur3}宇宙本身的奇迹了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to see the marvels in the universe itself.{\r}
+Dialogue: 0,0:34:42.83,0:34:45.91,Default,,0000,0000,0000,,{\blur3}光穿越望远镜的玻璃镜头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Light travels through the glass lenses of telescopes...{\r}
+Dialogue: 0,0:34:45.95,0:34:50.29,Default,,0000,0000,0000,,{\blur3}速度约每秒12.4万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at about 124,000 miles per second...{\r}
+Dialogue: 0,0:34:50.33,0:34:52.00,Default,,0000,0000,0000,,{\blur3}是其真空中的速度的三分之二{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}two-thirds of its speed through a vacuum.{\r}
+Dialogue: 0,0:34:53.96,0:34:56.63,Default,,0000,0000,0000,,{\blur3}不过有些科学家正在寻求{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But some scientists are looking at making use of light...{\r}
+Dialogue: 0,0:34:56.67,0:34:58.05,Default,,0000,0000,0000,,{\blur3}利用速度慢得多的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at far slower speeds.{\r}
+Dialogue: 0,0:35:05.64,0:35:08.93,Default,,0000,0000,0000,,{\blur3}在哈佛大学的实验室里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At her lab on the campus of Harvard University...{\r}
+Dialogue: 0,0:35:08.98,0:35:11.10,Default,,0000,0000,0000,,{\blur3}莉娜.豪博士已经将光速降到了极致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dr. Lene Hau has taken slow light...{\r}
+Dialogue: 0,0:35:11.15,0:35:16.02,Default,,0000,0000,0000,,{\blur3}光速降到了零{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the extreme by reducing light speed to zero.{\r}
+Dialogue: 0,0:35:16.07,0:35:19.36,Default,,0000,0000,0000,,{\blur3}光的速度 当然非常的高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The speed of light, of course, is incredibly high.{\r}
+Dialogue: 0,0:35:19.40,0:35:21.53,Default,,0000,0000,0000,,{\blur3}我说的是 没有什么比光跑得更快的了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, nothing goes faster than light...{\r}
+Dialogue: 0,0:35:21.57,0:35:26.16,Default,,0000,0000,0000,,{\blur3}要知道 一般是每秒18.6万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, you know, the usual 186,000 miles per second.{\r}
+Dialogue: 0,0:35:26.20,0:35:28.25,Default,,0000,0000,0000,,{\blur3}我们会想 哎 太高了吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we kind of thought, gee, that's awfully high.{\r}
+Dialogue: 0,0:35:28.29,0:35:29.66,Default,,0000,0000,0000,,{\blur3}让我们来尝试对它干点什么吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's try to do something about it.{\r}
+Dialogue: 0,0:35:31.08,0:35:33.58,Default,,0000,0000,0000,,{\blur3}可以安装探测器吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Can we have the detector right there?{\r}
+Dialogue: 0,0:35:33.63,0:35:35.79,Default,,0000,0000,0000,,{\blur3}豪和她的团队在做他们的实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hau and her team conducted their experiments...{\r}
+Dialogue: 0,0:35:35.84,0:35:40.34,Default,,0000,0000,0000,,{\blur3}综合实验室里装满了激光器 镜面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a complex laboratory filled with lasers, mirrors...{\r}
+Dialogue: 0,0:35:40.38,0:35:42.80,Default,,0000,0000,0000,,{\blur3}棱镜和各种试验设备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}prisms, and other exotic gear.{\r}
+Dialogue: 0,0:35:43.43,0:35:46.85,Default,,0000,0000,0000,,{\blur3}这是物理学的一个开创性的分支{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is a branch of physics where few have dared to tread.{\r}
+Dialogue: 0,0:35:47.85,0:35:50.64,Default,,0000,0000,0000,,{\blur3}如果你能够着手将东西变得如此戏剧性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you can start to change things so dramatically...{\r}
+Dialogue: 0,0:35:50.69,0:35:53.02,Default,,0000,0000,0000,,{\blur3}把这个极大的光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as taking this enormous light speed...{\r}
+Dialogue: 0,0:35:53.06,0:35:55.40,Default,,0000,0000,0000,,{\blur3}降低到自行车的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then bring it down to bicycle speed...{\r}
+Dialogue: 0,0:35:55.44,0:35:57.90,Default,,0000,0000,0000,,{\blur3}你就进入了一个崭新的自然领域了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then you're in a completely new regime of nature.{\r}
+Dialogue: 0,0:35:57.94,0:36:00.40,Default,,0000,0000,0000,,{\blur3}你现在已经涉足新的领域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're able to now start to probe areas...{\r}
+Dialogue: 0,0:36:00.44,0:36:03.61,Default,,0000,0000,0000,,{\blur3}以前从没有人涉足的自然领域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}regions of nature where nobody has ever been there before.{\r}
+Dialogue: 0,0:36:04.78,0:36:07.95,Default,,0000,0000,0000,,{\blur3}制动已经施加给了光速 在豪的实验室里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The brakes are put on light speed inside Hau's lab...{\r}
+Dialogue: 0,0:36:07.99,0:36:12.21,Default,,0000,0000,0000,,{\blur3}通过将激光聚焦到两个微小的钠气体云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by focusing lasers on two microscopic clouds of sodium gas...{\r}
+Dialogue: 0,0:36:12.25,0:36:14.58,Default,,0000,0000,0000,,{\blur3}云团被冷却到绝对零度几十亿分之一度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}chilled to a few billionths of a degree above absolute zero.{\r}
+Dialogue: 0,0:36:18.75,0:36:20.84,Default,,0000,0000,0000,,{\blur3}一束受控的激光轰击这两个云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A control laser hitting the two clouds...{\r}
+Dialogue: 0,0:36:20.88,0:36:21.92,Default,,0000,0000,0000,,{\blur3}使它们进行反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sets them up for action.{\r}
+Dialogue: 0,0:36:24.05,0:36:27.76,Default,,0000,0000,0000,,{\blur3}这样快速光脉冲射击第一个云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then a quick light pulse shoots into the first cloud...{\r}
+Dialogue: 0,0:36:27.81,0:36:29.60,Default,,0000,0000,0000,,{\blur3}被挤压进气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where it is squeezed into the gas...{\r}
+Dialogue: 0,0:36:29.64,0:36:31.18,Default,,0000,0000,0000,,{\blur3}速度被减缓到时速只有几英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and slowed to just a few miles per hour.{\r}
+Dialogue: 0,0:36:33.98,0:36:39.57,Default,,0000,0000,0000,,{\blur3}光脉冲从一开始在自由空间中长约1公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The light pulse goes from being about one kilometer long in free space.{\r}
+Dialogue: 0,0:36:39.61,0:36:42.82,Default,,0000,0000,0000,,{\blur3}它在进入原子云后 像手风琴那样被压缩了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It compresses like a concertina as it enters the atom cloud...{\r}
+Dialogue: 0,0:36:42.86,0:36:46.91,Default,,0000,0000,0000,,{\blur3}最后变成了只有0.02毫米长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and ends up being only 0.02 millimeter in size.{\r}
+Dialogue: 0,0:36:46.95,0:36:49.33,Default,,0000,0000,0000,,{\blur3}还不到头发的一半{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's less than half the thickness of a hair...{\r}
+Dialogue: 0,0:36:49.37,0:36:50.41,Default,,0000,0000,0000,,{\blur3}确实非常小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so really small.{\r}
+Dialogue: 0,0:36:50.45,0:36:51.62,Default,,0000,0000,0000,,{\blur3}小到光脉冲实际上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it's so small that the light pulse...{\r}
+Dialogue: 0,0:36:51.66,0:36:55.71,Default,,0000,0000,0000,,{\blur3}最后整个装进气体云里了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually ends up fitting totally inside the atom cloud.{\r}
+Dialogue: 0,0:36:55.75,0:36:58.96,Default,,0000,0000,0000,,{\blur3}据豪说 钠气体云里的光原子痕迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hau says the atomic imprint of light in the sodium cloud...{\r}
+Dialogue: 0,0:36:59.00,0:37:01.46,Default,,0000,0000,0000,,{\blur3}是原始光脉冲原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a perfect copy embedded in atoms...{\r}
+Dialogue: 0,0:37:01.51,0:37:03.30,Default,,0000,0000,0000,,{\blur3}嵌入后的完美副本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the original light pulse.{\r}
+Dialogue: 0,0:37:06.14,0:37:07.97,Default,,0000,0000,0000,,{\blur3}于是它就被停留在了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can then be stopped in free space...{\r}
+Dialogue: 0,0:37:08.01,0:37:10.39,Default,,0000,0000,0000,,{\blur3}两团云团之间的自由空间里了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between the two clouds before moving on.{\r}
+Dialogue: 0,0:37:11.47,0:37:13.14,Default,,0000,0000,0000,,{\blur3}在它进入第二个云团后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When it enters the second cloud...{\r}
+Dialogue: 0,0:37:13.18,0:37:14.68,Default,,0000,0000,0000,,{\blur3}另一束受控激光将其扩展到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}another shot of the control laser...{\r}
+Dialogue: 0,0:37:14.73,0:37:17.56,Default,,0000,0000,0000,,{\blur3}最初的尺度和形状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}expands it to its original size, shape...{\r}
+Dialogue: 0,0:37:17.61,0:37:21.82,Default,,0000,0000,0000,,{\blur3}速度达到了每秒18.6万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and speed of 186,000 miles per second.{\r}
+Dialogue: 0,0:37:24.07,0:37:28.95,Default,,0000,0000,0000,,{\blur3}这类似于某些科幻小说中的输送机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is comparable in some ways to a science fiction transporter...{\r}
+Dialogue: 0,0:37:28.99,0:37:31.37,Default,,0000,0000,0000,,{\blur3}将人和物送入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that sends people or objects through space.{\r}
+Dialogue: 0,0:37:31.91,0:37:34.00,Default,,0000,0000,0000,,{\blur3}因此在这些实验中 我们所做的就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So in these experiments what we really do is...{\r}
+Dialogue: 0,0:37:34.04,0:37:37.75,Default,,0000,0000,0000,,{\blur3}将光脉冲停止和扑灭在了空间的某个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we stop and extinguish a light pulse in one part of space...{\r}
+Dialogue: 0,0:37:37.79,0:37:40.34,Default,,0000,0000,0000,,{\blur3}然后又在空间的另一个地方将其恢复{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and revive it in a completely different part of space...{\r}
+Dialogue: 0,0:37:40.38,0:37:41.71,Default,,0000,0000,0000,,{\blur3}沿着原来的路径传播{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and send it back on its way.{\r}
+Dialogue: 0,0:37:43.42,0:37:45.67,Default,,0000,0000,0000,,{\blur3}由于光可以携带信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since light can carry information...{\r}
+Dialogue: 0,0:37:45.72,0:37:48.43,Default,,0000,0000,0000,,{\blur3}因此这个开拓性的科技直指{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this super-advanced technology points the way...{\r}
+Dialogue: 0,0:37:48.47,0:37:50.60,Default,,0000,0000,0000,,{\blur3}未来的光基计算机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to futuristic light-based computers...{\r}
+Dialogue: 0,0:37:50.64,0:37:53.43,Default,,0000,0000,0000,,{\blur3}将抛开电线和电子芯片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that bypass wires and electronic chips.{\r}
+Dialogue: 0,0:37:55.35,0:37:57.14,Default,,0000,0000,0000,,{\blur3}信息直接从光读取{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Information read directly from light...{\r}
+Dialogue: 0,0:37:57.19,0:38:00.44,Default,,0000,0000,0000,,{\blur3}可能会比我们今天所有的一切都来得{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may be faster, more compact, and more secure...{\r}
+Dialogue: 0,0:38:00.48,0:38:02.44,Default,,0000,0000,0000,,{\blur3}更快 更紧凑 更安全{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than anything we have today.{\r}
+Dialogue: 0,0:38:05.99,0:38:08.61,Default,,0000,0000,0000,,{\blur3}但是科学家和梦想家最大的远景{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the greatest vision of scientists and dreamers...{\r}
+Dialogue: 0,0:38:08.66,0:38:12.24,Default,,0000,0000,0000,,{\blur3}就是找到光速范围的另外一头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to be found at the other end of the light speed spectrum.{\r}
+Dialogue: 0,0:38:13.45,0:38:17.46,Default,,0000,0000,0000,,{\blur3}我们依然面对着光速如坚不可摧的城墙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We still face the speed of light as an impenetrable wall...{\r}
+Dialogue: 0,0:38:17.50,0:38:21.29,Default,,0000,0000,0000,,{\blur3}爱因斯坦已告诉我们 其速度永远不可逾越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a speed that Dr. Einstein told us could never be exceeded.{\r}
+Dialogue: 0,0:38:21.75,0:38:25.59,Default,,0000,0000,0000,,{\blur3}但是历史上 不可能变为可能已经比比皆是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yet history is packed with impossibles that have become realities.{\r}
+Dialogue: 0,0:38:26.92,0:38:30.05,Default,,0000,0000,0000,,{\blur3}比如 我们有没有可能进入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Will we ever, for instance, be able to reach the stars...{\r}
+Dialogue: 0,0:38:30.09,0:38:33.56,Default,,0000,0000,0000,,{\blur3}飞船超过光速呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in ships that go faster than the speed of light?{\r}
+Dialogue: 0,0:38:33.60,0:38:35.85,Default,,0000,0000,0000,,{\blur3}要是可以 又在何时?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If so, when?{\r}
+Dialogue: 0,0:38:44.57,0:38:49.15,Default,,0000,0000,0000,,{\blur3}2008年4月 世界著名物理学家斯蒂芬.霍金{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In April 2008, world-famous physicist Stephen Hawking...{\r}
+Dialogue: 0,0:38:49.20,0:38:52.57,Default,,0000,0000,0000,,{\blur3}呼吁人类殖民太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called on the human race to colonize space...{\r}
+Dialogue: 0,0:38:52.62,0:38:56.70,Default,,0000,0000,0000,,{\blur3}将星际旅行作为长期目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and make interstellar travel a long-term aim.{\r}
+Dialogue: 0,0:38:56.75,0:38:59.00,Default,,0000,0000,0000,,{\blur3}拓展太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Spreading out into space...{\r}
+Dialogue: 0,0:38:59.04,0:39:02.58,Default,,0000,0000,0000,,{\blur3}将彻底改变人类的未来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will completely change the future of the human race...{\r}
+Dialogue: 0,0:39:02.63,0:39:06.17,Default,,0000,0000,0000,,{\blur3}乃至决定我们未来的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and maybe determine whether we have any future at all.{\r}
+Dialogue: 0,0:39:07.09,0:39:11.76,Default,,0000,0000,0000,,{\blur3}恒星太远了 使得星际旅行不切实际{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The stars are so far away that interstellar travel is impractical...{\r}
+Dialogue: 0,0:39:11.80,0:39:14.72,Default,,0000,0000,0000,,{\blur3}除非我们可以超过光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}unless we can go faster than light speed...{\r}
+Dialogue: 0,0:39:14.76,0:39:15.81,Default,,0000,0000,0000,,{\blur3}但那是一个障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that's an obstacle.{\r}
+Dialogue: 0,0:39:16.93,0:39:18.77,Default,,0000,0000,0000,,{\blur3}爱因斯坦的相对论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Einstein's theory of relativity...{\r}
+Dialogue: 0,0:39:18.81,0:39:20.94,Default,,0000,0000,0000,,{\blur3}告诉我们 飞船的质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tells us that a spaceship's mass...{\r}
+Dialogue: 0,0:39:20.98,0:39:23.02,Default,,0000,0000,0000,,{\blur3}在接近光速时会趋于无穷大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}approaches infinity as it nears the speed of light.{\r}
+Dialogue: 0,0:39:25.11,0:39:27.53,Default,,0000,0000,0000,,{\blur3}因而 你试图跑得越来越快的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So as you try to go to faster and faster and faster...{\r}
+Dialogue: 0,0:39:27.57,0:39:28.99,Default,,0000,0000,0000,,{\blur3}你其实就需要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you actually get to a point...{\r}
+Dialogue: 0,0:39:29.03,0:39:31.28,Default,,0000,0000,0000,,{\blur3}用上越来越多的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where it takes more and more energy...{\r}
+Dialogue: 0,0:39:31.32,0:39:32.95,Default,,0000,0000,0000,,{\blur3}直到用上无穷大的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until it's an infinite amount of energy...{\r}
+Dialogue: 0,0:39:32.99,0:39:33.99,Default,,0000,0000,0000,,{\blur3}来得到光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to go to speed of light.{\r}
+Dialogue: 0,0:39:34.03,0:39:35.03,Default,,0000,0000,0000,,{\blur3}这是不可能做到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's impossible.{\r}
+Dialogue: 0,0:39:35.99,0:39:39.37,Default,,0000,0000,0000,,{\blur3}这就意味着以光速旅行同样是办不到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It means that travel at light speed is also impossible.{\r}
+Dialogue: 0,0:39:40.41,0:39:41.46,Default,,0000,0000,0000,,{\blur3}是这么回事吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or is it?{\r}
+Dialogue: 0,0:39:44.09,0:39:46.63,Default,,0000,0000,0000,,{\blur3}马克.米利斯为数不多的科学家之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Marc Millis is one of a handful of scientists...{\r}
+Dialogue: 0,0:39:46.67,0:39:49.26,Default,,0000,0000,0000,,{\blur3}他对这个问题并不准备认输{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who isn't ready to throw in the towel on the subject.{\r}
+Dialogue: 0,0:39:50.55,0:39:53.64,Default,,0000,0000,0000,,{\blur3}作为航天局一名专业的推进物理学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A NASA propulsion physicist by profession...{\r}
+Dialogue: 0,0:39:53.68,0:39:57.26,Default,,0000,0000,0000,,{\blur3}他喜欢在业余时间建造飞船模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he likes to build models of starships in his spare time...{\r}
+Dialogue: 0,0:39:57.31,0:39:59.72,Default,,0000,0000,0000,,{\blur3}深蕴所有提及星际旅行的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and is well aware of the giggle factor...{\r}
+Dialogue: 0,0:39:59.77,0:40:03.31,Default,,0000,0000,0000,,{\blur3}科幻小说的咯咯因子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in any talk outside science fiction of star travel.{\r}
+Dialogue: 0,0:40:04.27,0:40:06.98,Default,,0000,0000,0000,,{\blur3}咯咯因子实际上是健康反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The giggle factor is actually a healthy response.{\r}
+Dialogue: 0,0:40:07.02,0:40:11.57,Default,,0000,0000,0000,,{\blur3}它有助于怀疑论者对话题提出深层次的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It helps provide skepticism to the topic to ask deep questions...{\r}
+Dialogue: 0,0:40:11.61,0:40:13.45,Default,,0000,0000,0000,,{\blur3}以确保我们的进程准确无误{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make sure that we're proceeding correctly.{\r}
+Dialogue: 0,0:40:15.20,0:40:19.74,Default,,0000,0000,0000,,{\blur3}作为航天局已尘封的突破推进项目的昔日领导{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once head of NASA's mothballed Breakthrough Propulsion Project...{\r}
+Dialogue: 0,0:40:19.79,0:40:21.50,Default,,0000,0000,0000,,{\blur3}米利斯在编辑一本书{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Millis is editor of a book...{\r}
+Dialogue: 0,0:40:21.54,0:40:24.08,Default,,0000,0000,0000,,{\blur3}书中收集了当前有关这个课题的重要研究成果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that has collected the serious current research on the subject.{\r}
+Dialogue: 0,0:40:26.00,0:40:27.88,Default,,0000,0000,0000,,{\blur3}说起光速问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When it comes just to the light speed issue...{\r}
+Dialogue: 0,0:40:27.92,0:40:30.38,Default,,0000,0000,0000,,{\blur3}有大约30多位物理学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's about three dozen physicists...{\r}
+Dialogue: 0,0:40:30.42,0:40:32.47,Default,,0000,0000,0000,,{\blur3}撰写了文章 有人怀疑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who've written articles, some skeptical...{\r}
+Dialogue: 0,0:40:32.51,0:40:34.18,Default,,0000,0000,0000,,{\blur3}有人对这个课题提出了新的方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some suggesting new methods on the topic.{\r}
+Dialogue: 0,0:40:36.89,0:40:38.89,Default,,0000,0000,0000,,{\blur3}没有人说在短时间内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}No one is saying that anytime soon...{\r}
+Dialogue: 0,0:40:38.93,0:40:41.85,Default,,0000,0000,0000,,{\blur3}我们会有能力前往星际{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we'll be able to have warp drive to the stars.{\r}
+Dialogue: 0,0:40:41.89,0:40:44.23,Default,,0000,0000,0000,,{\blur3}但是站在数百乃至千年的角度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But on a scale of centuries to millennia...{\r}
+Dialogue: 0,0:40:44.27,0:40:47.19,Default,,0000,0000,0000,,{\blur3}就不能排除这种可能性了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it can't be ruled out.{\r}
+Dialogue: 0,0:40:47.23,0:40:49.15,Default,,0000,0000,0000,,{\blur3}几乎所有的物理学家都同意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Virtually all physicists agree...{\r}
+Dialogue: 0,0:40:49.19,0:40:51.28,Default,,0000,0000,0000,,{\blur3}以超越光速来穿行太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's impossible to travel through space...{\r}
+Dialogue: 0,0:40:51.32,0:40:52.36,Default,,0000,0000,0000,,{\blur3}是不可能的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at faster than light speed.{\r}
+Dialogue: 0,0:40:55.41,0:40:57.12,Default,,0000,0000,0000,,{\blur3}但是或许有一个办法来作弊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there may be a way to cheat...{\r}
+Dialogue: 0,0:40:57.16,0:41:00.29,Default,,0000,0000,0000,,{\blur3}就是改变空间而不是穿行空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by altering space instead of traveling through it.{\r}
+Dialogue: 0,0:41:01.54,0:41:05.75,Default,,0000,0000,0000,,{\blur3}不管相信与否 甚至航天局的科学家都在研究那种可能性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Believe it or not, even NASA scientists are studying the possibility...{\r}
+Dialogue: 0,0:41:05.79,0:41:09.75,Default,,0000,0000,0000,,{\blur3}那就是或许我们可以折叠空间 在空间打个窟窿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that perhaps we can fold space, punch a hole in space...{\r}
+Dialogue: 0,0:41:09.80,0:41:12.59,Default,,0000,0000,0000,,{\blur3}打造个地铁系统来穿越时空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}make a subway system through space and time.{\r}
+Dialogue: 0,0:41:13.26,0:41:16.05,Default,,0000,0000,0000,,{\blur3}其背后的基本概念就是利用虫洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the basic idea behind using wormholes...{\r}
+Dialogue: 0,0:41:16.09,0:41:19.05,Default,,0000,0000,0000,,{\blur3}来扭曲其周围的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to actually twist space around on itself...{\r}
+Dialogue: 0,0:41:19.10,0:41:21.47,Default,,0000,0000,0000,,{\blur3}找到穿越宇宙的捷径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and take a shortcut through the universe.{\r}
+Dialogue: 0,0:41:23.14,0:41:25.44,Default,,0000,0000,0000,,{\blur3}虫洞机器会是什么模样呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What would a wormhole machine look like?{\r}
+Dialogue: 0,0:41:26.65,0:41:29.61,Default,,0000,0000,0000,,{\blur3}大概要调用规模庞大的设备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Probably huge in scale with equipment staged...{\r}
+Dialogue: 0,0:41:29.65,0:41:32.23,Default,,0000,0000,0000,,{\blur3}也许要立足于大量的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}perhaps on a massive number of asteroids...{\r}
+Dialogue: 0,0:41:32.28,0:41:34.40,Default,,0000,0000,0000,,{\blur3}来安排一个巨大的范围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}arranged in a gigantic sphere.{\r}
+Dialogue: 0,0:41:36.45,0:41:39.53,Default,,0000,0000,0000,,{\blur3}需要一个巨大的激光阵{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would require an enormous battery of laser beams...{\r}
+Dialogue: 0,0:41:39.58,0:41:43.66,Default,,0000,0000,0000,,{\blur3}集中巨大的能量于一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that concentrate tremendous energy to a single point.{\r}
+Dialogue: 0,0:41:43.70,0:41:45.75,Default,,0000,0000,0000,,{\blur3}你必须达到极高的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have to attain fantastic temperatures...{\r}
+Dialogue: 0,0:41:45.79,0:41:48.42,Default,,0000,0000,0000,,{\blur3}我们宇宙中可能达到的最高能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the highest energy attainable in our universe...{\r}
+Dialogue: 0,0:41:48.46,0:41:51.34,Default,,0000,0000,0000,,{\blur3}来打开一个窟窿 一个泡泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in order to open up a hole, a bubble...{\r}
+Dialogue: 0,0:41:51.38,0:41:54.26,Default,,0000,0000,0000,,{\blur3}一个门户 或许就可以通往另一个宇宙了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a gateway perhaps to another universe.{\r}
+Dialogue: 0,0:41:56.09,0:41:57.26,Default,,0000,0000,0000,,{\blur3}另一个蒙骗空间之道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another way of tricking space...{\r}
+Dialogue: 0,0:41:57.30,0:42:01.43,Default,,0000,0000,0000,,{\blur3}让我们超越光速穿行太空 就是曲相推进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into letting us travel faster than light is the warp drive.{\r}
+Dialogue: 0,0:42:02.68,0:42:06.02,Default,,0000,0000,0000,,{\blur3}米格尔.阿尔库维雷在1994年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Miguel Alcubierre was the first one...{\r}
+Dialogue: 0,0:42:06.06,0:42:09.15,Default,,0000,0000,0000,,{\blur3}首次提出了曲相推进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to write about the warp drive in 1994.{\r}
+Dialogue: 0,0:42:10.48,0:42:14.90,Default,,0000,0000,0000,,{\blur3}阿尔库维雷 墨西哥物理学家解决的数学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alcubierre, a Mexican physicist, worked out the math for a starship...{\r}
+Dialogue: 0,0:42:14.94,0:42:17.65,Default,,0000,0000,0000,,{\blur3}可以通过扭曲时空本身来推进飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}propelled by warping space-time itself.{\r}
+Dialogue: 0,0:42:19.57,0:42:22.66,Default,,0000,0000,0000,,{\blur3}飞船背后 时空是扩大的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Behind the ship, space-time is expanded.{\r}
+Dialogue: 0,0:42:22.70,0:42:25.41,Default,,0000,0000,0000,,{\blur3}而在飞船前面 时空是压缩的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In front of the ship, space-time contracts.{\r}
+Dialogue: 0,0:42:26.37,0:42:29.25,Default,,0000,0000,0000,,{\blur3}两者之间 飞船如冲浪那样飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In between, the ship rides like a surfer.{\r}
+Dialogue: 0,0:42:30.33,0:42:32.71,Default,,0000,0000,0000,,{\blur3}飞船本身置身于一个泡泡中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ship itself sits inside a bubble...{\r}
+Dialogue: 0,0:42:33.88,0:42:35.92,Default,,0000,0000,0000,,{\blur3}其周围的空间推着它超过了光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the space around it pushes it faster than light.{\r}
+Dialogue: 0,0:42:38.30,0:42:41.55,Default,,0000,0000,0000,,{\blur3}一个成功的曲相推进 要是它真的可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A successful warp drive, if it is possible at all...{\r}
+Dialogue: 0,0:42:41.60,0:42:43.76,Default,,0000,0000,0000,,{\blur3}或许就在几百年之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is probably centuries away.{\r}
+Dialogue: 0,0:42:45.56,0:42:49.23,Default,,0000,0000,0000,,{\blur3}但是在瑞士 大型强子对撞机的物理学家们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in Switzerland, physicists at the Large Hadron Collider...{\r}
+Dialogue: 0,0:42:49.27,0:42:51.10,Default,,0000,0000,0000,,{\blur3}有可能现在就已经找到了正确的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may be headed in the right direction right now.{\r}
+Dialogue: 0,0:42:53.82,0:42:55.98,Default,,0000,0000,0000,,{\blur3}大型强子对撞机是一种原子加速器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, the Large Hadron Collider is an atom smasher.{\r}
+Dialogue: 0,0:42:56.03,0:42:57.15,Default,,0000,0000,0000,,{\blur3}是粒子对撞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a particle collider.{\r}
+Dialogue: 0,0:42:57.19,0:42:59.11,Default,,0000,0000,0000,,{\blur3}不过它会产生足够高的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's going to get to high enough energies...{\r}
+Dialogue: 0,0:42:59.15,0:43:02.07,Default,,0000,0000,0000,,{\blur3}让时空扭曲和弯曲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that space and time will actually warp and bend.{\r}
+Dialogue: 0,0:43:02.12,0:43:05.49,Default,,0000,0000,0000,,{\blur3}我们实际上是在实验室里练习如何来弯曲空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're actually practicing how to bend space in the laboratory.{\r}
+Dialogue: 0,0:43:05.54,0:43:07.75,Default,,0000,0000,0000,,{\blur3}这是朝着曲相推进的幼稚的第一步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the first baby step toward a warp drive.{\r}
+Dialogue: 0,0:43:09.29,0:43:11.17,Default,,0000,0000,0000,,{\blur3}基于我们现在所掌握的物理学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the physics we now know...{\r}
+Dialogue: 0,0:43:11.21,0:43:12.83,Default,,0000,0000,0000,,{\blur3}我们不会在可预见的将来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we won't travel faster than light speed...{\r}
+Dialogue: 0,0:43:12.88,0:43:14.50,Default,,0000,0000,0000,,{\blur3}超越光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the foreseeable future.{\r}
+Dialogue: 0,0:43:15.92,0:43:17.34,Default,,0000,0000,0000,,{\blur3}那并不意味着我们不该去尝试{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That doesn't mean we shouldn't try.{\r}
+Dialogue: 0,0:43:18.67,0:43:21.84,Default,,0000,0000,0000,,{\blur3}即使光速旅行有可能的结果是做不到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even though light speed travel might turn out to be impossible...{\r}
+Dialogue: 0,0:43:21.89,0:43:23.60,Default,,0000,0000,0000,,{\blur3}未经努力就放弃了 其本身就是放弃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to give up without trying is just giving up.{\r}
+Dialogue: 0,0:43:25.76,0:43:27.31,Default,,0000,0000,0000,,{\blur3}离开了航天局的工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Outside his work at NASA...{\r}
+Dialogue: 0,0:43:27.35,0:43:30.85,Default,,0000,0000,0000,,{\blur3}米利斯创办了非盈利的T 0基金{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Millis has founded the nonprofit Tau Zero Foundation...{\r}
+Dialogue: 0,0:43:30.89,0:43:33.77,Default,,0000,0000,0000,,{\blur3}来鼓励对星际旅行的深入研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to encourage serious research on star travel.{\r}
+Dialogue: 0,0:43:35.57,0:43:38.86,Default,,0000,0000,0000,,{\blur3}尽管只有少数科学家在积极推进这个概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although few scientists are pursuing the idea actively...{\r}
+Dialogue: 0,0:43:38.90,0:43:41.99,Default,,0000,0000,0000,,{\blur3}多数人还是同意这个努力还是有价值的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}many agree it's worth at least the effort.{\r}
+Dialogue: 0,0:43:42.03,0:43:43.16,Default,,0000,0000,0000,,{\blur3}了解我们的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Understanding our universe...{\r}
+Dialogue: 0,0:43:43.20,0:43:46.08,Default,,0000,0000,0000,,{\blur3}是人类作为一个智能物种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is one of the most basic needs human beings have...{\r}
+Dialogue: 0,0:43:46.12,0:43:47.16,Default,,0000,0000,0000,,{\blur3}最基本的需求之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as an intelligent species.{\r}
+Dialogue: 0,0:43:48.62,0:43:51.46,Default,,0000,0000,0000,,{\blur3}因此我们所追求的科技和物理学难道该不该{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So should we pursue technologies or physics...{\r}
+Dialogue: 0,0:43:51.50,0:43:53.50,Default,,0000,0000,0000,,{\blur3}让我们有朝一日速度超过光速呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that might allow us someday to travel faster than light?{\r}
+Dialogue: 0,0:43:53.54,0:43:54.63,Default,,0000,0000,0000,,{\blur3}完全应该{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Absolutely.{\r}
+Dialogue: 0,0:43:54.67,0:43:56.38,Default,,0000,0000,0000,,{\blur3}因为我们永远不知道这会将我们带向何处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because we never know where this might take us.{\r}
+Dialogue: 0,0:43:56.42,0:43:57.71,Default,,0000,0000,0000,,{\blur3}即使我们有可能永远都发现不了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even though we might never discover a way...{\r}
+Dialogue: 0,0:43:57.76,0:43:59.42,Default,,0000,0000,0000,,{\blur3}超越光速之道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to travel faster than light...{\r}
+Dialogue: 0,0:43:59.47,0:44:02.18,Default,,0000,0000,0000,,{\blur3}但是我们有可能发现一大堆其它非常有用的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we might discover a whole bunch of other very useful things.{\r}
+Dialogue: 0,0:44:03.47,0:44:05.72,Default,,0000,0000,0000,,{\blur3}倘若科学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what if science ultimately proves...{\r}
+Dialogue: 0,0:44:05.76,0:44:08.26,Default,,0000,0000,0000,,{\blur3}最终证明光速不可逾越{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the light speed barrier is unbreakable...{\r}
+Dialogue: 0,0:44:08.31,0:44:09.52,Default,,0000,0000,0000,,{\blur3}星际旅行难道就行不通了吗?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and star travel is impossible?{\r}
+Dialogue: 0,0:44:11.60,0:44:15.10,Default,,0000,0000,0000,,{\blur3}它将对地球这个星际飞船提出全新的远景{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would put a whole new perspective on spaceship Earth...{\r}
+Dialogue: 0,0:44:15.15,0:44:18.48,Default,,0000,0000,0000,,{\blur3}迫使我们作为其乘客{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forcing us to use our technology to treat it well...{\r}
+Dialogue: 0,0:44:18.53,0:44:20.40,Default,,0000,0000,0000,,{\blur3}利用我们的科技{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as we remain its passengers...{\r}
+Dialogue: 0,0:44:20.53,0:44:24.40,Default,,0000,0000,0000,,{\blur3}一如既往地善待它 以及我们的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on our continuing journey through the universe.{\r}

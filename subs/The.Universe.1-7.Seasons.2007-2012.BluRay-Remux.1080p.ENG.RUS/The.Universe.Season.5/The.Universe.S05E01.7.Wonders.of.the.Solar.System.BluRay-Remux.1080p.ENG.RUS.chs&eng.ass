@@ -1,0 +1,844 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: CMCT
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:14.00,0:01:17.80,Default,,0000,0000,0001,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:17.90,0:01:20.00,Default,,0000,0000,0008,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制&调校:无影  字幕来源:人人影视  招募Q号:76846146{\r}
+Dialogue: 0,0:01:20.62,0:01:24.57,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(149,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宇
+Dialogue: 0,0:01:20.62,0:01:24.57,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(228,111)\c&FBF7ED&\fn微软雅黑\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宙
+Dialogue: 0,0:01:20.62,0:01:24.57,Default,NTP,0000,0000,0000,,{\fe134}{\fad(300,300)\pos(192,207)\c&FBF7ED&\3c&HFFFFFF&\fn微软雅黑\fs24\shad0\bord2\be1}{\t(0,3500,0.5,\c&B59475&,\fscx110,\fscy110)}太 阳 系 七 大 奇 观
+Dialogue: 0,0:01:20.62,0:01:24.57,Default,NTP,0000,0000,0000,,{\1c&HFF00FF&\b1}第5季　第1集
+Dialogue: 0,0:00:00.52,0:00:02.79,Default,NTP,0000,0000,0000,,最初  宇宙是一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness,
+Dialogue: 0,0:00:02.79,0:00:05.58,Default,NTP,0000,0000,0000,,紧接着一声巨响  混沌初开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang, giving birth
+Dialogue: 0,0:00:05.58,0:00:07.53,Default,NTP,0000,0000,0000,,时间  空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to an endless, expanding existence
+Dialogue: 0,0:00:07.53,0:00:09.80,Default,NTP,0000,0000,0000,,开始不断膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space and matter.
+Dialogue: 0,0:00:10.01,0:00:12.61,Default,NTP,0000,0000,0000,,每天  我们都在解密这神秘莫测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:12.61,0:00:16.09,Default,NTP,0000,0000,0000,,令人疯狂的极端之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:16.09,0:00:19.23,Default,NTP,0000,0000,0000,,宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call the Universe.
+Dialogue: 0,0:00:21.45,0:00:23.87,Default,NTP,0000,0000,0000,,这片广博寰宇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This cosmic world is unlike
+Dialogue: 0,0:00:23.87,0:00:27.11,Default,NTP,0000,0000,0000,,不同于我们之前所见所学任何事物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}anything you've ever seen or learned about.
+Dialogue: 0,0:00:27.60,0:00:29.40,Default,NTP,0000,0000,0000,,银河系包含了宇宙中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our galactic neighborhood
+Dialogue: 0,0:00:29.40,0:00:34.05,Default,NTP,0000,0000,0000,,最壮美绚丽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is home to seven of the most mesmerizing, violent,
+Dialogue: 0,0:00:34.05,0:00:37.89,Default,NTP,0000,0000,0000,,最超脱尘俗的七大奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and otherworldly phenomena in the universe.
+Dialogue: 0,0:00:37.93,0:00:39.26,Default,NTP,0000,0000,0000,,有一座神奇星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A stunning planet
+Dialogue: 0,0:00:39.26,0:00:42.21,Default,NTP,0000,0000,0000,,其光环中的山脉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whose iconic rings contain mountain ranges
+Dialogue: 0,0:00:42.21,0:00:43.89,Default,NTP,0000,0000,0000,,可媲美阿尔卑斯山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that rival the Alps,
+Dialogue: 0,0:00:44.08,0:00:45.42,Default,NTP,0000,0000,0000,,一座闪闪的卫星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a shimmering moon
+Dialogue: 0,0:00:45.42,0:00:49.81,Default,NTP,0000,0000,0000,,间歇喷涌出大量水和冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where massive geysers of water and ice spew from its surface.
+Dialogue: 0,0:00:51.24,0:00:53.72,Default,NTP,0000,0000,0000,,我们先去看一个超大火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scale a mega volcano,
+Dialogue: 0,0:00:54.34,0:00:57.68,Default,NTP,0000,0000,0000,,然后穿越小行星带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then zigzag through a family of Asteroids
+Dialogue: 0,0:00:57.68,0:01:01.78,Default,NTP,0000,0000,0000,,去领略巨型旋风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before diving into the eye of a super-sized hurricane.
+Dialogue: 0,0:01:02.55,0:01:06.12,Default,NTP,0000,0000,0000,,我们将见识太阳系中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Experience the newest, most mind-blowing discoveries
+Dialogue: 0,0:01:06.12,0:01:08.22,Default,NTP,0000,0000,0000,,最新奇刺激的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}revolving around our sun
+Dialogue: 0,0:01:08.50,0:01:13.40,Default,NTP,0000,0000,0000,,体验其中的七大奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we venture to the seven wonders of our Solar System.
+Dialogue: 0,0:01:29.07,0:01:33.42,Default,NTP,0000,0000,0000,,如果你觉得已看遍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you think science has already uncovered every dangerous,
+Dialogue: 0,0:01:34.26,0:01:38.07,Default,NTP,0000,0000,0000,,太阳系中危险神秘的奇异现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}strange and extraordinary phenomenon under the sun,
+Dialogue: 0,0:01:38.82,0:01:40.26,Default,NTP,0000,0000,0000,,那你大错特错\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}think again.
+Dialogue: 0,0:01:41.55,0:01:43.50,Default,NTP,0000,0000,0000,,我们正处在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We are right now in the midst
+Dialogue: 0,0:01:43.50,0:01:46.21,Default,NTP,0000,0000,0000,,宇宙探索大时代中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the greatest era of space discovery,
+Dialogue: 0,0:01:47.27,0:01:49.90,Default,NTP,0000,0000,0000,,许多光怪陆离  奇妙万千的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And many of the weird and wondrous things
+Dialogue: 0,0:01:49.90,0:01:54.44,Default,NTP,0000,0000,0000,,就发生在我们身处的这个宇宙里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are happening right here in our own cosmic backyard.
+Dialogue: 0,0:01:56.45,0:01:59.58,Default,NTP,0000,0000,0000,,太阳系真的是一个奇妙的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Solar System is a really fantastic place.
+Dialogue: 0,0:02:00.17,0:02:02.94,Default,NTP,0000,0000,0000,,我们已经发现了许多其他行星系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, we've now found other planetary systems,
+Dialogue: 0,0:02:01.38,0:02:05.50,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学  伯克利分校
+Dialogue: 0,0:02:02.94,0:02:06.67,Default,NTP,0000,0000,0000,,但还未找到任何和太阳系相似的系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we've not yet found anything quite like our Solar System.
+Dialogue: 0,0:02:11.82,0:02:14.74,Default,NTP,0000,0000,0000,,我们将开启一段神奇之旅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You've joined us on a magical journey
+Dialogue: 0,0:02:15.63,0:02:17.70,Default,NTP,0000,0000,0000,,去探索太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through the seven wonders
+Dialogue: 0,0:02:18.65,0:02:20.40,Default,NTP,0000,0000,0000,,七大奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of our Solar System.
+Dialogue: 0,0:02:29.05,0:02:32.80,Default,NTP,0000,0000,0000,,我们首先前往土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We first head for the Orbit of Saturn.
+Dialogue: 0,0:02:36.50,0:02:41.63,Default,NTP,0000,0000,0000,,第七奇观  土卫二\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Number seven, Enceladus.
+Dialogue: 0,0:02:46.24,0:02:49.81,Default,NTP,0000,0000,0000,,2009年11月2日午夜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's midnight, November 2, 2009.
+Dialogue: 0,0:02:50.99,0:02:52.88,Default,NTP,0000,0000,0000,,美国卡西尼号宇宙飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Cassini spacecraft
+Dialogue: 0,0:02:50.99,0:02:52.88,Default,NTP,0000,0000,0000,,{\an8}NASA: 美国航天航空局
+Dialogue: 0,0:02:52.88,0:02:54.99,Default,NTP,0000,0000,0000,,正沿土星轨道飞行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbits the planet Saturn.
+Dialogue: 0,0:02:55.03,0:02:57.51,Default,NTP,0000,0000,0000,,它拍摄到了土卫二\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its cameras capture something bizarre
+Dialogue: 0,0:02:57.51,0:03:01.82,Default,NTP,0000,0000,0000,,表面的奇异现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on one of its outer moons named Enceladus.
+Dialogue: 0,0:03:06.25,0:03:08.18,Default,NTP,0000,0000,0000,,从地质学角度讲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of the Solar System's moons
+Dialogue: 0,0:03:08.18,0:03:10.32,Default,NTP,0000,0000,0000,,太阳系中卫星都是死寂的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are geologically dead,
+Dialogue: 0,0:03:10.32,0:03:14.15,Default,NTP,0000,0000,0000,,而土卫二南极表面虽被冰层覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and looking at the glistening, icy surface of its south pole,
+Dialogue: 0,0:03:14.15,0:03:17.31,Default,NTP,0000,0000,0000,,看起来宁静如常\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Enceladus seems like a peaceful world.
+Dialogue: 0,0:03:18.59,0:03:20.80,Default,NTP,0000,0000,0000,,突然毫无征兆地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then suddenly, without warning,
+Dialogue: 0,0:03:22.12,0:03:24.84,Default,NTP,0000,0000,0000,,从地表裂缝中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gargantuan geysers of water and ice
+Dialogue: 0,0:03:24.84,0:03:27.60,Default,NTP,0000,0000,0000,,喷射出大量水和冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eject from cracks on its surface.
+Dialogue: 0,0:03:28.60,0:03:31.59,Default,NTP,0000,0000,0000,,土卫二是土星一个奇妙的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Enceladus is a fantastic moon of Saturn.
+Dialogue: 0,0:03:32.50,0:03:34.31,Default,NTP,0000,0000,0000,,虽然体积很小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Though it's relatively small,
+Dialogue: 0,0:03:34.47,0:03:38.42,Default,NTP,0000,0000,0000,,但其火山活动与地球毫不相同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Enceladus is different from the volcanism that's here on Earth
+Dialogue: 0,0:03:38.42,0:03:42.19,Default,NTP,0000,0000,0000,,地球上的火山从地下喷射出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where hot magma, which is basically molten rock,
+Dialogue: 0,0:03:42.19,0:03:45.06,Default,NTP,0000,0000,0000,,熔融岩石形成的炽热岩浆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes out from underneath Earth's surface.
+Dialogue: 0,0:03:45.75,0:03:49.71,Default,NTP,0000,0000,0000,,土卫二喷射出的基本都是液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Enceladus has water, basically, liquid water
+Dialogue: 0,0:03:49.71,0:03:50.84,Default,NTP,0000,0000,0000,,喷射出后即冻结成冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coming out and freezing
+Dialogue: 0,0:03:50.84,0:03:53.20,Default,NTP,0000,0000,0000,,因此也称之为冰火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so it's called Cryovolcanism.
+Dialogue: 0,0:03:55.82,0:03:58.29,Default,NTP,0000,0000,0000,,卡西尼号宇宙飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Cassini spacecraft flies directly
+Dialogue: 0,0:03:58.29,0:04:02.35,Default,NTP,0000,0000,0000,,以1400英里时速穿过高达几百英里的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through the energetic plumes that blast hundreds of miles into space
+Dialogue: 0,0:04:02.35,0:04:05.03,Default,NTP,0000,0000,0000,,喷射水柱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at 1,400 miles per hour.
+Dialogue: 0,0:04:07.74,0:04:10.74,Default,NTP,0000,0000,0000,,土卫二着实吸引住了我们关注\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Enceladus has really caught our imagination recently
+Dialogue: 0,0:04:10.74,0:04:13.83,Default,NTP,0000,0000,0000,,虽然卫星南极间歇冰泉非常普遍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we see geysers coming out of the south pole.
+Dialogue: 0,0:04:13.83,0:04:15.19,Default,NTP,0000,0000,0000,,但在太阳系外围  我们还从未\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We haven't seen anything like that
+Dialogue: 0,0:04:13.83,0:04:16.50,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹丽\N格里菲思天文台
+Dialogue: 0,0:04:15.19,0:04:17.94,Default,NTP,0000,0000,0000,,在任何冰化卫星上发现此现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on any of the icy moons in the outer Solar System.
+Dialogue: 0,0:04:18.23,0:04:20.41,Default,NTP,0000,0000,0000,,土卫二非常奇特\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So something is going on in Enceladus,
+Dialogue: 0,0:04:20.41,0:04:23.07,Default,NTP,0000,0000,0000,,我们想探究它如此活跃的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's active and we want to know why.
+Dialogue: 0,0:04:27.04,0:04:30.34,Default,NTP,0000,0000,0000,,科学家计算得出土卫二南极\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists have counted at least 30 geyser jets
+Dialogue: 0,0:04:30.34,0:04:35.10,Default,NTP,0000,0000,0000,,"老虎条纹"地质裂缝中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spouting from narrow geological fractures called Tiger Stripes
+Dialogue: 0,0:04:35.39,0:04:38.76,Default,NTP,0000,0000,0000,,存在至少30处间歇冰泉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}located along Enceladus' south polar region.
+Dialogue: 0,0:04:41.73,0:04:44.04,Default,NTP,0000,0000,0000,,最新红外扫描地图显示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A new infrared map of the area
+Dialogue: 0,0:04:44.04,0:04:46.60,Default,NTP,0000,0000,0000,,此区域地表温度极高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reveals warm surface temperatures.
+Dialogue: 0,0:04:47.60,0:04:50.28,Default,NTP,0000,0000,0000,,从地底喷射出的水蒸汽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The heat emanating from the Tiger Stripes
+Dialogue: 0,0:04:50.28,0:04:54.71,Default,NTP,0000,0000,0000,,使"老虎条纹"常年保持高温\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be due to the upwelling of water vapor that propels the jets.
+Dialogue: 0,0:04:59.35,0:05:03.80,Default,NTP,0000,0000,0000,,有类似奇观的地方就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the few other places to witness truly fascinating wonder,
+Dialogue: 0,0:05:08.38,0:05:09.90,Default,NTP,0000,0000,0000,,地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is on Earth.
+Dialogue: 0,0:05:13.54,0:05:15.93,Default,NTP,0000,0000,0000,,在撒雪堆积的滑雪坡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At a freshly groomed ski slope
+Dialogue: 0,0:05:17.36,0:05:20.36,Default,NTP,0000,0000,0000,,或是电影拍摄场地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or on a movie set.
+Dialogue: 0,0:05:21.55,0:05:23.65,Default,NTP,0000,0000,0000,,看看这台造雪机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Look at this snowmaking machine.
+Dialogue: 0,0:05:23.90,0:05:26.78,Default,NTP,0000,0000,0000,,就像土卫二上的间歇冰泉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like a geyser from Enceladus.
+Dialogue: 0,0:05:26.83,0:05:30.35,Default,NTP,0000,0000,0000,,喷出的冰粒和水珠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All these ice particles and water droplets
+Dialogue: 0,0:05:30.35,0:05:33.94,Default,NTP,0000,0000,0000,,遇到外界空气后冻结成冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}freeze when they encounter that outside air,
+Dialogue: 0,0:05:34.01,0:05:37.50,Default,NTP,0000,0000,0000,,膨胀的气体也会使水珠冷却\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the expanding gases also help cool the dropls
+Dialogue: 0,0:05:37.50,0:05:38.71,Default,NTP,0000,0000,0000,,最后冻结成冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and freeze them.
+Dialogue: 0,0:05:39.04,0:05:40.88,Default,NTP,0000,0000,0000,,在土卫二上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the case of Enceladus,
+Dialogue: 0,0:05:41.12,0:05:44.75,Default,NTP,0000,0000,0000,,液态水在地底空间内加热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}heated liquid water in a cauldron below the surface
+Dialogue: 0,0:05:44.75,0:05:49.03,Default,NTP,0000,0000,0000,,随后从南极火山口喷涌而出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}goes squirting out through some vents in the south polar region.
+Dialogue: 0,0:05:49.17,0:05:50.84,Default,NTP,0000,0000,0000,,水喷射出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when that water comes out
+Dialogue: 0,0:05:50.84,0:05:54.26,Default,NTP,0000,0000,0000,,进入外界低温环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and encounters the cold surrounding space
+Dialogue: 0,0:05:54.26,0:05:58.11,Default,NTP,0000,0000,0000,,就会冻结  形成雪花和冰粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it freezes, forming snowflakes and ice particles,
+Dialogue: 0,0:05:58.11,0:06:01.40,Default,NTP,0000,0000,0000,,就像这些造雪机造出来的雪一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much like the ones coming out of this snowmaking machine.
+Dialogue: 0,0:06:01.74,0:06:04.82,Default,NTP,0000,0000,0000,,所以我现在就像在土卫二上一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So wow, I might as well be on Enceladus right now.
+Dialogue: 0,0:06:11.39,0:06:14.87,Default,NTP,0000,0000,0000,,科学家认为土卫二上有2个内部热源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists think there must be two internal heat sources
+Dialogue: 0,0:06:14.87,0:06:18.12,Default,NTP,0000,0000,0000,,才会形成这种冰火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}driving this icy volcanism on Enceladus.
+Dialogue: 0,0:06:19.56,0:06:22.04,Default,NTP,0000,0000,0000,,第一个热源是放射性元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One source could be radioactive elements
+Dialogue: 0,0:06:22.04,0:06:24.49,Default,NTP,0000,0000,0000,,其衰变后会加热内部温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that decay and heat up the interior,
+Dialogue: 0,0:06:24.80,0:06:27.79,Default,NTP,0000,0000,0000,,从而保持水的液体形态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thereby keeping the water in a liquid state.
+Dialogue: 0,0:06:28.61,0:06:30.88,Default,NTP,0000,0000,0000,,第二个就是潮汐加热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The second could be tidal heating.
+Dialogue: 0,0:06:33.08,0:06:37.19,Default,NTP,0000,0000,0000,,假设土卫二就像这个气球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Suppose Enceladus is like this squishy balloon.
+Dialogue: 0,0:06:37.84,0:06:41.83,Default,NTP,0000,0000,0000,,土卫二以椭圆偏心轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now Enceladus orbits Saturn in a slightly elliptical,
+Dialogue: 0,0:06:41.83,0:06:43.20,Default,NTP,0000,0000,0000,,围绕土星运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eccentric orbit.
+Dialogue: 0,0:06:43.20,0:06:45.25,Default,NTP,0000,0000,0000,,有时离土星较近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So sometimes it's closer to Saturn,
+Dialogue: 0,0:06:45.25,0:06:47.02,Default,NTP,0000,0000,0000,,有时离土星较远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sometimes it's farther away.
+Dialogue: 0,0:06:48.18,0:06:49.79,Default,NTP,0000,0000,0000,,当距离较近时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it's close to Saturn,
+Dialogue: 0,0:06:50.09,0:06:52.57,Default,NTP,0000,0000,0000,,土星的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Saturn's gravitational pull
+Dialogue: 0,0:06:52.57,0:06:56.59,Default,NTP,0000,0000,0000,,对土卫二形成潮汐引力作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creates a greater tidal stretching of Enceladus
+Dialogue: 0,0:06:56.96,0:06:59.46,Default,NTP,0000,0000,0000,,距离较远时就不会有这种现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than when Enceladus is farther away.
+Dialogue: 0,0:06:59.80,0:07:01.59,Default,NTP,0000,0000,0000,,潮汐引力作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That leads to a rubbing
+Dialogue: 0,0:07:01.59,0:07:03.59,Default,NTP,0000,0000,0000,,使卫星内部失去平衡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the interior materials
+Dialogue: 0,0:07:03.59,0:07:05.29,Default,NTP,0000,0000,0000,,因此释放出能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a release of energy.
+Dialogue: 0,0:07:05.70,0:07:08.31,Default,NTP,0000,0000,0000,,这种潮汐力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This tidal friction, as it's called,
+Dialogue: 0,0:07:08.31,0:07:11.73,Default,NTP,0000,0000,0000,,促使土卫二内部融化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}helps melt the interior of Enceladus
+Dialogue: 0,0:07:11.73,0:07:15.65,Default,NTP,0000,0000,0000,,从而使水保持液态或半液体形态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and keep the water in this molten or partly molten state.
+Dialogue: 0,0:07:18.82,0:07:19.84,Default,NTP,0000,0000,0000,,另一个未解之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One mystery is,
+Dialogue: 0,0:07:19.84,0:07:23.23,Default,NTP,0000,0000,0000,,就是土卫二地表下储存有多少水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how much water actually exists beneath the surface.
+Dialogue: 0,0:07:24.33,0:07:25.63,Default,NTP,0000,0000,0000,,这个小型卫星下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could the miniature moon
+Dialogue: 0,0:07:25.63,0:07:27.96,Default,NTP,0000,0000,0000,,会不会隐藏着一个海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}be hiding an underground ocean?
+Dialogue: 0,0:07:29.77,0:07:31.76,Default,NTP,0000,0000,0000,,我们推断地下有一个液态海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We infer that there is a liquid ocean
+Dialogue: 0,0:07:31.76,0:07:35.57,Default,NTP,0000,0000,0000,,因为间歇性冰泉必须要有水源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because there needs to be a source of water to power these geysers.
+Dialogue: 0,0:07:36.40,0:07:37.93,Default,NTP,0000,0000,0000,,海洋可能没有遍布\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ocean may not extend
+Dialogue: 0,0:07:37.93,0:07:40.84,Default,NTP,0000,0000,0000,,整个土卫二的内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}under the entire globe of Enceladus.
+Dialogue: 0,0:07:40.84,0:07:43.85,Default,NTP,0000,0000,0000,,可能只存在于间歇冰泉所在的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It may be just beneath these regions where the geysers are going off,
+Dialogue: 0,0:07:41.58,0:07:45.31,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格瑞格·拉夫林\N加州大学  圣克鲁兹分校
+Dialogue: 0,0:07:43.85,0:07:45.11,Default,NTP,0000,0000,0000,,但肯定的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but there has to be
+Dialogue: 0,0:07:45.11,0:07:47.36,Default,NTP,0000,0000,0000,,土卫二冰层下应存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a significant reservoir of liquid water
+Dialogue: 0,0:07:47.36,0:07:49.41,Default,NTP,0000,0000,0000,,一个重要的"地下水库"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beneath the surface of Enceladus.
+Dialogue: 0,0:07:51.58,0:07:54.72,Default,NTP,0000,0000,0000,,如果土卫二地表下真的存在液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If liquid water exists beneath the surface,
+Dialogue: 0,0:07:54.72,0:07:57.78,Default,NTP,0000,0000,0000,,其中可能蕴含着大量有机分子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It could be teeming with organic molecules.
+Dialogue: 0,0:07:57.98,0:08:00.80,Default,NTP,0000,0000,0000,,有机分子以及适宜温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These, along with relatively warm temperatures,
+Dialogue: 0,0:08:00.80,0:08:04.42,Default,NTP,0000,0000,0000,,都是创造生命的重要因素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are the essential ingredients for creating life.
+Dialogue: 0,0:08:05.80,0:08:07.22,Default,NTP,0000,0000,0000,,如果能在土卫二地表下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be incredible
+Dialogue: 0,0:08:07.22,0:08:09.64,Default,NTP,0000,0000,0000,,发现原始生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if we were to find life, primitive life,
+Dialogue: 0,0:08:09.64,0:08:11.98,Default,NTP,0000,0000,0000,,那将太不可思议了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}underneath the surface of Enceladus.
+Dialogue: 0,0:08:12.43,0:08:15.11,Default,NTP,0000,0000,0000,,我们并不指望出现类人生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't expect complex creatures such as ourselves
+Dialogue: 0,0:08:15.11,0:08:16.64,Default,NTP,0000,0000,0000,,或者兔子乌龟等高等生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or rabbits or turtles,
+Dialogue: 0,0:08:16.64,0:08:20.44,Default,NTP,0000,0000,0000,,但哪怕只是原始菌类或是微生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but even primitive bacterial or microbial life,
+Dialogue: 0,0:08:20.44,0:08:22.63,Default,NTP,0000,0000,0000,,此类能够在地球上独立存活的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}independent of life on Earth
+Dialogue: 0,0:08:22.63,0:08:25.46,Default,NTP,0000,0000,0000,,就算是有史以来最伟大的发现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be one of the greatest discoveries ever.
+Dialogue: 0,0:08:29.48,0:08:31.36,Default,NTP,0000,0000,0000,,土卫二运行轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Enceladus actually orbits
+Dialogue: 0,0:08:31.36,0:08:34.12,Default,NTP,0000,0000,0000,,其实就是太阳系又一大奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}within another wonder of the Solar System.
+Dialogue: 0,0:08:37.82,0:08:43.07,Default,NTP,0000,0000,0000,,第六奇观  土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Number six... The Rings of Saturn
+Dialogue: 0,0:08:46.88,0:08:50.01,Default,NTP,0000,0000,0000,,土星环被发现后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Rings named in alphabetical order
+Dialogue: 0,0:08:50.01,0:08:51.64,Default,NTP,0000,0000,0000,,字母表顺序加以排序\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as they were discovered,
+Dialogue: 0,0:08:51.81,0:08:55.72,Default,NTP,0000,0000,0000,,它是宇宙中最绚丽的景象之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are among the most dazzling sights in the sky.
+Dialogue: 0,0:08:57.75,0:09:00.12,Default,NTP,0000,0000,0000,,旅行者号飞船对土星的第一次探测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Voyager spacecraft first visited Saturn
+Dialogue: 0,0:09:00.12,0:09:01.27,Default,NTP,0000,0000,0000,,已是很久前的事了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}quite a while ago,
+Dialogue: 0,0:09:01.71,0:09:04.15,Default,NTP,0000,0000,0000,,现在看到卡西尼号飞船提供的新影像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and now with the new images provided by Cassini.
+Dialogue: 0,0:09:03.01,0:09:06.84,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾米·梅泽\N美国宇航局  喷气推进实验室
+Dialogue: 0,0:09:04.15,0:09:06.26,Default,NTP,0000,0000,0000,,像用3D眼镜看的一样真切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like putting on a pair of 3D glasses
+Dialogue: 0,0:09:06.26,0:09:08.97,Default,NTP,0000,0000,0000,,我们首次细致详尽的看清\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the first time to be able to see with great detail
+Dialogue: 0,0:09:08.97,0:09:10.85,Default,NTP,0000,0000,0000,,土星光环里到底有什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what's inside Saturn's rings.
+Dialogue: 0,0:09:12.97,0:09:15.21,Default,NTP,0000,0000,0000,,据估计  七条大光环中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Among the seven main rings,
+Dialogue: 0,0:09:15.21,0:09:19.27,Default,NTP,0000,0000,0000,,有数千层小环环绕着这个气态行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's estimated that the gaseous planet has thousands of ringlets
+Dialogue: 0,0:09:19.27,0:09:24.11,Default,NTP,0000,0000,0000,,其中包含有三十五万万亿吨的冰和尘埃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comprised of 35 trillion-trillion tons of ice and dust,
+Dialogue: 0,0:09:24.11,0:09:26.87,Default,NTP,0000,0000,0000,,大约是地球水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}containing roughly 26 million times
+Dialogue: 0,0:09:26.87,0:09:29.02,Default,NTP,0000,0000,0000,,总重量二千六百万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the amount of water on Earth.
+Dialogue: 0,0:09:30.38,0:09:31.59,Default,NTP,0000,0000,0000,,它们的起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet their origin
+Dialogue: 0,0:09:31.59,0:09:34.70,Default,NTP,0000,0000,0000,,也困扰了科学家们近几个世纪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has eluded scientists for centuries.
+Dialogue: 0,0:09:36.12,0:09:38.68,Default,NTP,0000,0000,0000,,我们无从知晓这些光环起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We really don't know their origin.
+Dialogue: 0,0:09:38.68,0:09:40.40,Default,NTP,0000,0000,0000,,也许由于土星重力作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They may consist of material
+Dialogue: 0,0:09:40.40,0:09:43.87,Default,NTP,0000,0000,0000,,使它们无法相互撞击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that never had a chance to form into a moon
+Dialogue: 0,0:09:43.87,0:09:47.58,Default,NTP,0000,0000,0000,,以形成卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because of gravitational influences of Saturn itself.
+Dialogue: 0,0:09:47.62,0:09:49.07,Default,NTP,0000,0000,0000,,又或者它们就是卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or maybe, they're a moon
+Dialogue: 0,0:09:49.07,0:09:52.59,Default,NTP,0000,0000,0000,,由于太靠近土星而破裂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that wandered too close to Saturn and got broken up,
+Dialogue: 0,0:09:52.59,0:09:56.62,Default,NTP,0000,0000,0000,,被土星的潮汐引力作用打的支离破碎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shattered by the tidal gravitational effects of Saturn.
+Dialogue: 0,0:09:56.70,0:09:58.37,Default,NTP,0000,0000,0000,,甚至可能是一颗彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or possibly even,
+Dialogue: 0,0:09:58.37,0:10:01.33,Default,NTP,0000,0000,0000,,运动过于靠近土星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a comet came in too close to Saturn
+Dialogue: 0,0:10:01.33,0:10:03.39,Default,NTP,0000,0000,0000,,受土星巨大潮汐引力作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and got tidally disrupted
+Dialogue: 0,0:10:03.39,0:10:06.11,Default,NTP,0000,0000,0000,,从而土崩瓦解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by Saturn's immense gravitational field.
+Dialogue: 0,0:10:09.55,0:10:11.25,Default,NTP,0000,0000,0000,,更加引人注目的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's even more remarkable
+Dialogue: 0,0:10:11.25,0:10:12.79,Default,NTP,0000,0000,0000,,科学家统计出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that scientists have counted
+Dialogue: 0,0:10:12.79,0:10:16.61,Default,NTP,0000,0000,0000,,土星环中还隐藏着62颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}62 moons embedded in Saturn's rings.
+Dialogue: 0,0:10:18.45,0:10:21.66,Default,NTP,0000,0000,0000,,最新影像资料表明这些卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New images indicate that these tiny satellites
+Dialogue: 0,0:10:21.66,0:10:24.64,Default,NTP,0000,0000,0000,,使光环更加光彩照人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have taken the rings to new heights.
+Dialogue: 0,0:10:29.23,0:10:32.17,Default,NTP,0000,0000,0000,,2009年8月11日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}August 11, 2009.
+Dialogue: 0,0:10:32.48,0:10:34.89,Default,NTP,0000,0000,0000,,一张罕见土星昼夜平分的照片中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A rare equinox photo of Saturn
+Dialogue: 0,0:10:34.89,0:10:36.11,Default,NTP,0000,0000,0000,,土星光环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shows her rings
+Dialogue: 0,0:10:36.11,0:10:37.98,Default,NTP,0000,0000,0000,,侧向反射了太阳光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"edge on" to the sun.
+Dialogue: 0,0:10:37.98,0:10:40.84,Default,NTP,0000,0000,0000,,这幅照片揭开了一个惊人的事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The image unveils a shocking fact:
+Dialogue: 0,0:10:41.79,0:10:42.92,Default,NTP,0000,0000,0000,,曾一度被认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The bright bands that
+Dialogue: 0,0:10:42.92,0:10:45.38,Default,NTP,0000,0000,0000,,固态平整的光环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}once appeared to be solid and flat,
+Dialogue: 0,0:10:45.54,0:10:47.34,Default,NTP,0000,0000,0000,,事实上还包含着山脊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually contain ridges,
+Dialogue: 0,0:10:44.73,0:10:55.48,Default,NTP,0000,0000,0000,,{\an8}土星F环中细小波段
+Dialogue: 0,0:10:47.39,0:10:55.48,Default,NTP,0000,0000,0000,,{\an6}山脉
+Dialogue: 0,0:10:47.34,0:10:50.63,Default,NTP,0000,0000,0000,,从几英尺一直延伸向高耸的山脉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spanning from a few feet to mountain ranges
+Dialogue: 0,0:10:50.63,0:10:52.60,Default,NTP,0000,0000,0000,,其高度比阿尔卑斯山还要高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}taller than the Alps.
+Dialogue: 0,0:10:53.56,0:10:55.28,Default,NTP,0000,0000,0000,,通过地球上的望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you look at Saturn's rings
+Dialogue: 0,0:10:55.28,0:10:56.58,Default,NTP,0000,0000,0000,,观察土星环时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a telescope on Earth,
+Dialogue: 0,0:10:56.58,0:10:59.67,Default,NTP,0000,0000,0000,,它们看起来光滑而普通\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they look completely smooth and featureless.
+Dialogue: 0,0:11:00.28,0:11:01.76,Default,NTP,0000,0000,0000,,但现在所看到的那些区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But now we see that there are regions
+Dialogue: 0,0:11:01.76,0:11:04.23,Default,NTP,0000,0000,0000,,是由光环粒子堆砌而成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the ring particles are piled up into,
+Dialogue: 0,0:11:04.23,0:11:05.70,Default,NTP,0000,0000,0000,,你可以称之为"山"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what you could call mountains,
+Dialogue: 0,0:11:00.37,0:11:13.49,Default,NTP,0000,0000,0000,,{\an8}土星F环中细小波段
+Dialogue: 0,0:11:05.55,0:11:13.49,Default,NTP,0000,0000,0000,,{\an6}山脉
+Dialogue: 0,0:11:05.70,0:11:07.88,Default,NTP,0000,0000,0000,,高度可达数英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which can be several miles high.
+Dialogue: 0,0:11:09.45,0:11:12.70,Default,NTP,0000,0000,0000,,但这些高峰是怎么形成的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how are these mile-high mountains formed?
+Dialogue: 0,0:11:15.04,0:11:16.58,Default,NTP,0000,0000,0000,,美国卡西尼号太空船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Cassini mission
+Dialogue: 0,0:11:16.58,0:11:19.45,Default,NTP,0000,0000,0000,,成功捕捉到环内卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually captured images of embedded moons
+Dialogue: 0,0:11:19.45,0:11:21.55,Default,NTP,0000,0000,0000,,在土星环中运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sweeping through Saturn's rings
+Dialogue: 0,0:11:22.05,0:11:24.32,Default,NTP,0000,0000,0000,,使得光环扭曲不平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}causing them to twist and ripple
+Dialogue: 0,0:11:24.32,0:11:27.09,Default,NTP,0000,0000,0000,,从而形成百变造型的影像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creating ever-changing patterns.
+Dialogue: 0,0:11:28.35,0:11:30.13,Default,NTP,0000,0000,0000,,在土星A环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In Saturn's "A" Ring,
+Dialogue: 0,0:11:30.13,0:11:32.78,Default,NTP,0000,0000,0000,,即土星最外层主光环中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the outermost of the large bright rings,
+Dialogue: 0,0:11:37.27,0:11:45.01,Default,NTP,0000,0000,0000,,{\an8}土星A环
+Dialogue: 0,0:11:37.27,0:11:45.01,Default,NTP,0000,0000,0000,,{\an4}垂直顶点
+Dialogue: 0,0:11:37.27,0:11:45.01,Default,NTP,0000,0000,0000,,{\an6}土卫三十五
+Dialogue: 0,0:11:34.05,0:11:37.33,Default,NTP,0000,0000,0000,,土卫三十五距离土星环垂直距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the moon Daphnis has carved a vertical peak,
+Dialogue: 0,0:11:37.33,0:11:40.15,Default,NTP,0000,0000,0000,,超过两点五英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is over 2 1/2 miles high.
+Dialogue: 0,0:11:41.95,0:11:46.01,Default,NTP,0000,0000,0000,,卫星在运行过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The moons are interacting with Saturn's rings, in such a way,
+Dialogue: 0,0:11:45.52,0:11:49.20,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克利福德·约翰逊\N南加州大学
+Dialogue: 0,0:11:46.01,0:11:47.36,Default,NTP,0000,0000,0000,,与土星环之间的相互作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as to either pull material
+Dialogue: 0,0:11:47.36,0:11:50.81,Default,NTP,0000,0000,0000,,可以将物质排斥远离光环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}slightly above the ring or below the ring
+Dialogue: 0,0:11:50.81,0:11:52.07,Default,NTP,0000,0000,0000,,也可吸引入光环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the moon goes round,
+Dialogue: 0,0:11:52.07,0:11:56.71,Default,NTP,0000,0000,0000,,因为其运行轨道和光环自身轨道不太一致\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because its orbit doesn't quite match that of the ring itself.
+Dialogue: 0,0:11:59.81,0:12:02.06,Default,NTP,0000,0000,0000,,环绕着土星的光环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ring system surrounding Saturn
+Dialogue: 0,0:12:02.06,0:12:04.25,Default,NTP,0000,0000,0000,,堪称壮丽之景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a spectacular sight.
+Dialogue: 0,0:12:05.52,0:12:07.41,Default,NTP,0000,0000,0000,,但在临近星球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But on a neighboring planet,
+Dialogue: 0,0:12:08.74,0:12:10.83,Default,NTP,0000,0000,0000,,却又是另一番景象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's a very different scene,
+Dialogue: 0,0:12:10.83,0:12:14.12,Default,NTP,0000,0000,0000,,巨大的让人难以置信的景象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one almost too monstrous to believe.
+Dialogue: 0,0:12:14.60,0:12:17.17,Default,NTP,0000,0000,0000,,这在我们七大奇观中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's number five in our countdown
+Dialogue: 0,0:12:17.17,0:12:19.64,Default,NTP,0000,0000,0000,,排名第五\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the seven amazing wonders,
+Dialogue: 0,0:12:19.72,0:12:21.41,Default,NTP,0000,0000,0000,,这是个超级旋风圈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A raging storm,
+Dialogue: 0,0:12:21.41,0:12:24.75,Default,NTP,0000,0000,0000,,它几乎可以圈下三个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's nearly three times the size of Earth.
+Dialogue: 0,0:12:30.00,0:12:31.81,Default,NTP,0000,0000,0000,,我们将继续\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we continue our countdown
+Dialogue: 0,0:12:31.81,0:12:34.69,Default,NTP,0000,0000,0000,,探索太阳系七大奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the seven wonders of our Solar System,
+Dialogue: 0,0:12:36.76,0:12:40.70,Default,NTP,0000,0000,0000,,我们已经探索过了第七奇观  土二卫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We leave behind number seven, Enceladus
+Dialogue: 0,0:12:41.48,0:12:45.50,Default,NTP,0000,0000,0000,,和第六奇观  土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and number six, The Rings of Saturn.
+Dialogue: 0,0:12:46.93,0:12:48.68,Default,NTP,0000,0000,0000,,下面我们冲击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We now blast off
+Dialogue: 0,0:12:50.94,0:12:52.77,Default,NTP,0000,0000,0000,,第五奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to number five,
+Dialogue: 0,0:12:53.69,0:12:57.99,Default,NTP,0000,0000,0000,,木星大红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter's Great Red Spot.
+Dialogue: 0,0:13:05.48,0:13:07.77,Default,NTP,0000,0000,0000,,这个超级风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This mother of all storms
+Dialogue: 0,0:13:07.77,0:13:10.93,Default,NTP,0000,0000,0000,,足以圈下三个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is about three times the size of Earth.
+Dialogue: 0,0:13:13.20,0:13:14.83,Default,NTP,0000,0000,0000,,我们还无法探知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't know exactly
+Dialogue: 0,0:13:15.53,0:13:19.21,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹丽\N格里菲思天文台
+Dialogue: 0,0:13:14.83,0:13:16.18,Default,NTP,0000,0000,0000,,大红斑是如何形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how the Red Spot formed.
+Dialogue: 0,0:13:16.22,0:13:18.26,Default,NTP,0000,0000,0000,,自人类观测开始它就已经存在了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's been there as long as we've been looking,
+Dialogue: 0,0:13:18.84,0:13:21.04,Default,NTP,0000,0000,0000,,可以上溯至十七世纪五十年代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as far back as the 1650s.
+Dialogue: 0,0:13:22.46,0:13:24.17,Default,NTP,0000,0000,0000,,所以说在我们对其探索研究之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it was there before we started
+Dialogue: 0,0:13:24.17,0:13:25.73,Default,NTP,0000,0000,0000,,它就存在了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}really paying attention.
+Dialogue: 0,0:13:28.26,0:13:29.70,Default,NTP,0000,0000,0000,,大红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Great Red Spot
+Dialogue: 0,0:13:29.70,0:13:31.79,Default,NTP,0000,0000,0000,,事实上是种远古风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is actually an ancient storm
+Dialogue: 0,0:13:31.79,0:13:34.49,Default,NTP,0000,0000,0000,,它已猛烈的旋转了几个世纪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's been spinning wildly for centuries.
+Dialogue: 0,0:13:35.06,0:13:36.90,Default,NTP,0000,0000,0000,,这个巨型的漩涡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The super-sized vortex
+Dialogue: 0,0:13:36.90,0:13:40.40,Default,NTP,0000,0000,0000,,高耸于木星云层之上五英里处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}towers five miles above the planet's cloud tops
+Dialogue: 0,0:13:40.87,0:13:43.83,Default,NTP,0000,0000,0000,,但低于地球上任何风暴系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and dwarfs any storm system on Earth.
+Dialogue: 0,0:13:45.49,0:13:47.32,Default,NTP,0000,0000,0000,,据推测  木星大红斑内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The 400-mile-an-hour winds
+Dialogue: 0,0:13:47.32,0:13:49.17,Default,NTP,0000,0000,0000,,风速达到了四百英里每小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}measured in Jupiter's Great Red Spot
+Dialogue: 0,0:13:49.17,0:13:52.45,Default,NTP,0000,0000,0000,,比地球上最强劲龙卷风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are faster than some of the most powerful winds
+Dialogue: 0,0:13:51.28,0:13:55.00,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾米·梅泽\N美国宇航局  喷气推进实验室
+Dialogue: 0,0:13:52.45,0:13:54.55,Default,NTP,0000,0000,0000,,的速度还要快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}measured in tornadoes here on Earth.
+Dialogue: 0,0:13:54.73,0:13:56.54,Default,NTP,0000,0000,0000,,然而地球上的龙卷风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet, tornadoes on Earth only last,
+Dialogue: 0,0:13:56.54,0:13:57.92,Default,NTP,0000,0000,0000,,仅仅持续十几分钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe a few tens of minutes
+Dialogue: 0,0:13:57.92,0:13:59.65,Default,NTP,0000,0000,0000,,至多几个小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or at most a couple of hours,
+Dialogue: 0,0:13:59.65,0:14:01.38,Default,NTP,0000,0000,0000,,但是木星大红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whereas Jupiter's Great Red Spot's
+Dialogue: 0,0:14:01.38,0:14:04.02,Default,NTP,0000,0000,0000,,已经猛烈的运动了至少四百年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}been going strong for at least 400 years,
+Dialogue: 0,0:14:04.02,0:14:06.20,Default,NTP,0000,0000,0000,,而且大小相当于三个地球那么大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's three times the size of Earth.
+Dialogue: 0,0:14:06.57,0:14:08.87,Default,NTP,0000,0000,0000,,你一定不想困进去吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now that's one storm you don't want to get caught in.
+Dialogue: 0,0:14:11.84,0:14:14.86,Default,NTP,0000,0000,0000,,地球南半球大多数热带风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most tropical storms in Earth's southern hemisphere
+Dialogue: 0,0:14:14.86,0:14:18.26,Default,NTP,0000,0000,0000,,是和地球一样顺时针旋转的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spin clockwise as our planet rotates.
+Dialogue: 0,0:14:19.91,0:14:22.31,Default,NTP,0000,0000,0000,,但是木星大红斑的运行轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But on Jupiter, the Great Red Spot
+Dialogue: 0,0:14:22.31,0:14:24.76,Default,NTP,0000,0000,0000,,却与众不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}follows an unearthly path.
+Dialogue: 0,0:14:26.54,0:14:28.00,Default,NTP,0000,0000,0000,,木星大红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Great Red Spot,
+Dialogue: 0,0:14:28.00,0:14:30.18,Default,NTP,0000,0000,0000,,位于木星南半球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is in Jupiter's southern hemisphere,
+Dialogue: 0,0:14:31.92,0:14:35.58,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学  伯克利分校
+Dialogue: 0,0:14:30.18,0:14:32.48,Default,NTP,0000,0000,0000,,是逆时针旋转的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rotates counterclockwise.
+Dialogue: 0,0:14:32.48,0:14:34.42,Default,NTP,0000,0000,0000,,这属于反气旋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's anticyclonic,
+Dialogue: 0,0:14:34.42,0:14:37.15,Default,NTP,0000,0000,0000,,这是因为木星上是高气压系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's because it's a high pressure system,
+Dialogue: 0,0:14:37.15,0:14:40.03,Default,NTP,0000,0000,0000,,不像地球上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}unlike the low pressure systems here on Earth,
+Dialogue: 0,0:14:40.03,0:14:41.80,Default,NTP,0000,0000,0000,,常伴随有风暴的低气压\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}associated with storms.
+Dialogue: 0,0:14:42.19,0:14:44.14,Default,NTP,0000,0000,0000,,因此高气压中的气流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when you have a high-pressure system,
+Dialogue: 0,0:14:44.14,0:14:45.85,Default,NTP,0000,0000,0000,,方向也就自然而然的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the airflow is naturally
+Dialogue: 0,0:14:45.85,0:14:48.83,Default,NTP,0000,0000,0000,,与低气压系统的方向相反了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the opposite to that of a low-pressure system.
+Dialogue: 0,0:14:51.48,0:14:53.61,Default,NTP,0000,0000,0000,,这个远古风暴团的起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The origin of this long-lived storm
+Dialogue: 0,0:14:53.61,0:14:55.85,Default,NTP,0000,0000,0000,,使天文学家们深表疑惑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has baffled astronomers.
+Dialogue: 0,0:14:55.91,0:14:58.40,Default,NTP,0000,0000,0000,,但现在  这个风暴团的神秘面纱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But now, science may be on the verge
+Dialogue: 0,0:14:58.40,0:15:01.36,Default,NTP,0000,0000,0000,,即将被揭开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of unraveling its stormy secrets.
+Dialogue: 0,0:15:03.39,0:15:05.06,Default,NTP,0000,0000,0000,,哈勃太空望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Hubble space telescope
+Dialogue: 0,0:15:05.06,0:15:07.88,Default,NTP,0000,0000,0000,,近日拍下了木星上三个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}recently snapped images of three smaller storms
+Dialogue: 0,0:15:07.88,0:15:10.37,Default,NTP,0000,0000,0000,,被称为白斑的小型风暴团的图像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on Jupiter called white spots.
+Dialogue: 0,0:15:09.28,0:15:16.02,Default,NTP,0000,0000,0000,,{\an8}白斑
+Dialogue: 0,0:15:10.98,0:15:12.61,Default,NTP,0000,0000,0000,,三年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within three years,
+Dialogue: 0,0:15:12.61,0:15:14.96,Default,NTP,0000,0000,0000,,这三个白斑相互融合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the three white spots merged
+Dialogue: 0,0:15:14.96,0:15:17.87,Default,NTP,0000,0000,0000,,形成一个与地球大小相同的风暴团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to form one Earth-size storm.
+Dialogue: 0,0:15:18.75,0:15:21.62,Default,NTP,0000,0000,0000,,然后  出乎所有人预料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then, the unexpected happened.
+Dialogue: 0,0:15:22.05,0:15:24.38,Default,NTP,0000,0000,0000,,仅过了一周\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over the course of only about a week,
+Dialogue: 0,0:15:24.63,0:15:27.59,Default,NTP,0000,0000,0000,,风暴团就从白色转变成亮红色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the storm turned from white to bright red.
+Dialogue: 0,0:15:27.96,0:15:29.39,Default,NTP,0000,0000,0000,,我们称之为椭圆二号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's now known as Oval BA
+Dialogue: 0,0:15:29.39,0:15:30.93,Default,NTP,0000,0000,0000,,有时也称为小红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or sometimes Red Junior.
+Dialogue: 0,0:15:31.34,0:15:37.67,Default,NTP,0000,0000,0000,,{\an4}小红斑
+Dialogue: 0,0:15:32.19,0:15:33.08,Default,NTP,0000,0000,0000,,它为何会变红\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why it turned red
+Dialogue: 0,0:15:33.08,0:15:34.35,Default,NTP,0000,0000,0000,,又是如何变红的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and exactly how that happened
+Dialogue: 0,0:15:34.35,0:15:35.65,Default,NTP,0000,0000,0000,,现在还无从知晓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is still a mystery.
+Dialogue: 0,0:15:39.41,0:15:42.40,Default,NTP,0000,0000,0000,,现在天文学家怀疑类似的合并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers now suspect a similar merger
+Dialogue: 0,0:15:42.40,0:15:45.26,Default,NTP,0000,0000,0000,,可能就是大红斑的成因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may have also created the Great Red Spot.
+Dialogue: 0,0:15:45.86,0:15:47.74,Default,NTP,0000,0000,0000,,这过程与小红斑相似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And like red junior,
+Dialogue: 0,0:15:47.74,0:15:50.86,Default,NTP,0000,0000,0000,,猛烈的风暴团最初呈现白色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ferocious storm may have originally been white.
+Dialogue: 0,0:15:52.57,0:15:54.84,Default,NTP,0000,0000,0000,,但随着它的速度加快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as its speed grew faster,
+Dialogue: 0,0:15:54.84,0:15:56.68,Default,NTP,0000,0000,0000,,它开始把来自木星大气层深处的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}i began dredging up material
+Dialogue: 0,0:15:56.68,0:15:59.33,Default,NTP,0000,0000,0000,,一些物质吸收上来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from deep in Jupiter's atmosphere.
+Dialogue: 0,0:15:59.56,0:16:00.99,Default,NTP,0000,0000,0000,,其中一种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the compounds
+Dialogue: 0,0:16:00.99,0:16:03.52,Default,NTP,0000,0000,0000,,可能是硫的某种化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could actually be a form of sulfur.
+Dialogue: 0,0:16:04.52,0:16:06.73,Default,NTP,0000,0000,0000,,我们还不完全清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't fully understand
+Dialogue: 0,0:16:05.66,0:16:09.21,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格里·朗林\N加州大学  圣克鲁斯分校
+Dialogue: 0,0:16:06.73,0:16:10.25,Default,NTP,0000,0000,0000,,大红斑为何成砖红色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}why the red spot has its characteristic Brick red color,
+Dialogue: 0,0:16:10.25,0:16:13.02,Default,NTP,0000,0000,0000,,也许是其中的化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but probably there are chemical compounds
+Dialogue: 0,0:16:13.02,0:16:15.61,Default,NTP,0000,0000,0000,,与阳光产生反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which are reacting with the sunlight
+Dialogue: 0,0:16:15.84,0:16:17.94,Default,NTP,0000,0000,0000,,从而形成了这种颜色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and are giving it this color.
+Dialogue: 0,0:16:22.01,0:16:25.90,Default,NTP,0000,0000,0000,,天文学家一直在密切关注大红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers have been closely monitoring the Great Red Spot,
+Dialogue: 0,0:16:26.50,0:16:28.31,Default,NTP,0000,0000,0000,,在最近十年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and in the last decade
+Dialogue: 0,0:16:28.31,0:16:31.31,Default,NTP,0000,0000,0000,,他们观测到一个惊人变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they have detected an astonishing change.
+Dialogue: 0,0:16:32.23,0:16:34.27,Default,NTP,0000,0000,0000,,我们观测到大红斑一直在萎缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've been watching the Great Red Spot shrink,
+Dialogue: 0,0:16:34.27,0:16:36.96,Default,NTP,0000,0000,0000,,而且变得越来越园\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and actually become rounder for some time now.
+Dialogue: 0,0:16:37.76,0:16:40.27,Default,NTP,0000,0000,0000,,谁知道它会不会再存在四百年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Who knows if it's going to persist for another 400 years
+Dialogue: 0,0:16:40.27,0:16:42.12,Default,NTP,0000,0000,0000,,或许会完全消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or maybe disappear entirely.
+Dialogue: 0,0:16:44.83,0:16:46.93,Default,NTP,0000,0000,0000,,大红斑是太阳系中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Great Red Spot is by far
+Dialogue: 0,0:16:46.93,0:16:49.51,Default,NTP,0000,0000,0000,,迄今为止最大的风暴团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the biggest storm in our Solar System.
+Dialogue: 0,0:16:51.20,0:16:53.04,Default,NTP,0000,0000,0000,,离开木星之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But after leaving Jupiter,
+Dialogue: 0,0:16:53.95,0:16:56.18,Default,NTP,0000,0000,0000,,我们向太阳的方向\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}qe head about 200 million miles
+Dialogue: 0,0:16:56.18,0:16:58.20,Default,NTP,0000,0000,0000,,继续前进两亿英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the direction of the sun,
+Dialogue: 0,0:16:58.69,0:17:00.19,Default,NTP,0000,0000,0000,,与另一奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and have a close encounter
+Dialogue: 0,0:17:00.19,0:17:03.06,Default,NTP,0000,0000,0000,,来一次亲密接触\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with another barely believable wonder.
+Dialogue: 0,0:17:05.42,0:17:06.88,Default,NTP,0000,0000,0000,,第四奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Number four,
+Dialogue: 0,0:17:07.75,0:17:09.81,Default,NTP,0000,0000,0000,,小行星带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Asteroid Belt.
+Dialogue: 0,0:17:16.98,0:17:18.82,Default,NTP,0000,0000,0000,,科学家们希望了解更多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists want to know more
+Dialogue: 0,0:17:18.82,0:17:22.88,Default,NTP,0000,0000,0000,,关于这片小行星堆的起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about the origin of this cosmic junkyard of wayward debris,
+Dialogue: 0,0:17:23.45,0:17:26.80,Default,NTP,0000,0000,0000,,这些碎片在太阳系形成伊始就存在了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is left over from the formation of the Solar System.
+Dialogue: 0,0:17:28.55,0:17:29.95,Default,NTP,0000,0000,0000,,很长一段时间内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For a long time
+Dialogue: 0,0:17:30.07,0:17:31.40,Default,NTP,0000,0000,0000,,我们都以为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we thought that, maybe, there had been
+Dialogue: 0,0:17:31.40,0:17:33.04,Default,NTP,0000,0000,0000,,是某颗星球爆裂形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a planet there that got pulverized,
+Dialogue: 0,0:17:33.04,0:17:36.39,Default,NTP,0000,0000,0000,,是某场大灾难的遗迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}qnd we were just seeing the debris of some major catastrophe.
+Dialogue: 0,0:17:36.44,0:17:38.82,Default,NTP,0000,0000,0000,,我们现在逐渐意识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we pretty much now realize
+Dialogue: 0,0:17:38.82,0:17:41.99,Default,NTP,0000,0000,0000,,在那片区域不可能存在行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that a planet never was able to form there.
+Dialogue: 0,0:17:42.45,0:17:45.20,Default,NTP,0000,0000,0000,,来自木星和其它星球的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gravitational pull from Jupiter and the other planets
+Dialogue: 0,0:17:45.20,0:17:49.67,Default,NTP,0000,0000,0000,,不可能让物质合成新行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just made it impossible for material to coalesce into a planet.
+Dialogue: 0,0:17:52.58,0:17:56.18,Default,NTP,0000,0000,0000,,在这片一亿英里宽的小行星带中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We traverse through 100 million miles of rocks,
+Dialogue: 0,0:17:56.77,0:17:59.40,Default,NTP,0000,0000,0000,,有的小行星直径只有几英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some as small as several feet,
+Dialogue: 0,0:17:59.43,0:18:01.95,Default,NTP,0000,0000,0000,,有的直径比城市还大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}others bigger than cities.
+Dialogue: 0,0:18:03.56,0:18:07.41,Default,NTP,0000,0000,0000,,这片区域可能含有数百万的小行星碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The belt probably contains millions of rocky pieces.
+Dialogue: 0,0:18:07.98,0:18:09.71,Default,NTP,0000,0000,0000,,然而  如果所有的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet, if all the asteroids
+Dialogue: 0,0:18:09.71,0:18:11.84,Default,NTP,0000,0000,0000,,被压缩成一个整体的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were condensed into one boulder,
+Dialogue: 0,0:18:11.84,0:18:14.53,Default,NTP,0000,0000,0000,,可能比月球还小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be smaller than our Moon.
+Dialogue: 0,0:18:16.10,0:18:17.52,Default,NTP,0000,0000,0000,,研究这些小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can start to learn more about
+Dialogue: 0,0:18:17.52,0:18:19.11,Default,NTP,0000,0000,0000,,有助于帮我们了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the history of our Solar System
+Dialogue: 0,0:18:19.11,0:18:23.07,Default,NTP,0000,0000,0000,,太阳系的起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by studying the small bodies in our Solar System: the Asteroids.
+Dialogue: 0,0:18:23.07,0:18:25.15,Default,NTP,0000,0000,0000,,我们希望了解它们是如何运行的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'd like to know how they moved around,
+Dialogue: 0,0:18:25.20,0:18:27.63,Default,NTP,0000,0000,0000,,如何受巨大行星影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how were they affected by the giant planets,
+Dialogue: 0,0:18:27.84,0:18:29.15,Default,NTP,0000,0000,0000,,还有它们最终命运会如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and what is their ultimate fate?
+Dialogue: 0,0:18:29.15,0:18:30.24,Default,NTP,0000,0000,0000,,会变成什么形态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What will happen to them?
+Dialogue: 0,0:18:32.74,0:18:34.14,Default,NTP,0000,0000,0000,,陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Meteorite!
+Dialogue: 0,0:18:34.14,0:18:36.78,Default,NTP,0000,0000,0000,,商业电影中小行星带被描绘成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Popular movies have portrayed the Asteroid Belt
+Dialogue: 0,0:18:36.78,0:18:39.01,Default,NTP,0000,0000,0000,,宇宙陨石集中地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as a cosmic obstacle course,
+Dialogue: 0,0:18:39.01,0:18:41.99,Default,NTP,0000,0000,0000,,在这里太空船需要闪避巨大陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a place where spaceships dodge enormous boulders
+Dialogue: 0,0:18:41.99,0:18:45.12,Default,NTP,0000,0000,0000,,陨石在坠入大气撞击地球之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that constantly collide and jostle for position
+Dialogue: 0,0:18:45.12,0:18:49.28,Default,NTP,0000,0000,0000,,会不断互撞而争夺轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before hurtling down from space to destroy planet Earth.
+Dialogue: 0,0:18:50.70,0:18:53.14,Default,NTP,0000,0000,0000,,但好莱坞电影描述的正确吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But has Hollywood gotten it wrong?
+Dialogue: 0,0:18:54.49,0:18:57.42,Default,NTP,0000,0000,0000,,小行星带有多么拥挤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How congested is the Asteroid Belt?
+Dialogue: 0,0:18:58.96,0:19:02.92,Default,NTP,0000,0000,0000,,这是一位观众最想知道的宇宙秘密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what one viewer wanted to ask the universe.
+Dialogue: 0,0:19:02.92,0:19:06.65,Default,NTP,0000,0000,0000,,密苏里州肯萨斯市的乔·T.向我们发来短信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So Joel T. From Kansas City, Missouri texted us...
+Dialogue: 0,0:19:06.75,0:19:12.31,Default,NTP,0000,0000,0000,,电影是否准确反映出小行星带真实模样
+Dialogue: 0,0:19:12.59,0:19:14.30,Default,NTP,0000,0000,0000,,感谢乔的提问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks for the question, Joel.
+Dialogue: 0,0:19:14.30,0:19:15.50,Default,NTP,0000,0000,0000,,我知道这有点震惊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I know this is a bit shocking,
+Dialogue: 0,0:19:15.50,0:19:17.98,Default,NTP,0000,0000,0000,,但大多数商业电影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the Asteroid Belt hasn't always been portrayed
+Dialogue: 0,0:19:17.98,0:19:20.70,Default,NTP,0000,0000,0000,,对小行星带的描绘有严重偏差\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}terribly accurately in most blockbuster movies.
+Dialogue: 0,0:19:20.72,0:19:22.27,Default,NTP,0000,0000,0000,,如果你在太阳系小行星带中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were orbiting an asteroid
+Dialogue: 0,0:19:22.27,0:19:24.66,Default,NTP,0000,0000,0000,,随轨道运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}inside our Solar System's Asteroid Belt,
+Dialogue: 0,0:19:24.88,0:19:25.93,Default,NTP,0000,0000,0000,,你无法察觉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You wouldn't be able to see
+Dialogue: 0,0:19:25.93,0:19:28.32,Default,NTP,0000,0000,0000,,这些坑坑洼洼的巨型小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}big cratered surfaces of other asteroids
+Dialogue: 0,0:19:28.32,0:19:29.80,Default,NTP,0000,0000,0000,,向你飞来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}flying right next to you.
+Dialogue: 0,0:19:29.87,0:19:31.49,Default,NTP,0000,0000,0000,,事实上  它们看上去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, they probably look
+Dialogue: 0,0:19:31.49,0:19:33.75,Default,NTP,0000,0000,0000,,就像是星星点点的灯火\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like distant points of light.
+Dialogue: 0,0:19:33.99,0:19:35.90,Default,NTP,0000,0000,0000,,因为小行星带中绝大多数小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's because the average separations
+Dialogue: 0,0:19:35.90,0:19:37.90,Default,NTP,0000,0000,0000,,相互之间平均距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between most asteroids in the Asteroid Belt
+Dialogue: 0,0:19:37.90,0:19:40.37,Default,NTP,0000,0000,0000,,远远超出它们的实际大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are much larger than their actual sizes.
+Dialogue: 0,0:19:40.48,0:19:42.62,Default,NTP,0000,0000,0000,,所以它们看起来非常渺小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they'd really just look like dots.
+Dialogue: 0,0:19:42.74,0:19:44.81,Default,NTP,0000,0000,0000,,宇宙秘密
+Dialogue: 0,0:19:47.97,0:19:50.36,Default,NTP,0000,0000,0000,,事实上  两颗小行星之间平均距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, an average distance
+Dialogue: 0,0:19:50.36,0:19:54.11,Default,NTP,0000,0000,0000,,大约一百万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between two asteroids can be one million miles.
+Dialogue: 0,0:19:55.41,0:19:59.78,Default,NTP,0000,0000,0000,,然而在这些奇形怪状的陨石中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, among this spacious sea of odd-shaped rocks,
+Dialogue: 0,0:20:00.09,0:20:02.18,Default,NTP,0000,0000,0000,,也存在一个圆球形天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exists a round ball.
+Dialogue: 0,0:20:04.10,0:20:08.11,Default,NTP,0000,0000,0000,,谷神星是太阳系中最大的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ceres is the biggest asteroid in the Solar System.
+Dialogue: 0,0:20:08.40,0:20:11.13,Default,NTP,0000,0000,0000,,这块直径六百英里的巨型陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The awesome 600-mile wide rock
+Dialogue: 0,0:20:11.13,0:20:15.62,Default,NTP,0000,0000,0000,,占小行星带总质量的四分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}contains a fourth of the entire mass of the Asteroid Belt.
+Dialogue: 0,0:20:17.55,0:20:19.04,Default,NTP,0000,0000,0000,,小行星带中大多数小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most asteroids in the Asteroid Belt
+Dialogue: 0,0:20:19.04,0:20:20.18,Default,NTP,0000,0000,0000,,都成块状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are lumpy shaped,
+Dialogue: 0,0:20:20.18,0:20:21.85,Default,NTP,0000,0000,0000,,有点像土豆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}kind of like potatoes,
+Dialogue: 0,0:20:21.85,0:20:23.49,Default,NTP,0000,0000,0000,,但谷神星不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but Ceres is different.
+Dialogue: 0,0:20:23.49,0:20:26.18,Default,NTP,0000,0000,0000,,事实上  它非常庞大  拥有足够质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's actually big enough to have enough mass,
+Dialogue: 0,0:20:26.18,0:20:27.48,Default,NTP,0000,0000,0000,,与重力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to have enough gravity,
+Dialogue: 0,0:20:27.48,0:20:30.07,Default,NTP,0000,0000,0000,,使其成圆形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to crush itself into a round shape.
+Dialogue: 0,0:20:31.75,0:20:33.79,Default,NTP,0000,0000,0000,,鉴于它独特的圆形特征\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because of its spherical shape,
+Dialogue: 0,0:20:33.79,0:20:35.58,Default,NTP,0000,0000,0000,,谷神星升级了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ceres was upgraded.
+Dialogue: 0,0:20:36.50,0:20:39.80,Default,NTP,0000,0000,0000,,最近科学家们把它列为矮行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists recently listed it as a Dwarf Planet,
+Dialogue: 0,0:20:39.92,0:20:42.59,Default,NTP,0000,0000,0000,,和冥王星的分级一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the same designation given to Pluto.
+Dialogue: 0,0:20:44.06,0:20:48.37,Default,NTP,0000,0000,0000,,现在人们的观点是  它的规模太小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The modern view of Ceres is that it's not big enough
+Dialogue: 0,0:20:48.37,0:20:50.87,Default,NTP,0000,0000,0000,,还不足以称之为星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be called a genuine planet,
+Dialogue: 0,0:20:50.87,0:20:53.32,Default,NTP,0000,0000,0000,,但其质量足够大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it is big enough for it to have formed
+Dialogue: 0,0:20:53.32,0:20:55.31,Default,NTP,0000,0000,0000,,以形成近球状外形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a roughly spherical shape,
+Dialogue: 0,0:20:55.59,0:20:58.50,Default,NTP,0000,0000,0000,,但还不足以成为一颗真正的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but not big enough to be a true planet.
+Dialogue: 0,0:21:02.80,0:21:04.26,Default,NTP,0000,0000,0000,,这个第四奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This fourth wonder
+Dialogue: 0,0:21:04.26,0:21:06.17,Default,NTP,0000,0000,0000,,不仅是太阳系形成初始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not only holds unique artifacts
+Dialogue: 0,0:21:06.17,0:21:08.63,Default,NTP,0000,0000,0000,,就遗留下来的独特产物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fFrom the formation of our Solar System,
+Dialogue: 0,0:21:09.35,0:21:13.23,Default,NTP,0000,0000,0000,,更是潜在大规模杀伤性武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it also harbors potential weapons of mass destruction.
+Dialogue: 0,0:21:14.39,0:21:16.05,Default,NTP,0000,0000,0000,,许多小行星脱离了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many asteroids have escaped
+Dialogue: 0,0:21:16.05,0:21:18.71,Default,NTP,0000,0000,0000,,小行星带的束缚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the confine of the Asteroid Belt.
+Dialogue: 0,0:21:19.10,0:21:20.87,Default,NTP,0000,0000,0000,,某个时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And at any moment,
+Dialogue: 0,0:21:20.87,0:21:22.80,Default,NTP,0000,0000,0000,,这些离群的太空陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of these rogue space rocks
+Dialogue: 0,0:21:22.80,0:21:24.59,Default,NTP,0000,0000,0000,,可能会导致悲剧重演\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could repeat history,
+Dialogue: 0,0:21:25.28,0:21:28.80,Default,NTP,0000,0000,0000,,没人能存活下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and no one will live to talk about it.
+Dialogue: 0,0:21:34.42,0:21:35.42,Default,NTP,0000,0000,0000,,目前为止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So far,
+Dialogue: 0,0:21:35.42,0:21:37.34,Default,NTP,0000,0000,0000,,我们已经领略了太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our journey through the seven wonders
+Dialogue: 0,0:21:37.34,0:21:40.82,Default,NTP,0000,0000,0000,,七大奇观之中的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the Solar System has taken us
+Dialogue: 0,0:21:41.00,0:21:43.26,Default,NTP,0000,0000,0000,,土卫二间歇冰泉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the geysers of Enceladus,
+Dialogue: 0,0:21:43.26,0:21:45.13,Default,NTP,0000,0000,0000,,土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Rings of Saturn
+Dialogue: 0,0:21:45.86,0:21:48.73,Default,NTP,0000,0000,0000,,以及木星大红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Great Red Spot on Jupiter.
+Dialogue: 0,0:21:49.30,0:21:53.48,Default,NTP,0000,0000,0000,,现在  我们继续探索太阳系第四大奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, we continue to travel through the fourth of our wonders,
+Dialogue: 0,0:21:53.48,0:21:55.51,Default,NTP,0000,0000,0000,,小行星带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Asteroid Belt.
+Dialogue: 0,0:21:56.82,0:22:01.49,Default,NTP,0000,0000,0000,,这些远古遗物曾被搬上大银幕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This band of leftover debris has even made it to the big screen,
+Dialogue: 0,0:22:04.14,0:22:07.03,Default,NTP,0000,0000,0000,,最令好莱坞着迷的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the rocks Hollywood is obsessed with the most
+Dialogue: 0,0:22:08.06,0:22:11.16,Default,NTP,0000,0000,0000,,是那些脱离小行星带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are those that escape the Asteroid Belt
+Dialogue: 0,0:22:11.44,0:22:13.63,Default,NTP,0000,0000,0000,,撞击地球的天外陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and head for planet Earth.
+Dialogue: 0,0:22:21.27,0:22:23.84,Default,NTP,0000,0000,0000,,近地天体是指\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Near-Earth Objects or NEOs
+Dialogue: 0,0:22:23.84,0:22:27.24,Default,NTP,0000,0000,0000,,几乎每天都光临地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are cosmic rocks like asteroids or comets,
+Dialogue: 0,0:22:27.40,0:22:30.23,Default,NTP,0000,0000,0000,,外太空岩石  例如小行星或者彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which strike Earth almost every day.
+Dialogue: 0,0:22:31.43,0:22:34.31,Default,NTP,0000,0000,0000,,我们确实对近地天体很感兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're really very interested in Near-Earth Objects,
+Dialogue: 0,0:22:34.31,0:22:38.47,Default,NTP,0000,0000,0000,,关注那些穿过地球公转轨道的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}objects that pass across the orbit of the Earth around the sun
+Dialogue: 0,0:22:39.35,0:22:43.57,Default,NTP,0000,0000,0000,,因为它们撞击地球的几率非常大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because occasionally they can and do collide with the Earth,
+Dialogue: 0,0:22:41.44,0:22:44.99,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学  伯克利分校
+Dialogue: 0,0:22:43.57,0:22:48.47,Default,NTP,0000,0000,0000,,如果足够大  则可能对地球造成大面积破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if they're big enough they can cause vast destruction here on Earth.
+Dialogue: 0,0:22:51.25,0:22:54.25,Default,NTP,0000,0000,0000,,2010年4月14日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On April 14, 2010,
+Dialogue: 0,0:22:54.45,0:22:57.95,Default,NTP,0000,0000,0000,,有镜头捕捉到一直径三英尺的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cameras caught sight of a 3-foot fiery asteroid
+Dialogue: 0,0:22:57.95,0:23:00.92,Default,NTP,0000,0000,0000,,从美国中西部天空呼啸划过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}streaming over the Midwestern United States.
+Dialogue: 0,0:23:01.95,0:23:05.59,Default,NTP,0000,0000,0000,,幸运的是  在它撞到地面前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately, the cosmic rock broke into tiny pieces
+Dialogue: 0,0:23:05.59,0:23:07.38,Default,NTP,0000,0000,0000,,就已碎裂成小块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before hitting the ground.
+Dialogue: 0,0:23:10.32,0:23:13.02,Default,NTP,0000,0000,0000,,{\an8}美国  亚利桑那州
+Dialogue: 0,0:23:13.39,0:23:15.65,Default,NTP,0000,0000,0000,,{\an8}澳大利亚西部
+Dialogue: 0,0:23:09.32,0:23:10.67,Default,NTP,0000,0000,0000,,但在过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in the past,
+Dialogue: 0,0:23:10.67,0:23:14.54,Default,NTP,0000,0000,0000,,小行星撞击曾形成巨大陨坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}large asteroid impacts have created gigantic craters,
+Dialogue: 0,0:23:16.22,0:23:17.70,Default,NTP,0000,0000,0000,,{\an8}加拿大  魁北克
+Dialogue: 0,0:23:18.11,0:23:20.98,Default,NTP,0000,0000,0000,,甚至导致了大规模物种灭绝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and even triggered mass extinction events
+Dialogue: 0,0:23:20.98,0:23:25.25,Default,NTP,0000,0000,0000,,比如导致恐龙灭绝的希克苏鲁伯小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like the Chicxulub asteroid that killed off the dinosaurs.
+Dialogue: 0,0:23:26.47,0:23:28.23,Default,NTP,0000,0000,0000,,在过去的十多亿年中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over the last billions of years,
+Dialogue: 0,0:23:28.23,0:23:32.61,Default,NTP,0000,0000,0000,,地球被大小不一的小行星撞击过无数次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth has been hit many times by asteroids of various sizes.
+Dialogue: 0,0:23:32.81,0:23:36.69,Default,NTP,0000,0000,0000,,大约6.5亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The impact that occurred roughly 65 million years ago
+Dialogue: 0,0:23:35.67,0:23:39.23,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格瑞格·拉夫林\N加州大学  圣克鲁兹分校
+Dialogue: 0,0:23:36.69,0:23:38.66,Default,NTP,0000,0000,0000,,一颗直径大约大约六英里的的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that perhaps wiped out the dinosaurs
+Dialogue: 0,0:23:38.66,0:23:42.05,Default,NTP,0000,0000,0000,,撞向了今日墨西哥的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was an example of something that was about six miles across
+Dialogue: 0,0:23:42.05,0:23:44.33,Default,NTP,0000,0000,0000,,促使恐龙灭亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that slammed into, what is now Mexico,
+Dialogue: 0,0:23:44.33,0:23:47.66,Default,NTP,0000,0000,0000,,对全球造成了难以想象的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and caused huge global ramifications for the Earth.
+Dialogue: 0,0:23:52.73,0:23:55.76,Default,NTP,0000,0000,0000,,目前  一系列最新太空研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A number of new space surveys are currently tracking
+Dialogue: 0,0:23:55.76,0:23:57.19,Default,NTP,0000,0000,0000,,正在追踪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all Near-Earth Objects
+Dialogue: 0,0:23:57.19,0:24:00.55,Default,NTP,0000,0000,0000,,所有足以摧毁一座现代城市的近地天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are large enough to destroy a modern city,
+Dialogue: 0,0:24:00.61,0:24:04.88,Default,NTP,0000,0000,0000,,其中一些甚至会导致全球性大灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or even worse, ignite a global catastrophe.
+Dialogue: 0,0:24:11.07,0:24:14.82,Default,NTP,0000,0000,0000,,我们已经追踪了所有直径超过一英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know of most of the objects that are larger than a mile
+Dialogue: 0,0:24:14.82,0:24:17.05,Default,NTP,0000,0000,0000,,而且运行轨道可能与地球相交的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can intersect the Earth's orbit,
+Dialogue: 0,0:24:17.05,0:24:18.72,Default,NTP,0000,0000,0000,,现在的目标是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so the effort now is going in to
+Dialogue: 0,0:24:18.72,0:24:21.67,Default,NTP,0000,0000,0000,,定位那些体育场大小的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}finding these sort of stadium-sized objects,
+Dialogue: 0,0:24:21.67,0:24:24.47,Default,NTP,0000,0000,0000,,虽然不足以毁灭地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that while not completely devastating to the entire Earth,
+Dialogue: 0,0:24:24.47,0:24:27.09,Default,NTP,0000,0000,0000,,但仍会对地球造成巨大影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be a huge deal if they hit the Earth.
+Dialogue: 0,0:24:37.55,0:24:40.53,Default,NTP,0000,0000,0000,,我们将小行星带留在身后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we leave behind the Asteroid Belt,
+Dialogue: 0,0:24:40.74,0:24:44.07,Default,NTP,0000,0000,0000,,驶向七大奇迹的下一站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we chart a course to the next of our seven wonders,
+Dialogue: 0,0:24:49.54,0:24:51.01,Default,NTP,0000,0000,0000,,第三奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}number three...
+Dialogue: 0,0:24:51.75,0:24:53.57,Default,NTP,0000,0000,0000,,火星奥林帕斯山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Olympus Mons.
+Dialogue: 0,0:24:53.57,0:24:57.00,Default,NTP,0000,0000,0000,,太阳系中最大的火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the largest volcano in the Solar System.
+Dialogue: 0,0:25:04.16,0:25:06.53,Default,NTP,0000,0000,0000,,离火星越来越近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As we approach the planet mars,
+Dialogue: 0,0:25:07.74,0:25:11.60,Default,NTP,0000,0000,0000,,这座硕大无朋的山体立刻吸引了我们的注意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we immediately catch sight of this mammoth mountain.
+Dialogue: 0,0:25:13.56,0:25:16.77,Default,NTP,0000,0000,0000,,山体底部直径大约350英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The base of it is about almost 350 miles across,
+Dialogue: 0,0:25:16.77,0:25:18.46,Default,NTP,0000,0000,0000,,这段距离相当于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's, as though, the base of the mountain
+Dialogue: 0,0:25:18.46,0:25:21.39,Default,NTP,0000,0000,0000,,从洛杉矶到旧金山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were from Los Angeles to San Francisco.
+Dialogue: 0,0:25:21.70,0:25:24.13,Default,NTP,0000,0000,0000,,所以虽然海拔很高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So even though it's so high,
+Dialogue: 0,0:25:24.57,0:25:26.93,Default,NTP,0000,0000,0000,,但是坡度很平缓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the slope is very gradual.
+Dialogue: 0,0:25:26.93,0:25:29.59,Default,NTP,0000,0000,0000,,你几乎无法察觉自己在爬山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would barely know you were climbing a mountain.
+Dialogue: 0,0:25:29.38,0:25:33.03,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹丽\N格里菲思天文台
+Dialogue: 0,0:25:29.59,0:25:31.35,Default,NTP,0000,0000,0000,,它不是陡峭的火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not like a steep volcano,
+Dialogue: 0,0:25:31.35,0:25:34.68,Default,NTP,0000,0000,0000,,坡度很平缓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's just... It's a smooth, low slope,
+Dialogue: 0,0:25:34.68,0:25:36.66,Default,NTP,0000,0000,0000,,但是仿佛没有尽头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it just goes on forever.
+Dialogue: 0,0:25:39.45,0:25:43.26,Default,NTP,0000,0000,0000,,奥林帕斯山位于塔尔西斯高地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Olympus Mons is located in the Tharsis Bulge,
+Dialogue: 0,0:25:43.26,0:25:47.48,Default,NTP,0000,0000,0000,,在那一地区还许多其他大型火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a region on the red planet that's home to other massive volcanoes.
+Dialogue: 0,0:25:50.11,0:25:53.23,Default,NTP,0000,0000,0000,,如果你爬上13英里高的山顶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you climb the 13 miles to its summit,
+Dialogue: 0,0:25:53.77,0:25:58.70,Default,NTP,0000,0000,0000,,你可以看到火星大气的边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you could take in a view of the very edge of the Martian atmosphere.
+Dialogue: 0,0:26:00.05,0:26:04.12,Default,NTP,0000,0000,0000,,奥林帕斯山比地球最高峰高出许多倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Olympus Mons is several times higher than the highest mountains on Earth,
+Dialogue: 0,0:26:05.06,0:26:08.08,Default,NTP,0000,0000,0000,,而山体底部更是方圆几百英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and its base is hundreds of miles across.
+Dialogue: 0,0:26:08.08,0:26:10.79,Default,NTP,0000,0000,0000,,在过去的数十亿年间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's been formed over the last billions of years
+Dialogue: 0,0:26:10.79,0:26:13.65,Default,NTP,0000,0000,0000,,经过一次又一次的火山喷发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by eruption after eruption after eruption,
+Dialogue: 0,0:26:13.65,0:26:17.39,Default,NTP,0000,0000,0000,,由无数层的岩浆堆积而成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which has slowly surfaced it with successive layers of lava.
+Dialogue: 0,0:26:18.96,0:26:23.94,Default,NTP,0000,0000,0000,,一亿年前  滚烫的岩浆从山顶喷涌而出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}100 million years ago, hot lava rivers poured down from its peak
+Dialogue: 0,0:26:23.94,0:26:27.35,Default,NTP,0000,0000,0000,,覆盖了几百万平方英里的火星地表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to cover millions of square miles of the red planet.
+Dialogue: 0,0:26:29.06,0:26:32.30,Default,NTP,0000,0000,0000,,坐落于夏威夷岛的莫纳罗亚山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today Olympus Mons is 100 times
+Dialogue: 0,0:26:32.30,0:26:36.07,Default,NTP,0000,0000,0000,,是地球上最大的火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the volume of Earth's largest volcano, Mauna Loa,
+Dialogue: 0,0:26:36.07,0:26:38.95,Default,NTP,0000,0000,0000,,如今的奥林帕斯山体积是它的100倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}located on the big island of Hawaii.
+Dialogue: 0,0:26:40.64,0:26:44.59,Default,NTP,0000,0000,0000,,奥林帕斯山比地球上的一切都大许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Olympus Mons got so much larger than anything here,
+Dialogue: 0,0:26:44.59,0:26:46.42,Default,NTP,0000,0000,0000,,原因有许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for, well, a number of reasons.
+Dialogue: 0,0:26:46.42,0:26:49.81,Default,NTP,0000,0000,0000,,有一点是肯定的  那里有很多的火山运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One is certainly, there was just a lot of volcanic activity.
+Dialogue: 0,0:26:50.46,0:26:53.29,Default,NTP,0000,0000,0000,,其二则是那里的重力小很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A second is that mare's gravity is much lower.
+Dialogue: 0,0:26:53.29,0:26:55.40,Default,NTP,0000,0000,0000,,你在火星上的体重会轻许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You weigh a lot less on mars.
+Dialogue: 0,0:26:55.40,0:26:58.83,Default,NTP,0000,0000,0000,,所以随着山体的增高  它不会塌方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So as the mountain built up, it didn't compact back down.
+Dialogue: 0,0:26:58.83,0:27:03.12,Default,NTP,0000,0000,0000,,火山可以堆积得很高而不崩塌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was able to build up to a pretty huge volcano without collapsing.
+Dialogue: 0,0:27:05.59,0:27:08.50,Default,NTP,0000,0000,0000,,第三点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The third and perhaps most important reason
+Dialogue: 0,0:27:08.50,0:27:10.89,Default,NTP,0000,0000,0000,,也许是其如此巨大最重要的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}why Olympus Mons is so huge
+Dialogue: 0,0:27:10.89,0:27:13.78,Default,NTP,0000,0000,0000,,火星上没有板块构造\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that mars doesn't have plate tectonics,
+Dialogue: 0,0:27:13.78,0:27:15.80,Default,NTP,0000,0000,0000,,不像地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the movement of crustal plates
+Dialogue: 0,0:27:15.80,0:27:20.12,Default,NTP,0000,0000,0000,,熔融状地幔上方的地壳会发生运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that rest on top of the molten interior of bodies, such as Earth.
+Dialogue: 0,0:27:22.85,0:27:25.53,Default,NTP,0000,0000,0000,,奥林帕斯山体积可以增长到如此巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Olympus Mons grew to such a big size
+Dialogue: 0,0:27:25.53,0:27:30.06,Default,NTP,0000,0000,0000,,因为火星上没有板块运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because of the lack of tectonic motions on mars.
+Dialogue: 0,0:27:30.35,0:27:34.15,Default,NTP,0000,0000,0000,,岩浆喷涌而出的地点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The hot spot from which the lava, the magma, emerged
+Dialogue: 0,0:27:34.38,0:27:36.65,Default,NTP,0000,0000,0000,,始终不变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}remained at one location,
+Dialogue: 0,0:27:36.89,0:27:39.97,Default,NTP,0000,0000,0000,,这就可以堆积起越来越大山体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}allowing more and more material to build up
+Dialogue: 0,0:27:39.97,0:27:42.86,Default,NTP,0000,0000,0000,,形成一座超级火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and create a super mountain, a super volcano.
+Dialogue: 0,0:27:46.67,0:27:50.43,Default,NTP,0000,0000,0000,,火星现在被认为处于地质不活跃期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars is now presumed to be geologically inactive.
+Dialogue: 0,0:27:51.13,0:27:54.14,Default,NTP,0000,0000,0000,,但是那火山猛兽是真的已死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But is the volcanic beast really dead
+Dialogue: 0,0:27:54.14,0:27:56.88,Default,NTP,0000,0000,0000,,抑或仅仅还在休眠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or merely a sleeping giant?
+Dialogue: 0,0:28:01.03,0:28:05.38,Default,NTP,0000,0000,0000,,欧洲航天局的火星快车号日前捕捉到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The European Space Agency's Mars Express Mission recently captured
+Dialogue: 0,0:28:05.38,0:28:10.02,Default,NTP,0000,0000,0000,,有史以来分辨率最高的岩浆流图象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the highest resolution images ever taken of the planet's lava flows.
+Dialogue: 0,0:28:10.42,0:28:14.64,Default,NTP,0000,0000,0000,,有些可以追溯到一亿多年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some flows date back 115 million years,
+Dialogue: 0,0:28:15.15,0:28:18.15,Default,NTP,0000,0000,0000,,但还有一些仅有200万年历史\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but others are only 2 million years old,
+Dialogue: 0,0:28:18.15,0:28:21.92,Default,NTP,0000,0000,0000,,以地质时间刻度来看那是很短的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and on geologic time scales that's very recent,
+Dialogue: 0,0:28:21.92,0:28:26.55,Default,NTP,0000,0000,0000,,也就意味着现在也许还有火山喷发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which suggests there still may be some volcanic activity.
+Dialogue: 0,0:28:27.13,0:28:29.52,Default,NTP,0000,0000,0000,,如果看看奥林帕斯山表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we look at the surface of Olympus Mons,
+Dialogue: 0,0:28:29.80,0:28:31.94,Default,NTP,0000,0000,0000,,我们能看到有一些岩浆流之上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we see especially that there are lava flows,
+Dialogue: 0,0:28:31.94,0:28:34.02,Default,NTP,0000,0000,0000,,几乎没有陨石坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which have very few craters on them.
+Dialogue: 0,0:28:34.20,0:28:36.19,Default,NTP,0000,0000,0000,,于是我们知道  这些岩浆流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so, we know that those lava flows are
+Dialogue: 0,0:28:36.19,0:28:39.95,Default,NTP,0000,0000,0000,,最老也不错一两千万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps 10s-20 million years old at the oldest.
+Dialogue: 0,0:28:41.29,0:28:44.02,Default,NTP,0000,0000,0000,,但是喷发运动一直在继续\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the eruptive activity has been going on
+Dialogue: 0,0:28:44.02,0:28:45.77,Default,NTP,0000,0000,0000,,如果不是一直延续到了今天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until the relatively recent past,
+Dialogue: 0,0:28:45.77,0:28:48.08,Default,NTP,0000,0000,0000,,那也是不久之前才停止的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if not right up until the present day.
+Dialogue: 0,0:28:52.14,0:28:56.41,Default,NTP,0000,0000,0000,,奥林帕斯山也许曾经产生过大量的岩浆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Olympus Mons may have once produced vast amounts of lava,
+Dialogue: 0,0:28:59.87,0:29:02.66,Default,NTP,0000,0000,0000,,但那地狱烈焰般的热度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but its hellish heat paled in comparison
+Dialogue: 0,0:29:02.66,0:29:04.59,Default,NTP,0000,0000,0000,,与我们太阳系七大奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the current temperatures
+Dialogue: 0,0:29:06.27,0:29:08.66,Default,NTP,0000,0000,0000,,榜上第二名相比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of number two on our countdown
+Dialogue: 0,0:29:08.66,0:29:12.36,Default,NTP,0000,0000,0000,,则是小巫见大巫了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the seven incredible wonders of our Solar System.
+Dialogue: 0,0:29:14.69,0:29:17.38,Default,NTP,0000,0000,0000,,它远看像是个大火球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This may look like a ball of flames.
+Dialogue: 0,0:29:17.45,0:29:19.36,Default,NTP,0000,0000,0000,,其表面是温度高达一万度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But its surface is an ocean
+Dialogue: 0,0:29:19.36,0:29:21.82,Default,NTP,0000,0000,0000,,等离子海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of 10,000-degree plasma
+Dialogue: 0,0:29:21.82,0:29:23.56,Default,NTP,0000,0000,0000,,伴随着大风巨浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with waves, winds
+Dialogue: 0,0:29:23.56,0:29:25.00,Default,NTP,0000,0000,0000,,以及大规模喷发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and massive eruptions
+Dialogue: 0,0:29:25.00,0:29:29.25,Default,NTP,0000,0000,0000,,堪比十亿吨TNT炸药同时爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as explosive as a billion tons of TNT.
+Dialogue: 0,0:29:38.14,0:29:40.24,Default,NTP,0000,0000,0000,,下一个将要探究的太阳系奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our next wonder of the Solar System
+Dialogue: 0,0:29:40.24,0:29:44.11,Default,NTP,0000,0000,0000,,既是地球的朋友  又是最大敌人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been Earth's best friend and foe.
+Dialogue: 0,0:29:45.08,0:29:47.68,Default,NTP,0000,0000,0000,,它用光和热笼罩着我们的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's bathed our planet with heat and energy,
+Dialogue: 0,0:29:48.68,0:29:51.73,Default,NTP,0000,0000,0000,,但其释放的致命高能粒子波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's also blasted us with potentially deadly
+Dialogue: 0,0:29:51.73,0:29:54.38,Default,NTP,0000,0000,0000,,也会伤害到我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}highly energetic particles and waves.
+Dialogue: 0,0:29:57.67,0:30:00.64,Default,NTP,0000,0000,0000,,我们继续探索第二奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We now navigate around number two:
+Dialogue: 0,0:30:02.06,0:30:04.96,Default,NTP,0000,0000,0000,,极热的太阳表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the sizzling surface of the sun.
+Dialogue: 0,0:30:14.32,0:30:17.13,Default,NTP,0000,0000,0000,,太阳表面相当杂乱无序\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The surface of the sun is really quite chaotic.
+Dialogue: 0,0:30:17.58,0:30:19.93,Default,NTP,0000,0000,0000,,它持续沸腾  不断冒泡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's always boiling and bubbling.
+Dialogue: 0,0:30:20.56,0:30:24.12,Default,NTP,0000,0000,0000,,还从太阳内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In particular, there are hot cells of gas
+Dialogue: 0,0:30:24.15,0:30:27.39,Default,NTP,0000,0000,0000,,释放出热能气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that come out from the interior up,
+Dialogue: 0,0:30:27.45,0:30:30.29,Default,NTP,0000,0000,0000,,散发能量  逐渐冷却\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}radiate their energy, cool,
+Dialogue: 0,0:30:30.32,0:30:32.19,Default,NTP,0000,0000,0000,,然后下沉回去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, come back down.
+Dialogue: 0,0:30:32.19,0:30:34.93,Default,NTP,0000,0000,0000,,这种对流过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this convection, as it's called,
+Dialogue: 0,0:30:33.44,0:30:37.13,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学  伯克利分校
+Dialogue: 0,0:30:34.96,0:30:36.83,Default,NTP,0000,0000,0000,,这种沸腾运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This boiling motion, similar to
+Dialogue: 0,0:30:36.83,0:30:39.06,Default,NTP,0000,0000,0000,,与水的沸腾非常相似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what you see in a boiling pot of water,
+Dialogue: 0,0:30:39.10,0:30:40.87,Default,NTP,0000,0000,0000,,是在地表附近发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is occurring near the surface.
+Dialogue: 0,0:30:45.94,0:30:47.33,Default,NTP,0000,0000,0000,,时至今日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have never been able to
+Dialogue: 0,0:30:47.33,0:30:49.27,Default,NTP,0000,0000,0000,,我们终于可以\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}look at the sun's surface
+Dialogue: 0,0:30:49.27,0:30:52.90,Default,NTP,0000,0000,0000,,直视太阳表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}up close until now.
+Dialogue: 0,0:30:58.99,0:31:01.32,Default,NTP,0000,0000,0000,,此时此刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At this very moment,
+Dialogue: 0,0:31:01.32,0:31:03.79,Default,NTP,0000,0000,0000,,人造卫星最新采集行动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a new collection of satellites
+Dialogue: 0,0:31:03.86,0:31:07.52,Default,NTP,0000,0000,0000,,即拍摄我们守护之星的图像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is capturing images of our home star.
+Dialogue: 0,0:31:08.86,0:31:11.77,Default,NTP,0000,0000,0000,,这些稀有影像让人感觉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These unprecedented movies make you feel like
+Dialogue: 0,0:31:11.77,0:31:14.19,Default,NTP,0000,0000,0000,,太阳光球层表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you're an arm's distance away
+Dialogue: 0,0:31:14.19,0:31:19.15,Default,NTP,0000,0000,0000,,已经触手可及\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from touching the sun's visible surface called the Photosphere.
+Dialogue: 0,0:31:19.77,0:31:21.60,Default,NTP,0000,0000,0000,,太阳风暴及其他剧烈活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is where solar storms
+Dialogue: 0,0:31:21.60,0:31:24.55,Default,NTP,0000,0000,0000,,就发生在这一层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and other violent phenomena occur.
+Dialogue: 0,0:31:26.67,0:31:27.79,Default,NTP,0000,0000,0000,,如果你能完好无损的到达太阳表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The surface of the sun,
+Dialogue: 0,0:31:27.79,0:31:30.71,Default,NTP,0000,0000,0000,,你会发现那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you were somehow able to go there and protect yourself,
+Dialogue: 0,0:31:30.71,0:31:34.99,Default,NTP,0000,0000,0000,,非常嘈杂  异常炎热  活动的非常猛烈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is an incredibly noisy, hot and violent place.
+Dialogue: 0,0:31:34.99,0:31:38.16,Default,NTP,0000,0000,0000,,表层温度高达数千度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are temperatures thousands of degrees.
+Dialogue: 0,0:31:36.67,0:31:40.36,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格瑞格·拉夫林\N加州大学  圣克鲁兹分校
+Dialogue: 0,0:31:38.19,0:31:40.33,Default,NTP,0000,0000,0000,,还有持续不断的磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are continuous magnetic storms
+Dialogue: 0,0:31:40.39,0:31:43.44,Default,NTP,0000,0000,0000,,并伴随雷鸣般的声响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that create huge, basically thunder-like sounds.
+Dialogue: 0,0:31:45.90,0:31:47.80,Default,NTP,0000,0000,0000,,在最新纪录影像中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this new movie,
+Dialogue: 0,0:31:47.80,0:31:50.50,Default,NTP,0000,0000,0000,,美国太阳动力学观测卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Solar Dynamics Observatory
+Dialogue: 0,0:31:50.50,0:31:52.38,Default,NTP,0000,0000,0000,,记录了一次日珥爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}recorded a Prominence.
+Dialogue: 0,0:31:53.74,0:31:57.02,Default,NTP,0000,0000,0000,,这是一簇相对低温的等离子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is a relatively cool, dense cloud of plasma
+Dialogue: 0,0:31:57.02,0:31:59.98,Default,NTP,0000,0000,0000,,受磁力影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that sits suspended above the solar surface,
+Dialogue: 0,0:32:00.05,0:32:02.63,Default,NTP,0000,0000,0000,,悬浮于太阳表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}supported by magnec forces.
+Dialogue: 0,0:32:03.41,0:32:05.77,Default,NTP,0000,0000,0000,,如图所示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As seen here, Prominences
+Dialogue: 0,0:32:05.77,0:32:09.69,Default,NTP,0000,0000,0000,,日珥偶尔会断裂  并散入太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can occasionally rip free and jet into space.
+Dialogue: 0,0:32:10.49,0:32:14.19,Default,NTP,0000,0000,0000,,太阳磁场非常强大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our sun has an incredibly powerful magnetic field.
+Dialogue: 0,0:32:14.23,0:32:15.29,Default,NTP,0000,0000,0000,,但是有时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But every now and again,
+Dialogue: 0,0:32:15.36,0:32:17.83,Default,NTP,0000,0000,0000,,这些磁场线会与\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those field lines become connected to hot spots
+Dialogue: 0,0:32:17.90,0:32:19.47,Default,NTP,0000,0000,0000,,太阳表面热点相连\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the surface of the sun.
+Dialogue: 0,0:32:19.50,0:32:23.00,Default,NTP,0000,0000,0000,,受太阳沸腾的内部影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as the gas and plasma boils inside the sun,
+Dialogue: 0,0:32:23.04,0:32:25.47,Default,NTP,0000,0000,0000,,磁力线会分离或断开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those magnetic field lines can disconnect or break,
+Dialogue: 0,0:32:25.51,0:32:27.84,Default,NTP,0000,0000,0000,,释放出巨大能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}releasing huge bursts of energy.
+Dialogue: 0,0:32:27.91,0:32:30.48,Default,NTP,0000,0000,0000,,引起等离子大爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And these throw up giant blasts of plasma
+Dialogue: 0,0:32:26.97,0:32:30.62,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾米·梅泽\N美国宇航局  喷气推进实验室
+Dialogue: 0,0:32:30.51,0:32:33.01,Default,NTP,0000,0000,0000,,形成的日珥有着奇怪的弧度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That come out along curious looking arcs.
+Dialogue: 0,0:32:33.05,0:32:34.18,Default,NTP,0000,0000,0000,,但这些日珥仍循\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But these are actually following
+Dialogue: 0,0:32:34.21,0:32:35.93,Default,NTP,0000,0000,0000,,太阳磁力线的轨迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the magnetic field lines around the sun.
+Dialogue: 0,0:32:39.17,0:32:42.06,Default,NTP,0000,0000,0000,,爆发出的日珥也会\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eruptive Prominences can occur in tandem
+Dialogue: 0,0:32:42.06,0:32:43.76,Default,NTP,0000,0000,0000,,与另一个日珥相互串联\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with another solar ejection.
+Dialogue: 0,0:32:43.82,0:32:45.72,Default,NTP,0000,0000,0000,,而对地球的破坏力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That can deliver a double punch,
+Dialogue: 0,0:32:45.76,0:32:47.67,Default,NTP,0000,0000,0000,,也将加倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if directed at the Earth.
+Dialogue: 0,0:32:49.40,0:32:52.30,Default,NTP,0000,0000,0000,,美国太阳和太阳风层探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Solar and Heliospheric Observatory
+Dialogue: 0,0:32:52.37,0:32:53.37,Default,NTP,0000,0000,0000,,即SOHO\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or SOHO,
+Dialogue: 0,0:32:53.40,0:32:55.39,Default,NTP,0000,0000,0000,,近日拍摄到一组\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}recently took dramatic movies
+Dialogue: 0,0:32:55.39,0:32:57.37,Default,NTP,0000,0000,0000,,大规模日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of Coronal Mass Ejections,
+Dialogue: 0,0:32:57.44,0:32:59.16,Default,NTP,0000,0000,0000,,即CMEs\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or CMEs.
+Dialogue: 0,0:32:59.64,0:33:03.01,Default,NTP,0000,0000,0000,,这些高温电离气体组成的气泡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These massive bubbles of hot ionized gas
+Dialogue: 0,0:33:03.04,0:33:06.79,Default,NTP,0000,0000,0000,,含有高达一百亿吨的太阳物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}contain up to 10 billion tons of solar material.
+Dialogue: 0,0:33:07.25,0:33:08.91,Default,NTP,0000,0000,0000,,它们以几百万英里的时速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They shoot out into space
+Dialogue: 0,0:33:08.91,0:33:12.07,Default,NTP,0000,0000,0000,,喷向太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at speeds of several million miles an hour.
+Dialogue: 0,0:33:14.15,0:33:18.36,Default,NTP,0000,0000,0000,,日冕物质抛射属于超大型太阳风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Coronal Mass Ejections are incredibly powerful storms.
+Dialogue: 0,0:33:17.18,0:33:20.89,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹丽\N格里菲思天文台
+Dialogue: 0,0:33:18.39,0:33:22.00,Default,NTP,0000,0000,0000,,光是那巨大的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can be as massive as a billion h-bombs,
+Dialogue: 0,0:33:22.00,0:33:23.72,Default,NTP,0000,0000,0000,,就比得上十亿颗氢弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just huge amounts of energy.
+Dialogue: 0,0:33:25.19,0:33:29.03,Default,NTP,0000,0000,0000,,那些等离子射到地球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And sometimes those big blobs of plasma strike the Earth
+Dialogue: 0,0:33:29.07,0:33:32.85,Default,NTP,0000,0000,0000,,会形成美丽的北极光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and lead to beautiful northern lights, aurorae displays.
+Dialogue: 0,0:33:33.94,0:33:36.11,Default,NTP,0000,0000,0000,,也会对地球造成相当大的损害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can also be very harmful to the Earth.
+Dialogue: 0,0:33:38.59,0:33:42.70,Default,NTP,0000,0000,0000,,当日冕物质抛射产物射向地球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When large Coronal Mass Ejections are blasted toward Earth
+Dialogue: 0,0:33:42.70,0:33:45.32,Default,NTP,0000,0000,0000,,会触发磁暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they can trigger geomagnetic storms.
+Dialogue: 0,0:33:46.45,0:33:48.79,Default,NTP,0000,0000,0000,,这些电离粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These blobs of ionized particles
+Dialogue: 0,0:33:48.79,0:33:51.81,Default,NTP,0000,0000,0000,,会损害甚至摧毁卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can damage or even terminate satellites
+Dialogue: 0,0:33:51.93,0:33:54.85,Default,NTP,0000,0000,0000,,更会破坏地球上的电网\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as well as fry our electrical grids.
+Dialogue: 0,0:33:57.77,0:33:58.89,Default,NTP,0000,0000,0000,,更有甚者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's more,
+Dialogue: 0,0:33:58.89,0:34:01.40,Default,NTP,0000,0000,0000,,进行太空行走时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're extremely hazardous to astronauts
+Dialogue: 0,0:34:01.43,0:34:04.46,Default,NTP,0000,0000,0000,,这些粒子会对宇航员造成极大的伤害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when outside of the protection of a spacecraft.
+Dialogue: 0,0:34:06.81,0:34:09.41,Default,NTP,0000,0000,0000,,日冕物质抛射会释放X射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The CMEs generate X-Rays.
+Dialogue: 0,0:34:09.44,0:34:11.41,Default,NTP,0000,0000,0000,,因此进行太空行走时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, if you're out in space,
+Dialogue: 0,0:34:11.44,0:34:13.48,Default,NTP,0000,0000,0000,,如果遇到日冕物质抛射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would get quite a dose of radiation,
+Dialogue: 0,0:34:13.48,0:34:15.61,Default,NTP,0000,0000,0000,,会被严重辐射到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you were in one of these CMEs.
+Dialogue: 0,0:34:15.65,0:34:18.95,Default,NTP,0000,0000,0000,,幸运的是大气层吸收了绝大部分射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Luckily, our atmosphere absorbs most of the X-Rays,
+Dialogue: 0,0:34:18.99,0:34:21.85,Default,NTP,0000,0000,0000,,因此在地表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we don't experience the bad effects here
+Dialogue: 0,0:34:21.85,0:34:23.42,Default,NTP,0000,0000,0000,,不会受到影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the surface of the Earth.
+Dialogue: 0,0:34:23.46,0:34:25.12,Default,NTP,0000,0000,0000,,如果你坐飞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're high up in an airplane,
+Dialogue: 0,0:34:25.16,0:34:26.69,Default,NTP,0000,0000,0000,,飞至大气最顶层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}above most of the atmosphere,
+Dialogue: 0,0:34:26.76,0:34:28.93,Default,NTP,0000,0000,0000,,一旦受到耀斑侵袭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then you can get a larger dose of radiation
+Dialogue: 0,0:34:28.96,0:34:31.12,Default,NTP,0000,0000,0000,,你就会被大量辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if there's a large flare hitting the Earth.
+Dialogue: 0,0:34:33.40,0:34:36.37,Default,NTP,0000,0000,0000,,这些最新拍摄的影像令人心生畏惧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These latest images are chilling reminders
+Dialogue: 0,0:34:36.44,0:34:40.21,Default,NTP,0000,0000,0000,,提醒我们必须时刻关注太阳表面活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that our sun's surface is a force to reckon with.
+Dialogue: 0,0:34:43.76,0:34:46.75,Default,NTP,0000,0000,0000,,在不久的将来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And things may really heat up on our home star
+Dialogue: 0,0:34:46.78,0:34:48.94,Default,NTP,0000,0000,0000,,太阳表面也许会持续升温\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the very near future.
+Dialogue: 0,0:34:52.49,0:34:55.77,Default,NTP,0000,0000,0000,,太阳活动以十一年为一个周期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Solar activity runs through an 11-year cycle.
+Dialogue: 0,0:34:56.42,0:35:00.73,Default,NTP,0000,0000,0000,,2013年将达到顶峰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2013, our sun will be at the peak of this cycle
+Dialogue: 0,0:35:00.79,0:35:02.94,Default,NTP,0000,0000,0000,,因此也称为太阳峰年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called the Solar Maximum.
+Dialogue: 0,0:35:04.26,0:35:05.31,Default,NTP,0000,0000,0000,,此时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At this time,
+Dialogue: 0,0:35:05.31,0:35:10.26,Default,NTP,0000,0000,0000,,太阳表面会爆发超级风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the surface of the sun could create the perfect storm.
+Dialogue: 0,0:35:12.02,0:35:15.21,Default,NTP,0000,0000,0000,,太阳曾经爆发过太阳风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The sun has had in the past big solar storms
+Dialogue: 0,0:35:15.24,0:35:16.54,Default,NTP,0000,0000,0000,,破坏了地球上的电网\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that have knocked out power grids
+Dialogue: 0,0:35:16.54,0:35:18.53,Default,NTP,0000,0000,0000,,并中断通讯卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and our communication satellites.
+Dialogue: 0,0:35:19.41,0:35:21.20,Default,NTP,0000,0000,0000,,将来也会爆发更多太阳风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There will be more storms.
+Dialogue: 0,0:35:21.65,0:35:25.12,Default,NTP,0000,0000,0000,,在我们这一代  甚至接下来的几千年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They might happen at any time or they may not happen,
+Dialogue: 0,0:35:25.19,0:35:28.48,Default,NTP,0000,0000,0000,,随时都可能爆发  也可能再也不爆发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you know, in our lifetime or even in the next millennium.
+Dialogue: 0,0:35:28.69,0:35:29.71,Default,NTP,0000,0000,0000,,我们只是不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We just don't know.
+Dialogue: 0,0:35:29.71,0:35:32.09,Default,NTP,0000,0000,0000,,研究太阳的乐趣就在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's one of the exciting things about studying the sun
+Dialogue: 0,0:35:32.16,0:35:33.99,Default,NTP,0000,0000,0000,,我们可以逐渐了解太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is trying to be able to understand
+Dialogue: 0,0:35:34.03,0:35:36.36,Default,NTP,0000,0000,0000,,甚至可以预测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and maybe even predict the storms
+Dialogue: 0,0:35:36.43,0:35:37.49,Default,NTP,0000,0000,0000,,即将爆发的太阳风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we see on the sun.
+Dialogue: 0,0:35:42.01,0:35:45.14,Default,NTP,0000,0000,0000,,但太阳风暴无法破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But one thing a solar storm can't destroy
+Dialogue: 0,0:35:46.51,0:35:50.29,Default,NTP,0000,0000,0000,,太阳系七大奇观中的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is number one on our countdown of the seven wonders
+Dialogue: 0,0:35:50.29,0:35:51.79,Default,NTP,0000,0000,0000,,第一奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of our Solar System,
+Dialogue: 0,0:35:53.35,0:35:55.79,Default,NTP,0000,0000,0000,,它是太阳系第五大行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the fifth largest planet.
+Dialogue: 0,0:35:56.35,0:35:57.82,Default,NTP,0000,0000,0000,,其十分之一的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One tenth of its surface
+Dialogue: 0,0:35:57.85,0:36:00.29,Default,NTP,0000,0000,0000,,终年覆盖冰雪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is permanently covered with ice,
+Dialogue: 0,0:36:00.35,0:36:04.22,Default,NTP,0000,0000,0000,,它的内部炽热无比  蕴藏着大量岩浆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And its hot interior has been churning up enough magma
+Dialogue: 0,0:36:04.66,0:36:09.19,Default,NTP,0000,0000,0000,,地表的火山因而持续喷发数十亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to keep volcanoes erupting for billions of years.
+Dialogue: 0,0:36:16.23,0:36:19.20,Default,NTP,0000,0000,0000,,太阳系七大奇观探索之旅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The exploration of our cosmic neighborhood
+Dialogue: 0,0:36:20.44,0:36:25.78,Default,NTP,0000,0000,0000,,将以第一大奇观压轴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}climaxes with a touchdown on number one of the seven wonders,
+Dialogue: 0,0:36:26.63,0:36:28.08,Default,NTP,0000,0000,0000,,那就是地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth
+Dialogue: 0,0:36:36.44,0:36:38.19,Default,NTP,0000,0000,0000,,毫无疑问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth, without a doubt,
+Dialogue: 0,0:36:38.72,0:36:42.87,Default,NTP,0000,0000,0000,,地球是太阳系独一无二的伟大奇迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the single greatest wonder in the Solar System.
+Dialogue: 0,0:36:39.95,0:36:43.56,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学  伯克利分校
+Dialogue: 0,0:36:42.87,0:36:45.97,Default,NTP,0000,0000,0000,,非常适合人类的生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth is so perfect for our existence.
+Dialogue: 0,0:36:45.97,0:36:47.18,Default,NTP,0000,0000,0000,,有液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's liquid water.
+Dialogue: 0,0:36:47.18,0:36:48.63,Default,NTP,0000,0000,0000,,有大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's an atmosphere.
+Dialogue: 0,0:36:48.63,0:36:50.80,Default,NTP,0000,0000,0000,,有舒适的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's comfortable temperatures.
+Dialogue: 0,0:36:50.80,0:36:52.43,Default,NTP,0000,0000,0000,,这是个极好的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's just a great place.
+Dialogue: 0,0:36:54.38,0:36:57.22,Default,NTP,0000,0000,0000,,地球是距离太阳第三远的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth, the third planet from the sun,
+Dialogue: 0,0:36:57.22,0:37:00.24,Default,NTP,0000,0000,0000,,其魅力令人窒息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is brimming with breathtaking beauty.
+Dialogue: 0,0:37:01.71,0:37:04.61,Default,NTP,0000,0000,0000,,跟太阳系其他天体不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike any other body in the Solar System,
+Dialogue: 0,0:37:04.61,0:37:08.54,Default,NTP,0000,0000,0000,,地球有将近2/3的表面被水覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}liquid water covers nearly 2/3 of its surface.
+Dialogue: 0,0:37:09.76,0:37:12.87,Default,NTP,0000,0000,0000,,各大洲陆地景观各不相同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its continents inherited a diverse landscape,
+Dialogue: 0,0:37:14.10,0:37:16.38,Default,NTP,0000,0000,0000,,它拥有全宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's the only planet confirmed
+Dialogue: 0,0:37:16.38,0:37:20.09,Default,NTP,0000,0000,0000,,最独特的生态环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to support life in all its amazing forms.
+Dialogue: 0,0:37:22.64,0:37:24.31,Default,NTP,0000,0000,0000,,地球许多独有特征\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth has a number of different features
+Dialogue: 0,0:37:24.31,0:37:26.84,Default,NTP,0000,0000,0000,,使其在太阳系中变得独一无二\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that make it truly unique in our Solar System.
+Dialogue: 0,0:37:27.57,0:37:28.75,Default,NTP,0000,0000,0000,,比如说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For one thing,
+Dialogue: 0,0:37:29.53,0:37:33.14,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾米·梅泽\N美国宇航局  喷气推进实验室
+Dialogue: 0,0:37:28.75,0:37:30.14,Default,NTP,0000,0000,0000,,地球既不会出现铄石流金的高温\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's not boiling hot
+Dialogue: 0,0:37:30.14,0:37:31.62,Default,NTP,0000,0000,0000,,也不会出现冰天雪地的低温\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and nor is it freezing cold.
+Dialogue: 0,0:37:31.62,0:37:33.68,Default,NTP,0000,0000,0000,,地球与太阳的距离适中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's just at the right distance from the sun
+Dialogue: 0,0:37:33.68,0:37:36.63,Default,NTP,0000,0000,0000,,使地球温度适宜  有利于生命体的发展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be a very moderate temperature that supports life.
+Dialogue: 0,0:37:36.96,0:37:38.13,Default,NTP,0000,0000,0000,,再比如说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For another thing,
+Dialogue: 0,0:37:38.13,0:37:39.93,Default,NTP,0000,0000,0000,,地球既不完全被水所覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's not completely a water world
+Dialogue: 0,0:37:40.96,0:37:43.47,Default,NTP,0000,0000,0000,,也不完全被干燥的沙漠所覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nor is it completely a dry desert either.
+Dialogue: 0,0:37:44.12,0:37:46.38,Default,NTP,0000,0000,0000,,水陆配合相得益彰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's got just the right mix of land and ocean
+Dialogue: 0,0:37:46.38,0:37:48.75,Default,NTP,0000,0000,0000,,进而支持多种生物的发展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to support a wide variety of species.
+Dialogue: 0,0:37:51.94,0:37:53.91,Default,NTP,0000,0000,0000,,科学通过研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science is now getting closer
+Dialogue: 0,0:37:53.91,0:37:57.18,Default,NTP,0000,0000,0000,,地球的形成过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to solving the mystery of how life got started
+Dialogue: 0,0:37:58.09,0:38:01.76,Default,NTP,0000,0000,0000,,逐渐揭开了生命起源的神秘面纱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by retracing the steps of our planet's formation.
+Dialogue: 0,0:38:07.15,0:38:09.85,Default,NTP,0000,0000,0000,,46亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}4.6 billion years ago,
+Dialogue: 0,0:38:09.89,0:38:12.06,Default,NTP,0000,0000,0000,,太阳形成的过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the swirling disk of debris
+Dialogue: 0,0:38:12.06,0:38:15.21,Default,NTP,0000,0000,0000,,遗留了许多相互绕转的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}left over from the formation of our newborn sun,
+Dialogue: 0,0:38:15.21,0:38:16.88,Default,NTP,0000,0000,0000,,气体和尘埃粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gas and dust particles
+Dialogue: 0,0:38:16.88,0:38:18.77,Default,NTP,0000,0000,0000,,开始聚集在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}began to clump together.
+Dialogue: 0,0:38:19.38,0:38:23.10,Default,NTP,0000,0000,0000,,最终形成巨大的岩石和冰川\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They eventually formed large boulders made of rock and ice
+Dialogue: 0,0:38:23.10,0:38:26.71,Default,NTP,0000,0000,0000,,就如今天的小行星和彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we see today as asteroids and comets.
+Dialogue: 0,0:38:30.04,0:38:31.72,Default,NTP,0000,0000,0000,,几百万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For millions of years,
+Dialogue: 0,0:38:31.72,0:38:33.13,Default,NTP,0000,0000,0000,,这些天体相撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these bodies collided
+Dialogue: 0,0:38:33.13,0:38:35.70,Default,NTP,0000,0000,0000,,然后又组合形成行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and coalesced to form planets.
+Dialogue: 0,0:38:36.16,0:38:38.10,Default,NTP,0000,0000,0000,,地球需要一些特殊物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During this birthing process,
+Dialogue: 0,0:38:38.10,0:38:41.23,Default,NTP,0000,0000,0000,,才能完成这样的形成过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth acquired some special properties.
+Dialogue: 0,0:38:43.48,0:38:45.39,Default,NTP,0000,0000,0000,,地球独有的特征\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One unique feature on Earth
+Dialogue: 0,0:38:46.60,0:38:48.91,Default,NTP,0000,0000,0000,,就是有丰富的水资源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is abundant liquid water.
+Dialogue: 0,0:38:52.49,0:38:55.37,Default,NTP,0000,0000,0000,,被认为是早期火山爆发时形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is thought that the earliest volcanoes
+Dialogue: 0,0:38:56.43,0:38:59.54,Default,NTP,0000,0000,0000,,大量水蒸气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spewed out massive amounts of steam,
+Dialogue: 0,0:38:59.54,0:39:01.12,Default,NTP,0000,0000,0000,,凝结成雨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which condensed into rain
+Dialogue: 0,0:39:01.12,0:39:03.65,Default,NTP,0000,0000,0000,,从而滋润了整个星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and supplied the planet with water.
+Dialogue: 0,0:39:05.43,0:39:09.73,Default,NTP,0000,0000,0000,,但最近对于水的来源又有了新的说法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But recently, new sources of water have been suggested.
+Dialogue: 0,0:39:10.96,0:39:12.03,Default,NTP,0000,0000,0000,,有些水源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of that water
+Dialogue: 0,0:39:12.03,0:39:13.97,Default,NTP,0000,0000,0000,,可能是来自彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might have come from comets
+Dialogue: 0,0:39:13.97,0:39:16.02,Default,NTP,0000,0000,0000,,有些水源可能是来自\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or some of the water might have come
+Dialogue: 0,0:39:16.02,0:39:18.43,Default,NTP,0000,0000,0000,,小行星带外围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from an outer Belt of Asteroids
+Dialogue: 0,0:39:18.43,0:39:20.31,Default,NTP,0000,0000,0000,,那里富含水汽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was rich in water.
+Dialogue: 0,0:39:20.89,0:39:22.41,Default,NTP,0000,0000,0000,,换句话说  有些水源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In other words, some of the water
+Dialogue: 0,0:39:22.41,0:39:24.79,Default,NTP,0000,0000,0000,,甚至可能来自陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could have come from the rocks
+Dialogue: 0,0:39:24.79,0:39:27.76,Default,NTP,0000,0000,0000,,就是宇宙大爆炸后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that made the Earth near the end
+Dialogue: 0,0:39:27.76,0:39:30.46,Default,NTP,0000,0000,0000,,形成地球的陨石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of this Era of Heavy Bombardment.
+Dialogue: 0,0:39:33.22,0:39:38.19,Default,NTP,0000,0000,0000,,水源的出现是生命起源的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And water appears to be a key component for the origin of life.
+Dialogue: 0,0:39:42.13,0:39:43.79,Default,NTP,0000,0000,0000,,理论认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was previously theorized
+Dialogue: 0,0:39:43.79,0:39:47.02,Default,NTP,0000,0000,0000,,生命起源于原始水洼中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that life began in a primordial soup,
+Dialogue: 0,0:39:47.23,0:39:51.14,Default,NTP,0000,0000,0000,,温暖的水汽中含有大量能源和大气成分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a warm pond containing energy and atmospheric elements
+Dialogue: 0,0:39:51.14,0:39:53.04,Default,NTP,0000,0000,0000,,从而形成氨基酸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to make Amino Acids.
+Dialogue: 0,0:39:53.97,0:39:58.07,Default,NTP,0000,0000,0000,,然而  最近的开创性研究宣称\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, the most recent pioneering research makes a strong claim
+Dialogue: 0,0:39:58.07,0:40:00.15,Default,NTP,0000,0000,0000,,地球自身拥有的化学能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the Earth's own chemical energy
+Dialogue: 0,0:40:00.15,0:40:02.37,Default,NTP,0000,0000,0000,,及丰富蛋白质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and rich proteins seeped up
+Dialogue: 0,0:40:02.37,0:40:05.67,Default,NTP,0000,0000,0000,,通过大洋深处的喷口渗透出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through hydrothermal vents deep under the ocean.
+Dialogue: 0,0:40:06.08,0:40:07.92,Default,NTP,0000,0000,0000,,随着时间的推移  这些混合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over time, this mixture
+Dialogue: 0,0:40:07.92,0:40:09.30,Default,NTP,0000,0000,0000,,产生了细胞生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}jump-started life
+Dialogue: 0,0:40:09.30,0:40:11.80,Default,NTP,0000,0000,0000,,从而加速了生命的形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by producing living cells.
+Dialogue: 0,0:40:12.89,0:40:13.92,Default,NTP,0000,0000,0000,,众所周知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know that liquid water
+Dialogue: 0,0:40:13.42,0:40:17.10,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}劳拉·丹丽\N格里菲思天文台
+Dialogue: 0,0:40:13.92,0:40:14.98,Default,NTP,0000,0000,0000,,水是生命之源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is essential to life,
+Dialogue: 0,0:40:14.98,0:40:18.30,Default,NTP,0000,0000,0000,,生命可能产生于水中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and life probably got started in a water environment,
+Dialogue: 0,0:40:18.30,0:40:21.12,Default,NTP,0000,0000,0000,,究竟是产生于大洋深处的火山喷发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether it's in the deep ocean at the volcanic vents
+Dialogue: 0,0:40:21.54,0:40:23.34,Default,NTP,0000,0000,0000,,还是浅洼中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or in a shallow pond,
+Dialogue: 0,0:40:23.83,0:40:24.90,Default,NTP,0000,0000,0000,,我们无法得知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't really know
+Dialogue: 0,0:40:24.90,0:40:27.86,Default,NTP,0000,0000,0000,,生命是从哪里起源  是怎样形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where and how precisely life got started here.
+Dialogue: 0,0:40:27.86,0:40:28.69,Default,NTP,0000,0000,0000,,但是地球产生了生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it did.
+Dialogue: 0,0:40:28.69,0:40:30.80,Default,NTP,0000,0000,0000,,地球是唯一我们所知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's the only planet that we know
+Dialogue: 0,0:40:30.80,0:40:32.87,Default,NTP,0000,0000,0000,,存在生命的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where life actually exists.
+Dialogue: 0,0:40:37.29,0:40:39.66,Default,NTP,0000,0000,0000,,不论生命是怎样形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Regardless of how life started,
+Dialogue: 0,0:40:40.08,0:40:41.36,Default,NTP,0000,0000,0000,,一次巧合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a fortunate event
+Dialogue: 0,0:40:41.36,0:40:44.85,Default,NTP,0000,0000,0000,,使得生命向复杂进化成为可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}made it possible for complex creatures to evolve.
+Dialogue: 0,0:40:46.46,0:40:48.85,Default,NTP,0000,0000,0000,,大约30亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About 3 billion years ago,
+Dialogue: 0,0:40:48.85,0:40:50.91,Default,NTP,0000,0000,0000,,原始的地下水细菌为了生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ancient underwater bacteria
+Dialogue: 0,0:40:50.91,0:40:55.47,Default,NTP,0000,0000,0000,,开始利用水  二氧化碳  太阳能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}began to use water, Carbon Dioxide and the sun's energy
+Dialogue: 0,0:40:55.47,0:40:58.89,Default,NTP,0000,0000,0000,,化合生成碳水化合物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to produce Carbohydrates in order to survive.
+Dialogue: 0,0:40:59.50,0:41:02.18,Default,NTP,0000,0000,0000,,这个过程  被称作光合作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This process, called Photosynthesis,
+Dialogue: 0,0:41:02.18,0:41:05.76,Default,NTP,0000,0000,0000,,光合作用形成的氧气溶解进海水中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}injected vast amounts of oxygen into seawater,
+Dialogue: 0,0:41:05.76,0:41:08.21,Default,NTP,0000,0000,0000,,并逐渐形成今日的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventually, our atmosphere.
+Dialogue: 0,0:41:10.63,0:41:12.93,Default,NTP,0000,0000,0000,,生命不断进化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A huge step happened in evolution
+Dialogue: 0,0:41:12.93,0:41:15.55,Default,NTP,0000,0000,0000,,地球也逐渐被氧气包围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the Earth got polluted with oxygen.
+Dialogue: 0,0:41:15.55,0:41:17.65,Default,NTP,0000,0000,0000,,地球形成伊始大气中并没有充足的氧气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We didn't start with a rich oxygen atmosphere!
+Dialogue: 0,0:41:17.65,0:41:19.21,Default,NTP,0000,0000,0000,,但是后来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But later,
+Dialogue: 0,0:41:19.21,0:41:23.73,Default,NTP,0000,0000,0000,,光合作用不断产生氧气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the oxygen atmosphere that developed on Earth, basically from Photosynthesis,
+Dialogue: 0,0:41:24.14,0:41:26.71,Default,NTP,0000,0000,0000,,促使生命体愈加复杂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}allowed life to get a lot more complex.
+Dialogue: 0,0:41:30.94,0:41:33.55,Default,NTP,0000,0000,0000,,地球数十亿年间持续发展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After a few billion years of planetary
+Dialogue: 0,0:41:33.55,0:41:35.47,Default,NTP,0000,0000,0000,,生物也不断进化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and biological evolution,
+Dialogue: 0,0:41:35.47,0:41:40.44,Default,NTP,0000,0000,0000,,动植物也渐渐向陆地发展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the first plants and animals emerged from water on to land.
+Dialogue: 0,0:41:43.73,0:41:44.83,Default,NTP,0000,0000,0000,,据估计\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's estimated
+Dialogue: 0,0:41:44.83,0:41:46.89,Default,NTP,0000,0000,0000,,现代人类历史\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that modern humans came onto the scene
+Dialogue: 0,0:41:46.89,0:41:49.50,Default,NTP,0000,0000,0000,,仅仅20多万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a mere 200,000 years ago,
+Dialogue: 0,0:41:50.46,0:41:55.30,Default,NTP,0000,0000,0000,,人类的进化也伴随着技术革命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and with our evolution came the technological revolution of the planet.
+Dialogue: 0,0:41:56.41,0:41:58.85,Default,NTP,0000,0000,0000,,从古代人建造的遗迹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From ancient man-made monuments
+Dialogue: 0,0:41:59.80,0:42:02.73,Default,NTP,0000,0000,0000,,到如今繁华的都市\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to bustling metropolitan cities,
+Dialogue: 0,0:42:03.06,0:42:04.99,Default,NTP,0000,0000,0000,,人类开始从空间和地域上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Human Beings changed the way
+Dialogue: 0,0:42:04.99,0:42:09.51,Default,NTP,0000,0000,0000,,改变地球的面貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth looks on the ground and from space.
+Dialogue: 0,0:42:12.38,0:42:14.50,Default,NTP,0000,0000,0000,,地球的面貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth's surface has started to be modified
+Dialogue: 0,0:42:14.50,0:42:16.53,Default,NTP,0000,0000,0000,,受到人类城市建设的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}very significantly by cities,
+Dialogue: 0,0:42:16.53,0:42:18.14,Default,NTP,0000,0000,0000,,发生了翻天覆地的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by human activity.
+Dialogue: 0,0:42:18.51,0:42:19.88,Default,NTP,0000,0000,0000,,人类只是地球的一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're part of the Earth.
+Dialogue: 0,0:42:19.88,0:42:22.45,Default,NTP,0000,0000,0000,,我们改变了地球的原本样貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've created all these changes on its surface.
+Dialogue: 0,0:42:22.95,0:42:24.28,Default,NTP,0000,0000,0000,,从深层意义来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so, the Earth's geology,
+Dialogue: 0,0:42:24.28,0:42:25.71,Default,NTP,0000,0000,0000,,地球的地质情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in some deep sense,
+Dialogue: 0,0:42:25.71,0:42:27.35,Default,NTP,0000,0000,0000,,因为城市的出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been radically altered
+Dialogue: 0,0:42:26.13,0:42:29.74,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}格瑞格·拉夫林\N加州大学  圣克鲁兹分校
+Dialogue: 0,0:42:27.35,0:42:28.87,Default,NTP,0000,0000,0000,,因为人类在地球上修建的大小建筑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the appearances of cities,
+Dialogue: 0,0:42:28.87,0:42:32.03,Default,NTP,0000,0000,0000,,已经被彻底改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the appearances of all the things that we do on the surface,
+Dialogue: 0,0:42:32.03,0:42:33.61,Default,NTP,0000,0000,0000,,这尤其需要注意\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's something that's remarkable,
+Dialogue: 0,0:42:33.61,0:42:35.36,Default,NTP,0000,0000,0000,,据我们所知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and which, as far as we know,
+Dialogue: 0,0:42:35.36,0:42:36.87,Default,NTP,0000,0000,0000,,别的星球还没有过这种变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is not happening anywhere else.
+Dialogue: 0,0:42:36.87,0:42:39.71,Default,NTP,0000,0000,0000,,太阳系其他星球上更没有过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Certainly, it's not happening anywhere else in our own Solar System.
+Dialogue: 0,0:42:47.00,0:42:49.06,Default,NTP,0000,0000,0000,,我们已经探索了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our cosmic tour has taken us
+Dialogue: 0,0:42:49.06,0:42:51.34,Default,NTP,0000,0000,0000,,七大奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to seven wondrous sights,
+Dialogue: 0,0:42:52.01,0:42:55.47,Default,NTP,0000,0000,0000,,土卫二间歇性冰泉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Icy Geyser-Laden Moon, Enceladus,
+Dialogue: 0,0:42:55.75,0:42:58.34,Default,NTP,0000,0000,0000,,土星美丽的光环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Saturn's sensational rings,
+Dialogue: 0,0:42:58.41,0:43:00.69,Default,NTP,0000,0000,0000,,木星大红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter's Great Red Spot,
+Dialogue: 0,0:43:00.92,0:43:04.15,Default,NTP,0000,0000,0000,,最大的火山  火星奥林帕斯山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the largest volcano, Olympus Mons,
+Dialogue: 0,0:43:04.23,0:43:06.66,Default,NTP,0000,0000,0000,,神秘的小行星带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mysterious Asteroid Belt
+Dialogue: 0,0:43:06.84,0:43:09.14,Default,NTP,0000,0000,0000,,以及炙热的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And our stormy sun.
+Dialogue: 0,0:43:10.54,0:43:12.58,Default,NTP,0000,0000,0000,,这些难忘的冒险中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But this unforgettable adventure
+Dialogue: 0,0:43:12.58,0:43:17.49,Default,NTP,0000,0000,0000,,可不能缺了我们家园地球的身影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would not have been possible without our home planet, Earth,
+Dialogue: 0,0:43:17.49,0:43:20.53,Default,NTP,0000,0000,0000,,这里一切皆有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A place with endless possibilities.
+Dialogue: 0,0:43:22.11,0:43:23.81,Default,NTP,0000,0000,0000,,上个世纪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over the last century,
+Dialogue: 0,0:43:23.81,0:43:27.06,Default,NTP,0000,0000,0000,,人类已经冶炼出金属以及其他材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}humans have manufactured metals and other materials
+Dialogue: 0,0:43:27.06,0:43:30.35,Default,NTP,0000,0000,0000,,用于建造宇宙飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from our planet's crust to build spacecraft.
+Dialogue: 0,0:43:30.96,0:43:34.49,Default,NTP,0000,0000,0000,,先进技术使得我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our technology will enable us to blast off
+Dialogue: 0,0:43:35.22,0:43:37.46,Default,NTP,0000,0000,0000,,可以探索太空奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to explore the other wonders.
+Dialogue: 0,0:43:38.53,0:43:42.00,Default,NTP,0000,0000,0000,,我们惊叹于这些遥远的奇观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll be able to marvel at these distant domains,
+Dialogue: 0,0:43:42.00,0:43:46.34,Default,NTP,0000,0000,0000,,更意识到自己是广袤宇宙一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and realize that we're part of a much wider cosmic world.
+Dialogue: 0,0:43:46.77,0:43:50.38,Default,NTP,0000,0000,0000,,巍巍奇观  发人深省\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These awe-inspiring phenomena allow us to ponder
+Dialogue: 0,0:43:50.38,0:43:53.41,Default,NTP,0000,0000,0000,,我们究竟是谁  又从何而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}who are we and why we are here.
+Dialogue: 0,0:43:53.76,0:43:56.02,Default,NTP,0000,0000,0000,,这片壮丽天地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this magnificent place,
+Dialogue: 0,0:43:56.02,0:43:58.50,Default,NTP,0000,0000,0000,,便是宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we call the Universe.

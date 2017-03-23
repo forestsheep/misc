@@ -1,0 +1,725 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:16.21,0:01:19.81,Default,,0000,0000,0008,,{\blur3}宇宙:极冻{\r}
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:20.51,0:00:23.31,Default,,0000,0000,0000,,{\blur3}在这个广袤的太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Between stars, between galaxies,{\r}
+Dialogue: 0,0:00:23.49,0:00:25.52,Default,,0000,0000,0000,,{\blur3}大多数星体和星系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the vast majority of space,{\r}
+Dialogue: 0,0:00:25.97,0:00:30.58,Default,,0000,0000,0000,,{\blur3}其温度远低于零下450度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the temperature reads more than 450 degrees below zero.{\r}
+Dialogue: 0,0:00:31.33,0:00:34.66,Default,,0000,0000,0000,,{\blur3}极度严寒的太空甚至让我们呼吸的空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The deep freeze of space would turn even the air you breathe{\r}
+Dialogue: 0,0:00:34.69,0:00:36.54,Default,,0000,0000,0000,,{\blur3}变为坚冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into nothing more than solid ice.{\r}
+Dialogue: 0,0:00:37.52,0:00:39.79,Default,,0000,0000,0000,,{\blur3}遥远的冰冻世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now far off frozen places{\r}
+Dialogue: 0,0:00:39.98,0:00:42.02,Default,,0000,0000,0000,,{\blur3}带来了奇异的新奥秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}bring strange new mysteries.{\r}
+Dialogue: 0,0:00:42.63,0:00:47.23,Default,,0000,0000,0000,,{\blur3}布莫让星云也叫领结星云 比太空环境寒冷得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Boomerang or Bow Tie nebula is actually colder than the surrounding space.{\r}
+Dialogue: 0,0:00:48.34,0:00:50.69,Default,,0000,0000,0000,,{\blur3}冰冻世界里有生命吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is there life on frozen worlds?{\r}
+Dialogue: 0,0:00:51.28,0:00:53.30,Default,,0000,0000,0000,,{\blur3}而且 极端低温为什么会导致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And why does the ultimate cold{\r}
+Dialogue: 0,0:00:53.32,0:00:55.36,Default,,0000,0000,0000,,{\blur3}超乎我们认识的物理现象？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}change physics as we know it?{\r}
+Dialogue: 0,0:00:55.89,0:00:59.72,Default,,0000,0000,0000,,{\blur3}我们能让光变慢到自行车那样的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can take light and slow it down to the speed of a bicycle.{\r}
+Dialogue: 0,0:01:00.92,0:01:05.38,Default,,0000,0000,0000,,{\blur3}让我们一起去寻找宇宙里最低温的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Join us as we travel in search of the lowest temperatures in the universe{\r}
+Dialogue: 0,0:01:05.83,0:01:08.34,Default,,0000,0000,0000,,{\blur3}那个极端严寒的世界吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the ultimate deep freeze.{\r}
+Dialogue: 0,0:01:22.90,0:01:25.83,Default,,0000,0000,0000,,{\blur3}要深刻理解宇宙最低温的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To appreciate the coldest places in our universe,{\r}
+Dialogue: 0,0:01:26.61,0:01:28.23,Default,,0000,0000,0000,,{\blur3}就得了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's important to remember{\r}
+Dialogue: 0,0:01:28.25,0:01:31.61,Default,,0000,0000,0000,,{\blur3}它们以前炽热到什么程度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just how hot all of existence once was.{\r}
+Dialogue: 0,0:01:37.63,0:01:40.97,Default,,0000,0000,0000,,{\blur3}大爆炸剧烈爆发离子和能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think of the Big Bang as the ultimate hot event...{\r}
+Dialogue: 0,0:01:41.94,0:01:44.63,Default,,0000,0000,0000,,{\blur3}是一个极度高温的过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An excitement of plasma and energy.{\r}
+Dialogue: 0,0:01:45.99,0:01:48.24,Default,,0000,0000,0000,,{\blur3}在宇宙还处在高温的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the universe was really hot,{\r}
+Dialogue: 0,0:01:48.40,0:01:50.04,Default,,0000,0000,0000,,{\blur3}它并没有真正成形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was really without form.{\r}
+Dialogue: 0,0:01:50.09,0:01:53.02,Default,,0000,0000,0000,,{\blur3}放射物和粒子在高速运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was just radiation and particles all zooming around,{\r}
+Dialogue: 0,0:01:53.05,0:01:54.83,Default,,0000,0000,0000,,{\blur3}相互转变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}turning into each other.{\r}
+Dialogue: 0,0:01:58.20,0:02:00.66,Default,,0000,0000,0000,,{\blur3}大爆炸过程极其高温{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Big Bang was a supremely hot event,{\r}
+Dialogue: 0,0:02:00.74,0:02:04.45,Default,,0000,0000,0000,,{\blur3}大约是一亿兆兆度的开氏温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}roughly a hundred million trillion trillion Kelvins.{\r}
+Dialogue: 0,0:02:07.55,0:02:10.82,Default,,0000,0000,0000,,{\blur3}科学家们所说的开氏温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists measure temperature using the Kelvin scale,{\r}
+Dialogue: 0,0:02:11.20,0:02:13.37,Default,,0000,0000,0000,,{\blur3}其基准是绝对零度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which begins at absolute zero{\r}
+Dialogue: 0,0:02:13.59,0:02:15.95,Default,,0000,0000,0000,,{\blur3}那是已知的最低温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The coldest cold we know{\r}
+Dialogue: 0,0:02:16.05,0:02:18.45,Default,,0000,0000,0000,,{\blur3}原子运动此时完全不存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A complete lack of atomic movement.{\r}
+Dialogue: 0,0:02:21.05,0:02:26.37,Default,,0000,0000,0000,,{\blur3}在地球上 平均温度是开氏288度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Earth... the average temperature is 288 Kelvins...{\r}
+Dialogue: 0,0:02:28.30,0:02:30.48,Default,,0000,0000,0000,,{\blur3}即华氏59度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or 59 degrees Fahrenheit...{\r}
+Dialogue: 0,0:02:32.08,0:02:35.02,Default,,0000,0000,0000,,{\blur3}两种表述虽然不同 但都是指同一温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Two different ways of noting the same temperature.{\r}
+Dialogue: 0,0:02:36.06,0:02:37.70,Default,,0000,0000,0000,,{\blur3}宇宙形成之初{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When our universe first formed,{\r}
+Dialogue: 0,0:02:37.78,0:02:41.13,Default,,0000,0000,0000,,{\blur3}温度很高 甚至原子都不能存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was so hot that not even atoms could exist.{\r}
+Dialogue: 0,0:02:41.44,0:02:44.28,Default,,0000,0000,0000,,{\blur3}整个宇宙除了单纯的能量 什么都没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The entire universe was nothing except for pure energy.{\r}
+Dialogue: 0,0:02:45.96,0:02:48.30,Default,,0000,0000,0000,,{\blur3}在一百秒后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It took a hundred seconds for our universe{\r}
+Dialogue: 0,0:02:48.33,0:02:51.95,Default,,0000,0000,0000,,{\blur3}宇宙温度降到了十亿度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to cool to the point that it was only a billion degrees.{\r}
+Dialogue: 0,0:02:53.16,0:02:55.24,Default,,0000,0000,0000,,{\blur3}在很长的时间里 温度仍然很高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For a long time, everything was so hot{\r}
+Dialogue: 0,0:02:55.26,0:02:58.30,Default,,0000,0000,0000,,{\blur3}一切都被分裂为亚原子微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that everything was divided into subatomic particles{\r}
+Dialogue: 0,0:02:58.35,0:03:01.45,Default,,0000,0000,0000,,{\blur3}不是现在传统的原子状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not real traditional atoms the way that we think of matter now.{\r}
+Dialogue: 0,0:03:01.77,0:03:05.55,Default,,0000,0000,0000,,{\blur3}当宇宙温度降至足够低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe had to cool down to a sufficiently low temperature{\r}
+Dialogue: 0,0:03:05.67,0:03:08.37,Default,,0000,0000,0000,,{\blur3}首先是原子核得以形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that, first of all,atomic nuclei could form,{\r}
+Dialogue: 0,0:03:08.46,0:03:10.52,Default,,0000,0000,0000,,{\blur3}然后中性原子形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then neutral atoms could form.{\r}
+Dialogue: 0,0:03:10.85,0:03:14.31,Default,,0000,0000,0000,,{\blur3}因此 如果不是宇宙温度降到足够低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So without the universe cooling down to a sufficiently low temperature,{\r}
+Dialogue: 0,0:03:15.14,0:03:16.51,Default,,0000,0000,0000,,{\blur3}我们就不会存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we wouldn't exist.{\r}
+Dialogue: 0,0:03:18.02,0:03:23.16,Default,,0000,0000,0000,,{\blur3}宇宙温度继续下降 直到大爆炸后的56 000年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe kept cooling, until 56,000 years after the big bang{\r}
+Dialogue: 0,0:03:23.19,0:03:25.81,Default,,0000,0000,0000,,{\blur3}它冷却至9 000度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it had cooled to 9,000 degrees.{\r}
+Dialogue: 0,0:03:26.78,0:03:32.26,Default,,0000,0000,0000,,{\blur3}在大爆炸380 000年后 则下降至{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the universe kept cooling, until 380,000 years after the Big Bang{\r}
+Dialogue: 0,0:03:32.67,0:03:34.95,Default,,0000,0000,0000,,{\blur3}大约开氏3 000度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}temperatures reached about 3,000 Kelvin.{\r}
+Dialogue: 0,0:03:35.26,0:03:39.51,Default,,0000,0000,0000,,{\blur3}这是一个拐点 物质与能量终于分开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that was the point out which matter and energy finally parted company.{\r}
+Dialogue: 0,0:03:40.58,0:03:44.03,Default,,0000,0000,0000,,{\blur3}正是温度的下降 才让我们能够开始理解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As temperatures dropped to a level we can start to comprehend{\r}
+Dialogue: 0,0:03:44.17,0:03:48.71,Default,,0000,0000,0000,,{\blur3}热量与温度之间的关系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's important to understand the relationship between heat and temperature.{\r}
+Dialogue: 0,0:03:50.17,0:03:52.78,Default,,0000,0000,0000,,{\blur3}热量是能量转移的量度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Heat is a measurement of energy transfer.{\r}
+Dialogue: 0,0:03:53.91,0:03:55.73,Default,,0000,0000,0000,,{\blur3}温度是作用力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Temperature is action.{\r}
+Dialogue: 0,0:03:57.03,0:03:59.21,Default,,0000,0000,0000,,{\blur3}让微粒持续碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the easiest ways to think of temperature{\r}
+Dialogue: 0,0:03:59.27,0:04:01.76,Default,,0000,0000,0000,,{\blur3}是观察温度最简单的方法之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is as the constant collision of particles.{\r}
+Dialogue: 0,0:04:02.38,0:04:04.38,Default,,0000,0000,0000,,{\blur3}你增加房间里气体的量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You increase the amount of gas in a room,{\r}
+Dialogue: 0,0:04:04.84,0:04:07.94,Default,,0000,0000,0000,,{\blur3}它们会开始碰撞--互相紧挨着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they start colliding... One particle against another...{\r}
+Dialogue: 0,0:04:08.67,0:04:12.98,Default,,0000,0000,0000,,{\blur3}就象下午人流高峰期的东京街头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like people in a busy crosswalk on a Tokyo rush-hour afternoon.{\r}
+Dialogue: 0,0:04:13.64,0:04:17.48,Default,,0000,0000,0000,,{\blur3}正如这些气体分子相互碰撞 温度会升高一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As those gas molecules collide one with another, the temperature goes up.{\r}
+Dialogue: 0,0:04:17.96,0:04:20.48,Default,,0000,0000,0000,,{\blur3}在人碰人时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as those people collide one with another,{\r}
+Dialogue: 0,0:04:20.67,0:04:24.31,Default,,0000,0000,0000,,{\blur3}速度被转移 人会趔趄{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}their velocities get transferred, people get bumped forward,{\r}
+Dialogue: 0,0:04:24.60,0:04:26.21,Default,,0000,0000,0000,,{\blur3}体温也会升高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}their temperature goes up.{\r}
+Dialogue: 0,0:04:26.73,0:04:28.95,Default,,0000,0000,0000,,{\blur3}如果人少了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now you start removing people...{\r}
+Dialogue: 0,0:04:29.16,0:04:31.42,Default,,0000,0000,0000,,{\blur3}碰撞会变得不频繁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those collisions, they become less frequent.{\r}
+Dialogue: 0,0:04:32.09,0:04:35.46,Default,,0000,0000,0000,,{\blur3}神经变得不紧张 体温就会下降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nerves become less frayed... The temperature drops.{\r}
+Dialogue: 0,0:04:36.21,0:04:39.34,Default,,0000,0000,0000,,{\blur3}同样地 当你抽走房间里的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in the same way, as you remove gas from a room,{\r}
+Dialogue: 0,0:04:39.44,0:04:44.12,Default,,0000,0000,0000,,{\blur3}碰撞变得不频繁 气体温度就会降下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the collisions become less frequent, and it becomes cooler to experience.{\r}
+Dialogue: 0,0:04:48.05,0:04:52.95,Default,,0000,0000,0000,,{\blur3}人类在建设家园的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As mankind has spread out over all the lands that make up our home in the universe,{\r}
+Dialogue: 0,0:04:53.66,0:04:57.28,Default,,0000,0000,0000,,{\blur3}领略到了极寒地区的独特魅力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}areas of extreme cold hold a special fascination.{\r}
+Dialogue: 0,0:04:58.49,0:05:00.60,Default,,0000,0000,0000,,{\blur3}在地球上测到的最低温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The coldest temperature ever measured on Earth{\r}
+Dialogue: 0,0:05:00.63,0:05:02.30,Default,,0000,0000,0000,,{\blur3}是在南极洲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was measured in Antarctica,{\r}
+Dialogue: 0,0:05:02.32,0:05:05.89,Default,,0000,0000,0000,,{\blur3}它超过了零下125度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at over 125 degrees below zero.{\r}
+Dialogue: 0,0:05:07.49,0:05:09.84,Default,,0000,0000,0000,,{\blur3}这杯饮料里的干冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dry ice, like the ice in this drink,{\r}
+Dialogue: 0,0:05:09.98,0:05:13.16,Default,,0000,0000,0000,,{\blur3}大约是在零下109度时凝结的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}freezes out at about 109 degrees below zero.{\r}
+Dialogue: 0,0:05:13.41,0:05:18.09,Default,,0000,0000,0000,,{\blur3}所以在南极洲 你能找到自然形成的干冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you could have naturally occurring dry ice in the conditions found in Antarctica,{\r}
+Dialogue: 0,0:05:18.11,0:05:19.66,Default,,0000,0000,0000,,{\blur3}因为那里非常冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's so cold.{\r}
+Dialogue: 0,0:05:22.16,0:05:24.95,Default,,0000,0000,0000,,{\blur3}在见识了我们星球最低温的地方后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Having found the coldest place on our planet,{\r}
+Dialogue: 0,0:05:25.55,0:05:28.75,Default,,0000,0000,0000,,{\blur3}我们现在去探寻太阳系最低温的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we now journey to the coldest place in our Solar System.{\r}
+Dialogue: 0,0:05:29.43,0:05:32.81,Default,,0000,0000,0000,,{\blur3}出乎意料的是 我们并不需要去很远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And surprisingly, we don't have to go very far.{\r}
+Dialogue: 0,0:05:33.21,0:05:36.88,Default,,0000,0000,0000,,{\blur3}事实上 人类曾到过那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, it's a place where humans have already been.{\r}
+Dialogue: 0,0:05:37.56,0:05:39.95,Default,,0000,0000,0000,,{\blur3}从已知情况来看 最冷的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From what we know today, the coldest place{\r}
+Dialogue: 0,0:05:40.06,0:05:41.92,Default,,0000,0000,0000,,{\blur3}出乎人们的预料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}isn't exactly where you'd expect it.{\r}
+Dialogue: 0,0:05:43.52,0:05:44.96,Default,,0000,0000,0000,,{\blur3}月球轨道探测器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Lunar Reconnaissance Orbiter{\r}
+Dialogue: 0,0:05:44.99,0:05:49.50,Default,,0000,0000,0000,,{\blur3}在阳光永远照不到的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has detected a temperature of minus 397 degrees fahrenheit{\r}
+Dialogue: 0,0:05:49.74,0:05:53.11,Default,,0000,0000,0000,,{\blur3}发现其中一处只有华氏-397度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in one of those places where the sun's light never quite reaches.{\r}
+Dialogue: 0,0:05:55.85,0:05:59.14,Default,,0000,0000,0000,,{\blur3}它就位于月球一座环形山的底部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's actually in the bottom of a crater of our Earth's own Moon.{\r}
+Dialogue: 0,0:06:00.14,0:06:03.91,Default,,0000,0000,0000,,{\blur3}当月球环绕地球时 它缓慢地自转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the Moon goes around the Earth, it slowly rotates.{\r}
+Dialogue: 0,0:06:03.93,0:06:08.50,Default,,0000,0000,0000,,{\blur3}实际上 每绕地球一次就恰好自转一周{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, it rotates exactly once per time around the planet,{\r}
+Dialogue: 0,0:06:08.53,0:06:11.24,Default,,0000,0000,0000,,{\blur3}所以我们总是看到月球的同一个面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allowing us to always see the same face of the Moon.{\r}
+Dialogue: 0,0:06:11.96,0:06:14.10,Default,,0000,0000,0000,,{\blur3}在环绕的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But as it goes around,{\r}
+Dialogue: 0,0:06:14.66,0:06:18.16,Default,,0000,0000,0000,,{\blur3}阳光永远不能从北极下落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sunlight is never able to reach down into the northern pole{\r}
+Dialogue: 0,0:06:18.17,0:06:20.77,Default,,0000,0000,0000,,{\blur3}或是从南极升起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or reach up into the southern pole.{\r}
+Dialogue: 0,0:06:21.06,0:06:25.03,Default,,0000,0000,0000,,{\blur3}两地的环形山会永恒地呆在阴影里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And craters in those two regions are able to stay in constant shadow{\r}
+Dialogue: 0,0:06:25.25,0:06:29.46,Default,,0000,0000,0000,,{\blur3}因为阳光仅从其边缘一掠而过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the sunlight simply glances past the edge of the crater,{\r}
+Dialogue: 0,0:06:29.48,0:06:31.81,Default,,0000,0000,0000,,{\blur3}永远都不会照射进去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but never actually shines inside.{\r}
+Dialogue: 0,0:06:34.13,0:06:37.85,Default,,0000,0000,0000,,{\blur3}科学家在月球上发现极度严寒的现象后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once scientists discovered the ultra-deep freeze on our own Moon,{\r}
+Dialogue: 0,0:06:38.85,0:06:40.77,Default,,0000,0000,0000,,{\blur3}他们意识到 另有一个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they realized there was another place{\r}
+Dialogue: 0,0:06:40.86,0:06:44.45,Default,,0000,0000,0000,,{\blur3}即使位于如火的行星 也会同样寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could be equally cold... On a planet of fire.{\r}
+Dialogue: 0,0:06:45.28,0:06:48.24,Default,,0000,0000,0000,,{\blur3}就象月球的那些环形山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The realization that craters{\r}
+Dialogue: 0,0:06:48.27,0:06:50.97,Default,,0000,0000,0000,,{\blur3}它们会保护冰远离阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like those on the Moon could protect ices from sunlight,{\r}
+Dialogue: 0,0:06:51.00,0:06:53.54,Default,,0000,0000,0000,,{\blur3}我们认识到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}made us start to realize that{\r}
+Dialogue: 0,0:06:54.02,0:06:57.34,Default,,0000,0000,0000,,{\blur3}在任何地方的环形山 几乎都可能找到冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's possible to find ices in craters almost anywhere.{\r}
+Dialogue: 0,0:06:57.61,0:06:59.99,Default,,0000,0000,0000,,{\blur3}水星是最靠近太阳的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mercury is the closest planet to the Sun.{\r}
+Dialogue: 0,0:07:00.31,0:07:02.88,Default,,0000,0000,0000,,{\blur3}在向阳面 极为高温{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And its sunlit side is incredibly hot{\r}
+Dialogue: 0,0:07:03.02,0:07:05.63,Default,,0000,0000,0000,,{\blur3}温度在零上数百度以上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many hundred of degrees above absolute zero.{\r}
+Dialogue: 0,0:07:06.02,0:07:09.52,Default,,0000,0000,0000,,{\blur3}但水星的某些部分却是永恒地寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's some parts of Mercury that are perpetually cold{\r}
+Dialogue: 0,0:07:09.71,0:07:12.14,Default,,0000,0000,0000,,{\blur3}几乎是太阳系最冷的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Among the coldest places in the Solar System.{\r}
+Dialogue: 0,0:07:14.65,0:07:17.56,Default,,0000,0000,0000,,{\blur3}水星的倾斜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's Mercury's tilt... Or lack thereof...{\r}
+Dialogue: 0,0:07:17.63,0:07:20.85,Default,,0000,0000,0000,,{\blur3}保持了两极上环形山的严寒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Which keeps its polar craters in a deep freeze.{\r}
+Dialogue: 0,0:07:22.02,0:07:24.47,Default,,0000,0000,0000,,{\blur3}行星的倾斜以倾斜度来衡量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The tilt of the planet is called its obliquity.{\r}
+Dialogue: 0,0:07:24.65,0:07:27.28,Default,,0000,0000,0000,,{\blur3}地球大约倾斜23.5度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth is tilted about 23 1/2 degrees.{\r}
+Dialogue: 0,0:07:27.46,0:07:31.14,Default,,0000,0000,0000,,{\blur3}所以我们的两极每年只有六个月见到阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So our poles see sunlight about six months out of the year.{\r}
+Dialogue: 0,0:07:31.31,0:07:34.39,Default,,0000,0000,0000,,{\blur3}水星的倾斜度几乎为零{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Mercury the obliquity is almost zero.{\r}
+Dialogue: 0,0:07:34.52,0:07:36.59,Default,,0000,0000,0000,,{\blur3}极地上某些深邃的环形山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So at some deep craters at the poles,{\r}
+Dialogue: 0,0:07:36.75,0:07:40.10,Default,,0000,0000,0000,,{\blur3}会有永久阴影 终年不见阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are spots that are permanently shadowed and never see sunlight.{\r}
+Dialogue: 0,0:07:41.88,0:07:45.99,Default,,0000,0000,0000,,{\blur3}虽然在太阳系里 离太阳越远就会越冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although the Solar System gets colder the further you travel from the Sun,{\r}
+Dialogue: 0,0:07:46.40,0:07:49.36,Default,,0000,0000,0000,,{\blur3}但外层行星和它们卫星的寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the icy conditions of the outer planets and moons{\r}
+Dialogue: 0,0:07:49.50,0:07:52.39,Default,,0000,0000,0000,,{\blur3}并不能排除生命存在的可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}do not rule out the possibility of life.{\r}
+Dialogue: 0,0:07:53.25,0:07:55.71,Default,,0000,0000,0000,,{\blur3}在太阳系外边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Out in the outer edges of our Solar System,{\r}
+Dialogue: 0,0:07:56.15,0:08:00.60,Default,,0000,0000,0000,,{\blur3}有各种各样的冰冻卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we see a whole variety of frozen moons orbiting the outer planets.{\r}
+Dialogue: 0,0:08:02.95,0:08:05.74,Default,,0000,0000,0000,,{\blur3}在木星 土星 天王星和海王星周围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Around Jupiter, Saturn, Uranus and Neptune{\r}
+Dialogue: 0,0:08:05.87,0:08:08.20,Default,,0000,0000,0000,,{\blur3}全都是冰冻小世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are all of these little frozen worlds.{\r}
+Dialogue: 0,0:08:08.89,0:08:11.86,Default,,0000,0000,0000,,{\blur3}令人吃惊的是 可能 仅仅是可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what's amazing is maybe, just maybe,{\r}
+Dialogue: 0,0:08:12.29,0:08:14.20,Default,,0000,0000,0000,,{\blur3}有一些能支持生命存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some of them can support life.{\r}
+Dialogue: 0,0:08:16.05,0:08:18.48,Default,,0000,0000,0000,,{\blur3}科学家已经证实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists have overwhelming evidence{\r}
+Dialogue: 0,0:08:18.54,0:08:21.95,Default,,0000,0000,0000,,{\blur3}木星的卫星木卫二{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to support the notion that on Jupiter's moon Europa{\r}
+Dialogue: 0,0:08:22.26,0:08:26.73,Default,,0000,0000,0000,,{\blur3}在其表面冰层下 存在着一个流动的海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is an icy crust overlying a liquid ocean underneath.{\r}
+Dialogue: 0,0:08:28.32,0:08:30.15,Default,,0000,0000,0000,,{\blur3}太空生物学公认{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A common tenet of astrobiology{\r}
+Dialogue: 0,0:08:30.47,0:08:33.38,Default,,0000,0000,0000,,{\blur3}有液态水 生命就有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where there is liquid water there's the chance for life.{\r}
+Dialogue: 0,0:08:36.51,0:08:39.59,Default,,0000,0000,0000,,{\blur3}科学家们迫切希望象冰海渔夫一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists desperately want like ice fishermen{\r}
+Dialogue: 0,0:08:39.61,0:08:44.13,Default,,0000,0000,0000,,{\blur3}能到冰面上去挖洞 看看能捕捉到什么样的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to go and dig a hole in the ice and see what life we can pull up.{\r}
+Dialogue: 0,0:08:46.37,0:08:50.42,Default,,0000,0000,0000,,{\blur3}因为它会深藏于木卫二的海洋深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'Cause it could be that deep in the heart of those oceans of Europa,{\r}
+Dialogue: 0,0:08:50.90,0:08:53.61,Default,,0000,0000,0000,,{\blur3}就好比地球的海洋深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just like deep in the heart of the Earth's oceans,{\r}
+Dialogue: 0,0:08:53.82,0:08:56.99,Default,,0000,0000,0000,,{\blur3}那里的火山不仅养育细菌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's volcanoes that support not just bacteria{\r}
+Dialogue: 0,0:08:57.01,0:09:00.89,Default,,0000,0000,0000,,{\blur3}还养育着全体生命群--海藻 海黄瓜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but entire colonies of life Seaweed, sea cucumbers.{\r}
+Dialogue: 0,0:09:01.30,0:09:05.54,Default,,0000,0000,0000,,{\blur3}我们所知道的生命 是能够在木卫二海洋存在的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Life as we know it could exist in the oceans of Europa.{\r}
+Dialogue: 0,0:09:07.95,0:09:10.60,Default,,0000,0000,0000,,{\blur3}土星有一个卫星 它比较活跃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of Saturn's moons is a bit more active,{\r}
+Dialogue: 0,0:09:12.05,0:09:14.23,Default,,0000,0000,0000,,{\blur3}不断地向太空喷射冰雪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}blasting snow out into space.{\r}
+Dialogue: 0,0:09:16.20,0:09:18.92,Default,,0000,0000,0000,,{\blur3}土星的恩克拉多斯卫星有冰喷泉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Saturn's moon Enceladus has ice geysers.{\r}
+Dialogue: 0,0:09:19.15,0:09:22.49,Default,,0000,0000,0000,,{\blur3}科学家们在研究这些冰喷泉的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And scientists, in trying to find a mechanism for these geysers,{\r}
+Dialogue: 0,0:09:22.66,0:09:26.31,Default,,0000,0000,0000,,{\blur3}并没有在其中发现液态水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can find no good mechanism that doesn't involve liquid water.{\r}
+Dialogue: 0,0:09:29.46,0:09:32.10,Default,,0000,0000,0000,,{\blur3}木卫二间歇泉喷发的冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ice from the erupting geysers on Enceladus{\r}
+Dialogue: 0,0:09:32.12,0:09:35.93,Default,,0000,0000,0000,,{\blur3}覆盖着附近卫星 使之反光得更厉害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is coating nearby moons, making them more reflective.{\r}
+Dialogue: 0,0:09:37.45,0:09:40.67,Default,,0000,0000,0000,,{\blur3}科学家们是如何知道这些冰冻之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So how did scientists know that frozen places,{\r}
+Dialogue: 0,0:09:40.75,0:09:45.08,Default,,0000,0000,0000,,{\blur3}例如木卫二和恩克拉多斯 发生地质活动的呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}such as Europa and Enceladus, were geologically active?{\r}
+Dialogue: 0,0:09:45.83,0:09:48.62,Default,,0000,0000,0000,,{\blur3}关键之处就在于它们光滑的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The key lies in their smooth surfaces.{\r}
+Dialogue: 0,0:09:49.40,0:09:53.79,Default,,0000,0000,0000,,{\blur3}通过"航行者"航天器近距离拍摄恩克拉多斯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the Voyager Spacecraft sent back the first up-close images of Saturn's moon Enceladus,{\r}
+Dialogue: 0,0:09:54.01,0:09:56.41,Default,,0000,0000,0000,,{\blur3}他们在广袤的区域里 并没有看到环形山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they saw huge regions with no craters.{\r}
+Dialogue: 0,0:09:56.43,0:10:00.45,Default,,0000,0000,0000,,{\blur3}这说明了环形山被覆盖 其外观被改变了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This tells us that whatever craters were there were filled in, they were resurfaced.{\r}
+Dialogue: 0,0:10:00.60,0:10:04.14,Default,,0000,0000,0000,,{\blur3}这种现象很活跃--它们正在被覆盖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It tells us this is an active object... Stuff's going on here.{\r}
+Dialogue: 0,0:10:05.97,0:10:08.37,Default,,0000,0000,0000,,{\blur3}卫星 小行星 行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The number of craters on a planetary surface,{\r}
+Dialogue: 0,0:10:08.61,0:10:12.29,Default,,0000,0000,0000,,{\blur3}其环形山的数量 反映了表面形成的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}moon, asteroid, planet, tells us about the age of that surface.{\r}
+Dialogue: 0,0:10:12.67,0:10:15.33,Default,,0000,0000,0000,,{\blur3}在木卫四或者月球的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Jupiter's moon Callisto or our own Moon,{\r}
+Dialogue: 0,0:10:15.41,0:10:19.17,Default,,0000,0000,0000,,{\blur3}有许多环形山 这说明其外表面非常古老{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we see a lot of craters telling us we have a very old surface...{\r}
+Dialogue: 0,0:10:19.82,0:10:21.56,Default,,0000,0000,0000,,{\blur3}正如这里的冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just like this ice here.{\r}
+Dialogue: 0,0:10:21.68,0:10:23.85,Default,,0000,0000,0000,,{\blur3}它明显就是旧冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This ice is obviously old ice.{\r}
+Dialogue: 0,0:10:23.94,0:10:26.03,Default,,0000,0000,0000,,{\blur3}有片状的 有雪花状的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has cuts, it has snow.{\r}
+Dialogue: 0,0:10:26.16,0:10:28.99,Default,,0000,0000,0000,,{\blur3}显然 它已经有一段时间没被重新修整了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Obviously it has not been resurfaced for some time.{\r}
+Dialogue: 0,0:10:29.52,0:10:31.42,Default,,0000,0000,0000,,{\blur3}这里有我们要的答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's a solution for that.{\r}
+Dialogue: 0,0:10:49.17,0:10:52.13,Default,,0000,0000,0000,,{\blur3}行星科学家口中的"重整"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When planetary scientists talk about resurfacing,{\r}
+Dialogue: 0,0:10:52.65,0:10:54.46,Default,,0000,0000,0000,,{\blur3}并不是我们通常的概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this isn't usually what we have in mind.{\r}
+Dialogue: 0,0:11:03.51,0:11:06.45,Default,,0000,0000,0000,,{\blur3}现在 这台磨冰机走了过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right here, we can tell the zamboni has passed{\r}
+Dialogue: 0,0:11:06.48,0:11:08.66,Default,,0000,0000,0000,,{\blur3}我们会说 路面被重整了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can tell there's been a resurfacing event.{\r}
+Dialogue: 0,0:11:08.69,0:11:10.42,Default,,0000,0000,0000,,{\blur3}磨冰机走过之处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The zamboni has passed,{\r}
+Dialogue: 0,0:11:10.45,0:11:13.92,Default,,0000,0000,0000,,{\blur3}雪被清理 划痕被消除{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}clearing off the snow, eliminating the grooves.{\r}
+Dialogue: 0,0:11:14.16,0:11:17.72,Default,,0000,0000,0000,,{\blur3}同理 恩克拉多斯和提坦这些土星的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is just like we see on some of Saturn's moons like Enceladus and Titan,{\r}
+Dialogue: 0,0:11:17.89,0:11:20.51,Default,,0000,0000,0000,,{\blur3}只有新鲜的冰 看不到环形山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where the fresh ice without craters{\r}
+Dialogue: 0,0:11:20.64,0:11:23.17,Default,,0000,0000,0000,,{\blur3}说明那是年轻的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tells us that we have a young surface.{\r}
+Dialogue: 0,0:11:27.82,0:11:30.17,Default,,0000,0000,0000,,{\blur3}太阳系的寒冷之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The cold places in the distant Solar System{\r}
+Dialogue: 0,0:11:30.18,0:11:33.01,Default,,0000,0000,0000,,{\blur3}虽然距离遥远 但科学家们非常感兴趣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are of extreme interest to scientists.{\r}
+Dialogue: 0,0:11:33.65,0:11:36.37,Default,,0000,0000,0000,,{\blur3}研究这些太阳系的外层天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Studying these outer bodies in our Solar System{\r}
+Dialogue: 0,0:11:36.46,0:11:37.99,Default,,0000,0000,0000,,{\blur3}能让我们知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}teaches us about{\r}
+Dialogue: 0,0:11:38.00,0:11:41.65,Default,,0000,0000,0000,,{\blur3}最早期的太阳系由什么来组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what the Solar System was composed of in its very initial stages.{\r}
+Dialogue: 0,0:11:42.00,0:11:44.40,Default,,0000,0000,0000,,{\blur3}冰封的天体意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So these icy bodies represent{\r}
+Dialogue: 0,0:11:44.43,0:11:48.61,Default,,0000,0000,0000,,{\blur3}物质处于太阳系初始时期的原始状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pristine material that really represents the beginning of our Solar System and the{\r}
+Dialogue: 0,0:11:48.64,0:11:51.55,Default,,0000,0000,0000,,{\blur3}真实反映出构成太阳系的要素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}building blocks out of which our Solar System formed.{\r}
+Dialogue: 0,0:11:52.90,0:11:55.65,Default,,0000,0000,0000,,{\blur3}三 二 一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Three, two, one.{\r}
+Dialogue: 0,0:11:56.63,0:12:00.98,Default,,0000,0000,0000,,{\blur3}美国宇航局的"新视野号"已经点火发射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have ignition, and liftoff of NASA's New Horizons spacecraft{\r}
+Dialogue: 0,0:12:01.00,0:12:04.62,Default,,0000,0000,0000,,{\blur3}开始了长达十年的旅程 去拜访冥王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a decade-long voyage to visit the planet Pluto{\r}
+Dialogue: 0,0:12:04.65,0:12:06.31,Default,,0000,0000,0000,,{\blur3}然后飞往太空深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then beyond.{\r}
+Dialogue: 0,0:12:09.41,0:12:11.30,Default,,0000,0000,0000,,{\blur3}现在 一个新尝试正在进行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now a new effort is underway{\r}
+Dialogue: 0,0:12:11.32,0:12:13.87,Default,,0000,0000,0000,,{\blur3}它将更近距离地去观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to get a closer look at some of the frozen leftovers{\r}
+Dialogue: 0,0:12:13.90,0:12:16.67,Default,,0000,0000,0000,,{\blur3}被冻结的某些太阳系初期的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from our Solar System's formative years.{\r}
+Dialogue: 0,0:12:18.68,0:12:20.57,Default,,0000,0000,0000,,{\blur3}"新视野"的任务是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The New Horizons mission is{\r}
+Dialogue: 0,0:12:20.65,0:12:24.64,Default,,0000,0000,0000,,{\blur3}探测太阳系外层边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA's latest mission to explore the outer edges of the Solar System.{\r}
+Dialogue: 0,0:12:24.69,0:12:27.21,Default,,0000,0000,0000,,{\blur3}它是目前太阳系里速度最快的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's currently the fastest moving object in the Solar System.{\r}
+Dialogue: 0,0:12:27.24,0:12:31.27,Default,,0000,0000,0000,,{\blur3}在2015年 它将到达曾被认为是行星的冥王星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in 2015, it will reach the once-and-former planet Pluto.{\r}
+Dialogue: 0,0:12:32.73,0:12:35.74,Default,,0000,0000,0000,,{\blur3}而在冥王星之后 又到哪里呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But after Pluto, where to?{\r}
+Dialogue: 0,0:12:36.58,0:12:39.84,Default,,0000,0000,0000,,{\blur3}这是一代人难得的一次机会 能够近距离地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a once-in-a-generation opportunity to get a close-up{\r}
+Dialogue: 0,0:12:39.87,0:12:43.90,Default,,0000,0000,0000,,{\blur3}去观察数十亿年前的冰封世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}look at frozen objects dating back billions of years.{\r}
+Dialogue: 0,0:12:44.72,0:12:49.39,Default,,0000,0000,0000,,{\blur3}唯一的问题是 科学家们还没有为新视野号确定第二个目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The only problem... Scientists don't yet have a second target for New Horizons.{\r}
+Dialogue: 0,0:12:50.20,0:12:55.26,Default,,0000,0000,0000,,{\blur3}而这个史无前例的探测器 正以超过37 000英里的时速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Without one, the probe is speeding at more than 37,000 miles an hour,{\r}
+Dialogue: 0,0:12:55.26,0:12:59.05,Default,,0000,0000,0000,,{\blur3}奔向冰冷黑暗的太空深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}straight for the icy blackness of deep space.{\r}
+Dialogue: 0,0:13:04.45,0:13:07.37,Default,,0000,0000,0000,,{\blur3}要想知道我们的太阳和行星怎样形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you want to know how our Sun and planets formed,{\r}
+Dialogue: 0,0:13:08.48,0:13:10.68,Default,,0000,0000,0000,,{\blur3}只有在太阳系遥远的极冻之处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you just might find answers in{\r}
+Dialogue: 0,0:13:10.70,0:13:13.90,Default,,0000,0000,0000,,{\blur3}或许才能寻找到答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deep freeze of the distant Solar System.{\r}
+Dialogue: 0,0:13:17.80,0:13:19.72,Default,,0000,0000,0000,,{\blur3}新视野号的冥王星之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The New Horizons mission to Pluto{\r}
+Dialogue: 0,0:13:19.75,0:13:23.88,Default,,0000,0000,0000,,{\blur3}是想得到冥王星大量的新信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is expected to provide a wealth of new information about the former planet.{\r}
+Dialogue: 0,0:13:25.02,0:13:27.23,Default,,0000,0000,0000,,{\blur3}在它与冥王星约会后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But after its rendezvous with Pluto,{\r}
+Dialogue: 0,0:13:27.26,0:13:31.12,Default,,0000,0000,0000,,{\blur3}我们还能怎样去了解外太空的极冻角落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what else can we learn about the coldest corners of outer space{\r}
+Dialogue: 0,0:13:31.55,0:13:33.58,Default,,0000,0000,0000,,{\blur3}研究我们来自何处？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and where we came from?{\r}
+Dialogue: 0,0:13:35.33,0:13:37.84,Default,,0000,0000,0000,,{\blur3}这正是数以千计的科学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's where thousands of citizen scientists{\r}
+Dialogue: 0,0:13:37.87,0:13:40.37,Default,,0000,0000,0000,,{\blur3}努力的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}across the world are hoping to make a difference{\r}
+Dialogue: 0,0:13:40.75,0:13:43.63,Default,,0000,0000,0000,,{\blur3}但此举无异于大海捞针{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by finding a frozen needle in a haystack.{\r}
+Dialogue: 0,0:13:44.57,0:13:47.09,Default,,0000,0000,0000,,{\blur3}新视野号的任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The New Horizons mission's destination{\r}
+Dialogue: 0,0:13:47.70,0:13:51.90,Default,,0000,0000,0000,,{\blur3}拜访这个从前的行星后 被确定下来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After it visits this once and former planet... Has yet to be found.{\r}
+Dialogue: 0,0:13:52.19,0:13:54.87,Default,,0000,0000,0000,,{\blur3}现在 世界各地的科学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And right now there are scientists around the world{\r}
+Dialogue: 0,0:13:54.88,0:13:58.83,Default,,0000,0000,0000,,{\blur3}会使用"昴星" "加-法-夏"这些最大型的望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using some of the largest telescopes... Subaru, CFHT.{\r}
+Dialogue: 0,0:13:58.84,0:14:01.23,Default,,0000,0000,0000,,{\blur3}去跟踪预定的太空区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're peering into the region of space{\r}
+Dialogue: 0,0:14:01.25,0:14:03.58,Default,,0000,0000,0000,,{\blur3}希望能发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where we expect to find the object{\r}
+Dialogue: 0,0:14:03.61,0:14:05.61,Default,,0000,0000,0000,,{\blur3}沿自身轨道运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will have just the right orbit that it will{\r}
+Dialogue: 0,0:14:05.83,0:14:09.91,Default,,0000,0000,0000,,{\blur3}恰好能与新视野号会面的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}move itself into the path of the New Horizons mission.{\r}
+Dialogue: 0,0:14:11.22,0:14:13.65,Default,,0000,0000,0000,,{\blur3}但目前的棘手问题是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now the catch is we have to find{\r}
+Dialogue: 0,0:14:13.68,0:14:16.95,Default,,0000,0000,0000,,{\blur3}我们要从数以千万计的照片中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that icy object in the outer Solar System{\r}
+Dialogue: 0,0:14:17.12,0:14:21.29,Default,,0000,0000,0000,,{\blur3}去寻找外太阳系里的冰冻物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by flipping through all these thousands, millions of images.{\r}
+Dialogue: 0,0:14:22.34,0:14:24.23,Default,,0000,0000,0000,,{\blur3}对普罗大众来说 这是一个机遇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a chance for the general public{\r}
+Dialogue: 0,0:14:24.25,0:14:27.95,Default,,0000,0000,0000,,{\blur3}能够亲身参与探索太阳系最冷之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to be part of the exploration of the coldest zone of the Solar System.{\r}
+Dialogue: 0,0:14:30.15,0:14:32.01,Default,,0000,0000,0000,,{\blur3}在这个事情上 我们需要公众的支持{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is where we need the public's help.{\r}
+Dialogue: 0,0:14:32.08,0:14:35.91,Default,,0000,0000,0000,,{\blur3}我们需要大家来帮助浏览所有照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We need everyone with eyes to help us look through all of these images,{\r}
+Dialogue: 0,0:14:35.95,0:14:38.58,Default,,0000,0000,0000,,{\blur3}努力找到新视野号在访问冥王星后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to try and find that piece of ice{\r}
+Dialogue: 0,0:14:38.64,0:14:41.64,Default,,0000,0000,0000,,{\blur3}有关冰冻物体的蛛丝马迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that New Horizons will visit after it visits Pluto.{\r}
+Dialogue: 0,0:14:42.72,0:14:46.08,Default,,0000,0000,0000,,{\blur3}只要访问网站 浏览照片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All it takes is visiting a website and looking at images,{\r}
+Dialogue: 0,0:14:46.28,0:14:49.07,Default,,0000,0000,0000,,{\blur3}你就可能改变历史的发展方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you could change the course of history.{\r}
+Dialogue: 0,0:14:49.70,0:14:52.32,Default,,0000,0000,0000,,{\blur3}这就是项目的神奇之处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's the amazing thing about this project.{\r}
+Dialogue: 0,0:14:53.47,0:14:55.69,Default,,0000,0000,0000,,{\blur3}这个神秘物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's expected that this mystery object{\r}
+Dialogue: 0,0:14:55.70,0:14:58.29,Default,,0000,0000,0000,,{\blur3}无论它是什么 在什么时候能被发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever it is and whenever it's found{\r}
+Dialogue: 0,0:14:58.43,0:15:01.76,Default,,0000,0000,0000,,{\blur3}它会是相当低温 寒冷至极的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will likely be cold... very cold.{\r}
+Dialogue: 0,0:15:02.14,0:15:06.34,Default,,0000,0000,0000,,{\blur3}毕竟 柯伊伯带本身就是太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After all, other Kuiper Belt objects are among the coldest places{\r}
+Dialogue: 0,0:15:06.36,0:15:07.86,Default,,0000,0000,0000,,{\blur3}最寒冷的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our Solar System.{\r}
+Dialogue: 0,0:15:08.71,0:15:11.02,Default,,0000,0000,0000,,{\blur3}离太阳越远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As you get further and further away from the Sun,{\r}
+Dialogue: 0,0:15:11.20,0:15:14.04,Default,,0000,0000,0000,,{\blur3}它提供给人类 航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}its energy is less and less able to{\r}
+Dialogue: 0,0:15:14.53,0:15:18.31,Default,,0000,0000,0000,,{\blur3}以及一切物体保持暖和的能量就越少{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}keep humans, to keep spacecraft, to keep anything warm.{\r}
+Dialogue: 0,0:15:18.62,0:15:21.57,Default,,0000,0000,0000,,{\blur3}温度会下降到大约开氏40度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're down at temperatures around 40 Kelvin.{\r}
+Dialogue: 0,0:15:21.97,0:15:25.49,Default,,0000,0000,0000,,{\blur3}在此温度下 氮气会变成固体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are temperatures when nitrogen becomes a solid,{\r}
+Dialogue: 0,0:15:25.52,0:15:27.83,Default,,0000,0000,0000,,{\blur3}二氧化碳气体会变成固体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when carbon dioxide becomes a solid,{\r}
+Dialogue: 0,0:15:27.86,0:15:32.67,Default,,0000,0000,0000,,{\blur3}所有我们所熟知的在我们大气中的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when all the things we're used to thinking of as the gases in the air around us...{\r}
+Dialogue: 0,0:15:33.46,0:15:35.77,Default,,0000,0000,0000,,{\blur3}都会开始变成硬邦邦的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Start to become the ground you walk on.{\r}
+Dialogue: 0,0:15:36.56,0:15:39.58,Default,,0000,0000,0000,,{\blur3}在冥王星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when we look at Pluto and its surface,{\r}
+Dialogue: 0,0:15:39.83,0:15:42.21,Default,,0000,0000,0000,,{\blur3}是一个完全冰封的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what we're seeing is a completely frozen world{\r}
+Dialogue: 0,0:15:42.24,0:15:44.36,Default,,0000,0000,0000,,{\blur3}几乎没有阳光照射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that sees so little sunlight{\r}
+Dialogue: 0,0:15:45.06,0:15:50.81,Default,,0000,0000,0000,,{\blur3}我们通常见到的汹涌河流 或者一杯水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the things that we're used to... Rivers flowing, a glass of water to drink{\r}
+Dialogue: 0,0:15:51.13,0:15:54.18,Default,,0000,0000,0000,,{\blur3}都不会存在 即使是我们呼吸的空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They can't exist, because even the air we breathe{\r}
+Dialogue: 0,0:15:54.35,0:15:56.08,Default,,0000,0000,0000,,{\blur3}也会冻结成为固体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would freeze out to a solid.{\r}
+Dialogue: 0,0:15:58.89,0:16:01.65,Default,,0000,0000,0000,,{\blur3}另一个被极寒控制的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another world dominated by deep freeze...{\r}
+Dialogue: 0,0:16:01.77,0:16:04.21,Default,,0000,0000,0000,,{\blur3}是一颗遥远的海王星外天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A far-off trans-Neptunian object{\r}
+Dialogue: 0,0:16:04.24,0:16:08.10,Default,,0000,0000,0000,,{\blur3}它被冠以北极冰神之名--赛德娜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}named for an arctic ice goddess... Sedna.{\r}
+Dialogue: 0,0:16:08.75,0:16:11.08,Default,,0000,0000,0000,,{\blur3}在外太阳系的某些物体 比如赛德娜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some objects in the outer Solar System, like Sedna,{\r}
+Dialogue: 0,0:16:11.13,0:16:12.72,Default,,0000,0000,0000,,{\blur3}其轨道非常古怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have very eccentric orbits,{\r}
+Dialogue: 0,0:16:12.75,0:16:15.79,Default,,0000,0000,0000,,{\blur3}大部分时间处于太阳系的极寒中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they spend the bulk of their time in the Solar System's deep freeze.{\r}
+Dialogue: 0,0:16:16.12,0:16:19.95,Default,,0000,0000,0000,,{\blur3}然而 在处于靠近太阳的一小段轨道时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, when they come close to the Sun for a short period of their orbit,{\r}
+Dialogue: 0,0:16:19.97,0:16:22.03,Default,,0000,0000,0000,,{\blur3}时间大约是200年 它们会产生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like 200 years, they actually develop{\r}
+Dialogue: 0,0:16:22.05,0:16:24.77,Default,,0000,0000,0000,,{\blur3}非常稀疏 非常薄的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a very thin, a very tenuous atmosphere.{\r}
+Dialogue: 0,0:16:26.03,0:16:30.43,Default,,0000,0000,0000,,{\blur3}当行星远离 这个大气层会沉积回到表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the planetoid recedes, that atmosphere collapses back to the surface.{\r}
+Dialogue: 0,0:16:31.53,0:16:35.95,Default,,0000,0000,0000,,{\blur3}赛德娜与太阳的距离 通常约为海王星的三倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sedna is currently about three times Neptune's distance from the Sun.{\r}
+Dialogue: 0,0:16:36.15,0:16:39.98,Default,,0000,0000,0000,,{\blur3}在最接近太阳的时候 是海王星的2.5倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And upon closest approach, it's 2 1/2 times Neptune's distance.{\r}
+Dialogue: 0,0:16:40.53,0:16:45.52,Default,,0000,0000,0000,,{\blur3}当它运行到最远端 大约是海王星相应距离的33倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, when it's farthest away, it's about 33 times Neptune's distance.{\r}
+Dialogue: 0,0:16:45.82,0:16:49.76,Default,,0000,0000,0000,,{\blur3}总运行周期约为11 000年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And a total orbital period is about 11,000 years.{\r}
+Dialogue: 0,0:16:50.15,0:16:54.76,Default,,0000,0000,0000,,{\blur3}所以说 它最近一次接近太阳是在公元前9 000年左右{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the last time it was this close to the Sun was around 9,000 BC.{\r}
+Dialogue: 0,0:16:56.59,0:16:59.70,Default,,0000,0000,0000,,{\blur3}赛德娜怎么会形成这样古怪的轨道呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So how did Sedna end up with such a strange orbit?{\r}
+Dialogue: 0,0:17:01.18,0:17:05.72,Default,,0000,0000,0000,,{\blur3}最初有人认为赛德娜被逐至目前位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some people initially thought that Sedna got ejected out to where it is{\r}
+Dialogue: 0,0:17:05.83,0:17:07.80,Default,,0000,0000,0000,,{\blur3}是因为与海王星的相互作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by an interaction with Neptune.{\r}
+Dialogue: 0,0:17:07.94,0:17:10.98,Default,,0000,0000,0000,,{\blur3}但基于赛德娜离太阳最近时的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But since the closest Sedna ever gets to the Sun{\r}
+Dialogue: 0,0:17:11.00,0:17:15.02,Default,,0000,0000,0000,,{\blur3}是海王星的2.5倍 事情未必是这样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is 2 1/2 times Neptune's distance, this may be unlikely.{\r}
+Dialogue: 0,0:17:15.48,0:17:19.24,Default,,0000,0000,0000,,{\blur3}相反地 可能是一颗路过的星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead, it's possible that a passing star{\r}
+Dialogue: 0,0:17:19.36,0:17:21.79,Default,,0000,0000,0000,,{\blur3}把赛德娜驱逐出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually dislodged Sedna,{\r}
+Dialogue: 0,0:17:21.93,0:17:26.24,Default,,0000,0000,0000,,{\blur3}让诞生在海王星附近的它 来到了目前地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from where it formed near Neptune out to where it is right now...{\r}
+Dialogue: 0,0:17:27.16,0:17:30.48,Default,,0000,0000,0000,,{\blur3}说不定 那是太阳形成之时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Perhaps even one of the stars in the cluster{\r}
+Dialogue: 0,0:17:30.53,0:17:33.20,Default,,0000,0000,0000,,{\blur3}众多星体中的一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in which the Sun initially is thought to have formed.{\r}
+Dialogue: 0,0:17:34.65,0:17:38.84,Default,,0000,0000,0000,,{\blur3}在外太空奥尔特云核心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sedna may be just the first known object in a whole swarm{\r}
+Dialogue: 0,0:17:39.04,0:17:41.93,Default,,0000,0000,0000,,{\blur3}星罗棋布的冰冻物体中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of other icy bodies that would be{\r}
+Dialogue: 0,0:17:42.06,0:17:46.26,Default,,0000,0000,0000,,{\blur3}赛德娜也许是我们了解的第一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the inner part of this Oort Cloud that we think exists out there.{\r}
+Dialogue: 0,0:17:49.17,0:17:52.66,Default,,0000,0000,0000,,{\blur3}地球上的冰 我们通常认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When it comes to ice on Earth, we're usually talking about{\r}
+Dialogue: 0,0:17:52.67,0:17:54.55,Default,,0000,0000,0000,,{\blur3}这是水处于冰冻状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}water in its frozen state.{\r}
+Dialogue: 0,0:17:55.97,0:17:59.04,Default,,0000,0000,0000,,{\blur3}但在赛德娜这样的极寒地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But ice in the deep freeze of a place like Sedna{\r}
+Dialogue: 0,0:17:59.55,0:18:02.04,Default,,0000,0000,0000,,{\blur3}冰不见得一定与水有关{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}doesn't necessarily refer to water.{\r}
+Dialogue: 0,0:18:02.82,0:18:05.03,Default,,0000,0000,0000,,{\blur3}大多数人一想到冰 就会想到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When most people think of ice, they think of the stuff{\r}
+Dialogue: 0,0:18:05.05,0:18:06.99,Default,,0000,0000,0000,,{\blur3}冰箱里的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that comes out of their freezer.{\r}
+Dialogue: 0,0:18:07.41,0:18:09.33,Default,,0000,0000,0000,,{\blur3}但科学家们口中的冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when scientists talk of ices,{\r}
+Dialogue: 0,0:18:09.42,0:18:11.87,Default,,0000,0000,0000,,{\blur3}所指的却是一个化学转变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're just talking about a chemical transition.{\r}
+Dialogue: 0,0:18:12.17,0:18:14.82,Default,,0000,0000,0000,,{\blur3}我们考虑的是 怎样让它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're talking about how you can take{\r}
+Dialogue: 0,0:18:14.87,0:18:16.99,Default,,0000,0000,0000,,{\blur3}有时是气体 有时是液体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sometimes a gas, sometimes a liquid,{\r}
+Dialogue: 0,0:18:17.20,0:18:20.42,Default,,0000,0000,0000,,{\blur3}降低它的温度 汲取它的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and drop its temperature, leech out the energy,{\r}
+Dialogue: 0,0:18:20.93,0:18:25.07,Default,,0000,0000,0000,,{\blur3}直到原子规规矩矩后 它变为固体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until the atoms change how they behave and become a solid.{\r}
+Dialogue: 0,0:18:25.51,0:18:28.08,Default,,0000,0000,0000,,{\blur3}在外太阳系 我们发现氨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the outer Solar System, we find ammonia{\r}
+Dialogue: 0,0:18:28.50,0:18:29.78,Default,,0000,0000,0000,,{\blur3}日常用的清洁剂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cleaning solution...{\r}
+Dialogue: 0,0:18:30.07,0:18:31.67,Default,,0000,0000,0000,,{\blur3}被冻结成为固体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Freezes out to a solid.{\r}
+Dialogue: 0,0:18:32.03,0:18:36.76,Default,,0000,0000,0000,,{\blur3}我们发现甲烷 天然气被冻结成固体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We find methane, natural gas, freezes out to a solid.{\r}
+Dialogue: 0,0:18:37.31,0:18:40.10,Default,,0000,0000,0000,,{\blur3}干冰--在地球上的实验室也制造{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dry ice... Something that we make in labs here on Earth...{\r}
+Dialogue: 0,0:18:40.31,0:18:42.50,Default,,0000,0000,0000,,{\blur3}在太阳系里充斥着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our Solar System's completely filled with it.{\r}
+Dialogue: 0,0:18:42.96,0:18:47.92,Default,,0000,0000,0000,,{\blur3}对科学家来说 冰只是特别状态下的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To a scientist, ice is just something that is in a different state,{\r}
+Dialogue: 0,0:18:47.98,0:18:51.83,Default,,0000,0000,0000,,{\blur3}当你加热它 它轻而易举地变成气体或者液体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that readily, when you add heat, becomes either a gas or a liquid.{\r}
+Dialogue: 0,0:18:59.27,0:19:02.13,Default,,0000,0000,0000,,{\blur3}某些冰 比如这块冰结的二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some ices, like this frozen carbon dioxide,{\r}
+Dialogue: 0,0:19:02.55,0:19:05.73,Default,,0000,0000,0000,,{\blur3}不会象水一样从固体变成液体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}don't go from a solid to a liquid, like water.{\r}
+Dialogue: 0,0:19:05.93,0:19:08.05,Default,,0000,0000,0000,,{\blur3}而是直接变成气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead, they go straight into gas.{\r}
+Dialogue: 0,0:19:09.00,0:19:12.81,Default,,0000,0000,0000,,{\blur3}这种冰是组成冥王星 厄里斯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This type of ice is the exact same sort of stuff{\r}
+Dialogue: 0,0:19:12.84,0:19:15.85,Default,,0000,0000,0000,,{\blur3}以及外太阳系其它世界的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that makes up part of the composition of Pluto and Eris,{\r}
+Dialogue: 0,0:19:15.88,0:19:18.95,Default,,0000,0000,0000,,{\blur3}共同的结构材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and many of the other outer worlds in our Solar System.{\r}
+Dialogue: 0,0:19:19.82,0:19:22.57,Default,,0000,0000,0000,,{\blur3}我们所见到的彗星尾巴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we see a comet, when we see its tail{\r}
+Dialogue: 0,0:19:22.60,0:19:24.89,Default,,0000,0000,0000,,{\blur3}就是气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what we're actually seeing is gases{\r}
+Dialogue: 0,0:19:25.87,0:19:28.28,Default,,0000,0000,0000,,{\blur3}就象气体从这块干冰逸出一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like the gases coming off of this dry ice...{\r}
+Dialogue: 0,0:19:28.39,0:19:32.13,Default,,0000,0000,0000,,{\blur3}在太阳辐射的作用下 它们在彗星后部不断散发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That are getting streamed out behind the comet by the Sun's radiation.{\r}
+Dialogue: 0,0:19:32.82,0:19:34.85,Default,,0000,0000,0000,,{\blur3}瞧 很有趣吧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here on Earth, it's just fun to play with.{\r}
+Dialogue: 0,0:19:35.93,0:19:39.57,Default,,0000,0000,0000,,{\blur3}我正被无数由水构成的冰块包围着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this room, I'm surrounded by blocks of water ice.{\r}
+Dialogue: 0,0:19:39.63,0:19:43.05,Default,,0000,0000,0000,,{\blur3}这种冰在地球上非常普遍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And indeed, water ice is quite common here on Earth,{\r}
+Dialogue: 0,0:19:43.43,0:19:48.06,Default,,0000,0000,0000,,{\blur3}甚至在太阳系的其它一些地方 比如木卫二 也是如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even some other places in the Solar System, like Jupiter's moon Europa.{\r}
+Dialogue: 0,0:19:48.34,0:19:51.25,Default,,0000,0000,0000,,{\blur3}但在某些地方 则是其它类型的冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there are some places that have other kinds of ices.{\r}
+Dialogue: 0,0:19:52.20,0:19:53.98,Default,,0000,0000,0000,,{\blur3}比如土星的卫星泰坦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Saturn's moon Titan, for example,{\r}
+Dialogue: 0,0:19:54.00,0:19:57.43,Default,,0000,0000,0000,,{\blur3}其表面是甲烷和乙烷的冰块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has methane and ethane ices on its surface.{\r}
+Dialogue: 0,0:19:58.00,0:20:01.27,Default,,0000,0000,0000,,{\blur3}所以说 由水形成的冰不是冰的唯一类型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So water ice is not the only kind of ice that there is.{\r}
+Dialogue: 0,0:20:03.31,0:20:07.14,Default,,0000,0000,0000,,{\blur3}要观察冰的多样化 最适当对象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you're looking for a variety of ices in one convenient location,{\r}
+Dialogue: 0,0:20:07.78,0:20:09.52,Default,,0000,0000,0000,,{\blur3}莫过于彗星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}check out a comet.{\r}
+Dialogue: 0,0:20:10.49,0:20:12.63,Default,,0000,0000,0000,,{\blur3}研究彗星的好处是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What's exciting about studying comets{\r}
+Dialogue: 0,0:20:12.66,0:20:15.91,Default,,0000,0000,0000,,{\blur3}你能观察到组成我们太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that you're seeing the material out of which our whole Solar System,{\r}
+Dialogue: 0,0:20:15.92,0:20:18.23,Default,,0000,0000,0000,,{\blur3}包括地球在内的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including the Earth, was made{\r}
+Dialogue: 0,0:20:18.61,0:20:22.88,Default,,0000,0000,0000,,{\blur3}它在太阳系演变早期 一下子被冻结起来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Flash-frozen at an early time in the Solar System's evolution.{\r}
+Dialogue: 0,0:20:23.67,0:20:28.06,Default,,0000,0000,0000,,{\blur3}许多科学家相信 彗星是地球上广袤海洋的源泉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many scientists believe comets are responsible for Earth's vast oceans...{\r}
+Dialogue: 0,0:20:29.00,0:20:33.27,Default,,0000,0000,0000,,{\blur3}无数世纪的彗星撞击 把液态水带到了地球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That eons of comet impacts brought liquid water to Earth's surface.{\r}
+Dialogue: 0,0:20:34.63,0:20:38.95,Default,,0000,0000,0000,,{\blur3}果真如此的话 这些携带水份的彗星或许是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that's the case, these water-carrying comets are likely responsible{\r}
+Dialogue: 0,0:20:39.10,0:20:41.77,Default,,0000,0000,0000,,{\blur3}地球上每一个生命的始作俑者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for every living thing on the planet.{\r}
+Dialogue: 0,0:20:44.32,0:20:48.46,Default,,0000,0000,0000,,{\blur3}哪一个更寒冷呢 彗星还是小行星？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what's colder... A comet or an asteroid?{\r}
+Dialogue: 0,0:20:49.59,0:20:55.06,Default,,0000,0000,0000,,{\blur3}这是来自爱荷华州的特拉维斯 对《询问宇宙》提出的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what Travis S. of Cedar Rapids Iowa wanted to ask the universe{\r}
+Dialogue: 0,0:20:56.13,0:20:59.17,Default,,0000,0000,0000,,{\blur3}特拉维斯 彗星在穿越太空的大部分旅程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Travis, comets are actually colder than asteroids{\r}
+Dialogue: 0,0:20:59.20,0:21:01.34,Default,,0000,0000,0000,,{\blur3}比小行星更为寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}over most of their journey through space.{\r}
+Dialogue: 0,0:21:01.60,0:21:06.09,Default,,0000,0000,0000,,{\blur3}这是因为彗星出自太阳系的极冻之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's because comets start out from the deep freeze of the Solar System.{\r}
+Dialogue: 0,0:21:06.64,0:21:08.68,Default,,0000,0000,0000,,{\blur3}那里非常寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's really cold out there.{\r}
+Dialogue: 0,0:21:09.88,0:21:12.50,Default,,0000,0000,0000,,{\blur3}而小行星总是相当接近太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Asteroids are always reasonably close to the Sun,{\r}
+Dialogue: 0,0:21:12.53,0:21:14.85,Default,,0000,0000,0000,,{\blur3}所以它们普遍比彗星暖和{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they're,in general, warmer than comets.{\r}
+Dialogue: 0,0:21:17.75,0:21:20.85,Default,,0000,0000,0000,,{\blur3}冰冻的彗星 冰封的小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Frozen comets, icy asteroids...{\r}
+Dialogue: 0,0:21:21.13,0:21:24.43,Default,,0000,0000,0000,,{\blur3}被冰雪覆盖的世界是怎样的情形？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what about whole worlds covered in ice and snow?{\r}
+Dialogue: 0,0:21:25.39,0:21:28.78,Default,,0000,0000,0000,,{\blur3}我们寻找的宇宙最冷之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we continue our search for the coldest places in the universe,{\r}
+Dialogue: 0,0:21:29.18,0:21:31.09,Default,,0000,0000,0000,,{\blur3}温度会是多低呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how low can we go?{\r}
+Dialogue: 0,0:21:31.65,0:21:35.42,Default,,0000,0000,0000,,{\blur3}在行星表面冰层下存活的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And could life survive under the icy surface of a planet{\r}
+Dialogue: 0,0:21:35.64,0:21:37.71,Default,,0000,0000,0000,,{\blur3}能否在星体之间漫游？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}wandering between the stars?{\r}
+Dialogue: 0,0:21:41.82,0:21:44.43,Default,,0000,0000,0000,,{\blur3}寒冷在宇宙里扮演着关键角色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cold plays a key role in our universe.{\r}
+Dialogue: 0,0:21:45.15,0:21:48.15,Default,,0000,0000,0000,,{\blur3}它是保护介质 保护着生命元素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a preserving medium... A protector against{\r}
+Dialogue: 0,0:21:48.17,0:21:50.74,Default,,0000,0000,0000,,{\blur3}比如氢 氧和碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the scattering of life-giving elements such as hydrogen,{\r}
+Dialogue: 0,0:21:50.95,0:21:52.57,Default,,0000,0000,0000,,{\blur3}不会流失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}oxygen, and carbon.{\r}
+Dialogue: 0,0:21:53.42,0:21:56.54,Default,,0000,0000,0000,,{\blur3}宇宙的极寒之地可能藏有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The coldest places in our universe may hold answers{\r}
+Dialogue: 0,0:21:56.56,0:22:00.11,Default,,0000,0000,0000,,{\blur3}关于人类从哪里来这些根本问题的答案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to fundamental questions about where we came from.{\r}
+Dialogue: 0,0:22:01.18,0:22:05.13,Default,,0000,0000,0000,,{\blur3}所以 关键是找到一个总处于冰川期的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So imagine a world where it's always an ice age.{\r}
+Dialogue: 0,0:22:06.17,0:22:08.25,Default,NTP,0000,0000,0000,,{\blur3}在科幻小说里 冰冻星球普遍存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In science fiction, ice planets are common...{\r}
+Dialogue: 0,0:22:08.25,0:22:11.13,Default,NTP,0000,0000,0000,,{\blur3}比如霍斯（星球大战） 鲁拉·彭塞（星际旅行）{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hoth, Rura Penthe.{\r}
+Dialogue: 0,0:22:11.18,0:22:13.81,Default,,0000,0000,0000,,{\blur3}还有 谁能忘记《太空堡垒卡拉狄加》？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And who could forget the Gun On Ice Planet Zero?{\r}
+Dialogue: 0,0:22:14.99,0:22:19.27,Default,,0000,0000,0000,,{\blur3}但事实上 科学事实或许会让科幻小说黯然失色{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But here, science fiction may be eclipsed by science fact.{\r}
+Dialogue: 0,0:22:19.93,0:22:24.03,Default,,0000,0000,0000,,{\blur3}研究人员正在寻找酷似霍斯的外星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Researchers are looking for exoplanets that could really be like Hoth{\r}
+Dialogue: 0,0:22:24.18,0:22:27.05,Default,,0000,0000,0000,,{\blur3}希望找到《帝国反击战》里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ice world from The Empire Strikes Back...{\r}
+Dialogue: 0,0:22:27.52,0:22:30.17,Default,,0000,0000,0000,,{\blur3}广袤 遍布岩石 满地白雪的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Large, rocky, and snow-covered.{\r}
+Dialogue: 0,0:22:31.10,0:22:34.10,Default,,0000,0000,0000,,{\blur3}霍斯是拥有充沛水量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Hoth was kind of a realistic depiction of what a planet{\r}
+Dialogue: 0,0:22:34.15,0:22:38.33,Default,,0000,0000,0000,,{\blur3}但因为远离恒星 水被冻结成冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might be if it's sufficiently covered with water that's then frozen{\r}
+Dialogue: 0,0:22:38.36,0:22:40.68,Default,,0000,0000,0000,,{\blur3}这样的行星的真实写照{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it's too far from the star.{\r}
+Dialogue: 0,0:22:41.15,0:22:45.14,Default,,0000,0000,0000,,{\blur3}宇宙里有这样的行星 它有结冰的海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You could have a planet that basically has just a... a frozen ocean{\r}
+Dialogue: 0,0:22:45.32,0:22:47.93,Default,,0000,0000,0000,,{\blur3}但没有大片陆地露出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with no land continents sticking out.{\r}
+Dialogue: 0,0:22:48.28,0:22:51.49,Default,,0000,0000,0000,,{\blur3}一个完全冰封的行星并不是吹嘘出来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It turns out that an all-ice planet is not only realistic,{\r}
+Dialogue: 0,0:22:51.71,0:22:54.13,Default,,0000,0000,0000,,{\blur3}地球就有过数次这样的经历{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's happened to Earth several times in our history.{\r}
+Dialogue: 0,0:22:55.63,0:22:58.24,Default,,0000,0000,0000,,{\blur3}地球曾经数次被完全冰封{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Several occasions the Earth has completely frozen over.{\r}
+Dialogue: 0,0:22:58.26,0:23:01.10,Default,,0000,0000,0000,,{\blur3}我们称此时的地球为"雪球地球"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We call that phase "snowball Earth."{\r}
+Dialogue: 0,0:23:01.35,0:23:04.20,Default,,0000,0000,0000,,{\blur3}当时出现冰原大扩展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What happens is that the ice sheet grows.{\r}
+Dialogue: 0,0:23:04.22,0:23:06.18,Default,,0000,0000,0000,,{\blur3}地球变冷 出现更多的冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth cools... We get more ice.{\r}
+Dialogue: 0,0:23:06.56,0:23:08.79,Default,,0000,0000,0000,,{\blur3}发亮的冰反射阳光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ice is light... It reflects off sunlight.{\r}
+Dialogue: 0,0:23:08.88,0:23:10.24,Default,,0000,0000,0000,,{\blur3}地球更冷 冰更多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth cools, you get more ice.{\r}
+Dialogue: 0,0:23:10.26,0:23:13.83,Default,,0000,0000,0000,,{\blur3}于是反射阳光更多 冰就更多 造成急剧冰封{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Reflect off more sunlight, more ice, and you get a runaway freeze.{\r}
+Dialogue: 0,0:23:14.29,0:23:17.35,Default,,0000,0000,0000,,{\blur3}后来情况发生变化 局部地方温暖起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then something changed, and good fractions of it warmed up,{\r}
+Dialogue: 0,0:23:17.46,0:23:19.11,Default,,0000,0000,0000,,{\blur3}冰川发生融化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the glaciers melted.{\r}
+Dialogue: 0,0:23:19.49,0:23:22.04,Default,,0000,0000,0000,,{\blur3}你可能会以为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, you might expect that{\r}
+Dialogue: 0,0:23:22.08,0:23:25.00,Default,,0000,0000,0000,,{\blur3}地球大部分时间都处于冰冻之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth should be frozen most of the time.{\r}
+Dialogue: 0,0:23:25.10,0:23:27.17,Default,,0000,0000,0000,,{\blur3}但实际并非如此 这是因为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the reason it's not is that{\r}
+Dialogue: 0,0:23:27.19,0:23:30.21,Default,,0000,0000,0000,,{\blur3}厚厚的大气层留住了许多热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have a thick atmosphere that retains a lot of the heat.{\r}
+Dialogue: 0,0:23:30.43,0:23:34.71,Default,,0000,0000,0000,,{\blur3}如果没有大气层 由于地球到太阳非常远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we didn't have the atmosphere, Earth is at such a great distance from the Sun{\r}
+Dialogue: 0,0:23:34.74,0:23:37.43,Default,,0000,0000,0000,,{\blur3}水将会被冻结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that, in fact, the water should be frozen.{\r}
+Dialogue: 0,0:23:40.21,0:23:46.20,Default,,0000,0000,0000,,{\blur3}在2012年 科学家确认的太阳系外行星超过700个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By 2012, scientists had identified more than 700 extra solar planets{\r}
+Dialogue: 0,0:23:47.12,0:23:50.09,Default,,0000,0000,0000,,{\blur3}每年都能保持这个数量的增长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A number that keeps climbing every year.{\r}
+Dialogue: 0,0:23:51.27,0:23:55.10,Default,,0000,0000,0000,,{\blur3}其中许多是气体巨星 极其类似于木星和土星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many are gas giants... Worlds that more closely resemble{\r}
+Dialogue: 0,0:23:55.12,0:23:57.41,Default,,0000,0000,0000,,{\blur3}但与地球截然不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jupiter and Saturn than Earth.{\r}
+Dialogue: 0,0:23:58.56,0:24:01.93,Default,,0000,0000,0000,,{\blur3}要检测到微弱的冰雪世界很困难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Detecting smaller snowy worlds is a difficult{\r}
+Dialogue: 0,0:24:02.11,0:24:04.30,Default,,0000,0000,0000,,{\blur3}但并非不可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but not impossible task.{\r}
+Dialogue: 0,0:24:05.03,0:24:06.83,Default,,0000,0000,0000,,{\blur3}我们现在的检测方法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our current detection methods{\r}
+Dialogue: 0,0:24:07.14,0:24:11.93,Default,,0000,0000,0000,,{\blur3}偏重于发现非常巨大 非常靠近其核心星体的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tend to find very large planets very close to their parent stars.{\r}
+Dialogue: 0,0:24:12.43,0:24:14.76,Default,,0000,0000,0000,,{\blur3}当检测方法再先进一些{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As our detection methods grow better,{\r}
+Dialogue: 0,0:24:14.79,0:24:17.08,Default,,0000,0000,0000,,{\blur3}我们就可能发现更多冰冻星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're likely to find more frozen worlds.{\r}
+Dialogue: 0,0:24:19.59,0:24:22.47,Default,,0000,0000,0000,,{\blur3}有一颗行星 被人们称为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One such world... The planet known as{\r}
+Dialogue: 0,0:24:22.54,0:24:28.13,Default,,0000,0000,0000,,{\blur3}"OGLE-2005-BLG-390LB"行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}OGLE-2005-BLG-390LB.{\r}
+Dialogue: 0,0:24:29.18,0:24:32.40,Default,,0000,0000,0000,,{\blur3}人们相信 它的大小是地球的五倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's believed to be about five times the Earth's size,{\r}
+Dialogue: 0,0:24:32.76,0:24:34.54,Default,,0000,0000,0000,,{\blur3}按研究人员的说法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, according to researchers,{\r}
+Dialogue: 0,0:24:34.65,0:24:37.79,Default,,0000,0000,0000,,{\blur3}它由与地球相似的岩石和冰构成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could consist of Earthlike rocks and ice.{\r}
+Dialogue: 0,0:24:38.97,0:24:42.19,Default,,0000,0000,0000,,{\blur3}这个外行星与它的太阳的距离{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The distance of this exoplanet from its sun{\r}
+Dialogue: 0,0:24:42.22,0:24:47.04,Default,,0000,0000,0000,,{\blur3}等于火星到我们太阳的距离 或者稍远一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is about the same, or may be a little further, than Mars is from our Sun.{\r}
+Dialogue: 0,0:24:47.82,0:24:49.35,Default,,0000,0000,0000,,{\blur3}如果放在我们太阳系里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So in our Solar System,{\r}
+Dialogue: 0,0:24:49.36,0:24:51.60,Default,,0000,0000,0000,,{\blur3}它将位于火星和木星之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would reside between Mars and Jupiter.{\r}
+Dialogue: 0,0:24:52.92,0:24:56.40,Default,,0000,0000,0000,,{\blur3}这个外行星的有趣之处 是它的质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This particular exoplanet is interesting in that{\r}
+Dialogue: 0,0:24:56.47,0:24:59.40,Default,,0000,0000,0000,,{\blur3}大约是地球的五倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it has about five times Earth's mass.{\r}
+Dialogue: 0,0:24:59.55,0:25:01.72,Default,,0000,0000,0000,,{\blur3}因此 它被看作是超级地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's considered a super-Earth{\r}
+Dialogue: 0,0:25:01.83,0:25:05.00,Default,,0000,0000,0000,,{\blur3}是目前发现的质量最小的外行星之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the lower mass exoplanets ever found.{\r}
+Dialogue: 0,0:25:05.28,0:25:09.65,Default,,0000,0000,0000,,{\blur3}但它的温度可能只比绝对零度多50度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's temperature could be only 50 degrees above absolute zero.{\r}
+Dialogue: 0,0:25:09.79,0:25:13.85,Default,,0000,0000,0000,,{\blur3}所以它应当是一个巨大的 冰封的类地行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So this would be an icy, large Earthlike planet.{\r}
+Dialogue: 0,0:25:16.35,0:25:20.07,Default,,0000,0000,0000,,{\blur3}其它类型的黑暗冰冻的外行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another type of exoplanet that's expected to be dark and freezing...{\r}
+Dialogue: 0,0:25:20.87,0:25:22.49,Default,,0000,0000,0000,,{\blur3}是流浪行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Rogue planets.{\r}
+Dialogue: 0,0:25:23.35,0:25:26.15,Default,,0000,0000,0000,,{\blur3}这些行星 由于这样或那样的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are planets that, for one reason or another,{\r}
+Dialogue: 0,0:25:26.89,0:25:29.21,Default,,0000,0000,0000,,{\blur3}被它们的太阳系抛弃到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have been hurled from their solar systems{\r}
+Dialogue: 0,0:25:29.51,0:25:33.29,Default,,0000,0000,0000,,{\blur3}恒星之间冰冻的虚无地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cast off into the icy nothingness between stars.{\r}
+Dialogue: 0,0:25:34.48,0:25:37.96,Default,,0000,0000,0000,,{\blur3}众所周知 行星沿轨道绕恒星运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As far as we know, planets form orbiting stars.{\r}
+Dialogue: 0,0:25:38.30,0:25:39.96,Default,,0000,0000,0000,,{\blur3}但它们不会一成不变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't have to stay there.{\r}
+Dialogue: 0,0:25:40.40,0:25:42.93,Default,,0000,0000,0000,,{\blur3}重力的作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gravity can actually cause planets{\r}
+Dialogue: 0,0:25:42.96,0:25:46.15,Default,,0000,0000,0000,,{\blur3}会让行星弹射出它们的太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to get slingshotted out of their solar systems.{\r}
+Dialogue: 0,0:25:46.40,0:25:50.68,Default,,0000,0000,0000,,{\blur3}最终使得流浪行星不能环绕恒星运行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this is where you can end up with rogue worlds not orbiting a star,{\r}
+Dialogue: 0,0:25:50.71,0:25:52.57,Default,,0000,0000,0000,,{\blur3}相反地 要在它们之间漂泊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but instead, traveling between them.{\r}
+Dialogue: 0,0:25:54.28,0:25:56.40,Default,,0000,0000,0000,,{\blur3}没有恒星提供温暖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Without a star to provide warmth,{\r}
+Dialogue: 0,0:25:56.53,0:26:00.48,Default,,0000,0000,0000,,{\blur3}这些行星可能会处在黑暗 寒冷和荒凉之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these planets are likely to be dark, cold, and barren.{\r}
+Dialogue: 0,0:26:01.57,0:26:03.68,Default,,0000,0000,0000,,{\blur3}但是寒冷并不意味着死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But cold doesn't mean dead.{\r}
+Dialogue: 0,0:26:04.11,0:26:06.93,Default,,0000,0000,0000,,{\blur3}许多科学家相信 非常有可能的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And many scientists believe that it's quite possible{\r}
+Dialogue: 0,0:26:07.05,0:26:11.15,Default,,0000,0000,0000,,{\blur3}即使是在太空里游荡数十亿年之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that life could exist under the frozen oceans of a rogue planet,{\r}
+Dialogue: 0,0:26:11.18,0:26:14.73,Default,,0000,0000,0000,,{\blur3}生命仍存在于流浪行星的冰冻海洋之下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even after a billion years of wandering through space.{\r}
+Dialogue: 0,0:26:15.71,0:26:17.75,Default,,0000,0000,0000,,{\blur3}当它们远离恒星而去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once they're far away from the star,{\r}
+Dialogue: 0,0:26:17.76,0:26:20.71,Default,,0000,0000,0000,,{\blur3}就会被冻结起来 被包裹得很严实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they could freeze out and become quite icy.{\r}
+Dialogue: 0,0:26:20.96,0:26:23.18,Default,,0000,0000,0000,,{\blur3}人们还猜想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's also conjectured that{\r}
+Dialogue: 0,0:26:23.21,0:26:26.09,Default,,0000,0000,0000,,{\blur3}它们中的某些会保留厚厚的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some of them could retain a thick atmosphere,{\r}
+Dialogue: 0,0:26:26.16,0:26:28.55,Default,,0000,0000,0000,,{\blur3}从而保留了行星上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which would then keep the heat trapped in,{\r}
+Dialogue: 0,0:26:28.58,0:26:31.62,Default,,0000,0000,0000,,{\blur3}通过地热和放射性衰退{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's created through geothermal processes{\r}
+Dialogue: 0,0:26:31.64,0:26:34.53,Default,,0000,0000,0000,,{\blur3}所产生的热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and radioactive decay within the planet.{\r}
+Dialogue: 0,0:26:34.61,0:26:38.68,Default,,0000,0000,0000,,{\blur3}所以 不是所有的它们都会表面完全冰封{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So not all of them are necessarily completely frozen at their surface.{\r}
+Dialogue: 0,0:26:40.51,0:26:43.08,Default,,0000,0000,0000,,{\blur3}随着宇宙视野的扩大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As our view of the cosmos improves,{\r}
+Dialogue: 0,0:26:43.62,0:26:47.14,Default,,0000,0000,0000,,{\blur3}我们认定的流浪行星数量不断增加{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our estimate of the number of rogue planets keeps climbing.{\r}
+Dialogue: 0,0:26:48.41,0:26:50.64,Default,,0000,0000,0000,,{\blur3}通过最近的模拟 我们认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Recent simulation suggests there may be twice as many{\r}
+Dialogue: 0,0:26:50.65,0:26:54.15,Default,,0000,0000,0000,,{\blur3}银河系的流浪行星数量是恒星的两倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rogue planets in the galaxy as there are stars.{\r}
+Dialogue: 0,0:26:55.50,0:26:58.50,Default,,0000,0000,0000,,{\blur3}假如路过的天体把地球从太阳系抛出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what would happen if a passing star sent Earth{\r}
+Dialogue: 0,0:26:58.51,0:27:00.30,Default,,0000,0000,0000,,{\blur3}会发生什么事情呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}spinning out of our Solar System?{\r}
+Dialogue: 0,0:27:01.95,0:27:04.39,Default,,0000,0000,0000,,{\blur3}随着整个行星的漂移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the entire planet goes rogue,{\r}
+Dialogue: 0,0:27:04.97,0:27:08.19,Default,,0000,0000,0000,,{\blur3}骤然进入寒冷漆黑的太空深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tumbling out into the cold blackness of deep space,{\r}
+Dialogue: 0,0:27:09.09,0:27:10.79,Default,,0000,0000,0000,,{\blur3}生命能幸存吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would life survive?{\r}
+Dialogue: 0,0:27:12.25,0:27:15.33,Default,,0000,0000,0000,,{\blur3}果真如此 虽然不是全部能量会快速消散{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that happened, we'd very quickly radiate away{\r}
+Dialogue: 0,0:27:15.39,0:27:17.77,Default,,0000,0000,0000,,{\blur3}但绝大部分会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not all our energy, but a lot of it.{\r}
+Dialogue: 0,0:27:17.97,0:27:21.11,Default,,0000,0000,0000,,{\blur3}海洋会冰冻 大气会变成固体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The oceans would freeze, the atmosphere would become a solid.{\r}
+Dialogue: 0,0:27:21.40,0:27:23.52,Default,,0000,0000,0000,,{\blur3}我们会被抛弃 可能会死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We'd be left probably dead.{\r}
+Dialogue: 0,0:27:23.91,0:27:27.40,Default,,0000,0000,0000,,{\blur3}整个世界里只剩下毫无生气的城市{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But imagine finding that world later on, intact with its cities.{\r}
+Dialogue: 0,0:27:27.91,0:27:30.08,Default,,0000,0000,0000,,{\blur3}我们不必担心这样的命运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We don't have to worry about this fate.{\r}
+Dialogue: 0,0:27:30.18,0:27:35.25,Default,,0000,0000,0000,,{\blur3}但文明的发展很微妙 你永远不知道接下来的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But a civilization growing up around a binary star ... You never know what could happen.{\r}
+Dialogue: 0,0:27:37.22,0:27:39.52,Default,,0000,0000,0000,,{\blur3}人类也许不能幸存下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Humans may not be able to survive...{\r}
+Dialogue: 0,0:27:40.30,0:27:43.32,Default,,0000,0000,0000,,{\blur3}但在海洋之下 结了冰的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But under the sea, the way our water freezes{\r}
+Dialogue: 0,0:27:43.98,0:27:46.34,Default,,0000,0000,0000,,{\blur3}会给予生命一个竞争的机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would give life a fighting chance.{\r}
+Dialogue: 0,0:27:47.41,0:27:51.01,Default,,0000,0000,0000,,{\blur3}帮助鱼类安全留在地球的因素之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the things that helps keep fish here on the planet Earth safe{\r}
+Dialogue: 0,0:27:51.13,0:27:54.22,Default,,0000,0000,0000,,{\blur3}是我们日常的水--氧化氢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is our normal water--Our H2O water.{\r}
+Dialogue: 0,0:27:54.50,0:27:57.51,Default,,0000,0000,0000,,{\blur3}当它冰结的时候 会由上向下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When it freezes, it freezes from the top down,{\r}
+Dialogue: 0,0:27:57.63,0:28:01.97,Default,,0000,0000,0000,,{\blur3}这就能给予鱼类保护 让它能在冰面下游弋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}leaving the fish safely protected and swimming beneath the frozen surface.{\r}
+Dialogue: 0,0:28:02.57,0:28:06.59,Default,,0000,0000,0000,,{\blur3}如果是另一个世界 一个正处于极冻的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now if we go to another world... One experiencing a deep freeze{\r}
+Dialogue: 0,0:28:07.15,0:28:11.41,Default,,0000,0000,0000,,{\blur3}这个外行星可能会有氨气海洋或者甲烷湖泊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That alien planet might have ammonia oceans or methane lakes.{\r}
+Dialogue: 0,0:28:12.13,0:28:14.30,Default,,0000,0000,0000,,{\blur3}当这些液体结冰时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And those liquids, as they freeze,{\r}
+Dialogue: 0,0:28:14.37,0:28:17.86,Default,,0000,0000,0000,,{\blur3}会从底部一直冰结到表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they freeze from the bottom all the way up to the surface{\r}
+Dialogue: 0,0:28:18.15,0:28:22.88,Default,,0000,0000,0000,,{\blur3}让这些冰湖里的鱼类无处容身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Leaving any fish living in those frozen lakes flapping around on the surface.{\r}
+Dialogue: 0,0:28:23.15,0:28:25.40,Default,,0000,0000,0000,,{\blur3}这可不是养鱼的好地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's not a good place for a fish to be.{\r}
+Dialogue: 0,0:28:27.16,0:28:29.38,Default,,0000,0000,0000,,{\blur3}如果地球变成流浪行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If Earth were to become a rogue planet,{\r}
+Dialogue: 0,0:28:29.65,0:28:33.78,Default,,0000,0000,0000,,{\blur3}我们会在非常深海的俯冲带 看到生命群体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the life forms we see at the very depths of the ocean in subduction zones,{\r}
+Dialogue: 0,0:28:33.94,0:28:38.48,Default,,0000,0000,0000,,{\blur3}那里有暖流冒出 使得局部海洋充斥着非常热的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where these thermal vents are filling the local ocean with very very hot water{\r}
+Dialogue: 0,0:28:39.20,0:28:43.87,Default,,0000,0000,0000,,{\blur3}生命群会若无其事地存活几百万年 或几十亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those life forms would go on like nothing ever happened for millions, maybe billions of years.{\r}
+Dialogue: 0,0:28:44.72,0:28:47.98,Default,,0000,0000,0000,,{\blur3}所以在一个流浪的冰封行星上 在非常深的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's very possible that in the very depths of an ice planet{\r}
+Dialogue: 0,0:28:48.01,0:28:50.94,Default,,0000,0000,0000,,{\blur3}生命的存在非常有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's gone rogue, life could exist.{\r}
+Dialogue: 0,0:28:53.06,0:28:57.22,Default,,0000,0000,0000,,{\blur3}生命能在流浪行星存在 但不会永远存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Life could exist on a rogue planet, but not forever.{\r}
+Dialogue: 0,0:28:59.20,0:29:02.58,Default,,0000,0000,0000,,{\blur3}毕竟 太空非常非常寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After all, space is very, very cold,{\r}
+Dialogue: 0,0:29:02.97,0:29:07.08,Default,,0000,0000,0000,,{\blur3}所以说 得感谢温暖 是它给了地球生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and life-giving Earth remains, thankfully, warmer.{\r}
+Dialogue: 0,0:29:07.42,0:29:09.01,Default,,0000,0000,0000,,{\blur3}我们地球靠近太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're close to the Sun.{\r}
+Dialogue: 0,0:29:09.70,0:29:13.70,Default,,0000,0000,0000,,{\blur3}而宇宙里有代表性的地方 它远离任何星系或恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The typical place in the universe, far from any galaxy or star,{\r}
+Dialogue: 0,0:29:13.81,0:29:18.89,Default,,0000,0000,0000,,{\blur3}其温度只比绝对零度多2.7度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has a temperature of only 2.7 degrees above absolute zero.{\r}
+Dialogue: 0,0:29:19.24,0:29:21.84,Default,,0000,0000,0000,,{\blur3}这是太空本身的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the temperature of space itself{\r}
+Dialogue: 0,0:29:22.30,0:29:25.51,Default,,0000,0000,0000,,{\blur3}相当低温 极为冰冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Really cold, a really deep freeze.{\r}
+Dialogue: 0,0:29:27.19,0:29:31.22,Default,,0000,0000,0000,,{\blur3}宇宙间最冷的自然现象是什么呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what is the coldest naturally occurring place in the universe?{\r}
+Dialogue: 0,0:29:31.55,0:29:35.09,Default,,0000,0000,0000,,{\blur3}它能营造非常巨大的寒冷环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a place where a simple principle you can test in your{\r}
+Dialogue: 0,0:29:35.55,0:29:38.40,Default,,0000,0000,0000,,{\blur3}但其原理很简单 你在家里也能尝试{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}home has led to a very big chill.{\r}
+Dialogue: 0,0:29:41.24,0:29:44.91,Default,,0000,0000,0000,,{\blur3}在探索了我们最近邻居的寒冷之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Having explored the role of coldness in our immediate neighborhood,{\r}
+Dialogue: 0,0:29:45.65,0:29:49.81,Default,,0000,0000,0000,,{\blur3}我们现在去一个更寒冷的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we now embark on a journey to even more frigid places.{\r}
+Dialogue: 0,0:29:52.05,0:29:54.37,Default,,0000,0000,0000,,{\blur3}天文学者最近发现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers have recently discovered{\r}
+Dialogue: 0,0:29:54.42,0:29:58.79,Default,,0000,0000,0000,,{\blur3}他们认为可能是迄今为止最寒冷的类星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what they think may be the coldest star-like object ever found,{\r}
+Dialogue: 0,0:29:59.59,0:30:02.42,Default,,0000,0000,0000,,{\blur3}其距离地球仅为40光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a mere 40 light-years away from Earth.{\r}
+Dialogue: 0,0:30:05.17,0:30:07.95,Default,,0000,0000,0000,,{\blur3}它是一颗被称为Y型的褐矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's what's called a "Y" class brown dwarf.{\r}
+Dialogue: 0,0:30:08.79,0:30:12.19,Default,,0000,0000,0000,,{\blur3}按科学家的形容 它的表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And according to scientists, the temperature on its surface{\r}
+Dialogue: 0,0:30:12.76,0:30:15.39,Default,,0000,0000,0000,,{\blur3}几乎和春季的白天那么暖和{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is about that of a warm spring day.{\r}
+Dialogue: 0,0:30:16.12,0:30:20.54,Default,,0000,0000,0000,,{\blur3}就在2011年 我们首次发现了这种最冷的Y矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just in 2011, we found the coldest "y" dwarf ever found.{\r}
+Dialogue: 0,0:30:20.91,0:30:23.31,Default,,0000,0000,0000,,{\blur3}它的温度相当低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this is an object that's so cool{\r}
+Dialogue: 0,0:30:23.34,0:30:27.12,Default,,0000,0000,0000,,{\blur3}比人类的体温还要低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it's actually cooler than you or I, as human beings, are.{\r}
+Dialogue: 0,0:30:27.33,0:30:30.15,Default,,0000,0000,0000,,{\blur3}其温度刚好是华氏80度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this is an object that's just 80 degrees fahrenheit.{\r}
+Dialogue: 0,0:30:33.41,0:30:37.02,Default,,0000,0000,0000,,{\blur3}我们太阳的温度为华氏10 000度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our Sun, by comparison, registers at a toasty{\r}
+Dialogue: 0,0:30:37.06,0:30:39.49,Default,,0000,0000,0000,,{\blur3}比它温暖得多了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}10,000 degrees fahrenheit.{\r}
+Dialogue: 0,0:30:41.52,0:30:45.63,Default,,0000,0000,0000,,{\blur3}因此 这颗褐矮星是恒星吗？或者不是？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So is this brown dwarf a star, or not a star?{\r}
+Dialogue: 0,0:30:48.24,0:30:53.51,Default,,0000,0000,0000,,{\blur3}褐矮星是介于行星和成熟恒星之间的天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A brown dwarf is sort of intermediate between a planet and a full-fledged star.{\r}
+Dialogue: 0,0:30:53.69,0:30:57.05,Default,,0000,0000,0000,,{\blur3}比起木星般大小的行星 它的质量要大得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's more massive than even a Jupiter-sized planet.{\r}
+Dialogue: 0,0:30:57.20,0:30:59.52,Default,,0000,0000,0000,,{\blur3}但它的质量不足以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's not massive enough to ever have{\r}
+Dialogue: 0,0:30:59.55,0:31:03.49,Default,,0000,0000,0000,,{\blur3}在核心产生持续的原子核聚变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}had sustained nuclear fusion in its core.{\r}
+Dialogue: 0,0:31:04.09,0:31:08.76,Default,,0000,0000,0000,,{\blur3}真正的恒星 其原子核聚变会持续很长很长时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So a true star has nuclear fusion going on for a long, long time.{\r}
+Dialogue: 0,0:31:09.58,0:31:13.01,Default,,0000,0000,0000,,{\blur3}而褐矮星只有短暂的原子核聚变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A brown dwarf has nuclear fusion for just a short time.{\r}
+Dialogue: 0,0:31:13.74,0:31:16.52,Default,,0000,0000,0000,,{\blur3}褐矮星填补了我们所说的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What brown dwarfs do is they bridge the gap between{\r}
+Dialogue: 0,0:31:16.58,0:31:19.16,Default,,0000,0000,0000,,{\blur3}行星和恒星之间的断层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what we call planets and what we call stars.{\r}
+Dialogue: 0,0:31:19.69,0:31:22.74,Default,,0000,0000,0000,,{\blur3}褐矮星的冷 不只是因为自身冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So brown dwarf are cool, not only because they are cold, but{\r}
+Dialogue: 0,0:31:22.77,0:31:25.91,Default,,0000,0000,0000,,{\blur3}还因为它们有大量的奇异物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they have a lot of exotic stuff going on in them.{\r}
+Dialogue: 0,0:31:26.23,0:31:29.73,Default,,0000,0000,0000,,{\blur3}这些类似恒星的天体 温度相当低{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because they have such low temperatures, you can actually get clouds{\r}
+Dialogue: 0,0:31:29.76,0:31:32.65,Default,,0000,0000,0000,,{\blur3}所以在外层大气里有云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the outer atmospheres of these almost-stars.{\r}
+Dialogue: 0,0:31:33.01,0:31:36.05,Default,,0000,0000,0000,,{\blur3}那些会是冰云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And these can be either icy clouds or,{\r}
+Dialogue: 0,0:31:36.06,0:31:38.96,Default,,0000,0000,0000,,{\blur3}在某些个案中 甚至会是铁云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in some cases, they can be even iron clouds.{\r}
+Dialogue: 0,0:31:39.02,0:31:43.26,Default,,0000,0000,0000,,{\blur3}所以我们认为某些褐矮星可能存在着铁雨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we think that some brown dwarfs actually might have iron rain{\r}
+Dialogue: 0,0:31:43.27,0:31:45.63,Default,,0000,0000,0000,,{\blur3}铁质被凝结到外大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Where iron condenses out of the atmosphere{\r}
+Dialogue: 0,0:31:45.66,0:31:47.99,Default,,0000,0000,0000,,{\blur3}然后象下雨般落到低层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and rains down into the lower layers.{\r}
+Dialogue: 0,0:31:48.34,0:31:51.83,Default,,0000,0000,0000,,{\blur3}但即使是非常寒冷 还是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even with the coolest kinds, you can get ices much like the{\r}
+Dialogue: 0,0:31:51.94,0:31:55.95,Default,,0000,0000,0000,,{\blur3}会有仿似木星云斑一样的冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ones that we see in the cloudy bands that are on Jupiter,{\r}
+Dialogue: 0,0:31:56.23,0:31:59.30,Default,,0000,0000,0000,,{\blur3}存在于这些既类似恒星又类似行星的天体上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in these almost-stars but almost-planets.{\r}
+Dialogue: 0,0:32:01.06,0:32:03.77,Default,,0000,0000,0000,,{\blur3}让我们继续向外太空进发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we continue to move out into the universe,{\r}
+Dialogue: 0,0:32:04.23,0:32:09.06,Default,,0000,0000,0000,,{\blur3}假如我们突然间来到离地球400光年的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we get about 400 light-years away from Earth when suddenly...{\r}
+Dialogue: 0,0:32:10.26,0:32:14.53,Default,,0000,0000,0000,,{\blur3}群星闪烁 温度下降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stars appear to wink out of existence, the temperature drops,{\r}
+Dialogue: 0,0:32:15.02,0:32:19.73,Default,,0000,0000,0000,,{\blur3}我们会与黑漆漆的"巴纳德68"相遇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we encounter the inky blackness called "Barnard 68."{\r}
+Dialogue: 0,0:32:20.88,0:32:23.92,Default,,0000,0000,0000,,{\blur3}巴纳德68很奇特 因为你看不到它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Barnard 68" is significant because of what you don't see.{\r}
+Dialogue: 0,0:32:23.98,0:32:26.39,Default,,0000,0000,0000,,{\blur3}它是一团黑块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just a black patch.{\r}
+Dialogue: 0,0:32:26.57,0:32:29.31,Default,,0000,0000,0000,,{\blur3}没有光从那里发出来 也没有光穿越它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no light coming from it, there's no light coming through it.{\r}
+Dialogue: 0,0:32:29.32,0:32:33.62,Default,,0000,0000,0000,,{\blur3}它是天空里既黑漆漆又不透明的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is a black opaque spot on the sky.{\r}
+Dialogue: 0,0:32:35.07,0:32:37.98,Default,,0000,0000,0000,,{\blur3}这种物体 让人以为是天幕上的小洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What was once thought of as a hole in the sky{\r}
+Dialogue: 0,0:32:38.20,0:32:41.78,Default,,0000,0000,0000,,{\blur3}如今被称为暗分子云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is now known as a dark molecular cloud.{\r}
+Dialogue: 0,0:32:43.20,0:32:46.13,Default,,0000,0000,0000,,{\blur3}暗分子云是太空里的巨大云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dark molecular clouds are huge clouds in space,{\r}
+Dialogue: 0,0:32:46.14,0:32:48.42,Default,,0000,0000,0000,,{\blur3}它由气体和尘埃组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of gas and dust, and when we say "dust"{\r}
+Dialogue: 0,0:32:48.45,0:32:51.05,Default,,0000,0000,0000,,{\blur3}"尘埃"是指小颗粒的水和硅酸盐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we mean little chunks of water and silicates{\r}
+Dialogue: 0,0:32:51.07,0:32:53.49,Default,,0000,0000,0000,,{\blur3}并不是清扫厨房时的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not unlike you would sweep off your countertop.{\r}
+Dialogue: 0,0:32:53.70,0:32:56.77,Default,,0000,0000,0000,,{\blur3}阳光和星光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sunlight, starlight, is only able to{\r}
+Dialogue: 0,0:32:56.85,0:33:01.24,Default,,0000,0000,0000,,{\blur3}只能穿透气体云团最外面的区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}penetrate the outermost regions of the gas cloud.{\r}
+Dialogue: 0,0:33:01.63,0:33:04.06,Default,,0000,0000,0000,,{\blur3}当你逐渐深入内部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As you move deeper and deeper within,{\r}
+Dialogue: 0,0:33:04.24,0:33:08.73,Default,,0000,0000,0000,,{\blur3}这个不透明系统会阻挡所有可见光的波长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this opaque system blocks all the visible wavelengths of light.{\r}
+Dialogue: 0,0:33:09.06,0:33:11.31,Default,,0000,0000,0000,,{\blur3}只有红外线能够畅通无阻地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Only the infrared light is able to make it{\r}
+Dialogue: 0,0:33:11.34,0:33:13.57,Default,,0000,0000,0000,,{\blur3}进入到云团深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all the way into the depths of the cloud.{\r}
+Dialogue: 0,0:33:13.81,0:33:16.35,Default,,0000,0000,0000,,{\blur3}这就保证了云团不会变热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this protects the cloud from heating up and,{\r}
+Dialogue: 0,0:33:16.70,0:33:19.48,Default,,0000,0000,0000,,{\blur3}从而使这些云团内部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in fact, makes the inside of these clouds{\r}
+Dialogue: 0,0:33:19.52,0:33:23.55,Default,,0000,0000,0000,,{\blur3}成为宇宙间最阴森和最寒冷的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of the most shadowed places and one of the coolest places in the universe.{\r}
+Dialogue: 0,0:33:25.17,0:33:29.02,Default,,0000,0000,0000,,{\blur3}"巴纳德68"不仅外围冷达开氏16度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not only is "Barnard 68" a nippy 16 kelvins at its periphery,{\r}
+Dialogue: 0,0:33:29.05,0:33:31.46,Default,,0000,0000,0000,,{\blur3}当你越深入 还会更冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as you work your way in, it actually gets colder.{\r}
+Dialogue: 0,0:33:32.14,0:33:33.99,Default,,0000,0000,0000,,{\blur3}这是一个寒冷的云团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is one cold cloud.{\r}
+Dialogue: 0,0:33:35.38,0:33:39.27,Default,,0000,0000,0000,,{\blur3}"巴纳德68"这样的物体 最神奇的地方之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the most amazing things about objects like "Barnard 68"{\r}
+Dialogue: 0,0:33:39.87,0:33:43.25,Default,,0000,0000,0000,,{\blur3}是它们位于目前宇宙最冷物体的行列{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that right now they're some of the coldest things in the universe.{\r}
+Dialogue: 0,0:33:43.52,0:33:47.73,Default,,0000,0000,0000,,{\blur3}但自身物质会让它们霍然崩塌 并触发恒星的形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But all it takes is a shockwave to collapse them down and trigger star formation.{\r}
+Dialogue: 0,0:33:48.21,0:33:51.06,Default,,0000,0000,0000,,{\blur3}在恒星… 最巨型的恒星… 最早形成时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the first stars to form...The largest stars to form...{\r}
+Dialogue: 0,0:33:51.27,0:33:53.66,Default,,0000,0000,0000,,{\blur3}它们就成为了宇宙间最炽热的物体之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Are some of the hottest things in the universe.{\r}
+Dialogue: 0,0:33:55.84,0:33:59.55,Default,,0000,0000,0000,,{\blur3}所以说 某一个暗分子云会在某一瞬间成为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So in one instant, one of these dark molecular clouds{\r}
+Dialogue: 0,0:33:59.70,0:34:01.71,Default,,0000,0000,0000,,{\blur3}当前环境中最炽热的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can become the hottest thing around.{\r}
+Dialogue: 0,0:34:01.99,0:34:05.38,Default,,0000,0000,0000,,{\blur3}但在这一瞬间之前 却是宇宙里最寒冷的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the moment before, they were the coolest things in the universe.{\r}
+Dialogue: 0,0:34:08.35,0:34:10.00,Default,,0000,0000,0000,,{\blur3}让我们继续行程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Continue our trip...{\r}
+Dialogue: 0,0:34:11.55,0:34:15.66,Default,,0000,0000,0000,,{\blur3}这次我们来到目前宇宙里已知的最冷地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we've arrived at the coldest place we know of in the universe{\r}
+Dialogue: 0,0:34:15.82,0:34:19.28,Default,,0000,0000,0000,,{\blur3}这里距离地球大约5 000光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Approximately 5,000 light-years away from Earth.{\r}
+Dialogue: 0,0:34:21.02,0:34:23.99,Default,,0000,0000,0000,,{\blur3}我们现在进入了布莫让星云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are now entering the Boomerang nebula.{\r}
+Dialogue: 0,0:34:24.30,0:34:26.05,Default,,0000,0000,0000,,{\blur3}这个领结形状的星云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This bow-tie shaped nebula{\r}
+Dialogue: 0,0:34:26.07,0:34:29.13,Default,,0000,0000,0000,,{\blur3}比宇宙里其它地方都要冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is actually colder than the restof the universe.{\r}
+Dialogue: 0,0:34:29.46,0:34:31.85,Default,,0000,0000,0000,,{\blur3}它因为向外喷溅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's been chilled by the outflow of gas{\r}
+Dialogue: 0,0:34:31.98,0:34:36.20,Default,,0000,0000,0000,,{\blur3}接近于华氏-458度的气体而变冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to approximately negative 458 degrees fahrenheit{\r}
+Dialogue: 0,0:34:36.49,0:34:39.77,Default,,0000,0000,0000,,{\blur3}温度只比绝对零度高1度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just one degree above absolute zero.{\r}
+Dialogue: 0,0:34:40.95,0:34:43.14,Default,,0000,0000,0000,,{\blur3}布莫让星云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Boomerang nebula consists of{\r}
+Dialogue: 0,0:34:43.17,0:34:46.92,Default,,0000,0000,0000,,{\blur3}由濒死恒星快速扩散出来的气体组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rapidly expanding gases from a dying star.{\r}
+Dialogue: 0,0:34:47.23,0:34:49.49,Default,,0000,0000,0000,,{\blur3}这些气体的扩散速度非常快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And those gases expand so quickly,{\r}
+Dialogue: 0,0:34:49.60,0:34:54.18,Default,,0000,0000,0000,,{\blur3}使得它们变冷 其温度低于周围太空环境的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they've cooled to a temperature below that of the surrounding space.{\r}
+Dialogue: 0,0:34:54.67,0:34:58.66,Default,,0000,0000,0000,,{\blur3}它能达到极端低温 部分原因在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And part of the reason it's able to achieve its extremely low temperature{\r}
+Dialogue: 0,0:34:59.16,0:35:01.35,Default,,0000,0000,0000,,{\blur3}它是由扩散气体所组成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is simply because it's made of expanding gas.{\r}
+Dialogue: 0,0:35:01.81,0:35:04.17,Default,,0000,0000,0000,,{\blur3}这些扩散气体 就象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And expanding gas, just like...{\r}
+Dialogue: 0,0:35:05.21,0:35:07.25,Default,,0000,0000,0000,,{\blur3}这个罐里的一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The expanding gas in this can...{\r}
+Dialogue: 0,0:35:08.72,0:35:12.28,Default,,0000,0000,0000,,{\blur3}气体扩散时 体积变大 温度就会下降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Drops in temperature as the gas spreads out over a larger volume.{\r}
+Dialogue: 0,0:35:12.72,0:35:15.89,Default,,0000,0000,0000,,{\blur3}说起来 我能让这些每天都喝的水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, I'm able to take this everyday drinking water...{\r}
+Dialogue: 0,0:35:18.22,0:35:20.35,Default,,0000,0000,0000,,{\blur3}水现在是室温{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This room temperature drinking water...{\r}
+Dialogue: 0,0:35:21.00,0:35:24.59,Default,,0000,0000,0000,,{\blur3}我将用罐里的气体让它结冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And freeze it with the gas coming out of this can.{\r}
+Dialogue: 0,0:35:35.41,0:35:38.11,Default,,0000,0000,0000,,{\blur3}我不是说 布莫让星云会有冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now I'm not going to claim that the Boomerang has ice,{\r}
+Dialogue: 0,0:35:38.70,0:35:43.36,Default,,0000,0000,0000,,{\blur3}但你应该明白了 少许扩散气体就能够引发严寒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but you can see that a little expanding gas can create one heck of a deep freeze.{\r}
+Dialogue: 0,0:35:46.31,0:35:47.99,Default,,0000,0000,0000,,{\blur3}利用现代技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Using modern technology,{\r}
+Dialogue: 0,0:35:48.10,0:35:52.22,Default,,0000,0000,0000,,{\blur3}我们能够在实验室里得到更低的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it is possible to create even lower temperatures in a lab.{\r}
+Dialogue: 0,0:35:53.06,0:35:55.84,Default,,0000,0000,0000,,{\blur3}所以宇宙间真正低温的地方 或许{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the true coldest place in the universe may be{\r}
+Dialogue: 0,0:35:56.13,0:35:58.75,Default,,0000,0000,0000,,{\blur3}就在地球这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}right here on planet Earth.{\r}
+Dialogue: 0,0:35:59.85,0:36:01.67,Default,,0000,0000,0000,,{\blur3}在实验室里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In laboratory experiments,{\r}
+Dialogue: 0,0:36:01.81,0:36:04.39,Default,,0000,0000,0000,,{\blur3}我们现在能够达到非常低的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can reach very low temperatures now.{\r}
+Dialogue: 0,0:36:04.49,0:36:06.65,Default,,0000,0000,0000,,{\blur3}最低曾达到1/2纳度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, the lowest temperature ever reached{\r}
+Dialogue: 0,0:36:06.82,0:36:12.43,Default,,0000,0000,0000,,{\blur3}1纳度就是十亿分之一的开氏温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is something like 1/2 of a nanokelvin ... A billionth of a degree.{\r}
+Dialogue: 0,0:36:12.57,0:36:13.97,Default,,0000,0000,0000,,{\blur3}这真的很低了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's really low.{\r}
+Dialogue: 0,0:36:16.35,0:36:20.57,Default,,0000,0000,0000,,{\blur3}当温度降到接近绝对零度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the temperature in these experiments approaches absolute zero,{\r}
+Dialogue: 0,0:36:20.96,0:36:23.65,Default,,0000,0000,0000,,{\blur3}在物质身上发生了奇异的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}weird things start happening to matter.{\r}
+Dialogue: 0,0:36:24.14,0:36:27.40,Default,,0000,0000,0000,,{\blur3}原子受极度低温的作用 凝聚在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Atoms react to the deep freeze by clumping together in{\r}
+Dialogue: 0,0:36:27.42,0:36:29.46,Default,,0000,0000,0000,,{\blur3}以离奇的方式排列{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a bizarre form of matter.{\r}
+Dialogue: 0,0:36:30.28,0:36:35.28,Default,,0000,0000,0000,,{\blur3}所有原子进入同一种状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is where the atoms all go into essentially the same state.{\r}
+Dialogue: 0,0:36:35.52,0:36:39.68,Default,,0000,0000,0000,,{\blur3}它们的行为表现很类似 甚至是一样的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That is, they behave in a similar way or even the same way.{\r}
+Dialogue: 0,0:36:41.43,0:36:43.84,Default,,0000,0000,0000,,{\blur3}从而使得物质很奇异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are weird, weird substances.{\r}
+Dialogue: 0,0:36:45.15,0:36:49.83,Default,,0000,0000,0000,,{\blur3}超低温物质甚至能使光停下它的脚步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Super-cold substances that can even stop light in its tracks.{\r}
+Dialogue: 0,0:36:51.31,0:36:55.29,Default,,0000,0000,0000,,{\blur3}在最低温的情况下 我们能够让一束光停止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the coolest things we can do is actually stop a beam of light.{\r}
+Dialogue: 0,0:36:55.46,0:36:59.53,Default,,0000,0000,0000,,{\blur3}这好象很疯狂 但我们确是能够获取一束光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I know it sounds insane, but we can take a beam of light{\r}
+Dialogue: 0,0:36:59.64,0:37:01.49,Default,,0000,0000,0000,,{\blur3}并让它慢下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and be able to slow it down,{\r}
+Dialogue: 0,0:37:01.71,0:37:04.72,Default,,0000,0000,0000,,{\blur3}然后操控它去做你想做的事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then play with it, do whatever you want with it,{\r}
+Dialogue: 0,0:37:04.96,0:37:06.26,Default,,0000,0000,0000,,{\blur3}然后再把它释放{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then release it again.{\r}
+Dialogue: 0,0:37:07.70,0:37:10.56,Default,,0000,0000,0000,,{\blur3}你可以让它停下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the things that you can do with that is stop it,{\r}
+Dialogue: 0,0:37:10.68,0:37:12.63,Default,,0000,0000,0000,,{\blur3}操控它进入电子信号里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}turn it into an electrical signal,{\r}
+Dialogue: 0,0:37:12.65,0:37:15.40,Default,,0000,0000,0000,,{\blur3}然后又释放它 并让它重回到光束内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then re-release it and turn it back into light.{\r}
+Dialogue: 0,0:37:15.64,0:37:20.63,Default,,0000,0000,0000,,{\blur3}这非常有趣 它可以在电子学上有各种应用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this is really interesting, because it has all kinds of practical applications in electronics.{\r}
+Dialogue: 0,0:37:23.47,0:37:26.63,Default,,0000,0000,0000,,{\blur3}这仅是极度低温如何改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just another example of how a really deep freeze{\r}
+Dialogue: 0,0:37:26.65,0:37:30.60,Default,,0000,0000,0000,,{\blur3}宇宙万物根本特性的另一个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seems to transform fundamental properties of the universe.{\r}
+Dialogue: 0,0:37:31.82,0:37:35.08,Default,,0000,0000,0000,,{\blur3}此外 许多科学家相信宇宙本身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then again, many scientists believe the universe itself{\r}
+Dialogue: 0,0:37:35.11,0:37:38.54,Default,,0000,0000,0000,,{\blur3}正处在一个不可更改的根本转变中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is in for one final fundamental transformation{\r}
+Dialogue: 0,0:37:38.89,0:37:41.56,Default,,0000,0000,0000,,{\blur3}最终进入深冻的状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To a permanent state of deep freeze...{\r}
+Dialogue: 0,0:37:42.22,0:37:44.69,Default,,0000,0000,0000,,{\blur3}届时 没有回头路了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From which there is no return.{\r}
+Dialogue: 0,0:37:47.65,0:37:50.17,Default,,0000,0000,0000,,{\blur3}宇宙难逃一死{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe is doomed.{\r}
+Dialogue: 0,0:37:51.63,0:37:54.74,Default,,0000,0000,0000,,{\blur3}某些研究所有实体最后阶段的物理学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the belief of a number of physicists who study potential{\r}
+Dialogue: 0,0:37:54.75,0:37:56.33,Default,,0000,0000,0000,,{\blur3}对此坚信不疑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}endgames for all existence.{\r}
+Dialogue: 0,0:38:00.43,0:38:03.97,Default,,0000,0000,0000,,{\blur3}所有星体的热量与力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of the heat and power that was present at the start of time{\r}
+Dialogue: 0,0:38:04.00,0:38:07.12,Default,,0000,0000,0000,,{\blur3}会随着时间缓慢地 平静地溜走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is slowly, quietly, slipping away.{\r}
+Dialogue: 0,0:38:08.53,0:38:11.06,Default,,0000,0000,0000,,{\blur3}宇宙历史的漫长故事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The whole story of the history of the universe{\r}
+Dialogue: 0,0:38:11.22,0:38:15.86,Default,,0000,0000,0000,,{\blur3}始于巨大能量在大爆炸时的注入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}starts from the injection of this enormous amount of energy in the Big Bang,{\r}
+Dialogue: 0,0:38:16.14,0:38:20.03,Default,,0000,0000,0000,,{\blur3}也将终结于宇宙扩张时的消散{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and watching it dissipate as the universe expands.{\r}
+Dialogue: 0,0:38:21.50,0:38:23.96,Default,,0000,0000,0000,,{\blur3}源自大爆炸的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A universe that begins with a Big Bang,{\r}
+Dialogue: 0,0:38:24.00,0:38:28.54,Default,,0000,0000,0000,,{\blur3}它的持续扩张 最终将使能量不足{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and continues to expand, will eventually have an energy shortage{\r}
+Dialogue: 0,0:38:28.93,0:38:30.96,Default,,0000,0000,0000,,{\blur3}而这是无法解决的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for which there is no solution.{\r}
+Dialogue: 0,0:38:33.18,0:38:36.57,Default,,0000,0000,0000,,{\blur3}在某种意义上 宇宙正在缓慢松懈下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a sense, the universe is slowly winding down,{\r}
+Dialogue: 0,0:38:36.83,0:38:39.90,Default,,0000,0000,0000,,{\blur3}就好比上紧发条的玩具{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}kind of like when you wind up the spring in a wind-up toy{\r}
+Dialogue: 0,0:38:39.92,0:38:41.96,Default,,0000,0000,0000,,{\blur3}让它运行一段时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you let that toy run for a while.{\r}
+Dialogue: 0,0:38:42.07,0:38:44.35,Default,,0000,0000,0000,,{\blur3}最终 所有能量会消耗殆尽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually all the energy gets used up{\r}
+Dialogue: 0,0:38:44.53,0:38:47.79,Default,,0000,0000,0000,,{\blur3}发条上会没有任何能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's nothing stored in the spring anymore.{\r}
+Dialogue: 0,0:38:47.85,0:38:51.10,Default,,0000,0000,0000,,{\blur3}你得再次拧紧发条 才能让玩具动起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you'd have to wind it up again to get it to do something interesting.{\r}
+Dialogue: 0,0:38:52.93,0:38:55.04,Default,,0000,0000,0000,,{\blur3}这些玩具拥有一点点能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These toys have some initial energy.{\r}
+Dialogue: 0,0:38:55.28,0:38:57.90,Default,,0000,0000,0000,,{\blur3}在短暂运动之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as they go through their little motions,{\r}
+Dialogue: 0,0:38:58.05,0:39:01.08,Default,,0000,0000,0000,,{\blur3}能量被使用 然后消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're seeing that energy be used up and dissipated.{\r}
+Dialogue: 0,0:39:01.44,0:39:03.68,Default,,0000,0000,0000,,{\blur3}最后 这些玩具会停下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually, these toys will stop.{\r}
+Dialogue: 0,0:39:03.71,0:39:06.14,Default,,0000,0000,0000,,{\blur3}它们将处在最低能量状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They'll be in their lowest energy state.{\r}
+Dialogue: 0,0:39:06.36,0:39:10.30,Default,,0000,0000,0000,,{\blur3}不可能再输出能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there'll be no more possible energy output from them.{\r}
+Dialogue: 0,0:39:13.94,0:39:16.04,Default,,0000,0000,0000,,{\blur3}当所有星体死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, once all the stars have died{\r}
+Dialogue: 0,0:39:16.17,0:39:19.50,Default,,0000,0000,0000,,{\blur3}当所有能量扩散到整个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once all the energy has spread out uniformly in the universe{\r}
+Dialogue: 0,0:39:19.80,0:39:21.54,Default,,0000,0000,0000,,{\blur3}将会没有任何动静{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nothing interesting happens.{\r}
+Dialogue: 0,0:39:21.65,0:39:25.32,Default,,0000,0000,0000,,{\blur3}因为 正如没有拧紧发条的玩具{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because, like the wind-up toy, it's not wound up.{\r}
+Dialogue: 0,0:39:25.39,0:39:27.85,Default,,0000,0000,0000,,{\blur3}宇宙的发条不再会被拧紧了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The universe isn't wound up anymore.{\r}
+Dialogue: 0,0:39:29.36,0:39:33.08,Default,,0000,0000,0000,,{\blur3}宇宙本身还在变大 还在扩张{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the universe itself is getting larger...Expanding...{\r}
+Dialogue: 0,0:39:33.43,0:39:37.29,Default,,0000,0000,0000,,{\blur3}却没有新的能量或热量进入系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there is no new energy or heat coming into that system.{\r}
+Dialogue: 0,0:39:38.25,0:39:40.61,Default,,0000,0000,0000,,{\blur3}如果宇宙不停止自身的扩张{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the universe doesn't tear itself apart first,{\r}
+Dialogue: 0,0:39:40.80,0:39:43.55,Default,,0000,0000,0000,,{\blur3}宇宙会终结为一个极冻的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe will end as a deep freeze{\r}
+Dialogue: 0,0:39:43.87,0:39:47.15,Default,,0000,0000,0000,,{\blur3}寒冷 黑暗而且压抑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cold dark and depressing.{\r}
+Dialogue: 0,0:39:50.16,0:39:51.71,Default,,0000,0000,0000,,{\blur3}太阳们烧光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Suns burn out.{\r}
+Dialogue: 0,0:39:52.89,0:39:54.37,Default,,0000,0000,0000,,{\blur3}行星们被毁灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Planets are destroyed.{\r}
+Dialogue: 0,0:39:57.91,0:40:02.96,Default,,0000,0000,0000,,{\blur3}星系碰撞 坍塌 燃烧 然后散架{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Galaxies collide, collapse, ignite, then fall apart...{\r}
+Dialogue: 0,0:40:03.68,0:40:06.12,Default,,0000,0000,0000,,{\blur3}冰块四处飘散{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Frozen shells of their former selves.{\r}
+Dialogue: 0,0:40:08.90,0:40:11.25,Default,,0000,0000,0000,,{\blur3}在几百个数十亿年之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Over hundreds of billions of years,{\r}
+Dialogue: 0,0:40:11.43,0:40:14.86,Default,,0000,0000,0000,,{\blur3}宇宙的每一点能量都被利用了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}every bit of energy in our universe gets used up{\r}
+Dialogue: 0,0:40:15.72,0:40:18.21,Default,,0000,0000,0000,,{\blur3}消失在无限扩张的太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Lost to the ever-expanding void{\r}
+Dialogue: 0,0:40:18.91,0:40:24.25,Default,,0000,0000,0000,,{\blur3}宇宙的熵会达到致命的最大状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the entropy of our universe reaches a final fatal maximum state.{\r}
+Dialogue: 0,0:40:27.23,0:40:29.26,Default,,0000,0000,0000,,{\blur3}最终 它会扩张到极点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually, it will expand to the point{\r}
+Dialogue: 0,0:40:29.33,0:40:31.93,Default,,0000,0000,0000,,{\blur3}届时将没有热量留在宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where there will be no heat left in the universe.{\r}
+Dialogue: 0,0:40:32.33,0:40:33.82,Default,,0000,0000,0000,,{\blur3}这意味着没有化学反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means no chemical reactions.{\r}
+Dialogue: 0,0:40:34.23,0:40:35.80,Default,,0000,0000,0000,,{\blur3}意味着没有生物作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means no biological reactions.{\r}
+Dialogue: 0,0:40:36.00,0:40:37.46,Default,,0000,0000,0000,,{\blur3}你看到的将是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you will see is{\r}
+Dialogue: 0,0:40:40.84,0:40:44.96,Default,,0000,0000,0000,,{\blur3}宇宙的最终阶段看起来什么也没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The final state of our universe is really just going to look like a whole lot of nothing...{\r}
+Dialogue: 0,0:40:45.33,0:40:48.54,Default,,0000,0000,0000,,{\blur3}什么也看不到--没有黑洞 没有白矮星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nothing to see here... No black holes, no white dwarf stars,{\r}
+Dialogue: 0,0:40:48.59,0:40:50.18,Default,,0000,0000,0000,,{\blur3}没有中子星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}no neutron stars.{\r}
+Dialogue: 0,0:40:50.51,0:40:52.33,Default,,0000,0000,0000,,{\blur3}即使是质子也没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not even any protons...{\r}
+Dialogue: 0,0:40:53.16,0:40:54.76,Default,,0000,0000,0000,,{\blur3}什么都没有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just nothing.{\r}
+Dialogue: 0,0:40:55.71,0:40:58.86,Default,,0000,0000,0000,,{\blur3}一个非常寒冷 非常黑暗的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a very cold, dark universe,{\r}
+Dialogue: 0,0:40:59.07,0:41:02.19,Default,,0000,0000,0000,,{\blur3}你会说 这会是终极的深冻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you could say that this will be the ultimate deep freeze.{\r}
+Dialogue: 0,0:41:04.23,0:41:06.11,Default,,0000,0000,0000,,{\blur3}这是必然的吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But does it have to be that way?{\r}
+Dialogue: 0,0:41:07.37,0:41:09.98,Default,,0000,0000,0000,,{\blur3}有什么能让宇宙避免最终成为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is there anything that could prevent our universe{\r}
+Dialogue: 0,0:41:10.09,0:41:12.89,Default,,0000,0000,0000,,{\blur3}一个冰冻 黑暗的虚空吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from ending up as a frozen, dark void?{\r}
+Dialogue: 0,0:41:14.04,0:41:17.62,Default,,0000,0000,0000,,{\blur3}要避免宇宙的终极死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In order to prevent an ultimate death of the universe,{\r}
+Dialogue: 0,0:41:17.93,0:41:21.93,Default,,0000,0000,0000,,{\blur3}重力或者其它类似于重力的奇异力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gravity or some attractive force like gravity{\r}
+Dialogue: 0,0:41:22.11,0:41:26.55,Default,,0000,0000,0000,,{\blur3}必须把宇宙所有的子民拉扯回来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will have to pull back together all the constituents of the universe.{\r}
+Dialogue: 0,0:41:26.96,0:41:29.27,Default,,0000,0000,0000,,{\blur3}现在的宇宙正在扩张{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right now the universe is expanding.{\r}
+Dialogue: 0,0:41:29.29,0:41:31.76,Default,,0000,0000,0000,,{\blur3}我们测量到的重力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the force of gravity as we measure{\r}
+Dialogue: 0,0:41:31.79,0:41:34.34,Default,,0000,0000,0000,,{\blur3}并不足以把一切拉扯在一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it isn't enough to pull everything together.{\r}
+Dialogue: 0,0:41:34.79,0:41:38.55,Default,,0000,0000,0000,,{\blur3}但要知道 我们还不能完全知道所有的作用力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But we recognize that we don't even know all the players at work.{\r}
+Dialogue: 0,0:41:38.58,0:41:42.61,Default,,0000,0000,0000,,{\blur3}在过去的20年 我们才认识到暗能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's only been the last 20 years that we've even known that dark energy{\r}
+Dialogue: 0,0:41:43.11,0:41:47.64,Default,,0000,0000,0000,,{\blur3}这是一种令人讨厌的力量 它会分散宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is a repulsive force in essence, something that pushes the universe apart{\r}
+Dialogue: 0,0:41:48.18,0:41:51.73,Default,,0000,0000,0000,,{\blur3}我们在20年之前甚至不知道它的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We didn't even know it existed more than about 20 years ago.{\r}
+Dialogue: 0,0:41:52.20,0:41:54.20,Default,,0000,0000,0000,,{\blur3}有可能在某一天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's conceivable that some day,{\r}
+Dialogue: 0,0:41:54.22,0:41:57.59,Default,,0000,0000,0000,,{\blur3}加速宇宙扩张的暗能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the dark energy that's accelerating the expansion of the universe{\r}
+Dialogue: 0,0:41:58.05,0:42:00.16,Default,,0000,0000,0000,,{\blur3}摇身变为重力一样的吸引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will become gravitationally attractive.{\r}
+Dialogue: 0,0:42:00.94,0:42:03.57,Default,,0000,0000,0000,,{\blur3}果真如此 而且它是足够的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that's the case, and if there's enough of it,{\r}
+Dialogue: 0,0:42:04.00,0:42:08.11,Default,,0000,0000,0000,,{\blur3}宇宙或会停止它的扩张 再次坍塌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the universe may halt its expansion and re-collapse.{\r}
+Dialogue: 0,0:42:08.30,0:42:10.83,Default,,0000,0000,0000,,{\blur3}我们不知道这会否发生 但它可能会发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We don't know that that will happen, but it might happen.{\r}
+Dialogue: 0,0:42:11.22,0:42:16.40,Default,,0000,0000,0000,,{\blur3}在那种情况下 宇宙会经历一次非常高温的热死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In that case, the universe will experience a really hot heat-death,{\r}
+Dialogue: 0,0:42:16.55,0:42:20.43,Default,,0000,0000,0000,,{\blur3}所有微粒会骤然进入到其它微粒里面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where all the particles are slamming into all the other particles.{\r}
+Dialogue: 0,0:42:20.63,0:42:21.84,Default,,0000,0000,0000,,{\blur3}温度很高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}High temperatures.{\r}
+Dialogue: 0,0:42:21.90,0:42:24.63,Default,,0000,0000,0000,,{\blur3}恒星走向毁灭 行星走向毁灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Stars get destroyed, planets get destroyed.{\r}
+Dialogue: 0,0:42:24.76,0:42:29.09,Default,,0000,0000,0000,,{\blur3}只剩下一个不同与往的 死气沉沉的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You get a different form of a lifeless universe...{\r}
+Dialogue: 0,0:42:30.47,0:42:34.05,Default,,0000,0000,0000,,{\blur3}一个以高温代替极冻的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One which is hot instead of in the deep freeze.{\r}
+Dialogue: 0,0:42:35.27,0:42:38.25,Default,,0000,0000,0000,,{\blur3}但是 它不会形成"遮阳幕"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Still, don't break out the sunscreen yet.{\r}
+Dialogue: 0,0:42:39.37,0:42:44.47,Default,,0000,0000,0000,,{\blur3}我敢打赌 宇宙会最终成为非常低温的极冻世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}My bet is that the universe will end up in a very low temperature deep freeze...{\r}
+Dialogue: 0,0:42:44.75,0:42:48.20,Default,,0000,0000,0000,,{\blur3}因为目前的暗能量 看起来或许会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because it seems that the current dark energy might be the type{\r}
+Dialogue: 0,0:42:48.47,0:42:51.77,Default,,0000,0000,0000,,{\blur3}继续加速宇宙的扩张 永不停止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will continue to accelerate the expansion forever.{\r}
+Dialogue: 0,0:42:52.31,0:42:55.02,Default,,0000,0000,0000,,{\blur3}假如果真如此 宇宙的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that's the case, the temperature of the universe{\r}
+Dialogue: 0,0:42:55.11,0:43:00.58,Default,,0000,0000,0000,,{\blur3}会反复接近绝对零度这一终极寒冷的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will become arbitrarily close to absolute zero... The ultimate deep freeze.{\r}
+Dialogue: 0,0:43:02.79,0:43:06.01,Default,,0000,0000,0000,,{\blur3}寒冷是我们宇宙的一个决定性因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cold is a critical ingredient of our universe.{\r}
+Dialogue: 0,0:43:06.88,0:43:11.90,Default,,0000,0000,0000,,{\blur3}它是我们所见到的宇宙的必要组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cold is essential to having the universe that we see.{\r}
+Dialogue: 0,0:43:12.24,0:43:15.70,Default,,0000,0000,0000,,{\blur3}因为如果没有寒冷 能量就不会流动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Because without a cold spot, energy doesn't flow.{\r}
+Dialogue: 0,0:43:15.74,0:43:18.68,Default,,0000,0000,0000,,{\blur3}你需要能量从热流向冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You need energy to flow from hot to cold.{\r}
+Dialogue: 0,0:43:19.13,0:43:21.69,Default,,0000,0000,0000,,{\blur3}正是能量的流动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it is the flow of energy that leads to{\r}
+Dialogue: 0,0:43:21.70,0:43:25.70,Default,,0000,0000,0000,,{\blur3}才形成现在的宇宙万物 包括我们人类本身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all the structures that we see in the universe, including ourselves.{\r}
+Dialogue: 0,0:43:26.23,0:43:30.77,Default,,0000,0000,0000,,{\blur3}所以 如果没有能量通过各种可能方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we wouldn't be here if energy weren't trying to flow{\r}
+Dialogue: 0,0:43:30.79,0:43:34.22,Default,,0000,0000,0000,,{\blur3}竭力从热的地方流向宇宙各处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from hot concentrated organized places{\r}
+Dialogue: 0,0:43:34.26,0:43:38.41,Default,,0000,0000,0000,,{\blur3}我们就不会在这里存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the many forms that it can flow into in the universe.{\r}
+Dialogue: 0,0:43:40.54,0:43:44.59,Default,,0000,0000,0000,,{\blur3}因此 日后感到冬日的寒冷或是被雪球打中的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the next time you feel a winter chill or get hit with a snowball,{\r}
+Dialogue: 0,0:43:44.77,0:43:48.81,Default,,0000,0000,0000,,{\blur3}你要记住--如果不是寒冷 你就不会在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just remember-- If it weren't for cold, you wouldn't be here.{\r}
+Dialogue: 0,0:43:49.08,0:43:52.01,Default,,0000,0000,0000,,{\blur3}而且 如果算是一丝安慰的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if it's any consolation, you won't be around{\r}
+Dialogue: 0,0:43:52.70,0:43:56.17,Default,,0000,0000,0000,,{\blur3}现在的你不用花上几百个数万亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hundreds of trillions of years from now when the universe{\r}
+Dialogue: 0,0:43:56.30,0:43:59.99,Default,,0000,0000,0000,,{\blur3}去陪同宇宙迎接最后的极冻结局{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}enters its final state of deep freeze.{\r}

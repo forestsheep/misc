@@ -1,0 +1,691 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.75,0:00:03.87,*Default,NTP,0000,0000,0000,,创世之初 冥冥之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness,
+Dialogue: 0,0:00:03.92,0:00:06.21,*Default,NTP,0000,0000,0000,,随着一声爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang--
+Dialogue: 0,0:00:06.25,0:00:08.88,*Default,NTP,0000,0000,0000,,诞生了无尽膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.92,0:00:11.26,*Default,NTP,0000,0000,0000,,时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space, and matter.
+Dialogue: 0,0:00:11.30,0:00:14.84,*Default,NTP,0000,0000,0000,,每一天 新的发现都在揭秘这个诡异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:14.88,0:00:17.30,*Default,NTP,0000,0000,0000,,震撼 神秘莫测的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:17.35,0:00:20.26,*Default,NTP,0000,0000,0000,,地方 - 我们所谓的《宇宙》\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call "The Universe."
+Dialogue: 0,0:00:23.27,0:00:28.98,*Default,NTP,0000,0000,0000,,如果你认为土星是唯一的环状行星 就大错特错了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you thought Saturn was the only ringed planet, think again.
+Dialogue: 0,0:00:29.02,0:00:33.03,*Default,NTP,0000,0000,0000,,围绕太阳的四颗巨行星都有环状系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All four of the giant planets orbiting the sun have ring systems.
+Dialogue: 0,0:00:35.45,0:00:37.45,*Default,NTP,0000,0000,0000,,甚至冥王星都可能具有星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even Pluto might have rings.
+Dialogue: 0,0:00:39.83,0:00:42.45,*Default,NTP,0000,0000,0000,,航天器穿越它们将会是致命的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Flying a spacecraft through them would be deadly.
+Dialogue: 0,0:00:44.37,0:00:48.75,*Default,NTP,0000,0000,0000,,这些颗粒围绕土星的速度是子弹的15倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These particles orbit Saturn at 15 times the speed of a rifle bullet.
+Dialogue: 0,0:00:48.79,0:00:53.38,*Default,NTP,0000,0000,0000,,因此要发现它们 星环猎手必须将科技推至极致\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So to find them, ring hunters must push technology to the limit.
+Dialogue: 0,0:00:53.42,0:00:54.88,*Default,NTP,0000,0000,0000,,那是个挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a challenge,
+Dialogue: 0,0:00:54.92,0:00:57.43,*Default,NTP,0000,0000,0000,,就像是拍摄躲在煤仓里黑猫照片一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like taking a picture of a cat in a coal bin.
+Dialogue: 0,0:00:57.47,0:00:59.80,*Default,NTP,0000,0000,0000,,从宇宙外围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From the outer reaches of the cosmos,
+Dialogue: 0,0:00:59.85,0:01:03.27,*Default,NTP,0000,0000,0000,,到我们自家后院惊人的星环系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to a surprising ring system in our own backyard,
+Dialogue: 0,0:01:03.31,0:01:06.48,*Default,NTP,0000,0000,0000,,这就是 - 搜寻环状行星之旅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this is "The Hunt for Ringed Planets."
+Dialogue: 0,0:01:07.00,0:01:10.75,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:11.25,0:01:14.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:暮云春树  字幕来源：HDC字幕组 调校：晴天 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:14.31,0:01:20.48,*Default,NTP,0000,0000,0000,,历史频道 - 宇宙 第4季第5集 搜索环状行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The History Channel - The Universe s04e05 Hunt For Ringed Planets
+Dialogue: 0,0:01:21.79,0:01:25.20,*Default,NTP,0000,0000,0000,,这是距离太阳的第六颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the sixth planet from the Sun.
+Dialogue: 0,0:01:25.25,0:01:26.75,*Default,NTP,0000,0000,0000,,认不出它了吧？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Don't recognize it?
+Dialogue: 0,0:01:26.79,0:01:29.12,*Default,NTP,0000,0000,0000,,那是因为有东西给漏了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's because something's missing.
+Dialogue: 0,0:01:31.38,0:01:36.63,*Default,NTP,0000,0000,0000,,没有了其标志性的星环 土星只不过是又一颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without its iconic rings, Saturn would be just another planet.
+Dialogue: 0,0:01:36.67,0:01:39.84,*Default,NTP,0000,0000,0000,,它们是其美貌的关键所在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are the key to its beauty.
+Dialogue: 0,0:01:39.89,0:01:45.85,*Default,NTP,0000,0000,0000,,通过望远镜观看土星环的兴奋难以言表\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The exhilaration of seeing Saturn's rings through the telescope can't be overstated.
+Dialogue: 0,0:01:45.89,0:01:48.35,*Default,NTP,0000,0000,0000,,它简直是叹为观止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is just such a marvelous sight.
+Dialogue: 0,0:01:51.56,0:01:53.86,*Default,NTP,0000,0000,0000,,人们惊叹土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People have been in awe of Saturn's rings
+Dialogue: 0,0:01:53.90,0:01:58.36,*Default,NTP,0000,0000,0000,,自伽利略在1610年首次发现它们以来一直如此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since Galileo first discovered them in the year 1610.
+Dialogue: 0,0:02:00.99,0:02:04.16,*Default,NTP,0000,0000,0000,,从那时起 天文学家就将他们对这颗最早的环状行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since then, astronomers have applied everything they know
+Dialogue: 0,0:02:04.20,0:02:08.16,*Default,NTP,0000,0000,0000,,所了解的一切用来搜寻更多的环状行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about the original ringed planet in their hunt for more.
+Dialogue: 0,0:02:10.96,0:02:15.30,*Default,NTP,0000,0000,0000,,不过我们凝视土星环时 我们究竟看到了什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when we gaze at Saturn's rings, what exactly are we looking at?
+Dialogue: 0,0:02:17.72,0:02:21.59,*Default,NTP,0000,0000,0000,,地球上完美的景观掩盖了混乱的场景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The perfection viewed from Earth masks a scene of chaos.
+Dialogue: 0,0:02:24.72,0:02:28.18,*Default,NTP,0000,0000,0000,,物体相互碰撞 彼此推搡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Things are bumping into each other and spattering off of one another.
+Dialogue: 0,0:02:28.23,0:02:33.36,*Default,NTP,0000,0000,0000,,所以那是个混乱冰凉的乱石场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so it's a very sort of chaotic, icy rubble field,
+Dialogue: 0,0:02:33.40,0:02:35.73,*Default,NTP,0000,0000,0000,,一起围绕着土星运转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all moving together around Saturn.
+Dialogue: 0,0:02:36.73,0:02:40.57,*Default,NTP,0000,0000,0000,,随着时间的推移 星环猎手发现不只是一个环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over time, ring hunters found not just one ring,
+Dialogue: 0,0:02:40.61,0:02:45.49,*Default,NTP,0000,0000,0000,,而是有一个七条主带的系列围绕着土星的赤道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but a series of seven main bands around Saturn's equator.
+Dialogue: 0,0:02:45.54,0:02:48.79,*Default,NTP,0000,0000,0000,,土星环的首个详尽的视图\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first really detailed views of Saturn's rings
+Dialogue: 0,0:02:48.83,0:02:52.21,*Default,NTP,0000,0000,0000,,出自1980年前后的旅行者号探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}came from the Voyager spacecraft around 1980,
+Dialogue: 0,0:02:52.25,0:02:54.96,*Default,NTP,0000,0000,0000,,那些照片令人咋舌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and those photographs were truly breathtaking.
+Dialogue: 0,0:02:56.17,0:02:59.55,*Default,NTP,0000,0000,0000,,每个环都是由数以万亿计的颗粒构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each ring is made of trillions of particles,
+Dialogue: 0,0:02:59.59,0:03:04.60,*Default,NTP,0000,0000,0000,,从尘埃颗粒带大如房子的物体 大小不等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ranging in size from a grain of dust to something as big as a house.
+Dialogue: 0,0:03:06.06,0:03:07.56,*Default,NTP,0000,0000,0000,,它们不难看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They were easy to see
+Dialogue: 0,0:03:07.60,0:03:10.73,*Default,NTP,0000,0000,0000,,因为它们是太阳系里最亮的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since they're the brightest rings in the solar system.
+Dialogue: 0,0:03:10.77,0:03:13.69,*Default,NTP,0000,0000,0000,,它们闪闪发光是因为它们非常紧凑挤在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They glisten because they are so tightly packed
+Dialogue: 0,0:03:13.73,0:03:16.32,*Default,NTP,0000,0000,0000,,因为块体高度反光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and because the chunks are highly reflective,
+Dialogue: 0,0:03:16.36,0:03:19.19,*Default,NTP,0000,0000,0000,,几乎是100%的冰块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}being almost 100% ice.
+Dialogue: 0,0:03:19.24,0:03:21.40,*Default,NTP,0000,0000,0000,,如果你位于土星环的下方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were positioned below Saturn's rings,
+Dialogue: 0,0:03:21.45,0:03:23.03,*Default,NTP,0000,0000,0000,,但就在几百码的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but a few hundred yards away,
+Dialogue: 0,0:03:23.07,0:03:29.79,*Default,NTP,0000,0000,0000,,你就会看到这个广泛分布的石块 冰球 雪球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would see this vast expanse of boulders and ice balls, snowballs,
+Dialogue: 0,0:03:29.83,0:03:33.08,*Default,NTP,0000,0000,0000,,透过其中的一些地方 你会看到另一面的星星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and through some parts you could see stars on the other side,
+Dialogue: 0,0:03:33.12,0:03:36.46,*Default,NTP,0000,0000,0000,,但是其他部分非常稠密 是不透明的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but other parts would be so thick that they would be opaque.
+Dialogue: 0,0:03:36.50,0:03:38.17,*Default,NTP,0000,0000,0000,,那将是个美妙的景象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be a wonderful sight.
+Dialogue: 0,0:03:41.47,0:03:43.51,*Default,NTP,0000,0000,0000,,天文学家命名七个主环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers named the seven main rings
+Dialogue: 0,0:03:43.55,0:03:45.59,*Default,NTP,0000,0000,0000,,就用了字母表上的字母\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}simply by the letters of the alphabet,
+Dialogue: 0,0:03:45.64,0:03:47.93,*Default,NTP,0000,0000,0000,,不过是按照它们被发现的顺序 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in the order they were discovered:
+Dialogue: 0,0:03:47.97,0:03:55.85,*Default,NTP,0000,0000,0000,,A  B  C  D  E  F  最后1980年发现的 G\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A, B, C, D, E, F, and the last, detected in 1980, G.
+Dialogue: 0,0:03:55.90,0:03:58.44,*Default,NTP,0000,0000,0000,,总之 星环猎手发现了一个星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All told, ring hunters had found a system
+Dialogue: 0,0:03:58.48,0:04:02.53,*Default,NTP,0000,0000,0000,,展开成庞大的18万英里直径的范围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that sprawled a whopping 180,000 miles in diameter.
+Dialogue: 0,0:04:03.66,0:04:07.01,*Default,NTP,0000,0000,0000,,星环的边到边几乎是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rings from edge to edge are 
+Dialogue: 0,0:04:07.01,0:04:11.87,*Default,NTP,0000,0000,0000,,地球与月球距离的2/3左右\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}almost 2/3 or so as wide as the distance from the Earth to our own Moon,
+Dialogue: 0,0:04:11.91,0:04:13.21,*Default,NTP,0000,0000,0000,,所以说它们非常庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so they're quite vast.
+Dialogue: 0,0:04:15.67,0:04:18.63,*Default,NTP,0000,0000,0000,,然而难以置信的是 星环的单个平面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet incredibly, the rings form a single plane
+Dialogue: 0,0:04:18.67,0:04:22.55,*Default,NTP,0000,0000,0000,,是个薄片 平均不到30英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is wafer thin, averaging less than 30 feet.
+Dialogue: 0,0:04:23.34,0:04:25.01,*Default,NTP,0000,0000,0000,,它们非常扁平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're very flat.
+Dialogue: 0,0:04:25.05,0:04:28.72,*Default,NTP,0000,0000,0000,,就像是中央公园那样的一张纸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like a sheet of paper the size of Central Park.
+Dialogue: 0,0:04:30.01,0:04:34.69,*Default,NTP,0000,0000,0000,,然而这些美丽的结构也是动力十足的歹徒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But these beautiful structures are also turbo-charged hellions.
+Dialogue: 0,0:04:36.56,0:04:39.02,*Default,NTP,0000,0000,0000,,其中的冰粒在星球旁呼啸而过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their icy particles scream around the planet
+Dialogue: 0,0:04:39.07,0:04:41.90,*Default,NTP,0000,0000,0000,,时速高达5 3万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at up to 53,000 miles per hour,
+Dialogue: 0,0:04:43.57,0:04:47.16,*Default,NTP,0000,0000,0000,,就像是永无尽头的宇宙赛车场上的赛车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like speeding cars on a never-ending cosmic race track.
+Dialogue: 0,0:04:48.20,0:04:52.24,*Default,NTP,0000,0000,0000,,在这样的高速情况下 星环无疑会让\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At these high velocities, the rings spell certain death
+Dialogue: 0,0:04:52.29,0:04:56.00,*Default,NTP,0000,0000,0000,,胆敢冒险靠近的任何东西命丧九泉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for anything daring to venture too close.
+Dialogue: 0,0:04:56.04,0:04:59.33,*Default,NTP,0000,0000,0000,,这些围绕土星的颗粒的速度是子弹的15倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These particles orbit Saturn at 15 times the speed of a rifle bullet.
+Dialogue: 0,0:04:59.38,0:05:04.97,*Default,NTP,0000,0000,0000,,一块两英寸宽的东西可以对航天器撞出致命的窟窿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A chunk just two inches wide could blast a deadly hole in a spacecraft.
+Dialogue: 0,0:05:12.27,0:05:15.89,*Default,NTP,0000,0000,0000,,这些颗粒就像是速度疯狂的赛车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The particles are like race cars at mind-bending speeds.
+Dialogue: 0,0:05:20.23,0:05:23.36,*Default,NTP,0000,0000,0000,,然而就像这些赛车一样 环中的每个颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet like these cars, each particle in the ring
+Dialogue: 0,0:05:23.40,0:05:27.49,*Default,NTP,0000,0000,0000,,的速度几乎与周围颗粒的速度相等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is moving at almost the same speed as the ones around it.
+Dialogue: 0,0:05:27.53,0:05:31.03,*Default,NTP,0000,0000,0000,,但是由于它们的速度和方向并不完全匹配\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But since their speeds and directions don't match exactly
+Dialogue: 0,0:05:31.08,0:05:34.87,*Default,NTP,0000,0000,0000,,有时会被周围的力量所改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and are sometimes changed by forces around them,
+Dialogue: 0,0:05:34.91,0:05:38.04,*Default,NTP,0000,0000,0000,,冰块会无情的碰撞和推挤 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the icy chunks relentlessly bump and jostle--
+Dialogue: 0,0:05:39.75,0:05:42.75,*Default,NTP,0000,0000,0000,,就像激烈竞争中的赛车一般\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like race cars in the heat of competition.
+Dialogue: 0,0:05:46.13,0:05:50.43,*Default,NTP,0000,0000,0000,,多数碰撞是低强度的 没有多大影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most bumps are low impact and don't have much effect.
+Dialogue: 0,0:05:50.47,0:05:55.06,*Default,NTP,0000,0000,0000,,但是有时 一个碰撞可以将一个颗粒撞入太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But at times, a crash can send a particle hurtling into space.
+Dialogue: 0,0:06:00.06,0:06:03.44,*Default,NTP,0000,0000,0000,,是什么让这些疾飞的冰球保持在圆环中的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What keeps these rocketing ice balls in a ring?
+Dialogue: 0,0:06:03.48,0:06:06.86,*Default,NTP,0000,0000,0000,,土星强大的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The powerful force of Saturn's gravitational pull.
+Dialogue: 0,0:06:08.61,0:06:11.16,*Default,NTP,0000,0000,0000,,如果你突然拿走土星的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you suddenly took Saturn's gravity away,
+Dialogue: 0,0:06:11.20,0:06:13.62,*Default,NTP,0000,0000,0000,,环状颗粒就会四处飞离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the ring particles would go flying off
+Dialogue: 0,0:06:13.66,0:06:17.79,*Default,NTP,0000,0000,0000,,它们会和土星同时消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the directions that they were going at the moment that Saturn disappeared.
+Dialogue: 0,0:06:19.21,0:06:21.56,*Default,NTP,0000,0000,0000,,反之 行星的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead, the gravity of the planet 
+Dialogue: 0,0:06:21.56,0:06:25.38,*Default,NTP,0000,0000,0000,,和颗粒的速度处于理想的平衡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the velocity of the particles are in perfect balance,
+Dialogue: 0,0:06:25.42,0:06:28.38,*Default,NTP,0000,0000,0000,,结果颗粒永远在坠落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that the particles are eternally "falling,"
+Dialogue: 0,0:06:28.42,0:06:32.51,*Default,NTP,0000,0000,0000,,即弯曲向行星 但永远都不可能更加接近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or curving in, towards the planet, but never getting any closer.
+Dialogue: 0,0:06:34.72,0:06:37.56,*Default,NTP,0000,0000,0000,,不过土星不是唯一的引力源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Saturn is not the only source of gravity.
+Dialogue: 0,0:06:37.60,0:06:40.48,*Default,NTP,0000,0000,0000,,环中的颗粒都有自己的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The particles in the rings have their own,
+Dialogue: 0,0:06:41.06,0:06:44.65,*Default,NTP,0000,0000,0000,,它们在坚持不懈地努力抱成一团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it is relentlessly trying to pull them into a cluster
+Dialogue: 0,0:06:44.69,0:06:47.86,*Default,NTP,0000,0000,0000,,形成更大的物体 如小月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to form something larger, like a small moon.
+Dialogue: 0,0:06:49.15,0:06:51.95,*Default,NTP,0000,0000,0000,,每一个颗粒都在吸引着其他的颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every particle is attracted to every other particle,
+Dialogue: 0,0:06:51.99,0:06:53.78,*Default,NTP,0000,0000,0000,,较大的颗粒具有较大的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the more massive ones have a bigger pull,
+Dialogue: 0,0:06:53.83,0:06:55.62,*Default,NTP,0000,0000,0000,,你越靠近 引力就越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the closer you are the more the pull is.
+Dialogue: 0,0:06:57.33,0:07:01.87,*Default,NTP,0000,0000,0000,,不过颗粒的引力要对抗土星的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the gravity of the particles works against the gravity of Saturn.
+Dialogue: 0,0:07:01.92,0:07:04.13,*Default,NTP,0000,0000,0000,,那是一场永恒的战争\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an eternal war.
+Dialogue: 0,0:07:04.17,0:07:06.46,*Default,NTP,0000,0000,0000,,这场持续的战争 可以说是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's this constant battle, if you like,
+Dialogue: 0,0:07:06.50,0:07:09.97,*Default,NTP,0000,0000,0000,,存在于努力将物体拉在一起的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between the force of gravity trying to pull things together,
+Dialogue: 0,0:07:10.01,0:07:11.26,*Default,NTP,0000,0000,0000,,环状颗粒的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gravity of the ring particles,
+Dialogue: 0,0:07:11.30,0:07:13.51,*Default,NTP,0000,0000,0000,,与努力将它们拆散的土星引力之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Saturn's gravity trying to tear them apart.
+Dialogue: 0,0:07:14.80,0:07:18.14,*Default,NTP,0000,0000,0000,,土星引力将颗粒相互拉开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Saturn's gravity pulls particles away from each other
+Dialogue: 0,0:07:18.18,0:07:22.19,*Default,NTP,0000,0000,0000,,那是由于在轨物体速度的普遍规律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because of a universal law about the speed of objects in orbit.
+Dialogue: 0,0:07:23.73,0:07:25.02,*Default,NTP,0000,0000,0000,,你离土星越近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The closer you are to Saturn,
+Dialogue: 0,0:07:25.06,0:07:27.98,*Default,NTP,0000,0000,0000,,你要跑得更快才能保持在轨道上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the more quickly you need to move to stay in orbit.
+Dialogue: 0,0:07:28.03,0:07:30.28,*Default,NTP,0000,0000,0000,,如果你跑得不快的话 就会掉入行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're not moving really fast, you'll fall into the planet.
+Dialogue: 0,0:07:32.32,0:07:34.57,*Default,NTP,0000,0000,0000,,土星最里面的星环里的颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Particles of Saturn's innermost ring
+Dialogue: 0,0:07:34.62,0:07:38.95,*Default,NTP,0000,0000,0000,,疾飞的速度远超过最外面星环里的颗粒的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tear around at more than 30,000 miles per hour faster
+Dialogue: 0,0:07:39.00,0:07:41.00,*Default,NTP,0000,0000,0000,,超出了有每小时3万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than those in the outermost ring.
+Dialogue: 0,0:07:41.91,0:07:46.17,*Default,NTP,0000,0000,0000,,即使一个冰块就比别人靠里面多一尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even if one icy chunk is just a foot closer than another,
+Dialogue: 0,0:07:46.21,0:07:48.84,*Default,NTP,0000,0000,0000,,也会在速度上有细微的差异\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there will be a tiny difference in speed.
+Dialogue: 0,0:07:48.88,0:07:52.55,*Default,NTP,0000,0000,0000,,那种差异足以阻止颗粒呆在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That difference is enough to prevent the particles from staying together.
+Dialogue: 0,0:07:54.43,0:07:57.05,*Default,NTP,0000,0000,0000,,即使间隔很小的距离 里面的颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even over very small distances, the inside particles
+Dialogue: 0,0:07:57.10,0:07:59.10,*Default,NTP,0000,0000,0000,,也要比外面的颗粒跑得快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are moving faster than the outside particles,
+Dialogue: 0,0:07:59.14,0:08:02.89,*Default,NTP,0000,0000,0000,,它们沿着这些弧圈散布开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stretching them out along these ring arcs,
+Dialogue: 0,0:08:02.94,0:08:07.40,*Default,NTP,0000,0000,0000,,因此你永远都看不到星环凝聚成实体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so you'll never get the rings coalescing back into a solid body.
+Dialogue: 0,0:08:08.57,0:08:12.74,*Default,NTP,0000,0000,0000,,这种颗粒分组为小结构的没完没了的战争\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This perpetual battle of particles grouping into small structures,
+Dialogue: 0,0:08:12.78,0:08:14.95,*Default,NTP,0000,0000,0000,,不断地分开重组\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}being pulled away and regrouping,
+Dialogue: 0,0:08:14.99,0:08:19.66,*Default,NTP,0000,0000,0000,,已经在星环里持续了有数百万乃至数十亿年了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has maintained the rings for millions, possibly billions of years.
+Dialogue: 0,0:08:22.04,0:08:24.83,*Default,NTP,0000,0000,0000,,它们在彼此推搡 相互碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're sort of jostling each other and bumping into each other,
+Dialogue: 0,0:08:24.87,0:08:27.29,*Default,NTP,0000,0000,0000,,感受着他们自己微弱的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}feeling their own very, very weak gravity
+Dialogue: 0,0:08:27.34,0:08:31.38,*Default,NTP,0000,0000,0000,,不断形成短暂的结构 此消彼长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}continuously forming transient structures, which come and go.
+Dialogue: 0,0:08:31.42,0:08:35.80,*Default,NTP,0000,0000,0000,,整个星环系统处在很好的平衡之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The whole ring system is in a very nice balance.
+Dialogue: 0,0:08:36.80,0:08:41.06,*Default,NTP,0000,0000,0000,,引力的平衡保持着星环系统的稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The balance of gravity holds the ring system in place,
+Dialogue: 0,0:08:41.10,0:08:43.39,*Default,NTP,0000,0000,0000,,不过就是围绕行星的旋转运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's the motion of spinning around the planet
+Dialogue: 0,0:08:43.43,0:08:45.94,*Default,NTP,0000,0000,0000,,创造了它们壮观的形态\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that creates their breathtaking form.
+Dialogue: 0,0:08:49.27,0:08:52.07,*Default,NTP,0000,0000,0000,,我们来到这个披萨店里演示一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've come here to a pizzeria to show how
+Dialogue: 0,0:08:52.11,0:08:57.45,*Default,NTP,0000,0000,0000,,一个飞快旋转物体是如何自然形成薄圆盘的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the natural form for a very rapidly rotating object is a thin disk.
+Dialogue: 0,0:08:57.49,0:09:00.33,*Default,NTP,0000,0000,0000,,我们从一块皮萨面团开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we're starting out with a piece of pizza dough
+Dialogue: 0,0:09:00.37,0:09:04.00,*Default,NTP,0000,0000,0000,,还没有旋转 几乎就是一块面团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's not spinning and is pretty much a round lump.
+Dialogue: 0,0:09:06.21,0:09:10.29,*Default,NTP,0000,0000,0000,,当面团抛起并转起来后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the dough is thrown and is spun up,
+Dialogue: 0,0:09:10.34,0:09:15.17,*Default,NTP,0000,0000,0000,,它就自然变扁平成为很薄的碟状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it naturally flattens out into quite a very thin disk-like shape.
+Dialogue: 0,0:09:16.30,0:09:21.14,*Default,NTP,0000,0000,0000,,旋转产生的离心力把面团压扁了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The centrifugal force from the spinning causes the dough to flatten out.
+Dialogue: 0,0:09:22.47,0:09:25.48,*Default,NTP,0000,0000,0000,,同样的道理 土星环里的颗粒的快速旋转运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For a similar reason, the rapid orbital motion
+Dialogue: 0,0:09:25.52,0:09:28.65,*Default,NTP,0000,0000,0000,,不妨这么说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the particles in Saturn's rings, the spin, if you will,
+Dialogue: 0,0:09:28.69,0:09:33.07,*Default,NTP,0000,0000,0000,,土星环的自转使其形成了一个非常稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of Saturn's rings allows it to form into a very stable,
+Dialogue: 0,0:09:33.11,0:09:35.78,*Default,NTP,0000,0000,0000,,非常长寿 极薄的圆盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}very long-lived, extremely thin disk.
+Dialogue: 0,0:09:36.82,0:09:39.95,*Default,NTP,0000,0000,0000,,但真要是星环如此稳定 那为何它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if the rings are so stable, why did they disappear
+Dialogue: 0,0:09:39.99,0:09:43.95,*Default,NTP,0000,0000,0000,,在第一个星环猎手伽利略发现它们的两年后又消失了呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}two years after the first ring hunter, Galileo, discovered them?
+Dialogue: 0,0:09:45.83,0:09:50.13,*Default,NTP,0000,0000,0000,,1610年 他进行了他对星环的首次观察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1610, he made his first observation of the rings,
+Dialogue: 0,0:09:50.17,0:09:52.25,*Default,NTP,0000,0000,0000,,星环通过他的原始望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which, through his primitive telescope,
+Dialogue: 0,0:09:52.30,0:09:55.30,*Default,NTP,0000,0000,0000,,表现为行星两侧的圆环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}appeared as circles on either side of the planet.
+Dialogue: 0,0:09:56.51,0:10:01.47,*Default,NTP,0000,0000,0000,,当他在1612年再次观察时 圆环不见了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When he looked again in 1612, the circles were gone.
+Dialogue: 0,0:10:01.51,0:10:05.31,*Default,NTP,0000,0000,0000,,伽利略一头雾水 不过这个谜团的答案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Galileo was baffled, but the answer to this mystery
+Dialogue: 0,0:10:05.35,0:10:07.43,*Default,NTP,0000,0000,0000,,对现代天文学家来说是显而易见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is obvious to modern astronomers.
+Dialogue: 0,0:10:09.10,0:10:11.69,*Default,NTP,0000,0000,0000,,伽利略在第二年并未看到这些突出物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Galileo didn't see these protrusions the second year,
+Dialogue: 0,0:10:11.73,0:10:16.11,*Default,NTP,0000,0000,0000,,因为当时土星环几乎是边缘对着他的视线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because at that time Saturn's rings were nearly edge-on to his line of sight,
+Dialogue: 0,0:10:16.15,0:10:18.15,*Default,NTP,0000,0000,0000,,因此它们基本上是看不见了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so they were essentially invisible.
+Dialogue: 0,0:10:19.53,0:10:21.99,*Default,NTP,0000,0000,0000,,边缘正对视线 30年里发生两回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An edge-on view occurs twice
+Dialogue: 0,0:10:22.03,0:10:26.41,*Default,NTP,0000,0000,0000,,这取决于土星围绕太阳的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the 30 years it takes Saturn to orbit the Sun.
+Dialogue: 0,0:10:26.45,0:10:30.17,*Default,NTP,0000,0000,0000,,星环表现出的角度在不断变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The angle at which the rings are seen is constantly changing,
+Dialogue: 0,0:10:30.21,0:10:33.71,*Default,NTP,0000,0000,0000,,因为行星本身倾斜了27度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the planet itself tilts 27 degrees.
+Dialogue: 0,0:10:34.55,0:10:36.05,*Default,NTP,0000,0000,0000,,这是土星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this is Saturn,
+Dialogue: 0,0:10:36.09,0:10:39.84,*Default,NTP,0000,0000,0000,,它倾斜了27度 它正面对着我\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's tilted 27 degrees, so it's facing me.
+Dialogue: 0,0:10:39.88,0:10:42.14,*Default,NTP,0000,0000,0000,,我可以从上面看到星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can see the rings from above.
+Dialogue: 0,0:10:42.18,0:10:45.06,*Default,NTP,0000,0000,0000,,土星移动了 现在到了这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Saturn moves, so now is here,
+Dialogue: 0,0:10:45.10,0:10:50.35,*Default,NTP,0000,0000,0000,,我可以看到星环的侧影像一条笔直的细线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and I could see the rings in profile as a straight, thin line.
+Dialogue: 0,0:10:50.39,0:10:52.48,*Default,NTP,0000,0000,0000,,然后它移到了另一侧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then it moves on the other side
+Dialogue: 0,0:10:52.52,0:10:55.57,*Default,NTP,0000,0000,0000,,你可以从下方看到星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you can see the ring from down below.
+Dialogue: 0,0:10:57.65,0:11:02.20,*Default,NTP,0000,0000,0000,,虽然伽利略之谜被后来的星环猎手给迅速解决了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While Galileo's mystery was swiftly resolved by later ring hunters,
+Dialogue: 0,0:11:02.24,0:11:04.78,*Default,NTP,0000,0000,0000,,但是土星最根本的问题之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the most fundamental questions about Saturn
+Dialogue: 0,0:11:04.83,0:11:07.37,*Default,NTP,0000,0000,0000,,被激辩至今\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is hotly debated to this day.
+Dialogue: 0,0:11:07.41,0:11:10.21,*Default,NTP,0000,0000,0000,,这些星环打哪而来？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Where did the rings come from?
+Dialogue: 0,0:11:10.25,0:11:13.58,*Default,NTP,0000,0000,0000,,那确实是星环科学里最大的难题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the biggest conundrum in ring science, really,
+Dialogue: 0,0:11:13.63,0:11:15.50,*Default,NTP,0000,0000,0000,,土星环的起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the origin of Saturn's rings.
+Dialogue: 0,0:11:16.55,0:11:19.09,*Default,NTP,0000,0000,0000,,两种理论互不相让\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two theories vie for dominance.
+Dialogue: 0,0:11:20.26,0:11:23.72,*Default,NTP,0000,0000,0000,,一个认为星环的形成是紧随土星的诞生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One holds that the rings formed just after the birth of Saturn
+Dialogue: 0,0:11:23.76,0:11:26.72,*Default,NTP,0000,0000,0000,,是在45亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}4 1/2 billion years ago.
+Dialogue: 0,0:11:26.76,0:11:31.39,*Default,NTP,0000,0000,0000,,它们是旋流物质盘在形成行星后的残留物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They were the leftovers from the spinning disk of material that became the planet.
+Dialogue: 0,0:11:32.77,0:11:36.69,*Default,NTP,0000,0000,0000,,第二个理论将它们的年纪放到才1亿岁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The second theory puts their age at just 100 million years,
+Dialogue: 0,0:11:36.73,0:11:38.27,*Default,NTP,0000,0000,0000,,初生牛犊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a relative newborn.
+Dialogue: 0,0:11:39.36,0:11:42.90,*Default,NTP,0000,0000,0000,,如果恐龙有望远镜 仰望土星的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the dinosaurs had telescopes and looked up at Saturn,
+Dialogue: 0,0:11:42.95,0:11:44.53,*Default,NTP,0000,0000,0000,,那里可能并不存在星环系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there might not have been a ring system there.
+Dialogue: 0,0:11:44.57,0:11:46.62,*Default,NTP,0000,0000,0000,,没准比那还新鲜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's probably much newer than that.
+Dialogue: 0,0:11:46.66,0:11:48.41,*Default,NTP,0000,0000,0000,,不过我们刚好是幸运儿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we happen to be the lucky ones
+Dialogue: 0,0:11:48.45,0:11:49.87,*Default,NTP,0000,0000,0000,,星环在那里 同时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the rings are there at the same time
+Dialogue: 0,0:11:49.91,0:11:52.79,*Default,NTP,0000,0000,0000,,我们还拥有望远镜去探索它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we have the technology to explore them.
+Dialogue: 0,0:11:53.79,0:11:59.21,*Default,NTP,0000,0000,0000,,据信土星环是产生于一个灾难性事件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The belief is Saturn's rings were created by a cataclysmic event.
+Dialogue: 0,0:11:59.26,0:12:04.05,*Default,NTP,0000,0000,0000,,然而它是卫星与小行星之间的剧烈碰撞呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But was it a massive collision between a moon and an asteroid
+Dialogue: 0,0:12:04.09,0:12:09.39,*Default,NTP,0000,0000,0000,,还是一股无形的力量将卫星撕成了无数的碎片了呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or an invisible force that ripped a moon into billions of pieces?
+Dialogue: 0,0:12:15.48,0:12:19.98,*Default,NTP,0000,0000,0000,,它们是太阳系里最令人惊叹的结构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are some of the most awe-inspiring structures in the solar system,
+Dialogue: 0,0:12:21.86,0:12:26.61,*Default,NTP,0000,0000,0000,,宽度超过22个地球 却只有30英尺厚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wider than 22 Earths while only 30 feet thick.
+Dialogue: 0,0:12:26.66,0:12:29.20,*Default,NTP,0000,0000,0000,,但是星环猎手所面临的最大谜团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the biggest mystery facing ring hunters
+Dialogue: 0,0:12:29.24,0:12:31.83,*Default,NTP,0000,0000,0000,,就是土星环是怎么会出现在那里的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is how Saturn's rings got there.
+Dialogue: 0,0:12:35.12,0:12:38.96,*Default,NTP,0000,0000,0000,,许多人认为星环诞生于土星的一颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many believe that the rings were born when one of Saturn's moons
+Dialogue: 0,0:12:39.00,0:12:42.13,*Default,NTP,0000,0000,0000,,被一股强大的力量 - 潮汐效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was ripped to millions or billions of pieces
+Dialogue: 0,0:12:42.17,0:12:45.84,*Default,NTP,0000,0000,0000,,撕裂成了无数的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by a powerful force called tidal effect.
+Dialogue: 0,0:12:50.01,0:12:53.48,*Default,NTP,0000,0000,0000,,潮汐效应是普通的引力互动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tidal effect is any gravitational interaction
+Dialogue: 0,0:12:53.52,0:12:57.15,*Default,NTP,0000,0000,0000,,就是一侧受到的拉力大于另外一侧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where one side is getting tugged on more than the other side.
+Dialogue: 0,0:12:57.19,0:13:01.19,*Default,NTP,0000,0000,0000,,如果我有一个巨大的物体就靠在我的这个肩膀旁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if I had a big, massive object right here closer to this shoulder,
+Dialogue: 0,0:13:01.23,0:13:04.61,*Default,NTP,0000,0000,0000,,这条肩膀上的拉力就会大于这一条 远方的肩膀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would pull more on this shoulder than this one, which is further away.
+Dialogue: 0,0:13:04.65,0:13:06.65,*Default,NTP,0000,0000,0000,,就会把我拉扯开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it could pull me apart.
+Dialogue: 0,0:13:08.66,0:13:12.33,*Default,NTP,0000,0000,0000,,在黑洞里 引力极强\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a black hole, where gravity is violently strong,
+Dialogue: 0,0:13:12.37,0:13:16.54,*Default,NTP,0000,0000,0000,,潮汐效应会扯碎小如人体的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tidal effect could pull apart something as small as a human.
+Dialogue: 0,0:13:17.79,0:13:20.04,*Default,NTP,0000,0000,0000,,你是否听说过词组 - spaghettification\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you've heard the phrase "spaghettification,"
+Dialogue: 0,0:13:20.09,0:13:22.00,*Default,NTP,0000,0000,0000,,黑洞拉扯你的脚胜过你的头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the black hole is pulling on your feet more than your head,
+Dialogue: 0,0:13:22.05,0:13:25.92,*Default,NTP,0000,0000,0000,,就会把你拉成长长的意大利面条\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's stretching you out into a long strand of spaghetti.
+Dialogue: 0,0:13:28.05,0:13:31.22,*Default,NTP,0000,0000,0000,,在不那么极端的地方 比如我们的太阳系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In less extreme places, like our solar system,
+Dialogue: 0,0:13:31.26,0:13:35.06,*Default,NTP,0000,0000,0000,,潮汐效应的影响只有较大的天体才能感受到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the impact of tidal effect is only felt by large bodies
+Dialogue: 0,0:13:35.10,0:13:36.89,*Default,NTP,0000,0000,0000,,如行星和卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like planets and moons.
+Dialogue: 0,0:13:38.02,0:13:40.10,*Default,NTP,0000,0000,0000,,任何到过海边的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Anyone who has gone to the seashore
+Dialogue: 0,0:13:40.15,0:13:43.15,*Default,NTP,0000,0000,0000,,都目睹过月球对地球的潮汐效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has witnessed the Moon's tidal effect on the Earth.
+Dialogue: 0,0:13:44.11,0:13:46.82,*Default,NTP,0000,0000,0000,,地球最靠近月球的那部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The part of the Earth that's nearest to the Moon
+Dialogue: 0,0:13:46.86,0:13:52.45,*Default,NTP,0000,0000,0000,,被扯向月球要强于地球的远端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gets pulled more strongly toward the Moon than the far side of the Earth.
+Dialogue: 0,0:13:55.20,0:13:58.16,*Default,NTP,0000,0000,0000,,因此地球会呈现出这种隆起的外观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the Earth takes on this bulgy appearance
+Dialogue: 0,0:13:58.21,0:14:03.21,*Default,NTP,0000,0000,0000,,这样你就能看到岸边潮起潮落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so you can see at the shore that the water goes up and down
+Dialogue: 0,0:14:03.25,0:14:05.76,*Default,NTP,0000,0000,0000,,在大约12个小时的周期里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over a roughly 12-hour period.
+Dialogue: 0,0:14:08.43,0:14:11.93,*Default,NTP,0000,0000,0000,,然而月球的潮汐效应不仅拉动海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the Moon's tidal effect doesn't only pull the oceans,
+Dialogue: 0,0:14:11.97,0:14:14.14,*Default,NTP,0000,0000,0000,,它还拉动了整个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it pulls the entire planet.
+Dialogue: 0,0:14:14.93,0:14:20.14,*Default,NTP,0000,0000,0000,,通常没被认识到的就是地球岩石球体本身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Something that's not often recognized is that the rock ball of the planet itself
+Dialogue: 0,0:14:20.19,0:14:21.65,*Default,NTP,0000,0000,0000,,也会改变形状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}changes shape as well.
+Dialogue: 0,0:14:21.69,0:14:24.94,*Default,NTP,0000,0000,0000,,事实上 地球对着月球方向的直径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, Earth's diameter in the direction toward the Moon
+Dialogue: 0,0:14:24.98,0:14:29.24,*Default,NTP,0000,0000,0000,,比垂直方向的直径要长出一到两英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a foot or two longer than the diameter in the perpendicular direction,
+Dialogue: 0,0:14:29.28,0:14:33.53,*Default,NTP,0000,0000,0000,,因为整个地球在月球方向两头被拉伸长了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the whole Earth is stretched toward and away from the Moon.
+Dialogue: 0,0:14:35.24,0:14:38.16,*Default,NTP,0000,0000,0000,,行星也会对自己的卫星产生潮汐效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Planets also have a tidal effect on their moons.
+Dialogue: 0,0:14:38.21,0:14:41.21,*Default,NTP,0000,0000,0000,,事实上 由于行星大于卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, since planets are larger than moons,
+Dialogue: 0,0:14:41.25,0:14:45.34,*Default,NTP,0000,0000,0000,,它们具有更大的引力 产生更强的潮汐效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they have more gravity and create stronger tidal effects.
+Dialogue: 0,0:14:48.01,0:14:50.43,*Default,NTP,0000,0000,0000,,我们月球的成分是岩石和金属\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Moon is made of rock and metals,
+Dialogue: 0,0:14:50.47,0:14:54.14,*Default,NTP,0000,0000,0000,,其结实足以对付地球潮汐效应的撕扯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}far too solid to be ripped apart by Earth's tidal effect.
+Dialogue: 0,0:14:57.47,0:14:58.93,*Default,NTP,0000,0000,0000,,但是土星的某些卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But some of Saturn's moons
+Dialogue: 0,0:14:58.98,0:15:02.44,*Default,NTP,0000,0000,0000,,是冰块 尘埃 石头的松散聚集体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were loose conglomerations of ice, dust and rock,
+Dialogue: 0,0:15:02.48,0:15:04.90,*Default,NTP,0000,0000,0000,,有时就称其为碎石堆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sometimes called rubble piles.
+Dialogue: 0,0:15:07.36,0:15:10.78,*Default,NTP,0000,0000,0000,,碎石堆可能就像是刨冰之类的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A rubble pile might be like a sno-cone or something like this.
+Dialogue: 0,0:15:10.82,0:15:13.03,*Default,NTP,0000,0000,0000,,你知道的 放在一起是没有牢度的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You know, it's put together with no strength,
+Dialogue: 0,0:15:13.07,0:15:18.08,*Default,NTP,0000,0000,0000,,除非就是一点表面的张力 - 强度极低的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}except just little surface forces-- a very low-strength object.
+Dialogue: 0,0:15:22.25,0:15:24.83,*Default,NTP,0000,0000,0000,,有些科学家认为其中的一颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some scientists believe one of these moons
+Dialogue: 0,0:15:24.88,0:15:28.21,*Default,NTP,0000,0000,0000,,在一亿年前靠土星太近了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}strayed too close to Saturn a hundred million years ago.
+Dialogue: 0,0:15:31.18,0:15:34.14,*Default,NTP,0000,0000,0000,,结合松散的卫星会被撕裂成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The loosely held moon would get ripped apart
+Dialogue: 0,0:15:34.18,0:15:38.31,*Default,NTP,0000,0000,0000,,数千或数百万个大小不等的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into thousands or millions of pieces of a wide range of sizes,
+Dialogue: 0,0:15:38.35,0:15:41.18,*Default,NTP,0000,0000,0000,,它们与行星保持着不同的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they would have different distances from the planet
+Dialogue: 0,0:15:41.23,0:15:43.69,*Default,NTP,0000,0000,0000,,结果就有了不同的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and thus would take on different orbits.
+Dialogue: 0,0:15:43.73,0:15:45.77,*Default,NTP,0000,0000,0000,,不同轨道的不同周期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The different periods of the different orbits
+Dialogue: 0,0:15:45.81,0:15:49.98,*Default,NTP,0000,0000,0000,,会逐渐将材料扩散成星环系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would gradually spread the stuff out into a ring system.
+Dialogue: 0,0:15:52.03,0:15:55.91,*Default,NTP,0000,0000,0000,,唯有进一步探索才能确定土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only further exploration can determine whether the rings of Saturn
+Dialogue: 0,0:15:55.95,0:15:57.91,*Default,NTP,0000,0000,0000,,是产生于潮汐效应呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were created by tidal effect,
+Dialogue: 0,0:15:57.95,0:16:00.75,*Default,NTP,0000,0000,0000,,卫星的损毁是小行星造成的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the destruction of a moon by an asteroid,
+Dialogue: 0,0:16:00.79,0:16:04.37,*Default,NTP,0000,0000,0000,,还是行星开始形成时所留下的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or from leftover debris when the planet first formed.
+Dialogue: 0,0:16:05.08,0:16:07.38,*Default,NTP,0000,0000,0000,,不过天文学家最近发现颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But astronomers recently discovered particles
+Dialogue: 0,0:16:07.42,0:16:10.34,*Default,NTP,0000,0000,0000,,就在他们的眼皮底下加入了星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}joining a ring right before their eyes.
+Dialogue: 0,0:16:10.38,0:16:13.51,*Default,NTP,0000,0000,0000,,他们发现最外一层环带 E环的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They found that Saturn's outermost band, the E-ring,
+Dialogue: 0,0:16:13.55,0:16:15.68,*Default,NTP,0000,0000,0000,,存在只是因为土星的一颗卫星叫做恩克拉多斯(土卫二)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only exists because of violent upheavals
+Dialogue: 0,0:16:15.72,0:16:18.72,*Default,NTP,0000,0000,0000,,的剧烈动荡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on one of Saturn's moons called Enceladus.
+Dialogue: 0,0:16:20.18,0:16:24.52,*Default,NTP,0000,0000,0000,,这颗引人注目的卫星喷发的是水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What erupts from this extraordinary moon is water.
+Dialogue: 0,0:16:25.98,0:16:30.69,*Default,NTP,0000,0000,0000,,水从间歇泉里喷出 立刻就冻结了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That water squirts out in geysers and instantly freezes,
+Dialogue: 0,0:16:30.73,0:16:34.90,*Default,NTP,0000,0000,0000,,有点像滑雪胜地制雪机里的水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}kind of like the water in snow-making machines at ski resorts.
+Dialogue: 0,0:16:35.70,0:16:37.82,*Default,NTP,0000,0000,0000,,这些烟雾状的冰冻颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These plumes of frozen particles
+Dialogue: 0,0:16:37.87,0:16:41.08,*Default,NTP,0000,0000,0000,,射出卫星地表数百英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shoot hundreds of miles off the surface of the moon
+Dialogue: 0,0:16:41.12,0:16:43.96,*Default,NTP,0000,0000,0000,,进入了围绕土星的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where they enter into orbit around Saturn,
+Dialogue: 0,0:16:44.00,0:16:45.42,*Default,NTP,0000,0000,0000,,形成了E环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and form the E-ring.
+Dialogue: 0,0:16:50.88,0:16:56.09,*Default,NTP,0000,0000,0000,,除了看到物质加入到土星环之一的兴奋外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Besides the unexpected thrill of seeing material added to one of Saturn's rings,
+Dialogue: 0,0:16:56.14,0:16:58.51,*Default,NTP,0000,0000,0000,,天文学家还发现了锁定在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers discovered another surprise
+Dialogue: 0,0:16:58.55,0:17:02.56,*Default,NTP,0000,0000,0000,,E环微观颗粒里的另一个惊喜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}locked within the microscopic particles of the E-ring.
+Dialogue: 0,0:17:02.60,0:17:07.23,*Default,NTP,0000,0000,0000,,2009年6月 科学家发现了微量化学元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In June 2009, scientists found trace elements of chemicals
+Dialogue: 0,0:17:07.27,0:17:10.44,*Default,NTP,0000,0000,0000,,俗称的盐和小苏打\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}commonly known as salt and baking soda.
+Dialogue: 0,0:17:11.82,0:17:14.03,*Default,NTP,0000,0000,0000,,事情是如此兴奋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The thing that's so exciting about finding
+Dialogue: 0,0:17:14.07,0:17:17.20,*Default,NTP,0000,0000,0000,,发现了E环中既有盐还有碳酸盐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}both the salt and the carbonates in the E-ring is that 
+Dialogue: 0,0:17:17.24,0:17:22.24,*Default,NTP,0000,0000,0000,,那些东西暗示着土卫二内部有液态海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those are the kinds of things that suggest a liquid ocean inside of Enceladus.
+Dialogue: 0,0:17:22.29,0:17:27.12,*Default,NTP,0000,0000,0000,,就像地球上一样 生命诞生于海洋 我们认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And just like on Earth, where life formed in the oceans, we believe,
+Dialogue: 0,0:17:27.17,0:17:30.42,*Default,NTP,0000,0000,0000,,有可能真的是生命已经诞生在了土卫二的海洋里了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could very well be true that life has formed inside of Enceladus.
+Dialogue: 0,0:17:31.84,0:17:35.72,*Default,NTP,0000,0000,0000,,这是个兴奋不已的契机但是问题根本没有得到解决\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is a really exciting possibility, but it's by no means solved,
+Dialogue: 0,0:17:35.76,0:17:40.51,*Default,NTP,0000,0000,0000,,因为我们没有看到烟雾中有钠的出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we don't see the sodium in the plume coming out.
+Dialogue: 0,0:17:40.55,0:17:43.43,*Default,NTP,0000,0000,0000,,这些观察提出了一些其他解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These observations suggest some other explanations.
+Dialogue: 0,0:17:43.47,0:17:45.93,*Default,NTP,0000,0000,0000,,我们不清楚 我们必须不断去探索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't know. We have to keep exploring.
+Dialogue: 0,0:17:49.77,0:17:52.82,*Default,NTP,0000,0000,0000,,事实上 天文学家每天都源源不断获得\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers are, in fact, getting streams of new data
+Dialogue: 0,0:17:52.86,0:17:55.44,*Default,NTP,0000,0000,0000,,土星及其星环的新数据流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on Saturn and its rings every day
+Dialogue: 0,0:17:55.49,0:18:00.49,*Default,NTP,0000,0000,0000,,那是来自1997年发射的航天器 - 卡西尼号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a spacecraft launched in 1997 called Cassini.
+Dialogue: 0,0:18:00.53,0:18:03.28,*Default,NTP,0000,0000,0000,,卡西尼号大如一辆小校车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cassini is about as big as a small school bus.
+Dialogue: 0,0:18:03.33,0:18:06.50,*Default,NTP,0000,0000,0000,,是航天局历史上打造的最大的星际航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the biggest interplanetary spacecraft NASA has ever built.
+Dialogue: 0,0:18:08.58,0:18:10.46,*Default,NTP,0000,0000,0000,,经过七年的航程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After a seven-year journey,
+Dialogue: 0,0:18:10.50,0:18:14.84,*Default,NTP,0000,0000,0000,,卡西尼号成为了首个进入绕土星轨道的航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cassini became the first spacecraft to enter into an orbit around Saturn,
+Dialogue: 0,0:18:14.88,0:18:17.80,*Default,NTP,0000,0000,0000,,让人类零距离观察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving mankind a front-row seat
+Dialogue: 0,0:18:17.84,0:18:21.76,*Default,NTP,0000,0000,0000,,太阳的第六颗行星及其星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the sixth planet from the Sun and its rings.
+Dialogue: 0,0:18:21.80,0:18:24.22,*Default,NTP,0000,0000,0000,,它已经绕行了土星上百圈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Already it's gone over a hundred times around Saturn.
+Dialogue: 0,0:18:24.26,0:18:25.52,*Default,NTP,0000,0000,0000,,到任务结束时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By the end of the mission,
+Dialogue: 0,0:18:25.56,0:18:28.18,*Default,NTP,0000,0000,0000,,它或许会绕土星200圈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'll probably have gone around Saturn 200 times.
+Dialogue: 0,0:18:29.48,0:18:33.40,*Default,NTP,0000,0000,0000,,卡西尼号拍摄的图像比以前更加近距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cassini has captured images closer than ever before,
+Dialogue: 0,0:18:33.44,0:18:38.44,*Default,NTP,0000,0000,0000,,揭示了一个变幻莫测的狂野世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}revealing a wild world of shifting forms and surprising variation.
+Dialogue: 0,0:18:39.99,0:18:43.87,*Default,NTP,0000,0000,0000,,从远处看 它几乎就像是个实体的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From a distance, it almost looks like the rings are a solid body,
+Dialogue: 0,0:18:43.91,0:18:46.66,*Default,NTP,0000,0000,0000,,你知道 就好象是围绕着行星的浩浩荡荡的游行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in, you know, just a sort of stately march around the planet,
+Dialogue: 0,0:18:46.70,0:18:48.50,*Default,NTP,0000,0000,0000,,但是根本不是那回事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's not that way at all.
+Dialogue: 0,0:18:48.54,0:18:53.00,*Default,NTP,0000,0000,0000,,那是个非常混乱嘈杂的行进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a very chaotic, messy process.
+Dialogue: 0,0:18:53.04,0:18:56.21,*Default,NTP,0000,0000,0000,,研究星环通常的感觉就像是在研究地质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Studying rings used to feel like we were studying geology,
+Dialogue: 0,0:18:56.26,0:18:58.09,*Default,NTP,0000,0000,0000,,现在的感觉更像是在研究天气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and now it feels more like we're studying the weather.
+Dialogue: 0,0:19:02.76,0:19:05.56,*Default,NTP,0000,0000,0000,,天文学家惊诧不已的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To the astonishment of astronomers,
+Dialogue: 0,0:19:05.60,0:19:10.35,*Default,NTP,0000,0000,0000,,卡西尼号揭示了一个环里的颗粒正在形成一个高耸的波浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cassini revealed particles in one ring forming a towering wave.
+Dialogue: 0,0:19:10.39,0:19:15.19,*Default,NTP,0000,0000,0000,,2009年首次看到 波浪升起在一个星环的边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First seen in 2009, the wave rose at the edge of a ring
+Dialogue: 0,0:19:15.23,0:19:18.73,*Default,NTP,0000,0000,0000,,达到了可怕的高度 超过了一英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the terrifying height of more than a mile.
+Dialogue: 0,0:19:18.78,0:19:21.36,*Default,NTP,0000,0000,0000,,环本身很薄 就30英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rings themselves are very thin, only about 30 feet.
+Dialogue: 0,0:19:21.41,0:19:25.32,*Default,NTP,0000,0000,0000,,因此就仿佛你在30英尺深的浅湖里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's as though you were on a shallow lake only 30 feet deep
+Dialogue: 0,0:19:25.37,0:19:29.04,*Default,NTP,0000,0000,0000,,有一个一英里高的波浪奔你而来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then a mile-high wave comes right at you.
+Dialogue: 0,0:19:29.08,0:19:30.58,*Default,NTP,0000,0000,0000,,真是不得了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's really remarkable.
+Dialogue: 0,0:19:31.92,0:19:36.38,*Default,NTP,0000,0000,0000,,这种行星冲浪的肇因原来是一颗卫星的潮汐效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The cause of this planetary surf turned out to be the gravitational effects
+Dialogue: 0,0:19:36.42,0:19:40.67,*Default,NTP,0000,0000,0000,,它就是只有5英里宽的达夫尼(木卫三十五)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a moon just five miles wide named Daphnis.
+Dialogue: 0,0:19:43.39,0:19:46.60,*Default,NTP,0000,0000,0000,,因为它非常靠近土星的一个环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because it's so close to one of Saturn's rings,
+Dialogue: 0,0:19:46.64,0:19:49.39,*Default,NTP,0000,0000,0000,,这颗小卫星的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the gravitational pull of this tiny moon
+Dialogue: 0,0:19:49.43,0:19:52.85,*Default,NTP,0000,0000,0000,,强大到足以引起这种巨大的波浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is strong enough to create the gigantic waves.
+Dialogue: 0,0:19:52.90,0:19:55.90,*Default,NTP,0000,0000,0000,,它表明了卫星与星环之间的引力互动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It shows how kind of powerful and remarkable
+Dialogue: 0,0:19:55.94,0:20:00.19,*Default,NTP,0000,0000,0000,,有多强劲和不同凡响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these gravitational interactions are between the moons and the rings.
+Dialogue: 0,0:20:01.11,0:20:05.45,*Default,NTP,0000,0000,0000,,这些波浪是卫星将自己标记在环上的唯一途径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These waves are only one way that moons put their mark on rings.
+Dialogue: 0,0:20:07.28,0:20:09.16,*Default,NTP,0000,0000,0000,,它们也增强了环的形状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They also add to the shapes of the rings,
+Dialogue: 0,0:20:09.20,0:20:15.42,*Default,NTP,0000,0000,0000,,这样你就看到了间隙 边缘以及环之间清晰的分界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that you get gaps and edges and very clear divisions between the rings.
+Dialogue: 0,0:20:18.00,0:20:20.80,*Default,NTP,0000,0000,0000,,产生这些边缘和分界的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Moons that create these edges and divisions
+Dialogue: 0,0:20:20.84,0:20:23.34,*Default,NTP,0000,0000,0000,,称为护卫卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are called shepherd moons.
+Dialogue: 0,0:20:23.38,0:20:26.72,*Default,NTP,0000,0000,0000,,在土星的F环里 两边都有一颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In Saturn's F-ring, there's a moon on each side
+Dialogue: 0,0:20:26.76,0:20:29.43,*Default,NTP,0000,0000,0000,,实际上是把颗粒驱赶进星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that actually herds the particles into the ring.
+Dialogue: 0,0:20:31.31,0:20:34.27,*Default,NTP,0000,0000,0000,,这些卫星 普罗米修斯(土卫十六)和潘多拉(土卫十七)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These moons, Prometheus and Pandora,
+Dialogue: 0,0:20:34.31,0:20:37.48,*Default,NTP,0000,0000,0000,,其实是土星的牛仔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are, in essence, Saturn's cowboys.
+Dialogue: 0,0:20:38.77,0:20:41.90,*Default,NTP,0000,0000,0000,,它们的工作宛如你在牧场里见到的牛仔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They work just like cowhands you'd find on a ranch.
+Dialogue: 0,0:20:41.94,0:20:44.32,*Default,NTP,0000,0000,0000,,好 走吧 走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All right, let's go, all right? Let's go get 'em.
+Dialogue: 0,0:20:51.04,0:20:52.79,*Default,NTP,0000,0000,0000,,我们现在所干的就像是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we're doing here is much like
+Dialogue: 0,0:20:52.83,0:20:55.96,*Default,NTP,0000,0000,0000,,土星卫星对待土星环的事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what Saturn's moons do to Saturn's rings.
+Dialogue: 0,0:20:56.00,0:21:00.13,*Default,NTP,0000,0000,0000,,我们放牧牛群就像是卫星护卫着星环一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're herding them just like the moons shepherd the rings.
+Dialogue: 0,0:21:00.17,0:21:04.26,*Default,NTP,0000,0000,0000,,比如 普罗米修斯和潘多拉放牧着F环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, Prometheus and Pandora herd the F-ring.
+Dialogue: 0,0:21:04.30,0:21:05.30,*Default,NTP,0000,0000,0000,,我就像是普罗米修斯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm like Prometheus.
+Dialogue: 0,0:21:05.34,0:21:08.68,*Default,NTP,0000,0000,0000,,我在内测 我的搭档在外侧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm on the inside, and my partner is on the outside.
+Dialogue: 0,0:21:08.72,0:21:10.26,*Default,NTP,0000,0000,0000,,那就是潘多拉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's Pandora.
+Dialogue: 0,0:21:10.31,0:21:11.81,*Default,NTP,0000,0000,0000,,我们让牛群保持一致\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we're keeping these cattle in line
+Dialogue: 0,0:21:11.85,0:21:14.89,*Default,NTP,0000,0000,0000,,就像卫星让星环保持一致那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like the moons keep the rings in line.
+Dialogue: 0,0:21:14.94,0:21:17.19,*Default,NTP,0000,0000,0000,,卫星与星环颗粒相互作用时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a moon interacts with a ring particle,
+Dialogue: 0,0:21:17.23,0:21:21.19,*Default,NTP,0000,0000,0000,,它可以将它踢到较高的轨道上远离土星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it can kick it into a higher orbit further from Saturn
+Dialogue: 0,0:21:21.23,0:21:24.24,*Default,NTP,0000,0000,0000,,或将其踢进较低的轨道上靠近行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or kick it into a lower orbit closer to the planet.
+Dialogue: 0,0:21:27.20,0:21:29.74,*Default,NTP,0000,0000,0000,,潘多拉 距离土星更远些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pandora, being further from Saturn,
+Dialogue: 0,0:21:29.78,0:21:33.45,*Default,NTP,0000,0000,0000,,绕行要比环中的颗粒更慢些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbits more slowly than the particles in the ring.
+Dialogue: 0,0:21:33.50,0:21:38.00,*Default,NTP,0000,0000,0000,,如果有颗粒离群出走 潘多拉的引力就会拽住它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a particle strays out, Pandora's gravity pulls on it.
+Dialogue: 0,0:21:38.04,0:21:44.42,*Default,NTP,0000,0000,0000,,这样就把颗粒的速度放慢 使其跌回到环中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This slows the particle down, causing it to fall back to the ring.
+Dialogue: 0,0:21:44.46,0:21:47.51,*Default,NTP,0000,0000,0000,,内测 潘多拉的绕行速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the inside, Prometheus orbits at a higher speed
+Dialogue: 0,0:21:47.55,0:21:49.30,*Default,NTP,0000,0000,0000,,快过环中的颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the ring particles.
+Dialogue: 0,0:21:49.34,0:21:53.01,*Default,NTP,0000,0000,0000,,其引力拉着它们往前跑 增加它们的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its gravity pulls them forward, increasing their energy
+Dialogue: 0,0:21:53.06,0:21:55.73,*Default,NTP,0000,0000,0000,,让它们远离土星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and causing them to move away from Saturn.
+Dialogue: 0,0:21:57.23,0:22:01.90,*Default,NTP,0000,0000,0000,,整体效果是那两颗卫星限制了它们之间的颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The overall effect is that the two moons confine the particles between them,
+Dialogue: 0,0:22:01.94,0:22:04.23,*Default,NTP,0000,0000,0000,,打造着界限清晰的环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creating a sharply defined ring.
+Dialogue: 0,0:22:05.44,0:22:08.24,*Default,NTP,0000,0000,0000,,卫星发挥了巨大的作用 根本的作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The moons play an enormous role, a very fundamental role,
+Dialogue: 0,0:22:08.28,0:22:11.07,*Default,NTP,0000,0000,0000,,在星环的外貌以及它们的形成过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the way the rings look and how they got formed.
+Dialogue: 0,0:22:11.16,0:22:15.24,*Default,NTP,0000,0000,0000,,卫星可以护卫环中的颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The moons can shepherd the particles in the rings
+Dialogue: 0,0:22:15.29,0:22:20.04,*Default,NTP,0000,0000,0000,,这样你就看到了间隙 边缘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that you get gaps and edges and very clear divisions
+Dialogue: 0,0:22:20.08,0:22:21.50,*Default,NTP,0000,0000,0000,,以及星环之间清晰的分界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between the rings.
+Dialogue: 0,0:22:21.54,0:22:26.46,*Default,NTP,0000,0000,0000,,因此星环自始至终完全受控于卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the rings are completely dominated by the moons from the beginning to the end.
+Dialogue: 0,0:22:28.59,0:22:33.55,*Default,NTP,0000,0000,0000,,土星的闪光带激发了搜寻更多的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The glittering bands of Saturn sparked a quest for more rings.
+Dialogue: 0,0:22:33.60,0:22:36.60,*Default,NTP,0000,0000,0000,,然而它们是数百年里唯一已知的的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet they were the only known rings for centuries.
+Dialogue: 0,0:22:37.98,0:22:42.98,*Default,NTP,0000,0000,0000,,星环猎手梦想发现其它星环 怀疑有更多的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ring hunters dreamed of finding others, suspected there were more,
+Dialogue: 0,0:22:43.02,0:22:46.23,*Default,NTP,0000,0000,0000,,但是没能看到土星那样的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and yet could see nothing visible like Saturn's.
+Dialogue: 0,0:22:47.07,0:22:49.11,*Default,NTP,0000,0000,0000,,随着20世纪的过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the 20th century waned,
+Dialogue: 0,0:22:49.15,0:22:53.24,*Default,NTP,0000,0000,0000,,一个天文学家小组将望远镜对准了天王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a small team of astronomers focused a telescope on Uranus
+Dialogue: 0,0:22:53.28,0:22:56.62,*Default,NTP,0000,0000,0000,,希望弄明白它的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in hopes of learning about its atmosphere.
+Dialogue: 0,0:22:56.66,0:22:58.75,*Default,NTP,0000,0000,0000,,他们根本就不是星环猎手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They weren't ring hunters at all,
+Dialogue: 0,0:22:58.79,0:23:02.46,*Default,NTP,0000,0000,0000,,但是他们的任务却导致了惊人的启示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and yet their mission led to a shocking revelation,
+Dialogue: 0,0:23:02.50,0:23:07.38,*Default,NTP,0000,0000,0000,,引发了300多年里星环上最大的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}triggering the biggest discovery in rings in more than 300 years.
+Dialogue: 0,0:23:12.43,0:23:17.77,*Default,NTP,0000,0000,0000,,自从伽利略在数百年前发现闪闪发光的土星环以来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ever since Galileo discovered Saturn's brilliant rings centuries ago,
+Dialogue: 0,0:23:17.81,0:23:20.27,*Default,NTP,0000,0000,0000,,搜寻更多的星环一直没停过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a quest for more rings was on.
+Dialogue: 0,0:23:22.02,0:23:25.94,*Default,NTP,0000,0000,0000,,然而几百年过去毫无收获\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet hundreds of years rolled by without another discovery,
+Dialogue: 0,0:23:25.98,0:23:28.65,*Default,NTP,0000,0000,0000,,极大挫伤了星环猎手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the enormous frustration of ring hunters.
+Dialogue: 0,0:23:31.24,0:23:35.20,*Default,NTP,0000,0000,0000,,到了1977年 一个研究小组\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So in 1977, when a small team of researchers
+Dialogue: 0,0:23:35.24,0:23:37.28,*Default,NTP,0000,0000,0000,,专挑天王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}staked out the planet Uranus,
+Dialogue: 0,0:23:37.33,0:23:40.75,*Default,NTP,0000,0000,0000,,他们唯一的兴趣就是其大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}their sole interest was its atmosphere.
+Dialogue: 0,0:23:40.79,0:23:45.25,*Default,NTP,0000,0000,0000,,3月10日 小组登上一架改进后的飞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On March 10th, the team flew a modified jet
+Dialogue: 0,0:23:45.29,0:23:48.96,*Default,NTP,0000,0000,0000,,飞到地球大气层的边缘 将望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the edge of Earth's atmosphere and trained their telescope
+Dialogue: 0,0:23:49.01,0:23:51.63,*Default,NTP,0000,0000,0000,,对准了太阳的第七颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the seventh planet from the Sun.
+Dialogue: 0,0:23:51.68,0:23:53.30,*Default,NTP,0000,0000,0000,,他们等待着一颗遥远的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They were waiting for the moment
+Dialogue: 0,0:23:53.34,0:23:57.01,*Default,NTP,0000,0000,0000,,从背后经过天王星的那一刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when a distant star would pass behind Uranus.
+Dialogue: 0,0:23:59.60,0:24:04.10,*Default,NTP,0000,0000,0000,,他们测量了恒星从背后穿过行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They were measuring the brightness of a star as a function of time
+Dialogue: 0,0:24:04.15,0:24:07.52,*Default,NTP,0000,0000,0000,,亮度的时间变量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it was going to pass behind the planet.
+Dialogue: 0,0:24:07.57,0:24:12.19,*Default,NTP,0000,0000,0000,,这样 你就可以研究行星大气层的结构了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in this way you can study the structure of the atmosphere of the planet.
+Dialogue: 0,0:24:14.57,0:24:19.24,*Default,NTP,0000,0000,0000,,然而在恒星接近时 奇怪的事情发生了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as the star approached Uranus, something strange happened.
+Dialogue: 0,0:24:19.29,0:24:21.08,*Default,NTP,0000,0000,0000,,在它走到天王星的背后之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Before it went behind Uranus,
+Dialogue: 0,0:24:21.12,0:24:25.50,*Default,NTP,0000,0000,0000,,星光实际上闪烁了几次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the light actually blinked out several times.
+Dialogue: 0,0:24:25.54,0:24:28.79,*Default,NTP,0000,0000,0000,,傻了眼的科学家等待着观察恒星从另一侧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stunned scientists waited to see what would happen
+Dialogue: 0,0:24:28.84,0:24:31.67,*Default,NTP,0000,0000,0000,,出现时会发生些什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the star reappeared on the other side.
+Dialogue: 0,0:24:34.89,0:24:37.68,*Default,NTP,0000,0000,0000,,在其从天王星背后露脸时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then after emerging from behind Uranus,
+Dialogue: 0,0:24:37.72,0:24:40.51,*Default,NTP,0000,0000,0000,,它同样也闪烁了几次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it blinked out several times as well.
+Dialogue: 0,0:24:43.23,0:24:46.73,*Default,NTP,0000,0000,0000,,研究小组发现了完全出乎意料的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The team had discovered something completely unexpected.
+Dialogue: 0,0:24:48.36,0:24:54.07,*Default,NTP,0000,0000,0000,,行星一侧的闪烁完全对称在了另外一面的那些地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dips on one side of the planet were perfectly symmetrical to those on the other.
+Dialogue: 0,0:24:54.11,0:24:58.20,*Default,NTP,0000,0000,0000,,这意味着他们发现了带有星环的第二颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It meant they had found a second planet with rings.
+Dialogue: 0,0:24:59.66,0:25:01.04,*Default,NTP,0000,0000,0000,,那是个惊喜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That was a surprise,
+Dialogue: 0,0:25:01.08,0:25:03.08,*Default,NTP,0000,0000,0000,,第一次看到时激动不已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it was very exciting to see for the first time.
+Dialogue: 0,0:25:08.59,0:25:14.47,*Default,NTP,0000,0000,0000,,那是300多年里首个新发现的星环系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was the first new ring system discovered in more than 350 years,
+Dialogue: 0,0:25:14.51,0:25:16.51,*Default,NTP,0000,0000,0000,,它会一发不可收拾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would open the floodgates.
+Dialogue: 0,0:25:18.72,0:25:22.39,*Default,NTP,0000,0000,0000,,两个多环系统很快就被发现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two more ring systems would soon be discovered,
+Dialogue: 0,0:25:22.43,0:25:28.31,*Default,NTP,0000,0000,0000,,一个在遥远的海王星 一个在最大的行星- 木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one on distant Neptune and one on the largest planet, Jupiter.
+Dialogue: 0,0:25:30.07,0:25:34.69,*Default,NTP,0000,0000,0000,,我们现在知道我们太阳系里有四颗行星有星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we now know that four planets in our solar system have rings.
+Dialogue: 0,0:25:34.74,0:25:39.99,*Default,NTP,0000,0000,0000,,事实上 围绕太阳的四颗最大的行星都有星环系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And, in fact, all four of the giant planets orbiting the Sun have ring systems.
+Dialogue: 0,0:25:42.83,0:25:44.58,*Default,NTP,0000,0000,0000,,但如果星环是普遍的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if rings are common,
+Dialogue: 0,0:25:44.62,0:25:48.12,*Default,NTP,0000,0000,0000,,那为何天文学家花了这么长的时间才发现其他的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}why did it take astronomers so long to find the others?
+Dialogue: 0,0:25:49.42,0:25:53.42,*Default,NTP,0000,0000,0000,,因为其他行星的环完全不同于土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because the rings of the other planets are quite different than Saturn's.
+Dialogue: 0,0:25:56.17,0:25:58.21,*Default,NTP,0000,0000,0000,,绝非偶然的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It wasn't by accident that 
+Dialogue: 0,0:25:58.21,0:26:02.30,*Default,NTP,0000,0000,0000,,土星环在17世纪初发现时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Saturn's rings were discovered back at the beginning of the 17th century
+Dialogue: 0,0:26:02.35,0:26:06.31,*Default,NTP,0000,0000,0000,,其他星环系统均未发现 直到20世纪的尾声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and no other ring system was found until near the end of the 20th century.
+Dialogue: 0,0:26:07.98,0:26:14.40,*Default,NTP,0000,0000,0000,,土星环宽阔 明亮 壮观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Saturn's rings are broad, they're bright, they're spectacular.
+Dialogue: 0,0:26:14.44,0:26:17.32,*Default,NTP,0000,0000,0000,,其他系统要细微得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The other systems are much more subtle.
+Dialogue: 0,0:26:18.32,0:26:21.74,*Default,NTP,0000,0000,0000,,细微部分是因为它们的大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Subtle in part because of their size.
+Dialogue: 0,0:26:21.78,0:26:26.45,*Default,NTP,0000,0000,0000,,天王星环所发现的一个惊人的模样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A very surprising aspect of the discovery of Uranus' rings
+Dialogue: 0,0:26:26.50,0:26:28.00,*Default,NTP,0000,0000,0000,,就是它们非常狭窄\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was that they're very narrow.
+Dialogue: 0,0:26:30.17,0:26:34.09,*Default,NTP,0000,0000,0000,,大部分土星环有数千英里宽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most of Saturn's rings are thousands of miles wide.
+Dialogue: 0,0:26:34.13,0:26:37.46,*Default,NTP,0000,0000,0000,,相比之下 多数天王星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By comparison, the majority of Uranus' rings
+Dialogue: 0,0:26:37.51,0:26:39.47,*Default,NTP,0000,0000,0000,,覆盖不足两英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cover less than two miles.
+Dialogue: 0,0:26:40.84,0:26:43.30,*Default,NTP,0000,0000,0000,,其他部分则是非常昏暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The other part is that they're very, very dark,
+Dialogue: 0,0:26:43.35,0:26:46.43,*Default,NTP,0000,0000,0000,,而土星环是冰块构成的 因而非常明亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whereas the rings of Saturn are made of ice and they're very bright.
+Dialogue: 0,0:26:47.18,0:26:50.10,*Default,NTP,0000,0000,0000,,想想比沥青还黑的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think about something much darker than tar.
+Dialogue: 0,0:26:50.15,0:26:53.69,*Default,NTP,0000,0000,0000,,它们漆黑一片 无与伦比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're as black as anything you can probably see.
+Dialogue: 0,0:26:55.03,0:26:59.03,*Default,NTP,0000,0000,0000,,尤其是 天王星最外层的环极其昏暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's more, the outermost rings of Uranus are so dim,
+Dialogue: 0,0:26:59.07,0:27:02.95,*Default,NTP,0000,0000,0000,,星环猎手一直没有发现它们 直到2003年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ring hunters didn't find them until 2003.
+Dialogue: 0,0:27:02.99,0:27:06.62,*Default,NTP,0000,0000,0000,,这主要是因为其中几乎空无一物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is largely because there is almost nothing in them.
+Dialogue: 0,0:27:06.66,0:27:09.16,*Default,NTP,0000,0000,0000,,整个系统里是非常微弱的尘埃云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Throughout the system there's clouds of very faint dust
+Dialogue: 0,0:27:09.21,0:27:14.75,*Default,NTP,0000,0000,0000,,这种填充系数是十万分之一或百万分之一的水平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at this level of a filling factor of one in 100,000 or one in a million.
+Dialogue: 0,0:27:14.79,0:27:18.13,*Default,NTP,0000,0000,0000,,这些颗粒相互之间间隔遥远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These particles are spaced so far away from each other,
+Dialogue: 0,0:27:22.05,0:27:23.93,*Default,NTP,0000,0000,0000,,它就像是宇宙赛道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be like a cosmic racetrack
+Dialogue: 0,0:27:23.97,0:27:26.72,*Default,NTP,0000,0000,0000,,从地球伸展到月球再折回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that stretched from the Earth to the Moon and back,
+Dialogue: 0,0:27:26.77,0:27:29.64,*Default,NTP,0000,0000,0000,,只有寥寥无几的汽车在上面跑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would have just a handful of cars on it.
+Dialogue: 0,0:27:33.61,0:27:36.40,*Default,NTP,0000,0000,0000,,它完全不同于土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's a radical difference from Saturn's rings,
+Dialogue: 0,0:27:36.44,0:27:39.65,*Default,NTP,0000,0000,0000,,那里通常是颗粒相互挤在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where particles are often packed in side by side,
+Dialogue: 0,0:27:39.69,0:27:41.61,*Default,NTP,0000,0000,0000,,保险杠顶到保险杠\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}bumper to virtual bumper.
+Dialogue: 0,0:27:47.33,0:27:50.41,*Default,NTP,0000,0000,0000,,天王星外环极其稀疏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The outer rings of Uranus are extremely sparse,
+Dialogue: 0,0:27:50.46,0:27:52.33,*Default,NTP,0000,0000,0000,,但它们并非最昏暗的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they are not the faintest.
+Dialogue: 0,0:27:53.33,0:27:57.92,*Default,NTP,0000,0000,0000,,该奖项归于太阳第五颗行星最外面的环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That award goes to the outermost bands around the fifth planet from the Sun.
+Dialogue: 0,0:27:59.26,0:28:03.22,*Default,NTP,0000,0000,0000,,强大的木星拥有最微弱的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mighty Jupiter has the most delicate rings of all.
+Dialogue: 0,0:28:03.26,0:28:08.81,*Default,NTP,0000,0000,0000,,迄今为止 天文学家已经确定了有四个缥缈的星环围绕着这颗行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So far, astronomers have identified four ethereal rings circling the planet:
+Dialogue: 0,0:28:08.85,0:28:13.06,*Default,NTP,0000,0000,0000,,内环 主环 两个外环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an inner ring, the main ring, and two outer rings.
+Dialogue: 0,0:28:14.90,0:28:19.61,*Default,NTP,0000,0000,0000,,不同于土星环里所看到的大过汽车的冰块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike the icy chunks bigger than a car found in Saturn's rings,
+Dialogue: 0,0:28:19.65,0:28:24.66,*Default,NTP,0000,0000,0000,,木星环里的颗粒主要是最细的尘埃般大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the particles in the rings of Jupiter are mainly the size of the finest dust.
+Dialogue: 0,0:28:25.82,0:28:27.87,*Default,NTP,0000,0000,0000,,我们经常把这些说是尘埃环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We often refer to these as dust rings,
+Dialogue: 0,0:28:27.91,0:28:29.74,*Default,NTP,0000,0000,0000,,但更佳的说法是烟雾环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the better word would be smoke rings.
+Dialogue: 0,0:28:29.79,0:28:32.50,*Default,NTP,0000,0000,0000,,颗粒都是微米级的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The particles are microns in size.
+Dialogue: 0,0:28:32.54,0:28:35.71,*Default,NTP,0000,0000,0000,,火产生的烟基本上就是微米级的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Smoke coming off of a fire is basically microns in size.
+Dialogue: 0,0:28:37.46,0:28:40.55,*Default,NTP,0000,0000,0000,,星环 如这颗行星的 巨大无比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rings, like the planet, are mammoth,
+Dialogue: 0,0:28:40.59,0:28:44.63,*Default,NTP,0000,0000,0000,,绵延近直径30万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sprawling nearly 300,000 miles in diameter.
+Dialogue: 0,0:28:46.59,0:28:51.06,*Default,NTP,0000,0000,0000,,然而难以置信的是 如果你将所有的颗粒压缩成一个球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet incredibly, if you squashed all the particles into a single ball,
+Dialogue: 0,0:28:51.10,0:28:54.14,*Default,NTP,0000,0000,0000,,它不会宽过一个足球场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be no wider than a football field
+Dialogue: 0,0:28:54.19,0:28:57.86,*Default,NTP,0000,0000,0000,,甚至会小到就一攻的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and perhaps as small as the distance of a first down.
+Dialogue: 0,0:29:03.61,0:29:06.28,*Default,NTP,0000,0000,0000,,两个最外层的环极其微弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is so little in the two outermost bands
+Dialogue: 0,0:29:06.32,0:29:10.41,*Default,NTP,0000,0000,0000,,是我们太阳系里所见到的最昏暗的环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they are the faintest rings ever detected in our solar system.
+Dialogue: 0,0:29:10.45,0:29:14.66,*Default,NTP,0000,0000,0000,,几乎看不见 它们被称为薄纱光环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Almost invisible, they are called the Gossamer Rings.
+Dialogue: 0,0:29:16.96,0:29:20.46,*Default,NTP,0000,0000,0000,,你可以实际坐在木星的薄纱光环里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could actually sit inside the Gossamer Ring of Jupiter
+Dialogue: 0,0:29:20.50,0:29:21.88,*Default,NTP,0000,0000,0000,,甚至都不知道它就在那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and not even know it was there.
+Dialogue: 0,0:29:21.92,0:29:23.88,*Default,NTP,0000,0000,0000,,我的意思是 也许你在尘埃微粒碰到你的宇航服时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, maybe you'd hear an occasional ping
+Dialogue: 0,0:29:23.92,0:29:26.47,*Default,NTP,0000,0000,0000,,偶尔会听到砰的一声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on your spacesuit as a dust particle came by,
+Dialogue: 0,0:29:26.51,0:29:28.34,*Default,NTP,0000,0000,0000,,但你看不到任何东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but you would not see anything.
+Dialogue: 0,0:29:29.68,0:29:33.14,*Default,NTP,0000,0000,0000,,虽然木星环微弱得难以置信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As impossibly faint as the bands of Jupiter are,
+Dialogue: 0,0:29:33.18,0:29:35.77,*Default,NTP,0000,0000,0000,,但搜索海王星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was the search for rings around Neptune
+Dialogue: 0,0:29:35.81,0:29:38.48,*Default,NTP,0000,0000,0000,,被证明是对星环猎手最大的挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that proved the most challenging for ring hunters.
+Dialogue: 0,0:29:39.27,0:29:44.49,*Default,NTP,0000,0000,0000,,海王星在1980年代被怀疑有星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune was suspected to have rings in the 1980s
+Dialogue: 0,0:29:44.53,0:29:50.82,*Default,NTP,0000,0000,0000,,当时这些区域里的物质遮挡了行将\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the material in these regions blocked the light of a star
+Dialogue: 0,0:29:50.87,0:29:53.87,*Default,NTP,0000,0000,0000,,从背后越过行星球面的一颗恒星的光线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was about to go behind the ball of the planet.
+Dialogue: 0,0:29:55.00,0:29:59.25,*Default,NTP,0000,0000,0000,,利用发现天王星环同样的技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Using the same technique that had detected the rings of Uranus,
+Dialogue: 0,0:29:59.29,0:30:04.17,*Default,NTP,0000,0000,0000,,天文学家尝试了约50次试图发现海王星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers tried some 50 times to find the rings of Neptune.
+Dialogue: 0,0:30:04.21,0:30:07.22,*Default,NTP,0000,0000,0000,,结果让人沮丧 无功而返\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The results were maddeningly inconclusive.
+Dialogue: 0,0:30:10.14,0:30:14.64,*Default,NTP,0000,0000,0000,,被激怒的科学家提出了一个激进的解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Exasperated scientists proposed a radical explanation.
+Dialogue: 0,0:30:14.68,0:30:17.48,*Default,NTP,0000,0000,0000,,由于星光偶尔受阻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since starlight was occasionally blocked,
+Dialogue: 0,0:30:17.52,0:30:20.35,*Default,NTP,0000,0000,0000,,或许海王星旁边的奇怪的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps there were strange rings around Neptune
+Dialogue: 0,0:30:20.40,0:30:23.23,*Default,NTP,0000,0000,0000,,仅仅是部分包围着该行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that only partially encircled the planet.
+Dialogue: 0,0:30:25.11,0:30:27.15,*Default,NTP,0000,0000,0000,,我们不认为它们是完整的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We didn't think that they were complete rings,
+Dialogue: 0,0:30:27.20,0:30:32.28,*Default,NTP,0000,0000,0000,,因为阻挡行星两边的星光并非\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the blocking of light on either side of the planet was not symmetrical
+Dialogue: 0,0:30:32.33,0:30:34.24,*Default,NTP,0000,0000,0000,,天王星环那样是对称的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the way it was for the rings of Uranus.
+Dialogue: 0,0:30:36.00,0:30:41.79,*Default,NTP,0000,0000,0000,,难道海王星具有某种离奇突变的星环系统？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could it be that Neptune had some bizarre and mutant ring system?
+Dialogue: 0,0:30:43.92,0:30:47.88,*Default,NTP,0000,0000,0000,,星环猎手从未下过如此决心去揭开这个谜团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ring hunters had never been so determined to solve the mystery,
+Dialogue: 0,0:30:47.92,0:30:52.89,*Default,NTP,0000,0000,0000,,他们无法预料解决之道会有多离谱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they had no way to anticipate how bizarre that solution would be.
+Dialogue: 0,0:30:59.10,0:31:03.31,*Default,NTP,0000,0000,0000,,350多年来 唯一所知的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For more than 350 years, the only known rings
+Dialogue: 0,0:31:03.36,0:31:06.23,*Default,NTP,0000,0000,0000,,就是土星明亮耀眼的光带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were the bright and dazzling bands of Saturn.
+Dialogue: 0,0:31:07.86,0:31:12.91,*Default,NTP,0000,0000,0000,,然而 在短短的两年时间里 从1977年开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then, in a space of just two years, starting in 1977,
+Dialogue: 0,0:31:12.95,0:31:15.66,*Default,NTP,0000,0000,0000,,两组新的星环被发现了 -\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}two new sets of rings were discovered--
+Dialogue: 0,0:31:15.70,0:31:20.71,*Default,NTP,0000,0000,0000,,一个在天王星 另一个在木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one on Uranus, the other on Jupiter.
+Dialogue: 0,0:31:20.75,0:31:23.42,*Default,NTP,0000,0000,0000,,但是搜索遥远的海王星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the search for rings around distant Neptune
+Dialogue: 0,0:31:23.46,0:31:27.75,*Default,NTP,0000,0000,0000,,却拖延了令人沮丧的N多年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dragged on for many more frustrating years.
+Dialogue: 0,0:31:27.80,0:31:30.22,*Default,NTP,0000,0000,0000,,海王星极其遥远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune is very, very far away.
+Dialogue: 0,0:31:30.26,0:31:31.93,*Default,NTP,0000,0000,0000,,它远离太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a great distance from the Sun,
+Dialogue: 0,0:31:31.97,0:31:35.35,*Default,NTP,0000,0000,0000,,因此星环没有太多的亮度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and therefore there's not much illumination on the ring.
+Dialogue: 0,0:31:35.39,0:31:42.23,*Default,NTP,0000,0000,0000,,此外 从未有过航天器造访过海王星直到1989年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In addition to that, no spacecraft went by Neptune until 1989
+Dialogue: 0,0:31:42.27,0:31:47.15,*Default,NTP,0000,0000,0000,,航天局的旅行者二号才造访了我们太阳系的这最后一颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when Voyager II from NASA went by the last planet in our solar system.
+Dialogue: 0,0:31:48.82,0:31:52.95,*Default,NTP,0000,0000,0000,,旅行者二号是天文学家搜索星环最好的武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Voyager II was the astronomers' best weapon in the hunt for rings.
+Dialogue: 0,0:31:52.99,0:31:58.33,*Default,NTP,0000,0000,0000,,在1989年8月25日 该航天器接近海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On August 25, 1989, the spacecraft got as close to Neptune
+Dialogue: 0,0:31:58.37,0:32:01.12,*Default,NTP,0000,0000,0000,,达到了所有人造飞船从未有过的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as any manmade craft ever would.
+Dialogue: 0,0:32:02.75,0:32:05.79,*Default,NTP,0000,0000,0000,,它拍摄到了星环猎手们所见到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It captured the best images ring hunters had seen
+Dialogue: 0,0:32:05.84,0:32:10.17,*Default,NTP,0000,0000,0000,,太阳第八行星的最佳图像 堪称惊人的技术壮举\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the eighth planet from the Sun, an incredible technological feat.
+Dialogue: 0,0:32:10.21,0:32:11.55,*Default,NTP,0000,0000,0000,,那是个挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a challenge.
+Dialogue: 0,0:32:11.59,0:32:13.93,*Default,NTP,0000,0000,0000,,就像是拍摄煤仓里的黑猫照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was like taking a picture of a cat in a coal bin
+Dialogue: 0,0:32:13.97,0:32:15.97,*Default,NTP,0000,0000,0000,,在月光这样的条件下 知道吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}under moonlight or something, you know.
+Dialogue: 0,0:32:16.97,0:32:20.02,*Default,NTP,0000,0000,0000,,那么它们会揭示出海王星没有星环 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So would they reveal that Neptune had no rings,
+Dialogue: 0,0:32:21.06,0:32:24.48,*Default,NTP,0000,0000,0000,,还是完整的星环 还是神秘的不完整环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}full rings, or the mysterious partial rings
+Dialogue: 0,0:32:24.52,0:32:26.65,*Default,NTP,0000,0000,0000,,就是某些天文学家所提出的那样？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that some astronomers had proposed?
+Dialogue: 0,0:32:29.90,0:32:33.15,*Default,NTP,0000,0000,0000,,在旅行者任务前的十多年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For more than a decade before the Voyager mission,
+Dialogue: 0,0:32:33.20,0:32:35.57,*Default,NTP,0000,0000,0000,,科学家试图利用从背后越过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientists had tried to detect rings
+Dialogue: 0,0:32:35.62,0:32:39.37,*Default,NTP,0000,0000,0000,,海王星的各种星光来发现星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using the light of various stars passing behind Neptune.
+Dialogue: 0,0:32:40.87,0:32:44.50,*Default,NTP,0000,0000,0000,,某些尝试看到了星光的衰减\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some attempts saw dips in starlight,
+Dialogue: 0,0:32:44.54,0:32:46.29,*Default,NTP,0000,0000,0000,,但是它们从来不是在同样的距离上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they were never at the same distance
+Dialogue: 0,0:32:46.33,0:32:50.50,*Default,NTP,0000,0000,0000,,在行星的两侧好像有完整的星环存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on both sides of the planet like full rings would be.
+Dialogue: 0,0:32:50.55,0:32:53.76,*Default,NTP,0000,0000,0000,,海王星让人恼怒不已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neptune was exasperating.
+Dialogue: 0,0:32:53.80,0:32:55.09,*Default,NTP,0000,0000,0000,,我们知道那里有东西存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We knew there was stuff there.
+Dialogue: 0,0:32:55.13,0:32:58.26,*Default,NTP,0000,0000,0000,,但是我们不知道其形态如何\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we didn't know what the configuration was.
+Dialogue: 0,0:32:58.30,0:33:02.77,*Default,NTP,0000,0000,0000,,因此当旅行者的图像源源不断发回时星环猎手激动不已\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when images from Voyager rolled in, ring hunters were thrilled.
+Dialogue: 0,0:33:03.81,0:33:06.27,*Default,NTP,0000,0000,0000,,不仅是个完整的环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not only were there complete rings,
+Dialogue: 0,0:33:06.31,0:33:11.98,*Default,NTP,0000,0000,0000,,而且环中还有某些从未见到过的东西 - 弧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but there was something in the rings that had never been seen before: arcs.
+Dialogue: 0,0:33:13.53,0:33:16.74,*Default,NTP,0000,0000,0000,,最重要的特色就是一组星弧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most prominent feature are a set of arcs,
+Dialogue: 0,0:33:16.78,0:33:20.78,*Default,NTP,0000,0000,0000,,它只占围绕行星的轨道不足10分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which only go less than a tenth of the way around the planet.
+Dialogue: 0,0:33:20.83,0:33:23.08,*Default,NTP,0000,0000,0000,,环的其余部分则虚无缥缈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rest of the ring, very ethereal.
+Dialogue: 0,0:33:26.71,0:33:28.57,*Default,NTP,0000,0000,0000,,弧只是星环中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Arcs were simply segments of a ring that 
+Dialogue: 0,0:33:28.58,0:33:32.63,*Default,NTP,0000,0000,0000,,比其余部分更亮更稠密的片段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were brighter and thicker than the rest of the ring.
+Dialogue: 0,0:33:33.59,0:33:37.63,*Default,NTP,0000,0000,0000,,星环其余部分少的可怜的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The incredibly small amount of material in the rest of the ring
+Dialogue: 0,0:33:37.68,0:33:40.43,*Default,NTP,0000,0000,0000,,解释了为何天文学家从地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}explained why astronomers had not been able to detect
+Dialogue: 0,0:33:40.47,0:33:42.14,*Default,NTP,0000,0000,0000,,一直未能发现有完整的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the complete rings from Earth.
+Dialogue: 0,0:33:44.98,0:33:47.19,*Default,NTP,0000,0000,0000,,弧存在于一个完整的环里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The arcs lie within a full ring,
+Dialogue: 0,0:33:47.23,0:33:51.48,*Default,NTP,0000,0000,0000,,但这个完整的环里的物质几乎是透明的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the matter in this full ring is almost transparent.
+Dialogue: 0,0:33:51.52,0:33:54.82,*Default,NTP,0000,0000,0000,,所以我们以前在观察阻挡星光中从未见到过它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we couldn't ever see it before with watching it block starlight.
+Dialogue: 0,0:33:58.20,0:34:00.82,*Default,NTP,0000,0000,0000,,海王星环的发现意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The discovery of rings around Neptune meant
+Dialogue: 0,0:34:00.87,0:34:05.29,*Default,NTP,0000,0000,0000,,所有的气体巨型外行星都带有星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that all of the gas giant outer planets had rings.
+Dialogue: 0,0:34:05.33,0:34:08.83,*Default,NTP,0000,0000,0000,,那是宇宙自然秩序的一个折射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a reflection of the natural order of the cosmos,
+Dialogue: 0,0:34:08.88,0:34:10.71,*Default,NTP,0000,0000,0000,,因为星环的圆盘状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the disk shape of rings
+Dialogue: 0,0:34:10.75,0:34:14.21,*Default,NTP,0000,0000,0000,,是宇宙间最原始的形态之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is one of the most primordial forms in the universe.
+Dialogue: 0,0:34:16.51,0:34:21.89,*Default,NTP,0000,0000,0000,,宇宙包括了天体的两种基本蓝本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The universe contains two sort of fundamental blueprints for objects,
+Dialogue: 0,0:34:21.93,0:34:24.85,*Default,NTP,0000,0000,0000,,就是球状和碟状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and those are spheres and disks.
+Dialogue: 0,0:34:27.52,0:34:31.61,*Default,NTP,0000,0000,0000,,如果旋转是天体结构的重要表现方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If spin is a really important aspect of an object's structure,
+Dialogue: 0,0:34:31.65,0:34:34.78,*Default,NTP,0000,0000,0000,,那么它往往会形成碟状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then it will tend to form into a disk,
+Dialogue: 0,0:34:34.82,0:34:38.49,*Default,NTP,0000,0000,0000,,因而我们就看到宇宙间的大小不等的碟状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so we see disks on every scale in the universe.
+Dialogue: 0,0:34:39.82,0:34:41.74,*Default,NTP,0000,0000,0000,,那就是为什么土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is why the rings of Saturn
+Dialogue: 0,0:34:41.78,0:34:45.62,*Default,NTP,0000,0000,0000,,能够告诉我们一个大得更多的环系统的起源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can tell us about the origins of a much bigger ring system:
+Dialogue: 0,0:34:45.66,0:34:48.29,*Default,NTP,0000,0000,0000,,围绕我们太阳的那个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the one around our Sun.
+Dialogue: 0,0:34:51.04,0:34:58.17,*Default,NTP,0000,0000,0000,,土星环是行星形成过程的一个蓝本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Saturn's rings are a blueprint for the processes that give rise to planet formation.
+Dialogue: 0,0:34:58.22,0:35:00.38,*Default,NTP,0000,0000,0000,,如果我们回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we were to go back in time
+Dialogue: 0,0:35:00.43,0:35:04.14,*Default,NTP,0000,0000,0000,,访问我们45亿年前的太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and visit our own solar system 4 1/2 billion years ago,
+Dialogue: 0,0:35:04.18,0:35:06.72,*Default,NTP,0000,0000,0000,,年轻的太阳就已经坐镇中央了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the young Sun would've been at the center,
+Dialogue: 0,0:35:06.77,0:35:11.02,*Default,NTP,0000,0000,0000,,它被气体和尘埃盘团团围住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would've been surrounded by a disk of gas and dust,
+Dialogue: 0,0:35:11.06,0:35:12.81,*Default,NTP,0000,0000,0000,,气体和尘埃盘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that disk of gas and dust
+Dialogue: 0,0:35:12.86,0:35:15.61,*Default,NTP,0000,0000,0000,,将会有行星在其中形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have had planets forming inside of it,
+Dialogue: 0,0:35:15.65,0:35:19.49,*Default,NTP,0000,0000,0000,,整个星盘看上去 一定程度上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that whole disk would have looked, to a certain extent,
+Dialogue: 0,0:35:19.53,0:35:21.20,*Default,NTP,0000,0000,0000,,就像是个星环系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like a system of rings.
+Dialogue: 0,0:35:23.87,0:35:27.66,*Default,NTP,0000,0000,0000,,最早的行星开始诞生于碎片盘里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first planets began to form in the debris disk.
+Dialogue: 0,0:35:27.70,0:35:32.21,*Default,NTP,0000,0000,0000,,在它们的长大过程中 它们的引力清理出了轨道上的空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As they grew larger, their gravity cleared out space in their orbits.
+Dialogue: 0,0:35:35.59,0:35:38.84,*Default,NTP,0000,0000,0000,,在它们引力影响范围内的碎片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Debris that was within their gravitational influence
+Dialogue: 0,0:35:38.88,0:35:42.05,*Default,NTP,0000,0000,0000,,被添加或被击出到了太空里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was added on or whipped out into space.
+Dialogue: 0,0:35:47.31,0:35:50.68,*Default,NTP,0000,0000,0000,,这就是木星形成时 我们太阳系里所发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is exactly what happened in our own solar system when Jupiter formed,
+Dialogue: 0,0:35:50.73,0:35:54.73,*Default,NTP,0000,0000,0000,,因为木星的个头足以在我们的星盘里清理出一个豁口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because Jupiter was massive enough to clear a gap in our own disk.
+Dialogue: 0,0:35:58.78,0:36:02.28,*Default,NTP,0000,0000,0000,,一段时间后 我们太阳系里的其他行星形成了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In time, the other planets in our solar system formed
+Dialogue: 0,0:36:02.32,0:36:07.53,*Default,NTP,0000,0000,0000,,清理出了各自的轨道 只为碎片留下了两个空间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and cleared out their own orbits, leaving just two spaces for debris:
+Dialogue: 0,0:36:07.58,0:36:10.29,*Default,NTP,0000,0000,0000,,小行星带和柯伊伯带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the asteroid belt and the Kuiper belt.
+Dialogue: 0,0:36:10.33,0:36:15.46,*Default,NTP,0000,0000,0000,,它们共同创造了相当于一组庞大的星环围绕着太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Together they create what amounts to a vast set of rings around the Sun.
+Dialogue: 0,0:36:17.59,0:36:19.96,*Default,NTP,0000,0000,0000,,作为我们太阳系的蓝本\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a blueprint of our solar system,
+Dialogue: 0,0:36:20.01,0:36:23.76,*Default,NTP,0000,0000,0000,,星环帮助我们了解了我们自身的起源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rings help us understand our own beginnings.
+Dialogue: 0,0:36:23.80,0:36:29.01,*Default,NTP,0000,0000,0000,,然而星环猎手长期以来孜孜以求最大的奖项之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet ring hunters have long wanted to pursue one of the biggest prizes of all:
+Dialogue: 0,0:36:29.06,0:36:33.14,*Default,NTP,0000,0000,0000,,其它太阳系里的环状行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ringed planets in other solar systems.
+Dialogue: 0,0:36:33.19,0:36:36.86,*Default,NTP,0000,0000,0000,,我们已经知道有许多行星 个头类似于土星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We already know of many planets that have masses similar to Saturn,
+Dialogue: 0,0:36:36.90,0:36:38.57,*Default,NTP,0000,0000,0000,,成分类似于土星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and composition similar to Saturn,
+Dialogue: 0,0:36:38.61,0:36:40.94,*Default,NTP,0000,0000,0000,,十有八九 不是它们全部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's a good bet that not all of them,
+Dialogue: 0,0:36:40.99,0:36:43.49,*Default,NTP,0000,0000,0000,,而是其中的一些 会有壮观的星环系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but some of them, have spectacular ring systems.
+Dialogue: 0,0:36:45.16,0:36:48.12,*Default,NTP,0000,0000,0000,,他们现在相信他们不久就能在别的太阳系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They now believe they'll discover the first ringed planet
+Dialogue: 0,0:36:48.16,0:36:51.33,*Default,NTP,0000,0000,0000,,发现首个环状行星 借助于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from another solar system very soon with the help
+Dialogue: 0,0:36:51.37,0:36:55.12,*Default,NTP,0000,0000,0000,,世上最强大的望远镜之一 - 开普勒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of one of the world's most powerful telescopes, Kepler.
+Dialogue: 0,0:36:56.58,0:37:01.42,*Default,NTP,0000,0000,0000,,开普勒能够一次跟踪约10万颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Kepler is able to track about 100,000 stars at a time.
+Dialogue: 0,0:37:01.46,0:37:05.80,*Default,NTP,0000,0000,0000,,它被打造成能测量星光中最微小的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was designed to measure the tiniest changes in starlight,
+Dialogue: 0,0:37:05.84,0:37:10.14,*Default,NTP,0000,0000,0000,,因而它可以侦测出从恒星面前经过的遥远的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that it could detect distant planets that pass in front of a star.
+Dialogue: 0,0:37:12.60,0:37:15.44,*Default,NTP,0000,0000,0000,,一旦发生那样的事情 行星就会挡住一点点星光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When that happens, the planet blocks out a little bit of the star's light,
+Dialogue: 0,0:37:15.48,0:37:17.44,*Default,NTP,0000,0000,0000,,开普勒就可以侦测到其衰变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Kepler can detect that dip.
+Dialogue: 0,0:37:17.48,0:37:20.27,*Default,NTP,0000,0000,0000,,如果有环状行星正面经过恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a ringed planet goes in front of a star,
+Dialogue: 0,0:37:20.32,0:37:23.40,*Default,NTP,0000,0000,0000,,星环也会阻挡星光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the rings also block out the star's light,
+Dialogue: 0,0:37:23.44,0:37:26.15,*Default,NTP,0000,0000,0000,,其信号也能被开普勒测量到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that signal can be measured by Kepler as well.
+Dialogue: 0,0:37:30.24,0:37:33.29,*Default,NTP,0000,0000,0000,,在开普勒注视宇宙期间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While Kepler gazes deep into the universe,
+Dialogue: 0,0:37:33.33,0:37:37.58,*Default,NTP,0000,0000,0000,,天文学家也在搜索我们自己的太阳系里的新的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers are also hunting for a new ring within our own solar system.
+Dialogue: 0,0:37:37.63,0:37:41.92,*Default,NTP,0000,0000,0000,,{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}4  3  2  1  0 \N4, 3, 2, 1, 0 
+Dialogue: 0,0:37:41.96,0:37:47.55,*Default,NTP,0000,0000,0000,,2006年 一艘叫做新地平线号的飞船飞离了发射台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2006, a mission called New Horizons roared off the launch pad.
+Dialogue: 0,0:37:47.59,0:37:50.14,*Default,NTP,0000,0000,0000,,27亿英里的航程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its 2.7 billion-mile journey
+Dialogue: 0,0:37:50.18,0:37:53.43,*Default,NTP,0000,0000,0000,,将带其前往冰冷的太阳系边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will take it to the frozen edge of the solar system.
+Dialogue: 0,0:37:55.31,0:38:00.61,*Default,NTP,0000,0000,0000,,如果它能挺过 将会成为飞经冥王星的首个航天器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it survives, it will become the first spacecraft to fly past Pluto.
+Dialogue: 0,0:38:02.69,0:38:05.32,*Default,NTP,0000,0000,0000,,天文学家怀疑这颗矮行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers suspect that the dwarf planet
+Dialogue: 0,0:38:05.36,0:38:09.45,*Default,NTP,0000,0000,0000,,也许是能找到有星环的首个岩石天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be the first rocky object found to have rings,
+Dialogue: 0,0:38:09.49,0:38:12.91,*Default,NTP,0000,0000,0000,,然而我们太阳系里还有另一颗环状行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}yet there is another ringed planet in our solar system.
+Dialogue: 0,0:38:12.95,0:38:17.41,*Default,NTP,0000,0000,0000,,其星环处在带来灾难的碰撞行程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its ring is on a collision course with disaster,
+Dialogue: 0,0:38:17.46,0:38:20.67,*Default,NTP,0000,0000,0000,,有可能会导致对地球的骚扰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which could lead to chaos on Earth.
+Dialogue: 0,0:38:27.01,0:38:29.84,*Default,NTP,0000,0000,0000,,我们太阳系的四颗外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The four outer planets of our solar system
+Dialogue: 0,0:38:29.89,0:38:33.18,*Default,NTP,0000,0000,0000,,全都环绕有星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are all encircled by rings,
+Dialogue: 0,0:38:33.22,0:38:39.89,*Default,NTP,0000,0000,0000,,有些绚丽多彩 有些尘土飞扬 有些微弱无光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some dazzling, some dusty, some remarkably faint.
+Dialogue: 0,0:38:40.90,0:38:45.44,*Default,NTP,0000,0000,0000,,然而探索再次对准了最为遥远的对象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet the quest is on for one more, the most distant of all,
+Dialogue: 0,0:38:45.48,0:38:49.49,*Default,NTP,0000,0000,0000,,它围绕着寒冷的石头 - 冥王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}encircling a frigid rock called Pluto.
+Dialogue: 0,0:38:50.32,0:38:52.62,*Default,NTP,0000,0000,0000,,一度被认为是名副其实的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once considered to be a genuine planet,
+Dialogue: 0,0:38:52.66,0:38:57.20,*Default,NTP,0000,0000,0000,,它在2006年被重新分类为矮行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was reclassified as a dwarf planet in 2006.
+Dialogue: 0,0:38:57.25,0:39:01.62,*Default,NTP,0000,0000,0000,,到2015年 它有可能成为我们太阳系里发现有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 2015, it may become the newest member of our solar system
+Dialogue: 0,0:39:01.67,0:39:03.88,*Default,NTP,0000,0000,0000,,星环的最新成员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}found to have rings.
+Dialogue: 0,0:39:03.92,0:39:06.50,*Default,NTP,0000,0000,0000,,冥王星可能带有星环 很昏暗的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pluto might have rings, very faint rings,
+Dialogue: 0,0:39:06.55,0:39:10.22,*Default,NTP,0000,0000,0000,,或许有朝一日会获得星环 因为冥王星所处的地带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or may someday gain rings, because Pluto is in a region
+Dialogue: 0,0:39:10.26,0:39:12.89,*Default,NTP,0000,0000,0000,,有大量的彗星在到处游荡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where there are lots of comets floating around.
+Dialogue: 0,0:39:12.93,0:39:15.06,*Default,NTP,0000,0000,0000,,一旦其中的一个靠近冥王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if one of them gets close to Pluto,
+Dialogue: 0,0:39:15.10,0:39:18.68,*Default,NTP,0000,0000,0000,,就可能被冥王星的引力吸引破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it might get tidally shattered by Pluto's gravity,
+Dialogue: 0,0:39:18.73,0:39:20.52,*Default,NTP,0000,0000,0000,,暂时形成了星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}temporarily forming a ring.
+Dialogue: 0,0:39:22.23,0:39:24.19,*Default,NTP,0000,0000,0000,,新地平线号\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A mission called New Horizons
+Dialogue: 0,0:39:24.23,0:39:27.98,*Default,NTP,0000,0000,0000,,已经走过了与冥王星会合的三分之一的路程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is already a third of the way to a rendezvous with Pluto.
+Dialogue: 0,0:39:28.03,0:39:31.24,*Default,NTP,0000,0000,0000,,它在2015年传回的图像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The images it transmits in 2015
+Dialogue: 0,0:39:31.28,0:39:34.62,*Default,NTP,0000,0000,0000,,将会揭示这颗遥远的矮行星是否具有星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}should reveal if the distant dwarf has rings.
+Dialogue: 0,0:39:37.37,0:39:41.71,*Default,NTP,0000,0000,0000,,然而星环猎手最近预计找到新的星环系统会近很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet ring hunters recently expected to find a new ring system much closer,
+Dialogue: 0,0:39:43.25,0:39:47.25,*Default,NTP,0000,0000,0000,,就在地球最近的邻居 - 火星那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on Earth's nearest neighbor, Mars.
+Dialogue: 0,0:39:47.30,0:39:50.55,*Default,NTP,0000,0000,0000,,长期以来一直有猜测 火星可能具有一个星环系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's long been speculation that Mars might have a ring system.
+Dialogue: 0,0:39:50.59,0:39:53.09,*Default,NTP,0000,0000,0000,,那实际上要回到上世纪70年代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It goes actually back to the 1970s.
+Dialogue: 0,0:39:53.14,0:39:57.26,*Default,NTP,0000,0000,0000,,部分推断就在于我们看太阳系到处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And part of the reasoning now is that everywhere we look in the solar system
+Dialogue: 0,0:39:57.31,0:39:58.97,*Default,NTP,0000,0000,0000,,都能看到有小卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we see small satellites,
+Dialogue: 0,0:39:59.02,0:40:01.68,*Default,NTP,0000,0000,0000,,有微弱的星环与它们相关\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is a faint ring associated with them.
+Dialogue: 0,0:40:02.81,0:40:06.98,*Default,NTP,0000,0000,0000,,两颗小卫星围绕着火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two small satellites, or moons, orbit Mars.
+Dialogue: 0,0:40:07.02,0:40:09.78,*Default,NTP,0000,0000,0000,,尽管每个都不足20英里宽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Though each is less than 20 miles wide,
+Dialogue: 0,0:40:09.82,0:40:15.16,*Default,NTP,0000,0000,0000,,但是天文学家认为有足够的尘埃掉离这些小卫星形成微弱的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers believed enough dust came off these moons to form a faint ring.
+Dialogue: 0,0:40:16.16,0:40:17.87,*Default,NTP,0000,0000,0000,,它们必定会产生尘埃云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They must be producing clouds of dust.
+Dialogue: 0,0:40:17.91,0:40:21.00,*Default,NTP,0000,0000,0000,,我们知道毫无疑问 唯一的问题就在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know that for certain, and the only question is
+Dialogue: 0,0:40:21.04,0:40:24.04,*Default,NTP,0000,0000,0000,,它们何时以及如何形成一个环？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when and how does that form into a ring?
+Dialogue: 0,0:40:25.79,0:40:28.42,*Default,NTP,0000,0000,0000,,然而 当他们在21世纪将强大的哈勃望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet, when they trained the powerful Hubble Telescope
+Dialogue: 0,0:40:28.46,0:40:33.17,*Default,NTP,0000,0000,0000,,对准火星时 一无所获\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on Mars in the 21st century, they saw nothing.
+Dialogue: 0,0:40:34.05,0:40:36.68,*Default,NTP,0000,0000,0000,,我们现在已观察过了两遍 我们啥都没看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've looked twice now, and we have not seen anything.
+Dialogue: 0,0:40:36.72,0:40:38.30,*Default,NTP,0000,0000,0000,,因而我们开始有点困惑了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we're beginning to get a little bit puzzled
+Dialogue: 0,0:40:38.35,0:40:40.43,*Default,NTP,0000,0000,0000,,为何火星没有星环呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as to why there are no rings of Mars.
+Dialogue: 0,0:40:42.52,0:40:45.23,*Default,NTP,0000,0000,0000,,地球本身曾经有过星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth itself once had a ring.
+Dialogue: 0,0:40:45.27,0:40:48.57,*Default,NTP,0000,0000,0000,,炽热的巨大石块曾呼啸在地球周围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Giant chunks of red hot rock whizzed around the planet
+Dialogue: 0,0:40:48.61,0:40:52.74,*Default,NTP,0000,0000,0000,,至少有过一些年头 然后就消失了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for at least a few years and then vanished.
+Dialogue: 0,0:40:53.57,0:40:55.24,*Default,NTP,0000,0000,0000,,怎么回事呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How could that have been?
+Dialogue: 0,0:40:56.53,0:41:01.04,*Default,NTP,0000,0000,0000,,45亿年前 当时地球刚刚形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}4 1/2 billion years ago, when the Earth had just formed,
+Dialogue: 0,0:41:01.08,0:41:05.21,*Default,NTP,0000,0000,0000,,一颗火星般大的巨大天体撞上了我们的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a giant body the size of Mars smashed into our planet.
+Dialogue: 0,0:41:07.67,0:41:13.47,*Default,NTP,0000,0000,0000,,形成了一个临时的星环 其壮观绝对胜过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that formed a temporary ring that was even more spectacular
+Dialogue: 0,0:41:13.51,0:41:15.59,*Default,NTP,0000,0000,0000,,今日的土星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than Saturn's is today,
+Dialogue: 0,0:41:15.63,0:41:20.72,*Default,NTP,0000,0000,0000,,一定意义上 它不仅是个庞大而厚重的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the sense that it was not just a big, thick ring,
+Dialogue: 0,0:41:20.76,0:41:24.68,*Default,NTP,0000,0000,0000,,十分巨大 而且它红彤彤一片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}very massive, but it was glowing red hot.
+Dialogue: 0,0:41:26.02,0:41:27.81,*Default,NTP,0000,0000,0000,,随着熔岩的冷却\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the molten rock cooled,
+Dialogue: 0,0:41:27.86,0:41:31.86,*Default,NTP,0000,0000,0000,,部分被抛回地球 部分飞入了太空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some was thrown back to Earth and some flew out into space.
+Dialogue: 0,0:41:33.24,0:41:38.24,*Default,NTP,0000,0000,0000,,其余材料凝结成了一个球体 形成了我们的月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rest of the material condensed into a sphere that became our Moon.
+Dialogue: 0,0:41:40.08,0:41:43.33,*Default,NTP,0000,0000,0000,,不过地球人没必要感到被排除在外了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Earthlings don't need to feel left out.
+Dialogue: 0,0:41:43.37,0:41:48.37,*Default,NTP,0000,0000,0000,,我们的地球家园有了一个新的环 那才50年历史\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our home planet has a new ring, and this one is just 50 years old.
+Dialogue: 0,0:41:49.75,0:41:54.55,*Default,NTP,0000,0000,0000,,其构成不是尘埃或冰岩 而是金属和硅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not made of dust or icy rock, but metals and silicon.
+Dialogue: 0,0:41:54.59,0:41:56.76,*Default,NTP,0000,0000,0000,,那是卫星构成的环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a ring of satellites.
+Dialogue: 0,0:41:58.43,0:42:00.26,*Default,NTP,0000,0000,0000,,地球本身已经打造了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth has built itself
+Dialogue: 0,0:42:00.30,0:42:05.06,*Default,NTP,0000,0000,0000,,一个高科技的复杂的卫星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a highly technologically complicated ring of satellites
+Dialogue: 0,0:42:05.10,0:42:07.56,*Default,NTP,0000,0000,0000,,将会维持数百万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that will last for millions of years.
+Dialogue: 0,0:42:08.35,0:42:11.15,*Default,NTP,0000,0000,0000,,由约400颗卫星构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Comprised of some 400 satellites,
+Dialogue: 0,0:42:11.19,0:42:15.69,*Default,NTP,0000,0000,0000,,它是已知由宇宙中的生命创造的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's the only known ring created by life in the universe.
+Dialogue: 0,0:42:15.74,0:42:19.66,*Default,NTP,0000,0000,0000,,它盘旋在地球赤道上方2 2万英里的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It hovers 22,000 miles above the Earth's equator
+Dialogue: 0,0:42:19.70,0:42:22.74,*Default,NTP,0000,0000,0000,,地球同步轨道上 在那里 它们的速度将它们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a geosynchronous orbit, where their speed will hold them
+Dialogue: 0,0:42:22.79,0:42:27.25,*Default,NTP,0000,0000,0000,,长期固定在地球上方的同一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in exactly the same spot over the planet indefinitely.
+Dialogue: 0,0:42:27.29,0:42:28.50,*Default,NTP,0000,0000,0000,,地球同步卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The geosynchronous satellites
+Dialogue: 0,0:42:28.54,0:42:32.50,*Default,NTP,0000,0000,0000,,是这种非常特殊的卫星种类\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are this very special sort of subcategory of satellites,
+Dialogue: 0,0:42:32.55,0:42:35.59,*Default,NTP,0000,0000,0000,,它们围绕地球形成了一个真正的星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they form a true ring around the Earth.
+Dialogue: 0,0:42:35.63,0:42:38.09,*Default,NTP,0000,0000,0000,,星环一定意义上是在轨运行的颗粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's a ring in the sense that they are orbiting particles
+Dialogue: 0,0:42:38.13,0:42:40.59,*Default,NTP,0000,0000,0000,,在不断落向地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are continuously falling around the Earth,
+Dialogue: 0,0:42:40.64,0:42:43.26,*Default,NTP,0000,0000,0000,,很像土星环那样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much the same way as Saturn's rings,
+Dialogue: 0,0:42:43.31,0:42:46.35,*Default,NTP,0000,0000,0000,,颗粒状冰粒全都在不停地落向土星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gravel-like icy particles that are all falling around Saturn.
+Dialogue: 0,0:42:48.60,0:42:52.11,*Default,NTP,0000,0000,0000,,地球环是人类通讯的重要组成部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's ring is a critical component to human communications,
+Dialogue: 0,0:42:52.86,0:42:54.86,*Default,NTP,0000,0000,0000,,但是它也在导向灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's heading for disaster.
+Dialogue: 0,0:42:56.32,0:42:57.44,*Default,NTP,0000,0000,0000,,我们在星环研究中得知\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we know in ring studies
+Dialogue: 0,0:42:57.49,0:42:58.95,*Default,NTP,0000,0000,0000,,如果你将足够的物体放在一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that if you put enough things in one place
+Dialogue: 0,0:42:58.99,0:43:00.66,*Default,NTP,0000,0000,0000,,它们就会发生碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then they're gonna start colliding.
+Dialogue: 0,0:43:02.20,0:43:05.49,*Default,NTP,0000,0000,0000,,事实上 在2009年2月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, in February of 2009,
+Dialogue: 0,0:43:05.54,0:43:08.75,*Default,NTP,0000,0000,0000,,两颗低轨道卫星就发生了碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}two satellites in a low-Earth orbit did collide.
+Dialogue: 0,0:43:11.54,0:43:16.58,*Default,NTP,0000,0000,0000,,撞击震惊了全世界的政府\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The crash sent shockwaves through governments 
+Dialogue: 0,0:43:16.58,0:43:18.42,*Default,NTP,0000,0000,0000,,和科学界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the scientific community around the world.
+Dialogue: 0,0:43:18.47,0:43:21.09,*Default,NTP,0000,0000,0000,,我们看到两颗大卫星撞击在了一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We had two large satellites and they collided.
+Dialogue: 0,0:43:21.14,0:43:22.76,*Default,NTP,0000,0000,0000,,它们撞得粉身碎骨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They blew themselves to smithereens.
+Dialogue: 0,0:43:22.80,0:43:25.01,*Default,NTP,0000,0000,0000,,我们现在或许有上万个物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we now have maybe 10,000 objects,
+Dialogue: 0,0:43:25.06,0:43:27.22,*Default,NTP,0000,0000,0000,,全都围绕着地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all in orbit around the Earth.
+Dialogue: 0,0:43:27.27,0:43:28.81,*Default,NTP,0000,0000,0000,,它们全都是子弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each of those is a bullet,
+Dialogue: 0,0:43:28.85,0:43:32.52,*Default,NTP,0000,0000,0000,,每个的速度或许都在每秒10英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and each of those is moving perhaps at 10 miles per second,
+Dialogue: 0,0:43:32.56,0:43:34.94,*Default,NTP,0000,0000,0000,,其中的任何一个都有能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and any one of those has the capacity
+Dialogue: 0,0:43:34.98,0:43:37.98,*Default,NTP,0000,0000,0000,,在另一次撞击过程中抹去另一颗卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to take out another satellite should another collision occur.
+Dialogue: 0,0:43:40.70,0:43:43.20,*Default,NTP,0000,0000,0000,,地球同步轨道上的每一颗新卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each new satellite in the geosynchronous orbit
+Dialogue: 0,0:43:43.24,0:43:45.49,*Default,NTP,0000,0000,0000,,就像是在赛道上增加了一辆赛车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is like adding a race car to the track.
+Dialogue: 0,0:43:46.29,0:43:50.12,*Default,NTP,0000,0000,0000,,每一个都增加了碰撞的危险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every one increases the danger of a collision.
+Dialogue: 0,0:43:50.91,0:43:56.21,*Default,NTP,0000,0000,0000,,如果两两相撞 飞出的碎片将破坏整个星环\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If two collide, the flying debris could destroy the entire ring,
+Dialogue: 0,0:43:56.25,0:43:59.46,*Default,NTP,0000,0000,0000,,使地球上的通讯陷入混乱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}throwing communications on Earth into chaos.
+Dialogue: 0,0:44:05.22,0:44:08.01,*Default,NTP,0000,0000,0000,,最终 它就只会是放啥都不安全的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eventually, it will just be an unsafe place to put anything
+Dialogue: 0,0:44:08.06,0:44:11.56,*Default,NTP,0000,0000,0000,,因为你会看到枪林弹雨一刻不停\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because you've got swarms of bullets flying past you all the time.
+Dialogue: 0,0:44:14.15,0:44:16.52,*Default,NTP,0000,0000,0000,,无论是人造的还是天然的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whether artificial or natural,
+Dialogue: 0,0:44:16.57,0:44:19.94,*Default,NTP,0000,0000,0000,,星环猎手坚持寻求珍贵的光带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ring hunters continue to pursue the prized bands,
+Dialogue: 0,0:44:19.99,0:44:23.86,*Default,NTP,0000,0000,0000,,因为它们是宇宙间最基本的形态之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they're one of the most essential forms of the universe.
+Dialogue: 0,0:44:25.03,0:44:29.95,*Default,NTP,0000,0000,0000,,没有它们不停地旋转形成星系 太阳系 行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without them spinning into galaxies, solar systems, and planets,
+Dialogue: 0,0:44:30.00,0:44:33.37,*Default,NTP,0000,0000,0000,,我们熟知的生命将不会存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}life as we know it would not exist.
+Dialogue: 0,0:44:33.42,0:44:37.75,*Default,NTP,0000,0000,0000,,星环 原来是希望的起点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rings, it turns out, are the beginning of what is possible.
+Dialogue: 0,0:44:38.92,0:44:44.80,*Default,NTP,0000,0000,0000,,确实 我们跑出数十亿英里试图去看看外面的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is true that we go billions of miles out to try to see what's out there,
+Dialogue: 0,0:44:44.84,0:44:47.39,*Default,NTP,0000,0000,0000,,然而也就是因为它让我们明白 我们是如何形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's because it tells us how we formed,
+Dialogue: 0,0:44:47.43,0:44:50.97,*Default,NTP,0000,0000,0000,,我们的后院是啥模样 我们的太阳系是啥模样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what our own backyard is like, what our solar system is like.
+Dialogue: 0,0:44:52.06,0:44:54.48,*Default,NTP,0000,0000,0000,,我们了解其他世界的情况愈多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we learn more about what's possible in other worlds,
+Dialogue: 0,0:44:54.56,0:44:56.48,*Default,NTP,0000,0000,0000,,我们对地球的认识就愈深\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we learn more about what's possible here on earth.

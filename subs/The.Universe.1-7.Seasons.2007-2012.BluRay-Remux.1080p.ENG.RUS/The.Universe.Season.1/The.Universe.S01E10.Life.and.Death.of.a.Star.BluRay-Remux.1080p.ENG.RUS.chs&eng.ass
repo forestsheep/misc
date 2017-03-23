@@ -1,0 +1,713 @@
+[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:1
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,华文楷体,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.58,0:00:04.77,*Default,NTP,0000,0000,0000,,玄黄端现 太极混沌如鸡蛋 随着…\NIn the beginning, there was darkness… and then…
+Dialogue: 0,0:00:05.12,0:00:09.16,*Default,NTP,0000,0000,0000,,轰的一声 诞生了无限膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}BANG! Giving birth to an endless expanding existence
+Dialogue: 0,0:00:09.16,0:00:11.22,*Default,NTP,0000,0000,0000,,时间 空间和物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space and matter.
+Dialogue: 0,0:00:11.91,0:00:16.28,*Default,NTP,0000,0000,0000,,现在所见超乎我们的想象 超越了客观认知极限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, see further than we've ever imagined beyond the limits of our existence,
+Dialogue: 0,0:00:16.52,0:00:18.93,*Default,NTP,0000,0000,0000,,那地方我们称之为"宇宙" \Nin a place we call… THE UNIVERSE.
+Dialogue: 0,0:00:22.19,0:00:25.00,*Default,NTP,0000,0000,0000,,夜空中一闪一闪的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each star you see twinkling in the night sky,
+Dialogue: 0,0:00:25.56,0:00:28.39,*Default,NTP,0000,0000,0000,,是超热气体形成的发光球体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is luminous sphere of superheated gas,
+Dialogue: 0,0:00:28.61,0:00:30.94,*Default,NTP,0000,0000,0000,,远远大于任何一个行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much larger than any planet.
+Dialogue: 0,0:00:31.26,0:00:33.52,*Default,NTP,0000,0000,0000,,每一颗都有一个故事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And each has a story to tell.
+Dialogue: 0,0:00:34.11,0:00:35.46,*Default,NTP,0000,0000,0000,,生命戏剧性地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A dramatic birth,
+Dialogue: 0,0:00:36.39,0:00:37.77,*Default,NTP,0000,0000,0000,,诞生在宇宙的边缘 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a life on the edge.
+Dialogue: 0,0:00:38.12,0:00:40.81,*Default,NTP,0000,0000,0000,,引力使小质量块集中集中成恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity collects the star in the first place,
+Dialogue: 0,0:00:41.25,0:00:43.25,*Default,NTP,0000,0000,0000,,然后使之坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then gravity wants to crush it.
+Dialogue: 0,0:00:43.83,0:00:46.33,*Default,NTP,0000,0000,0000,,最后在引力的作用下消亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a death that rattles the heavens.
+Dialogue: 0,0:00:46.72,0:00:50.16,*Default,NTP,0000,0000,0000,,整个过程就这样瞬间完成了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The whole thing goes off in a blinding flash,
+Dialogue: 0,0:00:50.58,0:00:53.13,*Default,NTP,0000,0000,0000,,宇宙中巨大的爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the biggest explosion in the Universe.
+Dialogue: 0,0:00:54.24,0:00:57.54,*Default,NTP,0000,0000,0000,,宇宙暴力动荡动感十足…\NThe Universe at its most volatile and action-packed…
+Dialogue: 0,0:00:57.96,0:01:00.16,*Default,NTP,0000,0000,0000,,恒星的诞生与毁灭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Life and Death of a Star.
+Dialogue: 0,0:01:02.00,0:01:07.00,Default,,0000,0000,0001,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://www.hdcmct.com{\r}
+Dialogue: 0,0:01:08.00,0:01:13.00,Default,,0000,0000,0008,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}历史频道·宇宙第一季第10集 恒星的诞生与毁灭\N影片压制:暮云春树  字幕来源：射手网 调校：TIAN@CMCT 招募Q号: 76846146{\r}
+Dialogue: 0,0:01:14.04,0:01:16.22,*Default,NTP,0000,0000,0000,,就像是沙漠中金光闪闪的城市里一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like glittering cities in the desert,
+Dialogue: 0,0:01:19.48,0:01:23.15,*Default,NTP,0000,0000,0000,,星系在宇宙中最黑暗的角落诞生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}galaxies arise out of the great darkness of the Universe.
+Dialogue: 0,0:01:25.54,0:01:30.19,*Default,NTP,0000,0000,0000,,星系是由数十亿计 闪耀的宇宙灰尘所组成的 它们被叫做恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Galaxies made of billions of blazing lights called stars.
+Dialogue: 0,0:01:31.08,0:01:32.72,*Default,NTP,0000,0000,0000,,宇宙里有数以百亿计的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are billions and billions of stars.
+Dialogue: 0,0:01:33.56,0:01:36.72,*Default,NTP,0000,0000,0000,,实际上银河系里就有四千亿颗恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, in our galaxy there are 400 billion stars,
+Dialogue: 0,0:01:36.76,0:01:38.10,*Default,NTP,0000,0000,0000,,还只算银河系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just in our galaxy.
+Dialogue: 0,0:01:39.58,0:01:41.63,*Default,NTP,0000,0000,0000,,但是这些恒星是如何诞生的？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But how were these stars born?
+Dialogue: 0,0:01:42.49,0:01:43.78,*Default,NTP,0000,0000,0000,,它们会如何消亡？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How will they die?
+Dialogue: 0,0:01:44.39,0:01:47.72,*Default,NTP,0000,0000,0000,,为什么地球上所有的人类 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And how can it be that all human beings on Earth
+Dialogue: 0,0:01:47.96,0:01:51.07,*Default,NTP,0000,0000,0000,,多亏恒星的消亡才得以生存？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}owe their lives to the deaths of stars?
+Dialogue: 0,0:01:52.91,0:01:55.44,*Default,NTP,0000,0000,0000,,问题的答案从这里开始 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The quest for answers begins here,
+Dialogue: 0,0:01:55.56,0:01:57.44,*Default,NTP,0000,0000,0000,,气体和尘埃组成的云 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a cloud of dust and gas
+Dialogue: 0,0:01:57.73,0:01:59.98,*Default,NTP,0000,0000,0000,,盘旋在无尽的星际沙漠 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hovering in the interstellar desert.
+Dialogue: 0,0:02:02.94,0:02:06.02,*Default,NTP,0000,0000,0000,,你所看到的是创造之柱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You are looking at the Pillars of Creation.
+Dialogue: 0,0:02:07.47,0:02:10.54,*Default,NTP,0000,0000,0000,,创造之柱其实是恒星托儿所 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Pillars of Creation are a stellar nursery.
+Dialogue: 0,0:02:11.95,0:02:16.42,*Default,NTP,0000,0000,0000,,新的恒星在中心区域孕育诞生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New stars are in the process of being born in the central regions.
+Dialogue: 0,0:02:20.71,0:02:23.20,*Default,NTP,0000,0000,0000,,离地球7000光年之遥 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Located 7,000 light years from Earth,
+Dialogue: 0,0:02:24.04,0:02:26.58,*Default,NTP,0000,0000,0000,,这些柱子是鹰状星云的一部分 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the pillars are part of the Eagle Nebula,
+Dialogue: 0,0:02:26.85,0:02:31.06,*Default,NTP,0000,0000,0000,,宇宙中这样的恒星孕育不计其数 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is just one of billions of star forming regions in the Universe.
+Dialogue: 0,0:02:32.68,0:02:36.78,*Default,NTP,0000,0000,0000,,这些柱子是尘埃和氢气形成的塔状星云 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The pillars are towering clouds of dust and hydrogen gas.
+Dialogue: 0,0:02:38.62,0:02:41.53,*Default,NTP,0000,0000,0000,,如果你还记得化学课上的元素周期表 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you remember the Periodic Table of elements from chemistry class,
+Dialogue: 0,0:02:41.76,0:02:43.36,*Default,NTP,0000,0000,0000,,那你应该知道周期表顶部的轻元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have the light elements up at the top,
+Dialogue: 0,0:02:43.36,0:02:45.07,*Default,NTP,0000,0000,0000,,氢 氦 锂等等 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hydrogen, helium, lithium, this sort of thing.
+Dialogue: 0,0:02:45.11,0:02:47.75,*Default,NTP,0000,0000,0000,,周期表越往下元素的原子质量越大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then the really heavy ones as you get lower down.
+Dialogue: 0,0:02:49.76,0:02:54.28,*Default,NTP,0000,0000,0000,,氢元素宇宙中最轻而且最充足的元素之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hydrogen, the lightest, simplest most abundant element in the Universe,
+Dialogue: 0,0:02:54.35,0:02:56.76,*Default,NTP,0000,0000,0000,,它是恒星构成中的关键元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is the key component of stars.
+Dialogue: 0,0:03:00.00,0:03:03.01,*Default,NTP,0000,0000,0000,,在星云中成团的灰尘还有气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within a nebula, clumps of this gas and dust
+Dialogue: 0,0:03:03.13,0:03:07.04,*Default,NTP,0000,0000,0000,,慢慢的经过数百万年时间聚合成小云团 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}slowly coalesce into smaller clouds over millions of years,
+Dialogue: 0,0:03:07.28,0:03:10.08,*Default,NTP,0000,0000,0000,,而这种作用力大家很熟悉 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pulled together by a very familiar force.
+Dialogue: 0,0:03:15.62,0:03:17.39,*Default,NTP,0000,0000,0000,,也就是 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The same force that
+Dialogue: 0,0:03:17.75,0:03:20.50,*Default,NTP,0000,0000,0000,,我们和地球之间形成纽带的同一种力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}connects us here to the Earth, that keeps us on the Earth,
+Dialogue: 0,0:03:20.56,0:03:23.04,*Default,NTP,0000,0000,0000,,引力同样使物体互相吸引 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gravity, is the same force that pulls things together
+Dialogue: 0,0:03:23.26,0:03:24.55,*Default,NTP,0000,0000,0000,,这样才逐渐形成了…\Nin a way that gives us…
+Dialogue: 0,0:03:24.77,0:03:28.25,*Default,NTP,0000,0000,0000,,宇宙中的行星恒星星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planets and stars and galaxies in the Universe.
+Dialogue: 0,0:03:29.14,0:03:32.40,*Default,NTP,0000,0000,0000,,引力从某种程度上说是天文学里最重要的力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity, in many senses, is the most important force in astronomy.
+Dialogue: 0,0:03:32.72,0:03:35.11,*Default,NTP,0000,0000,0000,,当引力作用于宇宙万物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when gravity acts in the Universe
+Dialogue: 0,0:03:35.23,0:03:38.02,*Default,NTP,0000,0000,0000,,最基本的产物就是恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one of the basic things that it produces is stars.
+Dialogue: 0,0:03:38.37,0:03:41.50,*Default,NTP,0000,0000,0000,,恒星是引力作用下质量集中在一起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars are sort of the most basic unit of mass
+Dialogue: 0,0:03:41.56,0:03:44.08,*Default,NTP,0000,0000,0000,,所形成的最基本单元 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is produced when gravity pulls mass together.
+Dialogue: 0,0:03:46.51,0:03:48.04,*Default,NTP,0000,0000,0000,,每朵承包商星云 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Each contracting cloud
+Dialogue: 0,0:03:48.24,0:03:50.74,*Default,NTP,0000,0000,0000,,能够形成少到几十颗 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can produce anywhere from a few dozen
+Dialogue: 0,0:03:50.83,0:03:52.57,*Default,NTP,0000,0000,0000,,多到上千颗恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to thousands of stars.
+Dialogue: 0,0:03:54.75,0:03:56.67,*Default,NTP,0000,0000,0000,,想要形成太阳那样的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To form a star like our Sun,
+Dialogue: 0,0:03:56.88,0:03:58.85,*Default,NTP,0000,0000,0000,,直径一百万英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is a million miles across,
+Dialogue: 0,0:03:58.96,0:04:01.01,*Default,NTP,0000,0000,0000,,那就需要比我们整个太阳系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it takes a clump of gas and dust
+Dialogue: 0,0:04:01.07,0:04:04.33,*Default,NTP,0000,0000,0000,,总体积大100倍的气体和尘埃团 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}100 times the size of our Solar System.
+Dialogue: 0,0:04:05.95,0:04:09.26,*Default,NTP,0000,0000,0000,,这些星云诞生初期温度极低 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These clouds start off their lives bitterly cold,
+Dialogue: 0,0:04:09.38,0:04:13.23,*Default,NTP,0000,0000,0000,,低到华氏零下几百度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with temperatures hundreds of degrees below zero Fahrenheit.
+Dialogue: 0,0:04:15.07,0:04:17.60,*Default,NTP,0000,0000,0000,,但由于引力摩擦和挤压他们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as gravity fragments and compresses them,
+Dialogue: 0,0:04:17.74,0:04:19.63,*Default,NTP,0000,0000,0000,,温度开始显著上升 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the heat begins to soar.
+Dialogue: 0,0:04:21.48,0:04:23.49,*Default,NTP,0000,0000,0000,,再过个几十万年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within a few hundred thousand years,
+Dialogue: 0,0:04:23.56,0:04:26.05,*Default,NTP,0000,0000,0000,,这些星云自旋成扁碟 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the cloud spins into a flattened disc.
+Dialogue: 0,0:04:26.97,0:04:30.59,*Default,NTP,0000,0000,0000,,引力使得扁碟的中心凝聚成球体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity coalesces the centre of the disc into a sphere,
+Dialogue: 0,0:04:31.22,0:04:35.24,*Default,NTP,0000,0000,0000,,那里的温度炙热到200万度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the heat rises to a scorching 2 million degrees.
+Dialogue: 0,0:04:36.50,0:04:40.61,*Default,NTP,0000,0000,0000,,这个发光系统被称之为"原恒星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This glowing system is now known as a "protostar".
+Dialogue: 0,0:04:42.63,0:04:44.22,*Default,NTP,0000,0000,0000,,再过个一千万年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ten million years later,
+Dialogue: 0,0:04:44.28,0:04:47.23,*Default,NTP,0000,0000,0000,,羽翼未丰恒星灼热的氢核心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the searing hydrogen core of the fledgling star
+Dialogue: 0,0:04:47.47,0:04:50.27,*Default,NTP,0000,0000,0000,,温度突破1千800万度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}soars past 18 million degrees,
+Dialogue: 0,0:04:50.82,0:04:53.00,*Default,NTP,0000,0000,0000,,不可思议的事发生了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and something incredible happens.
+Dialogue: 0,0:04:54.32,0:04:58.79,*Default,NTP,0000,0000,0000,,核心的温度如此之高以至于能持续核聚变 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The core becomes so hot, it can sustain thermonuclear fusion.
+Dialogue: 0,0:04:59.70,0:05:01.80,*Default,NTP,0000,0000,0000,,核聚变…\NThermonuclear fusion…
+Dialogue: 0,0:05:02.08,0:05:04.56,*Default,NTP,0000,0000,0000,,这么一长串字就表示高温超高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a lot of syllables but it just means it's hot there
+Dialogue: 0,0:05:04.64,0:05:06.36,*Default,NTP,0000,0000,0000,,小原子变大原子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and small atoms become big atoms.
+Dialogue: 0,0:05:06.44,0:05:08.55,*Default,NTP,0000,0000,0000,,氢原子剧烈运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hydrogen atoms are moving fast enough
+Dialogue: 0,0:05:08.65,0:05:11.43,*Default,NTP,0000,0000,0000,,以至于互相聚变 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they actually will fuse together
+Dialogue: 0,0:05:11.70,0:05:13.89,*Default,NTP,0000,0000,0000,,形成氦原子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and will form a helium atom.
+Dialogue: 0,0:05:14.95,0:05:17.91,*Default,NTP,0000,0000,0000,,这种核反应产生巨大的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's this nuclear reaction that produces the energy
+Dialogue: 0,0:05:17.95,0:05:20.33,*Default,NTP,0000,0000,0000,,使得恒星维持生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to power the star throughout its life,
+Dialogue: 0,0:05:20.67,0:05:23.44,*Default,NTP,0000,0000,0000,,保持着持久的光源和热源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving it a constant source of light and heat.
+Dialogue: 0,0:05:24.20,0:05:26.38,*Default,NTP,0000,0000,0000,,恒星自己燃烧自己给自己产生热量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's self-luminous, it generates its own heat.
+Dialogue: 0,0:05:26.80,0:05:29.28,*Default,NTP,0000,0000,0000,,这就是恒星之所以称之为恒星的本质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's the essence of what makes a star a star.
+Dialogue: 0,0:05:30.33,0:05:32.31,*Default,NTP,0000,0000,0000,,有了核聚变就有了恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you've got fusion, you've got a star.
+Dialogue: 0,0:05:34.12,0:05:37.85,*Default,NTP,0000,0000,0000,,恒星一旦诞生它的生命就是一场持久战 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once born, a star's life will be a constant battle,
+Dialogue: 0,0:05:38.51,0:05:41.13,*Default,NTP,0000,0000,0000,,对抗引力的全面战争 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an all-out war against gravity.
+Dialogue: 0,0:05:45.04,0:05:49.76,*Default,NTP,0000,0000,0000,,引力凝聚了恒星然后使之坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity collects the star in the first place, and then it wants to crush it.
+Dialogue: 0,0:05:49.86,0:05:52.61,*Default,NTP,0000,0000,0000,,引力从不怠慢想把所有的东西都拉到一起 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity never gives up, gravity wants to pull everything together.
+Dialogue: 0,0:05:53.04,0:05:56.30,*Default,NTP,0000,0000,0000,,如果恒星想要寿命长足够的长 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if the star is going to have a life, and a long life,
+Dialogue: 0,0:05:56.61,0:05:58.96,*Default,NTP,0000,0000,0000,,那么就必须找到抗衡引力的方法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it has to find a way to fight against gravity.
+Dialogue: 0,0:05:59.37,0:06:01.64,*Default,NTP,0000,0000,0000,,引力总是常伴你左右 当你想要跳跃时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You feel gravity all the time. When you try to jump
+Dialogue: 0,0:06:01.71,0:06:03.43,*Default,NTP,0000,0000,0000,,当你想要攀岩时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or you try to climb a rock,
+Dialogue: 0,0:06:03.68,0:06:05.95,*Default,NTP,0000,0000,0000,,引力总是把你往下拉 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's always gravity pulling you back down.
+Dialogue: 0,0:06:08.54,0:06:11.20,*Default,NTP,0000,0000,0000,,想要抗衡引力 你必须想方设法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in order to fight against gravity, you have to have some way
+Dialogue: 0,0:06:11.36,0:06:12.56,*Default,NTP,0000,0000,0000,,另找外力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of applying a force
+Dialogue: 0,0:06:12.61,0:06:14.76,*Default,NTP,0000,0000,0000,,其作用方向正好和引力相反 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which works in the opposite direction than gravity.
+Dialogue: 0,0:06:14.86,0:06:18.53,*Default,NTP,0000,0000,0000,,比如有根绳子的话你用力拉绳子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, if there's a rope, you can use your muscles to pull on the rope,
+Dialogue: 0,0:06:18.96,0:06:22.22,*Default,NTP,0000,0000,0000,,就有了一股力能抗衡甚至超越引力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and therefore resist, and even overcome, gravity.
+Dialogue: 0,0:06:24.16,0:06:26.51,*Default,NTP,0000,0000,0000,,但这并不意味着引力就认输了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that doesn't mean gravity gives up.
+Dialogue: 0,0:06:27.32,0:06:28.78,*Default,NTP,0000,0000,0000,,引力总是作用着 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity is always working.
+Dialogue: 0,0:06:29.38,0:06:32.31,*Default,NTP,0000,0000,0000,,所以你用来抗衡的力必须维持作用才不会使得你落地 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So you have to keep applying this force in order to not fall off.
+Dialogue: 0,0:06:35.77,0:06:38.15,*Default,NTP,0000,0000,0000,,如果你松手或者绳子断了的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if you give up or let go or the rope breaks,
+Dialogue: 0,0:06:38.37,0:06:40.69,*Default,NTP,0000,0000,0000,,引力马上就获胜你落地 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gravity immediately wins and you fall.
+Dialogue: 0,0:06:41.87,0:06:43.81,*Default,NTP,0000,0000,0000,,恒星的状况亦是如此 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The same kind of thing happens with stars.
+Dialogue: 0,0:06:44.03,0:06:48.31,*Default,NTP,0000,0000,0000,,恒星也尽力维持自身抗衡引力的坍缩作用 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars are also trying to hold themselves up against gravitational collapse.
+Dialogue: 0,0:06:48.35,0:06:51.09,*Default,NTP,0000,0000,0000,,引力想要恒星坍缩到最中心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity wants to crush the star down to the middle.
+Dialogue: 0,0:06:53.05,0:06:56.04,*Default,NTP,0000,0000,0000,,对恒星而言核聚变就提供了绳子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For stars, nuclear fusion provides the rope,
+Dialogue: 0,0:06:56.32,0:06:57.90,*Default,NTP,0000,0000,0000,,以压力的形式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the form of pressure.
+Dialogue: 0,0:06:59.14,0:07:02.07,*Default,NTP,0000,0000,0000,,热能使得恒星内的粒子超高速运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The heat gets all the particles in the star moving around quickly,
+Dialogue: 0,0:07:02.12,0:07:03.61,*Default,NTP,0000,0000,0000,,伴随着向外的爆炸力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they bang outwards,
+Dialogue: 0,0:07:03.69,0:07:05.25,*Default,NTP,0000,0000,0000,,这就提供了压力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that produces a pressure
+Dialogue: 0,0:07:05.40,0:07:08.48,*Default,NTP,0000,0000,0000,,维持了恒星自身对抗了引力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which can actually hold the star up against gravity.
+Dialogue: 0,0:07:09.28,0:07:12.32,*Default,NTP,0000,0000,0000,,把恒星往外推的压力正好等于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The amount of pressure pushing out on the star just matches
+Dialogue: 0,0:07:12.49,0:07:14.73,*Default,NTP,0000,0000,0000,,把恒星往里拉的引力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the amount of gravity pulling in on the star.
+Dialogue: 0,0:07:15.02,0:07:18.55,*Default,NTP,0000,0000,0000,,只要有燃烧恒星就能稳坐泰山直到出现了意外 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it can sit there and burn happily until something changes.
+Dialogue: 0,0:07:19.38,0:07:23.18,*Default,NTP,0000,0000,0000,,恒星大部分时间都处于平衡状态 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A star will spend most of its life in this state of equilibrium.
+Dialogue: 0,0:07:24.98,0:07:28.21,*Default,NTP,0000,0000,0000,,科学术语是"主序" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a phase scientists call the "main sequence".
+Dialogue: 0,0:07:29.01,0:07:31.74,*Default,NTP,0000,0000,0000,,所以说太阳处于"主序"状态 我们很高兴沐浴阳光 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, our Sun is in the main sequence, we're very happy it's there,
+Dialogue: 0,0:07:31.78,0:07:35.11,*Default,NTP,0000,0000,0000,,太阳每天提供给我们相同的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it provides us the same amount of energy almost every day,
+Dialogue: 0,0:07:35.21,0:07:37.04,*Default,NTP,0000,0000,0000,,从而创造了生命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's what makes life possible.
+Dialogue: 0,0:07:39.47,0:07:42.41,*Default,NTP,0000,0000,0000,,处于"主序"的恒星各不相同 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All stars in the main sequence aren't alike.
+Dialogue: 0,0:07:43.23,0:07:46.21,*Default,NTP,0000,0000,0000,,有的远比太阳更小更冷 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some are much smaller and cooler than the Sun.
+Dialogue: 0,0:07:47.43,0:07:50.03,*Default,NTP,0000,0000,0000,,而有的更大更热 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Others, much larger and hotter.
+Dialogue: 0,0:07:51.04,0:07:54.02,*Default,NTP,0000,0000,0000,,有证据显示物体的热量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, it turns out that how hot something is
+Dialogue: 0,0:07:54.06,0:07:57.21,*Default,NTP,0000,0000,0000,,和其发出的光色有着紧密联系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is related to the colour of the light that it emits.
+Dialogue: 0,0:07:57.43,0:07:59.43,*Default,NTP,0000,0000,0000,,那么太阳那样的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, a star like the Sun,
+Dialogue: 0,0:07:59.74,0:08:03.02,*Default,NTP,0000,0000,0000,,发出的光亮大多属于黄色光 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most of the light that comes out from it is sort of a yellow-type colour.
+Dialogue: 0,0:08:03.43,0:08:04.84,*Default,NTP,0000,0000,0000,,要是太阳更热 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Sun were much hotter,
+Dialogue: 0,0:08:04.87,0:08:07.33,*Default,NTP,0000,0000,0000,,那么其主要光的波长就处于蓝光波段 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the predominant wavelength of light would come out into the blue.
+Dialogue: 0,0:08:07.39,0:08:09.39,*Default,NTP,0000,0000,0000,,甚至处于紫外线波段 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or even into the ultra-violet.
+Dialogue: 0,0:08:09.92,0:08:12.22,*Default,NTP,0000,0000,0000,,热量低的恒星发出更多的红色光 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And cooler stars emit more red light.
+Dialogue: 0,0:08:14.78,0:08:18.22,*Default,NTP,0000,0000,0000,,小冷红的恒星比如比邻星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Small, cool, red stars, like Proxima Centauri,
+Dialogue: 0,0:08:18.34,0:08:21.84,*Default,NTP,0000,0000,0000,,离太阳最近的恒星也叫"红矮星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the nearest star to the Sun, are known as "Red Dwarfs".
+Dialogue: 0,0:08:23.74,0:08:26.84,*Default,NTP,0000,0000,0000,,可能只有太阳质量的十分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can be as little as 1/10 the mass of the Sun.
+Dialogue: 0,0:08:27.20,0:08:30.30,*Default,NTP,0000,0000,0000,,表面温度比太阳低数千度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With surface temperatures thousands of degrees cooler.
+Dialogue: 0,0:08:30.82,0:08:34.82,*Default,NTP,0000,0000,0000,,红矮星是宇宙中最普遍的恒星模式 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Red dwarfs are the most common type of stars in the Universe.
+Dialogue: 0,0:08:35.13,0:08:39.63,*Default,NTP,0000,0000,0000,,成千上万这种昏暗的红矮星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are many, many more of these sort of very dim, red dwarfs
+Dialogue: 0,0:08:39.74,0:08:42.44,*Default,NTP,0000,0000,0000,,漂浮在宇宙数量远超像太阳的那种恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}floating out in space than there are stars like the Sun.
+Dialogue: 0,0:08:42.79,0:08:44.56,*Default,NTP,0000,0000,0000,,当然仰望星空时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course, when you look in the night sky,
+Dialogue: 0,0:08:44.56,0:08:46.37,*Default,NTP,0000,0000,0000,,你不会见到这种最常见的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you don't see the most common kinds of stars,
+Dialogue: 0,0:08:46.41,0:08:48.82,*Default,NTP,0000,0000,0000,,你看不到红矮星因为它们太暗了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you don't see these red dwarfs 'cause they're so faint.
+Dialogue: 0,0:08:48.90,0:08:50.84,*Default,NTP,0000,0000,0000,,你仅仅见到非常稀有非常明亮的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You merely see the very rare, very bright stars
+Dialogue: 0,0:08:50.85,0:08:52.63,*Default,NTP,0000,0000,0000,,正好离我们非常遥远 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that turn out to be very, very far away.
+Dialogue: 0,0:08:54.64,0:08:56.51,*Default,NTP,0000,0000,0000,,波长段处于最短处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On the opposite end of the spectrum,
+Dialogue: 0,0:08:56.55,0:08:59.74,*Default,NTP,0000,0000,0000,,正是巨大的蓝色主序恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are the large blue, main sequence stars.
+Dialogue: 0,0:09:01.45,0:09:05.82,*Default,NTP,0000,0000,0000,,平均表面温度达到4万5千华氏度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Averaging a surface temperature of 45,000
+Dialogue: 0,0:09:05.88,0:09:08.80,*Default,NTP,0000,0000,0000,,质量可能是太阳的20倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can be 20 times the mass of the Sun.
+Dialogue: 0,0:09:08.95,0:09:11.61,*Default,NTP,0000,0000,0000,,比太阳亮一万倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And 10,000 times more luminous.
+Dialogue: 0,0:09:13.12,0:09:18.31,*Default,NTP,0000,0000,0000,,对于恒星的生老病死质量当然是关键 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the life and death of a star, size definitely matters.
+Dialogue: 0,0:09:19.39,0:09:21.06,*Default,NTP,0000,0000,0000,,质量是最基本的属性 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mass is the fundamental thing
+Dialogue: 0,0:09:21.10,0:09:23.73,*Default,NTP,0000,0000,0000,,决定着一颗恒星的发展历程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which drives the life history of a star.
+Dialogue: 0,0:09:24.08,0:09:26.15,*Default,NTP,0000,0000,0000,,质量越大的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The more massive stars
+Dialogue: 0,0:09:26.22,0:09:29.88,*Default,NTP,0000,0000,0000,,比起质量较小的恒星寿命更短 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}live much shorter lives than the less massive stars.
+Dialogue: 0,0:09:30.15,0:09:33.13,*Default,NTP,0000,0000,0000,,这听上去很奇怪 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's perhaps a little bit strange sounding,
+Dialogue: 0,0:09:33.31,0:09:36.16,*Default,NTP,0000,0000,0000,,因为质量越大燃料也就越多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the massive stars have more fuel to burn
+Dialogue: 0,0:09:36.26,0:09:38.23,*Default,NTP,0000,0000,0000,,所以你误认为它们寿命更长 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'd think they'd live longer.
+Dialogue: 0,0:09:38.56,0:09:41.66,*Default,NTP,0000,0000,0000,,直觉总是认为大质量恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, it's counterintuitive that more massive stars
+Dialogue: 0,0:09:41.66,0:09:43.46,*Default,NTP,0000,0000,0000,,比起小质量恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will burn through their fuel
+Dialogue: 0,0:09:43.70,0:09:46.42,*Default,NTP,0000,0000,0000,,消耗燃料的速度快得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more quickly than the lower mass stars.
+Dialogue: 0,0:09:49.66,0:09:53.10,*Default,NTP,0000,0000,0000,,试想两个赌徒对峙同一个21点赌桌 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine two gamblers sitting down at a blackjack table.
+Dialogue: 0,0:09:54.62,0:09:58.70,*Default,NTP,0000,0000,0000,,你会认为带钱最多的那个赌徒带着"更多的燃料" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would expect the one with the most money, the most "fuel to burn",
+Dialogue: 0,0:09:58.76,0:10:00.69,*Default,NTP,0000,0000,0000,,能坚持更长时间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would last the longest.
+Dialogue: 0,0:10:04.67,0:10:08.98,*Default,NTP,0000,0000,0000,,但如果那个钱多的赌徒每局下注很大会如何？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what if the big-time gambler is making huge bets on every hand?
+Dialogue: 0,0:10:11.04,0:10:13.45,*Default,NTP,0000,0000,0000,,钱多的赌徒下注也就更大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A gambler that is gambling with a lot more money
+Dialogue: 0,0:10:13.49,0:10:15.99,*Default,NTP,0000,0000,0000,,每局下注1万美元 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and putting down $10,000 at a time
+Dialogue: 0,0:10:17.00,0:10:19.53,*Default,NTP,0000,0000,0000,,这样他的钱很快就花光了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is gonna burn through that money much more quickly.
+Dialogue: 0,0:10:20.11,0:10:23.47,*Default,NTP,0000,0000,0000,,所以质量越大温度越高压力越强 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the more mass you have, the higher temperature, the higher pressure,
+Dialogue: 0,0:10:23.60,0:10:25.08,*Default,NTP,0000,0000,0000,,核聚变速度也就越快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the higher the fusion rate.
+Dialogue: 0,0:10:25.10,0:10:28.40,*Default,NTP,0000,0000,0000,,而且消耗速率--质量曲线是非线性的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It goes much more quickly with the more mass you have.
+Dialogue: 0,0:10:29.63,0:10:33.23,*Default,NTP,0000,0000,0000,,不是简单的算术题:你有多少燃料 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's always just simply the calculation: how much fuel do you have,
+Dialogue: 0,0:10:33.41,0:10:36.13,*Default,NTP,0000,0000,0000,,燃料转换速率是多少 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and at what rate are you converting it.
+Dialogue: 0,0:10:37.15,0:10:40.26,*Default,NTP,0000,0000,0000,,大质量恒星寿命更短 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The high-mass stars live their lives faster.
+Dialogue: 0,0:10:40.46,0:10:43.64,*Default,NTP,0000,0000,0000,,好比蜡烛两头烧它的人生处于短跑线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They burn the candle at both ends, it's life in the fast lane.
+Dialogue: 0,0:10:43.71,0:10:46.92,*Default,NTP,0000,0000,0000,,大质量恒星寿命通常短于100万年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A high-mass star could die within a million years.
+Dialogue: 0,0:10:55.19,0:10:58.21,*Default,NTP,0000,0000,0000,,一颗质量是太阳十倍的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A star 10 times as massive as our Sun,
+Dialogue: 0,0:10:58.47,0:11:02.24,*Default,NTP,0000,0000,0000,,寿命可能就短了1000倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might live for only 1/1000 as long.
+Dialogue: 0,0:11:02.71,0:11:06.40,*Default,NTP,0000,0000,0000,,假如我们的太阳寿命是100亿年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So our Sun will live for about 10 billion years in total.
+Dialogue: 0,0:11:07.98,0:11:10.52,*Default,NTP,0000,0000,0000,,一颗质量是太阳10倍的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A star 10 times as massive as our Sun,
+Dialogue: 0,0:11:10.66,0:11:14.56,*Default,NTP,0000,0000,0000,,可能寿命只有1000万年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might live only 10 million years in total.
+Dialogue: 0,0:11:16.52,0:11:20.31,*Default,NTP,0000,0000,0000,,大质量恒星的寿命数量级是百万年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While massive stars have lifespans measured in millions of years,
+Dialogue: 0,0:11:20.77,0:11:23.41,*Default,NTP,0000,0000,0000,,最小质量的恒星寿命的数量级 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the lowest mass stars measure their lives
+Dialogue: 0,0:11:23.46,0:11:27.03,*Default,NTP,0000,0000,0000,,是百亿年甚至万亿年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in tens of billions, if not trillions, of years.
+Dialogue: 0,0:11:28.25,0:11:30.91,*Default,NTP,0000,0000,0000,,小质量恒星不断诞生于宇宙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every low mass star that has ever been born in the Universe,
+Dialogue: 0,0:11:30.95,0:11:34.04,*Default,NTP,0000,0000,0000,,宇宙不断制造恒星已经有100亿年了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Universe has been making stars for more than 10 billion years,
+Dialogue: 0,0:11:34.55,0:11:37.01,*Default,NTP,0000,0000,0000,,小质量恒星还都处于婴儿期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all of those stars are still in their infancy.
+Dialogue: 0,0:11:37.56,0:11:40.91,*Default,NTP,0000,0000,0000,,还没有哪个小质量恒星濒临灭绝 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No such star that's ever been born has ever come close to dying.
+Dialogue: 0,0:11:42.65,0:11:45.41,*Default,NTP,0000,0000,0000,,但对所有恒星而言包括太阳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But for all stars, including our own Sun,
+Dialogue: 0,0:11:45.48,0:11:48.61,*Default,NTP,0000,0000,0000,,主序状态不可能永远维持下去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}life on the main sequence can't go on forever.
+Dialogue: 0,0:11:50.52,0:11:54.24,*Default,NTP,0000,0000,0000,,只能维持到燃料烧光那天 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It can only last as long as the star has fuel to burn.
+Dialogue: 0,0:11:54.34,0:11:59.20,*Default,NTP,0000,0000,0000,,燃料烧光了核聚变停止了引力也就…获胜了 \NIf it runs out of fuel, fusion stops and gravity… wins.
+Dialogue: 0,0:12:00.30,0:12:01.58,*Default,NTP,0000,0000,0000,,引力从不认输 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity never gives up,
+Dialogue: 0,0:12:01.62,0:12:04.88,*Default,NTP,0000,0000,0000,,要是有燃料当然也就能坚持一段时间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whereas fuel, of course, can run out after a while.
+Dialogue: 0,0:12:05.02,0:12:08.08,*Default,NTP,0000,0000,0000,,恒星和登山者面临着同样的问题 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so the star and the climber both have this terrible problem,
+Dialogue: 0,0:12:08.12,0:12:12.50,*Default,NTP,0000,0000,0000,,要是他们不能和引力打持久战就难逃一死 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that if they don't maintain their fight against gravity, they will end in death.
+Dialogue: 0,0:12:12.94,0:12:14.36,*Default,NTP,0000,0000,0000,,永世不得超生 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A cataclysmic death.
+Dialogue: 0,0:12:17.13,0:12:20.99,*Default,NTP,0000,0000,0000,,恒星的大小不仅决定着寿命长短 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not only does the size of a star influence how long it will live,
+Dialogue: 0,0:12:21.29,0:12:23.82,*Default,NTP,0000,0000,0000,,也决定着恒星如何消亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it also determines how it will die.
+Dialogue: 0,0:12:25.13,0:12:28.86,*Default,NTP,0000,0000,0000,,大质量恒星会在剧烈核聚变爆炸中消亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Massive stars explode from the scene in violent fury,
+Dialogue: 0,0:12:29.30,0:12:33.07,*Default,NTP,0000,0000,0000,,小质量的则慢慢变暗直到油尽灯枯 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while smaller ones are doomed to slowly fade away.
+Dialogue: 0,0:12:35.75,0:12:37.45,*Default,NTP,0000,0000,0000,,50亿年来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For 5 billion years,
+Dialogue: 0,0:12:37.49,0:12:40.44,*Default,NTP,0000,0000,0000,,太阳低质量的中龄恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our Sun, a lower mass, middle-aged star,
+Dialogue: 0,0:12:40.60,0:12:44.27,*Default,NTP,0000,0000,0000,,养尊处优地消耗着氢燃料 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been happily burning through its supply of hydrogen fuel.
+Dialogue: 0,0:12:44.87,0:12:48.30,*Default,NTP,0000,0000,0000,,就好比赌徒下注慢条斯理 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like a gambler slowly plowing through a pile of chips.
+Dialogue: 0,0:12:49.98,0:12:52.89,*Default,NTP,0000,0000,0000,,这赌徒可能要赌很长一段时间了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gambler may sit there for a long period of time,
+Dialogue: 0,0:12:52.93,0:12:56.49,*Default,NTP,0000,0000,0000,,就好比恒星燃烧氢燃料换得长寿命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like a star burns its hydrogen for a really long period of time.
+Dialogue: 0,0:12:56.53,0:12:59.81,*Default,NTP,0000,0000,0000,,然而最终你还是难逃输得精光 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, at some point, you're gonna run out of money.
+Dialogue: 0,0:13:00.36,0:13:04.03,*Default,NTP,0000,0000,0000,,科学家预言再过50亿年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists predict that 5 billion years in the future,
+Dialogue: 0,0:13:04.15,0:13:07.17,*Default,NTP,0000,0000,0000,,太阳就要面临生死存亡:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our Sun will reach this critical crossroads:
+Dialogue: 0,0:13:09.11,0:13:13.06,*Default,NTP,0000,0000,0000,,它的氢燃料将会被消耗殆尽 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its supply of hydrogen fuel will have been completely exhausted,
+Dialogue: 0,0:13:13.42,0:13:15.30,*Default,NTP,0000,0000,0000,,核聚变将停止 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nuclear fusion will cease,
+Dialogue: 0,0:13:15.45,0:13:18.09,*Default,NTP,0000,0000,0000,,引力使得恒星坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and gravity will begin to crush the star.
+Dialogue: 0,0:13:19.02,0:13:22.13,*Default,NTP,0000,0000,0000,,那时一切陷入绝望 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At that point the situation is desperate.
+Dialogue: 0,0:13:23.58,0:13:28.96,*Default,NTP,0000,0000,0000,,想要活命太阳那样的恒星就必须找新的燃料源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In order to survive, a sun-like star must find a new source of fuel.
+Dialogue: 0,0:13:29.04,0:13:30.80,*Default,NTP,0000,0000,0000,,它手头有氦…\NIt has helium on hand…
+Dialogue: 0,0:13:30.87,0:13:34.27,*Default,NTP,0000,0000,0000,,但想要燃烧氦它的核心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in order to start burning helium, the core has to be
+Dialogue: 0,0:13:34.31,0:13:38.29,*Default,NTP,0000,0000,0000,,就必须比燃烧氢时温度高上10倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}10 times hotter than it was during its lifetime burning hydrogen.
+Dialogue: 0,0:13:39.39,0:13:43.44,*Default,NTP,0000,0000,0000,,它不会使得氦聚变成更重的元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It won't be able to fuse that helium into heavier elements,
+Dialogue: 0,0:13:43.51,0:13:45.33,*Default,NTP,0000,0000,0000,,比如碳和氧 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like carbon and oxygen,
+Dialogue: 0,0:13:45.84,0:13:48.75,*Default,NTP,0000,0000,0000,,除非核心足够热 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until the core gets sufficiently hot.
+Dialogue: 0,0:13:48.82,0:13:53.52,*Default,NTP,0000,0000,0000,,由于把氦核聚在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's because it's harder to get the helium nuclei close enough together
+Dialogue: 0,0:13:53.59,0:13:56.46,*Default,NTP,0000,0000,0000,,再把接力棒交给强粒子作用力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the strong nuclear force to take over,
+Dialogue: 0,0:13:56.53,0:13:59.39,*Default,NTP,0000,0000,0000,,抓住对方引起核聚变不是件容易事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}grab them, and cause them to fuse together.
+Dialogue: 0,0:14:01.67,0:14:04.16,*Default,NTP,0000,0000,0000,,随着合同到期 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As it continues to contract inward,
+Dialogue: 0,0:14:04.28,0:14:07.28,*Default,NTP,0000,0000,0000,,自然给了恒星寿命上限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nature throws the star a lifeline.
+Dialogue: 0,0:14:07.44,0:14:10.48,*Default,NTP,0000,0000,0000,,核心会变成超高温 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The core actually becomes superheated
+Dialogue: 0,0:14:10.52,0:14:14.20,*Default,NTP,0000,0000,0000,,这是由于引力坍缩造成的挤压力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the very gravitational pressure that's trying to crush it.
+Dialogue: 0,0:14:14.83,0:14:20.19,*Default,NTP,0000,0000,0000,,当温度达到华氏18亿度时氦原子聚变成碳原子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it reaches 180 million degrees, it can start fusing helium into carbon,
+Dialogue: 0,0:14:20.32,0:14:22.74,*Default,NTP,0000,0000,0000,,存活几率渺茫 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a desperate gamble to survive.
+Dialogue: 0,0:14:23.56,0:14:27.87,*Default,NTP,0000,0000,0000,,所以绝望的恒星变卖家产贷款 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the desperate gambler might go take out a loan on the house
+Dialogue: 0,0:14:27.94,0:14:29.77,*Default,NTP,0000,0000,0000,,换得更多的钱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and get more money.
+Dialogue: 0,0:14:30.10,0:14:32.07,*Default,NTP,0000,0000,0000,,虽然借了更多的钱花 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in getting more money to burn through,
+Dialogue: 0,0:14:32.11,0:14:36.23,*Default,NTP,0000,0000,0000,,只不过是苟延残喘终究会破产 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's really just delaying the inevitable, which is to go bust.
+Dialogue: 0,0:14:38.10,0:14:40.91,*Default,NTP,0000,0000,0000,,对恒星而言就是难逃一死 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And for a star, the inevitable is to die.
+Dialogue: 0,0:14:42.65,0:14:47.09,*Default,NTP,0000,0000,0000,,恒星花了100亿年烧光了氢 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The star which took 10 billion years to burn through its hydrogen,
+Dialogue: 0,0:14:47.33,0:14:52.26,*Default,NTP,0000,0000,0000,,现在烧氦换得了仅仅100万年寿命 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}now powers through its supply of helium in a mere 100 million years.
+Dialogue: 0,0:14:53.55,0:14:55.38,*Default,NTP,0000,0000,0000,,戏就是这样上演的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then the action begins.
+Dialogue: 0,0:14:55.62,0:14:58.81,*Default,NTP,0000,0000,0000,,氢燃料用完了…开始氦聚变 \NIt runs out of hydrogen… starts fusing helium.
+Dialogue: 0,0:14:58.96,0:15:02.28,*Default,NTP,0000,0000,0000,,氦用完了…企图碳聚变但无济于事 \NRuns out of helium… attempts to fuse carbon and will fail.
+Dialogue: 0,0:15:02.34,0:15:03.94,*Default,NTP,0000,0000,0000,,但是整出戏 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But all the action,
+Dialogue: 0,0:15:04.13,0:15:08.15,*Default,NTP,0000,0000,0000,,所有的高潮部分就发生在恒星最好10%的寿命里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all the "what's going on now", happens in the last 10% of the star's life.
+Dialogue: 0,0:15:11.56,0:15:13.72,*Default,NTP,0000,0000,0000,,氦燃烧的超高温 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The searing heat of the helium burning
+Dialogue: 0,0:15:13.76,0:15:17.51,*Default,NTP,0000,0000,0000,,将会使得恒星的外层膨胀 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually causes the outer layers of the star to swell.
+Dialogue: 0,0:15:18.97,0:15:22.51,*Default,NTP,0000,0000,0000,,到那时太阳最外面的大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At that point, the outer atmosphere of our star
+Dialogue: 0,0:15:22.72,0:15:25.83,*Default,NTP,0000,0000,0000,,受到的引力作用就相当小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be held in by gravity so weakly
+Dialogue: 0,0:15:25.83,0:15:29.63,*Default,NTP,0000,0000,0000,,就会有蒸发掉的趋势 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it'll start sort of just evaporating away.
+Dialogue: 0,0:15:33.12,0:15:37.89,*Default,NTP,0000,0000,0000,,经历一连串我称之为"宇宙打嗝"的过程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Through a series of what I call "cosmic burps", it will actually eject
+Dialogue: 0,0:15:38.14,0:15:42.02,*Default,NTP,0000,0000,0000,,就会把受引力作用小的外层气体抛射出去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the outer envelope of gases, which are only weakly held by gravity.
+Dialogue: 0,0:15:42.68,0:15:45.94,*Default,NTP,0000,0000,0000,,炙热核心就会把气体层往外推 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That'll send some shells of gas outward
+Dialogue: 0,0:15:46.04,0:15:49.20,*Default,NTP,0000,0000,0000,,并照亮气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}illuminated by the hot central star.
+Dialogue: 0,0:15:51.12,0:15:55.15,*Default,NTP,0000,0000,0000,,这会产生所谓的"行星状星云"现象 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that will cause what's called the "planetary nebula" phenomenon.
+Dialogue: 0,0:15:55.88,0:16:03.20,*Default,NTP,0000,0000,0000,,凄美的光亮气体层围绕着濒死的太阳核心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Beautiful shells of glowing gas surrounding the dying core of our sun.
+Dialogue: 0,0:16:04.03,0:16:07.50,*Default,NTP,0000,0000,0000,,当核心再也不能产生任何核聚变时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With the core unable to muster any more nuclear fusion,
+Dialogue: 0,0:16:07.54,0:16:11.27,*Default,NTP,0000,0000,0000,,有没有可能逃脱引力坍缩的厄运？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can it possibly survive gravity's crushing grip?
+Dialogue: 0,0:16:13.24,0:16:18.06,*Default,NTP,0000,0000,0000,,一颗太阳大小的恒星死亡时抛射其外层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a star the size of our Sun dies, it ejects its outer layers.
+Dialogue: 0,0:16:18.71,0:16:22.21,*Default,NTP,0000,0000,0000,,没有核反应产生向外的压力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With no nuclear reactions to generate outward pressure,
+Dialogue: 0,0:16:22.25,0:16:24.66,*Default,NTP,0000,0000,0000,,引力占了上风 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gravity gains the upper hand.
+Dialogue: 0,0:16:25.78,0:16:28.65,*Default,NTP,0000,0000,0000,,恒星向自己的中心坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The star begins to fall in on itself,
+Dialogue: 0,0:16:28.69,0:16:31.71,*Default,NTP,0000,0000,0000,,就好比攀岩者抓绳子太累了而松手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like a climber too tired to hold on to his rope.
+Dialogue: 0,0:16:32.18,0:16:35.93,*Default,NTP,0000,0000,0000,,攀岩者还剩下最后一根救命稻草 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's one possibility that the rock climber might be able to use
+Dialogue: 0,0:16:35.97,0:16:38.85,*Default,NTP,0000,0000,0000,,当他累到再也抓不紧任何绳子时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if he gets too tired to hold on to the rope any more,
+Dialogue: 0,0:16:39.13,0:16:42.74,*Default,NTP,0000,0000,0000,,就是在他攀登的岩石上找个立足之处 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that is if he can find a ledge on the rock that he's climbing.
+Dialogue: 0,0:16:43.26,0:16:44.97,*Default,NTP,0000,0000,0000,,引力的确不放过他 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity can pull on him only once
+Dialogue: 0,0:16:45.01,0:16:47.90,*Default,NTP,0000,0000,0000,,但立足之处能使他远离引力的烦恼 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the ledge itself will support him against gravity.
+Dialogue: 0,0:16:47.94,0:16:51.45,*Default,NTP,0000,0000,0000,,他不必自己花力气赢得这场战斗 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And he doesn't have to provide any more energy to win his fight.
+Dialogue: 0,0:16:52.77,0:16:56.88,*Default,NTP,0000,0000,0000,,有一种恒星如我们的太阳 事实上就是个例子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a certain kind of star, and our Sun is actually an example of this,
+Dialogue: 0,0:16:57.11,0:17:02.02,*Default,NTP,0000,0000,0000,,恒星能够找到一条"出路"来对抗引力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the star finds that it has an "out" in this fight against gravity.
+Dialogue: 0,0:17:03.66,0:17:09.10,*Default,NTP,0000,0000,0000,,合同到期的恒星不可思议的找到了立足之处:电子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The contracting star finds its ledge in a surprising place: electrons,
+Dialogue: 0,0:17:09.57,0:17:12.68,*Default,NTP,0000,0000,0000,,小小的带负电的微粒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tiny, negatively charged atomic particles.
+Dialogue: 0,0:17:13.17,0:17:17.97,*Default,NTP,0000,0000,0000,,电子群不喜欢被压缩所以互相靠的很近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Electrons don't like being compressed so they're very close to one another,
+Dialogue: 0,0:17:18.17,0:17:21.23,*Default,NTP,0000,0000,0000,,由于电子的互斥力极强 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because electrons effectively don't like each other.
+Dialogue: 0,0:17:22.54,0:17:27.69,*Default,NTP,0000,0000,0000,,要是你把他们使劲往里压所产生的电子斥力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you compact the electrons hard enough, the pressure of the electrons themselves
+Dialogue: 0,0:17:28.02,0:17:30.51,*Default,NTP,0000,0000,0000,,能挽救恒星对抗引力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is able to hold up the star against gravity.
+Dialogue: 0,0:17:31.81,0:17:34.30,*Default,NTP,0000,0000,0000,,当太阳那样濒死恒星的核心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the core of our dying Sun-like star
+Dialogue: 0,0:17:34.34,0:17:37.25,*Default,NTP,0000,0000,0000,,坍缩到地球那样大小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is crushed to about the size of the Earth,
+Dialogue: 0,0:17:38.31,0:17:42.16,*Default,NTP,0000,0000,0000,,所谓的"电子兼并压力"大显身手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this so-called "electron degeneracy pressure" takes over.
+Dialogue: 0,0:17:42.44,0:17:45.41,*Default,NTP,0000,0000,0000,,引力无法使得恒星进一步坍塌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity can collapse the star no further.
+Dialogue: 0,0:17:46.84,0:17:53.20,*Default,NTP,0000,0000,0000,,最后会慢慢冷却成奇怪的恒星残余 成为"白矮星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's left to slowly cool into a bizarre stellar remnant known as a "White Dwarf".
+Dialogue: 0,0:17:54.25,0:17:56.63,*Default,NTP,0000,0000,0000,,比如说这颗天狼星B \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like this one, Sirius B,
+Dialogue: 0,0:17:56.67,0:18:00.71,*Default,NTP,0000,0000,0000,,只能在其同伴天空最亮恒星天狼星的光辉下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which can be seen only faintly aside its companion Sirius,
+Dialogue: 0,0:18:00.80,0:18:02.80,*Default,NTP,0000,0000,0000,,隐约被观察到 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the brighter star in our sky.
+Dialogue: 0,0:18:04.08,0:18:07.59,*Default,NTP,0000,0000,0000,,白矮星是一种非常奇怪的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, a white dwarf is a very strange type of star.
+Dialogue: 0,0:18:08.52,0:18:10.49,*Default,NTP,0000,0000,0000,,密度极高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very, very dense.
+Dialogue: 0,0:18:11.57,0:18:18.42,*Default,NTP,0000,0000,0000,,那颗白矮星的质量有地球的3万倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The white dwarf has about 300,000 times the mass of the Earth,
+Dialogue: 0,0:18:18.84,0:18:22.64,*Default,NTP,0000,0000,0000,,如果把它压缩成地球那样的体积 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compressed into a volume the size of the Earth.
+Dialogue: 0,0:18:23.45,0:18:27.98,*Default,NTP,0000,0000,0000,,那里一调羹物质的质量就有好几吨重 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you had just a teaspoon full of material, it would weigh several tons.
+Dialogue: 0,0:18:28.05,0:18:30.49,*Default,NTP,0000,0000,0000,,真是神奇的物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, it's really amazing stuff.
+Dialogue: 0,0:18:32.80,0:18:36.95,*Default,NTP,0000,0000,0000,,白矮星是太阳那样恒星生命的最后舞台 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A white dwarf is the final stage in the life of a Sun-like star.
+Dialogue: 0,0:18:37.48,0:18:39.64,*Default,NTP,0000,0000,0000,,但还没有入土为安 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's not quite dead yet.
+Dialogue: 0,0:18:40.38,0:18:43.42,*Default,NTP,0000,0000,0000,,它还会继续发光几十亿年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will continue to shine for billions of years
+Dialogue: 0,0:18:43.46,0:18:47.43,*Default,NTP,0000,0000,0000,,直到把其一生的能量通通辐射殆尽 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it gradually radiates away a lifetime of energy.
+Dialogue: 0,0:18:48.06,0:18:51.31,*Default,NTP,0000,0000,0000,,我喜欢称白矮星为"退休的恒星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I like to call white dwarfs "retired stars",
+Dialogue: 0,0:18:51.35,0:18:55.53,*Default,NTP,0000,0000,0000,,意思是它们现在发出的所有光线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the sense that all of the light that they are shining,
+Dialogue: 0,0:18:55.93,0:19:01.09,*Default,NTP,0000,0000,0000,,是它们正值恒星壮年时积累下来的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is energy that they accumulated during their normal lives as stars,
+Dialogue: 0,0:19:01.13,0:19:05.11,*Default,NTP,0000,0000,0000,,他们过去把轻元素聚变成重元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while they were fusing light elements into heavy elements,
+Dialogue: 0,0:19:05.28,0:19:07.26,*Default,NTP,0000,0000,0000,,就像太阳现在正在干的事 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as our Sun is doing right now.
+Dialogue: 0,0:19:07.37,0:19:11.75,*Default,NTP,0000,0000,0000,,它在花费着一生的积蓄这就是退休的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, it's spending its life savings, it's a retired star.
+Dialogue: 0,0:19:14.58,0:19:17.19,*Default,NTP,0000,0000,0000,,这也将是太阳的命运 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That will be the fate of our Sun.
+Dialogue: 0,0:19:17.77,0:19:21.13,*Default,NTP,0000,0000,0000,,但某些白矮星最后还能潇洒走一回 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But some white dwarfs can have one last hurrah,
+Dialogue: 0,0:19:21.28,0:19:24.55,*Default,NTP,0000,0000,0000,,多亏了某位朋友拔刀相助 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thanks to a friend who lends a helping hand.
+Dialogue: 0,0:19:25.38,0:19:28.68,*Default,NTP,0000,0000,0000,,因为尽管我们的太阳是宇宙浪人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because, although our Sun is a cosmic loner,
+Dialogue: 0,0:19:28.78,0:19:33.80,*Default,NTP,0000,0000,0000,,但是宇宙中超过半数的恒星至少有一名伴侣 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more than half of all stars travel through life with at least one companion.
+Dialogue: 0,0:19:34.46,0:19:39.52,*Default,NTP,0000,0000,0000,,多数恒星处于双星系统甚至多星系统 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most stars are members of binaries, or possibly even multiple star systems.
+Dialogue: 0,0:19:39.57,0:19:41.22,*Default,NTP,0000,0000,0000,,靠的很近的双星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Close binary stars
+Dialogue: 0,0:19:41.26,0:19:44.58,*Default,NTP,0000,0000,0000,,比起普通的单星命运截然不同 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can have very different fates from the ordinary single stars.
+Dialogue: 0,0:19:45.89,0:19:49.56,*Default,NTP,0000,0000,0000,,要是一颗白矮星和另一颗恒星互相吸引 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a white dwarf is gravitationally bound to another star
+Dialogue: 0,0:19:49.60,0:19:51.85,*Default,NTP,0000,0000,0000,,作为双星系统 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as part of a binary system,
+Dialogue: 0,0:19:51.89,0:19:55.60,*Default,NTP,0000,0000,0000,,它就能把对方毕生的血汗钱偷过来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it can essentially steal the lifeblood from its companion.
+Dialogue: 0,0:19:56.30,0:20:01.13,*Default,NTP,0000,0000,0000,,体积小但密度高的白矮星引力如此之强 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The small but dense white dwarf exerts such a strong gravitational pull
+Dialogue: 0,0:20:01.23,0:20:05.33,*Default,NTP,0000,0000,0000,,以至于能虹吸氢气 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it will start siphoning off a stream of hydrogen gas.
+Dialogue: 0,0:20:06.44,0:20:09.90,*Default,NTP,0000,0000,0000,,要是它能从对方星体那里获取物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it gathers material from a companion star,
+Dialogue: 0,0:20:09.96,0:20:12.95,*Default,NTP,0000,0000,0000,,就能增加自己的质量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and is able to grow in mass,
+Dialogue: 0,0:20:12.99,0:20:18.90,*Default,NTP,0000,0000,0000,,最终白矮星的质量到达无法稳定的极限 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then eventually, the mass of the white dwarf can reach an unstable limit,
+Dialogue: 0,0:20:18.94,0:20:22.41,*Default,NTP,0000,0000,0000,,大约太阳质量的40% \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}roughly 40% more than the mass of our Sun.
+Dialogue: 0,0:20:22.54,0:20:27.76,*Default,NTP,0000,0000,0000,,到那时白矮星将会发生灾难性的大爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At that point, the white dwarf undergoes a catastrophic explosion,
+Dialogue: 0,0:20:29.49,0:20:33.80,*Default,NTP,0000,0000,0000,,一切在转眼间灰飞烟灭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the whole thing goes off in a blinding flash.
+Dialogue: 0,0:20:33.84,0:20:38.40,*Default,NTP,0000,0000,0000,,我们称之为整颗恒星的"热失控" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What's called the "thermonuclear runaway" of the entire star.
+Dialogue: 0,0:20:40.09,0:20:44.86,*Default,NTP,0000,0000,0000,,这种顶级爆炸称为Ia型超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This mammoth explosion is known as a Type Ia Supernova.
+Dialogue: 0,0:20:45.80,0:20:48.43,*Default,NTP,0000,0000,0000,,要是我们的太阳这样虽然不会这样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, if our Sun were to do this, and it won't,
+Dialogue: 0,0:20:48.53,0:20:51.05,*Default,NTP,0000,0000,0000,,太阳会相对安静的死去…\Nit'll die in a relatively quiet way…
+Dialogue: 0,0:20:51.15,0:20:52.84,*Default,NTP,0000,0000,0000,,但如果真的这样大爆炸 你要准备好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if it were to do this, you'd need
+Dialogue: 0,0:20:52.88,0:20:55.97,*Default,NTP,0000,0000,0000,,几十亿瓶防晒霜或者防超新星霜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sunblock or supernova-block of a few billion
+Dialogue: 0,0:20:56.07,0:20:59.47,*Default,NTP,0000,0000,0000,,保护你自己免受灰飞烟灭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in order to protect yourself from the blinding flash.
+Dialogue: 0,0:21:02.96,0:21:07.08,*Default,NTP,0000,0000,0000,,加州大学伯克利实验室的天文学家亚历克·菲利潘科\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}University of California Berkeley astronomer, Alex Filippenko,
+Dialogue: 0,0:21:07.38,0:21:11.25,*Default,NTP,0000,0000,0000,,是全世界最成功的超新星猎手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is one of the world's most successful supernova hunters.
+Dialogue: 0,0:21:12.38,0:21:17.20,*Default,NTP,0000,0000,0000,,他的队伍在过去10年间发现了超过600颗超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}His team has found over 600 of them in the past decade.
+Dialogue: 0,0:21:17.44,0:21:19.00,*Default,NTP,0000,0000,0000,,真是难以置信的壮举 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An incredible feat
+Dialogue: 0,0:21:19.04,0:21:23.80,*Default,NTP,0000,0000,0000,,因为一个星系平均100年只会发生2次超新星爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}considering they occur perhaps twice per century in each galaxy.
+Dialogue: 0,0:21:25.57,0:21:26.93,*Default,NTP,0000,0000,0000,,搜寻超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Searching for supernovas
+Dialogue: 0,0:21:26.93,0:21:30.63,*Default,NTP,0000,0000,0000,,就好比在人山人海的足球场用肉眼扫描足球 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is akin to scanning a crowded football stadium with binoculars,
+Dialogue: 0,0:21:30.73,0:21:34.70,*Default,NTP,0000,0000,0000,,希望捕捉到某个在比赛中某一瞬间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in hopes of catching the one person who might be taking a flash photograph
+Dialogue: 0,0:21:34.74,0:21:36.70,*Default,NTP,0000,0000,0000,,突然进球的射手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a given point in time.
+Dialogue: 0,0:21:37.20,0:21:40.65,*Default,NTP,0000,0000,0000,,要是你面面俱到谁都观察 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were to look at each person individually, one by one,
+Dialogue: 0,0:21:40.86,0:21:42.21,*Default,NTP,0000,0000,0000,,那你将会很难做到 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would have a hard time
+Dialogue: 0,0:21:42.21,0:21:45.33,*Default,NTP,0000,0000,0000,,捕捉射手电光火石的一瞬间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}finding the person who happens to be taking a flash photo.
+Dialogue: 0,0:21:46.13,0:21:47.99,*Default,NTP,0000,0000,0000,,菲利潘科增加了他的发现几率 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Filippenko increases his odds
+Dialogue: 0,0:21:48.03,0:21:50.85,*Default,NTP,0000,0000,0000,,他的观测目标不是单颗恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by expanding his search beyond single stars,
+Dialogue: 0,0:21:50.89,0:21:53.44,*Default,NTP,0000,0000,0000,,甚至不是单个星系 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or even single galaxies.
+Dialogue: 0,0:21:53.60,0:21:57.85,*Default,NTP,0000,0000,0000,,想要成功他必须依赖一名高科技助手 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To do this he enlists the help of a very high-tech assistant.
+Dialogue: 0,0:21:58.69,0:22:01.78,*Default,NTP,0000,0000,0000,,这是一台机器搜索引擎 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this is a robotic search engine
+Dialogue: 0,0:22:01.82,0:22:04.68,*Default,NTP,0000,0000,0000,,探寻爆炸的恒星超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for exploding stars, supernovae.
+Dialogue: 0,0:22:04.82,0:22:09.70,*Default,NTP,0000,0000,0000,,它被编程为每个夜晚机械性地 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It has been programmed to robotically take photographs
+Dialogue: 0,0:22:09.74,0:22:12.37,*Default,NTP,0000,0000,0000,,拍下超过1000个星系的照片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of over a thousand galaxies a night,
+Dialogue: 0,0:22:12.60,0:22:16.02,*Default,NTP,0000,0000,0000,,那么一星期就能拍下7000到8000个星系的照片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and over the course of a week it does 7 or 8,000 galaxies,
+Dialogue: 0,0:22:16.07,0:22:18.26,*Default,NTP,0000,0000,0000,,然后重演过程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then it repeats the process
+Dialogue: 0,0:22:18.50,0:22:22.86,*Default,NTP,0000,0000,0000,,通过把星系的新照片对比老照片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comparing the new pictures of each galaxy with old pictures.
+Dialogue: 0,0:22:23.15,0:22:26.50,*Default,NTP,0000,0000,0000,,通常两张照片前后没啥变化 但偶然地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Usually there's nothing new in the new picture, but occasionally,
+Dialogue: 0,0:22:26.57,0:22:29.42,*Default,NTP,0000,0000,0000,,一颗恒星爆炸了超新星诞生了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a star blows up, a supernova goes off.
+Dialogue: 0,0:22:29.47,0:22:34.14,*Default,NTP,0000,0000,0000,,然后你在新照片那里就会发现一个亮点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then you can see in the new picture a bright point of light
+Dialogue: 0,0:22:34.19,0:22:37.38,*Default,NTP,0000,0000,0000,,老照片就没亮点 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that wasn't there in any the old pictures.
+Dialogue: 0,0:22:39.33,0:22:42.71,*Default,NTP,0000,0000,0000,,尽管超新星非常非常之亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Though a supernova is visually very, very bright,
+Dialogue: 0,0:22:43.02,0:22:49.18,*Default,NTP,0000,0000,0000,,但可见光只占其总能量的百分之一的百分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the visible light is only one percent of one percent of the total energy.
+Dialogue: 0,0:22:49.58,0:22:55.91,*Default,NTP,0000,0000,0000,,也就是巨大的爆炸发射的总能量的万分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}1/10,000 of the entire energy emitted by this colossal explosion.
+Dialogue: 0,0:22:58.69,0:23:03.18,*Default,NTP,0000,0000,0000,,尽管IA超新星是由白矮星演变而来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although type IA supernovas come from exploding white dwarfs,
+Dialogue: 0,0:23:04.62,0:23:07.76,*Default,NTP,0000,0000,0000,,还有其他许多被称为第二类超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}many others, known as Type II supernovas,
+Dialogue: 0,0:23:07.81,0:23:11.50,*Default,NTP,0000,0000,0000,,标志着更大质量恒星的戏剧性死亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}signal the dramatic deaths of much more massive stars,
+Dialogue: 0,0:23:11.59,0:23:15.20,*Default,NTP,0000,0000,0000,,也许质量比我们的太阳大8倍到10倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps 8 or 10 times more massive than the Sun.
+Dialogue: 0,0:23:16.57,0:23:18.66,*Default,NTP,0000,0000,0000,,不像他们的小辈们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike their smaller cousins,
+Dialogue: 0,0:23:18.70,0:23:21.49,*Default,NTP,0000,0000,0000,,大质量恒星耗尽氢燃料时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when massive stars exhaust their hydrogen fuel,
+Dialogue: 0,0:23:21.54,0:23:25.02,*Default,NTP,0000,0000,0000,,他们有原始动力聚变其他元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they have the raw power to start fusing other elements.
+Dialogue: 0,0:23:25.86,0:23:30.20,*Default,NTP,0000,0000,0000,,每次核反应留下的灰烬成为下次反应的燃料 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ashes of each set of nuclear reactions become fuel for the next,
+Dialogue: 0,0:23:30.24,0:23:34.36,*Default,NTP,0000,0000,0000,,所以在生命尽头时大质量恒星好比洋葱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that near the end of its life, a massive star resembles an onion
+Dialogue: 0,0:23:34.40,0:23:39.10,*Default,NTP,0000,0000,0000,,一环包着一环最外层是原始燃料氢 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in cross-section, with an outer layer of the original fuel, hydrogen,
+Dialogue: 0,0:23:39.16,0:23:43.73,*Default,NTP,0000,0000,0000,,包围着里面一层更比一层重的元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}surrounding layer after layer of heavier and heavier elements.
+Dialogue: 0,0:23:45.07,0:23:48.85,*Default,NTP,0000,0000,0000,,它的生命历程先是氢聚变成氦 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It goes through its normal life fusing hydrogen into helium,
+Dialogue: 0,0:23:48.90,0:23:51.46,*Default,NTP,0000,0000,0000,,然后氦聚变成碳和氧 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then helium into carbon and oxygen,
+Dialogue: 0,0:23:51.52,0:23:54.99,*Default,NTP,0000,0000,0000,,氧再聚变成氖和镁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then oxygen into neon and magnesium,
+Dialogue: 0,0:23:55.06,0:23:57.23,*Default,NTP,0000,0000,0000,,再聚变成硅和硫…\Nand then silicon and sulfur…
+Dialogue: 0,0:23:59.62,0:24:04.60,*Default,NTP,0000,0000,0000,,再聚变成铁 大质量恒星制造了一个铁核心 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then, iron. The massive star builds up a core of iron.
+Dialogue: 0,0:24:04.81,0:24:07.86,*Default,NTP,0000,0000,0000,,铁聚变成更重元素的过程 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fusion of iron into heavier elements
+Dialogue: 0,0:24:07.97,0:24:11.92,*Default,NTP,0000,0000,0000,,对恒星没有任何好处 不能保持恒星内部炙热 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}doesn't do the star any good, it doesn't keep the star hot inside,
+Dialogue: 0,0:24:12.07,0:24:14.59,*Default,NTP,0000,0000,0000,,因为把铁聚变成更重的元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because fusion of iron into heavier elements
+Dialogue: 0,0:24:14.74,0:24:19.04,*Default,NTP,0000,0000,0000,,需要吸收能量而非释放能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}requires energy and absorbs energy, it doesn't liberate energy.
+Dialogue: 0,0:24:20.00,0:24:22.78,*Default,NTP,0000,0000,0000,,所以铁核的形成没有聚变参与其中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the iron core builds up without fusing,
+Dialogue: 0,0:24:22.78,0:24:24.90,*Default,NTP,0000,0000,0000,,最终会变得不稳定 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventually becomes unstable,
+Dialogue: 0,0:24:25.45,0:24:30.74,*Default,NTP,0000,0000,0000,,一旦铁核达到太阳1.5倍质量时就会崩溃 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one it reaches something like 1.5 times the mass of our Sun, it collapses.
+Dialogue: 0,0:24:32.82,0:24:35.00,*Default,NTP,0000,0000,0000,,这种崩溃能量肆虐 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the collapse is violent.
+Dialogue: 0,0:24:35.71,0:24:39.00,*Default,NTP,0000,0000,0000,,半秒内地球大小的铁核 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Within half a second a core the size of the Earth
+Dialogue: 0,0:24:39.13,0:24:43.41,*Default,NTP,0000,0000,0000,,就坍缩成直径只有大约10英里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is crushed into an object roughly 10 miles across.
+Dialogue: 0,0:24:43.95,0:24:47.06,*Default,NTP,0000,0000,0000,,崩溃的铁核还会再度反弹 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For a moment the collapsing core rebounds,
+Dialogue: 0,0:24:47.10,0:24:49.59,*Default,NTP,0000,0000,0000,,撞击恒星的外层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}smashing into the outer layers of the star,
+Dialogue: 0,0:24:49.64,0:24:53.37,*Default,NTP,0000,0000,0000,,足以和宇宙最大的爆炸媲美 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and kicking off one of the most massive explosions in our Universe
+Dialogue: 0,0:24:53.51,0:24:55.37,*Default,NTP,0000,0000,0000,,自大爆炸以来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since the Big Bang.
+Dialogue: 0,0:24:56.55,0:24:58.68,*Default,NTP,0000,0000,0000,,铁核的坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The collapse of the iron core
+Dialogue: 0,0:24:58.94,0:25:03.23,*Default,NTP,0000,0000,0000,,在毁灭性的爆炸中使得恒星其他部分灰飞烟灭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}blows apart the rest of the star in a colossal explosion.
+Dialogue: 0,0:25:03.46,0:25:07.23,*Default,NTP,0000,0000,0000,,真是难以置信的奇观 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's truly an amazing, incredible event.
+Dialogue: 0,0:25:10.23,0:25:14.53,*Default,NTP,0000,0000,0000,,科学家深信超新星的爆炸对宇宙而言 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists are convinced that supernovas mean much more to the Universe
+Dialogue: 0,0:25:14.60,0:25:17.26,*Default,NTP,0000,0000,0000,,不仅仅是几道闪光 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than spectacular light shows.
+Dialogue: 0,0:25:17.85,0:25:21.10,*Default,NTP,0000,0000,0000,,这就是我们身边组成万物的重元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are in fact the source of the heavy elements
+Dialogue: 0,0:25:21.14,0:25:23.85,*Default,NTP,0000,0000,0000,,的来源 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that make up everything around us.
+Dialogue: 0,0:25:23.99,0:25:26.09,*Default,NTP,0000,0000,0000,,这个铸造厂生产的所有铁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All of the iron in this foundry
+Dialogue: 0,0:25:26.13,0:25:30.93,*Default,NTP,0000,0000,0000,,都来源于恒星爆炸剧烈的大爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}came from exploding stars, from gigantic explosions.
+Dialogue: 0,0:25:31.82,0:25:36.47,*Default,NTP,0000,0000,0000,,所有一切你现在看到的所有铁都来源于恒星爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All of it. All the iron you see everywhere came from exploding stars.
+Dialogue: 0,0:25:36.55,0:25:39.95,*Default,NTP,0000,0000,0000,,事实上所有比铁更重的元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And, in fact, all the elements heavier than iron
+Dialogue: 0,0:25:40.12,0:25:45.02,*Default,NTP,0000,0000,0000,,都直接或间接地来源于恒星爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}directly or indirectly were made by exploding stars.
+Dialogue: 0,0:25:45.55,0:25:51.38,*Default,NTP,0000,0000,0000,,这些元素被庞大的爆炸吹散到宇宙的四面八方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And those elements were ejected into the cosmos by these gargantuan explosions.
+Dialogue: 0,0:25:52.42,0:25:54.55,*Default,NTP,0000,0000,0000,,随着这些爆炸的产物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As material from these explosions
+Dialogue: 0,0:25:54.60,0:25:57.98,*Default,NTP,0000,0000,0000,,散播到整个宇宙 它又组成了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spread out through the Universe, it became the stuff of
+Dialogue: 0,0:25:58.02,0:26:04.56,*Default,NTP,0000,0000,0000,,行星 卫星 新恒星甚至更奇特的东西…\Nplanets, moons, new stars and something even more extraordinary…
+Dialogue: 0,0:26:08.74,0:26:12.80,*Default,NTP,0000,0000,0000,,要是你能把你的族谱追溯到最早 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you could trace your ancestry back to its earliest reaches,
+Dialogue: 0,0:26:13.40,0:26:17.16,*Default,NTP,0000,0000,0000,,你会发现你的祖宗就是爆炸的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would find an exploding star in your family tree.
+Dialogue: 0,0:26:20.81,0:26:23.89,*Default,NTP,0000,0000,0000,,我们的身体就是由恒星物质或星尘组成 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We are essentially made of star stuff, or stardust,
+Dialogue: 0,0:26:23.93,0:26:25.86,*Default,NTP,0000,0000,0000,,正如卡尔萨根常说的那样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as Carl Sagan used to say.
+Dialogue: 0,0:26:26.19,0:26:30.86,*Default,NTP,0000,0000,0000,,你身体内的元素并不平凡而是特殊 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The elements in your body, not just generically, but specifically,
+Dialogue: 0,0:26:30.98,0:26:35.24,*Default,NTP,0000,0000,0000,,你身体内比氢和氦重的元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the elements in your body heavier than hydrogen and helium,
+Dialogue: 0,0:26:35.35,0:26:38.42,*Default,NTP,0000,0000,0000,,来自很久以前死亡的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}came from long-dead stars.
+Dialogue: 0,0:26:38.92,0:26:42.27,*Default,NTP,0000,0000,0000,,你骨头里的钙呼吸的氧气 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The calcium in your bones, the oxygen that you breathe,
+Dialogue: 0,0:26:42.83,0:26:46.87,*Default,NTP,0000,0000,0000,,红细胞里的铁大多数细胞里的碳…\Nthe iron in your red bloodcells, the carbon in most of your cells…
+Dialogue: 0,0:26:46.97,0:26:52.68,*Default,NTP,0000,0000,0000,,所有这些元素都来源于恒星内部的核反应 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all those things were created in stars through nuclear reactions,
+Dialogue: 0,0:26:52.76,0:26:55.98,*Default,NTP,0000,0000,0000,,然后再被超新星发射出去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then ejected by supernovae.
+Dialogue: 0,0:26:56.25,0:26:58.97,*Default,NTP,0000,0000,0000,,最重的元素铁以及排在其后的元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the heaviest elements, iron and above,
+Dialogue: 0,0:26:59.06,0:27:03.74,*Default,NTP,0000,0000,0000,,都是由他们自己的爆炸超新星产生的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were produced by the explosions themselves, by the supernovae.
+Dialogue: 0,0:27:07.72,0:27:10.19,*Default,NTP,0000,0000,0000,,当第二类超新星爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the explosion of a Type II supernova
+Dialogue: 0,0:27:10.29,0:27:12.71,*Default,NTP,0000,0000,0000,,给全宇宙沐浴着重元素时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}showers the Universe with heavy elements,
+Dialogue: 0,0:27:13.08,0:27:16.84,*Default,NTP,0000,0000,0000,,爆炸恒星的核心还完好无损 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the core of the exploding star is left intact.
+Dialogue: 0,0:27:16.84,0:27:19.72,*Default,NTP,0000,0000,0000,,引力的使命就是摧毁它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Destroying that is gravity's job.
+Dialogue: 0,0:27:20.53,0:27:23.97,*Default,NTP,0000,0000,0000,,但想要使得比白矮星还小的核心坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But to crush the core any smaller than the size of a white dwarf,
+Dialogue: 0,0:27:24.25,0:27:29.39,*Default,NTP,0000,0000,0000,,就必须征服那股神奇的力电子简并压力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will have to overcome that strange force, electron degeneracy pressure.
+Dialogue: 0,0:27:30.11,0:27:32.76,*Default,NTP,0000,0000,0000,,引力其实有办法征服\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity actually finds a way of defeating
+Dialogue: 0,0:27:32.93,0:27:36.64,*Default,NTP,0000,0000,0000,,电子间互相排斥的趋势 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that tendency the electrons have to push each other apart,
+Dialogue: 0,0:27:36.98,0:27:40.56,*Default,NTP,0000,0000,0000,,通过把电子和质子融合形成中子 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by combining the electrons with the protons and turning them into neutrons.
+Dialogue: 0,0:27:40.83,0:27:44.89,*Default,NTP,0000,0000,0000,,现在整个物体基本全是由中子组成的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You now have an object which is made almost entirely out of neutrons,
+Dialogue: 0,0:27:45.00,0:27:50.07,*Default,NTP,0000,0000,0000,,引力获胜了整个系统能够进一步坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and gravity wins, it now allows the system to collapse further,
+Dialogue: 0,0:27:50.11,0:27:52.19,*Default,NTP,0000,0000,0000,,没有电子阻挡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there're no longer electrons stopping that,
+Dialogue: 0,0:27:52.19,0:27:53.56,*Default,NTP,0000,0000,0000,,引力似乎稳操胜券 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and gravity seems to win.
+Dialogue: 0,0:27:53.75,0:27:58.00,*Default,NTP,0000,0000,0000,,除了…中子他们好像同样不喜欢对方 \NExcept… neutrons, it turns out, also don't like each other,
+Dialogue: 0,0:27:58.10,0:28:01.05,*Default,NTP,0000,0000,0000,,结果演变成一个不能再小的稳定物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you end up with a new stable object even smaller,
+Dialogue: 0,0:28:01.09,0:28:03.53,*Default,NTP,0000,0000,0000,,密度更大称为"中子星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even more dense called a "Neutron Star".
+Dialogue: 0,0:28:04.95,0:28:09.32,*Default,NTP,0000,0000,0000,,比起普通的恒星中子星就是宇宙中的石子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Compared to normal stars, neutron stars are cosmic pebbles.
+Dialogue: 0,0:28:10.55,0:28:13.72,*Default,NTP,0000,0000,0000,,小到直径只有10英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can be as small as 10 miles across.
+Dialogue: 0,0:28:14.90,0:28:18.49,*Default,NTP,0000,0000,0000,,想象一下一颗比我们太阳大1.5倍的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So imagine that you take a star about 1.5 times the size of our Sun
+Dialogue: 0,0:28:18.77,0:28:23.68,*Default,NTP,0000,0000,0000,,把里面所有的物质压缩到一个极小的空间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then you compress all that material down into a very small space,
+Dialogue: 0,0:28:23.73,0:28:24.96,*Default,NTP,0000,0000,0000,,大约曼哈顿的大小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about the size of Manhattan.
+Dialogue: 0,0:28:26.00,0:28:28.12,*Default,NTP,0000,0000,0000,,中子星就这样诞生了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You just made yourself a neutron star.
+Dialogue: 0,0:28:29.44,0:28:33.19,*Default,NTP,0000,0000,0000,,把如此巨量的物质压缩到小小的空间 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Squeezing that amount of mass into such a small space
+Dialogue: 0,0:28:33.23,0:28:35.90,*Default,NTP,0000,0000,0000,,创造了一个密度超高的物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}makes for an extremely dense object.
+Dialogue: 0,0:28:36.37,0:28:41.79,*Default,NTP,0000,0000,0000,,一调羹中子星的物质重达十亿吨 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One teaspoon full of neutron star material would weigh a billion tons.
+Dialogue: 0,0:28:42.72,0:28:45.30,*Default,NTP,0000,0000,0000,,中子星是天文学家在宇宙中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neutron stars are some of the most exciting
+Dialogue: 0,0:28:45.44,0:28:48.81,*Default,NTP,0000,0000,0000,,研究的最激动人心 最怪异迷幻的天体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and weird objects in the Universe that astronomers study.
+Dialogue: 0,0:28:49.47,0:28:51.71,*Default,NTP,0000,0000,0000,,要是一个人站立在中子星上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If a human being were to stand on a neutron star,
+Dialogue: 0,0:28:51.75,0:28:54.29,*Default,NTP,0000,0000,0000,,那他的感觉会极为不适 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be a somewhat uncomfortable experience.
+Dialogue: 0,0:28:55.13,0:28:59.57,*Default,NTP,0000,0000,0000,,在地球上如果他们重150磅那么在中子星上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, if they weighed about 150 lbs. on a neutron star they would weigh
+Dialogue: 0,0:28:59.92,0:29:01.68,*Default,NTP,0000,0000,0000,,他们将会重达100亿吨 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}something like 10 billion tons.
+Dialogue: 0,0:29:02.12,0:29:04.88,*Default,NTP,0000,0000,0000,,我们的生物体承受不住这等压力 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our biology can't stand that amount of pressure
+Dialogue: 0,0:29:05.06,0:29:07.52,*Default,NTP,0000,0000,0000,,那么人体一定会被压成馅饼 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so, a human being would essentially be squashed flat
+Dialogue: 0,0:29:07.52,0:29:09.07,*Default,NTP,0000,0000,0000,,在中子星的表面上 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}against the surface of the star.
+Dialogue: 0,0:29:09.74,0:29:13.62,*Default,NTP,0000,0000,0000,,此外中子星的自转速度难以置信的快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In addition to that, neutron stars are spinning at an incredibly high rate.
+Dialogue: 0,0:29:13.90,0:29:16.40,*Default,NTP,0000,0000,0000,,有些甚至能达到每秒几百圈 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hundreds of times per second in some cases.
+Dialogue: 0,0:29:19.68,0:29:21.12,*Default,NTP,0000,0000,0000,,正是这种高速自转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's this rapid spin
+Dialogue: 0,0:29:21.20,0:29:25.35,*Default,NTP,0000,0000,0000,,使得天文学家能够初步判断中子星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that enabled astronomers to first identify neutron stars.
+Dialogue: 0,0:29:26.14,0:29:29.19,*Default,NTP,0000,0000,0000,,有些中子星真的自转很快 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some neutron stars are spinning really rapidly,
+Dialogue: 0,0:29:29.48,0:29:32.78,*Default,NTP,0000,0000,0000,,它们的磁场能量难以置信的高 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they have a really amazingly high magnetic field.
+Dialogue: 0,0:29:33.86,0:29:36.89,*Default,NTP,0000,0000,0000,,磁场连同自转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That magnetic field, together with the spin,
+Dialogue: 0,0:29:37.65,0:29:40.81,*Default,NTP,0000,0000,0000,,迫使一束带电粒子电子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}forces a bunch of charged particles, electrons,
+Dialogue: 0,0:29:41.13,0:29:45.06,*Default,NTP,0000,0000,0000,,沿着其磁场感应线运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to go along the axis of the magnetic field.
+Dialogue: 0,0:29:45.52,0:29:49.64,*Default,NTP,0000,0000,0000,,加速着电子放电的过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And those accelerated electrons give off light,
+Dialogue: 0,0:29:49.92,0:29:52.49,*Default,NTP,0000,0000,0000,,形成一道极为致密的光亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they produce a very focussed beam of light.
+Dialogue: 0,0:29:53.35,0:29:57.37,*Default,NTP,0000,0000,0000,,这就好比一座昼夜不息的灯塔 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, this is like a lighthouse whose beam is always on,
+Dialogue: 0,0:29:57.62,0:29:59.20,*Default,NTP,0000,0000,0000,,但是你只能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but you only see it
+Dialogue: 0,0:29:59.41,0:30:03.19,*Default,NTP,0000,0000,0000,,在灯塔光线进入你视野时看见它 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the lighthouse beam intersects your line of sight.
+Dialogue: 0,0:30:03.71,0:30:07.49,*Default,NTP,0000,0000,0000,,也就是是你能够看见中子星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a similar way, we might see the shining neutron star
+Dialogue: 0,0:30:07.60,0:30:10.51,*Default,NTP,0000,0000,0000,,只有当它把光线照向你时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only when the beam points at us.
+Dialogue: 0,0:30:10.63,0:30:13.27,*Default,NTP,0000,0000,0000,,这种天体称之为"脉冲星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That object is called a "Pulsar".
+Dialogue: 0,0:30:14.14,0:30:19.54,*Default,NTP,0000,0000,0000,,有些恒星质量之高大约是太阳质量的25倍或40倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some stars are so massive, perhaps 25 or 40 times the mass of the Sun,
+Dialogue: 0,0:30:19.95,0:30:24.37,*Default,NTP,0000,0000,0000,,就算是中子星也不能承受它们崩溃时自己的重量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that not even a neutron star can hold up under the weight of their collapse,
+Dialogue: 0,0:30:25.20,0:30:27.95,*Default,NTP,0000,0000,0000,,引力使之进一步坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and gravity will crash them even further,
+Dialogue: 0,0:30:28.05,0:30:30.47,*Default,NTP,0000,0000,0000,,变得密度出奇的大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into an object of infinite density
+Dialogue: 0,0:30:30.55,0:30:33.33,*Default,NTP,0000,0000,0000,,甚至密度几乎是无限大:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and almost equally limitless fascination:
+Dialogue: 0,0:30:33.42,0:30:34.77,*Default,NTP,0000,0000,0000,,黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a Black Hole.
+Dialogue: 0,0:30:36.73,0:30:40.35,*Default,NTP,0000,0000,0000,,可以说黑洞是恒星最顶级的死法 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In some sense, a black hole represents the ultimate death of a star.
+Dialogue: 0,0:30:40.55,0:30:45.95,*Default,NTP,0000,0000,0000,,黑洞就是引力彻底完胜质量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A black hole is basically gravity's victory over mass.
+Dialogue: 0,0:30:46.85,0:30:51.31,*Default,NTP,0000,0000,0000,,是恒星大质量恒星的完全坍缩 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is complete collapse of a star, a very massive star.
+Dialogue: 0,0:30:52.60,0:30:55.19,*Default,NTP,0000,0000,0000,,这种崩溃创造了一隅之地 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This collapse creates a region of space
+Dialogue: 0,0:30:55.26,0:30:58.59,*Default,NTP,0000,0000,0000,,那里物质被压缩到如此大的密度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where matter is compressed into such a high density
+Dialogue: 0,0:30:58.71,0:31:02.04,*Default,NTP,0000,0000,0000,,它的引力场无法被挣脱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that its gravitational field is inescapable.
+Dialogue: 0,0:31:02.66,0:31:05.36,*Default,NTP,0000,0000,0000,,黑洞真是奇异没有任何物体能逃脱那里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are remarkable and nothing can escape from them,
+Dialogue: 0,0:31:05.43,0:31:08.74,*Default,NTP,0000,0000,0000,,甚至连我们已知的最高速物体光都无法逃脱 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not even the fastest moving thing we know of, which is light.
+Dialogue: 0,0:31:08.91,0:31:11.38,*Default,NTP,0000,0000,0000,,你向那里打个手电筒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You shine a flashlight beam up
+Dialogue: 0,0:31:11.63,0:31:13.62,*Default,NTP,0000,0000,0000,,连光线都无法反射回来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and even it won't leave,
+Dialogue: 0,0:31:13.72,0:31:16.94,*Default,NTP,0000,0000,0000,,光线会被弯曲到黑洞里 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the beam will curve back around.
+Dialogue: 0,0:31:17.19,0:31:19.95,*Default,NTP,0000,0000,0000,,所以你无法从外界观察黑洞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, you won't be able to see it from the outside.
+Dialogue: 0,0:31:19.99,0:31:21.87,*Default,NTP,0000,0000,0000,,因此得名"黑洞" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hence the name "black hole".
+Dialogue: 0,0:31:23.80,0:31:25.28,*Default,NTP,0000,0000,0000,,一个普遍的误解是 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A common misperception
+Dialogue: 0,0:31:25.36,0:31:29.40,*Default,NTP,0000,0000,0000,,黑洞只是把宇宙万物使劲往里吸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that black holes just go sucking up everything in the Universe.
+Dialogue: 0,0:31:30.01,0:31:32.23,*Default,NTP,0000,0000,0000,,就好像宇宙真空吸尘器 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like cosmic vacuum cleaners
+Dialogue: 0,0:31:32.33,0:31:34.53,*Default,NTP,0000,0000,0000,,把附近所有东西吸进去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sucking up everything in their vicinity.
+Dialogue: 0,0:31:34.61,0:31:36.51,*Default,NTP,0000,0000,0000,,这其实不是真的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's actually not true.
+Dialogue: 0,0:31:36.59,0:31:40.66,*Default,NTP,0000,0000,0000,,离黑洞很近的物体的确会被吸进去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, objects that are very close to black holes do get sucked in,
+Dialogue: 0,0:31:40.74,0:31:43.08,*Default,NTP,0000,0000,0000,,但假如你离黑洞足够远的话 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but if you're comfortably far away,
+Dialogue: 0,0:31:43.18,0:31:46.64,*Default,NTP,0000,0000,0000,,运行轨迹合适的话就不会被吸进去 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the proper trajectory you won't get sucked in.
+Dialogue: 0,0:31:47.35,0:31:51.80,*Default,NTP,0000,0000,0000,,科学家长期怀疑是否还有另一类超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists have long suspected that there is yet another class of supernova
+Dialogue: 0,0:31:51.90,0:31:56.35,*Default,NTP,0000,0000,0000,,是更大质量恒星的更剧烈爆炸产生的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}involving even bigger stars and even more powerful explosions.
+Dialogue: 0,0:31:56.70,0:31:59.32,*Default,NTP,0000,0000,0000,,这种崩溃具有如此灾难性 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars that collapse so catastrophically
+Dialogue: 0,0:31:59.50,0:32:03.83,*Default,NTP,0000,0000,0000,,以至于没有留下任何残留物甚至黑洞也没留下 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they leave behind no remnant, not even a black hole.
+Dialogue: 0,0:32:04.42,0:32:06.67,*Default,NTP,0000,0000,0000,,但直到现在 还没有人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But no one had ever seen one
+Dialogue: 0,0:32:06.75,0:32:07.95,*Default,NTP,0000,0000,0000,,亲眼看见过 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until now.
+Dialogue: 0,0:32:10.87,0:32:12.80,*Default,NTP,0000,0000,0000,,已经诞生了几十亿年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even after billions of years,
+Dialogue: 0,0:32:12.90,0:32:16.56,*Default,NTP,0000,0000,0000,,但宇宙的原始动力仍使我们叹为观止 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Universe is still surprising us with its raw power.
+Dialogue: 0,0:32:17.35,0:32:19.33,*Default,NTP,0000,0000,0000,,在2006年秋天 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the fall of 2006,
+Dialogue: 0,0:32:20.32,0:32:23.52,*Default,NTP,0000,0000,0000,,天文学家观测到人类目睹的最大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers observed the largest stellar explosion
+Dialogue: 0,0:32:23.59,0:32:25.77,*Default,NTP,0000,0000,0000,,星体爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ever witnessed by Man.
+Dialogue: 0,0:32:26.48,0:32:29.59,*Default,NTP,0000,0000,0000,,远离地球24亿光年 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}240 million light years away from Earth,
+Dialogue: 0,0:32:29.98,0:32:32.96,*Default,NTP,0000,0000,0000,,一颗大质量恒星自爆了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a massive star blew itself apart.
+Dialogue: 0,0:32:34.04,0:32:37.95,*Default,NTP,0000,0000,0000,,亚历克·菲利潘科和他加利福尼亚大学伯克利实验室的团队 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Alex Filippenko and his team at the University of California, Berkeley,
+Dialogue: 0,0:32:38.03,0:32:41.34,*Default,NTP,0000,0000,0000,,被那次爆炸的威力征服了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were amazed at the power of the explosion.
+Dialogue: 0,0:32:42.12,0:32:46.95,*Default,NTP,0000,0000,0000,,发射的总能量有普通恒星爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the total energy emitted was 100 times as much
+Dialogue: 0,0:32:47.16,0:32:51.13,*Default,NTP,0000,0000,0000,,产生的能量100倍之多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the energy of a normal massive explosion.
+Dialogue: 0,0:32:52.21,0:32:56.01,*Default,NTP,0000,0000,0000,,那真是神奇威力无穷的大爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an amazing, really powerful explosion.
+Dialogue: 0,0:32:57.52,0:33:00.68,*Default,NTP,0000,0000,0000,,这里说的"普通"恒星爆炸其留下的超新星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A normal supernova comes from the explosion of a star
+Dialogue: 0,0:33:00.78,0:33:03.28,*Default,NTP,0000,0000,0000,,有我们太阳的10倍物质 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}10 times more massive than our Sun.
+Dialogue: 0,0:33:04.02,0:33:09.10,*Default,NTP,0000,0000,0000,,难以置信的是超新星2006GY 天文学家推测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Incredibly, supernova 2006GY, as astronomers have dubbed it,
+Dialogue: 0,0:33:09.30,0:33:11.52,*Default,NTP,0000,0000,0000,,似乎是一颗比太阳大150倍甚至200倍的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seems to have signalled the death of a star
+Dialogue: 0,0:33:11.61,0:33:15.22,*Default,NTP,0000,0000,0000,,恒星死亡而来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}150, or even 200 times more massive.
+Dialogue: 0,0:33:15.96,0:33:20.66,*Default,NTP,0000,0000,0000,,最大的恒星莫过于此 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's about as massive as a star can get.
+Dialogue: 0,0:33:21.44,0:33:25.05,*Default,NTP,0000,0000,0000,,科学家仍在研究这次爆炸的后果 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists are still studying the aftermath of the explosion,
+Dialogue: 0,0:33:25.49,0:33:28.46,*Default,NTP,0000,0000,0000,,但他们认为超新星2006GY\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they think supernova 2006GY
+Dialogue: 0,0:33:28.55,0:33:30.02,*Default,NTP,0000,0000,0000,,给我们留下许多参考 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has a lot to teach us
+Dialogue: 0,0:33:30.12,0:33:33.86,*Default,NTP,0000,0000,0000,,关于我们宇宙诞生的首批恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about the first stars that populated our Universe.
+Dialogue: 0,0:33:35.14,0:33:38.36,*Default,NTP,0000,0000,0000,,我们普遍认为第一代的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We actually think that the first generation of stars
+Dialogue: 0,0:33:38.46,0:33:40.24,*Default,NTP,0000,0000,0000,,都是超大质量的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tended to be really massive.
+Dialogue: 0,0:33:40.33,0:33:43.62,*Default,NTP,0000,0000,0000,,他们的爆炸可能就是这种机理 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they probably exploded by this mechanism.
+Dialogue: 0,0:33:44.51,0:33:46.49,*Default,NTP,0000,0000,0000,,正是这种超级爆炸 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's these mega-explosions
+Dialogue: 0,0:33:46.59,0:33:50.13,*Default,NTP,0000,0000,0000,,给早期的宇宙播种了重元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that likely seeded the early Universe with heavy elements.
+Dialogue: 0,0:33:51.18,0:33:53.35,*Default,NTP,0000,0000,0000,,这些超大质量恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These extremely massive stars
+Dialogue: 0,0:33:53.45,0:33:56.59,*Default,NTP,0000,0000,0000,,就是宇宙最大的炼钢厂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are the largest iron factories in the Universe.
+Dialogue: 0,0:33:57.39,0:34:01.03,*Default,NTP,0000,0000,0000,,仅仅一颗150倍太阳质量的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A single star, 150 times the mass of the Sun,
+Dialogue: 0,0:34:01.13,0:34:05.83,*Default,NTP,0000,0000,0000,,就能制造20-25倍太阳质量的铁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can produce 20 or 25 solar masses of iron.
+Dialogue: 0,0:34:06.22,0:34:07.67,*Default,NTP,0000,0000,0000,,真是不可思议 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's incredible.
+Dialogue: 0,0:34:09.23,0:34:12.33,*Default,NTP,0000,0000,0000,,生命的周而复始不仅发生在地球也发生在宇宙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the cycle of life, not only here on Earth but in the Cosmos,
+Dialogue: 0,0:34:13.05,0:34:16.86,*Default,NTP,0000,0000,0000,,当恒星死亡时 尤其是那些死得惊天动地的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as stars die, particularly those that die spectacular deaths,
+Dialogue: 0,0:34:17.43,0:34:19.48,*Default,NTP,0000,0000,0000,,大质量恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the high mass stars that manufactured
+Dialogue: 0,0:34:19.56,0:34:21.62,*Default,NTP,0000,0000,0000,,在核心制造重元素 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}heavy elements in their cores,
+Dialogue: 0,0:34:21.70,0:34:26.55,*Default,NTP,0000,0000,0000,,这就为新一代恒星的诞生播种然后…\Nthose give the seeds of the next generations of stars that then…
+Dialogue: 0,0:34:26.81,0:34:28.76,*Default,NTP,0000,0000,0000,,增加了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}increased the likelihood
+Dialogue: 0,0:34:28.87,0:34:31.21,*Default,NTP,0000,0000,0000,,下一代恒星可能拥有行星的可能性 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that that next generation will have planets,
+Dialogue: 0,0:34:31.33,0:34:34.83,*Default,NTP,0000,0000,0000,,这些行星能够自给自足 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and planets that contain ingredients of life itself.
+Dialogue: 0,0:34:37.41,0:34:42.14,*Default,NTP,0000,0000,0000,,超新星不仅是恒星诞生消亡的能量运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Supernovas aren't the only energetic events in the life and death of a star.
+Dialogue: 0,0:34:44.57,0:34:48.90,*Default,NTP,0000,0000,0000,,现在整个宇宙有千余对恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now, across the Universe, there're a thousand pairs of stars
+Dialogue: 0,0:34:49.01,0:34:51.75,*Default,NTP,0000,0000,0000,,在火焰的舞蹈中订婚 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}engaged in brilliant dances of fire.
+Dialogue: 0,0:34:52.80,0:34:56.39,*Default,NTP,0000,0000,0000,,某些舞蹈可能会以灾难告终 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For some this dance will end in catastrophe.
+Dialogue: 0,0:35:00.76,0:35:04.44,*Default,NTP,0000,0000,0000,,天体物理学家约书亚·巴恩斯来自夏威夷大学 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astrophysicist Joshua Barnes of the University of Hawaii,
+Dialogue: 0,0:35:04.50,0:35:07.73,*Default,NTP,0000,0000,0000,,专门研究恒星相撞的后果 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}studies what happens when stars collide.
+Dialogue: 0,0:35:09.86,0:35:12.58,*Default,NTP,0000,0000,0000,,我们没有荣幸能一睹恒星相撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't have the luxury of watching stars collide.
+Dialogue: 0,0:35:12.66,0:35:14.83,*Default,NTP,0000,0000,0000,,一对靠得足够近的恒星相撞时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A pair of stars as they draw close enough to collide
+Dialogue: 0,0:35:14.83,0:35:16.34,*Default,NTP,0000,0000,0000,,即使用我们最大的望远镜观察 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would just be a single dot of light,
+Dialogue: 0,0:35:16.39,0:35:18.99,*Default,NTP,0000,0000,0000,,也就是一个亮点而已 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even in the largest telescopes that we have.
+Dialogue: 0,0:35:19.07,0:35:22.88,*Default,NTP,0000,0000,0000,,所以我们必须用计算机探索这些目标 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, we need to investigate these things with a computer.
+Dialogue: 0,0:35:23.06,0:35:24.64,*Default,NTP,0000,0000,0000,,利用电脑模型 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Using computer models,
+Dialogue: 0,0:35:24.74,0:35:28.32,*Default,NTP,0000,0000,0000,,天体物理学家就能设定任意两种恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astrophysicists can take any two types of stars
+Dialogue: 0,0:35:28.44,0:35:32.52,*Default,NTP,0000,0000,0000,,看看他们的星际撞击会造成什么后果 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and find out what happens if they become involved in a stellar smash-up.
+Dialogue: 0,0:35:33.90,0:35:37.24,*Default,NTP,0000,0000,0000,,这些模型假设了状况 然后我们就观察结果 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The models pose hypothetical situations and then see what happens.
+Dialogue: 0,0:35:37.32,0:35:40.35,*Default,NTP,0000,0000,0000,,你可以把这想象成研究汽车相撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you can sort of imagine this is like studying collisions of cars,
+Dialogue: 0,0:35:40.41,0:35:43.60,*Default,NTP,0000,0000,0000,,你把车面对面放在停车场互相撞击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you were taking them out and smashing them together in the parking lot,
+Dialogue: 0,0:35:43.70,0:35:46.59,*Default,NTP,0000,0000,0000,,二虎相争看看结果如何？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one after the other to see what came out of that.
+Dialogue: 0,0:35:48.00,0:35:51.71,*Default,NTP,0000,0000,0000,,天体物理学家建立的模型中 最具破坏力的相撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Among the most explosive collisions modelled by astrophysicists
+Dialogue: 0,0:35:52.26,0:35:56.64,*Default,NTP,0000,0000,0000,,就是两颗共同转动的中子星的相撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the clash of two orbiting neutron stars.
+Dialogue: 0,0:35:56.69,0:35:59.86,*Default,NTP,0000,0000,0000,,通常他们的关系就是互相绕着对方转动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Typically, they're bound together as a pair orbiting one another
+Dialogue: 0,0:35:59.93,0:36:04.61,*Default,NTP,0000,0000,0000,,当他们转动时打乱了周围的时空 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and as they orbit they disturb the space-time* around them
+Dialogue: 0,0:36:04.65,0:36:06.42,*Default,NTP,0000,0000,0000,,创造了能量波 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and create waves of energy.
+Dialogue: 0,0:36:08.55,0:36:11.07,*Default,NTP,0000,0000,0000,,这种能量波使得中子星减速 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the energy to do that slows the stars down,
+Dialogue: 0,0:36:11.07,0:36:13.17,*Default,NTP,0000,0000,0000,,这样他们离对方就越来越近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so they get closer and closer together.
+Dialogue: 0,0:36:13.37,0:36:16.00,*Default,NTP,0000,0000,0000,,当他们靠近到一定程度时他们的转速 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As they get really close together, they're orbiting around
+Dialogue: 0,0:36:16.00,0:36:18.19,*Default,NTP,0000,0000,0000,,达到每秒上百转甚至上千转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hundreds or even thousands times per second.
+Dialogue: 0,0:36:18.30,0:36:20.93,*Default,NTP,0000,0000,0000,,最后的结果非常戏剧性 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The final event is very dramatic.
+Dialogue: 0,0:36:21.56,0:36:26.11,*Default,NTP,0000,0000,0000,,当两颗中子星相撞时他们的速度接近光速 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When two neutron stars collide, they're moving at nearly the speed of light.
+Dialogue: 0,0:36:27.00,0:36:30.75,*Default,NTP,0000,0000,0000,,虽然最后的撞击过程只有0点几秒 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although the final collision takes only a fraction of a second,
+Dialogue: 0,0:36:31.09,0:36:36.70,*Default,NTP,0000,0000,0000,,其释放的能量比太阳一辈子创造的能量还多得多 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it unleashes more energy than the Sun will generate in its entire lifetime.
+Dialogue: 0,0:36:39.31,0:36:42.72,*Default,NTP,0000,0000,0000,,多亏了电脑模型 我们能预测出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks to computer modelling we can also predict what would happen
+Dialogue: 0,0:36:42.76,0:36:46.55,*Default,NTP,0000,0000,0000,,如果一颗高密度白矮星和太阳相撞时会发生什么？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if a highly dense white dwarf collided with our Sun.
+Dialogue: 0,0:36:46.88,0:36:49.84,*Default,NTP,0000,0000,0000,,那将是惊天动地的撞击 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be a frightening collision.
+Dialogue: 0,0:36:51.12,0:36:55.23,*Default,NTP,0000,0000,0000,,靠近到一定程度时 白矮星的引力场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it got close enough, the gravitational field of the white dwarf
+Dialogue: 0,0:36:55.28,0:36:58.53,*Default,NTP,0000,0000,0000,,就会扭曲太阳太阳不再是球体了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would start to distort the Sun, so it would no longer remain a sphere,
+Dialogue: 0,0:36:58.59,0:37:02.07,*Default,NTP,0000,0000,0000,,靠近时太阳的形状变得像个鸡蛋 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would turn into an egg-shape as this thing came close.
+Dialogue: 0,0:37:03.61,0:37:07.83,*Default,NTP,0000,0000,0000,,随着白矮星以超音速撞击太阳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the white dwarf ploughs into the Sun at supersonic speed,
+Dialogue: 0,0:37:08.43,0:37:13.12,*Default,NTP,0000,0000,0000,,它的引力就会在整颗星球产生一道巨大的冲击波 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its gravity would send an enormous shockwave throughout the star.
+Dialogue: 0,0:37:15.62,0:37:18.75,*Default,NTP,0000,0000,0000,,释放出如此巨大的热核能 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that would produce so much thermonuclear energy
+Dialogue: 0,0:37:18.75,0:37:20.97,*Default,NTP,0000,0000,0000,,最终引爆太阳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to, essentially, explode the Sun.
+Dialogue: 0,0:37:23.48,0:37:26.40,*Default,NTP,0000,0000,0000,,令人惊奇的是只需仅仅1个小时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Amazingly, it would take only about an hour
+Dialogue: 0,0:37:26.50,0:37:31.20,*Default,NTP,0000,0000,0000,,白矮星就能撞击并歼灭太阳 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the white dwarf to plough through the Sun and annihilate it.
+Dialogue: 0,0:37:34.75,0:37:40.47,*Default,NTP,0000,0000,0000,,要是殃及池鱼 地球就会生灵涂炭 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If this scenario came to pass, life on Earth would be doomed.
+Dialogue: 0,0:37:43.45,0:37:46.31,*Default,NTP,0000,0000,0000,,所幸的是这种可能性微乎其微 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fortunately, the chances of this happening are slim,
+Dialogue: 0,0:37:46.39,0:37:50.83,*Default,NTP,0000,0000,0000,,因为太阳居住在银河系的穷乡僻壤 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the Sun is in a very uncrowded part of the Milky Way.
+Dialogue: 0,0:37:51.63,0:37:54.24,*Default,NTP,0000,0000,0000,,单颗恒星可谓孤家寡人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Individual stars are kind of jostling and weaving
+Dialogue: 0,0:37:54.31,0:37:57.39,*Default,NTP,0000,0000,0000,,当他们绕着银河系中心转一个大圈 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as they make their great circuit around the galactic centre.
+Dialogue: 0,0:37:58.19,0:38:00.77,*Default,NTP,0000,0000,0000,,交通状况虽然复杂 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, it's a complicated traffic situation,
+Dialogue: 0,0:38:00.92,0:38:03.54,*Default,NTP,0000,0000,0000,,但由于恒星间的距离足够的大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but because the space between the stars is so great
+Dialogue: 0,0:38:03.58,0:38:05.76,*Default,NTP,0000,0000,0000,,撞击可能性就很小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there's not much chance of a collision.
+Dialogue: 0,0:38:06.43,0:38:09.73,*Default,NTP,0000,0000,0000,,你要是想躺在沙滩上 静候着太阳和另一颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were to wait out here on this beach until you saw the collision
+Dialogue: 0,0:38:09.78,0:38:12.96,*Default,NTP,0000,0000,0000,,互相撞击那可真是守株待兔 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between the Sun and another Star, you would wait a long time.
+Dialogue: 0,0:38:13.46,0:38:16.23,*Default,NTP,0000,0000,0000,,终其一生 太阳大约\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even over its entire life, the Sun has probably
+Dialogue: 0,0:38:16.27,0:38:19.46,*Default,NTP,0000,0000,0000,,只有10亿分之一的几率和另一颗恒星相撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a billion in one chance of colliding with another star.
+Dialogue: 0,0:38:20.44,0:38:22.84,*Default,NTP,0000,0000,0000,,但星系里某些地方 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there are places within galaxies
+Dialogue: 0,0:38:22.88,0:38:25.98,*Default,NTP,0000,0000,0000,,恒星撞击的可能性就相当大 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the odds of a collision are much greater.
+Dialogue: 0,0:38:26.76,0:38:30.45,*Default,NTP,0000,0000,0000,,那里成百上千甚至几百万恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Regions where hundreds of thousands or even millions of stars
+Dialogue: 0,0:38:30.49,0:38:34.89,*Default,NTP,0000,0000,0000,,被引力聚到一块形成球状星团 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are crowded together by gravity into a globular cluster.
+Dialogue: 0,0:38:35.90,0:38:38.65,*Default,NTP,0000,0000,0000,,与银河系的螺旋臂相比 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Compared to the spiral arms of the Milky Way,
+Dialogue: 0,0:38:38.91,0:38:42.46,*Default,NTP,0000,0000,0000,,球状星团就好比碰碰车场 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a globular cluster is like a demolition derby.
+Dialogue: 0,0:38:50.10,0:38:53.74,*Default,NTP,0000,0000,0000,,银河系螺旋臂处2颗恒星的撞击几率 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The odds of two stars colliding in the spiral arms of our galaxy
+Dialogue: 0,0:38:53.78,0:38:56.42,*Default,NTP,0000,0000,0000,,只有10亿分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are only about one in a billion.
+Dialogue: 0,0:38:57.12,0:38:59.98,*Default,NTP,0000,0000,0000,,但在球状星团里恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But within a globular cluster, stars are packed
+Dialogue: 0,0:39:00.03,0:39:03.92,*Default,NTP,0000,0000,0000,,比银河系其他地方密集100万倍 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a million times more densely than elsewhere in the Milky way.
+Dialogue: 0,0:39:07.03,0:39:10.33,*Default,NTP,0000,0000,0000,,在银河系大家都朝一个方向运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the Milky Way everybody is pretty much going in the same direction,
+Dialogue: 0,0:39:11.44,0:39:14.93,*Default,NTP,0000,0000,0000,,但球状星团里全是无规则运动 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in a globular cluster there's no organized motion.
+Dialogue: 0,0:39:15.09,0:39:17.37,*Default,NTP,0000,0000,0000,,他们都围绕着一个中心转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're basically all orbiting around the centre
+Dialogue: 0,0:39:17.53,0:39:20.69,*Default,NTP,0000,0000,0000,,他们的轨道方向各不相同 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on orbits that are aligned in all sorts of different directions,
+Dialogue: 0,0:39:21.40,0:39:25.01,*Default,NTP,0000,0000,0000,,有些朝一个方向运动另一些正好反方向…\Nso some are going one way, some are going the opposite way…
+Dialogue: 0,0:39:25.20,0:39:29.67,*Default,NTP,0000,0000,0000,,在这种无序混沌的情况下恒星撞击几率 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In these crowded, chaotic conditions stars collide on average
+Dialogue: 0,0:39:29.68,0:39:31.70,*Default,NTP,0000,0000,0000,,平均1万年发生一次 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}once every 10,000 years.
+Dialogue: 0,0:39:34.37,0:39:38.12,*Default,NTP,0000,0000,0000,,星团内部的恒星大概是在相同时间段诞生的 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every star in a cluster was born at roughly the same time,
+Dialogue: 0,0:39:38.26,0:39:41.36,*Default,NTP,0000,0000,0000,,所以当天文学家观察一个老龄星团时 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so when astronomers look at an old cluster
+Dialogue: 0,0:39:41.40,0:39:44.36,*Default,NTP,0000,0000,0000,,别指望能发现任何年轻的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they don't expect to see any young stars,
+Dialogue: 0,0:39:44.95,0:39:50.72,*Default,NTP,0000,0000,0000,,但奇怪的是球状星团通常掩盖着一些神秘的陌生人 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but strangely a globular cluster usually conceals some mysterious strangers.
+Dialogue: 0,0:39:51.10,0:39:56.43,*Default,NTP,0000,0000,0000,,巨大的蓝色恒星远远比周围那些小小的昏暗恒星年轻 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Large blue stars, far younger than the small dim stars surrounding them.
+Dialogue: 0,0:39:57.07,0:39:59.37,*Default,NTP,0000,0000,0000,,这些不可思议的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These seemingly impossible stars
+Dialogue: 0,0:39:59.41,0:40:02.05,*Default,NTP,0000,0000,0000,,被称为"蓝掉队星" \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are known as "Blue Stragglers".
+Dialogue: 0,0:40:03.05,0:40:05.20,*Default,NTP,0000,0000,0000,,蓝掉队星的神秘之处是 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The mystery of blue stragglers is that they're,
+Dialogue: 0,0:40:05.24,0:40:07.76,*Default,NTP,0000,0000,0000,,比他们本该有的年龄小 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in some sense, younger than they have any right to be.
+Dialogue: 0,0:40:08.00,0:40:11.51,*Default,NTP,0000,0000,0000,,拥有如此质量和光亮的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All of the stars of that mass and that luminosity
+Dialogue: 0,0:40:11.62,0:40:15.36,*Default,NTP,0000,0000,0000,,在这些星团里本该几十亿前就消亡了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have died off billions of years ago in these clusters,
+Dialogue: 0,0:40:15.40,0:40:18.14,*Default,NTP,0000,0000,0000,,谜团是它们从何而来 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so the puzzle is, where do these things come from,
+Dialogue: 0,0:40:18.18,0:40:20.30,*Default,NTP,0000,0000,0000,,当初如何进入球状星团 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how did they get into the star clusters.
+Dialogue: 0,0:40:21.60,0:40:25.64,*Default,NTP,0000,0000,0000,,天体物理学家约书亚·巴恩斯认为自己知道答案 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astrophysicist Joshua Barnes thinks he knows the answer.
+Dialogue: 0,0:40:25.89,0:40:29.01,*Default,NTP,0000,0000,0000,,他认为蓝掉队星是二颗年老\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He believes blue stragglers are the result of collisions
+Dialogue: 0,0:40:29.06,0:40:32.72,*Default,NTP,0000,0000,0000,,昏暗主序恒星相撞后的产物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between older and dimmer main sequence stars.
+Dialogue: 0,0:40:33.52,0:40:36.58,*Default,NTP,0000,0000,0000,,2颗主序恒星的相撞 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A collision of two main sequence stars,
+Dialogue: 0,0:40:36.62,0:40:39.72,*Default,NTP,0000,0000,0000,,比如两颗太阳那样的恒星撞击其实相对轻微 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}two Sun-like stars, is actually relatively gentle.
+Dialogue: 0,0:40:40.78,0:40:44.96,*Default,NTP,0000,0000,0000,,恒星互相间的引力把自己锁在自螺旋内 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The mutual gravity of the stars locks them in a spiral.
+Dialogue: 0,0:40:46.07,0:40:48.63,*Default,NTP,0000,0000,0000,,它们会失去动能 最终会回归\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They've lost energy of motion and they will come back
+Dialogue: 0,0:40:48.63,0:40:50.62,*Default,NTP,0000,0000,0000,,然后多次相遇 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and have multiple subsequent passages.
+Dialogue: 0,0:40:50.85,0:40:54.67,*Default,NTP,0000,0000,0000,,温度上升变得红肿有点互相绕着对方旋转 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They heat up and swell up and kind of spiral around each other,
+Dialogue: 0,0:40:54.67,0:40:56.22,*Default,NTP,0000,0000,0000,,相遇几次 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}making several passes,
+Dialogue: 0,0:40:56.41,0:40:58.01,*Default,NTP,0000,0000,0000,,每次相遇距离被拉近 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}each closer than the last one,
+Dialogue: 0,0:40:58.01,0:41:00.95,*Default,NTP,0000,0000,0000,,直到最后融合成一颗恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until they finally come together and the stars merge.
+Dialogue: 0,0:41:04.67,0:41:07.73,*Default,NTP,0000,0000,0000,,最后并非引爆一场大灾难 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the end, rather than triggering a catastrophe,
+Dialogue: 0,0:41:07.94,0:41:12.58,*Default,NTP,0000,0000,0000,,两颗恒星互相融合形成一个更大质量的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the two stars merge to form one more massive star.
+Dialogue: 0,0:41:13.14,0:41:17.87,*Default,NTP,0000,0000,0000,,你要做的就是把两颗小体积老年恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What you're basically doing is taking two small old stars,
+Dialogue: 0,0:41:18.02,0:41:22.68,*Default,NTP,0000,0000,0000,,把他们捆在一起并成为一颗2倍质量的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}piling* them together to make one star now which is twice as massive,
+Dialogue: 0,0:41:22.86,0:41:25.39,*Default,NTP,0000,0000,0000,,因此质量更大亮度越高更蓝 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and therefore being more massive it's brighter and bluer
+Dialogue: 0,0:41:25.49,0:41:27.33,*Default,NTP,0000,0000,0000,,比起星团内其他恒星而言 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the rest of the stars in the cluster.
+Dialogue: 0,0:41:27.44,0:41:30.64,*Default,NTP,0000,0000,0000,,所以它似乎没跟上其他恒星的脚步 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it seems to be straggling behind the rest of the stars.
+Dialogue: 0,0:41:34.38,0:41:37.95,*Default,NTP,0000,0000,0000,,蓝掉队星之谜似乎被解开了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the mystery of the blue stragglers seems to have been solved,
+Dialogue: 0,0:41:38.10,0:41:41.34,*Default,NTP,0000,0000,0000,,天空中还有很多不同寻常的天体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the heavens are bursting with unusual objects
+Dialogue: 0,0:41:41.34,0:41:43.81,*Default,NTP,0000,0000,0000,,大胆的科学推测也难以解释 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that dare science to explain them.
+Dialogue: 0,0:41:44.68,0:41:48.53,*Default,NTP,0000,0000,0000,,黑洞中子星白矮星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes, neutron stars and white dwarfs,
+Dialogue: 0,0:41:48.57,0:41:52.97,*Default,NTP,0000,0000,0000,,都代表着风光一时的恒星消亡 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all represent the end of remarkable stellar lives.
+Dialogue: 0,0:41:54.03,0:41:59.46,*Default,NTP,0000,0000,0000,,但有些天体一辈子也没机会发出光亮 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But there are other strange celestial objects that never got a chance to shine.
+Dialogue: 0,0:42:00.30,0:42:06.56,*Default,NTP,0000,0000,0000,,不是行星也不是恒星 这些是灰矮星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not quite planets, not quite stars, these are the brown dwarfs.
+Dialogue: 0,0:42:06.95,0:42:09.91,*Default,NTP,0000,0000,0000,,灰矮星是一颗报废的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A brown dwarf is basically a failed star.
+Dialogue: 0,0:42:10.71,0:42:16.52,*Default,NTP,0000,0000,0000,,夏威夷大学的天文学家刘·迈克尔搜寻着这些难以捉摸的物体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}University of Hawaii astronomer Michael Liu, searches for these elusive objects.
+Dialogue: 0,0:42:17.06,0:42:20.07,*Default,NTP,0000,0000,0000,,只要恒星能放出大量光线 它们就内在很远处被观测到 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars produce a lot of light, they're very easy to see a long way away.
+Dialogue: 0,0:42:20.15,0:42:21.85,*Default,NTP,0000,0000,0000,,灰矮星的温度非常低 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The brown dwarfs are very low temperature
+Dialogue: 0,0:42:21.89,0:42:24.20,*Default,NTP,0000,0000,0000,,所以只发出一点点光线 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so they emit very, very little light.
+Dialogue: 0,0:42:24.52,0:42:26.30,*Default,NTP,0000,0000,0000,,正因为它们如此暗淡 也就是说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because they're so dim, it means
+Dialogue: 0,0:42:26.34,0:42:29.03,*Default,NTP,0000,0000,0000,,我们只有在近距离才能看到它们 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we can only see them if they're very close to us.
+Dialogue: 0,0:42:29.94,0:42:33.31,*Default,NTP,0000,0000,0000,,灰矮星的物质成分和恒星一样 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A brown dwarf has the same ingredients as a star,
+Dialogue: 0,0:42:33.43,0:42:37.81,*Default,NTP,0000,0000,0000,,只不过它没有足够的物质维持核聚变 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it simply doesn't have enough mass to sustain nuclear fusion.
+Dialogue: 0,0:42:37.93,0:42:40.89,*Default,NTP,0000,0000,0000,,它诞生之初质量就不到太阳的百分之一 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's something that's borne with less than 1% the mass of the Sun,
+Dialogue: 0,0:42:41.02,0:42:43.10,*Default,NTP,0000,0000,0000,,所以不能给自己创造足够的能量 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it can't produce its own energy,
+Dialogue: 0,0:42:43.14,0:42:44.99,*Default,NTP,0000,0000,0000,,本质上就是报废的恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's essentially a failed star.
+Dialogue: 0,0:42:45.38,0:42:50.39,*Default,NTP,0000,0000,0000,,没有核聚变 这些报废的恒星更像是行星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without fusion, these failed stars start to act more like planets.
+Dialogue: 0,0:42:50.66,0:42:54.68,*Default,NTP,0000,0000,0000,,假如你乘坐太空飞船飞过灰矮星表面 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were flying in a spaceship across the surface of the star,
+Dialogue: 0,0:42:54.83,0:42:57.68,*Default,NTP,0000,0000,0000,,你不会看到任何像是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you wouldn't really see anything that looked like
+Dialogue: 0,0:42:57.68,0:43:00.07,*Default,NTP,0000,0000,0000,,云 山之类的景物 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}clouds or mountains or anything like that.
+Dialogue: 0,0:43:00.19,0:43:03.69,*Default,NTP,0000,0000,0000,,当你进入灰矮星一切就变了 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When you go to a brown dwarf things begin to change.
+Dialogue: 0,0:43:04.39,0:43:07.08,*Default,NTP,0000,0000,0000,,我们认为灰矮星的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We think their atmospheres in some ways might be similar
+Dialogue: 0,0:43:07.13,0:43:10.79,*Default,NTP,0000,0000,0000,,类似于大质量行星 比如木星的大气层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to things like very massive versions of the planet Jupiter.
+Dialogue: 0,0:43:11.18,0:43:12.69,*Default,NTP,0000,0000,0000,,要是你熟悉木星的照片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're familiar with pictures of Jupiter
+Dialogue: 0,0:43:12.74,0:43:16.01,*Default,NTP,0000,0000,0000,,你就会看见木星带状结构及其表面的云层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you see Jupiter has also a banding structure and clouds on its surface.
+Dialogue: 0,0:43:16.19,0:43:18.90,*Default,NTP,0000,0000,0000,,虽然我们从未拍摄到灰矮星表面的照片 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although we've never taken a picture of the surface of a brown dwarf,
+Dialogue: 0,0:43:18.94,0:43:22.15,*Default,NTP,0000,0000,0000,,我们认为灰矮星有着类似的云层结构 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we think brown dwarfs may also have a similar cloud structure.
+Dialogue: 0,0:43:23.35,0:43:26.48,*Default,NTP,0000,0000,0000,,这些不是我们地球上那种通常的云层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These aren't normal kinds of clouds like we know about on the Earth,
+Dialogue: 0,0:43:26.53,0:43:29.45,*Default,NTP,0000,0000,0000,,铁蒸汽组成了这些云层 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have iron vapour making these clouds,
+Dialogue: 0,0:43:29.53,0:43:31.82,*Default,NTP,0000,0000,0000,,然后云层的厚度到达一定程度 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then the clouds may get thick enough
+Dialogue: 0,0:43:31.82,0:43:34.98,*Default,NTP,0000,0000,0000,,这些云竟然会下起铁雨 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you get iron droplets raining out of the clouds.
+Dialogue: 0,0:43:35.10,0:43:38.96,*Default,NTP,0000,0000,0000,,显然没人愿意住在那里 因为那可是融化的铁 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Obviously a person wouldn't want to be there 'cause these are molten iron.
+Dialogue: 0,0:43:40.49,0:43:45.09,*Default,NTP,0000,0000,0000,,至今为止科学家们仅仅发现了200多颗灰矮星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To date astronomers have located only a couple hundred brown dwarfs,
+Dialogue: 0,0:43:45.13,0:43:49.05,*Default,NTP,0000,0000,0000,,这些难以捉摸的星体仍有许多未解之谜 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they still have many questions about these elusive objects.
+Dialogue: 0,0:43:49.21,0:43:51.64,*Default,NTP,0000,0000,0000,,问题是科学家知道有些灰矮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For one, they know some brown dwarfs
+Dialogue: 0,0:43:51.68,0:43:54.49,*Default,NTP,0000,0000,0000,,周围环绕着碟状的尘埃和气体 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have discs of dust and gas around them.
+Dialogue: 0,0:43:56.06,0:43:59.34,*Default,NTP,0000,0000,0000,,这些碟状物是否会演化成行星？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Might those discs form into planets?
+Dialogue: 0,0:43:59.99,0:44:03.65,*Default,NTP,0000,0000,0000,,这还只是众多未解之谜的冰山一角 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's just one of many mysteries yet to be solved
+Dialogue: 0,0:44:03.65,0:44:06.43,*Default,NTP,0000,0000,0000,,随着我们继续探究恒星 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we continue to probe the stars.
+Dialogue: 0,0:44:07.24,0:44:11.31,*Default,NTP,0000,0000,0000,,现在科学家们已经揭示了宇宙是一个魔幻领域 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But already, science has revealed the Universe to be a magical realm
+Dialogue: 0,0:44:11.35,0:44:15.59,*Default,NTP,0000,0000,0000,,里面有着矮星 巨星 掉队星和超新星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of dwarfs and giants, stragglers and supernovas,
+Dialogue: 0,0:44:15.78,0:44:18.78,*Default,NTP,0000,0000,0000,,隐藏在恒星爆炸的历史中 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and hidden within the explosive life story of stars
+Dialogue: 0,0:44:18.83,0:44:21.78,*Default,NTP,0000,0000,0000,,他们已经发现了宇宙历史许多篇章 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they have found the very history of the Cosmos,
+Dialogue: 0,0:44:21.85,0:44:26.18,*Default,NTP,0000,0000,0000,,以及探寻我们起源的钥匙 \N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a key to understanding our own origins.
+Dialogue: 0,0:44:27.80,0:44:32.80,*Default,NTP,0000,0000,0000,,谢谢观赏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks For Viewing

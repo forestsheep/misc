@@ -1,0 +1,705 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:34.43,0:01:38.38,Default,,0,0,0008,,{\blur3}宇宙:地球的灾难时刻
+Dialogue: 0,0:07:39.39,0:07:42.69,Default,,0,0,0008,,{\an8\blur3}太阳系后期重轰炸期
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:22.28,0:00:25.46,Default,,0,0,0,,{\blur3}在其40多亿年的存在时间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Throughout its more than 4 billion years of existence,{\r}
+Dialogue: 0,0:00:26.16,0:00:30.00,Default,,0,0,0,,{\blur3}地球经历了一些极其险恶的状况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planet Earth has endured some extremely rough days,{\r}
+Dialogue: 0,0:00:30.97,0:00:33.01,Default,,0,0,0,,{\blur3}但是最险恶的是什么呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but what were the very worst?{\r}
+Dialogue: 0,0:00:33.52,0:00:37.75,Default,,0,0,0,,{\blur3}是和相距过近的行星发生碰撞吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Was it a shadowing encounter with a planet that got too close?{\r}
+Dialogue: 0,0:00:38.56,0:00:41.48,Default,,0,0,0,,{\blur3}不管当时有什么 肯定也都灰飞烟灭了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had anything been there, it definitely wouldn't have survived.{\r}
+Dialogue: 0,0:00:42.23,0:00:44.54,Default,,0,0,0,,{\blur3}还是炽热的致命射线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or a hot shower of deadly rays{\r}
+Dialogue: 0,0:00:44.59,0:00:47.21,Default,,0,0,0,,{\blur3}几乎把地球上的生命扫荡一空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that almost scoured the planet clean of life?{\r}
+Dialogue: 0,0:00:49.26,0:00:51.80,Default,,0,0,0,,{\blur3}后续的热浪涌向四面八方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The blast from the impact would have laid waves{\r}
+Dialogue: 0,0:00:51.84,0:00:53.37,Default,,0,0,0,,{\blur3}辐射范围达到数千公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to thousand miles in every direction.{\r}
+Dialogue: 0,0:00:53.65,0:00:55.41,Default,,0,0,0,,{\blur3}可以算得上是全球范围的声波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's literally the sound waves around the world.{\r}
+Dialogue: 0,0:00:55.81,0:00:59.37,Default,,0,0,0,,{\blur3}从摧毁一切的失控火山活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From runaway volcanism that led to vast extinctions{\r}
+Dialogue: 0,0:00:59.69,0:01:03.34,Default,,0,0,0,,{\blur3}到引发了全球深度冻结的微生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to tiny microbes that triggered a global deep freeze.{\r}
+Dialogue: 0,0:01:04.05,0:01:06.77,Default,,0,0,0,,{\blur3}生命在灭绝的边缘 摇摇欲坠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Life is teetered perilously close to the break,{\r}
+Dialogue: 0,0:01:06.91,0:01:08.62,Default,,0,0,0,,{\blur3}一次又一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}time and time again.{\r}
+Dialogue: 0,0:01:08.79,0:01:13.71,Default,,0,0,0,,{\blur3}此次生物灭绝数量之多 可能空前绝后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}More life died then, than any time since and maybe any time before.{\r}
+Dialogue: 0,0:01:13.83,0:01:15.79,Default,,0,0,0,,{\blur3}这是史上范围最广程度最惨烈的灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was the biggest and the baddest of them all.{\r}
+Dialogue: 0,0:01:16.47,0:01:21.17,Default,,0,0,0,,{\blur3}最黑暗的时候已过去 还是潜伏在未来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Are the darkest hours behind us or lurking in the distant future?{\r}
+Dialogue: 0,0:01:22.43,0:01:28.04,Default,,0,0,0,,{\blur3}做好准备 我们要倒数地球的七次灾难了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Take cover as we count down the seven worst days on planet Earth.{\r}
+Dialogue: 0,0:01:46.03,0:01:48.54,Default,,0,0,0,,{\blur3}也许你认为你经历过一些困难的时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You may think you've had some really rough days{\r}
+Dialogue: 0,0:01:50.09,0:01:52.30,Default,,0,0,0,,{\blur3}比如严重的堵车{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stuck in gridlock traffic,{\r}
+Dialogue: 0,0:01:53.20,0:01:56.17,Default,,0,0,0,,{\blur3}上班途中人山人海{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dodging the sea of humanity on their way to work{\r}
+Dialogue: 0,0:01:57.19,0:02:00.72,Default,,0,0,0,,{\blur3}遭遇一场暴雨或暴风雪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or trapped in a torrential down pour or blizzard.{\r}
+Dialogue: 0,0:02:01.86,0:02:04.10,Default,,0,0,0,,{\blur3}但是这些情况跟地球的七次灾难相比{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But they can't even begin to compare{\r}
+Dialogue: 0,0:02:04.10,0:02:07.45,Default,,0,0,0,,{\blur3}完全就是小巫见大巫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the seven worst days on planet Earth.{\r}
+Dialogue: 0,0:02:11.94,0:02:15.60,Default,,0,0,0,,{\blur3}纵观历史 地球遭遇过一些极其恶劣的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Throughout its history earth has experienced some really bad days,{\r}
+Dialogue: 0,0:02:15.61,0:02:18.15,Default,,0,0,0,,{\blur3}灭绝生命的 创造生命的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}days that have killed off life, created life,{\r}
+Dialogue: 0,0:02:18.15,0:02:20.21,Default,,0,0,0,,{\blur3}以及重塑整个地球的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}restructured the planet as a whole.{\r}
+Dialogue: 0,0:02:20.25,0:02:23.31,Default,,0,0,0,,{\blur3}所有这些才形成了现今的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of this together has formed the Earth that we live on today,{\r}
+Dialogue: 0,0:02:23.31,0:02:24.90,Default,,0,0,0,,{\blur3}但是那些时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but during those really bad days{\r}
+Dialogue: 0,0:02:24.90,0:02:26.81,Default,,0,0,0,,{\blur3}我们绝对不想去经历{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we certainly wouldn't want to be here.{\r}
+Dialogue: 0,0:02:28.01,0:02:29.64,Default,,0,0,0,,{\blur3}在我们看来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}From our point of view,{\r}
+Dialogue: 0,0:02:29.80,0:02:32.33,Default,,0,0,0,,{\blur3}地球确实经历过一些灾难时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth has been through some pretty rough days.{\r}
+Dialogue: 0,0:02:32.33,0:02:36.10,Default,,0,0,0,,{\blur3}灾难性的冲击极大地改变了地貌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Catastrophic impacts that have really changed the face of the planet{\r}
+Dialogue: 0,0:02:36.10,0:02:39.46,Default,,0,0,0,,{\blur3}改变了植物群和动物群{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and changed the makeup of the flora and fauna,{\r}
+Dialogue: 0,0:02:39.46,0:02:41.71,Default,,0,0,0,,{\blur3}即地球上所有动植物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the animals and plants on the planet.{\r}
+Dialogue: 0,0:02:42.40,0:02:46.11,Default,,0,0,0,,{\blur3}灾难时刻之一发生在地球的早期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of Earth's worst days came early in its history{\r}
+Dialogue: 0,0:02:46.17,0:02:49.52,Default,,0,0,0,,{\blur3}一颗飞来横星猛冲而来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when an uninvited guest barged into our neighborhood{\r}
+Dialogue: 0,0:02:49.63,0:02:54.78,Default,,0,0,0,,{\blur3}在生命出现之际便将其扼杀在摇篮中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and threatened to destroy the planet before life had a chance to blossom.{\r}
+Dialogue: 0,0:02:56.95,0:03:00.08,Default,,0,0,0,,{\blur3}现在我们就来探索地球第七大灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's dig in as the 7th worst day on Earth...{\r}
+Dialogue: 0,0:03:01.02,0:03:02.61,Default,,0,0,0,,{\blur3}忒伊亚星撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Theia impact.{\r}
+Dialogue: 0,0:03:09.37,0:03:11.81,Default,,0,0,0,,{\blur3}大约在45亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About 4.5 billion years ago{\r}
+Dialogue: 0,0:03:12.01,0:03:14.74,Default,,0,0,0,,{\blur3}我们的太阳系是一片战场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our solar system was a battle zone.{\r}
+Dialogue: 0,0:03:17.71,0:03:22.30,Default,,0,0,0,,{\blur3}巨砾相互碰撞 融合 形成行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giant boulders collided and coalesced to form planets.{\r}
+Dialogue: 0,0:03:24.43,0:03:28.82,Default,,0,0,0,,{\blur3}早期的地球在灼烧形成之后不断遭到袭击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Infant Earth took hit after searing hit.{\r}
+Dialogue: 0,0:03:29.97,0:03:31.87,Default,,0,0,0,,{\blur3}如果我们有时光机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we could somehow magically transport ourselves{\r}
+Dialogue: 0,0:03:31.87,0:03:33.74,Default,,0,0,0,,{\blur3}回到早期的地球时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}back in time to be in the time to be on the early Earth{\r}
+Dialogue: 0,0:03:33.74,0:03:34.80,Default,,0,0,0,,{\blur3}我认为那会非常有意思{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it'd be very interesting, I think,{\r}
+Dialogue: 0,0:03:34.80,0:03:37.04,Default,,0,0,0,,{\blur3}能够亲眼看看那些大事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to watch one of these large impact events.{\r}
+Dialogue: 0,0:03:37.74,0:03:39.32,Default,,0,0,0,,{\blur3}地球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The surface of the Earth itself{\r}
+Dialogue: 0,0:03:39.32,0:03:41.98,Default,,0,0,0,,{\blur3}炽热到接近熔点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was probably heated to a nearly molten state.{\r}
+Dialogue: 0,0:03:42.19,0:03:44.03,Default,,0,0,0,,{\blur3}大气层布满灰尘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The atmosphere would be very dusty,{\r}
+Dialogue: 0,0:03:44.03,0:03:45.49,Default,,0,0,0,,{\blur3}十分炎热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you'd be very hot.{\r}
+Dialogue: 0,0:03:45.59,0:03:46.14,Default,,0,0,0,,{\blur3}那是一个我们完全陌生的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, it would be a very alien world to us{\r}
+Dialogue: 0,0:03:47.82,0:03:49.58,Default,,0,0,0,,{\blur3}人类不可能生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one that we couldn't actually survive on{\r}
+Dialogue: 0,0:03:49.58,0:03:52.03,Default,,0,0,0,,{\blur3}不能像现在这样站在这里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just standing like we are here today.{\r}
+Dialogue: 0,0:03:52.22,0:03:53.85,Default,,0,0,0,,{\blur3}石块不断撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Pounding by incoming rocks,{\r}
+Dialogue: 0,0:03:54.25,0:03:58.07,Default,,0,0,0,,{\blur3}地球逐渐增至近似现在的体积{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth slowly grew to nearly its present size.{\r}
+Dialogue: 0,0:03:58.41,0:04:00.53,Default,,0,0,0,,{\blur3}有一个坚硬的地壳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Developing a solid crust,{\r}
+Dialogue: 0,0:04:00.67,0:04:01.88,Default,,0,0,0,,{\blur3}厚实的地幔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a thick mantel,{\r}
+Dialogue: 0,0:04:02.13,0:04:03.57,Default,,0,0,0,,{\blur3}铁质地核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an iron core{\r}
+Dialogue: 0,0:04:03.85,0:04:06.41,Default,,0,0,0,,{\blur3}和炎热的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a hot stormy atmosphere.{\r}
+Dialogue: 0,0:04:07.17,0:04:10.81,Default,,0,0,0,,{\blur3}有些人推测那时的生命非常脆弱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some speculate that life may have taken a tenuous hold{\r}
+Dialogue: 0,0:04:11.30,0:04:13.86,Default,,0,0,0,,{\blur3}但之后 就是灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but then disaster.{\r}
+Dialogue: 0,0:04:14.97,0:04:17.15,Default,,0,0,0,,{\blur3}邻近一颗叫忒伊亚的行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A neighboring planet named Theia{\r}
+Dialogue: 0,0:04:17.29,0:04:20.04,Default,,0,0,0,,{\blur3}试图挤入地球的公转轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}had been edging into Earth's orbital path.{\r}
+Dialogue: 0,0:04:21.27,0:04:25.01,Default,,0,0,0,,{\blur3}此次入侵以最具灾难性的形式结束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The intrusion ended in the most disastrous way imaginable...{\r}
+Dialogue: 0,0:04:26.19,0:04:28.23,Default,,0,0,0,,{\blur3}世界大碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A collision of worlds.{\r}
+Dialogue: 0,0:04:29.21,0:04:30.92,Default,,0,0,0,,{\blur3}这是一次十分惨烈的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was a very violent event.{\r}
+Dialogue: 0,0:04:30.92,0:04:33.62,Default,,0,0,0,,{\blur3}想象一下 火星质量的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine something the mass of Mars,{\r}
+Dialogue: 0,0:04:33.63,0:04:35.13,Default,,0,0,0,,{\blur3}即地球质量的一成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about 10% the mass of the Earth{\r}
+Dialogue: 0,0:04:35.44,0:04:37.14,Default,,0,0,0,,{\blur3}从太空飞奔而来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whacking in from space{\r}
+Dialogue: 0,0:04:37.14,0:04:38.73,Default,,0,0,0,,{\blur3}将自己撞得粉身碎骨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and blowing all its material.{\r}
+Dialogue: 0,0:04:40.57,0:04:42.69,Default,,0,0,0,,{\blur3}那时地球表面的所有物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever was on the Earth at that time,{\r}
+Dialogue: 0,0:04:42.73,0:04:45.49,Default,,0,0,0,,{\blur3}都因这次事件面目全非{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was radically changed by this event.{\r}
+Dialogue: 0,0:04:48.22,0:04:51.43,Default,,0,0,0,,{\blur3}当火星那么大的行星撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When a Mars size object whacked in to the Earth,{\r}
+Dialogue: 0,0:04:51.52,0:04:52.76,Default,,0,0,0,,{\blur3}这可是地球的灾难日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was a bad day on Earth.{\r}
+Dialogue: 0,0:04:52.89,0:04:55.59,Default,,0,0,0,,{\blur3}不管当时有什么 肯定也都灰飞烟灭了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had anything been there, it definitely wouldn't have survived.{\r}
+Dialogue: 0,0:04:57.74,0:05:02.04,Default,,0,0,0,,{\blur3}整个灾难历时数小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It took hours for the full scope of the catastrophe to unfold.{\r}
+Dialogue: 0,0:05:02.55,0:05:05.19,Default,,0,0,0,,{\blur3}随着两颗星球内核的融化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the cores of the two planets melted,{\r}
+Dialogue: 0,0:05:05.23,0:05:08.28,Default,,0,0,0,,{\blur3}地球的大气层物质被撞击飞向太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth's atmosphere was blasted into space.{\r}
+Dialogue: 0,0:05:09.59,0:05:14.04,Default,,0,0,0,,{\blur3}在超过一千摄氏度的高温下 地壳融化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its crust liquified at over 2,000 degrees Fahrenheit,{\r}
+Dialogue: 0,0:05:15.61,0:05:19.10,Default,,0,0,0,,{\blur3}地球和忒伊亚星地幔的大部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and vast portions of both Earth's and Theia's mantels,{\r}
+Dialogue: 0,0:05:19.13,0:05:21.33,Default,,0,0,0,,{\blur3}被抛射进入轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were rejected into orbit.{\r}
+Dialogue: 0,0:05:23.12,0:05:25.41,Default,,0,0,0,,{\blur3}这跟电影里演的不一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not at all like what you see in the movies.{\r}
+Dialogue: 0,0:05:25.41,0:05:27.34,Default,,0,0,0,,{\blur3}你可以坐下喝上一杯咖啡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You could sit down and have a cup of coffee{\r}
+Dialogue: 0,0:05:27.34,0:05:28.89,Default,,0,0,0,,{\blur3}发现还没撞完{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's still going on!{\r}
+Dialogue: 0,0:05:28.93,0:05:32.15,Default,,0,0,0,,{\blur3}大块物体撞击得花费很长时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These, like you know, big objects take a long time to incur,{\r}
+Dialogue: 0,0:05:32.15,0:05:36.39,Default,,0,0,0,,{\blur3}子弹打穿墙体那种火光可比不了这个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so these aren't the normal flashes you'd think about bullets hitting a wall.{\r}
+Dialogue: 0,0:05:38.31,0:05:42.81,Default,,0,0,0,,{\blur3}这些喷射出的物质形成了一条巨大的轨道环{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bloom of ejected material created a vast orbital ring{\r}
+Dialogue: 0,0:05:42.91,0:05:46.34,Default,,0,0,0,,{\blur3}之后逐渐融合为地球的新伙伴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before coalescing into a new companion for the Earth.{\r}
+Dialogue: 0,0:05:47.67,0:05:49.96,Default,,0,0,0,,{\blur3}这就是新生的月球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The new born, Moon.{\r}
+Dialogue: 0,0:05:51.37,0:05:54.43,Default,,0,0,0,,{\blur3}那颗成熟的星球和地球合为一体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That fully fledged planet merged with the Earth.{\r}
+Dialogue: 0,0:05:54.43,0:05:56.57,Default,,0,0,0,,{\blur3}两颗星内部铁质内核融合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The iron cores would have come together,{\r}
+Dialogue: 0,0:05:56.57,0:05:59.91,Default,,0,0,0,,{\blur3}含硅的地幔物质留在地球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and their silicon mantels were left on the Earth{\r}
+Dialogue: 0,0:05:59.91,0:06:04.57,Default,,0,0,0,,{\blur3}并且形成了环绕地球的碟状带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and also it created into a disc that was orbiting the Earth.{\r}
+Dialogue: 0,0:06:06.58,0:06:10.71,Default,,0,0,0,,{\blur3}这个碟状带的大部分物质撞击回地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This disc most of it came back and crashed back on to the Earth{\r}
+Dialogue: 0,0:06:10.80,0:06:11.97,Default,,0,0,0,,{\blur3}但有一部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but then a portion of it{\r}
+Dialogue: 0,0:06:12.38,0:06:15.49,Default,,0,0,0,,{\blur3}重新组合 逐渐被越推越远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}reformed and over time has been pushed out{\r}
+Dialogue: 0,0:06:15.49,0:06:16.98,Default,,0,0,0,,{\blur3}最后形成了月球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's become the Moon.{\r}
+Dialogue: 0,0:06:19.13,0:06:23.15,Default,,0,0,0,,{\blur3}足足过了1.5亿年 地球形态才稳定下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It took about 150 million years for Earth to stabilize{\r}
+Dialogue: 0,0:06:23.15,0:06:25.85,Default,,0,0,0,,{\blur3}融化的地壳逐渐冷却凝固{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and its molten crust to reharden.{\r}
+Dialogue: 0,0:06:26.63,0:06:30.37,Default,,0,0,0,,{\blur3}尽管忒伊亚星撞击对地球来说是灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But although the Theia impact was a very bad day on Earth,{\r}
+Dialogue: 0,0:06:31.56,0:06:36.04,Default,,0,0,0,,{\blur3}但有助于地球形成适宜生命存在的条件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was a very good day for its ability to sustain life.{\r}
+Dialogue: 0,0:06:37.50,0:06:41.72,Default,,0,0,0,,{\blur3}月球形成后 地球的自转轴稳定了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When the Moon formed, it stabilized Earth's axis of rotation{\r}
+Dialogue: 0,0:06:41.72,0:06:44.22,Default,,0,0,0,,{\blur3}否则来自其他星球的重力牵引{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}otherwise gravitational tugs from other planets{\r}
+Dialogue: 0,0:06:44.22,0:06:46.70,Default,,0,0,0,,{\blur3}将导致地球混乱无序地变动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have caused it to chaotically vary{\r}
+Dialogue: 0,0:06:46.70,0:06:50.90,Default,,0,0,0,,{\blur3}而这样就会对严重破坏长期气候稳定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that would have been bad for a long-term climate stability.{\r}
+Dialogue: 0,0:06:53.50,0:06:55.58,Default,,0,0,0,,{\blur3}如果这种影响没有产生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Would we even have life as we know it{\r}
+Dialogue: 0,0:06:55.58,0:06:57.61,Default,,0,0,0,,{\blur3}地球上能否有生命存在呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if that impact had not taken place?{\r}
+Dialogue: 0,0:06:57.63,0:07:01.01,Default,,0,0,0,,{\blur3}如果没有月亮 那么热带地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Without a moon, you could really have a case with your tropics{\r}
+Dialogue: 0,0:07:01.42,0:07:05.19,Default,,0,0,0,,{\blur3}在经过几百万年后 可能会转过来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}within hundreds of thousands of years, could rotate{\r}
+Dialogue: 0,0:07:05.19,0:07:08.09,Default,,0,0,0,,{\blur3}变成像两极地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and become the Arctic or the Antarctic{\r}
+Dialogue: 0,0:07:08.09,0:07:09.52,Default,,0,0,0,,{\blur3}这样所有生物就会死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you kill everything.{\r}
+Dialogue: 0,0:07:12.83,0:07:14.38,Default,,0,0,0,,{\blur3}当冲击结束后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the impact over,{\r}
+Dialogue: 0,0:07:14.42,0:07:17.36,Default,,0,0,0,,{\blur3}月球提供了轨道稳定性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the Moon now providing orbital stability{\r}
+Dialogue: 0,0:07:17.61,0:07:20.91,Default,,0,0,0,,{\blur3}地球的情况貌似安稳下来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the stage seems set for a quiet future.{\r}
+Dialogue: 0,0:07:21.91,0:07:23.70,Default,,0,0,0,,{\blur3}但事与愿违{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that was not to be.{\r}
+Dialogue: 0,0:07:24.55,0:07:27.70,Default,,0,0,0,,{\blur3}行星形成 月球形成 皆大欢喜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You formed the planets, you formed the Moon, everyone's happy{\r}
+Dialogue: 0,0:07:28.07,0:07:31.20,Default,,0,0,0,,{\blur3}但是突然间可怕的事情就发生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and all of a sudden something terrible happens.{\r}
+Dialogue: 0,0:07:31.80,0:07:35.38,Default,,0,0,0,,{\blur3}地球又一次的被卷入到一场浩劫中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth was suddenly caught in the cross fire once again.{\r}
+Dialogue: 0,0:07:36.94,0:07:38.75,Default,,0,0,0,,{\blur3}第六大地球灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Number six on our countdown of worst days...{\r}
+Dialogue: 0,0:07:40.30,0:07:42.57,Default,,0,0,0,,{\blur3}太阳系后期重轰炸期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Late Heavy Bombardment.{\r}
+Dialogue: 0,0:07:48.71,0:07:52.69,Default,,0,0,0,,{\blur3}在忒伊亚撞击过去约一亿五千万年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Approximately 150 million years after the Theia impact,{\r}
+Dialogue: 0,0:07:52.94,0:07:55.12,Default,,0,0,0,,{\blur3}地壳冷却了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth's crust cooled.{\r}
+Dialogue: 0,0:07:55.89,0:08:01.05,Default,,0,0,0,,{\blur3}一些人推测 早期大洋甚至生命或已形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some speculate that early oceans and even life may have evolved.{\r}
+Dialogue: 0,0:08:01.64,0:08:05.40,Default,,0,0,0,,{\blur3}但另一场大灾难将把这一切切摧毁殆尽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But another cataclysm would wipe the slate clean.{\r}
+Dialogue: 0,0:08:07.90,0:08:10.57,Default,,0,0,0,,{\blur3}在太阳系的边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the far reaches of the Solar System{\r}
+Dialogue: 0,0:08:10.57,0:08:14.53,Default,,0,0,0,,{\blur3}外太阳系的巨大气体行星轨道开始波动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the orbit of the outer gas giants began to fluctuate{\r}
+Dialogue: 0,0:08:14.53,0:08:18.46,Default,,0,0,0,,{\blur3}干扰了大量的彗星以及小行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}disrupting vast swarms of asteroids and comets.{\r}
+Dialogue: 0,0:08:19.79,0:08:22.12,Default,,0,0,0,,{\blur3}数兆颗小行星脱离了原始轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Trillions broke loose from their orbits{\r}
+Dialogue: 0,0:08:22.12,0:08:24.91,Default,,0,0,0,,{\blur3}并且朝着一颗布满岩石的行星冲来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and plunged inward towards the rocky planets,{\r}
+Dialogue: 0,0:08:25.33,0:08:28.22,Default,,0,0,0,,{\blur3}开始了一段炙热的毁灭浩劫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}launching an era of fiery destruction{\r}
+Dialogue: 0,0:08:28.39,0:08:31.08,Default,,0,0,0,,{\blur3}也就是我们所知的后期重轰炸期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}known as the late heavy bombardment.{\r}
+Dialogue: 0,0:08:33.61,0:08:37.78,Default,,0,0,0,,{\blur3}我们知道有德州大小的陨石撞上地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know asteroids of the size of Texas hit the Earth.{\r}
+Dialogue: 0,0:08:38.27,0:08:42.66,Default,,0,0,0,,{\blur3}任何该体积的陨石撞击都会导致大洋的消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Any impact that big causes the entire ocean to go away.{\r}
+Dialogue: 0,0:08:46.43,0:08:48.98,Default,,0,0,0,,{\blur3}地球一次又一次的变成不毛之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We sterilize the Earth over and over and over{\r}
+Dialogue: 0,0:08:48.98,0:08:53.51,Default,,0,0,0,,{\blur3}所以我们推断 地球上的生命不断进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so the inference we have is that life evolved over and over and over{\r}
+Dialogue: 0,0:08:53.51,0:08:57.41,Default,,0,0,0,,{\blur3}但是总是被这些陨石冲击所摧毁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just to be snuffed down again by these large impacts.{\r}
+Dialogue: 0,0:09:00.72,0:09:03.46,Default,,0,0,0,,{\blur3}无休止的陨石轰炸形成了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The relentless bombardment gouged down craters{\r}
+Dialogue: 0,0:09:03.46,0:09:05.32,Default,,0,0,0,,{\blur3}数千英里宽的环形山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}thousands of miles wide{\r}
+Dialogue: 0,0:09:05.54,0:09:11.03,Default,,0,0,0,,{\blur3}而这些陨石冲击持续了至少两亿年之久{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the hits just kept coming for at least 200 million years.{\r}
+Dialogue: 0,0:09:15.51,0:09:19.90,Default,,0,0,0,,{\blur3}今日 历经数十亿年的侵蚀和板块运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Today, billions of years of erosion and shifting plaque tectonics{\r}
+Dialogue: 0,0:09:19.90,0:09:24.05,Default,,0,0,0,,{\blur3}当年那些陨石冲击的痕迹已经消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have erased any trace of the cataclysm from the Earth's surface.{\r}
+Dialogue: 0,0:09:29.48,0:09:33.14,Default,,0,0,0,,{\blur3}但在月球上的环形山就不一样了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it is a different story on the crater face of the Moon.{\r}
+Dialogue: 0,0:09:37.42,0:09:41.49,Default,,0,0,0,,{\blur3}我们可以很清楚的看到月球表面上的痕迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can see very clearly its record on the face of the Moon.{\r}
+Dialogue: 0,0:09:41.49,0:09:46.02,Default,,0,0,0,,{\blur3}熔岩区就是在这次巨大冲击下形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The lava field basins were formed during the giant impact events{\r}
+Dialogue: 0,0:09:46.03,0:09:48.52,Default,,0,0,0,,{\blur3}也就是在地球的后期重轰炸期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that occurred during the late heavy bombardment{\r}
+Dialogue: 0,0:09:48.52,0:09:53.00,Default,,0,0,0,,{\blur3}所以我们便知在这期间有大型物体撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so we know that large objects hit the Earth during this time.{\r}
+Dialogue: 0,0:09:56.01,0:09:58.05,Default,,0,0,0,,{\blur3}但是这些天国的怒火{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But this celestial reign of fire{\r}
+Dialogue: 0,0:09:58.11,0:09:59.70,Default,,0,0,0,,{\blur3}或许还带来了希望之光[银光]{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may have had a silver lining.{\r}
+Dialogue: 0,0:10:00.18,0:10:00.87,Default,,0,0,0,,{\blur3}确实如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Literally.{\r}
+Dialogue: 0,0:10:02.56,0:10:05.40,Default,,0,0,0,,{\blur3}最新证据表明 在后期重轰炸期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}New evidence suggests the late heavy bombardment{\r}
+Dialogue: 0,0:10:05.60,0:10:08.39,Default,,0,0,0,,{\blur3}给地球表面带来的贵金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}delivered precious metals to the surface of Earth.{\r}
+Dialogue: 0,0:10:09.64,0:10:12.99,Default,,0,0,0,,{\blur3}例如 银 金和铂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Things like silver, gold and platinum.{\r}
+Dialogue: 0,0:10:15.29,0:10:17.34,Default,,0,0,0,,{\blur3}地球上原先的这些贵金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth's original store these elements{\r}
+Dialogue: 0,0:10:17.37,0:10:22.60,Default,,0,0,0,,{\blur3}随着地球慢慢变冷 已沉入地心铁核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}had sunken in its molten iron core as the planet slowly cooled.{\r}
+Dialogue: 0,0:10:23.99,0:10:27.05,Default,,0,0,0,,{\blur3}但是现在地球表面早已固化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now with the planet already solidified,{\r}
+Dialogue: 0,0:10:27.77,0:10:31.47,Default,,0,0,0,,{\blur3}这种贵金属仍贮藏在地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this new supply of materials remain near the surface{\r}
+Dialogue: 0,0:10:32.02,0:10:34.84,Default,,0,0,0,,{\blur3}未来人类可进行开采{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}able to be mined by future humans.{\r}
+Dialogue: 0,0:10:35.91,0:10:40.27,Default,,0,0,0,,{\blur3}我们今天的科技极其依赖这些重金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Today's technologies depend on a lot of the heavy elements that{\r}
+Dialogue: 0,0:10:40.37,0:10:43.19,Default,,0,0,0,,{\blur3}是通过陨石/彗星撞击地球而得来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}were delivered to the Earth through impacts.{\r}
+Dialogue: 0,0:10:43.75,0:10:46.92,Default,,0,0,0,,{\blur3}所以 这也许对地球上的生命是个灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, it may have been very difficult for the life,{\r}
+Dialogue: 0,0:10:46.92,0:10:49.71,Default,,0,0,0,,{\blur3}如果在重轰炸期有生命存在的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if there were life on Earth during the heavy bombardment{\r}
+Dialogue: 0,0:10:49.80,0:10:52.53,Default,,0,0,0,,{\blur3}但是这对地壳却是件好事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it was very good for the Earth's crust{\r}
+Dialogue: 0,0:10:52.53,0:10:55.77,Default,,0,0,0,,{\blur3}因为它们的冲击给地表带来了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to have all these materials that we now depend on{\r}
+Dialogue: 0,0:10:55.86,0:10:58.54,Default,,0,0,0,,{\blur3}这些我们赖以生存的材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}delivered to the surface of Earth through impacts.{\r}
+Dialogue: 0,0:11:00.88,0:11:05.76,Default,,0,0,0,,{\blur3}后期重轰炸期实乃对地球火的洗礼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The late heavy bombardment was Earth's true baptism by fire.{\r}
+Dialogue: 0,0:11:07.35,0:11:12.48,Default,,0,0,0,,{\blur3}但是现在该轮到第五大地球灾难时刻了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now as we reach number five on our countdown of our planet's worst days,{\r}
+Dialogue: 0,0:11:13.03,0:11:16.30,Default,,0,0,0,,{\blur3}地球经历了有史以来最严寒的时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth catches the worst cold in history.{\r}
+Dialogue: 0,0:11:16.93,0:11:19.76,Default,,0,0,0,,{\blur3}一场极寒的气候危机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A climatic crisis so chilling{\r}
+Dialogue: 0,0:11:19.76,0:11:24.59,Default,,0,0,0,,{\blur3}让地球上的生命差点冻结在进化历程上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that life itself was in danger of being frozen in its tracks.{\r}
+Dialogue: 0,0:11:32.80,0:11:36.11,Default,,0,0,0,,{\blur3}忒伊亚大冲击和后期重轰炸期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Both the Theia impact and the late heavy bombardment{\r}
+Dialogue: 0,0:11:36.11,0:11:38.76,Default,,0,0,0,,{\blur3}都让地球变成了一片火海{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}turned Earth into an inferno.{\r}
+Dialogue: 0,0:11:40.63,0:11:45.68,Default,,0,0,0,,{\blur3}现在继续倒数 地球七大灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now as we continue our countdown of the 7 worst days on Earth{\r}
+Dialogue: 0,0:11:45.83,0:11:47.69,Default,,0,0,0,,{\blur3}我们回到从前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we escape forward in time{\r}
+Dialogue: 0,0:11:47.73,0:11:52.91,Default,,0,0,0,,{\blur3}到达不是炙热而是极寒的灾难时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a catastrophe not of fire, but of all encompassing ice.{\r}
+Dialogue: 0,0:11:55.80,0:11:57.96,Default,,0,0,0,,{\blur3}第五大灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Number five on our countdown.{\r}
+Dialogue: 0,0:11:58.30,0:12:02.69,Default,,0,0,0,,{\blur3}也就是被称为"雪地球"的冰冻灾难期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The frozen cataclysm known as Snowball Earth.{\r}
+Dialogue: 0,0:12:04.06,0:12:07.76,Default,,0,0,0,,{\blur3}"雪地球"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Snowball Earth{\r}
+Dialogue: 0,0:12:07.84,0:12:09.41,Default,,0,0,0,,{\blur3}地球曾经历过一些灾难日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We had these bad days{\r}
+Dialogue: 0,0:12:09.43,0:12:13.04,Default,,0,0,0,,{\blur3}但雪地球期可远远不止一天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and snowball Earth is much longer than a bad day.{\r}
+Dialogue: 0,0:12:13.13,0:12:15.31,Default,,0,0,0,,{\blur3}它是长达数十万年的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a bad hundreds of thousands of years.{\r}
+Dialogue: 0,0:12:15.70,0:12:18.48,Default,,0,0,0,,{\blur3}雪地球期使整个行星变成了一个大雪地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Snowball Earth is that the planet, it goes all snowball.{\r}
+Dialogue: 0,0:12:18.69,0:12:21.10,Default,,0,0,0,,{\blur3}它让地球冷到整个大洋都冻住了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It cools enough that the oceans freeze,{\r}
+Dialogue: 0,0:12:21.39,0:12:24.73,Default,,0,0,0,,{\blur3}大洋的冰层厚达三 六 十五米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}down to 10 ft., 20, 50 ft. thick...{\r}
+Dialogue: 0,0:12:25.18,0:12:27.63,Default,,0,0,0,,{\blur3}想象一下我们现在看到的北冰洋就知道了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine the Arctic Sea ice we see now,{\r}
+Dialogue: 0,0:12:27.63,0:12:28.97,Default,,0,0,0,,{\blur3}只不过当时整个地球都是如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}except the whole planet has that.{\r}
+Dialogue: 0,0:12:30.04,0:12:34.53,Default,,0,0,0,,{\blur3}在一般的冰河期中 冰川会入侵温带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During a typical ice age, glaciers invade the temperate zones{\r}
+Dialogue: 0,0:12:34.57,0:12:38.83,Default,,0,0,0,,{\blur3}最远至现在纽约和巴黎的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}often reaching as far south as modern New York or Paris.{\r}
+Dialogue: 0,0:12:40.17,0:12:43.95,Default,,0,0,0,,{\blur3}但在雪地球期 冰川仍锐势不减{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But during Snowball Earth, the glaciers just kept coming{\r}
+Dialogue: 0,0:12:43.95,0:12:46.73,Default,,0,0,0,,{\blur3}直到包围了整个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until they had encircled the entire planet{\r}
+Dialogue: 0,0:12:46.73,0:12:50.11,Default,,0,0,0,,{\blur3}并且将海洋的冰层厚度扩大到1.6千米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and frozen the oceans to a depth above to a mile.{\r}
+Dialogue: 0,0:12:52.12,0:12:56.88,Default,,0,0,0,,{\blur3}当时的平均气温已低至零下59摄氏度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As average temperatures plunged to a -75 degrees Fahrenheit,{\r}
+Dialogue: 0,0:12:57.23,0:13:01.55,Default,,0,0,0,,{\blur3}赤道和今天的南极一样寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the equator grew as cold then, as the South Pole is today.{\r}
+Dialogue: 0,0:13:02.92,0:13:07.76,Default,,0,0,0,,{\blur3}而席卷全球的极寒 或许发生了两次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this global deep freeze may have happened not once, but twice.{\r}
+Dialogue: 0,0:13:09.15,0:13:13.15,Default,,0,0,0,,{\blur3}第一次发生在二十四亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first episode beginning 2.4 billion years ago.{\r}
+Dialogue: 0,0:13:14.55,0:13:17.73,Default,,0,0,0,,{\blur3}在雪地球期间 整个地球的气候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During the Snowball Earth phase, the entire Earth has{\r}
+Dialogue: 0,0:13:17.89,0:13:20.45,Default,,0,0,0,,{\blur3}都很像现在的南极地区气候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a climate quite similar to modern day Antarctica.{\r}
+Dialogue: 0,0:13:20.45,0:13:22.85,Default,,0,0,0,,{\blur3}极其寒冷 极其干燥{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's extremely cold, extremely dry,{\r}
+Dialogue: 0,0:13:22.85,0:13:28.07,Default,,0,0,0,,{\blur3}狂风肆虐 荒芜一物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}extremely windy, extremely inhospitable to life.{\r}
+Dialogue: 0,0:13:29.88,0:13:32.83,Default,,0,0,0,,{\blur3}雪地球假设很好的解释了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Snowball Earth hypothesis helps explain{\r}
+Dialogue: 0,0:13:32.83,0:13:37.99,Default,,0,0,0,,{\blur3}曾是赤道的地区发现的冰川沉积物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the discovery of glacier deposits in areas that were once at the equator.{\r}
+Dialogue: 0,0:13:39.35,0:13:43.40,Default,,0,0,0,,{\blur3}这一理论为 冰川从两极地区开始进发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's theorized that as the glaciers marched on from the polar regions{\r}
+Dialogue: 0,0:13:43.40,0:13:46.17,Default,,0,0,0,,{\blur3}它们把太阳光反射回宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they reflected sunlight back into space{\r}
+Dialogue: 0,0:13:46.45,0:13:49.20,Default,,0,0,0,,{\blur3}并且创造出一个强大的反馈回路{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and created a powerful feedback loop,{\r}
+Dialogue: 0,0:13:49.31,0:13:52.28,Default,,0,0,0,,{\blur3}无情地把地球气温一降再降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}turning the thermostat relentlessly lower.{\r}
+Dialogue: 0,0:13:53.00,0:13:54.96,Default,,0,0,0,,{\blur3}如果两极地区面积过大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the polar regions get too large,{\r}
+Dialogue: 0,0:13:54.96,0:14:00.35,Default,,0,0,0,,{\blur3}如果雪和高反射率的冰层到达低纬度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if the snow and high reflective ice coatings get to far down in latitude{\r}
+Dialogue: 0,0:14:00.35,0:14:03.12,Default,,0,0,0,,{\blur3}它们就能把更多的太阳光反射回宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they reflect more light back into space.{\r}
+Dialogue: 0,0:14:03.30,0:14:04.62,Default,,0,0,0,,{\blur3}地球就会变得更冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Earth gets cooler.{\r}
+Dialogue: 0,0:14:04.82,0:14:07.57,Default,,0,0,0,,{\blur3}冰层也就会更靠近赤道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ice goes closer and closer and closer to the equator{\r}
+Dialogue: 0,0:14:07.57,0:14:09.69,Default,,0,0,0,,{\blur3}这也就形成了恶性循环{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it's gotta be kind of a runaway process{\r}
+Dialogue: 0,0:14:09.69,0:14:12.62,Default,,0,0,0,,{\blur3}至少它将会将地球完全冻结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the least it will freeze over of the Earth.{\r}
+Dialogue: 0,0:14:15.03,0:14:17.87,Default,,0,0,0,,{\blur3}但是究竟是什么引发了首次雪地球期呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what caused the first Snowball Earth?{\r}
+Dialogue: 0,0:14:18.54,0:14:23.39,Default,,0,0,0,,{\blur3}科学家们认为罪魁祸首可能是生命本身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists think the culprit actually may have been life itself.{\r}
+Dialogue: 0,0:14:25.78,0:14:28.51,Default,,0,0,0,,{\blur3}地球生命诞生之初 大气中的主要气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gas that was most prevalent when life first appeared in the Earth{\r}
+Dialogue: 0,0:14:28.61,0:14:30.16,Default,,0,0,0,,{\blur3}不是氧气 而是甲烷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}wasn't oxygen, it was methane.{\r}
+Dialogue: 0,0:14:30.58,0:14:34.11,Default,,0,0,0,,{\blur3}那时的生命 单细胞细菌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Creatures at that time, single-celled bacteria{\r}
+Dialogue: 0,0:14:34.48,0:14:38.48,Default,,0,0,0,,{\blur3}会将甲烷作为日常生存代谢过程的一部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have used methane as part of their normal living processes.{\r}
+Dialogue: 0,0:14:41.41,0:14:43.69,Default,,0,0,0,,{\blur3}甲烷是一种显著的温室气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Methane is a phenomenal greenhouse gas.{\r}
+Dialogue: 0,0:14:43.80,0:14:45.46,Default,,0,0,0,,{\blur3}如果大气中存在许多甲烷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if you had a lot of methane in the atmosphere{\r}
+Dialogue: 0,0:14:45.47,0:14:48.03,Default,,0,0,0,,{\blur3}那么很可能会产生较高的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you'd had likely very warm temperatures.{\r}
+Dialogue: 0,0:14:50.10,0:14:55.23,Default,,0,0,0,,{\blur3}但24亿年前 一群新生的水生微生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But 2.4 billion years ago, a new group of underwater microbes{\r}
+Dialogue: 0,0:14:55.61,0:14:57.68,Default,,0,0,0,,{\blur3}开始从阳光中吸收能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}began absorbing energy from the Sun{\r}
+Dialogue: 0,0:14:58.38,0:15:00.84,Default,,0,0,0,,{\blur3}这一过程被称为光合作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a process called photosynthesis.{\r}
+Dialogue: 0,0:15:02.93,0:15:06.47,Default,,0,0,0,,{\blur3}通过将二氧化碳和水转化为能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By converting carbon dioxide and water into energy,{\r}
+Dialogue: 0,0:15:07.19,0:15:11.92,Default,,0,0,0,,{\blur3}光合作用形成的新的有毒废物开始污染地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}photosynthesis polluted the Earth with a toxic new waste product,{\r}
+Dialogue: 0,0:15:13.06,0:15:13.84,Default,,0,0,0,,{\blur3}氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}oxygen.{\r}
+Dialogue: 0,0:15:14.40,0:15:15.54,Default,,0,0,0,,{\blur3}大量的氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Vast amounts of it.{\r}
+Dialogue: 0,0:15:18.49,0:15:21.82,Default,,0,0,0,,{\blur3}在24亿年之前 氧气是毒气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Prior to 2.4 billion years ago, oxygen was a poison{\r}
+Dialogue: 0,0:15:22.09,0:15:24.93,Default,,0,0,0,,{\blur3}任何地球上的生命都不需要氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and any life that was on Earth did not use oxygen,{\r}
+Dialogue: 0,0:15:25.02,0:15:26.50,Default,,0,0,0,,{\blur3}氧气被认为是废气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was considered a waste gas.{\r}
+Dialogue: 0,0:15:27.69,0:15:30.26,Default,,0,0,0,,{\blur3}所有不喜氧气的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of that life that didn't like oxygen{\r}
+Dialogue: 0,0:15:30.27,0:15:32.98,Default,,0,0,0,,{\blur3}被暴露在富氧环境中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was exposed to this rich oxygen environment{\r}
+Dialogue: 0,0:15:33.66,0:15:35.46,Default,,0,0,0,,{\blur3}情况开始变得很紧迫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it caused great deal of stress.{\r}
+Dialogue: 0,0:15:36.68,0:15:40.14,Default,,0,0,0,,{\blur3}甲烷生物快乐的生活在无氧世界中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Methane creatures were happy to live in this oxygen free world.{\r}
+Dialogue: 0,0:15:40.25,0:15:42.72,Default,,0,0,0,,{\blur3}这时氧气出现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, when oxygen finally does appear,{\r}
+Dialogue: 0,0:15:42.72,0:15:45.81,Default,,0,0,0,,{\blur3}这是它们历史中最不幸的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was like the worst calamity in their history.{\r}
+Dialogue: 0,0:15:47.94,0:15:50.15,Default,,0,0,0,,{\blur3}当氧气席卷全球时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As oxygen flooded the world,{\r}
+Dialogue: 0,0:15:50.27,0:15:51.96,Default,,0,0,0,,{\blur3}甲烷被氧化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it oxidized methane{\r}
+Dialogue: 0,0:15:51.96,0:15:54.17,Default,,0,0,0,,{\blur3}成为二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}turning it into carbon dioxide.{\r}
+Dialogue: 0,0:15:54.47,0:15:59.16,Default,,0,0,0,,{\blur3}以甲烷为生的生物快速灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The methane consuming creatures died off in a fast extinction event,{\r}
+Dialogue: 0,0:15:59.16,0:16:01.82,Default,,0,0,0,,{\blur3}这被称为"大氧化事件"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called the great oxygen catastrophe.{\r}
+Dialogue: 0,0:16:01.96,0:16:05.45,Default,,0,0,0,,{\blur3}由于地球失去了起保暖作用的甲烷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as Earth lost its warming blanket of methane gas{\r}
+Dialogue: 0,0:16:06.23,0:16:08.34,Default,,0,0,0,,{\blur3}整个星球开始冻结{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the planet froze over.{\r}
+Dialogue: 0,0:16:10.19,0:16:13.34,Default,,0,0,0,,{\blur3}如果是生产氧气的生命是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if oxygen producing life, was the primary trigger{\r}
+Dialogue: 0,0:16:13.34,0:16:15.37,Default,,0,0,0,,{\blur3}首次"雪地球"形成的主要诱因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the first Snowball Earth,{\r}
+Dialogue: 0,0:16:15.99,0:16:18.76,Default,,0,0,0,,{\blur3}这些生命现在需要则寻找到温暖的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that life now needed to find a warm place{\r}
+Dialogue: 0,0:16:18.76,0:16:21.70,Default,,0,0,0,,{\blur3}来躲避由它们引起的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to escape the disaster it had caused.{\r}
+Dialogue: 0,0:16:24.51,0:16:28.97,Default,,0,0,0,,{\blur3}那时的地球比起现在 构造过程更活跃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Earth at that time was even more energetic tectonically than it is now.{\r}
+Dialogue: 0,0:16:29.01,0:16:31.83,Default,,0,0,0,,{\blur3}地球的形成会产生巨大的热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The formation of the Earth produced enormous heat,{\r}
+Dialogue: 0,0:16:31.93,0:16:34.63,Default,,0,0,0,,{\blur3}这些热量会来到地表 过程很慢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that heat comes to the surface, it's slowing,{\r}
+Dialogue: 0,0:16:35.15,0:16:39.20,Default,,0,0,0,,{\blur3}但那时有许多火山 每个火山周围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but back then many more volcanoes, around every volcano{\r}
+Dialogue: 0,0:16:39.20,0:16:42.32,Default,,0,0,0,,{\blur3}都会出现这样一个被融化的湖泊状地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have been this melted lake-like zone{\r}
+Dialogue: 0,0:16:42.32,0:16:43.54,Default,,0,0,0,,{\blur3}生命就在这里蓬勃发展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where life could have thrived.{\r}
+Dialogue: 0,0:16:46.32,0:16:50.37,Default,,0,0,0,,{\blur3}要演示火山活动如何为生命提供保温所{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To show how volcanism could have carved out cozy niches for life{\r}
+Dialogue: 0,0:16:50.92,0:16:55.31,Default,,0,0,0,,{\blur3}你只需要一把喷枪和一个大冰球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all you need is a blow torch and a big ball of ice.{\r}
+Dialogue: 0,0:16:57.89,0:16:59.38,Default,,0,0,0,,{\blur3}我们在"冰雕店"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are here at Carving Ice,{\r}
+Dialogue: 0,0:16:59.38,0:17:01.58,Default,,0,0,0,,{\blur3}这是罗兰·赫尔南德斯所有的冰雕室{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an ice house owned by Roland Hernandez,{\r}
+Dialogue: 0,0:17:01.58,0:17:04.40,Default,,0,0,0,,{\blur3}他是一位出色地冰雕家 他为我们制作了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an amazing ice sculptor who has created for us{\r}
+Dialogue: 0,0:17:04.40,0:17:08.12,Default,,0,0,0,,{\blur3}这个全冰的半球 代表"雪地球"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this hemisphere of solid ice which represents Snowball Earth.{\r}
+Dialogue: 0,0:17:08.48,0:17:10.03,Default,,0,0,0,,{\blur3}我们把它放在这个推车上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've placed it up here on this dolly{\r}
+Dialogue: 0,0:17:10.06,0:17:13.21,Default,,0,0,0,,{\blur3}以便能用工业喷枪 从下面加热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that we can heat it from below with an industrial blow torch{\r}
+Dialogue: 0,0:17:13.37,0:17:17.03,Default,,0,0,0,,{\blur3}用来演示在雪地球时期地下火山活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to represent the type of heating that we would experience on Snowball Earth,{\r}
+Dialogue: 0,0:17:17.29,0:17:19.71,Default,,0,0,0,,{\blur3}所带来的热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from vulcanism deep beneath the surface.{\r}
+Dialogue: 0,0:17:19.77,0:17:20.92,Default,,0,0,0,,{\blur3}现在我打开它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now let me light this up.{\r}
+Dialogue: 0,0:17:23.35,0:17:26.72,Default,,0,0,0,,{\blur3}- 给你喷枪 - 好的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}- All right, passing you the torch. - Okay.{\r}
+Dialogue: 0,0:17:31.98,0:17:34.63,Default,,0,0,0,,{\blur3}科学家们怀疑 由地表下的火山活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists suspect that the extreme heat pressure{\r}
+Dialogue: 0,0:17:34.63,0:17:37.80,Default,,0,0,0,,{\blur3}所产生的极大的热量和压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}generated by volcanism beneath the Earth's surface{\r}
+Dialogue: 0,0:17:37.93,0:17:42.25,Default,,0,0,0,,{\blur3}可能会使冰层开裂 从而为生命提供避难所{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have created cracks in the ice for life to take refuge.{\r}
+Dialogue: 0,0:17:49.55,0:17:53.17,Default,,0,0,0,,{\blur3}你能看到这些裂缝是如何贯穿整个冰块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Okay, so you can see how the cracks are formed all throughout the ice,{\r}
+Dialogue: 0,0:17:53.20,0:17:54.24,Default,,0,0,0,,{\blur3}沿着顶端这里…{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}along the top here...{\r}
+Dialogue: 0,0:17:54.69,0:17:56.88,Default,,0,0,0,,{\blur3}这同"雪地球"事件中出现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are very similar to the types of cracks{\r}
+Dialogue: 0,0:17:56.91,0:17:58.88,Default,,0,0,0,,{\blur3}裂缝是非常相似的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would form during a Snowball Earth event.{\r}
+Dialogue: 0,0:17:59.32,0:18:02.10,Default,,0,0,0,,{\blur3}在这些裂缝中你就可以得到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's in these cracks where you can get the mixture{\r}
+Dialogue: 0,0:18:02.13,0:18:04.41,Default,,0,0,0,,{\blur3}一些液体 一些热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of a little bit of liquid, a little bit of heat,{\r}
+Dialogue: 0,0:18:04.67,0:18:05.79,Default,,0,0,0,,{\blur3}和一些化学物质的混合体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a little bit of chemistry,{\r}
+Dialogue: 0,0:18:06.06,0:18:08.79,Default,,0,0,0,,{\blur3}换句话说 这是生命生根发芽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in other words, the perfect ingredients for generating{\r}
+Dialogue: 0,0:18:08.84,0:18:11.86,Default,,0,0,0,,{\blur3}甚至蓬勃发展所需环境的完美组合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an environment where life can take root and even thrive.{\r}
+Dialogue: 0,0:18:16.85,0:18:18.52,Default,,0,0,0,,{\blur3}火山活动并非只是生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Volcanism wasn't just key{\r}
+Dialogue: 0,0:18:18.69,0:18:20.90,Default,,0,0,0,,{\blur3}在雪地球时期生存的关键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to life survival during Snowball Earth.{\r}
+Dialogue: 0,0:18:23.29,0:18:27.61,Default,,0,0,0,,{\blur3}它也许最终迫使了冰川的消退{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It also may have forced the glaciers to finally retreat.{\r}
+Dialogue: 0,0:18:28.46,0:18:31.56,Default,,0,0,0,,{\blur3}所有这些从火山口冒出的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}See, all these gases that are coming out of the volcanoes,{\r}
+Dialogue: 0,0:18:31.56,0:18:35.33,Default,,0,0,0,,{\blur3}例如水蒸气 二氧化碳 二氧化硫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}things like water vapor, carbon dioxide, sulfur dioxide{\r}
+Dialogue: 0,0:18:35.33,0:18:38.34,Default,,0,0,0,,{\blur3}它们都进入了大气之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for example, which are escaping into the atmosphere{\r}
+Dialogue: 0,0:18:38.56,0:18:41.51,Default,,0,0,0,,{\blur3}经过千万年的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and over time, over tens of millions of years,{\r}
+Dialogue: 0,0:18:41.77,0:18:44.46,Default,,0,0,0,,{\blur3}它们不断地提高温室气体的水平{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're building up these levels of greenhouse gasses.{\r}
+Dialogue: 0,0:18:44.85,0:18:47.94,Default,,0,0,0,,{\blur3}在某一时刻 大气变得足够温暖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At some point, it's going to get so warm in the atmosphere{\r}
+Dialogue: 0,0:18:48.21,0:18:49.48,Default,,0,0,0,,{\blur3}冰川开始融化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the ice begins to melt.{\r}
+Dialogue: 0,0:18:50.87,0:18:53.18,Default,,0,0,0,,{\blur3}"雪地球"的两个时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Both episodes of Snowball Earth,{\r}
+Dialogue: 0,0:18:53.69,0:18:56.71,Default,,0,0,0,,{\blur3}首先是24亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the first 2.4 billion years ago,{\r}
+Dialogue: 0,0:18:57.10,0:18:59.94,Default,,0,0,0,,{\blur3}其次是6亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the second, 600 million years ago,{\r}
+Dialogue: 0,0:19:00.60,0:19:03.23,Default,,0,0,0,,{\blur3}都对早期的生命产生了巨大的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}placed profound stresses on early life.{\r}
+Dialogue: 0,0:19:05.34,0:19:10.77,Default,,0,0,0,,{\blur3}但奇怪的是 两个时期后都有大量物种出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But oddly, both were followed by enormous flowerings of new species.{\r}
+Dialogue: 0,0:19:13.59,0:19:15.47,Default,,0,0,0,,{\blur3}通过沉积的地质记录{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know from the sedimentary record,{\r}
+Dialogue: 0,0:19:15.76,0:19:18.89,Default,,0,0,0,,{\blur3}就在动物开始出现并繁荣前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that just before animals bloomed into existence,{\r}
+Dialogue: 0,0:19:19.05,0:19:22.36,Default,,0,0,0,,{\blur3}大量的磷进入了海洋中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an enormous amount of phosphorous came in to the ocean,{\r}
+Dialogue: 0,0:19:22.36,0:19:24.29,Default,,0,0,0,,{\blur3}大块的含磷岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there were big rocks of phosphorous{\r}
+Dialogue: 0,0:19:24.29,0:19:29.58,Default,,0,0,0,,{\blur3}被腐蚀了 从而使得海洋中磷的含量上升{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they eroded as that erosion occurred phosphorous levels in the ocean rose.{\r}
+Dialogue: 0,0:19:29.82,0:19:32.75,Default,,0,0,0,,{\blur3}突然间生命开始繁荣发展了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All of a sudden life is able to just bloom.{\r}
+Dialogue: 0,0:19:34.30,0:19:38.17,Default,,0,0,0,,{\blur3}这可能真正导致了两个时期的生命多样化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This may really have caused the diversification two times,{\r}
+Dialogue: 0,0:19:38.29,0:19:41.24,Default,,0,0,0,,{\blur3}先是23亿年前微生物世界的多样化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the microbial world, at 2.3 billion years ago,{\r}
+Dialogue: 0,0:19:41.24,0:19:43.12,Default,,0,0,0,,{\blur3}更重要的是 对我们来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but more importantly to us,{\r}
+Dialogue: 0,0:19:43.56,0:19:47.29,Default,,0,0,0,,{\blur3}它可能很好地促进了6亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it really probably helped the diversification of the animals{\r}
+Dialogue: 0,0:19:47.29,0:19:49.76,Default,,0,0,0,,{\blur3}动物的多样化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that 600 million years ago.{\r}
+Dialogue: 0,0:19:52.55,0:19:56.60,Default,,0,0,0,,{\blur3}虽然"雪地球"带来了地球上最严酷的气候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although Snowball Earth produced some the planet's harshest weather,{\r}
+Dialogue: 0,0:19:56.76,0:19:59.50,Default,,0,0,0,,{\blur3}生命不仅存活了下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}life not only managed to survive,{\r}
+Dialogue: 0,0:19:59.50,0:20:01.99,Default,,0,0,0,,{\blur3}而且比以往更坚强的繁荣发展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it bounced back stronger than ever,{\r}
+Dialogue: 0,0:20:02.16,0:20:06.18,Default,,0,0,0,,{\blur3}因此这次灾难只能在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is why this disaster only ranks as number 5{\r}
+Dialogue: 0,0:20:06.18,0:20:08.37,Default,,0,0,0,,{\blur3}灾难时刻中位列第五{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on our list of worst days.{\r}
+Dialogue: 0,0:20:13.42,0:20:17.59,Default,,0,0,0,,{\blur3}在我们倒数地球七大灾难时刻的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So far, on our countdown of the 7 worst days on Earth{\r}
+Dialogue: 0,0:20:18.59,0:20:22.76,Default,,0,0,0,,{\blur3}我们看到地球曾在月球形成撞击中破损不堪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we've seen our planet battered, during the Moon forming impact,{\r}
+Dialogue: 0,0:20:23.96,0:20:26.66,Default,,0,0,0,,{\blur3}被晚期重度轰炸洗礼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}baptized by the Late Heavy Bombardment{\r}
+Dialogue: 0,0:20:28.73,0:20:32.67,Default,,0,0,0,,{\blur3}被"雪地球"几乎完全冻住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and almost completely frozen over by Snowball Earth.{\r}
+Dialogue: 0,0:20:34.31,0:20:37.57,Default,,0,0,0,,{\blur3}现在我们将再前进一亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now we travel forward over a 100 million years,{\r}
+Dialogue: 0,0:20:38.30,0:20:43.60,Default,,0,0,0,,{\blur3}地球经历了其历史上最大规模的屠杀之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the world is rocked by one of the greatest mass killings in its history.{\r}
+Dialogue: 0,0:20:45.28,0:20:47.47,Default,,0,0,0,,{\blur3}第四位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Number four on our list.{\r}
+Dialogue: 0,0:20:48.11,0:20:50.48,Default,,0,0,0,,{\blur3}奥陶纪大灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The ordovician extinction.{\r}
+Dialogue: 0,0:20:56.11,0:20:59.25,Default,,0,0,0,,{\blur3}在地球上数十亿年生命的历史中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the billions of years of life on Earth,{\r}
+Dialogue: 0,0:20:59.98,0:21:05.95,Default,,0,0,0,,{\blur3}99%曾出现过的物种最终都消亡了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}99% of all species that ever lived have ultimately vanished.{\r}
+Dialogue: 0,0:21:06.54,0:21:09.96,Default,,0,0,0,,{\blur3}大部分是由于五次大规模灭绝事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mostly due to five mass extinction events.{\r}
+Dialogue: 0,0:21:12.07,0:21:14.87,Default,,0,0,0,,{\blur3}第一个便是奥陶纪时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first was during the ordovician period,{\r}
+Dialogue: 0,0:21:14.91,0:21:17.63,Default,,0,0,0,,{\blur3}4.5亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}450 million years ago.{\r}
+Dialogue: 0,0:21:19.37,0:21:22.71,Default,,0,0,0,,{\blur3}奥陶纪大规模灭绝是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The mass extinction during the ordovician is{\r}
+Dialogue: 0,0:21:22.89,0:21:25.05,Default,,0,0,0,,{\blur3}在五大灭绝事件中最为神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the most mysterious of the so called big five{\r}
+Dialogue: 0,0:21:25.05,0:21:28.26,Default,,0,0,0,,{\blur3}主要由于它发生的年代最为久远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}simply because it was the one that was the oldest.{\r}
+Dialogue: 0,0:21:28.60,0:21:31.44,Default,,0,0,0,,{\blur3}而其余四个事件的发生时间据今越来越近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Everyone after that was closer to us in time{\r}
+Dialogue: 0,0:21:31.49,0:21:32.97,Default,,0,0,0,,{\blur3}相隔时间越久远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the further back in time you go{\r}
+Dialogue: 0,0:21:33.35,0:21:36.80,Default,,0,0,0,,{\blur3}历史原貌对我们来说就越模糊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the more fuzzy our scientific view of the past is.{\r}
+Dialogue: 0,0:21:38.04,0:21:39.72,Default,,0,0,0,,{\blur3}奥陶纪时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During the Ordovician period,{\r}
+Dialogue: 0,0:21:39.87,0:21:44.64,Default,,0,0,0,,{\blur3}地球上有三大洋和四大陆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the globe was covered with three major oceans, and four super continents.{\r}
+Dialogue: 0,0:21:47.00,0:21:48.71,Default,,0,0,0,,{\blur3}陆地尚且贫瘠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The land was still bare,{\r}
+Dialogue: 0,0:21:49.28,0:21:51.73,Default,,0,0,0,,{\blur3}海洋已遍布生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the oceans teamed with life,{\r}
+Dialogue: 0,0:21:52.27,0:21:54.39,Default,,0,0,0,,{\blur3}包括艳丽的珊瑚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including brilliant corals{\r}
+Dialogue: 0,0:21:54.56,0:21:56.27,Default,,0,0,0,,{\blur3}和地球最早的鱼类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the planet's first fish.{\r}
+Dialogue: 0,0:21:58.05,0:22:01.47,Default,,0,0,0,,{\blur3}然而一场突发的灾难横扫海洋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then a mysterious cataclysm swept the seas,{\r}
+Dialogue: 0,0:22:01.92,0:22:04.34,Default,,0,0,0,,{\blur3}地球上60%的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and 60% of life on Earth{\r}
+Dialogue: 0,0:22:04.78,0:22:05.62,Default,,0,0,0,,{\blur3}灰飞烟灭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}vanished.{\r}
+Dialogue: 0,0:22:07.47,0:22:08.97,Default,,0,0,0,,{\blur3}有一系列的可能性解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a couple of possibilities.{\r}
+Dialogue: 0,0:22:09.01,0:22:12.23,Default,,0,0,0,,{\blur3}首先是地球再次变冷 原因何在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Number one, it got cold again, so why would it have gotten cold?{\r}
+Dialogue: 0,0:22:12.53,0:22:14.66,Default,,0,0,0,,{\blur3}有可能是板块构造运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, it could have been the plate tectonics{\r}
+Dialogue: 0,0:22:14.66,0:22:19.69,Default,,0,0,0,,{\blur3}使得原本温暖的大陆南移至两级地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}moved all of the formerly warm continents down to the polar regions{\r}
+Dialogue: 0,0:22:19.69,0:22:22.04,Default,,0,0,0,,{\blur3}导致整体性的降温{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that dropped the temperature of everything.{\r}
+Dialogue: 0,0:22:23.81,0:22:27.90,Default,,0,0,0,,{\blur3}多年来 科学家将奥陶纪大灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For years, the scientists blamed the Ordovician extinction{\r}
+Dialogue: 0,0:22:28.13,0:22:30.24,Default,,0,0,0,,{\blur3}归咎于毁灭性的冰河时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a devastating ice age.{\r}
+Dialogue: 0,0:22:31.78,0:22:34.04,Default,,0,0,0,,{\blur3}但现在一些研究者提出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now some researchers propose{\r}
+Dialogue: 0,0:22:34.12,0:22:37.86,Default,,0,0,0,,{\blur3}罪魁祸首可能来自宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the mass killer could have been something from the cosmos.{\r}
+Dialogue: 0,0:22:38.47,0:22:40.05,Default,,0,0,0,,{\blur3}例如伽马射线爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like a gamma ray burst,{\r}
+Dialogue: 0,0:22:41.82,0:22:44.17,Default,,0,0,0,,{\blur3}宇宙最强的爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the biggest blast in the universe.{\r}
+Dialogue: 0,0:22:46.52,0:22:49.92,Default,,0,0,0,,{\blur3}伽马射线大爆发是由于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A gamma ray burst is a colossal explosion of a star{\r}
+Dialogue: 0,0:22:50.18,0:22:52.16,Default,,0,0,0,,{\blur3}恒星不对称爆炸产生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that occurs asymmetrically{\r}
+Dialogue: 0,0:22:52.16,0:22:54.84,Default,,0,0,0,,{\blur3}两束方向相反的直线光束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are two oppositely directed beams,{\r}
+Dialogue: 0,0:22:54.84,0:22:58.26,Default,,0,0,0,,{\blur3}充满高能速的粒子流和辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of very energetic, high speed particles and radiation,{\r}
+Dialogue: 0,0:22:58.26,0:23:01.56,Default,,0,0,0,,{\blur3}像激光一样急速穿越宇宙空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they go zipping through space, kind of like a laser beam.{\r}
+Dialogue: 0,0:23:01.91,0:23:04.71,Default,,0,0,0,,{\blur3}如果光束接落到地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If that beam is aimed right at Earth{\r}
+Dialogue: 0,0:23:04.71,0:23:07.23,Default,,0,0,0,,{\blur3}便会造成巨大的破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it can cause significant damage here.{\r}
+Dialogue: 0,0:23:10.42,0:23:12.75,Default,,0,0,0,,{\blur3}一场大爆发将会蒸发掉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A large burst would vaporize{\r}
+Dialogue: 0,0:23:12.76,0:23:15.56,Default,,0,0,0,,{\blur3}地球上三分之一的臭氧保护层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}1/3 of the planet protective ozone layer.{\r}
+Dialogue: 0,0:23:16.13,0:23:19.06,Default,,0,0,0,,{\blur3}地球遭受重创面的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And creatures on the side of the Earth facing the onslaught{\r}
+Dialogue: 0,0:23:19.29,0:23:22.10,Default,,0,0,0,,{\blur3}它们将直接暴露在致命的宇宙辐射下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would suffer lethal radiation exposure.{\r}
+Dialogue: 0,0:23:23.82,0:23:26.57,Default,,0,0,0,,{\blur3}我们可以在地球上演示{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The destructive energy of a gamma ray burst{\r}
+Dialogue: 0,0:23:26.88,0:23:29.36,Default,,0,0,0,,{\blur3}伽马射线大爆发的破坏力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be demonstrated here on Earth.{\r}
+Dialogue: 0,0:23:31.16,0:23:35.12,Default,,0,0,0,,{\blur3}这是地球仪 代表奥陶纪末期的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here's our globe, representing the Earth at the end of the ordovician period,{\r}
+Dialogue: 0,0:23:35.13,0:23:37.39,Default,,0,0,0,,{\blur3}一部分科学家认为当时的大灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a time where one group of scientists thinks{\r}
+Dialogue: 0,0:23:37.39,0:23:40.71,Default,,0,0,0,,{\blur3}可能是伽马射线大爆发造成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that a gamma ray burst may have triggered a mass extinction.{\r}
+Dialogue: 0,0:23:40.71,0:23:43.03,Default,,0,0,0,,{\blur3}外面包裹的纸代表臭氧层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The paper represents the ozone layer{\r}
+Dialogue: 0,0:23:43.03,0:23:47.08,Default,,0,0,0,,{\blur3}这把丙烷火枪模拟伽马射线爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the gamma ray burst is represented by this propane torch.{\r}
+Dialogue: 0,0:23:58.51,0:24:04.71,Default,,0,0,0,,{\blur3}8 9 10秒 仅仅这段时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}8, 9, 10 seconds were, that is all they say it would take{\r}
+Dialogue: 0,0:24:04.74,0:24:07.69,Default,,0,0,0,,{\blur3}地球三分之一的臭氧层将被破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to destroy about 1/3 of the Earth's ozone.{\r}
+Dialogue: 0,0:24:08.54,0:24:12.17,Default,,0,0,0,,{\blur3}当然伽马射线大爆发没让地球烧焦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So of course the gamma ray burst didn't actually torch the Earth{\r}
+Dialogue: 0,0:24:12.17,0:24:15.31,Default,,0,0,0,,{\blur3}但当它到达地球时确实摧毁了臭氧层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it did destroy the ozone that it encountered{\r}
+Dialogue: 0,0:24:15.33,0:24:18.07,Default,,0,0,0,,{\blur3}其破坏了地球这一侧的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would have messed with the chemistry of the ozone molecules{\r}
+Dialogue: 0,0:24:18.07,0:24:19.66,Default,,0,0,0,,{\blur3}臭氧分子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on this side of the globe.{\r}
+Dialogue: 0,0:24:19.91,0:24:21.57,Default,,0,0,0,,{\blur3}臭氧层遭到破坏后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when the ozone was destroyed{\r}
+Dialogue: 0,0:24:21.60,0:24:24.14,Default,,0,0,0,,{\blur3}紫外线就能直达地表{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}UV radiation can penetrate into the surface{\r}
+Dialogue: 0,0:24:24.14,0:24:27.41,Default,,0,0,0,,{\blur3}紫外线辐射对生物是致命的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the ultraviolet radiation is very lethal to life.{\r}
+Dialogue: 0,0:24:27.41,0:24:29.42,Default,,0,0,0,,{\blur3}它能破坏DNA{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's very destructive to DNA.{\r}
+Dialogue: 0,0:24:29.42,0:24:34.97,Default,,0,0,0,,{\blur3}因此伽马射线爆发对臭氧层的破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, it may be that a gamma ray burst destroying the ozone layer{\r}
+Dialogue: 0,0:24:35.17,0:24:37.21,Default,,0,0,0,,{\blur3}有可能促使甚至导致了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}contributed or maybe even triggered{\r}
+Dialogue: 0,0:24:37.21,0:24:40.12,Default,,0,0,0,,{\blur3}奥陶纪末期的大灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a mass extinction at the end of the Ordovician.{\r}
+Dialogue: 0,0:24:44.54,0:24:46.97,Default,,0,0,0,,{\blur3}削弱臭氧层的同时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In addition to depleting the ozone layer{\r}
+Dialogue: 0,0:24:47.50,0:24:50.76,Default,,0,0,0,,{\blur3}伽马射线大爆发会破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a large gamma ray burst also could have ripped apart{\r}
+Dialogue: 0,0:24:50.76,0:24:53.81,Default,,0,0,0,,{\blur3}大气层中氮气和氧气的分子结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nitrogen and oxygen molecules in the atmosphere{\r}
+Dialogue: 0,0:24:53.81,0:24:57.27,Default,,0,0,0,,{\blur3}生成二氧化氮 进而形成烟雾层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}producing a gaseous smog of nitrogen dioxide{\r}
+Dialogue: 0,0:24:57.56,0:25:01.83,Default,,0,0,0,,{\blur3}阻挡阳光射入 造成第二次劫难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that blocked sunlight and sent off a secondary disaster.{\r}
+Dialogue: 0,0:25:02.00,0:25:03.34,Default,,0,0,0,,{\blur3}冰河时期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An ice age.{\r}
+Dialogue: 0,0:25:08.12,0:25:11.57,Default,,0,0,0,,{\blur3}伽马射线爆发是否是诱因目前尚不明确{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not clear whether that could have been caused by a gamma ray burst.{\r}
+Dialogue: 0,0:25:11.72,0:25:14.03,Default,,0,0,0,,{\blur3}但至少奥陶纪的大灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But at least part of the Ordovician extinction{\r}
+Dialogue: 0,0:25:14.03,0:25:15.57,Default,,0,0,0,,{\blur3}有一个特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}seems to have been marked{\r}
+Dialogue: 0,0:25:15.78,0:25:20.50,Default,,0,0,0,,{\blur3}即大量生活在地表的生物灭绝了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by a huge decrease in the number of surface dwelling creatures,{\r}
+Dialogue: 0,0:25:20.83,0:25:22.11,Default,,0,0,0,,{\blur3}例如生活在陆地表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like on the Earth's surface{\r}
+Dialogue: 0,0:25:22.11,0:25:24.01,Default,,0,0,0,,{\blur3}或者是海洋浅水层的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or in the surface layers of the ocean.{\r}
+Dialogue: 0,0:25:24.92,0:25:29.27,Default,,0,0,0,,{\blur3}这或许能够说明是紫外线辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That may well indicate that it was ultraviolet radiation{\r}
+Dialogue: 0,0:25:29.27,0:25:32.02,Default,,0,0,0,,{\blur3}而非其他因素导致了生物死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that killed them off rather than some other factor.{\r}
+Dialogue: 0,0:25:35.54,0:25:38.25,Default,,0,0,0,,{\blur3}伽马射线大爆发也许是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A gamma ray burst could be one explanation{\r}
+Dialogue: 0,0:25:38.25,0:25:41.85,Default,,0,0,0,,{\blur3}地球第一次大灭绝的原因之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the first mass annihilation of life on Earth.{\r}
+Dialogue: 0,0:25:43.62,0:25:45.73,Default,,0,0,0,,{\blur3}但一个惊人的新设想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But a startling new hypothesis{\r}
+Dialogue: 0,0:25:46.08,0:25:48.54,Default,,0,0,0,,{\blur3}指向了另一种宇宙能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}points to a different cosmic force.{\r}
+Dialogue: 0,0:25:49.17,0:25:54.18,Default,,0,0,0,,{\blur3}奇异而致命的弓形激波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A bizarre and potentially deadly phenomenon known as a bow shock.{\r}
+Dialogue: 0,0:25:56.54,0:25:59.29,Default,,0,0,0,,{\blur3}弓形激波是运动物体前方的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A bow shock forms when there's compression{\r}
+Dialogue: 0,0:25:59.34,0:26:01.55,Default,,0,0,0,,{\blur3}受到挤压时形成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of material in front of a moving object.{\r}
+Dialogue: 0,0:26:01.78,0:26:04.28,Default,,0,0,0,,{\blur3}举个例子 行驶在水中的船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So for example if you have a boat swimming along,{\r}
+Dialogue: 0,0:26:04.40,0:26:06.70,Default,,0,0,0,,{\blur3}通过压迫正前方的水而形成波浪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it creates a wave a compression in front of it,{\r}
+Dialogue: 0,0:26:06.70,0:26:09.13,Default,,0,0,0,,{\blur3}但随着船的前行水波便逐渐弯曲了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but then bends around as the boat moves through.{\r}
+Dialogue: 0,0:26:09.79,0:26:12.98,Default,,0,0,0,,{\blur3}我们所在的星系在宇宙中快速运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, our galaxy is moving rapidly through space.{\r}
+Dialogue: 0,0:26:13.00,0:26:16.82,Default,,0,0,0,,{\blur3}因此它会挤压前方星系间的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it can compress intergalactic gas in front of it{\r}
+Dialogue: 0,0:26:17.12,0:26:19.83,Default,,0,0,0,,{\blur3}导致其升温并产生辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}heating it up creating cosmic rays{\r}
+Dialogue: 0,0:26:19.83,0:26:23.23,Default,,0,0,0,,{\blur3}部分辐射可能到达地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and some of those cosmic rays can then hit the Earth.{\r}
+Dialogue: 0,0:26:25.85,0:26:28.88,Default,,0,0,0,,{\blur3}太阳系在银河系中来回运动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our Solar System oscillates through the Milky Way{\r}
+Dialogue: 0,0:26:29.69,0:26:33.28,Default,,0,0,0,,{\blur3}每6400万年在银河系主圆盘中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}traveling above and below the main disc of the galaxy{\r}
+Dialogue: 0,0:26:33.28,0:26:35.69,Default,,0,0,0,,{\blur3}上下运动一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}every 64 million years.{\r}
+Dialogue: 0,0:26:37.28,0:26:40.73,Default,,0,0,0,,{\blur3}一旦脱离星系的保护性磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once outside the galaxy protective magnetic field,{\r}
+Dialogue: 0,0:26:41.45,0:26:44.63,Default,,0,0,0,,{\blur3}我们的地球便毫无保护的暴露在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our planet is vulnerable to deadly cosmic rays{\r}
+Dialogue: 0,0:26:44.81,0:26:47.40,Default,,0,0,0,,{\blur3}星系弓形激波产生的致命宇宙射线中了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}generated by the galactic bow shock.{\r}
+Dialogue: 0,0:26:49.44,0:26:51.93,Default,,0,0,0,,{\blur3}这跟湖上的滑水者相似{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Much like a wakeboarder on a lake.{\r}
+Dialogue: 0,0:27:01.00,0:27:04.97,Default,,0,0,0,,{\blur3}滑水运动很好地解释了弓形激波的原理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Wakeboarding would be a reasonable example of bow shock in space.{\r}
+Dialogue: 0,0:27:10.07,0:27:13.74,Default,,0,0,0,,{\blur3}当滑水者处于快艇弓形波的范围内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While the wakeboarder is well within the confines of the bow wave of the boat{\r}
+Dialogue: 0,0:27:13.95,0:27:15.15,Default,,0,0,0,,{\blur3}水面平稳 易于滑行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the water is very calm and smooth{\r}
+Dialogue: 0,0:27:15.17,0:27:16.93,Default,,0,0,0,,{\blur3}站到板上很轻松{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he has no trouble standing up.{\r}
+Dialogue: 0,0:27:17.37,0:27:20.14,Default,,0,0,0,,{\blur3}但当他滑出波浪的边缘时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But during those periods where he moves out of the edge of the wave{\r}
+Dialogue: 0,0:27:20.14,0:27:22.88,Default,,0,0,0,,{\blur3}水面开始无序地波动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the water becomes a bit more turbulent and a bit more chaotic{\r}
+Dialogue: 0,0:27:22.88,0:27:24.66,Default,,0,0,0,,{\blur3}他要站住就有些难了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he has trouble standing up.{\r}
+Dialogue: 0,0:27:29.45,0:27:31.21,Default,,0,0,0,,{\blur3}在宇宙空间里也是一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The same thing is true in space,{\r}
+Dialogue: 0,0:27:31.77,0:27:32.90,Default,,0,0,0,,{\blur3}大多数时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for most of the time,{\r}
+Dialogue: 0,0:27:33.01,0:27:35.92,Default,,0,0,0,,{\blur3}太阳和地球都在银河系磁场的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Earth and Sun are well within the protective confines{\r}
+Dialogue: 0,0:27:36.03,0:27:38.41,Default,,0,0,0,,{\blur3}保护范围内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Milky Way galaxy's magnetic field{\r}
+Dialogue: 0,0:27:38.70,0:27:41.56,Default,,0,0,0,,{\blur3}使它们不受弓形激波产生的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}protecting it from the cosmic rays and other{\r}
+Dialogue: 0,0:27:41.58,0:27:43.57,Default,,0,0,0,,{\blur3}宇宙射线或其他辐射影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}radiation that's coming in from the bow shock.{\r}
+Dialogue: 0,0:27:44.03,0:27:46.40,Default,,0,0,0,,{\blur3}但当太阳和地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But during those periods when the Earth and the Sun{\r}
+Dialogue: 0,0:27:46.43,0:27:48.35,Default,,0,0,0,,{\blur3}飞出这艘"星系飞船"的顶端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rise above the galactic plane{\r}
+Dialogue: 0,0:27:48.46,0:27:52.16,Default,,0,0,0,,{\blur3}就更容易受到其产生的宇宙射线的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is much vulnerable to all of these cosmic rays coming from the bow shock.{\r}
+Dialogue: 0,0:27:55.87,0:27:59.74,Default,,0,0,0,,{\blur3}化石记录显示每隔6200万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fossil records indicate that the biodiversity of many species{\r}
+Dialogue: 0,0:27:59.79,0:28:04.16,Default,,0,0,0,,{\blur3}大量物种的多样性增加和减少一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may increase and decrease in 62 million years cycles.{\r}
+Dialogue: 0,0:28:04.36,0:28:07.51,Default,,0,0,0,,{\blur3}该循环与地球每6400万年就会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those cycles closely coinciding with the times of greatest{\r}
+Dialogue: 0,0:28:07.54,0:28:10.89,Default,,0,0,0,,{\blur3}暴露于弓形激波宇宙射线下的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}exposure to cosmic rays from the galactic bow shock{\r}
+Dialogue: 0,0:28:11.61,0:28:14.23,Default,,0,0,0,,{\blur3}非常相近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which occur every 64 million years.{\r}
+Dialogue: 0,0:28:14.82,0:28:17.13,Default,,0,0,0,,{\blur3}二者之间是否有一定联系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could the two events be connected?{\r}
+Dialogue: 0,0:28:17.99,0:28:21.12,Default,,0,0,0,,{\blur3}两次大灭绝恰好都发生在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Two of the mass extinctions happened to have occurred{\r}
+Dialogue: 0,0:28:21.30,0:28:26.08,Default,,0,0,0,,{\blur3}太阳位于我们银河系最高端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at about the time when the sun was highest above the plane of our galaxy.{\r}
+Dialogue: 0,0:28:26.69,0:28:30.35,Default,,0,0,0,,{\blur3}这意味着那个特殊的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That suggests that there is something about that particular location{\r}
+Dialogue: 0,0:28:30.36,0:28:33.23,Default,,0,0,0,,{\blur3}其特殊之处导致了那些大灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's special, causing these mass extinctions.{\r}
+Dialogue: 0,0:28:36.16,0:28:37.87,Default,,0,0,0,,{\blur3}奥陶纪大灭绝期间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During the Ordovician extinction,{\r}
+Dialogue: 0,0:28:38.80,0:28:41.65,Default,,0,0,0,,{\blur3}地球可能因足量的星系弓形激波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth could have been blasted with enough deadly radiation{\r}
+Dialogue: 0,0:28:41.66,0:28:43.09,Default,,0,0,0,,{\blur3}所产生的致命辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the galactic bow shock{\r}
+Dialogue: 0,0:28:43.65,0:28:46.76,Default,,0,0,0,,{\blur3}导致各种基因突变和DNA损害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to unleash genetic mutations and DNA damage{\r}
+Dialogue: 0,0:28:47.73,0:28:50.83,Default,,0,0,0,,{\blur3}使得近半数物种灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that wiped out over half of all species.{\r}
+Dialogue: 0,0:28:54.44,0:28:57.38,Default,,0,0,0,,{\blur3}这个想法未经证实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is not yet a well tested idea,{\r}
+Dialogue: 0,0:28:57.45,0:28:59.67,Default,,0,0,0,,{\blur3}只是一个设想{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it is just out there on the drawing board{\r}
+Dialogue: 0,0:28:59.98,0:29:03.57,Default,,0,0,0,,{\blur3}但它可以解释地球大灭绝的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it could explain some of the possible periodicity{\r}
+Dialogue: 0,0:29:03.75,0:29:05.27,Default,,0,0,0,,{\blur3}一些可能性的周期性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in Earth's mass extinctions.{\r}
+Dialogue: 0,0:29:06.80,0:29:10.63,Default,,0,0,0,,{\blur3}但当奥陶纪绝大部分物种都灭绝的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But while the Ordovician extinction was fatal to most species{\r}
+Dialogue: 0,0:29:10.85,0:29:13.24,Default,,0,0,0,,{\blur3}有些物种抓住了机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}some grasped at the opportunity.{\r}
+Dialogue: 0,0:29:14.12,0:29:15.99,Default,,0,0,0,,{\blur3}就像在花园里除草{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like pulling weeds out of a garden,{\r}
+Dialogue: 0,0:29:16.13,0:29:19.14,Default,,0,0,0,,{\blur3}你清扫 清除 花草变得稀疏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you sort of clean out and weed out and thin out.{\r}
+Dialogue: 0,0:29:19.59,0:29:22.42,Default,,0,0,0,,{\blur3}奥陶纪的大灭绝似乎就是如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That seems to have happened in the Ordovician mass extinctions.{\r}
+Dialogue: 0,0:29:22.45,0:29:26.32,Default,,0,0,0,,{\blur3}物种此消彼长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some creatures which died out allowed others to diversify.{\r}
+Dialogue: 0,0:29:28.42,0:29:31.05,Default,,0,0,0,,{\blur3}奥陶纪是第一次大灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Ordovician was the first mass extinction{\r}
+Dialogue: 0,0:29:31.94,0:29:33.27,Default,,0,0,0,,{\blur3}但不是最惨烈的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but hardly the worst.{\r}
+Dialogue: 0,0:29:35.84,0:29:39.48,Default,,0,0,0,,{\blur3}地球第三大灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Number three on our countdown of the worst days on Earth.{\r}
+Dialogue: 0,0:29:40.37,0:29:43.46,Default,,0,0,0,,{\blur3}是最著名的史前灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the most famous die off in pre-history.{\r}
+Dialogue: 0,0:29:44.47,0:29:47.60,Default,,0,0,0,,{\blur3}但是如果你自认了解龙灭绝的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if you think you know what killed the dinosaurs{\r}
+Dialogue: 0,0:29:47.74,0:29:49.95,Default,,0,0,0,,{\blur3}你也许会大吃一惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you may be in for a surprise{\r}
+Dialogue: 0,0:29:50.48,0:29:54.88,Default,,0,0,0,,{\blur3}而现在 有些科学家认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because some scientists now argue that{\r}
+Dialogue: 0,0:29:55.26,0:29:58.97,Default,,0,0,0,,{\blur3}恐龙灭绝缘于一颗巨型陨石撞击的普遍说法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the common explanation of a single giant impact on a single disastrous day{\r}
+Dialogue: 0,0:29:59.11,0:30:02.39,Default,,0,0,0,,{\blur3}可能是错误的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is itself about to be blasted away.{\r}
+Dialogue: 0,0:30:08.62,0:30:11.78,Default,,0,0,0,,{\blur3}我们倒数的地球灾难时刻中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our countdown to the very worst day on Earth,{\r}
+Dialogue: 0,0:30:12.39,0:30:16.13,Default,,0,0,0,,{\blur3}没有哪次灾难的主题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}no catastrophe has been the subject of{\r}
+Dialogue: 0,0:30:16.13,0:30:18.13,Default,,0,0,0,,{\blur3}比大撞击最终为人类发展开道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more public fascination and sensational headlines{\r}
+Dialogue: 0,0:30:18.63,0:30:23.35,Default,,0,0,0,,{\blur3}更能吸引大众且引起轰动了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the bombardment that ultimately cleared the path for mankind.{\r}
+Dialogue: 0,0:30:25.65,0:30:30.28,Default,,0,0,0,,{\blur3}但今天 争议性的新假设挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But today controversial new hypothesis challenge the concept{\r}
+Dialogue: 0,0:30:30.52,0:30:34.78,Default,,0,0,0,,{\blur3}一次灾难性的撞击使恐龙灭绝的观点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that a single disastrous impact wiped out the dinosaurs{\r}
+Dialogue: 0,0:30:35.82,0:30:38.43,Default,,0,0,0,,{\blur3}便是 地球第三大灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and led to the third worst day on Earth.{\r}
+Dialogue: 0,0:30:40.05,0:30:41.60,Default,,0,0,0,,{\blur3}白垩纪-第三纪灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The KT extinction.{\r}
+Dialogue: 0,0:30:48.16,0:30:49.58,Default,,0,0,0,,{\blur3}六千五百万年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}65 million years ago{\r}
+Dialogue: 0,0:30:49.58,0:30:52.99,Default,,0,0,0,,{\blur3}我们有类似于非洲的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we would have seen a world something like Africa,{\r}
+Dialogue: 0,0:30:52.99,0:30:55.12,Default,,0,0,0,,{\blur3}因为动物数量众多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in terms of the numbers of animals out there.{\r}
+Dialogue: 0,0:30:55.14,0:30:57.44,Default,,0,0,0,,{\blur3}但是没有哺乳动物 只有大恐龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But instead of being mammals, we had big dinosaurs{\r}
+Dialogue: 0,0:30:57.70,0:31:02.16,Default,,0,0,0,,{\blur3}大量的三角龙 成群的梁龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}herds of triceratops, herds of diplo dinosaurs,{\r}
+Dialogue: 0,0:31:02.44,0:31:06.00,Default,,0,0,0,,{\blur3}大小不一的食肉恐龙 最大的是霸王龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}small to big predators, the largest being T-Rex.{\r}
+Dialogue: 0,0:31:08.95,0:31:14.11,Default,,0,0,0,,{\blur3}恐龙在史前世界称霸了约2亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dinosaurs ruled the pre-historic world for almost 200 million years,{\r}
+Dialogue: 0,0:31:15.94,0:31:19.72,Default,,0,0,0,,{\blur3}之后某物灭绝了地球上三分之二的生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then something took out 2/3 of all living creatures{\r}
+Dialogue: 0,0:31:20.10,0:31:22.11,Default,,0,0,0,,{\blur3}包括巨型野兽[恐龙]{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including the giant beasts.{\r}
+Dialogue: 0,0:31:26.43,0:31:30.62,Default,,0,0,0,,{\blur3}研究多年以后 绝大部分专家认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After years of searching for clues, most experts now agree{\r}
+Dialogue: 0,0:31:30.63,0:31:34.06,Default,,0,0,0,,{\blur3}一次大灾难终结了恐龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that a single cataclysm doomed the dinosaurs.{\r}
+Dialogue: 0,0:31:35.79,0:31:40.88,Default,,0,0,0,,{\blur3}6500万年前一颗直径9.6公里的小行星撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The evidence for an impact of a 6-mile wide asteroid 65 million years ago,{\r}
+Dialogue: 0,0:31:40.89,0:31:42.84,Default,,0,0,0,,{\blur3}科学上已经很好的证明了这一点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is about as good as anything gets in science.{\r}
+Dialogue: 0,0:31:45.28,0:31:47.38,Default,,0,0,0,,{\blur3}六千五百万年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}65 million years ago,{\r}
+Dialogue: 0,0:31:47.92,0:31:50.16,Default,,0,0,0,,{\blur3}一块珠穆朗玛峰体积的岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a rock the size of Mount Everest{\r}
+Dialogue: 0,0:31:50.21,0:31:51.81,Default,,0,0,0,,{\blur3}破空而落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}barreled down from the sky{\r}
+Dialogue: 0,0:31:52.13,0:31:54.55,Default,,0,0,0,,{\blur3}撞入尤卡坦半岛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and slammed into the Yucatan peninsula{\r}
+Dialogue: 0,0:31:54.82,0:31:56.96,Default,,0,0,0,,{\blur3}位于现在的墨西哥希克苏鲁伯附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}near modern Chicxulub, Mexico.{\r}
+Dialogue: 0,0:31:59.73,0:32:03.19,Default,,0,0,0,,{\blur3}此次撞击引发了一条毁灭链{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The impact unleashed an unstoppable chain of destruction.{\r}
+Dialogue: 0,0:32:04.00,0:32:07.47,Default,,0,0,0,,{\blur3}从该地区开始 然后横扫全球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First locally, and then across the globe.{\r}
+Dialogue: 0,0:32:09.13,0:32:11.28,Default,,0,0,0,,{\blur3}第三纪灭绝是由小行星撞击引起的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The KT is an asteroid driving to an extinction{\r}
+Dialogue: 0,0:32:11.47,0:32:13.27,Default,,0,0,0,,{\blur3}当其撞击地球时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when a big rock from the space came down{\r}
+Dialogue: 0,0:32:13.36,0:32:15.24,Default,,0,0,0,,{\blur3}小部分恐龙直接死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}clunked a few dinosaurs on the head.{\r}
+Dialogue: 0,0:32:15.24,0:32:18.89,Default,,0,0,0,,{\blur3}但是毁灭机制却是这件事的副效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the kill mechanism was really the secondary effects of this.{\r}
+Dialogue: 0,0:32:18.91,0:32:20.59,Default,,0,0,0,,{\blur3}它导致大气层变黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would have been darkened the atmosphere{\r}
+Dialogue: 0,0:32:20.83,0:32:24.62,Default,,0,0,0,,{\blur3}酸雨 整个生物圈改变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}acid rain, a change in the entire biosphere.{\r}
+Dialogue: 0,0:32:25.59,0:32:27.78,Default,,0,0,0,,{\blur3}但是单一碰撞学说的反对者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But opponents of the single impact theory,{\r}
+Dialogue: 0,0:32:28.53,0:32:30.75,Default,,0,0,0,,{\blur3}举出一组令人信服的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}point to a convincing array of evidence,{\r}
+Dialogue: 0,0:32:32.36,0:32:35.44,Default,,0,0,0,,{\blur3}包括第三纪灭绝事件地质层或死亡层中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including high levels of the asteroid element iridium{\r}
+Dialogue: 0,0:32:35.65,0:32:40.13,Default,,0,0,0,,{\blur3}具有高含量的小行星元素铱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the KT event's geological boundary or death layer.{\r}
+Dialogue: 0,0:32:40.75,0:32:43.13,Default,,0,0,0,,{\blur3}当然这个确凿的证据本身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And of course the smoking gun itself,{\r}
+Dialogue: 0,0:32:43.66,0:32:46.54,Default,,0,0,0,,{\blur3}就是现代墨西哥的水下火山口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the underwater crater in modern Mexico.{\r}
+Dialogue: 0,0:32:47.80,0:32:50.71,Default,,0,0,0,,{\blur3}但是旧案得以了结吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But is this cold case finally closed?{\r}
+Dialogue: 0,0:32:51.51,0:32:53.39,Default,,0,0,0,,{\blur3}一些科学家现在认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some scientists now argue that the{\r}
+Dialogue: 0,0:32:53.41,0:32:55.95,Default,,0,0,0,,{\blur3}尤卡坦半岛的小行星有共犯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Yucatan asteroid had accomplices.{\r}
+Dialogue: 0,0:32:57.10,0:32:59.59,Default,,0,0,0,,{\blur3}似乎很多原因都可能触发这次事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's seems to be various causes that could trigger this.{\r}
+Dialogue: 0,0:32:59.62,0:33:02.18,Default,,0,0,0,,{\blur3}有时候 几个原因同时出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In some cases, several causes come together{\r}
+Dialogue: 0,0:33:02.18,0:33:04.46,Default,,0,0,0,,{\blur3}造成很糟糕的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and sort of confluence of bad circumstances{\r}
+Dialogue: 0,0:33:04.48,0:33:07.66,Default,,0,0,0,,{\blur3}导致了具有特殊破坏性的灭绝事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to provide a particularly damaging extinction event.{\r}
+Dialogue: 0,0:33:08.83,0:33:11.41,Default,,0,0,0,,{\blur3}第三纪毁灭之前的数百万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Millions of years before the KT extinction{\r}
+Dialogue: 0,0:33:12.14,0:33:15.63,Default,,0,0,0,,{\blur3}已经有巨大的熔岩流注入德干岩群{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}vast lava flows had been pouring out into the Deccan traps,{\r}
+Dialogue: 0,0:33:15.91,0:33:19.85,Default,,0,0,0,,{\blur3}那是现在位于印度西南的系列熔岩层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a series of lava beds, now located in southwest India.{\r}
+Dialogue: 0,0:33:21.98,0:33:25.33,Default,,0,0,0,,{\blur3}这些溢流玄武岩曾喷出的岩浆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These flood basalts once spewed out enough magma{\r}
+Dialogue: 0,0:33:25.40,0:33:27.52,Default,,0,0,0,,{\blur3}能覆盖1600万平方公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to cover over a million square miles,{\r}
+Dialogue: 0,0:33:28.12,0:33:30.60,Default,,0,0,0,,{\blur3}并喷出一种有毒的气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and belched up a toxic brew of gases{\r}
+Dialogue: 0,0:33:30.89,0:33:33.99,Default,,0,0,0,,{\blur3}也许改变了整个地球的气候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could have altered the climate around the world.{\r}
+Dialogue: 0,0:33:35.25,0:33:38.87,Default,,0,0,0,,{\blur3}火山爆发的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That period of eruption is pretty coincident{\r}
+Dialogue: 0,0:33:38.89,0:33:41.06,Default,,0,0,0,,{\blur3}与六千五百万年前的灭绝也很符合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the extinction 65 million years ago, as well.{\r}
+Dialogue: 0,0:33:41.12,0:33:43.10,Default,,0,0,0,,{\blur3}实际上 在第三纪撞击和大灭绝之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, they were going on millions of years{\r}
+Dialogue: 0,0:33:43.10,0:33:46.21,Default,,0,0,0,,{\blur3}这种情况已经持续了几百万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before the KT impact and before the extinctions.{\r}
+Dialogue: 0,0:33:46.75,0:33:49.75,Default,,0,0,0,,{\blur3}所以 原因也许是一个复合因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, so, perhaps can be a complicating factor.{\r}
+Dialogue: 0,0:33:51.18,0:33:55.27,Default,,0,0,0,,{\blur3}在这个假设里 恐龙被双重淘汰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this scenario, the dinosaurs received a double knockout blow.{\r}
+Dialogue: 0,0:33:57.37,0:34:00.48,Default,,0,0,0,,{\blur3}首先是德干岩群的活跃的火山活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First the rapid volcanism of the Deccan traps,{\r}
+Dialogue: 0,0:34:01.30,0:34:03.09,Default,,0,0,0,,{\blur3}然后是尤卡坦半岛撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the Yucatan impact.{\r}
+Dialogue: 0,0:34:08.06,0:34:10.96,Default,,0,0,0,,{\blur3}一小群反对者甚至宣称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And a small group of dissenters goes even further,{\r}
+Dialogue: 0,0:34:12.30,0:34:14.59,Default,,0,0,0,,{\blur3}在六千五百万年前的几乎同一时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}claiming that multiple asteroids stroke Earth{\r}
+Dialogue: 0,0:34:14.61,0:34:18.88,Default,,0,0,0,,{\blur3}有多次小行星撞击地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at roughly the same time 65 million years ago.{\r}
+Dialogue: 0,0:34:20.15,0:34:23.72,Default,,0,0,0,,{\blur3}他们认为 尤卡坦半岛撞击不算最剧烈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}According to them, the Yucatan impact wasn't the largest,{\r}
+Dialogue: 0,0:34:24.51,0:34:26.26,Default,,0,0,0,,{\blur3}只是人类对其记录很完整{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only the best documented.{\r}
+Dialogue: 0,0:34:28.78,0:34:31.73,Default,,0,0,0,,{\blur3}有些人认为可能有多次撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some people think that there may be have been multiple impacts,{\r}
+Dialogue: 0,0:34:31.78,0:34:33.81,Default,,0,0,0,,{\blur3}陨石雨般的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a shower of impacts, for example.{\r}
+Dialogue: 0,0:34:34.42,0:34:38.09,Default,,0,0,0,,{\blur3}也许他们来自同一物体 它碎成数块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Perhaps they came from a single object that broke apart.{\r}
+Dialogue: 0,0:34:39.55,0:34:41.50,Default,,0,0,0,,{\blur3}这种假设的支持者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Supporters of this hypothesis{\r}
+Dialogue: 0,0:34:41.52,0:34:43.85,Default,,0,0,0,,{\blur3}指出了一种可疑的地质特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}point to a suspicious geologic feature,{\r}
+Dialogue: 0,0:34:44.76,0:34:48.20,Default,,0,0,0,,{\blur3}印度海岸处有块直径595公里的盆地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a 370-mile basin off the coast of India.{\r}
+Dialogue: 0,0:34:49.23,0:34:52.77,Default,,0,0,0,,{\blur3}比尤卡坦半岛撞击点面积大三倍多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}More than 3 times larger than the Yucatan impact site.{\r}
+Dialogue: 0,0:34:54.11,0:34:57.94,Default,,0,0,0,,{\blur3}但对于这个所谓的湿婆陨石坑 争论不断{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But controversy swirls around this so called Shiva crater,{\r}
+Dialogue: 0,0:34:58.48,0:35:00.96,Default,,0,0,0,,{\blur3}它以印度教毁灭神的名字命名{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}named after the Hindu god of destruction,{\r}
+Dialogue: 0,0:35:02.37,0:35:04.96,Default,,0,0,0,,{\blur3}讨论包括它到底是不是个火山口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including whether it is even a crater at all.{\r}
+Dialogue: 0,0:35:07.32,0:35:11.28,Default,,0,0,0,,{\blur3}虽然它的外型像个环状的大坑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While this feature certainly looks circular and looks crater-like{\r}
+Dialogue: 0,0:35:11.35,0:35:14.50,Default,,0,0,0,,{\blur3}但是没有其他证据证明它的确是撞击所致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is no other evidence that it's an actual impact structure.{\r}
+Dialogue: 0,0:35:16.17,0:35:19.72,Default,,0,0,0,,{\blur3}虽然恐龙灭绝争论不一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For some the dinosaur die-off debate rages on.{\r}
+Dialogue: 0,0:35:21.26,0:35:22.98,Default,,0,0,0,,{\blur3}但是大部分科学家都认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But most scientists agree{\r}
+Dialogue: 0,0:35:23.05,0:35:25.88,Default,,0,0,0,,{\blur3}这次毁灭事件对于小型哺乳动物来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the apocalyptic event was a very fortunate day{\r}
+Dialogue: 0,0:35:26.36,0:35:27.75,Default,,0,0,0,,{\blur3}却是很幸运的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for small mammals,{\r}
+Dialogue: 0,0:35:28.08,0:35:30.66,Default,,0,0,0,,{\blur3}它们再也不必成为霸王龙的盘中餐了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that were no longer dinner for T-Rex.{\r}
+Dialogue: 0,0:35:32.04,0:35:35.08,Default,,0,0,0,,{\blur3}如果没有第三纪大撞击和火山作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had it not been for the KT impact and the volcanism{\r}
+Dialogue: 0,0:35:35.10,0:35:38.38,Default,,0,0,0,,{\blur3}也就是恐龙灭绝的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was also at the time of the extinction of the dinosaurs,{\r}
+Dialogue: 0,0:35:38.91,0:35:42.82,Default,,0,0,0,,{\blur3}也许哺乳动物就不可能崛起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mammals probably wouldn't have reason to the prominence that they did{\r}
+Dialogue: 0,0:35:43.01,0:35:44.84,Default,,0,0,0,,{\blur3}由于哺乳动物的崛起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and thank heaven for the rise of mammals{\r}
+Dialogue: 0,0:35:44.90,0:35:46.83,Default,,0,0,0,,{\blur3}人类得以起源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because that led to the rise of humans.{\r}
+Dialogue: 0,0:35:48.31,0:35:51.53,Default,,0,0,0,,{\blur3}第三纪灭绝引发了一个严峻的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A KT extinction raises a sobering question...{\r}
+Dialogue: 0,0:35:52.30,0:35:56.26,Default,,0,0,0,,{\blur3}是否有一天人类也会跟恐龙的下场一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Could humans one day go the way of the dinosaurs?{\r}
+Dialogue: 0,0:35:58.24,0:36:01.99,Default,,0,0,0,,{\blur3}这是来自密歇根艾德里安市的汤姆·莫尔想要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what viewer Tom Moore from Adrian, Michigan wanted to{\r}
+Dialogue: 0,0:36:02.08,0:36:03.86,Default,,0,0,0,,{\blur3}询问宇宙的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ask The Universe.{\r}
+Dialogue: 0,0:36:05.63,0:36:09.82,Default,,0,0,0,,{\blur3}地球会再次与一颗第三纪时期大小的小行星相撞吗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Will earth be stricken again by KT-sized asteroid?{\r}
+Dialogue: 0,0:36:12.24,0:36:14.91,Default,,0,0,0,,{\blur3}汤姆 地球绝对可能会遭受{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, Tom, Earth could definitely be hit{\r}
+Dialogue: 0,0:36:15.13,0:36:17.62,Default,,0,0,0,,{\blur3}另一颗第三纪时期大小的彗星或小行星的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by another KT-sized comet or asteroid.{\r}
+Dialogue: 0,0:36:17.82,0:36:18.62,Default,,0,0,0,,{\blur3}它们就在那{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're out there.{\r}
+Dialogue: 0,0:36:19.12,0:36:22.62,Default,,0,0,0,,{\blur3}好消息是我们正追踪大部分大行星的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The good news is we are tracking the position of most of the big ones.{\r}
+Dialogue: 0,0:36:22.81,0:36:25.72,Default,,0,0,0,,{\blur3}如果我们发现一颗可能撞向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if we ever find one with Earth's name written on it{\r}
+Dialogue: 0,0:36:26.27,0:36:29.10,Default,,0,0,0,,{\blur3}希望能在它撞击地球前将其打偏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hopefully we'll be able to deflect it before it reaches Earth.{\r}
+Dialogue: 0,0:36:31.21,0:36:33.85,Default,,0,0,0,,{\blur3}白垩纪-第三纪灭绝事件终结了霸王龙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The KT event toppled T-Rex,{\r}
+Dialogue: 0,0:36:34.57,0:36:36.84,Default,,0,0,0,,{\blur3}但这只能算作是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it only ranks as number three{\r}
+Dialogue: 0,0:36:37.27,0:36:39.90,Default,,0,0,0,,{\blur3}第三大地球灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on our countdown of worst days on Earth.{\r}
+Dialogue: 0,0:36:41.42,0:36:44.64,Default,,0,0,0,,{\blur3}排名第二的是最惨烈的灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Number two was the mother of all extinctions,{\r}
+Dialogue: 0,0:36:45.08,0:36:48.89,Default,,0,0,0,,{\blur3}地球生物所经历的最惨烈的毁灭事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the greatest die-off that life on Earth has ever suffered.{\r}
+Dialogue: 0,0:36:49.59,0:36:53.77,Default,,0,0,0,,{\blur3}这仍是科学领域最大的未解之谜之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is also been one of the biggest unsolved mysteries in science,{\r}
+Dialogue: 0,0:36:54.58,0:36:55.84,Default,,0,0,0,,{\blur3}直到现在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until now.{\r}
+Dialogue: 0,0:37:03.72,0:37:06.35,Default,,0,0,0,,{\blur3}随着灾难倒数的高潮临近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we near the climax of our countdown{\r}
+Dialogue: 0,0:37:07.28,0:37:10.53,Default,,0,0,0,,{\blur3}我们重新开启最古老的未解悬案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we reopen one of the oldest cold cases,{\r}
+Dialogue: 0,0:37:11.98,0:37:17.04,Default,,0,0,0,,{\blur3}这个未解谋杀之谜发生在2亿5千万年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an unsolved murder mystery that happened 250 million years ago,{\r}
+Dialogue: 0,0:37:18.30,0:37:23.63,Default,,0,0,0,,{\blur3}大约在恐龙灭绝两亿年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}almost 200 million years before the downfall of the dinosaurs.{\r}
+Dialogue: 0,0:37:25.21,0:37:26.66,Default,,0,0,0,,{\blur3}第二大灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The second worst day{\r}
+Dialogue: 0,0:37:26.89,0:37:30.40,Default,,0,0,0,,{\blur3}见证了地球史上规模最大的物种灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}witness the greatest mass extinction in the planet's history.{\r}
+Dialogue: 0,0:37:32.24,0:37:35.40,Default,,0,0,0,,{\blur3}一次被称为大灭绝的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A cataclysm known as the great dying.{\r}
+Dialogue: 0,0:37:38.61,0:37:42.29,Default,,0,0,0,,{\blur3}二叠纪期间 地球上充满了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During the Permian period, Earth was a wondrous world{\r}
+Dialogue: 0,0:37:42.30,0:37:45.79,Default,,0,0,0,,{\blur3}类哺乳的爬行动物和奇异的海洋生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of mammal-like reptiles and exotic sea creatures.{\r}
+Dialogue: 0,0:37:47.31,0:37:51.74,Default,,0,0,0,,{\blur3}之后 95%的生物从这颗星球上消失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then, 90% of all life disappeared from the planet.{\r}
+Dialogue: 0,0:37:53.35,0:37:56.58,Default,,0,0,0,,{\blur3}这是地球上命运多舛的几万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a bad few hundred thousand years on planet Earth,{\r}
+Dialogue: 0,0:37:56.83,0:37:58.70,Default,,0,0,0,,{\blur3}但确是最具灾难性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it was certainly the most catastrophic.{\r}
+Dialogue: 0,0:37:59.03,0:38:03.98,Default,,0,0,0,,{\blur3}此次生物灭绝数量之多 可能空前绝后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}More life died then, than any time since and maybe any time before.{\r}
+Dialogue: 0,0:38:03.98,0:38:06.02,Default,,0,0,0,,{\blur3}也是规模最大 死亡最惨重的一次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was the biggest and the baddest of them all.{\r}
+Dialogue: 0,0:38:08.18,0:38:11.81,Default,,0,0,0,,{\blur3}几十年来 科学家们搜寻线索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For decades, scientists have sifted through clues,{\r}
+Dialogue: 0,0:38:11.99,0:38:14.75,Default,,0,0,0,,{\blur3}试图揭开大灭绝的谜团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}struggling to solve the mystery of the great dying,{\r}
+Dialogue: 0,0:38:14.97,0:38:19.23,Default,,0,0,0,,{\blur3}那时的生物真是命悬一线啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when the survival of life itself seemed to hang by a thread.{\r}
+Dialogue: 0,0:38:23.29,0:38:24.86,Default,,0,0,0,,{\blur3}其中可能性最大的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the prime suspects{\r}
+Dialogue: 0,0:38:24.99,0:38:29.56,Default,,0,0,0,,{\blur3}一座超级火山冲破西伯利亚 地裂数百公里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a super volcano that tore Siberia open for hundreds of miles{\r}
+Dialogue: 0,0:38:30.23,0:38:32.89,Default,,0,0,0,,{\blur3}喷发了至少一百万年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}erupted for at least a million years{\r}
+Dialogue: 0,0:38:33.76,0:38:36.82,Default,,0,0,0,,{\blur3}产生了史上最大规模的熔岩流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and produced the greatest lava flows ever known,{\r}
+Dialogue: 0,0:38:38.00,0:38:42.19,Default,,0,0,0,,{\blur3}足以将整个美国埋在数百米深的熔岩流下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}enough to bury the entire United States, thousands of feet deep.{\r}
+Dialogue: 0,0:38:44.22,0:38:46.86,Default,,0,0,0,,{\blur3}这不只是座巨型火山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This wasn't a single giant volcano,{\r}
+Dialogue: 0,0:38:46.92,0:38:48.44,Default,,0,0,0,,{\blur3}简直就是地表开裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it was simply cracks in the Earth{\r}
+Dialogue: 0,0:38:48.84,0:38:50.94,Default,,0,0,0,,{\blur3}喷射熔岩一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they were like pumping out lava.{\r}
+Dialogue: 0,0:38:50.96,0:38:53.73,Default,,0,0,0,,{\blur3}那就像是消防水龙头 岩浆喷涌到处都是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's like a fire hose, spewing lava everywhere.{\r}
+Dialogue: 0,0:38:54.28,0:38:56.70,Default,,0,0,0,,{\blur3}熔岩所经之处 必将生灵涂炭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well that sort of would have killed anything in its way.{\r}
+Dialogue: 0,0:38:57.72,0:39:00.14,Default,,0,0,0,,{\blur3}人们相信这些煤层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's believed that you have these beds of coal{\r}
+Dialogue: 0,0:39:00.21,0:39:01.54,Default,,0,0,0,,{\blur3}就在现在的西伯利亚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on what it is now Siberia,{\r}
+Dialogue: 0,0:39:01.72,0:39:04.30,Default,,0,0,0,,{\blur3}熔岩在煤层之下喷发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which then had lava erupting underneath them{\r}
+Dialogue: 0,0:39:04.32,0:39:06.81,Default,,0,0,0,,{\blur3}将煤燃烧并产生有害的温室气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and burning the coal and putting sorts of noxious{\r}
+Dialogue: 0,0:39:06.82,0:39:09.50,Default,,0,0,0,,{\blur3}和其他有毒气体进入大气中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}greenhouse and other toxic gasses into the atmosphere{\r}
+Dialogue: 0,0:39:09.51,0:39:13.10,Default,,0,0,0,,{\blur3}对生物圈的影响非常可怕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and really putting strong stress on to the biosphere.{\r}
+Dialogue: 0,0:39:14.52,0:39:17.86,Default,,0,0,0,,{\blur3}与日俱增的全球变暖给多数动物带来灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The increased global warming was fatal to most animals.{\r}
+Dialogue: 0,0:39:19.63,0:39:22.38,Default,,0,0,0,,{\blur3}但植物通常靠二氧化碳生长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But plants usually thrived on carbon dioxide,{\r}
+Dialogue: 0,0:39:23.38,0:39:27.49,Default,,0,0,0,,{\blur3}那么为何它们也经历了史无前例的灭绝呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so why did they also succumb at rates that have never been equal?{\r}
+Dialogue: 0,0:39:29.09,0:39:31.61,Default,,0,0,0,,{\blur3}我们认为的 也是刚发现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's a second killer in the story{\r}
+Dialogue: 0,0:39:31.64,0:39:33.48,Default,,0,0,0,,{\blur3}这次事件的二号杀手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we think and just now discovering,{\r}
+Dialogue: 0,0:39:33.90,0:39:36.09,Default,,0,0,0,,{\blur3}是地球上第一次出现的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's the presence for the first time on the planet{\r}
+Dialogue: 0,0:39:36.57,0:39:39.91,Default,,0,0,0,,{\blur3}大量硫酸氢气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of massive amounts of hydrogen sulphate gas.{\r}
+Dialogue: 0,0:39:40.17,0:39:43.79,Default,,0,0,0,,{\blur3}同坏鸡蛋所散发的气体一样 绝对的毒气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The same stuff you see with rotten eggs, that is a true poison{\r}
+Dialogue: 0,0:39:44.12,0:39:46.82,Default,,0,0,0,,{\blur3}我觉得 它与热结合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and yet with the heat combined I think{\r}
+Dialogue: 0,0:39:46.84,0:39:48.73,Default,,0,0,0,,{\blur3}造成了规模最大的生物灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it caused this greatest of mass extinctions.{\r}
+Dialogue: 0,0:39:51.98,0:39:54.73,Default,,0,0,0,,{\blur3}如果科学陪审团仍然在为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the scientific jury is still debating the cause{\r}
+Dialogue: 0,0:39:54.73,0:39:56.69,Default,,0,0,0,,{\blur3}三叠纪灭绝的原因辩论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the Permian-Triassic extinction,{\r}
+Dialogue: 0,0:39:58.03,0:40:01.27,Default,,0,0,0,,{\blur3}他们一致认为那段时间是到目前为止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}no one disputes that those were the darkest days{\r}
+Dialogue: 0,0:40:01.30,0:40:03.87,Default,,0,0,0,,{\blur3}地球上最黑暗的日子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for life on our planet so far.{\r}
+Dialogue: 0,0:40:06.71,0:40:10.93,Default,,0,0,0,,{\blur3}但地球上的生命不能 也不会幸免于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But life on Earth cannot and will not survive an event{\r}
+Dialogue: 0,0:40:11.41,0:40:15.80,Default,,0,0,0,,{\blur3}一次科学家预测的如死亡一样必然的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that scientists predict it's as unavoidable as death itself.{\r}
+Dialogue: 0,0:40:17.30,0:40:20.10,Default,,0,0,0,,{\blur3}地球第一大灾难时刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The number one worst day on planet Earth.{\r}
+Dialogue: 0,0:40:21.07,0:40:23.00,Default,,0,0,0,,{\blur3}末日审判{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The solar apocalypse.{\r}
+Dialogue: 0,0:40:25.40,0:40:30.21,Default,,0,0,0,,{\blur3}再过50亿年 太阳将走到生命的尽头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In five billion years, our Sun will reach the end of its life,{\r}
+Dialogue: 0,0:40:32.00,0:40:34.48,Default,,0,0,0,,{\blur3}随着核燃料的耗尽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as it exhausts its nuclear fuel,{\r}
+Dialogue: 0,0:40:34.66,0:40:37.47,Default,,0,0,0,,{\blur3}它将经受一次毁灭性的转变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it will undergo a disastrous transformation{\r}
+Dialogue: 0,0:40:38.61,0:40:40.82,Default,,0,0,0,,{\blur3}膨胀成一颗巨型恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}bloating into a red giant star{\r}
+Dialogue: 0,0:40:41.66,0:40:44.66,Default,,0,0,0,,{\blur3}是现在体积的二百倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}200 times its original size.{\r}
+Dialogue: 0,0:40:46.00,0:40:49.26,Default,,0,0,0,,{\blur3}其膨胀过程中 它将首先吞掉水星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As it swells, it will first engulf Mercury,{\r}
+Dialogue: 0,0:40:49.77,0:40:50.98,Default,,0,0,0,,{\blur3}之后是金星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then Venus,{\r}
+Dialogue: 0,0:40:52.05,0:40:56.17,Default,,0,0,0,,{\blur3}被烧烬的地球也将被推上更远轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the incinerated Earth will either be pushed to a higher orbit{\r}
+Dialogue: 0,0:40:56.62,0:40:58.44,Default,,0,0,0,,{\blur3}或是被吞没{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or swallowed itself.{\r}
+Dialogue: 0,0:41:00.95,0:41:03.88,Default,,0,0,0,,{\blur3}好消息是 太阳烧烬地球的那一天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The goods news, humans won't be around{\r}
+Dialogue: 0,0:41:03.91,0:41:05.86,Default,,0,0,0,,{\blur3}人类早已不在此生活了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the day our Sun incinerates Earth.{\r}
+Dialogue: 0,0:41:06.63,0:41:11.13,Default,,0,0,0,,{\blur3}但在这之前 我们将长期被烈日烘烤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bad news, we will have been roasted long before.{\r}
+Dialogue: 0,0:41:14.11,0:41:18.74,Default,,0,0,0,,{\blur3}太阳逐渐变亮 大约每十亿年增加百分之十{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun gets brighter, about 10% every billion years{\r}
+Dialogue: 0,0:41:19.63,0:41:21.60,Default,,0,0,0,,{\blur3}因此 不到十亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so in less than a billion years,{\r}
+Dialogue: 0,0:41:21.62,0:41:22.87,Default,,0,0,0,,{\blur3}太阳将变得足够明亮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Sun will be bright enough.{\r}
+Dialogue: 0,0:41:23.34,0:41:25.41,Default,,0,0,0,,{\blur3}据估计 这会抽走大气中的几乎所有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's predicted that it will pump basically all{\r}
+Dialogue: 0,0:41:25.72,0:41:29.91,Default,,0,0,0,,{\blur3}或是大部分的二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or most of the carbon dioxide out of the atmosphere,{\r}
+Dialogue: 0,0:41:30.41,0:41:34.56,Default,,0,0,0,,{\blur3}那些依赖二氧化碳生存的生物 如植物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so things that rely on carbon dioxide like plants{\r}
+Dialogue: 0,0:41:34.59,0:41:37.88,Default,,0,0,0,,{\blur3}将很难在自然界中生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are gonna have a hard time surviving in a natural world.{\r}
+Dialogue: 0,0:41:41.26,0:41:44.14,Default,,0,0,0,,{\blur3}随着星球枯萎和海洋蒸发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As plants shrivel and oceans evaporate{\r}
+Dialogue: 0,0:41:44.80,0:41:47.91,Default,,0,0,0,,{\blur3}生物学家预测未来将有一次超级大灭绝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}biologists predict a future mega-mass extinction.{\r}
+Dialogue: 0,0:41:51.16,0:41:55.69,Default,,0,0,0,,{\blur3}动物时代将在五亿年内结束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The age of animals will end in about 500 million years.{\r}
+Dialogue: 0,0:41:57.01,0:42:00.65,Default,,0,0,0,,{\blur3}我们在未来有足够的时间像动物一样生存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have as much time in the future to be alive as an animal{\r}
+Dialogue: 0,0:42:00.87,0:42:02.66,Default,,0,0,0,,{\blur3}就像过去一样 我们已经成功一半了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as we had in the past, we're half way through,{\r}
+Dialogue: 0,0:42:02.91,0:42:04.16,Default,,0,0,0,,{\blur3}这是个好消息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's a sobering thought.{\r}
+Dialogue: 0,0:42:13.55,0:42:18.14,Default,,0,0,0,,{\blur3}我们目睹了地球经历了形成月球的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've seen Earth smacked by the giant Moon forming impact,{\r}
+Dialogue: 0,0:42:18.87,0:42:22.67,Default,,0,0,0,,{\blur3}在晚期大轰炸时期 被狂轰乱炸 横扫一空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}strafed and sterilized during the Late Heavy Bombardment{\r}
+Dialogue: 0,0:42:23.71,0:42:26.18,Default,,0,0,0,,{\blur3}以及冰冻成一个巨大的雪地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and frozen into a giant snowball,{\r}
+Dialogue: 0,0:42:28.47,0:42:32.01,Default,,0,0,0,,{\blur3}在第一次大规模灭绝期间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a cosmic force ravished an ancient water world{\r}
+Dialogue: 0,0:42:32.44,0:42:34.54,Default,,0,0,0,,{\blur3}宇宙能量灭绝了古海底世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}during the first mass extinction,{\r}
+Dialogue: 0,0:42:35.15,0:42:38.99,Default,,0,0,0,,{\blur3}大灭绝期间 一次近似全体消亡紧跟其后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}followed by a near total extinction during the Great Dying{\r}
+Dialogue: 0,0:42:40.25,0:42:43.54,Default,,0,0,0,,{\blur3}还有恐龙时代的惊人落幕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the spectacular fall of the dinosaurs.{\r}
+Dialogue: 0,0:42:45.96,0:42:47.77,Default,,0,0,0,,{\blur3}在地球最终被太阳炙烤之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What else lies in store{\r}
+Dialogue: 0,0:42:47.83,0:42:51.86,Default,,0,0,0,,{\blur3}还会发生什么呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before our planet is ultimately baked by the Sun...?{\r}
+Dialogue: 0,0:42:54.63,0:42:57.63,Default,,0,0,0,,{\blur3}地球在死亡前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth will certainly continue to experience{\r}
+Dialogue: 0,0:42:57.63,0:43:00.46,Default,,0,0,0,,{\blur3}必定会继续经历灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}disasters all the way up until the very end{\r}
+Dialogue: 0,0:43:00.51,0:43:04.48,Default,,0,0,0,,{\blur3}直至太阳的红巨星阶段为地球画上句号{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and sun's red giant phase brings ends to the story.{\r}
+Dialogue: 0,0:43:05.85,0:43:09.57,Default,,0,0,0,,{\blur3}历史证明地球是一颗不可预知的星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}History has proven that Earth is an unpredictable planet{\r}
+Dialogue: 0,0:43:10.89,0:43:13.95,Default,,0,0,0,,{\blur3}环绕在一个非常危险的银河地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}orbiting in a very dangerous galactic neighbourhood.{\r}
+Dialogue: 0,0:43:15.90,0:43:20.58,Default,,0,0,0,,{\blur3}为了生存 人类必须从过往灾难中学习{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To survive, mankind must learn from the worst days of our past{\r}
+Dialogue: 0,0:43:20.88,0:43:24.62,Default,,0,0,0,,{\blur3}试着在未知的宇宙事件发生前做好准备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and try to prepare for whatever the cosmos might throw at us,{\r}
+Dialogue: 0,0:43:26.38,0:43:29.34,Default,,0,0,0,,{\blur3}只有增加对宇宙的认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}only by increasing our knowledge of the universe,{\r}
+Dialogue: 0,0:43:29.62,0:43:32.20,Default,,0,0,0,,{\blur3}我们才可能繁荣发展并好好享受{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we hope to thrive and fully enjoy{\r}
+Dialogue: 0,0:43:32.27,0:43:36.65,Default,,0,0,0,,{\blur3}地球上最后的五亿年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our final 500 million years of life on Earth.{\r}

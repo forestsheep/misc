@@ -1,0 +1,732 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:59.66,0:01:04.63,Default,,0000,0000,0008,,{\fn华文楷体\fs20\1c&HE0E0E0&\blur3}宇宙:太空边缘{\r}
+Dialogue: 0,0:00:01.39,0:00:03.86,Default,,0000,0000,0000,,{\blur3}创世之初 冥冥之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness...{\r}
+Dialogue: 0,0:00:03.90,0:00:05.99,Default,,0000,0000,0000,,{\blur3}随着轰的一声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, bang...{\r}
+Dialogue: 0,0:00:06.03,0:00:09.21,Default,,0000,0000,0000,,{\blur3}诞生了无限膨胀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to an endless expanding existence...{\r}
+Dialogue: 0,0:00:09.25,0:00:11.80,Default,,0000,0000,0000,,{\blur3}时间 空间和物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:11.85,0:00:14.31,Default,,0000,0000,0000,,{\blur3}现在 所见超乎我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, see further than we've ever imagined...{\r}
+Dialogue: 0,0:00:14.36,0:00:16.49,Default,,0000,0000,0000,,{\blur3}超越了我们生存的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the limits of our existence...{\r}
+Dialogue: 0,0:00:16.53,0:00:18.92,Default,,0000,0000,0000,,{\blur3}这个空间我们称之为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a place we call "The Universe."{\r}
+Dialogue: 0,0:00:21.43,0:00:26.49,Default,,0000,0000,0000,,{\blur3}想象有个地方 卫星90分钟可以绕地球一圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine a place where a satellite can circle the earth in 90 minutes...{\r}
+Dialogue: 0,0:00:27.33,0:00:29.63,Default,,0000,0000,0000,,{\blur3}度假的游客一觉醒来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where a tourist on vacation wakes up...{\r}
+Dialogue: 0,0:00:29.67,0:00:33.85,Default,,0000,0000,0000,,{\blur3}从太空酒店的房间里眺望出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and takes in their view from a hotel room in space...{\r}
+Dialogue: 0,0:00:33.89,0:00:37.24,Default,,0000,0000,0000,,{\blur3}或者一片涂层成为了致命武器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or where a speck of paint becomes a lethal weapon...{\r}
+Dialogue: 0,0:00:38.45,0:00:41.63,Default,,0000,0000,0000,,{\blur3}会在航天飞机的侧面击出一个窟窿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}able to blow a hole in the side of a spacecraft.{\r}
+Dialogue: 0,0:00:43.06,0:00:45.35,Default,,0000,0000,0000,,{\blur3}这就是环地轨道上的现实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are the realities of Earth orbit...{\r}
+Dialogue: 0,0:00:45.40,0:00:47.87,Default,,0000,0000,0000,,{\blur3}通向太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the gateway to the solar system...{\r}
+Dialogue: 0,0:00:47.91,0:00:50.08,Default,,0000,0000,0000,,{\blur3}它是宇航员的地盘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's the turf of astronauts...{\r}
+Dialogue: 0,0:00:50.13,0:00:51.38,Default,,0000,0000,0000,,{\blur3}太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}space junk...{\r}
+Dialogue: 0,0:00:51.42,0:00:53.60,Default,,0000,0000,0000,,{\blur3}终极寻求刺激者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the ultimate thrill seeker.{\r}
+Dialogue: 0,0:00:54.64,0:00:58.62,Default,,0000,0000,0000,,{\blur3}和我们一起前往《太空边缘》{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Journey out with us to "The Edge of Space."{\r}
+Dialogue: 0,0:01:11.00,0:01:15.73,Default,,0000,0000,0000,,{\blur3}在不久的将来 人类将登上火箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the not so distant future, a human will board a rocket...{\r}
+Dialogue: 0,0:01:15.77,0:01:17.65,Default,,0000,0000,0000,,{\blur3}坐在开放的平台上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}sit on an open platform...{\r}
+Dialogue: 0,0:01:18.78,0:01:23.09,Default,,0000,0000,0000,,{\blur3}升空120英里 直接进入环地轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and launch 120 miles straight up into Earth orbit.{\r}
+Dialogue: 0,0:01:26.69,0:01:28.82,Default,,0000,0000,0000,,{\blur3}穿上高科技的宇航服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dressed in a high-tech spacesuit...{\r}
+Dialogue: 0,0:01:28.86,0:01:31.71,Default,,0000,0000,0000,,{\blur3}他目光透过石英涂层的头盔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he'll peer through a quartz-coated visor...{\r}
+Dialogue: 0,0:01:31.75,0:01:34.93,Default,,0000,0000,0000,,{\blur3}一览无余 尽收眼底{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and take in an unparalleled view.{\r}
+Dialogue: 0,0:01:36.31,0:01:39.74,Default,,0000,0000,0000,,{\blur3}近地轨道上 景色壮观{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Being in low Earth orbit is spectacular.{\r}
+Dialogue: 0,0:01:39.78,0:01:40.95,Default,,0000,0000,0000,,{\blur3}你举目眺望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you look up...{\r}
+Dialogue: 0,0:01:40.99,0:01:45.09,Default,,0000,0000,0000,,{\blur3}看到漆黑的外太空和群星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you see the inky blackness of outer space and the stars...{\r}
+Dialogue: 0,0:01:45.14,0:01:48.78,Default,,0000,0000,0000,,{\blur3}星星甚至在白昼都在闪烁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the stars shining even in daytime.{\r}
+Dialogue: 0,0:01:48.82,0:01:53.67,Default,,0000,0000,0000,,{\blur3}低头俯视 你看到朦胧的蔚蓝色浩瀚大海{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Looking down, you see the hazy blue glow of this gigantic ocean...{\r}
+Dialogue: 0,0:01:53.71,0:01:55.05,Default,,0000,0000,0000,,{\blur3}就在你的脚下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}right underneath your feet.{\r}
+Dialogue: 0,0:01:57.27,0:01:59.99,Default,,0000,0000,0000,,{\blur3}这位观众是一位太空跳伞员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This observer is a space diver...{\r}
+Dialogue: 0,0:02:00.03,0:02:02.50,Default,,0000,0000,0000,,{\blur3}新一代终极刺激迷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a new breed of ultimate thrill junkie.{\r}
+Dialogue: 0,0:02:03.46,0:02:05.93,Default,,0000,0000,0000,,{\blur3}他解开安全带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as he unhooks from his safety harness...{\r}
+Dialogue: 0,0:02:05.97,0:02:08.10,Default,,0000,0000,0000,,{\blur3}站在太空边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and stands at the edge of space...{\r}
+Dialogue: 0,0:02:08.15,0:02:11.91,Default,,0000,0000,0000,,{\blur3}看宇宙最后一眼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he takes one last look out to the universe...{\r}
+Dialogue: 0,0:02:11.95,0:02:15.84,Default,,0000,0000,0000,,{\blur3}纵身一跃 飞向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and leaps, speeding towards Earth below.{\r}
+Dialogue: 0,0:02:20.19,0:02:23.29,Default,,0000,0000,0000,,{\blur3}太空跳跃许多未来的想法之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space diving is one of many futuristic ideas...{\r}
+Dialogue: 0,0:02:23.33,0:02:25.25,Default,,0000,0000,0000,,{\blur3}安排在环地轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}planned for Earth orbit...{\r}
+Dialogue: 0,0:02:25.30,0:02:28.10,Default,,0000,0000,0000,,{\blur3}地球外围的太空区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the zone of space that surrounds Earth...{\r}
+Dialogue: 0,0:02:28.14,0:02:31.65,Default,,0000,0000,0000,,{\blur3}起点在海平面120英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and begins 120 miles above sea level.{\r}
+Dialogue: 0,0:02:32.83,0:02:36.67,Default,,0000,0000,0000,,{\blur3}这里是卫星及空间站的基地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's the home to satellites and the space station...{\r}
+Dialogue: 0,0:02:36.72,0:02:39.19,Default,,0000,0000,0000,,{\blur3}还有 如果轨道旅行用品公司有自己之道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, if Orbital Outfitters have their way...{\r}
+Dialogue: 0,0:02:39.23,0:02:43.75,Default,,0000,0000,0000,,{\blur3}将是终极极限运动 太空跳伞的基地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the ultimate extreme sport: skydiving from space.{\r}
+Dialogue: 0,0:02:47.39,0:02:50.06,Default,,0000,0000,0000,,{\blur3}环地轨道是通往宇宙的门户{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth orbit is a window to the universe...{\r}
+Dialogue: 0,0:02:50.94,0:02:53.95,Default,,0000,0000,0000,,{\blur3}或许会成为地球本身的拓展{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and perhaps will become an extension of Earth itself...{\r}
+Dialogue: 0,0:02:55.58,0:03:00.44,Default,,0000,0000,0000,,{\blur3}开展产业 探险 娱乐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for industry, exploration, and fun.{\r}
+Dialogue: 0,0:03:01.65,0:03:05.03,Default,,0000,0000,0000,,{\blur3}但是环地轨道上的环境完全不同于家园{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the environment in Earth orbit is very different from home.{\r}
+Dialogue: 0,0:03:05.75,0:03:08.51,Default,,0000,0000,0000,,{\blur3}这里缺少氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Oxygen ceases to exist here...{\r}
+Dialogue: 0,0:03:08.55,0:03:09.64,Default,,0000,0000,0000,,{\blur3}大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the atmosphere...{\r}
+Dialogue: 0,0:03:09.68,0:03:13.53,Default,,0000,0000,0000,,{\blur3}那个护卫地球的保护罩已不复存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that provides a protective shield around Earth disappears.{\r}
+Dialogue: 0,0:03:15.28,0:03:20.34,Default,,0000,0000,0000,,{\blur3}宇宙威胁窥视着勇敢的探险者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Cosmic threats lurk for those who dare explore here.{\r}
+Dialogue: 0,0:03:20.39,0:03:24.03,Default,,0000,0000,0000,,{\blur3}我们忽视了外太空是险地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We forget that outer space is dangerous.{\r}
+Dialogue: 0,0:03:24.07,0:03:27.20,Default,,0000,0000,0000,,{\blur3}我们忽视了在外太空 我们会碰上宇宙辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We forget that in outer space we have cosmic radiation...{\r}
+Dialogue: 0,0:03:27.25,0:03:30.72,Default,,0000,0000,0000,,{\blur3}我们会碰上太阳耀斑 碰上流星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have solar flares, we have meteors...{\r}
+Dialogue: 0,0:03:30.76,0:03:32.56,Default,,0000,0000,0000,,{\blur3}会碰上太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have space debris.{\r}
+Dialogue: 0,0:03:33.65,0:03:36.87,Default,,0000,0000,0000,,{\blur3}那是外太空里的障碍赛场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's an obstacle course being out there in outer space.{\r}
+Dialogue: 0,0:03:38.96,0:03:41.22,Default,,0000,0000,0000,,{\blur3}宛如自由落体跳伞运动迷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like free-fall skydiving junkies...{\r}
+Dialogue: 0,0:03:41.26,0:03:44.11,Default,,0000,0000,0000,,{\blur3}跳出飞机 飞向地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who leap out of planes and speed towards Earth...{\r}
+Dialogue: 0,0:03:44.15,0:03:46.99,Default,,0000,0000,0000,,{\blur3}太空跳跃可能貌似终极刺激{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}space diving might seem like the ultimate thrill...{\r}
+Dialogue: 0,0:03:47.87,0:03:51.64,Default,,0000,0000,0000,,{\blur3}但是其想法基于非常危险的意图{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but its idea is based on very serious intentions.{\r}
+Dialogue: 0,0:03:55.07,0:03:58.00,Default,,0000,0000,0000,,{\blur3}乔纳森.克拉克博士 海军飞行医师{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dr. Jonathan Clark, a Navy flight surgeon...{\r}
+Dialogue: 0,0:03:58.04,0:04:00.67,Default,,0000,0000,0000,,{\blur3}前海军高空跳伞员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and former Navy high altitude parachutist...{\r}
+Dialogue: 0,0:04:00.72,0:04:04.27,Default,,0000,0000,0000,,{\blur3}是太空跳跃概念的推手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is one person behind the space diver concept...{\r}
+Dialogue: 0,0:04:04.31,0:04:06.40,Default,,0000,0000,0000,,{\blur3}但是也有其强烈的个人原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but for very personal reasons.{\r}
+Dialogue: 0,0:04:07.41,0:04:12.39,Default,,0000,0000,0000,,{\blur3}我被分配到航天局太空部门工作时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I was assigned to NASA to work on space operations...{\r}
+Dialogue: 0,0:04:12.43,0:04:14.06,Default,,0000,0000,0000,,{\blur3}我的太太是个宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then my wife was an astronaut.{\r}
+Dialogue: 0,0:04:16.82,0:04:19.83,Default,,0000,0000,0000,,{\blur3}哥伦比亚号 休斯顿 超高频通信设备检查{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Columbia, Houston, UHF comm check.{\r}
+Dialogue: 0,0:04:19.87,0:04:23.10,Default,,0000,0000,0000,,{\blur3}她牺牲于2003年的哥伦比亚号任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}She died on the Columbia mission in 2003.{\r}
+Dialogue: 0,0:04:27.40,0:04:32.30,Default,,0000,0000,0000,,{\blur3}虽然军事飞行员经常 会从陷于危险的飞机中安全弹出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While military pilots routinely eject safely from imperiled aircraft...{\r}
+Dialogue: 0,0:04:37.99,0:04:41.46,Default,,0000,0000,0000,,{\blur3}但是目前尚没有疏散程序让宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}currently there is no evacuation procedure for astronauts...{\r}
+Dialogue: 0,0:04:41.50,0:04:45.06,Default,,0000,0000,0000,,{\blur3}在灾难性事故中从航天器里弹出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to eject from a spacecraft during a catastrophic event.{\r}
+Dialogue: 0,0:04:48.11,0:04:50.58,Default,,0000,0000,0000,,{\blur3}约1%的机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}About one percent of the time...{\r}
+Dialogue: 0,0:04:50.62,0:04:53.22,Default,,0000,0000,0000,,{\blur3}我们会遇上主助推火箭的失败{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have a major booster rocket failure...{\r}
+Dialogue: 0,0:04:54.76,0:04:56.90,Default,,0000,0000,0000,,{\blur3}或者外太空的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or a catastrophe in outer space.{\r}
+Dialogue: 0,0:05:01.16,0:05:04.76,Default,,0000,0000,0000,,{\blur3}或许跳伞太空服会成为新的安全装备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Perhaps the skydiver spacesuit will become a new safety device...{\r}
+Dialogue: 0,0:05:04.80,0:05:06.81,Default,,0000,0000,0000,,{\blur3}让宇航员用于飞行任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for astronauts to use on missions...{\r}
+Dialogue: 0,0:05:07.82,0:05:12.21,Default,,0000,0000,0000,,{\blur3}其首次测试是16万英尺跳伞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and its first test is a 160,000-footjump.{\r}
+Dialogue: 0,0:05:14.26,0:05:15.81,Default,,0000,0000,0000,,{\blur3}为了安全返回{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To survive reentry...{\r}
+Dialogue: 0,0:05:15.85,0:05:20.16,Default,,0000,0000,0000,,{\blur3}跳伞太空服有许多关键的特点:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the skydiver spacesuit has many critical features:{\r}
+Dialogue: 0,0:05:20.20,0:05:23.17,Default,,0000,0000,0000,,{\blur3}保护性连衣跳伞服绝缘了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a protective one-piece jumpsuit that insulates...{\r}
+Dialogue: 0,0:05:23.21,0:05:26.22,Default,,0000,0000,0000,,{\blur3}从零下40华氏度的太空环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the negative-40-degree Fahrenheit space environment...{\r}
+Dialogue: 0,0:05:26.27,0:05:30.20,Default,,0000,0000,0000,,{\blur3}到464度的返回高温{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the 464-degree heat generated from reentry...{\r}
+Dialogue: 0,0:05:32.08,0:05:34.13,Default,,0000,0000,0000,,{\blur3}每只手套上的小气流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}small gas jets on each glove...{\r}
+Dialogue: 0,0:05:34.17,0:05:37.10,Default,,0000,0000,0000,,{\blur3}在失重过程中调整和控制身体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to orient and direct the body during weightlessness...{\r}
+Dialogue: 0,0:05:38.23,0:05:41.74,Default,,0000,0000,0000,,{\blur3}全封闭循环氧气系统可以再循环{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a full closed loop oxygen system that will recirculate...{\r}
+Dialogue: 0,0:05:41.79,0:05:45.26,Default,,0000,0000,0000,,{\blur3}并且在10分钟的回家途中排除二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and remove carbon dioxide for the 10-minute trip home...{\r}
+Dialogue: 0,0:05:46.64,0:05:49.61,Default,,0000,0000,0000,,{\blur3}锥形降落伞在接近地球时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a drogue parachute to stabilize the space diver...{\r}
+Dialogue: 0,0:05:49.65,0:05:51.36,Default,,0000,0000,0000,,{\blur3}稳定太空跳伞员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as they comes closer to Earth...{\r}
+Dialogue: 0,0:05:52.75,0:05:57.93,Default,,0000,0000,0000,,{\blur3}传统的降落伞将在3000英尺处打开 以安全落地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a traditional parachute that will deploy at 3,000 feet for a safe landing.{\r}
+Dialogue: 0,0:06:01.07,0:06:04.79,Default,,0000,0000,0000,,{\blur3}旅程将是引人入胜的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the journey will be spectacular.{\r}
+Dialogue: 0,0:06:04.84,0:06:07.05,Default,,0000,0000,0000,,{\blur3}在跳伞的开头两分钟里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the first two minutes of the jump...{\r}
+Dialogue: 0,0:06:07.09,0:06:11.36,Default,,0000,0000,0000,,{\blur3}太空跳伞员会达到时速2500英里的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the space diver will reach speeds of 2,500 miles per hour...{\r}
+Dialogue: 0,0:06:11.40,0:06:12.74,Default,,0000,0000,0000,,{\blur3}进入自由落体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while in free fall.{\r}
+Dialogue: 0,0:06:14.50,0:06:17.13,Default,,0000,0000,0000,,{\blur3}大气阻力会将太空服...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Atmospheric drag will heat the spacesuit...{\r}
+Dialogue: 0,0:06:17.18,0:06:20.10,Default,,0000,0000,0000,,{\blur3}升温到474华氏度...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to 474 degrees Fahrenheit...{\r}
+Dialogue: 0,0:06:21.44,0:06:24.29,Default,,0000,0000,0000,,{\blur3}并将太空跳伞员的极限速度...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and slow the space diver to terminal velocity...{\r}
+Dialogue: 0,0:06:24.33,0:06:26.46,Default,,0000,0000,0000,,{\blur3}降低到时速120英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}120 miles per hour.{\r}
+Dialogue: 0,0:06:28.01,0:06:31.19,Default,,0000,0000,0000,,{\blur3}随着他的锥形降落伞在7分钟后打开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As his drogue parachute breaks free at seven minutes...{\r}
+Dialogue: 0,0:06:31.23,0:06:33.16,Default,,0000,0000,0000,,{\blur3}他开始减缓速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}he will begin to slow down.{\r}
+Dialogue: 0,0:06:35.27,0:06:37.24,Default,,0000,0000,0000,,{\blur3}最后 到了3000英尺高度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Finally, at 3,000 feet...{\r}
+Dialogue: 0,0:06:38.75,0:06:40.96,Default,,0000,0000,0000,,{\blur3}普通降落伞展开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a regular parachute deploys...{\r}
+Dialogue: 0,0:06:42.26,0:06:45.27,Default,,0000,0000,0000,,{\blur3}太空跳伞员安全落地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the space diver lands safely on the ground.{\r}
+Dialogue: 0,0:06:48.66,0:06:52.88,Default,,0000,0000,0000,,{\blur3}那像是电影{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It will be cinematic.{\r}
+Dialogue: 0,0:06:52.93,0:06:56.44,Default,,0000,0000,0000,,{\blur3}克里斯.吉尔曼是好莱坞的服装设计师{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Chris Gilman is a Hollywood costume designer...{\r}
+Dialogue: 0,0:06:56.48,0:06:59.16,Default,,0000,0000,0000,,{\blur3}轨道旅行用品公司的总设计师{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and chief designer for Orbital Outfitters.{\r}
+Dialogue: 0,0:06:59.96,0:07:04.10,Default,,0000,0000,0000,,{\blur3}他有一系列的太空服 是他为公司设计的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He has an array of spacesuits he's designing for the company.{\r}
+Dialogue: 0,0:07:04.14,0:07:06.61,Default,,0000,0000,0000,,{\blur3}他全身心投入在自己的剧装中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}His passion for accuracy in his costumes...{\r}
+Dialogue: 0,0:07:06.65,0:07:09.74,Default,,0000,0000,0000,,{\blur3}终于获得了航天局真正的委托{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}eventually landed him a real commission with NASA...{\r}
+Dialogue: 0,0:07:09.79,0:07:12.80,Default,,0000,0000,0000,,{\blur3}设计女性的上半身宇航服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to design a woman's upper torso spacesuit.{\r}
+Dialogue: 0,0:07:14.05,0:07:16.86,Default,,0000,0000,0000,,{\blur3}虽然看上去服装非常合身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While looking at real suits very close up...{\r}
+Dialogue: 0,0:07:16.90,0:07:21.00,Default,,0000,0000,0000,,{\blur3}但是你开始了解到 它们不只是一件白色连衣服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you start to understand that they're not just a white jumpsuit...{\r}
+Dialogue: 0,0:07:21.04,0:07:24.22,Default,,0000,0000,0000,,{\blur3}配有塑料配件和泡沫头盔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with plastic fittings and a bubble helmet.{\r}
+Dialogue: 0,0:07:25.06,0:07:29.53,Default,,0000,0000,0000,,{\blur3}考虑到宇航服是个人航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Think of a spacesuit as a personal spacecraft.{\r}
+Dialogue: 0,0:07:31.16,0:07:34.64,Default,,0000,0000,0000,,{\blur3}为了保护身体 宇航服要逐层设计{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To protect the body, spacesuits are designed in layers.{\r}
+Dialogue: 0,0:07:36.69,0:07:39.95,Default,,0000,0000,0000,,{\blur3}想象一下 你必须穿着这种衣服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine the kind of clothes that you'd have to wear...{\r}
+Dialogue: 0,0:07:39.99,0:07:43.46,Default,,0000,0000,0000,,{\blur3}你穿行在撒哈拉沙漠里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you were walking through the Sahara...{\r}
+Dialogue: 0,0:07:43.51,0:07:46.01,Default,,0000,0000,0000,,{\blur3}最糟糕的一天两次{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on twice its worst day ever...{\r}
+Dialogue: 0,0:07:47.02,0:07:51.20,Default,,0000,0000,0000,,{\blur3}然后再挪步来到北极{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then make one more step and you're into the arctic.{\r}
+Dialogue: 0,0:07:52.37,0:07:54.05,Default,,0000,0000,0000,,{\blur3}那就是你必须穿的那种衣服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the kind of clothes you have to wear.{\r}
+Dialogue: 0,0:07:57.18,0:07:59.23,Default,,0000,0000,0000,,{\blur3}在考虑他的轨道旅行用品服装的...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when considering the form and function...{\r}
+Dialogue: 0,0:07:59.28,0:08:01.49,Default,,0000,0000,0000,,{\blur3}形式和功能时...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of his Orbital Outfitter suits...{\r}
+Dialogue: 0,0:08:01.54,0:08:05.22,Default,,0000,0000,0000,,{\blur3}吉尔曼回眸了中世纪的盔甲{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Gilman looks back in time to medieval armor...{\r}
+Dialogue: 0,0:08:05.26,0:08:07.68,Default,,0000,0000,0000,,{\blur3}来帮助创作未来的设计{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to help create future designs.{\r}
+Dialogue: 0,0:08:07.73,0:08:12.33,Default,,0000,0000,0000,,{\blur3}这是我们14世纪的沙漏手套{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here is our 14th-century hourglass gauntlet.{\r}
+Dialogue: 0,0:08:12.37,0:08:15.55,Default,,0000,0000,0000,,{\blur3}那种关节弯曲几乎照搬照抄到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That knuckle bow is almost identical to the one...{\r}
+Dialogue: 0,0:08:15.59,0:08:19.40,Default,,0000,0000,0000,,{\blur3}宇航服手套织物覆盖层的里面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is under the fabric cover in a shuttle spacesuit glove.{\r}
+Dialogue: 0,0:08:19.44,0:08:22.79,Default,,0000,0000,0000,,{\blur3}十分有趣 它几乎是完全一模一样的形状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And interesting enough, it's almost the exact same shape as well...{\r}
+Dialogue: 0,0:08:22.83,0:08:24.67,Default,,0000,0000,0000,,{\blur3}提供了同样的功能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it performs the same function.{\r}
+Dialogue: 0,0:08:26.68,0:08:30.86,Default,,0000,0000,0000,,{\blur3}虽然太空跳伞可能还要数年才会成为现实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While space diving might be years away from becoming a reality...{\r}
+Dialogue: 0,0:08:30.90,0:08:33.45,Default,,0000,0000,0000,,{\blur3}寻求刺激者实际上已经找到自己的路子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}thrill seekers are already making their way...{\r}
+Dialogue: 0,0:08:33.50,0:08:37.14,Default,,0000,0000,0000,,{\blur3}来到太空边缘 环地轨道的地盘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the edge of space, the realm of Earth orbit.{\r}
+Dialogue: 0,0:08:40.10,0:08:43.78,Default,,0000,0000,0000,,{\blur3}2001年之前 绕地的特权{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Up until 2001, the privilege of orbiting Earth...{\r}
+Dialogue: 0,0:08:43.82,0:08:45.91,Default,,0000,0000,0000,,{\blur3}保留给了少数精英:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was reserved for the elite few:{\r}
+Dialogue: 0,0:08:47.37,0:08:50.13,Default,,0000,0000,0000,,{\blur3}被选定在太空中工作的宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronauts chosen to work in space.{\r}
+Dialogue: 0,0:08:51.43,0:08:54.95,Default,,0000,0000,0000,,{\blur3}但那是太空旅游成为现实之前的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that's before space tourism became a reality.{\r}
+Dialogue: 0,0:08:57.50,0:08:59.97,Default,,0000,0000,0000,,{\blur3}大多数人情系太空飞行世界的梦想之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the dreams of most of the people...{\r}
+Dialogue: 0,0:09:00.01,0:09:05.15,Default,,0000,0000,0000,,{\blur3}就是亲自体验飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}associated with the space-flight world is to actually fly themselves.{\r}
+Dialogue: 0,0:09:05.20,0:09:08.33,Default,,0000,0000,0000,,{\blur3}因此 太空旅游是人们从一开始考虑太空飞行时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so space tourism has been an important component...{\r}
+Dialogue: 0,0:09:08.37,0:09:11.89,Default,,0000,0000,0000,,{\blur3}就一直是重要的组成部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in people's thinking about spaceflight from the very beginning.{\r}
+Dialogue: 0,0:09:14.23,0:09:16.61,Default,,0000,0000,0000,,{\blur3}现在 太空探险有限公司{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right now, Space Adventures Limited...{\r}
+Dialogue: 0,0:09:16.66,0:09:19.59,Default,,0000,0000,0000,,{\blur3}是提供那梦想唯一的一家公司{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the only company delivering that dream.{\r}
+Dialogue: 0,0:09:22.85,0:09:26.11,Default,,0000,0000,0000,,{\blur3}我们是世界上唯一的一家私人太空旅游公司{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are the world's only private space travel company.{\r}
+Dialogue: 0,0:09:29.79,0:09:32.93,Default,,0000,0000,0000,,{\blur3}太空探险公司成立于10年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space Adventures started ten years ago...{\r}
+Dialogue: 0,0:09:32.97,0:09:37.53,Default,,0000,0000,0000,,{\blur3}当时第一个客户在俄国喷气机上进行了高空飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when its first client took a very high-altitude ride on a Russian jet.{\r}
+Dialogue: 0,0:09:39.16,0:09:41.67,Default,,0000,0000,0000,,{\blur3}他回来时谈到了好像{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When he came back and talked about what it was like...{\r}
+Dialogue: 0,0:09:41.72,0:09:44.27,Default,,0000,0000,0000,,{\blur3}看到了地球的弧线 黑暗的苍穹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to see the curve of the Earth and the black sky above...{\r}
+Dialogue: 0,0:09:44.31,0:09:46.19,Default,,0000,0000,0000,,{\blur3}我知道我们会有大笔生意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I knew that we would have a great business...{\r}
+Dialogue: 0,0:09:46.23,0:09:48.16,Default,,0000,0000,0000,,{\blur3}世上会有...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there would be literally millions of people...{\r}
+Dialogue: 0,0:09:48.20,0:09:49.50,Default,,0000,0000,0000,,{\blur3}数百万人想参与...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}out there in the world who wanted to participate...{\r}
+Dialogue: 0,0:09:49.54,0:09:51.42,Default,,0000,0000,0000,,{\blur3}太空探险的体验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in Space Adventures experiences.{\r}
+Dialogue: 0,0:09:51.46,0:09:55.52,Default,,0000,0000,0000,,{\blur3}于是 在2001年 美国的投资经理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then, in 2001, American investment manager...{\r}
+Dialogue: 0,0:09:55.56,0:09:59.37,Default,,0000,0000,0000,,{\blur3}亿万富翁丹尼斯.蒂托接洽太空探险公司{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and multimillionaire Dennis Tito approached Space Adventures...{\r}
+Dialogue: 0,0:09:59.41,0:10:01.75,Default,,0000,0000,0000,,{\blur3}安排环地轨道之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about arranging a trip into Earth orbit...{\r}
+Dialogue: 0,0:10:01.89,0:10:05.65,Default,,0000,0000,0000,,{\blur3}私人太空旅游时代诞生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the era of private space tourism was born.{\r}
+Dialogue: 0,0:10:05.69,0:10:09.58,Default,,0000,0000,0000,,{\blur3}将丹尼斯.蒂托送上国际空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The flight of Dennis Tito to the International Space Station...{\r}
+Dialogue: 0,0:10:09.63,0:10:12.97,Default,,0000,0000,0000,,{\blur3}是意义深远的成就{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was an enormously significant accomplishment...{\r}
+Dialogue: 0,0:10:13.01,0:10:16.70,Default,,0000,0000,0000,,{\blur3}许多人目睹了太空界的欢呼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and many people watching in the space community cheered.{\r}
+Dialogue: 0,0:10:16.74,0:10:17.82,Default,,0000,0000,0000,,{\blur3}他们认为这很了不起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They thought this was great.{\r}
+Dialogue: 0,0:10:17.87,0:10:19.96,Default,,0000,0000,0000,,{\blur3}那是新纪元的开端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a new age that has begun.{\r}
+Dialogue: 0,0:10:20.00,0:10:21.76,Default,,0000,0000,0000,,{\blur3}我热爱太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I love space.{\r}
+Dialogue: 0,0:10:25.52,0:10:28.33,Default,,0000,0000,0000,,{\blur3}现在太空探险有限公司提供{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space Adventures Limited now offers trips...{\r}
+Dialogue: 0,0:10:28.37,0:10:32.38,Default,,0000,0000,0000,,{\blur3}3300万美元的国际空间站之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the International Space Station for $33 million.{\r}
+Dialogue: 0,0:10:34.48,0:10:35.69,Default,,0000,0000,0000,,{\blur3}你会了解火箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You learn about the rocket.{\r}
+Dialogue: 0,0:10:35.73,0:10:38.28,Default,,0000,0000,0000,,{\blur3}你会了解你要搭载的飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You learn about the spaceship that you're going to fly in.{\r}
+Dialogue: 0,0:10:38.32,0:10:39.58,Default,,0000,0000,0000,,{\blur3}你会了解空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You learn about the space station.{\r}
+Dialogue: 0,0:10:39.62,0:10:43.13,Default,,0000,0000,0000,,{\blur3}你会了解诸如太空中的生活 饮食 工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You learn about what it's like to live and eat and work...{\r}
+Dialogue: 0,0:10:43.18,0:10:45.43,Default,,0000,0000,0000,,{\blur3}甚至上厕所等等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and even go to the bathroom in space.{\r}
+Dialogue: 0,0:10:47.07,0:10:48.82,Default,,0000,0000,0000,,{\blur3}要进入空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To get to the space station...{\r}
+Dialogue: 0,0:10:48.87,0:10:51.96,Default,,0000,0000,0000,,{\blur3}太空游客必须与俄罗斯人一起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}space tourists must hitch a ride with the Russians...{\r}
+Dialogue: 0,0:10:52.00,0:10:53.34,Default,,0000,0000,0000,,{\blur3}搭载联盟号太空船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a Soyuz capsule.{\r}
+Dialogue: 0,0:10:55.27,0:10:57.44,Default,,0000,0000,0000,,{\blur3}它已经成功飞行了35年了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's flown successfully for 35 years.{\r}
+Dialogue: 0,0:10:57.48,0:11:00.12,Default,,0000,0000,0000,,{\blur3}这个人体工程学上的壮举{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This great feat of human engineering...{\r}
+Dialogue: 0,0:11:00.16,0:11:03.80,Default,,0000,0000,0000,,{\blur3}不足8分钟就可以将你从地面送上轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will deliver you from the ground to orbit in less than eight minutes.{\r}
+Dialogue: 0,0:11:05.43,0:11:07.44,Default,,0000,0000,0000,,{\blur3}一旦送上空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once delivered to the space station...{\r}
+Dialogue: 0,0:11:07.48,0:11:10.49,Default,,0000,0000,0000,,{\blur3}太空游客的生活就像真正的宇航员了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}space tourists live like real astronauts.{\r}
+Dialogue: 0,0:11:11.67,0:11:12.92,Default,,0000,0000,0000,,{\blur3}舒适是相对的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Comfortable is a relative term.{\r}
+Dialogue: 0,0:11:12.96,0:11:14.97,Default,,0000,0000,0000,,{\blur3}因此如果你对野营感到舒适{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if you're comfortable on a camping trip...{\r}
+Dialogue: 0,0:11:15.01,0:11:16.56,Default,,0000,0000,0000,,{\blur3}那么你在空间站上会没事的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then you'll be fine on the space station.{\r}
+Dialogue: 0,0:11:16.60,0:11:21.20,Default,,0000,0000,0000,,{\blur3}如果你完全习惯于户外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if you're at all used to being in the outdoors...{\r}
+Dialogue: 0,0:11:21.25,0:11:22.54,Default,,0000,0000,0000,,{\blur3}那里根本没有家里的舒适{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you don't have all the comforts of home...{\r}
+Dialogue: 0,0:11:22.58,0:11:25.85,Default,,0000,0000,0000,,{\blur3}那么你在飞船上会感到相当舒适的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then you'll be quite comfortable living in a spaceship.{\r}
+Dialogue: 0,0:11:26.60,0:11:28.06,Default,,0000,0000,0000,,{\blur3}食物很棒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The food is great...{\r}
+Dialogue: 0,0:11:28.11,0:11:29.99,Default,,0000,0000,0000,,{\blur3}但是你是不会为了吃去那里的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but you're not going there for the food.{\r}
+Dialogue: 0,0:11:30.78,0:11:33.75,Default,,0000,0000,0000,,{\blur3}太空的真正享受就是能够漂浮在失重里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The real enjoyment of space is being able to float weightless...{\r}
+Dialogue: 0,0:11:33.80,0:11:37.56,Default,,0000,0000,0000,,{\blur3}观看地球 成为未来太空探险实实在在的一部分了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and see the Earth and be really part of the future of space exploration...{\r}
+Dialogue: 0,0:11:38.56,0:11:41.74,Default,,0000,0000,0000,,{\blur3}能够感受到离开地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and being able to see what it's like to step off the planet...{\r}
+Dialogue: 0,0:11:41.79,0:11:44.34,Default,,0000,0000,0000,,{\blur3}来到之前很少有人到过的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and go somewhere that very few people have been before.{\r}
+Dialogue: 0,0:11:45.76,0:11:48.23,Default,,0000,0000,0000,,{\blur3}你会看到地球整个美丽壮观{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll be seeing the Earth in all its glory and splendor.{\r}
+Dialogue: 0,0:11:49.86,0:11:54.00,Default,,0000,0000,0000,,{\blur3}你每天能看到16次日出日落{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'll be watching sixteen sunsets and sunrises every day...{\r}
+Dialogue: 0,0:11:54.04,0:11:55.88,Default,,0000,0000,0000,,{\blur3}因为围绕地球跑得很快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because you travel so fast around the Earth.{\r}
+Dialogue: 0,0:11:58.56,0:12:00.48,Default,,0000,0000,0000,,{\blur3}现在 太空之旅...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Right now, taking a trip to space...{\r}
+Dialogue: 0,0:12:00.53,0:12:03.29,Default,,0000,0000,0000,,{\blur3}对大多数普通市民来说太昂贵了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is too expensive for most private citizens.{\r}
+Dialogue: 0,0:12:04.63,0:12:07.93,Default,,0000,0000,0000,,{\blur3}如果你就去近地轨道绕行地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you were to just go in low Earth orbit around the Earth...{\r}
+Dialogue: 0,0:12:07.97,0:12:11.36,Default,,0000,0000,0000,,{\blur3}那将要花费每磅一万美元{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that would cost about $10,000 a pound.{\r}
+Dialogue: 0,0:12:11.40,0:12:14.08,Default,,0000,0000,0000,,{\blur3}你可是价值连城{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's your weight in gold.{\r}
+Dialogue: 0,0:12:14.92,0:12:18.06,Default,,0000,0000,0000,,{\blur3}目前有许多公司在设计新的航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are many companies currently designing new spacecraft...{\r}
+Dialogue: 0,0:12:18.10,0:12:20.44,Default,,0000,0000,0000,,{\blur3}让太空之旅能负担得起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make space travel affordable.{\r}
+Dialogue: 0,0:12:20.48,0:12:23.03,Default,,0000,0000,0000,,{\blur3}我无法告诉你何时到4000美元{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I can't tell you when it will be $4,000...{\r}
+Dialogue: 0,0:12:23.08,0:12:24.92,Default,,0000,0000,0000,,{\blur3}但是我可以告诉你 它永远不会到4000{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but I can tell you it will never be $4,000...{\r}
+Dialogue: 0,0:12:24.96,0:12:26.88,Default,,0000,0000,0000,,{\blur3}只要它一开始就是4000万{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if it doesn't start off at $40 million.{\r}
+Dialogue: 0,0:12:29.23,0:12:31.49,Default,,0000,0000,0000,,{\blur3}不管怎样 太空探险有限公司{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Regardless, Space Adventures Limited...{\r}
+Dialogue: 0,0:12:31.53,0:12:34.96,Default,,0000,0000,0000,,{\blur3}有了宏伟计划将自己的产品拓展到太空去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has big plans to expand their offerings in space.{\r}
+Dialogue: 0,0:12:36.55,0:12:37.76,Default,,0000,0000,0000,,{\blur3}我们未来的客户之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of our future clients...{\r}
+Dialogue: 0,0:12:37.80,0:12:40.61,Default,,0000,0000,0000,,{\blur3}将会进行首次太空行走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will be undertaking a space walk for the first time.{\r}
+Dialogue: 0,0:12:42.07,0:12:43.74,Default,,0000,0000,0000,,{\blur3}此外 我们非常兴奋{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Additionally, we're very excited...{\r}
+Dialogue: 0,0:12:43.79,0:12:46.00,Default,,0000,0000,0000,,{\blur3}我们有绕月飞行计划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about our circumlunar flight program...{\r}
+Dialogue: 0,0:12:47.01,0:12:49.18,Default,,0000,0000,0000,,{\blur3}进行绕月飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and doing a flight around the moon.{\r}
+Dialogue: 0,0:12:49.77,0:12:51.90,Default,,0000,0000,0000,,{\blur3}他们会进入距离月球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They will come literally within a hundred kilometers...{\r}
+Dialogue: 0,0:12:51.94,0:12:53.28,Default,,0000,0000,0000,,{\blur3}100公里以内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the lunar surface.{\r}
+Dialogue: 0,0:12:56.96,0:12:59.26,Default,,0000,0000,0000,,{\blur3}将老百姓送入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sending private citizens into space...{\r}
+Dialogue: 0,0:12:59.31,0:13:02.36,Default,,0000,0000,0000,,{\blur3}改变了太空探险的模式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has changed the paradigm for space exploration.{\r}
+Dialogue: 0,0:13:03.07,0:13:06.29,Default,,0000,0000,0000,,{\blur3}我们真的 要我说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've really, I'd say, banged down the door...{\r}
+Dialogue: 0,0:13:06.33,0:13:07.67,Default,,0000,0000,0000,,{\blur3}是开创了行业的新天地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the rest of the industry.{\r}
+Dialogue: 0,0:13:09.22,0:13:11.02,Default,,0000,0000,0000,,{\blur3}现在有好多人感兴趣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are many people now who are interested...{\r}
+Dialogue: 0,0:13:11.06,0:13:14.49,Default,,0000,0000,0000,,{\blur3}进入这个前沿领域 私下进行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in opening up this frontier and doing it privately.{\r}
+Dialogue: 0,0:13:14.53,0:13:17.34,Default,,0000,0000,0000,,{\blur3}我们希望看到在历史上作为催化剂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we hope to be seen in history as the catalyst...{\r}
+Dialogue: 0,0:13:17.38,0:13:20.43,Default,,0000,0000,0000,,{\blur3}真正促使整个行业的开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which really motivated that entire industry to begin.{\r}
+Dialogue: 0,0:13:22.27,0:13:25.37,Default,,0000,0000,0000,,{\blur3}或许太空探险中最令人振奋的部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Perhaps the most exhilarating part of a space adventure...{\r}
+Dialogue: 0,0:13:25.41,0:13:27.54,Default,,0000,0000,0000,,{\blur3}就是前往太空边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is getting to the edge of space.{\r}
+Dialogue: 0,0:13:30.43,0:13:34.78,Default,,0000,0000,0000,,{\blur3}但是太空是个大领域 那里的威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But space is a big domain, and there are threats here...{\r}
+Dialogue: 0,0:13:34.82,0:13:37.50,Default,,0000,0000,0000,,{\blur3}完全不同于我们在地球上那个遇到的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are unlike anything we have on Earth.{\r}
+Dialogue: 0,0:13:40.50,0:13:45.39,Default,,0000,0000,0000,,{\blur3}地球轨道 我们的太空边缘 一般分为三个部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth orbit, our edge of space, is generally divided into three parts.{\r}
+Dialogue: 0,0:13:46.60,0:13:50.16,Default,,0000,0000,0000,,{\blur3}近地轨道是1100英里宽的地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Low Earth orbit is a 1, 100-mile-wide belt...{\r}
+Dialogue: 0,0:13:50.20,0:13:52.46,Default,,0000,0000,0000,,{\blur3}最接近地球的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is closest to Earth's atmosphere...{\r}
+Dialogue: 0,0:13:52.50,0:13:56.06,Default,,0000,0000,0000,,{\blur3}始于海平面仅120英里处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and begins only 120 miles above sea level.{\r}
+Dialogue: 0,0:13:57.40,0:14:00.82,Default,,0000,0000,0000,,{\blur3}近地轨道有巨大的优势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are tremendous advantages to low Earth orbits.{\r}
+Dialogue: 0,0:14:00.87,0:14:03.04,Default,,0000,0000,0000,,{\blur3}首先 大部分载人航天计划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}First of all, most of the manned space program...{\r}
+Dialogue: 0,0:14:03.08,0:14:06.14,Default,,0000,0000,0000,,{\blur3}就发生在那个半径里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}takes place in that radius.{\r}
+Dialogue: 0,0:14:06.18,0:14:10.74,Default,,0000,0000,0000,,{\blur3}1 0 奋进号航天飞机升空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One, zero, and liftoff of space shuttle Endeavour.{\r}
+Dialogue: 0,0:14:13.00,0:14:17.31,Default,,0000,0000,0000,,{\blur3}同时 间谍卫星 通信卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Also, spy satellites, communication satellites...{\r}
+Dialogue: 0,0:14:17.35,0:14:20.86,Default,,0000,0000,0000,,{\blur3}气象卫星都占用近地轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}weather satellites occupy that low Earth orbit.{\r}
+Dialogue: 0,0:14:21.57,0:14:26.05,Default,,0000,0000,0000,,{\blur3}近地轨道如闹市一般 一派忙碌{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Low Earth orbit is like a busy city, lots of activity.{\r}
+Dialogue: 0,0:14:27.08,0:14:30.26,Default,,0000,0000,0000,,{\blur3}哈勃太空望远镜 国际空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Hubble Space Telescope and the International Space Station...{\r}
+Dialogue: 0,0:14:30.31,0:14:32.19,Default,,0000,0000,0000,,{\blur3}都将近地轨道视为基地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}call low Earth orbit home.{\r}
+Dialogue: 0,0:14:33.65,0:14:36.66,Default,,0000,0000,0000,,{\blur3}联盟号和航天飞机在这里完成使命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Soyuz and the space shuttle complete missions here.{\r}
+Dialogue: 0,0:14:39.55,0:14:41.98,Default,,0000,0000,0000,,{\blur3}近地轨道上的物体和人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Objects and people in low Earth orbit...{\r}
+Dialogue: 0,0:14:42.02,0:14:45.78,Default,,0000,0000,0000,,{\blur3}绕行地球只要惊人的90分钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can travel around Earth in an astounding 90 minutes.{\r}
+Dialogue: 0,0:14:46.91,0:14:49.09,Default,,0000,0000,0000,,{\blur3}45分钟在地球的向阳面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Forty-five minutes on the sunny side of Earth...{\r}
+Dialogue: 0,0:14:49.13,0:14:50.97,Default,,0000,0000,0000,,{\blur3}45分钟在地球的背阴面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forty-five minutes on the dark side of Earth.{\r}
+Dialogue: 0,0:14:51.01,0:14:53.19,Default,,0000,0000,0000,,{\blur3}休斯顿 你准备登陆 结束{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Houston. You're go for landing. Over.{\r}
+Dialogue: 0,0:14:53.23,0:14:55.78,Default,,0000,0000,0000,,{\blur3}除了几次月球之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Except for a few trips to the moon...{\r}
+Dialogue: 0,0:14:55.82,0:15:00.43,Default,,0000,0000,0000,,{\blur3}人类探访太空都是在近地轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all of humankind's visits to space have been to low Earth orbit.{\r}
+Dialogue: 0,0:15:01.60,0:15:04.98,Default,,0000,0000,0000,,{\blur3}近地轨道的底线是如果你到不了那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bottom line in low Earth orbit is if you can't reach it...{\r}
+Dialogue: 0,0:15:05.03,0:15:07.12,Default,,0000,0000,0000,,{\blur3}你就哪里都去不了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can't go anywhere else.{\r}
+Dialogue: 0,0:15:07.16,0:15:12.10,Default,,0000,0000,0000,,{\blur3}人类太空飞行 最终 是要去别的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And human spaceflight, ultimately, is about going somewhere else.{\r}
+Dialogue: 0,0:15:12.14,0:15:14.82,Default,,0000,0000,0000,,{\blur3}近地轨道就好像是为此努力的切入口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Low Earth orbit is kind of the entry point for that effort.{\r}
+Dialogue: 0,0:15:16.62,0:15:21.59,Default,,0000,0000,0000,,{\blur3}近地轨道上方的区域叫做中地轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Above low Earth orbit is a region called medium Earth orbit.{\r}
+Dialogue: 0,0:15:21.64,0:15:26.42,Default,,0000,0000,0000,,{\blur3}这个广阔的空间在地球上方1200到1.4万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This wide stretch of space is 1,200 to 14,000 miles above Earth.{\r}
+Dialogue: 0,0:15:27.52,0:15:30.91,Default,,0000,0000,0000,,{\blur3}许多通信卫星发射到这里入轨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many communication satellites are launched into orbit here...{\r}
+Dialogue: 0,0:15:30.95,0:15:33.09,Default,,0000,0000,0000,,{\blur3}包括全球定位卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including global positioning satellites.{\r}
+Dialogue: 0,0:15:34.71,0:15:38.56,Default,,0000,0000,0000,,{\blur3}GPS卫星的轨道大致在地球的1.2万英里高度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}GPS satellites roughly orbit the Earth at about 12,000 miles...{\r}
+Dialogue: 0,0:15:38.60,0:15:41.02,Default,,0000,0000,0000,,{\blur3}那被我们称为半同步轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what we call a semi-synchronous orbit.{\r}
+Dialogue: 0,0:15:41.07,0:15:43.45,Default,,0000,0000,0000,,{\blur3}所以基本上它们每天绕地球两圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So, basically, they orbit the Earth twice per day...{\r}
+Dialogue: 0,0:15:43.49,0:15:45.83,Default,,0000,0000,0000,,{\blur3}每圈12小时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}once every 12 hours.{\r}
+Dialogue: 0,0:15:45.88,0:15:48.85,Default,,0000,0000,0000,,{\blur3}GPS安排在6个轨道平面上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}GPS is set up into six orbital planes.{\r}
+Dialogue: 0,0:15:48.89,0:15:52.07,Default,,0000,0000,0000,,{\blur3}因此你可以想象到 在一个球形里有六个轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if you can imagine a globe, there are six orbits...{\r}
+Dialogue: 0,0:15:52.11,0:15:55.12,Default,,0000,0000,0000,,{\blur3}被安排等距离围绕地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}positioned in equal spacing around the Earth...{\r}
+Dialogue: 0,0:15:55.16,0:15:59.72,Default,,0000,0000,0000,,{\blur3}每一个轨道面上大约有4到5个卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with roughly four or five satellites per orbital plane.{\r}
+Dialogue: 0,0:15:59.77,0:16:02.86,Default,,0000,0000,0000,,{\blur3}基本上让我们覆盖了整个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And basically that gives us coverage around the world.{\r}
+Dialogue: 0,0:16:02.90,0:16:05.54,Default,,0000,0000,0000,,{\blur3}GPS位于这样的高度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}GPS satellites sit at this altitude...{\r}
+Dialogue: 0,0:16:05.58,0:16:07.71,Default,,0000,0000,0000,,{\blur3}结果就有多颗卫星每时每刻都监视着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that multiple satellites are in view...{\r}
+Dialogue: 0,0:16:07.76,0:16:10.68,Default,,0000,0000,0000,,{\blur3}地球上的某个点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from one location on Earth at any time of day.{\r}
+Dialogue: 0,0:16:11.77,0:16:16.29,Default,,0000,0000,0000,,{\blur3}需要有4颗卫星来让你定位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It takes four satellites to get you your exact location.{\r}
+Dialogue: 0,0:16:16.33,0:16:18.76,Default,,0000,0000,0000,,{\blur3}第一颗会给你一个环状区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The first will give you a roundabout area...{\r}
+Dialogue: 0,0:16:18.80,0:16:21.27,Default,,0000,0000,0000,,{\blur3}第二颗会对其进一步精确 第三颗也同样如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the second one will refine it, as well as the third...{\r}
+Dialogue: 0,0:16:21.31,0:16:23.95,Default,,0000,0000,0000,,{\blur3}最后第四颗会说 你确实在那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and finally the fourth says, "You are exactly here."{\r}
+Dialogue: 0,0:16:27.29,0:16:29.09,Default,,0000,0000,0000,,{\blur3}中地轨道同时也是充满危险的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Medium Earth orbit is also home...{\r}
+Dialogue: 0,0:16:29.13,0:16:32.81,Default,,0000,0000,0000,,{\blur3}范艾伦辐射带的所在地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the treacherous Van Allen radiation belts.{\r}
+Dialogue: 0,0:16:32.86,0:16:35.49,Default,,0000,0000,0000,,{\blur3}这些高能粒子带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These belts of high-energy charged particles...{\r}
+Dialogue: 0,0:16:35.53,0:16:39.97,Default,,0000,0000,0000,,{\blur3}可以让价值3亿美元的卫星发射失控{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can send a $300-million satellite spiraling out of control...{\r}
+Dialogue: 0,0:16:40.93,0:16:44.32,Default,,0000,0000,0000,,{\blur3}或给人类带来致命的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or give a human being a fatal dose of radiation.{\r}
+Dialogue: 0,0:16:45.28,0:16:49.80,Default,,0000,0000,0000,,{\blur3}这些辐射带像细长的环伸出地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These belts stretch out from Earth like elongated rings.{\r}
+Dialogue: 0,0:16:49.84,0:16:53.02,Default,,0000,0000,0000,,{\blur3}卫星被精确放置在特定的高度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Satellites are carefully placed in specific altitudes...{\r}
+Dialogue: 0,0:16:53.06,0:16:56.95,Default,,0000,0000,0000,,{\blur3}以避免来自太阳的这些致命的粒子带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to avoid these destructive belts of particles from the Sun.{\r}
+Dialogue: 0,0:16:58.75,0:17:03.61,Default,,0000,0000,0000,,{\blur3}进一步往外就是高地轨道 即地球同步轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even farther out lies high Earth orbit or geosynchronous orbit.{\r}
+Dialogue: 0,0:17:05.03,0:17:11.76,Default,,0000,0000,0000,,{\blur3}如果说近地轨道是闹市的话 那么高地轨道就是乡村了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If low Earth orbit is a busy city, high Earth orbit is rural farmland.{\r}
+Dialogue: 0,0:17:13.35,0:17:17.70,Default,,0000,0000,0000,,{\blur3}高出海平面2.2万到3.5万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}22,000 to 35,000 miles above sea level...{\r}
+Dialogue: 0,0:17:17.75,0:17:19.88,Default,,0000,0000,0000,,{\blur3}高踞地球的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}satellites hover above Earth...{\r}
+Dialogue: 0,0:17:19.92,0:17:23.98,Default,,0000,0000,0000,,{\blur3}在遥远的有利位置上一览无余{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}taking in an unparalleled view from a distant vantage point.{\r}
+Dialogue: 0,0:17:25.49,0:17:29.88,Default,,0000,0000,0000,,{\blur3}在这里 2000多颗卫星将高地轨道视为基地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here, over 2,000 satellites call high Earth orbit home.{\r}
+Dialogue: 0,0:17:31.30,0:17:34.14,Default,,0000,0000,0000,,{\blur3}这些卫星似乎静止不动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These satellites appear to be stationary.{\r}
+Dialogue: 0,0:17:34.19,0:17:37.53,Default,,0000,0000,0000,,{\blur3}它们每24小时绕行地球一圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They make a circuit around the Earth every 24 hours...{\r}
+Dialogue: 0,0:17:37.58,0:17:38.75,Default,,0000,0000,0000,,{\blur3}但是我们也是一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but so do we.{\r}
+Dialogue: 0,0:17:38.79,0:17:40.55,Default,,0000,0000,0000,,{\blur3}这样我们就有了一个错觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we have the optical illusion...{\r}
+Dialogue: 0,0:17:40.59,0:17:43.60,Default,,0000,0000,0000,,{\blur3}卫星就定位在了外太空的那里了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the satellites are sitting there in outer space.{\r}
+Dialogue: 0,0:17:46.24,0:17:48.12,Default,,0000,0000,0000,,{\blur3}但是为了到达地球轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in order to reach Earth orbit...{\r}
+Dialogue: 0,0:17:48.16,0:17:52.30,Default,,0000,0000,0000,,{\blur3}物体必须首先离开地面运送至太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an object must first leave the ground and be delivered into space.{\r}
+Dialogue: 0,0:17:54.85,0:17:56.74,Default,,0000,0000,0000,,{\blur3}要做到这一点 火箭或航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To to this, a rocket or spacecraft...{\r}
+Dialogue: 0,0:17:56.78,0:17:59.45,Default,,0000,0000,0000,,{\blur3}必须达到适当的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}needs to achieve the appropriate speed...{\r}
+Dialogue: 0,0:17:59.50,0:18:02.13,Default,,0000,0000,0000,,{\blur3}抵达目标方向和高度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and hit a target direction and altitude.{\r}
+Dialogue: 0,0:18:05.31,0:18:08.41,Default,,0000,0000,0000,,{\blur3}时速几英里太慢了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Go even a few miles per hour too slow...{\r}
+Dialogue: 0,0:18:08.45,0:18:11.63,Default,,0000,0000,0000,,{\blur3}重力和大气阻力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the forces of gravity and drag of the atmosphere...{\r}
+Dialogue: 0,0:18:11.67,0:18:16.15,Default,,0000,0000,0000,,{\blur3}会将航天器拉下来 坠落地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will pull a spacecraft down, crashing it to the ground.{\r}
+Dialogue: 0,0:18:17.19,0:18:21.50,Default,,0000,0000,0000,,{\blur3}因此想法就是摆脱低大气层的阻力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the idea is to get out of the drag of the lower atmosphere...{\r}
+Dialogue: 0,0:18:21.54,0:18:24.01,Default,,0000,0000,0000,,{\blur3}克服所有的涡流和摩擦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond all that turbulence and friction...{\r}
+Dialogue: 0,0:18:24.05,0:18:26.60,Default,,0000,0000,0000,,{\blur3}然后开始加速奔向正确的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then start racing for the right direction and speed...{\r}
+Dialogue: 0,0:18:26.65,0:18:29.24,Default,,0000,0000,0000,,{\blur3}前提是你已经越过可感大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}after you get up above the sensible atmosphere.{\r}
+Dialogue: 0,0:18:31.43,0:18:35.06,Default,,0000,0000,0000,,{\blur3}很好理解为何航天器的发射是垂直升空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there's a very good reason why spacecraft launch straight up...{\r}
+Dialogue: 0,0:18:35.11,0:18:37.45,Default,,0000,0000,0000,,{\blur3}而不是像飞机那样有一个角度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than at an angle like an airplane.{\r}
+Dialogue: 0,0:18:39.42,0:18:41.80,Default,,0000,0000,0000,,{\blur3}因此典型的航天发射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what typical space launches do...{\r}
+Dialogue: 0,0:18:41.84,0:18:43.26,Default,,0000,0000,0000,,{\blur3}就是直线升空穿越大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is go straight up through the atmosphere...{\r}
+Dialogue: 0,0:18:43.31,0:18:45.15,Default,,0000,0000,0000,,{\blur3}穿越最初的最厚的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to get through the thickest part initially...{\r}
+Dialogue: 0,0:18:46.32,0:18:48.91,Default,,0000,0000,0000,,{\blur3}然后它们弧形爬行几英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then they begin to arc over a few miles up...{\r}
+Dialogue: 0,0:18:48.95,0:18:51.17,Default,,0000,0000,0000,,{\blur3}然后开始加速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then start to increase their velocity...{\r}
+Dialogue: 0,0:18:51.21,0:18:52.55,Default,,0000,0000,0000,,{\blur3}对准预定的方向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the desired direction.{\r}
+Dialogue: 0,0:18:54.48,0:18:55.86,Default,,0000,0000,0000,,{\blur3}要达到目标轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To reach a target orbit...{\r}
+Dialogue: 0,0:18:55.90,0:18:59.75,Default,,0000,0000,0000,,{\blur3}航天器必须达到时速1.75万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a spacecraft must travel 17,500 miles per hour...{\r}
+Dialogue: 0,0:18:59.79,0:19:03.93,Default,,0000,0000,0000,,{\blur3}按照特定的弹道从地面抵达预定的高度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and follow a specific trajectory from the ground to desired altitude.{\r}
+Dialogue: 0,0:19:03.97,0:19:08.62,Default,,0000,0000,0000,,{\blur3}即使是一度的偏离 航天器最终都会进入错误的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even one degree off and a spacecraft will end up in the wrong orbit.{\r}
+Dialogue: 0,0:19:08.66,0:19:12.00,Default,,0000,0000,0000,,{\blur3}经过8分钟的飞行 烧掉了数百万加仑燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After an eight-minute ride and millions of gallons of fuel burned...{\r}
+Dialogue: 0,0:19:12.05,0:19:14.39,Default,,0000,0000,0000,,{\blur3}航天器现在入轨了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a spacecraft is now in orbit.{\r}
+Dialogue: 0,0:19:18.57,0:19:22.09,Default,,0000,0000,0000,,{\blur3}轨道是围绕另一个物体的周而复始的路径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An orbit is a reoccurring path around another object.{\r}
+Dialogue: 0,0:19:23.23,0:19:25.66,Default,,0000,0000,0000,,{\blur3}如地球围绕太阳旋转一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like Earth revolving around the Sun...{\r}
+Dialogue: 0,0:19:25.70,0:19:29.05,Default,,0000,0000,0000,,{\blur3}卫星和航天器被引力束缚在轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a satellite or spacecraft is held in orbit by gravity.{\r}
+Dialogue: 0,0:19:30.39,0:19:33.02,Default,,0000,0000,0000,,{\blur3}地球的质量产生的万有引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth's mass creates a gravitational force...{\r}
+Dialogue: 0,0:19:33.06,0:19:36.20,Default,,0000,0000,0000,,{\blur3}偏转了物体的直线路径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that deflects an object's path from a straight line.{\r}
+Dialogue: 0,0:19:38.12,0:19:40.88,Default,,0000,0000,0000,,{\blur3}可以假定地球的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It might be assumed that Earth's gravitational pull...{\r}
+Dialogue: 0,0:19:40.93,0:19:43.94,Default,,0000,0000,0000,,{\blur3}在这样的高空会失去其很大的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}loses much of its influence this high in the sky...{\r}
+Dialogue: 0,0:19:44.52,0:19:45.99,Default,,0000,0000,0000,,{\blur3}但是在近地轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in low Earth orbit...{\r}
+Dialogue: 0,0:19:46.03,0:19:48.92,Default,,0000,0000,0000,,{\blur3}地球的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth's gravity is only two percent less powerful...{\r}
+Dialogue: 0,0:19:48.96,0:19:51.01,Default,,0000,0000,0000,,{\blur3}只比地球表面上少2%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than it is on the surface of the planet.{\r}
+Dialogue: 0,0:19:52.01,0:19:53.02,Default,,0000,0000,0000,,{\blur3}你滞留轨道的办法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The way you stay in orbit...{\r}
+Dialogue: 0,0:19:53.06,0:19:55.15,Default,,0000,0000,0000,,{\blur3}就是要达到足够高的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to go at a high enough speed or velocity...{\r}
+Dialogue: 0,0:19:55.19,0:19:57.20,Default,,0000,0000,0000,,{\blur3}你在不停地落向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that you are falling back to the Earth...{\r}
+Dialogue: 0,0:19:57.24,0:19:59.79,Default,,0000,0000,0000,,{\blur3}但是你速度飞快 你弯曲的轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but you're going so fast that your curved path...{\r}
+Dialogue: 0,0:19:59.84,0:20:02.43,Default,,0000,0000,0000,,{\blur3}实际上永远不会碰上弯曲的地球表面的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}actually never strikes the curved surface of the Earth.{\r}
+Dialogue: 0,0:20:04.98,0:20:08.37,Default,,0000,0000,0000,,{\blur3}你只要失重保持着围绕地球下降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You just keep falling around the world over and over again.{\r}
+Dialogue: 0,0:20:08.41,0:20:09.83,Default,,0000,0000,0000,,{\blur3}这样你就不会脱离引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So you're not leaving the gravity behind...{\r}
+Dialogue: 0,0:20:09.88,0:20:12.76,Default,,0000,0000,0000,,{\blur3}但是你会依靠引力不停地围绕星球打转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but you're being spun around the planet by gravity.{\r}
+Dialogue: 0,0:20:12.80,0:20:15.86,Default,,0000,0000,0000,,{\blur3}就是它将你锁定在围绕星球的圆形轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's what's holding you in this circular path around the planet...{\r}
+Dialogue: 0,0:20:15.90,0:20:17.74,Default,,0000,0000,0000,,{\blur3}一直在把你拉回地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's making you fall back to Earth.{\r}
+Dialogue: 0,0:20:21.55,0:20:24.89,Default,,0000,0000,0000,,{\blur3}理论上 物体可以永远滞留在轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In theory, objects can stay in orbit forever...{\r}
+Dialogue: 0,0:20:24.94,0:20:26.57,Default,,0000,0000,0000,,{\blur3}只要它们有足够的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as long as they have enough speed...{\r}
+Dialogue: 0,0:20:26.61,0:20:28.95,Default,,0000,0000,0000,,{\blur3}去抵抗地球的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to resist the pull of Earth's gravity.{\r}
+Dialogue: 0,0:20:31.92,0:20:36.31,Default,,0000,0000,0000,,{\blur3}有两种轨道 圆形和椭圆形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are two types of orbits, circular and elliptical.{\r}
+Dialogue: 0,0:20:37.59,0:20:40.51,Default,,0000,0000,0000,,{\blur3}圆形轨道支持卫星或航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Circular orbits are for satellites or spacecraft...{\r}
+Dialogue: 0,0:20:40.56,0:20:42.82,Default,,0000,0000,0000,,{\blur3}维持恒定的高度的需要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that need to maintain a consistent altitude...{\r}
+Dialogue: 0,0:20:42.86,0:20:45.28,Default,,0000,0000,0000,,{\blur3}有规律地绕行地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and travel in a regular circle around Earth.{\r}
+Dialogue: 0,0:20:46.54,0:20:49.84,Default,,0000,0000,0000,,{\blur3}测绘卫星 GPS 气象卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mapping satellites, GPS, and weather satellites...{\r}
+Dialogue: 0,0:20:49.89,0:20:51.89,Default,,0000,0000,0000,,{\blur3}都是用圆形轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all use circular orbits.{\r}
+Dialogue: 0,0:20:53.27,0:20:56.20,Default,,0000,0000,0000,,{\blur3}椭圆轨道就是椭圆形的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Elliptical orbits are oval in shape.{\r}
+Dialogue: 0,0:20:56.24,0:21:00.26,Default,,0000,0000,0000,,{\blur3}它们用在部分轨道需要较高的高度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're used when a high altitude is needed for part of the orbit...{\r}
+Dialogue: 0,0:21:00.30,0:21:03.90,Default,,0000,0000,0000,,{\blur3}但不必一直保持在较高高度的圆形轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without having to go all the way to high-altitude circular orbit.{\r}
+Dialogue: 0,0:21:05.37,0:21:08.50,Default,,0000,0000,0000,,{\blur3}航天器发送卫星进入高轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Spacecraft delivering satellites into high orbits...{\r}
+Dialogue: 0,0:21:08.54,0:21:11.39,Default,,0000,0000,0000,,{\blur3}利用椭圆轨道来送出荷载{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}use elliptical orbits to deliver their payloads.{\r}
+Dialogue: 0,0:21:14.32,0:21:18.17,Default,,0000,0000,0000,,{\blur3}无论是穿行在圆形还是椭圆轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whether traveling in a circle or an elliptical path...{\r}
+Dialogue: 0,0:21:18.21,0:21:21.85,Default,,0000,0000,0000,,{\blur3}地球轨道上有许多东西是充满危险的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there are many things in Earth orbit that are dangerous.{\r}
+Dialogue: 0,0:21:24.86,0:21:28.83,Default,,0000,0000,0000,,{\blur3}2007年10月 美国海军用巡航导弹击落了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In October 2007, the U.S. Navy shot down...{\r}
+Dialogue: 0,0:21:28.88,0:21:31.22,Default,,0000,0000,0000,,{\blur3}一颗退役的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an out-of-service satellite with a cruise missile...{\r}
+Dialogue: 0,0:21:31.26,0:21:33.39,Default,,0000,0000,0000,,{\blur3}赶在了它返回大气层之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before it re-entered the atmosphere.{\r}
+Dialogue: 0,0:21:34.87,0:21:36.71,Default,,0000,0000,0000,,{\blur3}原因何在?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The reason?{\r}
+Dialogue: 0,0:21:36.76,0:21:40.65,Default,,0000,0000,0000,,{\blur3}该卫星搭载有有害物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The satellite carried hazardous material onboard...{\r}
+Dialogue: 0,0:21:40.69,0:21:44.54,Default,,0000,0000,0000,,{\blur3}如果它坠落地面 会毒害数以千计的人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, had it crashed to the ground, could have poisoned thousands.{\r}
+Dialogue: 0,0:21:48.30,0:21:51.69,Default,,0000,0000,0000,,{\blur3}那种有害物质是1000磅联氨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That hazardous material was 1,000 pounds of hydrazine...{\r}
+Dialogue: 0,0:21:51.73,0:21:53.82,Default,,0000,0000,0000,,{\blur3}那是一种标准的推进剂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is a standard propellant.{\r}
+Dialogue: 0,0:21:55.33,0:21:59.10,Default,,0000,0000,0000,,{\blur3}该行动被称为"燃霜行动"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The operation was called "Burnt Frost"...{\r}
+Dialogue: 0,0:21:59.14,0:22:01.81,Default,,0000,0000,0000,,{\blur3}这是迄今为止最复杂的行动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it was the most elaborate effort thus far...{\r}
+Dialogue: 0,0:22:01.86,0:22:06.12,Default,,0000,0000,0000,,{\blur3}用来防备世界上日益严重的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to protect the world from a serious yet growing problem...{\r}
+Dialogue: 0,0:22:06.17,0:22:10.14,Default,,0000,0000,0000,,{\blur3}即所谓的太空碎片 或太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called space debris or space junk.{\r}
+Dialogue: 0,0:22:13.32,0:22:16.83,Default,,0000,0000,0000,,{\blur3}太空垃圾是指人造的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Space junk is anything that's manmade...{\r}
+Dialogue: 0,0:22:16.88,0:22:19.09,Default,,0000,0000,0000,,{\blur3}放入太空但不再发挥作用的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was put into space and is no longer functioning.{\r}
+Dialogue: 0,0:22:20.47,0:22:24.15,Default,,0000,0000,0000,,{\blur3}只要我们到过太空 就会有垃圾在上头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've got junk that's been up there for as long as we've been in space.{\r}
+Dialogue: 0,0:22:28.63,0:22:31.98,Default,,0000,0000,0000,,{\blur3}就像垃圾慢慢堆积成垃圾场一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like a junkyard slowly becoming cluttered with debris...{\r}
+Dialogue: 0,0:22:34.49,0:22:38.42,Default,,0000,0000,0000,,{\blur3}从1957年发射第一颗卫星开始{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the first launch of Sputnik in 1957...{\r}
+Dialogue: 0,0:22:39.76,0:22:43.69,Default,,0000,0000,0000,,{\blur3}垃圾就逐步堆积在地球周围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}debris has steadily been accumulating around planet Earth.{\r}
+Dialogue: 0,0:22:45.37,0:22:47.67,Default,,0000,0000,0000,,{\blur3}进入太空竞赛50余年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fifty years into the space race...{\r}
+Dialogue: 0,0:22:47.71,0:22:51.30,Default,,0000,0000,0000,,{\blur3}我们的天堂里扔满了我们的垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have littered the heavens with our garbage.{\r}
+Dialogue: 0,0:22:53.86,0:22:56.62,Default,,0000,0000,0000,,{\blur3}现在 堆积了2万多个碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And now, about 20,000 pieces later...{\r}
+Dialogue: 0,0:22:56.66,0:23:01.51,Default,,0000,0000,0000,,{\blur3}地球轨道已经变成了一个致命的 垃圾遍天的垃圾场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth orbit has turned into a deadly, debris-filled junkyard.{\r}
+Dialogue: 0,0:23:02.93,0:23:06.74,Default,,0000,0000,0000,,{\blur3}看上去地球像是被一群蜜蜂团团围住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It looks like the Earth is surrounded by a hive of bees.{\r}
+Dialogue: 0,0:23:09.17,0:23:12.43,Default,,0000,0000,0000,,{\blur3}太空垃圾的大部分是火箭碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of the space debris includes shards of rockets...{\r}
+Dialogue: 0,0:23:12.47,0:23:14.69,Default,,0000,0000,0000,,{\blur3}不再发挥作用的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}satellites that no longer function...{\r}
+Dialogue: 0,0:23:14.73,0:23:18.16,Default,,0000,0000,0000,,{\blur3}以及物体升空后爆炸的碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or pieces of an object that have broken up after a launch.{\r}
+Dialogue: 0,0:23:19.88,0:23:22.30,Default,,0000,0000,0000,,{\blur3}受控于地球的引力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Caught in Earth's gravitational pull...{\r}
+Dialogue: 0,0:23:22.35,0:23:27.07,Default,,0000,0000,0000,,{\blur3}这些碎片穿行速度超过了时速2.2万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these pieces are traveling upwards of 22,000 miles per hour.{\r}
+Dialogue: 0,0:23:27.85,0:23:29.98,Default,,0000,0000,0000,,{\blur3}可以这么说 速度超过了子弹的10倍还多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Say, more than ten times faster than a bullet.{\r}
+Dialogue: 0,0:23:31.78,0:23:33.95,Default,,0000,0000,0000,,{\blur3}运动中的物体之间的碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A collision between functioning objects...{\r}
+Dialogue: 0,0:23:34.00,0:23:38.14,Default,,0000,0000,0000,,{\blur3}诸如卫星或载人航天器与太空垃圾相撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}such as satellites or inhabited spacecraft and space junk...{\r}
+Dialogue: 0,0:23:38.18,0:23:39.94,Default,,0000,0000,0000,,{\blur3}将会是灾难性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be catastrophic.{\r}
+Dialogue: 0,0:23:46.04,0:23:50.02,Default,,0000,0000,0000,,{\blur3}联合太空作战中心 简称JSPOC{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Joint Space Operations Center, or JSPOC...{\r}
+Dialogue: 0,0:23:50.06,0:23:53.07,Default,,0000,0000,0000,,{\blur3}是绝密的空军监视单位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a top-secret Air Force surveillance unit...{\r}
+Dialogue: 0,0:23:53.11,0:23:54.41,Default,,0000,0000,0000,,{\blur3}其业务是...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that makes it their business...{\r}
+Dialogue: 0,0:23:54.45,0:23:57.80,Default,,0000,0000,0000,,{\blur3}跟踪围绕地球的每一个物体...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to track every object that orbits around Earth...{\r}
+Dialogue: 0,0:23:57.84,0:23:59.76,Default,,0000,0000,0000,,{\blur3}包括太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including space debris.{\r}
+Dialogue: 0,0:24:01.52,0:24:04.28,Default,,0000,0000,0000,,{\blur3}我们利用世界各地的各种传感器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We use a number of different sensors around the world...{\r}
+Dialogue: 0,0:24:04.33,0:24:07.17,Default,,0000,0000,0000,,{\blur3}称为太空监视网{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}known as the Space Surveillance Network.{\r}
+Dialogue: 0,0:24:07.21,0:24:10.85,Default,,0000,0000,0000,,{\blur3}这是世界各地29个台站组成的网络{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a network of 29 stations all around the globe...{\r}
+Dialogue: 0,0:24:10.89,0:24:13.07,Default,,0000,0000,0000,,{\blur3}有雷达 还有光学望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}radars as well as optical telescopes...{\r}
+Dialogue: 0,0:24:13.11,0:24:16.79,Default,,0000,0000,0000,,{\blur3}来跟踪太空中的1.8万多个人造物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that track over 18,000 manmade objects in space.{\r}
+Dialogue: 0,0:24:16.83,0:24:19.97,Default,,0000,0000,0000,,{\blur3}其中包括在用的卫星 也有报废的卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That includes active satellites, as well as dead satellites...{\r}
+Dialogue: 0,0:24:20.01,0:24:22.98,Default,,0000,0000,0000,,{\blur3}还有发射后的火箭箭体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then rocket bodies that were associated with those launches...{\r}
+Dialogue: 0,0:24:23.03,0:24:25.70,Default,,0000,0000,0000,,{\blur3}以及碎片 就是脱落的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as well as debris, things that have just shed off.{\r}
+Dialogue: 0,0:24:25.74,0:24:28.21,Default,,0000,0000,0000,,{\blur3}如果它们彼此碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf they were to run into each other...{\r}
+Dialogue: 0,0:24:28.25,0:24:32.06,Default,,0000,0000,0000,,{\blur3}真的会是灾难性的碰头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it really would be a catastrophic conjunction.{\r}
+Dialogue: 0,0:24:38.73,0:24:40.45,Default,,0000,0000,0000,,{\blur3}要让JSPOC跟踪到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To be tracked by JSPOC...{\r}
+Dialogue: 0,0:24:41.41,0:24:44.09,Default,,0000,0000,0000,,{\blur3}碎片必须至少要有两英寸宽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}debris must be at least two inches wide.{\r}
+Dialogue: 0,0:24:45.05,0:24:48.36,Default,,0000,0000,0000,,{\blur3}有许多较小的物体是无法跟踪到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are much smaller objects that cannot be tracked.{\r}
+Dialogue: 0,0:24:49.82,0:24:51.58,Default,,0000,0000,0000,,{\blur3}在我多数航天飞行中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On most of my shuttle flights...{\r}
+Dialogue: 0,0:24:51.62,0:24:53.42,Default,,0000,0000,0000,,{\blur3}我们一直看到窗外有小碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we always saw small pits in the windows...{\r}
+Dialogue: 0,0:24:53.46,0:24:55.80,Default,,0000,0000,0000,,{\blur3}大小如铅笔尖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the size of a pencil point.{\r}
+Dialogue: 0,0:24:59.86,0:25:04.63,Default,,0000,0000,0000,,{\blur3}碎片数量最多是在近地轨道里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The highest population of debris are in low Earth orbit.{\r}
+Dialogue: 0,0:25:05.72,0:25:10.49,Default,,0000,0000,0000,,{\blur3}2008年 两颗卫星的蓄意碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in 2008, an intentional collision between two satellites...{\r}
+Dialogue: 0,0:25:10.53,0:25:14.54,Default,,0000,0000,0000,,{\blur3}引起了国际公愤 产生了碎片云{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}created an international outrage and a cloud of debris...{\r}
+Dialogue: 0,0:25:14.59,0:25:18.06,Default,,0000,0000,0000,,{\blur3}对近地轨道的威胁前所未有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that threatened low Earth orbit like never before.{\r}
+Dialogue: 0,0:25:21.87,0:25:24.58,Default,,0000,0000,0000,,{\blur3}我们的太空边缘是地球轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our edge of space is Earth orbit...{\r}
+Dialogue: 0,0:25:24.63,0:25:28.22,Default,,0000,0000,0000,,{\blur3}太空旅游和探险的新天地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a new frontier for space tourism and exploration.{\r}
+Dialogue: 0,0:25:29.40,0:25:32.53,Default,,0000,0000,0000,,{\blur3}但是危机四伏: 太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But danger lurks here: space debris...{\r}
+Dialogue: 0,0:25:32.57,0:25:36.38,Default,,0000,0000,0000,,{\blur3}空前威胁我们的航天器和卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it threatens our spacecraft and satellites like never before.{\r}
+Dialogue: 0,0:25:39.97,0:25:44.03,Default,,0000,0000,0000,,{\blur3}2007年 太空垃圾的预计总量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 2007, the total estimated amount of space debris...{\r}
+Dialogue: 0,0:25:44.07,0:25:49.30,Default,,0000,0000,0000,,{\blur3}有2万个 其中1.4万是可跟踪的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was 20,000 pieces, 14,000 of which were trackable.{\r}
+Dialogue: 0,0:25:50.35,0:25:54.11,Default,,0000,0000,0000,,{\blur3}当时 到了2008年 中国的航天计划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then, in 2008, China's space program...{\r}
+Dialogue: 0,0:25:54.15,0:25:59.76,Default,,0000,0000,0000,,{\blur3}故意将两颗卫星进行撞击 作为反卫星试验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}intentionally crashed two satellites together as an anti-satellite test.{\r}
+Dialogue: 0,0:25:59.80,0:26:02.81,Default,,0000,0000,0000,,{\blur3}国际航天界一片哗然{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The international space community was outraged.{\r}
+Dialogue: 0,0:26:04.19,0:26:06.83,Default,,0000,0000,0000,,{\blur3}截至2007年1月10日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By the 10th of January of 2007...{\r}
+Dialogue: 0,0:26:06.87,0:26:08.38,Default,,0000,0000,0000,,{\blur3}我们所跟踪的物体数量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the number of objects we were tracking...{\r}
+Dialogue: 0,0:26:08.42,0:26:10.09,Default,,0000,0000,0000,,{\blur3}少于1.4万{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was less than 14,000.{\r}
+Dialogue: 0,0:26:10.14,0:26:11.56,Default,,0000,0000,0000,,{\blur3}而到了16个月后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here we are, 16 months later,{\r}
+Dialogue: 0,0:26:11.60,0:26:15.24,Default,,0000,0000,0000,,{\blur3}我们把数目增加了三成 超过了1.8万{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we've increased that number by over 30 percent, to over 18,000.{\r}
+Dialogue: 0,0:26:15.28,0:26:19.23,Default,,0000,0000,0000,,{\blur3}太空垃圾问题持续增加{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The problem of space debris continues to grow.{\r}
+Dialogue: 0,0:26:19.23,0:26:21.78,Default,,0000,0000,0000,,{\blur3}碰撞已经发生在了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And collisions have already occurred...{\r}
+Dialogue: 0,0:26:21.82,0:26:24.62,Default,,0000,0000,0000,,{\blur3}太空垃圾与在用物体之间了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between space junk and functioning objects.{\r}
+Dialogue: 0,0:26:26.05,0:26:27.43,Default,,0000,0000,0000,,{\blur3}其中之一是一件碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of them was a piece of debris...{\r}
+Dialogue: 0,0:26:27.47,0:26:32.16,Default,,0000,0000,0000,,{\blur3}撞上了航天器上的重力臂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that struck a gravitation boom on a spacecraft...{\r}
+Dialogue: 0,0:26:32.20,0:26:33.66,Default,,0000,0000,0000,,{\blur3}是在吊杆上的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}severed the boom.{\r}
+Dialogue: 0,0:26:37.26,0:26:39.14,Default,,0000,0000,0000,,{\blur3}为了避免将来发生碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To avoid future collisions...{\r}
+Dialogue: 0,0:26:41.40,0:26:44.33,Default,,0000,0000,0000,,{\blur3}JSPOC保持着联系航天局{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}JSPOC is in constant contact with NASA...{\r}
+Dialogue: 0,0:26:44.37,0:26:46.67,Default,,0000,0000,0000,,{\blur3}和其他国际航天组织{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and other international space entities...{\r}
+Dialogue: 0,0:26:46.71,0:26:50.98,Default,,0000,0000,0000,,{\blur3}一旦有航天器或卫星可能遭到威胁 就通知他们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to inform them when a spacecraft or satellite might be threatened...{\r}
+Dialogue: 0,0:26:51.02,0:26:52.70,Default,,0000,0000,0000,,{\blur3}以使航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that the spacecraft...{\r}
+Dialogue: 0,0:26:52.74,0:26:55.25,Default,,0000,0000,0000,,{\blur3}可以回避太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be maneuvered around the space debris...{\r}
+Dialogue: 0,0:26:57.63,0:27:02.02,Default,,0000,0000,0000,,{\blur3}就像船只回避航道上的威胁那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much like a boat maneuvers around hazards in a waterway.{\r}
+Dialogue: 0,0:27:06.00,0:27:07.92,Default,,0000,0000,0000,,{\blur3}在这水下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Beneath the surface of the water here...{\r}
+Dialogue: 0,0:27:07.97,0:27:09.30,Default,,0000,0000,0000,,{\blur3}你无法觉察到的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what you can't see...{\r}
+Dialogue: 0,0:27:09.35,0:27:10.98,Default,,0000,0000,0000,,{\blur3}实际会给你造成的最大危害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is what's going to actually give you the most damage...{\r}
+Dialogue: 0,0:27:11.02,0:27:14.95,Default,,0000,0000,0000,,{\blur3}如果我们遇上水下的木头或障碍物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we run into a log or a snag beneath the surface.{\r}
+Dialogue: 0,0:27:14.99,0:27:17.59,Default,,0000,0000,0000,,{\blur3}在轨道上 我们面临着同样的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in orbit, that's the same problem that we face.{\r}
+Dialogue: 0,0:27:17.63,0:27:19.39,Default,,0000,0000,0000,,{\blur3}我们不可能跟踪所有可能瘫痪或报废{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We don't track all the debris...{\r}
+Dialogue: 0,0:27:19.43,0:27:22.11,Default,,0000,0000,0000,,{\blur3}你的航天器的碎片{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could actually cripple or kill your spacecraft...{\r}
+Dialogue: 0,0:27:22.15,0:27:23.78,Default,,0000,0000,0000,,{\blur3}我们面对的事实 就是你只是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we rely on the fact that you're just...{\r}
+Dialogue: 0,0:27:23.82,0:27:28.34,Default,,0000,0000,0000,,{\blur3}不可能统计到每一片碎片来保护你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}statistically unlikely to hit a piece of debris to protect you...{\r}
+Dialogue: 0,0:27:28.38,0:27:31.43,Default,,0000,0000,0000,,{\blur3}保单有朝一日是会失效的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that insurance policy is going to run out someday.{\r}
+Dialogue: 0,0:27:39.01,0:27:41.98,Default,,0000,0000,0000,,{\blur3}幸运的是 迄今尚未发生过载人航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fortunately, there haven't been any catastrophic collisions...{\r}
+Dialogue: 0,0:27:42.02,0:27:46.29,Default,,0000,0000,0000,,{\blur3}与太空垃圾之间的任何碰撞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between inhabited spacecraft and space debris...yet.{\r}
+Dialogue: 0,0:27:48.34,0:27:51.43,Default,,0000,0000,0000,,{\blur3}我们还从未见到过有载人航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've never seen a human-piloted spacecraft...{\r}
+Dialogue: 0,0:27:51.47,0:27:52.77,Default,,0000,0000,0000,,{\blur3}撞上轨道垃圾而造成危害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}run into orbital debris and been damaged...{\r}
+Dialogue: 0,0:27:52.81,0:27:54.19,Default,,0000,0000,0000,,{\blur3}但是我们曾有过一些有惊无险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we've had some close calls.{\r}
+Dialogue: 0,0:27:58.67,0:28:01.26,Default,,0000,0000,0000,,{\blur3}物体 无论其大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Objects, no matter what their size...{\r}
+Dialogue: 0,0:28:01.30,0:28:06.70,Default,,0000,0000,0000,,{\blur3}总是处于因轨道衰变被拉出轨道的危险之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are always in danger of being pulled out of their orbits by orbital decay.{\r}
+Dialogue: 0,0:28:06.74,0:28:11.34,Default,,0000,0000,0000,,{\blur3}轨道衰变的发生是因为物体丧失速度 由摩擦造成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Orbital decay occurs when an object loses speed, caused by friction...{\r}
+Dialogue: 0,0:28:11.39,0:28:15.02,Default,,0000,0000,0000,,{\blur3}开始被引力拉向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and begins to be pulled towards Earth by gravity.{\r}
+Dialogue: 0,0:28:15.07,0:28:19.21,Default,,0000,0000,0000,,{\blur3}大气阻力是轨道衰变的主要原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Atmospheric drag is the major cause of orbital decay...{\r}
+Dialogue: 0,0:28:19.25,0:28:21.82,Default,,0000,0000,0000,,{\blur3}就像路上的自行车一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like a bicyclist on the road.{\r}
+Dialogue: 0,0:28:21.82,0:28:24.12,Default,,0000,0000,0000,,{\blur3}当你保持速度骑行时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When you're pedaling along at a constant speed...{\r}
+Dialogue: 0,0:28:24.16,0:28:25.54,Default,,0000,0000,0000,,{\blur3}你保持你的肌肉力量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're balancing your muscle power...{\r}
+Dialogue: 0,0:28:25.59,0:28:28.60,Default,,0000,0000,0000,,{\blur3}来对付你骑行中道路施加给轮胎的阻力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}against the drag on the tires from the road...{\r}
+Dialogue: 0,0:28:28.64,0:28:31.27,Default,,0000,0000,0000,,{\blur3}和空气阻力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the resistance of the air that you're moving through.{\r}
+Dialogue: 0,0:28:31.32,0:28:33.24,Default,,0000,0000,0000,,{\blur3}你克服那些自行车的阻力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you overcome that resistance...{\r}
+Dialogue: 0,0:28:33.28,0:28:35.04,Default,,0000,0000,0000,,{\blur3}靠的是你的肌肉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on a bicycle with your muscles...{\r}
+Dialogue: 0,0:28:35.08,0:28:37.67,Default,,0000,0000,0000,,{\blur3}而在太空中 要靠点燃你的火箭发动机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or in space by firing your rocket engines...{\r}
+Dialogue: 0,0:28:37.72,0:28:41.73,Default,,0000,0000,0000,,{\blur3}增加一点速度 来克服空气阻力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to add a little speed, overcome that air resistance.{\r}
+Dialogue: 0,0:28:41.78,0:28:43.24,Default,,0000,0000,0000,,{\blur3}那就是太空中必须要做的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what has to happen in space...{\r}
+Dialogue: 0,0:28:43.28,0:28:46.92,Default,,0000,0000,0000,,{\blur3}以防止空间站坠落地球燃起大火{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to keep the space station from falling back to Earth and burning up.{\r}
+Dialogue: 0,0:28:46.96,0:28:50.06,Default,,0000,0000,0000,,{\blur3}一旦你停止施加推力 那么空气阻力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if you stop adding thrust, that air resistance...{\r}
+Dialogue: 0,0:28:50.10,0:28:52.32,Default,,0000,0000,0000,,{\blur3}最终会减缓到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will eventually slow you down to the point...{\r}
+Dialogue: 0,0:28:52.36,0:28:56.67,Default,,0000,0000,0000,,{\blur3}你停了下来 坠回大气层返回{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where you'll stop or fall back into the atmosphere and re-enter.{\r}
+Dialogue: 0,0:29:01.69,0:29:04.36,Default,,0000,0000,0000,,{\blur3}有些碎片得以生还{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some pieces survive re-entry...{\r}
+Dialogue: 0,0:29:05.75,0:29:10.39,Default,,0000,0000,0000,,{\blur3}那些坠落地球的碎片尺寸十分可怕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the size of these pieces that have fallen to Earth is terrifying.{\r}
+Dialogue: 0,0:29:15.20,0:29:17.25,Default,,0000,0000,0000,,{\blur3}在过去40年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the last 40 years...{\r}
+Dialogue: 0,0:29:17.29,0:29:21.85,Default,,0000,0000,0000,,{\blur3}有1.7万个太空碎片得以生还{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}17,000 pieces of space debris have survived re-entry.{\r}
+Dialogue: 0,0:29:23.33,0:29:28.85,Default,,0000,0000,0000,,{\blur3}早在1997年 我们有一个570磅的不锈钢罐{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Back in 1997, we had a 570-pound stainless steel tank...{\r}
+Dialogue: 0,0:29:28.90,0:29:31.82,Default,,0000,0000,0000,,{\blur3}落在了得克萨斯的一个农户家外的50码处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that landed about 50 yards from a farmer's house in Texas.{\r}
+Dialogue: 0,0:29:31.87,0:29:34.21,Default,,0000,0000,0000,,{\blur3}他对此并没有特别的高兴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}He was not particularly pleased by that.{\r}
+Dialogue: 0,0:29:37.12,0:29:40.42,Default,,0000,0000,0000,,{\blur3}如果有一件碎片生还{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If a piece of debris does survive re-entry...{\r}
+Dialogue: 0,0:29:40.42,0:29:44.81,Default,,0000,0000,0000,,{\blur3}会以时速120英里的亚音速穿行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it travels at subsonic speeds of 120 miles per hour...{\r}
+Dialogue: 0,0:29:44.86,0:29:46.95,Default,,0000,0000,0000,,{\blur3}直到撞上地面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until it hits ground.{\r}
+Dialogue: 0,0:29:50.29,0:29:56.27,Default,,0000,0000,0000,,{\blur3}曾有过闯入南非开普敦的返回{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was a re-entry that came into Cape Town in South Africa.{\r}
+Dialogue: 0,0:29:56.32,0:29:57.78,Default,,0000,0000,0000,,{\blur3}那是在白天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was during the day...{\r}
+Dialogue: 0,0:29:57.82,0:30:00.04,Default,,0000,0000,0000,,{\blur3}有人在田野里劳作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there were people out working in fields.{\r}
+Dialogue: 0,0:30:00.08,0:30:01.67,Default,,0000,0000,0000,,{\blur3}他们听到了轰鸣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They heard a sonic boom...{\r}
+Dialogue: 0,0:30:03.01,0:30:04.01,Default,,0000,0000,0000,,{\blur3}抬头一看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they looked up...{\r}
+Dialogue: 0,0:30:04.06,0:30:06.48,Default,,0000,0000,0000,,{\blur3}他们基本上看到了这东西从天而降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they basically saw this material coming down.{\r}
+Dialogue: 0,0:30:10.50,0:30:14.01,Default,,0000,0000,0000,,{\blur3}加州埃尔塞贡多航天公司{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Aerospace Corporation in El Segundo, California...{\r}
+Dialogue: 0,0:30:14.05,0:30:16.94,Default,,0000,0000,0000,,{\blur3}是收集和研究太空垃圾的机构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a facility that collects and studies space junk...{\r}
+Dialogue: 0,0:30:16.98,0:30:19.41,Default,,0000,0000,0000,,{\blur3}为军方和私人公司服务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the military and private companies.{\r}
+Dialogue: 0,0:30:21.67,0:30:24.55,Default,,0000,0000,0000,,{\blur3}这一件是昔日的太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a piece of what was once a piece of space junk.{\r}
+Dialogue: 0,0:30:24.60,0:30:26.27,Default,,0000,0000,0000,,{\blur3}这是火箭级的一部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was a part of a rocket stage...{\r}
+Dialogue: 0,0:30:26.31,0:30:29.11,Default,,0000,0000,0000,,{\blur3}用来将GPS卫星送入轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was used to put a GPS satellite in orbit.{\r}
+Dialogue: 0,0:30:29.16,0:30:32.67,Default,,0000,0000,0000,,{\blur3}这里你可以看到托架{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here you can see the brackets that were actually melted off...{\r}
+Dialogue: 0,0:30:32.71,0:30:34.26,Default,,0000,0000,0000,,{\blur3}实际上随着坠落融化了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as this came down.{\r}
+Dialogue: 0,0:30:34.30,0:30:37.44,Default,,0000,0000,0000,,{\blur3}我们实际上割下了这里的样本 试图了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We actually have cut samples here to try to understand...{\r}
+Dialogue: 0,0:30:37.48,0:30:41.12,Default,,0000,0000,0000,,{\blur3}这里发生的情况 温度会有多高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what happened in this area, how hot did it get...{\r}
+Dialogue: 0,0:30:41.16,0:30:43.88,Default,,0000,0000,0000,,{\blur3}我们利用这些信息来改进我们的模型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we use that information to improve our models.{\r}
+Dialogue: 0,0:30:45.43,0:30:48.32,Default,,0000,0000,0000,,{\blur3}搞明白这些碎片是如何生还的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Understanding how these pieces survive re-entry...{\r}
+Dialogue: 0,0:30:48.36,0:30:52.42,Default,,0000,0000,0000,,{\blur3}对未来的航天器和卫星的建造至关重要{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is important for future spacecraft and satellite construction.{\r}
+Dialogue: 0,0:30:52.46,0:30:55.72,Default,,0000,0000,0000,,{\blur3}回收和再利用关键的航天器部件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Recovering and reusing critical spacecraft parts...{\r}
+Dialogue: 0,0:30:55.76,0:30:58.44,Default,,0000,0000,0000,,{\blur3}可以节省数百万的制造成本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could save millions in manufacturing costs.{\r}
+Dialogue: 0,0:31:00.07,0:31:03.46,Default,,0000,0000,0000,,{\blur3}可是 收集太空垃圾却是困难重重{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, collecting space debris remains tricky.{\r}
+Dialogue: 0,0:31:05.38,0:31:07.10,Default,,0000,0000,0000,,{\blur3}地球表面四分之三是水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Three-quarters of the Earth's surface is water...{\r}
+Dialogue: 0,0:31:07.14,0:31:08.98,Default,,0000,0000,0000,,{\blur3}因而其大部分坠落在水中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so a lot of it lands in the water.{\r}
+Dialogue: 0,0:31:09.02,0:31:10.82,Default,,0000,0000,0000,,{\blur3}因此当你在陆地上发现一件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So when you find a piece on the ground...{\r}
+Dialogue: 0,0:31:10.87,0:31:12.54,Default,,0000,0000,0000,,{\blur3}实际上是非常罕见的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's actually a very rare event.{\r}
+Dialogue: 0,0:31:15.30,0:31:19.73,Default,,0000,0000,0000,,{\blur3}估计太空垃圾的总量到2050年将翻番{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's estimated the amount of space debris will double by 2050.{\r}
+Dialogue: 0,0:31:21.17,0:31:23.26,Default,,0000,0000,0000,,{\blur3}但并没有妨碍企业家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But that hasn't deterred entrepreneurs...{\r}
+Dialogue: 0,0:31:23.30,0:31:27.31,Default,,0000,0000,0000,,{\blur3}继续探索地球轨道作为营业场所{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who continue to explore Earth orbit as a business location.{\r}
+Dialogue: 0,0:31:29.74,0:31:33.88,Default,,0000,0000,0000,,{\blur3}仅仅花上2500美元 太空葬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For a mere $2,500, Memorial Spaceflights...{\r}
+Dialogue: 0,0:31:33.92,0:31:36.56,Default,,0000,0000,0000,,{\blur3}在2008年开始提供服务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which began service in 2008...{\r}
+Dialogue: 0,0:31:36.60,0:31:39.95,Default,,0000,0000,0000,,{\blur3}将亲人的骨灰送入近地轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will launch ashes of a loved one into low Earth orbit.{\r}
+Dialogue: 0,0:31:42.54,0:31:44.09,Default,,0000,0000,0000,,{\blur3}这种归宿...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a fitting end to anyone...{\r}
+Dialogue: 0,0:31:44.13,0:31:47.31,Default,,0000,0000,0000,,{\blur3}适合所有梦想有朝一日访问外太空的人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who dreamed of one day visiting outer space.{\r}
+Dialogue: 0,0:31:54.84,0:31:57.00,Default,,0000,0000,0000,,{\blur3}这只是企业家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is just one of the many ideas...{\r}
+Dialogue: 0,0:31:57.00,0:31:59.72,Default,,0000,0000,0000,,{\blur3}开发地球轨道的许多概念之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}entrepreneurs are developing for Earth orbit.{\r}
+Dialogue: 0,0:32:02.72,0:32:04.86,Default,,0000,0000,0000,,{\blur3}但是要在太空中开展业务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But to run a business in space...{\r}
+Dialogue: 0,0:32:04.90,0:32:08.29,Default,,0000,0000,0000,,{\blur3}需要有途径来获得长久的占用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there needs to be a way to obtain permanent occupancy.{\r}
+Dialogue: 0,0:32:10.38,0:32:13.72,Default,,0000,0000,0000,,{\blur3}现在我们进入了21世纪初{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here we are in the early years of the 21st century...{\r}
+Dialogue: 0,0:32:13.77,0:32:16.44,Default,,0000,0000,0000,,{\blur3}我预计太空正在变成一个产业园{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I foresee space becoming an industrial park.{\r}
+Dialogue: 0,0:32:18.54,0:32:24.60,Default,,0000,0000,0000,,{\blur3}太空实验室 联盟号 国际空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Skylab, Mir, and now the International Space Station...{\r}
+Dialogue: 0,0:32:24.64,0:32:26.32,Default,,0000,0000,0000,,{\blur3}都提供了一个舞台{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have all provided an arena...{\r}
+Dialogue: 0,0:32:26.36,0:32:30.00,Default,,0000,0000,0000,,{\blur3}在太空中进行长期的居住和实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for long-term habitation and experiments in space.{\r}
+Dialogue: 0,0:32:31.88,0:32:36.27,Default,,0000,0000,0000,,{\blur3}若是私人公司也可以拥有围绕地球的航天器又当如何呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What if private companies could also have spacecraft orbiting the Earth?{\r}
+Dialogue: 0,0:32:40.79,0:32:43.47,Default,,0000,0000,0000,,{\blur3}我认为我们过去和现在都是第一家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think we were and are the first company...{\r}
+Dialogue: 0,0:32:43.51,0:32:45.85,Default,,0000,0000,0000,,{\blur3}部署了那种结构的公司{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to have deployed that kind of structure.{\r}
+Dialogue: 0,0:32:51.42,0:32:53.42,Default,,0000,0000,0000,,{\blur3}紧挨着拉斯维加斯大道啊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just off the Las Vegas Strip...{\r}
+Dialogue: 0,0:32:54.76,0:32:57.78,Default,,0000,0000,0000,,{\blur3}鲍勃.比奇洛及其本杰罗宇航公司的团队{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bob Bigelow and his team at Bigelow Aerospace...{\r}
+Dialogue: 0,0:32:57.82,0:33:00.66,Default,,0000,0000,0000,,{\blur3}坚持在高度安全的设施里面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are hunkered down in a high-security facility...{\r}
+Dialogue: 0,0:33:00.70,0:33:03.71,Default,,0000,0000,0000,,{\blur3}打造着新一代宇航器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating a new generation of spacecraft.{\r}
+Dialogue: 0,0:33:05.14,0:33:08.15,Default,,0000,0000,0000,,{\blur3}我坚持的童年幻想就是那个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm living out a childhood fantasy is what it is.{\r}
+Dialogue: 0,0:33:09.41,0:33:13.09,Default,,0000,0000,0000,,{\blur3}我认为我们参予了某些很重要的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And l think that we are involved in something really important.{\r}
+Dialogue: 0,0:33:16.16,0:33:19.21,Default,,0000,0000,0000,,{\blur3}私人企业正在探索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Private industry is exploring the opportunities...{\r}
+Dialogue: 0,0:33:19.26,0:33:21.10,Default,,0000,0000,0000,,{\blur3}我们太空边缘的机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our edge of space.{\r}
+Dialogue: 0,0:33:22.31,0:33:25.63,Default,,0000,0000,0000,,{\blur3}本杰罗宇航公司正在开发充气的工作区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bigelow Aerospace is developing inflating workspaces...{\r}
+Dialogue: 0,0:33:25.63,0:33:28.89,Default,,0000,0000,0000,,{\blur3}叫做创世纪 发射到地球轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called Genesis to launch into Earth orbit.{\r}
+Dialogue: 0,0:33:30.28,0:33:33.25,Default,,0000,0000,0000,,{\blur3}该技术的灵感来自航天局{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The technology was inspired by NASA.{\r}
+Dialogue: 0,0:33:35.45,0:33:38.01,Default,,0000,0000,0000,,{\blur3}我偶尔碰到了一篇技术论文{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I came across an article about a technology...{\r}
+Dialogue: 0,0:33:38.02,0:33:40.36,Default,,0000,0000,0000,,{\blur3}航天局曾研究过的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that NASA had been working on...{\r}
+Dialogue: 0,0:33:40.40,0:33:42.24,Default,,0000,0000,0000,,{\blur3}我想 噢 天哪 这真了不起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and I thought, "Oh, my God, this is great."{\r}
+Dialogue: 0,0:33:44.29,0:33:49.23,Default,,0000,0000,0000,,{\blur3}航天局研发了充气的模块 一个叫做转移居住舱的房间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA developed an inflatable module, a room called the TransHab.{\r}
+Dialogue: 0,0:33:50.44,0:33:51.94,Default,,0000,0000,0000,,{\blur3}它将连接空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was going to be joined to the space station...{\r}
+Dialogue: 0,0:33:51.99,0:33:53.91,Default,,0000,0000,0000,,{\blur3}以提供更多的居住空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to provide more living space.{\r}
+Dialogue: 0,0:33:53.95,0:33:56.97,Default,,0000,0000,0000,,{\blur3}航天局一直没有足够的财力来执行该计划{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA was never able to afford executing that plan.{\r}
+Dialogue: 0,0:33:58.47,0:34:00.44,Default,,0000,0000,0000,,{\blur3}最后 经过了若干年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually, after a number of years...{\r}
+Dialogue: 0,0:34:00.48,0:34:04.58,Default,,0000,0000,0000,,{\blur3}我们从航天局收购了他们的专利许可{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we acquired the licenses from NASA for their patents.{\r}
+Dialogue: 0,0:34:07.68,0:34:10.44,Default,,0000,0000,0000,,{\blur3}这概念非常独特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The concept is ingenious.{\r}
+Dialogue: 0,0:34:10.48,0:34:13.07,Default,,0000,0000,0000,,{\blur3}比奇洛航天器是充气分离舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bigelow spacecraft are inflatable pods...{\r}
+Dialogue: 0,0:34:13.11,0:34:17.00,Default,,0000,0000,0000,,{\blur3}发射过程中可以塞进无人火箭的头部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that tuck into the nose of an unmanned rocket during launch...{\r}
+Dialogue: 0,0:34:17.05,0:34:20.39,Default,,0000,0000,0000,,{\blur3}然后将旅行尺寸膨胀三倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then expand to three times their travel size...{\r}
+Dialogue: 0,0:34:20.44,0:34:23.32,Default,,0000,0000,0000,,{\blur3}充大容积释放入轨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to full capacity once released into orbit.{\r}
+Dialogue: 0,0:34:25.83,0:34:29.55,Default,,0000,0000,0000,,{\blur3}在火箭过渡时 你只有这么大的体积{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a rocket ferry, you only have so much volume...{\r}
+Dialogue: 0,0:34:29.60,0:34:33.07,Default,,0000,0000,0000,,{\blur3}如此大的房间就如这个瓶子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so much room like this bottle.{\r}
+Dialogue: 0,0:34:33.11,0:34:35.49,Default,,0000,0000,0000,,{\blur3}就是这么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's as big as it gets. That's it.{\r}
+Dialogue: 0,0:34:35.54,0:34:38.42,Default,,0000,0000,0000,,{\blur3}但是如果你发射这么大的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if you launch something in that volume...{\r}
+Dialogue: 0,0:34:38.47,0:34:41.85,Default,,0000,0000,0000,,{\blur3}随后可以膨胀其体积三倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that can later expand to three times its size...{\r}
+Dialogue: 0,0:34:41.90,0:34:44.32,Default,,0000,0000,0000,,{\blur3}你就有了更大的房间来派用场了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you have a lot more room to do something with.{\r}
+Dialogue: 0,0:34:46.58,0:34:49.80,Default,,0000,0000,0000,,{\blur3}我们利用压缩空气来膨胀它到形状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We use compressed gas to expand it into its form.{\r}
+Dialogue: 0,0:34:51.31,0:34:53.82,Default,,0000,0000,0000,,{\blur3}充气航天器可以适应...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The inflatable spacecraft could be adapted...{\r}
+Dialogue: 0,0:34:53.86,0:34:55.87,Default,,0000,0000,0000,,{\blur3}任何一位客户的需求{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to whatever a client might need--{\r}
+Dialogue: 0,0:34:56.54,0:35:01.81,Default,,0000,0000,0000,,{\blur3}研究实验室 制造工厂 酒店{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}research laboratory, manufacturing facility, hotel space--{\r}
+Dialogue: 0,0:35:01.85,0:35:04.78,Default,,0000,0000,0000,,{\blur3}所有新兴产业都能上地球轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all emerging industries for Earth orbit.{\r}
+Dialogue: 0,0:35:05.82,0:35:08.67,Default,,0000,0000,0000,,{\blur3}我们可以招待各种客户{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can host a variety of different kinds of clients...{\r}
+Dialogue: 0,0:35:08.71,0:35:11.43,Default,,0000,0000,0000,,{\blur3}他们只需付出...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they only have to pay for the specific time...{\r}
+Dialogue: 0,0:35:11.47,0:35:12.60,Default,,0000,0000,0000,,{\blur3}他们参予的具体时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they're interested in.{\r}
+Dialogue: 0,0:35:14.32,0:35:15.82,Default,,0000,0000,0000,,{\blur3}该航天器所用的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The spacecraft is assembled...{\r}
+Dialogue: 0,0:35:15.86,0:35:18.33,Default,,0000,0000,0000,,{\blur3}非常耐用但可以弯曲的材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from very durable but bendable materials...{\r}
+Dialogue: 0,0:35:18.38,0:35:20.38,Default,,0000,0000,0000,,{\blur3}叫做软优系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called soft good systems.{\r}
+Dialogue: 0,0:35:21.47,0:35:23.81,Default,,0000,0000,0000,,{\blur3}你在软优里生活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've driven all your life on soft goods.{\r}
+Dialogue: 0,0:35:23.86,0:35:25.40,Default,,0000,0000,0000,,{\blur3}你被赶在轮胎里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You've driven on tires.{\r}
+Dialogue: 0,0:35:25.44,0:35:29.79,Default,,0000,0000,0000,,{\blur3}充气系统非常可靠 非常坚固{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inflatable systems can be extremely reliable and very strong.{\r}
+Dialogue: 0,0:35:33.18,0:35:36.86,Default,,0000,0000,0000,,{\blur3}比奇洛并不担心自己的发射系统的可靠性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bigelow is not worried about the reliability of his launch system.{\r}
+Dialogue: 0,0:35:37.45,0:35:39.63,Default,,0000,0000,0000,,{\blur3}他使用的第聂伯18火箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Dnepr 18 rockets he's using...{\r}
+Dialogue: 0,0:35:39.67,0:35:41.51,Default,,0000,0000,0000,,{\blur3}完全就是俄罗斯人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the same ones the Russians trust...{\r}
+Dialogue: 0,0:35:41.55,0:35:43.85,Default,,0000,0000,0000,,{\blur3}运送他们一些最宝贵荷载的那种{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with some of their most precious payloads.{\r}
+Dialogue: 0,0:35:45.07,0:35:47.41,Default,,0000,0000,0000,,{\blur3}他们有约1100个那样的火箭{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They have about 1,100 of those rockets...{\r}
+Dialogue: 0,0:35:47.45,0:35:49.54,Default,,0000,0000,0000,,{\blur3}现在用在核导弹上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with nuclear missiles on them right now.{\r}
+Dialogue: 0,0:35:50.21,0:35:53.22,Default,,0000,0000,0000,,{\blur3}我们不会因为火箭的失败而失败{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're not going to fail because the rocket failed.{\r}
+Dialogue: 0,0:35:54.18,0:35:59.04,Default,,0000,0000,0000,,{\blur3}一旦入轨 仪器装置的能源来自四个太阳能电池板{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Once in orbit, instrumentation is powered by four solar panels...{\r}
+Dialogue: 0,0:35:59.05,0:36:01.35,Default,,0000,0000,0000,,{\blur3}就像国际空间站那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just like the International Space Station.{\r}
+Dialogue: 0,0:36:03.82,0:36:08.71,Default,,0000,0000,0000,,{\blur3}创世纪航天器是新一代的空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Genesis spacecraft is a new generation of space station...{\r}
+Dialogue: 0,0:36:08.76,0:36:12.65,Default,,0000,0000,0000,,{\blur3}可能是政府公债的一大进步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it might be a vast improvement from the government-issue brand.{\r}
+Dialogue: 0,0:36:17.46,0:36:21.60,Default,,0000,0000,0000,,{\blur3}我们所致力的东西 就是一旦我们成功{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we're working on, if we're successful...{\r}
+Dialogue: 0,0:36:21.64,0:36:24.94,Default,,0000,0000,0000,,{\blur3}那可是比呆在铝罐里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a much safer vessel for humans to be in...{\r}
+Dialogue: 0,0:36:24.99,0:36:26.49,Default,,0000,0000,0000,,{\blur3}人类更加安全的容器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the aluminum cans are.{\r}
+Dialogue: 0,0:36:27.96,0:36:30.13,Default,,0000,0000,0000,,{\blur3}我们的充气容器结构足以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our inflatable hull structure is adequate...{\r}
+Dialogue: 0,0:36:30.17,0:36:33.27,Default,,0000,0000,0000,,{\blur3}抵御各种热效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to protect against any type of thermal effects...{\r}
+Dialogue: 0,0:36:33.31,0:36:36.41,Default,,0000,0000,0000,,{\blur3}微流星体的防护 辐射效应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}micro-meteoroid protection, radiation effects.{\r}
+Dialogue: 0,0:36:38.65,0:36:44.13,Default,,0000,0000,0000,,{\blur3}本杰罗宇航公司现有两种私人航天器 创世纪1型 2型{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bigelow Aerospace now has two private spacecraft, Genesis I and II...{\r}
+Dialogue: 0,0:36:44.17,0:36:47.39,Default,,0000,0000,0000,,{\blur3}绕行在地球上空340英里处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}orbiting 340 miles above Earth...{\r}
+Dialogue: 0,0:36:47.44,0:36:50.61,Default,,0000,0000,0000,,{\blur3}独一无二的私人拥有的航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the only privately owned spacecraft of their kind...{\r}
+Dialogue: 0,0:36:50.66,0:36:52.66,Default,,0000,0000,0000,,{\blur3}穿行在太空边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}orbiting in the edge of space.{\r}
+Dialogue: 0,0:36:57.43,0:37:01.24,Default,,0000,0000,0000,,{\blur3}发射航天器进入地球轨道只是一个方面挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Launching spacecraft into Earth orbit is only one challenge.{\r}
+Dialogue: 0,0:37:03.37,0:37:07.22,Default,,0000,0000,0000,,{\blur3}选择合适的轨道倾角是另一个挑战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Picking an appropriate inclination for its orbits is another.{\r}
+Dialogue: 0,0:37:08.77,0:37:13.54,Default,,0000,0000,0000,,{\blur3}轨道面其实只是其{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The orientation of an orbit really is just a measure of the degree of tilt...{\r}
+Dialogue: 0,0:37:13.58,0:37:15.63,Default,,0000,0000,0000,,{\blur3}通过赤道倾角的度量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the line running through the equator.{\r}
+Dialogue: 0,0:37:15.67,0:37:20.52,Default,,0000,0000,0000,,{\blur3}你可以有任意选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can have anything from zero-degree inclination...{\r}
+Dialogue: 0,0:37:20.57,0:37:22.16,Default,,0000,0000,0000,,{\blur3}从0度到90度的倾角{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to 90-degree inclination.{\r}
+Dialogue: 0,0:37:22.20,0:37:24.42,Default,,0000,0000,0000,,{\blur3}0度倾角就是与赤道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The zero-degree inclination...{\r}
+Dialogue: 0,0:37:24.46,0:37:27.84,Default,,0000,0000,0000,,{\blur3}没有任何的倾斜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is absolutely no tilt whatsoever from the equator...{\r}
+Dialogue: 0,0:37:27.84,0:37:30.68,Default,,0000,0000,0000,,{\blur3}被称为赤道轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that is called an equatorial orbit.{\r}
+Dialogue: 0,0:37:30.73,0:37:33.69,Default,,0000,0000,0000,,{\blur3}反之 如果你有一个与赤道90度的倾角{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whereas, if you have a 90-degree tilt from the equator...{\r}
+Dialogue: 0,0:37:33.74,0:37:35.37,Default,,0000,0000,0000,,{\blur3}那就是极轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that is a polar orbit.{\r}
+Dialogue: 0,0:37:39.11,0:37:42.75,Default,,0000,0000,0000,,{\blur3}卫星和航天器根据其任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Satellites and spacecraft are launched into different inclinations...{\r}
+Dialogue: 0,0:37:42.80,0:37:44.59,Default,,0000,0000,0000,,{\blur3}发射到不同的倾角{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}depending on their mission...{\r}
+Dialogue: 0,0:37:44.64,0:37:49.61,Default,,0000,0000,0000,,{\blur3}因为不同的倾角穿越地球不同的部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because different inclinations pass over different parts of Earth.{\r}
+Dialogue: 0,0:37:49.66,0:37:51.34,Default,,0000,0000,0000,,{\blur3}如果你绕着地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you're going around the Earth...{\r}
+Dialogue: 0,0:37:51.34,0:37:54.18,Default,,0000,0000,0000,,{\blur3}绕着赤道 你会看到什么呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}around the equator, what do you get to see?{\r}
+Dialogue: 0,0:37:54.22,0:37:56.52,Default,,0000,0000,0000,,{\blur3}就在你下面 会是什么呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just what's below you, which is going to be what?{\r}
+Dialogue: 0,0:37:56.57,0:37:57.57,Default,,0000,0000,0000,,{\blur3}赤道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The equator.{\r}
+Dialogue: 0,0:37:57.61,0:38:02.09,Default,,0000,0000,0000,,{\blur3}那么轨道有个倾角 比方说 56度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So an inclination of the orbit, at, say, 56 degrees...{\r}
+Dialogue: 0,0:38:02.13,0:38:06.48,Default,,0000,0000,0000,,{\blur3}几乎就能涵盖整个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}covers almost all of the population of the Earth.{\r}
+Dialogue: 0,0:38:09.29,0:38:13.17,Default,,0000,0000,0000,,{\blur3}极轨道卫星跑上几圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A polar orbit satellite has the ability to view the entire Earth...{\r}
+Dialogue: 0,0:38:13.22,0:38:15.39,Default,,0000,0000,0000,,{\blur3}就能看到整个地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a few orbital rotations.{\r}
+Dialogue: 0,0:38:16.82,0:38:19.53,Default,,0000,0000,0000,,{\blur3}随着地球在下面慢慢旋转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the Earth slowly rotates below...{\r}
+Dialogue: 0,0:38:19.58,0:38:22.25,Default,,0000,0000,0000,,{\blur3}卫星在上空持续扫描{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the satellite keeps sweeping overhead...{\r}
+Dialogue: 0,0:38:22.30,0:38:24.89,Default,,0000,0000,0000,,{\blur3}使整个地球在短时间内{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allowing the entire Earth to be observed...{\r}
+Dialogue: 0,0:38:24.93,0:38:26.77,Default,,0000,0000,0000,,{\blur3}被观察到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a short period of time.{\r}
+Dialogue: 0,0:38:29.45,0:38:32.96,Default,,0000,0000,0000,,{\blur3}如果任务是间谍或观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the mission is for espionage or observation...{\r}
+Dialogue: 0,0:38:33.01,0:38:35.51,Default,,0000,0000,0000,,{\blur3}太阳同步轨道可以让卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Sun-synchronous orbits allow satellites...{\r}
+Dialogue: 0,0:38:35.56,0:38:40.28,Default,,0000,0000,0000,,{\blur3}在每天同一时间经过地球上的同一个点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to pass over the same point on Earth at the same time every day.{\r}
+Dialogue: 0,0:38:41.90,0:38:44.49,Default,,0000,0000,0000,,{\blur3}它们每个地球日移动一度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They shift one degree each Earth day...{\r}
+Dialogue: 0,0:38:44.54,0:38:47.59,Default,,0000,0000,0000,,{\blur3}同步保持在太阳特定位置上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to stay in sync with the Sun at a given location.{\r}
+Dialogue: 0,0:38:49.89,0:38:52.57,Default,,0000,0000,0000,,{\blur3}如果必须要保持通讯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If constant communication is necessary...{\r}
+Dialogue: 0,0:38:52.61,0:38:56.16,Default,,0000,0000,0000,,{\blur3}地球同步轨道卫星就被定位在远离地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}geosynchronous satellites are positioned far away from Earth...{\r}
+Dialogue: 0,0:38:56.21,0:38:59.47,Default,,0000,0000,0000,,{\blur3}这样整个大陆尽收眼底{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that entire continents are within their view.{\r}
+Dialogue: 0,0:39:00.31,0:39:02.40,Default,,0000,0000,0000,,{\blur3}它与地球的自转一致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It matches the rotation of the Earth...{\r}
+Dialogue: 0,0:39:02.44,0:39:04.07,Default,,0000,0000,0000,,{\blur3}似乎就盘旋在空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and appears to hover in the sky.{\r}
+Dialogue: 0,0:39:04.11,0:39:06.62,Default,,0000,0000,0000,,{\blur3}那是该轨道一个非常有用的特征{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's a very useful trait of that orbit...{\r}
+Dialogue: 0,0:39:06.66,0:39:09.89,Default,,0000,0000,0000,,{\blur3}因为你可以持续保持无线电或电视{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because you can then stay constantly in radio or television touch...{\r}
+Dialogue: 0,0:39:09.93,0:39:12.02,Default,,0000,0000,0000,,{\blur3}与地面站的联络{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with the spot on the ground below.{\r}
+Dialogue: 0,0:39:14.36,0:39:16.45,Default,,0000,0000,0000,,{\blur3}地球轨道是地球空间活动的...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth orbit is the natural extension...{\r}
+Dialogue: 0,0:39:16.50,0:39:18.63,Default,,0000,0000,0000,,{\blur3}自然延伸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of Earth's occupation in space.{\r}
+Dialogue: 0,0:39:21.68,0:39:24.32,Default,,0000,0000,0000,,{\blur3}如果未来计划成功的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if future plans pan out...{\r}
+Dialogue: 0,0:39:24.36,0:39:27.04,Default,,0000,0000,0000,,{\blur3}那太空边缘的产业化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the industrialization of the edge of space...{\r}
+Dialogue: 0,0:39:27.08,0:39:29.25,Default,,0000,0000,0000,,{\blur3}将会发生在不久的将来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will happen in the near future.{\r}
+Dialogue: 0,0:39:34.57,0:39:39.30,Default,,0000,0000,0000,,{\blur3}也就在40年前 约翰.格伦进入了地球轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was only 40 years ago John Glenn entered Earth orbit.{\r}
+Dialogue: 0,0:39:41.43,0:39:46.29,Default,,0000,0000,0000,,{\blur3}未来50到100年 把握地球轨道未来的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What the next 50 or 100 years holds for the future of Earth orbit...{\r}
+Dialogue: 0,0:39:46.33,0:39:49.13,Default,,0000,0000,0000,,{\blur3}将是激动人心的 或许就如月球漫步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is as exciting as perhaps a walk on the Moon...{\r}
+Dialogue: 0,0:39:49.17,0:39:51.22,Default,,0000,0000,0000,,{\blur3}过去的老一辈那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}once was to an older generation.{\r}
+Dialogue: 0,0:39:54.90,0:39:58.03,Default,,0000,0000,0000,,{\blur3}本杰罗宇航公司已经到达了一个重要的里程碑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Bigelow Aerospace has already reached a major milestone...{\r}
+Dialogue: 0,0:39:58.08,0:40:01.34,Default,,0000,0000,0000,,{\blur3}依靠将他们的创世纪1号 2号发射入轨{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by launching their Genesis I and II pods into orbit.{\r}
+Dialogue: 0,0:40:03.35,0:40:06.94,Default,,0000,0000,0000,,{\blur3}但是未来的航天器将是为老百姓打造的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But future spacecraft will be ready for private citizens.{\r}
+Dialogue: 0,0:40:08.66,0:40:10.42,Default,,0000,0000,0000,,{\blur3}之前谁都没做过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nobody's done this before.{\r}
+Dialogue: 0,0:40:10.46,0:40:11.96,Default,,0000,0000,0000,,{\blur3}我的意思是 人们已经进入了太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, people have gone into space...{\r}
+Dialogue: 0,0:40:12.01,0:40:14.52,Default,,0000,0000,0000,,{\blur3}但我们所努力的就是使它实用化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but what we're trying to do is make it available.{\r}
+Dialogue: 0,0:40:16.67,0:40:21.07,Default,,0000,0000,0000,,{\blur3}它叫做追日 300立方米的可居住空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's called Sundancer, a 300-cubic-meter inhabitable space...{\r}
+Dialogue: 0,0:40:21.11,0:40:26.13,Default,,0000,0000,0000,,{\blur3}其容积可以维持三个人无限期居住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will have the capacity to support up to three human lives indefinitely.{\r}
+Dialogue: 0,0:40:27.62,0:40:29.58,Default,,0000,0000,0000,,{\blur3}我们必须添加大量的维持生命的设施{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have to add a lot of life-support equipment...{\r}
+Dialogue: 0,0:40:29.63,0:40:31.21,Default,,0000,0000,0000,,{\blur3}来确保其环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to make sure that the environment...{\r}
+Dialogue: 0,0:40:31.26,0:40:33.64,Default,,0000,0000,0000,,{\blur3}可以维持三人组{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is sustainable for a crew of three.{\r}
+Dialogue: 0,0:40:33.68,0:40:37.99,Default,,0000,0000,0000,,{\blur3}要考虑的东西从空调系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That goes into anything from the air concentration system...{\r}
+Dialogue: 0,0:40:38.03,0:40:41.63,Default,,0000,0000,0000,,{\blur3}氧气送出 二氧化碳清除{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where oxygen has to be delivered, CO2 has to get removed...{\r}
+Dialogue: 0,0:40:41.67,0:40:45.73,Default,,0000,0000,0000,,{\blur3}一直到更为严格的温度控制和湿度控制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all the way through more rigorous thermal control and humidity control.{\r}
+Dialogue: 0,0:40:47.24,0:40:50.54,Default,,0000,0000,0000,,{\blur3}一个追日航天器所提供的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One Sundancer spacecraft offers more space...{\r}
+Dialogue: 0,0:40:50.58,0:40:54.47,Default,,0000,0000,0000,,{\blur3}超过了目前的整个国际空间站的能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than is currently available on the entire International Space Station.{\r}
+Dialogue: 0,0:40:55.56,0:40:59.58,Default,,0000,0000,0000,,{\blur3}最终 多个航天器将会连接在一块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Eventually, multiple pods will be connected together...{\r}
+Dialogue: 0,0:40:59.62,0:41:02.59,Default,,0000,0000,0000,,{\blur3}就像万能工匠搭更大的设施那样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like Tinkertoys for larger facilities.{\r}
+Dialogue: 0,0:41:04.43,0:41:06.10,Default,,0000,0000,0000,,{\blur3}你所选择的形状{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What kind of shape you're choosing...{\r}
+Dialogue: 0,0:41:06.15,0:41:09.83,Default,,0000,0000,0000,,{\blur3}取决于目的 航天器的使命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}depends on the purpose, the mission for the spacecraft.{\r}
+Dialogue: 0,0:41:11.67,0:41:14.76,Default,,0000,0000,0000,,{\blur3}但是犹如开拓者启程跨越浩瀚的大海{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But like pioneers setting off across the open sea...{\r}
+Dialogue: 0,0:41:14.81,0:41:18.90,Default,,0000,0000,0000,,{\blur3}发现新大陆一样 这是个未知的领域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in search of new land, this is uncharted territory.{\r}
+Dialogue: 0,0:41:28.32,0:41:31.45,Default,,0000,0000,0000,,{\blur3}我们有机会将愿景变为现实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We have an opportunity to turn that vision into a reality...{\r}
+Dialogue: 0,0:41:32.59,0:41:35.93,Default,,0000,0000,0000,,{\blur3}迄今为止 正是我们所做的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so far that's exactly what we're doing.{\r}
+Dialogue: 0,0:41:38.61,0:41:40.24,Default,,0000,0000,0000,,{\blur3}他们是许多梦想...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are one group of many...{\r}
+Dialogue: 0,0:41:40.28,0:41:44.59,Default,,0000,0000,0000,,{\blur3}长期入住太空边缘的群体之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that dream of permanent occupancy at the edge of space.{\r}
+Dialogue: 0,0:41:46.01,0:41:47.98,Default,,0000,0000,0000,,{\blur3}有一点是清晰明了的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One thing remains clear.{\r}
+Dialogue: 0,0:41:50.20,0:41:51.58,Default,,0000,0000,0000,,{\blur3}地球需要有简单的方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth needs an easy way...{\r}
+Dialogue: 0,0:41:51.62,0:41:55.97,Default,,0000,0000,0000,,{\blur3}将航天器 货物 人送上太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to deliver spacecraft, cargo, and people into space...{\r}
+Dialogue: 0,0:41:56.01,0:41:58.02,Default,,0000,0000,0000,,{\blur3}去利用地球轨道的优势{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to take advantage of Earth orbit...{\r}
+Dialogue: 0,0:41:59.94,0:42:02.58,Default,,0000,0000,0000,,{\blur3}想法引人入胜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the ideas are spectacular.{\r}
+Dialogue: 0,0:42:04.55,0:42:07.14,Default,,0000,0000,0000,,{\blur3}已经有了各种概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There have been all kinds of concepts...{\r}
+Dialogue: 0,0:42:07.18,0:42:08.69,Default,,0000,0000,0000,,{\blur3}比如太空电梯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like space elevators.{\r}
+Dialogue: 0,0:42:12.91,0:42:15.17,Default,,0000,0000,0000,,{\blur3}太空喷泉怎么样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How about a space fountain--{\r}
+Dialogue: 0,0:42:15.21,0:42:20.57,Default,,0000,0000,0000,,{\blur3}高能粒子波将把货物升入地球轨道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a highly energized wave of particles that lifts cargo up into Earth orbit?{\r}
+Dialogue: 0,0:42:21.66,0:42:25.55,Default,,0000,0000,0000,,{\blur3}关键在于找到廉价的方法把那些东西送入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The key is finding a cheap way to get those materials up to space.{\r}
+Dialogue: 0,0:42:30.02,0:42:32.36,Default,,0000,0000,0000,,{\blur3}或许可以在环地设施里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or perhaps the resources of space...{\r}
+Dialogue: 0,0:42:32.41,0:42:35.71,Default,,0000,0000,0000,,{\blur3}开采太空资源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be mined in a facility orbiting Earth.{\r}
+Dialogue: 0,0:42:37.09,0:42:40.52,Default,,0000,0000,0000,,{\blur3}利用月球和附近小行星上的资源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Using the resources that are on the Moon and the asteroids nearby...{\r}
+Dialogue: 0,0:42:40.56,0:42:43.49,Default,,0000,0000,0000,,{\blur3}来打造太空里的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to build things in space themselves.{\r}
+Dialogue: 0,0:42:43.54,0:42:46.59,Default,,0000,0000,0000,,{\blur3}不必花钱把它们从地面长途运来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not have to spend the money to haul them up from the ground.{\r}
+Dialogue: 0,0:42:48.05,0:42:49.22,Default,,0000,0000,0000,,{\blur3}比如 刘易斯和克拉克{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For example, Lewis and Clark...{\r}
+Dialogue: 0,0:42:49.27,0:42:51.48,Default,,0000,0000,0000,,{\blur3}在他们横跨美国大陆时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when they went across the continental U.S...{\r}
+Dialogue: 0,0:42:51.53,0:42:55.21,Default,,0000,0000,0000,,{\blur3}并没有随身拖着所有的饮用水 柴火{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they didn't haul all their drinking water and firewood with them...{\r}
+Dialogue: 0,0:42:55.25,0:42:56.38,Default,,0000,0000,0000,,{\blur3}从圣路易斯一路往西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from St. Louis on the way west.{\r}
+Dialogue: 0,0:42:56.42,0:42:58.13,Default,,0000,0000,0000,,{\blur3}他们一路利用他们所找到的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They used what they found along the way.{\r}
+Dialogue: 0,0:43:00.35,0:43:04.28,Default,,0000,0000,0000,,{\blur3}地球轨道最大的礼物有可能是可再生能源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth orbit's greatest gift might be sustainable power.{\r}
+Dialogue: 0,0:43:05.75,0:43:08.17,Default,,0000,0000,0000,,{\blur3}设想一下 一列太阳能电池板{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine an array of solar panels...{\r}
+Dialogue: 0,0:43:08.22,0:43:11.48,Default,,0000,0000,0000,,{\blur3}产生的能量足以点亮整个大陆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that generates enough power to light up a continent.{\r}
+Dialogue: 0,0:43:12.95,0:43:16.33,Default,,0000,0000,0000,,{\blur3}或许未来50年里 在太空里...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's probably one of the most promising avenues to pursue...{\r}
+Dialogue: 0,0:43:16.38,0:43:17.71,Default,,0000,0000,0000,,{\blur3}最有希望追求的途径之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the next 50 years in space...{\r}
+Dialogue: 0,0:43:17.76,0:43:20.31,Default,,0000,0000,0000,,{\blur3}就是找到办法制造出廉价的太阳能收集器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to find a way to make cheap solar collectors...{\r}
+Dialogue: 0,0:43:20.35,0:43:22.31,Default,,0000,0000,0000,,{\blur3}然后在地面上建造收集天线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then build the collecting antennas on the ground...{\r}
+Dialogue: 0,0:43:22.36,0:43:25.91,Default,,0000,0000,0000,,{\blur3}这样我们就可以使用取之不竭的太阳能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that we can use inexhaustible solar power...{\r}
+Dialogue: 0,0:43:25.96,0:43:28.34,Default,,0000,0000,0000,,{\blur3}来减少我们对我们地球上的有限供应的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to reduce our reliance on the finite supplies...{\r}
+Dialogue: 0,0:43:28.38,0:43:30.35,Default,,0000,0000,0000,,{\blur3}燃料和能源的依赖{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of fuel and energy we have here on Earth.{\r}
+Dialogue: 0,0:43:34.00,0:43:35.55,Default,,0000,0000,0000,,{\blur3}有一点是肯定的:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One thing is certain:{\r}
+Dialogue: 0,0:43:35.75,0:43:40.73,Default,,0000,0000,0000,,{\blur3}太空边缘是未来探索的切入口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the edge of space is the entryway to future exploration...{\r}
+Dialogue: 0,0:43:40.77,0:43:45.29,Default,,0000,0000,0000,,{\blur3}是前往整个宇宙的停靠站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a stopping point to the destinations across the universe.{\r}
+Dialogue: 0,0:43:46.59,0:43:49.77,Default,,0000,0000,0000,,{\blur3}我非常激动 今后几十年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm very excited about a future decades from now...{\r}
+Dialogue: 0,0:43:49.81,0:43:53.07,Default,,0000,0000,0000,,{\blur3}地球真的会是人类的伊甸园{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where the Earth really is the Garden of Eden of humanity...{\r}
+Dialogue: 0,0:43:53.91,0:43:56.08,Default,,0000,0000,0000,,{\blur3}我们会打理好我们的星球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where we've taken care of our planet...{\r}
+Dialogue: 0,0:43:57.38,0:43:59.43,Default,,0000,0000,0000,,{\blur3}我们的公园 我们的享受{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our parks, our enjoyment...{\r}
+Dialogue: 0,0:43:59.47,0:44:03.07,Default,,0000,0000,0000,,{\blur3}我们关爱地球要做的就是照顾好它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the things that we love about the Earth are taken care of.{\r}
+Dialogue: 0,0:44:05.41,0:44:07.71,Default,,0000,0000,0000,,{\blur3}我们在制造方面所做的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And all the things that we do in terms of manufacturing...{\r}
+Dialogue: 0,0:44:07.76,0:44:11.77,Default,,0000,0000,0000,,{\blur3}资源的开采 能源 采集{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and resource extraction and energy and mining...{\r}
+Dialogue: 0,0:44:11.81,0:44:13.65,Default,,0000,0000,0000,,{\blur3}这些通通都在太空中进行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}those things take place in space.{\r}
+Dialogue: 0,0:44:16.25,0:44:20.12,Default,,0000,0000,0000,,{\blur3}当然 近地轨道一路到整个太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, of course, low Earth orbit...is the gateway to the rest of the solar system.{\r}

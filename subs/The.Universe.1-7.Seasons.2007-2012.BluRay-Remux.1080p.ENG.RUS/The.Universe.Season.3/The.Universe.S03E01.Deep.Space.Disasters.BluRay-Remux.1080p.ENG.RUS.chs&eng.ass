@@ -1,0 +1,768 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:02.43,0:01:09.76,Default,,0000,0000,0008,,{\fn华文楷体\fs20\1c&HE0E0E0&\blur3}宇宙:太空灾难{\r}
+Dialogue: 0,0:00:01.62,0:00:04.08,Default,,0000,0000,0000,,{\blur3}创世之初 冥冥之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness...{\r}
+Dialogue: 0,0:00:04.12,0:00:06.21,Default,,0000,0000,0000,,{\blur3}随着轰的一声{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, bang...{\r}
+Dialogue: 0,0:00:06.25,0:00:09.42,Default,,0000,0000,0000,,{\blur3}诞生了无限膨胀的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving birth to an endless expanding existence...{\r}
+Dialogue: 0,0:00:09.46,0:00:11.84,Default,,0000,0000,0000,,{\blur3}时间 空间和物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:11.88,0:00:14.34,Default,,0000,0000,0000,,{\blur3}现在 所见超乎我们的想象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, see further than we've ever imagined...{\r}
+Dialogue: 0,0:00:14.38,0:00:16.26,Default,,0000,0000,0000,,{\blur3}超越了我们生存的限制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the limits of our existence...{\r}
+Dialogue: 0,0:00:16.30,0:00:19.10,Default,,0000,0000,0000,,{\blur3}这个空间我们称之为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a place we call "The Universe."{\r}
+Dialogue: 0,0:00:21.10,0:00:25.10,Default,,0000,0000,0000,,{\blur3}在太空里 威胁可以来自四面八方:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In space, threats can come from any direction:{\r}
+Dialogue: 0,0:00:25.15,0:00:28.19,Default,,0000,0000,0000,,{\blur3}来自深太空的陨石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}meteors from deep space...{\r}
+Dialogue: 0,0:00:28.23,0:00:32.65,Default,,0000,0000,0000,,{\blur3}来自太阳的无形但致命的辐射爆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}invisible but deadly bursts of radiation from the Sun...{\r}
+Dialogue: 0,0:00:32.69,0:00:38.78,Default,,0000,0000,0000,,{\blur3}其它星球上的山崩地裂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}otherworldly landslides from above and Marsquakes from below.{\r}
+Dialogue: 0,0:00:38.83,0:00:41.95,Default,,0000,0000,0000,,{\blur3}外太空是你作为人类最不想去的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Outer space is the last place you want to be as a human being.{\r}
+Dialogue: 0,0:00:42.62,0:00:46.17,Default,,0000,0000,0000,,{\blur3}轨道上什么样的子弹比地球上更加致命?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What makes fire more deadly in orbit than on Earth?{\r}
+Dialogue: 0,0:00:46.21,0:00:47.96,Default,,0000,0000,0000,,{\blur3}人类暴露在...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What happens to someone...{\r}
+Dialogue: 0,0:00:48.00,0:00:51.30,Default,,0000,0000,0000,,{\blur3}极端恶劣的外太空里有什么后果?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}exposed to the harsh extremes of outer space?{\r}
+Dialogue: 0,0:00:51.34,0:00:55.47,Default,,0000,0000,0000,,{\blur3}唾液 血液 会从液态变为气态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The saliva, the blood, goes from a liquid state...to a gaseous state.{\r}
+Dialogue: 0,0:00:56.43,0:01:00.76,Default,,0000,0000,0000,,{\blur3}系上安全带 准备应对《太空灾难》{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Buckle up and prepare for "Space Disasters."{\r}
+Dialogue: 0,0:01:23.12,0:01:25.66,Default,,0000,0000,0000,,{\blur3}2030年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The year is 2030.{\r}
+Dialogue: 0,0:01:25.71,0:01:27.29,Default,,0000,0000,0000,,{\blur3}一群宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A crew of astronauts...{\r}
+Dialogue: 0,0:01:27.33,0:01:30.83,Default,,0000,0000,0000,,{\blur3}按下了太空电梯的上行按钮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}simply hits the "up" button in a space elevator.{\r}
+Dialogue: 0,0:01:30.88,0:01:33.84,Default,,0000,0000,0000,,{\blur3}电梯将带他们登上飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The elevator will bring them to their spacecraft...{\r}
+Dialogue: 0,0:01:33.88,0:01:35.51,Default,,0000,0000,0000,,{\blur3}飞船已经在轨道上等候着他们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which will meet them in orbit.{\r}
+Dialogue: 0,0:01:36.38,0:01:38.09,Default,,0000,0000,0000,,{\blur3}他们庆幸自己{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're grateful they don't have to risk...{\r}
+Dialogue: 0,0:01:38.13,0:01:40.80,Default,,0000,0000,0000,,{\blur3}不必冒火箭升空爆炸的危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the controlled explosion of a rocket launch.{\r}
+Dialogue: 0,0:01:42.72,0:01:45.31,Default,,0000,0000,0000,,{\blur3}我们现在已经能创造出碳纳米管纤维{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can now create carbon nanotube fibers...{\r}
+Dialogue: 0,0:01:45.35,0:01:48.19,Default,,0000,0000,0000,,{\blur3}其强度超过了钢铁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are stronger than steel.{\r}
+Dialogue: 0,0:01:48.23,0:01:51.31,Default,,0000,0000,0000,,{\blur3}信不信由你 它们的强度足以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And believe it or not, they are strong enough...{\r}
+Dialogue: 0,0:01:51.36,0:01:55.23,Default,,0000,0000,0000,,{\blur3}让太空电梯漂浮在太空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to keep a space elevator afloat in space...{\r}
+Dialogue: 0,0:01:55.28,0:01:58.53,Default,,0000,0000,0000,,{\blur3}这样你就能够一路攀升上天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that you can literally climb your way into the heavens.{\r}
+Dialogue: 0,0:02:01.99,0:02:05.70,Default,,0000,0000,0000,,{\blur3}6万英里缆绳固定住空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The 60,000-mile cable is attached to the docking station...{\r}
+Dialogue: 0,0:02:05.75,0:02:07.96,Default,,0000,0000,0000,,{\blur3}它的运转速度与地球同步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that revolves at the same rate as the Earth.{\r}
+Dialogue: 0,0:02:09.67,0:02:11.96,Default,,0000,0000,0000,,{\blur3}类似于地球同步卫星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just like a geosynchronous satellite...{\r}
+Dialogue: 0,0:02:12.00,0:02:13.59,Default,,0000,0000,0000,,{\blur3}它停留在地面固定一点的上方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it stays over a fixed spot on the ground.{\r}
+Dialogue: 0,0:02:16.34,0:02:19.13,Default,,0000,0000,0000,,{\blur3}太空电梯是所有宇航员梦寐以求的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A space elevator would be any astronaut's dream.{\r}
+Dialogue: 0,0:02:21.39,0:02:23.14,Default,,0000,0000,0000,,{\blur3}然而太空电梯之梦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the space elevator dream...{\r}
+Dialogue: 0,0:02:25.35,0:02:28.68,Default,,0000,0000,0000,,{\blur3}同样也会变成一场噩梦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can also turn into a nightmare.{\r}
+Dialogue: 0,0:02:28.73,0:02:31.44,Default,,0000,0000,0000,,{\blur3}太空电梯必须固定在地球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The space elevator has to be anchored to the Earth.{\r}
+Dialogue: 0,0:02:32.94,0:02:35.32,Default,,0000,0000,0000,,{\blur3}但是如果遇上风暴会有什么后果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what happens if we have storms...{\r}
+Dialogue: 0,0:02:36.07,0:02:39.90,Default,,0000,0000,0000,,{\blur3}突然之间 锚具开始扯断{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and, all of a sudden, the moorings begin to snap?{\r}
+Dialogue: 0,0:02:42.99,0:02:45.66,Default,,0000,0000,0000,,{\blur3}由于缆绳仍然固定在太空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With the cable still attached up in space...{\r}
+Dialogue: 0,0:02:45.70,0:02:47.91,Default,,0000,0000,0000,,{\blur3}它就会开始疯狂摆动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it will start swinging wildly...{\r}
+Dialogue: 0,0:02:47.95,0:02:51.79,Default,,0000,0000,0000,,{\blur3}任意击打着数百英里外的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}striking objects hundreds of miles away in any direction.{\r}
+Dialogue: 0,0:02:53.88,0:02:56.75,Default,,0000,0000,0000,,{\blur3}也有可能 某些导航计算机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's also possible that some type of guidance computer...{\r}
+Dialogue: 0,0:02:56.80,0:03:01.26,Default,,0000,0000,0000,,{\blur3}或推进器产生的问题会敲打偏离航向的太空平台{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or thruster problem could knock the platform in space off-course...{\r}
+Dialogue: 0,0:03:01.30,0:03:02.47,Default,,0000,0000,0000,,{\blur3}在顶部扯断缆绳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}snapping the cable at the top.{\r}
+Dialogue: 0,0:03:06.01,0:03:09.47,Default,,0000,0000,0000,,{\blur3}如果此时正好有船员沿着缆绳上下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf it happened while a crew was going up or down the cable...{\r}
+Dialogue: 0,0:03:12.52,0:03:15.69,Default,,0000,0000,0000,,{\blur3}那么他们就必定会遭遇生命中最后一次搭乘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they would be in for the last ride of their lives.{\r}
+Dialogue: 0,0:03:18.15,0:03:21.45,Default,,0000,0000,0000,,{\blur3}6万英里缆绳 砸向地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the 60,000 miles of cable, hurtling toward Earth...{\r}
+Dialogue: 0,0:03:21.49,0:03:24.11,Default,,0000,0000,0000,,{\blur3}其长度足以缠绕地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is long enough to wrap itself around the planet...{\r}
+Dialogue: 0,0:03:24.16,0:03:29.41,Default,,0000,0000,0000,,{\blur3}几乎是赤道的3倍 造成大面积的破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}almost three times at the equator, creating havoc over a wide area.{\r}
+Dialogue: 0,0:03:31.96,0:03:35.92,Default,,0000,0000,0000,,{\blur3}这不仅会对人类造成灾祸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It would be not only disastrous and dangerous...for the people involved...{\r}
+Dialogue: 0,0:03:35.96,0:03:38.46,Default,,0000,0000,0000,,{\blur3}而且 那样的东西所带来的动能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the kinetic energy of something like that...{\r}
+Dialogue: 0,0:03:38.50,0:03:42.67,Default,,0000,0000,0000,,{\blur3}会鞭击大气层 给航行带来威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whipping through the atmosphere, would be a menace to navigation...{\r}
+Dialogue: 0,0:03:43.68,0:03:47.05,Default,,0000,0000,0000,,{\blur3}所以它会对于其中所有的人类系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it's going to have an inherent danger in it...{\r}
+Dialogue: 0,0:03:47.10,0:03:48.14,Default,,0000,0000,0000,,{\blur3}带来潜在的危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that any human system has.{\r}
+Dialogue: 0,0:03:51.18,0:03:53.94,Default,,0000,0000,0000,,{\blur3}这只是未来太空探险家所面对的N多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is just one of many potential disasters...{\r}
+Dialogue: 0,0:03:53.98,0:03:56.19,Default,,0000,0000,0000,,{\blur3}潜在灾难之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}facing future space explorers.{\r}
+Dialogue: 0,0:04:07.24,0:04:10.54,Default,,0000,0000,0000,,{\blur3}定居在太空中也会涉及巨大的危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Living in space will also involve grave dangers.{\r}
+Dialogue: 0,0:04:11.96,0:04:14.04,Default,,0000,0000,0000,,{\blur3}月球或火星上的移民{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Colonies on the Moon or Mars...{\r}
+Dialogue: 0,0:04:14.08,0:04:16.38,Default,,0000,0000,0000,,{\blur3}所面临的威胁来自四面八方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will be faced with threats from all directions...{\r}
+Dialogue: 0,0:04:19.46,0:04:20.96,Default,,0000,0000,0000,,{\blur3}尤其是头顶上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially above...{\r}
+Dialogue: 0,0:04:22.97,0:04:26.34,Default,,0000,0000,0000,,{\blur3}突然爆发的辐射高峰会致人于死地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where sudden spikes of radiation can turn deadly.{\r}
+Dialogue: 0,0:04:31.56,0:04:34.31,Default,,0000,0000,0000,,{\blur3}如果我们漫步在月球表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we were walking around on the surface of the Moon...{\r}
+Dialogue: 0,0:04:35.40,0:04:39.65,Default,,0000,0000,0000,,{\blur3}我想说我们的头号烦恼就是太阳耀斑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I would say our number one concern should be solar flare.{\r}
+Dialogue: 0,0:04:41.57,0:04:43.15,Default,,0000,0000,0000,,{\blur3}太阳爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Sun erupts.{\r}
+Dialogue: 0,0:04:43.19,0:04:48.07,Default,,0000,0000,0000,,{\blur3}耀斑射出的质子会让宇航员送命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The protons coming from that flare could kill an astronaut.{\r}
+Dialogue: 0,0:04:48.99,0:04:51.99,Default,,0000,0000,0000,,{\blur3}最近20年里有过几次耀斑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There have been several flares over the last couple decades...{\r}
+Dialogue: 0,0:04:52.04,0:04:54.45,Default,,0000,0000,0000,,{\blur3}其中 假如我们有宇航员呆在月球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which, if we had had astronauts on the Moon...{\r}
+Dialogue: 0,0:04:54.50,0:04:57.54,Default,,0000,0000,0000,,{\blur3}穿着宇航服四处活动 就会将他们置于死地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just walking around in a spacesuit, would have been lethal for them.{\r}
+Dialogue: 0,0:05:01.09,0:05:04.84,Default,,0000,0000,0000,,{\blur3}在地球上 我们躲过了多数辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Earth, we're protected from most radiation.{\r}
+Dialogue: 0,0:05:04.88,0:05:10.43,Default,,0000,0000,0000,,{\blur3}地球的大气层和磁场 就像是保护盾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Earth's atmosphere and magnetic field are like a protective fence...{\r}
+Dialogue: 0,0:05:10.47,0:05:13.27,Default,,0000,0000,0000,,{\blur3}只让少量的粒子通过{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}letting only a fraction of particles through.{\r}
+Dialogue: 0,0:05:14.48,0:05:16.69,Default,,0000,0000,0000,,{\blur3}而在月球或火星上 你就直接处在了一线{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the Moon and Mars, you are directly in the firing line.{\r}
+Dialogue: 0,0:05:19.65,0:05:23.78,Default,,0000,0000,0000,,{\blur3}月球没有大气层或磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Moon has no atmosphere or magnetic field.{\r}
+Dialogue: 0,0:05:23.82,0:05:25.65,Default,,0000,0000,0000,,{\blur3}火星只有很少的大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars has very little atmosphere...{\r}
+Dialogue: 0,0:05:25.70,0:05:28.57,Default,,0000,0000,0000,,{\blur3}以及很弱的局部磁场{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and only weak, localized magnetic fields.{\r}
+Dialogue: 0,0:05:31.83,0:05:34.75,Default,,0000,0000,0000,,{\blur3}航天局认为太阳耀斑的威胁非同小可{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}NASA takes the solar flare threat seriously...{\r}
+Dialogue: 0,0:05:34.79,0:05:38.67,Default,,0000,0000,0000,,{\blur3}因为它差一点害死阿波罗宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it has already come close to killing Apollo astronauts.{\r}
+Dialogue: 0,0:05:40.84,0:05:43.63,Default,,0000,0000,0000,,{\blur3}阿波罗登月宇航员相当幸运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Apollo lunar landing crews were quite fortunate.{\r}
+Dialogue: 0,0:05:43.67,0:05:48.05,Default,,0000,0000,0000,,{\blur3}1972年8月 有一次严重的太阳耀斑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 1972, in August, there was a major solar flare.{\r}
+Dialogue: 0,0:05:48.09,0:05:50.43,Default,,0000,0000,0000,,{\blur3}他们称之为大太阳风暴的耀斑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was what they call the Great Solar Storm...{\r}
+Dialogue: 0,0:05:50.47,0:05:51.97,Default,,0000,0000,0000,,{\blur3}恰好就发生在了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that happened to just take place...{\r}
+Dialogue: 0,0:05:52.01,0:05:54.60,Default,,0000,0000,0000,,{\blur3}那年4月的阿波罗16号任务与{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in between the Apollo 16 mission in April...{\r}
+Dialogue: 0,0:05:54.64,0:05:56.64,Default,,0000,0000,0000,,{\blur3}12月的阿波罗17号任务之间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the Apollo 17 mission in December of that year.{\r}
+Dialogue: 0,0:05:58.98,0:06:00.35,Default,,0000,0000,0000,,{\blur3}要是此时有宇航员呆在月球上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had that occurred while there was a crew...{\r}
+Dialogue: 0,0:06:00.40,0:06:02.81,Default,,0000,0000,0000,,{\blur3}早已经不在人世了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the surface of the Moon, they would have been dead.{\r}
+Dialogue: 0,0:06:05.23,0:06:07.78,Default,,0000,0000,0000,,{\blur3}其结局就会像那些在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The effects would be similar to certain people...{\r}
+Dialogue: 0,0:06:07.82,0:06:10.57,Default,,0000,0000,0000,,{\blur3}广岛和长崎罹难的人...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}who died in Hiroshima and Nagasaki...{\r}
+Dialogue: 0,0:06:10.62,0:06:13.62,Default,,0000,0000,0000,,{\blur3}他们并未命丧最初的爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}those who were not killed in the initial blast...{\r}
+Dialogue: 0,0:06:13.66,0:06:16.95,Default,,0000,0000,0000,,{\blur3}而是在几秒钟之内被致命的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but were overwhelmed by the extreme radiation dosage...{\r}
+Dialogue: 0,0:06:17.00,0:06:18.66,Default,,0000,0000,0000,,{\blur3}辐射剂量所击倒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}within several seconds.{\r}
+Dialogue: 0,0:06:19.96,0:06:22.67,Default,,0000,0000,0000,,{\blur3}遭遇那种状况的宇航员几乎没有时间作出反应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An astronaut caught in that situation will have little time to react.{\r}
+Dialogue: 0,0:06:25.17,0:06:28.97,Default,,0000,0000,0000,,{\blur3}致命的粒子流穿透身体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A flood of deadly particles penetrates the body...{\r}
+Dialogue: 0,0:06:29.01,0:06:32.97,Default,,0000,0000,0000,,{\blur3}瞬间杀死宇航员的所有的细胞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}killing all of the astronaut's cells in a few brief moments.{\r}
+Dialogue: 0,0:06:37.06,0:06:39.52,Default,,0000,0000,0000,,{\blur3}所以不足为奇的是太空移民{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's no surprise that space colonists...{\r}
+Dialogue: 0,0:06:39.56,0:06:41.48,Default,,0000,0000,0000,,{\blur3}必须时刻保持警惕{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will need to be constantly on alert.{\r}
+Dialogue: 0,0:06:42.44,0:06:43.65,Default,,0000,0000,0000,,{\blur3}我们需要天气预报{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to need weather reports...{\r}
+Dialogue: 0,0:06:43.69,0:06:45.48,Default,,0000,0000,0000,,{\blur3}但是他们需要的是太空天气预报{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but they're going to be space weather reports.{\r}
+Dialogue: 0,0:06:45.53,0:06:48.49,Default,,0000,0000,0000,,{\blur3}我们需要有卫星来监视太阳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to need satellites monitoring the Sun...{\r}
+Dialogue: 0,0:06:48.53,0:06:50.49,Default,,0000,0000,0000,,{\blur3}让我们得到耀斑的预警{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}giving us advance warning of flares.{\r}
+Dialogue: 0,0:06:51.57,0:06:55.28,Default,,0000,0000,0000,,{\blur3}太阳发出的光只要8分钟就抵达月球了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The light from the Sun takes only eight minutes to reach the Moon.{\r}
+Dialogue: 0,0:06:55.33,0:06:57.24,Default,,0000,0000,0000,,{\blur3}随之而来的是粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Coming behind it would be the particles...{\r}
+Dialogue: 0,0:06:57.29,0:06:59.37,Default,,0000,0000,0000,,{\blur3}致命的辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the lethal radiation.{\r}
+Dialogue: 0,0:06:59.41,0:07:04.13,Default,,0000,0000,0000,,{\blur3}你会有几分钟 半个小时 争分夺秒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You'd have minutes, half an hour, that sort of time frame...{\r}
+Dialogue: 0,0:07:04.17,0:07:06.25,Default,,0000,0000,0000,,{\blur3}寻找庇护之地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before you wanted to really be in a shelter.{\r}
+Dialogue: 0,0:07:07.21,0:07:10.88,Default,,0000,0000,0000,,{\blur3}这样的风暴可能会持续几天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Such a storm might last for a couple of days.{\r}
+Dialogue: 0,0:07:13.05,0:07:16.60,Default,,0000,0000,0000,,{\blur3}一个保护办法就是居住在地下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One option for protection is living underground.{\r}
+Dialogue: 0,0:07:17.81,0:07:20.60,Default,,0000,0000,0000,,{\blur3}但是别让荒芜的地形蒙骗了你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But don't let the barren terrain fool you.{\r}
+Dialogue: 0,0:07:23.23,0:07:26.02,Default,,0000,0000,0000,,{\blur3}月球和火星依然是活跃的天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Moon and Mars are still active bodies...{\r}
+Dialogue: 0,0:07:26.07,0:07:30.11,Default,,0000,0000,0000,,{\blur3}地球上能见到的自然灾害会时有发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where natural disasters like those seen on Earth can strike.{\r}
+Dialogue: 0,0:07:36.41,0:07:41.41,Default,,0000,0000,0000,,{\blur3}我现在来是在莫哈韦沙漠中的一个熔岩流创造的岩洞里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm here in the Mojave Desert in a cave created by a lava flow...{\r}
+Dialogue: 0,0:07:41.46,0:07:44.25,Default,,0000,0000,0000,,{\blur3}上面是5到6英尺高的岩石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}underneath five or six feet of rocks.{\r}
+Dialogue: 0,0:07:44.29,0:07:47.75,Default,,0000,0000,0000,,{\blur3}呆在地下岩洞里可能是定居月球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, being underground in a cave may be an option for habitation...{\r}
+Dialogue: 0,0:07:47.80,0:07:49.80,Default,,0000,0000,0000,,{\blur3}或火星的一个选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the Moon or on Mars.{\r}
+Dialogue: 0,0:07:49.84,0:07:51.84,Default,,0000,0000,0000,,{\blur3}在月球或火星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the surface of the Moon and Mars...{\r}
+Dialogue: 0,0:07:51.88,0:07:55.68,Default,,0000,0000,0000,,{\blur3}存在着太阳辐射 存在着宇宙辐射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's radiation from the Sun, there's cosmic radiation.{\r}
+Dialogue: 0,0:07:55.72,0:07:57.60,Default,,0000,0000,0000,,{\blur3}火星上 还有尘埃暴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Mars, there's dust storms.{\r}
+Dialogue: 0,0:07:57.64,0:08:00.60,Default,,0000,0000,0000,,{\blur3}如果我们呆在地下 可以避开那些危害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf we're underground, we're safe from those hazards...{\r}
+Dialogue: 0,0:08:01.31,0:08:02.35,Default,,0000,0000,0000,,{\blur3}但是还有其它的危害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but we have other hazards.{\r}
+Dialogue: 0,0:08:06.61,0:08:09.57,Default,,0000,0000,0000,,{\blur3}想象一下 在这个岩洞里 一旦发生地震{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine being in this cave when there's quakes...{\r}
+Dialogue: 0,0:08:09.61,0:08:11.40,Default,,0000,0000,0000,,{\blur3}岩石滚落 会砸中我们 压住我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rocks falling down, crushing us, pinning us.{\r}
+Dialogue: 0,0:08:16.28,0:08:17.74,Default,,0000,0000,0000,,{\blur3}月球或火星的星震{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A Moon or Marsquake...{\r}
+Dialogue: 0,0:08:17.78,0:08:20.83,Default,,0000,0000,0000,,{\blur3}同样会威胁到地面上的移民{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could also threaten an aboveground colony.{\r}
+Dialogue: 0,0:08:22.00,0:08:24.46,Default,,0000,0000,0000,,{\blur3}月球和火星没有板块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Moon and Mars don't have tectonic plates...{\r}
+Dialogue: 0,0:08:24.50,0:08:26.88,Default,,0000,0000,0000,,{\blur3}类似于引发地球大部分地震和火山{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like the ones that cause most of Earth's quakes...{\r}
+Dialogue: 0,0:08:26.92,0:08:28.63,Default,,0000,0000,0000,,{\blur3}喷发的板块{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and volcanic eruptions.{\r}
+Dialogue: 0,0:08:28.67,0:08:31.46,Default,,0000,0000,0000,,{\blur3}没有活火山的迹象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there are no signs of active volcanoes.{\r}
+Dialogue: 0,0:08:34.01,0:08:35.55,Default,,0000,0000,0000,,{\blur3}但是月球和火星同样有炙热的星核{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the Moon and Mars do have hot cores.{\r}
+Dialogue: 0,0:08:37.51,0:08:42.43,Default,,0000,0000,0000,,{\blur3}所以在热产生的对地表的压力作用下 就会产生震颤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So as the pressure from that heat heads to the surface, the shaking starts.{\r}
+Dialogue: 0,0:08:45.31,0:08:48.94,Default,,0000,0000,0000,,{\blur3}一旦发生星震 通常还会有另一个灾害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And where there's quakes, there's often another disaster.{\r}
+Dialogue: 0,0:08:50.48,0:08:54.78,Default,,0000,0000,0000,,{\blur3}就在不久前 我们看到了火星上的山崩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Just recently, we've seen a landslide occurring on Mars.{\r}
+Dialogue: 0,0:08:54.82,0:08:57.99,Default,,0000,0000,0000,,{\blur3}那是在轨摄像机所拍到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was captured with the cameras in orbit.{\r}
+Dialogue: 0,0:08:58.03,0:08:59.82,Default,,0000,0000,0000,,{\blur3}因此我们知道这个确实发生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we know this does happen...{\r}
+Dialogue: 0,0:09:01.58,0:09:04.20,Default,,0000,0000,0000,,{\blur3}很难被发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that can be hard to predict.{\r}
+Dialogue: 0,0:09:04.25,0:09:05.75,Default,,0000,0000,0000,,{\blur3}我们可以将基地建在某些地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We might put our base someplace...{\r}
+Dialogue: 0,0:09:05.79,0:09:07.08,Default,,0000,0000,0000,,{\blur3}那里貌似万无一失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which appears perfectly safe...{\r}
+Dialogue: 0,0:09:07.12,0:09:08.54,Default,,0000,0000,0000,,{\blur3}然后 几年后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then, a few years later...{\r}
+Dialogue: 0,0:09:08.58,0:09:10.79,Default,,0000,0000,0000,,{\blur3}就会了解到存在着滑坡的危害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}realize that there's a landslide hazard.{\r}
+Dialogue: 0,0:09:13.46,0:09:17.68,Default,,0000,0000,0000,,{\blur3}科学家尚无法肯定200年发生在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists are still unsure what started the 2008 landslide...{\r}
+Dialogue: 0,0:09:17.72,0:09:18.76,Default,,0000,0000,0000,,{\blur3}火星北极附近的滑坡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}near the north pole of Mars.{\r}
+Dialogue: 0,0:09:20.35,0:09:21.68,Default,,0000,0000,0000,,{\blur3}那里是个冰冻的地区{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was in an icy area...{\r}
+Dialogue: 0,0:09:21.72,0:09:24.06,Default,,0000,0000,0000,,{\blur3}研究人员认为大部分滑坡物质是冰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and researchers believe most of the slide material was ice.{\r}
+Dialogue: 0,0:09:26.77,0:09:30.15,Default,,0000,0000,0000,,{\blur3}那类地形就是潜在的殖民地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's just the type of place a colony might be located...{\r}
+Dialogue: 0,0:09:30.19,0:09:33.44,Default,,0000,0000,0000,,{\blur3}以利用冰转变成饮用水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to take advantage of converting the ice to drinkable water.{\r}
+Dialogue: 0,0:09:39.07,0:09:41.53,Default,,0000,0000,0000,,{\blur3}即使是遥远的星震也会触发殖民地周边的滑坡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even a distant quake could still trigger a slide near a colony.{\r}
+Dialogue: 0,0:09:45.04,0:09:47.71,Default,,0000,0000,0000,,{\blur3}要是有条隐蔽的断层正好就在建筑下方有如何呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what if a hidden fault line is running right under the buildings?{\r}
+Dialogue: 0,0:09:56.17,0:10:00.47,Default,,0000,0000,0000,,{\blur3}将来 空间移民定居月球或火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the future, space colonists living on the Moon or Mars...{\r}
+Dialogue: 0,0:10:00.51,0:10:02.22,Default,,0000,0000,0000,,{\blur3}将会面对大量的威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will have plenty of threats to deal with...{\r}
+Dialogue: 0,0:10:04.72,0:10:09.06,Default,,0000,0000,0000,,{\blur3}包括月球和火星星震之类的自然灾害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}including natural disasters like moonquakes and Marsquakes.{\r}
+Dialogue: 0,0:10:10.69,0:10:12.86,Default,,0000,0000,0000,,{\blur3}它们的活跃程度不如我们所呆的地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're not active the way we're used to on Earth.{\r}
+Dialogue: 0,0:10:12.90,0:10:14.36,Default,,0000,0000,0000,,{\blur3}它们的活跃程度不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They're active in different ways...{\r}
+Dialogue: 0,0:10:14.40,0:10:16.32,Default,,0000,0000,0000,,{\blur3}程度有可能出人意料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there may be unexpected ways...{\r}
+Dialogue: 0,0:10:16.36,0:10:18.53,Default,,0000,0000,0000,,{\blur3}它们有可能对我们造成问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they could cause problems for us.{\r}
+Dialogue: 0,0:10:26.16,0:10:28.37,Default,,0000,0000,0000,,{\blur3}由于我们当前对这些世界的认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since our current knowledge of these other worlds...{\r}
+Dialogue: 0,0:10:28.41,0:10:30.79,Default,,0000,0000,0000,,{\blur3}实际上只是涉及了皮毛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has literally only scratched the surface...{\r}
+Dialogue: 0,0:10:33.79,0:10:35.67,Default,,0000,0000,0000,,{\blur3}有可能在将来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's possible that in the future...{\r}
+Dialogue: 0,0:10:35.71,0:10:38.42,Default,,0000,0000,0000,,{\blur3}我们有可能就在断层上建立基地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we could locate a base right over a fault line...{\r}
+Dialogue: 0,0:10:38.47,0:10:41.18,Default,,0000,0000,0000,,{\blur3}而没有意识到下面的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without realizing what's below.{\r}
+Dialogue: 0,0:10:41.22,0:10:42.89,Default,,0000,0000,0000,,{\blur3}因为在携带东西上太空时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And since weight is always an issue...{\r}
+Dialogue: 0,0:10:42.93,0:10:44.93,Default,,0000,0000,0000,,{\blur3}重量一直是个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when carrying things into space...{\r}
+Dialogue: 0,0:10:44.97,0:10:47.68,Default,,0000,0000,0000,,{\blur3}所以较轻的建筑可能会相当脆弱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the lightweight buildings could be quite vulnerable...{\r}
+Dialogue: 0,0:10:47.73,0:10:49.68,Default,,0000,0000,0000,,{\blur3}尤其是外层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially the outer layer.{\r}
+Dialogue: 0,0:10:50.94,0:10:53.56,Default,,0000,0000,0000,,{\blur3}万一保护层有什么意外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf anything happens to that protective layer...{\r}
+Dialogue: 0,0:10:53.61,0:10:56.27,Default,,0000,0000,0000,,{\blur3}那就会有麻烦 措手不及的麻烦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's trouble, very rapid trouble.{\r}
+Dialogue: 0,0:10:56.32,0:10:58.61,Default,,0000,0000,0000,,{\blur3}由于空气流出定居点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the gases stream out of the habitat...{\r}
+Dialogue: 0,0:10:58.65,0:11:00.90,Default,,0000,0000,0000,,{\blur3}你就必须有一个非常有效和快速的程序{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you've got to have a very efficient and quick procedure...{\r}
+Dialogue: 0,0:11:00.95,0:11:05.03,Default,,0000,0000,0000,,{\blur3}穿上宇航服以求生存 这就是失压{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for getting into a spacesuit to survive that sort of decompression.{\r}
+Dialogue: 0,0:11:07.95,0:11:09.58,Default,,0000,0000,0000,,{\blur3}死神不会马上降临{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Death would not be instantaneous...{\r}
+Dialogue: 0,0:11:09.62,0:11:13.63,Default,,0000,0000,0000,,{\blur3}一旦殖民地里的氧气及气压突然丧失的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if oxygen and atmospheric pressure inside the colony are suddenly lost.{\r}
+Dialogue: 0,0:11:15.50,0:11:18.05,Default,,0000,0000,0000,,{\blur3}火星上 存在着稀薄的空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Mars, there is a thin atmosphere...{\r}
+Dialogue: 0,0:11:18.09,0:11:21.47,Default,,0000,0000,0000,,{\blur3}但是无法吸入 因为几乎全是二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}although it's not breathable since it's mostly carbon dioxide.{\r}
+Dialogue: 0,0:11:23.30,0:11:26.14,Default,,0000,0000,0000,,{\blur3}在月球上 就只是真空地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On the Moon, there is only the vacuum of space.{\r}
+Dialogue: 0,0:11:29.39,0:11:30.93,Default,,0000,0000,0000,,{\blur3}不过你仍有机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But you'd still have a chance...{\r}
+Dialogue: 0,0:11:30.98,0:11:32.85,Default,,0000,0000,0000,,{\blur3}因为我们已经从地球上的真空室里的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as we've learned from industrial accidents...{\r}
+Dialogue: 0,0:11:32.90,0:11:34.69,Default,,0000,0000,0000,,{\blur3}安全事故中有所认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in vacuum chambers on Earth.{\r}
+Dialogue: 0,0:11:36.82,0:11:38.69,Default,,0000,0000,0000,,{\blur3}反映出生存能力约在一分钟左右{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Exposure for maybe a minute or so is survivable.{\r}
+Dialogue: 0,0:11:40.78,0:11:43.28,Default,,0000,0000,0000,,{\blur3}如果你呆在真空中时间够长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, if you stay in a vacuum long enough...{\r}
+Dialogue: 0,0:11:43.32,0:11:44.70,Default,,0000,0000,0000,,{\blur3}又没有足够的氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's not enough oxygen...{\r}
+Dialogue: 0,0:11:45.66,0:11:49.91,Default,,0000,0000,0000,,{\blur3}那么你血液和组织里的饱和氮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so nitrogen that's saturated in your blood and your tissues...{\r}
+Dialogue: 0,0:11:49.95,0:11:52.96,Default,,0000,0000,0000,,{\blur3}会溶解 产生泡沫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comes out of solution and causes bubbles.{\r}
+Dialogue: 0,0:11:53.00,0:11:54.83,Default,,0000,0000,0000,,{\blur3}那就是减压症{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's decompression sickness.{\r}
+Dialogue: 0,0:11:55.50,0:11:58.13,Default,,0000,0000,0000,,{\blur3}此外 你假如屏住呼吸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And also, if you hold your breath...{\r}
+Dialogue: 0,0:11:58.17,0:12:01.84,Default,,0000,0000,0000,,{\blur3}就会患上所谓的肺气肿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can get what they call pulmonary overinflation...{\r}
+Dialogue: 0,0:12:01.88,0:12:03.97,Default,,0000,0000,0000,,{\blur3}你的肺就会破裂进你的血液系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and your lung ruptures into your bloodstream...{\r}
+Dialogue: 0,0:12:04.01,0:12:06.30,Default,,0000,0000,0000,,{\blur3}形成所谓的血栓{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's called an embolism.{\r}
+Dialogue: 0,0:12:06.35,0:12:09.93,Default,,0000,0000,0000,,{\blur3}因而暴露在真空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there's multiple factors that can result in death...{\r}
+Dialogue: 0,0:12:09.97,0:12:13.60,Default,,0000,0000,0000,,{\blur3}有多种因素会导致死亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from exposure to the vacuum of space.{\r}
+Dialogue: 0,0:12:20.53,0:12:22.15,Default,,0000,0000,0000,,{\blur3}其次还有极端的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then there's the temperature extremes.{\r}
+Dialogue: 0,0:12:24.36,0:12:25.45,Default,,0000,0000,0000,,{\blur3}月球上的温度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Temperatures on the Moon...{\r}
+Dialogue: 0,0:12:25.49,0:12:28.70,Default,,0000,0000,0000,,{\blur3}会从高达240华氏度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}go from a high of about 240 degrees Fahrenheit...{\r}
+Dialogue: 0,0:12:29.54,0:12:32.20,Default,,0000,0000,0000,,{\blur3}降到华氏负290度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}down to around 290 below.{\r}
+Dialogue: 0,0:12:34.37,0:12:36.29,Default,,0000,0000,0000,,{\blur3}火星同样这么寒冷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mars can get just as cold...{\r}
+Dialogue: 0,0:12:38.21,0:12:39.50,Default,,0000,0000,0000,,{\blur3}尽管你可能会幸运地碰上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}although you could get lucky...{\r}
+Dialogue: 0,0:12:39.55,0:12:41.92,Default,,0000,0000,0000,,{\blur3}舒适的70度的夏季{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and have a nice 70-degree summer day.{\r}
+Dialogue: 0,0:12:43.22,0:12:45.01,Default,,0000,0000,0000,,{\blur3}但是没有可呼吸的大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But without a breathable atmosphere...{\r}
+Dialogue: 0,0:12:45.05,0:12:48.85,Default,,0000,0000,0000,,{\blur3}户外不穿宇航服可是个非常糟糕的想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}going outside without a spacesuit is still a very bad idea.{\r}
+Dialogue: 0,0:12:53.52,0:12:55.69,Default,,0000,0000,0000,,{\blur3}另一方面 太空移民...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another thing aboveground space colonists...{\r}
+Dialogue: 0,0:12:55.73,0:12:57.56,Default,,0000,0000,0000,,{\blur3}必须重点关注的...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will have to be on the lookout for...{\r}
+Dialogue: 0,0:13:01.57,0:13:02.57,Default,,0000,0000,0000,,{\blur3}就是陨石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is meteors.{\r}
+Dialogue: 0,0:13:07.24,0:13:08.78,Default,,0000,0000,0000,,{\blur3}月球上的环形山一诉衷肠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The craters on the Moon tell the story.{\r}
+Dialogue: 0,0:13:11.70,0:13:12.74,Default,,0000,0000,0000,,{\blur3}它是攻击的目标{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's an easy target.{\r}
+Dialogue: 0,0:13:18.08,0:13:20.71,Default,,0000,0000,0000,,{\blur3}我们这里相对比较安逸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're relatively comfortable down here...{\r}
+Dialogue: 0,0:13:20.75,0:13:22.55,Default,,0000,0000,0000,,{\blur3}置身于层层保护之下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}underneath these layers of protection.{\r}
+Dialogue: 0,0:13:23.76,0:13:25.63,Default,,0000,0000,0000,,{\blur3}我们有厚厚的大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've got a thick atmosphere...{\r}
+Dialogue: 0,0:13:25.67,0:13:27.84,Default,,0000,0000,0000,,{\blur3}吸收并烧掉了陨石{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which absorbs and burns up meteorites.{\r}
+Dialogue: 0,0:13:29.43,0:13:30.47,Default,,0000,0000,0000,,{\blur3}你到了月球 就完全不同了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You go to the Moon, nothing.{\r}
+Dialogue: 0,0:13:32.18,0:13:34.06,Default,,0000,0000,0000,,{\blur3}那里没有稠密的大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's no thick atmosphere.{\r}
+Dialogue: 0,0:13:34.10,0:13:37.89,Default,,0000,0000,0000,,{\blur3}我们所遭遇的一切就是你必须接受的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We are exposed to everything that space is throwing at us.{\r}
+Dialogue: 0,0:13:38.44,0:13:41.40,Default,,0000,0000,0000,,{\blur3}如果我们去火星 那里有稀薄的空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we go to Mars, there's a thin atmosphere...{\r}
+Dialogue: 0,0:13:41.44,0:13:43.40,Default,,0000,0000,0000,,{\blur3}但是一点都不如地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's not anywhere near as good as the Earth's.{\r}
+Dialogue: 0,0:13:43.44,0:13:47.07,Default,,0000,0000,0000,,{\blur3}再说 我们会遭遇到太空闯入的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Again, we're exposed to what's coming in from space.{\r}
+Dialogue: 0,0:13:55.62,0:13:59.79,Default,,0000,0000,0000,,{\blur3}较小的陨石只有几英寸甚至一英寸大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Smaller meteors that are only inches or fractions of an inch wide...{\r}
+Dialogue: 0,0:13:59.83,0:14:01.75,Default,,0000,0000,0000,,{\blur3}叫做微流星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}known as micrometeoroids...{\r}
+Dialogue: 0,0:14:01.79,0:14:05.09,Default,,0000,0000,0000,,{\blur3}会打击频繁 毫无先兆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will strike most often and without warning.{\r}
+Dialogue: 0,0:14:06.63,0:14:09.34,Default,,0000,0000,0000,,{\blur3}你漫游在火星表面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're walking along the surface of Mars...{\r}
+Dialogue: 0,0:14:09.39,0:14:11.59,Default,,0000,0000,0000,,{\blur3}会有沙粒般是大小的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then something the size of a grain of sand...{\r}
+Dialogue: 0,0:14:11.64,0:14:13.35,Default,,0000,0000,0000,,{\blur3}射入你的宇航服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comes slamming into your spacesuit.{\r}
+Dialogue: 0,0:14:13.39,0:14:15.89,Default,,0000,0000,0000,,{\blur3}那将是个非同小可的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's going to be a serious problem.{\r}
+Dialogue: 0,0:14:15.93,0:14:19.19,Default,,0000,0000,0000,,{\blur3}将会使宇航服失压{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's going to be a loss of the pressure in the spacesuit.{\r}
+Dialogue: 0,0:14:19.23,0:14:22.36,Default,,0000,0000,0000,,{\blur3}这就意味着可以夺走宇航员的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could mean loss of life of an astronaut.{\r}
+Dialogue: 0,0:14:22.40,0:14:25.28,Default,,0000,0000,0000,,{\blur3}只要我们有许多人在其它世界里开展大量的活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we have lots of people doing a lot of work on other worlds...{\r}
+Dialogue: 0,0:14:25.32,0:14:26.82,Default,,0000,0000,0000,,{\blur3}免不了会发生那样的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}eventually that's going to happen.{\r}
+Dialogue: 0,0:14:26.86,0:14:28.74,Default,,0000,0000,0000,,{\blur3}那相当于雷击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the equivalent of a lightning strike...{\r}
+Dialogue: 0,0:14:28.78,0:14:30.99,Default,,0000,0000,0000,,{\blur3}虽然罕见 但有可能是致命的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a rare, possibly fatal event.{\r}
+Dialogue: 0,0:14:34.49,0:14:36.95,Default,,0000,0000,0000,,{\blur3}微流星体还可能洞穿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Micrometeoroids could also punch a hole...{\r}
+Dialogue: 0,0:14:37.00,0:14:39.04,Default,,0000,0000,0000,,{\blur3}定居点建筑的墙体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through the wall of a colony building.{\r}
+Dialogue: 0,0:14:40.92,0:14:44.13,Default,,0000,0000,0000,,{\blur3}类似于空间站 定居点可能是由{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like space stations, colonies will probably be built...{\r}
+Dialogue: 0,0:14:44.17,0:14:45.55,Default,,0000,0000,0000,,{\blur3}一系列的单元和舱位构建的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a series of sections or modules.{\r}
+Dialogue: 0,0:14:49.17,0:14:51.51,Default,,0000,0000,0000,,{\blur3}就像宇航员在紧急情况下 不得不关闭空间站的舱位一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And just as crews have had to seal off sections...{\r}
+Dialogue: 0,0:14:51.55,0:14:57.02,Default,,0000,0000,0000,,{\blur3}移民也有可能这么做{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of a space station in an emergency, colonists will likely do the same.{\r}
+Dialogue: 0,0:15:03.23,0:15:04.98,Default,,0000,0000,0000,,{\blur3}较大的陨石有望被跟踪到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Large meteors will hopefully be tracked...{\r}
+Dialogue: 0,0:15:06.19,0:15:07.90,Default,,0000,0000,0000,,{\blur3}因此移民们会知晓它们的动向{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so the colonists will know they're coming.{\r}
+Dialogue: 0,0:15:11.61,0:15:13.99,Default,,0000,0000,0000,,{\blur3}然而撤离有可能适得其反{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But evacuation might not do any good.{\r}
+Dialogue: 0,0:15:15.20,0:15:19.16,Default,,0000,0000,0000,,{\blur3}不远处的打击依然会掀起数英里的致命的冲击波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A nearby strike would still send out a deadly shockwave for miles.{\r}
+Dialogue: 0,0:15:21.04,0:15:24.33,Default,,0000,0000,0000,,{\blur3}10英尺大的陨石撞击具有{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A 10-foot wide meteor hits with the explosive equivalent...{\r}
+Dialogue: 0,0:15:24.38,0:15:27.38,Default,,0000,0000,0000,,{\blur3}6000到8000吨的爆炸当量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of 6,000 to 8,000 tons of TNT.{\r}
+Dialogue: 0,0:15:29.72,0:15:33.84,Default,,0000,0000,0000,,{\blur3}溅起的碎片也会损坏定居点建筑 无法修复{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Flying debris could also damage colony buildings beyond repair.{\r}
+Dialogue: 0,0:15:37.72,0:15:39.81,Default,,0000,0000,0000,,{\blur3}靠近命中点的所有东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And anything approaching a direct hit...{\r}
+Dialogue: 0,0:15:43.40,0:15:45.94,Default,,0000,0000,0000,,{\blur3}将会荡然无存{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there'll be little evidence that the colonists were ever there.{\r}
+Dialogue: 0,0:15:53.49,0:15:55.07,Default,,0000,0000,0000,,{\blur3}移民不可能选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's unlikely that colonists...{\r}
+Dialogue: 0,0:15:55.12,0:15:58.24,Default,,0000,0000,0000,,{\blur3}居住在火星的火山附近{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would live anywhere near one of Mars' volcanoes.{\r}
+Dialogue: 0,0:16:00.91,0:16:03.71,Default,,0000,0000,0000,,{\blur3}月球在最近几十亿年里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the Moon probably hasn't seen volcanic activity...{\r}
+Dialogue: 0,0:16:03.75,0:16:05.63,Default,,0000,0000,0000,,{\blur3}尚未见到过有火山活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the last few billion years.{\r}
+Dialogue: 0,0:16:07.88,0:16:10.21,Default,,0000,0000,0000,,{\blur3}但是即使是古代火山的遗迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even ancient remnants of volcanoes...{\r}
+Dialogue: 0,0:16:10.26,0:16:13.55,Default,,0000,0000,0000,,{\blur3}依然会给车子里的宇航员造成麻烦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could still cause trouble for crews in vehicles.{\r}
+Dialogue: 0,0:16:15.59,0:16:18.97,Default,,0000,0000,0000,,{\blur3}月球和火星都显示出火山熔岩流的痕迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Both the Moon and Mars show evidence of volcanic flows.{\r}
+Dialogue: 0,0:16:19.97,0:16:23.35,Default,,0000,0000,0000,,{\blur3}因此我们有望找到这种东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we might expect to find there this sort of thing...{\r}
+Dialogue: 0,0:16:23.39,0:16:24.94,Default,,0000,0000,0000,,{\blur3}火山洞穴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}volcanic caves.{\r}
+Dialogue: 0,0:16:24.98,0:16:27.06,Default,,0000,0000,0000,,{\blur3}设想一下在其表面驱车行进{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Imagine driving along the surface.{\r}
+Dialogue: 0,0:16:27.11,0:16:29.44,Default,,0000,0000,0000,,{\blur3}遇上其中的一个 你是避之不及的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Come across one of these, you're not expecting it...{\r}
+Dialogue: 0,0:16:29.48,0:16:31.28,Default,,0000,0000,0000,,{\blur3}它会毁了你一天 会毁了你的车子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that could ruin your day. It could ruin your vehicle.{\r}
+Dialogue: 0,0:16:32.19,0:16:34.99,Default,,0000,0000,0000,,{\blur3}你会掉入坑底无法脱身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You could be at the bottom of this pit without any way to get up.{\r}
+Dialogue: 0,0:16:36.12,0:16:38.95,Default,,0000,0000,0000,,{\blur3}更为糟糕的是想象一下有火山岩洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even worse would be imagining one of these volcanic caves...{\r}
+Dialogue: 0,0:16:38.99,0:16:42.50,Default,,0000,0000,0000,,{\blur3}上面只有薄薄的一层火山岩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a thin layer of volcanic rock on top of it.{\r}
+Dialogue: 0,0:16:42.54,0:16:45.62,Default,,0000,0000,0000,,{\blur3}你在其顶上越过 就会让你跌入深渊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You move across on top of that, it gives, and down you go.{\r}
+Dialogue: 0,0:16:47.79,0:16:49.75,Default,,0000,0000,0000,,{\blur3}但是并非所有的殖民地灾难都是如此戏剧性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But not all colony disasters will be so dramatic.{\r}
+Dialogue: 0,0:16:53.72,0:16:56.18,Default,,0000,0000,0000,,{\blur3}哪怕耗尽补给就是最大的危险之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Simply running out of supplies is one of the greatest dangers.{\r}
+Dialogue: 0,0:16:58.97,0:17:01.31,Default,,0000,0000,0000,,{\blur3}由于月球近得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since the Moon is much closer...{\r}
+Dialogue: 0,0:17:01.35,0:17:03.43,Default,,0000,0000,0000,,{\blur3}紧急救援物资能够在几天内送达{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}emergency supplies could arrive in a matter of days.{\r}
+Dialogue: 0,0:17:08.90,0:17:13.57,Default,,0000,0000,0000,,{\blur3}而对于火星 援助将要几个月乃至数年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With Mars, help is many months to years away...{\r}
+Dialogue: 0,0:17:13.61,0:17:15.90,Default,,0000,0000,0000,,{\blur3}这取决于行星的排列{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}depending on how the planets are aligned.{\r}
+Dialogue: 0,0:17:18.07,0:17:21.78,Default,,0000,0000,0000,,{\blur3}火星上 一旦出现问题 断了后勤{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}On Mars, if something goes wrong and you lose some supplies...{\r}
+Dialogue: 0,0:17:21.83,0:17:25.20,Default,,0000,0000,0000,,{\blur3}地球的补给可能要迟后2到3年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}resupply from Earth can be two or three years away.{\r}
+Dialogue: 0,0:17:25.91,0:17:27.79,Default,,0000,0000,0000,,{\blur3}你以为你足以坚持到最后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You think you've got enough to last...{\r}
+Dialogue: 0,0:17:27.83,0:17:30.67,Default,,0000,0000,0000,,{\blur3}你意外地失去了一半 那你就完完了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you lose half of it to an accident, you're dead.{\r}
+Dialogue: 0,0:17:30.71,0:17:32.25,Default,,0000,0000,0000,,{\blur3}这是个现实问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a real problem.{\r}
+Dialogue: 0,0:17:32.30,0:17:34.30,Default,,0000,0000,0000,,{\blur3}我认为这意味着你必须拥有的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think that means you're going to have to have...{\r}
+Dialogue: 0,0:17:34.34,0:17:35.63,Default,,0000,0000,0000,,{\blur3}要大大超过你需要的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more than what you need.{\r}
+Dialogue: 0,0:17:35.67,0:17:38.30,Default,,0000,0000,0000,,{\blur3}你必须足以应付5到6年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're going to have to have enough for five, six years.{\r}
+Dialogue: 0,0:17:45.18,0:17:47.85,Default,,0000,0000,0000,,{\blur3}生活在家门口的太空里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Living in space much closer to home...{\r}
+Dialogue: 0,0:17:47.90,0:17:50.98,Default,,0000,0000,0000,,{\blur3}太空站里和航天飞机里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on space stations and longer shuttle flights...{\r}
+Dialogue: 0,0:17:51.02,0:17:53.15,Default,,0000,0000,0000,,{\blur3}都已经让我们看到了太空中的危险了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has already taught us a lot about the dangers of space.{\r}
+Dialogue: 0,0:17:58.16,0:18:01.74,Default,,0000,0000,0000,,{\blur3}火灾是宇航员的头号杀手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And fire is space crew enemy number one.{\r}
+Dialogue: 0,0:18:03.79,0:18:08.08,Default,,0000,0000,0000,,{\blur3}火灾威胁巨大的原因就在于传统的航天器里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The reason fire is such a threat is because spacecraft traditionally...{\r}
+Dialogue: 0,0:18:08.12,0:18:11.83,Default,,0000,0000,0000,,{\blur3}氧气的水平高于大气层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have higher levels of oxygen than the atmosphere...{\r}
+Dialogue: 0,0:18:11.88,0:18:14.63,Default,,0000,0000,0000,,{\blur3}当然在压力下其含量更高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}certainly in higher concentrations under pressure.{\r}
+Dialogue: 0,0:18:15.84,0:18:18.30,Default,,0000,0000,0000,,{\blur3}其中遍布各种电子设备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are also filled with electronic equipment.{\r}
+Dialogue: 0,0:18:18.34,0:18:22.85,Default,,0000,0000,0000,,{\blur3}电子设备会发热 往往会产生火花和电弧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Electronic equipment puts out heat, and often there are sparks and arcs.{\r}
+Dialogue: 0,0:18:23.93,0:18:24.97,Default,,0000,0000,0000,,{\blur3}这是个糟糕的组合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a bad combination.{\r}
+Dialogue: 0,0:18:28.94,0:18:32.11,Default,,0000,0000,0000,,{\blur3}庆幸的是 设计师已经让航天员扑火更加便捷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Luckily, designers have made it easier for crews to put out fires...{\r}
+Dialogue: 0,0:18:32.15,0:18:36.40,Default,,0000,0000,0000,,{\blur3}所有的数英里电线都隐蔽在控制面板的背后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where all those miles of wire lurk behind the control panels.{\r}
+Dialogue: 0,0:18:37.36,0:18:40.24,Default,,0000,0000,0000,,{\blur3}这是航天飞机驾驶舱的样机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a mockup of the space shuttle flight deck...{\r}
+Dialogue: 0,0:18:40.28,0:18:41.57,Default,,0000,0000,0000,,{\blur3}我们用来训练宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we use for training of crews.{\r}
+Dialogue: 0,0:18:44.08,0:18:45.41,Default,,0000,0000,0000,,{\blur3}如果你注意这里的各种面板{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you look at the various panels we have...{\r}
+Dialogue: 0,0:18:45.45,0:18:49.91,Default,,0000,0000,0000,,{\blur3}你就会发现四周布满了这样的小孔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you will see small holes like this at various locations around it.{\r}
+Dialogue: 0,0:18:49.96,0:18:52.17,Default,,0000,0000,0000,,{\blur3}这些是为灭火器设计的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And these are for fire extinguishers...{\r}
+Dialogue: 0,0:18:52.21,0:18:54.67,Default,,0000,0000,0000,,{\blur3}因此一旦有面板背后发生火灾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that if there is a fire behind one of these panels...{\r}
+Dialogue: 0,0:18:54.71,0:18:57.92,Default,,0000,0000,0000,,{\blur3}你就可以将灭火器对准灭火{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you can put an extinguisher in there to extinguish the fire.{\r}
+Dialogue: 0,0:19:01.05,0:19:05.14,Default,,0000,0000,0000,,{\blur3}安德鲁.托马斯对太空中的火灾有所了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Andrew Thomas knows a thing or two about fires in space.{\r}
+Dialogue: 0,0:19:05.18,0:19:10.02,Default,,0000,0000,0000,,{\blur3}1998年在和平号空间站里 一场火灾突然爆发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}While on the Mir Space Station in 1998, a fire suddenly broke out.{\r}
+Dialogue: 0,0:19:11.48,0:19:13.44,Default,,0000,0000,0000,,{\blur3}所有的烟雾被抽进了隔间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All the smoke was pumped right out into the cabin.{\r}
+Dialogue: 0,0:19:21.66,0:19:25.32,Default,,0000,0000,0000,,{\blur3}航天员冲过密封舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Crews hurtle through space in their enclosed craft...{\r}
+Dialogue: 0,0:19:25.37,0:19:29.12,Default,,0000,0000,0000,,{\blur3}拼命保住里面的地球一样的大气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}desperate to maintain the Earth-like atmosphere inside.{\r}
+Dialogue: 0,0:19:31.21,0:19:34.54,Default,,0000,0000,0000,,{\blur3}到了这里 火灾是最大的威胁之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Out here, fire is one of the biggest threats.{\r}
+Dialogue: 0,0:19:36.59,0:19:39.88,Default,,0000,0000,0000,,{\blur3}1988年 航天局的安德鲁.托马斯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 1998, NASA astronaut Andrew Thomas...{\r}
+Dialogue: 0,0:19:39.92,0:19:43.47,Default,,0000,0000,0000,,{\blur3}和两名俄罗斯宇航员一起登上了和平号空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is onboard the Mir Space Station with two Russian cosmonauts.{\r}
+Dialogue: 0,0:19:44.39,0:19:47.18,Default,,0000,0000,0000,,{\blur3}突然 发生了火灾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Suddenly, a fire breaks out.{\r}
+Dialogue: 0,0:19:47.22,0:19:49.27,Default,,0000,0000,0000,,{\blur3}讽刺的是 发生火灾时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ironically, the fire starts...{\r}
+Dialogue: 0,0:19:49.31,0:19:51.18,Default,,0000,0000,0000,,{\blur3}正在清扫所谓的空气净化设备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while cleaning what's known as an air scrubber...{\r}
+Dialogue: 0,0:19:51.23,0:19:55.15,Default,,0000,0000,0000,,{\blur3}过滤器之一 目的是为了去除呼出的二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one of the filters designed to remove exhaled carbon dioxide...{\r}
+Dialogue: 0,0:19:55.19,0:19:57.65,Default,,0000,0000,0000,,{\blur3}以及空间环境中的其它毒素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and other toxins from the space crew's environment.{\r}
+Dialogue: 0,0:19:59.07,0:20:01.24,Default,,0000,0000,0000,,{\blur3}所有的烟雾被抽进了隔间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}All the smoke was pumped right out into the cabin.{\r}
+Dialogue: 0,0:20:01.28,0:20:04.78,Default,,0000,0000,0000,,{\blur3}突然之间 空间站一部分隔间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so, all of a sudden, the cabin in one part of the space station...{\r}
+Dialogue: 0,0:20:04.82,0:20:07.78,Default,,0000,0000,0000,,{\blur3}马上充满了浓烟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just became thick with a pall of smoke.{\r}
+Dialogue: 0,0:20:09.16,0:20:11.25,Default,,0000,0000,0000,,{\blur3}当然啦 所有的空气处理器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, of course, all the air handlers...{\r}
+Dialogue: 0,0:20:11.29,0:20:13.29,Default,,0000,0000,0000,,{\blur3}接着除去了飞船周围的烟雾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then moved all that smoke around the spacecraft...{\r}
+Dialogue: 0,0:20:13.33,0:20:14.79,Default,,0000,0000,0000,,{\blur3}这样在近两个小时里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so within about two hours...{\r}
+Dialogue: 0,0:20:14.83,0:20:17.63,Default,,0000,0000,0000,,{\blur3}整个飞船充满了烟雾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the entire spacecraft was completely filled with smoke.{\r}
+Dialogue: 0,0:20:19.25,0:20:21.13,Default,,0000,0000,0000,,{\blur3}因此我们只得等待空气处理器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we had to just wait for the air handlers...{\r}
+Dialogue: 0,0:20:21.17,0:20:24.59,Default,,0000,0000,0000,,{\blur3}来清除整个污染{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to scrub all of this contamination out.{\r}
+Dialogue: 0,0:20:24.64,0:20:26.18,Default,,0000,0000,0000,,{\blur3}花了约两天的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that took about two days.{\r}
+Dialogue: 0,0:20:29.01,0:20:33.39,Default,,0000,0000,0000,,{\blur3}我们都反应出那种环境下的中毒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And we all manifested symptoms of the toxicity of that environment.{\r}
+Dialogue: 0,0:20:33.44,0:20:35.98,Default,,0000,0000,0000,,{\blur3}一旦大量的一氧化碳达到那样的等级{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When there's a lot of carbon monoxide at those levels...{\r}
+Dialogue: 0,0:20:36.02,0:20:40.82,Default,,0000,0000,0000,,{\blur3}你就会恶心 犯糊涂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you have nausea, a certain amount of confusion...{\r}
+Dialogue: 0,0:20:40.86,0:20:43.78,Default,,0000,0000,0000,,{\blur3}头痛不已 因为你缺氧了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}invariably a headache because you're oxygen-deprived.{\r}
+Dialogue: 0,0:20:43.82,0:20:46.41,Default,,0000,0000,0000,,{\blur3}就是一种非常不舒服的感觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's just a very uncomfortable feeling.{\r}
+Dialogue: 0,0:20:48.24,0:20:49.99,Default,,0000,0000,0000,,{\blur3}太空中的火灾危害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The dangers of fire in space...{\r}
+Dialogue: 0,0:20:50.04,0:20:51.99,Default,,0000,0000,0000,,{\blur3}远不止是你无法打开窗户{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}go beyond the fact that you can't open a window...{\r}
+Dialogue: 0,0:20:52.04,0:20:53.66,Default,,0000,0000,0000,,{\blur3}或呼叫911{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or call the fire department.{\r}
+Dialogue: 0,0:20:53.71,0:20:58.63,Default,,0000,0000,0000,,{\blur3}火灾在失重的飞船里的表现完全不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Fire actually behaves differently inside a spacecraft in zero gravity.{\r}
+Dialogue: 0,0:20:58.67,0:21:01.84,Default,,0000,0000,0000,,{\blur3}我们现在看到的是蜡烛火苗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we are seeing is a candle flame.{\r}
+Dialogue: 0,0:21:01.88,0:21:05.68,Default,,0000,0000,0000,,{\blur3}下面的那个是正常重力下的蜡烛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The bottom one is a candle in normal gravity.{\r}
+Dialogue: 0,0:21:05.72,0:21:11.18,Default,,0000,0000,0000,,{\blur3}你可以看到火苗向上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As you can see the flame moves up because buoyancy...{\r}
+Dialogue: 0,0:21:11.22,0:21:15.27,Default,,0000,0000,0000,,{\blur3}因为浮力往上推动着火苗周围的热空气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pushes the hot gases around the flame up.{\r}
+Dialogue: 0,0:21:16.27,0:21:19.36,Default,,0000,0000,0000,,{\blur3}上面那张照片是同样的蜡烛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The top photograph is the same candle...{\r}
+Dialogue: 0,0:21:19.40,0:21:22.73,Default,,0000,0000,0000,,{\blur3}但是是在失重的情况下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but in the absence of gravity.{\r}
+Dialogue: 0,0:21:23.86,0:21:26.40,Default,,0000,0000,0000,,{\blur3}哥伦比亚Spacehab公司锁定了隔舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Columbia SPACEHAB lock for the module.{\r}
+Dialogue: 0,0:21:26.45,0:21:30.74,Default,,0000,0000,0000,,{\blur3}燃烧会在15秒里从这里烧起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Mist burn will be initiated here in about 15 seconds.{\r}
+Dialogue: 0,0:21:30.78,0:21:34.58,Default,,0000,0000,0000,,{\blur3}炙热的气体不会升起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The hot gases don't move up...{\r}
+Dialogue: 0,0:21:34.62,0:21:39.17,Default,,0000,0000,0000,,{\blur3}你见到的是个球形的火苗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what you have is a spherical flame.{\r}
+Dialogue: 0,0:21:39.21,0:21:40.71,Default,,0000,0000,0000,,{\blur3}有一个火苗{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is the flame...{\r}
+Dialogue: 0,0:21:40.75,0:21:44.38,Default,,0000,0000,0000,,{\blur3}这就是燃烧模组二的初始燃烧点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so here's the initial light off for Combustion Module Two.{\r}
+Dialogue: 0,0:21:46.80,0:21:50.97,Default,,0000,0000,0000,,{\blur3}在顶棚上安上烟雾探测器 像在地球上一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So putting a smoke detector on the ceiling like we do on Earth...{\r}
+Dialogue: 0,0:21:51.01,0:21:52.68,Default,,0000,0000,0000,,{\blur3}在太空中是不起作用的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}doesn't work in space.{\r}
+Dialogue: 0,0:21:53.35,0:21:57.27,Default,,0000,0000,0000,,{\blur3}相反 探测器要靠近小抽吸设备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead, detectors are located next to small suction devices...{\r}
+Dialogue: 0,0:21:57.31,0:22:01.52,Default,,0000,0000,0000,,{\blur3}那会将空气 烟雾及其它毒素抽向探测器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that draw air and any smoke or other toxins toward the detector.{\r}
+Dialogue: 0,0:22:04.23,0:22:07.61,Default,,0000,0000,0000,,{\blur3}为了弄明白太空中的火灾有多危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To figure out just how dangerous fire is in space...{\r}
+Dialogue: 0,0:22:07.65,0:22:10.66,Default,,0000,0000,0000,,{\blur3}费尔南德斯.佩略教授的团队在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Professor Fernandez-Pello's team performs experiments...{\r}
+Dialogue: 0,0:22:10.70,0:22:14.24,Default,,0000,0000,0000,,{\blur3}加州大学伯克利分校的燃烧实验室里开展了实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the University of California, Berkeley, combustion lab...{\r}
+Dialogue: 0,0:22:14.29,0:22:19.04,Default,,0000,0000,0000,,{\blur3}利用KC 135飞机短暂的零重力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and on KC-135 aircraft in short bursts of zero g.{\r}
+Dialogue: 0,0:22:21.34,0:22:25.09,Default,,0000,0000,0000,,{\blur3}理论上 零重力下的火灾应该不会很剧烈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In theory, fires in zero gravity should be less intense...{\r}
+Dialogue: 0,0:22:25.13,0:22:27.26,Default,,0000,0000,0000,,{\blur3}因为热空气不会上升{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the hot gases don't rise...{\r}
+Dialogue: 0,0:22:27.30,0:22:29.93,Default,,0000,0000,0000,,{\blur3}这就意味着冷空气不会从下面吸入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which means cool air isn't drawn in at the base...{\r}
+Dialogue: 0,0:22:29.97,0:22:31.64,Default,,0000,0000,0000,,{\blur3}来补充给火焰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to keep feeding the flames.{\r}
+Dialogue: 0,0:22:31.68,0:22:36.47,Default,,0000,0000,0000,,{\blur3}但是他们发现实际上飞船里面更加危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But they're finding that the reality inside a spacecraft is more dangerous.{\r}
+Dialogue: 0,0:22:37.81,0:22:41.23,Default,,0000,0000,0000,,{\blur3}空调系统会创造出小小的气流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Air conditioning systems create small air currents.{\r}
+Dialogue: 0,0:22:41.27,0:22:45.78,Default,,0000,0000,0000,,{\blur3}那些气流会带来新鲜空气 或者说是 火上加油{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Those currents bring fresh air or, in this case, fuel to the fire.{\r}
+Dialogue: 0,0:22:45.82,0:22:49.28,Default,,0000,0000,0000,,{\blur3}同时 低气流和失重{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the same time, the low airflow and lack of gravity...{\r}
+Dialogue: 0,0:22:49.32,0:22:51.07,Default,,0000,0000,0000,,{\blur3}并不会像在地球上那样快速散热{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}don't remove the heat as quickly as on Earth.{\r}
+Dialogue: 0,0:22:53.24,0:22:54.24,Default,,0000,0000,0000,,{\blur3}结果是..{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The result...{\r}
+Dialogue: 0,0:22:54.95,0:22:59.91,Default,,0000,0000,0000,,{\blur3}此类火灾要比正常重力下温度更高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These type of fires are hotter and more dangerous...{\r}
+Dialogue: 0,0:22:59.96,0:23:02.83,Default,,0000,0000,0000,,{\blur3}更加危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than in normal gravity.{\r}
+Dialogue: 0,0:23:05.21,0:23:08.46,Default,,0000,0000,0000,,{\blur3}火灾可能成为了不容忽视的安全问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And fire is likely to become even more of a safety hazard...{\r}
+Dialogue: 0,0:23:08.51,0:23:11.01,Default,,0000,0000,0000,,{\blur3}对于新设计的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}inside the new Aries/Orion spacecraft...{\r}
+Dialogue: 0,0:23:11.05,0:23:13.55,Default,,0000,0000,0000,,{\blur3}替代航天飞机的白羊座/猎户座飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}being designed to replace the shuttle.{\r}
+Dialogue: 0,0:23:14.97,0:23:16.14,Default,,0000,0000,0000,,{\blur3}他们已经决定要做的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What they've decided to do...{\r}
+Dialogue: 0,0:23:16.18,0:23:18.68,Default,,0000,0000,0000,,{\blur3}就是减少压力 增加氧气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was to reduce the pressure and increase the oxygen.{\r}
+Dialogue: 0,0:23:18.73,0:23:21.19,Default,,0000,0000,0000,,{\blur3}这样做后 他们可以减少准备时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And by doing this, they reduced the preparation time...{\r}
+Dialogue: 0,0:23:21.23,0:23:22.48,Default,,0000,0000,0000,,{\blur3}让宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that it takes for the astronauts...{\r}
+Dialogue: 0,0:23:22.52,0:23:26.02,Default,,0000,0000,0000,,{\blur3}从舱内跑到舱外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to go from the vehicle to outside of the vehicle.{\r}
+Dialogue: 0,0:23:27.94,0:23:30.90,Default,,0000,0000,0000,,{\blur3}所以我们所干的就是测试{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So what we're doing is we're testing materials...{\r}
+Dialogue: 0,0:23:30.95,0:23:32.07,Default,,0000,0000,0000,,{\blur3}打算用在那种环境中的材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at that proposed environment.{\r}
+Dialogue: 0,0:23:33.03,0:23:36.41,Default,,0000,0000,0000,,{\blur3}我们了解到了 对于他们所处的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We've learned that for the environment that they've chosen...{\r}
+Dialogue: 0,0:23:36.45,0:23:38.87,Default,,0000,0000,0000,,{\blur3}对于他们下一代的航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for their next generation of vehicles...{\r}
+Dialogue: 0,0:23:38.91,0:23:41.41,Default,,0000,0000,0000,,{\blur3}物体的实际燃烧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}things actually ignite about 20 percent faster...{\r}
+Dialogue: 0,0:23:41.46,0:23:43.42,Default,,0000,0000,0000,,{\blur3}要比目前的环境快上二成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than they would in the current environment.{\r}
+Dialogue: 0,0:23:49.63,0:23:53.68,Default,,0000,0000,0000,,{\blur3}高氧含量和低气流的结合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The combination of high oxygen content and low airflow...{\r}
+Dialogue: 0,0:23:53.72,0:23:58.22,Default,,0000,0000,0000,,{\blur3}意味着几乎所有的东西都会着火 甚至金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}means just about anything can catch fire, even metal.{\r}
+Dialogue: 0,0:24:01.98,0:24:04.85,Default,,0000,0000,0000,,{\blur3}在最坏的未来场景中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In a worst-case future scenario...{\r}
+Dialogue: 0,0:24:04.90,0:24:09.32,Default,,0000,0000,0000,,{\blur3}空间站的航天员无法迅速扑灭火灾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a space station crew is unable to quickly extinguish a fire.{\r}
+Dialogue: 0,0:24:09.36,0:24:13.07,Default,,0000,0000,0000,,{\blur3}它会在密封舱里快速蔓延{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It grows too fast to seal off in a separate module.{\r}
+Dialogue: 0,0:24:14.03,0:24:16.78,Default,,0000,0000,0000,,{\blur3}即使他们戴上紧急氧气面罩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even if they put on emergency oxygen masks...{\r}
+Dialogue: 0,0:24:16.83,0:24:19.74,Default,,0000,0000,0000,,{\blur3}炙热的火焰也有可能使其丧生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the heat of the flames will likely kill them.{\r}
+Dialogue: 0,0:24:21.71,0:24:24.79,Default,,0000,0000,0000,,{\blur3}即使他们有可能躲过火焰{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if they're somehow able to survive the flames...{\r}
+Dialogue: 0,0:24:24.83,0:24:27.84,Default,,0000,0000,0000,,{\blur3}过滤系统也完全有可能超载{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the filtering system is completely overloaded.{\r}
+Dialogue: 0,0:24:28.84,0:24:33.34,Default,,0000,0000,0000,,{\blur3}他们会在烟雾的熏烤中慢慢死去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They are left to die in a toxic stew from smoke inhalation.{\r}
+Dialogue: 0,0:24:35.93,0:24:38.89,Default,,0000,0000,0000,,{\blur3}在失控的火灾中幸存的最佳机会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The best chance of survival with an out-of-control fire...{\r}
+Dialogue: 0,0:24:38.93,0:24:42.73,Default,,0000,0000,0000,,{\blur3}就是弃船 回到返回舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is to abandon ship and return in a re-entry capsule...{\r}
+Dialogue: 0,0:24:42.77,0:24:44.23,Default,,0000,0000,0000,,{\blur3}如果有的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if one is available.{\r}
+Dialogue: 0,0:24:44.27,0:24:48.65,Default,,0000,0000,0000,,{\blur3}那就是阿波罗13号宇航员存活的关键{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That was the key to the survival of the crew of Apollo 13.{\r}
+Dialogue: 0,0:24:50.11,0:24:52.57,Default,,0000,0000,0000,,{\blur3}1970年4月11日{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}April 11, 1970.{\r}
+Dialogue: 0,0:24:52.61,0:24:55.40,Default,,0000,0000,0000,,{\blur3}三名宇航员进入太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The three-man crew launches into space.{\r}
+Dialogue: 0,0:24:58.20,0:25:00.78,Default,,0000,0000,0000,,{\blur3}两天后 在他们去月球的途中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Two days later, on their way to the Moon...{\r}
+Dialogue: 0,0:25:02.04,0:25:05.58,Default,,0000,0000,0000,,{\blur3}一个氧气罐突然爆炸了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an oxygen tank suddenly explodes.{\r}
+Dialogue: 0,0:25:05.62,0:25:09.04,Default,,0000,0000,0000,,{\blur3}爆炸造成了氧气的大量流失{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The explosion causes a substantial loss of oxygen...{\r}
+Dialogue: 0,0:25:09.09,0:25:12.09,Default,,0000,0000,0000,,{\blur3}危及到了服务舱的电力系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and damages the Service Module's electrical system.{\r}
+Dialogue: 0,0:25:13.51,0:25:15.67,Default,,0000,0000,0000,,{\blur3}船员们被迫挤在狭窄的登月舱里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The crew is forced to live in the cramped lunar capsule.{\r}
+Dialogue: 0,0:25:19.05,0:25:24.39,Default,,0000,0000,0000,,{\blur3}阿波罗13就是一个失败但无伤亡的典型案例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Apollo 13 is the classic case of the failure that doesn't kill you.{\r}
+Dialogue: 0,0:25:24.43,0:25:26.64,Default,,0000,0000,0000,,{\blur3}它撞上了合适的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It happened at the right time.{\r}
+Dialogue: 0,0:25:26.69,0:25:29.69,Default,,0000,0000,0000,,{\blur3}它发生在了他们去月球的途中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It happened when they were on their way to the Moon...{\r}
+Dialogue: 0,0:25:29.73,0:25:33.48,Default,,0000,0000,0000,,{\blur3}因此他们可以将登月舱用作救生舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they could use the Lunar Module as a lifeboat...{\r}
+Dialogue: 0,0:25:33.53,0:25:35.61,Default,,0000,0000,0000,,{\blur3}回到了地球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and get back to Earth.{\r}
+Dialogue: 0,0:25:35.65,0:25:38.20,Default,,0000,0000,0000,,{\blur3}如果同样的问题发生在登月后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Had the same problem occurred after the lunar landing...{\r}
+Dialogue: 0,0:25:38.24,0:25:41.45,Default,,0000,0000,0000,,{\blur3}洛弗尔 格特 海瑟返回地球途中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when Lovell, Swigert, and Haise were on their way back to Earth...{\r}
+Dialogue: 0,0:25:41.49,0:25:42.54,Default,,0000,0000,0000,,{\blur3}那就会束手无策了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there would've been nothing they could do.{\r}
+Dialogue: 0,0:25:42.58,0:25:43.83,Default,,0000,0000,0000,,{\blur3}他们就不会生还了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They would've been dead.{\r}
+Dialogue: 0,0:25:49.71,0:25:53.80,Default,,0000,0000,0000,,{\blur3}火灾威胁在宇航服里尤为突出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The threat of fire is especially high inside spacesuits.{\r}
+Dialogue: 0,0:25:53.84,0:25:56.13,Default,,0000,0000,0000,,{\blur3}太空行走 又称EVAs{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}During spacewalks, also known as EVAs...{\r}
+Dialogue: 0,0:25:56.17,0:25:58.55,Default,,0000,0000,0000,,{\blur3}即舱外活动...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or extra-vehicular activity...{\r}
+Dialogue: 0,0:25:58.59,0:26:00.97,Default,,0000,0000,0000,,{\blur3}太空服需要保持较低的压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the spacesuits need to be kept at low pressures.{\r}
+Dialogue: 0,0:26:03.52,0:26:05.56,Default,,0000,0000,0000,,{\blur3}作业于地球大气层里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Working at a fraction of Earth's atmosphere...{\r}
+Dialogue: 0,0:26:05.60,0:26:07.52,Default,,0000,0000,0000,,{\blur3}关键在于灵活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the key to flexibility.{\r}
+Dialogue: 0,0:26:09.06,0:26:12.65,Default,,0000,0000,0000,,{\blur3}如果你穿的宇航服有一个大气压{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you had a spacesuit that was at one atmosphere...{\r}
+Dialogue: 0,0:26:12.69,0:26:15.23,Default,,0000,0000,0000,,{\blur3}你就会基本上像一只气球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you would be like, basically, in a balloon...{\r}
+Dialogue: 0,0:26:15.28,0:26:16.65,Default,,0000,0000,0000,,{\blur3}无法动弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you couldn't move.{\r}
+Dialogue: 0,0:26:19.20,0:26:21.45,Default,,0000,0000,0000,,{\blur3}由于低气压 就像是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}With low pressure, just like a climber...{\r}
+Dialogue: 0,0:26:21.49,0:26:23.49,Default,,0000,0000,0000,,{\blur3}珠峰稀薄空气中的登山者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the thin atmosphere of Mount Everest...{\r}
+Dialogue: 0,0:26:23.54,0:26:28.25,Default,,0000,0000,0000,,{\blur3}宇航员需要吸入高燃度的纯氧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronauts need to breathe highly flammable 100 percent oxygen.{\r}
+Dialogue: 0,0:26:33.75,0:26:35.55,Default,,0000,0000,0000,,{\blur3}这是宇航服的手臂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is an arm from the spacesuit.{\r}
+Dialogue: 0,0:26:35.59,0:26:39.34,Default,,0000,0000,0000,,{\blur3}它焚毁于1980年约翰逊航天中心的一场大火{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was burned up in a fire in 1980 at Johnson Space Center...{\r}
+Dialogue: 0,0:26:39.38,0:26:41.22,Default,,0000,0000,0000,,{\blur3}那只是一些检查测试{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just doing some checkout tests...{\r}
+Dialogue: 0,0:26:41.26,0:26:43.89,Default,,0000,0000,0000,,{\blur3}加压系统带有两个不同氧源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pressurizing the system with the two different oxygen sources...{\r}
+Dialogue: 0,0:26:44.81,0:26:49.73,Default,,0000,0000,0000,,{\blur3}大火发生时 要知道 相当震惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and when this fire occurred, it was, you know, quite a shock.{\r}
+Dialogue: 0,0:26:49.77,0:26:51.90,Default,,0000,0000,0000,,{\blur3}大家就站在它旁边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}People were standing nearby it...{\r}
+Dialogue: 0,0:26:51.94,0:26:54.90,Default,,0000,0000,0000,,{\blur3}曾以为有人会穿上宇航服在第二天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and someone was supposed to be in the suit the next day...{\r}
+Dialogue: 0,0:26:54.94,0:26:56.61,Default,,0000,0000,0000,,{\blur3}进行载人测试{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for a manned test.{\r}
+Dialogue: 0,0:26:56.65,0:26:58.44,Default,,0000,0000,0000,,{\blur3}它经受住了致命的大火{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it could've been a fatal fire.{\r}
+Dialogue: 0,0:26:58.49,0:27:03.37,Default,,0000,0000,0000,,{\blur3}即使这样 这套服装在当时还是价值310万美元{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even as it is, this suit is worth, at the time, $3.1 million.{\r}
+Dialogue: 0,0:27:03.41,0:27:07.12,Default,,0000,0000,0000,,{\blur3}它还花了航天局2000万美元从这场大火中复原{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it also took NASA $20 million to recover from this fire...{\r}
+Dialogue: 0,0:27:07.16,0:27:08.66,Default,,0000,0000,0000,,{\blur3}目的是为了重新设计服装{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in terms of redesigning the suit.{\r}
+Dialogue: 0,0:27:10.58,0:27:14.88,Default,,0000,0000,0000,,{\blur3}舱外活动还有其它危险因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Extra-vehicular activity is dangerous for many other reasons as well.{\r}
+Dialogue: 0,0:27:14.92,0:27:19.38,Default,,0000,0000,0000,,{\blur3}事实上 世界上首次太空行走几乎终结于灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, the world's first spacewalk almost ended in disaster.{\r}
+Dialogue: 0,0:27:20.93,0:27:23.09,Default,,0000,0000,0000,,{\blur3}阿列克谢.列昂诺夫在1965年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Alexei Leonov did the first spacewalk...{\r}
+Dialogue: 0,0:27:23.14,0:27:25.14,Default,,0000,0000,0000,,{\blur3}进行了史无前例的首次太空行走{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that any human did in 1965.{\r}
+Dialogue: 0,0:27:27.27,0:27:31.89,Default,,0000,0000,0000,,{\blur3}但是在匆忙完成那个空间壮举{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But in the rush to accomplish that space spectacular...{\r}
+Dialogue: 0,0:27:31.94,0:27:33.81,Default,,0000,0000,0000,,{\blur3}从而击败老美的过程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and thereby beat the Americans...{\r}
+Dialogue: 0,0:27:33.86,0:27:38.23,Default,,0000,0000,0000,,{\blur3}苏联人对宇航员的安全走了一些捷径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Soviets took some shortcuts on the safety of the cosmonaut...{\r}
+Dialogue: 0,0:27:38.28,0:27:40.61,Default,,0000,0000,0000,,{\blur3}所以他就像是个充足气的米其林人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and so he blew up like the Michelin Man.{\r}
+Dialogue: 0,0:27:41.78,0:27:43.49,Default,,0000,0000,0000,,{\blur3}太空服变得很僵硬{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The suit became rigid.{\r}
+Dialogue: 0,0:27:43.53,0:27:45.41,Default,,0000,0000,0000,,{\blur3}它无法处理里面的可呼吸的大气和{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It couldn't handle the pressure differences...{\r}
+Dialogue: 0,0:27:45.45,0:27:50.12,Default,,0000,0000,0000,,{\blur3}真空之间的压差{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}between the breathable atmosphere inside and the vacuum of space.{\r}
+Dialogue: 0,0:27:50.16,0:27:52.46,Default,,0000,0000,0000,,{\blur3}问题在于 你登上了飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The problem is, is you've got a spacecraft...{\r}
+Dialogue: 0,0:27:52.50,0:27:56.34,Default,,0000,0000,0000,,{\blur3}联盟号密封舱是很小的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the Soyuz capsule that he was flying, that's very small...{\r}
+Dialogue: 0,0:27:56.38,0:28:00.71,Default,,0000,0000,0000,,{\blur3}其舱口还要非常小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the hatch for it is even smaller.{\r}
+Dialogue: 0,0:28:00.76,0:28:03.30,Default,,0000,0000,0000,,{\blur3}最后 他的反应就是放掉一点气了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ultimately, his response was to let a little bit of the air out...{\r}
+Dialogue: 0,0:28:07.06,0:28:08.43,Default,,0000,0000,0000,,{\blur3}把东西缩到足够小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and just deflate the thing enough...{\r}
+Dialogue: 0,0:28:08.47,0:28:10.93,Default,,0000,0000,0000,,{\blur3}这样就能够爬行通过舱口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that he can crawl back in through the hatch.{\r}
+Dialogue: 0,0:28:10.98,0:28:13.52,Default,,0000,0000,0000,,{\blur3}然而他会告诉你 那天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But he will tell you that to this day...{\r}
+Dialogue: 0,0:28:13.56,0:28:15.81,Default,,0000,0000,0000,,{\blur3}他无法肯定他能否做到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that he wasn't sure he'd be able to make it.{\r}
+Dialogue: 0,0:28:18.98,0:28:22.24,Default,,0000,0000,0000,,{\blur3}一个宇航员 比如列昂诺夫 不得不减小压力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An astronaut having, like Leonov, to let the pressure out...{\r}
+Dialogue: 0,0:28:22.28,0:28:25.49,Default,,0000,0000,0000,,{\blur3}为了在里头能够机动 其情况类似于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in order to be able to maneuver in it is in the same situation...{\r}
+Dialogue: 0,0:28:25.53,0:28:30.37,Default,,0000,0000,0000,,{\blur3}潜水员快速从深水区升上来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as a diver ascending from deep water too quickly.{\r}
+Dialogue: 0,0:28:30.41,0:28:34.37,Default,,0000,0000,0000,,{\blur3}氮气泡会在你的血液里形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nitrogen bubbles will form in your bloodstream...{\r}
+Dialogue: 0,0:28:34.42,0:28:36.88,Default,,0000,0000,0000,,{\blur3}不光是痛苦 它们还会夺走你的生命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and not only be painful, they'll kill you.{\r}
+Dialogue: 0,0:28:36.92,0:28:40.96,Default,,0000,0000,0000,,{\blur3}在舱外 一个看似简单的事情 诸如未扣紧绳子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And during EVAs, a simple thing, such as an unsecured tether...{\r}
+Dialogue: 0,0:28:41.01,0:28:45.76,Default,,0000,0000,0000,,{\blur3}或紧急推进器未点火 都会导致灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or a misfiring emergency thruster, can also spell disaster.{\r}
+Dialogue: 0,0:28:49.51,0:28:52.10,Default,,0000,0000,0000,,{\blur3}在航天器外进行漫步{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Being outside of a spacecraft on a spacewalk...{\r}
+Dialogue: 0,0:28:52.14,0:28:55.52,Default,,0000,0000,0000,,{\blur3}是宇航员在轨道上做的最危险的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is the most dangerous thing an astronaut in orbit can do.{\r}
+Dialogue: 0,0:28:55.56,0:28:57.73,Default,,0000,0000,0000,,{\blur3}走错一步就会送命{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One false move can be deadly...{\r}
+Dialogue: 0,0:28:57.77,0:29:01.53,Default,,0000,0000,0000,,{\blur3}尤其是错误的一步让你远离了飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially if that false move takes you away from the spacecraft.{\r}
+Dialogue: 0,0:29:03.03,0:29:04.03,Default,,0000,0000,0000,,{\blur3}这里有个例子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was an instance...{\r}
+Dialogue: 0,0:29:04.07,0:29:06.53,Default,,0000,0000,0000,,{\blur3}在俄罗斯的空间站礼炮号上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on one of the Russian space stations, the Salyut...{\r}
+Dialogue: 0,0:29:06.57,0:29:10.03,Default,,0000,0000,0000,,{\blur3}有一个航天员未被拴住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where one of the crew members was not tethered...{\r}
+Dialogue: 0,0:29:10.08,0:29:14.83,Default,,0000,0000,0000,,{\blur3}他在气闸区里观察其他成员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he was in the airlock area, watching the other crew member...{\r}
+Dialogue: 0,0:29:14.87,0:29:16.25,Default,,0000,0000,0000,,{\blur3}他缓慢地漂移出去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he slowly started to drift out...{\r}
+Dialogue: 0,0:29:16.29,0:29:19.33,Default,,0000,0000,0000,,{\blur3}其他宇航员看到后 赶紧抓住了他{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the other cosmonaut saw him and grabbed him.{\r}
+Dialogue: 0,0:29:19.38,0:29:21.67,Default,,0000,0000,0000,,{\blur3}太空中无拘无束的人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An untethered person in space...{\r}
+Dialogue: 0,0:29:21.71,0:29:25.51,Default,,0000,0000,0000,,{\blur3}没有适当的推进系统来返回{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without appropriate propulsion system to get back...{\r}
+Dialogue: 0,0:29:25.55,0:29:27.55,Default,,0000,0000,0000,,{\blur3}将是极其危险的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be very, very serious.{\r}
+Dialogue: 0,0:29:27.59,0:29:29.64,Default,,0000,0000,0000,,{\blur3}我的意思是 基本上你会失踪的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I mean, basically, you're lost at sea.{\r}
+Dialogue: 0,0:29:31.72,0:29:34.93,Default,,0000,0000,0000,,{\blur3}即使有推进系统 它也可能失败{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even with a propulsion system, it can fail...{\r}
+Dialogue: 0,0:29:34.98,0:29:37.35,Default,,0000,0000,0000,,{\blur3}或耗尽有限的推进燃料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or run out of its limited propellant supply...{\r}
+Dialogue: 0,0:29:37.40,0:29:40.31,Default,,0000,0000,0000,,{\blur3}而宇航员还未抵达安全地带{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before the astronaut reaches safety.{\r}
+Dialogue: 0,0:29:40.36,0:29:43.57,Default,,0000,0000,0000,,{\blur3}宇航员在太空中只会飘起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The astronaut will simply keep floating off into space.{\r}
+Dialogue: 0,0:29:44.74,0:29:48.03,Default,,0000,0000,0000,,{\blur3}国际空间站是无法相互追逐的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The International Space Station is unable to chase someone down.{\r}
+Dialogue: 0,0:29:48.07,0:29:50.20,Default,,0000,0000,0000,,{\blur3}如果航天飞机对接{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if the shuttle were docked...{\r}
+Dialogue: 0,0:29:50.24,0:29:53.41,Default,,0000,0000,0000,,{\blur3}需要很长时间来驶离和组织营救{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it would take too long to undock and mount a rescue.{\r}
+Dialogue: 0,0:29:55.00,0:29:56.75,Default,,0000,0000,0000,,{\blur3}在这种噩梦里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this nightmare scenario...{\r}
+Dialogue: 0,0:29:56.79,0:30:00.50,Default,,0000,0000,0000,,{\blur3}宇航员有可能只剩余几个小时的氧气供应{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the astronaut will likely have several hours of oxygen remaining...{\r}
+Dialogue: 0,0:30:00.54,0:30:02.50,Default,,0000,0000,0000,,{\blur3}来坚持到最后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to contemplate the end.{\r}
+Dialogue: 0,0:30:02.55,0:30:07.26,Default,,0000,0000,0000,,{\blur3}只要航天服完好无损 压力不是个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As long as the suit is intact, pressure will not be an issue.{\r}
+Dialogue: 0,0:30:07.30,0:30:09.09,Default,,0000,0000,0000,,{\blur3}要么是氧气耗尽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Either the oxygen will run out...{\r}
+Dialogue: 0,0:30:09.14,0:30:12.39,Default,,0000,0000,0000,,{\blur3}要么是系统 排除呼出的二氧化碳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the system, which removes exhaled carbon dioxide...{\r}
+Dialogue: 0,0:30:12.43,0:30:14.35,Default,,0000,0000,0000,,{\blur3}停止了工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will stop working.{\r}
+Dialogue: 0,0:30:14.39,0:30:17.14,Default,,0000,0000,0000,,{\blur3}无论什么 宇航员都会窒息而亡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Either way, the astronaut will suffocate...{\r}
+Dialogue: 0,0:30:17.19,0:30:20.10,Default,,0000,0000,0000,,{\blur3}永远漂浮在虚无的太空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and continue floating into the emptiness of space.{\r}
+Dialogue: 0,0:30:22.57,0:30:25.90,Default,,0000,0000,0000,,{\blur3}微流星体 可以摧毁太空殖民地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The same micrometeoroids that can devastate space colonies...{\r}
+Dialogue: 0,0:30:25.94,0:30:28.86,Default,,0000,0000,0000,,{\blur3}同时也对太空行走乃至整个航天器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also pose a lethal threat to spacewalks...{\r}
+Dialogue: 0,0:30:28.91,0:30:31.20,Default,,0000,0000,0000,,{\blur3}构成了致命的威胁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and entire spacecraft.{\r}
+Dialogue: 0,0:30:31.24,0:30:33.41,Default,,0000,0000,0000,,{\blur3}此外 在低地球轨道上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Plus, in low-Earth orbit...{\r}
+Dialogue: 0,0:30:33.45,0:30:37.96,Default,,0000,0000,0000,,{\blur3}这些岩石小家伙有着自己的商号: 太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these rocky little gremlins have company: space junk.{\r}
+Dialogue: 0,0:30:38.00,0:30:40.54,Default,,0000,0000,0000,,{\blur3}所有这些东西奔跑的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And all of these things are racing around...{\r}
+Dialogue: 0,0:30:40.58,0:30:43.75,Default,,0000,0000,0000,,{\blur3}超过了时速2.2万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at over 22,000 miles an hour.{\r}
+Dialogue: 0,0:30:43.80,0:30:47.63,Default,,0000,0000,0000,,{\blur3}在那样的速度下 只有一英寸大的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At these speeds, objects that are only a fraction of an inch wide...{\r}
+Dialogue: 0,0:30:47.67,0:30:49.09,Default,,0000,0000,0000,,{\blur3}都可能是致命的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be deadly.{\r}
+Dialogue: 0,0:30:50.30,0:30:52.18,Default,,0000,0000,0000,,{\blur3}穿行太空的微流星体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A micrometeoroid flying through space...{\r}
+Dialogue: 0,0:30:52.22,0:30:54.47,Default,,0000,0000,0000,,{\blur3}很像是空中划过的高尔夫球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a lot like a golf ball flying through the air...{\r}
+Dialogue: 0,0:30:54.51,0:30:55.60,Default,,0000,0000,0000,,{\blur3}具有以下差异:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with these differences:{\r}
+Dialogue: 0,0:30:55.64,0:30:58.60,Default,,0000,0000,0000,,{\blur3}微流星体要小得多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the micrometeoroid is much, much smaller.{\r}
+Dialogue: 0,0:30:58.64,0:31:00.85,Default,,0000,0000,0000,,{\blur3}因为它超高速飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And because it travels at hypervelocity...{\r}
+Dialogue: 0,0:31:00.90,0:31:03.15,Default,,0000,0000,0000,,{\blur3}在其撞击时破坏力极大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's far more destructive when it hits.{\r}
+Dialogue: 0,0:31:05.98,0:31:09.28,Default,,0000,0000,0000,,{\blur3}一旦微流星体击中你的航天服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf a micrometeoroid hits your spacesuit...{\r}
+Dialogue: 0,0:31:09.32,0:31:10.45,Default,,0000,0000,0000,,{\blur3}就会打出一个洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's going to put a hole in it.{\r}
+Dialogue: 0,0:31:10.49,0:31:14.70,Default,,0000,0000,0000,,{\blur3}你是无法修补的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You don't have reach or the ability to patch or fix it.{\r}
+Dialogue: 0,0:31:15.66,0:31:19.62,Default,,0000,0000,0000,,{\blur3}除非你旁边有个宇航员伙伴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Unless you've got a fellow astronaut right there...{\r}
+Dialogue: 0,0:31:19.66,0:31:20.66,Default,,0000,0000,0000,,{\blur3}否则你完蛋了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you're going to die.{\r}
+Dialogue: 0,0:31:20.71,0:31:22.96,Default,,0000,0000,0000,,{\blur3}你的空气将迅速泄漏光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Your air is going to leak out fairly quickly.{\r}
+Dialogue: 0,0:31:23.00,0:31:24.00,Default,,0000,0000,0000,,{\blur3}将会大量涌出{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's going to gush out.{\r}
+Dialogue: 0,0:31:24.04,0:31:26.67,Default,,0000,0000,0000,,{\blur3}你的血液会沸腾 就这么回事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Your blood's going to boil. That's going to be it.{\r}
+Dialogue: 0,0:31:27.51,0:31:30.13,Default,,0000,0000,0000,,{\blur3}是什么导致了血液沸腾?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what causes blood to boil?{\r}
+Dialogue: 0,0:31:30.17,0:31:33.80,Default,,0000,0000,0000,,{\blur3}在太空中 血液沸腾与热量毫无关系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, in space, boiling blood has nothing to do with heat.{\r}
+Dialogue: 0,0:31:33.85,0:31:37.22,Default,,0000,0000,0000,,{\blur3}完全在于突然失压{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's all about the sudden lack of atmospheric pressure.{\r}
+Dialogue: 0,0:31:39.31,0:31:42.19,Default,,0000,0000,0000,,{\blur3}血液沸腾的说法其实属于用词不当{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The idea that blood boils is really a misnomer.{\r}
+Dialogue: 0,0:31:42.23,0:31:43.31,Default,,0000,0000,0000,,{\blur3}你体内的液体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The liquid in your body...{\r}
+Dialogue: 0,0:31:43.35,0:31:46.06,Default,,0000,0000,0000,,{\blur3}会从液态变成气态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}goes from a liquid state to a gaseous state.{\r}
+Dialogue: 0,0:31:47.57,0:31:49.28,Default,,0000,0000,0000,,{\blur3}有好多故事 说的是外太空中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There have been many tales about what happens...{\r}
+Dialogue: 0,0:31:49.32,0:31:50.94,Default,,0000,0000,0000,,{\blur3}未受保护之人的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to an unprotected person in outer space.{\r}
+Dialogue: 0,0:31:52.41,0:31:54.41,Default,,0000,0000,0000,,{\blur3}这是个真实的故事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here's the real story.{\r}
+Dialogue: 0,0:31:54.45,0:31:58.54,Default,,0000,0000,0000,,{\blur3}由于太空的真空进入了太空行走者破损的服装{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the vacuum of space fills the spacewalker's leaking suit...{\r}
+Dialogue: 0,0:31:58.58,0:32:01.96,Default,,0000,0000,0000,,{\blur3}舌头和眼睛的液体部分开始起泡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the liquid parts of the tongue and eyes begin to bubble...{\r}
+Dialogue: 0,0:32:02.00,0:32:04.25,Default,,0000,0000,0000,,{\blur3}此外还有唾液 体液以及血液{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}along with all of the saliva, internal fluids, and blood.{\r}
+Dialogue: 0,0:32:06.46,0:32:08.13,Default,,0000,0000,0000,,{\blur3}由于血液转变成气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As the blood turns to gas...{\r}
+Dialogue: 0,0:32:08.17,0:32:12.67,Default,,0000,0000,0000,,{\blur3}氧气不再输送到大脑和其它部位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}oxygen no longer travels to the brain or anywhere else.{\r}
+Dialogue: 0,0:32:12.72,0:32:15.68,Default,,0000,0000,0000,,{\blur3}大脑在15秒里停止了工作{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The brain shuts down within about 15 seconds...{\r}
+Dialogue: 0,0:32:15.72,0:32:18.31,Default,,0000,0000,0000,,{\blur3}使得受害者丧失了意志{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}leaving the victim unconscious.{\r}
+Dialogue: 0,0:32:18.35,0:32:20.22,Default,,0000,0000,0000,,{\blur3}很快 体内的其它细胞逐一死去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Soon after, the rest of the cells in the body die.{\r}
+Dialogue: 0,0:32:23.48,0:32:25.85,Default,,0000,0000,0000,,{\blur3}极端的温度同样也起了作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Temperature extremes could also play a role...{\r}
+Dialogue: 0,0:32:25.90,0:32:30.36,Default,,0000,0000,0000,,{\blur3}由于阳光照射的地方温度高达华氏250度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}since the sunlit areas of space reach 250 degrees Fahrenheit...{\r}
+Dialogue: 0,0:32:30.40,0:32:32.86,Default,,0000,0000,0000,,{\blur3}而背阴处温度骤降{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the shaded areas quickly plummet...{\r}
+Dialogue: 0,0:32:32.90,0:32:35.49,Default,,0000,0000,0000,,{\blur3}达到零下250度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to 250 degrees below zero.{\r}
+Dialogue: 0,0:32:38.33,0:32:42.50,Default,,0000,0000,0000,,{\blur3}多大的孔对于宇航服才算是大的呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And just how big a hole is too big for a spacesuit?{\r}
+Dialogue: 0,0:32:42.54,0:32:45.04,Default,,0000,0000,0000,,{\blur3}你其实问的是以很少量的材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You're really asking a very small amount of material...{\r}
+Dialogue: 0,0:32:45.08,0:32:48.25,Default,,0000,0000,0000,,{\blur3}来阻止粒子以每秒7公里速度的侵入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to stop a particle that could be coming in at seven kilometers per second.{\r}
+Dialogue: 0,0:32:48.29,0:32:50.71,Default,,0000,0000,0000,,{\blur3}你可以从实验中看到入口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can see the entry hole from the test...{\r}
+Dialogue: 0,0:32:50.76,0:32:53.09,Default,,0000,0000,0000,,{\blur3}它有好多层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it has many, many layers...{\r}
+Dialogue: 0,0:32:53.13,0:32:55.88,Default,,0000,0000,0000,,{\blur3}最里面是所谓的内胆{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}ending with what's called the bladder...{\r}
+Dialogue: 0,0:32:55.93,0:32:57.97,Default,,0000,0000,0000,,{\blur3}这是承压层{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and this is a pressure-retaining layer.{\r}
+Dialogue: 0,0:32:58.01,0:33:00.35,Default,,0000,0000,0000,,{\blur3}这是约2到3毫米的孔{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's about a two to three-millimeter hole.{\r}
+Dialogue: 0,0:33:00.39,0:33:04.73,Default,,0000,0000,0000,,{\blur3}4毫米对于柔软材料做的舱外服来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A four-millimeter for an EVA suit in the soft goods, this material...{\r}
+Dialogue: 0,0:33:04.77,0:33:05.94,Default,,0000,0000,0000,,{\blur3}是灾难性的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would be considered catastrophic.{\r}
+Dialogue: 0,0:33:07.15,0:33:09.23,Default,,0000,0000,0000,,{\blur3}幸运的是 太空中尚无人遭遇到这样的厄运{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Luckily, no one in space has ever suffered this fate.{\r}
+Dialogue: 0,0:33:12.94,0:33:16.91,Default,,0000,0000,0000,,{\blur3}撞击也会造成更为隐蔽的麻烦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Impacts can also cause trouble in sneakier ways.{\r}
+Dialogue: 0,0:33:16.95,0:33:19.95,Default,,0000,0000,0000,,{\blur3}因而航天局在地球上不遗余力地模拟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So NASA goes to great lengths to simulate different types...{\r}
+Dialogue: 0,0:33:19.99,0:33:23.29,Default,,0000,0000,0000,,{\blur3}微流星体的破坏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of micrometeoroid damage down on Earth.{\r}
+Dialogue: 0,0:33:24.71,0:33:27.50,Default,,0000,0000,0000,,{\blur3}新墨西哥州的白沙测试基地的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Researchers inside the Hypervelocity Building...{\r}
+Dialogue: 0,0:33:27.54,0:33:30.25,Default,,0000,0000,0000,,{\blur3}超高速大楼里的研究人员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the White Sands test facility in New Mexico...{\r}
+Dialogue: 0,0:33:30.29,0:33:34.42,Default,,0000,0000,0000,,{\blur3}利用压缩氢气枪来制造撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}create impacts using compressed hydrogen gas guns.{\r}
+Dialogue: 0,0:33:34.47,0:33:36.97,Default,,0000,0000,0000,,{\blur3}这些枪无疑会产生热量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These guns definitely bring the heat...{\r}
+Dialogue: 0,0:33:37.01,0:33:39.93,Default,,0000,0000,0000,,{\blur3}以时速1.9万英里将物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}shooting objects up to 19,000 miles per hour...{\r}
+Dialogue: 0,0:33:39.97,0:33:43.52,Default,,0000,0000,0000,,{\blur3}射向航天飞机以及空间站的部件 以评估其危害{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at shuttle and space station parts to assess the damage.{\r}
+Dialogue: 0,0:33:45.14,0:33:48.52,Default,,0000,0000,0000,,{\blur3}以那样的速度 你从洛杉矶到纽约{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At that velocity, you can get from Los Angeles to New York...{\r}
+Dialogue: 0,0:33:48.56,0:33:50.19,Default,,0000,0000,0000,,{\blur3}只要约8分钟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in about eight minutes.{\r}
+Dialogue: 0,0:33:51.23,0:33:53.19,Default,,0000,0000,0000,,{\blur3}我们今天所进行的测试{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The testing that we're going to perform today...{\r}
+Dialogue: 0,0:33:53.23,0:33:57.45,Default,,0000,0000,0000,,{\blur3}是对一个国际空间站的把手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is on an International Space Station handle that the astronauts use...{\r}
+Dialogue: 0,0:33:57.49,0:33:59.45,Default,,0000,0000,0000,,{\blur3}那是宇航员在空间站外用的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the outside of the space station...{\r}
+Dialogue: 0,0:33:59.49,0:34:03.04,Default,,0000,0000,0000,,{\blur3}目的是安全地横跨空间站{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in order to transverse around the space station safely.{\r}
+Dialogue: 0,0:34:03.08,0:34:05.79,Default,,0000,0000,0000,,{\blur3}有几个宇航员已经被割破了手套{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Several astronauts have cut their gloves severely.{\r}
+Dialogue: 0,0:34:05.83,0:34:07.46,Default,,0000,0000,0000,,{\blur3}这引起了航天局的高度关注{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is a great concern to NASA...{\r}
+Dialogue: 0,0:34:07.50,0:34:10.50,Default,,0000,0000,0000,,{\blur3}因为他们当时设计空间站时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because when they designed the space station...{\r}
+Dialogue: 0,0:34:10.54,0:34:13.96,Default,,0000,0000,0000,,{\blur3}他们非常仔细地去除了锋利的边缘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they are very careful to eliminate all sharp edges...{\r}
+Dialogue: 0,0:34:14.01,0:34:15.92,Default,,0000,0000,0000,,{\blur3}因为你不想看到有东西钩住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because you don't want something snagging...{\r}
+Dialogue: 0,0:34:15.97,0:34:17.51,Default,,0000,0000,0000,,{\blur3}宇航员的宇航服{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the astronauts' spacesuits...{\r}
+Dialogue: 0,0:34:17.55,0:34:20.34,Default,,0000,0000,0000,,{\blur3}拉出口子 终止任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and creating a hole and ending a mission.{\r}
+Dialogue: 0,0:34:21.89,0:34:24.85,Default,,0000,0000,0000,,{\blur3}技术人员在靶室里安装好把手{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Technicians mount the handle in the target chamber...{\r}
+Dialogue: 0,0:34:24.89,0:34:29.10,Default,,0000,0000,0000,,{\blur3}在支座上放上1/32英寸大小的小弹丸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}place the tiny 1/32-of-an-inch-wide projectile within a holder...{\r}
+Dialogue: 0,0:34:29.15,0:34:31.23,Default,,0000,0000,0000,,{\blur3}它会在发射后立马破碎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that will disintegrate once fired...{\r}
+Dialogue: 0,0:34:31.27,0:34:33.94,Default,,0000,0000,0000,,{\blur3}然后在枪膛里装上火药{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then add gunpowder to the breech.{\r}
+Dialogue: 0,0:34:36.03,0:34:39.78,Default,,0000,0000,0000,,{\blur3}我们用火药来推动活塞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We take gunpowder and propel a piston...{\r}
+Dialogue: 0,0:34:39.82,0:34:44.37,Default,,0000,0000,0000,,{\blur3}以每平方英寸10磅的压力来压缩氢气{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which compresses hydrogen gas up to about 100,000 PSI.{\r}
+Dialogue: 0,0:34:44.41,0:34:48.46,Default,,0000,0000,0000,,{\blur3}高压气体加速弹丸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's that highly compressed gas that accelerates the projectiles...{\r}
+Dialogue: 0,0:34:48.50,0:34:51.33,Default,,0000,0000,0000,,{\blur3}从零加速到时速1.9万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from zero to 19,000 miles per hour.{\r}
+Dialogue: 0,0:34:51.38,0:34:53.67,Default,,0000,0000,0000,,{\blur3}我们用上了三种不同类型的相机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We use three different types of cameras.{\r}
+Dialogue: 0,0:34:53.71,0:34:58.01,Default,,0000,0000,0000,,{\blur3}一个是抓拍 另一个拍摄电影{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One takes a snapshot, another one takes a film...{\r}
+Dialogue: 0,0:34:58.05,0:35:00.68,Default,,0000,0000,0000,,{\blur3}第三个是数码相机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the third type is a digital camera...{\r}
+Dialogue: 0,0:35:00.72,0:35:04.72,Default,,0000,0000,0000,,{\blur3}以每秒2亿帧的速度拍摄16帧画面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which takes 16 frames at 200 million frames per second.{\r}
+Dialogue: 0,0:35:06.64,0:35:09.73,Default,,0000,0000,0000,,{\blur3}技术员撤除了背后防爆罩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The technicians retreat behind a blast shield...{\r}
+Dialogue: 0,0:35:09.77,0:35:11.27,Default,,0000,0000,0000,,{\blur3}准备发射{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and prepare to fire.{\r}
+Dialogue: 0,0:35:11.31,0:35:14.36,Default,,0000,0000,0000,,{\blur3}舱体里已经抽去了氧气和其他气体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The chamber is cleared of oxygen and other gases...{\r}
+Dialogue: 0,0:35:14.40,0:35:17.03,Default,,0000,0000,0000,,{\blur3}以模拟外太空的真空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to simulate the vacuum of outer space.{\r}
+Dialogue: 0,0:35:22.74,0:35:24.53,Default,,0000,0000,0000,,{\blur3}现在见真章了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now the moment of truth.{\r}
+Dialogue: 0,0:35:24.58,0:35:28.62,Default,,0000,0000,0000,,{\blur3}这个模拟微流星体究竟会造成多大的危害呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How much damage did this simulated micrometeoroid cause?{\r}
+Dialogue: 0,0:35:30.71,0:35:31.92,Default,,0000,0000,0000,,{\blur3}即使是个很小的撞击{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even though it is a small impact...{\r}
+Dialogue: 0,0:35:31.96,0:35:36.04,Default,,0000,0000,0000,,{\blur3}也会对一定的结构产生一定的裂口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there's enough of a lip with enough structure...{\r}
+Dialogue: 0,0:35:36.09,0:35:40.38,Default,,0000,0000,0000,,{\blur3}因此宇航员也会被这样的裂口钩住手套{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that an astronaut could catch their glove on such a lip...{\r}
+Dialogue: 0,0:35:40.42,0:35:42.88,Default,,0000,0000,0000,,{\blur3}扯破手套{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and cause a tear in their glove.{\r}
+Dialogue: 0,0:35:44.10,0:35:47.22,Default,,0000,0000,0000,,{\blur3}如果弹丸只有1/32英寸宽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And if a projectile only 1/32 of an inch wide...{\r}
+Dialogue: 0,0:35:47.27,0:35:49.22,Default,,0000,0000,0000,,{\blur3}就会产生这种伤害的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can cause this type of damage...{\r}
+Dialogue: 0,0:35:49.27,0:35:52.31,Default,,0000,0000,0000,,{\blur3}你难道不认为更大的物体也是如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you won't believe what a larger object can do.{\r}
+Dialogue: 0,0:35:55.19,0:35:58.44,Default,,0000,0000,0000,,{\blur3}在新墨西哥的航天局白沙测试基地里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the NASA White Sands Test Facility in New Mexico...{\r}
+Dialogue: 0,0:35:58.48,0:36:02.90,Default,,0000,0000,0000,,{\blur3}研究人员将小弹丸装进了大炮里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}researchers load small projectiles into huge guns.{\r}
+Dialogue: 0,0:36:02.95,0:36:07.78,Default,,0000,0000,0000,,{\blur3}这些弹丸用来模拟微流星体和太空垃圾{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The projectiles simulate micrometeoroids and space junk.{\r}
+Dialogue: 0,0:36:07.83,0:36:12.66,Default,,0000,0000,0000,,{\blur3}它们以时速1.9万英里撞击航天飞机部件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They slam into spacecraft parts at up to 19,000 miles an hour...{\r}
+Dialogue: 0,0:36:12.71,0:36:14.37,Default,,0000,0000,0000,,{\blur3}在地球上制造灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}creating disasters on Earth...{\r}
+Dialogue: 0,0:36:14.42,0:36:17.09,Default,,0000,0000,0000,,{\blur3}以更好地了解太空中的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to better understand disasters in space.{\r}
+Dialogue: 0,0:36:18.17,0:36:20.51,Default,,0000,0000,0000,,{\blur3}在这种惊人的高速下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At such incredibly high speeds...{\r}
+Dialogue: 0,0:36:20.55,0:36:24.47,Default,,0000,0000,0000,,{\blur3}很小的物体都会造成极大的麻烦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a very small object can cause very big trouble.{\r}
+Dialogue: 0,0:36:26.85,0:36:29.31,Default,,0000,0000,0000,,{\blur3}我现在是在我们最大的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm standing inside of our largest target chamber...{\r}
+Dialogue: 0,0:36:29.35,0:36:30.56,Default,,0000,0000,0000,,{\blur3}一英寸大炮的靶室里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our one-inch gun.{\r}
+Dialogue: 0,0:36:30.60,0:36:32.81,Default,,0000,0000,0000,,{\blur3}这炮有175英尺长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The gun is 175 feet long...{\r}
+Dialogue: 0,0:36:32.85,0:36:36.35,Default,,0000,0000,0000,,{\blur3}可以发射3/4英寸大小的弹丸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and can launch up to a 3/4-inch-sized projectile.{\r}
+Dialogue: 0,0:36:36.40,0:36:37.77,Default,,0000,0000,0000,,{\blur3}我手里拿的靶子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm holding a target...{\r}
+Dialogue: 0,0:36:37.82,0:36:40.40,Default,,0000,0000,0000,,{\blur3}是被5/8英寸的弹丸撞击的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that was impacted with a 5/8-inch projectile.{\r}
+Dialogue: 0,0:36:40.44,0:36:43.28,Default,,0000,0000,0000,,{\blur3}你可以看到 这是射入口{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as you can see, this is the entry hole...{\r}
+Dialogue: 0,0:36:43.32,0:36:45.99,Default,,0000,0000,0000,,{\blur3}它整个穿透了这个测试部件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it went all the way through the test article.{\r}
+Dialogue: 0,0:36:46.03,0:36:50.66,Default,,0000,0000,0000,,{\blur3}这种规模的撞击在太空中是个灾难性的事件{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An impact of this size would be a catastrophic event in space.{\r}
+Dialogue: 0,0:36:55.92,0:36:58.46,Default,,0000,0000,0000,,{\blur3}国际空间站的宇航员赖以生存的唯一指望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The only hope the International Space Station crew...{\r}
+Dialogue: 0,0:36:58.50,0:37:02.42,Default,,0000,0000,0000,,{\blur3}就是戴上紧急呼吸面罩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have for survival is to put on emergency breathing masks...{\r}
+Dialogue: 0,0:37:02.47,0:37:04.34,Default,,0000,0000,0000,,{\blur3}进入返回舱{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and head to the reentry capsule.{\r}
+Dialogue: 0,0:37:05.51,0:37:08.89,Default,,0000,0000,0000,,{\blur3}不足一英寸的物体就可以迫使他们放弃{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}An object less than an inch wide would have forced them to abandon...{\r}
+Dialogue: 0,0:37:08.93,0:37:11.47,Default,,0000,0000,0000,,{\blur3}这个价值数十亿美元的设施{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this multi-billion-dollar facility.{\r}
+Dialogue: 0,0:37:15.60,0:37:17.52,Default,,0000,0000,0000,,{\blur3}那种情景就是为何宇航员去空间站外面{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That type of scenario is the reason why...{\r}
+Dialogue: 0,0:37:17.56,0:37:20.86,Default,,0000,0000,0000,,{\blur3}要不断增加额外的保护层的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}crews are constantly adding extra layers of protection...{\r}
+Dialogue: 0,0:37:20.90,0:37:22.32,Default,,0000,0000,0000,,{\blur3}原因所在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the outside of the space station.{\r}
+Dialogue: 0,0:37:26.49,0:37:29.20,Default,,0000,0000,0000,,{\blur3}对于另一类空间碰撞 我们只能怪罪自己{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For another type of space collision, we have only ourselves to blame.{\r}
+Dialogue: 0,0:37:31.08,0:37:34.00,Default,,0000,0000,0000,,{\blur3}1997年 一名俄罗斯宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In 1997, a Russian cosmonaut...{\r}
+Dialogue: 0,0:37:34.04,0:37:36.41,Default,,0000,0000,0000,,{\blur3}遇上了一个险情 当时他在引导无人驾驶货运飞船{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}had trouble guiding an unmanned cargo craft...{\r}
+Dialogue: 0,0:37:36.46,0:37:38.33,Default,,0000,0000,0000,,{\blur3}与和平号空间站的对接{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to its docking point with the Mir Space Station.{\r}
+Dialogue: 0,0:37:40.54,0:37:41.67,Default,,0000,0000,0000,,{\blur3}现在 我们知道在航空上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, we know in aviation...{\r}
+Dialogue: 0,0:37:41.71,0:37:44.97,Default,,0000,0000,0000,,{\blur3}七成的意外人为造成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that 70 percent of the accidents are human-related.{\r}
+Dialogue: 0,0:37:45.01,0:37:46.84,Default,,0000,0000,0000,,{\blur3}因此 无需惊讶 你会认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it wouldn't surprise you to think...{\r}
+Dialogue: 0,0:37:46.88,0:37:52.10,Default,,0000,0000,0000,,{\blur3}人类同样是太空意外事故中的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that humans have also a big role in accidents...{\r}
+Dialogue: 0,0:37:52.14,0:37:54.60,Default,,0000,0000,0000,,{\blur3}主要因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and mishaps in space.{\r}
+Dialogue: 0,0:37:54.64,0:37:57.69,Default,,0000,0000,0000,,{\blur3}和平号碰撞实际上是因为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The Mir collision actually was because...{\r}
+Dialogue: 0,0:37:57.73,0:38:01.52,Default,,0000,0000,0000,,{\blur3}有一名宇航员抱怨没有充分训练{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a crew member complained that he wasn't trained enough...{\r}
+Dialogue: 0,0:38:01.57,0:38:03.65,Default,,0000,0000,0000,,{\blur3}进行对接{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to do the rendezvous...{\r}
+Dialogue: 0,0:38:03.69,0:38:07.57,Default,,0000,0000,0000,,{\blur3}而地面控制人员则坚持 "不管怎样你都得进行"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the ground control team said, "Well, you have to do it anyway."{\r}
+Dialogue: 0,0:38:10.07,0:38:12.37,Default,,0000,0000,0000,,{\blur3}撞击发生了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The hit occurred.{\r}
+Dialogue: 0,0:38:12.41,0:38:14.74,Default,,0000,0000,0000,,{\blur3}它造成了舱压泄漏{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It caused a leak in the cabin pressure...{\r}
+Dialogue: 0,0:38:14.79,0:38:17.21,Default,,0000,0000,0000,,{\blur3}所以他们开始失去舱压{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so now they started to lose cabin pressure.{\r}
+Dialogue: 0,0:38:17.25,0:38:20.38,Default,,0000,0000,0000,,{\blur3}于是空间站开始翻滚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then the space station started to tumble.{\r}
+Dialogue: 0,0:38:20.42,0:38:22.21,Default,,0000,0000,0000,,{\blur3}就像是只台球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It was like pool balls.{\r}
+Dialogue: 0,0:38:22.25,0:38:24.55,Default,,0000,0000,0000,,{\blur3}一个撞击另一个 造成了位移{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One hits another, it causes it to move.{\r}
+Dialogue: 0,0:38:24.59,0:38:26.59,Default,,0000,0000,0000,,{\blur3}因此即使是微不足道的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So even a minor thing...{\r}
+Dialogue: 0,0:38:26.63,0:38:28.38,Default,,0000,0000,0000,,{\blur3}不就是控制对接{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just the control of a rendezvous and docking...{\r}
+Dialogue: 0,0:38:28.43,0:38:30.97,Default,,0000,0000,0000,,{\blur3}几乎可以造成灾难性的后果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could have almost catastrophic consequence.{\r}
+Dialogue: 0,0:38:33.06,0:38:35.47,Default,,0000,0000,0000,,{\blur3}不过发生在太空中的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the disasters that have happened in space...{\r}
+Dialogue: 0,0:38:35.52,0:38:36.98,Default,,0000,0000,0000,,{\blur3}相对升空和返回的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}still pale in comparison...{\r}
+Dialogue: 0,0:38:37.02,0:38:40.85,Default,,0000,0000,0000,,{\blur3}可谓是小巫见大巫了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the disasters of getting into space and returning.{\r}
+Dialogue: 0,0:38:40.90,0:38:43.40,Default,,0000,0000,0000,,{\blur3}有一个说法开头50英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is a saying that the first 50 miles...{\r}
+Dialogue: 0,0:38:43.44,0:38:45.07,Default,,0000,0000,0000,,{\blur3}和最后50英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the last 50 miles...{\r}
+Dialogue: 0,0:38:45.11,0:38:48.11,Default,,0000,0000,0000,,{\blur3}是任何一次任务中最危险的部分{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the most dangerous part of any mission.{\r}
+Dialogue: 0,0:38:48.15,0:38:51.16,Default,,0000,0000,0000,,{\blur3}1986年挑战者号发射灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The 1986 Challenger launch disaster...{\r}
+Dialogue: 0,0:38:51.20,0:38:56.33,Default,,0000,0000,0000,,{\blur3}以及2003年哥伦比亚号返回的悲剧就是佐证{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and the 2003 Columbia re-entry tragedy make that clear.{\r}
+Dialogue: 0,0:38:58.58,0:39:01.75,Default,,0000,0000,0000,,{\blur3}然而如果我们要走出太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if we're ever going to travel beyond our solar system...{\r}
+Dialogue: 0,0:39:01.79,0:39:04.38,Default,,0000,0000,0000,,{\blur3}我们就需要超越我们现在的火箭技术{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're going to need to move beyond our current rocket technology.{\r}
+Dialogue: 0,0:39:07.76,0:39:10.93,Default,,0000,0000,0000,,{\blur3}有一种可能性 既刺激又恐惧{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One possibility that both thrills and terrifies...{\r}
+Dialogue: 0,0:39:10.97,0:39:13.51,Default,,0000,0000,0000,,{\blur3}就是所谓的反物质引擎{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is known as an antimatter engine.{\r}
+Dialogue: 0,0:39:14.47,0:39:16.81,Default,,0000,0000,0000,,{\blur3}在巨大的粒子加速器里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Inside massive particle accelerators...{\r}
+Dialogue: 0,0:39:16.85,0:39:20.60,Default,,0000,0000,0000,,{\blur3}科学家已经创造出了微量的反物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists have created minute amounts of antimatter...{\r}
+Dialogue: 0,0:39:20.64,0:39:21.69,Default,,0000,0000,0000,,{\blur3}构成它的原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is made of atoms...{\r}
+Dialogue: 0,0:39:21.73,0:39:25.11,Default,,0000,0000,0000,,{\blur3}所携带的电荷与正常的原子刚好相反{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that have the opposite charges of normal atoms.{\r}
+Dialogue: 0,0:39:25.15,0:39:26.61,Default,,0000,0000,0000,,{\blur3}因而对于反物质来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So with antimatter...{\r}
+Dialogue: 0,0:39:26.65,0:39:30.65,Default,,0000,0000,0000,,{\blur3}电子是正电荷 而质子是负电荷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the electrons are positive and the protons are negative.{\r}
+Dialogue: 0,0:39:30.70,0:39:33.45,Default,,0000,0000,0000,,{\blur3}一旦物质与反物质接触{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When matter and antimatter come into contact...{\r}
+Dialogue: 0,0:39:33.49,0:39:35.12,Default,,0000,0000,0000,,{\blur3}它们会同归于尽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they annihilate each other...{\r}
+Dialogue: 0,0:39:35.16,0:39:38.20,Default,,0000,0000,0000,,{\blur3}释放出巨大的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}releasing tremendous amounts of energy.{\r}
+Dialogue: 0,0:39:38.25,0:39:41.83,Default,,0000,0000,0000,,{\blur3}反物质引擎可以百分之百地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Antimatter engines have a 100 percent conversion rate...{\r}
+Dialogue: 0,0:39:41.87,0:39:44.13,Default,,0000,0000,0000,,{\blur3}将物质转换成能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of matter into energy.{\r}
+Dialogue: 0,0:39:44.17,0:39:46.25,Default,,0000,0000,0000,,{\blur3}要知道 即使是原子弹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Realize that even an atomic bomb...{\r}
+Dialogue: 0,0:39:46.30,0:39:48.55,Default,,0000,0000,0000,,{\blur3}也只有1%的效率{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is only one percent efficient.{\r}
+Dialogue: 0,0:39:49.76,0:39:53.05,Default,,0000,0000,0000,,{\blur3}原子弹中只有1%的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Only one percent of the mass of an atomic bomb...{\r}
+Dialogue: 0,0:39:53.09,0:39:54.26,Default,,0000,0000,0000,,{\blur3}转换成了能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is converted to energy.{\r}
+Dialogue: 0,0:39:54.30,0:39:55.80,Default,,0000,0000,0000,,{\blur3}在反物质引擎中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In an antimatter engine...{\r}
+Dialogue: 0,0:39:55.85,0:39:58.97,Default,,0000,0000,0000,,{\blur3}我们几乎能将其全部的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're talking about nearly 100 percent of the mass...{\r}
+Dialogue: 0,0:39:59.02,0:40:00.60,Default,,0000,0000,0000,,{\blur3}转换成能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}converted into energy.{\r}
+Dialogue: 0,0:40:00.64,0:40:04.90,Default,,0000,0000,0000,,{\blur3}这就是下一个世纪潜在的推进系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It is, for the next century, the propulsion system of choice.{\r}
+Dialogue: 0,0:40:04.94,0:40:06.02,Default,,0000,0000,0000,,{\blur3}不过存在着一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But there's a problem.{\r}
+Dialogue: 0,0:40:07.15,0:40:08.94,Default,,0000,0000,0000,,{\blur3}一茶匙反物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A teaspoon of antimatter...{\r}
+Dialogue: 0,0:40:08.98,0:40:12.57,Default,,0000,0000,0000,,{\blur3}有可能送我们越过太阳系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}might be able to propel us across the solar system...{\r}
+Dialogue: 0,0:40:12.61,0:40:14.70,Default,,0000,0000,0000,,{\blur3}但是同样那一茶匙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that same teaspoon...{\r}
+Dialogue: 0,0:40:14.74,0:40:18.33,Default,,0000,0000,0000,,{\blur3}也具有摧毁整座城市的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}also has the power to destroy an entire city.{\r}
+Dialogue: 0,0:40:19.12,0:40:21.83,Default,,0000,0000,0000,,{\blur3}一旦飞船进入深太空{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And once a spacecraft is out in deep space...{\r}
+Dialogue: 0,0:40:21.87,0:40:26.21,Default,,0000,0000,0000,,{\blur3}简单的事故都会突然决定生与死{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}simple accidents can suddenly tip the balance from life to death.{\r}
+Dialogue: 0,0:40:28.34,0:40:30.67,Default,,0000,0000,0000,,{\blur3}随着我们闯入火星乃至更远{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As we venture to Mars and beyond...{\r}
+Dialogue: 0,0:40:30.71,0:40:33.34,Default,,0000,0000,0000,,{\blur3}行程一次将会持续几年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with journeys lasting years at a time...{\r}
+Dialogue: 0,0:40:33.38,0:40:35.84,Default,,0000,0000,0000,,{\blur3}滞留太空所带来的风险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the chances of becoming stranded in space...{\r}
+Dialogue: 0,0:40:35.89,0:40:37.55,Default,,0000,0000,0000,,{\blur3}将会变得非常的大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will become much greater.{\r}
+Dialogue: 0,0:40:39.52,0:40:40.85,Default,,0000,0000,0000,,{\blur3}举个例子 在飞往火星途中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For example, on a flight to Mars...{\r}
+Dialogue: 0,0:40:40.89,0:40:43.69,Default,,0000,0000,0000,,{\blur3}要是有微流星体撞上氧气罐怎么办?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what if a micrometeoroid punches an oxygen tank?{\r}
+Dialogue: 0,0:40:43.73,0:40:46.81,Default,,0000,0000,0000,,{\blur3}要是你用完了呼吸用气又怎么办?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What if you just are simply running out of breathable air?{\r}
+Dialogue: 0,0:40:46.86,0:40:47.86,Default,,0000,0000,0000,,{\blur3}那你就束手无策了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is nothing you can do.{\r}
+Dialogue: 0,0:40:47.90,0:40:50.57,Default,,0000,0000,0000,,{\blur3}你可以做的就是坐以待毙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can die graciously is what you can do...{\r}
+Dialogue: 0,0:40:50.61,0:40:51.86,Default,,0000,0000,0000,,{\blur3}不管时间会有多长{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}however long it takes.{\r}
+Dialogue: 0,0:40:54.24,0:40:55.74,Default,,0000,0000,0000,,{\blur3}灾难的另一个源头{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Another source of disasters...{\r}
+Dialogue: 0,0:40:55.78,0:40:58.37,Default,,0000,0000,0000,,{\blur3}尤其是在数年的漫长旅程中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}especially with journeys measured in years...{\r}
+Dialogue: 0,0:40:58.41,0:41:01.08,Default,,0000,0000,0000,,{\blur3}就是好多人所忽视的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is something that many people overlook.{\r}
+Dialogue: 0,0:41:02.41,0:41:06.04,Default,,0000,0000,0000,,{\blur3}我们忘却的一个事情就是我们的同胞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One thing we forget is our fellow man...{\r}
+Dialogue: 0,0:41:06.08,0:41:07.92,Default,,0000,0000,0000,,{\blur3}我们的宇航员同胞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}our fellow astronauts.{\r}
+Dialogue: 0,0:41:07.96,0:41:11.30,Default,,0000,0000,0000,,{\blur3}如果你关在小小的空间舱里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}lf you're cooped up in this tiny, little space capsule...{\r}
+Dialogue: 0,0:41:11.34,0:41:14.05,Default,,0000,0000,0000,,{\blur3}可以这么说 用上一年功夫前往火星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for, let's say, a year at a time going to Mars...{\r}
+Dialogue: 0,0:41:14.09,0:41:18.43,Default,,0000,0000,0000,,{\blur3}或几年时间前往深太空 你会抓狂的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or years going into deep space, you can go crazy.{\r}
+Dialogue: 0,0:41:18.47,0:41:20.56,Default,,0000,0000,0000,,{\blur3}你会患上幽闭恐惧症{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You can get claustrophobic.{\r}
+Dialogue: 0,0:41:20.60,0:41:22.81,Default,,0000,0000,0000,,{\blur3}隔壁的家伙已经搞得你神经兮兮{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The guy next door could really get on your nerves...{\r}
+Dialogue: 0,0:41:22.85,0:41:25.10,Default,,0000,0000,0000,,{\blur3}你某种程度想掐死他{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you want to strangle him after a certain point.{\r}
+Dialogue: 0,0:41:27.48,0:41:30.02,Default,,0000,0000,0000,,{\blur3}尽管事故并没有广泛宣传{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Although the incidents aren't highly publicized...{\r}
+Dialogue: 0,0:41:30.07,0:41:33.19,Default,,0000,0000,0000,,{\blur3}宇航员间的相处在过去就存在着问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}crew members have had problems getting along in the past...{\r}
+Dialogue: 0,0:41:33.24,0:41:34.86,Default,,0000,0000,0000,,{\blur3}结果相当危险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with dangerous results.{\r}
+Dialogue: 0,0:41:37.28,0:41:41.03,Default,,0000,0000,0000,,{\blur3}在1970年代 至少有一组苏联空间站的宇航员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There was at least one Soviet space station crew in the 1970s...{\r}
+Dialogue: 0,0:41:41.08,0:41:44.37,Default,,0000,0000,0000,,{\blur3}相处并不很融洽{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that didn't get along pretty famously...{\r}
+Dialogue: 0,0:41:44.41,0:41:46.62,Default,,0000,0000,0000,,{\blur3}实际上据说发生了斗殴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and actually supposedly had a fistfight.{\r}
+Dialogue: 0,0:41:46.67,0:41:49.33,Default,,0000,0000,0000,,{\blur3}这些压力将会在这些长时间的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These stresses are going to manifest themselves...{\r}
+Dialogue: 0,0:41:49.38,0:41:50.84,Default,,0000,0000,0000,,{\blur3}任务中自我表现出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on these long-duration missions.{\r}
+Dialogue: 0,0:41:50.88,0:41:53.67,Default,,0000,0000,0000,,{\blur3}大家都认为它们不就是在自欺欺人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Anybody who thinks they aren't is fooling himself.{\r}
+Dialogue: 0,0:41:56.38,0:41:58.38,Default,,0000,0000,0000,,{\blur3}为了让事情更加有趣{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And to make things even more interesting...{\r}
+Dialogue: 0,0:41:58.43,0:42:03.10,Default,,0000,0000,0000,,{\blur3}俄国人据说在飞船上安排了枪支{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Russian cosmonauts supposedly have firearms stowed onboard...{\r}
+Dialogue: 0,0:42:03.14,0:42:07.94,Default,,0000,0000,0000,,{\blur3}那是1965年偏离着陆点后 采取的一项预防措施{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as a precaution after an extremely off-course landing in 1965.{\r}
+Dialogue: 0,0:42:09.56,0:42:12.27,Default,,0000,0000,0000,,{\blur3}宇航员降落在西伯利亚的森林里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The crew landed up in the woods in Siberia...{\r}
+Dialogue: 0,0:42:12.32,0:42:13.98,Default,,0000,0000,0000,,{\blur3}在那里呆了约三天时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and were there for about three days...{\r}
+Dialogue: 0,0:42:14.03,0:42:18.11,Default,,0000,0000,0000,,{\blur3}他们不得不击退狼群 直到自己被营救{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they had to fight off wolves until they were rescued.{\r}
+Dialogue: 0,0:42:18.16,0:42:21.37,Default,,0000,0000,0000,,{\blur3}经过了那项特使的使命后 苏联决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After that particular mission, the Soviets decided...{\r}
+Dialogue: 0,0:42:21.41,0:42:23.70,Default,,0000,0000,0000,,{\blur3}他们将在每一个联盟号太空舱里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they were going to put a sawed-off shotgun...{\r}
+Dialogue: 0,0:42:23.74,0:42:25.45,Default,,0000,0000,0000,,{\blur3}配置短筒猎枪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in every Soyuz capsule...{\r}
+Dialogue: 0,0:42:25.50,0:42:27.71,Default,,0000,0000,0000,,{\blur3}以防类似的事情再次发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in case something like that happened again.{\r}
+Dialogue: 0,0:42:29.33,0:42:32.21,Default,,0000,0000,0000,,{\blur3}现在据说宇航员都配有手枪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The cosmonauts are now rumored to have handguns...{\r}
+Dialogue: 0,0:42:32.25,0:42:33.88,Default,,0000,0000,0000,,{\blur3}存放在应急箱里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stored in emergency kits.{\r}
+Dialogue: 0,0:42:35.01,0:42:39.47,Default,,0000,0000,0000,,{\blur3}但是没有人急欲提供太空配枪的任何官方细节{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But no one is eager to offer any official details of guns in space.{\r}
+Dialogue: 0,0:42:40.34,0:42:42.35,Default,,0000,0000,0000,,{\blur3}配载武器所带来的风险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the risk of having a weapon aboard...{\r}
+Dialogue: 0,0:42:42.39,0:42:44.93,Default,,0000,0000,0000,,{\blur3}一旦情绪失控 就难说了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}isn't just a concern if tempers flare.{\r}
+Dialogue: 0,0:42:47.18,0:42:49.73,Default,,0000,0000,0000,,{\blur3}实际上有一个实验任务专家的备案案例{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is actually a documented case...{\r}
+Dialogue: 0,0:42:49.77,0:42:55.78,Default,,0000,0000,0000,,{\blur3}他曾经搭载过航天飞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of a payload specialist, who flew on a shuttle flight...{\r}
+Dialogue: 0,0:42:55.82,0:42:58.49,Default,,0000,0000,0000,,{\blur3}他们的实验失败了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}whose experiment failed...{\r}
+Dialogue: 0,0:42:58.53,0:43:01.03,Default,,0000,0000,0000,,{\blur3}他毕生都在为这个实验做准备{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and he spent his whole life getting this experiment ready...{\r}
+Dialogue: 0,0:43:01.07,0:43:06.83,Default,,0000,0000,0000,,{\blur3}实验失败后 他真的考虑过自杀{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it failed, and he actually talked about killing himself.{\r}
+Dialogue: 0,0:43:06.87,0:43:10.25,Default,,0000,0000,0000,,{\blur3}组员们其实试图保护他{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the crew themselves actually tried to protect him...{\r}
+Dialogue: 0,0:43:10.29,0:43:14.09,Default,,0000,0000,0000,,{\blur3}守住舱口 这样他就没办法将他们杀死{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and guarded the hatch so he wouldn't kill them.{\r}
+Dialogue: 0,0:43:16.38,0:43:20.22,Default,,0000,0000,0000,,{\blur3}纵然得到了迄今为止所有太空旅行的经验教训{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even with all of the space travel lessons learned so far...{\r}
+Dialogue: 0,0:43:20.26,0:43:22.01,Default,,0000,0000,0000,,{\blur3}有一点是明白无误的:{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}one thing is clear:{\r}
+Dialogue: 0,0:43:22.05,0:43:24.60,Default,,0000,0000,0000,,{\blur3}谁都无法阻止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nothing can completely prevent disasters...{\r}
+Dialogue: 0,0:43:24.64,0:43:26.68,Default,,0000,0000,0000,,{\blur3}将来所遭遇的灾难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from striking in the future.{\r}
+Dialogue: 0,0:43:28.06,0:43:30.02,Default,,0000,0000,0000,,{\blur3}如果我们要继续人类太空飞行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If we're going to continue human space flight...{\r}
+Dialogue: 0,0:43:30.06,0:43:31.35,Default,,0000,0000,0000,,{\blur3}我们就必须接受这种风险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we have to accept the risk...{\r}
+Dialogue: 0,0:43:31.40,0:43:34.98,Default,,0000,0000,0000,,{\blur3}因为这是个非常危险的活动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it is a very dangerous occupation.{\r}
+Dialogue: 0,0:43:35.02,0:43:36.57,Default,,0000,0000,0000,,{\blur3}但是我们必须应对风险{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But we have to manage the risk...{\r}
+Dialogue: 0,0:43:36.61,0:43:39.11,Default,,0000,0000,0000,,{\blur3}那将需要出色的技术人员{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and that's going to require good technical people...{\r}
+Dialogue: 0,0:43:39.15,0:43:40.40,Default,,0000,0000,0000,,{\blur3}和出色的领导{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and good leadership.{\r}
+Dialogue: 0,0:43:42.99,0:43:45.91,Default,,0000,0000,0000,,{\blur3}但是正如灾难不可避免一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But just as surely as disasters will strike...{\r}
+Dialogue: 0,0:43:45.95,0:43:47.24,Default,,0000,0000,0000,,{\blur3}另外一点也是必然的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}there is another certainty...{\r}
+Dialogue: 0,0:43:47.29,0:43:49.91,Default,,0000,0000,0000,,{\blur3}只要提及载人航天探索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when it comes to manned space exploration.{\r}
+Dialogue: 0,0:43:52.42,0:43:54.63,Default,,0000,0000,0000,,{\blur3}我认为我们有一个基因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I think we have a gene...{\r}
+Dialogue: 0,0:43:54.67,0:43:57.05,Default,,0000,0000,0000,,{\blur3}探索的基因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a gene for exploration...{\r}
+Dialogue: 0,0:43:57.09,0:43:59.42,Default,,0000,0000,0000,,{\blur3}发现的基因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a gene for discovery.{\r}
+Dialogue: 0,0:43:59.47,0:44:01.67,Default,,0000,0000,0000,,{\blur3}不仅仅是它有益于我们的进化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not only is it good for our evolution...{\r}
+Dialogue: 0,0:44:01.72,0:44:05.64,Default,,0000,0000,0000,,{\blur3}因为我们找到了繁育和殖民的新途径{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because we find new avenues to reproduce and to colonize...{\r}
+Dialogue: 0,0:44:05.68,0:44:09.10,Default,,0000,0000,0000,,{\blur3}同时我认为在我们人类的灵魂深处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but I think it's also inside the spirit of human beings...{\r}
+Dialogue: 0,0:44:09.14,0:44:11.73,Default,,0000,0000,0000,,{\blur3}就是想了解外面的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to want to know what's out there.{\r}
+Dialogue: 0,0:44:11.77,0:44:15.52,Default,,0000,0000,0000,,{\blur3}是否有可能到达我们以前从未涉足过的地方呢?{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Is it possible to reach areas that we've never been before?{\r}
+Dialogue: 0,0:44:15.56,0:44:16.73,Default,,0000,0000,0000,,{\blur3}刺激...{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And the thrill...{\r}
+Dialogue: 0,0:44:16.77,0:44:21.61,Default,,0000,0000,0000,,{\blur3}作为探索新大陆第一人的刺激{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the thrill of being the first person to explore new terrain...{\r}
+Dialogue: 0,0:44:22.17,0:44:24.61,Default,,0000,0000,0000,,{\blur3}实在是妙不可言{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is simply fantastic.{\r}

@@ -1,0 +1,774 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:01.41,0:00:03.75,Default,NTP,0,0,0,,玄黄端现 太极混沌如鸡蛋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning there was darkness...
+Dialogue: 0,0:00:03.75,0:00:05.75,Default,NTP,0,0,0,,随着轰的一声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then... BANG!
+Dialogue: 0,0:00:05.79,0:00:08.79,Default,NTP,0,0,0,,诞生了无限膨胀的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.84,0:00:11.67,Default,NTP,0,0,0,,时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space and matter.
+Dialogue: 0,0:00:11.72,0:00:14.17,Default,NTP,0,0,0,,现在所见超乎我们的想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now see further than we've ever imagined,
+Dialogue: 0,0:00:14.22,0:00:16.30,Default,NTP,0,0,0,,超越了客观认知极限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beyond the limits of our existence,
+Dialogue: 0,0:00:16.34,0:00:18.57,Default,NTP,0,0,0,,那地方我们称之为"宇宙"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a place we call... THE UNIVERSE
+Dialogue: 0,0:00:21.31,0:00:26.40,Default,NTP,0,0,0,,至今和我们的幸存相关 神秘兮兮的 我们最近的邻居\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our closest neighbor, mysterious as it is, tied to our very survival.
+Dialogue: 0,0:00:30.07,0:00:35.61,Default,NTP,0,0,0,,自有人类开始它那亮度就一直迷惑着我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its luminance has captivated us since the beginning of humanity,
+Dialogue: 0,0:00:35.66,0:00:43.41,Default,NTP,0,0,0,,靠近一看揭示出一个永存的神话 争议和谜团之源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but a closer look reveals an ever-present source of myth, controversy and mystery.
+Dialogue: 0,0:00:43.46,0:00:47.92,Default,NTP,0,0,0,,无形的力量每天分分秒秒地拉着地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An unseen force that pulls at the Earth every second of the day,
+Dialogue: 0,0:00:49.46,0:00:52.01,Default,NTP,0,0,0,,幻觉与奇景的源头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a source of illusion and wonder,
+Dialogue: 0,0:00:54.05,0:00:56.51,Default,NTP,0,0,0,,一个如此靠近人类之家的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a celestial body so close to home
+Dialogue: 0,0:00:56.55,0:01:02.56,Default,NTP,0,0,0,,它有可能影响到我们的行为方式和我们的身体功能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it may impact the way we behave and the way our body functions.
+Dialogue: 0,0:01:04.60,0:01:08.27,Default,NTP,0,0,0,,若没有月球则我们所熟知的行星地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And without it, some argue the planet Earth as we know it,
+Dialogue: 0,0:01:08.31,0:01:10.46,Default,NTP,0,0,0,,可能永远不可能进化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may never have evolved.
+Dialogue: 0,0:01:10.46,0:01:13.40,Default,,0,0,1,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:13.40,0:01:17.10,Default,,0,0,8,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:春树  字幕来源:五羊皮  调校:御雪寒狼  招募Q号:76846146{\r}
+Dialogue: 0,0:01:17.10,0:01:22.00,Default,NTP,0,0,0,,[历史频道] 第二季 第三集 月球之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}[History Channel] The UniverseⅡ 03of19 Mysteries.of.the.Moon
+Dialogue: 0,0:01:22.99,0:01:25.79,Default,NTP,0,0,0,,距离地球约24万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Almost 240,000 miles from Earth,
+Dialogue: 0,0:01:25.83,0:01:30.13,Default,NTP,0,0,0,,在夜空中 我们的月球亮度胜过其它的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our Moon outshines every other celestial body in the night sky.
+Dialogue: 0,0:01:33.17,0:01:34.96,Default,NTP,0,0,0,,月亮… 当它升起带来光明时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon, when it's up and when it's bright,
+Dialogue: 0,0:01:35.01,0:01:37.06,Default,NTP,0,0,0,,使我们产生梦想和惊叹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}makes us dream and wonder.
+Dialogue: 0,0:01:38.80,0:01:41.26,Default,NTP,0,0,0,,我们神秘的近邻也带来了无数\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our enigmatic neighbor is also the source of
+Dialogue: 0,0:01:41.30,0:01:46.08,Default,NTP,0,0,0,,悬而未决的谜团和历史悠久的神话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}countless unsolved mysteries and age-old myths.
+Dialogue: 0,0:01:48.52,0:01:50.02,Default,NTP,0,0,0,,月球是个怪异的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon is a spooky place.
+Dialogue: 0,0:01:50.06,0:01:54.26,Default,NTP,0,0,0,,从人类的角度来看这是个神秘的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a mysterious place from the human perspective.
+Dialogue: 0,0:02:00.53,0:02:04.83,Default,NTP,0,0,0,,月球看上去美丽而平淡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon is a beautiful and a really obvious thing to see.
+Dialogue: 0,0:02:04.87,0:02:08.00,Default,NTP,0,0,0,,我们难以忽略这个天空中明亮的大球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's hard to miss, the big shining Moon in the sky.
+Dialogue: 0,0:02:08.04,0:02:10.25,Default,NTP,0,0,0,,因此我想所有的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, I think all people
+Dialogue: 0,0:02:10.29,0:02:12.79,Default,NTP,0,0,0,,一直在努力了解它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from all times have had some need to understand it,
+Dialogue: 0,0:02:12.84,0:02:15.01,Default,NTP,0,0,0,,努力适应它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some need to relate to it.
+Dialogue: 0,0:02:16.76,0:02:19.30,Default,NTP,0,0,0,,科学会就宇宙的问题投射一束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science may cast an
+Dialogue: 0,0:02:19.34,0:02:21.84,Default,NTP,0,0,0,,观察之光在某些物体上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}empirical light on some things about the universe,
+Dialogue: 0,0:02:21.89,0:02:24.18,Default,NTP,0,0,0,,然而月球专家在提起月球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But lunar experts are the first to admit
+Dialogue: 0,0:02:24.22,0:02:28.06,Default,NTP,0,0,0,,首先会承认他们没有解决所有的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they don't have all the answers when it comes to our Moon.
+Dialogue: 0,0:02:29.60,0:02:31.02,Default,NTP,0,0,0,,科学是个过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science is about process,
+Dialogue: 0,0:02:31.06,0:02:34.06,Default,NTP,0,0,0,,我们从来没有确切的解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we're never sure about explanation.
+Dialogue: 0,0:02:34.11,0:02:35.32,Default,NTP,0,0,0,,我们对月球了解得很少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know so little about the Moon
+Dialogue: 0,0:02:35.36,0:02:37.44,Default,NTP,0,0,0,,那是因为我们近距离观察它才\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we've only been observing it close up
+Dialogue: 0,0:02:37.49,0:02:38.94,Default,NTP,0,0,0,,几百年的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for a few hundred years,
+Dialogue: 0,0:02:38.99,0:02:42.57,Default,NTP,0,0,0,,而它的存在已经超过四 五十亿年了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's been there for over 4,5 billion years.
+Dialogue: 0,0:02:46.62,0:02:48.83,Default,NTP,0,0,0,,我们的月球在三到四亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Moon teemed with volcanic activity
+Dialogue: 0,0:02:48.87,0:02:51.08,Default,NTP,0,0,0,,到处都是火山活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}three to four billion years ago.
+Dialogue: 0,0:02:51.12,0:02:54.54,Default,NTP,0,0,0,,如今大多数人认为它是个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today, most believe it's an
+Dialogue: 0,0:02:54.59,0:02:56.75,Default,NTP,0,0,0,,漂浮在太空中的死寂之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}inactive dead world floating through space,
+Dialogue: 0,0:02:56.80,0:02:58.13,Default,NTP,0,0,0,,然而是这样吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but is it?
+Dialogue: 0,0:03:01.18,0:03:03.69,Default,NTP,0,0,0,,1969年7月20日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}July 20th, 1969.
+Dialogue: 0,0:03:06.43,0:03:09.47,Default,NTP,0,0,0,,尼尔·阿姆斯特朗在第一次探访月球表面时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neil Armstrong took his historic small step
+Dialogue: 0,0:03:09.52,0:03:12.56,Default,NTP,0,0,0,,迈出了他历史性的一小步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}during that first visit to the lunar surface.
+Dialogue: 0,0:03:12.60,0:03:15.27,Default,NTP,0,0,0,,这是个人的一小步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's one small step for man,
+Dialogue: 0,0:03:15.32,0:03:18.19,Default,NTP,0,0,0,,却是人类一个巨大的跨越\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one giant leap for mankind.
+Dialogue: 0,0:03:20.24,0:03:21.74,Default,NTP,0,0,0,,在月球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While on the Moon,
+Dialogue: 0,0:03:21.78,0:03:24.11,Default,NTP,0,0,0,,阿姆斯特朗报告了看到的东西 他称有个区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Armstrong reported seeing what he called an area
+Dialogue: 0,0:03:24.16,0:03:26.49,Default,NTP,0,0,0,,要比周围的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is considerably more illuminated
+Dialogue: 0,0:03:26.53,0:03:28.45,Default,NTP,0,0,0,,明亮得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the surrounding area,
+Dialogue: 0,0:03:31.00,0:03:32.29,Default,NTP,0,0,0,,那个区域好象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that the area seems to
+Dialogue: 0,0:03:32.33,0:03:35.38,Default,NTP,0,0,0,,有一点点荧光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have a slight amount of fluorescence to it.
+Dialogue: 0,0:03:35.42,0:03:37.00,Default,NTP,0,0,0,,那表示什么意思呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What could it mean?
+Dialogue: 0,0:03:40.97,0:03:43.26,Default,NTP,0,0,0,,近40年后的今天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today, almost 40 years later,
+Dialogue: 0,0:03:43.30,0:03:47.15,Default,NTP,0,0,0,,没有人确切地知道那光源究竟是什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no one knows exactly what that light source was.
+Dialogue: 0,0:03:48.39,0:03:52.58,Default,NTP,0,0,0,,但是科学家曾经目睹过类似的情形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But scientists have witnessed similar occurrences.
+Dialogue: 0,0:03:54.02,0:03:56.23,Default,NTP,0,0,0,,月球上的整个等级的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There been a whole class of changes on the Moon
+Dialogue: 0,0:03:56.27,0:03:58.27,Default,NTP,0,0,0,,已经涉及到明亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that have involved brightenings,
+Dialogue: 0,0:03:58.32,0:04:01.20,Default,NTP,0,0,0,,颜色的变化 甚至气体排放\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}color changes, and even gaseous emissions.
+Dialogue: 0,0:04:03.74,0:04:05.66,Default,NTP,0,0,0,,这些项目已经留给了美国航天局的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These events have left some like NASA
+Dialogue: 0,0:04:05.70,0:04:07.78,Default,NTP,0,0,0,,天文学家邦妮·布拉蒂那些人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomer Bonnie Buratti,
+Dialogue: 0,0:04:07.83,0:04:09.87,Default,NTP,0,0,0,,称之为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perplexed by what they call
+Dialogue: 0,0:04:09.91,0:04:14.83,Default,NTP,0,0,0,,"月球瞬变现象"(LTP)的疑惑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Lunar Transient Phenomena", or LTPs.
+Dialogue: 0,0:04:14.87,0:04:17.46,Default,NTP,0,0,0,,月球瞬变现象存在着争议\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lunar Transient Phenomena are controversial.
+Dialogue: 0,0:04:17.50,0:04:20.39,Default,NTP,0,0,0,,科学家很持怀疑态度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists are very skeptical about them.
+Dialogue: 0,0:04:21.63,0:04:24.22,Default,NTP,0,0,0,,问题是对这些现象没有\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The problem is there's no observations,
+Dialogue: 0,0:04:24.26,0:04:27.14,Default,NTP,0,0,0,,真正牢靠的观察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}true and firm, on these events.
+Dialogue: 0,0:04:29.18,0:04:31.14,Default,NTP,0,0,0,,然而从中世纪开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But ever since the Middle Ages,
+Dialogue: 0,0:04:31.18,0:04:35.94,Default,NTP,0,0,0,,月球观察家已经报告看到了那些神秘之光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lunar observers have reported seeing these mysterious lights.
+Dialogue: 0,0:04:35.98,0:04:37.10,Default,NTP,0,0,0,,通常被看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're usually witnessed
+Dialogue: 0,0:04:37.15,0:04:39.82,Default,NTP,0,0,0,,处在月球阴暗模糊的区域里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the dark shadowy areas of the Moon,
+Dialogue: 0,0:04:39.86,0:04:42.19,Default,NTP,0,0,0,,那里对照更加强烈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the contrast is greater.
+Dialogue: 0,0:04:42.24,0:04:44.36,Default,NTP,0,0,0,,它们会随机持续几秒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They last anywhere from a few seconds
+Dialogue: 0,0:04:44.40,0:04:47.49,Default,NTP,0,0,0,,到几个小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to a few hours,
+Dialogue: 0,0:04:47.53,0:04:50.20,Default,NTP,0,0,0,,那就是它们很难确认的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's why they've been so hard to confirm.
+Dialogue: 0,0:04:54.25,0:04:56.62,Default,NTP,0,0,0,,肯定了那些谜一般的表现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Convinced that these ethereal displays
+Dialogue: 0,0:04:56.67,0:04:58.25,Default,NTP,0,0,0,,是真实的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are a real phenomenon,
+Dialogue: 0,0:04:58.29,0:05:00.46,Default,NTP,0,0,0,,但是不能确定究竟是什么造成的确\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but unsure as to what's causing them,
+Dialogue: 0,0:05:00.50,0:05:01.50,Default,NTP,0,0,0,,专家们已经\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}experts have honed
+Dialogue: 0,0:05:01.55,0:05:04.34,Default,NTP,0,0,0,,深入研究几个可能的解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in on several possible explanations.
+Dialogue: 0,0:05:04.38,0:05:05.80,Default,NTP,0,0,0,,对于月球瞬变现象 已经有一些理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There have been a number of theories that have surfaced
+Dialogue: 0,0:05:05.84,0:05:09.06,Default,NTP,0,0,0,,浮出水面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for Lunar Transient Phenomena.
+Dialogue: 0,0:05:10.31,0:05:11.85,Default,NTP,0,0,0,,地球上不断变化的视角可能造成了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ever-changing views from Earth may be causing the appearance
+Dialogue: 0,0:05:11.89,0:05:17.69,Default,NTP,0,0,0,,月球上光亮闪烁 变化的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of bright flashes or surface changes on the Moon.
+Dialogue: 0,0:05:17.73,0:05:21.69,Default,NTP,0,0,0,,某些现象我认为显然只是由于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of the events that I've seen are clearly just due to turbulence
+Dialogue: 0,0:05:21.73,0:05:24.03,Default,NTP,0,0,0,,地球大气的扰动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the Earth's atmosphere.
+Dialogue: 0,0:05:24.07,0:05:27.29,Default,NTP,0,0,0,,扰动造成了月球的移动和变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These cause movement and change on the Moon.
+Dialogue: 0,0:05:29.53,0:05:32.87,Default,NTP,0,0,0,,但是布拉蒂认为不是所有的月球瞬变现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Buratti thinks that not all LTPs
+Dialogue: 0,0:05:32.91,0:05:37.91,Default,NTP,0,0,0,,都能用大气扰动来解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can be explained by atmospheric turbulence.
+Dialogue: 0,0:05:37.96,0:05:40.29,Default,NTP,0,0,0,,尼尔·阿姆斯特朗所报告的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The anomalies that Neil Armstrong reported
+Dialogue: 0,0:05:40.34,0:05:42.34,Default,NTP,0,0,0,,是在月球表面看到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were seen from the lunar surface,
+Dialogue: 0,0:05:42.38,0:05:46.54,Default,NTP,0,0,0,,所以大气扰动不可能造成这种现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so atmospheric turbulence couldn't be causing them.
+Dialogue: 0,0:05:47.88,0:05:49.01,Default,NTP,0,0,0,,许多天文学家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many astronomers
+Dialogue: 0,0:05:49.05,0:05:51.97,Default,NTP,0,0,0,,像格利菲斯天文台的劳拉·丹利\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like Laura Danly at the Griffith Observatory,
+Dialogue: 0,0:05:52.01,0:05:54.64,Default,NTP,0,0,0,,认为流星和小行星的高速作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}believe that the high-velocity impact of meteors and asteroids
+Dialogue: 0,0:05:54.68,0:06:00.77,Default,NTP,0,0,0,,解释了地球上所观察到的这个现象的主要原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}accounts for much of this activity being observed from Earth.
+Dialogue: 0,0:06:00.81,0:06:01.90,Default,NTP,0,0,0,,它们移动得非常得快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're traveling very fast,
+Dialogue: 0,0:06:01.94,0:06:04.28,Default,NTP,0,0,0,,所以当它们轰击月球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so when they smash into the Moon...
+Dialogue: 0,0:06:09.82,0:06:14.08,Default,NTP,0,0,0,,确实是一个猛烈明亮的爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a big, bright explosion, really.
+Dialogue: 0,0:06:15.12,0:06:17.83,Default,NTP,0,0,0,,这些碰撞爆炸被认为是火球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These impact explosions, known as fireballs,
+Dialogue: 0,0:06:17.87,0:06:19.92,Default,NTP,0,0,0,,可能是那现象的一个原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be one source of the activity,
+Dialogue: 0,0:06:19.96,0:06:23.19,Default,NTP,0,0,0,,但是前提是存在一个漏洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that premise has a gaping hole in it.
+Dialogue: 0,0:06:25.63,0:06:27.59,Default,NTP,0,0,0,,即使我们已经看到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even though we've seen
+Dialogue: 0,0:06:27.63,0:06:29.26,Default,NTP,0,0,0,,月球阴暗面的那些闪烁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these flashes on the dark side of the Moon,
+Dialogue: 0,0:06:29.30,0:06:33.72,Default,NTP,0,0,0,,我们还是没有确定与之相联系的陨石坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we haven't identified a crater associated with any of them.
+Dialogue: 0,0:06:34.76,0:06:36.97,Default,NTP,0,0,0,,这就让我们陷入了争议\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's where we get into the controversy.
+Dialogue: 0,0:06:37.02,0:06:38.60,Default,NTP,0,0,0,,没有任何大的事件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There hasn't been any large event
+Dialogue: 0,0:06:38.89,0:06:42.50,Default,NTP,0,0,0,,被确切地观察到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that has been unequivocally observed.
+Dialogue: 0,0:06:43.94,0:06:45.57,Default,NTP,0,0,0,,另一个可能的解释是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another possible explanation
+Dialogue: 0,0:06:45.61,0:06:47.57,Default,NTP,0,0,0,,当流星击中月球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that when a meteor hits the Moon,
+Dialogue: 0,0:06:47.61,0:06:49.53,Default,NTP,0,0,0,,形成了巨大的陨石坑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it creates a massive crater.
+Dialogue: 0,0:06:49.57,0:06:51.74,Default,NTP,0,0,0,,围绕着陨石坑边缘的山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Landslides around the crater
+Dialogue: 0,0:06:51.78,0:06:55.03,Default,NTP,0,0,0,,崩抬起了月球尘埃的山体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rim kick up mountains of lunar dust.
+Dialogue: 0,0:06:56.08,0:06:58.91,Default,NTP,0,0,0,,纤细的尘埃会吸收和散射光线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fine dust could absorb and scatter light rays
+Dialogue: 0,0:06:58.96,0:07:00.96,Default,NTP,0,0,0,,或呈现出好象月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or make it appear as if the Moon has
+Dialogue: 0,0:07:01.00,0:07:04.36,Default,NTP,0,0,0,,某种程度改变了表面特征\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}somehow changed its surface features.
+Dialogue: 0,0:07:06.00,0:07:08.05,Default,NTP,0,0,0,,有可能一旦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's possible that if
+Dialogue: 0,0:07:08.09,0:07:09.26,Default,NTP,0,0,0,,月球表面发生山崩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a landslide occurred on the Moon,
+Dialogue: 0,0:07:09.30,0:07:11.55,Default,NTP,0,0,0,,你就会在地球上看到某种现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would see something from the Earth,
+Dialogue: 0,0:07:11.59,0:07:13.14,Default,NTP,0,0,0,,陨石坑边缘被遮掩了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the edge of a crater being obscured,
+Dialogue: 0,0:07:13.18,0:07:15.80,Default,NTP,0,0,0,,形成云状的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a cloud-like feature forming.
+Dialogue: 0,0:07:15.85,0:07:18.56,Default,NTP,0,0,0,,换句话说我们将看到陨石坑壁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In other words, we would see a crater wall,
+Dialogue: 0,0:07:18.56,0:07:21.81,Default,NTP,0,0,0,,那是月球瞬变现象 接着陨石坑壁垮塌了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an LTP, and then a collapsed crater wall.
+Dialogue: 0,0:07:21.85,0:07:23.19,Default,NTP,0,0,0,,我们一直没有看到过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've never seen that yet.
+Dialogue: 0,0:07:32.86,0:07:34.49,Default,NTP,0,0,0,,或许在那些月球异常\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perhaps the most controversial
+Dialogue: 0,0:07:34.53,0:07:36.24,Default,NTP,0,0,0,,现象背后最具争议的争议\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}theory behind these lunar anomalies
+Dialogue: 0,0:07:36.28,0:07:39.79,Default,NTP,0,0,0,,将改变我们对月球的整个看法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could alter our view of the Moon entirely.
+Dialogue: 0,0:07:39.83,0:07:45.64,Default,NTP,0,0,0,,它将挑战信念 即月球已经停止地质活动有几千年了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would challenge the belief that the Moon has been geologically inactive for millennia.
+Dialogue: 0,0:07:46.88,0:07:49.17,Default,NTP,0,0,0,,其中一个对月球瞬变现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the most intriguing explanations
+Dialogue: 0,0:07:49.21,0:07:50.88,Default,NTP,0,0,0,,最耐人寻味的解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for lunar transient phenomena
+Dialogue: 0,0:07:50.92,0:07:53.30,Default,NTP,0,0,0,,是月球上有活火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is active volcanoes on the Moon.
+Dialogue: 0,0:08:00.64,0:08:03.02,Default,NTP,0,0,0,,这是最科学的重要理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the most scientifically important
+Dialogue: 0,0:08:03.06,0:08:04.06,Default,NTP,0,0,0,,因为它将告诉我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it would tell us that
+Dialogue: 0,0:08:04.10,0:08:08.62,Default,NTP,0,0,0,,月球的地质仍然是活跃的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon is still geologically active.
+Dialogue: 0,0:08:10.86,0:08:13.65,Default,NTP,0,0,0,,阿波罗太空任务期间所拍摄的照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Photographs taken during the Apollo space missions
+Dialogue: 0,0:08:13.70,0:08:16.49,Default,NTP,0,0,0,,揭示了形成于月球表面的岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}revealed a rocky formation on the lunar surface
+Dialogue: 0,0:08:16.53,0:08:18.78,Default,NTP,0,0,0,,是所谓的"非结构的"(inastructure)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called the "inastructure."
+Dialogue: 0,0:08:18.83,0:08:21.20,Default,NTP,0,0,0,,对于这个资料科学家推测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With this data, scientists speculated
+Dialogue: 0,0:08:21.25,0:08:24.37,Default,NTP,0,0,0,,月球可能经历火山活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the Moon could have experienced volcanic activity
+Dialogue: 0,0:08:24.42,0:08:28.01,Default,NTP,0,0,0,,是在过去的数百万年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the last million years.
+Dialogue: 0,0:08:28.75,0:08:30.50,Default,NTP,0,0,0,,这个信息具有突破性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The information was groundbreaking and
+Dialogue: 0,0:08:30.55,0:08:32.38,Default,NTP,0,0,0,,它意味着火山活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it meant that volcanic activity
+Dialogue: 0,0:08:32.42,0:08:35.55,Default,NTP,0,0,0,,可能是月球瞬变现象主要起因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could be the primary source of LTPs,
+Dialogue: 0,0:08:35.59,0:08:39.48,Default,NTP,0,0,0,,但是大多数科学家尚存疑虑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but most scientists are yet to be convinced.
+Dialogue: 0,0:08:43.52,0:08:44.73,Default,NTP,0,0,0,,在科学上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The thing about science is
+Dialogue: 0,0:08:44.77,0:08:47.48,Default,NTP,0,0,0,,每当你有了一个理论或者模型\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whenever you have a theory or a model,
+Dialogue: 0,0:08:47.52,0:08:50.90,Default,NTP,0,0,0,,你必须能够获取其结果的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you have to be able to get data of an event
+Dialogue: 0,0:08:50.94,0:08:53.32,Default,NTP,0,0,0,,一遍又一遍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over and over again.
+Dialogue: 0,0:08:55.36,0:08:57.74,Default,NTP,0,0,0,,在那些更加神秘的增亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In terms of these more mysterious brightenings
+Dialogue: 0,0:08:57.78,0:08:59.82,Default,NTP,0,0,0,,或有可能是火山活动的情况方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or things that could be volcanic events,
+Dialogue: 0,0:08:59.87,0:09:03.08,Default,NTP,0,0,0,,实际上我们从来没有两个独立的观察者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we've never actually had two independent observers
+Dialogue: 0,0:09:03.12,0:09:06.58,Default,NTP,0,0,0,,在同一时刻获得无可争辩的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}obtain incontrovertible data at the same time.
+Dialogue: 0,0:09:14.13,0:09:16.76,Default,NTP,0,0,0,,即使月球上没有地质活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even if the Moon isn't geologically active,
+Dialogue: 0,0:09:16.80,0:09:20.30,Default,NTP,0,0,0,,有些天文学家认为 可能会有气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some astronomers believe there may be gases left over
+Dialogue: 0,0:09:20.35,0:09:24.30,Default,NTP,0,0,0,,在当时火山活动频繁时残留了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from a time when the volcanic activity was prevalent.
+Dialogue: 0,0:09:25.64,0:09:28.10,Default,NTP,0,0,0,,如果残留的气体到达表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If residual gases reach the surface,
+Dialogue: 0,0:09:28.15,0:09:30.61,Default,NTP,0,0,0,,太阳光会散射出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Sun's rays would scatter
+Dialogue: 0,0:09:30.65,0:09:34.48,Default,NTP,0,0,0,,气体粒子红与蓝的色彩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}colored hues of red and blue from the gas particles.
+Dialogue: 0,0:09:34.53,0:09:36.11,Default,NTP,0,0,0,,月球仍然可能在经历着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon could still be experiencing
+Dialogue: 0,0:09:36.11,0:09:39.49,Default,NTP,0,0,0,,排气而内部实际上没有活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}outgassing without having actual activity in the interior.
+Dialogue: 0,0:09:39.53,0:09:42.53,Default,NTP,0,0,0,,月球里的矿物产生着气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are minerals in the Moon that produce gases, and they seep up
+Dialogue: 0,0:09:42.58,0:09:46.71,Default,NTP,0,0,0,,它们渗透出月球的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to the surface in the Moon and come out.
+Dialogue: 0,0:09:48.75,0:09:52.46,Default,NTP,0,0,0,,有这么多的月球瞬变现象理论摆在面前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With so many lunar transient phenomena theories out there,
+Dialogue: 0,0:09:52.50,0:09:54.63,Default,NTP,0,0,0,,哪一个是最合理的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is the most plausible?
+Dialogue: 0,0:09:54.67,0:09:57.30,Default,NTP,0,0,0,,布拉蒂博士没有明确哪一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dr. Buratti doesn't point to one
+Dialogue: 0,0:09:57.59,0:09:59.09,Default,NTP,0,0,0,,适合于现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}explanation for the phenomenon.
+Dialogue: 0,0:09:59.14,0:10:02.64,Default,NTP,0,0,0,,我认为月球瞬变现象的原因可能有无数个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think the reasons for LTP are probably myriad.
+Dialogue: 0,0:10:02.68,0:10:05.18,Default,NTP,0,0,0,,我认为存在不止一个的解释\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think there's more than one explanation.
+Dialogue: 0,0:10:05.22,0:10:07.23,Default,NTP,0,0,0,,它不只是一种现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not just one phenomenon,
+Dialogue: 0,0:10:07.27,0:10:10.03,Default,NTP,0,0,0,,可能是许多不同类型的活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's many different types of activities.
+Dialogue: 0,0:10:11.27,0:10:13.06,Default,NTP,0,0,0,,目前 难以捉摸的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For now, the cause of the elusive
+Dialogue: 0,0:10:13.11,0:10:15.32,Default,NTP,0,0,0,,月球瞬变现象的起因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lunar transient phenomena
+Dialogue: 0,0:10:15.36,0:10:18.99,Default,NTP,0,0,0,,可能继续隐藏在月球的阴暗面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may remain hidden on the dark side of the Moon.
+Dialogue: 0,0:10:21.99,0:10:24.74,Default,NTP,0,0,0,,然而满月导致地球上狂热的起因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the cause of full Moon fever here on Earth
+Dialogue: 0,0:10:24.79,0:10:28.75,Default,NTP,0,0,0,,诊断起来甚至更加棘手\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be even tougher to diagnose.
+Dialogue: 0,0:10:31.79,0:10:34.17,Default,NTP,0,0,0,,如果有的话那满月对我们的身心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What role, if any,
+Dialogue: 0,0:10:34.21,0:10:37.67,Default,NTP,0,0,0,,究竟有什么作用？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}does the full Moon have on our bodies and our minds?
+Dialogue: 0,0:10:44.85,0:10:47.89,Default,NTP,0,0,0,,当提到探究月球之谜时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it comes to exploring the mysteries of the Moon,
+Dialogue: 0,0:10:47.89,0:10:50.77,Default,NTP,0,0,0,,也许最著名和最具争议的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps the most celebrated and controversial
+Dialogue: 0,0:10:50.77,0:10:56.36,Default,NTP,0,0,0,,我们的卫星是否对身心有什么影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is whether our satellite has any influence on the mind and body.
+Dialogue: 0,0:10:56.40,0:11:00.28,Default,NTP,0,0,0,,我们知道地球与月球之间存在某种关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know that there's some relationship between the Earth and the Moon,
+Dialogue: 0,0:11:00.28,0:11:02.53,Default,NTP,0,0,0,,因此或许不是明显地突现 在想象中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so, it's perhaps not such a great leap to imagine that
+Dialogue: 0,0:11:02.57,0:11:03.82,Default,NTP,0,0,0,,有不同的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the different changes
+Dialogue: 0,0:11:03.87,0:11:08.37,Default,NTP,0,0,0,,满月可能会对人产生某种影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the full Moon might have some influence on people.
+Dialogue: 0,0:11:09.41,0:11:11.04,Default,NTP,0,0,0,,存在着许多许多的奥秘… 如身体上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are lots and lots of mysteries, physical
+Dialogue: 0,0:11:11.08,0:11:15.32,Default,NTP,0,0,0,,和心理上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and psychological.
+Dialogue: 0,0:11:22.30,0:11:24.64,Default,NTP,0,0,0,,有一个词形容疯狂 "精神失常(lunacy)"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the words for madness, "lunacy, "
+Dialogue: 0,0:11:24.68,0:11:27.10,Default,NTP,0,0,0,,它源于拉丁语的月亮 "luna"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes from the Latin word for Moon, "luna."
+Dialogue: 0,0:11:27.14,0:11:28.64,Default,NTP,0,0,0,,所以我认为贯穿历史\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So i think throughout history,
+Dialogue: 0,0:11:28.68,0:11:33.73,Default,NTP,0,0,0,,人们已经将月亮与人的心理联系在了一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}people have associated the Moon with human psychology.
+Dialogue: 0,0:11:33.77,0:11:34.77,Default,NTP,0,0,0,,很多人真的相信满月影响到他们的行为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A lot of people really believe that the full Moon affects
+Dialogue: 0,0:11:34.81,0:11:41.03,Default,NTP,0,0,0,,也许影响到他们的生物化学或类似的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}their behavior, affects maybe their biochemistry or something like that.
+Dialogue: 0,0:11:43.07,0:11:46.23,Default,NTP,0,0,0,,许多人广泛地坚信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a widely held belief
+Dialogue: 0,0:11:46.23,0:11:49.91,Default,NTP,0,0,0,,其中包括临床医生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}among many people including clinicians
+Dialogue: 0,0:11:49.95,0:11:52.65,Default,NTP,0,0,0,,在满月的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that during a full Moon,
+Dialogue: 0,0:11:52.65,0:11:57.42,Default,NTP,0,0,0,,急诊室候诊有变化 明显的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are changes, palpable changes in emergency room visits,
+Dialogue: 0,0:11:57.46,0:11:59.75,Default,NTP,0,0,0,,在怀孕率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in pregnancy rates,
+Dialogue: 0,0:11:59.80,0:12:02.17,Default,NTP,0,0,0,,出生率方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in birthrates.
+Dialogue: 0,0:12:02.22,0:12:05.01,Default,NTP,0,0,0,,有一个神话说的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is a mythology about behavior
+Dialogue: 0,0:12:05.05,0:12:09.93,Default,NTP,0,0,0,,行为举止随着月相而变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which changes consistently with the phases of the Moon.
+Dialogue: 0,0:12:09.97,0:12:11.85,Default,NTP,0,0,0,,轶事证据比比皆是 但科学是否支持那信念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Anecdotal evidence abounds, but does science support the belief
+Dialogue: 0,0:12:11.89,0:12:18.06,Default,NTP,0,0,0,,即满月对地球的居住者有没有明显的的作用呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that a full Moon has a measurable effect on the Earth's occupants?
+Dialogue: 0,0:12:18.11,0:12:20.31,Default,NTP,0,0,0,,人们早就试图将月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People have long tried to associate
+Dialogue: 0,0:12:20.31,0:12:26.45,Default,NTP,0,0,0,,及月球的引力作用与人和动物的行为联系起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon, and the gravitational effects of the Moon with behavior in people and animals.
+Dialogue: 0,0:12:28.49,0:12:31.62,Default,NTP,0,0,0,,事实是 月球搅动着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fact: the Moon stirs up the oceans
+Dialogue: 0,0:12:31.66,0:12:35.37,Default,NTP,0,0,0,,占我们星球七成面积的海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which make up 70 percent of our planet.
+Dialogue: 0,0:12:35.42,0:12:38.84,Default,NTP,0,0,0,,因此如果我们的身体是由70%的水组成的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if the human body is made up of 70 percent water,
+Dialogue: 0,0:12:38.88,0:12:41.63,Default,NTP,0,0,0,,那不会意味着月亮也同样在拉扯着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wouldn't that mean the Moon has just as much pull
+Dialogue: 0,0:12:41.67,0:12:43.30,Default,NTP,0,0,0,,我们人体呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on human beings?
+Dialogue: 0,0:12:43.34,0:12:46.18,Default,NTP,0,0,0,,一些医学界德高望重的成员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some respected members of the medical community
+Dialogue: 0,0:12:46.22,0:12:48.68,Default,NTP,0,0,0,,已有报告 在满月时人的行为方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have reported changes in human behavior
+Dialogue: 0,0:12:48.68,0:12:52.22,Default,NTP,0,0,0,,及生理学上的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and physiology during full Moons.
+Dialogue: 0,0:12:52.27,0:12:54.35,Default,NTP,0,0,0,,我们必须无偏见地得到关注\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We must be open minded
+Dialogue: 0,0:12:54.39,0:12:57.65,Default,NTP,0,0,0,,作为仔细观察者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and as careful observers,
+Dialogue: 0,0:12:57.69,0:13:00.48,Default,NTP,0,0,0,,继续假设某种关系联系着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}continue to posit some relationship
+Dialogue: 0,0:13:00.52,0:13:04.69,Default,NTP,0,0,0,,月相变化与\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between changes in the lunar cycle
+Dialogue: 0,0:13:04.74,0:13:06.91,Default,NTP,0,0,0,,我们的行为举止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the way in which we behave,
+Dialogue: 0,0:13:06.95,0:13:14.95,Default,NTP,0,0,0,,我们的健康与疾病模型建立在时间的前面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the way in which our health and disease patterns move ahead through time,
+Dialogue: 0,0:13:15.25,0:13:17.54,Default,NTP,0,0,0,,那么我们或许就需要提出一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then we probably need to ask
+Dialogue: 0,0:13:17.58,0:13:25.01,Default,NTP,0,0,0,,创造性的 批判性的 严谨的问题  这有可能吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in creative and critical and rigorous fashion,the question, "is this possible?"
+Dialogue: 0,0:13:37.65,0:13:39.48,Default,NTP,0,0,0,,在执法部门有些人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are some in law enforcement
+Dialogue: 0,0:13:39.52,0:13:41.44,Default,NTP,0,0,0,,认为犯罪率会上升\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}who believe the crime rates increase
+Dialogue: 0,0:13:41.48,0:13:44.32,Default,NTP,0,0,0,,在满月时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the Moon is full.
+Dialogue: 0,0:13:44.36,0:13:48.99,Default,NTP,0,0,0,,但是第一线的其他人可不这么认为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But others manning the front lines aren't so sure.
+Dialogue: 0,0:13:52.03,0:13:53.03,Default,NTP,0,0,0,,是的 这种说法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, the way i see it,
+Dialogue: 0,0:13:53.08,0:13:55.66,Default,NTP,0,0,0,,在我个人看来像是个神话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}personally, I see it as a myth.
+Dialogue: 0,0:13:55.70,0:13:58.21,Default,NTP,0,0,0,,在满月开始变化之时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the start of a full Moon shift, deputy Jose Castro,
+Dialogue: 0,0:13:58.25,0:14:01.39,Default,NTP,0,0,0,,副主管约瑟·卡斯特罗供职于西好莱坞的司法部门\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the west Hollywood sheriff's department,
+Dialogue: 0,0:14:01.39,0:14:07.38,Default,NTP,0,0,0,,嘲笑那月球与人扯上关系的说法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scoffed at the idea that a lunar pull has any effect on people.
+Dialogue: 0,0:14:09.43,0:14:11.51,Default,NTP,0,0,0,,然而在他当值的头20分钟里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in his first 20 minutes on duty,
+Dialogue: 0,0:14:11.55,0:14:14.81,Default,NTP,0,0,0,,已经有三通呼叫进来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}three calls had already come in.
+Dialogue: 0,0:14:15.85,0:14:18.14,Default,NTP,0,0,0,,眼下我们正在响应488\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now we're responding to a 488,
+Dialogue: 0,0:14:18.19,0:14:21.23,Default,NTP,0,0,0,,这是刚刚发生的盗窃案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is a theft that had just occurred.
+Dialogue: 0,0:14:22.27,0:14:23.73,Default,NTP,0,0,0,,呼叫称是个男人 讲西班牙语\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The call indicates that
+Dialogue: 0,0:14:23.73,0:14:29.61,Default,NTP,0,0,0,,大约32岁 身穿橙色监狱服装\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a male, Hispanic, approximately 32 years of age, wearing an orange jail jumpsuit,
+Dialogue: 0,0:14:29.66,0:14:30.91,Default,NTP,0,0,0,,没穿裤子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no pants,
+Dialogue: 0,0:14:30.95,0:14:32.53,Default,NTP,0,0,0,,蓝色的衬衣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wearing blue underwear,
+Dialogue: 0,0:14:32.58,0:14:34.29,Default,NTP,0,0,0,,偷了一本书\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stole a book.
+Dialogue: 0,0:14:37.33,0:14:40.00,Default,NTP,0,0,0,,眼下我们正在响应273.5的呼叫\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now we're responding to a call of the 273.5,
+Dialogue: 0,0:14:40.04,0:14:44.50,Default,NTP,0,0,0,,那是个现在正在发生的家庭暴力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is a domestic violence now that is happening.
+Dialogue: 0,0:14:44.55,0:14:47.09,Default,NTP,0,0,0,,这是一段时期以来第一例家庭暴力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the first domestic violence we've had in a while
+Dialogue: 0,0:14:47.13,0:14:50.05,Default,NTP,0,0,0,,它只是刚巧发生在满月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it just so happens there is a full Moon.
+Dialogue: 0,0:14:52.09,0:14:54.60,Default,NTP,0,0,0,,现在我们正在去某个名流的途中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now we are en route to a certain celebrity
+Dialogue: 0,0:14:54.64,0:14:57.60,Default,NTP,0,0,0,,他就住在我们的区域内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that lives within our area.
+Dialogue: 0,0:14:57.61,0:15:05.02,Default,NTP,0,0,0,,向名流的家投掷瓶子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The call states that a neighbor at this...celebrity's residence is throwing bottles
+Dialogue: 0,0:15:05.07,0:15:07.61,Default,NTP,0,0,0,,在报案者的前院\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at the informant's front yard.
+Dialogue: 0,0:15:07.65,0:15:10.61,Default,NTP,0,0,0,,截止到一年中最繁忙的周二夜晚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By the end of his busiest Tuesday night of the year,
+Dialogue: 0,0:15:10.65,0:15:14.49,Default,NTP,0,0,0,,副主管卡斯特罗的怀疑正开始减退\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}deputy Castro's skepticism was beginning to wane.
+Dialogue: 0,0:15:14.53,0:15:15.95,Default,NTP,0,0,0,,现在我来说给你听\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, I'll tell you what.
+Dialogue: 0,0:15:15.99,0:15:20.50,Default,NTP,0,0,0,,在开始转变的那一刻我还是不大相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the beginning of the shift, I wasn't a big believer.
+Dialogue: 0,0:15:20.54,0:15:24.25,Default,NTP,0,0,0,,但是现在我成了信徒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But I'm becoming a believer now.
+Dialogue: 0,0:15:26.30,0:15:28.13,Default,NTP,0,0,0,,这有许多是联系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A lot of this is tied to the idea
+Dialogue: 0,0:15:28.17,0:15:30.30,Default,NTP,0,0,0,,到月球引起地球上潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the Moon causes tides on Earth
+Dialogue: 0,0:15:30.34,0:15:32.84,Default,NTP,0,0,0,,那么有可能会引起人体内的潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so maybe it causes tides within people,
+Dialogue: 0,0:15:32.89,0:15:34.47,Default,NTP,0,0,0,,但那是不可能发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but that just can't happen.
+Dialogue: 0,0:15:34.51,0:15:37.68,Default,NTP,0,0,0,,月亮对我们的身体是不会有潮汐作用的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon does not have a tidal effect on our bodies.
+Dialogue: 0,0:15:37.72,0:15:41.43,Default,NTP,0,0,0,,我的胸部没有因为月亮在拉扯而大起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}My chest doesn't get bigger because the Moon is pulling on it.
+Dialogue: 0,0:15:43.77,0:15:45.19,Default,NTP,0,0,0,,彼得·普雷斯曼医生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Dr. Peter Pressman,
+Dialogue: 0,0:15:45.23,0:15:49.03,Default,NTP,0,0,0,,洛杉矶的西德斯西奈医学中心的一名医生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a medical doctor at Cedars-Sinai Hospital in Los Angeles,
+Dialogue: 0,0:15:49.07,0:15:50.99,Default,NTP,0,0,0,,承认自己的一些同行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}acknowledged that some of his peers
+Dialogue: 0,0:15:51.03,0:15:55.03,Default,NTP,0,0,0,,相信月球影响到人的行为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}believe that the Moon influences human behavior.
+Dialogue: 0,0:15:58.08,0:15:59.54,Default,NTP,0,0,0,,医生们相信\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicians who believe
+Dialogue: 0,0:15:59.58,0:16:04.09,Default,NTP,0,0,0,,月球确实影响到我们的身体和行为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that...the Moon does affect our bodies and our behavior,
+Dialogue: 0,0:16:04.13,0:16:07.88,Default,NTP,0,0,0,,得出的结论是建立在他们观察的基础上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}come to that conclusion on the basis of their observations.
+Dialogue: 0,0:16:07.92,0:16:10.55,Default,NTP,0,0,0,,这些观察结果可能会遭到歪曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And those observations may be very skewed.
+Dialogue: 0,0:16:10.59,0:16:12.72,Default,NTP,0,0,0,,它们可能是场合性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They may be very situational
+Dialogue: 0,0:16:12.76,0:16:15.43,Default,NTP,0,0,0,,可能并不能说明什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they may not mean a thing,
+Dialogue: 0,0:16:15.47,0:16:18.35,Default,NTP,0,0,0,,除非有人作为研究对象了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}except that that's what somebody has observed.
+Dialogue: 0,0:16:18.64,0:16:21.72,Default,NTP,0,0,0,,但是普雷斯曼怀疑那断言可能包含着偏见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Pressman suspects the claims may contain a bias
+Dialogue: 0,0:16:21.77,0:16:25.23,Default,NTP,0,0,0,,基于个人经验的基础上的偏见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's based on personal experiences.
+Dialogue: 0,0:16:25.27,0:16:26.85,Default,NTP,0,0,0,,如果你留意证据 你会发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you look at the evidence, you find
+Dialogue: 0,0:16:26.90,0:16:30.53,Default,NTP,0,0,0,,真的没有明确的机制\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there really is no clear mechanism
+Dialogue: 0,0:16:30.57,0:16:32.69,Default,NTP,0,0,0,,来说明月球的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for the influence of the Moon
+Dialogue: 0,0:16:32.74,0:16:35.86,Default,NTP,0,0,0,,与人体健康与疾病的关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with health and disease in human beings.
+Dialogue: 0,0:16:35.91,0:16:39.49,Default,NTP,0,0,0,,不过 还是继续有精明的医生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nevertheless, there continue to be astute clinicians
+Dialogue: 0,0:16:39.54,0:16:41.49,Default,NTP,0,0,0,,作为仔细的观察家在坚持\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and careful observers who insist
+Dialogue: 0,0:16:41.54,0:16:44.62,Default,NTP,0,0,0,,自己看到了那关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they do see relationships.
+Dialogue: 0,0:16:44.67,0:16:47.63,Default,NTP,0,0,0,,驱使人们行为的是他们所相信的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People's behavior is driven by what they believe
+Dialogue: 0,0:16:47.67,0:16:50.38,Default,NTP,0,0,0,,如果你相信月球有一些神奇之处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if you believe there is something magical about the Moon
+Dialogue: 0,0:16:50.42,0:16:54.92,Default,NTP,0,0,0,,它掌握着对你的魔咒的话 那么或许你就会改变自己的行为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it holds a spell over you then perhaps you will change your behavior.
+Dialogue: 0,0:16:54.97,0:16:56.05,Default,NTP,0,0,0,,不管满月是否\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whether the full Moon
+Dialogue: 0,0:16:56.09,0:16:58.93,Default,NTP,0,0,0,,对身心具有明显的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has any measurable impact on body and mind,
+Dialogue: 0,0:16:58.97,0:17:01.43,Default,NTP,0,0,0,,都将继续是争论的起因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will continue to be a source of debate
+Dialogue: 0,0:17:01.47,0:17:05.06,Default,NTP,0,0,0,,和我们月亮神话的一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and part of the mythology of our Moon.
+Dialogue: 0,0:17:06.10,0:17:08.40,Default,NTP,0,0,0,,围绕着我们最近的邻居\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there are other mythological legends
+Dialogue: 0,0:17:08.44,0:17:10.52,Default,NTP,0,0,0,,还有其它神话传说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}surrounding our closest neighbor.
+Dialogue: 0,0:17:10.77,0:17:12.69,Default,NTP,0,0,0,,尽管那样不是每个人都能够看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even then, not everyone can see
+Dialogue: 0,0:17:12.74,0:17:15.28,Default,NTP,0,0,0,,月球上的"人"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the man in the Moon.
+Dialogue: 0,0:17:18.32,0:17:21.45,Default,NTP,0,0,0,,是那些巨大的暗的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The man on the Moon are these giant dark
+Dialogue: 0,0:17:21.49,0:17:23.95,Default,NTP,0,0,0,,创作出来的 有些人认为看上去像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}areas that create what some people think looks like
+Dialogue: 0,0:17:24.00,0:17:25.79,Default,NTP,0,0,0,,眼球 鼻子和笑脸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eyeballs and a nose, and smiley face.
+Dialogue: 0,0:17:31.00,0:17:32.05,Default,NTP,0,0,0,,我先表明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Let me begin by saying
+Dialogue: 0,0:17:32.09,0:17:35.23,Default,NTP,0,0,0,,我从来没有见到过月球上的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that I have never seen the man on the Moon.
+Dialogue: 0,0:17:37.68,0:17:40.30,Default,NTP,0,0,0,,人们怎样才能看到它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And how anyone can see it
+Dialogue: 0,0:17:40.35,0:17:46.52,Default,NTP,0,0,0,,关键在于主观创造性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a matter of...subjective creativity.
+Dialogue: 0,0:17:48.56,0:17:51.77,Default,NTP,0,0,0,,月亮长期以来一直就是传说和神话的对象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon has long been the object of lore and myth.
+Dialogue: 0,0:17:51.82,0:17:53.15,Default,NTP,0,0,0,,但是我们认为我们所看到的全部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what we think we see is all
+Dialogue: 0,0:17:53.19,0:17:56.49,Default,NTP,0,0,0,,是观看者眼中的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the eye of the beholder.
+Dialogue: 0,0:17:58.53,0:18:01.37,Default,NTP,0,0,0,,多数文化其实并没有看到月球上的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Most cultures actually don't see a man on the Moon.
+Dialogue: 0,0:18:01.41,0:18:03.53,Default,NTP,0,0,0,,兔子是许多人的宠物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rabbit is a big favorite among many
+Dialogue: 0,0:18:03.58,0:18:05.41,Default,NTP,0,0,0,,还有其它的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and there are others.
+Dialogue: 0,0:18:12.00,0:18:14.09,Default,NTP,0,0,0,,然而大家举头望月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But everyone who looks up at the Moon,
+Dialogue: 0,0:18:14.13,0:18:18.93,Default,NTP,0,0,0,,可以看到月球表面的明亮 昏暗的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can see light and dark areas on the lunar surface.
+Dialogue: 0,0:18:18.97,0:18:20.34,Default,NTP,0,0,0,,这些不是幻觉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And these are not an illusion
+Dialogue: 0,0:18:20.39,0:18:24.81,Default,NTP,0,0,0,,而是非常真实的高山和峡谷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but very real mountains and valleys.
+Dialogue: 0,0:18:24.85,0:18:27.64,Default,NTP,0,0,0,,明亮的区域是崎岖 多坑的高地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The light areas are rugged, cratered highlands
+Dialogue: 0,0:18:27.68,0:18:31.06,Default,NTP,0,0,0,,叫做"terrae" 拉丁语的"土地"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}known as, "terrae," Latin for "lands".
+Dialogue: 0,0:18:31.11,0:18:33.65,Default,NTP,0,0,0,,高地是月球原始地壳的一部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The highlands are part of the Moon's original crust
+Dialogue: 0,0:18:33.69,0:18:36.32,Default,NTP,0,0,0,,遭受到流星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was shattered by the impact of meteoroids,
+Dialogue: 0,0:18:36.36,0:18:38.65,Default,NTP,0,0,0,,小行星 彗星的冲击破坏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}asteroids, and comets.
+Dialogue: 0,0:18:38.70,0:18:43.16,Default,NTP,0,0,0,,月球上昏暗的区域叫做"maria"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The darker areas on the Moon are known as "maria".
+Dialogue: 0,0:18:43.20,0:18:47.50,Default,NTP,0,0,0,,"Maria"的意思是"海"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}"Mare" is a word meaning "sea".
+Dialogue: 0,0:18:47.54,0:18:50.21,Default,NTP,0,0,0,,那是远古的熔岩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are ancient lava beds that were
+Dialogue: 0,0:18:50.21,0:18:56.05,Default,NTP,0,0,0,,从前是流动的 但现在已经凝固了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at one time flowing, but are now solid.
+Dialogue: 0,0:18:56.09,0:18:59.17,Default,NTP,0,0,0,,形成于几十亿年前的火山喷发影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Formed from impact cratering over billions of years,
+Dialogue: 0,0:18:59.22,0:19:03.01,Default,NTP,0,0,0,,月海的面积占了月球表面的16%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the maria account for 16 percent of the Moon surface
+Dialogue: 0,0:19:03.05,0:19:06.39,Default,NTP,0,0,0,,看上去像水体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and look like bodies of water.
+Dialogue: 0,0:19:06.43,0:19:09.31,Default,NTP,0,0,0,,最新的看法是有巨大的小行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The latest thinking is that giant asteroids
+Dialogue: 0,0:19:09.35,0:19:10.94,Default,NTP,0,0,0,,击中了月球的另外一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hit the other side of the Moon
+Dialogue: 0,0:19:10.98,0:19:13.90,Default,NTP,0,0,0,,震撼着月球非常地醒目\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and rocked the Moon so significantly
+Dialogue: 0,0:19:13.94,0:19:17.23,Default,NTP,0,0,0,,熔岩在我们所看到的这一面渗透出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that lava oozed out of the side that we see
+Dialogue: 0,0:19:17.28,0:19:21.24,Default,NTP,0,0,0,,形成了这些大片的昏暗的熔岩区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and created these big dark expanses of lava
+Dialogue: 0,0:19:21.28,0:19:23.66,Default,NTP,0,0,0,,当然随着时间推移凝固了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that of course, solidified over time.
+Dialogue: 0,0:19:30.71,0:19:32.21,Default,NTP,0,0,0,,形成明暗对比的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ancient volcanic activity
+Dialogue: 0,0:19:32.25,0:19:35.21,Default,NTP,0,0,0,,远古火山活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that formed the contrasts of dark and light
+Dialogue: 0,0:19:35.50,0:19:37.71,Default,NTP,0,0,0,,被无意的中创造出 看上去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have inadvertently created what some see
+Dialogue: 0,0:19:37.75,0:19:42.15,Default,NTP,0,0,0,,像是人面特征\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the features of a human face.
+Dialogue: 0,0:19:44.60,0:19:46.89,Default,NTP,0,0,0,,眼球实际上是雨海(Mare Imbrium)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The eyeballs are actually the Mare Imbrium,
+Dialogue: 0,0:19:46.93,0:19:48.77,Default,NTP,0,0,0,,和静海(Mare Serenitatis)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sea of rains
+Dialogue: 0,0:19:48.77,0:19:54.90,Default,NTP,0,0,0,,意思是宁静之海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Mare Serenitatis which means sea of serenity.
+Dialogue: 0,0:19:54.94,0:20:00.86,Default,NTP,0,0,0,,鼻子是暑湾(Sinus Aestuum) 意思是巨浪之湾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The nose is the Sinus Aestuum, which means bay of billows.
+Dialogue: 0,0:20:00.90,0:20:03.42,Default,NTP,0,0,0,,大嘴是云海(Mare Nubium)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the open mouth is the Mare Nubium,
+Dialogue: 0,0:20:03.42,0:20:08.74,Default,NTP,0,0,0,,和认知海(Mare Cognitum)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the sea of clouds and the Mare Cognitum,or sea of knowledge.
+Dialogue: 0,0:20:08.79,0:20:10.95,Default,NTP,0,0,0,,人们看到月球上的"人"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For humans to see a man on the Moon
+Dialogue: 0,0:20:11.00,0:20:14.20,Default,NTP,0,0,0,,可能是源于我们试图了解月球奥秘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be our way of trying to understand the lunar mystery
+Dialogue: 0,0:20:14.25,0:20:18.00,Default,NTP,0,0,0,,以及我们与之不可分割联系在一起的缘故\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and how we're inextricably connected to it.
+Dialogue: 0,0:20:20.92,0:20:22.42,Default,NTP,0,0,0,,许多月球之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many mysteries of the Moon
+Dialogue: 0,0:20:22.47,0:20:26.68,Default,NTP,0,0,0,,已经深刻地影响到了我们的文明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have influenced our civilization in dramatic ways.
+Dialogue: 0,0:20:26.72,0:20:28.72,Default,NTP,0,0,0,,古人将历法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ancient man based his calendar,
+Dialogue: 0,0:20:28.76,0:20:32.93,Default,NTP,0,0,0,,农业 数学以及天文学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}agriculture, mathematics,
+Dialogue: 0,0:20:32.98,0:20:38.15,Default,NTP,0,0,0,,建立在不断交替但始终一贯的月相上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and astronomy...on the changing but consistent phases of the Moon.
+Dialogue: 0,0:20:39.19,0:20:42.11,Default,NTP,0,0,0,,在每个月里月球表现出在8个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every month, the Moon appears to change its shape
+Dialogue: 0,0:20:42.15,0:20:45.86,Default,NTP,0,0,0,,月相循环周期上变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}during an eight phase spin cycle.
+Dialogue: 0,0:20:46.91,0:20:50.45,Default,NTP,0,0,0,,为什么月球会有月相？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why does the Moon have phases?
+Dialogue: 0,0:20:52.00,0:20:54.29,Default,NTP,0,0,0,,月相的发生是因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The phases of the Moon
+Dialogue: 0,0:20:54.33,0:20:58.83,Default,NTP,0,0,0,,月球围绕着地球旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}occur because as the Moon orbits around the Earth,
+Dialogue: 0,0:20:58.88,0:21:04.34,Default,NTP,0,0,0,,我们看到的是它明亮一面的圆缺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we see more or less of its lit side.
+Dialogue: 0,0:21:04.38,0:21:06.72,Default,NTP,0,0,0,,我们看到的月球反射出来的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The light we see being reflected from the Moon
+Dialogue: 0,0:21:06.76,0:21:11.60,Default,NTP,0,0,0,,光实际上是来自太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is actually coming from the Sun.
+Dialogue: 0,0:21:11.64,0:21:13.22,Default,NTP,0,0,0,,想象一下太阳在这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine the Sun is over there
+Dialogue: 0,0:21:13.27,0:21:14.27,Default,NTP,0,0,0,,这是地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this is the Earth
+Dialogue: 0,0:21:14.31,0:21:15.81,Default,NTP,0,0,0,,这是月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this is the Moon.
+Dialogue: 0,0:21:15.85,0:21:20.82,Default,NTP,0,0,0,,当月球被太阳完全照亮时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Moon is fully lit by the Sun
+Dialogue: 0,0:21:20.86,0:21:24.03,Default,NTP,0,0,0,,我们就能看到它的亮面 那是满月\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we can see that lit side, it's a full Moon.
+Dialogue: 0,0:21:24.07,0:21:26.15,Default,NTP,0,0,0,,随着月球围绕着地球运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Moon goes around the Earth,
+Dialogue: 0,0:21:26.20,0:21:28.57,Default,NTP,0,0,0,,我们看到亮面越来越小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we see less and less
+Dialogue: 0,0:21:28.57,0:21:32.29,Default,NTP,0,0,0,,而暗面越来越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the lit side and more and more of the dark side.
+Dialogue: 0,0:21:34.83,0:21:36.66,Default,NTP,0,0,0,,满月时月球是在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The full Moon occurs when the Moon is
+Dialogue: 0,0:21:36.71,0:21:39.83,Default,NTP,0,0,0,,太阳到地球的对面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the opposite side of the Earth from the Sun
+Dialogue: 0,0:21:39.88,0:21:45.67,Default,NTP,0,0,0,,面对我们的月球表面整个被照亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the lunar surface facing us is fully lit.
+Dialogue: 0,0:21:45.72,0:21:47.38,Default,NTP,0,0,0,,月相的样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The shapes of the phases of the Moon
+Dialogue: 0,0:21:47.43,0:21:51.51,Default,NTP,0,0,0,,是由于我们在地球上观察的角度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are due to our perspective on Earth,
+Dialogue: 0,0:21:51.56,0:21:56.98,Default,NTP,0,0,0,,看到的是月球亮面的多与少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seeing more or less of the lit side of the Moon.
+Dialogue: 0,0:21:57.02,0:21:58.82,Default,NTP,0,0,0,,事实不然 比如\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not a case of...
+Dialogue: 0,0:21:58.82,0:22:05.49,Default,NTP,0,0,0,,地球遮挡了一些会照到月球的光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for example, the Earth blocking some of the...light that would have otherwise struck the Moon.
+Dialogue: 0,0:22:05.53,0:22:09.42,Default,NTP,0,0,0,,不管怎样确实发生了月食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That does occur, however, during an eclipse.
+Dialogue: 0,0:22:10.87,0:22:13.03,Default,NTP,0,0,0,,地球上远看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that terrestrial perspective
+Dialogue: 0,0:22:13.08,0:22:16.62,Default,NTP,0,0,0,,有时会捉弄我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can sometimes play tricks on us.
+Dialogue: 0,0:22:16.66,0:22:18.83,Default,NTP,0,0,0,,当提起月球的大小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it comes to the Moon size,
+Dialogue: 0,0:22:18.87,0:22:22.46,Default,NTP,0,0,0,,视觉会被蒙骗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}looks can be deceiving.
+Dialogue: 0,0:22:25.51,0:22:28.84,Default,NTP,0,0,0,,一些月球之谜很难理解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of the Moon's mysteries are difficult to comprehend
+Dialogue: 0,0:22:28.84,0:22:32.22,Default,NTP,0,0,0,,我们的眼睛告诉我们的是一回事 而科学告诉的则是另一回事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when our eyes tell us one thing and science, another.
+Dialogue: 0,0:22:32.22,0:22:36.22,Default,NTP,0,0,0,,我们只是需要对问题不同的视角\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We just need a different perspective on the problem.
+Dialogue: 0,0:22:36.27,0:22:39.27,Default,NTP,0,0,0,,有时满月在空中升起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Sometimes when the full Moon rises in the sky,
+Dialogue: 0,0:22:39.27,0:22:42.73,Default,NTP,0,0,0,,在地平线附近看上去要比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it appears much larger near the horizon
+Dialogue: 0,0:22:42.77,0:22:46.07,Default,NTP,0,0,0,,它在空中更高的地方来得大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than it does when it's positioned higher in the sky.
+Dialogue: 0,0:22:46.11,0:22:47.74,Default,NTP,0,0,0,,有些观察者判断月球在刚出现时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some observers judge the Moon to be as much as
+Dialogue: 0,0:22:47.78,0:22:52.53,Default,NTP,0,0,0,,要大出50到75%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}50 to 75 percent larger when it first appears.
+Dialogue: 0,0:22:52.57,0:22:57.16,Default,NTP,0,0,0,,那么满月在地平线附近时真的要大点吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but is the full Moon really larger when it's near the horizon?
+Dialogue: 0,0:22:57.20,0:23:00.04,Default,NTP,0,0,0,,我的朋友都认为月亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}My friends all think that the Moon is bigger
+Dialogue: 0,0:23:00.08,0:23:01.42,Default,NTP,0,0,0,,在地平线上时要更大些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it's on the horizon.
+Dialogue: 0,0:23:01.71,0:23:04.21,Default,NTP,0,0,0,,我认为月亮在地平线上时要更大些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think that the Moon is bigger when it's on the horizon.
+Dialogue: 0,0:23:04.25,0:23:08.67,Default,NTP,0,0,0,,那么是什么原因造成了看上去会如此不同呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what could be causing it to look so different?
+Dialogue: 0,0:23:08.72,0:23:11.59,Default,NTP,0,0,0,,月球并没有真正改变它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon doesn't really change its apparent size
+Dialogue: 0,0:23:11.64,0:23:16.14,Default,NTP,0,0,0,,从地平线到头顶的外观大小 但我们的视觉却是它要大些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the horizon to overhead. but our perception is that it's larger.
+Dialogue: 0,0:23:16.14,0:23:19.81,Default,NTP,0,0,0,,一种理论认为我们的头脑里判断月亮的大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One theory is that our mind judges the Moon's size
+Dialogue: 0,0:23:19.81,0:23:22.77,Default,NTP,0,0,0,,是与其它的物体有关\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in relation to other objects.
+Dialogue: 0,0:23:22.81,0:23:25.23,Default,NTP,0,0,0,,在地平线上看上去大些是因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It looks much larger at the horizon because
+Dialogue: 0,0:23:25.23,0:23:27.48,Default,NTP,0,0,0,,存在着我们能够与其相比较的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there are things we can compare it to,
+Dialogue: 0,0:23:27.48,0:23:28.53,Default,NTP,0,0,0,,而在头顶上时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whereas at the top of the sky,
+Dialogue: 0,0:23:28.57,0:23:32.10,Default,NTP,0,0,0,,只是其早已熟悉的自身形象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's out there by its little old self.
+Dialogue: 0,0:23:33.74,0:23:34.78,Default,NTP,0,0,0,,换句话说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In other words,
+Dialogue: 0,0:23:34.83,0:23:38.79,Default,NTP,0,0,0,,如果我们看到被月球比下去的 像房子那样大的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if we see a large object such as a house dwarfed by the Moon,
+Dialogue: 0,0:23:38.79,0:23:42.79,Default,NTP,0,0,0,,我们的大脑里就会告诉我们月球必然非常巨大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our mind tells us that the Moon must be enormous.
+Dialogue: 0,0:23:42.83,0:23:47.17,Default,NTP,0,0,0,,然而当月球孤身出现时 我们的大脑就不会作出那样的判断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But when the Moon is out by itself, our mind doesn't make that assumption,
+Dialogue: 0,0:23:47.17,0:23:51.47,Default,NTP,0,0,0,,看到的月球就很小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we see the Moon as small.
+Dialogue: 0,0:23:51.51,0:23:55.14,Default,NTP,0,0,0,,另一种可能性是庞邹错觉引起的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another possible cause of this is the Ponzo illusion,
+Dialogue: 0,0:23:55.14,0:23:57.14,Default,NTP,0,0,0,,是以马里奥·庞邹的名字命名的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}named after Mario Ponzo,
+Dialogue: 0,0:23:57.14,0:24:00.43,Default,NTP,0,0,0,,他提出大脑判断一个物体的大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}who suggested that the mind judges the size of an object
+Dialogue: 0,0:24:00.43,0:24:03.69,Default,NTP,0,0,0,,是基于它的背景\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}based on its background.
+Dialogue: 0,0:24:03.73,0:24:06.06,Default,NTP,0,0,0,,庞邹画出两条相同的线条\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ponzo drew two identical bars
+Dialogue: 0,0:24:06.06,0:24:08.23,Default,NTP,0,0,0,,横跨在随着距离消退的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}across a picture of railroad tracks
+Dialogue: 0,0:24:08.28,0:24:10.07,Default,NTP,0,0,0,,铁路轨道的图片上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as they recede in the distance.
+Dialogue: 0,0:24:10.11,0:24:11.53,Default,NTP,0,0,0,,上面的线条看上去要宽些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The upper bars look wider
+Dialogue: 0,0:24:11.57,0:24:14.16,Default,NTP,0,0,0,,那是因为它们看上去跨过了铁轨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because they appear to span the rails,
+Dialogue: 0,0:24:14.20,0:24:17.95,Default,NTP,0,0,0,,相对下面的线条恰好在铁轨之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compared to the lower bars, which fits between the rails.
+Dialogue: 0,0:24:17.99,0:24:21.00,Default,NTP,0,0,0,,然而事实上骑跨在铁轨上的线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But in fact, the lines overlaid on the tracks
+Dialogue: 0,0:24:21.00,0:24:25.44,Default,NTP,0,0,0,,两端的尺寸是一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are the same size at both ends.
+Dialogue: 0,0:24:27.88,0:24:31.88,Default,NTP,0,0,0,,带着一支铅笔到户外去 当月亮升起时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Go out and take a pencil, and when the Moon is rising,
+Dialogue: 0,0:24:31.88,0:24:35.39,Default,NTP,0,0,0,,拿上铅笔 伸出手臂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}put the pencil out at arms length and see how big the Moon is
+Dialogue: 0,0:24:35.39,0:24:39.85,Default,NTP,0,0,0,,看月亮相对铅笔上橡皮头有多大 然后几个小时后再出去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compared to the eraser on the pencil, and then go out a couple of hours later
+Dialogue: 0,0:24:39.89,0:24:41.35,Default,NTP,0,0,0,,在月亮升得更高时再做一遍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and do the same thing when the Moon is higher in the sky
+Dialogue: 0,0:24:41.39,0:24:43.98,Default,NTP,0,0,0,,你就会看到在两个时段里月亮相对铅笔的橡皮头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you'll see that the Moon is exactly the same size
+Dialogue: 0,0:24:44.02,0:24:48.02,Default,NTP,0,0,0,,大小实际上是一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in relation to the pencil eraser at both times.
+Dialogue: 0,0:24:53.82,0:24:58.99,Default,NTP,0,0,0,,当提起月亮的大小时可能会把我们戏弄一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon may play tricks with us when it comes to judging its size,
+Dialogue: 0,0:24:59.03,0:25:03.12,Default,NTP,0,0,0,,但是它对我们地球的影响可不是虚构的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but there is nothing imaginary about its effects on our Earth.
+Dialogue: 0,0:25:15.88,0:25:18.01,Default,NTP,0,0,0,,在所有隐蔽的月球之谜中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of all the hidden lunar mysteries,
+Dialogue: 0,0:25:18.05,0:25:22.09,Default,NTP,0,0,0,,有一个是刚好能够在地球上观察到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is one that can be observed right here on Earth.
+Dialogue: 0,0:25:23.43,0:25:26.39,Default,NTP,0,0,0,,这可能是能归咎于月球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It may be the most influential phenomena
+Dialogue: 0,0:25:26.44,0:25:28.23,Default,NTP,0,0,0,,最有影响力的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that can be attributed to the Moon.
+Dialogue: 0,0:25:32.28,0:25:33.61,Default,NTP,0,0,0,,在我们的地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From our place on Earth,
+Dialogue: 0,0:25:33.65,0:25:36.24,Default,NTP,0,0,0,,潮汐每天有规律地出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tides just appear to be the times of day when the
+Dialogue: 0,0:25:36.28,0:25:38.24,Default,NTP,0,0,0,,其时海水涨落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sea rises and falls.
+Dialogue: 0,0:25:38.28,0:25:41.53,Default,NTP,0,0,0,,不过那是个相互作用 引力的相互作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that's an interaction, a gravitational interaction,
+Dialogue: 0,0:25:41.58,0:25:42.74,Default,NTP,0,0,0,,在月球与地球之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between the Moon and the Earth,
+Dialogue: 0,0:25:42.79,0:25:45.66,Default,NTP,0,0,0,,因此当月球经过时…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so when the Moon is passing by...
+Dialogue: 0,0:25:45.71,0:25:48.54,Default,NTP,0,0,0,,它拉动海洋 把它抬起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It pulls on the oceans and pulls it up higher
+Dialogue: 0,0:25:48.58,0:25:51.17,Default,NTP,0,0,0,,这时我们看到了一个高潮位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we see it as a high tide.
+Dialogue: 0,0:25:54.21,0:25:55.88,Default,NTP,0,0,0,,海洋潮汐是由\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ocean tides are caused
+Dialogue: 0,0:25:55.92,0:26:00.76,Default,NTP,0,0,0,,太阳和月球的引力引起的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the gravitational pull of the Sun and our Moon.
+Dialogue: 0,0:26:00.80,0:26:03.18,Default,NTP,0,0,0,,太阳和月球两者吸引着地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun and the Moon both pull on the Earth
+Dialogue: 0,0:26:03.22,0:26:04.27,Default,NTP,0,0,0,,造成了潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and contribute to tides.
+Dialogue: 0,0:26:04.52,0:26:05.89,Default,NTP,0,0,0,,但是月球要近得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the Moon is much closer so its pull of gravity
+Dialogue: 0,0:26:05.93,0:26:11.98,Default,NTP,0,0,0,,所以它的引力感觉到比太阳更强\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is felt more strongly than the Sun's.
+Dialogue: 0,0:26:12.02,0:26:13.44,Default,NTP,0,0,0,,海洋学家Tetjana Ross\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Oceanographer Tetjana Ross
+Dialogue: 0,0:26:13.48,0:26:17.53,Default,NTP,0,0,0,,称月球永恒不变地拽着地球是很可怕的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}says the Moon's constant tug on the Earth is formidable.
+Dialogue: 0,0:26:17.57,0:26:20.16,Default,NTP,0,0,0,,月球的影响在潮汐中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The reason that the Moon's influence
+Dialogue: 0,0:26:20.20,0:26:22.49,Default,NTP,0,0,0,,如此明显的原因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is so visible in the form of tides
+Dialogue: 0,0:26:22.53,0:26:24.43,Default,NTP,0,0,0,,是因为水能够…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is because water can...
+Dialogue: 0,0:26:24.43,0:26:28.29,Default,NTP,0,0,0,,流动 水是柔性的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}run, it can move. it's malleable.
+Dialogue: 0,0:26:30.33,0:26:32.42,Default,NTP,0,0,0,,在加拿大一个偏远的海湾里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a remote bay in Canada,
+Dialogue: 0,0:26:32.46,0:26:34.37,Default,NTP,0,0,0,,一个社区已经学会了与神秘极端的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one community has learned to live
+Dialogue: 0,0:26:34.37,0:26:37.32,Default,NTP,0,0,0,,海洋潮汐共同生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with mysterious and extreme ocean tides
+Dialogue: 0,0:26:37.34,0:26:41.27,Default,NTP,0,0,0,,这种潮汐是地球上其它地方看不到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are found nowhere else on Earth.
+Dialogue: 0,0:26:42.51,0:26:45.39,Default,NTP,0,0,0,,虽然普通的潮汐涨起平均是3英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While normal tides rise by an average of three feet,
+Dialogue: 0,0:26:45.43,0:26:47.64,Default,NTP,0,0,0,,但是在新斯科舍和新不伦瑞克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the waters along the bay of
+Dialogue: 0,0:26:47.68,0:26:49.85,Default,NTP,0,0,0,,之间的芬迪湾的海水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Fundy between Nova Scotia and New Brunswick
+Dialogue: 0,0:26:49.89,0:26:54.05,Default,NTP,0,0,0,,每天两次涨起50英尺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}swell up to 50 feet twice every day.
+Dialogue: 0,0:26:55.69,0:26:58.65,Default,NTP,0,0,0,,芬迪湾涨起这么大的潮汐的原因之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the reasons the bay of Fundy has such large tides
+Dialogue: 0,0:26:58.70,0:27:02.11,Default,NTP,0,0,0,,是因为海湾下面的地形地貌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is because of the shape of the landforms underneath the bay
+Dialogue: 0,0:27:02.16,0:27:03.82,Default,NTP,0,0,0,,它是漏斗形的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's kind of a funnel shaped,
+Dialogue: 0,0:27:03.87,0:27:07.83,Default,NTP,0,0,0,,只要水面抬起 它就迅速升起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so as the water level rises it really rises rapidly.
+Dialogue: 0,0:27:07.87,0:27:11.46,Default,NTP,0,0,0,,高潮来时1000亿吨海水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At high tide, a hundred billion tons of water
+Dialogue: 0,0:27:11.50,0:27:15.09,Default,NTP,0,0,0,,在一个小时左右涌进海湾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sloshes into the bay in a matter of hours.
+Dialogue: 0,0:27:15.13,0:27:16.25,Default,NTP,0,0,0,,然后在退潮时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then during low tide,
+Dialogue: 0,0:27:16.30,0:27:20.05,Default,NTP,0,0,0,,大部分海水象浴缸一样排出去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most of it drains out like a bathtub.
+Dialogue: 0,0:27:20.09,0:27:21.51,Default,NTP,0,0,0,,形成的海湾就是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The bay is shaped just so,
+Dialogue: 0,0:27:21.55,0:27:24.64,Default,NTP,0,0,0,,所以最先的潮汐来到时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that the first tide comes in
+Dialogue: 0,0:27:24.68,0:27:26.72,Default,NTP,0,0,0,,就象波浪往前推\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like a wave and it moves along.
+Dialogue: 0,0:27:26.77,0:27:29.18,Default,NTP,0,0,0,,被顶回 来到口子上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reflects off the back and it comes out to the mouth
+Dialogue: 0,0:27:29.23,0:27:30.18,Default,NTP,0,0,0,,刚好同时又一拨潮水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just at the same time as the next
+Dialogue: 0,0:27:30.18,0:27:36.11,Default,NTP,0,0,0,,赶来了 所以它们叠加了起来 对此我们称之为共振\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tide had built up and so they add up in what we call "resonance."
+Dialogue: 0,0:27:37.15,0:27:39.74,Default,NTP,0,0,0,,潮汐共振恰好是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tidal resonance is just getting the...
+Dialogue: 0,0:27:39.78,0:27:43.86,Default,NTP,0,0,0,,与高潮升起同时发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rise of the high tides to coincide;
+Dialogue: 0,0:27:43.91,0:27:46.33,Default,NTP,0,0,0,,某些波长反映出来的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Certain wavelengths are reflected in a way that
+Dialogue: 0,0:27:46.37,0:27:48.12,Default,NTP,0,0,0,,它们相互增强\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they reinforce each other
+Dialogue: 0,0:27:48.16,0:27:49.54,Default,NTP,0,0,0,,相互放大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and amplify each other
+Dialogue: 0,0:27:49.58,0:27:52.87,Default,NTP,0,0,0,,潮汐因此而被加强了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the tide...is therefore amplified.
+Dialogue: 0,0:27:52.92,0:27:55.46,Default,NTP,0,0,0,,芬迪湾独特的漏斗形状\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The unique funnel shape of the bay of Fundy
+Dialogue: 0,0:27:55.50,0:28:00.26,Default,NTP,0,0,0,,促使了这个共振和推高了潮位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}contributes to this resonance and the height of its tides.
+Dialogue: 0,0:28:00.30,0:28:03.30,Default,NTP,0,0,0,,海湾逐渐分裂成一系列的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The bay gradually splits into a series of
+Dialogue: 0,0:28:03.34,0:28:10.10,Default,NTP,0,0,0,,内港与河叉约束了潮流 促成了奇特的潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}basins and river junctions that restricts the tidal flow and contributes to the extraordinary tides.
+Dialogue: 0,0:28:12.14,0:28:17.15,Default,NTP,0,0,0,,潮汐是我们星球永远和月球栓在一起的又一种形式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tides, one more way our planet is forever tied to the Moon.
+Dialogue: 0,0:28:17.19,0:28:19.90,Default,NTP,0,0,0,,然而还没有因此结束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it doesn't end there.
+Dialogue: 0,0:28:22.95,0:28:24.32,Default,NTP,0,0,0,,我们知道月球的引力一直在拉扯着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know that the Moon's gravity is constantly pulling up
+Dialogue: 0,0:28:24.36,0:28:32.83,Default,NTP,0,0,0,,我们地球的海洋 同时地球的引里也在拉扯着月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the Earth's oceans while the Earth's gravity pulls down on the Moon.
+Dialogue: 0,0:28:32.87,0:28:35.04,Default,NTP,0,0,0,,太空中一切物体都在被别的物体拉扯着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everything in space is tugging on everything else
+Dialogue: 0,0:28:35.08,0:28:36.33,Default,NTP,0,0,0,,因此地球拉扯着月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so the Earth is tugging on the Moon
+Dialogue: 0,0:28:36.58,0:28:39.01,Default,NTP,0,0,0,,而月球也拉扯着地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Moon is tugging on the Earth.
+Dialogue: 0,0:28:40.76,0:28:43.34,Default,NTP,0,0,0,,月球拉扯我们的海洋是如此的强烈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon's gravitational pull on our oceans is so powerful
+Dialogue: 0,0:28:43.38,0:28:50.35,Default,NTP,0,0,0,,造成了我们地球的两边所谓的"潮起"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it creates what's called a "tidal bulge" on both sides of the planet.
+Dialogue: 0,0:28:50.39,0:28:52.93,Default,NTP,0,0,0,,月球吸引着地球的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon pulls on the Earth gravitationally and...
+Dialogue: 0,0:28:52.98,0:28:55.90,Default,NTP,0,0,0,,一旦这样它也拉扯着海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it does so, it also pulls on the oceans that are sort of
+Dialogue: 0,0:28:55.90,0:28:59.00,Default,NTP,0,0,0,,向它稍微有点隆起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stretched up a little bit toward it.
+Dialogue: 0,0:28:59.02,0:29:01.61,Default,NTP,0,0,0,,它最先拉起地球的前面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it pulls preferentially on the front side of the Earth,
+Dialogue: 0,0:29:01.65,0:29:03.44,Default,NTP,0,0,0,,把海洋拉向它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pushes, pulls the ocean toward it,
+Dialogue: 0,0:29:03.49,0:29:04.95,Default,NTP,0,0,0,,然后拉着地球有一点点缩小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then pulls the Earth a little bit less,
+Dialogue: 0,0:29:04.99,0:29:06.20,Default,NTP,0,0,0,,而在背面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and in the backside,
+Dialogue: 0,0:29:06.24,0:29:09.78,Default,NTP,0,0,0,,海洋拉向月球没那么厉害\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the ocean is not pulled quite as far toward the Moon.
+Dialogue: 0,0:29:09.83,0:29:11.59,Default,NTP,0,0,0,,所以那就是为什么地球上会有两个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that's why there are two
+Dialogue: 0,0:29:11.59,0:29:16.46,Default,NTP,0,0,0,,所谓的"潮起"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}bulges that are called "tidal bulges" on the Earth.
+Dialogue: 0,0:29:18.50,0:29:20.46,Default,NTP,0,0,0,,我们辽阔的海洋上的潮汐隆起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tidal bulges on our vast oceans
+Dialogue: 0,0:29:20.50,0:29:24.34,Default,NTP,0,0,0,,实际上影响到了地球的自转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually impact the Earth's rotation.
+Dialogue: 0,0:29:24.38,0:29:28.64,Default,NTP,0,0,0,,潮汐隆起是月球造成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This tidal bulge that's created by the Moon,
+Dialogue: 0,0:29:28.68,0:29:31.72,Default,NTP,0,0,0,,它朝着月球稍微有一点点突出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's moving out ahead of the Moon a little bit,
+Dialogue: 0,0:29:31.77,0:29:34.68,Default,NTP,0,0,0,,月球实际上是往后拉着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Moon is actually pulling back
+Dialogue: 0,0:29:34.73,0:29:36.64,Default,NTP,0,0,0,,这个潮汐隆起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on this tidal bulge.
+Dialogue: 0,0:29:36.69,0:29:39.23,Default,NTP,0,0,0,,那么当月球往后拉着这个潮汐隆起时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, when the Moon pulls back on this tidal bulge,
+Dialogue: 0,0:29:39.27,0:29:42.65,Default,NTP,0,0,0,,也在减缓地球的旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that slows the Earth down.
+Dialogue: 0,0:29:42.69,0:29:45.65,Default,NTP,0,0,0,,没有我们的月球 地球将旋转的快得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without our Moon, the Earth would spin much faster
+Dialogue: 0,0:29:45.70,0:29:47.99,Default,NTP,0,0,0,,我们的一天将会短得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and our days would be much shorter.
+Dialogue: 0,0:29:48.03,0:29:52.16,Default,NTP,0,0,0,,这将影响到这个行星上生命的进化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this would affect how life has evolved on this planet.
+Dialogue: 0,0:29:56.21,0:29:57.46,Default,NTP,0,0,0,,然而这些潮汐的力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But these tidal forces,
+Dialogue: 0,0:29:57.50,0:29:59.33,Default,NTP,0,0,0,,把地球栓在月球上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which tie the Earth to the Moon,
+Dialogue: 0,0:29:59.38,0:30:02.50,Default,NTP,0,0,0,,可是双向作用的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}travel a two-way street.
+Dialogue: 0,0:30:02.55,0:30:07.88,Default,NTP,0,0,0,,我们地球对月球也具有不可否认的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Earth also has an undeniable effect on the Moon.
+Dialogue: 0,0:30:07.93,0:30:09.76,Default,NTP,0,0,0,,那么如果月球上有水的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if the Moon had water on it,
+Dialogue: 0,0:30:09.80,0:30:11.43,Default,NTP,0,0,0,,地球的引力也会造成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would the Earth's gravitational pull
+Dialogue: 0,0:30:11.47,0:30:14.52,Default,NTP,0,0,0,,月球海洋类似的潮汐吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cause similar tides on lunar oceans?
+Dialogue: 0,0:30:14.56,0:30:16.64,Default,NTP,0,0,0,,答案是会的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The answer is yes.
+Dialogue: 0,0:30:16.68,0:30:18.94,Default,NTP,0,0,0,,事实上几十亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, billions of years ago,
+Dialogue: 0,0:30:18.98,0:30:22.90,Default,NTP,0,0,0,,月球上几乎全部是液体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon was almost entirely made up of liquid,
+Dialogue: 0,0:30:22.94,0:30:24.57,Default,NTP,0,0,0,,但不是水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but not water.
+Dialogue: 0,0:30:24.61,0:30:27.90,Default,NTP,0,0,0,,当月球刚刚诞生 非常年轻时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Moon was first formed and very young,
+Dialogue: 0,0:30:27.95,0:30:31.03,Default,NTP,0,0,0,,完全是液体的岩石 岩浆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was entirely liquid rock, magma.
+Dialogue: 0,0:30:31.07,0:30:36.56,Default,NTP,0,0,0,,月球曾经一直象天空中炽热的地狱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon would've been like a blazing inferno in the sky.
+Dialogue: 0,0:30:39.00,0:30:40.79,Default,NTP,0,0,0,,因为岩石是液体的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And because the rock was liquid,
+Dialogue: 0,0:30:40.83,0:30:43.21,Default,NTP,0,0,0,,尽管还是岩石\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even though it was rock,
+Dialogue: 0,0:30:43.25,0:30:45.75,Default,NTP,0,0,0,,地球拉扯的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the gravitational pull of the Earth
+Dialogue: 0,0:30:45.80,0:30:47.01,Default,NTP,0,0,0,,以及月球的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the orbit of the Moon
+Dialogue: 0,0:30:47.05,0:30:50.43,Default,NTP,0,0,0,,引起了液体岩石的潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}caused the liquid rock to have tides,
+Dialogue: 0,0:30:50.47,0:30:53.47,Default,NTP,0,0,0,,就象如今地球上的水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like the water on the Earth today.
+Dialogue: 0,0:30:55.01,0:30:57.47,Default,NTP,0,0,0,,随着时间的推移 月球以及它的熔岩潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over time, the Moon and its lava tides
+Dialogue: 0,0:30:57.52,0:31:00.60,Default,NTP,0,0,0,,冷却形成了固体的荒凉景色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}cooled into a solid desolate landscape.
+Dialogue: 0,0:31:00.65,0:31:02.19,Default,NTP,0,0,0,,但是地球与月球之间的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the gravitational relationship
+Dialogue: 0,0:31:02.23,0:31:06.32,Default,NTP,0,0,0,,引力关系一直没有结束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between the Earth and the Moon has never ceased.
+Dialogue: 0,0:31:08.36,0:31:10.15,Default,NTP,0,0,0,,能够想象每个夜晚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But imagine if there was
+Dialogue: 0,0:31:10.20,0:31:12.16,Default,NTP,0,0,0,,没有了月亮露面的情景吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no Moon making an appearance each night.
+Dialogue: 0,0:31:12.20,0:31:14.66,Default,NTP,0,0,0,,世界将会有什么不同呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How different a world would it be?
+Dialogue: 0,0:31:20.29,0:31:25.59,Default,NTP,0,0,0,,我们总是和这个叫做月球的神秘天体联系在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're always tied to this mysterious orb we call the Moon.
+Dialogue: 0,0:31:25.63,0:31:31.01,Default,NTP,0,0,0,,然而一旦没有了月球 地球会有什么结果呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But what would have happened to Earth if there were no Moon?
+Dialogue: 0,0:31:31.05,0:31:35.60,Default,NTP,0,0,0,,事实上 我们存活到现在部分原因是由于月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fact that we exist today is in part, due to the Moon
+Dialogue: 0,0:31:35.64,0:31:40.31,Default,NTP,0,0,0,,一直在让地球打造\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}allowing the Earth to create
+Dialogue: 0,0:31:40.31,0:31:44.31,Default,NTP,0,0,0,,我们赖以生存的环境 早期的海洋 所有的矿物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the environment, the early oceans, all the minerals that allow us to exist.
+Dialogue: 0,0:31:45.36,0:31:48.36,Default,NTP,0,0,0,,如果从来就没有月球的话 现在的地球将是另外一个模样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there had never been a Moon, Earth would be a different place today.
+Dialogue: 0,0:31:48.36,0:31:52.53,Default,NTP,0,0,0,,因为月球引起了地球上的潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because the Moon creates tides on Earth
+Dialogue: 0,0:31:52.57,0:31:55.62,Default,NTP,0,0,0,,塑造了我们的海岸线 景观\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that shape our shorelines and shape the landscape.
+Dialogue: 0,0:32:05.46,0:32:07.96,Default,NTP,0,0,0,,这是月球影响我们进化的情形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here's how the Moon impacted our evolution.
+Dialogue: 0,0:32:07.96,0:32:10.72,Default,NTP,0,0,0,,大约4.5亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About 4 1/2 billion years ago,
+Dialogue: 0,0:32:10.72,0:32:16.04,Default,NTP,0,0,0,,月球与地球之间的引力要比现在强好多好多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the gravitational forces between the Moon and Earth were much stronger.
+Dialogue: 0,0:32:16.05,0:32:19.51,Default,NTP,0,0,0,,当时月球已经形成 它距离地球要比现在近好多好多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Moon was formed, it was much, much closer to us than it is today.
+Dialogue: 0,0:32:19.85,0:32:22.35,Default,NTP,0,0,0,,它围绕地球旋转一周仅仅5个小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It took only five hours for it to orbit the Earth.
+Dialogue: 0,0:32:22.35,0:32:26.52,Default,NTP,0,0,0,,由于它离得太近所以它在空中非常庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it was huge in the sky because it was so much closer.
+Dialogue: 0,0:32:26.56,0:32:29.94,Default,NTP,0,0,0,,月球施加给地球的很强的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And more gravity exerted onto the Earth from a closer Moon
+Dialogue: 0,0:32:29.94,0:32:34.99,Default,NTP,0,0,0,,意味着世界对我们的命运来说犹如一个物种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}meant the world to our fate as a species.
+Dialogue: 0,0:32:35.03,0:32:38.41,Default,NTP,0,0,0,,在很近的月球的影响下 海洋第一次冲刷我们的星球时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When oceans first washed our planet under a closer Moon,
+Dialogue: 0,0:32:38.41,0:32:42.83,Default,NTP,0,0,0,,潮汐是今天的1000倍大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the tides were a thousand times greater than they are today.
+Dialogue: 0,0:32:42.87,0:32:43.87,Default,NTP,0,0,0,,你能想象得出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you could imagine
+Dialogue: 0,0:32:43.92,0:32:47.17,Default,NTP,0,0,0,,不是我们现在看到的10英尺的潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that instead of having a 10-foot tide like we have today,
+Dialogue: 0,0:32:47.25,0:32:49.13,Default,NTP,0,0,0,,而是1万英尺的潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'd have a 10,000-foot tide.
+Dialogue: 0,0:32:49.13,0:32:53.94,Default,NTP,0,0,0,,因此你就有了1万英尺的潮汐所冲刷的内陆了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, you would have 10,000-foot tides rushing inland.
+Dialogue: 0,0:32:58.35,0:33:01.39,Default,NTP,0,0,0,,这些猛烈的潮汐有助于创造出适宜的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These intense tides helped create the right
+Dialogue: 0,0:33:01.39,0:33:05.06,Default,NTP,0,0,0,,海洋环境让生命得以发育\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}conditions in the oceans for life to develop.
+Dialogue: 0,0:33:08.11,0:33:12.40,Default,NTP,0,0,0,,潮汐撕开了地壳坚硬的外层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tides ripped the outer layers of the crust
+Dialogue: 0,0:33:12.44,0:33:14.65,Default,NTP,0,0,0,,卷入了大海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}off of the Earth, and put them into the oceans.
+Dialogue: 0,0:33:14.70,0:33:19.33,Default,NTP,0,0,0,,矿产丰富的汤汁 原始的汤汁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that mineral-rich soup, the primordial soup,
+Dialogue: 0,0:33:19.33,0:33:25.27,Default,NTP,0,0,0,,能够培育和进化生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was capable of developing and evolving life.
+Dialogue: 0,0:33:27.71,0:33:33.90,Default,NTP,0,0,0,,有些科学家认为潮水坑将是生命进化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And some scientists believe that tidal pools would have been an ideal setting
+Dialogue: 0,0:33:33.97,0:33:38.85,Default,NTP,0,0,0,,和适应陆地环境的理想之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for life to evolve and adapt to a terrestrial environment.
+Dialogue: 0,0:33:40.89,0:33:42.64,Default,NTP,0,0,0,,那将是个了不起的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would have been a great place,
+Dialogue: 0,0:33:42.68,0:33:47.74,Default,NTP,0,0,0,,比如对于来自海洋的第一批生物长出自己的腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for example, for the first...creatures from the sea to get their legs.
+Dialogue: 0,0:33:47.77,0:33:49.44,Default,NTP,0,0,0,,它们可以来到潮水坑里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They could have come into a tidal pool where
+Dialogue: 0,0:33:49.44,0:33:52.19,Default,NTP,0,0,0,,那里干半天 湿半天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's wet half the day and dry half the day,
+Dialogue: 0,0:33:52.19,0:33:54.07,Default,NTP,0,0,0,,将是个非常棒的地方 能够长出你的腿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would have been a great place to grow your legs
+Dialogue: 0,0:33:54.07,0:33:57.11,Default,NTP,0,0,0,,并最终走向陆地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventually move onto land.
+Dialogue: 0,0:33:59.16,0:34:01.37,Default,NTP,0,0,0,,按照天文学家尼尔·科明斯的说法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}According to astronomer Neil Comins,
+Dialogue: 0,0:34:01.37,0:34:07.21,Default,NTP,0,0,0,,我们不能低估月球对我们作为一个物种进化的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we can't underestimate the Moon's influence on our development as a species.
+Dialogue: 0,0:34:07.25,0:34:09.63,Default,NTP,0,0,0,,若没有月球我不认为进化的过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without the Moon, I don't think that that process
+Dialogue: 0,0:34:09.63,0:34:12.34,Default,NTP,0,0,0,,会如此的快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have occurred nearly as quickly.
+Dialogue: 0,0:34:12.34,0:34:16.13,Default,NTP,0,0,0,,我们已经进化到我们的生物钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have evolved so that our biological clocks
+Dialogue: 0,0:34:16.13,0:34:22.43,Default,NTP,0,0,0,,基于了大约23到24小时了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are based on around 23, 24-hour time.
+Dialogue: 0,0:34:22.47,0:34:26.60,Default,NTP,0,0,0,,如果月球从来没有过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Moon had never existed,
+Dialogue: 0,0:34:26.64,0:34:30.94,Default,NTP,0,0,0,,那么一天就将是6小时长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the day would be six hours long,
+Dialogue: 0,0:34:30.98,0:34:37.65,Default,NTP,0,0,0,,我们作为生物是没法生存到现在的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we, as the creatures we are today, couldn't exist.
+Dialogue: 0,0:34:37.70,0:34:41.57,Default,NTP,0,0,0,,随着月球减缓了地球的运行 稳定了我们的旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Moon slowed Earth's orbit, it stabilized our rotation
+Dialogue: 0,0:34:41.57,0:34:45.37,Default,NTP,0,0,0,,影响到我们的气候和海洋潮汐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and affected our climate and ocean tides.
+Dialogue: 0,0:34:45.41,0:34:48.21,Default,NTP,0,0,0,,月球极大地影响了哺乳动物的进化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the Moon greatly influenced the development of mammals
+Dialogue: 0,0:34:48.25,0:34:51.75,Default,NTP,0,0,0,,所以它们的生存依赖于月光之夜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so dependent on Moonlit nights for their survival.
+Dialogue: 0,0:34:51.79,0:34:55.96,Default,NTP,0,0,0,,月球对我们的生存确实产生了重大的影响了吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Has the Moon had a major impact on our existence?
+Dialogue: 0,0:34:55.96,0:34:58.01,Default,NTP,0,0,0,,我想 绝对是的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think absolutely.
+Dialogue: 0,0:35:03.05,0:35:04.81,Default,NTP,0,0,0,,每次月圆时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every time the Moon is full,
+Dialogue: 0,0:35:04.85,0:35:07.77,Default,NTP,0,0,0,,月球的模样是一模一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the lunar image is exactly the same.
+Dialogue: 0,0:35:15.36,0:35:18.36,Default,NTP,0,0,0,,这是个令人费解之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a puzzling mystery to this.
+Dialogue: 0,0:35:18.40,0:35:19.78,Default,NTP,0,0,0,,它让许多人感到困惑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It makes many wonder
+Dialogue: 0,0:35:19.82,0:35:24.37,Default,NTP,0,0,0,,我们为什么永远看不到月球的另外一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}why we never see another side of the Moon.
+Dialogue: 0,0:35:28.41,0:35:32.71,Default,NTP,0,0,0,,经过了45亿年的演变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After 4.5 billion years of evolving,
+Dialogue: 0,0:35:32.75,0:35:35.34,Default,NTP,0,0,0,,地月系统已经到达了这一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth-Moon system has arrived at a point
+Dialogue: 0,0:35:35.38,0:35:40.93,Default,NTP,0,0,0,,月球始终将同一个面露给我们看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the Moon shows us the same face all the time.
+Dialogue: 0,0:35:42.97,0:35:44.34,Default,NTP,0,0,0,,几十亿年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Billions of years ago,
+Dialogue: 0,0:35:44.39,0:35:46.85,Default,NTP,0,0,0,,火山潮汐所引起的摩擦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the friction created by volcanic tides
+Dialogue: 0,0:35:46.89,0:35:49.64,Default,NTP,0,0,0,,造成了月球减缓了自己的旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}caused the Moon to slow its rotation
+Dialogue: 0,0:35:49.89,0:35:53.60,Default,NTP,0,0,0,,成为了对地球潮汐锁定了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and become tidally locked to Earth.
+Dialogue: 0,0:35:53.65,0:35:55.90,Default,NTP,0,0,0,,这并不意味我们的月球不在旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This doesn't mean our Moon isn't spinning,
+Dialogue: 0,0:35:55.94,0:35:57.86,Default,NTP,0,0,0,,而是在几十亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it has slowed down
+Dialogue: 0,0:35:57.90,0:36:01.27,Default,NTP,0,0,0,,转的缓慢了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}considerably over billions of years.
+Dialogue: 0,0:36:02.61,0:36:05.32,Default,NTP,0,0,0,,月球的秘密要隐藏在另外一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the secret of the Moon's hidden far side
+Dialogue: 0,0:36:05.37,0:36:09.00,Default,NTP,0,0,0,,就必须保持同步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has to do with synchronicity.
+Dialogue: 0,0:36:10.04,0:36:11.58,Default,NTP,0,0,0,,如果这是地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If this is the Earth
+Dialogue: 0,0:36:11.62,0:36:14.88,Default,NTP,0,0,0,,这是我们所看到的月球的那一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if this is the side of the Moon that we see,
+Dialogue: 0,0:36:14.92,0:36:17.75,Default,NTP,0,0,0,,如果月球不在旋转的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if the Moon were not rotating,
+Dialogue: 0,0:36:17.80,0:36:24.01,Default,NTP,0,0,0,,那么 最终我们会看到月球的另外一面的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then, eventually, we would see the other side of the Moon.
+Dialogue: 0,0:36:24.05,0:36:25.18,Default,NTP,0,0,0,,因为月球旋转的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because the Moon is rotating
+Dialogue: 0,0:36:25.22,0:36:28.05,Default,NTP,0,0,0,,与它围绕地球旋转的速度相同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at the same rate that it orbits the Earth,
+Dialogue: 0,0:36:28.10,0:36:34.40,Default,NTP,0,0,0,,同步旋转 所以我们就始终看到同一个面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}synchronous rotation, we always see the same side.
+Dialogue: 0,0:36:36.44,0:36:38.98,Default,NTP,0,0,0,,月球的另外一面不总是黑暗的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The far side of the Moon is not always dark.
+Dialogue: 0,0:36:39.03,0:36:41.99,Default,NTP,0,0,0,,如果到太空中你就能看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were out in space, you'd be able to see that
+Dialogue: 0,0:36:42.03,0:36:44.78,Default,NTP,0,0,0,,太阳照射到月球的所有的面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Sun hits all sides of the Moon
+Dialogue: 0,0:36:44.78,0:36:49.00,Default,NTP,0,0,0,,伴随着月球围绕地球一个月长的轨道运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the Moon makes its month-long orbit around the Earth.
+Dialogue: 0,0:36:49.04,0:36:53.17,Default,NTP,0,0,0,,然而在我们所处的地方 我们就只能看到一个面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But from where we sit, we can only see one side.
+Dialogue: 0,0:36:56.21,0:37:01.55,Default,NTP,0,0,0,,引力牢牢控制着地月关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity is in firm control of the Earth-Moon relationship.
+Dialogue: 0,0:37:01.59,0:37:03.30,Default,NTP,0,0,0,,对吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or is it?
+Dialogue: 0,0:37:11.39,0:37:13.85,Default,NTP,0,0,0,,把月球掌控在我们轨道上的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gravity that has held the Moon in our orbit
+Dialogue: 0,0:37:13.89,0:37:16.48,Default,NTP,0,0,0,,引力正慢慢地失去控制…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is slowly losing its grip...
+Dialogue: 0,0:37:16.52,0:37:17.98,Default,NTP,0,0,0,,其后果是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the consequences of
+Dialogue: 0,0:37:18.02,0:37:20.11,Default,NTP,0,0,0,,足以让人看到月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are enough to make one look at the Moon
+Dialogue: 0,0:37:20.15,0:37:23.62,Default,NTP,0,0,0,,发出全新的月光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a whole new light.
+Dialogue: 0,0:37:26.86,0:37:30.78,Default,NTP,0,0,0,,引力是地球抓住月球的力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity is the force that holds the Moon to the Earth.
+Dialogue: 0,0:37:30.83,0:37:34.75,Default,NTP,0,0,0,,正像运动员拉住… 链球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just as this athlete is bound to the...hammer
+Dialogue: 0,0:37:34.79,0:37:36.58,Default,NTP,0,0,0,,围绕着自己的身体旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is orbiting about his body,
+Dialogue: 0,0:37:36.62,0:37:39.63,Default,NTP,0,0,0,,因此引力将月球与地球栓在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so gravity binds the Moon and the Earth.
+Dialogue: 0,0:37:39.67,0:37:41.59,Default,NTP,0,0,0,,如果引力突然消失了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if gravity all of a sudden went away,
+Dialogue: 0,0:37:41.63,0:37:43.80,Default,NTP,0,0,0,,那么月球就将飞到太空中去了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon would fly off into space,
+Dialogue: 0,0:37:43.84,0:37:48.50,Default,NTP,0,0,0,,就象这个链球飞出场地一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just as this hammer flies off over the field.
+Dialogue: 0,0:37:52.52,0:37:55.02,Default,NTP,0,0,0,,当然 引力的作用永远不会终止的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Of course, gravity never stops working.
+Dialogue: 0,0:37:55.06,0:37:59.81,Default,NTP,0,0,0,,然而月球会以某种方式悄悄挣脱对其的控制吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but could the Moon somehow slip loose of its grip?
+Dialogue: 0,0:38:00.86,0:38:07.10,Default,NTP,0,0,0,,事实是月球一直在慢慢地游离我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The truth is the Moon has always been slowly slipping away from us.
+Dialogue: 0,0:38:08.28,0:38:11.83,Default,NTP,0,0,0,,月球一直在不停地远离 而且它还在远离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Moon has been moving away, and it's still moving away.
+Dialogue: 0,0:38:11.87,0:38:13.16,Default,NTP,0,0,0,,事实上月球远离我们的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In fact, the Moon moves away from us
+Dialogue: 0,0:38:13.20,0:38:15.33,Default,NTP,0,0,0,,是每年两英寸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a couple of inches every year.
+Dialogue: 0,0:38:15.37,0:38:18.12,Default,NTP,0,0,0,,最后 月球将远离到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And eventually, the Moon is gonna be so far away
+Dialogue: 0,0:38:18.17,0:38:21.34,Default,NTP,0,0,0,,不像我们现在所见到的月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it won't even seem like our Moon anymore.
+Dialogue: 0,0:38:22.38,0:38:25.17,Default,NTP,0,0,0,,打月球与地球相互交织在一起以来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ever since the Moon and Earth became intertwined,
+Dialogue: 0,0:38:25.21,0:38:27.76,Default,NTP,0,0,0,,地球引力拽拉的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the energy from the Earth's gravitational tug
+Dialogue: 0,0:38:27.80,0:38:32.85,Default,NTP,0,0,0,,一直在引起月球螺旋着逐渐远离我们的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been causing the Moon to spiral away from our planet.
+Dialogue: 0,0:38:32.89,0:38:34.18,Default,NTP,0,0,0,,它目前正远离我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's currently moving away from us
+Dialogue: 0,0:38:34.22,0:38:38.39,Default,NTP,0,0,0,,以每年一到两英寸的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a rate of one to two inches each year.
+Dialogue: 0,0:38:38.44,0:38:40.35,Default,NTP,0,0,0,,这个意想不到的影响的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The key to this unexpected effect
+Dialogue: 0,0:38:40.40,0:38:44.27,Default,NTP,0,0,0,,在于由月球造成地球的潮汐隆起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are the tidal bulges created on the Earth by the Moon.
+Dialogue: 0,0:38:44.32,0:38:45.40,Default,NTP,0,0,0,,地球上的潮汐实际上是在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The tides on Earth actually act to
+Dialogue: 0,0:38:45.44,0:38:51.99,Default,NTP,0,0,0,,把月球推出去 每次绕地球运行都在旋转着 一步步远离地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to propel the Moon outward, spiraling out further from the Earth every orbit.
+Dialogue: 0,0:38:52.03,0:38:54.49,Default,NTP,0,0,0,,原因是地球的自转要比月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The reason is because the Earth spins faster
+Dialogue: 0,0:38:54.54,0:38:56.37,Default,NTP,0,0,0,,围绕我们旋转来得快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the Moon orbits us. So...
+Dialogue: 0,0:38:56.41,0:38:59.08,Default,NTP,0,0,0,,所以在月球拉起一个潮汐隆起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}after the Moon has pulled up a tidal bulge,
+Dialogue: 0,0:38:59.12,0:39:00.21,Default,NTP,0,0,0,,造成高潮位后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}raised the high tide,
+Dialogue: 0,0:39:00.25,0:39:03.08,Default,NTP,0,0,0,,地球的旋转和拉动稍微比它有点提前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth turns and pulls slightly ahead of it.
+Dialogue: 0,0:39:03.13,0:39:06.05,Default,NTP,0,0,0,,所以 就有那么一点点向前的力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, there's just a little bit of a forward
+Dialogue: 0,0:39:06.09,0:39:08.55,Default,NTP,0,0,0,,我们称之为扭矩 有那么一点点额外的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}force, we call it a torque, a little bit of an extra kick
+Dialogue: 0,0:39:08.59,0:39:10.55,Default,NTP,0,0,0,,非常细微的加速的反冲力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that speeds it up ever so slightly,
+Dialogue: 0,0:39:10.59,0:39:12.89,Default,NTP,0,0,0,,然而随着时间的推移 不停的加速使得它跑得越来越快\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but over time, that speeding up makes it go faster and faster, which,
+Dialogue: 0,0:39:13.18,0:39:18.90,Default,NTP,0,0,0,,在轨道上 就意味着它不停地旋转着 走得越来越远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in orbit, means it's going, spiraling further and further away.
+Dialogue: 0,0:39:18.93,0:39:21.69,Default,NTP,0,0,0,,随着时间的推移 月球将扩大自己的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over time the Moon will expand its orbit
+Dialogue: 0,0:39:21.73,0:39:27.44,Default,NTP,0,0,0,,直到有那么一天 最终超出我们地球的引力范围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until someday it will finally be beyond our Earth's gravity.
+Dialogue: 0,0:39:27.49,0:39:30.57,Default,NTP,0,0,0,,但是科学家称没有理由为此恐慌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But scientists say there is no cause for panic.
+Dialogue: 0,0:39:30.61,0:39:31.95,Default,NTP,0,0,0,,还要经过相当长的时间后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Quite a bit of time will pass before
+Dialogue: 0,0:39:31.99,0:39:34.99,Default,NTP,0,0,0,,月球会走出我们的视野 脱离轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon is out of sight and out of orbit.
+Dialogue: 0,0:39:35.03,0:39:37.12,Default,NTP,0,0,0,,估计最终的离开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Estimated time of total departure,
+Dialogue: 0,0:39:37.16,0:39:39.75,Default,NTP,0,0,0,,将要500亿年的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 50 billion years.
+Dialogue: 0,0:39:39.79,0:39:43.67,Default,NTP,0,0,0,,而我们的太阳继续燃烧将不足100亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And our Sun will flame out in less than 10 billion years.
+Dialogue: 0,0:39:47.51,0:39:49.46,Default,NTP,0,0,0,,纵贯历史月球给我们带来了欣喜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Throughout history, the Moon has delighted,
+Dialogue: 0,0:39:49.51,0:39:52.97,Default,NTP,0,0,0,,惊奇 有时还有恐慌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}surprised, and sometimes terrified us.
+Dialogue: 0,0:39:53.01,0:39:54.43,Default,NTP,0,0,0,,我们地球的运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the movement of our Earth
+Dialogue: 0,0:39:54.47,0:39:56.97,Default,NTP,0,0,0,,可能是月球之谜的起因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be the cause of this mystery.
+Dialogue: 0,0:40:00.77,0:40:02.19,Default,NTP,0,0,0,,月球的另外一个秘密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another secret of the Moon
+Dialogue: 0,0:40:02.23,0:40:05.27,Default,NTP,0,0,0,,已经被记载到了古代的文献中了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been documented in ancient texts
+Dialogue: 0,0:40:05.31,0:40:07.44,Default,NTP,0,0,0,,并一直为之震惊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and continues to amaze.
+Dialogue: 0,0:40:07.48,0:40:11.40,Default,NTP,0,0,0,,它通常每隔几年就会出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it usually appears every few years.
+Dialogue: 0,0:40:11.45,0:40:17.78,Default,NTP,0,0,0,,在月全食期间 整个月球会戏剧性地改变颜色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During a total lunar eclipse, the full Moon dramatically changes colors.
+Dialogue: 0,0:40:17.83,0:40:20.33,Default,NTP,0,0,0,,究竟是什么原因呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What causes this?
+Dialogue: 0,0:40:20.37,0:40:22.37,Default,NTP,0,0,0,,月食的道理很简单\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A lunar eclipse is very simple.
+Dialogue: 0,0:40:22.42,0:40:24.46,Default,NTP,0,0,0,,它只是当地球走到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It just occurs
+Dialogue: 0,0:40:24.50,0:40:26.50,Default,NTP,0,0,0,,太阳与月球中间时才发生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the Earth gets between the Sun and the Moon.
+Dialogue: 0,0:40:26.54,0:40:28.63,Default,NTP,0,0,0,,所以当地球遮挡时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when Earth gets in the way,
+Dialogue: 0,0:40:28.67,0:40:30.46,Default,NTP,0,0,0,,地球投下一个巨大的阴影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth casts a giant shadow...
+Dialogue: 0,0:40:30.51,0:40:33.68,Default,NTP,0,0,0,,阻挡了阳光照射到月球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that blocks the sunlight from reaching the Moon.
+Dialogue: 0,0:40:33.72,0:40:35.64,Default,NTP,0,0,0,,在月食的食甚时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the peak of this eclipse,
+Dialogue: 0,0:40:35.68,0:40:39.70,Default,NTP,0,0,0,,月球完全进入到了地球的阴影即本影时颜色转变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon passes completely into Earth's shadow or umbra,
+Dialogue: 0,0:40:39.70,0:40:42.05,Default,NTP,0,0,0,,并不是人们所预料的全黑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and transforms, not to black,
+Dialogue: 0,0:40:42.08,0:40:46.40,Default,NTP,0,0,0,,而是变成了血红色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as one might expect, but to a blood red.
+Dialogue: 0,0:40:48.44,0:40:51.23,Default,NTP,0,0,0,,结果是一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What happens is some of the sunlight
+Dialogue: 0,0:40:51.28,0:40:52.82,Default,NTP,0,0,0,,被地球阻挡的阳光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's being blocked by the Earth
+Dialogue: 0,0:40:52.86,0:40:55.36,Default,NTP,0,0,0,,实际上是经过了大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually slips through the atmosphere.
+Dialogue: 0,0:40:55.41,0:40:58.37,Default,NTP,0,0,0,,红光通过得最好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the red light gets through the best.
+Dialogue: 0,0:40:58.41,0:41:00.66,Default,NTP,0,0,0,,阳光经过地球的大气层时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Sun's rays pass through the Earth's atmosphere,
+Dialogue: 0,0:41:00.70,0:41:02.54,Default,NTP,0,0,0,,会稍微有点弯曲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they are bent a little bit.
+Dialogue: 0,0:41:02.58,0:41:06.04,Default,NTP,0,0,0,,红光经过这样的弯曲 使得它越过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the red rays are bent in such a way that they make it over the...
+Dialogue: 0,0:41:06.08,0:41:10.26,Default,NTP,0,0,0,,越过地球的表面照亮月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over the surface of the Earth and illuminate the Moon.
+Dialogue: 0,0:41:10.30,0:41:11.96,Default,NTP,0,0,0,,只有红色或橙色的光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when only red or orange light
+Dialogue: 0,0:41:12.01,0:41:13.97,Default,NTP,0,0,0,,到达月球的表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reaches the lunar surface,
+Dialogue: 0,0:41:14.01,0:41:18.09,Default,NTP,0,0,0,,月球就呈现出红色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Moon appears red,
+Dialogue: 0,0:41:18.14,0:41:22.00,Default,NTP,0,0,0,,另外一种光学现象平添了月球的神秘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}another optical phenomenon that adds to the Moon's mystique.
+Dialogue: 0,0:41:23.23,0:41:24.56,Default,NTP,0,0,0,,那个神秘感部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And part of that mystique
+Dialogue: 0,0:41:24.60,0:41:30.52,Default,NTP,0,0,0,,可以归因于月球戏剧性地出现在我们的上方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can be attributed to the dramatic presence of the Moon above us.
+Dialogue: 0,0:41:30.57,0:41:35.20,Default,NTP,0,0,0,,它在夜空中让其它的天体相形见绌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It outshines every other celestial body in the night sky.
+Dialogue: 0,0:41:37.24,0:41:39.20,Default,NTP,0,0,0,,月球有着特别的魔法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a special magic to the Moon,
+Dialogue: 0,0:41:39.24,0:41:41.30,Default,NTP,0,0,0,,它那变化着的月相\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its changing phases,
+Dialogue: 0,0:41:41.41,0:41:47.83,Default,NTP,0,0,0,,在夜空中高挂闪亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its brightness in a otherwise dark sky.
+Dialogue: 0,0:41:48.88,0:41:52.30,Default,NTP,0,0,0,,然而 我们也能在白天看到月亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we also see the Moon during the daytime.
+Dialogue: 0,0:41:52.34,0:41:54.55,Default,NTP,0,0,0,,这是什么原因？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why is this?
+Dialogue: 0,0:41:54.59,0:41:56.34,Default,NTP,0,0,0,,其实很容易理解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's actually very easy to understand
+Dialogue: 0,0:41:56.38,0:41:58.93,Default,NTP,0,0,0,,为什么能在白天看到月亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}why we can see the Moon during the daylight.
+Dialogue: 0,0:41:58.97,0:42:00.72,Default,NTP,0,0,0,,你可以在家里来示范一下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can do this demonstration at home.
+Dialogue: 0,0:42:00.76,0:42:03.22,Default,NTP,0,0,0,,你所需要的就是将明亮的光源作为太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All you need is a bright light to act as the Sun
+Dialogue: 0,0:42:03.27,0:42:05.43,Default,NTP,0,0,0,,一只水果作为月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a piece of fruit to act as the Moon.
+Dialogue: 0,0:42:05.48,0:42:07.89,Default,NTP,0,0,0,,我的脸就作为地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}My face is acting as the Earth.
+Dialogue: 0,0:42:08.19,0:42:10.52,Default,NTP,0,0,0,,被照亮的部分是白天的部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The lit-up side is the daylight side,
+Dialogue: 0,0:42:10.56,0:42:12.94,Default,NTP,0,0,0,,阴影部分是夜晚的部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the part in shadow is the nighttime side.
+Dialogue: 0,0:42:12.98,0:42:15.11,Default,NTP,0,0,0,,现在月球当然围绕着地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, the Moon, of course, orbits the Earth,
+Dialogue: 0,0:42:15.11,0:42:18.40,Default,NTP,0,0,0,,在其运行的一个月里的某些时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and at some of the times during the month in its orbit,
+Dialogue: 0,0:42:18.45,0:42:20.82,Default,NTP,0,0,0,,月球处在白昼的那一边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's on the daylight side of the Moon.
+Dialogue: 0,0:42:20.87,0:42:23.74,Default,NTP,0,0,0,,所以我就能够在白天看到它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So I'm able to see it in full daylight.
+Dialogue: 0,0:42:33.92,0:42:36.05,Default,NTP,0,0,0,,事实上有许多行星和恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Actually, many planets and stars
+Dialogue: 0,0:42:36.09,0:42:38.72,Default,NTP,0,0,0,,只是在白天在我们的上空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are just above us during the daytime
+Dialogue: 0,0:42:38.76,0:42:41.26,Default,NTP,0,0,0,,但是太阳光确实是那么的明亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the light from the Sun is just so bright
+Dialogue: 0,0:42:41.30,0:42:44.26,Default,NTP,0,0,0,,让它们几乎看不出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it obscures nearly all of them.
+Dialogue: 0,0:42:44.31,0:42:47.77,Default,NTP,0,0,0,,只有月亮 它比最近的恒星亮10万倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only the Moon, which is 100,000 times brighter than the nearest star,
+Dialogue: 0,0:42:47.81,0:42:51.10,Default,NTP,0,0,0,,能透出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}shines through.
+Dialogue: 0,0:42:51.15,0:42:53.36,Default,NTP,0,0,0,,在白天我们不总是能看到月亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't always see the Moon during the day
+Dialogue: 0,0:42:53.40,0:42:56.19,Default,NTP,0,0,0,,因为它不停地围绕着地球运转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's constantly moving around our Earth,
+Dialogue: 0,0:42:56.24,0:43:00.28,Default,NTP,0,0,0,,它不可能在每天的同一时间呆在同一个位置上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's not in the same position at the same time everyday.
+Dialogue: 0,0:43:00.32,0:43:05.06,Default,NTP,0,0,0,,不过在地球的某个地方 它始终能够被看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, somewhere on the planet, it's always visible.
+Dialogue: 0,0:43:06.20,0:43:08.79,Default,NTP,0,0,0,,然而 尽管已经有所认识 但并非月球的所有的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as we learned, not everything about the Moon
+Dialogue: 0,0:43:08.83,0:43:11.96,Default,NTP,0,0,0,,都能够很容易得到解释或理解了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is easy to explain, or understand.
+Dialogue: 0,0:43:12.00,0:43:16.13,Default,NTP,0,0,0,,还有大量的问题尚未解决\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are still plenty of questions left unanswered.
+Dialogue: 0,0:43:16.17,0:43:17.76,Default,NTP,0,0,0,,自有记载的历史开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's been part of the Moon's mystique,
+Dialogue: 0,0:43:17.80,0:43:21.05,Default,NTP,0,0,0,,就一直存在着月球之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}since history was first recorded.
+Dialogue: 0,0:43:21.09,0:43:23.30,Default,NTP,0,0,0,,我们永远紧贴着我们的邻居\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We are forever tight to our neighbor,
+Dialogue: 0,0:43:23.35,0:43:26.60,Default,NTP,0,0,0,,但是 我们对关联却知之甚少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we know so little about that dependence.
+Dialogue: 0,0:43:26.64,0:43:28.22,Default,NTP,0,0,0,,可能还有其它正在发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There could be other things that are happening
+Dialogue: 0,0:43:28.27,0:43:31.15,Default,NTP,0,0,0,,可是我们至今尚不知晓\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we just don't know about yet.
+Dialogue: 0,0:43:34.19,0:43:35.77,Default,NTP,0,0,0,,大约会在下个世纪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over the next century or so,
+Dialogue: 0,0:43:35.82,0:43:43.82,Default,NTP,0,0,0,,我认为科学将带领我们进一步地弄明白它的奥秘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think that science is going to...take us further into understanding its mysteries.
+Dialogue: 0,0:43:43.87,0:43:53.08,Default,NTP,0,0,0,,我们是否会完全认识它呢？ 我对此表示怀疑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whether we will fully understand it? I doubt it.
+Dialogue: 0,0:43:53.13,0:43:54.33,Default,NTP,0,0,0,,当然我不认为认识了所有的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Certainly I don't think we know everything
+Dialogue: 0,0:43:54.38,0:43:55.59,Default,NTP,0,0,0,,就是认识了月球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is to know about the Moon.
+Dialogue: 0,0:43:55.63,0:43:57.25,Default,NTP,0,0,0,,有大量的东西需要去认识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is a tremendous amount to learn,
+Dialogue: 0,0:43:57.30,0:44:05.10,Default,NTP,0,0,0,,但是幸亏它在附近 我们在未来可进一步探索和了解它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but...fortunately it's within reach it and we will go exploring it at further and learn a lot more about it.
+Dialogue: 0,0:44:05.93,0:44:12.48,Default,NTP,0,0,0,,更彻底地探索月球世界之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Until we will our efforts to explore the lunar world more thoroughly...
+Dialogue: 0,0:44:15.02,0:44:17.07,Default,NTP,0,0,0,,我们可能永远都不会知道所有秘密\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we may never know all the secrets,
+Dialogue: 0,0:44:17.11,0:44:20.49,Default,NTP,0,0,0,,或希望解决隐藏的月球之谜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or hope to solve the hidden mysteries of the Moon.
+Dialogue: 0,0:44:21.00,0:44:27.00,Default,NTP,0,0,0,,谢谢观赏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks For Viewing

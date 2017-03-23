@@ -1,0 +1,692 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: YYeTs
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:01.30,0:00:05.92,Default,NTP,0,0,0,,玄黄端现 太极混沌如鸡蛋 随着轰的一声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning there was darkness... And then... BANG!
+Dialogue: 0,0:00:05.97,0:00:11.37,Default,NTP,0,0,0,,诞生了无限膨胀的时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Giving birth to an endless expanding existence of time, space and matter.
+Dialogue: 0,0:00:11.92,0:00:16.48,Default,NTP,0,0,0,,现在所见超乎我们的想象 超越了客观认知极限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now see further than we've ever imagined, beyond the limits of our existence,
+Dialogue: 0,0:00:16.53,0:00:19.27,Default,NTP,0,0,0,,那地方我们称之为"宇宙"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a place we call... THE UNIVERSE
+Dialogue: 0,0:00:21.89,0:00:25.08,Default,NTP,0,0,0,,在我们的太阳系以外有行星吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are there planets beyond our solar system?
+Dialogue: 0,0:00:25.54,0:00:28.58,Default,NTP,0,0,0,,这个问题很少有人敢探索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a question few have dared to probe.
+Dialogue: 0,0:00:28.89,0:00:31.60,Default,NTP,0,0,0,,实际上最初开始寻找行星的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The origin of hunting for planets started, really,
+Dialogue: 0,0:00:31.60,0:00:34.55,Default,NTP,0,0,0,,是些科学狂热份子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from the lunatic fringe of science.
+Dialogue: 0,0:00:34.68,0:00:38.06,Default,NTP,0,0,0,,现在数百个神奇的星球已经被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, hundreds of these exotic worlds have been found.
+Dialogue: 0,0:00:38.48,0:00:41.30,Default,NTP,0,0,0,,它们中会有存在生命吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could any of them be home to alien life?
+Dialogue: 0,0:00:41.32,0:00:44.10,Default,NTP,0,0,0,,目前 我们发现这类行星是些…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now, the sort of planets we're discovering are kind of...
+Dialogue: 0,0:00:44.12,0:00:45.57,Default,NTP,0,0,0,,怪物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}monsters.
+Dialogue: 0,0:00:46.19,0:00:48.56,Default,NTP,0,0,0,,你会立刻变为灰烬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would be incinerated immediately
+Dialogue: 0,0:00:48.61,0:00:52.40,Default,NTP,0,0,0,,之前你真的有点对周围的环境感到兴奋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before you had a chance to really sort of groove on your surroundings.
+Dialogue: 0,0:00:53.47,0:00:55.88,Default,NTP,0,0,0,,然而有些行星还是很有希望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But some planets hold more promise.
+Dialogue: 0,0:00:56.28,0:01:00.47,Default,NTP,0,0,0,,我对格雷司43b星感到兴奋 几乎要跳起来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm so excited about Gliese 436, I'm almost jumping out of my clothes.
+Dialogue: 0,0:01:00.64,0:01:04.07,Default,NTP,0,0,0,,我们即将找到另外一颗地球了吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could we be on the verge of finding another Earth?
+Dialogue: 0,0:01:04.12,0:01:09.37,Default,NTP,0,0,0,,我们还是不知道我们的地球究竟是颗很普通的行星呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We still don't know whether our Earth is a commonly occurring planet
+Dialogue: 0,0:01:09.46,0:01:11.40,Default,NTP,0,0,0,,还是十亿分之一的怪物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a one-in-a-billion freak.
+Dialogue: 0,0:01:11.95,0:01:16.02,Default,NTP,0,0,0,,尖端的科学 陌生的星球 狂野的气候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cutting-edge science, strange worlds, and wild weather,
+Dialogue: 0,0:01:16.14,0:01:20.70,Default,NTP,0,0,0,,伴随着我们在宇宙中探寻"日外行星"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as we travel the Universe in search of"alien planets".
+Dialogue: 0,0:01:21.00,0:01:24.00,Default,,0,0,1,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:24.00,0:01:28.00,Default,,0,0,8,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:春树  字幕来源:五羊皮  调校:御雪寒狼  招募Q号:76846146{\r}
+Dialogue: 0,0:01:28.00,0:01:33.00,Default,NTP,0,0,0,,[历史频道] 第二季 第一集 日外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}[History Channel] The UniverseⅡ 01of19 Alien.Planets
+Dialogue: 0,0:01:33.44,0:01:38.40,Default,NTP,0,0,0,,潜伏在飞马座里 距离地球50光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Lurking in the constellation Pegasus, 50 light-years from Earth,
+Dialogue: 0,0:01:38.50,0:01:40.35,Default,NTP,0,0,0,,有一颗巨大的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a monstrous planet.
+Dialogue: 0,0:01:41.58,0:01:45.50,Default,NTP,0,0,0,,高温气体巨星几乎跟木星一样庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A superheated gas giant almost as massive as Jupiter,
+Dialogue: 0,0:01:45.91,0:01:49.56,Default,NTP,0,0,0,,围绕着它的太阳快速运转运行一圈还不到四天的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whipping around its star in a little over four days.
+Dialogue: 0,0:01:50.51,0:01:55.11,Default,NTP,0,0,0,,在1995年它被命名为"51飞马B"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's called"51 Pegasi b" and in 1995,
+Dialogue: 0,0:01:55.16,0:01:59.95,Default,NTP,0,0,0,,发现它是第一颗围绕陌生的太阳运转的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it became the first planet detected orbiting an alien sun.
+Dialogue: 0,0:02:01.37,0:02:03.42,Default,NTP,0,0,0,,这是个里程碑式的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a landmark discovery,
+Dialogue: 0,0:02:03.93,0:02:07.21,Default,NTP,0,0,0,,然而这只是更大探索的起步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but just a stepping stone on an even greater quest
+Dialogue: 0,0:02:07.54,0:02:10.34,Default,NTP,0,0,0,,我们要找到和地球相似的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to find a planet that looks more like our own.
+Dialogue: 0,0:02:11.20,0:02:14.23,Default,NTP,0,0,0,,最终天文学家回避不了的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ultimate but elusive goal for astronomers
+Dialogue: 0,0:02:14.46,0:02:16.43,Default,NTP,0,0,0,,就是要找到另一颗地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is to find another Earth.
+Dialogue: 0,0:02:16.93,0:02:20.41,Default,NTP,0,0,0,,我们寻找的是:判断出地球在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we're after is the appreciation
+Dialogue: 0,0:02:20.46,0:02:24.83,Default,NTP,0,0,0,,宇宙广袤的环境中适合呆的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of where our Earth fits in, in the grand context of our Universe.
+Dialogue: 0,0:02:25.13,0:02:27.84,Default,NTP,0,0,0,,我们乐意能够找到另外一个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we'd love to be able to find other Earths.
+Dialogue: 0,0:02:27.97,0:02:30.22,Default,NTP,0,0,0,,然而那些地球真的难找\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Earths are so undetectable,
+Dialogue: 0,0:02:30.55,0:02:33.59,Default,NTP,0,0,0,,小小的星球不可能发出那么明亮的光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}little chunks of rock that don't emit much light.
+Dialogue: 0,0:02:35.43,0:02:38.60,Default,NTP,0,0,0,,类地行星在宇宙中有多少可能？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How common might Earth-like planets be in the Universe?
+Dialogue: 0,0:02:39.17,0:02:43.85,Default,NTP,0,0,0,,即使所有的恒星中只有1%存在地球那样的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even if only one percent of all stars were circled by a planet like our own,
+Dialogue: 0,0:02:44.40,0:02:49.68,Default,NTP,0,0,0,,那也意味着有十亿颗地球等着被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that would still mean there are billions of other Earths waiting to be discovered.
+Dialogue: 0,0:02:50.65,0:02:52.75,Default,NTP,0,0,0,,我们相当有把握\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We are almost sure
+Dialogue: 0,0:02:52.90,0:02:56.71,Default,NTP,0,0,0,,岩石构成的类地行星大量存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that rocky Earth-like planets exist in abundance out there,
+Dialogue: 0,0:02:56.76,0:02:58.25,Default,NTP,0,0,0,,但是和地球有多像呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but how Earth-like?
+Dialogue: 0,0:02:58.59,0:03:03.13,Default,NTP,0,0,0,,对地球的独特性还存在争论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are still open questions about the uniqueness of our Earth,
+Dialogue: 0,0:03:03.48,0:03:06.83,Default,NTP,0,0,0,,我们还不知道我们的地球是否与众不同的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we don't know whether our Earth is unusual or not.
+Dialogue: 0,0:03:06.88,0:03:11.98,Default,NTP,0,0,0,,我认为 这是个极其深远 令人烦恼的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's an extremely profound and, I think, disturbing question.
+Dialogue: 0,0:03:13.78,0:03:15.98,Default,NTP,0,0,0,,在日外行星的领域里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the realm of alien planets,
+Dialogue: 0,0:03:16.03,0:03:19.02,Default,NTP,0,0,0,,存在广泛的可以想象的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there is a wide range of imaginable worlds.
+Dialogue: 0,0:03:20.52,0:03:24.58,Default,NTP,0,0,0,,可以找到海洋星球 完全被水所覆盖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We might find ocean worlds, completely covered in water,
+Dialogue: 0,0:03:25.35,0:03:27.03,Default,NTP,0,0,0,,找到冰封的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}frigid ice planets,
+Dialogue: 0,0:03:28.25,0:03:31.89,Default,NTP,0,0,0,,像火星一样的星球 但或许会有厚厚的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mars-like worlds, but perhaps with thick atmospheres
+Dialogue: 0,0:03:31.97,0:03:34.68,Default,NTP,0,0,0,,布满了大量的活火山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fed by massive active volcanoes,
+Dialogue: 0,0:03:35.79,0:03:39.54,Default,NTP,0,0,0,,甚至还有行星天上有两颗太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and even planets with two suns in their skies.
+Dialogue: 0,0:03:40.78,0:03:43.95,Default,NTP,0,0,0,,可能有的行星对人类十分友好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There may be planets that humans would find hospitable,
+Dialogue: 0,0:03:44.31,0:03:47.46,Default,NTP,0,0,0,,而人类难以踏足其它行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and others on which humans wouldn't dare tread
+Dialogue: 0,0:03:47.72,0:03:50.89,Default,NTP,0,0,0,,因为那里将只能是其他生物的栖息地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that could still be home to other types of creatures.
+Dialogue: 0,0:03:52.37,0:03:54.70,Default,NTP,0,0,0,,或许我们到目前为止的主要经验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perhaps the major lesson we've learned so far
+Dialogue: 0,0:03:54.75,0:03:56.69,Default,NTP,0,0,0,,是寻找围绕太阳运转的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from looking the planets around the stars
+Dialogue: 0,0:03:56.75,0:04:00.01,Default,NTP,0,0,0,,那是我们能够考虑到的大多数行星所具有的性质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that nature can make a lot more planets that we can dream of.
+Dialogue: 0,0:04:02.58,0:04:05.99,Default,NTP,0,0,0,,哪怕只找到一颗类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Finding just one other truly Earth-like planet
+Dialogue: 0,0:04:06.04,0:04:09.16,Default,NTP,0,0,0,,都将暗示地球在宇宙中是很普通的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would hint that Earths are common in the Universe.
+Dialogue: 0,0:04:09.57,0:04:14.41,Default,NTP,0,0,0,,如果地球很普通那么或许生命也是普遍存在的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if Earths are common, then perhaps life, too, is widespread.
+Dialogue: 0,0:04:16.57,0:04:20.51,Default,NTP,0,0,0,,然而在目前为止所发现的200多颗日外行星中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But of the over 200 alien planet detected so far,
+Dialogue: 0,0:04:21.20,0:04:24.87,Default,NTP,0,0,0,,就我们所知大多数似乎都完全不适合生命生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}most of them seem uttlerly hostile to life as we know it.
+Dialogue: 0,0:04:26.65,0:04:29.57,Default,NTP,0,0,0,,迄今为止我们发现了三类星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So far, we found sort of three kinds of worlds.
+Dialogue: 0,0:04:29.94,0:04:33.45,Default,NTP,0,0,0,,一类行星 他们的轨道实在离恒星太近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One kind are the planets that are really close to the star that they orbit,
+Dialogue: 0,0:04:33.50,0:04:35.68,Default,NTP,0,0,0,,完全会被烤死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they're totally baked to death.
+Dialogue: 0,0:04:36.81,0:04:40.56,Default,NTP,0,0,0,,接着是那些距离恒星相当远 非常寒冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then there are the ones that are quite far away, and they're pretty cold.
+Dialogue: 0,0:04:41.27,0:04:43.88,Default,NTP,0,0,0,,还有一些具有很大偏心轨道的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then there are the ones in the highly eccentric orbits
+Dialogue: 0,0:04:43.93,0:04:47.34,Default,NTP,0,0,0,,它们有时离太阳很近 有时离太阳很远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which sometimes get close to the star and sometimes far away.
+Dialogue: 0,0:04:47.99,0:04:51.75,Default,NTP,0,0,0,,所以它们是冷热交替\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they're alternately very hot and cold.
+Dialogue: 0,0:04:52.57,0:04:57.01,Default,NTP,0,0,0,,到目前为止 我们确实还没有发现有行星上存在森林\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So far, we definitely haven't found any worlds with jungles and forests.
+Dialogue: 0,0:04:57.37,0:04:59.41,Default,NTP,0,0,0,,确实我们还没有发现有行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Indeed, we haven't found any worlds
+Dialogue: 0,0:04:59.46,0:05:03.37,Default,NTP,0,0,0,,有直接的迹象表明有适合居住的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are square smack in the habitable zone where there's
+Dialogue: 0,0:05:03.42,0:05:06.30,Default,NTP,0,0,0,,表面存在水和其它适宜条件的区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}liquid water on the surface and other nice conditions.
+Dialogue: 0,0:05:07.94,0:05:11.87,Default,NTP,0,0,0,,我们的观点是就是把这个地球作为参考\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our frame of reference for what we consider to be a nice planet is this one.
+Dialogue: 0,0:05:12.51,0:05:14.23,Default,NTP,0,0,0,,我们已经相当适应地球了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We like it quite a bit.
+Dialogue: 0,0:05:14.89,0:05:18.93,Default,NTP,0,0,0,,我们有可供呼吸的空气 舒适的温度 还有水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've got breathable air, it's a pleasant temperature, and there is water.
+Dialogue: 0,0:05:19.47,0:05:22.57,Default,NTP,0,0,0,,即使是在我们的太阳系里还找不到像地球这样的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And even in our own solar system we don't see a lot of planets like that.
+Dialogue: 0,0:05:23.09,0:05:26.67,Default,NTP,0,0,0,,目前我们发现那种行星是些怪物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now the sort of planets we're discovering are kind of monsters.
+Dialogue: 0,0:05:27.61,0:05:29.66,Default,NTP,0,0,0,,换句话说是些很极端的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In other words, they're extremes.
+Dialogue: 0,0:05:32.58,0:05:37.75,Default,NTP,0,0,0,,那么有着岩石地壳 海洋和大量生物的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So is the Earth, with its rocky surface, oceans, and abundant life,
+Dialogue: 0,0:05:37.81,0:05:42.14,Default,NTP,0,0,0,,只是一个在宇宙中没有其它近亲的行星奇迹吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just a planetary wonder with no close kin in the cosmos?
+Dialogue: 0,0:05:43.28,0:05:47.78,Default,NTP,0,0,0,,早期的日外行星的探索对此还没有答案\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The early discoveries of alien planet have yet to answer that question,
+Dialogue: 0,0:05:48.17,0:05:53.11,Default,NTP,0,0,0,,但这些探索带来的合理的结论是过去所做的似乎是徒劳的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they have brought legitimacy to what once seemed like a futile quest.
+Dialogue: 0,0:05:54.84,0:05:57.68,Default,NTP,0,0,0,,虽然许多人认为一定会有其它的地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While many believe there had to be other worlds out there
+Dialogue: 0,0:05:57.73,0:05:59.83,Default,NTP,0,0,0,,存在于浩瀚的宇宙中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the vastness of the Universe,
+Dialogue: 0,0:05:59.88,0:06:04.32,Default,NTP,0,0,0,,寻找它们被普遍认为是现在的科学做不到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}locating them was widely considered beyond the reach of modern science.
+Dialogue: 0,0:06:05.31,0:06:07.14,Default,NTP,0,0,0,,仅仅在几十年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Only a few decades ago,
+Dialogue: 0,0:06:07.19,0:06:11.50,Default,NTP,0,0,0,,一位天文学家搜寻到了所谓的"日外行星"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an astronomer hunting for these so-called"extrasolar planets",
+Dialogue: 0,0:06:11.58,0:06:15.98,Default,NTP,0,0,0,,就被当作搜寻到UFO那样议论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was taken about as seriously as someone searching for UFOs.
+Dialogue: 0,0:06:17.58,0:06:21.75,Default,NTP,0,0,0,,搜寻行星开始于上世纪八 九十年代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The search for planets, as it started in the 1980s and 1990s,
+Dialogue: 0,0:06:22.00,0:06:26.85,Default,NTP,0,0,0,,一直被认为是跳出了权威的科学常规\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was considered off of the beaten track of standard science.
+Dialogue: 0,0:06:28.10,0:06:32.42,Default,NTP,0,0,0,,80年代早期 天文学家格夫·马尔西的事业一无成就\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the early '80s, astronomer Geoff Marcy's career was going nowhere.
+Dialogue: 0,0:06:32.71,0:06:36.63,Default,NTP,0,0,0,,他研究恒星的磁场进入了死胡同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}His research into the magnetic fields of stars had reached a dead end,
+Dialogue: 0,0:06:36.90,0:06:40.90,Default,NTP,0,0,0,,他开始质疑自己的科学能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and he was beginning to question his own abilities as a scientist.
+Dialogue: 0,0:06:41.42,0:06:44.94,Default,NTP,0,0,0,,当我第一次开始考虑搜寻行星时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When I first began thinking about looking for planets,
+Dialogue: 0,0:06:45.03,0:06:48.24,Default,NTP,0,0,0,,还处在自己认为事业已经结束了的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was in a time in my career when I thought it was over.
+Dialogue: 0,0:06:48.61,0:06:51.92,Default,NTP,0,0,0,,我想… 自己作为科学家已经没有希望了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I thought there were... There's no hope for me as a scientist, and I thought
+Dialogue: 0,0:06:52.22,0:06:55.46,Default,NTP,0,0,0,,我想熄灭怒火最好的一击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the best shot I had going out in flames
+Dialogue: 0,0:06:55.64,0:06:59.65,Default,NTP,0,0,0,,就是尝试大家都不会从事的实验…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was to try an experiment that everybody thought would never work...
+Dialogue: 0,0:06:59.71,0:07:02.34,Default,NTP,0,0,0,,也就是 去寻找其它恒星周围的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Namely, looking for planets around other stars.
+Dialogue: 0,0:07:02.48,0:07:06.76,Default,NTP,0,0,0,,大多数人认为我们永远都找不到哪怕是一颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And most people thought we would never find any planets.
+Dialogue: 0,0:07:09.01,0:07:12.21,Default,NTP,0,0,0,,在格夫·马尔西之前 他的合作者保罗·巴特勒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Before Geoff Marcy, his collaborator, Paul Butler,
+Dialogue: 0,0:07:12.26,0:07:15.49,Default,NTP,0,0,0,,还有世界各地的少数天文学拓荒者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a handful of pioneering astronomers around the globe
+Dialogue: 0,0:07:15.54,0:07:17.99,Default,NTP,0,0,0,,已经开始搜寻日外行星了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could begin the search for alien planets,
+Dialogue: 0,0:07:18.25,0:07:21.41,Default,NTP,0,0,0,,他们必须先完善搜寻的方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they had to first perfect methods for finding them.
+Dialogue: 0,0:07:22.57,0:07:26.02,Default,NTP,0,0,0,,恒星很容易通过传统的望远镜找到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars are easy to locate using conventional telescopes,
+Dialogue: 0,0:07:27.31,0:07:31.77,Default,NTP,0,0,0,,但是找到行星需要一些技巧和恒心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but to find a planet takes some ingenuity and patience.
+Dialogue: 0,0:07:33.20,0:07:38.56,Default,NTP,0,0,0,,不同于恒星 他们在轨道上运转行星很小 发出的光很弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike the stars they orbit, planets are small and emit very little light.
+Dialogue: 0,0:07:39.35,0:07:42.27,Default,NTP,0,0,0,,即使是我们太阳系里的巨人… 木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even the giant of our solar system, Jupiter,
+Dialogue: 0,0:07:42.59,0:07:45.71,Default,NTP,0,0,0,,也比太阳小1000倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a thousand times less massive than the Sun
+Dialogue: 0,0:07:46.41,0:07:48.76,Default,NTP,0,0,0,,发出的光要弱100亿倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and 10 billion times fainter.
+Dialogue: 0,0:07:49.43,0:07:54.12,Default,NTP,0,0,0,,拍摄恒星周围的行星的一个巨大的困难是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A huge difficulty in taking a picture of a planet around a star is that
+Dialogue: 0,0:07:54.17,0:07:57.88,Default,NTP,0,0,0,,行星相对恒星是非常非常地暗淡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the planet is extremely, extremely faint compared to the star.
+Dialogue: 0,0:08:01.37,0:08:05.00,Default,NTP,0,0,0,,恒星明亮到几乎将非常非常\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The star is so bright it almost completely obscures
+Dialogue: 0,0:08:05.10,0:08:07.17,Default,NTP,0,0,0,,暗淡的行星完全遮蔽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the much, much dimmer planet.
+Dialogue: 0,0:08:09.25,0:08:12.93,Default,NTP,0,0,0,,被恒星的光芒遮蔽了行星 搜寻者意识到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Blinded by starlight, planet hunters realized
+Dialogue: 0,0:08:13.10,0:08:15.89,Default,NTP,0,0,0,,即使不能直接看到行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that even if they couldn't see a planet directly,
+Dialogue: 0,0:08:16.05,0:08:19.17,Default,NTP,0,0,0,,但还是能够发现行星在运行时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they should still be able to detect its gravitational effect
+Dialogue: 0,0:08:19.22,0:08:20.89,Default,NTP,0,0,0,,对恒星的引力作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the star it orbits.
+Dialogue: 0,0:08:21.43,0:08:25.11,Default,NTP,0,0,0,,一颗没有行星的恒星应该平滑地在太空中通过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A star with no planets should drift smoothly through the sky,
+Dialogue: 0,0:08:25.93,0:08:30.34,Default,NTP,0,0,0,,而带有行星的恒星应该暴露出引力的摆动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while one with planets should exhibit a telltale gravitational wobble.
+Dialogue: 0,0:08:31.77,0:08:35.72,Default,NTP,0,0,0,,我们经常说行星围绕着太阳或恒星运转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We often say that planets orbit the sun or other stars,
+Dialogue: 0,0:08:35.77,0:08:40.16,Default,NTP,0,0,0,,但这并不完全属实:行星和恒星是围绕着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but that's not exactly true: the planets and the stars
+Dialogue: 0,0:08:40.21,0:08:44.14,Default,NTP,0,0,0,,它们共同的质量中心即重心运转的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbit their common center of mass or center of gravity.
+Dialogue: 0,0:08:45.91,0:08:49.15,Default,NTP,0,0,0,,而这个重心不是在它们之间的中间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And this center of mass isn't halfway between them.
+Dialogue: 0,0:08:49.61,0:08:52.73,Default,NTP,0,0,0,,就象是跷跷板 质量较大的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just like on a seesaw, the more massive object
+Dialogue: 0,0:08:52.78,0:08:56.78,Default,NTP,0,0,0,,必定靠近重心这样才能平衡整个系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}must be closer to the center of mass to bring balance to the system.
+Dialogue: 0,0:08:58.33,0:09:00.73,Default,NTP,0,0,0,,那么来看一下太阳和木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So consider the Sun and Jupiter,
+Dialogue: 0,0:09:00.88,0:09:04.41,Default,NTP,0,0,0,,太阳的质量要比木星大1000倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun is about a thousand times more massive than Jupiter.
+Dialogue: 0,0:09:04.92,0:09:08.73,Default,NTP,0,0,0,,因此太阳在这 支点或平衡点在这\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the Sun is here, the fulcrum or balancing point is there,
+Dialogue: 0,0:09:08.95,0:09:12.99,Default,NTP,0,0,0,,木星距离这点要远1000倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Jupiter is way out here a thousand times farther away.
+Dialogue: 0,0:09:16.92,0:09:18.76,Default,NTP,0,0,0,,在太空里这就意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In space, this means that
+Dialogue: 0,0:09:18.81,0:09:22.24,Default,NTP,0,0,0,,行星围绕重心勾勒出大的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planets trace out large orbits around the center of mass,
+Dialogue: 0,0:09:23.06,0:09:27.29,Default,NTP,0,0,0,,而恒星的轨道要小得多得多但还是能够被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while stars make much smaller but still detectable orbits.
+Dialogue: 0,0:09:28.65,0:09:31.53,Default,NTP,0,0,0,,假设这里有行星围绕着恒星在运转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here's a hypothetical planet orbiting a star;
+Dialogue: 0,0:09:31.83,0:09:34.78,Default,NTP,0,0,0,,事实上它们是围绕共同的重心在运转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in fact, they're orbiting their common center of mass,
+Dialogue: 0,0:09:34.83,0:09:38.13,Default,NTP,0,0,0,,因此行星是在相对较大的轨道上运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so the planet moves in a relatively large orbit,
+Dialogue: 0,0:09:38.42,0:09:42.28,Default,NTP,0,0,0,,而恒星也在运行 但是在很小的轨道上运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the star also moves, but in a much smaller orbit.
+Dialogue: 0,0:09:42.74,0:09:46.49,Default,NTP,0,0,0,,所以恒星的运行只有很小一点 而行星的运行就要大许多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the star moves only a little bit, and the planet moves a lot.
+Dialogue: 0,0:09:48.21,0:09:51.46,Default,NTP,0,0,0,,我对天文学有点独特的业余爱好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I have a somewhat unusual hobby for an astronomer.
+Dialogue: 0,0:09:51.72,0:09:54.24,Default,NTP,0,0,0,,我跳肚子舞和耍火把\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm a belly dancer and fire performer.
+Dialogue: 0,0:09:54.49,0:09:56.49,Default,NTP,0,0,0,,然而结论是:舞动火把\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it turns out that spinning fire
+Dialogue: 0,0:09:56.80,0:10:00.20,Default,NTP,0,0,0,,是模拟行星的运行的好方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is a great way of simulating the motion of a planet.
+Dialogue: 0,0:10:00.88,0:10:04.91,Default,NTP,0,0,0,,你施加在锁链上的离心运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The centrifugal motion of your fire on the chain
+Dialogue: 0,0:10:05.06,0:10:08.51,Default,NTP,0,0,0,,与行星在引力作用下的运动非常相似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is very similar to the motion of a planet under gravity.
+Dialogue: 0,0:10:09.74,0:10:12.36,Default,NTP,0,0,0,,我手腕上的光代表恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The light on my wrist represents the star,
+Dialogue: 0,0:10:12.66,0:10:15.69,Default,NTP,0,0,0,,旋转的火盏代表行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the spinning ball of fire around that is a planet,
+Dialogue: 0,0:10:16.56,0:10:20.03,Default,NTP,0,0,0,,就象大家看到的那样 火球划出大圆圈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and as you can see, the ball of fire draws out a large circle,
+Dialogue: 0,0:10:20.47,0:10:23.47,Default,NTP,0,0,0,,而我的手腕只在里面画出很小的圆圈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and my wrist is drawing out a smaller circle inside it.
+Dialogue: 0,0:10:26.58,0:10:29.02,Default,NTP,0,0,0,,通过这个星光的细小的晃动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's this tiny wobble of starlight
+Dialogue: 0,0:10:29.07,0:10:32.89,Default,NTP,0,0,0,,科学家就可以找到日外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that scientists use to find extrasolar planets.
+Dialogue: 0,0:10:33.64,0:10:38.16,Default,NTP,0,0,0,,然而甚至这个晃动都无法被察觉除非是通过多普勒效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But even this wobble would be undetectable if it wasn't for the doppler effect,
+Dialogue: 0,0:10:38.38,0:10:42.76,Default,NTP,0,0,0,,事实上朝你移动过来的物体发出的波长较短\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the fact that wavelengths get shorter as the object emitting them moves toward you,
+Dialogue: 0,0:10:42.81,0:10:45.28,Default,NTP,0,0,0,,反之则较长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and longer as it moves away from you.
+Dialogue: 0,0:10:45.89,0:10:48.89,Default,NTP,0,0,0,,多普勒效应大家是很熟悉的只要听到过运行中的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The doppler effect is very familiar if you've ever heard a train
+Dialogue: 0,0:10:48.94,0:10:51.01,Default,NTP,0,0,0,,火车拉汽笛就知道了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}going by blowing its whistle.
+Dialogue: 0,0:10:54.17,0:10:58.39,Default,NTP,0,0,0,,当然当火车朝你开来时 听到的声音会拉高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when the train is coming toward you, you hear a high pitched whistle,
+Dialogue: 0,0:11:01.27,0:11:04.31,Default,NTP,0,0,0,,而当火车远离你时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and as the train recedes into the distance away from you,
+Dialogue: 0,0:11:07.33,0:11:11.87,Default,NTP,0,0,0,,听到的汽笛声的频率就会越来越低\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you hear the pitch of the whistle get lower and lower in frequency.
+Dialogue: 0,0:11:13.68,0:11:17.36,Default,NTP,0,0,0,,有点象声波 光波会出现频率的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just like sound waves, light waves appear to shift in frequency
+Dialogue: 0,0:11:17.41,0:11:20.76,Default,NTP,0,0,0,,随着物体发出的光向你过来还是远离而变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the object emitting them comes toward or away from you.
+Dialogue: 0,0:11:21.12,0:11:24.48,Default,NTP,0,0,0,,向着我们过来的物体发出的光看上去有点偏蓝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Light from an object moving toward you will look slightly bluer;
+Dialogue: 0,0:11:24.74,0:11:28.49,Default,NTP,0,0,0,,远离我们的物体发出的光看上去有点偏红\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}light from an object moving away from you will look slightly redder.
+Dialogue: 0,0:11:28.83,0:11:31.78,Default,NTP,0,0,0,,只要光波改变其波长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the light waves shift their wavelength
+Dialogue: 0,0:11:31.83,0:11:34.81,Default,NTP,0,0,0,,偏蓝 偏红 接着又偏蓝\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}toward the blue and toward the red and back toward the blue again
+Dialogue: 0,0:11:34.86,0:11:39.36,Default,NTP,0,0,0,,那就说明恒星在左右晃动这种晃动是极其细微的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the star wobbles around, the shift is excruciatingly tiny,
+Dialogue: 0,0:11:40.28,0:11:44.12,Default,NTP,0,0,0,,但是这种光波的波长的变化对于我们来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's that difference in the wavelength of the light waves coming at you,
+Dialogue: 0,0:11:44.36,0:11:47.08,Default,NTP,0,0,0,,就可以进行测量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is what we measure and it's what allows us
+Dialogue: 0,0:11:47.13,0:11:49.95,Default,NTP,0,0,0,,就可以发现围绕着其它恒星运行的行星了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to detect planets around other stars.
+Dialogue: 0,0:11:51.23,0:11:55.53,Default,NTP,0,0,0,,利用这个多普勒技术 马西和巴特勒化了十多年的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Using this doppler technique, Marcy and Butler spent over a decade
+Dialogue: 0,0:11:55.79,0:12:01.59,Default,NTP,0,0,0,,坚持研究了周围120颗恒星的任何一点晃动的迹象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}patiently studying 120 nearby stars for any sign of a wobble.
+Dialogue: 0,0:12:02.88,0:12:07.01,Default,NTP,0,0,0,,经过了11年我没有发现一颗行星 一无所获\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I went 11 years without finding a single planet, nothing,
+Dialogue: 0,0:12:07.28,0:12:10.30,Default,NTP,0,0,0,,对此没人感到惊讶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and no one was surprised by that, it seemed
+Dialogue: 0,0:12:10.79,0:12:15.69,Default,NTP,0,0,0,,所有的旁观者似乎都认为是合乎常理的是徒劳的 无聊的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}logical to everybody else that it was a fruitless, frivolous,
+Dialogue: 0,0:12:15.85,0:12:20.35,Default,NTP,0,0,0,,观察其它行星甚至还可能是愚蠢的举动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe even lunatic exercise to look for planets of any sort.
+Dialogue: 0,0:12:22.95,0:12:26.64,Default,NTP,0,0,0,,但后来 在1995年传来了惊人的宣布\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But then, in 1995, came the surprise announcement
+Dialogue: 0,0:12:26.69,0:12:30.60,Default,NTP,0,0,0,,瑞士天文学家米歇尔·麦耶和Diedre Queloz\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from Swiss astronomers, Michel Mayor and Diedre Queloz,
+Dialogue: 0,0:12:30.83,0:12:36.56,Default,NTP,0,0,0,,发现有颗巨大的气体行星围绕着飞马座51运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they had discovered a gas giant planet circling the star 51 pegasi.
+Dialogue: 0,0:12:37.53,0:12:40.49,Default,NTP,0,0,0,,马西和巴特勒冲上立克天文台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Marcy and Butler rushed up to Lick Observatory
+Dialogue: 0,0:12:40.54,0:12:42.52,Default,NTP,0,0,0,,天文台坐落在北加州汉密尔顿山上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on Northern California's Mount Hamilton
+Dialogue: 0,0:12:42.52,0:12:45.55,Default,NTP,0,0,0,,他们用自己的望远镜瞄准那颗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to aim their own telescope at the star
+Dialogue: 0,0:12:45.55,0:12:48.74,Default,NTP,0,0,0,,观察能否证实瑞士同行的成果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and see if they could confirm the Swiss team's results.
+Dialogue: 0,0:12:49.23,0:12:52.37,Default,NTP,0,0,0,,耶 看 好极了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yup, there it is. Looks beautiful.
+Dialogue: 0,0:12:52.71,0:12:57.85,Default,NTP,0,0,0,,保罗·巴特勒和我都感到很震惊看到了那颗恒星的晃动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Paul Butler and I were shocked to see that the wobble of the star was precisely
+Dialogue: 0,0:12:58.11,0:13:00.09,Default,NTP,0,0,0,,跟瑞士人说的一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the Swiss had said it was.
+Dialogue: 0,0:13:00.68,0:13:05.16,Default,NTP,0,0,0,,我记得从立克天文台开车离开汉密尔顿山时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And I remember driving off Mount Hamilton from Lick Observatory
+Dialogue: 0,0:13:05.79,0:13:08.61,Default,NTP,0,0,0,,完全沉默了 保罗·巴特勒就坐在我旁边\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in complete silence, Paul Butler next to me.
+Dialogue: 0,0:13:08.82,0:13:13.98,Default,NTP,0,0,0,,我们知道第一颗日外行星已经被发现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We knew that the first extrasolar planet had been discovered.
+Dialogue: 0,0:13:14.45,0:13:18.14,Default,NTP,0,0,0,,知道吗 这是个非常激动的时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a very moving, you know, personally moving moment.
+Dialogue: 0,0:13:20.96,0:13:23.82,Default,NTP,0,0,0,,尽管这是个非凡的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Despite the monumental nature of the discovery,
+Dialogue: 0,0:13:23.87,0:13:26.91,Default,NTP,0,0,0,,这个 和今后所有将被发现的日外行星一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this, like all future extrasolar planets,
+Dialogue: 0,0:13:26.96,0:13:29.83,Default,NTP,0,0,0,,是不会用希腊或罗马神的名字来命名了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}wouldn't get the name of a Greek or Roman god.
+Dialogue: 0,0:13:30.00,0:13:33.87,Default,NTP,0,0,0,,它将根据其宿主星的天文登记名字来命名了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would take the astronomical catalogue name of its parent star,
+Dialogue: 0,0:13:34.18,0:13:35.74,Default,NTP,0,0,0,,飞马座51\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}51 pegasi,
+Dialogue: 0,0:13:36.02,0:13:38.54,Default,NTP,0,0,0,,加上小写字母b\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and add to it a lower case b.
+Dialogue: 0,0:13:39.07,0:13:43.62,Default,NTP,0,0,0,,在标准的命名法里  如果发现同一颗恒星的第二颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the standard nomenclature, if a second planet was found around the same star,
+Dialogue: 0,0:13:43.92,0:13:47.39,Default,NTP,0,0,0,,就将加上小写字母c等等用字母来表示\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would get a lowercase c and so on through the alphabet.
+Dialogue: 0,0:13:49.31,0:13:53.80,Default,NTP,0,0,0,,这个名字对飞马座51b来说是唯一朴实的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its name was the only thing unassuming about 51 pegasi b.
+Dialogue: 0,0:13:54.98,0:13:59.38,Default,NTP,0,0,0,,这个发现震撼了人们对行星认识的基础\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The discovery shook the foundations of our understanding of planets.
+Dialogue: 0,0:14:03.56,0:14:08.90,Default,NTP,0,0,0,,1995年 天文学家艾伦·博斯应邀对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1995, astrophysicist Alan Boss was asked to review a paper
+Dialogue: 0,0:14:08.95,0:14:12.11,Default,NTP,0,0,0,,两位瑞士天文学家宣布的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}announcing the discovery by two Swiss astronomers
+Dialogue: 0,0:14:12.16,0:14:15.10,Default,NTP,0,0,0,,发现了第一颗日外行星进行评论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the first planet orbiting an alien sun.
+Dialogue: 0,0:14:16.13,0:14:18.92,Default,NTP,0,0,0,,回顾这个文件 造成了我多少个不眠之夜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Reviewing this paper caused me a fair number of sleepless nights
+Dialogue: 0,0:14:18.97,0:14:21.80,Default,NTP,0,0,0,,因为他们的发现相当惊人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it was pretty stunning what they had found.
+Dialogue: 0,0:14:22.12,0:14:26.34,Default,NTP,0,0,0,,吃惊是因为瑞士人声称已经发现了类似木星的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stunning because the Swiss claimed to have found a Jupiter-like planet.
+Dialogue: 0,0:14:26.90,0:14:29.84,Default,NTP,0,0,0,,但是木星围绕太阳一圈需要12年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But where Jupiter orbits the sun in 12 years,
+Dialogue: 0,0:14:30.08,0:14:33.99,Default,NTP,0,0,0,,而这颗行星围绕宿主星快速运转一圈仅仅4天时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this planet zipped around its star in only four days.
+Dialogue: 0,0:14:34.92,0:14:38.52,Default,NTP,0,0,0,,这也意味着这颗行星必定距离其中央的恒星是非常非常的近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that also meant that the planet had to be much, much closer to its central star,
+Dialogue: 0,0:14:38.72,0:14:41.64,Default,NTP,0,0,0,,要比木星距离太阳近100倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}roughly a hundred times closer than Jupiter is.
+Dialogue: 0,0:14:41.99,0:14:44.81,Default,NTP,0,0,0,,这实在是难以理解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that just was hard to understand.
+Dialogue: 0,0:14:45.82,0:14:50.77,Default,NTP,0,0,0,,木星在距离太阳5亿英里的轨道上运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Jupiter orbits the sun at a comfortable distance of around half a billion miles.
+Dialogue: 0,0:14:52.16,0:14:56.84,Default,NTP,0,0,0,,飞马座51b好象是距离其宿主星500万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}51 Pegasi b is more like 5 million miles from its star.
+Dialogue: 0,0:14:58.05,0:15:00.70,Default,NTP,0,0,0,,如果把它放到我们太阳系里来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it were dropped into our own solar system,
+Dialogue: 0,0:15:00.82,0:15:05.11,Default,NTP,0,0,0,,这颗日外行星将会比水星更靠近太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this alien planet would orbit much closer to the sun than Mercury,
+Dialogue: 0,0:15:05.23,0:15:06.74,Default,NTP,0,0,0,,将是最内部的行星了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our innermost planet.
+Dialogue: 0,0:15:08.17,0:15:12.71,Default,NTP,0,0,0,,既然如此靠近宿主星 那么那颗行星简直是在受煎熬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Being so close to the star means that the planet is being literally fried.
+Dialogue: 0,0:15:13.62,0:15:16.15,Default,NTP,0,0,0,,从宿主星上来的辐射是难以置信的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The radiation from the star is incredible
+Dialogue: 0,0:15:16.37,0:15:21.79,Default,NTP,0,0,0,,相对来说 我们的地球离开太阳较远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compared to what we experience here on Earth, relatively far from our sun.
+Dialogue: 0,0:15:21.83,0:15:24.28,Default,NTP,0,0,0,,所以这完全是个意想不到的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So this was a completely unexpected discovery.
+Dialogue: 0,0:15:25.78,0:15:28.04,Default,NTP,0,0,0,,行星不可能在那里形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was a planet that could not have formed there.
+Dialogue: 0,0:15:29.17,0:15:31.27,Default,NTP,0,0,0,,天文学家知道它不应该在那里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers knew it didn't belong there.
+Dialogue: 0,0:15:35.28,0:15:38.85,Default,NTP,0,0,0,,同样的道理 如果在中央公园中心发现一棵红杉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the same way that if we found a giant redwood in the middle of Central park,
+Dialogue: 0,0:15:39.34,0:15:41.88,Default,NTP,0,0,0,,我们就知道它不应该在那里的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we would know that it didn't belong there.
+Dialogue: 0,0:15:44.91,0:15:47.05,Default,NTP,0,0,0,,你必须要问一下自己:它是怎么会到那里去的？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You'd have to ask yourself,"How did it get there?"
+Dialogue: 0,0:15:47.36,0:15:49.94,Default,NTP,0,0,0,,那是天文学家在发现这些巨大的行星后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's what astronomers were asking themselves about
+Dialogue: 0,0:15:49.99,0:15:52.25,Default,NTP,0,0,0,,对自己提出的疑问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these giant planets that they were finding.
+Dialogue: 0,0:15:53.29,0:15:56.89,Default,NTP,0,0,0,,飞马座51b不光具有怪异的性质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}51 Pegasi b wasn't just a freak of nature.
+Dialogue: 0,0:15:57.01,0:16:01.45,Default,NTP,0,0,0,,它是几十个所谓的"烤箱"或"高温木星"中的第一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was the first of dozens of so-called"roasters" or"hot Jupiters"
+Dialogue: 0,0:16:01.57,0:16:05.51,Default,NTP,0,0,0,,被发现几乎不可能那么近地靠近宿主星运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to be discovered in seemingly impossible close-in orbits.
+Dialogue: 0,0:16:07.30,0:16:11.63,Default,NTP,0,0,0,,不可能是因为气体行星形成的公认的理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Impossible because the accepted theory for how gas planets form
+Dialogue: 0,0:16:11.75,0:16:16.08,Default,NTP,0,0,0,,指出石块和冰块在围绕着年轻的恒星罗旋云里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}suggests that rock and ice, in a disk surrounding a young star,
+Dialogue: 0,0:16:16.46,0:16:20.91,Default,NTP,0,0,0,,结合成固体的核接着气体进行合并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}coalesces into a solid core that then accretes gas,
+Dialogue: 0,0:16:21.49,0:16:23.30,Default,NTP,0,0,0,,越来越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}growing larger and larger
+Dialogue: 0,0:16:23.35,0:16:27.64,Default,NTP,0,0,0,,一直到它将自己区域里的行星物质清理干净为止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until it has cleared out all the planet-forming material in its area.
+Dialogue: 0,0:16:28.48,0:16:32.45,Default,NTP,0,0,0,,这个过程只能发生在与恒星有足够距离的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This process can only occur at a distance far enough from the star
+Dialogue: 0,0:16:32.57,0:16:35.19,Default,NTP,0,0,0,,在那里温度要低到足以结成冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where it's cold enough for ice to exist.
+Dialogue: 0,0:16:35.52,0:16:38.85,Default,NTP,0,0,0,,距离恒星这么近是不可能形成那么大的物体的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can't form something that massive, that close into a star.
+Dialogue: 0,0:16:39.05,0:16:43.51,Default,NTP,0,0,0,,需要过冰点才能形成冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It needs to form past the snow line where ice can form.
+Dialogue: 0,0:16:44.68,0:16:47.04,Default,NTP,0,0,0,,在我们的太阳系里木星所处的位置是:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And in our solar system, that's about where Jupiter is:
+Dialogue: 0,0:16:47.50,0:16:50.87,Default,NTP,0,0,0,,他距离太阳比地球距离太阳大5倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about five times further out from the Sun than the Earth.
+Dialogue: 0,0:16:52.93,0:16:56.70,Default,NTP,0,0,0,,所以在距离其宿主星这么近 这么热的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So how could a gas giant planet like 51 Pegasi b
+Dialogue: 0,0:16:56.82,0:16:59.70,Default,NTP,0,0,0,,怎么能够形成飞马座51b的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}form so scorchingly close to its star?
+Dialogue: 0,0:17:00.32,0:17:03.67,Default,NTP,0,0,0,,我是有事会在半夜里醒来的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I was one of these things where I woke up in the middle of the night, and
+Dialogue: 0,0:17:03.79,0:17:06.51,Default,NTP,0,0,0,,有个晚上我对自己说 "可能这意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one night I said to myself,"Maybe what this means
+Dialogue: 0,0:17:06.56,0:17:11.08,Default,NTP,0,0,0,,那个物体是从它原来形成的地方转移到那里的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that this object had to have migrated inwards from where it originally formed."
+Dialogue: 0,0:17:14.00,0:17:16.36,Default,NTP,0,0,0,,我认为我们现在已经了解了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We now, I think, have an understanding
+Dialogue: 0,0:17:16.76,0:17:20.55,Default,NTP,0,0,0,,那颗行星是在一派混沌中的形成过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that planet formation is an almost chaotic process,
+Dialogue: 0,0:17:20.60,0:17:26.15,Default,NTP,0,0,0,,一些翻滚的小块 有许多小行星 准行星形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a sort of roll of the dice, with many planetesimals, wannabe planets forming,
+Dialogue: 0,0:17:26.46,0:17:31.48,Default,NTP,0,0,0,,强化 竞争 一种万有引力的争夺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Building up, and a competion, a sort of gravitational musical chairs, takes place
+Dialogue: 0,0:17:32.21,0:17:35.01,Default,NTP,0,0,0,,发生在行星之间 为了自己地盘的争夺\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in which the planets compete for their own space.
+Dialogue: 0,0:17:36.82,0:17:41.14,Default,NTP,0,0,0,,在这个竞争中 一些行星被抛离了太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In this competion, some planets are flung out of the solar system
+Dialogue: 0,0:17:41.26,0:17:43.81,Default,NTP,0,0,0,,而有一些被抛向了中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and some are tossed toward the center.
+Dialogue: 0,0:17:44.41,0:17:48.91,Default,NTP,0,0,0,,相信有些行星坠落到宿主星上燃烧了起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's believed some planets crash and burn on their parent star,
+Dialogue: 0,0:17:50.03,0:17:53.61,Default,NTP,0,0,0,,而其它一些则在很近但稳定的轨道上幸存了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while others survive in a close but stable orbit.
+Dialogue: 0,0:17:54.14,0:17:57.27,Default,NTP,0,0,0,,这些幸存者就是热的木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These survivors are the hot Jupiters.
+Dialogue: 0,0:17:58.73,0:18:02.54,Default,NTP,0,0,0,,发现了围绕飞马座51的热的木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The discovery of the hot Jupiter circling 51 Pegasi
+Dialogue: 0,0:18:02.66,0:18:05.67,Default,NTP,0,0,0,,让行星搜寻者杰夫·马西和保罗·巴特勒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sent planet hunters Geoff Marcy and Paul Butler
+Dialogue: 0,0:18:05.79,0:18:09.80,Default,NTP,0,0,0,,回过头来分析他们过去十年里收集的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}back to analyze the data they'd been collecting for the past decade.
+Dialogue: 0,0:18:10.11,0:18:15.84,Default,NTP,0,0,0,,他们的团队一直在期待发生由大行星引起的长期晃动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their team had been looking for the expected long-term wobbles caused by a giant planet.
+Dialogue: 0,0:18:15.90,0:18:19.05,Default,NTP,0,0,0,,我们突然意识到应该用稍微不同的方法来分析自己的数据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We ourselves suddenly realized we should analyze our data
+Dialogue: 0,0:18:19.17,0:18:23.43,Default,NTP,0,0,0,,寻找那些短周期的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a slightly different way, look for the shorter period planets, not just
+Dialogue: 0,0:18:23.55,0:18:26.48,Default,NTP,0,0,0,,不只是那些围绕宿主星运行较长周期的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planets that take a long time to go around their star.
+Dialogue: 0,0:18:26.70,0:18:30.20,Default,NTP,0,0,0,,这就让我们在现有的数据里发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that led us to discover within an existing data
+Dialogue: 0,0:18:30.56,0:18:33.69,Default,NTP,0,0,0,,那些行星已经被埋没了好多年了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all of these planets that had been buried there for years.
+Dialogue: 0,0:18:38.23,0:18:40.73,Default,NTP,0,0,0,,我回忆起那天就像是昨天一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I remember the day like it was yesterday,
+Dialogue: 0,0:18:40.85,0:18:43.68,Default,NTP,0,0,0,,1995年12月30日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}December 30, 1995,
+Dialogue: 0,0:18:44.17,0:18:46.17,Default,NTP,0,0,0,,上午8:00 电话响了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and at 8:00 a.m. the phone rings.
+Dialogue: 0,0:18:46.70,0:18:48.42,Default,NTP,0,0,0,,一接听是保罗·巴特勒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I pick it up, it's Paul Butler,
+Dialogue: 0,0:18:48.47,0:18:51.69,Default,NTP,0,0,0,,我的王牌合作者至今已经合作20个年头了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}my ace collaborator for 20 years now,
+Dialogue: 0,0:18:52.06,0:18:54.92,Default,NTP,0,0,0,,保罗对我说:"杰夫 快过来"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Paul just said,"Jeff, come over here."
+Dialogue: 0,0:18:58.26,0:19:01.57,Default,NTP,0,0,0,,所以 当然啦 我立刻跳上车一直开到这个了不起的办公室\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, of course, I immediately got in my car. I drove right to this very office,
+Dialogue: 0,0:19:01.69,0:19:04.86,Default,NTP,0,0,0,,直接到这里坐下 在加州大学伯克利分校的坎贝尔大厦里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}right here where I'm sitting now, in Campbell Hall at UC Berkeley,
+Dialogue: 0,0:19:05.48,0:19:07.24,Default,NTP,0,0,0,,他让我看他的电脑屏幕\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and he showed me his computer screen.
+Dialogue: 0,0:19:07.36,0:19:11.40,Default,NTP,0,0,0,,屏幕上清楚地出现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And there on that screen was the unmistakable graph
+Dialogue: 0,0:19:11.44,0:19:13.95,Default,NTP,0,0,0,,处女座70上下晃动的图象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the wobble of the star 70 Virginis
+Dialogue: 0,0:19:14.28,0:19:17.48,Default,NTP,0,0,0,,那颗星在上下来回晃动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}going up and down, and up and down the star, wobbling to and fro,
+Dialogue: 0,0:19:17.69,0:19:22.50,Default,NTP,0,0,0,,这正是能够在我们的数据里想象得到的行星的签名\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}exactly as we had imagined a planet signature would look in our data.
+Dialogue: 0,0:19:23.01,0:19:26.94,Default,NTP,0,0,0,,所以那一刻我们两人的眼睛都睁得大大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that was the moment with both of our eyes opened this wide
+Dialogue: 0,0:19:27.17,0:19:29.98,Default,NTP,0,0,0,,我们知道我们已经发现了自己的第一颗行星…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we knew we had discovered our first planet...
+Dialogue: 0,0:19:30.03,0:19:32.32,Default,NTP,0,0,0,,第二颗行星已经被发现了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the second planet ever discovered.
+Dialogue: 0,0:19:33.80,0:19:37.93,Default,NTP,0,0,0,,处女座70b距离地球59光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}70 virginis b is 59 light-years from Earth,
+Dialogue: 0,0:19:38.11,0:19:40.02,Default,NTP,0,0,0,,在处女座里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the constellation Virgo.
+Dialogue: 0,0:19:40.51,0:19:43.84,Default,NTP,0,0,0,,由于它的质量至少比木星大7倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With a mass at least seven times larger than Jupiter,
+Dialogue: 0,0:19:44.15,0:19:46.43,Default,NTP,0,0,0,,这个行星马上被冠以在已知的宇宙中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this world immediately claimed the title
+Dialogue: 0,0:19:46.55,0:19:50.46,Default,NTP,0,0,0,,重量级行星中的冠军\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the planetary heavyweight of the known universe.
+Dialogue: 0,0:19:52.20,0:19:55.22,Default,NTP,0,0,0,,现在实际上它就在眼前 就是那颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here right before our eyes, essentially, is a planet
+Dialogue: 0,0:19:55.43,0:19:58.55,Default,NTP,0,0,0,,7倍 可能比我们的木星大10倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}seven, maybe 10 times bigger than our own Jupiter,
+Dialogue: 0,0:19:58.73,0:20:02.56,Default,NTP,0,0,0,,直接告诉我们大自然创造的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}telling us immediately that, yes, nature does make planets even bigger
+Dialogue: 0,0:20:02.87,0:20:05.49,Default,NTP,0,0,0,,要比太阳系里最大的行星还要大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the largest ones we have here in the solar system.
+Dialogue: 0,0:20:06.89,0:20:08.59,Default,NTP,0,0,0,,它不是热的木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Rather than a hot Jupiter,
+Dialogue: 0,0:20:08.64,0:20:13.70,Default,NTP,0,0,0,,这颗行星是第一颗新的日外行星种类叫做"偏心巨星"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this planet was the first of a new class of alien worlds called"eccentric giants"
+Dialogue: 0,0:20:14.23,0:20:17.41,Default,NTP,0,0,0,,因为它们有偏心狭长的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because of their eccentric or elongated orbits.
+Dialogue: 0,0:20:18.27,0:20:23.34,Default,NTP,0,0,0,,处女座70b的远端距离宿主星6300万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}70 Virginis b swings out as far as 63 million miles from its star
+Dialogue: 0,0:20:23.76,0:20:27.00,Default,NTP,0,0,0,,近端只有2700万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and passes as close as 27 million miles.
+Dialogue: 0,0:20:28.00,0:20:31.75,Default,NTP,0,0,0,,这颗围绕处女座70的行星的可怕方面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The frightening aspect of the planet around 70 Virginis
+Dialogue: 0,0:20:32.06,0:20:35.52,Default,NTP,0,0,0,,是我们大家从小学习就已经形成的概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that we all grew up in kindergarten learning
+Dialogue: 0,0:20:35.64,0:20:39.53,Default,NTP,0,0,0,,即行星以近乎圆形的轨道围绕太阳运转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that planets go around the sun in nearly circular orbits,
+Dialogue: 0,0:20:39.65,0:20:43.33,Default,NTP,0,0,0,,那么世界上有这种行星围绕其宿主星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what in the world is a planet doing going around its star
+Dialogue: 0,0:20:43.45,0:20:46.22,Default,NTP,0,0,0,,在这么长的古怪的轨道运行的吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in one of these elongated, wacky orbits?
+Dialogue: 0,0:20:48.25,0:20:52.26,Default,NTP,0,0,0,,首次发现的两颗围绕其宿主星的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Already the first two planets discovered around alien suns
+Dialogue: 0,0:20:52.38,0:20:55.72,Default,NTP,0,0,0,,已经向人们对行星的运行的认识发起了挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were challenging our view of how planets should behave.
+Dialogue: 0,0:20:56.83,0:20:59.72,Default,NTP,0,0,0,,在接下来的十年里的进一步探索显示出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Further discoveries over the next decade would show
+Dialogue: 0,0:20:59.84,0:21:02.63,Default,NTP,0,0,0,,偏心轨道在宇宙中是很普遍的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that eccentric orbits are common in the universe,
+Dialogue: 0,0:21:03.09,0:21:06.73,Default,NTP,0,0,0,,而我们太阳系里的圆形轨道似乎倒是很罕见的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while the circular orbits of our solar system seem to be rare.
+Dialogue: 0,0:21:08.69,0:21:12.51,Default,NTP,0,0,0,,这让人有点尴尬 坦率说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's embarrassing, frankly, when you think about
+Dialogue: 0,0:21:12.91,0:21:17.34,Default,NTP,0,0,0,,这是我们人类自己想象的行星围绕恒星的运行规律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how we humans imagined planets would orbit other stars,
+Dialogue: 0,0:21:17.46,0:21:20.74,Default,NTP,0,0,0,,是普遍的现象 是根据它们具有的特性在猜测？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}how common they would be, what properties they would have. Guess what?
+Dialogue: 0,0:21:20.86,0:21:23.14,Default,NTP,0,0,0,,我们在想象那些行星看上去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We imagined that those planets would look
+Dialogue: 0,0:21:23.40,0:21:25.70,Default,NTP,0,0,0,,就像是在围绕着我们的太阳运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just like the planets that orbit our Sun,
+Dialogue: 0,0:21:26.02,0:21:28.64,Default,NTP,0,0,0,,回想起来真是目光短浅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}extraordinarily nearsighted in retrospect.
+Dialogue: 0,0:21:28.89,0:21:32.79,Default,NTP,0,0,0,,对于科学家来说 我作为当事人之一感到很尴尬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And for a scientist, I find it embarrassing that I was a party to this.
+Dialogue: 0,0:21:33.68,0:21:36.97,Default,NTP,0,0,0,,但事实上 我们已经认识到了日外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, in fact, what we've learned is that planets around other stars are
+Dialogue: 0,0:21:37.21,0:21:41.54,Default,NTP,0,0,0,,和我们太阳系里的行星非常不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}remarkably different from the representatives we have around our Sun.
+Dialogue: 0,0:21:42.74,0:21:46.13,Default,NTP,0,0,0,,从90年代开始行星搜寻的重大改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planet-hunting revolution that began in the 1990s
+Dialogue: 0,0:21:46.25,0:21:50.79,Default,NTP,0,0,0,,同样也彻底改变了行星在宇宙中是很稀有的概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has also obliterated any notion that planets are rare in the universe.
+Dialogue: 0,0:21:52.11,0:21:55.07,Default,NTP,0,0,0,,随着日外行星数量的不断增加\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With an ever-growing catalogue of alien planets,
+Dialogue: 0,0:21:56.83,0:21:59.37,Default,NTP,0,0,0,,天文学家们现在正在努力全面研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers are now trying to learn all they can
+Dialogue: 0,0:21:59.42,0:22:02.92,Default,NTP,0,0,0,,已经发现的200多颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about the more than 200 worlds they have already discovered.
+Dialogue: 0,0:22:05.57,0:22:09.24,Default,NTP,0,0,0,,杰夫·马西和其他天文学家利用多普勒技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The doppler technique used by Geoff Marcy and other astronomers
+Dialogue: 0,0:22:09.36,0:22:11.83,Default,NTP,0,0,0,,来确定所发现的行星的质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tells them the mass of the planet they found,
+Dialogue: 0,0:22:12.22,0:22:14.64,Default,NTP,0,0,0,,但无法确定其大小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it doesn't tell them the size.
+Dialogue: 0,0:22:16.16,0:22:21.05,Default,NTP,0,0,0,,要搞明白日外行星的大小需要碰运气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To figure out just how big an alien planet is requires a bit of good luck.
+Dialogue: 0,0:22:22.22,0:22:25.20,Default,NTP,0,0,0,,行星的轨道必须是这样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The orbit of the planet has to be aligned in such a way
+Dialogue: 0,0:22:25.49,0:22:29.39,Default,NTP,0,0,0,,即从地球上能看到它直接经过它的宿主星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that from Earth, we can see it pass directly in front of its star.
+Dialogue: 0,0:22:29.99,0:22:31.70,Default,NTP,0,0,0,,这叫做"凌日"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is called"transiting".
+Dialogue: 0,0:22:32.96,0:22:36.65,Default,NTP,0,0,0,,在行星经过时 测量恒星亮度的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By measuring how much the starlight dims during this transit,
+Dialogue: 0,0:22:36.94,0:22:40.42,Default,NTP,0,0,0,,天文学家实际上就可以确定它的大小了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers can actually determine the size of the planet.
+Dialogue: 0,0:22:42.33,0:22:45.64,Default,NTP,0,0,0,,2007年秋季 天文学家在观察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the fall of 2007, astronomers were watching
+Dialogue: 0,0:22:45.69,0:22:49.39,Default,NTP,0,0,0,,一颗叫做"Tres-4"的热木星经过它的宿主星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when a hot Jupiter called"Tres-4" transited its star.
+Dialogue: 0,0:22:51.03,0:22:53.57,Default,NTP,0,0,0,,这颗行星的质量和木星差不多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planet was about the same mass as Jupiter
+Dialogue: 0,0:22:53.69,0:22:56.34,Default,NTP,0,0,0,,所以其大小也应该差不多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and, therefore, should have been roughly the same size.
+Dialogue: 0,0:22:56.81,0:22:59.30,Default,NTP,0,0,0,,但是天文学家得到了一个意外的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But astronomers were in for a surprise.
+Dialogue: 0,0:22:59.70,0:23:03.41,Default,NTP,0,0,0,,结果Tres-4的个头几乎是木星的两倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Tres-4 turned out to be almost twice as big as Jupiter.
+Dialogue: 0,0:23:04.22,0:23:07.62,Default,NTP,0,0,0,,事实上 这是迄今为止发现的最大的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It was, in fact, the largest planet ever discovered,
+Dialogue: 0,0:23:07.83,0:23:10.43,Default,NTP,0,0,0,,有点像服了激素的木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sort of, a Jupiter on steroids.
+Dialogue: 0,0:23:11.08,0:23:13.25,Default,NTP,0,0,0,,某些日外行星真是虚胖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some of these extrasolar planets are
+Dialogue: 0,0:23:13.30,0:23:16.58,Default,NTP,0,0,0,,它们的体积真的很大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}really fluffy; they're really expanded in size.
+Dialogue: 0,0:23:16.77,0:23:19.14,Default,NTP,0,0,0,,我们认为其中的原因是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we think that the reason why that's happening
+Dialogue: 0,0:23:19.19,0:23:21.49,Default,NTP,0,0,0,,因为它们的中心有个热源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is because they have an internal source of heat,
+Dialogue: 0,0:23:21.54,0:23:25.35,Default,NTP,0,0,0,,行星的内部压力升高 造成了体积膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is raising the pressure inside the planet, causing it to expand.
+Dialogue: 0,0:23:25.71,0:23:29.90,Default,NTP,0,0,0,,这和火车的蒸汽锅炉非常相像\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's very similar to a steam boiler on a steam train.
+Dialogue: 0,0:23:36.09,0:23:39.94,Default,NTP,0,0,0,,在蒸汽锅炉里 里面有水通过热源得到加热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a steam boiler, you have water, which is being heated by a heat source.
+Dialogue: 0,0:23:40.06,0:23:43.65,Default,NTP,0,0,0,,水变成了蒸汽 压力升高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That water is turning to steam, the pressure is increasing
+Dialogue: 0,0:23:43.77,0:23:47.62,Default,NTP,0,0,0,,就引起锅炉的活塞移动 伸展\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's causing the piston of the boiler to move out, to expand.
+Dialogue: 0,0:23:56.13,0:23:59.13,Default,NTP,0,0,0,,假如没有气体的膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you didn't have the gases' ability to expand,
+Dialogue: 0,0:23:59.25,0:24:01.59,Default,NTP,0,0,0,,行星就不会膨胀 火车就不会前进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planets wouldn't inflate, steam trains wouldn't work;
+Dialogue: 0,0:24:01.64,0:24:03.83,Default,NTP,0,0,0,,我们就爬不上这座山\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we wouldn't be climbing up this mountain.
+Dialogue: 0,0:24:04.97,0:24:09.43,Default,NTP,0,0,0,,虽然内部的加热可能是所谓的"蓬松的木星"的起因\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While internal heating is the likely cause of the so-called"fluffy Jupiters"
+Dialogue: 0,0:24:09.74,0:24:13.80,Default,NTP,0,0,0,,但是这个日外行星的情况还是非常陌生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}something much stranger is happening on this alien world.
+Dialogue: 0,0:24:16.22,0:24:18.81,Default,NTP,0,0,0,,在日外行星的领域里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the field of extrasolar planets,
+Dialogue: 0,0:24:18.86,0:24:24.39,Default,NTP,0,0,0,,似乎每一个新发现都会创造科学思维的新世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it seems each new discovery creates a brand-new world of scientific intrigue.
+Dialogue: 0,0:24:31.19,0:24:32.99,Default,NTP,0,0,0,,在亚利桑那大学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the university of Arizona,
+Dialogue: 0,0:24:33.81,0:24:38.76,Default,NTP,0,0,0,,行星学家Adam Showman在思考其它行星的天气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planetary scientist Adam Showman ponders the weather on other planets.
+Dialogue: 0,0:24:48.44,0:24:51.74,Default,NTP,0,0,0,,最近 Showman帮助生成了有史以来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Recently, Showman helped generate the first ever forecast
+Dialogue: 0,0:24:51.79,0:24:54.30,Default,NTP,0,0,0,,第一个日外行星的天气预报\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for a planet beyond our solar system.
+Dialogue: 0,0:24:54.67,0:24:59.54,Default,NTP,0,0,0,,他发现那里的天气真的与那个行星相配\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And what he found was weather truly befitting an alien world.
+Dialogue: 0,0:25:00.37,0:25:03.58,Default,NTP,0,0,0,,我们认为那里的风速大概是每小时6000英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We think that the winds are probably about 6,000 miles per hour,
+Dialogue: 0,0:25:03.63,0:25:04.95,Default,NTP,0,0,0,,可能还不止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}possibly even more.
+Dialogue: 0,0:25:05.00,0:25:08.48,Default,NTP,0,0,0,,这和我们太阳系里任何一颗行星的风速形成了巨大的反差\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is huge compared to the wind speed on any planet in our solar system.
+Dialogue: 0,0:25:10.94,0:25:14.38,Default,NTP,0,0,0,,这是HD 189733 b\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is HD 189733 b.
+Dialogue: 0,0:25:14.98,0:25:18.56,Default,NTP,0,0,0,,是颗热木星 距离地球60多光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a hot Jupiter, more than 60 light-years from Earth.
+Dialogue: 0,0:25:18.85,0:25:22.87,Default,NTP,0,0,0,,围绕其宿主星运转一周两天多一点时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That races around its sunlike star in a little over two days,
+Dialogue: 0,0:25:22.99,0:25:25.64,Default,NTP,0,0,0,,距离宿主星只有300万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a distance of only three million miles.
+Dialogue: 0,0:25:28.15,0:25:33.05,Default,NTP,0,0,0,,从370万亿英里外 怎样才能预测那颗行星上的天气呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}How is it possible to divine the weather on a planet 370 trillion miles away?
+Dialogue: 0,0:25:35.49,0:25:37.87,Default,NTP,0,0,0,,首先 必须测到行星的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First, you have to take the planet's temperature.
+Dialogue: 0,0:25:39.14,0:25:43.34,Default,NTP,0,0,0,,科学家知道因为行星太靠近其宿主星了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists knew that since the planet orbits so close to its star,
+Dialogue: 0,0:25:43.39,0:25:45.17,Default,NTP,0,0,0,,它将会被潮汐锁定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would be tidally locked,
+Dialogue: 0,0:25:45.32,0:25:48.19,Default,NTP,0,0,0,,引力效应将会造成固定的一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a gravitational effect that would cause it to show the same
+Dialogue: 0,0:25:48.24,0:25:50.04,Default,NTP,0,0,0,,始终对着宿主星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}face to the star at all times.
+Dialogue: 0,0:25:50.81,0:25:55.33,Default,NTP,0,0,0,,一面始终沐浴在宿主星的炽热的阳光下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One side would always be bathed in the burning hot light of the alien sun,
+Dialogue: 0,0:25:55.45,0:25:58.75,Default,NTP,0,0,0,,而另外一面则隐蔽在永久的黑暗中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while the other would be cloaked in perpetual darkness.
+Dialogue: 0,0:25:59.08,0:26:01.63,Default,NTP,0,0,0,,假如那些行星上没有风 那么就意味着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there was no wind on these planets, then that would mean
+Dialogue: 0,0:26:01.68,0:26:03.91,Default,NTP,0,0,0,,光照面会非常非常的热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the dayside would then be very, very hot
+Dialogue: 0,0:26:04.03,0:26:06.25,Default,NTP,0,0,0,,而阴暗面则非常非常的冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the night side would be very, very cold.
+Dialogue: 0,0:26:10.46,0:26:15.58,Default,NTP,0,0,0,,在2007年春天 科学家利用史匹哲太空望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the spring of 2007, scientists used the Spitzer space telescope,
+Dialogue: 0,0:26:15.70,0:26:19.04,Default,NTP,0,0,0,,可以观察到与热相连的红外线波长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which sees in infrared wavelengths associated with heat
+Dialogue: 0,0:26:19.36,0:26:21.85,Default,NTP,0,0,0,,生成一张行星正反两面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to generate a crude map of the temperature
+Dialogue: 0,0:26:21.94,0:26:24.61,Default,NTP,0,0,0,,粗糙的温度图象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on both the day and nightside of the planet.
+Dialogue: 0,0:26:27.09,0:26:32.51,Default,NTP,0,0,0,,现在大家看到的是第一张日外行星的全景图象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You are actually looking at the first map of any kind made of an alien world.
+Dialogue: 0,0:26:33.40,0:26:36.29,Default,NTP,0,0,0,,图象显示行星的光照面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What the map shows is that the dayside of the planet
+Dialogue: 0,0:26:36.34,0:26:40.48,Default,NTP,0,0,0,,在超自然的华氏1500度的温度下烘烤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is roasting at an otherworldly 1,500 degrees fahrenheit;
+Dialogue: 0,0:26:41.25,0:26:44.90,Default,NTP,0,0,0,,一点都不奇怪 它离宿主星太近了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}no surprise, given how close the planet orbits to its star.
+Dialogue: 0,0:26:46.31,0:26:48.40,Default,NTP,0,0,0,,令人吃惊的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What was surprising was how hot
+Dialogue: 0,0:26:48.43,0:26:50.67,Default,NTP,0,0,0,,行星的阴暗面的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the nightside of the planet turned out to be.
+Dialogue: 0,0:26:52.40,0:26:57.51,Default,NTP,0,0,0,,尽管终日不见阳光 但温度却高达1000度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Despite being in total darkness, it swelters at around a thousand degrees.
+Dialogue: 0,0:26:58.24,0:27:02.61,Default,NTP,0,0,0,,显然 有什么通过行星的大气层在分配着温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Clearly, something was distributing heat throughout the planet's atmosphere,
+Dialogue: 0,0:27:02.90,0:27:07.80,Default,NTP,0,0,0,,将光照面的热能带到行星的另一面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}carrying thermal energy from the dayside, clear around the other side of the planet.
+Dialogue: 0,0:27:09.80,0:27:12.40,Default,NTP,0,0,0,,根据掌握的太阳系里的气象知识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}From his knowledge of weather in our own solar system,
+Dialogue: 0,0:27:12.72,0:27:14.90,Default,NTP,0,0,0,,Showman知道罪魁祸首是什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Showman knew what the culprit was.
+Dialogue: 0,0:27:18.79,0:27:21.45,Default,NTP,0,0,0,,他通过计算 得出这颗日外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}He ran the numbers, and that's when he figured out
+Dialogue: 0,0:27:21.57,0:27:26.06,Default,NTP,0,0,0,,存在规模空前的极速风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that this alien world had jet streams of unprecedented magnitude.
+Dialogue: 0,0:27:28.82,0:27:31.30,Default,NTP,0,0,0,,其每小时6000英里的狂风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their 6,000 mile per hour winds
+Dialogue: 0,0:27:31.30,0:27:35.39,Default,NTP,0,0,0,,让太阳系里的所有风暴都是小巫见大巫了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}dwarf anything in our own solar system.
+Dialogue: 0,0:27:35.39,0:27:38.44,Default,NTP,0,0,0,,地球上的风 实际上是太阳系里最慢的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth, actually, has the slowest speeds of any planet in our solar system,
+Dialogue: 0,0:27:38.49,0:27:41.24,Default,NTP,0,0,0,,标准速度为每小时20英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a typical speed of about 20 miles per hour.
+Dialogue: 0,0:27:42.94,0:27:44.34,Default,NTP,0,0,0,,太阳系里巨大的气体形成的风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gas giants in our solar system
+Dialogue: 0,0:27:44.75,0:27:46.92,Default,NTP,0,0,0,,其实要比地球上的风快一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually have somewhat faster winds than the Earth
+Dialogue: 0,0:27:47.21,0:27:50.90,Default,NTP,0,0,0,,主要是因为其表面没有摩擦来降低风速\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}simply because there's no surface to have friction to slow down the winds.
+Dialogue: 0,0:27:52.31,0:27:56.01,Default,NTP,0,0,0,,例如 在木星和土星上风速每小时有几百英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Jupiter and Saturn, for example, the winds are a few hundred miles per hour.
+Dialogue: 0,0:27:56.66,0:27:59.20,Default,NTP,0,0,0,,所以它们还是要比那些热木星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So they're still about almost a factor of 10 lower
+Dialogue: 0,0:27:59.25,0:28:00.98,Default,NTP,0,0,0,,低一个小数点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than on these hot Jupiters.
+Dialogue: 0,0:28:02.24,0:28:04.87,Default,NTP,0,0,0,,热木星上的天气可能很极端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The weather on hot Jupiters may be extreme,
+Dialogue: 0,0:28:05.54,0:28:08.72,Default,NTP,0,0,0,,然而另一个等级的日外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the forecast for another class of alien planets,
+Dialogue: 0,0:28:08.84,0:28:13.31,Default,NTP,0,0,0,,即"偏心巨星"的天气预报 是为灾难大片特制的.\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the"Eccentric Giants", is tailor-made for a disaster movie.
+Dialogue: 0,0:28:15.58,0:28:19.02,Default,NTP,0,0,0,,这是HD 80606 b\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is HD 80606 b
+Dialogue: 0,0:28:19.31,0:28:24.27,Default,NTP,0,0,0,,大概距离地球200光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a gas-giant planet located roughly 200 light-years from Earth,
+Dialogue: 0,0:28:24.56,0:28:27.69,Default,NTP,0,0,0,,围绕着大熊座里一颗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbiting a star in the constellation Ursa Major.
+Dialogue: 0,0:28:28.25,0:28:32.16,Default,NTP,0,0,0,,这颗怪异星球的一年相当于地球的111天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A year on this bizarre world lasts 111 days,
+Dialogue: 0,0:28:32.48,0:28:36.44,Default,NTP,0,0,0,,它是已知的轨道最偏心的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it has the most eccentric orbit of any known planet.
+Dialogue: 0,0:28:37.75,0:28:39.91,Default,NTP,0,0,0,,由于轨道近似圆形\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With its nearly circular orbit,
+Dialogue: 0,0:28:39.96,0:28:43.96,Default,NTP,0,0,0,,地球相对太阳的距离一年里变化较少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's distance from the Sun changes relatively little throughout the year,
+Dialogue: 0,0:28:44.25,0:28:46.96,Default,NTP,0,0,0,,变化只有400万英里左右\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}varying by only about four million miles.
+Dialogue: 0,0:28:47.69,0:28:51.07,Default,NTP,0,0,0,,然而在HD 80606 b上 一年里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But during its year, HD 80606 b
+Dialogue: 0,0:28:51.12,0:28:54.17,Default,NTP,0,0,0,,与其宿主星近的时候有300万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes as close as three million miles to its sun
+Dialogue: 0,0:28:54.46,0:28:56.77,Default,NTP,0,0,0,,远的时候达到7800万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and as far as 78 million,
+Dialogue: 0,0:28:57.16,0:28:59.80,Default,NTP,0,0,0,,相差有7500英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a difference of 75 million miles.
+Dialogue: 0,0:29:00.87,0:29:05.56,Default,NTP,0,0,0,,荒唐的轨道导致完全荒唐的天气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Its crazy orbit leads to completely crazy weather.
+Dialogue: 0,0:29:06.16,0:29:08.63,Default,NTP,0,0,0,,它的温度在几个小时里几百度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planet heats up by hundreds and hundreds
+Dialogue: 0,0:29:08.78,0:29:10.83,Default,NTP,0,0,0,,几百度地上升\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of degrees in a matter of a few hours,
+Dialogue: 0,0:29:10.95,0:29:13.94,Default,NTP,0,0,0,,就完全造成了可怕的风暴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that drives just absolutely tremendous storms.
+Dialogue: 0,0:29:15.67,0:29:18.55,Default,NTP,0,0,0,,由于它近距离的在其宿主星旁摇晃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the planet swings in close to its star,
+Dialogue: 0,0:29:18.67,0:29:22.57,Default,NTP,0,0,0,,宿主星可怕的在空中变得越来越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the alien sun looms ever larger in the sky.
+Dialogue: 0,0:29:23.26,0:29:26.82,Default,NTP,0,0,0,,因此在行星的一面有巨大的热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so you get a huge amount of heating on one side of the planet,
+Dialogue: 0,0:29:26.92,0:29:29.05,Default,NTP,0,0,0,,而另一面则是黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the other side of the planet is in the night.
+Dialogue: 0,0:29:29.11,0:29:32.36,Default,NTP,0,0,0,,是什么引起剧烈的风暴的呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What that does is it drives an intense storm.
+Dialogue: 0,0:29:32.49,0:29:35.47,Default,NTP,0,0,0,,通常行星的两面存在冲击波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's basically a shockwave around both sides of the planet
+Dialogue: 0,0:29:35.53,0:29:38.99,Default,NTP,0,0,0,,以超音速喷射的速度运动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is moving roughly at the speed of a supersonic jet.
+Dialogue: 0,0:29:40.23,0:29:45.37,Default,NTP,0,0,0,,这个炙热的风暴急速绕星球一周只需12个小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This fiery hurricane rips around the planet in only 12 hours.
+Dialogue: 0,0:29:45.67,0:29:48.21,Default,NTP,0,0,0,,随着冲击波的慢慢消亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the shockwave slowly dies down,
+Dialogue: 0,0:29:48.29,0:29:52.35,Default,NTP,0,0,0,,过热的大气层翻腾形成巨大的气旋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the superheated atmosphere churns into a giant vortex
+Dialogue: 0,0:29:52.86,0:29:55.32,Default,NTP,0,0,0,,吞没了整整半个星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that engulfs an entire hemisphere,
+Dialogue: 0,0:29:55.51,0:29:57.81,Default,NTP,0,0,0,,形成巨大的红斑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a sort of greater Red Spot.
+Dialogue: 0,0:29:59.33,0:30:02.45,Default,NTP,0,0,0,,随着行星远离其炽热的宿主星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the planet moves away from the heat of its Star,
+Dialogue: 0,0:30:02.53,0:30:06.31,Default,NTP,0,0,0,,风暴逐渐丧失其能量和强度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the storm gradually loses energy and intensity.
+Dialogue: 0,0:30:06.42,0:30:10.92,Default,NTP,0,0,0,,然而 在这个偏心巨星上 平静从来不会持续很久\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But on this eccentric giant, the calm never lasts for long.
+Dialogue: 0,0:30:11.25,0:30:18.09,Default,NTP,0,0,0,,每隔111天 冲击波重新燃起狂暴 再次卷土重来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every 111 days, the shockwave is reignited, and the violent cycle begins anew.
+Dialogue: 0,0:30:18.97,0:30:23.38,Default,NTP,0,0,0,,这要比我们太阳系里的所有风暴陌生得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's much stranger than anything that we have in our own Solar System.
+Dialogue: 0,0:30:23.75,0:30:27.16,Default,NTP,0,0,0,,如果你在那里 将会立刻被焚化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were there, you would be incinerated immediately
+Dialogue: 0,0:30:27.25,0:30:31.74,Default,NTP,0,0,0,,即便你有一个真正的机会 可以欣赏你周围的环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before you had a chance to really, sort of, groove on your surroundings.
+Dialogue: 0,0:30:38.02,0:30:43.51,Default,NTP,0,0,0,,宇宙似乎擅长于缔造怪异的世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Universe seems adept at creating strange worlds
+Dialogue: 0,0:30:43.55,0:30:46.76,Default,NTP,0,0,0,,即使是在最不可能的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even in the most unlikely of places.
+Dialogue: 0,0:30:46.91,0:30:48.52,Default,NTP,0,0,0,,这是颗脉冲星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is a pulsar,
+Dialogue: 0,0:30:48.87,0:30:56.02,Default,NTP,0,0,0,,迅速旋转的奇怪的星体叫做"中子星"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a rapidly spinning variety of an exotic stellar object called a"neutron star."
+Dialogue: 0,0:30:56.21,0:30:58.93,Default,NTP,0,0,0,,中子星是巨大的恒星爆炸成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Neutron stars are the remnants left behind
+Dialogue: 0,0:30:58.99,0:31:04.57,Default,NTP,0,0,0,,超新星后的残留部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}after a massive Star explodes in a Supernova.
+Dialogue: 0,0:31:06.31,0:31:08.79,Default,NTP,0,0,0,,没人会预料到能发现行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}No one expected to find planets
+Dialogue: 0,0:31:08.84,0:31:13.33,Default,NTP,0,0,0,,在如此恶劣的宇宙环境中运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}circling in such a treacherous cosmic neighborhood.
+Dialogue: 0,0:31:13.59,0:31:19.23,Default,NTP,0,0,0,,我做梦都没想到 我们会发现行星围绕中子星 脉冲星在运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Never in my wildest dreams, did I think we would ever find planets orbiting a neutron star, a pulsar.
+Dialogue: 0,0:31:19.31,0:31:21.51,Default,NTP,0,0,0,,我是说 毕竟中子星是超新星爆炸形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I mean, after all, neutron stars are formed as a result of Supernova explosions,
+Dialogue: 0,0:31:21.56,0:31:27.22,Default,NTP,0,0,0,,在那里恒星都炸飞了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the Star just blows up.
+Dialogue: 0,0:31:30.30,0:31:34.58,Default,NTP,0,0,0,,因此可以确定 已经在那里的所有行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So, certainly any planets that might have been there to begin with
+Dialogue: 0,0:31:36.13,0:31:39.90,Default,NTP,0,0,0,,都已经吹跑了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have been blown away.
+Dialogue: 0,0:31:40.25,0:31:43.77,Default,NTP,0,0,0,,然而在90年代早期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And yet, in the early 1990s,
+Dialogue: 0,0:31:43.95,0:31:48.28,Default,NTP,0,0,0,,天文学家发现有两颗岩石行星围绕着一颗脉冲星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}astronomers discovered two rocky planets around a pulsar,
+Dialogue: 0,0:31:48.32,0:31:51.45,Default,NTP,0,0,0,,距离地球有7000万亿英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}7,000 trillion miles from Earth.
+Dialogue: 0,0:31:52.00,0:31:56.50,Default,NTP,0,0,0,,事实上他们的发现早于飞马座51b\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Their discovery, in fact, predates 51 Pegasi b,
+Dialogue: 0,0:31:56.55,0:32:00.00,Default,NTP,0,0,0,,通过技术他们有史以来第一次发现了日外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}making them technically the first alien worlds ever detected.
+Dialogue: 0,0:32:00.00,0:32:03.11,Default,NTP,0,0,0,,但是因为它们围绕如此怪异的恒星运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But since they orbit such strange stars,
+Dialogue: 0,0:32:03.11,0:32:09.59,Default,NTP,0,0,0,,许多天文学家认为脉冲星的行星会自成体系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}many astronomers consider pulsar planets to be in a category of their own.
+Dialogue: 0,0:32:10.28,0:32:13.14,Default,NTP,0,0,0,,脉冲星的行星非常有趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The pulsar planets were very interesting.
+Dialogue: 0,0:32:13.67,0:32:16.60,Default,NTP,0,0,0,,其实它们的质量很小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're actually very low in mass and
+Dialogue: 0,0:32:16.64,0:32:17.89,Default,NTP,0,0,0,,比地球的质量小很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}more similar to the Earth's mass.
+Dialogue: 0,0:32:19.00,0:32:21.03,Default,NTP,0,0,0,,它们形成了一个有趣的 与众不同的行星家族\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They form an interesting, exotic classification or a family of planets,
+Dialogue: 0,0:32:21.14,0:32:26.44,Default,NTP,0,0,0,,但是一点都不是主流\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's by no means the mainstream.
+Dialogue: 0,0:32:26.65,0:32:31.22,Default,NTP,0,0,0,,然而大多数行星是和其宿主星一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While most planets are believed to have formed out of
+Dialogue: 0,0:32:31.32,0:32:34.11,Default,NTP,0,0,0,,在同一个气体和尘埃的圆盘上形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the same disc of gas and dust as their parent stars,
+Dialogue: 0,0:32:34.41,0:32:38.46,Default,NTP,0,0,0,,显然 这些脉冲星的行星是以另外一种方式形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}clearly, these pulsar planets formed a different way.
+Dialogue: 0,0:32:39.36,0:32:46.25,Default,NTP,0,0,0,,已经发现的行星必定是在超新星爆炸后形成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planets that have been found must have formed after the supernova explosion.
+Dialogue: 0,0:32:48.20,0:32:49.99,Default,NTP,0,0,0,,真是奇怪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's really bizarre
+Dialogue: 0,0:32:50.06,0:32:52.96,Default,NTP,0,0,0,,因为 我们以为那里所有的东西都已经吹跑了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we would think that all of the material was blown away,
+Dialogue: 0,0:32:53.02,0:32:58.81,Default,NTP,0,0,0,,但是显然 一些碎片必然是以某种方式一直在圆盘里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but apparently, some of that debris must have somehow been in a disc,
+Dialogue: 0,0:32:59.02,0:33:01.16,Default,NTP,0,0,0,,圆盘的碎片结合成了行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and parts of that disc coalesced into planets.
+Dialogue: 0,0:33:02.39,0:33:04.07,Default,NTP,0,0,0,,而这非常出人意料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But that's extremely surprising.
+Dialogue: 0,0:33:04.15,0:33:09.15,Default,NTP,0,0,0,,我不知道有谁真的明白这个过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't know that anyone really understands that process yet.
+Dialogue: 0,0:33:09.69,0:33:12.39,Default,NTP,0,0,0,,尽管脉冲星的行星被认为具有岩石的地壳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although the pulsar planets are believed to have rocky surfaces,
+Dialogue: 0,0:33:12.49,0:33:15.60,Default,NTP,0,0,0,,然而它们不可能成为生命的舞台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's unlikely they would be a platform for life,
+Dialogue: 0,0:33:15.66,0:33:19.21,Default,NTP,0,0,0,,谁去都会折寿的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and any visit by humans would be short-lived.
+Dialogue: 0,0:33:20.11,0:33:22.01,Default,NTP,0,0,0,,由于脉冲星不停地旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the pulsar rotates,
+Dialogue: 0,0:33:22.11,0:33:27.92,Default,NTP,0,0,0,,从它的两极发出集中的带电粒子束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it emits well-focused beams of charged particles from its poles,
+Dialogue: 0,0:33:28.59,0:33:31.11,Default,NTP,0,0,0,,产生可怕的旋转辐射束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creating a rotating spotlight of horrific radiation.
+Dialogue: 0,0:33:32.21,0:33:37.93,Default,NTP,0,0,0,,呆在脉冲星的行星上是个非常危险的主张\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Standing on a pulsar planet would be a very dangerous proposition.
+Dialogue: 0,0:33:37.97,0:33:40.51,Default,NTP,0,0,0,,会有高能辐射包围你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There would be high energy radiation all around you,
+Dialogue: 0,0:33:40.59,0:33:46.69,Default,NTP,0,0,0,,就是粒子和波的冲击\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just an onslaught of particles and waves, and
+Dialogue: 0,0:33:46.73,0:33:48.16,Default,NTP,0,0,0,,辐射场强到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the radiation field would be so strong that
+Dialogue: 0,0:33:48.29,0:33:51.14,Default,NTP,0,0,0,,可能会摧毁你的身体组织\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would probably destroy your living tissue
+Dialogue: 0,0:33:51.20,0:33:54.31,Default,NTP,0,0,0,,肯定会很快引起癌变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would certainly cause cancer and mutations very quickly,
+Dialogue: 0,0:33:54.37,0:33:56.28,Default,NTP,0,0,0,,大概会让你死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it would probably kill you.
+Dialogue: 0,0:33:56.40,0:34:00.40,Default,NTP,0,0,0,,如果你真的倒霉或走运 我想如果你一定要死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you are really unlucky, or lucky, I suppose, if you're gonna die anyway,
+Dialogue: 0,0:34:00.40,0:34:02.60,Default,NTP,0,0,0,,倒不如死得壮观些…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might as well die in a spectacular way...
+Dialogue: 0,0:34:02.60,0:34:06.67,Default,NTP,0,0,0,,接受脉冲星的光束吧 因此 每次旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would be in the beam of the pulsar. So, every rotation,
+Dialogue: 0,0:34:06.83,0:34:11.59,Default,NTP,0,0,0,,光束会一闪而过 你将看到这个难以置信的灯塔\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the beam would flash past you and you would see this incredibly bright beacon,
+Dialogue: 0,0:34:11.65,0:34:15.76,Default,NTP,0,0,0,,就像一座很近的灯塔在你脸上一闪而过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like a lighthouse really close to you, just flashing in your face.
+Dialogue: 0,0:34:16.41,0:34:20.53,Default,NTP,0,0,0,,这不是一个友好的环境 根本不是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would not be a very hospitable environment. No way.
+Dialogue: 0,0:34:21.00,0:34:24.43,Default,NTP,0,0,0,,虽然脉冲星不可能是逗留的好地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the pulsar planets might not be nice places to visit,
+Dialogue: 0,0:34:24.60,0:34:29.96,Default,NTP,0,0,0,,但是它们已经告诉了我们行星在宇宙中形成的基本的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they have taught us something fundamental about planet formation in the universe.
+Dialogue: 0,0:34:30.61,0:34:35.63,Default,NTP,0,0,0,,这些围绕着中子星的可怕的行星已经告诉我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These planets, weird planets, around the neutron star have taught us that
+Dialogue: 0,0:34:35.85,0:34:39.85,Default,NTP,0,0,0,,行星的形成似乎相对比较容易\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planetary formation appears to be relatively easy.
+Dialogue: 0,0:34:40.74,0:34:43.58,Default,NTP,0,0,0,,引力似乎喜欢将物体拉到一块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravity appears to like to pull stuff together
+Dialogue: 0,0:34:43.69,0:34:46.88,Default,NTP,0,0,0,,只要在特定的区域里有足够的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when there's enough stuff in a given region.
+Dialogue: 0,0:34:49.09,0:34:54.03,Default,NTP,0,0,0,,只要大自然如此擅长制造行星 即使是在困难的条件下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If nature is so good at making planets, even under difficult circumstances,
+Dialogue: 0,0:34:54.12,0:34:58.75,Default,NTP,0,0,0,,那么宇宙中布满行星的概率还是很高的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the odds are fairly high that the universe is full of planets,
+Dialogue: 0,0:34:58.89,0:35:01.41,Default,NTP,0,0,0,,宇宙中到处都会出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that somewhere out there in the cosmos,
+Dialogue: 0,0:35:01.49,0:35:04.60,Default,NTP,0,0,0,,其它地球正等着被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}other Earths are waiting to be discovered.
+Dialogue: 0,0:35:06.39,0:35:09.66,Default,NTP,0,0,0,,然而真是这种情况 那么那些地球究竟在哪里？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if that's the case, then where are the Earths?
+Dialogue: 0,0:35:10.59,0:35:12.97,Default,NTP,0,0,0,,为什么我们还没有找到呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why haven't we found them yet?
+Dialogue: 0,0:35:13.97,0:35:18.17,Default,NTP,0,0,0,,90年代末发现的第一颗行星是巨大的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The first planets that were found in the late 1990s were massive planets,
+Dialogue: 0,0:35:18.34,0:35:20.89,Default,NTP,0,0,0,,是地球质量的300倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}300 times the mass of our Earth.
+Dialogue: 0,0:35:24.82,0:35:30.02,Default,NTP,0,0,0,,最早发现最大的巨星实在是不奇怪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it's really not a surprise that we found the most massive ones first.
+Dialogue: 0,0:35:30.88,0:35:33.46,Default,NTP,0,0,0,,就像我身后的大红杉树\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like the giant Redwood trees behind me,
+Dialogue: 0,0:35:33.54,0:35:37.70,Default,NTP,0,0,0,,从远处最容易被看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they were the easiest to see from the enormous distances that we were looking.
+Dialogue: 0,0:35:38.39,0:35:41.72,Default,NTP,0,0,0,,所以 一旦找到我们就会说:"啊 这有一颗巨大的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when we find stars, where we say,"ah, there's just one
+Dialogue: 0,0:35:41.78,0:35:44.69,Default,NTP,0,0,0,,一棵大红杉树"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}single massive planet, one giant Redwood"
+Dialogue: 0,0:35:45.10,0:35:48.29,Default,NTP,0,0,0,,可以肯定这是不对的 几乎可以肯定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's almost certain to not be true. There almost certainly
+Dialogue: 0,0:35:48.36,0:35:53.43,Default,NTP,0,0,0,,围绕着恒星有一大群行星 小行星还有彗星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a forest of planets and asteroids and comets also orbiting that star.
+Dialogue: 0,0:35:56.17,0:35:59.82,Default,NTP,0,0,0,,随着天文学家们继续细查日外太阳系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As astronomers continue to scrutinize alien solar systems,
+Dialogue: 0,0:36:00.04,0:36:04.31,Default,NTP,0,0,0,,正在日益接近找到类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they are edging ever closer to finding Earth-like planets.
+Dialogue: 0,0:36:06.19,0:36:09.19,Default,NTP,0,0,0,,这是红矮星格雷司436 b\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is Gliese 436 b.
+Dialogue: 0,0:36:09.78,0:36:13.20,Default,NTP,0,0,0,,是颗行星 质量大约是地球的20倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a world, roughly 20 times the mass of Earth,
+Dialogue: 0,0:36:13.39,0:36:16.16,Default,NTP,0,0,0,,质量和大小相当于海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}similar in mass and size to Neptune.
+Dialogue: 0,0:36:16.49,0:36:21.20,Default,NTP,0,0,0,,在30光年以外的狮子星座里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It orbits a star 30 light-years away in the constellation Leo.
+Dialogue: 0,0:36:21.79,0:36:25.72,Default,NTP,0,0,0,,对格雷司436 我激动得几乎跳了起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm so excited about Gliese 436. I'm almost jumping out of my clothes.
+Dialogue: 0,0:36:25.80,0:36:30.28,Default,NTP,0,0,0,,它是飞马座51以来最重大的发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the most important discovery since 51 Pegasi,
+Dialogue: 0,0:36:30.42,0:36:32.77,Default,NTP,0,0,0,,可能还要重要\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe even more important.
+Dialogue: 0,0:36:33.24,0:36:35.32,Default,NTP,0,0,0,,让杰夫·马西如此兴奋的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What has Geoff Marcy so excited
+Dialogue: 0,0:36:35.41,0:36:40.96,Default,NTP,0,0,0,,发现这颗行星的密度是每立方厘米2.1克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that this planet was found to have a density of 2.1 grams per cubic centimeter.
+Dialogue: 0,0:36:41.98,0:36:44.53,Default,NTP,0,0,0,,这意味着什么？是个了不起的数字\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What does that mean? it's a spectacular number,
+Dialogue: 0,0:36:44.65,0:36:47.22,Default,NTP,0,0,0,,因为每个小学生都知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because every schoolchild knows that
+Dialogue: 0,0:36:47.34,0:36:51.15,Default,NTP,0,0,0,,水的密度是每立方厘米1克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the density of water is one gram per cubic centimeter,
+Dialogue: 0,0:36:51.27,0:36:54.19,Default,NTP,0,0,0,,我们同样知道从街上随便拾起来的石块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we also know that rocks that you pick up on the street,
+Dialogue: 0,0:36:54.36,0:36:56.92,Default,NTP,0,0,0,,我们地球的密度 例如这石块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the density of our Earth, for example, as a rock,
+Dialogue: 0,0:36:57.18,0:37:00.16,Default,NTP,0,0,0,,每立方厘米大约为5克\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is about five grams per cubic centimeter.
+Dialogue: 0,0:37:00.40,0:37:03.23,Default,NTP,0,0,0,,因此 这颗行星 围绕着格雷司436\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And therefore, this planet, around 436,
+Dialogue: 0,0:37:03.35,0:37:07.79,Default,NTP,0,0,0,,是石头和水的混合体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is composed of a mixture of rock and water.
+Dialogue: 0,0:37:09.32,0:37:13.09,Default,NTP,0,0,0,,由石头和水组成的行星听起来像地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A planet made of rock and water sounds tantalizingly Earth-like,
+Dialogue: 0,0:37:13.39,0:37:16.34,Default,NTP,0,0,0,,但格雷司436 b的水太多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but gliese 436 b has so much water
+Dialogue: 0,0:37:16.46,0:37:19.74,Default,NTP,0,0,0,,根本就不会有陆地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there would be no landmasses exposed at all.
+Dialogue: 0,0:37:20.47,0:37:24.76,Default,NTP,0,0,0,,你不会想去那个水世界游泳的吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And you wouldn't wanna take a swim in the oceans of this watery alien world.
+Dialogue: 0,0:37:25.64,0:37:28.72,Default,NTP,0,0,0,,可能其表面有层液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There may be a layer of liquid water on the surface,
+Dialogue: 0,0:37:29.09,0:37:32.47,Default,NTP,0,0,0,,但是下面的东西就有点神秘了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but below that, things begin to get a little weird.
+Dialogue: 0,0:37:33.16,0:37:34.59,Default,NTP,0,0,0,,有如此多的水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's so much water
+Dialogue: 0,0:37:34.88,0:37:37.43,Default,NTP,0,0,0,,水分子很轻的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the sheer gravitational force
+Dialogue: 0,0:37:37.50,0:37:40.88,Default,NTP,0,0,0,,引力将向中心挤压\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the water molecules pressing down toward the center
+Dialogue: 0,0:37:41.00,0:37:43.55,Default,NTP,0,0,0,,将水紧紧地挤压在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will crush the water so tightly
+Dialogue: 0,0:37:43.67,0:37:46.84,Default,NTP,0,0,0,,水分子将相互紧挨着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the water molecules are almost touching each other.
+Dialogue: 0,0:37:46.96,0:37:51.69,Default,NTP,0,0,0,,这是种很奇怪的水…事实上即使它不冷我们也称它为"冰"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a very odd type of water. In fact, we call it"ice" even though it's not cold
+Dialogue: 0,0:37:51.81,0:37:54.15,Default,NTP,0,0,0,,因为水分子将被排列组合成冰的结构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the water molecules will be arranged
+Dialogue: 0,0:37:54.27,0:37:59.34,Default,NTP,0,0,0,,但是仅仅是因为高压\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a structure like ice, but only due to its high pressure.
+Dialogue: 0,0:38:00.63,0:38:06.24,Default,NTP,0,0,0,,显然格雷司436 b不完全是类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Clearly, gliese 436 b isn't quite an Earth-like planet,
+Dialogue: 0,0:38:06.55,0:38:09.44,Default,NTP,0,0,0,,那么这颗日外行星是什么呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but what about this alien world?
+Dialogue: 0,0:38:10.89,0:38:14.82,Default,NTP,0,0,0,,什么样的行星才是真正的类地行星呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What would make an alien planet truly Earth-like?
+Dialogue: 0,0:38:15.50,0:38:17.63,Default,NTP,0,0,0,,应该是主要由岩石构成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It should be made primarily of rock
+Dialogue: 0,0:38:17.75,0:38:19.82,Default,NTP,0,0,0,,有充分的水组成的海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with enough water for oceans,
+Dialogue: 0,0:38:19.94,0:38:24.05,Default,NTP,0,0,0,,但水又不能太多 陆地不能完全被淹没\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but not so much water that the land masses are completely submerged.
+Dialogue: 0,0:38:25.46,0:38:29.30,Default,NTP,0,0,0,,也必须在它的恒星系里是适宜居住的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would also have to be in its star's habitable zone.
+Dialogue: 0,0:38:29.96,0:38:31.83,Default,NTP,0,0,0,,适宜居住的典型的概念是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The typical idea for a habitable zone
+Dialogue: 0,0:38:31.95,0:38:35.66,Default,NTP,0,0,0,,它与恒星的距离能够在其\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is the range of distances from a star where an Earth-like planet
+Dialogue: 0,0:38:35.72,0:38:37.88,Default,NTP,0,0,0,,表面存在液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could have liquid water at its surface.
+Dialogue: 0,0:38:38.13,0:38:40.83,Default,NTP,0,0,0,,这个概念就是如果将地球推近点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea would be that if you took Earth and pushed it in too far,
+Dialogue: 0,0:38:40.95,0:38:43.66,Default,NTP,0,0,0,,海洋就会沸腾 就不利于生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the oceans will all boil away, and that's bad for life;
+Dialogue: 0,0:38:44.66,0:38:46.55,Default,NTP,0,0,0,,而如果将地球推远点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or if you took the Earth and pushed it out too far,
+Dialogue: 0,0:38:46.67,0:38:49.69,Default,NTP,0,0,0,,海洋将通通接成冰也不利于生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the oceans would all freeze, and that's bad for life.
+Dialogue: 0,0:38:51.61,0:38:53.42,Default,NTP,0,0,0,,在我们的太阳系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In our own solar system,
+Dialogue: 0,0:38:53.54,0:38:56.43,Default,NTP,0,0,0,,适宜居住的区域是从火星的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the habitable zone ranges from Mars' orbit
+Dialogue: 0,0:38:57.01,0:39:00.09,Default,NTP,0,0,0,,到金星的轨道之间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}into as close as to where Venus orbits.
+Dialogue: 0,0:39:00.84,0:39:04.45,Default,NTP,0,0,0,,然而日外太阳系里的可居住区域各不相同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the habitable zone in alien solar systems varies
+Dialogue: 0,0:39:04.57,0:39:07.35,Default,NTP,0,0,0,,有赖于其宿主星的温度有多高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}depending on how hot the star is.
+Dialogue: 0,0:39:07.63,0:39:11.84,Default,NTP,0,0,0,,当前我们找到可居住的类地行星的最大希望\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Currently, our best hope for finding habitable Earth-like planets
+Dialogue: 0,0:39:12.10,0:39:14.81,Default,NTP,0,0,0,,是针对相对较冷 较暗的恒星进行调查\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is to look around cool, dim stars
+Dialogue: 0,0:39:14.93,0:39:17.99,Default,NTP,0,0,0,,此类恒星叫做"红矮星"即"中矮星"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called"red dwarfs" or"m dwarfs."
+Dialogue: 0,0:39:18.33,0:39:21.60,Default,NTP,0,0,0,,中矮星本身是种很特殊的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The m dwarfs themselves are very special stars.
+Dialogue: 0,0:39:22.11,0:39:24.69,Default,NTP,0,0,0,,如果我们的太阳是100W的灯泡的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So our sun might be 100-watt lightbulb,
+Dialogue: 0,0:39:24.81,0:39:28.35,Default,NTP,0,0,0,,中矮星大概就是10W的灯泡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an m dwarf is perhaps a 10-watt light bulb,
+Dialogue: 0,0:39:28.67,0:39:31.29,Default,NTP,0,0,0,,因此就意味着还是够温暖的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so what that means is that to stay warm enough
+Dialogue: 0,0:39:31.41,0:39:34.14,Default,NTP,0,0,0,,会有液态的水 而不是冰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that you have liquid water, not ice,
+Dialogue: 0,0:39:34.26,0:39:37.94,Default,NTP,0,0,0,,但是还是不够热 行星要靠得很近才行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but still not too hot, you move the planet in much closer.
+Dialogue: 0,0:39:38.21,0:39:40.93,Default,NTP,0,0,0,,那些靠得很近的行星很容易通过手段被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And those close planets are easier for us to detect
+Dialogue: 0,0:39:41.05,0:39:44.55,Default,NTP,0,0,0,,因为它们拽拉宿主星会更强些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with our technique because they tug on the star a bit more.
+Dialogue: 0,0:39:47.29,0:39:50.64,Default,NTP,0,0,0,,其中一颗中矮星 "格雷司876"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of these m dwarfs, called"Gliese 876"
+Dialogue: 0,0:39:50.76,0:39:54.19,Default,NTP,0,0,0,,已经发现至少有3颗行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been found to have at least three planets orbiting it.
+Dialogue: 0,0:39:54.44,0:39:56.64,Default,NTP,0,0,0,,其中两颗是气体巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Two of them are gas giants,
+Dialogue: 0,0:39:56.76,0:39:59.61,Default,NTP,0,0,0,,但是第三颗 格雷司876 d\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but the third, Gliese 876 d,
+Dialogue: 0,0:39:59.73,0:40:02.95,Default,NTP,0,0,0,,是到目前为止发现的最小的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is one of the smallest planets discovered so far,
+Dialogue: 0,0:40:03.20,0:40:06.47,Default,NTP,0,0,0,,大概是地球质量的6到7倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at roughly six or seven times the mass of the Earth.
+Dialogue: 0,0:40:06.59,0:40:10.34,Default,NTP,0,0,0,,它也刚好处在其宿主星的可居住区的边缘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's also just on the edge of its star's habitable zone.
+Dialogue: 0,0:40:10.71,0:40:14.65,Default,NTP,0,0,0,,它绕宿主星一圈只需要1.9天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planet orbits in just 1.9 days around its host star,
+Dialogue: 0,0:40:14.77,0:40:17.90,Default,NTP,0,0,0,,但是因为宿主星的亮度很暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but because the host star is so low in luminosity,
+Dialogue: 0,0:40:18.02,0:40:21.99,Default,NTP,0,0,0,,它所处的位置 可以想象得出可居住区域是什么样子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it puts it on the edge of what you might imagine a habitable zone to be.
+Dialogue: 0,0:40:22.11,0:40:26.54,Default,NTP,0,0,0,,会有一些地方 绕着行星背后一圈\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There could be some region, a ring around the planet towards the backside
+Dialogue: 0,0:40:26.66,0:40:29.98,Default,NTP,0,0,0,,那里的温度刚好使得液态水存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where the temperature's actually just right for liquid water to exist.
+Dialogue: 0,0:40:32.45,0:40:34.12,Default,NTP,0,0,0,,当它第一次被发现时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it was first discovered,
+Dialogue: 0,0:40:34.24,0:40:38.67,Default,NTP,0,0,0,,科学家们高度称赞它是第一颗超级行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientists hailed this planet as the first of the super Earths.
+Dialogue: 0,0:40:39.09,0:40:40.81,Default,NTP,0,0,0,,是地球质量的7倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Seven times the mass of the Earth
+Dialogue: 0,0:40:41.06,0:40:44.23,Default,NTP,0,0,0,,听起来很接近我们地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}sounds so close to the size of our Earth
+Dialogue: 0,0:40:44.50,0:40:47.14,Default,NTP,0,0,0,,怀疑它可能是颗岩石行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that you wonder whether or not it's a rocky planet,
+Dialogue: 0,0:40:47.26,0:40:49.17,Default,NTP,0,0,0,,或许还有厚厚的大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe with a thick atmosphere.
+Dialogue: 0,0:40:51.93,0:40:54.16,Default,NTP,0,0,0,,然而现在 专家学者还是没有把握\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But today, the experts are unsure
+Dialogue: 0,0:40:54.21,0:40:57.01,Default,NTP,0,0,0,,究竟是不是颗岩石大行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether this is a large, rocky planet at all.
+Dialogue: 0,0:40:57.06,0:40:58.93,Default,NTP,0,0,0,,格雷司 436 b\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like Gliese 436 b,
+Dialogue: 0,0:40:59.05,0:41:03.46,Default,NTP,0,0,0,,可能完全覆盖着致密水的海洋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it may be completely covered in an ocean of super dense water.
+Dialogue: 0,0:41:03.82,0:41:06.88,Default,NTP,0,0,0,,把它称为超级行星暗示着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To call it a"super Earth" is to suggest
+Dialogue: 0,0:41:06.93,0:41:10.48,Default,NTP,0,0,0,,我们已经找到了一颗地球亲密的堂兄了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we've found a planet that's a close cousin of our Earth.
+Dialogue: 0,0:41:10.60,0:41:13.84,Default,NTP,0,0,0,,现在我宁愿它是个远房亲戚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I would now rather think of it as a distant cousin,
+Dialogue: 0,0:41:13.96,0:41:16.72,Default,NTP,0,0,0,,与地球不无关系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not unrelated to our Earth,
+Dialogue: 0,0:41:17.02,0:41:20.60,Default,NTP,0,0,0,,但是离得太远 其实 它更像是太阳系里的海王星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but far enough away, indeed, more like neptune
+Dialogue: 0,0:41:20.72,0:41:23.53,Default,NTP,0,0,0,,有个大的岩石核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in our own solar system, that has a big, rocky core,
+Dialogue: 0,0:41:23.80,0:41:26.95,Default,NTP,0,0,0,,但是包裹着水的外壳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but surrounded by a big envelope of water.
+Dialogue: 0,0:41:29.13,0:41:34.11,Default,NTP,0,0,0,,因此发现类地行星的竞赛在继续进行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the race continues to discover the first truly
+Dialogue: 0,0:41:34.64,0:41:36.47,Default,NTP,0,0,0,,在亚利桑那大学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth-like planet.
+Dialogue: 0,0:41:36.59,0:41:40.83,Default,NTP,0,0,0,,天文学家莱尔德·克洛斯正期待\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the university of Arizona, astronomer laird close is hoping to capture
+Dialogue: 0,0:41:40.90,0:41:42.18,Default,NTP,0,0,0,,获得第一颗日外地球的照片\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the first picture of an alien Earth.
+Dialogue: 0,0:41:43.12,0:41:47.24,Default,NTP,0,0,0,,然而要达到这个目标 望远镜技术需要有个大的飞跃\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But to do that will take a giant leap in telescope technology.
+Dialogue: 0,0:41:48.04,0:41:50.84,Default,NTP,0,0,0,,这里是斯图尔特天文镜面实验室\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here at the steward observatory mirror lab,
+Dialogue: 0,0:41:51.12,0:41:53.80,Default,NTP,0,0,0,,在大学足球场看台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a cavernous space underneath the bleachers
+Dialogue: 0,0:41:53.88,0:41:55.89,Default,NTP,0,0,0,,下面的大空间里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the university's football stadium,
+Dialogue: 0,0:41:56.79,0:42:01.38,Default,NTP,0,0,0,,工程师们正在制作下一代的天文望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}engineers are working on the next generation of supertelescopes.
+Dialogue: 0,0:42:07.24,0:42:09.95,Default,NTP,0,0,0,,这是迄今为止最大的镜面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the largest mirror that's ever been made.
+Dialogue: 0,0:42:10.00,0:42:12.85,Default,NTP,0,0,0,,镜面直径8.4米\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This mirror is 8.4 meters across,
+Dialogue: 0,0:42:13.03,0:42:14.78,Default,NTP,0,0,0,,然而这只是七分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's just 1/7th
+Dialogue: 0,0:42:14.79,0:42:18.33,Default,NTP,0,0,0,,巨型麦哲伦望远镜的7块镜面中的一块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the size that's needed for the giant magellan telesce.
+Dialogue: 0,0:42:18.60,0:42:21.69,Default,NTP,0,0,0,,当把7块这样大小的镜面拼起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And together, when combined with seven other mirrors like it
+Dialogue: 0,0:42:21.81,0:42:23.61,Default,NTP,0,0,0,,组合成巨型麦哲伦望远镜后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with the giant magellan telescope,
+Dialogue: 0,0:42:23.73,0:42:26.00,Default,NTP,0,0,0,,我们就能够直接看到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we will be able to actually directly image
+Dialogue: 0,0:42:26.09,0:42:28.12,Default,NTP,0,0,0,,日外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}extrasolar planets and maybe even
+Dialogue: 0,0:42:28.17,0:42:30.88,Default,NTP,0,0,0,,甚至还可能看到日外类地行星了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth-like planets around alien suns.
+Dialogue: 0,0:42:32.66,0:42:35.70,Default,NTP,0,0,0,,预计会在2016年完成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scheduled for completion in 2016,
+Dialogue: 0,0:42:36.05,0:42:39.97,Default,NTP,0,0,0,,这个望远镜拍到的会比哈勃太空望远镜拍到的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this telescope will be able to make images up to 10 times sharper
+Dialogue: 0,0:42:40.63,0:42:43.06,Default,NTP,0,0,0,,图象清晰10倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than the hubble space telescope.
+Dialogue: 0,0:42:44.05,0:42:46.57,Default,NTP,0,0,0,,美国航天局和欧洲航天局\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nasa and the European Space Agency
+Dialogue: 0,0:42:46.69,0:42:48.75,Default,NTP,0,0,0,,也正在进行几项任务\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are also developing several missions
+Dialogue: 0,0:42:48.87,0:42:51.07,Default,NTP,0,0,0,,用太空望远镜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that will use space-based telescopes
+Dialogue: 0,0:42:51.17,0:42:54.27,Default,NTP,0,0,0,,来搜索我们的行星亲戚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to search the stars for our planetary kin.
+Dialogue: 0,0:42:54.75,0:42:58.86,Default,NTP,0,0,0,,这对人类来说 无法想象会有多么振奋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This will be incredibly exciting for humankind
+Dialogue: 0,0:42:58.89,0:43:02.68,Default,NTP,0,0,0,,不管那些小光点周围是否存在行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to know whether or not around those little points of light
+Dialogue: 0,0:43:02.80,0:43:05.55,Default,NTP,0,0,0,,我们观察夜晚的星空\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we see in the night sky, whether there's Earth-like planets
+Dialogue: 0,0:43:05.67,0:43:08.06,Default,NTP,0,0,0,,不管那些恒星周围有没有类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tied in an orbit around those stars.
+Dialogue: 0,0:43:13.03,0:43:15.10,Default,NTP,0,0,0,,随着技术的提高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As technology improves,
+Dialogue: 0,0:43:15.22,0:43:18.90,Default,NTP,0,0,0,,我们将会找到更像地球的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we're gonna be able to find planets that look much more like the Earth,
+Dialogue: 0,0:43:19.45,0:43:21.57,Default,NTP,0,0,0,,或许那些行星上会有生命存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planets that, perhaps, have life on them,
+Dialogue: 0,0:43:21.69,0:43:25.16,Default,NTP,0,0,0,,甚至还可能存在森林 火车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and maybe even planets that have forests and steam trains.
+Dialogue: 0,0:43:29.69,0:43:32.94,Default,NTP,0,0,0,,天文学家们已经将自己的毕生奉献在这个事业中了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The astronomers who have dedicated their lives to this quest
+Dialogue: 0,0:43:33.06,0:43:36.40,Default,NTP,0,0,0,,大家都相信找到第一颗真正的类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all believe it's only a matter of time before we find
+Dialogue: 0,0:43:36.52,0:43:39.49,Default,NTP,0,0,0,,唯一重要的就是时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the first truly Earth-like planet.
+Dialogue: 0,0:43:40.51,0:43:43.47,Default,NTP,0,0,0,,我可以告诉你最让人激动的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most exciting thing I can tell you is that
+Dialogue: 0,0:43:43.59,0:43:45.76,Default,NTP,0,0,0,,我们现在经常发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we are now routinely discovering,
+Dialogue: 0,0:43:45.88,0:43:47.83,Default,NTP,0,0,0,,普遍发现那种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}commonly discovering planets
+Dialogue: 0,0:43:47.89,0:43:51.73,Default,NTP,0,0,0,,是地球质量5到10倍的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are a mere five or 10 times the mass of our Earth.
+Dialogue: 0,0:43:52.37,0:43:54.75,Default,NTP,0,0,0,,我们不会满天空地去找行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're not quite to the point where we're finding Earths,
+Dialogue: 0,0:43:54.80,0:43:57.06,Default,NTP,0,0,0,,而是完全有目标的去找的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's where we really want to be.
+Dialogue: 0,0:43:57.65,0:44:00.17,Default,NTP,0,0,0,,我们在找和我们的地球家园\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we're finding planets that are ever so close
+Dialogue: 0,0:44:00.29,0:44:01.98,Default,NTP,0,0,0,,非常亲近的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to our home planet.
+Dialogue: 0,0:44:03.57,0:44:07.62,Default,NTP,0,0,0,,所以说其实一旦跨过最后的一道槛\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So when we actually do cross that final threshold and do find evidence
+Dialogue: 0,0:44:07.74,0:44:09.61,Default,NTP,0,0,0,,找到存在可居住行星的证据\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there's a habitable planet out there,
+Dialogue: 0,0:44:09.66,0:44:12.79,Default,NTP,0,0,0,,那对人类来说将是个划时代的事件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}this is gonna be a quite an epochal event for humanity.
+Dialogue: 0,0:44:13.35,0:44:15.17,Default,NTP,0,0,0,,然而大家不必过多地担心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People should not worry too much yet,
+Dialogue: 0,0:44:15.22,0:44:17.96,Default,NTP,0,0,0,,我们还没有发现任何的类地行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we haven't found any Earth-like planets, because, well,
+Dialogue: 0,0:44:19.25,0:44:21.16,Default,NTP,0,0,0,,因为很多努力正在往前进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a lot of effort is going into it right now,
+Dialogue: 0,0:44:21.28,0:44:23.19,Default,NTP,0,0,0,,我认为在未来的10年里会达到目标的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and i think it will be done in the next 10 years.
+Dialogue: 0,0:44:23.72,0:44:24.77,Default,NTP,0,0,0,,是啊 敬请期待\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yeah, stay tuned.
+Dialogue: 0,0:44:25.00,0:44:33.00,Default,NTP,0,0,0,,谢谢观赏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks For Viewing

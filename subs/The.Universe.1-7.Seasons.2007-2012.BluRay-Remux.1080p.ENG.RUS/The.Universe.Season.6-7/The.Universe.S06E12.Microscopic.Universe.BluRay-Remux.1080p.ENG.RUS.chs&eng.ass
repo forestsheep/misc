@@ -1,0 +1,903 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:31.50,0:01:35.18,Default,,0000,0000,0008,,{\blur3}宇宙:微观宇宙{\r}
+Dialogue: 0,0:35:41.81,0:35:43.45,Default,,0000,0000,0008,,{\an8\blur3}询问宇宙{\r}
+Dialogue: 0,0:36:10.88,0:36:11.92,Default,,0000,0000,0008,,{\an8\blur3}询问宇宙{\r}
+Dialogue: 0,0:00:00.29,0:00:02.50,Default,,0,0,0,,{\blur3}上溯至宇宙初始 周遭还只是一片漆黑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the beginning, there was darkness.{\r}
+Dialogue: 0,0:00:02.62,0:00:03.97,Default,,0,0,0,,{\blur3}不知何时 忽地一声巨响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then... Bang!{\r}
+Dialogue: 0,0:00:04.69,0:00:07.22,Default,,0,0,0,,{\blur3}时间空间以及物质皆由此发端{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Giving birth to an endless expanding existence{\r}
+Dialogue: 0,0:00:07.49,0:00:09.37,Default,,0,0,0,,{\blur3}此后不断膨胀 延伸 永无止境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of time, space, and matter.{\r}
+Dialogue: 0,0:00:10.02,0:00:12.45,Default,,0,0,0,,{\blur3}每一天 新的发现都在不断为我们解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Every day, new discoveries are unlocking{\r}
+Dialogue: 0,0:00:12.48,0:00:14.42,Default,,0,0,0,,{\blur3}蕴藏于这里的那些神秘莫测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysterious, the mind-blowing,{\r}
+Dialogue: 0,0:00:14.60,0:00:17.43,Default,,0,0,0,,{\blur3}令人大开眼界 致命的秘密{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the deadly secrets of a place we call{\r}
+Dialogue: 0,0:00:17.61,0:00:18.80,Default,,0,0,0,,{\blur3}我们称这个地方为"宇宙"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the universe.{\r}
+Dialogue: 0,0:00:21.00,0:00:24.54,Default,,0000,0000,0000,,{\blur3}随着科学家们不断地解开宇宙之迷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As they try to unravel the mysteries of the universe,{\r}
+Dialogue: 0,0:00:24.56,0:00:28.36,Default,,0000,0000,0000,,{\blur3}他们正逐渐得出一个令人意外的结论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists are coming to an astounding conclusion.{\r}
+Dialogue: 0,0:00:29.28,0:00:31.44,Default,,0000,0000,0000,,{\blur3}要了解外部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To make sense of outer space,{\r}
+Dialogue: 0,0:00:31.52,0:00:33.85,Default,,0000,0000,0000,,{\blur3}就得先了解内部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they need to understand inner space,{\r}
+Dialogue: 0,0:00:34.13,0:00:35.67,Default,,0000,0000,0000,,{\blur3}微小的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the microscopic matter{\r}
+Dialogue: 0,0:00:35.69,0:00:39.37,Default,,0000,0000,0000,,{\blur3}是万物之源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that forms the foundation of everything we see.{\r}
+Dialogue: 0,0:00:40.43,0:00:42.76,Default,,0000,0000,0000,,{\blur3}让我们变小数十亿倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But shrinking down billions of times,{\r}
+Dialogue: 0,0:00:42.79,0:00:46.24,Default,,0000,0000,0000,,{\blur3}去到原子和次原子粒子的领域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the realm of atoms and subatomic particles,{\r}
+Dialogue: 0,0:00:46.27,0:00:49.99,Default,,0000,0000,0000,,{\blur3}进入一个奇异的陌生世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}takes us into a strange unexplored world.{\r}
+Dialogue: 0,0:00:50.52,0:00:53.01,Default,,0000,0000,0000,,{\blur3}当我们下到微观世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we descend into the microscopic world,{\r}
+Dialogue: 0,0:00:53.04,0:00:55.13,Default,,0000,0000,0000,,{\blur3}就会发现它是那么的不可思议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we find that it's really weird,{\r}
+Dialogue: 0,0:00:55.26,0:00:58.80,Default,,0000,0000,0000,,{\blur3}那么的离奇 让人难以置信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and indeed downright bizarre and unbelievable.{\r}
+Dialogue: 0,0:00:58.96,0:01:00.55,Default,,0000,0000,0000,,{\blur3}那里的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}narrator: The stuff in this universe{\r}
+Dialogue: 0,0:01:00.57,0:01:04.42,Default,,0000,0000,0000,,{\blur3}远比用显微镜能看到的东西小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is far smaller than anything we can see with a microscope,{\r}
+Dialogue: 0,0:01:04.52,0:01:07.43,Default,,0000,0000,0000,,{\blur3}但它是整体的关键基础{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it holds the key to the cosmos.{\r}
+Dialogue: 0,0:01:09.44,0:01:12.08,Default,,0000,0000,0000,,{\blur3}只有了解这个离奇的微观世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can only understand where we came from{\r}
+Dialogue: 0,0:01:12.10,0:01:15.25,Default,,0000,0000,0000,,{\blur3}才能了解我们从哪里来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we understand this crazy microworld.{\r}
+Dialogue: 0,0:01:15.62,0:01:18.34,Default,,0000,0000,0000,,{\blur3}因此 让我们展开一次神奇之旅{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So let's go on a fantastic voyage{\r}
+Dialogue: 0,0:01:18.37,0:01:20.35,Default,,0000,0000,0000,,{\blur3}畅游微观宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into an uncharted world{\r}
+Dialogue: 0,0:01:20.37,0:01:23.95,Default,,0000,0000,0000,,{\blur3}这一个未知的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}known as the microscopic universe.{\r}
+Dialogue: 0,0:01:40.21,0:01:42.42,Default,,0000,0000,0000,,{\blur3}当人们说起宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When people talk about the universe,{\r}
+Dialogue: 0,0:01:42.61,0:01:46.36,Default,,0000,0000,0000,,{\blur3}通常都是指跨度数十亿光年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they usually mean the vast expanse of space{\r}
+Dialogue: 0,0:01:46.77,0:01:49.20,Default,,0000,0000,0000,,{\blur3}可以通过射线望远镜{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}billions of light-years across{\r}
+Dialogue: 0,0:01:49.94,0:01:52.84,Default,,0000,0000,0000,,{\blur3}和宇宙成像技术看到的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that they can see with radio telescopes{\r}
+Dialogue: 0,0:01:53.82,0:01:55.54,Default,,0000,0000,0000,,{\blur3}广袤空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and cosmic imaging.{\r}
+Dialogue: 0,0:01:57.61,0:02:00.06,Default,,0000,0000,0000,,{\blur3}人们会联想到恒星 星系和行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They think about stars and galaxies and planets{\r}
+Dialogue: 0,0:02:00.09,0:02:02.03,Default,,0000,0000,0000,,{\blur3}以及那里所有的庞然大物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and all the big stuff out there.{\r}
+Dialogue: 0,0:02:03.98,0:02:05.94,Default,,0000,0000,0000,,{\blur3}那里有很多天体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You have astronomical bodies{\r}
+Dialogue: 0,0:02:05.97,0:02:08.13,Default,,0000,0000,0000,,{\blur3}在万有引力的作用下运转{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}moving under the force of gravity.{\r}
+Dialogue: 0,0:02:09.97,0:02:11.52,Default,,0000,0000,0000,,{\blur3}自然规律{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There are laws of nature,{\r}
+Dialogue: 0,0:02:11.67,0:02:13.91,Default,,0000,0000,0000,,{\blur3}在其背后起作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you think that the laws are right,{\r}
+Dialogue: 0,0:02:13.93,0:02:15.38,Default,,0000,0000,0000,,{\blur3}永恒不变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}once and for all.{\r}
+Dialogue: 0,0:02:17.79,0:02:21.04,Default,,0000,0000,0000,,{\blur3}然而 还存在另一种宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, there is another universe,{\r}
+Dialogue: 0,0:02:22.62,0:02:24.14,Default,,0000,0000,0000,,{\blur3}一个看不见的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an unseen world{\r}
+Dialogue: 0,0:02:24.16,0:02:26.55,Default,,0000,0000,0000,,{\blur3}在控制着我们看到的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that governs everything we see.{\r}
+Dialogue: 0,0:02:27.70,0:02:32.16,Default,,0000,0000,0000,,{\blur3}当我们变小数万亿倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we go down in size trillions of times smaller{\r}
+Dialogue: 0,0:02:32.40,0:02:34.74,Default,,0000,0000,0000,,{\blur3}去到微观世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the microscopic world,{\r}
+Dialogue: 0,0:02:36.51,0:02:39.03,Default,,0000,0000,0000,,{\blur3}那里的法则远远不同于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the rules are much less intuitive{\r}
+Dialogue: 0,0:02:39.08,0:02:42.94,Default,,0000,0000,0000,,{\blur3}我们通常对宏观世界的直觉认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than the ones we're used to from the large-scale world.{\r}
+Dialogue: 0,0:02:45.48,0:02:48.10,Default,,0000,0000,0000,,{\blur3}微观宇宙的魔法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The magic of the microscopic universe{\r}
+Dialogue: 0,0:02:48.12,0:02:51.45,Default,,0000,0000,0000,,{\blur3}就发生在一个亿分之一米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}begins at about a ten-billionth of a meter,{\r}
+Dialogue: 0,0:02:52.39,0:02:54.82,Default,,0000,0000,0000,,{\blur3}或者是原子大小的物质上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the size of an atom.{\r}
+Dialogue: 0,0:02:55.98,0:02:58.66,Default,,0000,0000,0000,,{\blur3}这种状态下的物质 表现非常不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Matter behaves so differently at this level{\r}
+Dialogue: 0,0:02:58.77,0:03:01.98,Default,,0000,0000,0000,,{\blur3}科学家们已经发现其运行的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that scientists have developed an entirely new set of rules{\r}
+Dialogue: 0,0:03:02.01,0:03:04.42,Default,,0000,0000,0000,,{\blur3}一种全新的机制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to describe what's going on.{\r}
+Dialogue: 0,0:03:05.95,0:03:08.19,Default,,0000,0000,0000,,{\blur3}并称之为"量子论"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They call it quantum theory.{\r}
+Dialogue: 0,0:03:08.30,0:03:11.43,Default,,0000,0000,0000,,{\blur3}这个理论的内容非常特别{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what it says is extraordinary.{\r}
+Dialogue: 0,0:03:13.11,0:03:16.52,Default,,0000,0000,0000,,{\blur3}电子或光子这样的次原子粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This baseball represents a subatomic particle,{\r}
+Dialogue: 0,0:03:16.65,0:03:19.14,Default,,0000,0000,0000,,{\blur3}形状就象我手中的棒球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}like an electron or a photon of light,{\r}
+Dialogue: 0,0:03:19.28,0:03:22.74,Default,,0000,0000,0000,,{\blur3}它们在微观宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that routinely does all sorts of weird,{\r}
+Dialogue: 0,0:03:22.80,0:03:26.08,Default,,0000,0000,0000,,{\blur3}构建成各种各样离奇古怪的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}strange things in the microscopic universe.{\r}
+Dialogue: 0,0:03:26.30,0:03:28.70,Default,,0000,0000,0000,,{\blur3}如果棒球就是次原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The subatomic version of this baseball{\r}
+Dialogue: 0,0:03:28.96,0:03:30.32,Default,,0000,0000,0000,,{\blur3}它就能隐身{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be invisible,{\r}
+Dialogue: 0,0:03:30.38,0:03:32.87,Default,,0000,0000,0000,,{\blur3}就能轻而易举地穿过固体物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can go through solid objects with ease,{\r}
+Dialogue: 0,0:03:33.07,0:03:35.46,Default,,0000,0000,0000,,{\blur3}能够在同一瞬间去到各处{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be in multiple places at the same time,{\r}
+Dialogue: 0,0:03:35.67,0:03:39.09,Default,,0000,0000,0000,,{\blur3}并似乎能够时光倒流{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and can seemingly go backwards in time{\r}
+Dialogue: 0,0:03:39.15,0:03:40.84,Default,,0000,0000,0000,,{\blur3}改变过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and change the past.{\r}
+Dialogue: 0,0:03:42.72,0:03:45.33,Default,,0000,0000,0000,,{\blur3}这就意味着我把这个微小的棒球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This means I could throw this microscopic baseball{\r}
+Dialogue: 0,0:03:45.40,0:03:48.81,Default,,0000,0000,0000,,{\blur3}投到一垒和本垒 所花的时间一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to first base and to home plate at the same time...{\r}
+Dialogue: 0,0:03:49.39,0:03:53.53,Default,,0000,0000,0000,,{\blur3}或是能够改变似乎铁定的比赛结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or change the seemingly predetermined outcome of a play{\r}
+Dialogue: 0,0:03:53.56,0:03:55.35,Default,,0000,0000,0000,,{\blur3}哪怕比赛还在进行着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}while it's still going on.{\r}
+Dialogue: 0,0:03:55.60,0:03:58.02,Default,,0000,0000,0000,,{\blur3}刚才只不过是科幻小说里的说法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now this-this is the stuff of science fiction.{\r}
+Dialogue: 0,0:03:58.36,0:04:00.55,Default,,0000,0000,0000,,{\blur3}但实际上 次原子的事情是真的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But really, we know it to be true,{\r}
+Dialogue: 0,0:04:00.62,0:04:02.26,Default,,0000,0000,0000,,{\blur3}至少 在技术突飞猛进的今天{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or at least, it appears to be true{\r}
+Dialogue: 0,0:04:02.28,0:04:04.02,Default,,0000,0000,0000,,{\blur3}它看起来真实可信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our quantum world.{\r}
+Dialogue: 0,0:04:04.31,0:04:06.65,Default,,0000,0000,0000,,{\blur3}我们因此遇到了各种离奇的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We get all sorts of weird things happening.{\r}
+Dialogue: 0,0:04:07.75,0:04:09.51,Default,,0000,0000,0000,,{\blur3}如果科学家们能够知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If scientists can understand{\r}
+Dialogue: 0,0:04:09.52,0:04:11.54,Default,,0000,0000,0000,,{\blur3}这些离奇事情的个中缘由{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how these weird things work,{\r}
+Dialogue: 0,0:04:11.71,0:04:13.33,Default,,0000,0000,0000,,{\blur3}他们就能把它用在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they'll be able to put them to use{\r}
+Dialogue: 0,0:04:13.35,0:04:15.16,Default,,0000,0000,0000,,{\blur3}我们的日常生活{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in our everyday world,{\r}
+Dialogue: 0,0:04:15.22,0:04:17.47,Default,,0000,0000,0000,,{\blur3}使现代计算机发生彻底变革{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}revolutionizing modern computing,{\r}
+Dialogue: 0,0:04:17.51,0:04:20.03,Default,,0000,0000,0000,,{\blur3}甚至可能会让我们在茫茫宇宙间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and perhaps even allowing us to communicate{\r}
+Dialogue: 0,0:04:20.04,0:04:22.59,Default,,0000,0000,0000,,{\blur3}实现即时通讯{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}across the cosmos instantly.{\r}
+Dialogue: 0,0:04:23.44,0:04:26.00,Default,,0000,0000,0000,,{\blur3}把这些神奇变为现实的关键过程{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The key to making these miracles come true{\r}
+Dialogue: 0,0:04:26.02,0:04:28.76,Default,,0000,0000,0000,,{\blur3}被称为"量子纠缠"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a process called quantum entanglement,{\r}
+Dialogue: 0,0:04:28.89,0:04:31.05,Default,,0000,0000,0000,,{\blur3}科学家们已经把{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and scientists are already harnessing{\r}
+Dialogue: 0,0:04:31.09,0:04:32.59,Default,,0000,0000,0000,,{\blur3}这个惊人的发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this astounding discovery{\r}
+Dialogue: 0,0:04:32.73,0:04:35.91,Default,,0000,0000,0000,,{\blur3}应用在民用和军用上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for both civilian and military purposes.{\r}
+Dialogue: 0,0:04:37.93,0:04:39.56,Default,,0000,0000,0000,,{\blur3}量子物理学认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In quantum physics,{\r}
+Dialogue: 0,0:04:39.65,0:04:42.49,Default,,0000,0000,0000,,{\blur3}一个物体发生了变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what happens to an object over here{\r}
+Dialogue: 0,0:04:42.73,0:04:46.15,Default,,0000,0000,0000,,{\blur3}就会立即影响那里的其它物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can instantly affect an object over here,{\r}
+Dialogue: 0,0:04:46.21,0:04:49.88,Default,,0000,0000,0000,,{\blur3}哪怕物体之间相隔数百万英里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and over here could be millions of miles away.{\r}
+Dialogue: 0,0:04:51.96,0:04:53.74,Default,,0000,0000,0000,,{\blur3}其原理如下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is how it works.{\r}
+Dialogue: 0,0:04:53.81,0:04:56.34,Default,,0000,0000,0000,,{\blur3}当两个次原子相互作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When two subatomic particles interact,{\r}
+Dialogue: 0,0:04:56.37,0:04:58.00,Default,,0000,0000,0000,,{\blur3}它们会发生纠缠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they can become entangled.{\r}
+Dialogue: 0,0:04:58.09,0:05:00.16,Default,,0000,0000,0000,,{\blur3}这就意味着它们的旋转 位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means their spin, position,{\r}
+Dialogue: 0,0:05:00.18,0:05:02.10,Default,,0000,0000,0000,,{\blur3}或者是其它特性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or other properties become linked{\r}
+Dialogue: 0,0:05:02.13,0:05:05.41,Default,,0000,0000,0000,,{\blur3}通过一个现代科学尚未了解的方法 彼此关联{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}through a process unknown to modern science.{\r}
+Dialogue: 0,0:05:06.53,0:05:09.99,Default,,0000,0000,0000,,{\blur3}如果测量了其中一个粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you then make a measurement of one of the particles,{\r}
+Dialogue: 0,0:05:10.29,0:05:13.26,Default,,0000,0000,0000,,{\blur3}那么你立即能确定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then that instantaneously determines{\r}
+Dialogue: 0,0:05:13.47,0:05:16.88,Default,,0000,0000,0000,,{\blur3}另一个粒子的状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what the behavior of the other particle should be.{\r}
+Dialogue: 0,0:05:17.07,0:05:18.95,Default,,0000,0000,0000,,{\blur3}相关实验证明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when the experiment is done,{\r}
+Dialogue: 0,0:05:19.01,0:05:20.55,Default,,0000,0000,0000,,{\blur3}确实如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's found that, indeed,{\r}
+Dialogue: 0,0:05:20.69,0:05:23.09,Default,,0000,0000,0000,,{\blur3}另一个粒子的量子态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the other particle's quantum state{\r}
+Dialogue: 0,0:05:23.12,0:05:26.72,Default,,0000,0000,0000,,{\blur3}会在你测量对应粒子的量子态时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is exactly determined once you've made a measurement{\r}
+Dialogue: 0,0:05:26.83,0:05:29.02,Default,,0000,0000,0000,,{\blur3}被确定下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the partner particle's quantum state.{\r}
+Dialogue: 0,0:05:30.55,0:05:31.97,Default,,0000,0000,0000,,{\blur3}这意味着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That means if a scientist{\r}
+Dialogue: 0,0:05:31.99,0:05:34.11,Default,,0000,0000,0000,,{\blur3}如果科学家让一个粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}observes one entangled particle{\r}
+Dialogue: 0,0:05:34.12,0:05:36.28,Default,,0000,0000,0000,,{\blur3}按顺时针方向转动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and forces it to spin clockwise,{\r}
+Dialogue: 0,0:05:36.34,0:05:38.04,Default,,0000,0000,0000,,{\blur3}则与其纠缠的另一个粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the other entangled particle{\r}
+Dialogue: 0,0:05:38.07,0:05:41.55,Default,,0000,0000,0000,,{\blur3}将会立即朝反方向转动{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will immediately start spinning in the opposite direction.{\r}
+Dialogue: 0,0:05:43.62,0:05:46.90,Default,,0000,0000,0000,,{\blur3}这个现象让人不但好奇 还非常震惊{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That seems intriguing, but it's hardly earth-shattering{\r}
+Dialogue: 0,0:05:46.92,0:05:50.10,Default,,0000,0000,0000,,{\blur3}你想象一下 当两个纠缠的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until you consider that the two entangled particles{\r}
+Dialogue: 0,0:05:50.13,0:05:52.99,Default,,0000,0000,0000,,{\blur3}被分隔开数百万光年之遥{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be separated by billions of light-years,{\r}
+Dialogue: 0,0:05:53.10,0:05:56.57,Default,,0000,0000,0000,,{\blur3}你研究其中一个粒子的旋转情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and still, the moment you observe one particle's spin,{\r}
+Dialogue: 0,0:05:56.75,0:05:59.57,Default,,0000,0000,0000,,{\blur3}就能知道另一个粒子的旋转状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you've dictated the other particle's spin.{\r}
+Dialogue: 0,0:06:00.42,0:06:01.42,Default,,0000,0000,0000,,{\blur3}这真是离奇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's weird,{\r}
+Dialogue: 0,0:06:01.43,0:06:06.32,Default,,0000,0000,0000,,{\blur3}它让人想到信息会从一个粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because it may suggest that information has traveled instantaneously,{\r}
+Dialogue: 0,0:06:06.63,0:06:08.23,Default,,0000,0000,0000,,{\blur3}立刻传送到另一个粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}faster than the speed of light,{\r}
+Dialogue: 0,0:06:08.33,0:06:10.45,Default,,0000,0000,0000,,{\blur3}快得超过了光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from one particle to another.{\r}
+Dialogue: 0,0:06:11.25,0:06:14.14,Default,,0000,0000,0000,,{\blur3}我搞不懂它 也不知道谁会懂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't understand it. I don't know that anyone does.{\r}
+Dialogue: 0,0:06:14.94,0:06:18.75,Default,,0000,0000,0000,,{\blur3}"遥远的鬼魅行为" 爱因斯坦这样来形容它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Spooky action at a distance," as Einstein called it.{\r}
+Dialogue: 0,0:06:20.10,0:06:21.28,Default,,0000,0000,0000,,{\blur3}量子纠缠{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Quantum entanglement{\r}
+Dialogue: 0,0:06:21.30,0:06:24.57,Default,,0000,0000,0000,,{\blur3}不只是人们头脑中好奇的想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is more than a curiosity of the microscopic world{\r}
+Dialogue: 0,0:06:26.00,0:06:28.34,Default,,0000,0000,0000,,{\blur3}在现实世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because the effects of entangled particles{\r}
+Dialogue: 0,0:06:28.36,0:06:31.32,Default,,0000,0000,0000,,{\blur3}纠缠粒子已经能被看到 被感觉到了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be seen and felt in our world.{\r}
+Dialogue: 0,0:06:32.33,0:06:35.84,Default,,0000,0000,0000,,{\blur3}如果科学家能突破某些重大障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If scientists can overcome some fundamental obstacles,{\r}
+Dialogue: 0,0:06:36.05,0:06:38.88,Default,,0000,0000,0000,,{\blur3}将来有一天 量子纠缠会帮助人类{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}quantum entanglement could someday help humans{\r}
+Dialogue: 0,0:06:38.89,0:06:42.93,Default,,0000,0000,0000,,{\blur3}跨越遥远的距离 进行即时通信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}communicate across vast distances instantly.{\r}
+Dialogue: 0,0:06:44.26,0:06:46.25,Default,,0000,0000,0000,,{\blur3}人们时常想着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}People sometimes think that{\r}
+Dialogue: 0,0:06:46.83,0:06:50.84,Default,,0000,0000,0000,,{\blur3}量子纠缠会达成人们的渴望{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}quantum entanglement will achieve the desired goal{\r}
+Dialogue: 0,0:06:50.85,0:06:52.69,Default,,0000,0000,0000,,{\blur3}能够让信息传输{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of transferring information{\r}
+Dialogue: 0,0:06:52.72,0:06:54.78,Default,,0000,0000,0000,,{\blur3}以快过光速的速度进行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at a speed faster than that of light.{\r}
+Dialogue: 0,0:06:55.08,0:06:56.69,Default,,0000,0000,0000,,{\blur3}我并不看好它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't think this will be achieved,{\r}
+Dialogue: 0,0:06:56.72,0:06:59.29,Default,,0000,0000,0000,,{\blur3}因为要建立这样的系统{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because to set up these systems,{\r}
+Dialogue: 0,0:06:59.31,0:07:01.68,Default,,0000,0000,0000,,{\blur3}你只能以比光速慢的速度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you had to have brought them there at speeds{\r}
+Dialogue: 0,0:07:01.70,0:07:03.03,Default,,0000,0000,0000,,{\blur3}携带它们前往目的地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}slower than the speed of light.{\r}
+Dialogue: 0,0:07:03.34,0:07:04.47,Default,,0000,0000,0000,,{\blur3}但谁说得清明天？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But then what do I know?{\r}
+Dialogue: 0,0:07:04.48,0:07:05.32,Default,,0000,0000,0000,,{\blur3}一百年前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A hundred years ago,{\r}
+Dialogue: 0,0:07:05.35,0:07:07.52,Default,,0000,0000,0000,,{\blur3}人们可没想过上月球呢{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they didn't think that we'd be going to the Moon.{\r}
+Dialogue: 0,0:07:09.06,0:07:11.44,Default,,0000,0000,0000,,{\blur3}量子纠缠非常有可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Quantum entanglement is far more likely{\r}
+Dialogue: 0,0:07:11.47,0:07:14.16,Default,,0000,0000,0000,,{\blur3}应用在现代计算机的变革上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to transform modern computing.{\r}
+Dialogue: 0,0:07:15.36,0:07:19.55,Default,,0000,0000,0000,,{\blur3}科学家们希望利用微观宇宙的神奇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists hope to use the magic of the microscopic universe{\r}
+Dialogue: 0,0:07:19.96,0:07:22.99,Default,,0000,0000,0000,,{\blur3}去建立强大的新型计算机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to build powerful new computers.{\r}
+Dialogue: 0,0:07:24.69,0:07:27.52,Default,,0000,0000,0000,,{\blur3}我们去看看这个小家伙能做些什么{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to see what this baby can do.{\r}
+Dialogue: 0,0:07:28.82,0:07:31.61,Default,,0000,0000,0000,,{\blur3}在麻省理工学院{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the Massachusetts Institute of Technology,{\r}
+Dialogue: 0,0:07:31.63,0:07:32.90,Default,,0000,0000,0000,,{\blur3}希斯·罗埃德教授{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Professor Seth Lloyd{\r}
+Dialogue: 0,0:07:32.93,0:07:36.05,Default,,0000,0000,0000,,{\blur3}建造了一台量子计算机的雏形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has helped create a prototype of a quantum computer{\r}
+Dialogue: 0,0:07:36.27,0:07:37.98,Default,,0000,0000,0000,,{\blur3}它使用的是量子比特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which uses quantum bits{\r}
+Dialogue: 0,0:07:38.01,0:07:40.15,Default,,0000,0000,0000,,{\blur3}而不是传统计算机的比特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}rather than traditional computer bits{\r}
+Dialogue: 0,0:07:40.25,0:07:42.53,Default,,0000,0000,0000,,{\blur3}来执行计算任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to perform its calculations.{\r}
+Dialogue: 0,0:07:44.05,0:07:47.43,Default,,0000,0000,0000,,{\blur3}这个实验室拥有世上最好的超导量子比特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This lab has the world's best superconducting quantum bit,{\r}
+Dialogue: 0,0:07:47.45,0:07:48.78,Default,,0000,0000,0000,,{\blur3}或称昆比特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or Q-bit, in it.{\r}
+Dialogue: 0,0:07:48.98,0:07:51.96,Default,,0000,0000,0000,,{\blur3}在使用昆比特进行量子计算时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And when we do quantum computations with Q-bits,{\r}
+Dialogue: 0,0:07:52.15,0:07:53.72,Default,,0000,0000,0000,,{\blur3}量子计算机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we can have the quantum computer{\r}
+Dialogue: 0,0:07:53.74,0:07:56.50,Default,,0000,0000,0000,,{\blur3}可以同时执行多重任务{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}do multiple tasks simultaneously.{\r}
+Dialogue: 0,0:07:56.52,0:07:58.02,Default,,0000,0000,0000,,{\blur3}它在做这件事的同时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can do this, it can do that{\r}
+Dialogue: 0,0:07:58.05,0:07:59.59,Default,,0000,0000,0000,,{\blur3}也能做另一件事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the same time.{\r}
+Dialogue: 0,0:07:59.61,0:08:01.09,Default,,0000,0000,0000,,{\blur3}它能够做"2+2"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It can add two plus two,{\r}
+Dialogue: 0,0:08:01.23,0:08:02.56,Default,,0000,0000,0000,,{\blur3}能够做"1+3"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it can add one plus three,{\r}
+Dialogue: 0,0:08:02.58,0:08:06.13,Default,,0000,0000,0000,,{\blur3}也能同时做这两个运算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it can add those two things simultaneously.{\r}
+Dialogue: 0,0:08:09.09,0:08:10.80,Default,,0000,0000,0000,,{\blur3}一个单独的昆比特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The fact that a single Q-bit{\r}
+Dialogue: 0,0:08:10.83,0:08:13.72,Default,,0000,0000,0000,,{\blur3}能同时执行许多计算的事实{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can perform many calculations at the same time{\r}
+Dialogue: 0,0:08:13.79,0:08:17.07,Default,,0000,0000,0000,,{\blur3}让量子计算机潜力无穷{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}gives the quantum computer the potential to be far more powerful{\r}
+Dialogue: 0,0:08:17.08,0:08:19.77,Default,,0000,0000,0000,,{\blur3}这绝非任何计算机可以比拟{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than any computer ever imagined.{\r}
+Dialogue: 0,0:08:21.29,0:08:24.61,Default,,0000,0000,0000,,{\blur3}但就象20世纪50年代的传统计算机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Like traditional computers in the 1950s,{\r}
+Dialogue: 0,0:08:25.64,0:08:28.62,Default,,0000,0000,0000,,{\blur3}量子计算机现在还处于婴儿期{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}quantum computers are in their infancy today.{\r}
+Dialogue: 0,0:08:29.24,0:08:31.24,Default,,0000,0000,0000,,{\blur3}庞大的机器占据了许多房间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The machines take up large rooms{\r}
+Dialogue: 0,0:08:31.27,0:08:34.43,Default,,0000,0000,0000,,{\blur3}只能做非常简单的计算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and can do only the most basic calculations.{\r}
+Dialogue: 0,0:08:36.80,0:08:40.26,Default,,0000,0000,0000,,{\blur3}可是它们前途无量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But they hold great promise for the future.{\r}
+Dialogue: 0,0:08:40.68,0:08:42.80,Default,,0000,0000,0000,,{\blur3}量子计算机是出了名的离奇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Quantum physics is notoriously weird,{\r}
+Dialogue: 0,0:08:42.83,0:08:44.85,Default,,0000,0000,0000,,{\blur3}古怪 还违反了直觉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}strange, and counterintuitive.{\r}
+Dialogue: 0,0:08:44.90,0:08:48.90,Default,,0000,0000,0000,,{\blur3}它利用普通计算机做不到的离奇方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And so quantum computers use this weirdness to compute in ways{\r}
+Dialogue: 0,0:08:48.92,0:08:50.61,Default,,0000,0000,0000,,{\blur3}去进行计算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that classical computers can't.{\r}
+Dialogue: 0,0:08:54.34,0:08:56.02,Default,,0000,0000,0000,,{\blur3}其主要障碍在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The major stumbling block{\r}
+Dialogue: 0,0:08:56.03,0:08:58.43,Default,,0000,0000,0000,,{\blur3}如何有效地去编码{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is figuring out how to effectively code{\r}
+Dialogue: 0,0:08:58.46,0:08:59.91,Default,,0000,0000,0000,,{\blur3}让1和0{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}classical information{\r}
+Dialogue: 0,0:09:00.87,0:09:03.34,Default,,0000,0000,0000,,{\blur3}这两个经典的计算机信息{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the ones and zeros that computers use{\r}
+Dialogue: 0,0:09:03.37,0:09:06.39,Default,,0000,0000,0000,,{\blur3}能通过纠缠粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in a way the microscopic universe can process it{\r}
+Dialogue: 0,0:09:06.41,0:09:08.89,Default,,0000,0000,0000,,{\blur3}在微观宇宙里获得处理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using entangled particles.{\r}
+Dialogue: 0,0:09:09.66,0:09:11.99,Default,,0000,0000,0000,,{\blur3}一旦科学家有解决之道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when scientists figure that out,{\r}
+Dialogue: 0,0:09:12.49,0:09:15.61,Default,,0000,0000,0000,,{\blur3}量子计算机会彻底改变世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}quantum computers could transform the planet.{\r}
+Dialogue: 0,0:09:16.97,0:09:18.29,Default,,0000,0000,0000,,{\blur3}如果你有一台量子计算机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even if you have a quantum computer{\r}
+Dialogue: 0,0:09:18.30,0:09:20.09,Default,,0000,0000,0000,,{\blur3}即使没有非常多的量子比特{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with not that very many bits,{\r}
+Dialogue: 0,0:09:20.17,0:09:21.60,Default,,0000,0000,0000,,{\blur3}你也能做许多事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you might still be able to do things{\r}
+Dialogue: 0,0:09:21.62,0:09:22.80,Default,,0000,0000,0000,,{\blur3}比如{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Iike break all the codes{\r}
+Dialogue: 0,0:09:22.82,0:09:25.55,Default,,0000,0000,0000,,{\blur3}破解互联网上的所有代码{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that people use to communicate on the internet.{\r}
+Dialogue: 0,0:09:27.81,0:09:30.61,Default,,0000,0000,0000,,{\blur3}或者你能解决有大量可变因素的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Or you could solve very difficult problems{\r}
+Dialogue: 0,0:09:30.64,0:09:32.62,Default,,0000,0000,0000,,{\blur3}非常棘手的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}having gajillions of variables,{\r}
+Dialogue: 0,0:09:32.65,0:09:33.78,Default,,0000,0000,0000,,{\blur3}比如你要弄明白{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Iike try to figure out{\r}
+Dialogue: 0,0:09:33.81,0:09:35.65,Default,,0000,0000,0000,,{\blur3}宇宙大爆炸是怎么一回事{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what happened at the big bang.{\r}
+Dialogue: 0,0:09:37.25,0:09:38.90,Default,,0000,0000,0000,,{\blur3}这些已经让人难以置信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That may be hard to believe,{\r}
+Dialogue: 0,0:09:38.93,0:09:42.01,Default,,0000,0000,0000,,{\blur3}但微观宇宙还有更奇怪的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but the microscopic universe gets even stranger.{\r}
+Dialogue: 0,0:09:43.87,0:09:47.39,Default,,0000,0000,0000,,{\blur3}一个非常著名的量子物理试验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, the most famous experiment in quantum physics{\r}
+Dialogue: 0,0:09:47.56,0:09:51.92,Default,,0000,0000,0000,,{\blur3}展示了一个物体能够同时出现在两个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}shows how one object can be in two places at the same time,{\r}
+Dialogue: 0,0:09:54.04,0:09:59.17,Default,,0000,0000,0000,,{\blur3}这个结果吓了伟大的阿尔伯特.爱因斯坦一跳{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a result that startled the great Albert Einstein.{\r}
+Dialogue: 0,0:10:02.77,0:10:05.72,Default,,0000,0000,0000,,{\blur3}在探索微观宇宙的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As scientists explore the microscopic universe,{\r}
+Dialogue: 0,0:10:05.75,0:10:07.37,Default,,0000,0000,0000,,{\blur3}科学家们发现它遵循的原理{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they find it's governed by rules{\r}
+Dialogue: 0,0:10:07.40,0:10:09.27,Default,,0000,0000,0000,,{\blur3}让正常世界里的人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are often incomprehensible{\r}
+Dialogue: 0,0:10:09.30,0:10:11.64,Default,,0000,0000,0000,,{\blur3}总是觉得难以理解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to those of us in the normal world.{\r}
+Dialogue: 0,0:10:13.20,0:10:15.30,Default,,0000,0000,0000,,{\blur3}毫不夸张地说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At the smallest scales imaginable,{\r}
+Dialogue: 0,0:10:15.50,0:10:16.87,Default,,0000,0000,0000,,{\blur3}没有多少人知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not only does information{\r}
+Dialogue: 0,0:10:16.90,0:10:19.59,Default,,0000,0000,0000,,{\blur3}还有什么东西能快过光速{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}appear to travel faster than the speed of light,{\r}
+Dialogue: 0,0:10:20.70,0:10:24.83,Default,,0000,0000,0000,,{\blur3}但人类似乎总能明察秋毫{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but human observation often seems to decide what happens.{\r}
+Dialogue: 0,0:10:26.99,0:10:30.41,Default,,0000,0000,0000,,{\blur3}在量子力学上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It seems like the behavior of quantum mechanical stuff{\r}
+Dialogue: 0,0:10:30.47,0:10:32.75,Default,,0000,0000,0000,,{\blur3}你注意它和不注意它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is different when we're looking at it{\r}
+Dialogue: 0,0:10:32.78,0:10:34.13,Default,,0000,0000,0000,,{\blur3}其表现绝然不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than when we're not looking at it.{\r}
+Dialogue: 0,0:10:37.17,0:10:38.83,Default,,0000,0000,0000,,{\blur3}这个深奥的结论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This profound conclusion{\r}
+Dialogue: 0,0:10:38.86,0:10:42.77,Default,,0000,0000,0000,,{\blur3}源自"双缝实验"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}comes from performing the double-hole experiment.{\r}
+Dialogue: 0,0:10:43.89,0:10:47.65,Default,,0000,0000,0000,,{\blur3}在一个世纪前 科学家们开始了首次试验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists first conducted this experiment a century ago,{\r}
+Dialogue: 0,0:10:47.77,0:10:51.86,Default,,0000,0000,0000,,{\blur3}让光子穿过有两道狭缝的金属{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}firing photons of light through a metal plate with two slits.{\r}
+Dialogue: 0,0:10:52.30,0:10:54.08,Default,,0000,0000,0000,,{\blur3}光线通过狭缝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The light that went through the holes{\r}
+Dialogue: 0,0:10:54.10,0:10:56.38,Default,,0000,0000,0000,,{\blur3}投射到后面的屏幕上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hit a screen behind the plate.{\r}
+Dialogue: 0,0:10:58.08,0:10:59.48,Default,,0000,0000,0000,,{\blur3}我将用棒球来进行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm going to demonstrate the results{\r}
+Dialogue: 0,0:10:59.50,0:11:01.10,Default,,0000,0000,0000,,{\blur3}这个神奇实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of this amazing experiment{\r}
+Dialogue: 0,0:11:01.28,0:11:02.84,Default,,0000,0000,0000,,{\blur3}演示其结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a bunch of baseballs{\r}
+Dialogue: 0,0:11:02.90,0:11:04.77,Default,,0000,0000,0000,,{\blur3}我们为此竖起一道屏障{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a barrier that we've set up{\r}
+Dialogue: 0,0:11:04.85,0:11:06.66,Default,,0000,0000,0000,,{\blur3}在上面开了两个洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which has two holes in it.{\r}
+Dialogue: 0,0:11:07.02,0:11:09.01,Default,,0000,0000,0000,,{\blur3}现在 在正常的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, normally, in the everyday world,{\r}
+Dialogue: 0,0:11:09.06,0:11:12.13,Default,,0000,0000,0000,,{\blur3}如果我把许多棒球扔过任意一个洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if I throw baseballs through one hole or the other,{\r}
+Dialogue: 0,0:11:12.17,0:11:15.18,Default,,0000,0000,0000,,{\blur3}它们会在本垒后面的屏幕上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they'll form a predictable pattern on a screen{\r}
+Dialogue: 0,0:11:15.20,0:11:17.41,Default,,0000,0000,0000,,{\blur3}形成一个图案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we've set up behind home plate.{\r}
+Dialogue: 0,0:11:17.55,0:11:19.79,Default,,0000,0000,0000,,{\blur3}它们会撞击在这边 或是那边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They'll be in one place or the other.{\r}
+Dialogue: 0,0:11:20.28,0:11:23.29,Default,,0000,0000,0000,,{\blur3}好了 让我们不断投出棒球去形成图案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, let's make that pattern with a whole bunch of baseballs.{\r}
+Dialogue: 0,0:11:23.67,0:11:25.52,Default,,0000,0000,0000,,{\blur3}我要借助于发球机的帮助{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I'm going to use this pitching machine.{\r}
+Dialogue: 0,0:11:26.29,0:11:27.37,Default,,0000,0000,0000,,{\blur3}这是第一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Here's the first one.{\r}
+Dialogue: 0,0:11:27.39,0:11:28.75,Default,,0000,0000,0000,,{\blur3}请注意看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Let's see what happens.{\r}
+Dialogue: 0,0:11:41.02,0:11:41.92,Default,,0000,0000,0000,,{\blur3}看到了吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, you see?{\r}
+Dialogue: 0,0:11:41.95,0:11:45.62,Default,,0000,0000,0000,,{\blur3}棒球从其中一个洞穿过后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The balls landed on the screen in two bunches,{\r}
+Dialogue: 0,0:11:46.68,0:11:50.04,Default,,0000,0000,0000,,{\blur3}几乎是直线地落到屏幕上 形成两个区域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}pretty much along a direct line from each of the two holes.{\r}
+Dialogue: 0,0:11:51.30,0:11:53.91,Default,,0000,0000,0000,,{\blur3}这结果很正常 完全在意料之中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's natural. That's what we expect.{\r}
+Dialogue: 0,0:11:57.08,0:12:00.11,Default,,0000,0000,0000,,{\blur3}但当我们进入到微观宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when we descend into the microscopic universe{\r}
+Dialogue: 0,0:12:00.14,0:12:01.55,Default,,0000,0000,0000,,{\blur3}使用电子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and use electrons,{\r}
+Dialogue: 0,0:12:01.58,0:12:05.17,Default,,0000,0000,0000,,{\blur3}这些比棒球小十亿倍的东西去进行实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which are 10 trillion times smaller than baseballs,{\r}
+Dialogue: 0,0:12:05.49,0:12:07.67,Default,,0000,0000,0000,,{\blur3}我们会得到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we get a very different, odd result{\r}
+Dialogue: 0,0:12:07.70,0:12:09.53,Default,,0000,0000,0000,,{\blur3}非常不同的奇怪结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when we perform this experiment...{\r}
+Dialogue: 0,0:12:10.91,0:12:15.06,Default,,0000,0000,0000,,{\blur3}其形成的图案 会让你联想到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A pattern that you would expect if these were waves{\r}
+Dialogue: 0,0:12:15.14,0:12:17.46,Default,,0000,0000,0000,,{\blur3}波浪在同一时间里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}going through both holes at the same time{\r}
+Dialogue: 0,0:12:17.49,0:12:20.19,Default,,0000,0000,0000,,{\blur3}通过两个洞 并且发生自我干涉{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and interfering with themselves.{\r}
+Dialogue: 0,0:12:21.37,0:12:22.78,Default,,0000,0000,0000,,{\blur3}我们都知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, we usually think of electrons{\r}
+Dialogue: 0,0:12:22.81,0:12:24.02,Default,,0000,0000,0000,,{\blur3}电子是粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as being particles.{\r}
+Dialogue: 0,0:12:24.16,0:12:28.05,Default,,0000,0000,0000,,{\blur3}那么怎么会表现出波的特性呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So how can they exhibit wavelike properties?{\r}
+Dialogue: 0,0:12:29.68,0:12:32.26,Default,,0000,0000,0000,,{\blur3}实验结果让人百思不得其解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These test results were confounding.{\r}
+Dialogue: 0,0:12:33.06,0:12:34.60,Default,,0000,0000,0000,,{\blur3}电子在撞击屏幕之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The electron was a particle{\r}
+Dialogue: 0,0:12:34.62,0:12:36.57,Default,,0000,0000,0000,,{\blur3}还是粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before it was fired at the screen;{\r}
+Dialogue: 0,0:12:36.71,0:12:38.89,Default,,0000,0000,0000,,{\blur3}但从屏幕上的图案来看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}yet it formed a pattern on the screen{\r}
+Dialogue: 0,0:12:38.92,0:12:40.88,Default,,0000,0000,0000,,{\blur3}好象单个的电子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as if this single electron{\r}
+Dialogue: 0,0:12:41.01,0:12:44.48,Default,,0000,0000,0000,,{\blur3}在同一时刻通过了两个洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}had gone through both holes at the same time.{\r}
+Dialogue: 0,0:12:46.81,0:12:48.48,Default,,0000,0000,0000,,{\blur3}难道微观粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Does a microscopic particle{\r}
+Dialogue: 0,0:12:48.51,0:12:51.32,Default,,0000,0000,0000,,{\blur3}自发地克隆自己？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}spontaneously clone itself in midai?{\r}
+Dialogue: 0,0:12:53.08,0:12:54.40,Default,,0000,0000,0000,,{\blur3}经过多年研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After years of study,{\r}
+Dialogue: 0,0:12:54.43,0:12:57.72,Default,,0000,0000,0000,,{\blur3}科学家们还不能确定其中原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists still don't know exactly what's happening.{\r}
+Dialogue: 0,0:12:59.05,0:13:01.61,Default,,0000,0000,0000,,{\blur3}可能最不可思议的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Probably the most magical thing{\r}
+Dialogue: 0,0:13:01.64,0:13:03.49,Default,,0000,0000,0000,,{\blur3}就是在量子物理中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that in quantum physics,{\r}
+Dialogue: 0,0:13:03.51,0:13:07.11,Default,,0000,0000,0000,,{\blur3}一个物体可以同时存在于不止一个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}an object can be in more than one place at the same time.{\r}
+Dialogue: 0,0:13:09.47,0:13:11.98,Default,,0000,0000,0000,,{\blur3}它居然能感觉到两个狭缝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It actually can sense both slits{\r}
+Dialogue: 0,0:13:12.11,0:13:14.14,Default,,0000,0000,0000,,{\blur3}并冲了过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and actually go through{\r}
+Dialogue: 0,0:13:14.16,0:13:16.71,Default,,0000,0000,0000,,{\blur3}也就是说 它以量子力学的方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and quantum-mechanically feel the structure{\r}
+Dialogue: 0,0:13:16.74,0:13:18.96,Default,,0000,0000,0000,,{\blur3}知道了两个狭缝的结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of both slits in the experiment.{\r}
+Dialogue: 0,0:13:21.43,0:13:24.50,Default,,0000,0000,0000,,{\blur3}大多数物理学家认为 数学是很纯粹的工具{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most physicists agree that the math is quite solid{\r}
+Dialogue: 0,0:13:24.52,0:13:27.86,Default,,0000,0000,0000,,{\blur3}解决问题的能力无可争辩{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and leads to solutions that are undeniable{\r}
+Dialogue: 0,0:13:27.99,0:13:31.15,Default,,0000,0000,0000,,{\blur3}而且可以用实验数据来确认{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and can be confirmed with experimental measurements.{\r}
+Dialogue: 0,0:13:31.82,0:13:34.84,Default,,0000,0000,0000,,{\blur3}但发生了什么 如何发生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But exactly what is happening, and how,{\r}
+Dialogue: 0,0:13:34.87,0:13:36.55,Default,,0000,0000,0000,,{\blur3}才是人们争论的焦点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is a matter of debate.{\r}
+Dialogue: 0,0:13:37.78,0:13:38.67,Default,,0000,0000,0000,,{\blur3}为了弄清楚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To try to grasp{\r}
+Dialogue: 0,0:13:38.70,0:13:40.73,Default,,0000,0000,0000,,{\blur3}这个令人惊异的实验真相{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}this amazing experimental result,{\r}
+Dialogue: 0,0:13:40.75,0:13:45.16,Default,,0000,0000,0000,,{\blur3}科学家们决心观察清楚单个电子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists decided to observe how individual electrons behaved{\r}
+Dialogue: 0,0:13:45.19,0:13:47.43,Default,,0000,0000,0000,,{\blur3}在通过双缝时的表现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when they went through the double slit.{\r}
+Dialogue: 0,0:13:48.95,0:13:51.87,Default,,0000,0000,0000,,{\blur3}到底粒子怎么能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How exactly could a particle go through both holes{\r}
+Dialogue: 0,0:13:51.88,0:13:53.37,Default,,0000,0000,0000,,{\blur3}同时通过两个孔？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the same time?{\r}
+Dialogue: 0,0:13:56.07,0:13:58.02,Default,,0000,0000,0000,,{\blur3}科学家们瞪起眼睛去观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists got a front-row seat{\r}
+Dialogue: 0,0:13:58.05,0:14:00.77,Default,,0000,0000,0000,,{\blur3}这些电子或是其它的次原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to observe the strange behavior of these electrons{\r}
+Dialogue: 0,0:14:00.80,0:14:03.83,Default,,0000,0000,0000,,{\blur3}甚至包括光子 它们的的奇异表现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or other subatomic particles or even photons of light.{\r}
+Dialogue: 0,0:14:03.87,0:14:06.12,Default,,0000,0000,0000,,{\blur3}这些东西太小 不是真正的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Doesn't really matter, as long as they're small.{\r}
+Dialogue: 0,0:14:06.31,0:14:08.96,Default,,0000,0000,0000,,{\blur3}人们不仅观察它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They didn't just look at where they landed{\r}
+Dialogue: 0,0:14:08.98,0:14:10.63,Default,,0000,0000,0000,,{\blur3}落到屏幕上的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the screen back there;{\r}
+Dialogue: 0,0:14:10.76,0:14:13.47,Default,,0000,0000,0000,,{\blur3}也观察它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they also watched the behavior of the particles{\r}
+Dialogue: 0,0:14:13.48,0:14:15.30,Default,,0000,0000,0000,,{\blur3}通过双缝时的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as they went through the holes.{\r}
+Dialogue: 0,0:14:15.73,0:14:17.95,Default,,0000,0000,0000,,{\blur3}惊人的一幕出现了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And then they saw something amazing.{\r}
+Dialogue: 0,0:14:19.38,0:14:21.97,Default,,0000,0000,0000,,{\blur3}在科学家观察双缝的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When scientists were watching the holes,{\r}
+Dialogue: 0,0:14:22.08,0:14:24.38,Default,,0000,0000,0000,,{\blur3}电子表现得象粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the electrons behaved like particles,{\r}
+Dialogue: 0,0:14:24.45,0:14:26.50,Default,,0000,0000,0000,,{\blur3}在屏幕那里形成了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}forming the baseball-like pattern{\r}
+Dialogue: 0,0:14:26.52,0:14:28.12,Default,,0000,0000,0000,,{\blur3}类似于棒球实验的图案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the screen back there.{\r}
+Dialogue: 0,0:14:28.54,0:14:31.24,Default,,0000,0000,0000,,{\blur3}但当科学家把眼光从双缝移开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But when the scientists weren't watching,{\r}
+Dialogue: 0,0:14:31.34,0:14:33.90,Default,,0000,0000,0000,,{\blur3}看到的却是电子象波浪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then the electrons behaved like waves.{\r}
+Dialogue: 0,0:14:34.68,0:14:36.63,Default,,0000,0000,0000,,{\blur3}它们在屏幕上形成的图案{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They formed a pattern that looked like{\r}
+Dialogue: 0,0:14:36.65,0:14:40.31,Default,,0000,0000,0000,,{\blur3}看起来象波形的干涉图{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the interference pattern produced by waves on a screen.{\r}
+Dialogue: 0,0:14:41.83,0:14:43.18,Default,,0000,0000,0000,,{\blur3}这真是奇怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's really strange.{\r}
+Dialogue: 0,0:14:43.20,0:14:45.81,Default,,0000,0000,0000,,{\blur3}你看到的东西 决定于你是否盯着看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What you see depends on whether you're watching or not.{\r}
+Dialogue: 0,0:14:45.84,0:14:47.12,Default,,0000,0000,0000,,{\blur3}如果盯着看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you're watching,{\r}
+Dialogue: 0,0:14:47.15,0:14:50.31,Default,,0000,0000,0000,,{\blur3}你看到的是粒子象棒球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you see the particle-like behavior like baseballs.{\r}
+Dialogue: 0,0:14:50.62,0:14:54.22,Default,,0000,0000,0000,,{\blur3}如果你不是盯着看 就会看到波形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you're not watching, you see a wavelike behavior.{\r}
+Dialogue: 0,0:14:54.55,0:14:57.22,Default,,0000,0000,0000,,{\blur3}但你不能两种情况都同时做{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But not both at the same time.{\r}
+Dialogue: 0,0:14:58.88,0:15:02.12,Default,,0000,0000,0000,,{\blur3}这种现象只能用震惊来形容{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This was nothing less than astounding.{\r}
+Dialogue: 0,0:15:04.43,0:15:06.29,Default,,0000,0000,0000,,{\blur3}人们通过观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Observation seems to change{\r}
+Dialogue: 0,0:15:06.31,0:15:09.06,Default,,0000,0000,0000,,{\blur3}改变了对次原子粒子世界的认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the nature of subatomic particles.{\r}
+Dialogue: 0,0:15:11.16,0:15:13.02,Default,,0000,0000,0000,,{\blur3}不可思议的是 当我们不盯着看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mysteriously, when we're not looking,{\r}
+Dialogue: 0,0:15:13.05,0:15:14.02,Default,,0000,0000,0000,,{\blur3}好象是波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}things are waves.{\r}
+Dialogue: 0,0:15:14.05,0:15:16.70,Default,,0000,0000,0000,,{\blur3}当我们盯着看 好象是粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we are looking, they look like particles.{\r}
+Dialogue: 0,0:15:16.83,0:15:18.04,Default,,0000,0000,0000,,{\blur3}所以电子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So even an electron,{\r}
+Dialogue: 0,0:15:18.06,0:15:19.56,Default,,0000,0000,0000,,{\blur3}在我们眼中只是类似于粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which seems to us like a particle,{\r}
+Dialogue: 0,0:15:19.59,0:15:22.83,Default,,0000,0000,0000,,{\blur3}在不盯着看的时候 它呈现波的特性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}has wavelike properties when we're not looking at it.{\r}
+Dialogue: 0,0:15:23.70,0:15:25.58,Default,,0000,0000,0000,,{\blur3}事实就是 当我们不盯着看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The fact that when we don't look,{\r}
+Dialogue: 0,0:15:25.59,0:15:28.21,Default,,0000,0000,0000,,{\blur3}电子表现为从双缝都穿过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the electron appears to go through both holes,{\r}
+Dialogue: 0,0:15:28.34,0:15:29.47,Default,,0000,0000,0000,,{\blur3}但当我们盯着看{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but when we do look,{\r}
+Dialogue: 0,0:15:29.49,0:15:32.62,Default,,0000,0000,0000,,{\blur3}通常只能看到它穿过这个或那个缝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we always see it go through one hole or the other{\r}
+Dialogue: 0,0:15:32.87,0:15:35.48,Default,,0000,0000,0000,,{\blur3}这种现象 我们称为"量子谜"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is what we call the quantum enigma.{\r}
+Dialogue: 0,0:15:38.30,0:15:39.49,Default,,0000,0000,0000,,{\blur3}观察方式的不同{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How could our decision{\r}
+Dialogue: 0,0:15:39.52,0:15:41.20,Default,,0000,0000,0000,,{\blur3}我们对于事物变化的判断{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about whether to observe something{\r}
+Dialogue: 0,0:15:41.23,0:15:43.83,Default,,0000,0000,0000,,{\blur3}是否应该不同呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}change how that something acts?{\r}
+Dialogue: 0,0:15:45.54,0:15:48.26,Default,,0000,0000,0000,,{\blur3}这里有一个技术上的说法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There is a technical explanation.{\r}
+Dialogue: 0,0:15:49.69,0:15:50.98,Default,,0000,0000,0000,,{\blur3}要得出结论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To make an observation,{\r}
+Dialogue: 0,0:15:51.01,0:15:53.44,Default,,0000,0000,0000,,{\blur3}你必须要考虑系统的因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you somehow have to interact with a system.{\r}
+Dialogue: 0,0:15:53.66,0:15:55.58,Default,,0000,0000,0000,,{\blur3}比方说 你用光线去照射它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}For example, you have to shine light on it,{\r}
+Dialogue: 0,0:15:55.60,0:15:57.73,Default,,0000,0000,0000,,{\blur3}那么你的结论就得考虑光线的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which then bounces off, and you observe the light.{\r}
+Dialogue: 0,0:15:57.80,0:16:01.36,Default,,0000,0000,0000,,{\blur3}我们之所以说棒球落在这里或那里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's how we can tell that a baseball is here or there:{\r}
+Dialogue: 0,0:16:01.44,0:16:03.03,Default,,0000,0000,0000,,{\blur3}是因为我们不考虑光线的因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we bounce light off of it.{\r}
+Dialogue: 0,0:16:03.34,0:16:04.84,Default,,0000,0000,0000,,{\blur3}对宏观的颗粒来说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Well, for macroscopic particles,{\r}
+Dialogue: 0,0:16:04.87,0:16:06.69,Default,,0000,0000,0000,,{\blur3}光线的影响微乎其微{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that doesn't disturb them very much.{\r}
+Dialogue: 0,0:16:06.72,0:16:08.62,Default,,0000,0000,0000,,{\blur3}但对微观粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But for microscopic particles,{\r}
+Dialogue: 0,0:16:08.66,0:16:11.67,Default,,0000,0000,0000,,{\blur3}光的因素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the act of bouncing the light off of the particle{\r}
+Dialogue: 0,0:16:11.76,0:16:14.42,Default,,0000,0000,0000,,{\blur3}会引起其位置和移动方式的变化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}changes where it is and how it's moving.{\r}
+Dialogue: 0,0:16:16.30,0:16:18.20,Default,,0000,0000,0000,,{\blur3}所以 在微观世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So in the microscopic universe,{\r}
+Dialogue: 0,0:16:18.23,0:16:20.73,Default,,0000,0000,0000,,{\blur3}光子与次原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where photons of light are about the same size{\r}
+Dialogue: 0,0:16:20.76,0:16:22.35,Default,,0000,0000,0000,,{\blur3}是一般大小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as subatomic particles,{\r}
+Dialogue: 0,0:16:22.56,0:16:24.51,Default,,0000,0000,0000,,{\blur3}当它们照亮粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these photons have a big impact{\r}
+Dialogue: 0,0:16:24.55,0:16:26.26,Default,,0000,0000,0000,,{\blur3}我们才能看得见粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when they illuminate the particles{\r}
+Dialogue: 0,0:16:26.30,0:16:27.73,Default,,0000,0000,0000,,{\blur3}因此它们有着重要影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so we can see them.{\r}
+Dialogue: 0,0:16:31.12,0:16:32.78,Default,,0000,0000,0000,,{\blur3}但这样还回答不了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But this doesn't answer the question{\r}
+Dialogue: 0,0:16:33.03,0:16:36.94,Default,,0000,0000,0000,,{\blur3}"为什么光只是改变了次原子的方位？"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Why doesn't the light simply change the direction of the subatomic particles?{\r}
+Dialogue: 0,0:16:36.97,0:16:41.81,Default,,0000,0000,0000,,{\blur3}"为什么观察方式不同 看到的情况不同？"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Why does observation actually change the nature of what is being observed?"{\r}
+Dialogue: 0,0:16:44.72,0:16:46.55,Default,,0000,0000,0000,,{\blur3}答案很简单 "不知道"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The short answer is, "We don't know."{\r}
+Dialogue: 0,0:16:47.10,0:16:50.09,Default,,0000,0000,0000,,{\blur3}这是量子力学根本性的谜团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is the fundamental mystery of quantum mechanics,{\r}
+Dialogue: 0,0:16:50.12,0:16:52.29,Default,,0000,0000,0000,,{\blur3}它是量子力学为什么特别的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the reason why quantum mechanics is difficult.{\r}
+Dialogue: 0,0:16:52.33,0:16:54.71,Default,,0000,0000,0000,,{\blur3}真是不可思议{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Mysteriously, when we look at things,{\r}
+Dialogue: 0,0:16:54.74,0:16:56.30,Default,,0000,0000,0000,,{\blur3}盯着看 看到的是粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we see particles.{\r}
+Dialogue: 0,0:16:56.38,0:16:59.17,Default,,0000,0000,0000,,{\blur3}不盯着看 却是波{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Then when we're not looking, things are waves.{\r}
+Dialogue: 0,0:17:00.83,0:17:01.95,Default,,0000,0000,0000,,{\blur3}这个现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is something{\r}
+Dialogue: 0,0:17:01.96,0:17:04.14,Default,,0000,0000,0000,,{\blur3}科学家们迄今为止 已激烈争吵了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we scientists have argued passionately about now{\r}
+Dialogue: 0,0:17:04.17,0:17:05.37,Default,,0000,0000,0000,,{\blur3}将近一百年{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for almost a hundred years.{\r}
+Dialogue: 0,0:17:05.40,0:17:07.49,Default,,0000,0000,0000,,{\blur3}还没有达成一致{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And there's still no consensus.{\r}
+Dialogue: 0,0:17:08.19,0:17:11.13,Default,,0000,0000,0000,,{\blur3}这些问题在一个世纪前被提出来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When they were first released a century ago,{\r}
+Dialogue: 0,0:17:12.40,0:17:14.81,Default,,0000,0000,0000,,{\blur3}让最聪明的科学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}these test results were enough to unsettle{\r}
+Dialogue: 0,0:17:14.84,0:17:17.59,Default,,0000,0000,0000,,{\blur3}也感到十分迷惑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the brightest mind in science.{\r}
+Dialogue: 0,0:17:20.27,0:17:21.66,Default,,0000,0000,0000,,{\blur3}爱因斯坦说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Einstein said,{\r}
+Dialogue: 0,0:17:21.69,0:17:23.34,Default,,0000,0000,0000,,{\blur3}"我不相信量子物理"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"I don't believe in quantum physics,{\r}
+Dialogue: 0,0:17:23.37,0:17:25.91,Default,,0000,0000,0000,,{\blur3}"因为我相信 我不抬头看月亮"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"because I believe the Moon is there{\r}
+Dialogue: 0,0:17:25.94,0:17:27.94,Default,,0000,0000,0000,,{\blur3}"它还是会在那里"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}even when I'm not looking at it."{\r}
+Dialogue: 0,0:17:27.96,0:17:30.08,Default,,0000,0000,0000,,{\blur3}爱因斯坦的言下之意{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Einstein was of course referring{\r}
+Dialogue: 0,0:17:30.12,0:17:33.21,Default,,0000,0000,0000,,{\blur3}就是说月亮出现的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the implications of the theory{\r}
+Dialogue: 0,0:17:33.52,0:17:36.12,Default,,0000,0000,0000,,{\blur3}与是否在观察它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the Moon really isn't anywhere{\r}
+Dialogue: 0,0:17:36.16,0:17:37.94,Default,,0000,0000,0000,,{\blur3}没有任何关系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until it's observed.{\r}
+Dialogue: 0,0:17:39.39,0:17:41.55,Default,,0000,0000,0000,,{\blur3}但是 双缝实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, the double-hole experiment's{\r}
+Dialogue: 0,0:17:41.58,0:17:45.03,Default,,0000,0000,0000,,{\blur3}令人难以置信的神奇远不止于此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}mind-boggling conclusions don't end there.{\r}
+Dialogue: 0,0:17:47.01,0:17:50.51,Default,,0000,0000,0000,,{\blur3}由于近来的技术进步 科学家们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In recent years, technology has allowed scientists{\r}
+Dialogue: 0,0:17:50.55,0:17:53.81,Default,,0000,0000,0000,,{\blur3}让这个实验来了一个华丽的演变{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to perform a fascinating variation of the test.{\r}
+Dialogue: 0,0:17:54.26,0:17:59.07,Default,,0000,0000,0000,,{\blur3}把问题扩大到了时间的范畴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Its results call into question our perception of time itself.{\r}
+Dialogue: 0,0:18:00.09,0:18:01.78,Default,,0000,0000,0000,,{\blur3}这象是双缝实验的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is like a high-tech version{\r}
+Dialogue: 0,0:18:01.81,0:18:03.15,Default,,0000,0000,0000,,{\blur3}高科技版本{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the double-hole experiment.{\r}
+Dialogue: 0,0:18:03.29,0:18:06.82,Default,,0000,0000,0000,,{\blur3}电子冲向开有双缝的屏障{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Electrons are being fired toward a barrier with two holes in it.{\r}
+Dialogue: 0,0:18:07.09,0:18:09.83,Default,,0000,0000,0000,,{\blur3}科学家们改为观察{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the scientists can delay their decision{\r}
+Dialogue: 0,0:18:09.96,0:18:12.33,Default,,0000,0000,0000,,{\blur3}电子穿过双缝之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about whether to observe the electrons{\r}
+Dialogue: 0,0:18:12.46,0:18:15.19,Default,,0000,0000,0000,,{\blur3}撞击屏幕之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}until after they've passed through the holes,{\r}
+Dialogue: 0,0:18:15.21,0:18:17.76,Default,,0000,0000,0000,,{\blur3}的相关表现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but before they hit the screen.{\r}
+Dialogue: 0,0:18:19.35,0:18:21.48,Default,,0000,0000,0000,,{\blur3}这就象我在棒球场上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's as though I'm on a baseball field{\r}
+Dialogue: 0,0:18:21.63,0:18:25.02,Default,,0000,0000,0000,,{\blur3}把棒球投向有两个洞的屏障{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's a baseball being pitched toward the barrier with the holes in it.{\r}
+Dialogue: 0,0:18:25.42,0:18:26.91,Default,,0000,0000,0000,,{\blur3}我闭上双眼{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But my eyes are closed,{\r}
+Dialogue: 0,0:18:26.94,0:18:29.85,Default,,0000,0000,0000,,{\blur3}所以它象波浪一样通过两个洞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so it goes through and it behaves like a wave.{\r}
+Dialogue: 0,0:18:29.88,0:18:33.06,Default,,0000,0000,0000,,{\blur3}但接下来 在它撞击屏幕前的最后一刻{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But then, at the last second before it hits the screen,{\r}
+Dialogue: 0,0:18:33.12,0:18:35.64,Default,,0000,0000,0000,,{\blur3}我睁开双眼 专心观察它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I open my eyes and decide to observe it.{\r}
+Dialogue: 0,0:18:38.13,0:18:39.06,Default,,0000,0000,0000,,{\blur3}在这一刹那{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At that moment,{\r}
+Dialogue: 0,0:18:39.09,0:18:41.98,Default,,0000,0000,0000,,{\blur3}电子就是粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the electrons, in essence, become particles{\r}
+Dialogue: 0,0:18:42.31,0:18:44.53,Default,,0000,0000,0000,,{\blur3}而且从离开电子枪的那一刻起{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and seemingly always were particles{\r}
+Dialogue: 0,0:18:44.56,0:18:47.25,Default,,0000,0000,0000,,{\blur3}它们看起来都是粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the time they left the electron gun.{\r}
+Dialogue: 0,0:18:49.95,0:18:52.13,Default,,0000,0000,0000,,{\blur3}所以好象是在通过双缝之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it's as though they went back in time{\r}
+Dialogue: 0,0:18:52.14,0:18:54.81,Default,,0000,0000,0000,,{\blur3}它们及时地后退了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to before they went through the holes{\r}
+Dialogue: 0,0:18:54.94,0:18:57.30,Default,,0000,0000,0000,,{\blur3}去决定穿过哪一个缝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and decided to go through one or the other,{\r}
+Dialogue: 0,0:18:57.44,0:18:59.79,Default,,0000,0000,0000,,{\blur3}它们不是象波一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not through both, as they would have,{\r}
+Dialogue: 0,0:18:59.87,0:19:02.16,Default,,0000,0000,0000,,{\blur3}同时穿过双缝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}had they been behaving like waves.{\r}
+Dialogue: 0,0:19:02.37,0:19:03.99,Default,,0000,0000,0000,,{\blur3}这真让人疯狂{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's really crazy!{\r}
+Dialogue: 0,0:19:05.81,0:19:07.22,Default,,0000,0000,0000,,{\blur3}其奥妙在于{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's the enigma:{\r}
+Dialogue: 0,0:19:07.55,0:19:11.84,Default,,0000,0000,0000,,{\blur3}我们选择怎样的实验方式{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that our choice of what experiment to do{\r}
+Dialogue: 0,0:19:12.06,0:19:17.45,Default,,0000,0000,0000,,{\blur3}去确定电子当前的状态{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}determines the prior state of the electron.{\r}
+Dialogue: 0,0:19:17.57,0:19:20.02,Default,,0000,0000,0000,,{\blur3}某种因素在影响着它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Somehow or other we've had an influence on it{\r}
+Dialogue: 0,0:19:20.03,0:19:23.63,Default,,0000,0000,0000,,{\blur3}让它产生时光倒流的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which appears to travel backwards in time.{\r}
+Dialogue: 0,0:19:24.62,0:19:27.09,Default,,0000,0000,0000,,{\blur3}科学家们并没有由这些神奇现象出发{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists are only beginning to grasp{\r}
+Dialogue: 0,0:19:27.12,0:19:30.81,Default,,0000,0000,0000,,{\blur3}去开展时光旅行的研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what these microscopic mysteries mean for time travel{\r}
+Dialogue: 0,0:19:31.31,0:19:34.84,Default,,0000,0000,0000,,{\blur3}去改变我们世界的过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and changing the past in our everyday world.{\r}
+Dialogue: 0,0:19:35.74,0:19:37.63,Default,,0000,0000,0000,,{\blur3}但非常确切的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But one thing is clear.{\r}
+Dialogue: 0,0:19:38.32,0:19:40.85,Default,,0000,0000,0000,,{\blur3}次原子世界的运行规律暗示着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The rules that govern this subatomic world{\r}
+Dialogue: 0,0:19:40.88,0:19:43.74,Default,,0000,0000,0000,,{\blur3}微观宇宙如同科幻小说一般{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}hint at a universe that's just as mysterious{\r}
+Dialogue: 0,0:19:43.77,0:19:45.28,Default,,0000,0000,0000,,{\blur3}充满着神秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as science fiction.{\r}
+Dialogue: 0,0:19:47.66,0:19:50.75,Default,,0000,0000,0000,,{\blur3}其实 量子物理可能会让人联想到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, quantum physics may suggest{\r}
+Dialogue: 0,0:19:50.78,0:19:54.85,Default,,0000,0000,0000,,{\blur3}真实事物只不过是想象力虚构出来的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that reality is simply a figment of our imagination.{\r}
+Dialogue: 0,0:20:01.11,0:20:04.63,Default,,0000,0000,0000,,{\blur3}在发现微观宇宙的神奇之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}After discovering mysteries in the microscopic universe,{\r}
+Dialogue: 0,0:20:04.66,0:20:07.38,Default,,0000,0000,0000,,{\blur3}科学家们想要尽快去弄清楚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists wanted to quickly unravel,{\r}
+Dialogue: 0,0:20:08.06,0:20:11.28,Default,,0000,0000,0000,,{\blur3}去研究和揭示它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}study, and solve them.{\r}
+Dialogue: 0,0:20:12.42,0:20:15.54,Default,,0000,0000,0000,,{\blur3}但当他们试图精确了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But as they tried to figure out exactly what was going on{\r}
+Dialogue: 0,0:20:15.57,0:20:18.03,Default,,0000,0000,0000,,{\blur3}这个陌生的次原子世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in this strange subatomic realm,{\r}
+Dialogue: 0,0:20:19.02,0:20:22.16,Default,,0000,0000,0000,,{\blur3}他们被意外的事情打乱了阵脚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they found something completely unexpected.{\r}
+Dialogue: 0,0:20:24.10,0:20:26.77,Default,,0000,0000,0000,,{\blur3}自然界拒绝告诉他们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nature refused to tell them.{\r}
+Dialogue: 0,0:20:29.17,0:20:31.60,Default,,0000,0000,0000,,{\blur3}在微观世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}When we descend into the microscopic world,{\r}
+Dialogue: 0,0:20:31.70,0:20:34.29,Default,,0000,0000,0000,,{\blur3}我们会发现所有需要测量的参数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we find that there's a fundamental uncertainty{\r}
+Dialogue: 0,0:20:34.38,0:20:37.44,Default,,0000,0000,0000,,{\blur3}都具有不确定性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in essentially all quantities that we wish to measure.{\r}
+Dialogue: 0,0:20:37.49,0:20:40.93,Default,,0000,0000,0000,,{\blur3}这不是测量方法的原因{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it's not a problem with the measurement process.{\r}
+Dialogue: 0,0:20:41.57,0:20:44.43,Default,,0000,0000,0000,,{\blur3}而是自然界本身不知道怎样测量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's that nature herself does not know.{\r}
+Dialogue: 0,0:20:46.49,0:20:49.61,Default,,0000,0000,0000,,{\blur3}这被称为"测不准原理"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists call this the uncertainty principle.{\r}
+Dialogue: 0,0:20:49.64,0:20:51.29,Default,,0000,0000,0000,,{\blur3}正如奇怪的名字{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And as strange as it is,{\r}
+Dialogue: 0,0:20:51.32,0:20:53.52,Default,,0000,0000,0000,,{\blur3}它可能是关于微观宇宙的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it may be the most profound concept{\r}
+Dialogue: 0,0:20:53.54,0:20:56.39,Default,,0000,0000,0000,,{\blur3}最深奥的概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to emerge from the microscopic universe.{\r}
+Dialogue: 0,0:20:57.50,0:21:01.70,Default,,0000,0000,0000,,{\blur3}我们对事物的认识 不能绝对化{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We simply cannot know anything with absolute certainty.{\r}
+Dialogue: 0,0:21:06.57,0:21:08.02,Default,,0000,0000,0000,,{\blur3}在平常的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In our everyday world,{\r}
+Dialogue: 0,0:21:08.07,0:21:10.95,Default,,0000,0000,0000,,{\blur3}我们自认为了解许多身边的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we think we know a lot about the things around us.{\r}
+Dialogue: 0,0:21:11.24,0:21:12.86,Default,,0000,0000,0000,,{\blur3}比如{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can actually locate,{\r}
+Dialogue: 0,0:21:12.89,0:21:15.60,Default,,0000,0000,0000,,{\blur3}我们能找到这个母球的位置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for example, the position of this cue ball{\r}
+Dialogue: 0,0:21:15.63,0:21:17.43,Default,,0000,0000,0000,,{\blur3}用一定的速度去撞击它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and strike it at a certain speed,{\r}
+Dialogue: 0,0:21:17.71,0:21:18.64,Default,,0000,0000,0000,,{\blur3}这样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which we know,{\r}
+Dialogue: 0,0:21:18.68,0:21:21.23,Default,,0000,0000,0000,,{\blur3}我们就能让它撞向其它球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and we can use that to collide it into other balls,{\r}
+Dialogue: 0,0:21:21.31,0:21:23.75,Default,,0000,0000,0000,,{\blur3}从而开始球赛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and go ahead and play a game of pool.{\r}
+Dialogue: 0,0:21:26.84,0:21:28.38,Default,,0000,0000,0000,,{\blur3}但如果把所有的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what actually happens{\r}
+Dialogue: 0,0:21:28.39,0:21:31.82,Default,,0000,0000,0000,,{\blur3}都缩小万亿倍 那会怎样呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if we shrink everything down trillions of times?{\r}
+Dialogue: 0,0:21:33.89,0:21:36.49,Default,,0000,0000,0000,,{\blur3}现在假设这些台球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In that world, these pool balls{\r}
+Dialogue: 0,0:21:36.62,0:21:39.61,Default,,0000,0000,0000,,{\blur3}就是次原子微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are now actually like subatomic particles.{\r}
+Dialogue: 0,0:21:40.78,0:21:42.56,Default,,0000,0000,0000,,{\blur3}在这个微观领域里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In this microscopic realm,{\r}
+Dialogue: 0,0:21:42.59,0:21:44.22,Default,,0000,0000,0000,,{\blur3}量子物理学家发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}quantum physicists have found{\r}
+Dialogue: 0,0:21:44.25,0:21:47.17,Default,,0000,0000,0000,,{\blur3}由于粒子的波状特性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they simply cannot determine with any precision{\r}
+Dialogue: 0,0:21:47.21,0:21:49.64,Default,,0000,0000,0000,,{\blur3}他们实在是没法精准测量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where these particles are located{\r}
+Dialogue: 0,0:21:50.56,0:21:53.10,Default,,0000,0000,0000,,{\blur3}它们的具体参数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because of their wavelike qualities.{\r}
+Dialogue: 0,0:21:54.43,0:21:55.79,Default,,0000,0000,0000,,{\blur3}而且更奇怪的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what's even stranger:{\r}
+Dialogue: 0,0:21:55.82,0:21:58.43,Default,,0000,0000,0000,,{\blur3}如果科学家们试图困住一个粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if scientists try to box in a particle,{\r}
+Dialogue: 0,0:21:58.52,0:22:00.46,Default,,0000,0000,0000,,{\blur3}它总会产生足够的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it will always generate enough energy{\r}
+Dialogue: 0,0:22:00.47,0:22:03.46,Default,,0000,0000,0000,,{\blur3}在它的位置和速度被测定之前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to break out of the box before its position and speed{\r}
+Dialogue: 0,0:22:03.49,0:22:04.96,Default,,0000,0000,0000,,{\blur3}逃出包围圈{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have been determined.{\r}
+Dialogue: 0,0:22:06.95,0:22:08.58,Default,,0000,0000,0000,,{\blur3}"测不准原理"宣称{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The uncertainty principle says{\r}
+Dialogue: 0,0:22:08.61,0:22:11.38,Default,,0000,0000,0000,,{\blur3}自然界不会允许它的基本要素{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}nature will not allow its fundamental elements{\r}
+Dialogue: 0,0:22:11.40,0:22:12.89,Default,,0000,0000,0000,,{\blur3}被困住{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to be boxed in.{\r}
+Dialogue: 0,0:22:15.03,0:22:16.97,Default,,0000,0000,0000,,{\blur3}所以在微观世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So because in the microscopic world{\r}
+Dialogue: 0,0:22:16.99,0:22:19.03,Default,,0000,0000,0000,,{\blur3}因为粒子会受到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because particles will interact{\r}
+Dialogue: 0,0:22:19.04,0:22:20.62,Default,,0000,0000,0000,,{\blur3}一套完全不同的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with a completely different set of rules,{\r}
+Dialogue: 0,0:22:20.64,0:22:22.07,Default,,0000,0000,0000,,{\blur3}量子物理规则的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the rules of quantum physics,{\r}
+Dialogue: 0,0:22:22.11,0:22:25.49,Default,,0000,0000,0000,,{\blur3}微型台球带来的是一场完全不同的球赛{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}microscopic pool will be a completely different game.{\r}
+Dialogue: 0,0:22:34.08,0:22:36.50,Default,,0000,0000,0000,,{\blur3}微观宇宙的不确定性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The uncertainty of the microscopic universe{\r}
+Dialogue: 0,0:22:36.53,0:22:39.52,Default,,0000,0000,0000,,{\blur3}使粒子位置的范围弹性很大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}extends far beyond the location of particles.{\r}
+Dialogue: 0,0:22:40.00,0:22:43.82,Default,,0000,0000,0000,,{\blur3}这也适用于每一样东西 包括粒子的能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It applies to everything, including a particle's energy.{\r}
+Dialogue: 0,0:22:43.85,0:22:46.72,Default,,0000,0000,0000,,{\blur3}由此引发了一个令人震惊的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And this gives rise to a stunning phenomenon{\r}
+Dialogue: 0,0:22:46.75,0:22:49.14,Default,,0000,0000,0000,,{\blur3}被称为"量子隧道"的现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called quantum tunneling.{\r}
+Dialogue: 0,0:22:50.96,0:22:52.38,Default,,0000,0000,0000,,{\blur3}在经典物理学上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In classical physics,{\r}
+Dialogue: 0,0:22:52.39,0:22:54.22,Default,,0000,0000,0000,,{\blur3}如果你把球投向墙壁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if you throw a ball at a wall{\r}
+Dialogue: 0,0:22:54.25,0:22:55.97,Default,,0000,0000,0000,,{\blur3}由于你的力度不足够大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you don't throw it hard enough,{\r}
+Dialogue: 0,0:22:56.00,0:22:58.32,Default,,0000,0000,0000,,{\blur3}它穿透不了墙壁 会反弹回来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it won't go through the wall; it will bounce back.{\r}
+Dialogue: 0,0:22:58.33,0:23:00.66,Default,,0000,0000,0000,,{\blur3}但如果它是一个电子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But if it's an electron{\r}
+Dialogue: 0,0:23:00.74,0:23:02.08,Default,,0000,0000,0000,,{\blur3}虽然你用的力度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and you don't throw it hard enough{\r}
+Dialogue: 0,0:23:02.10,0:23:04.26,Default,,0000,0000,0000,,{\blur3}也不足以让它穿透墙壁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to go through the wall,{\r}
+Dialogue: 0,0:23:05.60,0:23:07.35,Default,,0000,0000,0000,,{\blur3}但它会穿透过去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it might go through anyway.{\r}
+Dialogue: 0,0:23:07.53,0:23:09.88,Default,,0000,0000,0000,,{\blur3}这就是"量子隧道"现象{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We call that quantum tunneling.{\r}
+Dialogue: 0,0:23:10.50,0:23:12.34,Default,,0000,0000,0000,,{\blur3}这怎么可能呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How can this be possible?{\r}
+Dialogue: 0,0:23:12.45,0:23:13.86,Default,,0000,0000,0000,,{\blur3}它听起来很离奇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It may sound bizarre,{\r}
+Dialogue: 0,0:23:13.89,0:23:16.06,Default,,0000,0000,0000,,{\blur3}唯一的解释就是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but one way to explain quantum tunneling{\r}
+Dialogue: 0,0:23:16.08,0:23:18.86,Default,,0000,0000,0000,,{\blur3}微观宇宙的不确定性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that the uncertainty of the microscopic universe{\r}
+Dialogue: 0,0:23:18.89,0:23:21.01,Default,,0000,0000,0000,,{\blur3}允许粒子从未来借取能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}allows a particle to borrow energy{\r}
+Dialogue: 0,0:23:21.04,0:23:23.60,Default,,0000,0000,0000,,{\blur3}去冲破障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from the future to breach the barrier{\r}
+Dialogue: 0,0:23:23.63,0:23:24.99,Default,,0000,0000,0000,,{\blur3}在到达另一边之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then pay it back{\r}
+Dialogue: 0,0:23:25.01,0:23:27.31,Default,,0000,0000,0000,,{\blur3}再把能量还回去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}after it gets to the other side.{\r}
+Dialogue: 0,0:23:28.21,0:23:31.07,Default,,0000,0000,0000,,{\blur3}电子的确是到达了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The electron actually already is{\r}
+Dialogue: 0,0:23:31.14,0:23:33.10,Default,,0000,0000,0000,,{\blur3}墙壁的另一边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}on the other side of the wall,{\r}
+Dialogue: 0,0:23:33.24,0:23:36.23,Default,,0000,0000,0000,,{\blur3}因此 它能够穿越墙壁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and therefore, it can go through it{\r}
+Dialogue: 0,0:23:36.37,0:23:38.65,Default,,0000,0000,0000,,{\blur3}并出现在另一边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and appear on the other side of the wall.{\r}
+Dialogue: 0,0:23:41.90,0:23:43.39,Default,,0000,0000,0000,,{\blur3}自从一个世纪前{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ever since these wonders{\r}
+Dialogue: 0,0:23:43.40,0:23:47.04,Default,,0000,0000,0000,,{\blur3}这种微观世界的奇妙被发现以来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the microscopic world were discovered a century ago,{\r}
+Dialogue: 0,0:23:47.17,0:23:49.65,Default,,0000,0000,0000,,{\blur3}人们想象着 量子隧道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}people have asked if quantum tunneling{\r}
+Dialogue: 0,0:23:51.24,0:23:54.19,Default,,0000,0000,0000,,{\blur3}加上同时出现在多个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}being in multiple places at the same time{\r}
+Dialogue: 0,0:23:54.99,0:23:58.05,Default,,0000,0000,0000,,{\blur3}以及时光倒流的特性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what appears to be traveling backwards in time{\r}
+Dialogue: 0,0:23:58.11,0:24:00.75,Default,,0000,0000,0000,,{\blur3}能否让我们的日常世界趋向完美{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be achieved in our everyday world.{\r}
+Dialogue: 0,0:24:01.83,0:24:04.22,Default,,0000,0000,0000,,{\blur3}一些科学家说 我们永远不能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some scientists say we'll never be able{\r}
+Dialogue: 0,0:24:04.25,0:24:07.51,Default,,0000,0000,0000,,{\blur3}让棒球穿过坚固的障碍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to throw a baseball through a solid barrier.{\r}
+Dialogue: 0,0:24:09.46,0:24:12.15,Default,,0000,0000,0000,,{\blur3}一个棒球由数量庞大的粒子构成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A baseball is a huge number of particles.{\r}
+Dialogue: 0,0:24:12.75,0:24:14.76,Default,,0000,0000,0000,,{\blur3}你要让所有的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You would need all of them{\r}
+Dialogue: 0,0:24:14.79,0:24:18.36,Default,,0000,0000,0000,,{\blur3}全体突然地出现在另一边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to collectively suddenly appear in another place{\r}
+Dialogue: 0,0:24:18.79,0:24:22.08,Default,,0000,0000,0000,,{\blur3}这个棒球才能作为一个整体出现在另一边{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the baseball, as a whole, to appear in another place.{\r}
+Dialogue: 0,0:24:22.11,0:24:25.00,Default,,0000,0000,0000,,{\blur3}这是绝不可能的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's just extraordinarily unlikely.{\r}
+Dialogue: 0,0:24:25.36,0:24:28.53,Default,,0000,0000,0000,,{\blur3}单个的电子或质子可以这样做{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A single electron or a single proton can do this.{\r}
+Dialogue: 0,0:24:28.57,0:24:30.05,Default,,0000,0000,0000,,{\blur3}但大的微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the bigger your particle,{\r}
+Dialogue: 0,0:24:30.08,0:24:32.14,Default,,0000,0000,0000,,{\blur3}或者是微粒的大集合{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the bigger the collection of particles,{\r}
+Dialogue: 0,0:24:32.24,0:24:35.68,Default,,0000,0000,0000,,{\blur3}发生隧道效应非常困难{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the more difficult that process of tunneling is.{\r}
+Dialogue: 0,0:24:36.69,0:24:39.25,Default,,0000,0000,0000,,{\blur3}然而 越来越多的物理学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, a growing number of physicists{\r}
+Dialogue: 0,0:24:39.28,0:24:41.72,Default,,0000,0000,0000,,{\blur3}正在发展一个更反常的理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are developing a more outrageous theory{\r}
+Dialogue: 0,0:24:41.75,0:24:43.65,Default,,0000,0000,0000,,{\blur3}去解释发生的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for what's going on.{\r}
+Dialogue: 0,0:24:45.68,0:24:47.83,Default,,0000,0000,0000,,{\blur3}这些微小的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know that these tiny particles{\r}
+Dialogue: 0,0:24:47.86,0:24:50.52,Default,,0000,0000,0000,,{\blur3}能够在两个地方同时出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can be in two places at the same time.{\r}
+Dialogue: 0,0:24:50.55,0:24:53.28,Default,,0000,0000,0000,,{\blur3}而我是由这些粒子构成的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But, hey, I'm made of these kinds of particles.{\r}
+Dialogue: 0,0:24:53.30,0:24:56.58,Default,,0000,0000,0000,,{\blur3}那么我也能在两个地方同时出现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So if they can be in two places at once, so can I.{\r}
+Dialogue: 0,0:24:57.78,0:24:59.28,Default,,0000,0000,0000,,{\blur3}科学家称这种理论为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists call this{\r}
+Dialogue: 0,0:24:59.30,0:25:02.96,Default,,0000,0000,0000,,{\blur3}量子物理的多世界理论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the many-worlds interpretation of quantum physics.{\r}
+Dialogue: 0,0:25:04.44,0:25:08.15,Default,,0000,0000,0000,,{\blur3}他们说 就象双缝实验中的电子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They say, just like the electron in the double-hole experiment,{\r}
+Dialogue: 0,0:25:08.22,0:25:12.36,Default,,0000,0000,0000,,{\blur3}人类也能同时存在于多个地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}human beings are all in multiple places at the same time.{\r}
+Dialogue: 0,0:25:13.94,0:25:16.84,Default,,0000,0000,0000,,{\blur3}在任何时候 任何一个"我"做了一个决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They say anytime anyone makes a decision,{\r}
+Dialogue: 0,0:25:16.86,0:25:20.22,Default,,0000,0000,0000,,{\blur3}实际上不是跳过其它的"我"来做决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we don't actually choose one option over another.{\r}
+Dialogue: 0,0:25:22.10,0:25:24.72,Default,,0000,0000,0000,,{\blur3}相反地 是"我们"一起做决定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Instead, we do them both,{\r}
+Dialogue: 0,0:25:25.33,0:25:28.83,Default,,0000,0000,0000,,{\blur3}只是在发生的过程中 有轻微的差异{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in slightly different versions of reality.{\r}
+Dialogue: 0,0:25:30.14,0:25:31.66,Default,,0000,0000,0000,,{\blur3}你用头脑思考{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What happens when you use your mind{\r}
+Dialogue: 0,0:25:31.69,0:25:33.41,Default,,0000,0000,0000,,{\blur3}然后下决心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and your will to decide things is,{\r}
+Dialogue: 0,0:25:33.44,0:25:36.78,Default,,0000,0000,0000,,{\blur3}最后作出许多抉择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you end up actually making many choices at once,{\r}
+Dialogue: 0,0:25:36.85,0:25:40.89,Default,,0000,0000,0000,,{\blur3}所有的这些会被不同的平行宇宙了解到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and all of them become realized in different parallel universes.{\r}
+Dialogue: 0,0:25:42.83,0:25:45.12,Default,,0000,0000,0000,,{\blur3}按照量子物理的多世界假说{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The many-worlds hypothesis of quantum physics{\r}
+Dialogue: 0,0:25:45.14,0:25:47.46,Default,,0000,0000,0000,,{\blur3}我在这个宇宙世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}says that when I throw a curveball,{\r}
+Dialogue: 0,0:25:47.48,0:25:49.83,Default,,0000,0000,0000,,{\blur3}投出了一个弧线球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I do so only in this universe.{\r}
+Dialogue: 0,0:25:50.40,0:25:53.37,Default,,0000,0000,0000,,{\blur3}在另一个宇宙 我可能投出的是快球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In another universe, I might be throwing a fastball.{\r}
+Dialogue: 0,0:25:53.47,0:25:55.08,Default,,0000,0000,0000,,{\blur3}而在另外的又一个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in still another one, I throw a knuckleball{\r}
+Dialogue: 0,0:25:55.11,0:25:57.78,Default,,0000,0000,0000,,{\blur3}我投出了平生第一个不旋转的球{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for the first time in my life.{\r}
+Dialogue: 0,0:25:58.33,0:26:00.00,Default,,0000,0000,0000,,{\blur3}在另外另外的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in yet another universe,{\r}
+Dialogue: 0,0:26:00.01,0:26:02.51,Default,,0000,0000,0000,,{\blur3}我把球投出了界外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I heave this ball to the outfield.{\r}
+Dialogue: 0,0:26:03.18,0:26:05.26,Default,,0000,0000,0000,,{\blur3}在多世界假说中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In the many-worlds hypothesis,{\r}
+Dialogue: 0,0:26:05.32,0:26:07.60,Default,,0000,0000,0000,,{\blur3}所有这些选择{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}all of these choices are outcomes{\r}
+Dialogue: 0,0:26:07.62,0:26:11.31,Default,,0000,0000,0000,,{\blur3}都是在平行宇宙里发生的结果{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that occur in universes that are parallel to our own-{\r}
+Dialogue: 0,0:26:11.33,0:26:14.14,Default,,0000,0000,0000,,{\blur3}不只是发生在我们的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just not in ours, but in parallel universes.{\r}
+Dialogue: 0,0:26:14.15,0:26:16.94,Default,,0000,0000,0000,,{\blur3}这就是多世界假说告诉我们的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what the many-worlds hypothesis tells us.{\r}
+Dialogue: 0,0:26:18.65,0:26:20.36,Default,,0000,0000,0000,,{\blur3}这好象是牵强附会{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This may sound far-fetched,{\r}
+Dialogue: 0,0:26:20.39,0:26:23.03,Default,,0000,0000,0000,,{\blur3}但理论物理的许多演算表明{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but an impressive array of theoretical physicists{\r}
+Dialogue: 0,0:26:23.08,0:26:26.76,Default,,0000,0000,0000,,{\blur3}它就是微观世界运转的法则{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}believe it's the way the microscopic world works.{\r}
+Dialogue: 0,0:26:28.47,0:26:31.92,Default,,0000,0000,0000,,{\blur3}如果它正确 这个惊人的理论所牵涉的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If it's true, the implications of this startling theory{\r}
+Dialogue: 0,0:26:31.94,0:26:34.66,Default,,0000,0000,0000,,{\blur3}就远不是棒球场这么简单了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}go far beyond the baseball diamond.{\r}
+Dialogue: 0,0:26:37.05,0:26:40.58,Default,,0000,0000,0000,,{\blur3}在本质上 它暗示着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In essence, it suggests there are universes{\r}
+Dialogue: 0,0:26:40.66,0:26:43.36,Default,,0000,0000,0000,,{\blur3}存在这样的宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}parallel to our own in which{\r}
+Dialogue: 0,0:26:44.43,0:26:47.11,Default,,0000,0000,0000,,{\blur3}纳粹打赢了二战{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the Nazis won World War II.{\r}
+Dialogue: 0,0:26:48.58,0:26:51.89,Default,,0000,0000,0000,,{\blur3}或是美国政府{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And in another, the American government{\r}
+Dialogue: 0,0:26:51.91,0:26:54.33,Default,,0000,0000,0000,,{\blur3}挫败了911劫机者{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}foiled the 9/1 1 hijackers.{\r}
+Dialogue: 0,0:26:54.89,0:26:58.43,Default,,0000,0000,0000,,{\blur3}世贸中心依然屹立在曼哈顿{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the world trade center still stands in Manhattan.{\r}
+Dialogue: 0,0:27:00.45,0:27:03.61,Default,,0000,0000,0000,,{\blur3}如果从表面去理解量子力学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If you take quantum mechanics absolutely at face value,{\r}
+Dialogue: 0,0:27:03.69,0:27:05.72,Default,,0000,0000,0000,,{\blur3}带着量子力学的思维{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it says that every time you observe{\r}
+Dialogue: 0,0:27:05.75,0:27:07.27,Default,,0000,0000,0000,,{\blur3}去观察每一样事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something quantum-mechanical,{\r}
+Dialogue: 0,0:27:07.30,0:27:10.57,Default,,0000,0000,0000,,{\blur3}你会发现有两个不同的你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}you become two different copies of yourself.{\r}
+Dialogue: 0,0:27:11.33,0:27:13.22,Default,,0000,0000,0000,,{\blur3}一个这样做{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's the copy that got one answer{\r}
+Dialogue: 0,0:27:13.83,0:27:15.70,Default,,0000,0000,0000,,{\blur3}另一个那样做{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a copy that got another answer.{\r}
+Dialogue: 0,0:27:16.71,0:27:18.97,Default,,0000,0000,0000,,{\blur3}这暗示着其实有许多不同的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It just implies there's a huge number{\r}
+Dialogue: 0,0:27:19.00,0:27:20.18,Default,,0000,0000,0000,,{\blur3}你本人的拷贝{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of other copies of you{\r}
+Dialogue: 0,0:27:20.19,0:27:21.83,Default,,0000,0000,0000,,{\blur3}在各自的宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that saw slightly different things happen{\r}
+Dialogue: 0,0:27:21.84,0:27:23.12,Default,,0000,0000,0000,,{\blur3}有着轻微不同的际遇{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the universe.{\r}
+Dialogue: 0,0:27:24.83,0:27:26.62,Default,,0000,0000,0000,,{\blur3}目前 微观世界的古怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These days, it's completely accepted{\r}
+Dialogue: 0,0:27:26.65,0:27:28.76,Default,,0000,0000,0000,,{\blur3}已经被人们完全接受{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the microworld is weird.{\r}
+Dialogue: 0,0:27:28.82,0:27:30.93,Default,,0000,0000,0000,,{\blur3}许多人希望这种古怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Many people had hoped that this weirdness{\r}
+Dialogue: 0,0:27:30.95,0:27:33.10,Default,,0000,0000,0000,,{\blur3}能被局限在微观世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could be confined to the microworld{\r}
+Dialogue: 0,0:27:33.33,0:27:36.31,Default,,0000,0000,0000,,{\blur3}让我们这些庞然大物不受影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so that big things like us would be immune to it{\r}
+Dialogue: 0,0:27:36.39,0:27:38.94,Default,,0000,0000,0000,,{\blur3}总是存在于单一的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and always be in a single place.{\r}
+Dialogue: 0,0:27:39.14,0:27:41.97,Default,,0000,0000,0000,,{\blur3}但现实告诉我们 这种想法{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But it's become clear now that that hope...{\r}
+Dialogue: 0,0:27:43.51,0:27:44.89,Default,,0000,0000,0000,,{\blur3}很幼稚{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Was naive.{\r}
+Dialogue: 0,0:27:46.26,0:27:48.53,Default,,0000,0000,0000,,{\blur3}这种古怪是不受限制的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The weirdness can't be confined.{\r}
+Dialogue: 0,0:27:50.97,0:27:52.27,Default,,0000,0000,0000,,{\blur3}让人如痴如醉的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The fascinating debate{\r}
+Dialogue: 0,0:27:52.30,0:27:53.98,Default,,0000,0000,0000,,{\blur3}关于多世界理论的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about the many-worlds interpretation{\r}
+Dialogue: 0,0:27:54.01,0:27:56.26,Default,,0000,0000,0000,,{\blur3}剧烈争论会持续下去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of quantum physics{\r}
+Dialogue: 0,0:27:56.40,0:27:59.15,Default,,0000,0000,0000,,{\blur3}除非物理学家们全部解开{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will rage until physicists finally solve{\r}
+Dialogue: 0,0:27:59.17,0:28:02.42,Default,,0000,0000,0000,,{\blur3}微观宇宙的奥秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the mysteries of the microscopic universe.{\r}
+Dialogue: 0,0:28:05.05,0:28:07.44,Default,,0000,0000,0000,,{\blur3}然而 一些天文学家断定{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, some astronomers are concluding{\r}
+Dialogue: 0,0:28:07.47,0:28:09.59,Default,,0000,0000,0000,,{\blur3}我们永远不能充分解释{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we will never be able to fully explain{\r}
+Dialogue: 0,0:28:09.61,0:28:11.14,Default,,0000,0000,0000,,{\blur3}这些奥秘的任何一个{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}any of these mysteries,{\r}
+Dialogue: 0,0:28:11.16,0:28:13.48,Default,,0000,0000,0000,,{\blur3}这是因为 按照他们的计算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because, according to their calculations,{\r}
+Dialogue: 0,0:28:13.72,0:28:17.02,Default,,0000,0000,0000,,{\blur3}大多数主宰着宇宙的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the vast majority of matter holding the universe together{\r}
+Dialogue: 0,0:28:17.12,0:28:21.89,Default,,0000,0000,0000,,{\blur3}以我们永远无法解释的大尺寸方式存在着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}exists in a higher dimension that we can never explore.{\r}
+Dialogue: 0,0:28:27.48,0:28:30.03,Default,,0000,0000,0000,,{\blur3}如果微观世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If there's anything in the microscopic universe{\r}
+Dialogue: 0,0:28:30.05,0:28:32.38,Default,,0000,0000,0000,,{\blur3}还存在着比量子微粒更奇怪{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}stranger than quantum particles,{\r}
+Dialogue: 0,0:28:33.29,0:28:37.03,Default,,0000,0000,0000,,{\blur3}属于从未被科学家发现过的神秘物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's the mysterious matter that scientists have never seen{\r}
+Dialogue: 0,0:28:37.05,0:28:40.83,Default,,0000,0000,0000,,{\blur3}就会在太阳系 银河系这些天体的构成中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that plays a crucial role in the formation of planets,{\r}
+Dialogue: 0,0:28:40.87,0:28:44.73,Default,,0000,0000,0000,,{\blur3}表现出关键性的作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}solar systems, and galaxies.{\r}
+Dialogue: 0,0:28:45.50,0:28:48.61,Default,,0000,0000,0000,,{\blur3}天文学家确信 宇宙里存在这样的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Astronomers know that there's all sorts of matter out there{\r}
+Dialogue: 0,0:28:48.72,0:28:51.20,Default,,0000,0000,0000,,{\blur3}施加着引力的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that exerts a gravitational influence{\r}
+Dialogue: 0,0:28:51.22,0:28:52.59,Default,,0000,0000,0000,,{\blur3}但我们不能看到它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that we can't see.{\r}
+Dialogue: 0,0:28:52.66,0:28:54.41,Default,,0000,0000,0000,,{\blur3}这些物质被称为"暗物质"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We call that dark matter.{\r}
+Dialogue: 0,0:28:56.37,0:28:59.02,Default,,0000,0000,0000,,{\blur3}如果没有暗物质 那我就不会存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I wouldn't exist if it weren't for dark matter,{\r}
+Dialogue: 0,0:28:59.05,0:29:01.49,Default,,0000,0000,0000,,{\blur3}因为暗物质具有这样的能力{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because dark matter has this nurturing force{\r}
+Dialogue: 0,0:29:01.70,0:29:05.14,Default,,0000,0000,0000,,{\blur3}可以把物质聚集在一起 形成结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of bringing things together to form structure,{\r}
+Dialogue: 0,0:29:05.18,0:29:06.40,Default,,0000,0000,0000,,{\blur3}比如形成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to form galaxies,{\r}
+Dialogue: 0,0:29:06.43,0:29:08.87,Default,,0000,0000,0000,,{\blur3}生命所必需的星系结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which are absolutely necessary for life.{\r}
+Dialogue: 0,0:29:10.05,0:29:13.24,Default,,0000,0000,0000,,{\blur3}在宇宙里具有明显引力的物质当中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Dark matter makes up a staggering 85%{\r}
+Dialogue: 0,0:29:13.27,0:29:15.43,Default,,0000,0000,0000,,{\blur3}暗物质所占的比例惊人{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the gravitationally attractive stuff{\r}
+Dialogue: 0,0:29:15.45,0:29:16.93,Default,,0000,0000,0000,,{\blur3}达到了85%{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the universe.{\r}
+Dialogue: 0,0:29:17.83,0:29:20.04,Default,,0000,0000,0000,,{\blur3}如果暗物质是某些种类的微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If the dark matter is some kind of particle,{\r}
+Dialogue: 0,0:29:20.06,0:29:22.95,Default,,0000,0000,0000,,{\blur3}那么通常情况下 每一秒钟穿过我身体的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then typically, millions of dark matter particles{\r}
+Dialogue: 0,0:29:22.98,0:29:25.01,Default,,0000,0000,0000,,{\blur3}暗物质粒子就有数百万{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will pass through me every second.{\r}
+Dialogue: 0,0:29:25.73,0:29:29.02,Default,,0000,0000,0000,,{\blur3}但是 即使知道了暗物质的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But even though they know dark matter exists,{\r}
+Dialogue: 0,0:29:29.31,0:29:33.72,Default,,0000,0000,0000,,{\blur3}天文学家还是被微观世界的神秘所困惑{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomers have been confounded by a microscopic mystery:{\r}
+Dialogue: 0,0:29:33.97,0:29:35.24,Default,,0000,0000,0000,,{\blur3}它是什么？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what is it?{\r}
+Dialogue: 0,0:29:36.63,0:29:39.39,Default,,0000,0000,0000,,{\blur3}一开始 他们认为这是普通的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}At first, they thought it was ordinary matter that,{\r}
+Dialogue: 0,0:29:39.48,0:29:42.24,Default,,0000,0000,0000,,{\blur3}只是由于某种原因看不到它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}for some reason, they couldn't see.{\r}
+Dialogue: 0,0:29:44.19,0:29:45.41,Default,,0000,0000,0000,,{\blur3}进行研究之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what happened was,{\r}
+Dialogue: 0,0:29:45.42,0:29:47.30,Default,,0000,0000,0000,,{\blur3}天文学家们得出一个结论{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomers went and took an inventory.{\r}
+Dialogue: 0,0:29:47.33,0:29:50.86,Default,,0000,0000,0000,,{\blur3}宇宙里有许多的普通物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know how much ordinary matter there is in the universe.{\r}
+Dialogue: 0,0:29:51.09,0:29:53.65,Default,,0000,0000,0000,,{\blur3}所谓的"普通物质" 我们基本上是指原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}By "ordinary matter," we basically mean atoms,{\r}
+Dialogue: 0,0:29:53.69,0:29:57.44,Default,,0000,0000,0000,,{\blur3}它们是由质子中子和电子组成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}things that are made out of protons, neutrons, and electrons,{\r}
+Dialogue: 0,0:29:57.45,0:29:59.58,Default,,0000,0000,0000,,{\blur3}这些基本微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the elementary particles that go into{\r}
+Dialogue: 0,0:29:59.61,0:30:02.58,Default,,0000,0000,0000,,{\blur3}组成你 我 地球上的每一样东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}making you, me, everything on Earth.{\r}
+Dialogue: 0,0:30:03.97,0:30:05.08,Default,,0000,0000,0000,,{\blur3}但这样还不行{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And it just doesn't measure up.{\r}
+Dialogue: 0,0:30:05.10,0:30:07.16,Default,,0000,0000,0000,,{\blur3}构成宇宙的总体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's not nearly enough ordinary matter{\r}
+Dialogue: 0,0:30:07.19,0:30:09.10,Default,,0000,0000,0000,,{\blur3}只有普通物质还不够{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the universe to make up the total.{\r}
+Dialogue: 0,0:30:10.17,0:30:12.47,Default,,0000,0000,0000,,{\blur3}这个结论很怪诞{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This conclusion was bizarre.{\r}
+Dialogue: 0,0:30:13.13,0:30:16.06,Default,,0000,0000,0000,,{\blur3}微观宇宙的大多数物质怎么可能{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}How could most of the matter in the microscopic universe{\r}
+Dialogue: 0,0:30:16.09,0:30:20.39,Default,,0000,0000,0000,,{\blur3}不是由质子 中子和电子构成呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not be made of protons, neutrons, and electrons?{\r}
+Dialogue: 0,0:30:22.19,0:30:23.65,Default,,0000,0000,0000,,{\blur3}人们非常惊骇地发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's been quite shocking to discover{\r}
+Dialogue: 0,0:30:23.67,0:30:26.60,Default,,0000,0000,0000,,{\blur3}这些原子竟然只构成了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that these atoms actually make up{\r}
+Dialogue: 0,0:30:26.63,0:30:30.11,Default,,0000,0000,0000,,{\blur3}宇宙里的一小部分物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}just a small minority of all the stuff in the universe.{\r}
+Dialogue: 0,0:30:30.33,0:30:32.20,Default,,0000,0000,0000,,{\blur3}我们看不见的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}There's six times more{\r}
+Dialogue: 0,0:30:32.40,0:30:33.88,Default,,0000,0000,0000,,{\blur3}完全不同的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of an altogether different substance{\r}
+Dialogue: 0,0:30:33.91,0:30:36.37,Default,,0000,0000,0000,,{\blur3}是看得见的物质的六倍还要多{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which is invisible to us.{\r}
+Dialogue: 0,0:30:36.94,0:30:39.48,Default,,0000,0000,0000,,{\blur3}有趣的是 科学家让我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's interesting to think that science has brought us{\r}
+Dialogue: 0,0:30:39.51,0:30:41.01,Default,,0000,0000,0000,,{\blur3}认识到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the point where we realize{\r}
+Dialogue: 0,0:30:41.33,0:30:43.45,Default,,0000,0000,0000,,{\blur3}我们不但不是宇宙的中心{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}not only are we not the center of the universe;{\r}
+Dialogue: 0,0:30:43.76,0:30:45.70,Default,,0000,0000,0000,,{\blur3}甚至不是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we're not even made of the same stuff{\r}
+Dialogue: 0,0:30:45.84,0:30:48.00,Default,,0000,0000,0000,,{\blur3}由构成大部分宇宙的物质所构成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}as the universe is made of, for the most part.{\r}
+Dialogue: 0,0:30:48.03,0:30:49.42,Default,,0000,0000,0000,,{\blur3}宇宙的绝大多数物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of the stuff in the universe{\r}
+Dialogue: 0,0:30:49.45,0:30:50.38,Default,,0000,0000,0000,,{\blur3}是暗物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is this dark matter,{\r}
+Dialogue: 0,0:30:50.41,0:30:52.33,Default,,0000,0000,0000,,{\blur3}它是某些粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and it's some small particle{\r}
+Dialogue: 0,0:30:52.34,0:30:55.26,Default,,0000,0000,0000,,{\blur3}存在于我们的直觉之外{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}beyond the reach of our direct detection.{\r}
+Dialogue: 0,0:30:59.44,0:31:01.23,Default,,0000,0000,0000,,{\blur3}一些理论物理学家{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Some theoretical physicists{\r}
+Dialogue: 0,0:31:01.26,0:31:05.16,Default,,0000,0000,0000,,{\blur3}猜测暗物质可能是由中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}speculated that dark matter might be made of neutrinos-{\r}
+Dialogue: 0,0:31:05.70,0:31:06.88,Default,,0000,0000,0000,,{\blur3}这种极小的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tiny particles{\r}
+Dialogue: 0,0:31:06.91,0:31:09.38,Default,,0000,0000,0000,,{\blur3}比电子小一千倍的粒子所构成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a thousand times smaller than an electron{\r}
+Dialogue: 0,0:31:09.51,0:31:13.20,Default,,0000,0000,0000,,{\blur3}这样就能符合暗物质的许多已知参数{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that fit many of the known characteristics of dark matter.{\r}
+Dialogue: 0,0:31:14.33,0:31:16.15,Default,,0000,0000,0000,,{\blur3}我们知道中微子的存在{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We know neutrinos exist.{\r}
+Dialogue: 0,0:31:16.71,0:31:18.37,Default,,0000,0000,0000,,{\blur3}它们有质量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they have mass.{\r}
+Dialogue: 0,0:31:18.40,0:31:21.82,Default,,0000,0000,0000,,{\blur3}使重量得到增加{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They contribute weight, so maybe we're done.{\r}
+Dialogue: 0,0:31:21.96,0:31:24.55,Default,,0000,0000,0000,,{\blur3}但这些不是中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But now it's turned out that they're not neutrinos.{\r}
+Dialogue: 0,0:31:26.05,0:31:30.10,Default,,0000,0000,0000,,{\blur3}绝大多数的暗物质估计不是正常的中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of the dark matter is probably not normal neutrinos,{\r}
+Dialogue: 0,0:31:30.24,0:31:32.84,Default,,0000,0000,0000,,{\blur3}因为它们移动得非常 非常快{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they travel very, very quickly.{\r}
+Dialogue: 0,0:31:33.28,0:31:36.15,Default,,0000,0000,0000,,{\blur3}会彻底摧毁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And they wipe out the formation{\r}
+Dialogue: 0,0:31:36.37,0:31:38.46,Default,,0000,0000,0000,,{\blur3}宇宙历史早期的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of what's called large-scale structure,{\r}
+Dialogue: 0,0:31:38.49,0:31:42.87,Default,,0000,0000,0000,,{\blur3}被称为"大尺度结构"的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the clumping of material on the scale of galaxies,{\r}
+Dialogue: 0,0:31:42.98,0:31:45.78,Default,,0000,0000,0000,,{\blur3}星系里的物质团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}early in the universe's history.{\r}
+Dialogue: 0,0:31:46.60,0:31:49.19,Default,,0000,0000,0000,,{\blur3}如果宇宙里充满着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So it would be much harder to produce galaxies{\r}
+Dialogue: 0,0:31:49.46,0:31:50.73,Default,,0000,0000,0000,,{\blur3}许多的中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if the universe is filled{\r}
+Dialogue: 0,0:31:50.76,0:31:53.28,Default,,0000,0000,0000,,{\blur3}那么就会严重影响到星系的产生{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with lots and lots of neutrinos zooming around.{\r}
+Dialogue: 0,0:31:56.62,0:31:58.41,Default,,0000,0000,0000,,{\blur3}所以暗物质不是普通的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the dark matter is not ordinary matter.{\r}
+Dialogue: 0,0:31:58.44,0:31:59.48,Default,,0000,0000,0000,,{\blur3}它不是中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's not neutrinos.{\r}
+Dialogue: 0,0:31:59.51,0:32:01.53,Default,,0000,0000,0000,,{\blur3}它是某种全新类型的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's some wholly new kind of particle{\r}
+Dialogue: 0,0:32:01.56,0:32:02.80,Default,,0000,0000,0000,,{\blur3}尚未被我们了解的微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we haven't detected yet.{\r}
+Dialogue: 0,0:32:04.87,0:32:07.75,Default,,0000,0000,0000,,{\blur3}它应当是某种奇怪的次原子微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It has to be some sort of weird subatomic particle{\r}
+Dialogue: 0,0:32:07.96,0:32:09.87,Default,,0000,0000,0000,,{\blur3}源于宇宙极高温 极高密度时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ieft over from the big bang,{\r}
+Dialogue: 0,0:32:09.91,0:32:11.94,Default,,0000,0000,0000,,{\blur3}发生的大爆炸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when the universe was very hot and dense.{\r}
+Dialogue: 0,0:32:12.23,0:32:14.71,Default,,0000,0000,0000,,{\blur3}当时产生了各种各样的微粒{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}A whole zoo of particles was created.{\r}
+Dialogue: 0,0:32:14.78,0:32:17.84,Default,,0000,0000,0000,,{\blur3}绝大部分被湮没或合并到其它的微粒中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Most of them annihilated or decayed into other particles.{\r}
+Dialogue: 0,0:32:17.87,0:32:20.18,Default,,0000,0000,0000,,{\blur3}但有一些遗留了下来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But some were left over,{\r}
+Dialogue: 0,0:32:20.31,0:32:23.91,Default,,0000,0000,0000,,{\blur3}那就是我们所说到的暗物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and they are what are thought to be the dark matter.{\r}
+Dialogue: 0,0:32:27.71,0:32:31.53,Default,,0000,0000,0000,,{\blur3}这种奇异的微观粒子是怎样的呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what could this exotic microscopic particle be?{\r}
+Dialogue: 0,0:32:33.17,0:32:35.37,Default,,0000,0000,0000,,{\blur3}由于科学家对它一无所知{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Since it's nothing known to science,{\r}
+Dialogue: 0,0:32:35.39,0:32:38.10,Default,,0000,0000,0000,,{\blur3}天文学家们认为它是一种全新的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}astronomers proposed an entirely new particle{\r}
+Dialogue: 0,0:32:38.16,0:32:41.60,Default,,0000,0000,0000,,{\blur3}具有暗物质的所有特性{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that embodied all of dark matter's characteristics{\r}
+Dialogue: 0,0:32:41.77,0:32:44.71,Default,,0000,0000,0000,,{\blur3}于是 天文学家开始在宇宙里寻觅它的踪迹{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then began searching the universe for it.{\r}
+Dialogue: 0,0:32:45.46,0:32:46.89,Default,,0000,0000,0000,,{\blur3}并把它称为WIMP{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They call it a WIMP,{\r}
+Dialogue: 0,0:32:46.96,0:32:50.02,Default,,0000,0000,0000,,{\blur3}即"大质量弱相互作用粒子"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a Weakly Interacting Massive Particle.{\r}
+Dialogue: 0,0:32:51.55,0:32:53.81,Default,,0000,0000,0000,,{\blur3}WIMP假说面临着一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One of the problems with the WIMP hypothesis{\r}
+Dialogue: 0,0:32:53.84,0:32:57.37,Default,,0000,0000,0000,,{\blur3}能不能在实验室里了解WIMP粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is that we've never actually detected a WIMP in a laboratory.{\r}
+Dialogue: 0,0:32:58.19,0:32:59.82,Default,,0000,0000,0000,,{\blur3}事实上 有几个实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}In fact, there's several experiments{\r}
+Dialogue: 0,0:32:59.85,0:33:01.80,Default,,0000,0000,0000,,{\blur3}准备在地下实验室里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}going on right this minute{\r}
+Dialogue: 0,0:33:01.99,0:33:04.87,Default,,0000,0000,0000,,{\blur3}寻找WIMP粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to look for WIMPS in underground laboratories.{\r}
+Dialogue: 0,0:33:05.00,0:33:07.57,Default,,0000,0000,0000,,{\blur3}你可以对它们使用粒子加速器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you'd also like to make them in particle accelerators,{\r}
+Dialogue: 0,0:33:07.60,0:33:10.27,Default,,0000,0000,0000,,{\blur3}比如日内瓦的大型强子对撞机{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Iike the Large Hadron Collider in Geneva.{\r}
+Dialogue: 0,0:33:10.40,0:33:15.07,Default,,0000,0000,0000,,{\blur3}所以 如果它们就是答案的话{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So there's a multipronged attack to detect WIMPs directly{\r}
+Dialogue: 0,0:33:15.21,0:33:17.19,Default,,0000,0000,0000,,{\blur3}可以有多种方法去了解它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}if they're the right answer.{\r}
+Dialogue: 0,0:33:17.45,0:33:20.27,Default,,0000,0000,0000,,{\blur3}如果科学家发现了暗物质的证据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If scientists find evidence of dark matter,{\r}
+Dialogue: 0,0:33:20.37,0:33:22.78,Default,,0000,0000,0000,,{\blur3}就相当于找到了另一个世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}will they also find evidence of another world{\r}
+Dialogue: 0,0:33:22.81,0:33:24.63,Default,,0000,0000,0000,,{\blur3}就会发现暗行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of dark planets...{\r}
+Dialogue: 0,0:33:26.88,0:33:28.70,Default,,0000,0000,0000,,{\blur3}暗生物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}dark life-forms...{\r}
+Dialogue: 0,0:33:29.41,0:33:32.17,Default,,0000,0000,0000,,{\blur3}和组成暗物质的元素吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and a dark matter table of elements?{\r}
+Dialogue: 0,0:33:36.60,0:33:39.09,Default,,0000,0000,0000,,{\blur3}我不认为暗物质粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I don't think they are like us,{\r}
+Dialogue: 0,0:33:39.45,0:33:41.39,Default,,0000,0000,0000,,{\blur3}象我们的世界一样{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in that the dark matter particles{\r}
+Dialogue: 0,0:33:41.42,0:33:43.43,Default,,0000,0000,0000,,{\blur3}能够形成行星等等{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can form planets and so on,{\r}
+Dialogue: 0,0:33:43.53,0:33:45.02,Default,,0000,0000,0000,,{\blur3}因为 如果它们可以{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because if they could,{\r}
+Dialogue: 0,0:33:45.05,0:33:47.64,Default,,0000,0000,0000,,{\blur3}那么太阳系的绝大多数行星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}then we would expect most of the planets in our solar system{\r}
+Dialogue: 0,0:33:47.67,0:33:49.66,Default,,0000,0000,0000,,{\blur3}实际上就是由暗物质构成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to actually be made of dark matter.{\r}
+Dialogue: 0,0:33:50.21,0:33:52.18,Default,,0000,0000,0000,,{\blur3}我认为更有可能的是{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But I think it's much more likely{\r}
+Dialogue: 0,0:33:52.21,0:33:55.17,Default,,0000,0000,0000,,{\blur3}暗域是由许多种不同的粒子复合而成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that the dark sector is many different kinds of particles{\r}
+Dialogue: 0,0:33:55.20,0:33:57.38,Default,,0000,0000,0000,,{\blur3}而不是只由一种粒子构成{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are much more complex than just one.{\r}
+Dialogue: 0,0:34:01.27,0:34:02.78,Default,,0000,0000,0000,,{\blur3}然而 现代科学{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, modern science{\r}
+Dialogue: 0,0:34:02.81,0:34:04.49,Default,,0000,0000,0000,,{\blur3}还没能发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}still has not found evidence{\r}
+Dialogue: 0,0:34:04.52,0:34:07.67,Default,,0000,0000,0000,,{\blur3}这种神秘的微型材料{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of this mysterious microscopic material.{\r}
+Dialogue: 0,0:34:09.24,0:34:11.78,Default,,0000,0000,0000,,{\blur3}越来越多的科学家坚信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And a growing number of scientists argue{\r}
+Dialogue: 0,0:34:11.82,0:34:14.88,Default,,0000,0000,0000,,{\blur3}这是因为它不是别的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that's because it's not something else;{\r}
+Dialogue: 0,0:34:16.23,0:34:18.13,Default,,0000,0000,0000,,{\blur3}它是别处的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}it's somewhere else,{\r}
+Dialogue: 0,0:34:18.80,0:34:20.96,Default,,0000,0000,0000,,{\blur3}来自于另外的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Iike other dimensions.{\r}
+Dialogue: 0,0:34:23.81,0:34:25.20,Default,,0000,0000,0000,,{\blur3}人们非常严肃地认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}People have taken very seriously{\r}
+Dialogue: 0,0:34:25.23,0:34:28.23,Default,,0000,0000,0000,,{\blur3}暗物质来自于另外的世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the idea that the dark matter comes from other dimensions,{\r}
+Dialogue: 0,0:34:28.25,0:34:30.55,Default,,0000,0000,0000,,{\blur3}或者是说明有普通的粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or represents ordinary particles{\r}
+Dialogue: 0,0:34:30.57,0:34:33.78,Default,,0000,0000,0000,,{\blur3}跑到另外的世界去了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are actually moving in the other dimensions.{\r}
+Dialogue: 0,0:34:34.49,0:34:35.89,Default,,0000,0000,0000,,{\blur3}那个世界里的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The thing about other dimensions are,{\r}
+Dialogue: 0,0:34:35.92,0:34:36.77,Default,,0000,0000,0000,,{\blur3}我们看不到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we don't see them,{\r}
+Dialogue: 0,0:34:36.80,0:34:38.89,Default,,0000,0000,0000,,{\blur3}与它们没有强烈的相互作用{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}we don't interact with them very strongly,{\r}
+Dialogue: 0,0:34:38.93,0:34:41.27,Default,,0000,0000,0000,,{\blur3}所以它们自然地隐身起来{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}so they're a natural place to put the dark matter.{\r}
+Dialogue: 0,0:34:43.25,0:34:46.74,Default,,0000,0000,0000,,{\blur3}我们把星系和星系团里的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's conceivable that the gravitational influence{\r}
+Dialogue: 0,0:34:46.77,0:34:48.98,Default,,0000,0000,0000,,{\blur3}重力的影响{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in galaxies and clusters of galaxies{\r}
+Dialogue: 0,0:34:48.99,0:34:53.20,Default,,0000,0000,0000,,{\blur3}归根于我们宇宙中的暗物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we attribute to dark matter in our own universe,{\r}
+Dialogue: 0,0:34:53.39,0:34:56.45,Default,,0000,0000,0000,,{\blur3}其来源于另外的世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is actually caused by concentrations of matter{\r}
+Dialogue: 0,0:34:56.53,0:34:58.29,Default,,0000,0000,0000,,{\blur3}可以被我们感觉到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in other dimensions{\r}
+Dialogue: 0,0:34:58.32,0:35:01.03,Default,,0000,0000,0000,,{\blur3}却永远不会被我们发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that are felt within our dimensions{\r}
+Dialogue: 0,0:35:01.13,0:35:03.53,Default,,0000,0000,0000,,{\blur3}的浓聚物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but will never be discovered within our dimensions{\r}
+Dialogue: 0,0:35:03.56,0:35:05.92,Default,,0000,0000,0000,,{\blur3}因为它们事实上是其它地方的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because they're actually somewhere else.{\r}
+Dialogue: 0,0:35:09.52,0:35:11.60,Default,,0000,0000,0000,,{\blur3}无论它是什么样或是在哪里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever or wherever it is,{\r}
+Dialogue: 0,0:35:11.63,0:35:13.61,Default,,0000,0000,0000,,{\blur3}许多物理学家坚信{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}many physicists are confident{\r}
+Dialogue: 0,0:35:13.64,0:35:16.11,Default,,0000,0000,0000,,{\blur3}他们终究会完全了解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they'll eventually discover a complete solution{\r}
+Dialogue: 0,0:35:16.14,0:35:18.38,Default,,0000,0000,0000,,{\blur3}暗物质的神秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to the dark matter mystery...{\r}
+Dialogue: 0,0:35:19.70,0:35:22.41,Default,,0000,0000,0000,,{\blur3}除非它只是简单地{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}unless, they say, it simply exists{\r}
+Dialogue: 0,0:35:22.43,0:35:24.82,Default,,0000,0000,0000,,{\blur3}以一个极小的尺寸存在着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at an incredibly small size,{\r}
+Dialogue: 0,0:35:24.95,0:35:28.75,Default,,0000,0000,0000,,{\blur3}小到人们没办法去研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}far smaller than humans have ever been able to explore.{\r}
+Dialogue: 0,0:35:29.07,0:35:30.96,Default,,0000,0000,0000,,{\blur3}这就带来了一个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That raises the question:{\r}
+Dialogue: 0,0:35:31.85,0:35:33.09,Default,,0000,0000,0000,,{\blur3}在微观宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"What does exist{\r}
+Dialogue: 0,0:35:33.11,0:35:36.61,Default,,0000,0000,0000,,{\blur3}物体能够小到哪种程度？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the smallest scales of the microscopic universe?"{\r}
+Dialogue: 0,0:35:36.78,0:35:40.03,Default,,0000,0000,0000,,{\blur3}德克萨斯州休斯顿的研究人员詹森.L{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's what viewer Jason L. from Houston, Texas,{\r}
+Dialogue: 0,0:35:40.06,0:35:41.22,Default,,0000,0000,0000,,{\blur3}很关注这个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}wanted to...{\r}
+Dialogue: 0,0:35:44.72,0:35:47.01,Default,,0000,0000,0000,,{\blur3}詹森 我向您请教那个问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Jason, I'm glad you asked that question.{\r}
+Dialogue: 0,0:35:47.21,0:35:49.09,Default,,0000,0000,0000,,{\blur3}宇宙里最小的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The smallest things in the universe{\r}
+Dialogue: 0,0:35:49.10,0:35:51.57,Default,,0000,0000,0000,,{\blur3}是那些基本的次原子粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are the fundamental subatomic particles,{\r}
+Dialogue: 0,0:35:51.60,0:35:52.79,Default,,0000,0000,0000,,{\blur3}比如电子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Iike electrons{\r}
+Dialogue: 0,0:35:52.82,0:35:55.74,Default,,0000,0000,0000,,{\blur3}或者构成质子和中子的夸克粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or the quarks that make up protons and neutrons{\r}
+Dialogue: 0,0:35:55.88,0:35:57.31,Default,,0000,0000,0000,,{\blur3}或者中微子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or neutrinos.{\r}
+Dialogue: 0,0:35:57.44,0:35:59.72,Default,,0000,0000,0000,,{\blur3}现在 所有这些粒子被想象为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, all these particles are thought to be{\r}
+Dialogue: 0,0:35:59.81,0:36:03.34,Default,,0000,0000,0000,,{\blur3}以不同的方式摆动着的微型物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}different vibrational modes of a little tiny entity{\r}
+Dialogue: 0,0:36:03.35,0:36:04.54,Default,,0000,0000,0000,,{\blur3}被称为弦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}called a string,{\r}
+Dialogue: 0,0:36:04.57,0:36:06.91,Default,,0000,0000,0000,,{\blur3}它是极微小的能量团{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}a little tiny package of energy.{\r}
+Dialogue: 0,0:36:06.93,0:36:09.12,Default,,0000,0000,0000,,{\blur3}是构成别的一切物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that, then, is the smallest thing{\r}
+Dialogue: 0,0:36:09.14,0:36:10.78,Default,,0000,0000,0000,,{\blur3}的最小单位{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from which everything else is made.{\r}
+Dialogue: 0,0:36:15.00,0:36:16.52,Default,,0000,0000,0000,,{\blur3}科学家们已经开始努力去{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists have just started{\r}
+Dialogue: 0,0:36:16.54,0:36:18.22,Default,,0000,0000,0000,,{\blur3}研究弦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}trying to explore strings,{\r}
+Dialogue: 0,0:36:18.25,0:36:22.63,Default,,0000,0000,0000,,{\blur3}以及微观宇宙里其它极为细小的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and other incredibly small stuff in the microscopic universe.{\r}
+Dialogue: 0,0:36:24.29,0:36:25.54,Default,,0000,0000,0000,,{\blur3}他们的发现{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And what they found{\r}
+Dialogue: 0,0:36:25.56,0:36:27.95,Default,,0000,0000,0000,,{\blur3}将是找到另一个世界的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}offers tantalizing clues{\r}
+Dialogue: 0,0:36:29.06,0:36:30.92,Default,,0000,0000,0000,,{\blur3}重要线索{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to a world beyond.{\r}
+Dialogue: 0,0:36:38.25,0:36:41.10,Default,,0000,0000,0000,,{\blur3}他们对微观宇宙的研究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}As they delve into smaller and smaller spaces{\r}
+Dialogue: 0,0:36:41.13,0:36:43.33,Default,,0000,0000,0000,,{\blur3}深入到了越来越小的范围{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in the microscopic universe,{\r}
+Dialogue: 0,0:36:43.70,0:36:47.49,Default,,0000,0000,0000,,{\blur3}科学家们已经成功观察到原子的内部{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists have successfully looked inside atoms.{\r}
+Dialogue: 0,0:36:48.10,0:36:51.54,Default,,0000,0000,0000,,{\blur3}如果继续深入研究下一层的次原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But what exists if we continue our fantastic voyage{\r}
+Dialogue: 0,0:36:51.57,0:36:54.88,Default,,0000,0000,0000,,{\blur3}那里会有一些什么呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}still deeper into this subatomic netherworld?{\r}
+Dialogue: 0,0:36:56.51,0:36:59.49,Default,,0000,0000,0000,,{\blur3}比电子还小的领域{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even scales that are smaller than the electron{\r}
+Dialogue: 0,0:36:59.54,0:37:02.46,Default,,0000,0000,0000,,{\blur3}有着大量的未知奥秘{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are really a vast unexplored territory,{\r}
+Dialogue: 0,0:37:02.49,0:37:05.22,Default,,0000,0000,0000,,{\blur3}其未知的程度 远甚于太阳系 银河系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}more so than solar systems or galaxies{\r}
+Dialogue: 0,0:37:05.25,0:37:06.67,Default,,0000,0000,0000,,{\blur3}乃至于宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or even the universe,{\r}
+Dialogue: 0,0:37:06.92,0:37:09.83,Default,,0000,0000,0000,,{\blur3}因为我们可以观察行星 恒星{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}because we can make observations of planets and stars{\r}
+Dialogue: 0,0:37:09.86,0:37:11.60,Default,,0000,0000,0000,,{\blur3}星系和宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and galaxies and the universe,{\r}
+Dialogue: 0,0:37:11.73,0:37:13.76,Default,,0000,0000,0000,,{\blur3}但难以开展实验{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but it's hard to conduct experiments{\r}
+Dialogue: 0,0:37:13.79,0:37:16.24,Default,,0000,0000,0000,,{\blur3}让我们能直接探测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that allow us to directly explore{\r}
+Dialogue: 0,0:37:16.42,0:37:19.83,Default,,0000,0000,0000,,{\blur3}微小的时间和空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tiny scales in time and space.{\r}
+Dialogue: 0,0:37:20.99,0:37:24.10,Default,,0000,0000,0000,,{\blur3}你想要精确知道微观世界{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Essentially, what you need to examine{\r}
+Dialogue: 0,0:37:24.11,0:37:28.20,Default,,0000,0000,0000,,{\blur3}就必须要有极端灵敏的工具{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the microscopic world is a sharper and sharper tool,{\r}
+Dialogue: 0,0:37:28.22,0:37:30.01,Default,,0000,0000,0000,,{\blur3}这样才能让你{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something that actually allows you{\r}
+Dialogue: 0,0:37:30.04,0:37:34.83,Default,,0000,0000,0000,,{\blur3}得到数值非常小的数据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to distinguish the details down at that very small level.{\r}
+Dialogue: 0,0:37:35.72,0:37:39.32,Default,,0000,0000,0000,,{\blur3}但在努力探测比原子还小的空间的时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But as scientists try to probe spaces smaller than the atom,{\r}
+Dialogue: 0,0:37:39.58,0:37:42.04,Default,,0000,0000,0000,,{\blur3}科学家们不能够让足够的光{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they cannot possibly focus enough light{\r}
+Dialogue: 0,0:37:42.07,0:37:43.46,Default,,0000,0000,0000,,{\blur3}去照亮它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to illuminate them.{\r}
+Dialogue: 0,0:37:43.59,0:37:46.25,Default,,0000,0000,0000,,{\blur3}他们需要更强劲的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They need something more powerful.{\r}
+Dialogue: 0,0:37:47.51,0:37:51.75,Default,,0000,0000,0000,,{\blur3}要观察更精细 就需要更多能量{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To look more finely, you need more energy.{\r}
+Dialogue: 0,0:37:52.18,0:37:55.90,Default,,0000,0000,0000,,{\blur3}我们可以通过各种高能装置{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can go to incredibly small details{\r}
+Dialogue: 0,0:37:56.10,0:38:00.22,Default,,0000,0000,0000,,{\blur3}去得到更小的数据{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}using high-energy devices of various kinds.{\r}
+Dialogue: 0,0:38:00.78,0:38:02.04,Default,,0000,0000,0000,,{\blur3}当今工艺水平之最{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, the state of the art{\r}
+Dialogue: 0,0:38:02.07,0:38:04.21,Default,,0000,0000,0000,,{\blur3}当数粒子加速器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are actually particle accelerators.{\r}
+Dialogue: 0,0:38:05.06,0:38:06.90,Default,,0000,0000,0000,,{\blur3}我们使用基本粒子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We use elementary particles{\r}
+Dialogue: 0,0:38:07.08,0:38:10.57,Default,,0000,0000,0000,,{\blur3}通过碰撞去探测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to actually probe the structure of other elementary particles{\r}
+Dialogue: 0,0:38:10.70,0:38:13.03,Default,,0000,0000,0000,,{\blur3}其它基本粒子的结构{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by colliding them together,{\r}
+Dialogue: 0,0:38:15.08,0:38:16.44,Default,,0000,0000,0000,,{\blur3}在各种能量等级下{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Ietting them interact with each other{\r}
+Dialogue: 0,0:38:16.47,0:38:20.50,Default,,0000,0000,0000,,{\blur3}让它们相互作用 观察释放出来的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and then seeing what comes out at various energy scales.{\r}
+Dialogue: 0,0:38:21.86,0:38:24.53,Default,,0000,0000,0000,,{\blur3}故此 我们在碰撞实验中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So we can continue this process{\r}
+Dialogue: 0,0:38:24.65,0:38:28.29,Default,,0000,0000,0000,,{\blur3}使用的能量越高{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of examining smaller and smaller distances{\r}
+Dialogue: 0,0:38:28.43,0:38:29.97,Default,,0000,0000,0000,,{\blur3}才能继续探测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}in space and time{\r}
+Dialogue: 0,0:38:30.03,0:38:32.51,Default,,0000,0000,0000,,{\blur3}越小的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by actually going to higher and higher energy{\r}
+Dialogue: 0,0:38:32.64,0:38:34.53,Default,,0000,0000,0000,,{\blur3}空间和时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}with collider experiments.{\r}
+Dialogue: 0,0:38:39.18,0:38:41.96,Default,,0000,0000,0000,,{\blur3}然而 世界上最大的粒子加速器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}However, the world's largest particle accelerators{\r}
+Dialogue: 0,0:38:41.97,0:38:44.93,Default,,0000,0000,0000,,{\blur3}也没有足够的能量去探测{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have not yet generated enough energy to probe things{\r}
+Dialogue: 0,0:38:44.96,0:38:48.80,Default,,0000,0000,0000,,{\blur3}原子内部比基本粒子小得多的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}much smaller than the elementary particles inside atoms.{\r}
+Dialogue: 0,0:38:50.65,0:38:51.64,Default,,0000,0000,0000,,{\blur3}即使如此{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Even so,{\r}
+Dialogue: 0,0:38:51.67,0:38:53.76,Default,,0000,0000,0000,,{\blur3}科学家们相信还存在着{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists believe something exists{\r}
+Dialogue: 0,0:38:53.79,0:38:55.90,Default,,0000,0000,0000,,{\blur3}更小的物质{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at even smaller scales,{\r}
+Dialogue: 0,0:38:57.26,0:39:00.01,Default,,0000,0000,0000,,{\blur3}它们的尺寸十分小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at a size so tiny, the human mind{\r}
+Dialogue: 0,0:39:00.04,0:39:02.50,Default,,0000,0000,0000,,{\blur3}以至于人类不可能理解{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cannot possibly comprehend it.{\r}
+Dialogue: 0,0:39:03.87,0:39:05.75,Default,,0000,0000,0000,,{\blur3}物理学家们现在正努力去探究{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Physicists are now trying to understand{\r}
+Dialogue: 0,0:39:05.78,0:39:07.12,Default,,0000,0000,0000,,{\blur3}"普朗克长度"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what's called the Planck length,{\r}
+Dialogue: 0,0:39:07.47,0:39:10.62,Default,,0000,0000,0000,,{\blur3}即是10的-33次方厘米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}10 to the minus 33-power centimeters.{\r}
+Dialogue: 0,0:39:10.71,0:39:12.60,Default,,0000,0000,0000,,{\blur3}它比一个电子的尺寸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That's 20 factors of 10-{\r}
+Dialogue: 0,0:39:12.62,0:39:16.33,Default,,0000,0000,0000,,{\blur3}还要小10-20次方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}20 orders of magnitude smaller than an electron.{\r}
+Dialogue: 0,0:39:16.46,0:39:19.26,Default,,0000,0000,0000,,{\blur3}相比而言 电子就大得很夸张了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now, an electron is yea big, and I exaggerate a lot.{\r}
+Dialogue: 0,0:39:19.35,0:39:22.87,Default,,0000,0000,0000,,{\blur3}所以 比起任何可以实际测量的物体{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}So the Planck length is just almost unimaginably smaller{\r}
+Dialogue: 0,0:39:23.15,0:39:25.47,Default,,0000,0000,0000,,{\blur3}普朗克长度小得难以形容{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}than any objects we can actually measure.{\r}
+Dialogue: 0,0:39:25.80,0:39:27.56,Default,,0000,0000,0000,,{\blur3}尽管如此 物理学家正在试图{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Nevertheless, physicists are trying{\r}
+Dialogue: 0,0:39:27.58,0:39:29.54,Default,,0000,0000,0000,,{\blur3}涉足其中{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to deal with these scales.{\r}
+Dialogue: 0,0:39:29.65,0:39:31.86,Default,,0000,0000,0000,,{\blur3}这正是弦理论的范畴{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And that's what string theory is all about.{\r}
+Dialogue: 0,0:39:33.64,0:39:35.32,Default,,0000,0000,0000,,{\blur3}弦理论认为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}String theory says that everything{\r}
+Dialogue: 0,0:39:35.35,0:39:37.07,Default,,0000,0000,0000,,{\blur3}一切我们看作是粒子的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we think of as a particle{\r}
+Dialogue: 0,0:39:37.10,0:39:39.82,Default,,0000,0000,0000,,{\blur3}实际上是极小的振动着的环状的弦{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}is actually a tiny vibrating loop of string.{\r}
+Dialogue: 0,0:39:39.94,0:39:41.98,Default,,0000,0000,0000,,{\blur3}为了说明它有多小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}To get an idea of how tiny it is,{\r}
+Dialogue: 0,0:39:42.11,0:39:43.86,Default,,0000,0000,0000,,{\blur3}我找来了一个点眼药器{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}I have here an eyedropper.{\r}
+Dialogue: 0,0:39:43.94,0:39:46.79,Default,,0000,0000,0000,,{\blur3}我们准备滴出一滴水{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We're going to put out one drop of water.{\r}
+Dialogue: 0,0:39:47.03,0:39:49.36,Default,,0000,0000,0000,,{\blur3}其里面大约有百万兆又百万兆的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}That has about a trillion trillion atoms{\r}
+Dialogue: 0,0:39:49.39,0:39:51.07,Default,,0000,0000,0000,,{\blur3}氢原子和氧原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of hydrogen and oxygen.{\r}
+Dialogue: 0,0:39:51.11,0:39:53.58,Default,,0000,0000,0000,,{\blur3}现在假设让一个氢原子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Now imagine taking one hydrogen atom{\r}
+Dialogue: 0,0:39:53.86,0:39:56.68,Default,,0000,0000,0000,,{\blur3}变大一百亿倍{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and blowing it up by 1 0 billion times.{\r}
+Dialogue: 0,0:39:56.71,0:39:59.54,Default,,0000,0000,0000,,{\blur3}它的直径就会大约有0.5米{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It becomes about 1/2 a meter across.{\r}
+Dialogue: 0,0:39:59.64,0:40:00.60,Default,,0000,0000,0000,,{\blur3}你可能会问{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And you might say,{\r}
+Dialogue: 0,0:40:00.62,0:40:03.22,Default,,0000,0000,0000,,{\blur3}"现在我们能看到这个氢原子"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}"Can we now see the individual strings{\r}
+Dialogue: 0,0:40:03.23,0:40:04.87,Default,,0000,0000,0000,,{\blur3}"里面的弦吗？"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}inside that hydrogen atom?"{\r}
+Dialogue: 0,0:40:04.98,0:40:06.08,Default,,0000,0000,0000,,{\blur3}答案是"不能"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But the answer is no.{\r}
+Dialogue: 0,0:40:06.11,0:40:07.81,Default,,0000,0000,0000,,{\blur3}假设让这个氢原子继续变大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We can continue to make it bigger,{\r}
+Dialogue: 0,0:40:07.83,0:40:10.54,Default,,0000,0000,0000,,{\blur3}大到太阳系这么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}make one hydrogen atom the size of the solar system.{\r}
+Dialogue: 0,0:40:10.73,0:40:13.91,Default,,0000,0000,0000,,{\blur3}里面的弦还是小到看不见{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The strings are still too small to be seen.{\r}
+Dialogue: 0,0:40:15.04,0:40:16.73,Default,,0000,0000,0000,,{\blur3}只有当原子的尺寸{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's only when we make that atom{\r}
+Dialogue: 0,0:40:16.76,0:40:18.87,Default,,0000,0000,0000,,{\blur3}大到我们看得见的宇宙这么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the size of our observable universe,{\r}
+Dialogue: 0,0:40:18.96,0:40:21.96,Default,,0000,0000,0000,,{\blur3}弦才能被看到{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that a string becomes macroscopically large.{\r}
+Dialogue: 0,0:40:22.71,0:40:26.23,Default,,0000,0000,0000,,{\blur3}如果一个氢原子和整个看得见的宇宙一样大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}If one hydrogen atom is as big as the whole observable universe,{\r}
+Dialogue: 0,0:40:26.25,0:40:27.93,Default,,0000,0000,0000,,{\blur3}一个弦有多大呢？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}how big is a string?{\r}
+Dialogue: 0,0:40:28.08,0:40:30.50,Default,,0000,0000,0000,,{\blur3}它只有这些树中的一棵这么大{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Only about the size of one of these trees.{\r}
+Dialogue: 0,0:40:33.01,0:40:35.05,Default,,0000,0000,0000,,{\blur3}人类能够恰如其分地描述{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The amazing thing is that we human beings{\r}
+Dialogue: 0,0:40:35.07,0:40:37.33,Default,,0000,0000,0000,,{\blur3}如此微小世界里的情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}can even talk sensibly about what exists{\r}
+Dialogue: 0,0:40:37.34,0:40:39.25,Default,,0000,0000,0000,,{\blur3}真是很了不起的事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at this microscopic scale.{\r}
+Dialogue: 0,0:40:40.69,0:40:43.55,Default,,0000,0000,0000,,{\blur3}科学家们不单是能恰当地描述它{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Not only can scientists talk sensibly;{\r}
+Dialogue: 0,0:40:43.62,0:40:47.87,Default,,0000,0000,0000,,{\blur3}而且也发展出许多理论去解释其运行机制{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}they've also formulated theories about what happens down there.{\r}
+Dialogue: 0,0:40:49.12,0:40:51.50,Default,,0000,0000,0000,,{\blur3}它是所有科学里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}This is really one of the holy grails{\r}
+Dialogue: 0,0:40:51.52,0:40:53.73,Default,,0000,0000,0000,,{\blur3}被追求的终极目标之一{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of all of science.{\r}
+Dialogue: 0,0:40:53.90,0:40:56.75,Default,,0000,0000,0000,,{\blur3}我们认为普通的空间和时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We think that ordinary space and time{\r}
+Dialogue: 0,0:40:56.77,0:40:58.57,Default,,0000,0000,0000,,{\blur3}在普朗克长度上终止{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}cease to exist at the Planck length.{\r}
+Dialogue: 0,0:40:58.61,0:41:01.14,Default,,0000,0000,0000,,{\blur3}我们不能知道它们的具体情形{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}What we don't know is what takes their place.{\r}
+Dialogue: 0,0:41:02.16,0:41:05.77,Default,,0000,0000,0000,,{\blur3}我们需要透过更基本的事物{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}We need to replace our idea of space itself{\r}
+Dialogue: 0,0:41:06.05,0:41:08.32,Default,,0000,0000,0000,,{\blur3}各种不同的尺度{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}by something more fundamental,{\r}
+Dialogue: 0,0:41:08.96,0:41:11.71,Default,,0000,0000,0000,,{\blur3}或者是完全不同的思想观念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}something that might involve different numbers of dimensions{\r}
+Dialogue: 0,0:41:11.73,0:41:13.94,Default,,0000,0000,0000,,{\blur3}去改变我们关于空间本身的认识{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or just a different concept entirely.{\r}
+Dialogue: 0,0:41:16.59,0:41:19.62,Default,,0000,0000,0000,,{\blur3}有一种可能是 普朗克长度上的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}One possibility is that space at the Planck length{\r}
+Dialogue: 0,0:41:19.65,0:41:22.44,Default,,0000,0000,0000,,{\blur3}类似于足球场上的格子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}resembles the grid on a football field.{\r}
+Dialogue: 0,0:41:23.96,0:41:27.04,Default,,0000,0000,0000,,{\blur3}码线就是我们宇宙的构造{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}The yard lines are the fabric of our universe,{\r}
+Dialogue: 0,0:41:27.12,0:41:29.97,Default,,0000,0000,0000,,{\blur3}在其彼此间没有任何东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there's simply nothing in between.{\r}
+Dialogue: 0,0:41:31.43,0:41:32.83,Default,,0000,0000,0000,,{\blur3}时间应当是从一个单独的点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could be that time jumps{\r}
+Dialogue: 0,0:41:32.86,0:41:34.94,Default,,0000,0000,0000,,{\blur3}跳跃到另一个点{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}from one discrete point to another,{\r}
+Dialogue: 0,0:41:35.12,0:41:37.03,Default,,0000,0000,0000,,{\blur3}中间没有任何过渡{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and there are no steps in between.{\r}
+Dialogue: 0,0:41:37.08,0:41:38.83,Default,,0000,0000,0000,,{\blur3}就象是量子力学上的蚂蚁{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}And, like, little quantum mechanical ants{\r}
+Dialogue: 0,0:41:38.86,0:41:41.20,Default,,0000,0000,0000,,{\blur3}从一个孤立的地点挖掘地道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}could tunnel from one spot on the grid{\r}
+Dialogue: 0,0:41:41.33,0:41:42.36,Default,,0000,0000,0000,,{\blur3}去到另一个孤立的地方{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}to another spot on the grid{\r}
+Dialogue: 0,0:41:42.39,0:41:43.61,Default,,0000,0000,0000,,{\blur3}而不需要进入{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}without ever going{\r}
+Dialogue: 0,0:41:43.64,0:41:45.77,Default,,0000,0000,0000,,{\blur3}两者之间的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}into the intervening space in between.{\r}
+Dialogue: 0,0:41:45.80,0:41:46.57,Default,,0000,0000,0000,,{\blur3}为什么？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Why?{\r}
+Dialogue: 0,0:41:46.59,0:41:49.72,Default,,0000,0000,0000,,{\blur3}因为两者之间没有空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}'Cause there isn't any intervening space in between.{\r}
+Dialogue: 0,0:41:52.29,0:41:55.62,Default,,0000,0000,0000,,{\blur3}无论是什么存在于这个极小尺度上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever exists at this incredibly small scale,{\r}
+Dialogue: 0,0:41:55.65,0:41:59.27,Default,,0000,0000,0000,,{\blur3}大多数科学家相信 空间和时间的概念{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}most scientists believe that the concepts of space and time{\r}
+Dialogue: 0,0:41:59.30,0:42:01.84,Default,,0000,0000,0000,,{\blur3}延伸到另一个缩小的宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}segue into another kind of universe{\r}
+Dialogue: 0,0:42:01.90,0:42:05.65,Default,,0000,0000,0000,,{\blur3}没有任何意义{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}where shrinking smaller is a meaningless concept.{\r}
+Dialogue: 0,0:42:06.69,0:42:08.30,Default,,0000,0000,0000,,{\blur3}应该说 时间和空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It could be that time and space{\r}
+Dialogue: 0,0:42:08.33,0:42:10.95,Default,,0000,0000,0000,,{\blur3}具有我们所说的{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}are what we call emergent properties{\r}
+Dialogue: 0,0:42:11.05,0:42:12.32,Default,,0000,0000,0000,,{\blur3}"宇宙的突现性"{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the universe,{\r}
+Dialogue: 0,0:42:12.40,0:42:16.58,Default,,0000,0000,0000,,{\blur3}但到了非常小的空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but that if you go to very small spatial scales,{\r}
+Dialogue: 0,0:42:16.61,0:42:19.19,Default,,0000,0000,0000,,{\blur3}或者是间隔非常短的时间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or very small intervals of time,{\r}
+Dialogue: 0,0:42:19.58,0:42:22.09,Default,,0000,0000,0000,,{\blur3}时空的概念就被打破了{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}the concepts of time and space break down.{\r}
+Dialogue: 0,0:42:22.12,0:42:23.51,Default,,0000,0000,0000,,{\blur3}变得没有意义{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}They don't make sense.{\r}
+Dialogue: 0,0:42:26.79,0:42:29.52,Default,,0000,0000,0000,,{\blur3}科学家们认为 在普朗克长度下的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Scientists say the conditions at the Planck length{\r}
+Dialogue: 0,0:42:29.55,0:42:32.12,Default,,0000,0000,0000,,{\blur3}可能非常类似于宇宙大爆炸前的环境{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may be very similar to those that existed{\r}
+Dialogue: 0,0:42:32.15,0:42:33.77,Default,,0000,0000,0000,,{\blur3}在那个时候{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before the big bang,{\r}
+Dialogue: 0,0:42:33.86,0:42:35.48,Default,,0000,0000,0000,,{\blur3}宇宙里的一切{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}when everything in our universe{\r}
+Dialogue: 0,0:42:35.50,0:42:39.38,Default,,0000,0000,0000,,{\blur3}很可能集中到一个微小的点上{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}was probably concentrated in a microscopic pinpoint.{\r}
+Dialogue: 0,0:42:40.97,0:42:43.34,Default,,0000,0000,0000,,{\blur3}这与宇宙在最小尺度时{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Maybe the same answers to the question{\r}
+Dialogue: 0,0:42:43.36,0:42:45.87,Default,,0000,0000,0000,,{\blur3}发生了什么事情{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}about what happens to the universe{\r}
+Dialogue: 0,0:42:45.89,0:42:47.73,Default,,0000,0000,0000,,{\blur3}可能是同一个答案吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}at the very smallest scales{\r}
+Dialogue: 0,0:42:47.84,0:42:50.73,Default,,0000,0000,0000,,{\blur3}也许这能让我们知道{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}may also be connected to knowing,{\r}
+Dialogue: 0,0:42:51.31,0:42:54.36,Default,,0000,0000,0000,,{\blur3}宇宙大爆炸之前的样子{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}what was the universe like before the big bang?{\r}
+Dialogue: 0,0:42:54.98,0:42:58.20,Default,,0000,0000,0000,,{\blur3}它在大爆炸的时候 才开始存在吗？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Did it just come into being at the big bang,{\r}
+Dialogue: 0,0:42:58.22,0:42:59.63,Default,,0000,0000,0000,,{\blur3}或者是别的不同的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}or was there something different{\r}
+Dialogue: 0,0:42:59.66,0:43:01.70,Default,,0000,0000,0000,,{\blur3}在我们知道的大爆炸之后{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}which then turned into the universe{\r}
+Dialogue: 0,0:43:01.72,0:43:03.78,Default,,0000,0000,0000,,{\blur3}才变成宇宙？{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}that we're familiar with at the big bang?{\r}
+Dialogue: 0,0:43:04.56,0:43:06.74,Default,,0000,0000,0000,,{\blur3}一切我们不能回答的问题{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}These are all questions we don't know the answer to{\r}
+Dialogue: 0,0:43:06.87,0:43:08.99,Default,,0000,0000,0000,,{\blur3}全都与普朗克长度上的情况{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}but are all connected to the issue{\r}
+Dialogue: 0,0:43:09.02,0:43:10.95,Default,,0000,0000,0000,,{\blur3}有着紧密的联系{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of what's going on at the Planck scale.{\r}
+Dialogue: 0,0:43:11.41,0:43:14.68,Default,,0000,0000,0000,,{\blur3}你可能会想 微小的普朗克长度上的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}You might think that these tiny Planck-scale things{\r}
+Dialogue: 0,0:43:14.70,0:43:17.01,Default,,0000,0000,0000,,{\blur3}与我们这些庞然大物无关{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}have nothing to do with us, who are much bigger.{\r}
+Dialogue: 0,0:43:17.04,0:43:19.83,Default,,0000,0000,0000,,{\blur3}但事实上 它在一切事情上影响着我们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}But actually, it has everything to do with us.{\r}
+Dialogue: 0,0:43:20.27,0:43:21.97,Default,,0000,0000,0000,,{\blur3}它是我们的起源{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's our origins.{\r}
+Dialogue: 0,0:43:22.59,0:43:25.49,Default,,0000,0000,0000,,{\blur3}我们整个宇宙 如果往前推算{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Our entire universe, if we extrapolate backwards,{\r}
+Dialogue: 0,0:43:25.52,0:43:27.48,Default,,0000,0000,0000,,{\blur3}曾经比普朗克长度还小{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}would have been smaller than the Planck length.{\r}
+Dialogue: 0,0:43:30.31,0:43:32.55,Default,,0000,0000,0000,,{\blur3}无论在最小的次原子世界里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}Whatever exists at the smallest scales{\r}
+Dialogue: 0,0:43:32.59,0:43:34.05,Default,,0000,0000,0000,,{\blur3}存在着什么东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of the subatomic world,{\r}
+Dialogue: 0,0:43:34.08,0:43:36.31,Default,,0000,0000,0000,,{\blur3}也不管它们的情况如何{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and however these things behave,{\r}
+Dialogue: 0,0:43:36.32,0:43:38.97,Default,,0000,0000,0000,,{\blur3}科学家们认为 他们必须全部了解它们{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}scientists say they must make sense of it all{\r}
+Dialogue: 0,0:43:38.99,0:43:42.91,Default,,0000,0000,0000,,{\blur3}才有可能去了解整个宇宙{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}before they can possibly comprehend the cosmos above,{\r}
+Dialogue: 0,0:43:43.40,0:43:44.81,Default,,0000,0000,0000,,{\blur3}人类行为{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}human behavior,{\r}
+Dialogue: 0,0:43:46.19,0:43:49.59,Default,,0000,0000,0000,,{\blur3}以及大爆炸之前可能存在的东西{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}and what might have existed before the big bang.{\r}
+Dialogue: 0,0:43:50.48,0:43:53.24,Default,,0000,0000,0000,,{\blur3}这就是研究微观宇宙里{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}It's a mind-boggling amount of information{\r}
+Dialogue: 0,0:43:53.38,0:43:56.79,Default,,0000,0000,0000,,{\blur3}难以想象的小空间{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}tucked inside an unimaginably small space{\r}
+Dialogue: 0,0:43:56.92,0:43:59.92,Default,,0000,0000,0000,,{\blur3}的宏伟意义{\r}\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&\blur3}of our microscopic universe.{\r}

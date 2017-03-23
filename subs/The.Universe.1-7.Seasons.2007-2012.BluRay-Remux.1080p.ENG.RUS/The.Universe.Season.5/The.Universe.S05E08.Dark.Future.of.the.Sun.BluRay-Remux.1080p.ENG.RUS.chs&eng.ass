@@ -1,0 +1,815 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: YYeTs
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:02.30,0:01:06.60,Default,,0000,0000,0001,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:06.65,0:01:09.00,Default,,0000,0000,0008,,{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制&调校:无影  字幕来源:人人影视  招募Q号:76846146{\r}
+Dialogue: 0,0:01:09.00,0:01:11.97,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(149,111)\c&FBF7ED&\fn方正大黑简体\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宇
+Dialogue: 0,0:01:09.00,0:01:11.97,Default,NTP,0000,0000,0000,,{\fe134}{\fad(800,300)\pos(228,111)\c&FBF7ED&\fn方正大黑简体\fs48\shad2\bord0\b1}{\fry90}{\t(0,2000,0.5,\fry0)}{\t(2000,3000,1,\fscx110,\fscy105)}宙
+Dialogue: 0,0:01:09.00,0:01:11.97,Default,NTP,0000,0000,0000,,{\fe134}{\fad(300,300)\pos(192,207)\c&FBF7ED&\3c&HFFFFFF&\fn方正大黑简体\fs24\shad0\bord2\be1}{\t(0,3500,0.5,\c&B59475&,\fscx110,\fscy110)}太 阳 之 死
+Dialogue: 0,0:01:09.00,0:01:11.87,Default,NTP,0000,0000,0000,,{\1c&HFF00FF&\b1}第5季　第8集
+Dialogue: 0,0:00:00.44,0:00:02.82,Default,NTP,0000,0000,0000,,最初  宇宙是一片黑暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning, there was darkness,
+Dialogue: 0,0:00:02.82,0:00:05.58,Default,NTP,0000,0000,0000,,紧接着一声巨响  混沌初开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then, bang, giving birth
+Dialogue: 0,0:00:05.58,0:00:07.45,Default,NTP,0000,0000,0000,,时间  空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to an endless, expanding existence
+Dialogue: 0,0:00:07.45,0:00:09.55,Default,NTP,0000,0000,0000,,开始不断膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space and matter.
+Dialogue: 0,0:00:10.05,0:00:13.59,Default,NTP,0000,0000,0000,,每天  我们都在解密这神秘莫测\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Every day, new discoveries are unlocking the mysterious,
+Dialogue: 0,0:00:13.59,0:00:16.07,Default,NTP,0000,0000,0000,,令人疯狂的极端之地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mind-blowing, the deadly secrets
+Dialogue: 0,0:00:16.07,0:00:19.33,Default,NTP,0000,0000,0000,,宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of a place we call the Universe.
+Dialogue: 0,0:00:21.00,0:00:25.38,Default,NTP,0000,0000,0000,,它是银河系领域末日终结者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the apocalyptic finale of our galactic neighborhood.
+Dialogue: 0,0:00:25.70,0:00:27.48,Default,NTP,0000,0000,0000,,它也许是整个太阳系历史中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Probably the most dramatic event
+Dialogue: 0,0:00:27.48,0:00:29.59,Default,NTP,0000,0000,0000,,最壮观的景象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the entire history of the solar system.
+Dialogue: 0,0:00:30.02,0:00:32.37,Default,NTP,0000,0000,0000,,我们已经知晓这颗母星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've now uncovered sizzling clues
+Dialogue: 0,0:00:32.37,0:00:35.22,Default,NTP,0000,0000,0000,,即将猛烈活动直至死亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about our home star's violent demise.
+Dialogue: 0,0:00:36.56,0:00:39.84,Default,NTP,0000,0000,0000,,这结果似乎对地球极为不利\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the outcome doesn't look good for planet Earth.
+Dialogue: 0,0:00:42.02,0:00:45.49,Default,NTP,0000,0000,0000,,也许被热死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You could experience both death by fire
+Dialogue: 0,0:00:45.71,0:00:47.84,Default,NTP,0000,0000,0000,,也许被冻死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and also death by ice.
+Dialogue: 0,0:00:49.69,0:00:51.82,Default,NTP,0000,0000,0000,,新一代尖端科学发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}New cutting-edge science traces
+Dialogue: 0,0:00:51.82,0:00:54.49,Default,NTP,0000,0000,0000,,待太阳释放出最后能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the real horrors awaiting our planet
+Dialogue: 0,0:00:55.79,0:01:00.11,Default,NTP,0000,0000,0000,,极度恐慌就将降临到地球上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as our Sun unleashes its final fury.
+Dialogue: 0,0:01:00.14,0:01:02.22,Default,NTP,0000,0000,0000,,一切均将灭亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The kiss of death for everything.
+Dialogue: 0,0:01:15.83,0:01:17.18,Default,NTP,0000,0000,0000,,我们的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Sun.
+Dialogue: 0,0:01:18.05,0:01:20.66,Default,NTP,0000,0000,0000,,已经用光亮和能量孕育了我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's bathed us wth light and energy
+Dialogue: 0,0:01:20.66,0:01:23.79,Default,NTP,0000,0000,0000,,45亿余年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for over 4.5 billion years.
+Dialogue: 0,0:01:26.37,0:01:28.61,Default,NTP,0000,0000,0000,,然而像宇宙万物一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But like all things in the cosmos,
+Dialogue: 0,0:01:29.34,0:01:32.42,Default,NTP,0000,0000,0000,,我们的母星最终会走向灭亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our nurturing star will eventually die.
+Dialogue: 0,0:01:37.49,0:01:41.50,Default,NTP,0000,0000,0000,,地球也将随之逐渐消亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And Earth could literally melt into the sunset.
+Dialogue: 0,0:01:44.14,0:01:47.85,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克雷格·德福斯特\N美国西南研究院
+Dialogue: 0,0:01:43.52,0:01:46.20,Default,NTP,0000,0000,0000,,当太阳光亮比现在增强一百倍时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Sun gets a hundred times brighter than it is now,
+Dialogue: 0,0:01:46.25,0:01:49.48,Default,NTP,0000,0000,0000,,整个地球表面将化为灰烬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the entire surface of the Earth will be incinerated.
+Dialogue: 0,0:01:50.04,0:01:52.65,Default,NTP,0000,0000,0000,,组成陆地的岩石也将熔化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the rock that composes the continents will melt
+Dialogue: 0,0:01:52.65,0:01:55.65,Default,NTP,0000,0000,0000,,并汇合成为大面积熔岩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and run into seas of molten lava.
+Dialogue: 0,0:01:56.12,0:01:58.00,Default,NTP,0000,0000,0000,,地球将不再适宜居住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Earth will be uninhabitable.
+Dialogue: 0,0:02:01.04,0:02:02.43,Default,NTP,0000,0000,0000,,太阳之死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The death of our Sun
+Dialogue: 0,0:02:02.43,0:02:06.22,Default,NTP,0000,0000,0000,,对宇宙影响深远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will have a profound effect on our cosmic world.
+Dialogue: 0,0:02:07.14,0:02:09.20,Default,NTP,0000,0000,0000,,我们依赖着母星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We rely on our home star,
+Dialogue: 0,0:02:09.24,0:02:12.20,Default,NTP,0000,0000,0000,,它位于太阳系的中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}located in the center of our solar system.
+Dialogue: 0,0:02:14.65,0:02:17.46,Default,NTP,0000,0000,0000,,这个巨大熔岩球体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Over one million Earths could easily fit
+Dialogue: 0,0:02:17.46,0:02:20.75,Default,NTP,0000,0000,0000,,能够轻松装下百万余个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}inside this gargantuan ball of bubbling gas
+Dialogue: 0,0:02:21.03,0:02:25.21,Default,NTP,0000,0000,0000,,其内核温度达到三千万华氏度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with core temperatures reaching 30 million degrees Fahrenheit.
+Dialogue: 0,0:02:26.84,0:02:30.52,Default,NTP,0000,0000,0000,,太阳距离我们大约九千三百万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun is approximately 93 million miles away,
+Dialogue: 0,0:02:31.24,0:02:34.94,Default,NTP,0000,0000,0000,,因此地球表面冷热适宜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so Earth is not too hot or too cold.
+Dialogue: 0,0:02:36.15,0:02:38.92,Default,NTP,0000,0000,0000,,这是形成液态海水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the perfect distance to sustain oceans
+Dialogue: 0,0:02:38.92,0:02:42.40,Default,NTP,0000,0000,0000,,和多样生物的完美距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of liquid water and abundant life.
+Dialogue: 0,0:02:48.82,0:02:52.46,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:02:48.25,0:02:49.91,Default,NTP,0000,0000,0000,,我们的生存特别依赖于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're incredibly dependent
+Dialogue: 0,0:02:49.96,0:02:52.13,Default,NTP,0000,0000,0000,,太阳所提供的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on the Sun's energy for our survival.
+Dialogue: 0,0:02:52.33,0:02:56.67,Default,NTP,0000,0000,0000,,首先  植物利用阳光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First and foremost, plants utilize solar energy
+Dialogue: 0,0:02:56.71,0:02:59.65,Default,NTP,0000,0000,0000,,进行光合作用  才能够生长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in photosynthesis so that they can grow.
+Dialogue: 0,0:02:59.70,0:03:01.85,Default,NTP,0000,0000,0000,,然后我们利用植物获取食物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And then, we use plants for food
+Dialogue: 0,0:03:01.85,0:03:02.88,Default,NTP,0000,0000,0000,,其他动物也是如此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so do other animals,
+Dialogue: 0,0:03:02.88,0:03:04.61,Default,NTP,0000,0000,0000,,我们也食用那些动物的肉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And we eat those other animals.
+Dialogue: 0,0:03:04.83,0:03:07.60,Default,NTP,0000,0000,0000,,我们还使用由腐烂植物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We also use the fossil fuels
+Dialogue: 0,0:03:07.71,0:03:10.46,Default,NTP,0000,0000,0000,,转变来的矿物燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from partially decayed plants.
+Dialogue: 0,0:03:10.51,0:03:14.45,Default,NTP,0000,0000,0000,,风能也是由太阳热量产生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Winds are also generated by the Sun's heat.
+Dialogue: 0,0:03:14.97,0:03:17.52,Default,NTP,0000,0000,0000,,我们随处都在利用太阳能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We're using solar energy everywhere.
+Dialogue: 0,0:03:20.67,0:03:22.76,Default,NTP,0000,0000,0000,,所有这些赋予生命的热能和光能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All this life-giving heat and light
+Dialogue: 0,0:03:22.76,0:03:24.43,Default,NTP,0000,0000,0000,,都来自于太阳内核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}comes from the Sun's core,
+Dialogue: 0,0:03:27.50,0:03:30.25,Default,NTP,0000,0000,0000,,这里就像个巨大的核反应堆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a colossal nuclear reactor comprised of
+Dialogue: 0,0:03:30.25,0:03:33.41,Default,NTP,0000,0000,0000,,四分之三是氢气  余下为氦气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}three-quarters hydrogen and the rest mostly helium
+Dialogue: 0,0:03:33.41,0:03:35.65,Default,NTP,0000,0000,0000,,还有少量重元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with traces of heavier elements.
+Dialogue: 0,0:03:38.30,0:03:43.25,Default,NTP,0000,0000,0000,,在这里  氢原子核组合形成氦原子核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here, hydrogen nuclei combine to form helium nuclei.
+Dialogue: 0,0:03:44.08,0:03:48.51,Default,NTP,0000,0000,0000,,这个过程称为聚变  能够释放辐射能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This process called fusion gives off radiant energy.
+Dialogue: 0,0:03:50.38,0:03:54.22,Default,NTP,0000,0000,0000,,这辆车就好比刚生成时的恒星太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This car is like a newly formed star like the Sun.
+Dialogue: 0,0:03:57.13,0:03:59.91,Default,NTP,0000,0000,0000,,当太阳诞生时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a star like the Sun is born,
+Dialogue: 0,0:03:59.93,0:04:02.73,Default,NTP,0000,0000,0000,,随之诞生的还有一整箱油\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's born with a full tank of gas.
+Dialogue: 0,0:04:03.42,0:04:07.21,Default,NTP,0000,0000,0000,,如果我将油箱灌满\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if I fill this tank with gas,
+Dialogue: 0,0:04:09.07,0:04:12.56,Default,NTP,0000,0000,0000,,就像氢元素被吸引到一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's like the hydrogen coming together gravitationally,
+Dialogue: 0,0:04:12.61,0:04:15.21,Default,NTP,0000,0000,0000,,组成一个炙热高密度内核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}forming a hot, dense core.
+Dialogue: 0,0:04:15.49,0:04:17.80,Default,NTP,0000,0000,0000,,油继而燃烧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That gas will later burn.
+Dialogue: 0,0:04:17.86,0:04:18.98,Default,NTP,0000,0000,0000,,在恒星中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the case of a star,
+Dialogue: 0,0:04:18.98,0:04:21.08,Default,NTP,0000,0000,0000,,氢元素将融合组成氦元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hydrogen will fuse to form helium,
+Dialogue: 0,0:04:21.11,0:04:23.13,Default,NTP,0000,0000,0000,,向恒星供给能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving the star energy.
+Dialogue: 0,0:04:23.16,0:04:26.65,Default,NTP,0000,0000,0000,,就像油在车里燃烧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just as in the case of the gas burning in the car,
+Dialogue: 0,0:04:26.68,0:04:29.82,Default,NTP,0000,0000,0000,,将提供车运动所需能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that'll give the car energy with which to move.
+Dialogue: 0,0:04:31.17,0:04:32.53,Default,NTP,0000,0000,0000,,就像一辆汽车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like an automobile,
+Dialogue: 0,0:04:32.53,0:04:35.02,Default,NTP,0000,0000,0000,,太阳也会耗尽燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Sun will eventually run out of fuel,
+Dialogue: 0,0:04:36.81,0:04:40.47,Default,NTP,0000,0000,0000,,地球也将失去这个赖以生存的能量之源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and Earth will be without this crucial power source.
+Dialogue: 0,0:04:41.73,0:04:44.53,Default,NTP,0000,0000,0000,,氢元素聚合生成氦元素的不对称比例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The rate at which it's fusing hydrogen into helium,
+Dialogue: 0,0:04:44.58,0:04:47.78,Default,NTP,0000,0000,0000,,最终会导致内核中氢元素耗尽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will someday simply run out of hydrogen in its core.
+Dialogue: 0,0:04:47.83,0:04:50.11,Default,NTP,0000,0000,0000,,这可以借鉴其他类似星体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can see other similar stars
+Dialogue: 0,0:04:50.11,0:04:52.39,Default,NTP,0000,0000,0000,,它们诞生时间早于太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that were born much earlier than the Sun,
+Dialogue: 0,0:04:52.41,0:04:54.26,Default,NTP,0000,0000,0000,,现在已经逐渐消亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they're now dying.
+Dialogue: 0,0:04:59.48,0:05:01.88,Default,NTP,0000,0000,0000,,为了追踪太阳之死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To track our Sun's dark future,
+Dialogue: 0,0:05:01.92,0:05:05.64,Default,NTP,0000,0000,0000,,我们回到了它诞生之时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we travel back in time to its beginning.
+Dialogue: 0,0:05:09.84,0:05:14.31,Default,NTP,0000,0000,0000,,这些奇异的气体云雾被称做星云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These exotic clouds of gas and dust are called nebulas.
+Dialogue: 0,0:05:15.95,0:05:19.39,Default,NTP,0000,0000,0000,,由正在消亡的天体残余物组成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They consist of the remnants of dying stars.
+Dialogue: 0,0:05:21.33,0:05:23.30,Default,NTP,0000,0000,0000,,但根据最新研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But upon closer observation,
+Dialogue: 0,0:05:23.35,0:05:25.82,Default,NTP,0000,0000,0000,,它们是孕育\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they're actually stellar nurseries
+Dialogue: 0,0:05:26.07,0:05:28.99,Default,NTP,0000,0000,0000,,恒星的温床\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where stars like our Sun were born.
+Dialogue: 0,0:05:33.80,0:05:37.50,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}道格·邓肯\N科罗拉多大学
+Dialogue: 0,0:05:30.81,0:05:34.50,Default,NTP,0000,0000,0000,,大约四十五亿年前的银河系中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About 4 1/2 billion years ago in our galaxy,
+Dialogue: 0,0:05:34.50,0:05:37.13,Default,NTP,0000,0000,0000,,一团巨大的气体云雾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a giant cloud of gas and dust
+Dialogue: 0,0:05:37.17,0:05:40.08,Default,NTP,0000,0000,0000,,在引力的作用下逐渐聚集起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}gradually was pulled together by gravity.
+Dialogue: 0,0:05:40.42,0:05:43.26,Default,NTP,0000,0000,0000,,当引力作用使得星云崩溃时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as gravity caused that cloud to collapse,
+Dialogue: 0,0:05:43.30,0:05:44.99,Default,NTP,0000,0000,0000,,大量能量释放出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a lot of energy was released,
+Dialogue: 0,0:05:45.04,0:05:47.87,Default,NTP,0000,0000,0000,,中心地带急速升温\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it heated up and finally, in the center,
+Dialogue: 0,0:05:47.91,0:05:51.45,Default,NTP,0000,0000,0000,,核反应开始促使氢元素转变为氦元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nuclear reaction started changing hydrogen into helium
+Dialogue: 0,0:05:51.49,0:05:53.50,Default,NTP,0000,0000,0000,,一颗新星就这样诞生了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and a new star was born.
+Dialogue: 0,0:05:55.80,0:05:59.69,Default,NTP,0000,0000,0000,,余下的星际物质围绕新生太阳转动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The remaining stellar material swirled around the newborn Sun.
+Dialogue: 0,0:06:00.39,0:06:02.38,Default,NTP,0000,0000,0000,,发生碰撞并接合在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It collided and coalesced,
+Dialogue: 0,0:06:02.42,0:06:04.57,Default,NTP,0000,0000,0000,,最终形成太阳系的八个星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}eventually sculpting the eight planets
+Dialogue: 0,0:06:04.57,0:06:07.53,Default,NTP,0000,0000,0000,,同时包括地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in our solar system including Earth.
+Dialogue: 0,0:06:09.60,0:06:11.63,Default,NTP,0000,0000,0000,,当时  星风开始将\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When that happened, a stellar wind turned on
+Dialogue: 0,0:06:11.63,0:06:13.94,Default,NTP,0000,0000,0000,,所有其他物质清理干净\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and cleared out all the extra material
+Dialogue: 0,0:06:14.55,0:06:16.08,Default,NTP,0000,0000,0000,,只留下了我们现在所知的星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leaving the planets that we have today
+Dialogue: 0,0:06:16.08,0:06:17.35,Default,NTP,0000,0000,0000,,和其他一些天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and additional bodies,
+Dialogue: 0,0:06:17.35,0:06:19.94,Default,NTP,0000,0000,0000,,其中有些发生碰撞或与其他星球融为一体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some of which collided or merged with the other planets.
+Dialogue: 0,0:06:21.90,0:06:25.09,Default,NTP,0000,0000,0000,,在宇宙无数的发光源之中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Among the billions of points of light in the universe,
+Dialogue: 0,0:06:25.13,0:06:27.63,Default,NTP,0000,0000,0000,,我们的太阳只是一个普通的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our Sun is an average star.
+Dialogue: 0,0:06:28.60,0:06:31.58,Default,NTP,0000,0000,0000,,还有比它大一百倍的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are stars 100 times its mass.
+Dialogue: 0,0:06:33.45,0:06:35.57,Default,NTP,0000,0000,0000,,太阳真实的颜色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And contrary to its appearance,
+Dialogue: 0,0:06:35.61,0:06:37.09,Default,NTP,0000,0000,0000,,与日升日落时呈现的颜色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the true color of the Sun
+Dialogue: 0,0:06:37.13,0:06:40.74,Default,NTP,0000,0000,0000,,大不相同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}differs from what we see when it rises and sets.
+Dialogue: 0,0:06:44.09,0:06:47.12,Default,NTP,0000,0000,0000,,太阳其实是个白色天体  并非黄色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun is actually a white star, not a yellow star.
+Dialogue: 0,0:06:47.12,0:06:49.29,Default,NTP,0000,0000,0000,,白得像这辆车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's white like this car.
+Dialogue: 0,0:06:49.54,0:06:52.40,Default,NTP,0000,0000,0000,,光谱的峰值\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, it's true that the peak of its spectrum
+Dialogue: 0,0:06:52.40,0:06:54.58,Default,NTP,0000,0000,0000,,是黄色光波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is sort of in the yellow region,
+Dialogue: 0,0:06:54.70,0:06:57.78,Default,NTP,0000,0000,0000,,但也发出一些蓝光和绿光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it also emits some blue light and green light,
+Dialogue: 0,0:06:57.78,0:06:59.28,Default,NTP,0000,0000,0000,,还有橙色  红色光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and orange and red.
+Dialogue: 0,0:06:59.32,0:07:01.31,Default,NTP,0000,0000,0000,,所有这些颜色聚集在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And all those colors together
+Dialogue: 0,0:07:01.31,0:07:04.31,Default,NTP,0000,0000,0000,,被我们的视网膜和大脑所接收\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are perceived by our retina and our brain
+Dialogue: 0,0:07:04.35,0:07:05.97,Default,NTP,0000,0000,0000,,就成为白色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the color white.
+Dialogue: 0,0:07:09.15,0:07:11.93,Default,NTP,0000,0000,0000,,太阳和我们人类有很多共同之处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Sun has a lot in common with humans.
+Dialogue: 0,0:07:12.86,0:07:13.88,Default,NTP,0000,0000,0000,,当它年轻时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it was young,
+Dialogue: 0,0:07:13.88,0:07:17.70,Default,NTP,0000,0000,0000,,十分活跃毫无规律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it was extremely active and often unpredictable.
+Dialogue: 0,0:07:19.48,0:07:22.43,Default,NTP,0000,0000,0000,,我们发现它真是惊奇之物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What we found was really very surprising.
+Dialogue: 0,0:07:22.48,0:07:24.42,Default,NTP,0000,0000,0000,,当类似太阳的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We found that stars like the Sun,
+Dialogue: 0,0:07:24.42,0:07:25.61,Default,NTP,0000,0000,0000,,在年轻时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when they're very young,
+Dialogue: 0,0:07:25.61,0:07:28.41,Default,NTP,0000,0000,0000,,转速比现在快很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are rotating much, much faster than today.
+Dialogue: 0,0:07:28.45,0:07:30.54,Default,NTP,0000,0000,0000,,想象一颗飞速旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you can imagine something as big as the Sun
+Dialogue: 0,0:07:30.54,0:07:34.26,Default,NTP,0000,0000,0000,,自转周期只有一天或者更短的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just whipping around in one day or even less,
+Dialogue: 0,0:07:34.26,0:07:36.35,Default,NTP,0000,0000,0000,,那可就大不一样了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was a very different kind of Sun.
+Dialogue: 0,0:07:36.35,0:07:38.44,Default,NTP,0000,0000,0000,,上面会发生各种爆炸与喷发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's having all kinds of eruptions
+Dialogue: 0,0:07:39.68,0:07:43.46,Default,NTP,0000,0000,0000,,不断地向地球发射出粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that blasted particles through space that hit the Earth.
+Dialogue: 0,0:07:47.05,0:07:49.33,Default,NTP,0000,0000,0000,,但是如今  我们的太阳只是中年寿命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now, our Sun is middle-aged
+Dialogue: 0,0:07:49.59,0:07:52.76,Default,NTP,0000,0000,0000,,运行平和  规律而稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and has settled into a quieter, regular schedule.
+Dialogue: 0,0:07:53.51,0:07:56.05,Default,NTP,0000,0000,0000,,同时仍然释放着能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's still generating a lot of energy.
+Dialogue: 0,0:07:58.11,0:08:01.90,Default,NTP,0000,0000,0000,,如今的太阳  已经45亿岁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun, right now, is about 4 1/2 billion years old.
+Dialogue: 0,0:08:02.20,0:08:04.98,Default,NTP,0000,0000,0000,,几乎达到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's slightly under
+Dialogue: 0,0:08:05.00,0:08:08.57,Default,NTP,0000,0000,0000,,其既定寿命的一半\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}half of its total anticipated lifetime.
+Dialogue: 0,0:08:08.61,0:08:10.54,Default,NTP,0000,0000,0000,,就好像是这辆车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's kind of like this car
+Dialogue: 0,0:08:10.58,0:08:14.51,Default,NTP,0000,0000,0000,,油箱里的油即将消耗一半\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a little bit more than half of its tank still full.
+Dialogue: 0,0:08:15.52,0:08:18.59,Default,NTP,0000,0000,0000,,太阳以稳定然剧烈的速率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun now is burning fuel...
+Dialogue: 0,0:08:18.59,0:08:20.88,Default,NTP,0000,0000,0000,,消耗燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is, fusing hydrogen to helium...
+Dialogue: 0,0:08:21.11,0:08:23.68,Default,NTP,0000,0000,0000,,即氢氦核聚变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a steady but ferocious rate.
+Dialogue: 0,0:08:23.72,0:08:28.60,Default,NTP,0000,0000,0000,,这就好像是一颗900亿吨级的炸弹\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like a 90 billion megaton bomb
+Dialogue: 0,0:08:28.65,0:08:30.72,Default,NTP,0000,0000,0000,,接二连三不间歇地爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}going off every second.
+Dialogue: 0,0:08:30.76,0:08:33.31,Default,NTP,0000,0000,0000,,真是强大得不可思议\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's just an incredible amount of power.
+Dialogue: 0,0:08:37.67,0:08:40.13,Default,NTP,0000,0000,0000,,身居地球  事实上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, we're actually only receiving
+Dialogue: 0,0:08:40.13,0:08:42.39,Default,NTP,0000,0000,0000,,我们只接收到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about one 2-billionth of the energy
+Dialogue: 0,0:08:42.39,0:08:43.86,Default,NTP,0000,0000,0000,,太阳产生的能量的五亿分之一\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's being produced at the Sun.
+Dialogue: 0,0:08:43.93,0:08:48.17,Default,NTP,0000,0000,0000,,以我们如今的科技水平\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, on a daily basis, that's enough energy to power
+Dialogue: 0,0:08:47.15,0:08:50.88,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}霍莉·吉尔伯特\N国家航空航天局戈达航天中心
+Dialogue: 0,0:08:48.17,0:08:50.88,Default,NTP,0000,0000,0000,,这足以支持2.9亿亿颗100瓦的灯泡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 29 million billion
+Dialogue: 0,0:08:50.88,0:08:53.60,Default,NTP,0000,0000,0000,,同时点亮一小时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}100-watt light bulbs for one hour.
+Dialogue: 0,0:08:53.94,0:08:56.16,Default,NTP,0000,0000,0000,,从太阳内部产生的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The amount of energy being generated
+Dialogue: 0,0:08:56.16,0:08:58.29,Default,NTP,0000,0000,0000,,实在是巨大得难以计量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the interior of the Sun is just enormous.
+Dialogue: 0,0:08:59.88,0:09:01.15,Default,NTP,0000,0000,0000,,太阳将持续这种活动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Sun will continue
+Dialogue: 0,0:09:01.15,0:09:03.98,Default,NTP,0000,0000,0000,,生产能量  并如此穷尽毕生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to churn out energy over its entire lifetime,
+Dialogue: 0,0:09:04.48,0:09:08.07,Default,NTP,0000,0000,0000,,据估算  也就是还有120亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is estimated to be around 12 billion years.
+Dialogue: 0,0:09:09.13,0:09:13.21,Default,NTP,0000,0000,0000,,二十世纪九十年代  科学家们通过测算\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the 1990s, scientists confirmed its age
+Dialogue: 0,0:09:13.23,0:09:14.97,Default,NTP,0000,0000,0000,,太阳的亮度和初始质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and when it will die
+Dialogue: 0,0:09:15.62,0:09:18.68,Default,NTP,0000,0000,0000,,同时对其声波进行分析\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by measuring its brightness and original mass
+Dialogue: 0,0:09:18.82,0:09:22.22,Default,NTP,0000,0000,0000,,得出了它的年龄与确切死期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as well as analyzing its sound waves.
+Dialogue: 0,0:09:23.08,0:09:24.47,Default,NTP,0000,0000,0000,,光线是无法通过太阳的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Light doesn't penetrate the Sun.
+Dialogue: 0,0:09:24.47,0:09:25.50,Default,NTP,0000,0000,0000,,因为它不透明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's opaque.
+Dialogue: 0,0:09:25.50,0:09:27.37,Default,NTP,0000,0000,0000,,这听上去很奇怪  因为光线正是来自于太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That sounds strange because light comes from the Sun,
+Dialogue: 0,0:09:27.40,0:09:29.61,Default,NTP,0000,0000,0000,,却无法穿过它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but light can't pass through it.
+Dialogue: 0,0:09:29.65,0:09:31.39,Default,NTP,0000,0000,0000,,因此直到近些年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So until recently, there was no way
+Dialogue: 0,0:09:31.39,0:09:33.60,Default,NTP,0000,0000,0000,,我们才找到办法侦测太阳内部的深层地带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to probe the deep interior of the Sun.
+Dialogue: 0,0:09:33.65,0:09:36.24,Default,NTP,0000,0000,0000,,是种被称为的太阳地震学的科学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a science now called helioseismology
+Dialogue: 0,0:09:36.24,0:09:38.35,Default,NTP,0000,0000,0000,,利用声波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that uses sound waves to actually probe
+Dialogue: 0,0:09:38.35,0:09:39.98,Default,NTP,0000,0000,0000,,侦测太阳内部结构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the interior structure of the Sun.
+Dialogue: 0,0:09:39.98,0:09:42.06,Default,NTP,0000,0000,0000,,我们因而才弄清楚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so we have a very good knowledge
+Dialogue: 0,0:09:42.06,0:09:44.86,Default,NTP,0000,0000,0000,,太阳的内部结构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of what the interior structure of the star looks like,
+Dialogue: 0,0:09:44.89,0:09:47.33,Default,NTP,0000,0000,0000,,并且得以缩小范围和最终确定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's allowed us to constrain and confirm
+Dialogue: 0,0:09:47.37,0:09:50.19,Default,NTP,0000,0000,0000,,太阳的准确年龄与进化过程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the models of the Sun's age and its evolution.
+Dialogue: 0,0:09:53.12,0:09:58.07,Default,NTP,0000,0000,0000,,奇怪的是  太阳比初生时亮度增加了30%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Strangely, our Sun is now 30% brighter than it was at birth.
+Dialogue: 0,0:09:58.55,0:09:59.75,Default,NTP,0000,0000,0000,,随着年岁的增长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As it ages,
+Dialogue: 0,0:09:59.79,0:10:03.95,Default,NTP,0000,0000,0000,,还将变得更加明亮和强大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will gradually grow even brighter and more powerful.
+Dialogue: 0,0:10:05.69,0:10:09.67,Default,NTP,0000,0000,0000,,地球上的气候对太阳能量的波动非常敏感\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our climate is very sensitive to the energy from the Sun.
+Dialogue: 0,0:10:09.73,0:10:11.61,Default,NTP,0000,0000,0000,,因此  如果你仍在操心人类的所作所为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if you're worried about global warming,
+Dialogue: 0,0:10:11.61,0:10:14.47,Default,NTP,0000,0000,0000,,对全球变暖的激烈影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you worry about what humans are doing to the atmosphere,
+Dialogue: 0,0:10:14.51,0:10:15.84,Default,NTP,0000,0000,0000,,同时也要明白\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but you also need to know
+Dialogue: 0,0:10:15.84,0:10:18.63,Default,NTP,0000,0000,0000,,太阳也在干扰大气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what the Sun is doing to the atmosphere.
+Dialogue: 0,0:10:18.67,0:10:23.23,Default,NTP,0000,0000,0000,,最新的估测结果指出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The most recent estimate says that maybe 20%
+Dialogue: 0,0:10:23.27,0:10:25.11,Default,NTP,0000,0000,0000,,全球变暖20%的热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of all the warming that's happening,
+Dialogue: 0,0:10:25.11,0:10:27.46,Default,NTP,0000,0000,0000,,取决于太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the global warming, is due to the Sun.
+Dialogue: 0,0:10:34.17,0:10:38.54,Default,NTP,0000,0000,0000,,十亿年后  地球表面能见度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In one-billion years, our star's luminosity
+Dialogue: 0,0:10:39.86,0:10:41.91,Default,NTP,0000,0000,0000,,将增强10%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be 10% greater
+Dialogue: 0,0:10:46.73,0:10:50.85,Default,NTP,0000,0000,0000,,温度也将上升100度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and temperatures on our planet will be 100 degrees hotter.
+Dialogue: 0,0:10:55.50,0:10:57.14,Default,NTP,0000,0000,0000,,空气中的水分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The moisture in the air
+Dialogue: 0,0:10:57.14,0:11:01.20,Default,NTP,0000,0000,0000,,很好的吸收了红外线与热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is very good at trapping infrared radiation or heat.
+Dialogue: 0,0:11:01.42,0:11:04.16,Default,NTP,0000,0000,0000,,就好像是给地球裹上了一层毛毯\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so it's sort of like putting a blanket on the Earth.
+Dialogue: 0,0:11:04.19,0:11:06.02,Default,NTP,0000,0000,0000,,由此带来的恶劣影响是这样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, here is the bad part.
+Dialogue: 0,0:11:06.02,0:11:07.55,Default,NTP,0000,0000,0000,,随着地球变暖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Earth warms up,
+Dialogue: 0,0:11:07.57,0:11:09.78,Default,NTP,0000,0000,0000,,海洋将加剧蒸发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the oceans evaporate even more,
+Dialogue: 0,0:11:09.81,0:11:10.93,Default,NTP,0000,0000,0000,,导致更多的热量被锁定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we trap more heat
+Dialogue: 0,0:11:10.93,0:11:12.78,Default,NTP,0000,0000,0000,,然后地球会加剧变暖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so the Earth warms up more.
+Dialogue: 0,0:11:12.84,0:11:15.17,Default,NTP,0000,0000,0000,,然后当地球变暖加剧  再一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And when the Earth warms up more, again,
+Dialogue: 0,0:11:15.17,0:11:18.57,Default,NTP,0000,0000,0000,,更多的热量被锁定  恶性循环  循循不息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we trap even more heat and the effect can run away.
+Dialogue: 0,0:11:18.62,0:11:21.22,Default,NTP,0000,0000,0000,,这就是温室效应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's what we call the Greenhouse Effect.
+Dialogue: 0,0:11:23.90,0:11:27.59,Default,NTP,0000,0000,0000,,脱缰的温室效应导致的气温飙升\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With this surge of heat due to the runaway Greenhouse Effect,
+Dialogue: 0,0:11:28.15,0:11:30.78,Default,NTP,0000,0000,0000,,关系地球上生物的生死存亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}life on Earth will be in peril.
+Dialogue: 0,0:11:32.47,0:11:34.54,Default,NTP,0000,0000,0000,,届时  所有的生物群\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Whole societies will need to retreat
+Dialogue: 0,0:11:34.54,0:11:37.04,Default,NTP,0000,0000,0000,,将只好退避到地下遮蔽处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to underground shelters during the day,
+Dialogue: 0,0:11:37.08,0:11:40.08,Default,NTP,0000,0000,0000,,只有在夜晚气温降下的时候  才能走上地面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then emerge at night when the temperature cools down.
+Dialogue: 0,0:11:41.04,0:11:43.51,Default,NTP,0000,0000,0000,,然而随着温度不断攀升\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But as the thermometer continues to climb,
+Dialogue: 0,0:11:43.56,0:11:47.55,Default,NTP,0000,0000,0000,,终将无处可藏身\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}there eventually will be nowhere to run or hide.
+Dialogue: 0,0:11:48.91,0:11:51.29,Default,NTP,0000,0000,0000,,最终的结果是已知的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We know how that story ends.
+Dialogue: 0,0:11:51.33,0:11:53.48,Default,NTP,0000,0000,0000,,那就是  金星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's called the planet Venus.
+Dialogue: 0,0:11:53.66,0:11:55.14,Default,NTP,0000,0000,0000,,想想看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you think about it,
+Dialogue: 0,0:11:55.18,0:12:00.29,Default,NTP,0000,0000,0000,,金星距离太阳只比地日距离短30%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Venus is only about 30% closer to the Sun than the Earth is,
+Dialogue: 0,0:12:00.34,0:12:03.59,Default,NTP,0000,0000,0000,,但是却热上很多  温度高达800度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's way, way, way hotter, 800 degrees.
+Dialogue: 0,0:12:03.64,0:12:06.71,Default,NTP,0000,0000,0000,,目前我们还没有掌握\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't quite have the technology that would allow us
+Dialogue: 0,0:12:06.71,0:12:09.08,Default,NTP,0000,0000,0000,,能够在金星表面生存的技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to survive on the surface of Venus,
+Dialogue: 0,0:12:09.12,0:12:11.49,Default,NTP,0000,0000,0000,,但是可以推断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but we could imagine what would be required,
+Dialogue: 0,0:12:11.52,0:12:13.56,Default,NTP,0000,0000,0000,,隔热是必要前提\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}insulating yourself from the heat.
+Dialogue: 0,0:12:13.58,0:12:15.90,Default,NTP,0000,0000,0000,,这将是个巨大挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it would be a challenge.
+Dialogue: 0,0:12:18.35,0:12:20.10,Default,NTP,0000,0000,0000,,30亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 3 billion years,
+Dialogue: 0,0:12:20.10,0:12:23.19,Default,NTP,0000,0000,0000,,太阳的亮度会增加40%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our Sun's brightness sill increase 40%.
+Dialogue: 0,0:12:23.22,0:12:26.37,Default,NTP,0000,0000,0000,,至那时  海洋将被烤干\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By this time, oceans will have boiled off.
+Dialogue: 0,0:12:28.90,0:12:32.86,Default,NTP,0000,0000,0000,,地球变成沙漠之球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth will have become a global desert.
+Dialogue: 0,0:12:34.90,0:12:37.28,Default,NTP,0000,0000,0000,,太阳会因氢氦核聚变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun will have used up about three-quarters
+Dialogue: 0,0:12:37.28,0:12:40.63,Default,NTP,0000,0000,0000,,耗尽内部四分之三的氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the hydrogen in its core fused to helium,
+Dialogue: 0,0:12:41.14,0:12:44.11,Default,NTP,0000,0000,0000,,就好像这辆车  已经消耗了四分之三的燃油\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like this car is three-quarters empty.
+Dialogue: 0,0:12:44.63,0:12:46.93,Default,NTP,0000,0000,0000,,届时  太阳会比如今明亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By this time, the Sun will be brighter
+Dialogue: 0,0:12:46.93,0:12:49.46,Default,NTP,0000,0000,0000,,并且体积也更大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than it is now and bigger.
+Dialogue: 0,0:12:49.76,0:12:51.61,Default,NTP,0000,0000,0000,,因此  地球会变得更热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So Earth will be hotter.
+Dialogue: 0,0:12:52.14,0:12:54.74,Default,NTP,0000,0000,0000,,而不再是生命的乐土\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It won't be a nice place to live at that time.
+Dialogue: 0,0:12:57.99,0:13:01.46,Default,NTP,0000,0000,0000,,然而噩梦还远没有结束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the solar nightmare is far from over.
+Dialogue: 0,0:13:03.46,0:13:07.53,Default,NTP,0000,0000,0000,,当太阳寿命超过100亿岁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Sun nears its ten billionth birthday and beyond,
+Dialogue: 0,0:13:08.53,0:13:11.58,Default,NTP,0000,0000,0000,,将发生终极质变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the most drastic changes will occur.
+Dialogue: 0,0:13:15.58,0:13:18.61,Default,NTP,0000,0000,0000,,当太阳覆盖了整个地平线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If human-type civilizations are still around,
+Dialogue: 0,0:13:19.72,0:13:22.14,Default,NTP,0000,0000,0000,,如若人类文化仍在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what will be the options for survival
+Dialogue: 0,0:13:22.36,0:13:26.77,Default,NTP,0000,0000,0000,,将何去何从\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when our Sun eventually fills the entire horizon?
+Dialogue: 0,0:13:32.07,0:13:34.41,Default,NTP,0000,0000,0000,,结局是注定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a foregone conclusion.
+Dialogue: 0,0:13:34.70,0:13:38.07,Default,NTP,0000,0000,0000,,当太阳达到100亿岁寿命的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Sun is about 10 billion years old,
+Dialogue: 0,0:13:38.59,0:13:41.76,Default,NTP,0000,0000,0000,,会耗尽内部所有的氢燃料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will run out of hydrogen fuel in its core.
+Dialogue: 0,0:13:42.99,0:13:45.89,Default,NTP,0000,0000,0000,,也就吹响了这颗恒星的死亡号角\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's the beginning of the end for our star,
+Dialogue: 0,0:13:46.05,0:13:48.40,Default,NTP,0000,0000,0000,,并且  它不会静静地死去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it won't die peacefully.
+Dialogue: 0,0:13:51.10,0:13:55.69,Default,NTP,0000,0000,0000,,对地球来说  全球变暖以及其他的各种灾祸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As for Earth, global warming or other cataclysms
+Dialogue: 0,0:13:58.12,0:14:03.27,Default,NTP,0000,0000,0000,,仅仅10亿年后就将灭绝所有生物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could snuff out every living thing in a mere 1 billion years.
+Dialogue: 0,0:14:05.81,0:14:09.69,Default,NTP,0000,0000,0000,,就算那时  人类的后代找到了生存的方法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if human descendants somehow manage to survive until then,
+Dialogue: 0,0:14:10.00,0:14:12.94,Default,NTP,0000,0000,0000,,他们面对的也是人间炼狱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they could face a living hell.
+Dialogue: 0,0:14:15.09,0:14:19.40,Default,NTP,0000,0000,0000,,当太阳耗尽内核所有的氢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Sun burns through all of its hydrogen at its core,
+Dialogue: 0,0:14:21.14,0:14:23.51,Default,NTP,0000,0000,0000,,就会开始紧缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will eventually start contracting on itself,
+Dialogue: 0,0:14:21.95,0:14:25.36,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}霍莉·吉尔伯特\N国家航空航天局戈达航天中心
+Dialogue: 0,0:14:23.51,0:14:26.01,Default,NTP,0000,0000,0000,,因为一旦氢的燃烧停止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it's no longer burning through the hydrogen,
+Dialogue: 0,0:14:26.01,0:14:27.12,Default,NTP,0000,0000,0000,,核聚变也将停止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fusing it together,
+Dialogue: 0,0:14:27.12,0:14:29.42,Default,NTP,0000,0000,0000,,能够与万有引力抗衡的放射压也会停止生成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}creating this radiation pressure outwards
+Dialogue: 0,0:14:29.42,0:14:31.94,Default,NTP,0000,0000,0000,,内缩的力便胜过了外扩的力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to balance the gravitational pull inwards.
+Dialogue: 0,0:14:33.60,0:14:36.49,Default,NTP,0000,0000,0000,,当太阳内核的氢聚变停止\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While hydrogen fusion will stop in the core,
+Dialogue: 0,0:14:36.53,0:14:39.07,Default,NTP,0000,0000,0000,,地壳的氢聚变将接过接力棒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will continue to fuse at a faster rate
+Dialogue: 0,0:14:39.07,0:14:41.54,Default,NTP,0000,0000,0000,,以更高的速率进行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the shell surrounding the core.
+Dialogue: 0,0:14:42.07,0:14:45.96,Default,NTP,0000,0000,0000,,多余的能量扩大太阳的外层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The extra energy will expand the outer layers of the Sun.
+Dialogue: 0,0:14:47.39,0:14:49.28,Default,NTP,0000,0000,0000,,这意味着太阳将变得\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That'll mean that the Sun will grow
+Dialogue: 0,0:14:49.99,0:14:53.69,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:14:49.28,0:14:52.25,Default,NTP,0000,0000,0000,,更加能量十足  光亮耀眼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}much more powerful, much more luminous,
+Dialogue: 0,0:14:52.28,0:14:55.84,Default,NTP,0000,0000,0000,,因为太阳的内核收缩速率\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because the hydrogen shell will be fusing
+Dialogue: 0,0:14:55.89,0:14:57.74,Default,NTP,0000,0000,0000,,会比往常快很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while the core is contracting
+Dialogue: 0,0:14:57.74,0:15:00.06,Default,NTP,0000,0000,0000,,因此氢壳将被熔化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a greater rate than it normally would.
+Dialogue: 0,0:15:00.98,0:15:04.08,Default,NTP,0000,0000,0000,,氢壳熔化产生的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All the pressure from the energy generated
+Dialogue: 0,0:15:04.12,0:15:06.59,Default,NTP,0000,0000,0000,,会生成压强\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in this hydrogen-fusing Shell
+Dialogue: 0,0:15:06.63,0:15:09.39,Default,NTP,0000,0000,0000,,而压强将使得太阳外部结构的膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will cause the outer parts of the Sun to expand,
+Dialogue: 0,0:15:09.41,0:15:11.34,Default,NTP,0000,0000,0000,,从而使太阳成为一颗红巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Making it into a red giant.
+Dialogue: 0,0:15:13.62,0:15:16.50,Default,NTP,0000,0000,0000,,红巨星指的是一颗恒星已经\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A red giant is a star that has exhausted
+Dialogue: 0,0:15:16.50,0:15:19.66,Default,NTP,0000,0000,0000,,耗尽了其内部核心最初储备的氢能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the primary reservoir of hydrogen fuel at its core,
+Dialogue: 0,0:15:20.31,0:15:24.59,Default,NTP,0000,0000,0000,,留下了正在形成的高浓度氦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}leaving behind a buildup of the heavier, denser helium.
+Dialogue: 0,0:15:25.71,0:15:29.01,Default,NTP,0000,0000,0000,,一颗和太阳大小相似的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An average-sized star like our Sun will spend
+Dialogue: 0,0:15:29.01,0:15:33.07,Default,NTP,0000,0000,0000,,会以红巨星的身份度过最后的二十亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the final 2 billion years of its life as a red giant.
+Dialogue: 0,0:15:33.88,0:15:35.42,Default,NTP,0000,0000,0000,,我们之所以称其为红巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We call it a red giant
+Dialogue: 0,0:15:35.42,0:15:38.22,Default,NTP,0000,0000,0000,,是因为当恒星发生膨胀时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because as this expansion happens,
+Dialogue: 0,0:15:38.26,0:15:40.52,Default,NTP,0000,0000,0000,,其表面积会增大很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the surface area gets so great
+Dialogue: 0,0:15:40.52,0:15:42.52,Default,NTP,0000,0000,0000,,表面温度也会降低\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it actually cools off and,
+Dialogue: 0,0:15:42.58,0:15:44.18,Default,NTP,0000,0000,0000,,从温度的角度上说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in terms of temperature,
+Dialogue: 0,0:15:44.21,0:15:46.41,Default,NTP,0000,0000,0000,,恒星表面温度越低颜色就会越红\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}stars that are cooler appear redder.
+Dialogue: 0,0:15:49.24,0:15:51.71,Default,NTP,0000,0000,0000,,在红巨星最初的形成阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the initial red giant phase,
+Dialogue: 0,0:15:51.74,0:15:54.40,Default,NTP,0000,0000,0000,,会有灾难性的变化发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}catastrophic changes will occur.
+Dialogue: 0,0:15:54.59,0:15:58.17,Default,NTP,0000,0000,0000,,我们的太阳将会膨胀到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Sun will swell to 20 to 30 times
+Dialogue: 0,0:15:58.17,0:15:59.78,Default,NTP,0000,0000,0000,,其原始体积的二十到三十倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its original size
+Dialogue: 0,0:15:59.83,0:16:03.31,Default,NTP,0000,0000,0000,,光照强度将会是现在的一百倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and become one-hundred times more luminous.
+Dialogue: 0,0:16:05.46,0:16:08.06,Default,NTP,0000,0000,0000,,当太阳红巨星膨胀时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As our red giant Sun expands,
+Dialogue: 0,0:16:08.36,0:16:11.03,Default,NTP,0000,0000,0000,,在相对静止的氦核周围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will continue to vigorously fuse hydrogen
+Dialogue: 0,0:16:11.03,0:16:14.42,Default,NTP,0000,0000,0000,,将持续猛烈的和氢气熔合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the shell surrounding the inactive helium core,
+Dialogue: 0,0:16:15.83,0:16:18.63,Default,NTP,0000,0000,0000,,从而在核中制造出更多的氦气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thus producing more helium in the core.
+Dialogue: 0,0:16:20.35,0:16:21.46,Default,NTP,0000,0000,0000,,一旦一切真的发生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As that happens,
+Dialogue: 0,0:16:21.46,0:16:24.17,Default,NTP,0000,0000,0000,,太阳的核心将会进一步瓦解  温度会更高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the core of the Sun collapses further and gets hotter,
+Dialogue: 0,0:16:24.21,0:16:26.03,Default,NTP,0000,0000,0000,,太阳会在几十亿年间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Sun gradually expands
+Dialogue: 0,0:16:26.03,0:16:28.38,Default,NTP,0000,0000,0000,,逐步的膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}over the course of a couple of billion years.
+Dialogue: 0,0:16:29.72,0:16:33.48,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克雷格·德福斯特\N西南研究院
+Dialogue: 0,0:16:29.06,0:16:31.90,Default,NTP,0000,0000,0000,,事实上  太阳核心的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Eventually, the core of the Sun is
+Dialogue: 0,0:16:31.90,0:16:33.47,Default,NTP,0000,0000,0000,,已经足够燃烧氦气了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hot enough to ignite the helium.
+Dialogue: 0,0:16:33.51,0:16:35.24,Default,NTP,0000,0000,0000,,这被称为氦闪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You get what's called a helium flash.
+Dialogue: 0,0:16:35.24,0:16:37.31,Default,NTP,0000,0000,0000,,就如同点燃燃气烤架时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like the stellar equivalent of the big woof
+Dialogue: 0,0:16:37.31,0:16:39.13,Default,NTP,0000,0000,0000,,一声扑哧的巨响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when you light a gas barbecue.
+Dialogue: 0,0:16:41.66,0:16:45.69,Default,NTP,0000,0000,0000,,被点燃的氦气温度已经足够进行熔合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The ignited helium will be hot enough to undergo fusion,
+Dialogue: 0,0:16:45.77,0:16:49.34,Default,NTP,0000,0000,0000,,从而在核内产生了碳和氧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}now creating carbon and oxygen in the core.
+Dialogue: 0,0:16:50.16,0:16:52.23,Default,NTP,0000,0000,0000,,即将陨落的太阳又能从\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The dying Sun will be resuscitated
+Dialogue: 0,0:16:52.23,0:16:55.73,Default,NTP,0000,0000,0000,,短暂的新能量中得到恢复\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with this new but temporary form of energy.
+Dialogue: 0,0:17:04.88,0:17:08.33,Default,NTP,0000,0000,0000,,我被困在沙漠里并且汽车没油了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I'm stuck here in the desert, and I've run out of gas.
+Dialogue: 0,0:17:09.24,0:17:14.03,Default,NTP,0000,0000,0000,,但是我在后备箱存有一加仑备用油\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But, you know, I have a spare gallon here in the trunk,
+Dialogue: 0,0:17:14.51,0:17:18.41,Default,NTP,0000,0000,0000,,如果我把油倒进油箱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and if I pour this gas into the gas tank,
+Dialogue: 0,0:17:18.46,0:17:21.62,Default,NTP,0000,0000,0000,,那么这辆车又能行驶很长一段路\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that'll allow the car to keep going for a while longer.
+Dialogue: 0,0:17:21.88,0:17:24.03,Default,NTP,0000,0000,0000,,这和太阳是同一个道理\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is kinda similar to the Sun.
+Dialogue: 0,0:17:24.16,0:17:25.72,Default,NTP,0000,0000,0000,,在红巨星阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the red giant stage,
+Dialogue: 0,0:17:25.72,0:17:28.00,Default,NTP,0000,0000,0000,,太阳将把氢能源消耗殆尽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's gonna run out of hydrogen as fuel,
+Dialogue: 0,0:17:28.40,0:17:31.18,Default,NTP,0000,0000,0000,,但是它将在数千万年内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it'll have helium that can briefly
+Dialogue: 0,0:17:31.18,0:17:33.29,Default,NTP,0000,0000,0000,,产生氦能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for a few tens of millions of years,
+Dialogue: 0,0:17:33.35,0:17:35.14,Default,NTP,0000,0000,0000,,熔合之后生成的碳和氧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}fuse to carbon and oxygen,
+Dialogue: 0,0:17:35.16,0:17:37.25,Default,NTP,0000,0000,0000,,又将为太阳提供新的能源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}providing a new source of energy
+Dialogue: 0,0:17:37.29,0:17:40.11,Default,NTP,0000,0000,0000,,使它能够继续运转很长一段时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that'll keep the Sun going for a while longer.
+Dialogue: 0,0:17:43.44,0:17:46.48,Default,NTP,0000,0000,0000,,在红巨星初始阶段结束时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the end of the initial red giant phase,
+Dialogue: 0,0:17:46.51,0:17:50.67,Default,NTP,0000,0000,0000,,陨落的太阳会进入一个稳定的氦燃烧阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the dying Sun will enter this stable helium-burning phase.
+Dialogue: 0,0:17:51.34,0:17:54.79,Default,NTP,0000,0000,0000,,它的温度将更高  体积会缩小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will become hotter yet somewhat smaller.
+Dialogue: 0,0:17:55.10,0:17:58.31,Default,NTP,0000,0000,0000,,但这仅仅只是暴风雨来临前的平静罢了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But this is merely a lull before the storm.
+Dialogue: 0,0:18:01.49,0:18:03.82,Default,NTP,0000,0000,0000,,因为太阳进入的红巨星时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is because the Sun's transition to
+Dialogue: 0,0:18:03.82,0:18:07.03,Default,NTP,0000,0000,0000,,被分为两个阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a red giant actually comes in two phases.
+Dialogue: 0,0:18:08.76,0:18:10.55,Default,NTP,0000,0000,0000,,当其处于第二阶段后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the second phase,
+Dialogue: 0,0:18:10.60,0:18:13.20,Default,NTP,0000,0000,0000,,核内的氦气将被耗尽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the helium will be exhausted in the core,
+Dialogue: 0,0:18:13.24,0:18:16.05,Default,NTP,0000,0000,0000,,而太阳的核将由碳和氧组成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which will now consist of carbon and oxygen.
+Dialogue: 0,0:18:16.93,0:18:20.01,Default,NTP,0000,0000,0000,,此核将重新收缩和加热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The core will again start to contract and heat up.
+Dialogue: 0,0:18:21.17,0:18:23.69,Default,NTP,0000,0000,0000,,但是氦气在太阳的外壳中仍有剩余\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But helium will still exist in the Shell,
+Dialogue: 0,0:18:24.21,0:18:26.10,Default,NTP,0000,0000,0000,,它会继续熔合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it will continue to fuse,
+Dialogue: 0,0:18:26.13,0:18:29.30,Default,NTP,0000,0000,0000,,在收缩的核中制造更多的碳和氧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}forming more carbon and oxygen in the contracting core
+Dialogue: 0,0:18:30.31,0:18:32.54,Default,NTP,0000,0000,0000,,而这一切将被\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and all of this will still be surrounded
+Dialogue: 0,0:18:32.54,0:18:33.83,Default,NTP,0000,0000,0000,,氢壳包裹住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by the hydrogen shell
+Dialogue: 0,0:18:33.83,0:18:36.17,Default,NTP,0000,0000,0000,,并继续和氦气熔合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's still fusing to helium.
+Dialogue: 0,0:18:40.17,0:18:42.35,Default,NTP,0000,0000,0000,,当太阳成为红巨星之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Sun becomes a red giant,
+Dialogue: 0,0:18:42.39,0:18:43.47,Default,NTP,0000,0000,0000,,会膨胀开来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will expand out
+Dialogue: 0,0:18:43.47,0:18:44.79,Default,NTP,0000,0000,0000,,它将做的第一件事就是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the first thing it'll do is
+Dialogue: 0,0:18:44.79,0:18:46.86,Default,NTP,0000,0000,0000,,吞食水星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}engulf the planet Mercury
+Dialogue: 0,0:18:46.90,0:18:48.97,Default,NTP,0000,0000,0000,,事实上是燃烧它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventually incinerate it,
+Dialogue: 0,0:18:49.00,0:18:51.04,Default,NTP,0000,0000,0000,,使水星蒸发  完全吞食它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}evaporate it, eat it up.
+Dialogue: 0,0:18:52.07,0:18:54.75,Default,NTP,0000,0000,0000,,接下来太阳会向金星膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then it'll expand out to Venus.
+Dialogue: 0,0:18:57.93,0:19:01.66,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}道格·邓肯\N科罗拉多大学
+Dialogue: 0,0:18:57.52,0:19:00.03,Default,NTP,0000,0000,0000,,在氦气转变为碳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After the helium changing into carbon
+Dialogue: 0,0:19:00.03,0:19:02.29,Default,NTP,0000,0000,0000,,并耗尽所有能量后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}uses up all of its energy,
+Dialogue: 0,0:19:02.32,0:19:05.19,Default,NTP,0000,0000,0000,,其内核将再次收缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then the core begins to shrink a second time,
+Dialogue: 0,0:19:05.24,0:19:07.37,Default,NTP,0000,0000,0000,,太阳外部再次膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The outer part expands a second time,
+Dialogue: 0,0:19:07.37,0:19:08.94,Default,NTP,0000,0000,0000,,然后开始变得极不稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it's not very stable.
+Dialogue: 0,0:19:10.73,0:19:12.92,Default,NTP,0000,0000,0000,,当太阳红巨星处于第二阶段时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the second red giant phase,
+Dialogue: 0,0:19:12.92,0:19:15.11,Default,NTP,0000,0000,0000,,剧烈的收缩和膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The wild contraction and expansion
+Dialogue: 0,0:19:15.11,0:19:18.71,Default,NTP,0000,0000,0000,,会使太阳变得像一个缓慢跳动的心脏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will make our Sun pulsate like a slow-beating heart.
+Dialogue: 0,0:19:19.60,0:19:23.71,Default,NTP,0000,0000,0000,,跳动会在每几百或几千年就发生一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The pulsations can occur every few hundred or thousand years.
+Dialogue: 0,0:19:24.84,0:19:26.72,Default,NTP,0000,0000,0000,,每一次的跳动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and with each pulsation,
+Dialogue: 0,0:19:26.74,0:19:29.42,Default,NTP,0000,0000,0000,,都会使整个行星系统一片混乱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}planetary pandemonium will ensue.
+Dialogue: 0,0:19:31.70,0:19:33.96,Default,NTP,0000,0000,0000,,水星和金星都难逃厄运\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mercury and Venus are doomed.
+Dialogue: 0,0:19:34.28,0:19:36.48,Default,NTP,0000,0000,0000,,它们都将被红巨星吞食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They'll be engulfed by the red giant.
+Dialogue: 0,0:19:37.91,0:19:39.71,Default,NTP,0000,0000,0000,,但是  在很多的科学文献中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, there's been some debate
+Dialogue: 0,0:19:39.71,0:19:40.70,Default,NTP,0000,0000,0000,,也存在争议\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the scientific literature
+Dialogue: 0,0:19:40.70,0:19:43.79,Default,NTP,0000,0000,0000,,地球是否真的会被吞食\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as to whether the Earth would actually be engulfed or not.
+Dialogue: 0,0:19:43.81,0:19:47.39,Default,NTP,0000,0000,0000,,巨大的太阳是足够吞食地球的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun will be large enough to engulf the Earth.
+Dialogue: 0,0:19:48.81,0:19:50.96,Default,NTP,0000,0000,0000,,地球的生死未卜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth's future is uncertain
+Dialogue: 0,0:19:50.98,0:19:52.86,Default,NTP,0000,0000,0000,,因为地球就在存在于灭亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because it lies on the borderline
+Dialogue: 0,0:19:52.86,0:19:55.76,Default,NTP,0000,0000,0000,,之间的界线之上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}between being engulfed and surviving.
+Dialogue: 0,0:19:58.05,0:20:00.88,Default,NTP,0000,0000,0000,,但是现在也有宇航员\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But astronomers now have one possible sneak
+Dialogue: 0,0:20:00.88,0:20:03.77,Default,NTP,0000,0000,0000,,对地球的最终命运有一个恰当的预言\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}preview of our planet's ultimate fate.
+Dialogue: 0,0:20:05.43,0:20:08.83,Default,NTP,0000,0000,0000,,红外线光学望远镜捕捉到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The infrared optical telescope array has captured
+Dialogue: 0,0:20:08.83,0:20:12.65,Default,NTP,0000,0000,0000,,一颗垂死恒星  天鹅座-X的特写镜头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}close-up photos of a death star, Chi Cygni,
+Dialogue: 0,0:20:12.69,0:20:16.11,Default,NTP,0000,0000,0000,,它离地球约有五十光年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is approximately 50 light-years from Earth.
+Dialogue: 0,0:20:17.46,0:20:21.15,Default,NTP,0000,0000,0000,,天鹅座-X已经处于红巨星阶段的末尾了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chi Cygni is near the end of its red giant stage,
+Dialogue: 0,0:20:21.17,0:20:23.41,Default,NTP,0000,0000,0000,,当它膨胀的足够大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it's grown really big.
+Dialogue: 0,0:20:23.45,0:20:26.50,Default,NTP,0000,0000,0000,,在其存在的几百万年间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and in those last few million years of existence,
+Dialogue: 0,0:20:26.54,0:20:28.20,Default,NTP,0000,0000,0000,,会开始有规律的跳动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It starts pulsating.
+Dialogue: 0,0:20:28.20,0:20:31.09,Default,NTP,0000,0000,0000,,事实上  它每四百年跳动一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It actually pulsates every 400 years or so,
+Dialogue: 0,0:20:31.14,0:20:32.65,Default,NTP,0000,0000,0000,,膨胀之后变得又大又亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Getting bigger and brighter
+Dialogue: 0,0:20:32.65,0:20:34.33,Default,NTP,0000,0000,0000,,收缩之后变得又小又暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and smaller and fainter.
+Dialogue: 0,0:20:36.80,0:20:38.66,Default,NTP,0000,0000,0000,,如果这个巨大膨胀的天鹅座-X\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the massively bloated star
+Dialogue: 0,0:20:38.66,0:20:40.64,Default,NTP,0000,0000,0000,,是我们的太阳的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Chi Cygni were our Sun,
+Dialogue: 0,0:20:40.66,0:20:44.71,Default,NTP,0000,0000,0000,,它将一直吞没每一颗行星直到火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would have consumed every planet out to Mars.
+Dialogue: 0,0:20:45.63,0:20:48.62,Default,NTP,0000,0000,0000,,地球以及地球上所有的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth and all its wondrous forms of life
+Dialogue: 0,0:20:48.64,0:20:49.95,Default,NTP,0000,0000,0000,,将被垂死之星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would have been melded with
+Dialogue: 0,0:20:49.95,0:20:52.90,Default,NTP,0000,0000,0000,,内部的物质所熔合\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the materials inside the dying star.
+Dialogue: 0,0:20:55.30,0:20:57.51,Default,NTP,0000,0000,0000,,我们的生命显然很短暂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We obviously haven't been around long enough,
+Dialogue: 0,0:20:57.51,0:20:58.96,Default,NTP,0000,0000,0000,,在我们有生之年看不到这些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and will not be in our lifetimes,
+Dialogue: 0,0:20:58.96,0:21:00.97,Default,NTP,0000,0000,0000,,所以很难确切的知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to understand exactly what's gonna happen
+Dialogue: 0,0:21:00.97,0:21:02.19,Default,NTP,0000,0000,0000,,太阳的陨落到底会发生什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when the Sun dies.
+Dialogue: 0,0:21:02.23,0:21:03.79,Default,NTP,0000,0000,0000,,所以我们只有通过对其他恒星的观察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we need to look to other stars
+Dialogue: 0,0:21:03.79,0:21:06.00,Default,NTP,0000,0000,0000,,来举一反三\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in order to see how that might work.
+Dialogue: 0,0:21:08.06,0:21:10.43,Default,NTP,0000,0000,0000,,我们通过对其他垂死之星的观察\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Observations of other death stars
+Dialogue: 0,0:21:10.48,0:21:12.15,Default,NTP,0000,0000,0000,,看到了太阳的长远的未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have offered a startling glimpse
+Dialogue: 0,0:21:12.15,0:21:14.88,Default,NTP,0000,0000,0000,,这使我们感到惊讶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at our own Sun's long-term prognosis
+Dialogue: 0,0:21:14.88,0:21:18.05,Default,NTP,0000,0000,0000,,还有什么会在太阳系中被留存下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and what's in store for the rest of the solar system.
+Dialogue: 0,0:21:19.17,0:21:22.39,Default,NTP,0000,0000,0000,,地球将会掉进一个炙热的无底洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth could be catapulted into the fiery abyss.
+Dialogue: 0,0:21:22.96,0:21:25.37,Default,NTP,0000,0000,0000,,但是  最新的一项研究表明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, recent research indicates
+Dialogue: 0,0:21:25.37,0:21:28.08,Default,NTP,0000,0000,0000,,在宇宙特定状况下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that with the right set of cosmic conditions,
+Dialogue: 0,0:21:28.83,0:21:33.18,Default,NTP,0000,0000,0000,,我们脆弱的星球一定可以逃离厄运\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a shockingly different fate may await our fragile planet.
+Dialogue: 0,0:21:40.27,0:21:42.53,Default,NTP,0000,0000,0000,,一切都将会有终结\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All things must end.
+Dialogue: 0,0:21:43.57,0:21:45.98,Default,NTP,0000,0000,0000,,在五十亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In about 5 billion years,
+Dialogue: 0,0:21:46.03,0:21:48.00,Default,NTP,0000,0000,0000,,我们挚爱的太阳将不再滋润大地\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our motherly Sun will stop
+Dialogue: 0,0:21:48.00,0:21:50.43,Default,NTP,0000,0000,0000,,为万物带来生机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nurturing its planetary offspring.
+Dialogue: 0,0:21:52.06,0:21:55.05,Default,NTP,0000,0000,0000,,它开始在死亡之中挣扎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As it begins an agonizing death March,
+Dialogue: 0,0:21:55.10,0:21:58.70,Default,NTP,0000,0000,0000,,膨胀一百倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will expand 100-fold and devour
+Dialogue: 0,0:21:58.70,0:22:02.65,Default,NTP,0000,0000,0000,,先将水星吞没  然后是金星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the planets Mercury and then Venus.
+Dialogue: 0,0:22:04.27,0:22:07.02,Default,NTP,0000,0000,0000,,在临近红巨星第二阶段末尾时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Near the end of its second red giant phase,
+Dialogue: 0,0:22:07.05,0:22:10.64,Default,NTP,0000,0000,0000,,太阳会收缩和膨胀数次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Sun will contract and expand several times.
+Dialogue: 0,0:22:11.50,0:22:13.07,Default,NTP,0000,0000,0000,,每一次的收缩和膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}With each pulsation,
+Dialogue: 0,0:22:13.10,0:22:16.26,Default,NTP,0000,0000,0000,,使地球离这颗濒死恒星更近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our dying star will become dangerously close
+Dialogue: 0,0:22:16.29,0:22:18.25,Default,NTP,0000,0000,0000,,随时有被卷入的危险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to swallowing Earth.
+Dialogue: 0,0:22:20.54,0:22:23.80,Default,NTP,0000,0000,0000,,然而  在特定的条件下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, with the right set of circumstances,
+Dialogue: 0,0:22:24.39,0:22:26.85,Default,NTP,0000,0000,0000,,地球有可能幸免于难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our planet could be spared.
+Dialogue: 0,0:22:28.42,0:22:32.19,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克雷格·德福斯特\N西南研究院
+Dialogue: 0,0:22:27.61,0:22:31.84,Default,NTP,0000,0000,0000,,太阳持续不断地形成的太阳风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a phenomenon called the solar wind that's continuously blowing,
+Dialogue: 0,0:22:31.84,0:22:34.89,Default,NTP,0000,0000,0000,,带动太阳大气外层的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lifting material from the outer layers of the Sun's atmosphere
+Dialogue: 0,0:22:34.91,0:22:36.87,Default,NTP,0000,0000,0000,,并将它们释放到星际空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}out into interstellar space.
+Dialogue: 0,0:22:36.89,0:22:40.32,Default,NTP,0000,0000,0000,,当太阳进入膨胀的红巨星阶段后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Sun begins to expand into the red giant phase,
+Dialogue: 0,0:22:40.35,0:22:44.54,Default,NTP,0000,0000,0000,,其大气外层比现在的大气更为离散\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the outer layers of its atmosphere are even more loosely bound than they are now.
+Dialogue: 0,0:22:44.57,0:22:47.61,Default,NTP,0000,0000,0000,,这样一来太阳风影响范围会更大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so the solar wind will be much more prominent.
+Dialogue: 0,0:22:50.80,0:22:53.88,Default,NTP,0000,0000,0000,,研究数据标明如果太阳风带走\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The data indicate that if the solar wind blows off
+Dialogue: 0,0:22:53.88,0:22:56.37,Default,NTP,0000,0000,0000,,太阳质量的百分之三十\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about 30% of the Sun's mass,
+Dialogue: 0,0:22:56.42,0:23:00.60,Default,NTP,0000,0000,0000,,太阳对地球的引力就会减弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its gravitational pull will weaken enough to allow Earth
+Dialogue: 0,0:23:00.60,0:23:03.09,Default,NTP,0000,0000,0000,,这足以使地球向外围移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to move sufficiently outward.
+Dialogue: 0,0:23:03.95,0:23:06.23,Default,NTP,0000,0000,0000,,如果太阳的质量减少了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Sun loses some of its mass,
+Dialogue: 0,0:23:06.23,0:23:07.95,Default,NTP,0000,0000,0000,,其引力会变弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its gravity gets weaker and
+Dialogue: 0,0:23:07.95,0:23:10.50,Default,NTP,0000,0000,0000,,地球公转轨道也因而扩大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the Earth's orbit is gonna get bigger.
+Dialogue: 0,0:23:08.02,0:23:11.74,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}道格·邓肯\N科罗拉多大学
+Dialogue: 0,0:23:10.64,0:23:12.06,Default,NTP,0000,0000,0000,,如果我们运气够好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So if we're lucky,
+Dialogue: 0,0:23:12.11,0:23:17.65,Default,NTP,0000,0000,0000,,地球的轨道会扩大到太阳的膨胀范围以外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our orbit will expand out enough that it will miss the expanding Sun
+Dialogue: 0,0:23:17.70,0:23:20.06,Default,NTP,0000,0000,0000,,从而逃过被燃为灰烬的命运\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we won't get incinerated.
+Dialogue: 0,0:23:21.21,0:23:25.07,Default,NTP,0000,0000,0000,,然而地球无法完全绕开危险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Earth won't be completely removed from harm's way.
+Dialogue: 0,0:23:25.89,0:23:28.22,Default,NTP,0000,0000,0000,,太阳在减少质量的同时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}While the Sun might lose mass,
+Dialogue: 0,0:23:28.27,0:23:31.74,Default,NTP,0000,0000,0000,,与地球之间也会产生潮汐作用力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could also have a tidal interaction with our planet,
+Dialogue: 0,0:23:31.80,0:23:35.34,Default,NTP,0000,0000,0000,,这同样会导致地球被炙烤\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and this could have sizzling consequences.
+Dialogue: 0,0:23:36.68,0:23:38.82,Default,NTP,0000,0000,0000,,该过程中至少存在两种此消彼长的影响力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are at least two competing effects.
+Dialogue: 0,0:23:39.16,0:23:42.81,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:23:39.31,0:23:41.28,Default,NTP,0000,0000,0000,,尽管随着太阳步入老龄阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although as the Sun ages,
+Dialogue: 0,0:23:41.33,0:23:42.87,Default,NTP,0000,0000,0000,,其质量会减少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's losing mass...
+Dialogue: 0,0:23:42.89,0:23:47.18,Default,NTP,0000,0000,0000,,也就是说地球的轨道会逐渐远离太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that means that Earth's orbit gradually drifts away from the Sun,
+Dialogue: 0,0:23:47.63,0:23:51.47,Default,NTP,0000,0000,0000,,但实际上由于地球离太阳表面过近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's also true that Earth, being pretty close to the surface of the Sun,
+Dialogue: 0,0:23:51.53,0:23:56.12,Default,NTP,0000,0000,0000,,会使太阳上掀起一波波气浪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will raise a tide, a bulge of gas on the Sun.
+Dialogue: 0,0:23:56.17,0:23:59.02,Default,NTP,0000,0000,0000,,而气浪和地球之间的引力相互作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And a gravitational interaction between that bulge
+Dialogue: 0,0:23:59.02,0:24:03.07,Default,NTP,0000,0000,0000,,会减慢地球的公转速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the Earth will actually slow down the Earth in its orbit,
+Dialogue: 0,0:24:03.12,0:24:06.16,Default,NTP,0000,0000,0000,,从而使地球逐渐向轨道内侧旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}causing the Earth to gradually spiral in.
+Dialogue: 0,0:24:07.00,0:24:11.04,Default,NTP,0000,0000,0000,,太阳质量的减少可能使地球轨道安全外移\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So maybe the loss of mass will move us out enough to be safe.
+Dialogue: 0,0:24:11.30,0:24:15.32,Default,NTP,0000,0000,0000,,但产生的潮汐力可能把地球向内牵引\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But maybe the tidal forces will spiral us in enough
+Dialogue: 0,0:24:15.34,0:24:18.76,Default,NTP,0000,0000,0000,,以致地球可能被太阳吞没并燃为灰烬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that we'll be engulfed and the Earth will be incinerated.
+Dialogue: 0,0:24:18.81,0:24:22.44,Default,NTP,0000,0000,0000,,等五六十亿年后再回来看\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if you come back in 5 or 6 billion years,
+Dialogue: 0,0:24:22.47,0:24:24.47,Default,NTP,0000,0000,0000,,就能知道鹿死谁手了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'll know which one wins out.
+Dialogue: 0,0:24:25.45,0:24:27.87,Default,NTP,0000,0000,0000,,地球可能是幸运的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earth just might get lucky.
+Dialogue: 0,0:24:28.57,0:24:31.76,Default,NTP,0000,0000,0000,,一个国际天文学家小组发现了太阳系外的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}An international team of astronomers discovered a planet
+Dialogue: 0,0:24:31.76,0:24:36.30,Default,NTP,0000,0000,0000,,一颗行星逃过了其主星死亡带来的厄运\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}outside our solar system that survived the death of its home star.
+Dialogue: 0,0:24:38.66,0:24:42.72,Default,NTP,0000,0000,0000,,这颗系外行星的体积至少是木星的三倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The exoplanet is at least three times as massive as Jupiter
+Dialogue: 0,0:24:42.77,0:24:47.34,Default,NTP,0000,0000,0000,,并绕着恒星391佩贾斯公转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and orbits the star dubbed 391 Pegasi,
+Dialogue: 0,0:24:47.39,0:24:50.10,Default,NTP,0000,0000,0000,,该恒星与太阳体积相当\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is about the same mass as our Sun.
+Dialogue: 0,0:24:51.96,0:24:55.19,Default,NTP,0000,0000,0000,,有些系外行星经历了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some exoplanets clearly do survive
+Dialogue: 0,0:24:55.21,0:24:56.90,Default,NTP,0000,0000,0000,,其主星的红巨星阶段后仍能存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through the red giant stage.
+Dialogue: 0,0:24:56.94,0:25:02.18,Default,NTP,0000,0000,0000,,比如391佩贾斯与其系外行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, 391 Pegasi is a star that has an exoplanet around it,
+Dialogue: 0,0:25:02.23,0:25:05.59,Default,NTP,0000,0000,0000,,绕着它公转的这颗行星幸存了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a planet orbiting it, and that planet is still there.
+Dialogue: 0,0:25:05.63,0:25:08.46,Default,NTP,0000,0000,0000,,这颗行星可能和地球一样有岩石核心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now, it might have a rocky Earth-like core
+Dialogue: 0,0:25:08.46,0:25:11.23,Default,NTP,0000,0000,0000,,甚至有铁质内核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and perhaps even an iron central region.
+Dialogue: 0,0:25:11.28,0:25:14.78,Default,NTP,0000,0000,0000,,但我们认为它很可能是气态或液态行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But we think it's mostly gaseous and liquid.
+Dialogue: 0,0:25:16.16,0:25:19.34,Default,NTP,0000,0000,0000,,391佩贾斯及其巨大的气体行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}391 Pegasi and its gas giant planet
+Dialogue: 0,0:25:19.38,0:25:21.76,Default,NTP,0000,0000,0000,,之间的轨道距离和\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have a similar orbital distance from each other
+Dialogue: 0,0:25:21.80,0:25:23.77,Default,NTP,0000,0000,0000,,地球与太阳之间的轨道距离非常相似\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as Earth does from our Sun,
+Dialogue: 0,0:25:23.81,0:25:26.17,Default,NTP,0000,0000,0000,,即约为九千万英里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is about 90 million miles.
+Dialogue: 0,0:25:28.39,0:25:30.98,Default,NTP,0000,0000,0000,,天文学家们认为这颗系外行星能存活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Astronomers think the exoplanet survived
+Dialogue: 0,0:25:31.02,0:25:33.68,Default,NTP,0000,0000,0000,,是因为已死亡的主星质量的减少\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because its death star lost mass,
+Dialogue: 0,0:25:33.73,0:25:36.15,Default,NTP,0000,0000,0000,,导致对该行星的引力作用的减弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which reduced its gravitational pull on the planet,
+Dialogue: 0,0:25:36.19,0:25:39.87,Default,NTP,0000,0000,0000,,其程度恰好使行星稍微向外偏离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just enough so that it drifted slightly outward.
+Dialogue: 0,0:25:43.91,0:25:47.70,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布拉德·海森\N加州大学洛城分校
+Dialogue: 0,0:25:41.20,0:25:45.54,Default,NTP,0000,0000,0000,,这些绕391佩贾斯公转的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The planets around 391 Pegasi is likely to be one of these planets
+Dialogue: 0,0:25:45.54,0:25:48.36,Default,NTP,0000,0000,0000,,在向外旋转和在被潮汐力作用向内牵引\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that sort of walked the knife edge between
+Dialogue: 0,0:25:48.36,0:25:52.16,Default,NTP,0000,0000,0000,,之间找到了微妙的平衡点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}spiraling outwards and being dragged in by tides.
+Dialogue: 0,0:25:53.20,0:25:55.02,Default,NTP,0000,0000,0000,,但与主星距离恰到好处的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But you would not expect to find a lot of planets
+Dialogue: 0,0:25:55.02,0:25:58.19,Default,NTP,0000,0000,0000,,并不多见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in that particular range of distances.
+Dialogue: 0,0:25:58.23,0:26:00.42,Default,NTP,0000,0000,0000,,大多数行星要么被主星完全吞没\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would expect them to either be completely swallowed
+Dialogue: 0,0:26:00.46,0:26:02.83,Default,NTP,0000,0000,0000,,要么就远远地移开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or have them be much further out.
+Dialogue: 0,0:26:02.86,0:26:07.11,Default,NTP,0000,0000,0000,,因此只有这两种力达到微妙的平衡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it requires a somewhat delicate balance of the two competing forces
+Dialogue: 0,0:26:07.15,0:26:10.11,Default,NTP,0000,0000,0000,,才能使行星移动到安全范围\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to actually enable a planet to survive at that sort of location.
+Dialogue: 0,0:26:11.62,0:26:14.58,Default,NTP,0000,0000,0000,,由此看来  行星的幸存已有先例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So there's one case in which the planet survived.
+Dialogue: 0,0:26:14.84,0:26:17.18,Default,NTP,0000,0000,0000,,但不幸的是在这类似太阳系的星系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The bad news is that in this solar system,
+Dialogue: 0,0:26:17.18,0:26:20.05,Default,NTP,0000,0000,0000,,该行星的体积比木星的还要大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the planet is really big, larger than Jupiter.
+Dialogue: 0,0:26:20.10,0:26:23.25,Default,NTP,0000,0000,0000,,因此它的幸存几率要比\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so it probably has a better chance of surviving
+Dialogue: 0,0:26:23.25,0:26:25.86,Default,NTP,0000,0000,0000,,地球这样的小行星大得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than a small planet like the Earth would.
+Dialogue: 0,0:26:28.89,0:26:30.76,Default,NTP,0000,0000,0000,,391佩贾斯产生的恒星风\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It appears that stellar winds
+Dialogue: 0,0:26:30.76,0:26:34.18,Default,NTP,0000,0000,0000,,和热力脉冲似乎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and thermal pulsations produced by 391 Pegasi
+Dialogue: 0,0:26:35.05,0:26:38.92,Default,NTP,0000,0000,0000,,使系外行星的大气表层物质在引力作用下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}pulled atmospheric material from the outer layers of the exoplanet
+Dialogue: 0,0:26:38.97,0:26:40.97,Default,NTP,0000,0000,0000,,被释放到太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and hurled it into space.
+Dialogue: 0,0:26:42.20,0:26:44.80,Default,NTP,0000,0000,0000,,然而这颗气体巨星仍幸存了下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, the gas giant planet survived
+Dialogue: 0,0:26:45.13,0:26:48.36,Default,NTP,0000,0000,0000,,因所散失的质量在其可承受范围之内\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because it could afford to lose a lot of mass.
+Dialogue: 0,0:26:49.34,0:26:51.60,Default,NTP,0000,0000,0000,,可推测该行星所散失物质的质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We can speculate that it may have lost
+Dialogue: 0,0:26:51.66,0:26:53.85,Default,NTP,0000,0000,0000,,相当于不止一个地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}one or more Earth masses of material.
+Dialogue: 0,0:26:53.89,0:26:55.86,Default,NTP,0000,0000,0000,,很显然  如果地球散失了相当的质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And of course, if the Earth lost that much material,
+Dialogue: 0,0:26:55.90,0:26:56.93,Default,NTP,0000,0000,0000,,也就不复存在了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it wouldn't be here.
+Dialogue: 0,0:26:57.45,0:27:00.64,Default,NTP,0000,0000,0000,,当然  与木星等大的气体巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Certainly, a Jupiter-sized planet, a gas giant
+Dialogue: 0,0:27:00.64,0:27:02.50,Default,NTP,0000,0000,0000,,并不适合人类居住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}isn't inhabitable by people.
+Dialogue: 0,0:27:02.52,0:27:06.46,Default,NTP,0000,0000,0000,,但令人感兴趣的是当太阳进入红巨星阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's still intriguing that if the Sun went to the red giant phase,
+Dialogue: 0,0:27:06.50,0:27:08.69,Default,NTP,0000,0000,0000,,木星将可能是幸存下来的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's possible that Jupiter would survive.
+Dialogue: 0,0:27:11.51,0:27:14.37,Default,NTP,0000,0000,0000,,绕391佩贾斯公转的气体巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The continued existence of the gas giant planet
+Dialogue: 0,0:27:14.37,0:27:19.41,Default,NTP,0000,0000,0000,,的存在无论如何都不能有力地说明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}orbiting 391 Pegasi doesn't provide conclusive evidence one way or the other,
+Dialogue: 0,0:27:20.13,0:27:23.22,Default,NTP,0000,0000,0000,,地球能否在太阳的死亡后幸存下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether Earth will survive the death of our Sun.
+Dialogue: 0,0:27:24.73,0:27:26.69,Default,NTP,0000,0000,0000,,但可以肯定的是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But one thing seems certain.
+Dialogue: 0,0:27:27.25,0:27:30.04,Default,NTP,0000,0000,0000,,早在太阳成为红巨星之前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Long before our Sun becomes a red giant,
+Dialogue: 0,0:27:30.07,0:27:34.52,Default,NTP,0000,0000,0000,,我们的星球已不再适合地球生命的生存\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our planet will no longer be hospitable for Earth-type life.
+Dialogue: 0,0:27:35.80,0:27:38.89,Default,NTP,0000,0000,0000,,未来的文明都必须在人间炼狱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Any future civilizations will need to relocate,
+Dialogue: 0,0:27:39.17,0:27:42.95,Default,NTP,0000,0000,0000,,形成前数十亿年迁徙到其他星球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and billions of years before the impending inferno.
+Dialogue: 0,0:27:47.29,0:27:49.52,Default,NTP,0000,0000,0000,,今后大约十亿年的时间里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}About a billion years from now,
+Dialogue: 0,0:27:49.52,0:27:53.73,Default,NTP,0000,0000,0000,,假如你们还活着  我建议你们移居火星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if viewers were around, I'd recommend that you move to Mars.
+Dialogue: 0,0:27:53.77,0:27:57.18,Default,NTP,0000,0000,0000,,那时火星已经不像现在这么冷了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Mars, instead of being too cool like it is now,
+Dialogue: 0,0:27:57.23,0:28:00.17,Default,NTP,0000,0000,0000,,那里的气温可能会更为适宜\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would probably have a somewhat more favorable temperature.
+Dialogue: 0,0:28:00.21,0:28:03.01,Default,NTP,0000,0000,0000,,如果火星地底有水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there is water underground in Mars,
+Dialogue: 0,0:28:03.01,0:28:05.93,Default,NTP,0000,0000,0000,,且我们掌握了现在仍未知的某种技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and we don't really know one way or the other for certain yet,
+Dialogue: 0,0:28:05.99,0:28:07.93,Default,NTP,0000,0000,0000,,你们就可以好好利用这些水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe you could use some of that water
+Dialogue: 0,0:28:08.00,0:28:11.48,Default,NTP,0000,0000,0000,,并在火星上安享晚年了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you might have a comfortable retirement on the planet Mars.
+Dialogue: 0,0:28:13.40,0:28:16.02,Default,NTP,0000,0000,0000,,要移居火星并非易事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the move to Mars wouldn't be simple.
+Dialogue: 0,0:28:16.07,0:28:18.91,Default,NTP,0000,0000,0000,,未来这颗红色行星虽会比现在更为温暖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The red planet would be warmer than it is today,
+Dialogue: 0,0:28:20.04,0:28:23.95,Default,NTP,0000,0000,0000,,却仍缺少某些生命的必要元素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it would still be missing a few of life's necessities.
+Dialogue: 0,0:28:25.42,0:28:27.64,Default,NTP,0000,0000,0000,,首先要创造适宜的大气环境\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have to create an atmosphere.
+Dialogue: 0,0:28:27.68,0:28:30.11,Default,NTP,0000,0000,0000,,接下来要制造足够的压力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You have to have pretty high pressures in order to
+Dialogue: 0,0:28:30.11,0:28:32.99,Default,NTP,0000,0000,0000,,以使地面上形成液态水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have molten water on the surface.
+Dialogue: 0,0:28:33.01,0:28:35.35,Default,NTP,0000,0000,0000,,还要制造氧气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You need to somehow generate oxygen.
+Dialogue: 0,0:28:35.66,0:28:39.64,Default,NTP,0000,0000,0000,,我们说某颗行星或卫星是人类的可居住区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just because a planet or a moon is in the habitable zone
+Dialogue: 0,0:28:39.70,0:28:41.95,Default,NTP,0000,0000,0000,,并不代表它们已可供居住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}doesn't mean that it's already habitable.
+Dialogue: 0,0:28:43.79,0:28:45.99,Default,NTP,0000,0000,0000,,如果你是名策略规划师\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were a strategic planner,
+Dialogue: 0,0:28:46.03,0:28:49.37,Default,NTP,0000,0000,0000,,你可能会设想十亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would encourage the growth of plant life on Mars
+Dialogue: 0,0:28:49.41,0:28:50.99,Default,NTP,0000,0000,0000,,在火星上种植植物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a billion years in the future.
+Dialogue: 0,0:28:51.02,0:28:52.71,Default,NTP,0000,0000,0000,,以此制造氧气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You would generate oxygen,
+Dialogue: 0,0:28:52.73,0:28:55.98,Default,NTP,0000,0000,0000,,使火星更适合人类居住\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you'd make that planet more hospitable for us.
+Dialogue: 0,0:28:56.02,0:28:59.84,Default,NTP,0000,0000,0000,,也许稍微自负点说  我们称之为地球化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perhaps, a little egotistically, we call that terraforming,
+Dialogue: 0,0:28:59.88,0:29:05.27,Default,NTP,0000,0000,0000,,我们能够创造出另一个类似地球的行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That we could form another planet in the shape of Terra or the Earth.
+Dialogue: 0,0:29:05.87,0:29:07.92,Default,NTP,0000,0000,0000,,我希望我们可以着手于此\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I hope we're here to do that.
+Dialogue: 0,0:29:09.55,0:29:13.44,Default,NTP,0000,0000,0000,,即使高度文明的社会成功殖民到火星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even if an advanced society manages to colonize Mars,
+Dialogue: 0,0:29:13.49,0:29:15.86,Default,NTP,0000,0000,0000,,这个新家也只会是暂时的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This new home will be temporary.
+Dialogue: 0,0:29:16.20,0:29:19.05,Default,NTP,0000,0000,0000,,{\an8}适合居住区
+Dialogue: 0,0:29:16.35,0:29:19.81,Default,NTP,0000,0000,0000,,太阳会继续变得更大更亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun will continue to become brighter and bigger,
+Dialogue: 0,0:29:19.87,0:29:23.26,Default,NTP,0000,0000,0000,,将宜居地带不断向外推出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Pushing the habitable zone ever farther out.
+Dialogue: 0,0:29:26.50,0:29:28.35,Default,NTP,0000,0000,0000,,在红巨星阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}During the red giant phase,
+Dialogue: 0,0:29:28.39,0:29:30.65,Default,NTP,0000,0000,0000,,地球人又得搬家了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Earthlings will have to move again,
+Dialogue: 0,0:29:30.97,0:29:35.79,Default,NTP,0000,0000,0000,,也许搬到木星或者土星某个含水量多的卫星上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perhaps to the water-rich moons of Jupiter or Saturn,
+Dialogue: 0,0:29:36.13,0:29:38.06,Default,NTP,0000,0000,0000,,但每到一个新地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But with every new location,
+Dialogue: 0,0:29:38.11,0:29:40.53,Default,NTP,0000,0000,0000,,都将遇到更多的艰难险阻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There will be more obstacles.
+Dialogue: 0,0:29:41.85,0:29:44.25,Default,NTP,0000,0000,0000,,到太阳的红巨星阶段临近结束时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Near the end of the Sun's red giant stage,
+Dialogue: 0,0:29:44.30,0:29:48.73,Default,NTP,0000,0000,0000,,它会急剧变大变亮\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will rapidly be growing much brighter and much bigger
+Dialogue: 0,0:29:49.06,0:29:53.73,Default,NTP,0000,0000,0000,,所以我们搬到新的宜居带将更为频繁\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we'll need to move to the new habitable zone much more frequently.
+Dialogue: 0,0:29:53.78,0:29:57.36,Default,NTP,0000,0000,0000,,搬到一个新的行星或卫星上的另一个问题是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another problem with moving to a new planet or a moon
+Dialogue: 0,0:29:57.41,0:29:59.30,Default,NTP,0000,0000,0000,,运送所有人浪费的财力以及\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is that it would be very difficult
+Dialogue: 0,0:29:59.30,0:30:01.77,Default,NTP,0000,0000,0000,,遇到的困难都将会是巨大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and expensive to move all humans.
+Dialogue: 0,0:30:01.81,0:30:03.46,Default,NTP,0000,0000,0000,,那么你会怎么选择\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So whom do you choose?
+Dialogue: 0,0:30:03.50,0:30:06.26,Default,NTP,0000,0000,0000,,只运送一些社会的精英吗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Just some elite subset of society?
+Dialogue: 0,0:30:06.32,0:30:08.33,Default,NTP,0000,0000,0000,,那会造成更大的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That would create great problems.
+Dialogue: 0,0:30:09.25,0:30:13.34,Default,NTP,0000,0000,0000,,除了在太阳成为红巨星前遗弃地球之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead of abandoning Earth before the Sun becomes a red giant,
+Dialogue: 0,0:30:14.00,0:30:19.05,Default,NTP,0000,0000,0000,,另一个选择是移动地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Another alternative might be to actually move the entire planet.
+Dialogue: 0,0:30:19.64,0:30:21.96,Default,NTP,0000,0000,0000,,这可能听起来有点像科幻小说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This may sound like science fiction,
+Dialogue: 0,0:30:22.01,0:30:24.95,Default,NTP,0000,0000,0000,,但相关的技术已经被考虑到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But technologies are already being considered
+Dialogue: 0,0:30:24.99,0:30:29.12,Default,NTP,0000,0000,0000,,有可能将地球从太阳的灾难中拯救出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That might rescue Earth from the solar apocalypse.
+Dialogue: 0,0:30:35.83,0:30:39.84,Default,NTP,0000,0000,0000,,太阳将会灭亡的预测已经被广泛接受\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Predictions about our Sun's demise are widely accepted.
+Dialogue: 0,0:30:40.35,0:30:42.32,Default,NTP,0000,0000,0000,,在大约五十亿年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In about 5 billion years,
+Dialogue: 0,0:30:42.60,0:30:46.23,Default,NTP,0000,0000,0000,,太阳将会开始漫长的剧烈的死亡期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our star will begin a long, violent death.
+Dialogue: 0,0:30:47.62,0:30:50.09,Default,NTP,0000,0000,0000,,当它迅速成为红巨星时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As it mushrooms into a red giant,
+Dialogue: 0,0:30:50.15,0:30:56.26,Default,NTP,0000,0000,0000,,它会湮没水星金星以及很有可能地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will vaporize planets Mercury, Venus and most likely Earth.
+Dialogue: 0,0:30:59.40,0:31:02.34,Default,NTP,0000,0000,0000,,如果人类文明仍然存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If human-type civilizations still exist,
+Dialogue: 0,0:31:02.69,0:31:06.26,Default,NTP,0000,0000,0000,,他们肯定已经搬到了太阳系之外\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They will have already relocated to the outer solar system.
+Dialogue: 0,0:31:07.26,0:31:10.87,Default,NTP,0000,0000,0000,,他们甚至可能连地球也一起搬出来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And they may have even hauled Earth away with them.
+Dialogue: 0,0:31:11.86,0:31:15.88,Default,NTP,0000,0000,0000,,难题是要找到恰当的宇宙推车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The challenge will be finding the right cosmic moving van.
+Dialogue: 0,0:31:17.23,0:31:19.57,Default,NTP,0000,0000,0000,,我们有可能慢慢移动地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We might gradually move the Earth
+Dialogue: 0,0:31:19.61,0:31:23.38,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:31:19.57,0:31:23.05,Default,NTP,0000,0000,0000,,到一个新的宜居带  比如说通过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To a new habitable zone by, for example,
+Dialogue: 0,0:31:23.10,0:31:27.14,Default,NTP,0000,0000,0000,,将一颗小行星带到某个轨道上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}taking an asteroid and bringing it into an orbit
+Dialogue: 0,0:31:27.19,0:31:30.03,Default,NTP,0000,0000,0000,,好让它能每隔一段时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that it comes reasonably close to the Earth
+Dialogue: 0,0:31:30.03,0:31:34.23,Default,NTP,0000,0000,0000,,靠近地球并给地球一个向外移动的力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}every once in a while and gives it a gravitational tug outward.
+Dialogue: 0,0:31:35.94,0:31:39.28,Default,NTP,0000,0000,0000,,现在科学家正在进行电脑模拟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Right now, scientists are running computer simulations
+Dialogue: 0,0:31:39.28,0:31:42.50,Default,NTP,0000,0000,0000,,来论证用人工或无人驾驶的火箭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to test the feasibility of actually moving Earth
+Dialogue: 0,0:31:42.54,0:31:44.97,Default,NTP,0000,0000,0000,,移动地球的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using manned or drone rockets.
+Dialogue: 0,0:31:46.75,0:31:47.76,Default,NTP,0000,0000,0000,,为了实现那个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In order to do that,
+Dialogue: 0,0:31:49.04,0:31:52.70,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}霍莉·吉尔伯特\N国家航空航天局戈达航天中心
+Dialogue: 0,0:31:47.76,0:31:50.23,Default,NTP,0000,0000,0000,,我们也许得用太阳帆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We would either have to use solar sails, perhaps,
+Dialogue: 0,0:31:50.23,0:31:52.61,Default,NTP,0000,0000,0000,,来引导小行星进入正确的轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to direct this asteroid into the correct place,
+Dialogue: 0,0:31:52.66,0:31:54.93,Default,NTP,0000,0000,0000,,或者用混合燃料的火箭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or maybe a fusion-powered rocket.
+Dialogue: 0,0:31:54.98,0:31:57.94,Default,NTP,0000,0000,0000,,在十亿年之后我们可能拥有其他技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a billion years we may have other technologies that, you know,
+Dialogue: 0,0:31:57.94,0:31:58.90,Default,NTP,0000,0000,0000,,可以更容易做到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are much easier...
+Dialogue: 0,0:31:58.90,0:32:01.28,Default,NTP,0000,0000,0000,,谁知道到时候我们能做什么呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and who knows what we can do by then.
+Dialogue: 0,0:32:03.17,0:32:05.51,Default,NTP,0000,0000,0000,,研究表明小行星在太阳成为红巨星前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Researchers have determined that an asteroid
+Dialogue: 0,0:32:05.51,0:32:09.10,Default,NTP,0000,0000,0000,,必须每隔六千年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would need to be rounded up every 6,000 years
+Dialogue: 0,0:32:09.44,0:32:14.42,Default,NTP,0000,0000,0000,,将地球向外拉一次\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to keep nudging our planet outward as our Sun grows in brightness.
+Dialogue: 0,0:32:15.42,0:32:18.93,Default,NTP,0000,0000,0000,,如果它很慢很平稳地拉地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If it does that very gradually, very steadily,
+Dialogue: 0,0:32:18.93,0:32:20.64,Default,NTP,0000,0000,0000,,超过好几百万年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but over millions of years,
+Dialogue: 0,0:32:20.68,0:32:23.12,Default,NTP,0000,0000,0000,,那我们就会逐渐移动出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then we will gradually drift out,
+Dialogue: 0,0:32:23.16,0:32:26.65,Default,NTP,0000,0000,0000,,与宜居带的扩张保持同步\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}keeping pace with the drifting habitable zone.
+Dialogue: 0,0:32:28.71,0:32:32.27,Default,NTP,0000,0000,0000,,就算地球能在危险带以外继续绕太阳运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Even if Earth could be re-orbited beyond the danger zone,
+Dialogue: 0,0:32:32.31,0:32:34.60,Default,NTP,0000,0000,0000,,未来的阳光也是阴暗的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}its future remains bleak.
+Dialogue: 0,0:32:35.93,0:32:38.62,Default,NTP,0000,0000,0000,,到红巨星第二阶段末尾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Near the end of the second red giant phase,
+Dialogue: 0,0:32:38.70,0:32:41.91,Default,NTP,0000,0000,0000,,太阳的剧烈运动将会停息\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the unstable pulsations of our Sun will subside
+Dialogue: 0,0:32:41.96,0:32:46.27,Default,NTP,0000,0000,0000,,因为它的大部分外层大气物质已经喷射出去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because much of its outer atmosphere will be ejecting away.
+Dialogue: 0,0:32:48.22,0:32:52.40,Default,NTP,0000,0000,0000,,然后这意外着它的能量将会逐渐枯竭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, this means its energy will be rapidly depleting.
+Dialogue: 0,0:32:53.24,0:32:54.93,Default,NTP,0000,0000,0000,,太阳质量不会那么大了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There won't be as much mass,
+Dialogue: 0,0:32:54.93,0:32:58.51,Default,NTP,0000,0000,0000,,因为巨大的引力挤压稀薄的氦气层\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as much gravity pushing down on the thin helium layer
+Dialogue: 0,0:32:58.51,0:32:59.71,Default,NTP,0000,0000,0000,,并将其压缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and compressing it,
+Dialogue: 0,0:32:59.77,0:33:03.28,Default,NTP,0000,0000,0000,,它就不会像之前一样对温度如此敏感了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it won't be as sensitive to the temperature.
+Dialogue: 0,0:33:04.09,0:33:07.11,Default,NTP,0000,0000,0000,,在这个阶段  太阳实际上变得更小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At this stage, the Sun will actually become smaller
+Dialogue: 0,0:33:07.16,0:33:11.67,Default,NTP,0000,0000,0000,,更热更蓝  而不是不断向外膨胀的红巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and hotter and bluer, not red and big and extended.
+Dialogue: 0,0:33:13.45,0:33:15.56,Default,NTP,0000,0000,0000,,所以核反应频率将会下降\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so the nuclear reaction rates are going down.
+Dialogue: 0,0:33:15.99,0:33:19.69,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布拉德·海森\N加州大学洛城分校
+Dialogue: 0,0:33:15.56,0:33:19.03,Default,NTP,0000,0000,0000,,最终  当恒星是去足够的质量后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So eventually, when the star has lost enough mass,
+Dialogue: 0,0:33:19.37,0:33:22.69,Default,NTP,0000,0000,0000,,那些核反应就基本消失了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Those reaction rates basically die away.
+Dialogue: 0,0:33:22.74,0:33:24.92,Default,NTP,0000,0000,0000,,所以该恒星  这里是太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the star, in this case the Sun,
+Dialogue: 0,0:33:24.96,0:33:27.36,Default,NTP,0000,0000,0000,,将最终能源耗竭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will eventually run out of fuel
+Dialogue: 0,0:33:27.40,0:33:29.04,Default,NTP,0000,0000,0000,,并开始收缩\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it will start to shrink.
+Dialogue: 0,0:33:30.55,0:33:32.52,Default,NTP,0000,0000,0000,,不像其他恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Unlike other stars,
+Dialogue: 0,0:33:32.62,0:33:35.52,Default,NTP,0000,0000,0000,,当太阳能源耗竭时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our dying Sun will not go out with a bang
+Dialogue: 0,0:33:35.59,0:33:37.53,Default,NTP,0000,0000,0000,,不会发生爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it runs out of fuel.
+Dialogue: 0,0:33:38.51,0:33:42.81,Default,NTP,0000,0000,0000,,有些恒星死亡时会产生超新星爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Some death stars actually produce a supernova explosion,
+Dialogue: 0,0:33:44.19,0:33:49.53,Default,NTP,0000,0000,0000,,爆炸的光会瞬时照亮整个星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a burst of radiation that can temporarily outshine an entire galaxy.
+Dialogue: 0,0:33:50.90,0:33:52.45,Default,NTP,0000,0000,0000,,但为什么我们的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But why won't our Sun
+Dialogue: 0,0:33:52.45,0:33:56.28,Default,NTP,0000,0000,0000,,死亡时不会有如此绚丽呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have a spectacular fireworks display upon its death?
+Dialogue: 0,0:33:56.80,0:34:01.03,Default,NTP,0000,0000,0000,,这正是某个观众想要问的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's what one viewer wanted to ask the universe,
+Dialogue: 0,0:34:01.82,0:34:05.34,Default,NTP,0000,0000,0000,,来自罗德岛纽波特的里洛伊·G发信息给我们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so Leroy G. From Newport, Rhode island, texted us
+Dialogue: 0,0:34:05.39,0:34:09.06,Default,NTP,0000,0000,0000,,{/an8}为什么太阳死亡时不会发生超新星爆炸
+Dialogue: 0,0:34:09.56,0:34:11.30,Default,NTP,0000,0000,0000,,里洛伊  我很高兴地确信太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Leroy, I'm sure glad the Sun
+Dialogue: 0,0:34:11.30,0:34:13.28,Default,NTP,0000,0000,0000,,不会发生超新星爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}won't explode as a supernova.
+Dialogue: 0,0:34:13.32,0:34:14.56,Default,NTP,0000,0000,0000,,有两点理由\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's two reasons.
+Dialogue: 0,0:34:14.80,0:34:18.46,Default,NTP,0000,0000,0000,,首先  太阳质量不足以产生爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}First, the Sun isn't massive enough to explode on its own.
+Dialogue: 0,0:34:18.51,0:34:20.66,Default,NTP,0000,0000,0000,,恒星必须要有太阳的八至十倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Stars have to be 8 or 10 times
+Dialogue: 0,0:34:20.66,0:34:23.79,Default,NTP,0000,0000,0000,,的质量才能发生爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The mass of the Sun to explode on their own.
+Dialogue: 0,0:34:24.13,0:34:27.38,Default,NTP,0000,0000,0000,,另外  太阳没有伴星供它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And second, the Sun doesn't have a companion star
+Dialogue: 0,0:34:27.38,0:34:30.78,Default,NTP,0000,0000,0000,,获得物质  增大质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from which it could steal material, grow in mass,
+Dialogue: 0,0:34:30.78,0:34:33.31,Default,NTP,0000,0000,0000,,最终变得不稳定并爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventually become unstable and explode.
+Dialogue: 0,0:34:37.42,0:34:41.56,Default,NTP,0000,0000,0000,,在太阳生命的最后阶段  它的外层大气\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the last stage of our Sun's life, its outer atmosphere,
+Dialogue: 0,0:34:41.61,0:34:44.81,Default,NTP,0000,0000,0000,,一种会发光的被称作行星状星云的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a glowing sphere of gas called a planetary nebula,
+Dialogue: 0,0:34:44.86,0:34:46.92,Default,NTP,0000,0000,0000,,将会消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will have drifted away.
+Dialogue: 0,0:34:47.26,0:34:50.09,Default,NTP,0000,0000,0000,,我们一度很强大的太阳仅剩下的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}All that will remain of our once powerful star
+Dialogue: 0,0:34:50.13,0:34:55.00,Default,NTP,0000,0000,0000,,会是个白热的发光的星体叫做白矮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be a glowing white-hot cinder called a white dwarf.
+Dialogue: 0,0:34:56.63,0:34:58.88,Default,NTP,0000,0000,0000,,到那时它的体积将会同地球一般大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It will be about the size of the Earth at that point,
+Dialogue: 0,0:34:57.28,0:35:01.01,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克雷格·德福斯特\N西南研究院
+Dialogue: 0,0:34:59.08,0:35:02.00,Default,NTP,0000,0000,0000,,质量也只有原来的一半\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And it'll have about half of its mass remaining.
+Dialogue: 0,0:35:02.51,0:35:08.43,Default,NTP,0000,0000,0000,,该星体仍然同原来的太阳一样热\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That object still has as much thermal energy as the entire Sun did,
+Dialogue: 0,0:35:08.64,0:35:11.96,Default,NTP,0000,0000,0000,,但体积很小且不能像原来一样有效地发出光来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it's very small and doesn't radiate it very effectively.
+Dialogue: 0,0:35:12.47,0:35:15.49,Default,NTP,0000,0000,0000,,白矮星体积小但密度极大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}White dwarfs are small but extremely dense.
+Dialogue: 0,0:35:15.79,0:35:19.21,Default,NTP,0000,0000,0000,,想象我们太阳成为白矮星后同地球一样大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine our white dwarf Sun as small as the Earth
+Dialogue: 0,0:35:19.26,0:35:22.22,Default,NTP,0000,0000,0000,,但质量却和一颗恒星一样\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But with the same mass as a whole star.
+Dialogue: 0,0:35:22.58,0:35:25.65,Default,NTP,0000,0000,0000,,如果你从白矮星上取下一块\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were to take a chunk of white dwarf material
+Dialogue: 0,0:35:25.65,0:35:27.48,Default,NTP,0000,0000,0000,,手机般大小的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the same size as a cell phone,
+Dialogue: 0,0:35:27.54,0:35:29.13,Default,NTP,0000,0000,0000,,它会像大象一样重\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would weigh approximately the same
+Dialogue: 0,0:35:29.13,0:35:31.60,Default,NTP,0000,0000,0000,,所以说该物质的密度是很大的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as an elephant so it's very dense material
+Dialogue: 0,0:35:31.60,0:35:33.48,Default,NTP,0000,0000,0000,,尽管白矮星的体积\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although this white dwarf size
+Dialogue: 0,0:35:33.48,0:35:36.48,Default,NTP,0000,0000,0000,,同今天我们所见的太阳相比很小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is very small, relative to the Sun as we know it today.
+Dialogue: 0,0:35:39.32,0:35:40.68,Default,NTP,0000,0000,0000,,成为白矮星后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a white dwarf,
+Dialogue: 0,0:35:40.68,0:35:42.96,Default,NTP,0000,0000,0000,,我们的太阳就进入退休阶段了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our Sun will slip into retirement,
+Dialogue: 0,0:35:43.88,0:35:47.40,Default,NTP,0000,0000,0000,,消耗它表面积蓄的热量达数十亿\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}using up its life savings of thermal energy for billions,
+Dialogue: 0,0:35:47.40,0:35:49.80,Default,NTP,0000,0000,0000,,甚至数万亿年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}even trillions of years.
+Dialogue: 0,0:35:50.08,0:35:52.33,Default,NTP,0000,0000,0000,,当它成为一颗白矮星时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When it has become a white dwarf,
+Dialogue: 0,0:35:52.70,0:35:55.27,Default,NTP,0000,0000,0000,,它就像是辆沿海岸前行的汽车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'll be like a car that's coasting.
+Dialogue: 0,0:35:55.30,0:35:58.60,Default,NTP,0000,0000,0000,,耗尽汽油后还在行驶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's run out of gas, but it's still moving
+Dialogue: 0,0:35:58.62,0:36:02.64,Default,NTP,0000,0000,0000,,因为它还有热运动能量推到它前进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because it has energy of motion that's propelling it forward.
+Dialogue: 0,0:36:03.18,0:36:06.73,Default,NTP,0000,0000,0000,,它并不会通过燃烧汽油产生新能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not generating any new energy by burning fuel.
+Dialogue: 0,0:36:06.77,0:36:12.72,Default,NTP,0000,0000,0000,,而是会将内部储存的能量散发出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'll be radiating away the stored energy in its hot interior,
+Dialogue: 0,0:36:12.77,0:36:16.38,Default,NTP,0000,0000,0000,,当它年轻有活力时通过核反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Energy that it had generated through nuclear reactions
+Dialogue: 0,0:36:16.42,0:36:18.77,Default,NTP,0000,0000,0000,,产生的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when it was young and vibrant.
+Dialogue: 0,0:36:18.81,0:36:20.23,Default,NTP,0000,0000,0000,,所以它就像这辆车\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's like a car
+Dialogue: 0,0:36:20.23,0:36:23.26,Default,NTP,0000,0000,0000,,没有汽油还在行驶\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's just going along without any fuel,
+Dialogue: 0,0:36:23.31,0:36:28.66,Default,NTP,0000,0000,0000,,直到最后  十分缓慢地停下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Until finally, eventually, very slowly, it comes to a halt.
+Dialogue: 0,0:36:33.36,0:36:35.93,Default,NTP,0000,0000,0000,,在太阳演变成白矮星后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Anything left in the solar system
+Dialogue: 0,0:36:36.03,0:36:39.04,Default,NTP,0000,0000,0000,,太阳系中剩下的一切物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}after that transition to the white dwarf stage
+Dialogue: 0,0:36:39.10,0:36:40.90,Default,NTP,0000,0000,0000,,都会逐渐冷却下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would just gradually cool off.
+Dialogue: 0,0:36:40.94,0:36:43.57,Default,NTP,0000,0000,0000,,它们仍会围绕白矮星运行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would remain in orbit around the white dwarf.
+Dialogue: 0,0:36:43.64,0:36:46.28,Default,NTP,0000,0000,0000,,运行轨道几乎不会发生变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The orbital decay times are extremely long,
+Dialogue: 0,0:36:46.38,0:36:47.64,Default,NTP,0000,0000,0000,,如同一个冰冷萧索的天体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and it would just stay there
+Dialogue: 0,0:36:47.75,0:36:50.94,Default,NTP,0000,0000,0000,,日复一日地在轨道上盘旋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as a quiet, cold orbiting body forever.
+Dialogue: 0,0:36:52.28,0:36:56.85,Default,NTP,0000,0000,0000,,成为白矮星的太阳会日益冰冷黯淡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our white dwarf Sun will become progressively cooler and dimmer.
+Dialogue: 0,0:36:56.95,0:36:59.22,Default,NTP,0000,0000,0000,,由于太阳不再产能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Since it's no longer generating energy,
+Dialogue: 0,0:36:59.29,0:37:03.47,Default,NTP,0000,0000,0000,,太阳系内的一切都会被冰封\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}everything in the solar system will begin to freeze.
+Dialogue: 0,0:37:05.03,0:37:08.43,Default,NTP,0000,0000,0000,,随着太阳的生命体征逐渐衰弱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As the Sun's vital signs continue to dim,
+Dialogue: 0,0:37:09.63,0:37:12.88,Default,NTP,0000,0000,0000,,地球的命运又会如何呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what will be the forecast for Earth?
+Dialogue: 0,0:37:19.97,0:37:21.82,Default,NTP,0000,0000,0000,,日渐年迈的太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In its death throes,
+Dialogue: 0,0:37:21.82,0:37:24.83,Default,NTP,0000,0000,0000,,临终前也要挣扎一番\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our aging Sun will become insufferably hot
+Dialogue: 0,0:37:24.83,0:37:26.16,Default,NTP,0000,0000,0000,,首先变成酷热难当的红巨星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as a red giant
+Dialogue: 0,0:37:26.54,0:37:30.37,Default,NTP,0000,0000,0000,,随后则是冰冷难耐的白矮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then unbearably cold as a white dwarf.
+Dialogue: 0,0:37:31.38,0:37:34.29,Default,NTP,0000,0000,0000,,对地球来说  从火到冰的洗礼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This could be the kiss of death for planet Earth
+Dialogue: 0,0:37:34.32,0:37:38.62,Default,NTP,0000,0000,0000,,仿佛是与死神来了次拥吻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as it moves from the frying pan and into the frost.
+Dialogue: 0,0:37:41.06,0:37:45.25,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}霍莉·吉尔伯特\N国家航空航天局戈达航天中心
+Dialogue: 0,0:37:41.14,0:37:43.30,Default,NTP,0000,0000,0000,,到太阳成为白矮星的时候\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}By the time the Sun becomes a white dwarf,
+Dialogue: 0,0:37:43.33,0:37:45.23,Default,NTP,0000,0000,0000,,我们可以想象那时地球的温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we can imagine that temperatures on Earth,
+Dialogue: 0,0:37:45.30,0:37:47.13,Default,NTP,0000,0000,0000,,根据它所处于不同的轨道位置\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}depending on where it is in its orbit,
+Dialogue: 0,0:37:47.20,0:37:49.85,Default,NTP,0000,0000,0000,,会以一个惊人的速度显著下降\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would drop significantly fairly rapidly
+Dialogue: 0,0:37:49.85,0:37:53.54,Default,NTP,0000,0000,0000,,因为白矮星不再通过聚变产能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the white dwarf is no longer producing energy through fusion
+Dialogue: 0,0:37:53.74,0:37:56.79,Default,NTP,0000,0000,0000,,因此  它不再产能供给地球所需的热量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it's not producing this energy to heat the Earth.
+Dialogue: 0,0:37:59.38,0:38:01.78,Default,NTP,0000,0000,0000,,如果地球在太阳红巨星阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll be fried to a crisp
+Dialogue: 0,0:38:00.67,0:38:04.16,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}艾力克斯·菲利潘科\N加州大学伯克利分校
+Dialogue: 0,0:38:02.41,0:38:05.55,Default,NTP,0000,0000,0000,,保持它的轨道不变  我们就会被热焦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if we remain where we are during the red giant stage,
+Dialogue: 0,0:38:06.24,0:38:07.71,Default,NTP,0000,0000,0000,,同样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in a similar vein,
+Dialogue: 0,0:38:08.00,0:38:09.94,Default,NTP,0000,0000,0000,,如果在白矮星时地球仍处于这个轨道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we will go into a deep freeze
+Dialogue: 0,0:38:09.94,0:38:14.12,Default,NTP,0000,0000,0000,,我们就会被冻僵\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if we remain where we are when the Sun becomes a white dwarf.
+Dialogue: 0,0:38:14.56,0:38:15.93,Default,NTP,0000,0000,0000,,不过  生命在某些区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nevertheless, there will be some pockets
+Dialogue: 0,0:38:15.96,0:38:18.65,Default,NTP,0000,0000,0000,,仍可以延续下去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where life could continue to survive.
+Dialogue: 0,0:38:18.65,0:38:21.57,Default,NTP,0000,0000,0000,,比如  在海洋深处的液态区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example, in the liquid parts deep in the oceans,
+Dialogue: 0,0:38:21.63,0:38:22.97,Default,NTP,0000,0000,0000,,生命能幸免于难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could survive.
+Dialogue: 0,0:38:25.57,0:38:26.21,Default,NTP,0000,0000,0000,,理论上来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the outset,
+Dialogue: 0,0:38:26.31,0:38:28.84,Default,NTP,0000,0000,0000,,一开始人类可以住进潜艇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}humans could theoretically live in submarines,
+Dialogue: 0,0:38:28.94,0:38:31.58,Default,NTP,0000,0000,0000,,在靠近热液火山口的区域生活\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}near hot hydrothermal vents,
+Dialogue: 0,0:38:31.64,0:38:33.80,Default,NTP,0000,0000,0000,,它们能从深处的地核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}while they dredge up the geothermal energy
+Dialogue: 0,0:38:33.80,0:38:36.58,Default,NTP,0000,0000,0000,,提取地热能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from deep within the Earth's core.
+Dialogue: 0,0:38:36.65,0:38:38.58,Default,NTP,0000,0000,0000,,但是一百万年后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But after a million years,
+Dialogue: 0,0:38:38.65,0:38:41.75,Default,NTP,0000,0000,0000,,海洋彻冻结底\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the oceans would completely freeze
+Dialogue: 0,0:38:41.86,0:38:45.30,Default,NTP,0000,0000,0000,,生命不可避免地走向灭亡\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and life would inevitably perish.
+Dialogue: 0,0:38:48.03,0:38:49.56,Default,NTP,0000,0000,0000,,太阳变成白矮星后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After the Sun becomes a white dwarf,
+Dialogue: 0,0:38:49.63,0:38:52.30,Default,NTP,0000,0000,0000,,会越来越冷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's just gonna cool and cool.
+Dialogue: 0,0:38:52.37,0:38:54.57,Default,NTP,0000,0000,0000,,这很像炉子上的锅\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's very much like a pot on the stove.
+Dialogue: 0,0:38:53.58,0:38:57.19,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}道格·邓肯\N科罗拉多大学
+Dialogue: 0,0:38:55.52,0:38:58.30,Default,NTP,0000,0000,0000,,当你关闭了燃嘴  它就失去了能量来源\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once you turn off the burner, there's no more source of energy,
+Dialogue: 0,0:38:58.37,0:39:02.65,Default,NTP,0000,0000,0000,,温度逐渐降低  降低  再降低\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so it just gradually gets cooler and cooler and cooler.
+Dialogue: 0,0:39:02.65,0:39:06.03,Default,NTP,0000,0000,0000,,如果当太阳仅仅是一颗白矮星的时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the Earth manages to survive
+Dialogue: 0,0:39:06.03,0:39:09.25,Default,NTP,0000,0000,0000,,地球还幸免于难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until the Sun is only a white dwarf star,
+Dialogue: 0,0:39:09.25,0:39:11.77,Default,NTP,0000,0000,0000,,那时将很难获取任何能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it will hardly be getting any energy at all.
+Dialogue: 0,0:39:12.02,0:39:14.45,Default,NTP,0000,0000,0000,,我可以十分确信地说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I can say with absolute certainty
+Dialogue: 0,0:39:14.45,0:39:16.76,Default,NTP,0000,0000,0000,,如果你活得够长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that if you stick around long enough,
+Dialogue: 0,0:39:16.76,0:39:19.93,Default,NTP,0000,0000,0000,,便能经历火的炼狱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you could experience both death by fire
+Dialogue: 0,0:39:20.51,0:39:22.45,Default,NTP,0000,0000,0000,,与冰的洗礼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and also death by ice.
+Dialogue: 0,0:39:24.26,0:39:26.06,Default,NTP,0000,0000,0000,,失去了太阳释放的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Without energy from our Sun,
+Dialogue: 0,0:39:26.13,0:39:29.68,Default,NTP,0000,0000,0000,,太阳系幸存的生命都将灰飞烟灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all remaining life in our solar system will disappear.
+Dialogue: 0,0:39:31.27,0:39:34.13,Default,NTP,0000,0000,0000,,然而  我们可以通过目前无法实现的技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}However, this disaster could be preempted
+Dialogue: 0,0:39:34.17,0:39:38.04,Default,NTP,0000,0000,0000,,预先阻止这场灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by accomplishing what so far has been impossible to do...
+Dialogue: 0,0:39:38.53,0:39:43.19,Default,NTP,0000,0000,0000,,那就是在地球上复制太阳的氢聚变反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually duplicating the Sun's hydrogen fusion right here on Earth.
+Dialogue: 0,0:39:47.42,0:39:51.15,Default,NTP,0000,0000,0000,,控制核聚变的产生与进行已在科学能力所及\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Science has already been able to manufacture nuclear fission,
+Dialogue: 0,0:39:51.25,0:39:55.42,Default,NTP,0000,0000,0000,,它能使重原子核分裂成更轻更小的轻原子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which involves the splitting of atoms into lighter, smaller nuclei.
+Dialogue: 0,0:39:58.89,0:40:02.55,Default,NTP,0000,0000,0000,,正是这股力量驱动了我们的核电站\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This is the power that drives our nuclear power plants
+Dialogue: 0,0:40:03.50,0:40:05.91,Default,NTP,0000,0000,0000,,并由此激生了核武器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and ignites nuclear weapons.
+Dialogue: 0,0:40:10.24,0:40:11.60,Default,NTP,0000,0000,0000,,然而  在太阳核心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But nuclear fusion,
+Dialogue: 0,0:40:11.67,0:40:13.61,Default,NTP,0000,0000,0000,,进行的核裂变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which occurs in the core of the Sun,
+Dialogue: 0,0:40:13.83,0:40:18.71,Default,NTP,0000,0000,0000,,需要将轻原子聚合生成更大更重的原子核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}requires putting nuclei together to form a larger, heavier nucleus.
+Dialogue: 0,0:40:18.78,0:40:22.93,Default,NTP,0000,0000,0000,,到目前为止  这项技术还没在地球上实现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so far, this process has not been achieved here on Earth.
+Dialogue: 0,0:40:24.62,0:40:26.52,Default,NTP,0000,0000,0000,,重造一个太阳环境最根本的难点是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The problem with recreating the Sun's conditions
+Dialogue: 0,0:40:26.20,0:40:29.84,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}布拉德·海森\N加州大学洛城分校
+Dialogue: 0,0:40:27.06,0:40:28.76,Default,NTP,0000,0000,0000,,让物质拥有太阳核心处的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is essentially getting materials to the densities
+Dialogue: 0,0:40:28.79,0:40:31.52,Default,NTP,0000,0000,0000,,物质密度和温度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and temperatures that you have in the center of the Sun.
+Dialogue: 0,0:40:31.59,0:40:35.80,Default,NTP,0000,0000,0000,,太阳自身的引力使压力与密度达到很高的水准\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Sun has its gravity to drive the pressures and densities up,
+Dialogue: 0,0:40:35.86,0:40:37.76,Default,NTP,0000,0000,0000,,所以它可以进行这些高级反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it can get these high reactions.
+Dialogue: 0,0:40:37.80,0:40:40.43,Default,NTP,0000,0000,0000,,在地球上  人类不能奢望利用太阳的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, we don't have the luxury of using the Sun's gravity,
+Dialogue: 0,0:40:40.50,0:40:43.77,Default,NTP,0000,0000,0000,,因此  我们必须找到其它方法试着压缩物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so we have to find other ways to try and compress the material
+Dialogue: 0,0:40:43.87,0:40:47.22,Default,NTP,0000,0000,0000,,从而产生足够大的密度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and generate the kinds of densities that you see.
+Dialogue: 0,0:40:48.61,0:40:52.65,Default,NTP,0000,0000,0000,,在加州北部的劳伦斯利弗莫尔国家实验室中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the Lawrence Livmore national laboratory in northern California,
+Dialogue: 0,0:40:52.75,0:40:55.12,Default,NTP,0000,0000,0000,,科学家们正进行一次挑战\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientists are taking on the challenge
+Dialogue: 0,0:40:55.18,0:40:58.95,Default,NTP,0000,0000,0000,,他们试图创造一颗微缩人造恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by attempting to create a miniature man-made star.
+Dialogue: 0,0:40:59.85,0:41:03.76,Default,NTP,0000,0000,0000,,这项实验包括将有三个足球场大小的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The experiment involves aiming the world's largest laser...
+Dialogue: 0,0:41:03.82,0:41:06.73,Default,NTP,0000,0000,0000,,世界上规模最大的激光器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the size of three football fields...
+Dialogue: 0,0:41:06.76,0:41:10.39,Default,NTP,0000,0000,0000,,瞄准一个满载氢燃料的BB子弹大小的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at a BB-sized target filled with hydrogen fuel.
+Dialogue: 0,0:41:12.20,0:41:14.12,Default,NTP,0000,0000,0000,,在一个惯性约束实验中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In an inertial confinement experiment
+Dialogue: 0,0:41:14.12,0:41:15.55,Default,NTP,0000,0000,0000,,就像劳伦斯利弗莫尔的这次实验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like the one at Lawrence Livermore,
+Dialogue: 0,0:41:15.55,0:41:17.27,Default,NTP,0000,0000,0000,,你需要一颗小圆球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you start with a small pellet,
+Dialogue: 0,0:41:17.30,0:41:18.74,Default,NTP,0000,0000,0000,,它的直径大概有半英寸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}maybe a half an inch across,
+Dialogue: 0,0:41:18.84,0:41:21.64,Default,NTP,0000,0000,0000,,中心填充着固体材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the core of which is made of a solid material
+Dialogue: 0,0:41:21.71,0:41:24.81,Default,NTP,0000,0000,0000,,由聚变所需的氢组成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}containing lots of hydrogen to undergo fusion.
+Dialogue: 0,0:41:24.81,0:41:27.11,Default,NTP,0000,0000,0000,,外层包裹着几层不同的材料\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The outside of which has layers of different material
+Dialogue: 0,0:41:25.84,0:41:29.61,Default,NTP,0000,0000,0000,,{\pos(43,205)}{\an4}{\fn微软雅黑}{\fs14}{\b0}{\fsp0}{\c&HFFFFFF&&}{\3c&HFFFFFF&&}克雷格·德福斯特\N西南研究院
+Dialogue: 0,0:41:27.54,0:41:29.35,Default,NTP,0000,0000,0000,,这种设计使它们能产生冲击波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that are engineered to produce a shock wave
+Dialogue: 0,0:41:29.35,0:41:33.52,Default,NTP,0000,0000,0000,,尽可能地进入并挤压内核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that will drive in and compress that core as much as possible.
+Dialogue: 0,0:41:35.66,0:41:39.19,Default,NTP,0000,0000,0000,,强激光束将散射成192小束\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The colossal laser will split into 192 separate beams
+Dialogue: 0,0:41:39.29,0:41:42.46,Default,NTP,0000,0000,0000,,轰击舱内的小球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that will strike the pellet housed inside a capsule.
+Dialogue: 0,0:41:42.53,0:41:46.17,Default,NTP,0000,0000,0000,,当燃料丸的外壳接触到高能X射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the fuel pellet's shell is struck by these high energy x-rays,
+Dialogue: 0,0:41:46.20,0:41:47.37,Default,NTP,0000,0000,0000,,便会发生爆炸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it should implode
+Dialogue: 0,0:41:47.47,0:41:51.52,Default,NTP,0000,0000,0000,,最终  在核内产生核聚变反应\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then ultimately produce nuclear fusion in its core.
+Dialogue: 0,0:41:53.11,0:41:55.64,Default,NTP,0000,0000,0000,,如果我们掌握了可控廉价的核聚变技术\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we had controlled, affordable nuclear fusion,
+Dialogue: 0,0:41:55.74,0:41:57.08,Default,NTP,0000,0000,0000,,它将改变一切\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it would change everything.
+Dialogue: 0,0:41:57.11,0:41:59.25,Default,NTP,0000,0000,0000,,我们生活的方方面面都将变得不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Many things about our lives would change.
+Dialogue: 0,0:41:59.28,0:42:02.65,Default,NTP,0000,0000,0000,,最重要的是  我们将不再需要太阳\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But most importantly, we wouldn't need the Sun anymore.
+Dialogue: 0,0:42:02.75,0:42:05.79,Default,NTP,0000,0000,0000,,我们能随心所欲地生产能量  热量和光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could produce energy, heat, light on demand.
+Dialogue: 0,0:42:06.82,0:42:09.46,Default,NTP,0000,0000,0000,,有了氢的供给  便能生产我们所需的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could live anywhere in the cosmos
+Dialogue: 0,0:42:09.52,0:42:12.98,Default,NTP,0000,0000,0000,,人类便能立足于宇宙的任何一个角落\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with a supply of hydrogen and make our own energy.
+Dialogue: 0,0:42:16.83,0:42:19.80,Default,NTP,0000,0000,0000,,我们可以迅速飞往其它行星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We could fly to other planets very quickly,
+Dialogue: 0,0:42:19.83,0:42:22.00,Default,NTP,0000,0000,0000,,只用几天时间  而不再是几年\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in days instead of years.
+Dialogue: 0,0:42:22.10,0:42:26.17,Default,NTP,0000,0000,0000,,你几乎可以从任何含有氢氧元素的物质中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}You can extract all the water you need from practically any material
+Dialogue: 0,0:42:26.21,0:42:28.11,Default,NTP,0000,0000,0000,,提取所需的水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that contains hydrogen and oxygen.
+Dialogue: 0,0:42:28.18,0:42:30.76,Default,NTP,0000,0000,0000,,如果周围没有充足的氧气  你可以自己生产\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there isn't enough oxygen around, you could make some.
+Dialogue: 0,0:42:33.75,0:42:36.42,Default,NTP,0000,0000,0000,,产生稳定的核聚变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Generating reliable nuclear fusion could
+Dialogue: 0,0:42:36.42,0:42:39.80,Default,NTP,0000,0000,0000,,将消除我们对太阳的依赖\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}ultimately save Earth and all forms of life
+Dialogue: 0,0:42:41.37,0:42:44.34,Default,NTP,0000,0000,0000,,并最终拯救地球和所有的生命\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}by eliminating our dependence on the Sun.
+Dialogue: 0,0:42:47.26,0:42:50.10,Default,NTP,0000,0000,0000,,然而  太阳自身的命运却已注定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet the Sun's own fate is forever sealed.
+Dialogue: 0,0:42:50.20,0:42:54.04,Default,NTP,0000,0000,0000,,那就是成为一颗日益黯淡阴冷的白矮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As a white dwarf, it will become dimmer and cooler.
+Dialogue: 0,0:42:56.47,0:43:00.34,Default,NTP,0000,0000,0000,,这颗曾经为整个太阳系提供能量的恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The star that once provided energy to an entire solar system
+Dialogue: 0,0:43:00.37,0:43:03.62,Default,NTP,0000,0000,0000,,终将从人们的视野中淡去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will eventually fade from sight.
+Dialogue: 0,0:43:06.81,0:43:11.55,Default,NTP,0000,0000,0000,,当太阳最终冷却到一定程度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the Sun eventually cools off so much,
+Dialogue: 0,0:43:11.62,0:43:15.72,Default,NTP,0000,0000,0000,,它甚至无法被你的肉眼观测到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you won't even be able to see it with your eyes.
+Dialogue: 0,0:43:16.13,0:43:19.59,Default,NTP,0000,0000,0000,,这也是为什么有些人称它为黑矮星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And so that's why some people call it a black dwarf
+Dialogue: 0,0:43:19.59,0:43:21.22,Default,NTP,0000,0000,0000,,或暗恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a dark star.
+Dialogue: 0,0:43:21.36,0:43:27.79,Default,NTP,0000,0000,0000,,它无影于无形  静止于太空  流传于永恒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It'll just be invisible, sitting there in space nearly forever.
+Dialogue: 0,0:43:30.67,0:43:35.50,Default,NTP,0000,0000,0000,,在五十亿年里  太阳系将注定迎来它的末日\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our solar system cannot dodge its date with doom in 5 billion years.
+Dialogue: 0,0:43:36.58,0:43:38.34,Default,NTP,0000,0000,0000,,但一个星系的终结\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the death of one planetary system
+Dialogue: 0,0:43:38.38,0:43:41.48,Default,NTP,0000,0000,0000,,能唤起另一个星系的新生\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can spark the birth of another.
+Dialogue: 0,0:43:41.55,0:43:44.48,Default,NTP,0000,0000,0000,,太阳的星云最终将和\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our Sun's nebula will eventually blend together
+Dialogue: 0,0:43:44.55,0:43:46.55,Default,NTP,0000,0000,0000,,其它星际物质交融\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with other stellar material
+Dialogue: 0,0:43:46.62,0:43:50.23,Default,NTP,0000,0000,0000,,孕育出下一代恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and spawn the next generation of stars.
+Dialogue: 0,0:43:51.62,0:43:53.66,Default,NTP,0000,0000,0000,,也许在它的呵护下\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And one might even nurture
+Dialogue: 0,0:43:53.66,0:43:57.42,Default,NTP,0000,0000,0000,,另一个生机勃勃的地球终将出现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}another vibrant planet like Earth.

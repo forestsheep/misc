@@ -1,0 +1,696 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: YYeTs
+Original Script: YYeTs
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,20,&H00E0E0E0,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:01.75,0:00:04.41,Default,NTP,0,0,0,,玄黄端现 太极混沌如鸡蛋\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the beginning there was darkness and then
+Dialogue: 0,0:00:04.70,0:00:08.65,Default,NTP,0,0,0,,随着轰的一声\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}bang giving birth to an endless expanding existence
+Dialogue: 0,0:00:08.80,0:00:10.95,Default,NTP,0,0,0,,诞生了无限膨胀的时间 空间和物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of time, space and matter.
+Dialogue: 0,0:00:11.51,0:00:13.97,Default,NTP,0,0,0,,现在所见超乎我们的想象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now see further that we've ever imagined
+Dialogue: 0,0:00:14.09,0:00:16.05,Default,NTP,0,0,0,,超越了客观认知极限\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}beyond the limits of our existence
+Dialogue: 0,0:00:16.17,0:00:18.82,Default,NTP,0,0,0,,那地方我们称之为"宇宙"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a place we call "the universe".
+Dialogue: 0,0:00:24.25,0:00:28.73,Default,NTP,0,0,0,,我们那无限的宇宙充满着怪异 暴戾\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our infinite universe is brimming with strange, violent
+Dialogue: 0,0:00:29.05,0:00:32.47,Default,NTP,0,0,0,,以及潜在的生命传输现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and potentially life-transporting phenomena.
+Dialogue: 0,0:00:32.71,0:00:34.87,Default,NTP,0,0,0,,想象一下宇宙的门户\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine cosmic portals
+Dialogue: 0,0:00:35.44,0:00:38.56,Default,NTP,0,0,0,,在那里物体会消失 被弹出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where objects could disappear, be ejected
+Dialogue: 0,0:00:38.81,0:00:42.31,Default,NTP,0,0,0,,或者泄漏到时空中的一些其它的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or escape to some other place in space or time.
+Dialogue: 0,0:00:43.12,0:00:46.20,Default,NTP,0,0,0,,它们是去绝大多数湮没之地的入场券\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They are tickets to oblivion for the most part.
+Dialogue: 0,0:00:46.64,0:00:50.21,Default,NTP,0,0,0,,你或者在通过虫洞传送到宇宙的另一部分去时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Either you get shredded in a black hole you get transported
+Dialogue: 0,0:00:50.33,0:00:53.25,Default,NTP,0,0,0,,被黑洞碾得粉碎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to another part of the universe in a wormhole, or you get
+Dialogue: 0,0:00:53.37,0:00:56.41,Default,NTP,0,0,0,,或者被白洞的喷射物所毁灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}obliterated by the gusher of the white hole.
+Dialogue: 0,0:00:57.93,0:01:01.02,Default,NTP,0,0,0,,飞行去宇宙的弯曲的那头\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Blast off to the warp side of the universe
+Dialogue: 0,0:01:01.14,0:01:03.69,Default,NTP,0,0,0,,科学家们为了搜索黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as scientists search for black holes
+Dialogue: 0,0:01:04.01,0:01:06.74,Default,NTP,0,0,0,,白洞和虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}white holes and wormholes.
+Dialogue: 0,0:01:07.36,0:01:11.20,Default,NTP,0,0,0,,它们是没有意义的幻想… 还是一个科学事实呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Are they frivolous fantasies... or a science fact?
+Dialogue: 0,0:01:11.20,0:01:14.00,Default,,0,0,1,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--\N更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc{\r}
+Dialogue: 0,0:01:14.00,0:01:18.00,Default,,0,0,8,,{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制:春树  字幕来源:五羊皮  调校:御雪寒狼  招募Q号:76846146{\r}
+Dialogue: 0,0:01:18.00,0:01:23.00,Default,NTP,0,0,0,,[历史频道] 第二季 第二集 宇宙中的洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}[History Channel] The UniverseⅡ 02of19 Cosmic.Holes
+Dialogue: 0,0:01:24.36,0:01:28.79,Default,NTP,0,0,0,,宇宙是一个一切皆有可能的聚宝盆\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The universe is a cosmic cornucopia of endless possibilities.
+Dialogue: 0,0:01:29.04,0:01:32.83,Default,NTP,0,0,0,,设想穿梭往返到宇宙中的任何一个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine a shuttle service to anywhere in the cosmos.
+Dialogue: 0,0:01:34.92,0:01:37.41,Default,NTP,0,0,0,,不是登上未来的宇宙飞船\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's not aboard a futuristic spaceship;
+Dialogue: 0,0:01:37.91,0:01:40.49,Default,NTP,0,0,0,,而是乘坐银河交通工具通过虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it's a galactic ride through a wormhole...
+Dialogue: 0,0:01:40.84,0:01:42.44,Default,NTP,0,0,0,,一种理论上的通道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a theoretical tunnel.
+Dialogue: 0,0:01:42.56,0:01:45.48,Default,NTP,0,0,0,,提供了通过时空的捷径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}providing shortcuts through space and time.
+Dialogue: 0,0:01:47.75,0:01:51.07,Default,NTP,0,0,0,,虫洞有点象城市中的地铁系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wormholes are a little bit like a subway system that you might use in the city
+Dialogue: 0,0:01:51.19,0:01:53.88,Default,NTP,0,0,0,,你进入一个洞口\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where you're going into a hole
+Dialogue: 0,0:01:54.00,0:01:56.29,Default,NTP,0,0,0,,经过一个隧道然后在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you go through a tunnel and then you come out
+Dialogue: 0,0:01:56.32,0:01:58.29,Default,NTP,0,0,0,,另外一头的洞口出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at the other end through another hole
+Dialogue: 0,0:01:58.54,0:02:02.18,Default,NTP,0,0,0,,这样你就穿越了城市 同样也可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then you've traveled through the city. Same thing would be possible
+Dialogue: 0,0:02:02.30,0:02:06.05,Default,NTP,0,0,0,,通过虫洞在宇宙间两个不同地点之间进行旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a wormhole to travel between different points in the universe.
+Dialogue: 0,0:02:08.61,0:02:10.33,Default,NTP,0,0,0,,物理学家克利福德·约翰逊\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicist Clifford Johnson
+Dialogue: 0,0:02:10.45,0:02:13.83,Default,NTP,0,0,0,,已经对虫洞的可能性进行过深思\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has contemplated the possibility of wormholes.
+Dialogue: 0,0:02:17.10,0:02:22.38,Default,NTP,0,0,0,,虫洞与地铁之间的区别\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The difference between a wormhole and a subway system
+Dialogue: 0,0:02:22.39,0:02:24.39,Default,NTP,0,0,0,,在于你通过虫洞旅行的行程\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that you're using the wormhole
+Dialogue: 0,0:02:24.51,0:02:27.52,Default,NTP,0,0,0,,要比你在平常的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to travel a greater distance than you would
+Dialogue: 0,0:02:27.68,0:02:31.79,Default,NTP,0,0,0,,空间里旅行大得多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if you were traveling in ordinary space.
+Dialogue: 0,0:02:33.43,0:02:36.23,Default,NTP,0,0,0,,理论上虫洞是连接出入口的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In theory a wormhole has a throat
+Dialogue: 0,0:02:36.35,0:02:39.66,Default,NTP,0,0,0,,咽喉称做"嘴巴"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}connected to an entrance and exit called "mouths"
+Dialogue: 0,0:02:39.97,0:02:42.52,Default,NTP,0,0,0,,嘴巴位于空间的各个部位\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}located in different parts of space.
+Dialogue: 0,0:02:44.64,0:02:46.53,Default,NTP,0,0,0,,虫洞很有吸引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A wormhole is appealing because
+Dialogue: 0,0:02:46.78,0:02:50.74,Default,NTP,0,0,0,,因为我们受光速的限制无法超过光速到达仙女星座\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we're limited by the speed of light. We can't get to the Andromeda galaxy
+Dialogue: 0,0:02:50.74,0:02:56.72,Default,NTP,0,0,0,,即使达到光速也需要60万年才能到达\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in less than something like 600,000 years even moving at the speed of light.
+Dialogue: 0,0:02:57.58,0:02:59.45,Default,NTP,0,0,0,,我一直感到疑惑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I keep wondering if
+Dialogue: 0,0:02:59.57,0:03:03.01,Default,NTP,0,0,0,,天文学的下一个伟大的发现究竟是不是虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the really next big discovery in astronomy could be a wormhole.
+Dialogue: 0,0:03:04.20,0:03:07.76,Default,NTP,0,0,0,,现在只是因为它们引起了象我这样的人的兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Not just because they're fun for people like me
+Dialogue: 0,0:03:08.80,0:03:10.00,Default,NTP,0,0,0,,而不是因为\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but because
+Dialogue: 0,0:03:10.26,0:03:14.42,Default,NTP,0,0,0,,它们可以将我们带到某些我们貌似无法用其他途径抵达的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they could take us to some place that we can't plausibly ever get any other way.
+Dialogue: 0,0:03:17.02,0:03:21.51,Default,NTP,0,0,0,,格里高里·本福德已经在构思外层空间的科幻小说了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gregory Benford has pondered the science and fiction of outer space.
+Dialogue: 0,0:03:22.11,0:03:26.23,Default,NTP,0,0,0,,身兼物理学家和30多部科幻小说的作家\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As both a physicist and author of over 30 sci-fi novels
+Dialogue: 0,0:03:27.15,0:03:31.74,Default,NTP,0,0,0,,本福德已经目睹了科幻成真\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Benford has witnessed fantastical theories become a reality.
+Dialogue: 0,0:03:32.88,0:03:34.87,Default,NTP,0,0,0,,我们中许多人都想知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A lot of us would like to know if wormholes
+Dialogue: 0,0:03:34.99,0:03:38.73,Default,NTP,0,0,0,,虫洞是真的存在？或者只是建立在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}really exist or whether they're just another mathematical construct
+Dialogue: 0,0:03:38.85,0:03:41.09,Default,NTP,0,0,0,,爱因斯坦天赋上的又一个数学模型呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thought up by Einstein the genius.
+Dialogue: 0,0:03:42.98,0:03:45.85,Default,NTP,0,0,0,,爱因斯坦的广义相对论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Albert Einstein's general relativity laws
+Dialogue: 0,0:03:45.97,0:03:48.68,Default,NTP,0,0,0,,考虑到了虫洞的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}allows for the existence of wormholes.
+Dialogue: 0,0:03:48.95,0:03:53.03,Default,NTP,0,0,0,,1930年爱因斯坦和他的同事纳森·罗森\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In 1930 Einstein and his colleague Nathan Rosen
+Dialogue: 0,0:03:53.32,0:03:57.48,Default,NTP,0,0,0,,计算出了这些星系间管道中的一个数学模型\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}calculated the mathematics of one of these intergalactic pipelines.
+Dialogue: 0,0:03:58.26,0:04:01.73,Default,NTP,0,0,0,,也就是大家熟知的"爱因斯坦—罗森桥"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It became known as the "Einstein-Rosen bridge."
+Dialogue: 0,0:04:03.78,0:04:06.37,Default,NTP,0,0,0,,虫洞是爱因斯坦方程式的一个解答\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The wormhole is a solution of Einstein's equations for
+Dialogue: 0,0:04:06.49,0:04:08.81,Default,NTP,0,0,0,,这是广义相对论论述引力作用的方程式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}general relativity telling us how gravity works.
+Dialogue: 0,0:04:08.93,0:04:10.14,Default,NTP,0,0,0,,他们假设\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're hypothetical
+Dialogue: 0,0:04:10.40,0:04:14.14,Default,NTP,0,0,0,,他们这样做是为了将时空的各个部分连接起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and what they do is they connect different parts of space and time.
+Dialogue: 0,0:04:15.42,0:04:18.29,Default,NTP,0,0,0,,爱因斯坦—罗森的数学虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Einstein-Rosen mathematical wormhole
+Dialogue: 0,0:04:18.64,0:04:21.32,Default,NTP,0,0,0,,是受黑洞的研究启发的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}arose from studying black holes.
+Dialogue: 0,0:04:24.81,0:04:28.90,Default,NTP,0,0,0,,黑洞是引力极其强烈的空间中的一个区域\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A black hole is a region in space of extremely strong gravity.
+Dialogue: 0,0:04:29.31,0:04:30.80,Default,NTP,0,0,0,,引力强烈到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The gravity is so strong
+Dialogue: 0,0:04:30.92,0:04:33.55,Default,NTP,0,0,0,,它附近的物体没有任何办法\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that there is no way for objects that get too near
+Dialogue: 0,0:04:33.67,0:04:36.29,Default,NTP,0,0,0,,挣脱它的引力束缚\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to break away from its gravitational pull.
+Dialogue: 0,0:04:36.70,0:04:40.23,Default,NTP,0,0,0,,任何东西一旦遭遇到黑洞都无法逃逸\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Nothing can escape a close encounter with a black hole
+Dialogue: 0,0:04:40.35,0:04:41.89,Default,NTP,0,0,0,,甚至光也同样逃不出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not even light.
+Dialogue: 0,0:04:44.20,0:04:46.86,Default,NTP,0,0,0,,这个倒置的喷泉是个视觉模型\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This inverted fountain serves as a visual analogy
+Dialogue: 0,0:04:46.98,0:04:48.72,Default,NTP,0,0,0,,来看一下围绕着黑洞究竟发生了什么\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to what's going on around a black hole.
+Dialogue: 0,0:04:48.84,0:04:52.56,Default,NTP,0,0,0,,在这个黑洞的范围内的底部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}At the bottom is the area inside the event horizon
+Dialogue: 0,0:04:53.32,0:04:55.12,Default,NTP,0,0,0,,不停地流进去的水\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the water falling into it
+Dialogue: 0,0:04:55.24,0:04:58.45,Default,NTP,0,0,0,,类似于可能流进黑洞的气体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is analogous to gas that might fall into a black hole;
+Dialogue: 0,0:04:58.57,0:05:02.04,Default,NTP,0,0,0,,你把自己想象成一条在里面游泳的鱼\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Imagine yourself being a fish swimming around this region.
+Dialogue: 0,0:05:02.16,0:05:04.38,Default,NTP,0,0,0,,一旦你掉进这中央\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Once you get down inside this central portion
+Dialogue: 0,0:05:04.50,0:05:06.60,Default,NTP,0,0,0,,你就此消失在这里而无法返回了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you're past the point of no return.
+Dialogue: 0,0:05:09.17,0:05:11.71,Default,NTP,0,0,0,,但是爱因斯坦从未打算将虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Einstein never intended his wormhole
+Dialogue: 0,0:05:11.94,0:05:13.89,Default,NTP,0,0,0,,作为太空旅行的工具\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as a tool for space travel.
+Dialogue: 0,0:05:15.85,0:05:20.06,Default,NTP,0,0,0,,他的虫洞只是在某个时间瞬间所创造的理论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}His wormhole is theoretically created at some moment of time.
+Dialogue: 0,0:05:20.99,0:05:22.67,Default,NTP,0,0,0,,它短暂打开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It opens up briefly
+Dialogue: 0,0:05:23.32,0:05:24.98,Default,NTP,0,0,0,,然后就掐断\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then pinches off.
+Dialogue: 0,0:05:26.25,0:05:28.16,Default,NTP,0,0,0,,任何企图通过的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Anything that tries to pass through it
+Dialogue: 0,0:05:28.28,0:05:31.31,Default,NTP,0,0,0,,都将在它的挤压下粉身碎骨\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will get crushed when it squeezes apart.
+Dialogue: 0,0:05:33.16,0:05:37.25,Default,NTP,0,0,0,,在你的方程式和研究中所记录到的典型的虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A typical wormhole that you write down
+Dialogue: 0,0:05:37.37,0:05:41.41,Default,NTP,0,0,0,,是不稳定的它会在难以想象的短时间内消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in your equations and study is unstable. It will vanish in an incredibly short time.
+Dialogue: 0,0:05:41.45,0:05:43.80,Default,NTP,0,0,0,,因此你需要一些手段来让它保持开放\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So what you need is some means of holding it open.
+Dialogue: 0,0:05:45.71,0:05:48.83,Default,NTP,0,0,0,,在爱因斯坦的虫洞被确定没有规则之后\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}After Einstein's wormhole was determined unstable
+Dialogue: 0,0:05:48.96,0:05:50.12,Default,NTP,0,0,0,,上世纪60年代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the 1960s
+Dialogue: 0,0:05:51.70,0:05:54.11,Default,NTP,0,0,0,,在这方面的概念便少有研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}little research was done on the concept.
+Dialogue: 0,0:05:55.83,0:05:58.32,Default,NTP,0,0,0,,后来科幻电影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Then the sci-fi film "contact"
+Dialogue: 0,0:05:58.44,0:06:01.04,Default,NTP,0,0,0,,在90年代后期放映\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was released in the late 1990s.
+Dialogue: 0,0:06:03.61,0:06:07.25,Default,NTP,0,0,0,,是根据著名天文学家卡尔·萨根的原著拍摄的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Based on the book by renowned astronomer Carl Sagan
+Dialogue: 0,0:06:08.23,0:06:10.65,Default,NTP,0,0,0,,它提出虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it proposed that a wormhole
+Dialogue: 0,0:06:10.68,0:06:12.90,Default,NTP,0,0,0,,可以用来进行太空旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could be used for space travel.
+Dialogue: 0,0:06:16.61,0:06:19.23,Default,NTP,0,0,0,,小说及后来的电影\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The book "contact" and then subsequently the movie
+Dialogue: 0,0:06:19.35,0:06:21.82,Default,NTP,0,0,0,,让大家通过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was a nice place in fiction
+Dialogue: 0,0:06:21.92,0:06:25.74,Default,NTP,0,0,0,,虚构很好地认识到了虫洞的概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that was accessible to everyone where you can see the idea of a wormhole.
+Dialogue: 0,0:06:26.05,0:06:27.52,Default,NTP,0,0,0,,因此这是个很好的途径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it was a nice way of
+Dialogue: 0,0:06:27.64,0:06:30.29,Default,NTP,0,0,0,,让人们再一次对那个概念引起兴趣\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}getting people interested in that idea all over again.
+Dialogue: 0,0:06:30.55,0:06:33.26,Default,NTP,0,0,0,,这是种非常不着边际的概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This was kind of a very far-fetched idea
+Dialogue: 0,0:06:33.38,0:06:36.83,Default,NTP,0,0,0,,甚至连许多物理学家都没有认真考虑过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that wasn't even considered very seriously by many physicists
+Dialogue: 0,0:06:36.95,0:06:39.77,Default,NTP,0,0,0,,直至卡尔·萨根决定写这本书\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Until Carl Sagan decided to write this book
+Dialogue: 0,0:06:39.89,0:06:42.33,Default,NTP,0,0,0,,试图让它尽可能地符合实际\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and try to make it as realistic as possible.
+Dialogue: 0,0:06:42.58,0:06:45.79,Default,NTP,0,0,0,,打那时起理论物理着手研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And since that time theoretical physicists studying
+Dialogue: 0,0:06:45.91,0:06:48.12,Default,NTP,0,0,0,,爱因斯坦的广义相对论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Einstein's general theory of relativity
+Dialogue: 0,0:06:48.24,0:06:51.08,Default,NTP,0,0,0,,考虑到了通过虫洞进行旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have considered travel through wormholes.
+Dialogue: 0,0:06:53.39,0:06:55.79,Default,NTP,0,0,0,,科学家开始研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists began to investigate
+Dialogue: 0,0:06:56.59,0:06:59.09,Default,NTP,0,0,0,,是否可能存在一种\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}whether there might be a type of wormhole
+Dialogue: 0,0:06:59.21,0:07:00.94,Default,NTP,0,0,0,,不同于爱因斯坦所说的虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}different from Einstein's
+Dialogue: 0,0:07:01.21,0:07:02.67,Default,NTP,0,0,0,,而是可通过的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is traversible.
+Dialogue: 0,0:07:23.77,0:07:25.76,Default,NTP,0,0,0,,我们从来没有拒绝以前的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We've never seen negative matter before.
+Dialogue: 0,0:07:25.81,0:07:28.05,Default,NTP,0,0,0,,将会存在反万有引力的东西…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would have anti-gravitational properties...
+Dialogue: 0,0:07:28.24,0:07:31.12,Default,NTP,0,0,0,,但是有一天 一旦我们找到了反物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But one day, if we ever find negative matter,
+Dialogue: 0,0:07:31.40,0:07:34.50,Default,NTP,0,0,0,,或许就找到了虫洞稳定的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps that's the key to stabilize the wormhole.
+Dialogue: 0,0:07:36.55,0:07:38.81,Default,NTP,0,0,0,,可通过的虫洞概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea of a traversible wormhole
+Dialogue: 0,0:07:38.84,0:07:41.43,Default,NTP,0,0,0,,让科幻小说爱好者入了迷\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}captivated science fiction enthusiasts.
+Dialogue: 0,0:07:42.11,0:07:44.44,Default,NTP,0,0,0,,这也再次激发了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It also reinvigorated the serious study
+Dialogue: 0,0:07:44.57,0:07:47.24,Default,NTP,0,0,0,,科学界对虫洞的认真研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of wormholes within the science community.
+Dialogue: 0,0:07:48.06,0:07:51.33,Default,NTP,0,0,0,,这个可通过的虫洞制造了不小的轰动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This transversible wormhole created quite a sensation
+Dialogue: 0,0:07:51.84,0:07:54.15,Default,NTP,0,0,0,,因为也许完全有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}'cause perhaps it is physically possible
+Dialogue: 0,0:07:54.20,0:07:58.42,Default,NTP,0,0,0,,有一天能创建一个地铁系统去另外一个银河系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to one day build a subway system to another galaxy.
+Dialogue: 0,0:08:00.38,0:08:04.47,Default,NTP,0,0,0,,"虫洞"这个名称来自苹果的比喻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The term "wormhole" came from an analogy with an apple. You want to get
+Dialogue: 0,0:08:04.52,0:08:07.39,Default,NTP,0,0,0,,你想从苹果的一处到另外一处\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}from one part of the apple to another part.
+Dialogue: 0,0:08:07.44,0:08:11.17,Default,NTP,0,0,0,,如果你是条蠕虫就能咬出一条通道进入苹果内部\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you're a worm you can eat your way down into the body of the apple
+Dialogue: 0,0:08:11.22,0:08:14.73,Default,NTP,0,0,0,,产生一条小隧道 还有其它更短的路径\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and make a little tunnel and come out the other way and it's shorter.
+Dialogue: 0,0:08:14.96,0:08:19.23,Default,NTP,0,0,0,,然而不同于蠕虫在这个苹果里活动 对于我们宇宙间的虫洞来说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But unlike a worm moving here on this apple, for a wormhole in our universe,
+Dialogue: 0,0:08:19.58,0:08:23.67,Default,NTP,0,0,0,,我们可能无法知道虫洞另一端所存在的危险\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we might not know what dangers lie at the other end of the wormhole.
+Dialogue: 0,0:08:28.38,0:08:30.85,Default,NTP,0,0,0,,虫洞的另一端可能连接着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The other end of a wormhole could be connected
+Dialogue: 0,0:08:30.90,0:08:33.43,Default,NTP,0,0,0,,宇宙非常危险的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to a very dangerous part of the universe
+Dialogue: 0,0:08:33.61,0:08:36.23,Default,NTP,0,0,0,,具有各种奇特的现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}with all sorts of exotic phenomena.
+Dialogue: 0,0:08:36.41,0:08:39.49,Default,NTP,0,0,0,,甚至可能会是一颗恒星的核\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It might even be in the core of a star.
+Dialogue: 0,0:08:41.06,0:08:45.22,Default,NTP,0,0,0,,如果我们真的找到一个虫洞 如果它距离我们足够的近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If we ever find a wormhole, and if it's close enough for us to reach,
+Dialogue: 0,0:08:46.34,0:08:49.45,Default,NTP,0,0,0,,几乎可以肯定 我们会首先发射自动探测器去通过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}almost certainly we'll first send automated probes through
+Dialogue: 0,0:08:49.50,0:08:53.25,Default,NTP,0,0,0,,指引它们返回 甚至可能将它们连在电缆上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and direct them to come back, maybe even put them on a cable,
+Dialogue: 0,0:08:53.30,0:08:56.95,Default,NTP,0,0,0,,以防某些危险的情况危害它们而无法返回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in case something nasty happens to them and they can't return.
+Dialogue: 0,0:08:59.30,0:09:01.66,Default,NTP,0,0,0,,物理学家们无论如何都无法知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicists do not know of any way
+Dialogue: 0,0:09:01.71,0:09:05.33,Default,NTP,0,0,0,,宇宙间可能天生就存在着虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that a wormhole might arise naturally in our universe.
+Dialogue: 0,0:09:06.60,0:09:09.19,Default,NTP,0,0,0,,但是他们能创造出人造的虫洞吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But can they be made artificially?
+Dialogue: 0,0:09:11.34,0:09:13.72,Default,NTP,0,0,0,,物理学家思考可能让你创建\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One possibility that physicists speculated about
+Dialogue: 0,0:09:13.85,0:09:17.21,Default,NTP,0,0,0,,虫洞的一种可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that might allow you to construct wormholes,
+Dialogue: 0,0:09:17.41,0:09:20.85,Default,NTP,0,0,0,,是它们突然出现在被认为是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would be to blow them up from what's considered to be
+Dialogue: 0,0:09:20.90,0:09:24.43,Default,NTP,0,0,0,,实际上可能包含了弯弯曲曲存在的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the fabric of space-time that might actually contain
+Dialogue: 0,0:09:24.92,0:09:28.40,Default,NTP,0,0,0,,细小虫洞的时空结构中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tiny wormholes sieving in and out of existence
+Dialogue: 0,0:09:28.45,0:09:30.81,Default,NTP,0,0,0,,这是量子力学定律决定的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}due to the laws of quantum mechanics.
+Dialogue: 0,0:09:31.88,0:09:35.97,Default,NTP,0,0,0,,科学家提出或许"可通过的虫洞"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists proposed that perhaps traversible wormholes
+Dialogue: 0,0:09:36.02,0:09:38.56,Default,NTP,0,0,0,,会塑造出量子泡沫:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could be sculpted out of quantum foam:
+Dialogue: 0,0:09:39.30,0:09:41.81,Default,NTP,0,0,0,,亚原子的泡沫状结构\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a subatomic bubble-like structure
+Dialogue: 0,0:09:42.15,0:09:44.76,Default,NTP,0,0,0,,可能存在于宇宙的各个地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that might exist everywhere in the universe
+Dialogue: 0,0:09:45.12,0:09:51.49,Default,NTP,0,0,0,,其长度要比原子核小10万亿亿倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}on length scales a billion trillion times smaller than the nucleus of an atom.
+Dialogue: 0,0:09:52.27,0:09:54.45,Default,NTP,0,0,0,,那么你如何来实现呢？原则上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That's how you do it. In principle it's
+Dialogue: 0,0:09:54.50,0:09:57.70,Default,NTP,0,0,0,,使用我们所掌握的所有科技是难以实现的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}completely unfeasible using any technology that we know of
+Dialogue: 0,0:09:57.75,0:10:00.15,Default,NTP,0,0,0,,然而它至少是你可以关注的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but it's at least something you might consider.
+Dialogue: 0,0:10:01.81,0:10:05.00,Default,NTP,0,0,0,,如果有虫洞设计出来 或位于空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If one could be engineered or located in space,
+Dialogue: 0,0:10:05.21,0:10:09.05,Default,NTP,0,0,0,,科学家就会考虑虫洞的其它可能发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientists contemplated other possibilities for a wormhole.
+Dialogue: 0,0:10:11.68,0:10:15.97,Default,NTP,0,0,0,,它能将星系游客送到各个时间点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could it transport galactic vacationers to different points in time,
+Dialogue: 0,0:10:17.87,0:10:20.47,Default,NTP,0,0,0,,以及各个空间去吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as well as different places in space?
+Dialogue: 0,0:10:22.11,0:10:24.49,Default,NTP,0,0,0,,为了实际上创造一个时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}To actually create a time machine
+Dialogue: 0,0:10:24.54,0:10:27.98,Default,NTP,0,0,0,,或虫洞机器带我们去遥远的星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or a wormhole machine, that would take us to a distant galaxy,
+Dialogue: 0,0:10:28.03,0:10:31.57,Default,NTP,0,0,0,,你就必须具备发达文明的物理学\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you would have to have the physics of an advanced civilization.
+Dialogue: 0,0:10:31.62,0:10:34.98,Default,NTP,0,0,0,,或许是我们这代人数百万年后的文明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A civilization perhaps millions of years beyond ours.
+Dialogue: 0,0:10:36.16,0:10:37.54,Default,NTP,0,0,0,,时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Time machines
+Dialogue: 0,0:10:37.85,0:10:40.10,Default,NTP,0,0,0,,迷惑电影观众\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have mystified movie audiences
+Dialogue: 0,0:10:40.72,0:10:42.47,Default,NTP,0,0,0,,已经超过50个年头了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for over 50 years.
+Dialogue: 0,0:10:43.17,0:10:44.15,Default,NTP,0,0,0,,先生们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gentlemen
+Dialogue: 0,0:10:44.60,0:10:47.40,Default,NTP,0,0,0,,我来谈论穿过时光的旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I am talking about traveling through time
+Dialogue: 0,0:10:48.11,0:10:51.13,Default,NTP,0,0,0,,在这创造的机器里实现伟大的目标\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in a machine constructed for that very purpose.
+Dialogue: 0,0:10:52.94,0:10:56.23,Default,NTP,0,0,0,,然而虫洞可以用来进行这样的旅行吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But could a wormhole be used for such travel?
+Dialogue: 0,0:10:58.06,0:11:01.74,Default,NTP,0,0,0,,虫洞可以做到可能走几步就到达\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The wormhole may lead to things like
+Dialogue: 0,0:11:02.08,0:11:05.87,Default,NTP,0,0,0,,另外一个星系这样的事情\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}being able to go to another galaxy by walking five feet
+Dialogue: 0,0:11:06.06,0:11:09.58,Default,NTP,0,0,0,,通过虫洞 甚至还能进入另外一个时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}through a wormhole, or even going to another time.
+Dialogue: 0,0:11:11.43,0:11:15.56,Default,NTP,0,0,0,,但是虫洞作为时光机器会引起令人不安的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But wormholes as time machines pose unsettling questions.
+Dialogue: 0,0:11:16.70,0:11:21.51,Default,NTP,0,0,0,,在遥远的将来世人可以回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the distant future will earthlings be able to travel to the past
+Dialogue: 0,0:11:21.55,0:11:23.90,Default,NTP,0,0,0,,或许还能改写历史吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and perhaps change history?
+Dialogue: 0,0:11:33.10,0:11:36.40,Default,NTP,0,0,0,,这些今天看来很不现实的科学概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientific ideas considered far-fetched today,
+Dialogue: 0,0:11:36.69,0:11:39.03,Default,NTP,0,0,0,,可能有朝一日会被接受\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could one day become as acceptable
+Dialogue: 0,0:11:39.06,0:11:41.30,Default,NTP,0,0,0,,犹如接受地球是圆的那样的事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as the fact that Earth is round.
+Dialogue: 0,0:11:44.94,0:11:49.29,Default,NTP,0,0,0,,物理定律可能会承认虫洞的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The laws of physics may allow for the existence of wormholes:
+Dialogue: 0,0:11:50.45,0:11:53.36,Default,NTP,0,0,0,,隧道提供了捷径来通过空间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tunnels providing shortcuts through space
+Dialogue: 0,0:11:53.41,0:11:54.96,Default,NTP,0,0,0,,以及时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as well as time.
+Dialogue: 0,0:11:58.50,0:12:01.63,Default,NTP,0,0,0,,那么这些理论上的宇宙地铁系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So could these cosmic subway systems
+Dialogue: 0,0:12:02.22,0:12:06.17,Default,NTP,0,0,0,,能设计成时光机器吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}theoretically be engineered into time machines?
+Dialogue: 0,0:12:09.14,0:12:12.27,Default,NTP,0,0,0,,爱因斯坦的广义相对论揭示了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Einstein's General Relativity laws reveal
+Dialogue: 0,0:12:13.46,0:12:16.99,Default,NTP,0,0,0,,时光旅行进入未来是可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that time travel into the future is possible.
+Dialogue: 0,0:12:18.98,0:12:22.15,Default,NTP,0,0,0,,广义相对论表明所感受的时间是不同的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They show that time is perceived differently
+Dialogue: 0,0:12:22.33,0:12:28.85,Default,NTP,0,0,0,,有赖于物体所处的宇宙中的位置和运动方式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}depending on where one is in the universe and how one moves.
+Dialogue: 0,0:12:30.15,0:12:32.93,Default,NTP,0,0,0,,物体在接近光速运动时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Objects moving at close to the speed of light,
+Dialogue: 0,0:12:32.98,0:12:35.99,Default,NTP,0,0,0,,岁月的流失要比静止的物体来得慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}age slower than static objects.
+Dialogue: 0,0:12:38.37,0:12:40.78,Default,NTP,0,0,0,,而物体靠近引力体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And objects near a gravitating body
+Dialogue: 0,0:12:41.17,0:12:45.29,Default,NTP,0,0,0,,岁月的流失要比远离引力体来得慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}age more slowly than objects farther away.
+Dialogue: 0,0:12:47.00,0:12:51.14,Default,NTP,0,0,0,,时钟的运转在不同的引力场里的速度是不同的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Clocks run at different rates in different gravitational fields.
+Dialogue: 0,0:12:51.19,0:12:53.72,Default,NTP,0,0,0,,引力场的强度越大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The stronger the gravitational field,
+Dialogue: 0,0:12:53.93,0:12:57.42,Default,NTP,0,0,0,,时间的流失越慢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the more slowly time passes
+Dialogue: 0,0:12:57.47,0:13:00.16,Default,NTP,0,0,0,,相对那些在外太空的人\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}relative to someone out in space
+Dialogue: 0,0:13:00.19,0:13:02.14,Default,NTP,0,0,0,,那里不存在引力场\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where there's no gravitational field.
+Dialogue: 0,0:13:03.12,0:13:05.26,Default,NTP,0,0,0,,而在地球上站在其表面\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}On Earth, here on the surface,
+Dialogue: 0,0:13:05.42,0:13:12.52,Default,NTP,0,0,0,,我们的时钟就要比处于高空的时钟走得慢一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}our clocks run slightly more slowly than clocks high up in the sky.
+Dialogue: 0,0:13:12.56,0:13:15.30,Default,NTP,0,0,0,,这方面有个例子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So an example of this is that the clocks
+Dialogue: 0,0:13:15.36,0:13:18.00,Default,NTP,0,0,0,,卫星上的GPS系统中的时钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the GPS system of satellites,
+Dialogue: 0,0:13:18.15,0:13:21.81,Default,NTP,0,0,0,,就要比地球上的时钟走得稍微快一点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}run a little bit more quickly than the clocks here on Earth.
+Dialogue: 0,0:13:21.86,0:13:24.23,Default,NTP,0,0,0,,因为它们处在弱一点的引力场里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Because they're in a weaker gravitational field.
+Dialogue: 0,0:13:24.62,0:13:28.43,Default,NTP,0,0,0,,科学家和工程师们开发GPS系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And the scientists and engineers developing the GPS system,
+Dialogue: 0,0:13:28.79,0:13:32.87,Default,NTP,0,0,0,,就必须考虑到那里的时钟不同的运行速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}had to take into account the different rate at which clocks run.
+Dialogue: 0,0:13:33.14,0:13:35.64,Default,NTP,0,0,0,,如果他们做得不够准确\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If they hadn't done that correctly,
+Dialogue: 0,0:13:35.67,0:13:37.89,Default,NTP,0,0,0,,那么你的GPS系统就无法工作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then your GPS system wouldn't work.
+Dialogue: 0,0:13:37.94,0:13:40.85,Default,NTP,0,0,0,,如果你从洛杉矶到纽约去旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you were taking a trip from Los Angeles to New York,
+Dialogue: 0,0:13:40.90,0:13:43.48,Default,NTP,0,0,0,,结果却到了马萨诸塞州的某个地方了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you'd end up somewhere in Massachusetts.
+Dialogue: 0,0:13:47.89,0:13:53.34,Default,NTP,0,0,0,,向前的时光旅行已经通过高精度的原子钟得到了验证\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Forward time travel has been tested using highly-precise atomic clocks.
+Dialogue: 0,0:13:54.98,0:13:58.10,Default,NTP,0,0,0,,科学家将一只钟放在地面上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists have placed one clock on the ground
+Dialogue: 0,0:13:58.94,0:14:02.32,Default,NTP,0,0,0,,另一只放在地球上空飞行的火箭上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and another in a rocket flying high above the Earth.
+Dialogue: 0,0:14:04.20,0:14:09.27,Default,NTP,0,0,0,,通过无线电信号来对比火箭与地面上的钟\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The two were compared using radio signals between rocket and ground.
+Dialogue: 0,0:14:10.63,0:14:13.56,Default,NTP,0,0,0,,火箭上的钟要走快一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The clock on the rocket ticked faster.
+Dialogue: 0,0:14:15.52,0:14:18.67,Default,NTP,0,0,0,,在地面上我的时钟要走得慢一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Here on Earth, my clock is running more slowly
+Dialogue: 0,0:14:18.72,0:14:22.15,Default,NTP,0,0,0,,相对远离地球的飞船上的人们\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}compared to someone in a rocket ship somewhere further away from Earth.
+Dialogue: 0,0:14:22.30,0:14:26.02,Default,NTP,0,0,0,,因此他们的时钟运转得快一些他们进入未来要快一些\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So their clock is moving more quickly. They're going to the future faster.
+Dialogue: 0,0:14:28.49,0:14:32.82,Default,NTP,0,0,0,,物理学家研究了虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicists have studied whether wormholes could provide travel
+Dialogue: 0,0:14:32.95,0:14:34.85,Default,NTP,0,0,0,,不光可以进入未来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}not only to the future,
+Dialogue: 0,0:14:35.67,0:14:37.84,Default,NTP,0,0,0,,还能回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but also to the past.
+Dialogue: 0,0:14:39.31,0:14:42.33,Default,NTP,0,0,0,,如果有个虫洞 一个口子靠近地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If there was a wormhole with one mouth near Earth
+Dialogue: 0,0:14:43.87,0:14:46.42,Default,NTP,0,0,0,,另外一头在我们的银河系的中央\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the other in the center of our galaxy
+Dialogue: 0,0:14:47.73,0:14:51.92,Default,NTP,0,0,0,,相对于外面的宇宙 时光流失的速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the rate of flow of time will be different at the one mouth
+Dialogue: 0,0:14:52.00,0:14:56.09,Default,NTP,0,0,0,,在"嘴"两头是不一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}than at the other when compared to the external universe,
+Dialogue: 0,0:14:58.73,0:15:01.51,Default,NTP,0,0,0,,但是通过虫洞直接观察时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but when looking directly through the wormhole
+Dialogue: 0,0:15:01.56,0:15:04.99,Default,NTP,0,0,0,,表现出来的时间流失是一样的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the rate of flow of time appears to be the same.
+Dialogue: 0,0:15:09.30,0:15:12.17,Default,NTP,0,0,0,,它们相对的时间速度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This difference in their relative ticking rates
+Dialogue: 0,0:15:12.22,0:15:15.78,Default,NTP,0,0,0,,因为外部观察和进入虫洞内部观察的不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}as viewed externally versus viewed through the wormhole
+Dialogue: 0,0:15:16.11,0:15:19.26,Default,NTP,0,0,0,,会把虫洞转换成时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}would convert the wormhole into a time machine.
+Dialogue: 0,0:15:23.31,0:15:26.31,Default,NTP,0,0,0,,那就意味着通过进入虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What that means is that by entering a wormhole
+Dialogue: 0,0:15:27.47,0:15:32.22,Default,NTP,0,0,0,,你就能现在从这里离开而在数百年甚至数千年前\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you could leave here today and come out the other end of the wormhole
+Dialogue: 0,0:15:32.34,0:15:35.47,Default,NTP,0,0,0,,在虫洞的另外一头出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}hundreds or thousands of years earlier.
+Dialogue: 0,0:15:37.80,0:15:40.13,Default,NTP,0,0,0,,虫洞可以导致\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The wormhole may lead to
+Dialogue: 0,0:15:40.67,0:15:43.95,Default,NTP,0,0,0,,能够去另外一个星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}things like being able to go to another galaxy...
+Dialogue: 0,0:15:47.68,0:15:49.79,Default,NTP,0,0,0,,甚至到达另外一个时间点之类的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or even going to another time.
+Dialogue: 0,0:15:51.60,0:15:55.43,Default,NTP,0,0,0,,有可能你能够利用某些虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's possible you can use a wormhole of a certain kind
+Dialogue: 0,0:15:55.99,0:16:00.42,Default,NTP,0,0,0,,居然能够把信息传送回过去或把人送回过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to actually transport information backward in time or people backward in time.
+Dialogue: 0,0:16:02.63,0:16:06.54,Default,NTP,0,0,0,,但是时光倒流引发了令人不安的悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But backward time travel raises disturbing paradoxes.
+Dialogue: 0,0:16:07.72,0:16:12.19,Default,NTP,0,0,0,,人们真的能够回到过去改变历史吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could one actually voyage to the past and change history?
+Dialogue: 0,0:16:18.03,0:16:22.27,Default,NTP,0,0,0,,时光倒流带来的问题之一是会产生各种悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One of the problems with traveling backwards in time is that it produces
+Dialogue: 0,0:16:22.45,0:16:26.05,Default,NTP,0,0,0,,其中最著名的就是祖父悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}various paradoxes, the most famous of this is the grandfather paradox.
+Dialogue: 0,0:16:26.10,0:16:29.81,Default,NTP,0,0,0,,它说如果我有部时光机器能将我带回过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It says that if i have a time machine that could go back in time
+Dialogue: 0,0:16:30.00,0:16:31.77,Default,NTP,0,0,0,,我就能杀死自己的祖父\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and i could kill my grandfather
+Dialogue: 0,0:16:31.80,0:16:34.79,Default,NTP,0,0,0,,那么就永远没有我的父亲了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}who would then never have had my father,
+Dialogue: 0,0:16:34.95,0:16:37.40,Default,NTP,0,0,0,,也就永远没有我了 我就永远到不了人世\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}who would never have had me I would never have been born.
+Dialogue: 0,0:16:37.45,0:16:41.99,Default,NTP,0,0,0,,那就意味着 从一开始你永远不可能回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So that means you would never have been able to go back into the past in the first place.
+Dialogue: 0,0:16:42.17,0:16:44.94,Default,NTP,0,0,0,,或者可以这么说 你回到过去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Or let's say you go backwards in time
+Dialogue: 0,0:16:45.28,0:16:48.52,Default,NTP,0,0,0,,遇到你出生前的年轻时的母亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and meet your teenage mother before you're born,
+Dialogue: 0,0:16:48.57,0:16:51.09,Default,NTP,0,0,0,,然后你那年轻的母亲与你坠入情海\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then your teenage mother falls in love with you
+Dialogue: 0,0:16:51.42,0:16:53.40,Default,NTP,0,0,0,,那么你怎么能够生出来呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then how can you be born
+Dialogue: 0,0:16:53.40,0:16:55.73,Default,NTP,0,0,0,,只要当时你那年轻的母亲一脚踢开你的父亲\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}if your teenager mother spurned your father
+Dialogue: 0,0:16:55.73,0:16:57.65,Default,NTP,0,0,0,,而与你热恋了呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and fell in love with you instead?
+Dialogue: 0,0:16:57.70,0:17:00.23,Default,NTP,0,0,0,,实际上问题很大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The practical problems are enormous.
+Dialogue: 0,0:17:01.05,0:17:03.85,Default,NTP,0,0,0,,但是有一天如果有人敲你的门\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But one day, if somebody knocks on your door
+Dialogue: 0,0:17:03.90,0:17:07.74,Default,NTP,0,0,0,,自称是你的曾曾曾曾曾曾孙女\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and claims to be your great great great great great great great granddaughter
+Dialogue: 0,0:17:08.03,0:17:10.70,Default,NTP,0,0,0,,是从未来来到这里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}someone from the future going backwards in time
+Dialogue: 0,0:17:10.73,0:17:12.64,Default,NTP,0,0,0,,来见她杰出的祖先的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to meet her illustrious ancestor
+Dialogue: 0,0:17:13.01,0:17:17.45,Default,NTP,0,0,0,,别把她拒之门外:或许在将来我们的后代\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}don't slam the door: perhaps in the future our descendants
+Dialogue: 0,0:17:17.75,0:17:21.59,Default,NTP,0,0,0,,将有可能进行时光旅行 或许有那么一天\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will have the possibility of time travel and perhaps one day
+Dialogue: 0,0:17:21.64,0:17:23.86,Default,NTP,0,0,0,,他们可能会来敲你的门的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they may come knocking on your door.
+Dialogue: 0,0:17:26.36,0:17:29.16,Default,NTP,0,0,0,,倒回时光旅行引发了无数的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Backward time travel has ignited a myriad
+Dialogue: 0,0:17:29.19,0:17:31.33,Default,NTP,0,0,0,,科幻小说的情节\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of science fiction scenarios.
+Dialogue: 0,0:17:32.61,0:17:35.48,Default,NTP,0,0,0,,如果机器做你所说的它能够做的事情的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If that machine can do what you say it can
+Dialogue: 0,0:17:35.64,0:17:38.11,Default,NTP,0,0,0,,乔治 在它消灭你之前摧毁它\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}destroy it, George before it destroys you.
+Dialogue: 0,0:17:40.19,0:17:43.07,Default,NTP,0,0,0,,假如物理定律允许虫洞…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If the laws of physics permit wormholes...
+Dialogue: 0,0:17:44.16,0:17:48.62,Default,NTP,0,0,0,,那么这些定律又是如何处理改变历史的危险的呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then how can those laws deal with the danger of changing history?
+Dialogue: 0,0:17:51.18,0:17:54.22,Default,NTP,0,0,0,,一种可能性是物理定律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One possibility is that the laws of physics
+Dialogue: 0,0:17:54.35,0:17:55.80,Default,NTP,0,0,0,,允许你去…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}allow you to do...
+Dialogue: 0,0:17:56.12,0:17:59.14,Default,NTP,0,0,0,,时光倒回旅行 只要它导致的是…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}backward time travel as long as it leads to...
+Dialogue: 0,0:17:59.19,0:18:03.13,Default,NTP,0,0,0,,首尾一致的宇宙 这在一定意义上\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a self-consistent universe that in some sense the history is not
+Dialogue: 0,0:18:03.30,0:18:05.99,Default,NTP,0,0,0,,历史是不会改变的 你无法回去改变什么的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}changeable you can't go backwards and change things
+Dialogue: 0,0:18:06.16,0:18:08.72,Default,NTP,0,0,0,,这在事件的起始点就将阻止你\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which would stop you from having been created in the first place
+Dialogue: 0,0:18:08.77,0:18:10.93,Default,NTP,0,0,0,,那个祖父悖论就是个例子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for example in the grandfather paradox.
+Dialogue: 0,0:18:12.99,0:18:16.34,Default,NTP,0,0,0,,目前通过虫洞前行或倒退的时光旅行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For now forward or backward time travel through a wormhole
+Dialogue: 0,0:18:16.61,0:18:18.13,Default,NTP,0,0,0,,依然一团疑问\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}remains in question.
+Dialogue: 0,0:18:18.18,0:18:22.62,Default,NTP,0,0,0,,一些科学家认为任何创造虫洞时光机器的企图\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And some scientists think that any attempt to create a wormhole time machine
+Dialogue: 0,0:18:22.67,0:18:24.77,Default,NTP,0,0,0,,都可能摧毁虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may destroy the wormhole.
+Dialogue: 0,0:18:27.32,0:18:30.67,Default,NTP,0,0,0,,实际上你一旦企图利用虫洞进入时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What actually happens when you try and make that wormhole into a time machine
+Dialogue: 0,0:18:30.72,0:18:33.10,Default,NTP,0,0,0,,只要把不同的时间连接起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is that as soon as it starts connecting different times
+Dialogue: 0,0:18:33.25,0:18:35.56,Default,NTP,0,0,0,,你就会受到大量十分强烈的辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you get a pile up of radiation so intense
+Dialogue: 0,0:18:35.59,0:18:38.33,Default,NTP,0,0,0,,它将摧毁整个虫洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it destroys the entire wormhole
+Dialogue: 0,0:18:38.52,0:18:41.75,Default,NTP,0,0,0,,这样就会阻止你利用虫洞进入时光机器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thus stopping you from making that wormhole into a time machine.
+Dialogue: 0,0:18:41.80,0:18:45.29,Default,NTP,0,0,0,,这似乎是个信号 可能这是自然规律\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There seems to be a sign that maybe this is the way nature
+Dialogue: 0,0:18:45.34,0:18:49.66,Default,NTP,0,0,0,,本身利用物理定律来避免可能产生的悖论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}protects itself using the laws of physics from ever producing paradoxes
+Dialogue: 0,0:18:49.71,0:18:53.18,Default,NTP,0,0,0,,以及时光机器似乎会引发的怪异的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and strange things that time machines seem to suggest.
+Dialogue: 0,0:18:54.46,0:18:56.88,Default,NTP,0,0,0,,虫洞旅行实在是有点玄乎\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Wormhole travel is really iffy
+Dialogue: 0,0:18:56.93,0:18:59.62,Default,NTP,0,0,0,,因为关于虫洞 你已经了解了很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because you have to know a lot about the wormhole
+Dialogue: 0,0:18:59.67,0:19:02.91,Default,NTP,0,0,0,,因此它不会干让人不快的事情的 比如\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that it doesn't do unpleasant things like for example
+Dialogue: 0,0:19:02.96,0:19:06.21,Default,NTP,0,0,0,,突然把你变成一个大的气球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}turn you into a big ball of gas all of a sudden,
+Dialogue: 0,0:19:06.69,0:19:11.14,Default,NTP,0,0,0,,因为维持虫洞的万有引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the gravitational stresses that support the wormhole...
+Dialogue: 0,0:19:11.72,0:19:14.47,Default,NTP,0,0,0,,貌似很强的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}are plausibly quite strong.
+Dialogue: 0,0:19:16.74,0:19:18.54,Default,NTP,0,0,0,,虫洞的概念…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The idea of a wormhole...
+Dialogue: 0,0:19:18.70,0:19:21.95,Default,NTP,0,0,0,,并不是我们可以视若无睹认为"不可能的东西"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is not something that we can point to and say "that's impossible."
+Dialogue: 0,0:19:22.06,0:19:25.91,Default,NTP,0,0,0,,它会很荒谬地宣称:"我们不可能那么做的"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It would be absurd to say "we can't do that ever"
+Dialogue: 0,0:19:26.09,0:19:29.25,Default,NTP,0,0,0,,因为涉及的能力 能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because we're dealing with powers energies
+Dialogue: 0,0:19:29.75,0:19:33.77,Default,NTP,0,0,0,,及知识已经超出了我们目前的范畴\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and knowledge that are outside of our current domain.
+Dialogue: 0,0:19:37.08,0:19:40.05,Default,NTP,0,0,0,,比如虫洞存在另外一个现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Like a wormhole there's another phenomenon
+Dialogue: 0,0:19:40.10,0:19:42.27,Default,NTP,0,0,0,,从来没有被发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that has never been discovered.
+Dialogue: 0,0:19:43.31,0:19:45.80,Default,NTP,0,0,0,,然而爱因斯坦的广义相对论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But Einstein's general relativity laws
+Dialogue: 0,0:19:45.96,0:19:47.90,Default,NTP,0,0,0,,承认它的存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}allow for its existence.
+Dialogue: 0,0:19:48.72,0:19:51.06,Default,NTP,0,0,0,,它被称之为"白洞"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's called a "white hole."
+Dialogue: 0,0:19:53.54,0:19:57.46,Default,NTP,0,0,0,,黑洞是东西掉进去就消失的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well a black hole is an object into which things are falling and disappearing,
+Dialogue: 0,0:19:57.72,0:20:02.08,Default,NTP,0,0,0,,有点像排水口 而白洞刚好相反东西被抛出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}rather like a sinkhole. A white hole is doing the opposite things are coming out.
+Dialogue: 0,0:20:02.48,0:20:05.24,Default,NTP,0,0,0,,东西被抛出来有点象喷泉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Things are coming out rather like a fountain.
+Dialogue: 0,0:20:06.20,0:20:08.61,Default,NTP,0,0,0,,白洞象独角兽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A white hole is like the unicorn:
+Dialogue: 0,0:20:08.88,0:20:12.02,Default,NTP,0,0,0,,一种怪异的动物 以前从来没见过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an exotic animal that's never been seen before.
+Dialogue: 0,0:20:12.34,0:20:16.33,Default,NTP,0,0,0,,白洞和黑洞非常相似 就是动作刚好相反\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A white hole is very similar to a black hole except it runs backwards.
+Dialogue: 0,0:20:16.38,0:20:19.00,Default,NTP,0,0,0,,有点象录像带倒带\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think of running the videotape backwards.
+Dialogue: 0,0:20:19.17,0:20:23.05,Default,NTP,0,0,0,,掉进其范围内的物质永远被抛出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Instead of matter falling into the event horizon never to come out
+Dialogue: 0,0:20:23.37,0:20:25.74,Default,NTP,0,0,0,,而不象黑洞 物质被吸进去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}matter falls out of a black hole.
+Dialogue: 0,0:20:26.05,0:20:29.52,Default,NTP,0,0,0,,因此刚好是把黑洞颠倒了过来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So it's the opposite a time reversed black hole.
+Dialogue: 0,0:20:31.34,0:20:34.82,Default,NTP,0,0,0,,我们已经了解到黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes as we know have now been understood to be
+Dialogue: 0,0:20:35.17,0:20:37.11,Default,NTP,0,0,0,,存在于我们的宇宙间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}out there in our universe
+Dialogue: 0,0:20:37.35,0:20:41.80,Default,NTP,0,0,0,,因此你可能会怀疑白洞是否也同样如此呢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and so you might wonder whether the same thing is true about white holes as well.
+Dialogue: 0,0:20:41.98,0:20:45.34,Default,NTP,0,0,0,,比如类星体被首次发现时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}For example quasars when they were first discovered
+Dialogue: 0,0:20:45.38,0:20:47.27,Default,NTP,0,0,0,,就被认为可能是白洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}were thought to be maybe white holes.
+Dialogue: 0,0:20:47.63,0:20:51.81,Default,NTP,0,0,0,,为什么呢？因为它们产生大量的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Why? Because they seem to be producing a huge amount of energy.
+Dialogue: 0,0:20:52.45,0:20:54.73,Default,NTP,0,0,0,,现在我们知道这并不是事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We now know that that's not the case.
+Dialogue: 0,0:20:54.78,0:20:57.57,Default,NTP,0,0,0,,类星体其实是由黑洞驱动的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Quasars are actually powered by black holes.
+Dialogue: 0,0:20:58.27,0:21:01.50,Default,NTP,0,0,0,,有些学派声称白洞可能存在于\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's a school of thought that says that anything that can exist
+Dialogue: 0,0:21:01.55,0:21:04.96,Default,NTP,0,0,0,,必定存在于某些地方 如果采纳了他们的意见\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}must exist somewhere. And if one adopts that school of thought
+Dialogue: 0,0:21:05.29,0:21:08.34,Default,NTP,0,0,0,,那么此时我们就必须承认白洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then at the moment we have to admit that white holes
+Dialogue: 0,0:21:08.39,0:21:10.37,Default,NTP,0,0,0,,可能在某些地方存在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}might be out there somewhere.
+Dialogue: 0,0:21:10.86,0:21:13.06,Default,NTP,0,0,0,,要是大自然利用白洞的话…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If nature uses white holes...
+Dialogue: 0,0:21:13.35,0:21:16.98,Default,NTP,0,0,0,,物理学家推测那可能是宇宙最早阶段\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}physicists speculate that they could have been an important element
+Dialogue: 0,0:21:17.03,0:21:19.58,Default,NTP,0,0,0,,的一个重要因素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in the earliest stages of the universe.
+Dialogue: 0,0:21:19.91,0:21:24.00,Default,NTP,0,0,0,,甚至可能是宇宙本身形成的重要因素\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe even in the formation of the universe itself.
+Dialogue: 0,0:21:34.36,0:21:37.78,Default,NTP,0,0,0,,在企图破解某些宇宙的奥秘时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When trying to decode some of the mysteries of the universe
+Dialogue: 0,0:21:38.03,0:21:42.19,Default,NTP,0,0,0,,答案可能真的是黑与白\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the answers may truly be black and white.
+Dialogue: 0,0:21:43.35,0:21:45.80,Default,NTP,0,0,0,,宇宙以大爆炸为起点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The universe began with the big bang:
+Dialogue: 0,0:21:45.97,0:21:48.96,Default,NTP,0,0,0,,一个不断膨胀的物质与能量的火球…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an expanding fireball of matter and energy...
+Dialogue: 0,0:21:50.48,0:21:54.41,Default,NTP,0,0,0,,起源于致密的丁点大的亚原子粒子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that started compressed as a tiny subatomic point
+Dialogue: 0,0:21:54.56,0:21:56.20,Default,NTP,0,0,0,,叫做"奇点"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}called a "singularity."
+Dialogue: 0,0:21:57.62,0:22:02.12,Default,NTP,0,0,0,,奇点里面的引力极强\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A singularity is a region where gravity is immensely strong.
+Dialogue: 0,0:22:03.38,0:22:07.73,Default,NTP,0,0,0,,大爆炸的奇点形成了整个宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The big bang singularity gave rise to the entire universe,
+Dialogue: 0,0:22:07.85,0:22:11.83,Default,NTP,0,0,0,,容纳了空间 时间和所有的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which includes space, time, and all the matter that fills it.
+Dialogue: 0,0:22:16.31,0:22:19.40,Default,NTP,0,0,0,,白洞类似于奇点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A similar type of singularity is a white hole,
+Dialogue: 0,0:22:20.57,0:22:24.85,Default,NTP,0,0,0,,爱因斯坦万有引力理论显示的理论物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a theoretical object that arises in Einstein's theory of gravity.
+Dialogue: 0,0:22:26.60,0:22:29.67,Default,NTP,0,0,0,,它本质上是倒过来的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's essentially a black hole in reverse,
+Dialogue: 0,0:22:31.13,0:22:34.50,Default,NTP,0,0,0,,一个物质被喷出来的奇点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a point of singularity where matter is ejected.
+Dialogue: 0,0:22:35.88,0:22:40.32,Default,NTP,0,0,0,,因此 有些科学家怀疑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Consequently some scientists have wondered if the universe
+Dialogue: 0,0:22:40.66,0:22:43.88,Default,NTP,0,0,0,,宇宙是否就是白洞创造出来的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could have been created from a white hole.
+Dialogue: 0,0:22:45.64,0:22:48.65,Default,NTP,0,0,0,,描述整个宇宙的一个概念\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One idea to describe the entire universe
+Dialogue: 0,0:22:48.68,0:22:50.63,Default,NTP,0,0,0,,就是它就是一个大的白洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has been that it's one big white hole,
+Dialogue: 0,0:22:50.75,0:22:54.38,Default,NTP,0,0,0,,里面存在着一些原始的奇点的突出体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in which there's an emergence from some initial singularity.
+Dialogue: 0,0:22:54.88,0:22:57.35,Default,NTP,0,0,0,,那个创造性的思维众多思维中的一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}That creative thought is one amongst many
+Dialogue: 0,0:22:57.38,0:22:59.69,Default,NTP,0,0,0,,他们关心宇宙是如何萌芽的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for how the universe was seeded
+Dialogue: 0,0:22:59.81,0:23:02.23,Default,NTP,0,0,0,,是如何起源的 大爆炸是如何出现的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and how it began and how the Big Bang emerged.
+Dialogue: 0,0:23:03.53,0:23:07.79,Default,NTP,0,0,0,,思考一下吧 白洞释放出物质而不是吞下物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Think about it. A white hole emits matter, it doesn't gobble up matter.
+Dialogue: 0,0:23:07.91,0:23:11.86,Default,NTP,0,0,0,,然而大爆炸不也是这样吗？那个小小的量子团\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But isn't the Big Bang that same thing? That small little quantum dot
+Dialogue: 0,0:23:11.98,0:23:14.60,Default,NTP,0,0,0,,不也膨胀和喷出物质吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that expands and spews out matter?
+Dialogue: 0,0:23:15.02,0:23:18.91,Default,NTP,0,0,0,,因此也许白洞会是我们宇宙的故事\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So perhaps the white hole could be the story of our universe.
+Dialogue: 0,0:23:22.42,0:23:25.75,Default,NTP,0,0,0,,美国宇航局的威尔金森各向异性探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}NASA's Wilkinson microwave anisotropy probe
+Dialogue: 0,0:23:26.26,0:23:27.65,Default,NTP,0,0,0,,简称WMAP\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}known as WMAP,
+Dialogue: 0,0:23:28.27,0:23:32.79,Default,NTP,0,0,0,,已经测量了很早时期宇宙残留的辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has measured the radiation left over from the very early universe.
+Dialogue: 0,0:23:34.67,0:23:38.84,Default,NTP,0,0,0,,这个宇宙微波背景的研究已经证明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Studies of this cosmic microwave background have confirmed
+Dialogue: 0,0:23:38.96,0:23:41.11,Default,NTP,0,0,0,,宇宙起源于瞬间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the universe began with a brief
+Dialogue: 0,0:23:41.14,0:23:44.33,Default,NTP,0,0,0,,但诞生时增长迅猛 称之为"膨胀"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but colossal growth birth, called "inflation",
+Dialogue: 0,0:23:44.66,0:23:47.95,Default,NTP,0,0,0,,迅猛于膨胀的正常时期\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that preceded its regular phase of expansion.
+Dialogue: 0,0:23:49.69,0:23:53.48,Default,NTP,0,0,0,,所以一些科学家推测 白洞有可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So some scientists speculate whether a white hole
+Dialogue: 0,0:23:53.90,0:23:57.92,Default,NTP,0,0,0,,是这个诞生时增长迅猛的始作俑者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could have been the instigator of this growth birth.
+Dialogue: 0,0:23:59.18,0:24:02.11,Default,NTP,0,0,0,,证据来自我们的空间卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The evidence coming from our space satellites
+Dialogue: 0,0:24:02.14,0:24:04.73,Default,NTP,0,0,0,,比如现在正在地球轨道上运行的WMAP\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like the WMAP orbiting the Earth right now,
+Dialogue: 0,0:24:05.20,0:24:08.17,Default,NTP,0,0,0,,是和多元宇宙的概念相吻合的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is consistent with the idea of a multiverse.
+Dialogue: 0,0:24:08.57,0:24:10.95,Default,NTP,0,0,0,,多元宇宙是由许多宇宙组成的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A multiverse consists of many universes
+Dialogue: 0,0:24:10.98,0:24:14.04,Default,NTP,0,0,0,,就象肥皂泡漂浮在泡沫液里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like soap bubbles floating in a bubble bath.
+Dialogue: 0,0:24:14.62,0:24:19.07,Default,NTP,0,0,0,,在泡沫液里我们看到气泡涨起 破裂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In a bubble bath we have bubbles popping into existence, collapsing back
+Dialogue: 0,0:24:19.38,0:24:22.49,Default,NTP,0,0,0,,产生了婴儿肥皂泡 换句话说\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving birth to baby soap bubbles. So in other words
+Dialogue: 0,0:24:22.84,0:24:25.58,Default,NTP,0,0,0,,大爆炸一直没停过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Big Bangs could be happening all the time.
+Dialogue: 0,0:24:26.02,0:24:28.40,Default,NTP,0,0,0,,也许每个大爆炸都是开始于白洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Perhaps each Big Bang starts with a
+Dialogue: 0,0:24:28.43,0:24:31.13,Default,NTP,0,0,0,,然后迅速膨胀\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}white hole, that then expands rapidly
+Dialogue: 0,0:24:31.25,0:24:33.54,Default,NTP,0,0,0,,带给我们一个初生的宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}giving us a baby universe.
+Dialogue: 0,0:24:37.34,0:24:40.78,Default,NTP,0,0,0,,有待证实 是否存在多元宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's still unproven whether multiple universes exist
+Dialogue: 0,0:24:42.01,0:24:44.90,Default,NTP,0,0,0,,比不是白洞创造了这些宇宙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and whether white holes may have created them.
+Dialogue: 0,0:24:47.04,0:24:50.21,Default,NTP,0,0,0,,但是科学家已经证明了有些类型的白洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But scientists have shown that some types of white holes
+Dialogue: 0,0:24:50.33,0:24:53.53,Default,NTP,0,0,0,,虽然它们在理论上可能非常不稳定\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}although possible in theory are highly unstable.
+Dialogue: 0,0:24:54.70,0:24:56.98,Default,NTP,0,0,0,,它们生命周期不会很长\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They would not survive for very long
+Dialogue: 0,0:24:57.01,0:25:00.49,Default,NTP,0,0,0,,它们很快就崩塌形成黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they simply collapse to form black holes.
+Dialogue: 0,0:25:02.49,0:25:05.35,Default,NTP,0,0,0,,也许白洞扮演了一个角色\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Possibly white holes played a role, perhaps they
+Dialogue: 0,0:25:05.38,0:25:07.33,Default,NTP,0,0,0,,也许它们只形成了一个非常短的时间\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}formed for a very short time
+Dialogue: 0,0:25:07.45,0:25:11.37,Default,NTP,0,0,0,,然而就因为不稳定而崩塌了 甚至在这过程中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but then being unstable they collapsed. But even during that period
+Dialogue: 0,0:25:11.49,0:25:13.69,Default,NTP,0,0,0,,在它们形成的一开始\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}when they were first formed they may have left
+Dialogue: 0,0:25:13.72,0:25:16.80,Default,NTP,0,0,0,,就在未来的宇宙里留下了重要的烙印\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some important imprint on the future of the universe.
+Dialogue: 0,0:25:16.83,0:25:20.19,Default,NTP,0,0,0,,我们不知道这些是不是真的 但却是有可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't know whether that's true, but it's a possibility.
+Dialogue: 0,0:25:20.31,0:25:23.79,Default,NTP,0,0,0,,白洞充满了不错的积极的想象 但是…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}White holes are a nice active imagination, but...
+Dialogue: 0,0:25:24.37,0:25:26.55,Default,NTP,0,0,0,,我不认为它们具有任何的物质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I don't think they have any substance yet.
+Dialogue: 0,0:25:26.58,0:25:29.08,Default,NTP,0,0,0,,它们完全是理论上的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're entirely theoretical objects.
+Dialogue: 0,0:25:29.11,0:25:32.22,Default,NTP,0,0,0,,但另一方面黑洞是曾经风靡一时的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But then black holes were that way once upon a time.
+Dialogue: 0,0:25:34.29,0:25:38.31,Default,NTP,0,0,0,,白洞有可能 也没有可能存在于宇宙的开端\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}White holes might or might not have existed at the beginning of the universe
+Dialogue: 0,0:25:38.99,0:25:43.29,Default,NTP,0,0,0,,但是有一个情况是确定无疑的黑洞已不再是科学幻想了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but one thing's certain: black holes are no longer science fiction.
+Dialogue: 0,0:25:43.85,0:25:45.90,Default,NTP,0,0,0,,它们是科学事实\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're science fact.
+Dialogue: 0,0:25:49.91,0:25:53.68,Default,NTP,0,0,0,,科学家们承认那些快速旋转的旋涡云\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Scientists agree these whirling vortexes are born
+Dialogue: 0,0:25:53.80,0:25:57.02,Default,NTP,0,0,0,,是诞生于濒临死亡的巨大恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}out of the death throes of massive stars.
+Dialogue: 0,0:25:58.91,0:26:02.29,Default,NTP,0,0,0,,在足够大的恒星耗尽其燃料时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When a sufficiently massive star runs out of fuel
+Dialogue: 0,0:26:02.62,0:26:07.34,Default,NTP,0,0,0,,已经无法支撑其自身来对抗它的引力作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it is unable to support itself against its own gravitational pull.
+Dialogue: 0,0:26:08.49,0:26:12.14,Default,NTP,0,0,0,,它就向内塌落形成黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It then collapses inward to form a black hole.
+Dialogue: 0,0:26:14.18,0:26:18.34,Default,NTP,0,0,0,,黑洞在宇宙演化中是个麻烦制造者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are troublemakers in the evolution of the universe.
+Dialogue: 0,0:26:18.85,0:26:23.11,Default,NTP,0,0,0,,它们把物质吸进去 把物质抛出去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They can draw matter in, spew it out
+Dialogue: 0,0:26:23.44,0:26:26.56,Default,NTP,0,0,0,,重组改造宇宙的各个地区\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reform, reorganize regions of the universe,
+Dialogue: 0,0:26:26.94,0:26:28.66,Default,NTP,0,0,0,,也许是银河的某个部分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps part of a galaxy,
+Dialogue: 0,0:26:28.82,0:26:31.68,Default,NTP,0,0,0,,霸占着中央 操纵着…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}take up residence at the center start running the show...
+Dialogue: 0,0:26:31.71,0:26:33.20,Default,NTP,0,0,0,,它们是些强劲的大家伙\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're big muscular things
+Dialogue: 0,0:26:33.20,0:26:37.66,Default,NTP,0,0,0,,乱七八糟的东西围绕这它们运行一刻都停不下来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that lumber around and cannot be stopped.
+Dialogue: 0,0:26:38.00,0:26:41.31,Default,NTP,0,0,0,,黑洞难以察觉是因为他们很暗\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are difficult to detect because they're black
+Dialogue: 0,0:26:43.32,0:26:47.46,Default,NTP,0,0,0,,但是当它们与太空中的其它物体互动时就可以观察到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they can be observed when they interact with something in space,
+Dialogue: 0,0:26:47.66,0:26:49.72,Default,NTP,0,0,0,,比如在塌落的气体里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}such as in falling gas
+Dialogue: 0,0:26:49.75,0:26:53.11,Default,NTP,0,0,0,,气体会被加热而发出X射线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which heats up and glows in X-rays.
+Dialogue: 0,0:26:55.12,0:26:58.78,Default,NTP,0,0,0,,好多年前黑洞被认为不可能的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Years ago black holes were considered to be impossible.
+Dialogue: 0,0:26:59.11,0:27:01.49,Default,NTP,0,0,0,,物理学中有个叫"可笑因子"的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We have something called "the giggle factor" in physics.
+Dialogue: 0,0:27:01.61,0:27:04.55,Default,NTP,0,0,0,,每当人们谈论起黑洞 大家都感到非常可笑\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}People used to giggle whenever we talked about black holes.
+Dialogue: 0,0:27:04.93,0:27:07.00,Default,NTP,0,0,0,,然而现在我们已经看到了数百\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But now we see hundreds,
+Dialogue: 0,0:27:07.03,0:27:10.10,Default,NTP,0,0,0,,数千个黑洞的光彩现象\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thousands of glorious photographs of black holes.
+Dialogue: 0,0:27:13.98,0:27:16.74,Default,NTP,0,0,0,,至少存在两类黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are at least two types of black holes.
+Dialogue: 0,0:27:17.18,0:27:20.15,Default,NTP,0,0,0,,一类叫做"恒星质量的黑洞"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}One is called a "stellar mass black hole",
+Dialogue: 0,0:27:20.68,0:27:24.74,Default,NTP,0,0,0,,大约是太阳质量的3到30倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is approximately 3 to 30 times the mass of our Sun.
+Dialogue: 0,0:27:25.54,0:27:28.50,Default,NTP,0,0,0,,据推测有1亿个这样的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's speculated that 100 million of these
+Dialogue: 0,0:27:28.53,0:27:30.92,Default,NTP,0,0,0,,存在于我们的银河系里\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reside in our Milky Way galaxy
+Dialogue: 0,0:27:31.04,0:27:33.72,Default,NTP,0,0,0,,其它行系里也有这同样的数量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and similar numbers in other galaxies.
+Dialogue: 0,0:27:35.75,0:27:38.37,Default,NTP,0,0,0,,另一个叫做"超大质量黑洞"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The other is a "supermassive black hole",
+Dialogue: 0,0:27:38.40,0:27:41.96,Default,NTP,0,0,0,,是我们太阳质量的几百万到几十亿倍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that is millions to billions of times the mass of our Sun.
+Dialogue: 0,0:27:47.96,0:27:50.55,Default,NTP,0,0,0,,我们认为这个庞大的怪物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's believed that this humongous monster
+Dialogue: 0,0:27:50.58,0:27:53.70,Default,NTP,0,0,0,,存在于大多数非常庞大的行系的中心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}lives at the center of most every large galaxy.
+Dialogue: 0,0:27:55.86,0:27:58.18,Default,NTP,0,0,0,,我们的银河系里就有一个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Our own Milky Way galaxy has one.
+Dialogue: 0,0:28:00.49,0:28:04.02,Default,NTP,0,0,0,,然而无论它们是恒星质量规模还是超级庞大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Yet whether they're stellar mass size or super massive,
+Dialogue: 0,0:28:04.22,0:28:07.27,Default,NTP,0,0,0,,所有的黑洞都是宇宙间的吃人者\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}all black holes are cosmic cannibals.
+Dialogue: 0,0:28:09.89,0:28:13.58,Default,NTP,0,0,0,,黑洞某些方面象宇宙捕蟑盒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A black hole in some sense is like a cosmic roach motel.
+Dialogue: 0,0:28:13.80,0:28:16.95,Default,NTP,0,0,0,,有东西进去却没东西出来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Everything checks in but nothing checks out.
+Dialogue: 0,0:28:18.49,0:28:21.39,Default,NTP,0,0,0,,访问黑洞是荒诞的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A trip to a black hole would be fantastic,
+Dialogue: 0,0:28:21.42,0:28:23.00,Default,NTP,0,0,0,,几乎是痴人说梦\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}almost psychedelic.
+Dialogue: 0,0:28:23.13,0:28:25.62,Default,NTP,0,0,0,,就象是找死\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's like having a near-death experience.
+Dialogue: 0,0:28:26.04,0:28:28.64,Default,NTP,0,0,0,,如果你离黑洞很近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}As you get even closer to the black hole
+Dialogue: 0,0:28:29.32,0:28:32.70,Default,NTP,0,0,0,,吸引力就将你的身体撕开\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tidal forces begin to stretch your body apart
+Dialogue: 0,0:28:32.82,0:28:35.79,Default,NTP,0,0,0,,那么你的头部 屁股\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so that the top of your body and the bottom of your body
+Dialogue: 0,0:28:35.82,0:28:38.14,Default,NTP,0,0,0,,体验到了不同的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}experience different gravitational forces,
+Dialogue: 0,0:28:38.26,0:28:42.16,Default,NTP,0,0,0,,你就成了意大利面条了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and you become "spaghettified". Eventually even the atoms
+Dialogue: 0,0:28:42.19,0:28:45.60,Default,NTP,0,0,0,,最终甚至你身体中的原子都变成了面条四分五裂\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of your body become noodles and become ripped apart.
+Dialogue: 0,0:28:47.22,0:28:49.62,Default,NTP,0,0,0,,至于超大质量黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the case of a supermassive black hole
+Dialogue: 0,0:28:49.84,0:28:52.58,Default,NTP,0,0,0,,意大利面条的加工过程稍微有点不同\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the process of spaghettification is somewhat different.
+Dialogue: 0,0:28:53.24,0:28:56.76,Default,NTP,0,0,0,,人跳进去不会马上变成面条\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The person jumping in wouldn't be spaghettified
+Dialogue: 0,0:28:56.91,0:28:59.15,Default,NTP,0,0,0,,一直要到通过了黑洞的边界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until passing through the event horizon
+Dialogue: 0,0:28:59.18,0:29:03.87,Default,NTP,0,0,0,,原因是拉伸人体的潮汐力量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the reason for that is because the tidal forces that would stretch him
+Dialogue: 0,0:29:03.90,0:29:07.73,Default,NTP,0,0,0,,还不够强大 一直要到离奇点很近才行\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}aren't strong enough until you get closer to the singularity.
+Dialogue: 0,0:29:08.59,0:29:12.38,Default,NTP,0,0,0,,因此人跳进去会有片刻的感觉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So the person jumping in would have a few moments of perception
+Dialogue: 0,0:29:12.41,0:29:15.26,Default,NTP,0,0,0,,他们在黑洞里面会感到惊奇\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that they were inside of a black hole and they could marvel at that idea,
+Dialogue: 0,0:29:15.29,0:29:16.70,Default,NTP,0,0,0,,随后猛然…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}before they plunged
+Dialogue: 0,0:29:16.74,0:29:19.82,Default,NTP,0,0,0,,跌进奇点变成了面条\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}toward the singularity and then became spaghettified.
+Dialogue: 0,0:29:22.25,0:29:25.02,Default,NTP,0,0,0,,如果一个黑洞还不够残暴的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if one black hole isn't violent enough
+Dialogue: 0,0:29:25.24,0:29:29.12,Default,NTP,0,0,0,,那么就来试一下两个黑洞为了支配地位的决斗吧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}try two black holes dueling for dominance.
+Dialogue: 0,0:29:43.02,0:29:45.41,Default,NTP,0,0,0,,在浩瀚的太空中\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the vastness of space
+Dialogue: 0,0:29:45.44,0:29:48.70,Default,NTP,0,0,0,,黑洞偶尔也会成双成对\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}black holes occasionally pair off.
+Dialogue: 0,0:29:49.08,0:29:51.28,Default,NTP,0,0,0,,在我看来仿佛它们在相互表现魅力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I may appear as though they're engaging
+Dialogue: 0,0:29:51.31,0:29:53.87,Default,NTP,0,0,0,,有点象宇宙间的求爱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in some sort of cosmic courtship
+Dialogue: 0,0:29:55.15,0:29:58.57,Default,NTP,0,0,0,,但是这些结合根本就不和谐\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but these unions are anything but harmonious.
+Dialogue: 0,0:30:00.45,0:30:03.05,Default,NTP,0,0,0,,一旦两个黑洞靠得很近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When two black holes get too close
+Dialogue: 0,0:30:03.08,0:30:05.92,Default,NTP,0,0,0,,它们就会被相互间的引力套牢\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they become trapped by each other's gravity.
+Dialogue: 0,0:30:06.42,0:30:10.15,Default,NTP,0,0,0,,这两个相互围绕这运转的黑洞就像快速旋转的托钵僧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The two orbit around each other like whirling dervishes.
+Dialogue: 0,0:30:11.93,0:30:13.89,Default,NTP,0,0,0,,这些结对的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These binary black holes
+Dialogue: 0,0:30:13.92,0:30:16.89,Default,NTP,0,0,0,,最终将碰撞合并在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will eventually collide and coalesce.
+Dialogue: 0,0:30:19.28,0:30:22.97,Default,NTP,0,0,0,,人们认为黑洞之间的碰撞十分普遍\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's believed that collisions between black holes would be quite common.
+Dialogue: 0,0:30:23.36,0:30:26.48,Default,NTP,0,0,0,,它们会相互围绕着运转然后向内旋转\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They would be in orbit around each other and then spiral inwards
+Dialogue: 0,0:30:26.51,0:30:28.93,Default,NTP,0,0,0,,在某些时候它们会合并起来\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and at some point they would coalesce
+Dialogue: 0,0:30:29.22,0:30:34.22,Default,NTP,0,0,0,,而合并会造成时空中巨大的混乱\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that coalescence creates a huge disturbance in space-time.
+Dialogue: 0,0:30:35.18,0:30:39.13,Default,NTP,0,0,0,,如果有两个扭曲四周大量空间的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you have two objects that are bending space a lot around them
+Dialogue: 0,0:30:39.48,0:30:40.86,Default,NTP,0,0,0,,它们合并在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and they merge together
+Dialogue: 0,0:30:41.32,0:30:46.52,Default,NTP,0,0,0,,那么就会泛起涟漪波纹将释放出所携带的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}then you'll get this ripple, this wave going out carrying energy with it.
+Dialogue: 0,0:30:51.25,0:30:53.60,Default,NTP,0,0,0,,具有代表性的是当黑洞碰撞时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Typically, when black holes collide
+Dialogue: 0,0:30:54.58,0:30:58.49,Default,NTP,0,0,0,,会产生狂野的震动 叫做"引力波"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they create wild vibrations called"gravitational waves"
+Dialogue: 0,0:30:59.63,0:31:02.85,Default,NTP,0,0,0,,它会跨越时空进行传播\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which spread across the fabric of space and time.
+Dialogue: 0,0:31:05.76,0:31:09.46,Default,NTP,0,0,0,,这些涟漪就象你在池塘水面上看到涟漪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These ripples will be just like the ripples you would have say on the surface of a pond.
+Dialogue: 0,0:31:09.49,0:31:12.93,Default,NTP,0,0,0,,如果你向池塘里扔块卵石就会产生一个干扰\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you threw a pebble into a pond it creates a disturbance
+Dialogue: 0,0:31:13.05,0:31:15.86,Default,NTP,0,0,0,,接着你就会看到涟漪泛起…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then you see the ripples carrying...
+Dialogue: 0,0:31:16.42,0:31:19.08,Default,NTP,0,0,0,,干扰到池塘的远处各点\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that disturbance away to far points of the pond.
+Dialogue: 0,0:31:21.49,0:31:25.97,Default,NTP,0,0,0,,过去 结对的黑洞的碰撞很难被察觉\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the past binary black hole collisions were impossible to identify.
+Dialogue: 0,0:31:26.69,0:31:30.76,Default,NTP,0,0,0,,现在科学家们开发了引力波探测器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Now scientists have developed gravitational wave detectors
+Dialogue: 0,0:31:31.06,0:31:32.90,Default,NTP,0,0,0,,来追踪这些震动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to track these vibrations
+Dialogue: 0,0:31:32.93,0:31:36.53,Default,NTP,0,0,0,,可望捕捉到黑洞的碰撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and hopefully catch black hole collisions in the act.
+Dialogue: 0,0:31:42.33,0:31:44.60,Default,NTP,0,0,0,,LIGO(激光干涉引力波天文台)是地面天文台\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}LIGO is a ground-based observatory
+Dialogue: 0,0:31:44.63,0:31:46.93,Default,NTP,0,0,0,,眼下正在进行引力波的搜索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that's currently searching for gravity waves
+Dialogue: 0,0:31:46.96,0:31:51.28,Default,NTP,0,0,0,,包括比我们的太阳质量大几倍的恒星规模的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}produced from collisions involving stellar-sized black holes
+Dialogue: 0,0:31:51.81,0:31:54.25,Default,NTP,0,0,0,,黑洞碰撞所产生的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a few times the mass of our Sun.
+Dialogue: 0,0:31:55.63,0:31:57.34,Default,NTP,0,0,0,,这个系统利用激光\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The system uses lasers
+Dialogue: 0,0:31:57.46,0:32:02.31,Default,NTP,0,0,0,,来测量靠金属线吊着的镜子的移动\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to measure the motions of mirrors that hang by wires from overhead supports.
+Dialogue: 0,0:32:04.95,0:32:07.14,Default,NTP,0,0,0,,当两个黑洞合并时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When two black holes merge together
+Dialogue: 0,0:32:07.17,0:32:09.50,Default,NTP,0,0,0,,它们将释放出引力波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}they'll release these gravitational waves,
+Dialogue: 0,0:32:09.53,0:32:12.39,Default,NTP,0,0,0,,就会在太空中产生涟漪\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these ripples in the shape of space.
+Dialogue: 0,0:32:12.77,0:32:15.32,Default,NTP,0,0,0,,当涟漪经过这些了不起的玩艺儿时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And as the ripples pass by
+Dialogue: 0,0:32:15.79,0:32:20.47,Default,NTP,0,0,0,,就会非常细微地改变\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}these giant contraptions they alter ever so slightly
+Dialogue: 0,0:32:20.57,0:32:23.33,Default,NTP,0,0,0,,这些探测器之间的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the distances between these detectors
+Dialogue: 0,0:32:23.52,0:32:25.85,Default,NTP,0,0,0,,探测器实际上就能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and the detectors can actually...
+Dialogue: 0,0:32:25.99,0:32:29.44,Default,NTP,0,0,0,,监测到距离的变化\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}monitor and see that change in distance
+Dialogue: 0,0:32:29.66,0:32:32.94,Default,NTP,0,0,0,,那就是引力波前来报到了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and that's the signature of a gravitational wave coming by.
+Dialogue: 0,0:32:35.14,0:32:36.93,Default,NTP,0,0,0,,未来的LISA\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In the future LISA,
+Dialogue: 0,0:32:36.96,0:32:39.87,Default,NTP,0,0,0,,由美国宇航局和欧洲航天局合作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a joint NASA and European Space Agency mission,
+Dialogue: 0,0:32:40.23,0:32:45.04,Default,NTP,0,0,0,,将能够发现超大质量黑洞碰撞造成的引力波\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}will be able to detect waves from collisions involving supermassive black holes.
+Dialogue: 0,0:32:48.30,0:32:51.74,Default,NTP,0,0,0,,这些两个星系合并所产生的影响\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These impacts occur after two galaxies have merged
+Dialogue: 0,0:32:52.58,0:32:55.82,Default,NTP,0,0,0,,它们那超大质量黑洞就会淹没在\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and their supermassive black holes sink to the center
+Dialogue: 0,0:32:55.94,0:32:59.43,Default,NTP,0,0,0,,新形成的星系中央 并且相互寻找对方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of the newly formed galaxy and find each other.
+Dialogue: 0,0:33:04.03,0:33:09.14,Default,NTP,0,0,0,,如果两个超大质量黑洞碰撞还不够混乱的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And if collisions involving two supermassive black holes isn't chaotic enough,
+Dialogue: 0,0:33:09.26,0:33:10.30,Default,NTP,0,0,0,,那么就来看看三个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}try three.
+Dialogue: 0,0:33:12.86,0:33:17.18,Default,NTP,0,0,0,,2007年1月 美国和欧洲的卫星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In January 2007 U.S. and European Satellites
+Dialogue: 0,0:33:17.21,0:33:19.94,Default,NTP,0,0,0,,居然观察到了三个\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}actually observed black hole triplets
+Dialogue: 0,0:33:20.56,0:33:24.68,Default,NTP,0,0,0,,它们在100亿光年外的室女座\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Ten billions light-years away in the Virgo constellation.
+Dialogue: 0,0:33:26.87,0:33:30.89,Default,NTP,0,0,0,,它们实际上三个类星体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're actually three Quasars which are luminous objects
+Dialogue: 0,0:33:31.01,0:33:36.76,Default,NTP,0,0,0,,认为是由位于星系中心的超大质量黑洞提供动力的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}thought to be powered by supermassive black holes located in the centers of galaxies.
+Dialogue: 0,0:33:39.27,0:33:42.28,Default,NTP,0,0,0,,这三个互相靠近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This trio is in close proximity to one another.
+Dialogue: 0,0:33:42.66,0:33:47.06,Default,NTP,0,0,0,,它们之间只有10万到15万光年的距离\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're only about 100,000 to 150,000 light-years apart
+Dialogue: 0,0:33:47.74,0:33:50.45,Default,NTP,0,0,0,,相当于我们银河系的宽度\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is about the width of our Milky Way.
+Dialogue: 0,0:33:53.09,0:33:58.25,Default,NTP,0,0,0,,十有八九 这三个最终将进行恶意兼并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In all probability the three will eventually engage in a hostile merger.
+Dialogue: 0,0:34:01.56,0:34:04.25,Default,NTP,0,0,0,,如果你将这三个大黑洞放到靠得很近\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If you take three large black holes
+Dialogue: 0,0:34:04.45,0:34:08.36,Default,NTP,0,0,0,,因为两个大的旋转即椭圆星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}brought close together because two big spiral or elliptical galaxies
+Dialogue: 0,0:34:08.39,0:34:11.57,Default,NTP,0,0,0,,已经撞在一起了 那真是一场混战了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}have slammed together then it's a real free-for-all.
+Dialogue: 0,0:34:11.81,0:34:15.54,Default,NTP,0,0,0,,它们中的两个将胜出而第三个将出局\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And two of them could win the game and throw the third one out.
+Dialogue: 0,0:34:17.85,0:34:20.76,Default,NTP,0,0,0,,三个物体相互之间的引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Gravitational interactions between three bodies
+Dialogue: 0,0:34:20.79,0:34:22.72,Default,NTP,0,0,0,,会导致将其中的一个超大质量黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}can lead to the ejection
+Dialogue: 0,0:34:22.86,0:34:26.06,Default,NTP,0,0,0,,喷射出系统\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of one of the supermassive black holes from the system
+Dialogue: 0,0:34:26.21,0:34:28.81,Default,NTP,0,0,0,,然后你就只留下了两个超大质量黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and then you're just left with a binary
+Dialogue: 0,0:34:28.84,0:34:32.42,Default,NTP,0,0,0,,最终也将合并\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}supermassive pair that will coalesce ultimately.
+Dialogue: 0,0:34:34.60,0:34:37.48,Default,NTP,0,0,0,,被逐出的那个超大质量黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The supermassive black hole that gets ejected
+Dialogue: 0,0:34:37.51,0:34:40.38,Default,NTP,0,0,0,,明显被足够的速度喷射出去\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is ejected typically with enough speed
+Dialogue: 0,0:34:40.61,0:34:42.81,Default,NTP,0,0,0,,它携带不了恒星\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that it can't carry stars with it
+Dialogue: 0,0:34:43.56,0:34:46.03,Default,NTP,0,0,0,,所以就变成了离群闲逛的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}so it becomes a rogue black hole.
+Dialogue: 0,0:34:46.24,0:34:47.92,Default,NTP,0,0,0,,它孤芳自赏了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's off on its own.
+Dialogue: 0,0:34:51.36,0:34:53.72,Default,NTP,0,0,0,,现代科学持续不断地破解了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Modern science continues to unravel
+Dialogue: 0,0:34:53.75,0:34:56.13,Default,NTP,0,0,0,,黑洞周围的奥秘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the mysteries surrounding black holes
+Dialogue: 0,0:34:56.68,0:35:00.30,Default,NTP,0,0,0,,但是某些问题始终未解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but for some one enduring question remains.
+Dialogue: 0,0:35:03.00,0:35:06.09,Default,NTP,0,0,0,,所有黑洞物理学中最深层的问题是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The deepest question in all of black hole physics
+Dialogue: 0,0:35:06.12,0:35:09.65,Default,NTP,0,0,0,,黑洞的对立面是什么呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is "what lies on the other side of a black hole?"
+Dialogue: 0,0:35:10.14,0:35:13.51,Default,NTP,0,0,0,,如果将百科全书扔进黑洞会有什么结果？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}What happens if you throw the encyclopedia into a black hole?
+Dialogue: 0,0:35:13.54,0:35:16.60,Default,NTP,0,0,0,,所有的信息都会丢失吗？我们确实不知道\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Is all that information lost? We don't know for sure.
+Dialogue: 0,0:35:18.75,0:35:21.71,Default,NTP,0,0,0,,根据爱因斯坦的广义相对论\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}According to Einstein's general relativity laws
+Dialogue: 0,0:35:22.10,0:35:24.88,Default,NTP,0,0,0,,没什么能逃脱黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}nothing can ever come out of a black hole.
+Dialogue: 0,0:35:26.32,0:35:28.83,Default,NTP,0,0,0,,但如果一个黑洞极其细小\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But if a black hole is extremely tiny
+Dialogue: 0,0:35:29.35,0:35:34.26,Default,NTP,0,0,0,,量子力学将和广义相对论并起来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the laws of quantum mechanics merge with the laws of general relativity.
+Dialogue: 0,0:35:37.03,0:35:40.80,Default,NTP,0,0,0,,量子力学管辖着微观世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Quantum mechanics governs the world of the very small
+Dialogue: 0,0:35:40.99,0:35:45.09,Default,NTP,0,0,0,,比如电子 中子及其它次原子微粒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}such as electrons, neutrons and other subatomic particles.
+Dialogue: 0,0:35:46.31,0:35:49.57,Default,NTP,0,0,0,,广义相对论管辖着宏观世界\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}General relativity rules the world of the very large
+Dialogue: 0,0:35:50.13,0:35:52.27,Default,NTP,0,0,0,,那里 受着普通的万有引力支配\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where ordinary gravity is dominant
+Dialogue: 0,0:35:52.30,0:35:54.98,Default,NTP,0,0,0,,比如行星 恒星和星系\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}like planets, stars and galaxies.
+Dialogue: 0,0:35:57.32,0:36:00.00,Default,NTP,0,0,0,,事实上当你将量子论与黑洞放在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The fact is, when you put together quantum theory with black holes
+Dialogue: 0,0:36:00.03,0:36:02.58,Default,NTP,0,0,0,,你就会发现它们并不完全是\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}you find that they aren't completely
+Dialogue: 0,0:36:03.03,0:36:07.08,Default,NTP,0,0,0,,只吞噬不吐东西的懒惰的物体\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}inert objects that only suck things in and nothing comes out.
+Dialogue: 0,0:36:07.26,0:36:08.56,Default,NTP,0,0,0,,它们实际上是有射线的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They actually radiate.
+Dialogue: 0,0:36:10.69,0:36:14.34,Default,NTP,0,0,0,,有射线的黑洞称之为"迷你黑洞"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The black holes that radiate are called "mini black holes"
+Dialogue: 0,0:36:14.78,0:36:17.53,Default,NTP,0,0,0,,它们要比其恒星质量的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which are much smaller than their stellar-mass
+Dialogue: 0,0:36:17.56,0:36:20.14,Default,NTP,0,0,0,,或超大质量黑洞兄弟小很多\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}or supermassive black hole cousins.
+Dialogue: 0,0:36:24.03,0:36:27.20,Default,NTP,0,0,0,,著名的物理学家史蒂芬·霍金提出\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Celebrated physicist Stephen Hawking proposed
+Dialogue: 0,0:36:27.23,0:36:31.31,Default,NTP,0,0,0,,如果有迷你黑洞存在它们就必定会发出辐射\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that if mini black holes exist they must emit radiation
+Dialogue: 0,0:36:31.92,0:36:34.50,Default,NTP,0,0,0,,这被命名为"霍金辐射"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which has been named "Hawking radiation".
+Dialogue: 0,0:36:35.33,0:36:38.94,Default,NTP,0,0,0,,据认为这种辐射会造成微小的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It is believed this radiation will cause a tiny black hole
+Dialogue: 0,0:36:38.97,0:36:42.39,Default,NTP,0,0,0,,蒸发和潜在的消失\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to evaporate and potentially disappear.
+Dialogue: 0,0:36:45.46,0:36:47.88,Default,NTP,0,0,0,,霍金给出了数学证明\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hawking gave mathematical evidence
+Dialogue: 0,0:36:47.95,0:36:51.71,Default,NTP,0,0,0,,在微小的黑洞形成然后蒸发时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that when a tiny black hole forms and then evaporates
+Dialogue: 0,0:36:51.85,0:36:54.90,Default,NTP,0,0,0,,一些信息会带进黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}some of the information that went into the black hole
+Dialogue: 0,0:36:54.96,0:36:57.46,Default,NTP,0,0,0,,永远回不来了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}never comes back out.
+Dialogue: 0,0:36:58.22,0:37:02.68,Default,NTP,0,0,0,,这个惊人的预言给物理学家们带来了一场大灾难\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This startling prediction caused a firestorm among physicists,
+Dialogue: 0,0:37:02.80,0:37:05.42,Default,NTP,0,0,0,,因为量子理论坚持\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}because the laws of quantum theory insist
+Dialogue: 0,0:37:05.48,0:37:08.90,Default,NTP,0,0,0,,信息决不可能完全被消灭\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that information can never be completely destroyed.
+Dialogue: 0,0:37:10.13,0:37:12.18,Default,NTP,0,0,0,,基本上世界分成了两个阵营\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Essentially the world split into two camps:
+Dialogue: 0,0:37:12.24,0:37:14.73,Default,NTP,0,0,0,,有些人认为霍金的预言是对的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those who believe that Hawking's calculation
+Dialogue: 0,0:37:14.82,0:37:17.40,Default,NTP,0,0,0,,而对立面则认为:"那好\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}was really it, and the other camp that said:"Well,
+Dialogue: 0,0:37:17.46,0:37:20.30,Default,NTP,0,0,0,,霍金的预言需要进一步地推敲"\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Hawking's calculation needs refining."
+Dialogue: 0,0:37:20.33,0:37:23.82,Default,NTP,0,0,0,,弦理论和其他理论似乎暗示了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}String theory and other theories seem to suggest
+Dialogue: 0,0:37:23.89,0:37:25.84,Default,NTP,0,0,0,,信息实际上是保存着\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that the information is actually preserved.
+Dialogue: 0,0:37:25.87,0:37:28.23,Default,NTP,0,0,0,,只是要非常巧妙地获得\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It just comes out very subtly.
+Dialogue: 0,0:37:29.29,0:37:34.19,Default,NTP,0,0,0,,进入黑洞里面的信息的结局的问题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The question of what happens to the information that goes inside a black hole is,
+Dialogue: 0,0:37:34.35,0:37:37.43,Default,NTP,0,0,0,,我认为没有完全解决\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}I think, not fully settled.
+Dialogue: 0,0:37:37.60,0:37:41.93,Default,NTP,0,0,0,,进入黑洞的物体的化学成分\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The chemical composition of the objects that went into the black hole,
+Dialogue: 0,0:37:42.40,0:37:46.40,Default,NTP,0,0,0,,它们的其它形态 颜色 温度等等\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the other aspects of them, their color, their temperature, et cetera et cetera.
+Dialogue: 0,0:37:46.80,0:37:49.83,Default,NTP,0,0,0,,我们真的不知道那些信息的结局\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We don't really know what happens to that information.
+Dialogue: 0,0:37:54.51,0:37:55.94,Default,NTP,0,0,0,,看来不大可能\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It appears unlikely
+Dialogue: 0,0:37:55.97,0:37:59.29,Default,NTP,0,0,0,,科学家们会冒险进入任何一个黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that scientists could venture inside any black hole
+Dialogue: 0,0:37:59.34,0:38:03.58,Default,NTP,0,0,0,,取出一块带回家来报告他们的调查结果\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and return back home in one piece, to report their findings.
+Dialogue: 0,0:38:06.02,0:38:08.82,Default,NTP,0,0,0,,然而科学家的全球合作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But a worldwide collaboration of scientists
+Dialogue: 0,0:38:08.88,0:38:11.86,Default,NTP,0,0,0,,可能处于下一个最大的事情的边缘:\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may be on the verge of the next best thing:
+Dialogue: 0,0:38:12.09,0:38:16.31,Default,NTP,0,0,0,,制造出微小的黑洞 就在地球上!\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}manufacturing tiny black holes, right here on Earth.
+Dialogue: 0,0:38:26.46,0:38:31.56,Default,NTP,0,0,0,,如今科学家们退回到了宇宙研究的分界线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Today, scientists are pushing back the boundaries of cosmic research.
+Dialogue: 0,0:38:34.33,0:38:37.88,Default,NTP,0,0,0,,如果自然形成的黑洞不够可怕的话\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}If naturally formed black holes aren't scary enough,
+Dialogue: 0,0:38:38.00,0:38:40.42,Default,NTP,0,0,0,,那么黑洞工厂又有什么呢？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}what about a black hole factory?
+Dialogue: 0,0:38:45.08,0:38:48.75,Default,NTP,0,0,0,,在瑞士的CERN物理实验室(欧洲粒子物理实验室)\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In Switzerland, at the physics laboratory called CERN,
+Dialogue: 0,0:38:50.00,0:38:53.11,Default,NTP,0,0,0,,科学家已经建起了大型强子对撞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientists have built the Large Hadron Collider
+Dialogue: 0,0:38:53.88,0:38:58.20,Default,NTP,0,0,0,,最大 最复杂 以前从来没有过的科学实验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}the biggest, most complex, science experiment ever constructed.
+Dialogue: 0,0:39:00.16,0:39:02.10,Default,NTP,0,0,0,,这是一种粒子加速器\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's a particle accelerator,
+Dialogue: 0,0:39:02.16,0:39:06.53,Default,NTP,0,0,0,,十七英里长 5架大型喷气式客机的重量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}17 miles long and the weight of five jumbo jets.
+Dialogue: 0,0:39:07.00,0:39:10.81,Default,NTP,0,0,0,,它能够将次原子粒子挤压在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}It's capable of crushing subatomic particles together
+Dialogue: 0,0:39:10.92,0:39:15.87,Default,NTP,0,0,0,,复制大爆炸后百万分之几秒里的能量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to replicate the energies that existed microseconds after the Big Bang.
+Dialogue: 0,0:39:18.01,0:39:20.56,Default,NTP,0,0,0,,设计和建造这个粒子对撞机\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}This particle collider was designed and built
+Dialogue: 0,0:39:20.59,0:39:24.41,Default,NTP,0,0,0,,是为了研究基本粒子物理学中的重要课题\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to study important questions in fundamental particle physics.
+Dialogue: 0,0:39:25.83,0:39:28.97,Default,NTP,0,0,0,,然而它将这么多的能量硬挤在一起\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But it will cram so much energy together
+Dialogue: 0,0:39:29.20,0:39:33.30,Default,NTP,0,0,0,,如果物理学家侥幸碰到那些能量的自然运作\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that if physicists are lucky about how nature works at those energies,
+Dialogue: 0,0:39:33.41,0:39:36.78,Default,NTP,0,0,0,,那也就能产生微小的黑洞了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}it could also produce tiny black holes.
+Dialogue: 0,0:39:38.28,0:39:42.02,Default,NTP,0,0,0,,我们认为能够看到微观黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We might be able to see microscopic black holes being formed
+Dialogue: 0,0:39:42.12,0:39:44.54,Default,NTP,0,0,0,,正在这些高能碰撞中形成\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}in these high energy collisions and
+Dialogue: 0,0:39:45.10,0:39:48.42,Default,NTP,0,0,0,,那些黑洞接着就能够得到研究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}those black holes would then be amenable to study.
+Dialogue: 0,0:39:48.49,0:39:50.36,Default,NTP,0,0,0,,它们会迅速蒸发\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They would rapidly evaporate.
+Dialogue: 0,0:39:50.39,0:39:53.43,Default,NTP,0,0,0,,我们将能够研究它们的衰变产物\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}We'll be able to study their decay products, and understand
+Dialogue: 0,0:39:53.87,0:39:56.35,Default,NTP,0,0,0,,在实验室里了解量子引力的物理性质\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}physics of quantum gravity in the laboratory,
+Dialogue: 0,0:39:56.45,0:39:59.98,Default,NTP,0,0,0,,这是我们有生之年永远的梦想追求的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which is something that we never dreamed to be able to do in our lifetimes.
+Dialogue: 0,0:40:02.43,0:40:05.75,Default,NTP,0,0,0,,然而制造迷你黑洞的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}But the possibility of manufacturing mini black holes
+Dialogue: 0,0:40:05.78,0:40:08.27,Default,NTP,0,0,0,,已经引起了怀疑和恐惧\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}has roused suspicion and fear.
+Dialogue: 0,0:40:08.87,0:40:11.38,Default,NTP,0,0,0,,它们会摆脱地球引力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Could they escape the Earth's gravity
+Dialogue: 0,0:40:11.40,0:40:13.83,Default,NTP,0,0,0,,最终吞噬我们地球吗？\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and eventually devour our planet?
+Dialogue: 0,0:40:16.25,0:40:19.53,Default,NTP,0,0,0,,来自外层空间的宇宙射线一直在轰击地球\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Cosmic rays from outer space hit the Earth all the time
+Dialogue: 0,0:40:19.60,0:40:22.78,Default,NTP,0,0,0,,也许要比这些迷你黑洞的能量更大\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}perhaps with more energy than these mini black holes.
+Dialogue: 0,0:40:23.25,0:40:25.59,Default,NTP,0,0,0,,所以这些迷你黑洞是无害的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So these mini black holes are harmless.
+Dialogue: 0,0:40:25.62,0:40:29.14,Default,NTP,0,0,0,,它们不会吃掉地球的 它们不是世界末日的设备\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They're not gonna eat up the Earth. They are not a doomsday device.
+Dialogue: 0,0:40:30.70,0:40:34.68,Default,NTP,0,0,0,,类似的迷你黑洞恐惧 在美国也发生过\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}A similar mini black hole scare, happened in the United States.
+Dialogue: 0,0:40:35.89,0:40:37.57,Default,NTP,0,0,0,,在纽约的布鲁克海文\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}In Brookhaven, New York
+Dialogue: 0,0:40:37.60,0:40:41.25,Default,NTP,0,0,0,,较小的对撞实验早在进行了\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a smaller collider experiment is already underway.
+Dialogue: 0,0:40:42.90,0:40:47.08,Default,NTP,0,0,0,,相对论重离子对撞机 简称RHIC\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The Relativistic Heavy Ion Collider, better known as RHIC,
+Dialogue: 0,0:40:47.11,0:40:49.09,Default,NTP,0,0,0,,是一个地下管线\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}is an underground pipeline
+Dialogue: 0,0:40:49.67,0:40:52.23,Default,NTP,0,0,0,,黄金原子在里面对撞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}where gold atoms collide together
+Dialogue: 0,0:40:52.30,0:40:55.63,Default,NTP,0,0,0,,其速度达到光速的99.9%\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}at 99.9 percent the speed of light.
+Dialogue: 0,0:41:00.50,0:41:03.33,Default,NTP,0,0,0,,2000年实验开始时\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}When the experiment began, in the year 2000,
+Dialogue: 0,0:41:03.83,0:41:08.14,Default,NTP,0,0,0,,消息传出那些迎面相撞将制造出黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}news spread that these head-on impacts created black holes.
+Dialogue: 0,0:41:10.36,0:41:14.34,Default,NTP,0,0,0,,实验室非常负责任 决定作出回应让人们放心\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The laboratory, which is very responsible, decided that it need to respond to this and
+Dialogue: 0,0:41:14.40,0:41:18.09,Default,NTP,0,0,0,,因此召集了一帮人来进行评判\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}reassure people. So it convened a group to look at this
+Dialogue: 0,0:41:18.50,0:41:20.59,Default,NTP,0,0,0,,那帮人发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and what that group found was
+Dialogue: 0,0:41:20.69,0:41:24.52,Default,NTP,0,0,0,,这些碰撞早已在外太空发生了…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that these kinds of collisions had been happening in outer space and...
+Dialogue: 0,0:41:24.63,0:41:27.64,Default,NTP,0,0,0,,从来没有造成任何问题从理论上说…\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}that had never caused a problem. Theoretically...
+Dialogue: 0,0:41:27.78,0:41:30.55,Default,NTP,0,0,0,,我们是在这些碰撞中创造条件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}we produce conditions, in these collisions, which should
+Dialogue: 0,0:41:30.61,0:41:34.93,Default,NTP,0,0,0,,这些条件是数学给出的理论上的黑洞周围的一些类似条件\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}mathematically give some similarity to the theory that surrounds black holes,
+Dialogue: 0,0:41:34.96,0:41:37.41,Default,NTP,0,0,0,,但实际上我们完全是安全的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but in practice, we're completely safe.
+Dialogue: 0,0:41:37.64,0:41:43.16,Default,NTP,0,0,0,,根本不用担心在RHIC会制造出任何黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There's no way that any black hole that could be a concern could be produced here at RHIC.
+Dialogue: 0,0:41:44.71,0:41:46.95,Default,NTP,0,0,0,,是的 RHIC确实没有能力\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Well, RHIC certainly is not capable
+Dialogue: 0,0:41:46.98,0:41:49.95,Default,NTP,0,0,0,,做出任何一种黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of producing a black hole of any kind.
+Dialogue: 0,0:41:50.65,0:41:56.16,Default,NTP,0,0,0,,这里通过多个数量级创造不出足够的质量\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There is not enough mass which is being created here by many orders of magnitude.
+Dialogue: 0,0:41:57.54,0:42:00.67,Default,NTP,0,0,0,,尽管RHIC不可能制造出迷你黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Although RHIC cannot create mini black holes,
+Dialogue: 0,0:42:01.43,0:42:05.11,Default,NTP,0,0,0,,但科学家可以通过这些粒子碰撞的灰烬\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}scientists can go through the ashes of these particle collisions
+Dialogue: 0,0:42:06.05,0:42:07.90,Default,NTP,0,0,0,,来研究那早期时刻\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to learn about the early moments:
+Dialogue: 0,0:42:07.93,0:42:11.09,Default,NTP,0,0,0,,大爆炸后的百万分之几秒\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}a few microseconds after the Big Bang.
+Dialogue: 0,0:42:12.45,0:42:14.67,Default,NTP,0,0,0,,因此我们能够利用这个知识\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}So we can use this knowledge
+Dialogue: 0,0:42:15.33,0:42:17.25,Default,NTP,0,0,0,,以便更好地了解\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to gain a better understanding
+Dialogue: 0,0:42:17.28,0:42:19.92,Default,NTP,0,0,0,,大爆炸后所不久发生的情况\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}of what happened shortly after the Big Bang,
+Dialogue: 0,0:42:19.97,0:42:25.53,Default,NTP,0,0,0,,包括原始黑洞形成的可能性\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}including the possibility of...primordial black hole formation.
+Dialogue: 0,0:42:29.95,0:42:34.16,Default,NTP,0,0,0,,瑞士和美国的粒子碰撞实验\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The particle collision experiments in Switzerland and in the U.S.
+Dialogue: 0,0:42:34.59,0:42:37.55,Default,NTP,0,0,0,,不可能产生危及生命的黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}may not produce life-threatening black holes...
+Dialogue: 0,0:42:39.01,0:42:41.93,Default,NTP,0,0,0,,然而它们提供了几个重要的线索\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}but they could give several important clues
+Dialogue: 0,0:42:42.45,0:42:46.58,Default,NTP,0,0,0,,那是关于信息能否从迷你黑洞里返回\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}about whether information comes back out of the mini black hole,
+Dialogue: 0,0:42:46.89,0:42:49.50,Default,NTP,0,0,0,,甚至宇宙是如何诞生的\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and even how the universe began.
+Dialogue: 0,0:42:51.84,0:42:54.20,Default,NTP,0,0,0,,他们装备了一个实验室\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They do provide a laboratory
+Dialogue: 0,0:42:54.30,0:42:57.31,Default,NTP,0,0,0,,来观察我们能将爱因斯坦的理论推进多远\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}to see how far we can push Einstein's theory
+Dialogue: 0,0:42:57.34,0:43:01.40,Default,NTP,0,0,0,,直到所有的枷锁解脱 平衡倒塌\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}until all hell breaks loose, and the equations collapse.
+Dialogue: 0,0:43:01.77,0:43:04.27,Default,NTP,0,0,0,,这就是为什么我们认为迷你黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}And that's why we think that mini black holes
+Dialogue: 0,0:43:04.34,0:43:08.11,Default,NTP,0,0,0,,可能是超越爱因斯坦的关键\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}could be a key to going beyond Einstein.
+Dialogue: 0,0:43:11.93,0:43:15.09,Default,NTP,0,0,0,,物理学家将继续深入探究\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Physicists will continue to probe into the mysteries
+Dialogue: 0,0:43:15.12,0:43:17.46,Default,NTP,0,0,0,,这个沉寂在黑洞周围的奥秘\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}still surrounding black holes.
+Dialogue: 0,0:43:17.91,0:43:20.16,Default,NTP,0,0,0,,他们也将继续对难以捉摸的虫洞和白洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They will also remain on high alert
+Dialogue: 0,0:43:20.24,0:43:24.22,Default,NTP,0,0,0,,的任何迹象保持高度的关注\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}for any signs of the elusive wormholes and white holes.
+Dialogue: 0,0:43:26.80,0:43:29.77,Default,NTP,0,0,0,,对下一个领域的探索继续在推进\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The search for the next frontier marches on.
+Dialogue: 0,0:43:31.85,0:43:34.40,Default,NTP,0,0,0,,白洞 虫洞 黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}White holes, wormholes, black holes are...
+Dialogue: 0,0:43:34.53,0:43:36.64,Default,NTP,0,0,0,,是多半会被遗忘的门票\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}tickets to oblivion for the most part.
+Dialogue: 0,0:43:36.71,0:43:40.51,Default,NTP,0,0,0,,它们没有一个是你想在暑假去的地方\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}None of these are places that you wanna take your summer vacation near,
+Dialogue: 0,0:43:41.33,0:43:44.71,Default,NTP,0,0,0,,这些门票要找到 代价很高\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and these tickets will cost a lot to even find.
+Dialogue: 0,0:43:45.31,0:43:49.86,Default,NTP,0,0,0,,这些物体在宇宙中很难被观察到\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}These objects are hard to observe in the universe and...
+Dialogue: 0,0:43:50.65,0:43:54.80,Default,NTP,0,0,0,,只有其中的一个 我们已经差不多了解了 它就是:黑洞\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}only one of them do we really pretty much know is there: the black hole.
+Dialogue: 0,0:43:54.99,0:43:57.17,Default,NTP,0,0,0,,其它的可能完全是假设\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}The others may be entirely hypothetical.
+Dialogue: 0,0:43:57.24,0:43:59.78,Default,NTP,0,0,0,,它们可能是天文学上的独角兽\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}They may be the unicorns of astronomy.
+Dialogue: 0,0:44:01.48,0:44:04.43,Default,NTP,0,0,0,,科学史上有几个案例\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}There are several cases in the history of science when
+Dialogue: 0,0:44:04.52,0:44:07.17,Default,NTP,0,0,0,,一个想法乃至解决一个方程式\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}an idea or even a solution to an equation
+Dialogue: 0,0:44:07.32,0:44:10.25,Default,NTP,0,0,0,,就似乎是我们想象力的一个手工艺品\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}just seems like an artifact of our imaginations
+Dialogue: 0,0:44:10.28,0:44:13.01,Default,NTP,0,0,0,,实际上结果是真实的东西\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}and actually turned out to be a real thing.
+Dialogue: 0,0:44:13.32,0:44:15.05,Default,NTP,0,0,0,,黑洞就是这样的一个例子\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Black holes are such an example.
+Dialogue: 0,0:44:15.10,0:44:18.70,Default,NTP,0,0,0,,也许白洞和虫洞实际上也具有某些作用\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Maybe white holes and wormholes will have some role in nature
+Dialogue: 0,0:44:18.79,0:44:21.37,Default,NTP,0,0,0,,有朝一日我们会发现\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}which we'll one day discover.
+Dialogue: 0,0:44:22.00,0:44:27.00,Default,NTP,0,0,0,,谢谢观赏\N{\fnCronos Pro Subhead\fs14\1c&H3CF1F3&}Thanks For Viewing
