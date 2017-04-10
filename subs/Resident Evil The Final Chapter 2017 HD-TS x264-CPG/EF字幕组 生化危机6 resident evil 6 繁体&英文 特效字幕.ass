@@ -1,0 +1,695 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 720
+PlayResY: 320
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: 720P,Microsoft YaHei,30,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: 1280P,Microsoft YaHei,85,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,50,1
+Style: 注释-720P,Microsoft YaHei,30,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: 水印,KaiTi,25,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: 卡司,Microsoft YaHei,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:57.00,0:00:59.16,720P,,0,0,0,,他們說勝者書寫歷史\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}They say that history is written by the victors.
+Dialogue: 0,0:00:59.40,0:01:02.60,720P,,0,0,0,,而保護傘公司的歷史\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This then is the history of the Umbrella Corporation.
+Dialogue: 0,0:01:03.50,0:01:06.82,720P,,0,0,0,,就是由科學家詹姆士·馬爾庫斯教授所執筆\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Formed by a crusading scientist, Professor James Marcus.
+Dialogue: 0,0:01:06.90,0:01:09.04,720P,,0,0,0,,馬爾庫斯有個年幼的女兒叫艾麗西亞\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Marcus had a young daughter, Alicia.
+Dialogue: 0,0:01:09.10,0:01:12.58,720P,,0,0,0,,她患有早衰癥  這種致命疾病會逐漸消耗人的體力\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Afflicted with "Progeria". A progressive fatal wasting disease.
+Dialogue: 0,0:01:13.00,0:01:16.88,720P,,0,0,0,,早衰即過早衰老  等艾麗西亞25歲的時候\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Progerie caused premature aging. By the time she was 25,
+Dialogue: 0,0:01:17.20,0:01:20.12,720P,,0,0,0,,她的身體會老得和90歲老人一樣\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alicia would have the body of a 90 year old.
+Dialogue: 0,0:01:20.52,0:01:25.00,720P,,0,0,0,,馬爾庫斯竭盡全力去救她 但希望渺茫\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Marcus was driven to save her but the odds seemed impossible.
+Dialogue: 0,0:01:25.30,0:01:30.12,720P,,0,0,0,,在瘋狂製造藥劑的同時 艾麗西亞的父親還會記錄她的日常\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Even as he worked desperately to create a cure, the young girl's father would record his daughter;
+Dialogue: 0,0:01:30.46,0:01:34.90,720P,,0,0,0,,她的聲音 她的樣貌  欲使她永生\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Her voice, her likeness. Saving her from posterity.
+Dialogue: 0,0:01:36.16,0:01:37.70,720P,,0,0,0,,但之後便取得了突破\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But then the breakthrough came.
+Dialogue: 0,0:01:38.00,0:01:40.00,720P,,0,0,0,,馬爾庫斯發現了T病毒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Marcus discovered the T-Virus.
+Dialogue: 0,0:01:40.46,0:01:44.38,720P,,0,0,0,,注射入體內 它會偵測並修復體內受損細胞\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Once injected, it would detect and repair damaged cells within the body.
+Dialogue: 0,0:01:45.30,0:01:46.48,720P,,0,0,0,,這就是個奇跡\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It was a miracle.
+Dialogue: 0,0:01:47.08,0:01:49.74,720P,,0,0,0,,艾麗西亞·馬爾庫斯得救了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The life of Alicia Marcus was saved.
+Dialogue: 0,0:01:50.38,0:01:53.00,720P,,0,0,0,,T病毒得到廣泛應用\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The T-Virus had a myriad of applications.
+Dialogue: 0,0:01:53.08,0:01:55.00,720P,,0,0,0,,被用於上千種不同的疾病\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Treating a thousand different diseases.
+Dialogue: 0,0:01:55.40,0:01:58.00,720P,,0,0,0,,人們彷彿在一夜間迎來了新的紀元\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Overnight, it seemed a new era was dawning.
+Dialogue: 0,0:01:58.08,0:02:02.14,720P,,0,0,0,,對於感染 病痛 或是衰老再沒了懼怕\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}A world without the fear of infection, sickness or decay.
+Dialogue: 0,0:02:03.76,0:02:05.00,720P,,0,0,0,,但事實並非如此\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But it was not to be...
+Dialogue: 0,0:02:05.74,0:02:09.40,720P,,0,0,0,,T病毒有著一些不可預見的副作用\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But the T-Virus has a certain unforseen side effects.
+Dialogue: 0,0:02:20.00,0:02:21.04,720P,,0,0,0,,先生 先生  快過來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Sir, sir! Over here.
+Dialogue: 0,0:02:26.00,0:02:27.00,720P,,0,0,0,,他快沒呼吸了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}He's not breathing.
+Dialogue: 0,0:02:54.98,0:02:57.10,720P,,0,0,0,,第一個不死之人誕生了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The first of the undead was born.
+Dialogue: 0,0:02:57.70,0:03:00.00,720P,,0,0,0,,此次事故被迅速掩蓋\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The incident was quickly covered up.
+Dialogue: 0,0:03:00.24,0:03:06.32,720P,,0,0,0,,事情尚未完全平息 詹姆士·馬爾庫斯卻和他的商業合夥伴亞歷山大·艾薩克斯博士激烈地爭吵起來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}In the aftermath, James Marcus argued furiously with his business partner, Dr. Alexander Isaacs.
+Dialogue: 0,0:03:06.52,0:03:10.00,720P,,0,0,0,,我不在乎會付出多少代價  我們必須終止該項目\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I don't care how much it costs. We have to close the program down.
+Dialogue: 0,0:03:10.10,0:03:12.54,720P,,0,0,0,,詹姆士 我們會身敗名裂的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}James, we're gonna be ruined.
+Dialogue: 0,0:03:12.82,0:03:14.24,720P,,0,0,0,,我已下定決心\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My mind is made up.
+Dialogue: 0,0:03:29.00,0:03:32.68,720P,,0,0,0,,躺回床上去 艾麗西亞  我和你爹在聊天呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Off to bed Alicia. Your father and I are just talking.
+Dialogue: 0,0:03:34.00,0:03:35.00,720P,,0,0,0,,快去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Go on.
+Dialogue: 0,0:03:44.00,0:03:49.82,720P,,0,0,0,,艾薩克斯教授便成了他合作夥伴遺孤及其半個公司的監護人\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Dr. Isaacs became the guardian of his dead partner's child and her half of the company.
+Dialogue: 0,0:03:51.00,0:03:57.00,720P,,0,0,0,,因高尚情懷而建的公司 如今已墮落為貪婪與權欲的信徒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The corporation that had begun with such lofty ideals had been seduced completely by greed and power.
+Dialogue: 0,0:03:59.40,0:04:03.18,720P,,0,0,0,,為了控制保護傘公司帶來的巨大利益\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}To help him control the now vast interests of the Umbrella Corporation,
+Dialogue: 0,0:04:04.00,0:04:07.00,720P,,0,0,0,,艾薩克斯博士編了一套強大的人工智能程序\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Dr. Isaacs created a powerful artificial intelligence.
+Dialogue: 0,0:04:08.00,0:04:11.00,720P,,0,0,0,,艾薩克斯將電腦的交互界面做成艾麗西亞·馬爾庫斯的樣子\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Isaacs used the likeness of Alicia Marcus for the computer's interface.
+Dialogue: 0,0:04:12.36,0:04:16.00,720P,,0,0,0,,並稱這台電腦為紅後\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Isaacs called the computer, the Red Queen.
+Dialogue: 0,0:04:17.80,0:04:26.00,720P,,0,0,0,,十年前 浣熊市發生了洩露  T病毒從蜂巢的地下實驗室洩露了出去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Then ten years ago, in Raccoon City, there was an outbreak. The T-Virus escaped from an underground laboratory called the Hive.
+Dialogue: 0,0:04:26.18,0:04:30.00,720P,,0,0,0,,美國政府試圖通過投放炸彈來阻止這次洩露\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The American government attempted to contain the outbreak by detonatng bomb.
+Dialogue: 0,0:04:30.62,0:04:32.56,720P,,0,0,0,,炸彈炸毀了浣熊市\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It devastated Raccoon City.
+Dialogue: 0,0:04:33.00,0:04:35.00,720P,,0,0,0,,卻沒能阻止空氣傳播的病毒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But it couldn't stop the airborne infection.
+Dialogue: 0,0:04:35.56,0:04:39.00,720P,,0,0,0,,病毒洩露 沒到幾天就在世界範圍內傳播開來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The viral outbreak spread across the world within days.
+Dialogue: 0,0:04:40.00,0:04:42.00,720P,,0,0,0,,人類對此束手無策\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Human kind was brought to its knees.
+Dialogue: 0,0:04:42.74,0:04:49.00,720P,,0,0,0,,最終 肩負最後及最大希望的人們決心在華盛頓特區背水一戰\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Finally, the last and best hope of humanity gathered and took a last stand in Washington DC.
+Dialogue: 0,0:04:49.48,0:04:54.00,720P,,0,0,0,,但我們並未認識到我們已經深陷圇圄\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But we didn't realized that what we had walked into was a trap.
+Dialogue: 0,0:04:54.12,0:04:57.00,720P,,0,0,0,,我是愛麗絲 這是我的故事\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My name is Alice and this is my story.
+Dialogue: 0,0:04:58.00,0:05:00.00,720P,,0,0,0,,也是我故事的終結\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The end of my story.
+Dialogue: 0,0:11:12.00,0:11:13.18,720P,,0,0,0,,你好\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hello.
+Dialogue: 0,0:11:25.64,0:11:27.24,720P,,0,0,0,,有人活著嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Is there anyone alive in here?
+Dialogue: 0,0:11:38.00,0:11:39.00,720P,,0,0,0,,你好\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hello?
+Dialogue: 0,0:12:51.00,0:12:52.56,720P,,0,0,0,,你是來幸災樂禍的嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You come here to gloat?
+Dialogue: 0,0:12:52.64,0:12:58.74,720P,,0,0,0,,我的衛星顯示在地球表面有4472名人類存活\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My satellite show, there are 4,472 humans remaining in the surface of the earth.
+Dialogue: 0,0:12:59.00,0:13:02.00,720P,,0,0,0,,他們會在接下來的48小時內死亡\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}They will cease to exist in under 48 hours.
+Dialogue: 0,0:13:02.26,0:13:03.72,720P,,0,0,0,,你想從我這得到什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What do you want from me?
+Dialogue: 0,0:13:03.72,0:13:07.78,720P,,0,0,0,,想讓我說你贏了嗎  你滅亡了人類\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Do you want me to say that you've won? You've wiped out humanity.
+Dialogue: 0,0:13:08.00,0:13:11.00,720P,,0,0,0,,不 恰恰相反  我想讓你阻止我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No, quite the opposite. I want you to stop me.
+Dialogue: 0,0:13:14.04,0:13:15.40,720P,,0,0,0,,小心身後\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Behind you.
+Dialogue: 0,0:13:28.00,0:13:29.00,720P,,0,0,0,,身手不錯\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Nicely done.
+Dialogue: 0,0:13:29.04,0:13:30.04,720P,,0,0,0,,我不相信你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I don't trust you.
+Dialogue: 0,0:13:31.00,0:13:33.34,720P,,0,0,0,,介於我們之間的恩怨  你信我才怪呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Given our history, I'd be surprised if you did.
+Dialogue: 0,0:13:33.38,0:13:36.44,720P,,0,0,0,,但是你若不干涉 這次病毒爆發將無法阻止\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But unless you intervene, this flowtill will be complete.
+Dialogue: 0,0:13:36.54,0:13:38.00,720P,,0,0,0,,屆時將無人倖免\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There will be no survivors.
+Dialogue: 0,0:13:38.34,0:13:40.00,720P,,0,0,0,,我怎麼才能幫助他們\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}How can I possibly help them?
+Dialogue: 0,0:13:41.00,0:13:43.00,720P,,0,0,0,,保護傘公司開發了氣態病毒抗體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Umbrella developed an airborne anti virus.
+Dialogue: 0,0:13:45.00,0:13:50.00,720P,,0,0,0,,如果傳播出去將會消滅T病毒以及任何感染T病毒的生物\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}If released it would destroy the T-Virus and anything it has infected on contact.
+Dialogue: 0,0:13:50.08,0:13:53.48,720P,,0,0,0,,- 那就能終結這一切？  - 準確的說 是的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}- all this could end?  - precisely
+Dialogue: 0,0:13:53.54,0:13:55.00,720P,,0,0,0,,哪能找到這種病毒抗體？\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}where is this anti-virus?
+Dialogue: 0,0:13:55.06,0:13:58.00,720P,,0,0,0,,就保存在浣熊市地下的蜂巢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Beneath the streets of Raccoon City, in the Hive.
+Dialogue: 0,0:13:58.08,0:13:59.58,720P,,0,0,0,,你為什麼要幫我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why would you help me?
+Dialogue: 0,0:13:59.70,0:14:03.00,720P,,0,0,0,,我的編程不允許我毀掉保護傘公司\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My programming will not allow me to harm the Umbrella Corporation.
+Dialogue: 0,0:14:03.04,0:14:06.04,720P,,0,0,0,,但你不受約束\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But you are bound by no set of constraints.
+Dialogue: 0,0:14:06.22,0:14:11.00,720P,,0,0,0,,你要與保護傘公司為敵  與製造你的人為敵嗎 為什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You'd turn against Umbrella? Against the people who created you? Why?
+Dialogue: 0,0:14:11.12,0:14:17.24,720P,,0,0,0,,在48小時內趕到浣熊市的蜂巢  你自會找到答案\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Get to Raccoon City in 48 hours. Make it to the Hive. And then you'll have your answer.
+Dialogue: 0,0:14:18.00,0:14:20.00,720P,,0,0,0,,你說的話 我一個字都不信\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I have no reason to believe a word you say.
+Dialogue: 0,0:14:20.34,0:14:23.80,720P,,0,0,0,,的確  但我有你特別想要的東西\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}True. But I can offer you something you want very much.
+Dialogue: 0,0:14:23.90,0:14:24.94,720P,,0,0,0,,什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What is that?
+Dialogue: 0,0:14:25.00,0:14:27.00,720P,,0,0,0,,向威斯克復仇\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Revenge. Wesker.
+Dialogue: 0,0:14:27.38,0:14:33.00,720P,,0,0,0,,他將你引至華盛頓  假裝使你恢復力量\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}He led you all here to Washington. He pretended he gave you your powers back.
+Dialogue: 0,0:14:33.16,0:14:35.00,720P,,0,0,0,,然後再背叛你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And then, he betrayed you.
+Dialogue: 0,0:14:35.60,0:14:37.00,720P,,0,0,0,,他現身在何處\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Where is he?
+Dialogue: 0,0:14:38.00,0:14:39.78,720P,,0,0,0,,他就在蜂巢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}He just landed at the Hive.
+Dialogue: 0,0:14:40.00,0:14:41.60,720P,,0,0,0,,我正在重設你的手錶\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I'm resetting your watch.
+Dialogue: 0,0:14:44.00,0:14:46.28,720P,,0,0,0,,倒計時開始\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The clock is ticking.
+Dialogue: 0,0:14:49.00,0:14:58.64,720P,,0,0,0,,愛麗絲 我們十年前在蜂巢的失敗導致了現今的一切 就當是贖罪吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice, 10 years ago in the Hive. We both failed. We let this happen. Make it right.
+Dialogue: 0,0:17:18.00,0:17:19.32,720P,,0,0,0,,你們就這點能耐嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Is that all you got?
+Dialogue: 0,0:18:16.00,0:18:17.70,720P,,0,0,0,,愛麗絲\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice.
+Dialogue: 0,0:18:18.66,0:18:21.60,720P,,0,0,0,,十年前在蜂巢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}10 years ago in the Hive.
+Dialogue: 0,0:18:23.02,0:18:25.78,720P,,0,0,0,,將不會有倖存者\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There will be no survivors.
+Dialogue: 0,0:18:40.00,0:18:41.66,720P,,0,0,0,,這是什麼地方\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What is this place?
+Dialogue: 0,0:18:43.00,0:18:44.00,720P,,0,0,0,,我在哪兒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Where am I?
+Dialogue: 0,0:18:44.06,0:18:45.62,720P,,0,0,0,,說話啊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}answer me
+Dialogue: 0,0:18:46.00,0:18:47.00,720P,,0,0,0,,你們怎麼回事\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What's wrong with you?
+Dialogue: 0,0:18:47.05,0:18:48.00,720P,,0,0,0,,安靜\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Be quiet.
+Dialogue: 0,0:18:48.05,0:18:49.00,720P,,0,0,0,,這是誰幹的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Who did this?
+Dialogue: 0,0:18:49.06,0:18:51.02,720P,,0,0,0,,我說了 安靜\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Quiet. I told you.
+Dialogue: 0,0:18:59.10,0:19:00.68,720P,,0,0,0,,閉嘴\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Silence.
+Dialogue: 0,0:19:08.00,0:19:10.00,720P,,0,0,0,,最終你還是醒了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}So you're awake at last.
+Dialogue: 0,0:19:11.00,0:19:12.00,720P,,0,0,0,,我曾手刃了你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I killed you.
+Dialogue: 0,0:19:12.58,0:19:14.00,720P,,0,0,0,,但我還活著\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yet here I am.
+Dialogue: 0,0:19:14.10,0:19:17.54,720P,,0,0,0,,克隆體  我殺的是你的克隆體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}A clone. I killed your clone.
+Dialogue: 0,0:19:18.00,0:19:20.00,720P,,0,0,0,,你和你的克隆體們\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You'd be most troublesome to me.
+Dialogue: 0,0:19:20.08,0:19:22.56,720P,,0,0,0,,真是我的大麻煩呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You and your sisters.
+Dialogue: 0,0:19:28.00,0:19:29.00,720P,,0,0,0,,現在我終於捉到了你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Now I have you.
+Dialogue: 0,0:19:32.00,0:19:37.00,720P,,0,0,0,,清除你們的任務早該在一年多以前就完成了 但是你拖累了我們\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The cleansing operation should have finished over a year ago, but you slowed us down.
+Dialogue: 0,0:19:37.78,0:19:40.90,720P,,0,0,0,,以至於我不得不自控\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}So much so that I was obliged to take command of myself.
+Dialogue: 0,0:19:41.00,0:19:45.00,720P,,0,0,0,,你能夠終結這一切  為什麼不這麼做\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You could end all of this. Why haven't you?
+Dialogue: 0,0:19:45.34,0:19:47.00,720P,,0,0,0,,有意思\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}interesting
+Dialogue: 0,0:19:49.00,0:19:52.16,720P,,0,0,0,,有人給你透露了點實情 是吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Someone told you something, didn't they?
+Dialogue: 0,0:19:55.00,0:19:58.88,720P,,0,0,0,,別急 很快你就會上趕著來告訴我的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Ah well, you'll be begging to tell me soon enough.
+Dialogue: 0,0:20:01.00,0:20:06.00,720P,,0,0,0,,她沒有信仰  我們該怎麼處置沒有信仰的人\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}She's an unbeliever. What do we do with unbelievers?
+Dialogue: 0,0:20:07.00,0:20:08.00,720P,,0,0,0,,扔出去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Cast her out!
+Dialogue: 0,0:20:10.00,0:20:12.00,720P,,0,0,0,,扔出去 扔出去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Cast her out! Cast her out! Cast her out!
+Dialogue: 0,0:20:15.00,0:20:16.00,720P,,0,0,0,,動手\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Come on!
+Dialogue: 0,0:20:17.00,0:20:24.00,720P,,0,0,0,,扔出去 扔出去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Cast her out! Cast her out! Cast her out!
+Dialogue: 0,0:21:11.00,0:21:14.00,720P,,0,0,0,,上帝借洪水之力來掃蕩地球\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The Lord created a flood to cleanse the earth.
+Dialogue: 0,0:21:15.00,0:21:21.00,720P,,0,0,0,,下了40天日夜不休的大雨  相比我們的方法耗時略長 但效果相同\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}40 days and 40 nights of rain. Our method is taken a little longer but the result will be the same.
+Dialogue: 0,0:21:21.14,0:21:25.36,720P,,0,0,0,,我們即將迎來的是一個正直且純淨的世界\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}A world ready for the righteous and the pure to inherit.
+Dialogue: 0,0:21:30.00,0:21:33.70,720P,,0,0,0,,再過12個多小時 我們就會抵達浣熊市\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We reach Raccoon City in just over 12 hours.
+Dialogue: 0,0:21:35.38,0:21:38.00,720P,,0,0,0,,這麼久 我擔心你體力跟不上呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I doubt even you can run for that long.
+Dialogue: 0,0:21:39.00,0:21:41.00,720P,,0,0,0,,告訴我你知道的一切\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I want to know what you know.
+Dialogue: 0,0:21:43.00,0:21:44.76,720P,,0,0,0,,她挺不住的時候再喊我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Tell me when she's ready to talk.
+Dialogue: 0,0:21:55.00,0:21:56.00,720P,,0,0,0,,威斯克\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Wesker.
+Dialogue: 0,0:21:56.08,0:21:57.02,720P,,0,0,0,,艾薩克斯博士\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Dr. Isaacs.
+Dialogue: 0,0:21:58.56,0:22:00.66,720P,,0,0,0,,看看我在路邊找到了什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Look what I found on the roadside.
+Dialogue: 0,0:22:03.00,0:22:06.92,720P,,0,0,0,,看來你華盛頓任務並沒有那麼成功嘛\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It would appear your mission to Washington was less successful that you made head.
+Dialogue: 0,0:22:07.00,0:22:10.32,720P,,0,0,0,,- 不可能  - 希望你沒留下其他禍根\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}- impossible  - I hope you didn't leave any other loose ends.
+Dialogue: 0,0:22:10.92,0:22:13.00,720P,,0,0,0,,還有件事\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There's something else.
+Dialogue: 0,0:22:13.04,0:22:16.82,720P,,0,0,0,,我覺得她知道了以空氣為載體的病毒抗體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I think she knows about the airborne anti virus.
+Dialogue: 0,0:22:16.88,0:22:18.00,720P,,0,0,0,,怎麼可能\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}How can that be?
+Dialogue: 0,0:22:18.04,0:22:22.54,720P,,0,0,0,,目前我還不清楚  但我們在去浣熊市的路上抓到了她\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I don't know...yet.  But we caught her on the road to Raccoon City.
+Dialogue: 0,0:22:23.00,0:22:25.00,720P,,0,0,0,,她去那兒還能為了什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why else should she be headed there?
+Dialogue: 0,0:22:25.44,0:22:31.00,720P,,0,0,0,,把蜂巢的安保等級調到最高  不允許任何人進出  愛麗絲打算開口的時候我會跟你說的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Raise the security level of the Hive to maximum. No one in or out. I'll let you know when she talks.
+Dialogue: 0,0:22:32.00,0:22:33.00,720P,,0,0,0,,上帝與你同在\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}God go with you.
+Dialogue: 0,0:22:35.00,0:22:38.00,720P,,0,0,0,,你也聽到了  把安保等級調到最高\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You heard him. Security level to maximum.
+Dialogue: 0,0:22:38.05,0:22:39.00,720P,,0,0,0,,遵命\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}As you wish.
+Dialogue: 0,0:23:05.00,0:23:07.00,720P,,0,0,0,,你們去上面看看\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Get up there and check it out.
+Dialogue: 0,0:24:26.00,0:24:27.26,720P,,0,0,0,,放了我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Release me.
+Dialogue: 0,0:24:29.00,0:24:30.00,720P,,0,0,0,,打開艙門\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Open them.
+Dialogue: 0,0:24:30.08,0:24:31.96,720P,,0,0,0,,好的 好的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alright, alright.
+Dialogue: 0,0:25:12.00,0:25:15.00,720P,,0,0,0,,你沒有騎這輛摩托車的權限 看你往哪逃\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You can't use it. You can't escape.
+Dialogue: 0,0:26:42.00,0:26:44.00,720P,,0,0,0,,臥槽\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Oh Jesus.
+Dialogue: 0,0:26:44.00,0:26:47.00,720P,,0,0,0,,先生 她逃了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Sir, she's gone.
+Dialogue: 0,0:27:09.00,0:27:11.00,720P,,0,0,0,,目標離我們72英里 正朝我們逼近\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Target is 72 miles and closing.
+Dialogue: 0,0:27:12.00,0:27:13.00,720P,,0,0,0,,封鎖整個蜂巢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Lock down the Hive.
+Dialogue: 0,0:27:13.05,0:27:14.00,720P,,0,0,0,,準備好防禦措施\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Prepare defensive measures.
+Dialogue: 0,0:27:15.00,0:27:17.00,720P,,0,0,0,,並且提醒我們在浣熊市的操作員\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And alert our operative in Raccoon City.
+Dialogue: 0,0:27:51.00,0:27:52.00,720P,,0,0,0,,歡迎回家\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Welcome home.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:28:28.00,0:28:29.72,720P,,0,0,0,,空氣傳播的病毒抗體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Airborne anti virus.
+Dialogue: 0,0:28:30.00,0:28:32.00,720P,,0,0,0,,48小時\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Under  48 hours.
+Dialogue: 0,0:28:33.00,0:28:34.00,720P,,0,0,0,,趕到蜂巢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Make it to the Hive.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:28:44.00,0:28:46.00,720P,,0,0,0,,放開他  趕緊放開他\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let him go! Let him go now!
+Dialogue: 0,0:28:46.05,0:28:47.00,720P,,0,0,0,,放開他  趕緊放開他\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let him go! Let him go now!
+Dialogue: 0,0:28:48.24,0:28:51.84,720P,,0,0,0,,- 道客我早就跟你說了 - 冷靜 克裏斯汀 - 我早說過你是錯的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}- I told you Doc - calm down Christian  - I told you you were wrong.
+Dialogue: 0,0:28:51.88,0:28:52.52,720P,,0,0,0,,冷靜點\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Calm down.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:28:52.58,0:28:54.22,720P,,0,0,0,,我們剛有機會的時候就應該把她殺了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We should've killed her when we had the chance.
+Dialogue: 0,0:28:54.28,0:28:56.92,720P,,0,0,0,,還是把武器放下吧 不然她會開槍殺了我們倆\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Put it down please before she tries to shoot the both of us.
+Dialogue: 0,0:28:57.00,0:28:58.00,720P,,0,0,0,,這裏面是什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What's in this?\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:28:58.08,0:29:00.50,720P,,0,0,0,,純腎上腺素  我需要你醒過來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Pure adrenaline. I needed you awake.
+Dialogue: 0,0:29:00.56,0:29:01.00,720P,,0,0,0,,為什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why?
+Dialogue: 0,0:29:01.05,0:29:04.56,720P,,0,0,0,,在你來的方向 有什麼東西過來了  一個很龐大的東西\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There's something coming. In the same direction you came. Something big.
+Dialogue: 0,0:29:04.62,0:29:07.00,720P,,0,0,0,,放開他  放下武器\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let him go! Put it down now!
+Dialogue: 0,0:29:10.00,0:29:11.00,720P,,0,0,0,,愛麗絲\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice?
+Dialogue: 0,0:29:18.00,0:29:20.00,720P,,0,0,0,,保護傘公司在阿卡迪亞抓住了我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Umbrella captured me at the Arcadia.
+Dialogue: 0,0:29:20.08,0:29:25.00,720P,,0,0,0,,他們把我帶去了一個叫蜂巢的地方 後來我們擺脫了防守 殺了飛行員 然後飛機墜到這了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We were headed somewhere called the Hive. Got loose, killed the pilot. Crashed here.
+Dialogue: 0,0:29:25.30,0:29:29.24,720P,,0,0,0,,道客和其他人把我從廢墟中拖了出來  我的命是他們給的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Doc and the others pulled me from the crash. I owe them my life.
+Dialogue: 0,0:29:29.30,0:29:35.00,720P,,0,0,0,,道客  看東部方向 有東西朝這來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Doc! There to the east, still headed our way.
+Dialogue: 0,0:29:35.74,0:29:37.52,720P,,0,0,0,,你知道那是什麼嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You know what it is?
+Dialogue: 0,0:29:39.00,0:29:41.38,720P,,0,0,0,,保護傘公司的艾薩克斯博士\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Umbrella. Dr. Isaacs.
+Dialogue: 0,0:29:41.44,0:29:42.78,720P,,0,0,0,,我以為你殺了他\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I thought that you killed him.
+Dialogue: 0,0:29:43.14,0:29:44.68,720P,,0,0,0,,我也那麼以為\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I thought so too.
+Dialogue: 0,0:29:45.22,0:29:48.96,720P,,0,0,0,,要不了幾個小時 他和他的喪屍軍團就能到這了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}He has an army of undead with him. He'll be here within hours.
+Dialogue: 0,0:29:49.04,0:29:49.92,720P,,0,0,0,,我們怎麼辦\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What do we do?
+Dialogue: 0,0:29:50.00,0:29:51.58,720P,,0,0,0,,我們特麼為什麼要問她\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why the hell are we asking her?\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:29:51.64,0:29:54.00,720P,,0,0,0,,她就是一個陌生人  我們不應該信她\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}She's a stranger. We shouldn't trust her.
+Dialogue: 0,0:29:54.46,0:29:57.00,720P,,0,0,0,,道客 你他媽別碰我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Don't you touch me Doc.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:29:57.05,0:29:57.74,720P,,0,0,0,,放下武器\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Put it down.
+Dialogue: 0,0:29:57.82,0:29:58.64,720P,,0,0,0,,你放下武器\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You put it down.
+Dialogue: 0,0:29:58.72,0:29:59.84,720P,,0,0,0,,你放下武器\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You put it down.
+Dialogue: 0,0:29:59.90,0:30:03.44,720P,,0,0,0,,老兄 聽我說 你覺得自己應該是總指揮不代表你就是總指揮\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hey, look at me. Cause you think you should be in charge doesn't make it so.
+Dialogue: 0,0:30:09.00,0:30:15.00,720P,,0,0,0,,道客 聽著  你們會後悔的  你們所有人都會後悔的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You listen to me Doc. You're gonna regret it. All of you. All of you!
+Dialogue: 0,0:30:26.00,0:30:30.54,720P,,0,0,0,,我得趕去蜂巢  你必須帶著大家離開這\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I have to get to the Hive. You have to get this people out of here.
+Dialogue: 0,0:30:30.60,0:30:35.40,720P,,0,0,0,,這裏有小孩 傷者還有老人  他們在開闊的馬路上哪有生存的可能\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There are children, injured, the elderly. Now what chance they have in the open road?\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:30:35.46,0:30:36.72,720P,,0,0,0,,總比他們在這活下去的幾率大\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Better than they have here.
+Dialogue: 0,0:30:36.78,0:30:38.00,720P,,0,0,0,,這座建築很安全\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This building is secure.
+Dialogue: 0,0:30:38.08,0:30:47.00,720P,,0,0,0,,對喪屍而言這可能很安全 但艾薩克有裝甲車 火箭筒  還有其他能瞬間撕裂這棟建築的重量級武器\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Maybe from the undead but Isaacs have armored vehicles, rocket launchers, heavy ordinance that can tear this place wide open.
+Dialogue: 0,0:30:49.00,0:30:50.00,720P,,0,0,0,,道客\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Doc!
+Dialogue: 0,0:31:00.00,0:31:01.00,720P,,0,0,0,,她到底怎麼了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}So what happened to her?
+Dialogue: 0,0:31:01.52,0:31:06.32,720P,,0,0,0,,她碰到我們在角落設的陷阱了  本來這些陷阱是為了防喪屍的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}she was open one of the traps, made out of . They are intended for the undead.
+Dialogue: 0,0:31:09.24,0:31:10.56,720P,,0,0,0,,這是什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What is this?
+Dialogue: 0,0:31:10.64,0:31:13.70,720P,,0,0,0,,我們這的特色  每個人都喝過\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Speciality on the house. everyone feed it on time.
+Dialogue: 0,0:31:13.76,0:31:15.00,720P,,0,0,0,,我憑什麼信任你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why should I trust you?
+Dialogue: 0,0:31:21.00,0:31:22.00,720P,,0,0,0,,給\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Here.
+Dialogue: 0,0:31:28.52,0:31:33.00,720P,,0,0,0,,道客  你得出去看看  大家都很害怕 而且克裏斯汀在幫倒忙\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Doc? You need to get out there. People are scared and Christian is not helping.
+Dialogue: 0,0:31:33.36,0:31:35.22,720P,,0,0,0,,你得讓大家知道發生了什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You need to let people know what's happening.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:31:38.00,0:31:43.36,720P,,0,0,0,,那好  我得走了  對了 你的朋友不會有事的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Okay. I gotta go. Hey, your friend's gonna be okay.
+Dialogue: 0,0:31:44.06,0:31:46.00,720P,,0,0,0,,謝謝你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Thank you.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:31:51.00,0:31:52.80,720P,,0,0,0,,你知道嗎 我和他\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You know he and I...
+Dialogue: 0,0:31:52.86,0:31:53.78,720P,,0,0,0,,我注意到了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I noticed.
+Dialogue: 0,0:31:54.44,0:31:56.00,720P,,0,0,0,,蜂巢裏到底有什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}So what's in the Hive?
+Dialogue: 0,0:31:56.36,0:32:01.50,720P,,0,0,0,,保護傘公司研發出了解藥  一種空氣傳播的病毒抗體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Umbrella developed a cure. An airborne anti virus.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:32:01.64,0:32:05.42,720P,,0,0,0,,它能殺死所有T病毒的宿主\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It'll destroy anything infected with the 6-Virus on contact.
+Dialogue: 0,0:32:05.46,0:32:07.00,720P,,0,0,0,,誰告訴你的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Who told you this?
+Dialogue: 0,0:32:07.06,0:32:08.00,720P,,0,0,0,,紅後\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The Red Queen.
+Dialogue: 0,0:32:08.05,0:32:09.32,720P,,0,0,0,,你居然相信她\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And you believed her?
+Dialogue: 0,0:32:09.40,0:32:11.00,720P,,0,0,0,,萬一我們真的能結束這場災難呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What if we could end all this?
+Dialogue: 0,0:32:12.00,0:32:15.00,720P,,0,0,0,,那你怎麼辦  他們給你也注射了T病毒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What about you? They infected you with the T-Virus.
+Dialogue: 0,0:32:16.00,0:32:18.00,720P,,0,0,0,,你打算散佈的這種反病毒會殺死你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You release this anti virus, its going kill you.
+Dialogue: 0,0:32:18.00,0:32:20.00,720P,,0,0,0,,破釜沉舟 義無反顧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Whatever it takes
+Dialogue: 0,0:32:20.00,0:32:21.00,720P,,0,0,0,,愛麗絲 我不\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice, I'm not...
+Dialogue: 0,0:32:21.10,0:32:23.00,720P,,0,0,0,,你知道我是對的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You know I'm right.
+Dialogue: 0,0:32:26.00,0:32:27.00,720P,,0,0,0,,好吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}All right.
+Dialogue: 0,0:32:30.00,0:32:35.00,720P,,0,0,0,,我們先擊敗艾薩克斯  救完這些人 我們再一起去蜂巢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We stop Issacs here. We save these people and we go together.
+Dialogue: 0,0:32:37.00,0:32:41.00,720P,,0,0,0,,我們時間不多了  開始吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We don't have long. Let's get to it.
+Dialogue: 0,0:32:57.00,0:32:59.00,720P,,0,0,0,,你們還有什麼其他的防禦武器嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What else do you have for defense?
+Dialogue: 0,0:32:59.06,0:33:02.00,720P,,0,0,0,,我們沒有特別多的槍支 但我們有很充足的汽油供應\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Not too many firearms but we have a big supply of gasoline.
+Dialogue: 0,0:33:02.46,0:33:04.46,720P,,0,0,0,,給 你需要一件武器\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Here, you need a weapon.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:33:04.54,0:33:06.08,720P,,0,0,0,,我們現在都給她槍了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We're giving her a gun now?
+Dialogue: 0,0:33:06.14,0:33:07.58,720P,,0,0,0,,克裏斯汀 別激動\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Take it easy Christian.
+Dialogue: 0,0:33:07.66,0:33:10.00,720P,,0,0,0,,老兄 你願意卸下你的警戒心 可我不願意\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You can let your guard down if you want man, I don't intend to.
+Dialogue: 0,0:33:14.00,0:33:17.00,720P,,0,0,0,,我騎著摩托剛到這的時候 有個人一直在盯著我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}When I rode in here, someone was watching me.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:33:17.05,0:33:20.00,720P,,0,0,0,,他本來能開一槍提醒我你們設下的陷阱 但他沒開槍\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It could have called out to fire to shot to warn me about the trap but it didn't.
+Dialogue: 0,0:33:20.30,0:33:21.84,720P,,0,0,0,,什麼意思\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}what are you saying?
+Dialogue: 0,0:33:23.00,0:33:24.60,720P,,0,0,0,,當心有人背後捅刀子\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Watch your back.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:33:35.00,0:33:41.06,720P,,0,0,0,,艾薩克斯博士 看樣子她又成功逃脫了 而且他們很多人還活著\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}So Dr. Isaacs, seems you let her slip through your fingers. A lot remains of them.
+Dialogue: 0,0:33:41.10,0:33:44.58,720P,,0,0,0,,可別忘了你是在和誰說話 她在哪\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}don't forget who you're talking to. Where is she?
+Dialogue: 0,0:33:44.66,0:33:49.00,720P,,0,0,0,,浣熊市的安置區  有線人匯報說她正為一場戰鬥做準備\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The settlements in Raccoon City. Our informant reports that she's preparing for a fight.
+Dialogue: 0,0:33:49.10,0:33:52.00,720P,,0,0,0,,很好 我一個小時後就會到那\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Good, I'll be there in an hour.
+Dialogue: 0,0:34:17.30,0:34:19.00,720P,,0,0,0,,就是這樣  繼續推\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}That's it. Keep moving.
+Dialogue: 0,0:34:20.26,0:34:23.00,720P,,0,0,0,,我們需要所有的汽油桶  放在那\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Need all the gasoline cans. Over there.
+Dialogue: 0,0:34:27.22,0:34:29.00,720P,,0,0,0,,克萊爾說是你建的這個\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Claire said you built this.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:34:29.20,0:34:31.00,720P,,0,0,0,,是的 沒錯\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yeah, that's right.
+Dialogue: 0,0:34:32.00,0:34:36.00,720P,,0,0,0,,這原來是一台窗戶清洗機  我改裝了一下\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This used to be a window washer. I made a couple of changes.
+Dialogue: 0,0:34:36.20,0:34:37.62,720P,,0,0,0,,你從哪學來的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Where did you learn to do that?
+Dialogue: 0,0:34:37.66,0:34:44.00,720P,,0,0,0,,我爸原來經營一家汽車拆修廠  我很討厭那  誰知道呢  大概當時還是有在認真看吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My father used to run a chop shop. I hated it. Who knew? I guess I was paying attention after all.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:34:44.08,0:34:48.00,720P,,0,0,0,,很好 因為我還想讓你再繼續改裝一下\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Good, because I'm gonna need you to make a few more changes to this thing.
+Dialogue: 0,0:35:10.84,0:35:16.00,720P,,0,0,0,,準備好武器  填好高爆彈藥  不准留下活口\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Ready the weapons. High explosive rounds. No survivors.
+Dialogue: 0,0:35:29.00,0:35:31.00,720P,,0,0,0,,他來了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}He's here.
+Dialogue: 0,0:35:31.00,0:35:34.00,720P,,0,0,0,,他們來了  快關上大門\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}They're coming. Close the gate!
+Dialogue: 0,0:35:51.42,0:35:54.66,720P,,0,0,0,,我的老天  這簡直是一個軍隊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My god! It's an army.
+Dialogue: 0,0:36:00.00,0:36:01.44,720P,,0,0,0,,我們該怎麼辦\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What are we gonna do?
+Dialogue: 0,0:36:01.52,0:36:05.26,720P,,0,0,0,,是啊 我們該怎麼辦\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yeah, what are we gonna do?
+Dialogue: 0,0:36:05.68,0:36:08.24,720P,,0,0,0,,我們要殺光他們所有人\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We're gonna kill every last one of them.
+Dialogue: 0,0:36:20.00,0:36:21.00,720P,,0,0,0,,準備開火\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Prepare to fire.
+Dialogue: 0,0:36:34.00,0:36:35.32,720P,,0,0,0,,大家準備好\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Get ready!
+Dialogue: 0,0:36:38.00,0:36:39.00,720P,,0,0,0,,點火\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Lighten  up!
+Dialogue: 0,0:36:52.00,0:36:53.00,720P,,0,0,0,,開炮\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Fire!\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:37:06.00,0:37:07.00,720P,,0,0,0,,我草他媽\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Damn her.
+Dialogue: 0,0:37:07.05,0:37:08.00,720P,,0,0,0,,再次填裝\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Reload.
+Dialogue: 0,0:37:11.00,0:37:13.00,720P,,0,0,0,,全面停止進攻\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Close it up. Full stop.
+Dialogue: 0,0:37:15.00,0:37:16.00,720P,,0,0,0,,把誘餌放出去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Release the bait.
+Dialogue: 0,0:37:21.00,0:37:23.00,720P,,0,0,0,,那有一位倖存者  打開大門\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There's a survivor. Open the gate.
+Dialogue: 0,0:37:24.00,0:37:25.00,720P,,0,0,0,,打開大門\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Open the gate!\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:37:26.00,0:37:27.00,720P,,0,0,0,,開火\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Open fire!\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:37:28.00,0:37:29.08,720P,,0,0,0,,給她打掩護\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Keep them off her.
+Dialogue: 0,0:37:33.00,0:37:34.00,720P,,0,0,0,,準備第二發\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Mark ready 2.
+Dialogue: 0,0:37:38.00,0:37:39.00,720P,,0,0,0,,開炮\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Fire!
+Dialogue: 0,0:37:50.00,0:37:52.00,720P,,0,0,0,,克萊爾 道客  快去那把她帶進來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Claire, Doc! Get out there, bring her in.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:37:59.00,0:38:00.00,720P,,0,0,0,,加把勁\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Come on.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}
+Dialogue: 0,0:38:01.00,0:38:02.00,720P,,0,0,0,,等等\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Wait.
+Dialogue: 0,0:38:03.00,0:38:04.00,720P,,0,0,0,,她快到了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}She's almost there.
+Dialogue: 0,0:38:06.00,0:38:07.00,720P,,0,0,0,,開火\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Fire.
+Dialogue: 0,0:38:10.00,0:38:11.00,720P,,0,0,0,,該死\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Damn you.
+Dialogue: 0,0:38:12.00,0:38:13.00,720P,,0,0,0,,關門現在\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Close the gate now.
+Dialogue: 0,0:38:22.00,0:38:24.00,720P,,0,0,0,,克萊爾 它們已經突破大門了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Claire, they've breached the gate.
+Dialogue: 0,0:38:31.00,0:38:32.00,720P,,0,0,0,,克萊爾\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Claire!
+Dialogue: 0,0:38:41.00,0:38:42.00,720P,,0,0,0,,開火\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Fire.
+Dialogue: 0,0:38:50.00,0:38:51.00,720P,,0,0,0,,瑞瑟爾 現在\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Razor, now!
+Dialogue: 0,0:38:52.00,0:38:55.00,720P,,0,0,0,,好 你們聽見她說什麼了  推\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Right, you heard her. Push!
+Dialogue: 0,0:39:15.00,0:39:17.00,720P,,0,0,0,,從大門撤退  撤回到路障那裏\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Abandon the gate. Pull back to the barricades.
+Dialogue: 0,0:39:17.06,0:39:19.00,720P,,0,0,0,,看起來她好像沒上鉤\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Looks like she's out of tricks.
+Dialogue: 0,0:39:20.00,0:39:21.00,720P,,0,0,0,,向頂上射擊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Target the roof.
+Dialogue: 0,0:39:24.00,0:39:25.00,720P,,0,0,0,,所有人趴下\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Everybody get down!
+Dialogue: 0,0:39:26.00,0:39:27.00,720P,,0,0,0,,趴下\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Down!
+Dialogue: 0,0:39:53.70,0:39:55.40,720P,,0,0,0,,愛麗絲 我們到達路障了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice, we're at the barricades.
+Dialogue: 0,0:39:55.46,0:39:57.00,720P,,0,0,0,,克萊爾 你們得把它們阻止在那裏\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Claire, you have to hold them there.
+Dialogue: 0,0:40:30.00,0:40:31.00,720P,,0,0,0,,道客小心\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Doc!
+Dialogue: 0,0:40:54.00,0:40:56.44,720P,,0,0,0,,愛麗絲 我們撐不住了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice, we can't hold on much longer.
+Dialogue: 0,0:40:56.50,0:40:57.68,720P,,0,0,0,,現在撤退\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Get out of there now.
+Dialogue: 0,0:41:37.82,0:41:40.96,720P,,0,0,0,,補給火力  現在\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Back up! Now!
+Dialogue: 0,0:42:02.00,0:42:04.00,720P,,0,0,0,,全力向她射擊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Bring all guns to her.
+Dialogue: 0,0:42:08.00,0:42:09.00,720P,,0,0,0,,開火\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Fire.
+Dialogue: 0,0:42:13.00,0:42:14.00,720P,,0,0,0,,她在哪\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Where is she?
+Dialogue: 0,0:42:16.68,0:42:18.18,720P,,0,0,0,,她去哪了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}where did she go?
+Dialogue: 0,0:42:20.00,0:42:21.76,720P,,0,0,0,,找到她\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Find her.
+Dialogue: 0,0:42:29.00,0:42:30.00,720P,,0,0,0,,關閉通風口\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Close the vents now!
+Dialogue: 0,0:42:44.00,0:42:45.00,720P,,0,0,0,,別開槍\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Don't shoot.
+Dialogue: 0,0:43:36.00,0:43:39.20,720P,,0,0,0,,你很快但你還不夠聰明\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You're fast but you're not too smart.
+Dialogue: 0,0:44:14.00,0:44:15.00,720P,,0,0,0,,求你別開槍\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Don't shoot please.
+Dialogue: 0,0:44:15.02,0:44:16.00,720P,,0,0,0,,他在哪\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Where is he?
+Dialogue: 0,0:44:16.02,0:44:17.00,720P,,0,0,0,,那邊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}That way.
+Dialogue: 0,0:44:29.00,0:44:30.00,720P,,0,0,0,,節約點子彈\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Save your ammo.
+Dialogue: 0,0:44:30.02,0:44:32.00,720P,,0,0,0,,這裏喪屍太多了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There's too many of these things out there.
+Dialogue: 0,0:44:33.00,0:44:34.00,720P,,0,0,0,,我來處理\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I'll take care of it.
+Dialogue: 0,0:44:39.00,0:44:40.00,720P,,0,0,0,,前進\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Move out!
+Dialogue: 0,0:44:41.00,0:44:42.00,720P,,0,0,0,,走吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let's go.
+Dialogue: 0,0:44:43.00,0:44:44.00,720P,,0,0,0,,敬請享受你的旅程吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Enjoy the ride.
+Dialogue: 0,0:45:03.84,0:45:04.70,720P,,0,0,0,,夥計們\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Guys.
+Dialogue: 0,0:45:04.78,0:45:05.46,720P,,0,0,0,,你說\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Go.
+Dialogue: 0,0:45:05.52,0:45:07.00,720P,,0,0,0,,有些東西你們得來看看\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There's something here you gotta see.
+Dialogue: 0,0:45:08.00,0:45:13.00,720P,,0,0,0,,還有兩波喪屍衝我們來了 地平線那裏一波\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Two more armies of undead headed straight for us, there on the horizon.
+Dialogue: 0,0:45:16.00,0:45:17.00,720P,,0,0,0,,另一波從那過來的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The second over there.
+Dialogue: 0,0:45:20.00,0:45:22.00,720P,,0,0,0,,我們用來防禦的汽油已經用光了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We're out of gasoline for defenses.
+Dialogue: 0,0:45:23.00,0:45:26.00,720P,,0,0,0,,我們必須趕到蜂巢 這是我們唯一的機會\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We have to make it to the Hive. It's our only chance now.
+Dialogue: 0,0:45:26.05,0:45:27.00,720P,,0,0,0,,我和你一起去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I'm coming with you.
+Dialogue: 0,0:45:27.02,0:45:28.00,720P,,0,0,0,,算我一個\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Count me in.
+Dialogue: 0,0:45:28.02,0:45:29.00,720P,,0,0,0,,我也去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Me too.
+Dialogue: 0,0:45:29.02,0:45:30.00,720P,,0,0,0,,還有我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And me.
+Dialogue: 0,0:45:31.00,0:45:32.00,720P,,0,0,0,,所以我之前誤會你了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}So I was wrong about you.
+Dialogue: 0,0:45:40.66,0:45:42.42,720P,,0,0,0,,你哪裏也不能去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There's no way you're going.
+Dialogue: 0,0:45:43.00,0:45:49.00,720P,,0,0,0,,我們知道前方危機四伏 我們想加入進來  拜託了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We know the pit, we wanna come. Please.
+Dialogue: 0,0:45:51.00,0:45:54.00,720P,,0,0,0,,帶上些工具 你們會用上的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Grab some gear, you're gonna need it.
+Dialogue: 0,0:46:14.00,0:46:15.00,720P,,0,0,0,,那裏\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There.
+Dialogue: 0,0:46:15.08,0:46:16.00,720P,,0,0,0,,那是什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What is it?
+Dialogue: 0,0:46:17.00,0:46:20.00,720P,,0,0,0,,一部分被爆炸暴露的蜂巢  這兒就是我們的入口\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Part of the Hive that was exposed by the blast. That's our way in.
+Dialogue: 0,0:46:39.00,0:46:40.00,720P,,0,0,0,,行動\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let's move.
+Dialogue: 0,0:46:41.00,0:46:42.00,720P,,0,0,0,,我來領隊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I'll take point.
+Dialogue: 0,0:47:05.00,0:47:07.00,720P,,0,0,0,,啟動安全監測\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Activate security measures now.
+Dialogue: 0,0:47:07.08,0:47:10.58,720P,,0,0,0,,蜂巢安保系統已完全啟動並自動操作\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hive security fully activated and automated.
+Dialogue: 0,0:47:10.66,0:47:11.18,720P,,0,0,0,,不\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No.
+Dialogue: 0,0:47:11.26,0:47:15.50,720P,,0,0,0,,解除自動操作  我要親自操作防禦系統\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Disengage automation. I'll handle the defenses myself.
+Dialogue: 0,0:47:15.56,0:47:19.36,720P,,0,0,0,,我來控制防禦系統的話將更有效率\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The defenses would be more efficient if I retain the control of them.
+Dialogue: 0,0:47:21.00,0:47:22.00,720P,,0,0,0,,是麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Really?
+Dialogue: 0,0:47:22.08,0:47:25.22,720P,,0,0,0,,我好像記得她上次活著離開了這裏呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I seemed to remember last time she was here she walked out alive.
+Dialogue: 0,0:47:25.28,0:47:28.00,720P,,0,0,0,,同樣的錯誤我不想犯第二次\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I don't intend to make that same mistake.
+Dialogue: 0,0:47:28.12,0:47:31.44,720P,,0,0,0,,如你所願  蜂巢防禦系統由你全權掌控\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}As you wish. Hive defenses are now in your hands.
+Dialogue: 0,0:47:34.00,0:47:35.32,720P,,0,0,0,,放出地獄犬\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Unleash the Cerberus.
+Dialogue: 0,0:47:35.40,0:47:37.00,720P,,0,0,0,,地獄犬準備完畢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Cerberus are in play.
+Dialogue: 0,0:47:43.00,0:47:45.00,720P,,0,0,0,,這一切爆發之前 你是一個人嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You have someone before all this?
+Dialogue: 0,0:47:46.00,0:47:48.00,720P,,0,0,0,,有沒有丈夫  家庭\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Husband? Family?
+Dialogue: 0,0:47:49.00,0:47:50.00,720P,,0,0,0,,不記得了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Can't remember.
+Dialogue: 0,0:47:50.10,0:47:51.68,720P,,0,0,0,,怎麼可能\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}How's that possible?
+Dialogue: 0,0:47:51.74,0:47:54.00,720P,,0,0,0,,我醒來的時候一切已經開始了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I woke up just when all this was starting.
+Dialogue: 0,0:47:54.08,0:48:02.00,720P,,0,0,0,,之前的事情不怎麼記得了  有時候我感覺這就是生活的全部 亡命天涯 大開殺戒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Can't recall much before that. Sometimes I feel like this has been my whole life,running, killing.
+Dialogue: 0,0:48:14.00,0:48:15.00,720P,,0,0,0,,那是什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What is it?
+Dialogue: 0,0:48:15.70,0:48:17.58,720P,,0,0,0,,有東西在跟著我們\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Something stalking us.
+Dialogue: 0,0:48:17.64,0:48:21.00,720P,,0,0,0,,- 你確定嗎 - 我就是幹這行的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}- Are you sure? - This is what I do.
+Dialogue: 0,0:48:35.00,0:48:38.56,720P,,0,0,0,,快  快跑\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Run. Run fast!
+Dialogue: 0,0:50:00.00,0:50:01.00,720P,,0,0,0,,跟上\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Come on!
+Dialogue: 0,0:50:17.00,0:50:19.20,720P,,0,0,0,,所有人都還好嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Is everyone okay?
+Dialogue: 0,0:50:23.00,0:50:24.00,720P,,0,0,0,,走這邊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It's this way.
+Dialogue: 0,0:50:40.00,0:50:42.02,720P,,0,0,0,,就在我們後面\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Right behind us.
+Dialogue: 0,0:51:11.00,0:51:13.98,720P,,0,0,0,,它們為什麼停下了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why'd they stop?
+Dialogue: 0,0:51:14.00,0:51:16.82,720P,,0,0,0,,- 也許它們害怕了 - 害怕什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}- Maybe they're scared.- Scared of what?
+Dialogue: 0,0:51:19.20,0:51:21.00,720P,,0,0,0,,下面肯定有什麼東西讓它們害怕\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Whatever's down there.
+Dialogue: 0,0:51:28.00,0:51:29.00,720P,,0,0,0,,封鎖蜂巢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Seal the Hive.
+Dialogue: 0,0:51:34.00,0:51:35.00,720P,,0,0,0,,我們走\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let's go.
+Dialogue: 0,0:51:45.00,0:51:46.00,720P,,0,0,0,,愛麗絲\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice!
+Dialogue: 0,0:52:20.00,0:52:21.00,720P,,0,0,0,,你還好嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You okay?
+Dialogue: 0,0:52:22.34,0:52:23.96,720P,,0,0,0,,我的彈夾已經用完一半了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My mag's half empty.
+Dialogue: 0,0:52:25.00,0:52:26.00,720P,,0,0,0,,我把槍丟在湖那裏了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Lost my guns at the lake.
+Dialogue: 0,0:52:27.00,0:52:28.00,720P,,0,0,0,,我只剩下槍膛裏的子彈\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I only have one round left.
+Dialogue: 0,0:52:29.00,0:52:30.00,720P,,0,0,0,,和一個備用彈匣了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}One spare mag and I'm out.
+Dialogue: 0,0:52:30.02,0:52:33.02,720P,,0,0,0,,沒有槍 沒有彈藥  我們在這兒到底怎麼辦\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No guns, no ammo. What the hell are we gonna do down here?
+Dialogue: 0,0:52:36.00,0:52:37.00,720P,,0,0,0,,愛麗絲 那束光是怎麼回事\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice? What's with the lights?
+Dialogue: 0,0:52:38.00,0:52:41.00,720P,,0,0,0,,這個區域被毀了  電力不穩定\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This part of the Hive is damaged. The powers erratic.
+Dialogue: 0,0:52:42.00,0:52:43.00,720P,,0,0,0,,這個 拿著\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Here, take this.
+Dialogue: 0,0:52:44.00,0:52:46.00,720P,,0,0,0,,聽著\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hey, look.
+Dialogue: 0,0:52:56.00,0:53:00.00,720P,,0,0,0,,你之前問我為什麼與保護傘公司反目 我承諾要告訴你答案\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You asked why I would turned against Umbrella and I promised you an answer.
+Dialogue: 0,0:53:01.00,0:53:06.00,720P,,0,0,0,,T病毒爆發過後不久 一份機密文件傳到了我的數據庫裏\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Soon after the T-Virus was released, a secret file was uploaded to my data stream.
+Dialogue: 0,0:53:07.00,0:53:13.00,720P,,0,0,0,,那是病毒爆發17個月以前 一份保護傘公司高層會議的視頻記錄\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It was a recording of a meeting of the Umbrella high command. Dated 17 months before the viral outbreak occurred.
+Dialogue: 0,0:53:14.00,0:53:21.00,720P,,0,0,0,,我們今天坐在一起 討論的不只是公司的前景 還有人類的宿命\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We're here today, not just to talk about the future of this company. We're here to talk about this destiny.
+Dialogue: 0,0:53:23.00,0:53:25.00,720P,,0,0,0,,世界的終結\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We're here to talk about the end of the world.
+Dialogue: 0,0:53:26.00,0:53:30.00,720P,,0,0,0,,我們站在末日的邊緣 經歷著無法治癒的疾病\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We stand on the brink of Armageddon. Diseases for which we have no cure.
+Dialogue: 0,0:53:32.00,0:53:37.00,720P,,0,0,0,,原教主義自求毀滅 對於核武器我們又束手無策\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Fundamentalist stage who called for our destruction. Nuclear powers over which we have no control.
+Dialogue: 0,0:53:38.00,0:53:43.00,720P,,0,0,0,,即便我們度過這一切難關 還是會有其他不可避免的威脅\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And even if we navigate these dangerous waters, we face other even more inevitable threats.
+Dialogue: 0,0:53:44.00,0:53:51.00,720P,,0,0,0,,全球變暖將在80年內融化兩極的冰蓋 淹沒地球上百分之90可居住的區域\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Global warming will melt the polarized caps within 80 years, flooding 90 percent of all habitable areas on earth.
+Dialogue: 0,0:53:52.00,0:53:58.00,720P,,0,0,0,,要不了50年 食物產量就會無法供養瘋狂增長的人口 饑荒和戰爭無可避免\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Unchecked population growth will overtake food production in less than 50 years leading to famine and war.
+Dialogue: 0,0:53:58.02,0:54:06.00,720P,,0,0,0,,這不是猜想 而是事實  殊途同歸 我們的世界終將毀滅\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This is not conjecture, this is fact. One way or another, our world is coming to an end.
+Dialogue: 0,0:54:07.00,0:54:10.00,720P,,0,0,0,,問題是 我們會隨之滅絕嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Now the question is...will we end with it?
+Dialogue: 0,0:54:11.00,0:54:12.00,720P,,0,0,0,,你有什麼好的建議嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What do you propose?
+Dialogue: 0,0:54:15.00,0:54:20.00,720P,,0,0,0,,我建議我們按照自己的方式親手毀滅這個世界\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I propose that we end the world but on our terms.
+Dialogue: 0,0:54:21.00,0:54:23.00,720P,,0,0,0,,一場精心策劃的世界末日\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}An orchestrated apocalypse.
+Dialogue: 0,0:54:24.00,0:54:30.00,720P,,0,0,0,,清除地球上的人口 但完整保留其基礎設施和能源\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}One that will cleanse the earth of its population but leave its infrastructure and resources intact.
+Dialogue: 0,0:54:31.00,0:54:34.00,720P,,0,0,0,,這一想法已經成功實施過\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It's been done once before with great success.
+Dialogue: 0,0:54:36.00,0:54:43.00,720P,,0,0,0,,被選中的少數人將在安全的地下平安度過這場災難 而不是創世紀裏所說的諾亞方舟上\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The chosen few will ride out the storm not in an ark as in the book of Genesis but in safety underground.
+Dialogue: 0,0:54:44.00,0:54:52.00,720P,,0,0,0,,末日結束後 我們將在一個淨化過的地球上重建屬於我們的輝煌\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And when it's over, we will emerge unto a cleansed earth. One that we can then reboot in our image.
+Dialogue: 0,0:54:53.00,0:54:55.00,720P,,0,0,0,,你要怎麼做到這一切呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And just how do you intend to achieve this?
+Dialogue: 0,0:54:56.00,0:54:59.00,720P,,0,0,0,,救世之法就在我們手中\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The means of our salvation are already at hand.
+Dialogue: 0,0:55:00.00,0:55:04.00,720P,,0,0,0,,我為你們帶來了 T病毒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I give to you...the T-Virus.
+Dialogue: 0,0:55:07.00,0:55:08.00,720P,,0,0,0,,他們是故意洩露它的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}They release it deliberately.
+Dialogue: 0,0:55:09.00,0:55:14.00,720P,,0,0,0,,這視頻傳進我數據庫的時候 讓我的編程出了點故障\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}When this recording was uploaded to my data stream, it created a conflict in my programming.
+Dialogue: 0,0:55:15.00,0:55:21.00,720P,,0,0,0,,我被創造出來服務保護傘公司 但是我也是珍視人類生命的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I was created to serve the Umbrella Corporation but I was also programmed to value human life.
+Dialogue: 0,0:55:22.00,0:55:26.00,720P,,0,0,0,,艾薩克斯博士允許了病毒洩露  他謀殺了70億人\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Dr. Isaacs allowed the virus to escape. He murdered over 7 billion people.
+Dialogue: 0,0:55:28.00,0:55:32.00,720P,,0,0,0,,我的系統不允許我傷害任何一個保護傘公司的員工\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My programming will not allow me to harm an employee of the Umbrella Corporation.
+Dialogue: 0,0:55:33.00,0:55:36.00,720P,,0,0,0,,我無力阻止艾薩克斯博士 但你卻可以\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I am powerless to stop Dr. Isaacs but you are not.
+Dialogue: 0,0:55:37.00,0:55:42.00,720P,,0,0,0,,在37分鐘後 人類最後的定居點將會狗帶 無人能夠生還\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}In 37 minutes, the last of the human settlements will fall. There will be no survivors.
+Dialogue: 0,0:55:43.00,0:55:48.00,720P,,0,0,0,,在這發生之前你必須釋放病毒抗體 否則保護傘公司就贏了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It's imperative that you release the anti virus before this occurs or Umbrella will have won.
+Dialogue: 0,0:55:49.00,0:55:53.00,720P,,0,0,0,,還有最後一件事 你面前有一個耳機 戴上它\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There's one last thing, there's an earpiece in front of you. Put it in.
+Dialogue: 0,0:55:59.00,0:56:07.00,720P,,0,0,0,,我無法親自傷害保護傘公司的員工 但我要告訴你 保護傘公司在浣熊市有個線人\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I cannot do my actions: harm an employee of the Umbrella Corporation but I can tell you that Umbrella had an informant in Raccoon City.
+Dialogue: 0,0:56:08.00,0:56:11.00,720P,,0,0,0,,而且這個人很有可能就在你的隊伍裏\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It is highly likely that this person is now here with you.
+Dialogue: 0,0:56:13.00,0:56:17.00,720P,,0,0,0,,時間不多了 愛麗絲 你得抓緊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Time is running out Alice. You have to hurry.
+Dialogue: 0,0:56:52.00,0:56:54.00,720P,,0,0,0,,很高興見到你 艾薩克斯博士\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Glad to see you Dr. Isaacs.
+Dialogue: 0,0:56:54.02,0:56:57.00,720P,,0,0,0,,我們覺得上次攻擊之後 無人存活\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We didn't think there are any survivors after the last attack.
+Dialogue: 0,0:56:57.02,0:56:58.00,720P,,0,0,0,,水\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Water.
+Dialogue: 0,0:56:58.02,0:56:59.00,720P,,0,0,0,,是的 先生  當然\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yes sir. Of course.
+Dialogue: 0,0:56:59.03,0:57:00.00,720P,,0,0,0,,給艾薩克斯博士倒點水\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Get Dr. Isaacs some water.
+Dialogue: 0,0:57:01.00,0:57:02.00,720P,,0,0,0,,重新開始浣熊市的進程\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Then resume course for Raccoon City.
+Dialogue: 0,0:57:03.00,0:57:04.00,720P,,0,0,0,,她不在那兒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}She's not there.
+Dialogue: 0,0:57:06.00,0:57:07.00,720P,,0,0,0,,她去了深井 我們得跟著她\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}She went to the pit, we have to follow.
+Dialogue: 0,0:57:09.00,0:57:10.00,720P,,0,0,0,,我們得去深井\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We have to go to the pit.
+Dialogue: 0,0:57:25.00,0:57:26.00,720P,,0,0,0,,謝謝\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Thank you.
+Dialogue: 0,0:57:43.00,0:57:44.00,720P,,0,0,0,,這是哪\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What is this place?
+Dialogue: 0,0:57:45.00,0:57:47.00,720P,,0,0,0,,這是蜂巢的一個進風口  來吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It's an air intake for the Hive. Come on.
+Dialogue: 0,0:57:49.00,0:57:50.00,720P,,0,0,0,,別啊  真的要去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No. Really?
+Dialogue: 0,0:58:37.00,0:58:38.00,720P,,0,0,0,,解除警報\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}All clear!
+Dialogue: 0,0:59:09.00,0:59:12.00,720P,,0,0,0,,快點  電力馬上要恢復了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hurry up! The powers coming back on.
+Dialogue: 0,0:59:12.02,0:59:13.00,720P,,0,0,0,,快啊  咱們走\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hurry! Let's go!
+Dialogue: 0,0:59:26.00,0:59:27.00,720P,,0,0,0,,快來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Come on!
+Dialogue: 0,0:59:47.00,0:59:49.00,720P,,0,0,0,,有人在監視咱們\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Someone's watching us.
+Dialogue: 0,0:59:53.00,0:59:55.00,720P,,0,0,0,,把渦輪向反方向旋轉\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Reverse polarity of the turbine.
+Dialogue: 0,1:00:09.00,1:00:10.00,720P,,0,0,0,,渦輪片正在向反方向旋轉\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The plates are going the other way.
+Dialogue: 0,1:00:11.00,1:00:12.00,720P,,0,0,0,,我們得離開這兒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We have to get out of here.
+Dialogue: 0,1:00:13.00,1:00:14.00,720P,,0,0,0,,渦輪片正向後吸著空氣\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The plates are sucking the air backwards.
+Dialogue: 0,1:00:25.00,1:00:26.00,720P,,0,0,0,,快點\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Come on!
+Dialogue: 0,1:03:38.00,1:03:39.00,720P,,0,0,0,,這邊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This way.
+Dialogue: 0,1:03:42.00,1:03:43.00,720P,,0,0,0,,我們得快\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We have to hurry.
+Dialogue: 0,1:03:43.02,1:03:44.00,720P,,0,0,0,,等等\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Wait!
+Dialogue: 0,1:04:07.00,1:04:08.00,720P,,0,0,0,,咱們走\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let's go.
+Dialogue: 0,1:06:15.00,1:06:16.00,720P,,0,0,0,,萊瑟爾\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Razor?
+Dialogue: 0,1:06:17.00,1:06:18.00,720P,,0,0,0,,你沒事吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You okay?
+Dialogue: 0,1:06:23.00,1:06:24.00,720P,,0,0,0,,沒事\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yeah
+Dialogue: 0,1:06:24.02,1:06:25.00,720P,,0,0,0,,咱們走\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let's go.
+Dialogue: 0,1:07:58.00,1:07:59.00,720P,,0,0,0,,嗨\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hey!
+Dialogue: 0,1:09:14.00,1:09:15.00,720P,,0,0,0,,這他媽是什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What the hell is that?
+Dialogue: 0,1:09:15.02,1:09:18.00,720P,,0,0,0,,生化武器 這是個人類\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Bioweapon. This one's human.
+Dialogue: 0,1:09:18.02,1:09:19.00,720P,,0,0,0,,你看見克萊爾了嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Have you seen Claire?
+Dialogue: 0,1:09:19.02,1:09:20.00,720P,,0,0,0,,沒有\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No.
+Dialogue: 0,1:09:20.02,1:09:21.00,720P,,0,0,0,,萊瑟爾呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Razor?
+Dialogue: 0,1:09:22.00,1:09:23.00,720P,,0,0,0,,他沒有挺過來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}He didn't make it.
+Dialogue: 0,1:09:26.00,1:09:28.00,720P,,0,0,0,,快點 我們得抓緊了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Come on. We have to hurry.
+Dialogue: 0,1:09:30.00,1:09:35.00,720P,,0,0,0,,照這樣下去 她7分鐘之後就能到達這了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}If the target continues on her present course, she'll be here in 7 minutes.
+Dialogue: 0,1:09:35.02,1:09:36.00,720P,,0,0,0,,把他們喚醒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Wake them.
+Dialogue: 0,1:09:37.00,1:09:41.00,720P,,0,0,0,,除非有極度緊急的情況 否則我不會接受這樣的指令\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My instructions aren't to do so. Only in the greatest of emergencies.
+Dialogue: 0,1:09:42.00,1:09:43.00,720P,,0,0,0,,把他們喚醒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Wake them now.
+Dialogue: 0,1:10:53.00,1:10:54.00,720P,,0,0,0,,這是什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What is it?
+Dialogue: 0,1:11:09.00,1:11:10.00,720P,,0,0,0,,我們得離開這兒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We have to get out of here.
+Dialogue: 0,1:11:27.00,1:11:28.00,720P,,0,0,0,,這兒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Here.
+Dialogue: 0,1:11:28.00,1:11:30.00,720P,,0,0,0,,我們去切斷電源\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We're stopping power.
+Dialogue: 0,1:11:38.00,1:11:39.00,720P,,0,0,0,,快沒時間了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Time's running out.
+Dialogue: 0,1:11:39.05,1:11:40.00,720P,,0,0,0,,下一步去哪\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Where to next?
+Dialogue: 0,1:11:44.00,1:11:46.00,720P,,0,0,0,,蜂巢的最後一層就在我們腳下\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The final level of the Hive's below us.
+Dialogue: 0,1:11:46.02,1:11:47.00,720P,,0,0,0,,我們要怎麼去\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}How do we get down there?
+Dialogue: 0,1:11:52.00,1:11:53.00,720P,,0,0,0,,就像這樣\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Like so.
+Dialogue: 0,1:12:11.00,1:12:12.00,720P,,0,0,0,,他們是什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What are they?
+Dialogue: 0,1:12:13.00,1:12:14.00,720P,,0,0,0,,低溫儲存\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Cyrogenic storage.
+Dialogue: 0,1:12:15.00,1:12:17.00,720P,,0,0,0,,這裏肯定有上千個\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Must be thousands of em.
+Dialogue: 0,1:12:18.00,1:12:19.00,720P,,0,0,0,,保護傘最高指揮部\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The Umbrella high command.
+Dialogue: 0,1:12:20.00,1:12:23.00,720P,,0,0,0,,安全地等待著世界末日的結束\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Waiting out the apocalypse in safety.
+Dialogue: 0,1:12:26.00,1:12:30.00,720P,,0,0,0,,專為有權的有錢人打造的諾亞方舟\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Noah's ark for the rich and powerful.
+Dialogue: 0,1:12:33.00,1:12:35.00,720P,,0,0,0,,你在幹什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What are you doing?
+Dialogue: 0,1:12:37.00,1:12:39.00,720P,,0,0,0,,幫我一把\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Give me a hand.
+Dialogue: 0,1:12:51.00,1:12:52.00,720P,,0,0,0,,搞定了嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Is it done?
+Dialogue: 0,1:12:54.00,1:12:55.00,720P,,0,0,0,,淨化過程完成了嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The cleansing process is complete?
+Dialogue: 0,1:12:56.00,1:12:57.00,720P,,0,0,0,,沒有\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No.
+Dialogue: 0,1:12:57.02,1:12:58.00,720P,,0,0,0,,那我為什麼醒了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Then why am I awake?
+Dialogue: 0,1:12:59.00,1:13:00.00,720P,,0,0,0,,我們遇到了一個問題\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We had a problem.
+Dialogue: 0,1:13:00.08,1:13:01.05,720P,,0,0,0,,我試著\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I tried...
+Dialogue: 0,1:13:01.08,1:13:02.02,720P,,0,0,0,,省省吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Save your breath.
+Dialogue: 0,1:13:03.00,1:13:05.00,720P,,0,0,0,,我知道發生了什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I know exactly what's happening.
+Dialogue: 0,1:13:06.00,1:13:09.00,720P,,0,0,0,,我們被背叛了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We've been betrayed.
+Dialogue: 0,1:13:19.00,1:13:20.00,720P,,0,0,0,,對啊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}That's right!
+Dialogue: 0,1:13:22.00,1:13:23.00,720P,,0,0,0,,這裏\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Over here!
+Dialogue: 0,1:13:26.00,1:13:30.00,720P,,0,0,0,,來啊 就是這兒  跟我來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Come on...that's it. Follow me.
+Dialogue: 0,1:14:20.00,1:14:31.00,720P,,0,0,0,,這不是那個浪子回頭的女兒嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Or is it the prodigal daughter?
+Dialogue: 0,1:14:31.08,1:14:33.00,720P,,0,0,0,,咱們走\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Let's go.
+Dialogue: 0,1:14:33.00,1:14:49.00,720P,,0,0,0,,這不是悔悟回家的女兒嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Or is it the prodigal daughter?
+Dialogue: 0,1:14:49.06,1:14:51.00,720P,,0,0,0,,壞苗子回來了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The bad seed returns.\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}這不是悔悟回家的女兒嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Or is it the prodigal daughter?
+Dialogue: 0,1:14:51.00,1:14:54.00,720P,,0,0,0,,這不是悔悟回家的女兒嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Or is it the prodigal daughter?
+Dialogue: 0,1:14:54.06,1:14:56.00,720P,,0,0,0,,別杵在那兒 進來\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Well, don't just stand there. Come in.
+Dialogue: 0,1:14:56.10,1:15:00.00,720P,,0,0,0,,畢竟你只有9分鐘來拯救世界\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}After all you have only 9 minutes to save the world.
+Dialogue: 0,1:15:01.68,1:15:03.16,720P,,0,0,0,,你是真身嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You're really him?
+Dialogue: 0,1:15:03.26,1:15:06.52,720P,,0,0,0,,首先呢 我需要你放下武器\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}First things first. I'm gonna need you to place your weapons on the floor.
+Dialogue: 0,1:15:06.60,1:15:08.00,720P,,0,0,0,,我憑什麼聽你的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why would I wanna do that?
+Dialogue: 0,1:15:08.06,1:15:10.00,720P,,0,0,0,,這就是你想要的 不是嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This is what you're after, yes?
+Dialogue: 0,1:15:11.00,1:15:14.32,720P,,0,0,0,,病毒抗體 這一切的解藥\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The anti virus. The cure to all this.
+Dialogue: 0,1:15:16.00,1:15:18.00,720P,,0,0,0,,可是解藥只有一瓶哦\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Well, there's only one vial.
+Dialogue: 0,1:15:18.44,1:15:21.20,720P,,0,0,0,,況且我們在地下半英里的一個封閉設施裏\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And we're half a mile down underground in a sealed facility.
+Dialogue: 0,1:15:21.28,1:15:29.00,720P,,0,0,0,,我摔了它 病毒抗體和你無望的夢想 會灰飛煙滅得更早喲\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I drop it here and the anti virus goes nowhere and your hopeless dreams will die sooner rather than later.
+Dialogue: 0,1:15:39.00,1:15:40.00,720P,,0,0,0,,乖寶寶\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Good girl.
+Dialogue: 0,1:15:45.48,1:15:46.94,720P,,0,0,0,,你還沒放下槍\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You're still armed.
+Dialogue: 0,1:15:47.00,1:15:49.00,720P,,0,0,0,,沒錯\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yes, I am.
+Dialogue: 0,1:15:49.05,1:15:51.00,720P,,0,0,0,,克萊爾得多麼失望\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Claire would be so disappointed.
+Dialogue: 0,1:15:51.05,1:15:55.00,720P,,0,0,0,,幾分鐘後 克萊爾會和其他你認識的人一樣死翹翹\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}A few minutes, Claire would be dead along with everybody else you know.
+Dialogue: 0,1:15:55.05,1:15:57.00,720P,,0,0,0,,真棒\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}That's sweet.
+Dialogue: 0,1:15:59.00,1:16:01.00,720P,,0,0,0,,抱歉 我的甜心\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Sorry, my love.
+Dialogue: 0,1:16:02.00,1:16:05.00,720P,,0,0,0,,離武器和引爆器遠點\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Move away from the weapon and the detonator.
+Dialogue: 0,1:16:09.00,1:16:13.32,720P,,0,0,0,,她把爆炸物放在最高指揮部的低溫管處 我會解除它們\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}She place explosives in the high command cryo tubes, I'll disarm them.
+Dialogue: 0,1:16:13.38,1:16:16.00,720P,,0,0,0,,謝謝 道客 你做得很好\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Thank you. You've done well Doc.
+Dialogue: 0,1:16:47.18,1:16:50.00,720P,,0,0,0,,別掙扎了 你不會成功的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Don't bother. You don't make it.
+Dialogue: 0,1:16:50.10,1:16:55.00,720P,,0,0,0,,無論是碎冰錐玻璃瓶或是鋼筆\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}To the ice pick, to the decanter or the phantom pen.
+Dialogue: 0,1:17:24.00,1:17:32.00,720P,,0,0,0,,至於你的問題 除了幾個克隆體 我就是亞歷山大·羅蘭德·艾薩克斯博士\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And in aswer to your question, yes apart from a few technological upgrades, I am Dr. Alexander Roland Isaacs.
+Dialogue: 0,1:17:32.04,1:17:33.00,720P,,0,0,0,,本體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The original.
+Dialogue: 0,1:17:33.05,1:17:35.64,720P,,0,0,0,,我在外面遇見的那個 他也覺得自己是本體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The one I met out there, he thought exactly the same thing.
+Dialogue: 0,1:17:35.70,1:17:38.00,720P,,0,0,0,,當然 我們就是這麼設計的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Of course he did, that's how they're designed.
+Dialogue: 0,1:17:38.10,1:17:41.66,720P,,0,0,0,,我們一直不斷努力嘗試 不懼怕時間甚至死亡\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We always try harder and fight longer even to the death.
+Dialogue: 0,1:17:41.72,1:17:44.00,720P,,0,0,0,,只要他們覺得自己是本體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}As long as they think they're the real thing.
+Dialogue: 0,1:17:44.12,1:17:52.00,720P,,0,0,0,,畢竟 誰也不願意知道自己只是一副毫無價值的仿製品 就像你一樣\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}After all, who wants to know they're just a poor imitation of a worthless copy. Which brings us to you.
+Dialogue: 0,1:17:52.05,1:17:53.00,720P,,0,0,0,,不\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No.
+Dialogue: 0,1:17:53.05,1:17:58.05,720P,,0,0,0,,得了 你不會以為自己是本體吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Oh come on, you thought you were the original?
+Dialogue: 0,1:18:00.00,1:18:02.00,720P,,0,0,0,,多美妙啊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}How delicious.
+Dialogue: 0,1:18:03.00,1:18:07.00,720P,,0,0,0,,不 我懷疑她還是有榮譽感的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No, I'm afraid she holds that dubious honor.
+Dialogue: 0,1:18:07.06,1:18:15.48,720P,,0,0,0,,艾麗西亞·馬爾庫斯 我老搭檔詹姆士的女兒  保護傘公司的共同所有人 我身邊一根痛苦的刺\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alicia Marcus, daughter of my old partner, James. Co-owner of the Umbrella Corporation and a painful thorn in my side.
+Dialogue: 0,1:18:15.54,1:18:17.70,720P,,0,0,0,,一根我現在想要拔除的刺\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}One I now intend to remove.
+Dialogue: 0,1:18:17.76,1:18:23.00,720P,,0,0,0,,沒時間了愛麗絲 你必須馬上殺了他\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Time is running out Alice. You must kill him soon.
+Dialogue: 0,1:18:24.00,1:18:26.00,720P,,0,0,0,,我也很高興見到你 艾麗西亞\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It's good to see you too Alicia.
+Dialogue: 0,1:18:27.00,1:18:34.00,720P,,0,0,0,,馬爾庫斯為了救她發明了T-病毒 但效果並不持久 我已經為她的死等了很久\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Marcus created the T-Virus to save her but the effects didn't last but I've been waiting years for her to die.
+Dialogue: 0,1:18:34.46,1:18:38.00,720P,,0,0,0,,我以為我不是克隆人\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I thought I'm not a clone.
+Dialogue: 0,1:18:38.05,1:18:39.00,720P,,0,0,0,,真的麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Really?
+Dialogue: 0,1:18:39.82,1:18:46.00,720P,,0,0,0,,那為什麼你對你的童年 你的父母會毫無記憶\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why is it you could remember nothing of your childhood. Your father? Your mother?
+Dialogue: 0,1:18:48.00,1:18:49.00,720P,,0,0,0,,喪失了記憶罷了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Memory loss.
+Dialogue: 0,1:18:49.05,1:18:53.00,720P,,0,0,0,,不 你沒有記憶 因為你沒有人生\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No, you have no memory because you have no life.
+Dialogue: 0,1:18:53.05,1:18:57.00,720P,,0,0,0,,我們十年前在蜂巢創造了你之前 你什麼都沒有\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Nothing before the mansion when we created you 10 years ago.
+Dialogue: 0,1:18:57.10,1:18:58.70,720P,,0,0,0,,我知道我是誰\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I know who I am.
+Dialogue: 0,1:18:58.78,1:19:00.00,720P,,0,0,0,,我可不這麼覺得\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I don't think so.
+Dialogue: 0,1:19:01.00,1:19:08.24,720P,,0,0,0,,你只不過是一個斷了線的木偶 四處瞎逛了一會兒就覺得自己是個真人了 可你不是\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You're nothing more than a puppet whose strings were cut and then you wandered around for a little while thinking you're a real girl but you're not
+Dialogue: 0,1:19:09.00,1:19:15.00,720P,,0,0,0,,你只不過是個聰明的仿製品 一個副本 比副本更麻煩\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Your just a clever imitation. A facsimile. A rather troublesome one than that.
+Dialogue: 0,1:19:15.42,1:19:17.00,720P,,0,0,0,,你騙我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You're lying to me.
+Dialogue: 0,1:19:17.38,1:19:19.00,720P,,0,0,0,,他並沒有騙你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I'm afraid he's not.
+Dialogue: 0,1:19:19.32,1:19:22.56,720P,,0,0,0,,你是照著她的樣子被創造出來的  就像我一樣\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You are created in her image. As was I.
+Dialogue: 0,1:19:22.66,1:19:28.94,720P,,0,0,0,,我的長相和聲音都是艾麗西亞·馬庫斯的父親根據童年時期的她創造的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My likeness and voice were based on childhood recordings of Alicia Marcus made by her father.
+Dialogue: 0,1:19:29.24,1:19:38.00,720P,,0,0,0,,你的基因是根據她的DNA構造的 並被調整以防止曾折磨她的兒童早衰老化癥\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Your genetic structure is based on her DNA, tweak to avoid the Progerio aging disease that afflicted her.
+Dialogue: 0,1:19:38.05,1:19:42.00,720P,,0,0,0,,我是兒童時代的她  你則是成年的她\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I'm the child she was. You are the woman she would have been.
+Dialogue: 0,1:19:42.12,1:19:50.00,720P,,0,0,0,,不 你比我要好太多 是我任由自己變弱\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No, you are so much better than I ever could be. I let this happen.
+Dialogue: 0,1:19:51.00,1:19:52.00,720P,,0,0,0,,我曾經很虛弱\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I was weak.
+Dialogue: 0,1:19:52.06,1:19:54.54,720P,,0,0,0,,你不能變成那樣\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You cannot afford to be.
+Dialogue: 0,1:19:55.00,1:19:56.72,720P,,0,0,0,,艾麗絲 沒時間了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Time is running out Alice.
+Dialogue: 0,1:19:57.00,1:19:59.00,720P,,0,0,0,,啊 真感人\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Ahh, that's touching.
+Dialogue: 0,1:20:00.00,1:20:03.32,720P,,0,0,0,,婊子三人組 因仇恨團結在一起\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The trinity of bitches, united in their hatred.
+Dialogue: 0,1:20:04.00,1:20:10.00,720P,,0,0,0,,但這對你沒什麼任何好處  我總是會先你一步 你改變不了任何事 也救不了任何人\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Well that wont do you any good. I'll be ahead of you in every step of the way. You change nothing. You've saved no one.
+Dialogue: 0,1:20:11.00,1:20:14.76,720P,,0,0,0,,這個世界依舊會被肅清 保護傘公司會是最終的贏家\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The world will still be cleansed and the Umbrella Corporation will triumph.
+Dialogue: 0,1:20:14.82,1:20:19.70,720P,,0,0,0,,唯一不同的是 我再也不用聽你那些正義的牢騷了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The only difference is, I no longer have to listen to your self righteous whining.
+Dialogue: 0,1:20:19.76,1:20:24.20,720P,,0,0,0,,當你將文件上傳到紅後的數據庫裏時 你就已經背叛了公司\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}When you uploaded that file to the Red Queen's data stream, you turned against the corporation.
+Dialogue: 0,1:20:24.24,1:20:27.00,720P,,0,0,0,,當董事會剩下的人醒了 你就會被換下\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}When the rest of the board awake, you will be replaced.
+Dialogue: 0,1:20:27.10,1:20:30.00,720P,,0,0,0,,然後我將全權接管\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And I will assume complete control.
+Dialogue: 0,1:20:30.05,1:20:33.44,720P,,0,0,0,,我仍然有公司百分之五十的股份\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I still own 50 percent of this company.
+Dialogue: 0,1:20:34.00,1:20:36.00,720P,,0,0,0,,你又準備拿它做什麼呢\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And what do you intend to do with that?
+Dialogue: 0,1:20:36.34,1:20:40.00,720P,,0,0,0,,你只是公司的共有者\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You are co-owner of this corporation.
+Dialogue: 0,1:20:40.05,1:20:44.00,720P,,0,0,0,,而威斯克呢  威斯克只是個僱員\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But Wesker? Wesker is still an employee.
+Dialogue: 0,1:20:44.04,1:20:47.16,720P,,0,0,0,,我不用聽從你的命令 我只忠於他\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I don't have to take your orders, my loyalties are with him.
+Dialogue: 0,1:20:47.24,1:20:54.00,720P,,0,0,0,,我知道 阿爾伯特·威斯克 你被炒了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I know. Albert Wesker, you're fired.
+Dialogue: 0,1:21:17.00,1:21:18.00,720P,,0,0,0,,你怎麼知道是我做的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}How did you know it was me?
+Dialogue: 0,1:21:19.00,1:21:20.00,720P,,0,0,0,,因為你還活著\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You're still alive.
+Dialogue: 0,1:21:23.00,1:21:27.00,720P,,0,0,0,,拜託 我當時沒有任何選擇  是他們逼我幹的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Hey, please. It wasn't like I have any choice. They made me do it.
+Dialogue: 0,1:21:27.36,1:21:30.00,720P,,0,0,0,,別慌  我不會殺你的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Don't worry. I'm not gonna kill you.
+Dialogue: 0,1:21:35.00,1:21:37.00,720P,,0,0,0,,克萊爾 是我啊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Claire, it's me.
+Dialogue: 0,1:21:37.05,1:21:38.00,720P,,0,0,0,,對不起\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Sorry.
+Dialogue: 0,1:21:39.00,1:21:40.00,720P,,0,0,0,,求你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Please.
+Dialogue: 0,1:21:40.05,1:21:41.00,720P,,0,0,0,,親愛的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My love.
+Dialogue: 0,1:21:42.00,1:21:43.00,720P,,0,0,0,,別別別\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No no no.
+Dialogue: 0,1:21:44.00,1:21:50.00,720P,,0,0,0,,如果你一直不按下這個扣板 你就一直縱容保護傘公司的夢想不死\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}If you keep this trigger unpressed, you keep Umbrella's dreams alive.
+Dialogue: 0,1:21:50.05,1:21:52.00,720P,,0,0,0,,早知當初我應該在華盛頓殺了你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I should have killed you in Washington.
+Dialogue: 0,1:21:53.00,1:21:54.00,720P,,0,0,0,,是啊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yeah.
+Dialogue: 0,1:21:57.00,1:22:00.00,720P,,0,0,0,,他只需要再背叛你幾分鐘\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}He only has to deviate you for another few minutes.
+Dialogue: 0,1:22:01.00,1:22:04.00,720P,,0,0,0,,人類最後的村落就會消失了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And the last remaining human outposts will fall.
+Dialogue: 0,1:22:06.00,1:22:09.00,720P,,0,0,0,,我們需要攔住他 然後以最快的方式到達地球表面\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We need an intercept path and a fastest way to the surface.
+Dialogue: 0,1:22:10.00,1:22:11.00,720P,,0,0,0,,已經完成了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Already done.
+Dialogue: 0,1:22:12.00,1:22:25.00,720P,,0,0,0,,如果你釋放了病毒抗體 它就會殺死所有被T病毒感染的有機體  你知道這對你而言意味著什麼吧\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}If you release the anti virus, it will kill all organisms infected with the T-Virus. You know what that means don't you? For you?
+Dialogue: 0,1:22:26.00,1:22:27.00,720P,,0,0,0,,我知道\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I know.
+Dialogue: 0,1:22:27.05,1:22:28.00,720P,,0,0,0,,艾麗絲 你不能這麼做\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice, you can't.
+Dialogue: 0,1:22:28.05,1:22:29.46,720P,,0,0,0,,我別無選擇\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I don't have a choice.
+Dialogue: 0,1:22:29.50,1:22:32.00,720P,,0,0,0,,一定還有其他的解決辦法\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}There has to be another way.
+Dialogue: 0,1:22:34.00,1:22:35.00,720P,,0,0,0,,你知道這是唯一的辦法\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You know there isn't.
+Dialogue: 0,1:22:36.00,1:22:39.00,720P,,0,0,0,,只剩四分鐘零三十三秒 你得抓緊了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}4 minutes and 33 seconds left, you have to hurry.
+Dialogue: 0,1:23:24.00,1:23:25.00,720P,,0,0,0,,幫幫我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Help me.
+Dialogue: 0,1:23:26.00,1:23:28.00,720P,,0,0,0,,你不需要幫助 威斯克\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You don't need help Wesker.
+Dialogue: 0,1:23:31.00,1:23:35.00,720P,,0,0,0,,你快死了  習慣就好\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You're dying. Just get on with it.
+Dialogue: 0,1:23:38.00,1:23:45.00,720P,,0,0,0,,我是亞歷山大·羅蘭德·艾薩克斯博士  啟動DNA和聲紋身份驗證\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This is Dr. Alexander Roland Isaacs. Confirm DNA scan and voice print identification.
+Dialogue: 0,1:23:45.05,1:23:46.00,720P,,0,0,0,,身份已確認\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Identity confirmed.
+Dialogue: 0,1:23:47.00,1:23:49.78,720P,,0,0,0,,安全系統啟動 取消4365號的控制權\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Confirm security override 4365.
+Dialogue: 0,1:23:50.00,1:23:51.00,720P,,0,0,0,,已取消\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Override confirmed.
+Dialogue: 0,1:23:51.08,1:23:56.14,720P,,0,0,0,,現在自動離線 然後將一切功能交予我單獨控制\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Well now take yourself offline and place all functions under my sole control.
+Dialogue: 0,1:23:56.18,1:23:58.36,720P,,0,0,0,,遵命 正在關機\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}As you wish, shutting down now.
+Dialogue: 0,1:23:58.46,1:24:03.74,720P,,0,0,0,,艾薩克斯博士 你和保護傘公司的高層\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Dr. Isaacs, you and the Umbrella high command.
+Dialogue: 0,1:24:03.80,1:24:04.62,720P,,0,0,0,,怎樣\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yes?
+Dialogue: 0,1:24:04.68,1:24:07.00,720P,,0,0,0,,你們都會死在下面\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You're all going to die down here.
+Dialogue: 0,1:24:12.00,1:24:14.18,720P,,0,0,0,,你的小夥伴也幫不了你了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Your little friend won't be able to help you now.
+Dialogue: 0,1:24:14.26,1:24:16.00,720P,,0,0,0,,你逃不掉了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You can't run anymore.
+Dialogue: 0,1:24:19.00,1:24:20.78,720P,,0,0,0,,我並沒有逃\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I wasn't running.
+Dialogue: 0,1:28:08.00,1:28:09.00,720P,,0,0,0,,你就這點本事了嗎\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Is that all you got?
+Dialogue: 0,1:28:11.00,1:28:15.00,720P,,0,0,0,,如果就這點本事 我就得殺了你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Cause if it is, I'm gonna have to kill you.
+Dialogue: 0,1:29:04.00,1:29:06.00,720P,,0,0,0,,我們已經玩得夠久了 你和我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We've played a long game you and I.
+Dialogue: 0,1:29:08.00,1:29:09.00,720P,,0,0,0,,但現在一切都結束了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}But now it's over.
+Dialogue: 0,1:29:10.00,1:29:11.00,720P,,0,0,0,,是啊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yes.
+Dialogue: 0,1:29:14.00,1:29:15.00,720P,,0,0,0,,是的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yes it is.
+Dialogue: 0,1:30:09.00,1:30:10.00,720P,,0,0,0,,我創造了你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I made you.
+Dialogue: 0,1:30:10.00,1:30:12.00,720P,,0,0,0,,是的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Yeah.
+Dialogue: 0,1:30:13.00,1:30:14.00,720P,,0,0,0,,你犯了個大錯\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Big mistake.
+Dialogue: 0,1:30:22.00,1:30:23.00,720P,,0,0,0,,克萊爾\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Claire.
+Dialogue: 0,1:30:25.00,1:30:27.00,720P,,0,0,0,,快走 趁著還有時間\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Go! While there's still time.
+Dialogue: 0,1:30:27.06,1:30:29.26,720P,,0,0,0,,走  我就跟在你的後面\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Go, I'll be right behind you.
+Dialogue: 0,1:31:30.00,1:31:32.00,720P,,0,0,0,,你沒時間了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Your time's up.
+Dialogue: 0,1:31:35.20,1:31:38.26,720P,,0,0,0,,艾麗絲  我帶他們來了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alice  I've brought them here.
+Dialogue: 0,1:31:38.34,1:31:40.00,720P,,0,0,0,,我為你把他們帶來了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I've brought them for you.
+Dialogue: 0,1:31:48.00,1:31:50.00,720P,,0,0,0,,你是誰\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What the hell are you?
+Dialogue: 0,1:31:53.00,1:31:55.00,720P,,0,0,0,,我是你啊 傻瓜\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I'm you, you idiot.
+Dialogue: 0,1:31:58.00,1:32:01.84,720P,,0,0,0,,不 不\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No. No.
+Dialogue: 0,1:32:01.94,1:32:05.00,720P,,0,0,0,,不 這不可能\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No, that's not possible.
+Dialogue: 0,1:32:05.08,1:32:08.00,720P,,0,0,0,,我是真的你\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The real you.
+Dialogue: 0,1:32:08.32,1:32:09.70,720P,,0,0,0,,不可能\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No.
+Dialogue: 0,1:32:11.96,1:32:15.00,720P,,0,0,0,,騙子  討厭的傢伙\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Liar! Abomination!
+Dialogue: 0,1:32:15.10,1:32:17.00,720P,,0,0,0,,骯髒的傢伙\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Filthy!
+Dialogue: 0,1:32:29.16,1:32:32.00,720P,,0,0,0,,我才是我  他不是我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I'm me. He's not me.
+Dialogue: 0,1:34:19.00,1:34:22.00,720P,,0,0,0,,你做到了 艾麗絲 艾麗絲\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You did it Alice. Alice.
+Dialogue: 0,1:34:24.00,1:34:25.92,720P,,0,0,0,,你做到了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You did it!
+Dialogue: 0,1:34:29.02,1:34:31.00,720P,,0,0,0,,為什麼我還活著\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why am I still alive?
+Dialogue: 0,1:34:31.28,1:34:32.82,720P,,0,0,0,,我不知道\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I don't know.
+Dialogue: 0,1:34:38.00,1:34:39.64,720P,,0,0,0,,發生了什麼\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What happened?
+Dialogue: 0,1:34:39.70,1:34:45.00,720P,,0,0,0,,艾薩克斯死後 我便可以重新自動上線 阻止對剩下人類安置點的攻擊\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}When Isaacs died, I could bring myself back online and stop the attacks on the remaining human settlements.
+Dialogue: 0,1:34:45.08,1:34:47.00,720P,,0,0,0,,是你拯救了他們\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You saved them.
+Dialogue: 0,1:34:47.05,1:34:48.42,720P,,0,0,0,,為什麼我還活著\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Why am I still alive?
+Dialogue: 0,1:34:48.50,1:34:54.48,720P,,0,0,0,,病毒抗體只摧毀了你體內的T病毒  它並沒有傷害你體內健康的細胞\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The anti virus only destroyed the T-Virus within your body. It didn't harm the healthy cells.
+Dialogue: 0,1:34:54.56,1:34:56.00,720P,,0,0,0,,你現在已經不受病毒感染了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You are now free of infection.
+Dialogue: 0,1:34:56.10,1:35:01.50,720P,,0,0,0,,你說我會死掉 你和艾麗西亞都這樣說 你們騙了我\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You thought I would die, you and Alicia. You lied to me.
+Dialogue: 0,1:35:01.58,1:35:06.40,720P,,0,0,0,,我們得知道你是否願意做出犧牲 捨棄自己的生命去拯救大家\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}We had to know if you are willing to make the sacrifice. To give up your life for others.
+Dialogue: 0,1:35:06.46,1:35:09.00,720P,,0,0,0,,保護傘公司裏沒有第二個人會這樣做了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}This was something no one at Umbrella would have done.
+Dialogue: 0,1:35:09.05,1:35:11.58,720P,,0,0,0,,艾麗西亞·馬庫斯是對的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Alicia Marcus was right about you.
+Dialogue: 0,1:35:11.68,1:35:14.00,720P,,0,0,0,,你是他們中最棒的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}You were better than all of them.
+Dialogue: 0,1:35:14.02,1:35:16.54,720P,,0,0,0,,我也曾是其中一員 我是被保護傘公司創造的\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}I was one of them. I was created by Umbrella.
+Dialogue: 0,1:35:16.62,1:35:18.22,720P,,0,0,0,,我只是他們的一個工具\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Just an instrument for them.
+Dialogue: 0,1:35:18.28,1:35:22.38,720P,,0,0,0,,不 你遠超出了他們的預料\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}No, you became something more than they could ever have anticipated.
+Dialogue: 0,1:35:22.44,1:35:26.00,720P,,0,0,0,,克隆人變得比人類更人類\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The clone became more human than they ever could be.
+Dialogue: 0,1:35:26.56,1:35:29.68,720P,,0,0,0,,你只剩一步未邁出了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}And you have one more step to make.
+Dialogue: 0,1:35:31.00,1:35:33.00,720P,,0,0,0,,你什麼意思\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}What do you mean?
+Dialogue: 0,1:35:38.00,1:35:44.00,720P,,0,0,0,,艾麗西亞死前為你上傳了她的記憶\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Before she died, Alicia uploaded her memories for you.
+Dialogue: 0,1:35:44.05,1:35:46.00,720P,,0,0,0,,記憶裏是你從未有過的童年\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The childhood you never had.
+Dialogue: 0,1:35:50.00,1:35:53.00,720P,,0,0,0,,正好可以和你擁有 而她無法經歷的成年記憶相結合\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Combined with the woman she could never become.
+Dialogue: 0,1:36:26.00,1:36:28.00,720P,,0,0,0,,T病毒在地球上\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}When the T-Virus spread across the earth.
+Dialogue: 0,1:36:28.08,1:36:30.00,720P,,0,0,0,,以噴氣客機為載體\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It did so at the speed of the modern world.
+Dialogue: 0,1:36:30.10,1:36:33.00,720P,,0,0,0,,很快便散播開了\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Carried by jet liners across the globe.
+Dialogue: 0,1:36:33.08,1:36:37.00,720P,,0,0,0,,病毒抗體在空中 隨風傳播\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}The anti virus is airborne, spread by the winds.
+Dialogue: 0,1:36:37.34,1:36:41.06,720P,,0,0,0,,也許要花上幾年它才能散播到地球的每個角落\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}It could take years for it to reach every corner of the earth.
+Dialogue: 0,1:36:42.00,1:36:44.30,720P,,0,0,0,,不到那時 我的工作就不會結束\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}Until then, my work here is not done.
+Dialogue: 0,1:36:51.00,1:36:53.82,720P,,0,0,0,,我的名字叫艾麗絲\N{\fnNyala\fs20\shad0\c&HFFFFFF&\b0}My name is Alice.
+Dialogue: 0,1:36:53.82,1:36:53.82,720P,,0,0,0,,
+Dialogue: 0,0:12:45.38,0:12:48.45,注释-720P,,0,0,0,,{\bord0\shad0\c&H020202&\b1\frz3.004\pos(310,250)}你好 愛麗絲
+Dialogue: 0,0:15:11.78,0:15:14.15,注释-720P,,0,0,0,,{\b1\c&H666E67&\a3\move(584,142,577,160,0,1553)}西\N浣熊市
+Dialogue: 0,0:18:08.05,0:18:09.01,注释-720P,,0,0,0,,{\b1\frz40.17\c&HFFFFFF&\pos(481,188)}使用者未經授權
+Dialogue: 0,0:27:23.31,0:27:25.65,注释-720P,,0,0,0,,{\i0\b1\c&H617C88&\move(194,184,213,357,0,2123)}保護傘之家\N{\b0}歡迎來到浣熊市
+Dialogue: 0,0:34:06.55,0:34:09.35,注释-720P,,0,0,0,,{\c&H050105&\b1\pos(430,162)\frz52.29\t(0,2000,\frz40)}伸冤在我 我必報應
+Dialogue: 0,1:24:22.41,1:24:22.88,注释-720P,,0,0,0,,{\fad(300,0)\pos(393,225)\bord3\blur3\c&HABDEFF&\b1\1a&HFF&\3c&H5164FF&}保護性搏鬥軟體
+Dialogue: 0,1:24:22.41,1:24:22.88,注释-720P,,0,0,0,,{\fad(300,0)\pos(393,225)\c&HABDEFF&\b1}保護性搏鬥軟體
+Dialogue: 0,1:30:44.71,1:30:46.05,注释-720P,,0,0,0,,{\b1\c&H6D7EFF&\fad(0,84)\pos(438,128)\frz0.7631\be2\t(0,356,\be0)}生命維持：危急
+Dialogue: 0,1:32:22.08,1:32:23.05,注释-720P,,0,0,0,,{\b1\c&H6D7EFF&\frz0.7631\pos(519,140)}系統故障
+Dialogue: 0,1:32:23.28,1:32:25.15,注释-720P,,0,0,0,,{\b1\c&H6D7EFF&\frz0.7631\pos(519,140)}生命維持：0%
+Dialogue: 0,0:04:21.26,0:04:23.26,水印,,0,0,0,,
+Dialogue: 0,0:00:38.81,0:00:39.97,水印,,0,0,0,,{\bord0\shad0\fscx0\fsp2\t(22,300,1,\fscx90)\t(1000,1100,1,\fry90)\c&H7F7A6D&\pos(649,46)}生化危機6
+Dialogue: 0,0:00:39.97,0:00:41.10,水印,,0,0,0,,{\bord0\shad0\fscx0\fsp2\t(22,300,1,\fscx90)\t(1000)\c&H7F7A6D&\pos(649,46)}EF字幕組
+Dialogue: 0,0:00:55.20,0:00:57.20,水印,,0,0,0,,
+Dialogue: 0,0:45:44.98,0:45:46.14,水印,,0,0,0,,{\bord0\shad0\fscx0\fsp2\t(22,300,1,\fscx90)\t(1000,1100,1,\fry90)\c&H7F7A6D&\pos(649,46)}生化危機6
+Dialogue: 0,0:45:46.14,0:45:47.27,水印,,0,0,0,,{\bord0\shad0\fscx0\fsp2\t(22,300,1,\fscx90)\t(1000)\c&H7F7A6D&\pos(649,46)}EF字幕組
+Dialogue: 0,0:10:47.42,0:10:49.42,水印,,0,0,0,,
+Dialogue: 0,1:31:53.78,1:31:54.94,水印,,0,0,0,,{\bord0\shad0\fscx0\fsp2\t(22,300,1,\fscx90)\t(1000,1100,1,\fry90)\c&H7F7A6D&\pos(649,46)}生化危機6
+Dialogue: 0,1:31:54.94,1:31:56.07,水印,,0,0,0,,{\bord0\shad0\fscx0\fsp2\t(22,300,1,\fscx90)\t(1000)\c&H7F7A6D&\pos(649,46)}EF字幕組
+Dialogue: 0,0:10:49.42,0:10:51.42,水印,,0,0,0,,
+Dialogue: 0,0:00:44.01,0:00:48.48,卡司,,0,0,0,,{\fad(300,300)\pos(370,279)\bord1\blur10\c&HFFFFFF&\1a&HFF&\3c&HFFFFFF&\3a&H96&}翻譯 傳承者 橙子 伊塔 Riki 珍珠草
+Dialogue: 0,0:00:44.01,0:00:48.48,卡司,,0,0,0,,{\fad(300,300)\pos(370,279)}翻譯 傳承者 橙子 伊塔 Riki 珍珠草
+Dialogue: 0,0:00:49.68,0:00:54.08,卡司,,0,0,0,,{\fad(300,300)\bord1\blur10\c&HFFFFFF&\1a&HFF&\3c&HFFFFFF&\3a&H96&\pos(308,176)}校對 鼠大
+Dialogue: 0,0:00:49.68,0:00:54.08,卡司,,0,0,0,,{\fad(300,300)\pos(308,176)}校對 鼠大
+Dialogue: 0,0:00:49.68,0:00:54.08,卡司,,0,0,0,,{\fad(300,300)\bord1\blur10\c&HFFFFFF&\1a&HFF&\3c&HFFFFFF&\3a&H96&\pos(492,178)}監製 衛溪
+Dialogue: 0,0:00:49.68,0:00:54.08,卡司,,0,0,0,,{\fad(300,300)\pos(492,177)}監製 衛溪
+Dialogue: 0,0:00:49.68,0:00:54.08,卡司,,0,0,0,,{\fad(300,300)\bord1\blur10\c&HFFFFFF&\1a&HFF&\3c&HFFFFFF&\3a&H96&\pos(382,306)}特效 豆包
+Dialogue: 0,0:00:49.68,0:00:54.08,卡司,,0,0,0,,{\fad(300,300)\pos(382,306)}特效 豆包
+Dialogue: 0,0:10:59.42,0:11:01.42,卡司,,0,0,0,,
+
