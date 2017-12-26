@@ -1,5 +1,5 @@
 html {
-  font-family: sans-serif;
+  font-family: Consolas;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -351,7 +351,8 @@ pre {
 
 .markdown-body {
   overflow: hidden;
-  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  /* font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif; */
+  font-family: 方正魏碑简体;
   font-size: 15px;
   line-height: 1.6;
   word-wrap: break-word;
@@ -418,7 +419,8 @@ pre {
   border-bottom: 4px solid #AD3E77;
   text-align: center;
   color: #AD8A7F;
-  font-family: 方正细黑一简体;
+  font-family: 方正铁筋隶书简体, 方正魏碑简体, Consolas;
+  font-weight: 900; 
 }
 
 .markdown-body h1 .anchor {
@@ -432,7 +434,8 @@ pre {
   padding-left: 0.2em;
   border-bottom: 2px dashed #AD3E77;
   color: #AD8A7F;
-  font-family: 方正细黑一简体;
+  font-family: 方正大黑简体;
+  font-weight: 400; 
 }
 
 .markdown-body h2 .anchor {
@@ -444,9 +447,10 @@ pre {
   padding-left: 0.2em;
   border-left: 10px solid #AD3E77;
   border-bottom: 2px solid #AD3E77;
-  margin-left: 4px;
+  margin-left: 12px;
   color: #AD8A7F;
-  font-family: 方正细黑一简体;
+  font-family: 方正大黑简体;
+  font-weight: 400; 
 }
 
 .markdown-body h3 .anchor {
@@ -457,9 +461,10 @@ pre {
   font-size: 2.4em;
   padding-left: 0.2em;
   border-left: 10px solid #AD3E77;
-  margin-left: 4px;
+  margin-left: 24px;
   color: #AD8A7F;
-  font-family: 方正细黑一简体;
+  font-family: 方正大黑简体;
+  font-weight: 400; 
 }
 
 .markdown-body h4 .anchor {
@@ -469,22 +474,25 @@ pre {
 .markdown-body h5 {
   font-size: 2.2em;
   padding-left: 0.2em;
-  margin-left: 4px;
+  border-left: 7px solid #6CADEB;
+  margin-left: 36px;
   color: #AD8A7F;
-  font-family: 方正细黑一简体;
+  font-family: 方正大黑简体;
+  font-weight: 400; 
 }
 
 .markdown-body h5 .anchor {
   line-height: 1.2;
-
 }
 
 .markdown-body h6 {
-  font-size: 2em;
+  font-size: 1.8em;
   padding-left: 0.2em;
-  margin-left: 4px;
+  border-left: 4px solid #9AD8EB;
+  margin-left: 48px;
   color: #AD8A7F;
-  font-family: 方正细黑一简体;
+  font-family: 方正大黑简体;
+  font-weight: 400; 
 }
 
 .markdown-body h6 .anchor {
@@ -496,7 +504,7 @@ pre {
   margin-top: 0;
   margin-bottom: 16px;
   font-size: 1.8em;
-  font-family: 方正细黑一简体;
+  font-family: 方正魏碑简体;
   color: #AD8A7F;
 }
 
@@ -518,6 +526,7 @@ pre {
 .markdown-body li {
   font-size: 22px;
   color: #AD8F69;
+  font-family: 方正细圆简体;
 }
 
 .markdown-body ul.no-list,.markdown-body ol.no-list {
@@ -872,13 +881,31 @@ pre {
   text-align: left;
   padding: 50px,50px;
   font-size: 27px;
-  background-color: #572E48;
-  color: #FA9DDA;
+  background-color: #8A450D;
+  color: #E2C35D;
   margin-left: 10px;
   margin-right: 10px;
   padding: 20px 5px 20px 5px;
   border: 2px solid #777;
   border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.error
+{
+  text-align: left;
+  padding: 50px,50px;
+  font-size: 27px;
+  background-color: #4E103F;
+  color: #EB87DA;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 20px 5px 20px 5px;
+  border: 2px solid #777;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .info
@@ -886,13 +913,16 @@ pre {
   text-align: left;
   padding: 50px,50px;
   font-size: 27px;
-  background-color: #57421F;
-  color: #FFC35C;
+  background-color: #043B79;
+  color: #7EBEF3;
   margin-left: 10px;
   margin-right: 10px;
   padding: 20px 5px 20px 5px;
   border: 2px solid #777;
   border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 方正苏新诗柳楷简体;
 }
 
 .note
@@ -900,13 +930,16 @@ pre {
   text-align: left;
   padding: 50px,50px;
   font-size: 27px;
-  background-color: #0B2642;
-  color: #66b3ff;
+  background-color: #0F4D2B;
+  color: #82E687;
   margin-left: 10px;
   margin-right: 10px;
   padding: 20px 5px 20px 5px;
-  border: 2px solid #777;
+  border: 2px solid #aaa;
   border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 方正苏新诗柳楷简体;
 }
 
 .footnote-ref
